@@ -95,8 +95,8 @@ def role_done(company_slug, role):
     return os.path.exists(os.path.join(RES, role, company_slug + ".json"))
 
 
-def save(role, company_slug, payload):
-    d = os.path.join(RES, role)
+def save(role, company_slug, payload, failed=False):
+    d = os.path.join(RES, "_failed", role) if failed else os.path.join(RES, role)
     os.makedirs(d, exist_ok=True)
     tmp = os.path.join(d, company_slug + ".json.tmp")
     with open(tmp, "w", encoding="utf-8") as fh:
@@ -104,7 +104,7 @@ def save(role, company_slug, payload):
     os.replace(tmp, os.path.join(d, company_slug + ".json"))
 
 
-def company_prompt(company):
+def company_prompt(company, role):
     hs = company.get("hs") or []
     if isinstance(hs, list):
         hs = ";".join(hs)
@@ -119,7 +119,7 @@ def company_prompt(company):
             "state_claimed": company.get("state"),
         }], ensure_ascii=False, indent=1)
         + "\n\nWhen finished, call the finish tool with json_payload = a JSON array, one object per company, "
-          "with exactly these keys: " + ", ".join(SCHEMA[current_role[0]]) + "."
+          "with exactly these keys: " + ", ".join(SCHEMA[role]) + "."
     )
 
 
@@ -137,30 +137,31 @@ def parse_payload(text):
         return []
 
 
-current_role = [None]
-
-
 def work(company, role, rules):
     slug_c = slug(company.get("name"))
-    current_role[0] = role
     system = (
         "You are a meticulous supplier-verification researcher working on Indian companies.\n"
         "Rules of the project:\n" + rules + "\n\n" + ROLE_TASKS[role] +
         "\n\nEvery claim needs a source. Never invent numbers, CINs, PANs or shipment records. "
         "If something is not public, use null and say so in the note. "
-        "Use the tools: web_search to find pages, http_get to read them. Keep to at most 20 tool calls."
+        "Use the tools: web_search to find pages, http_get to read them. Keep to at most 10 tool calls and call finish early."
     )
-    raw = run_agent(system, company_prompt(company))
+    raw = run_agent(system, company_prompt(company, role), schema_hint=", ".join(SCHEMA[role]))
     rows = parse_payload(raw)
     row = rows[0] if rows else {}
     if not row:
         row = {"name_input": company.get("name"), "note": "agent returned no parsable JSON", "_failed": True}
+        save(role, slug_c, row, failed=True)
+        return slug_c, role, True
     row.setdefault("name_input", company.get("name"))
     save(role, slug_c, row)
-    return slug_c, role, bool(row.get("_failed"))
+    return slug_c, role, False
 
 
 def main():
+    if not os.environ.get("DEEPSEEK_API_KEY"):
+        print("DEEPSEEK_API_KEY is not set — refusing to run", file=sys.stderr)
+        return 2
     shard = int(os.environ.get("SHARD", "0"))
     shards = max(1, int(os.environ.get("SHARDS", "1")))
     batch = int(os.environ.get("BATCH", "8"))
