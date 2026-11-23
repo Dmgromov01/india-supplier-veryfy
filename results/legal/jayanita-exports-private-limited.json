@@ -1,0 +1,18 @@
+{
+ "name_input": "JAYANITA EXPORTS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо таймаут, Bing/Google отдавали нерелевантную выдачу или заглушку, а публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) ответили HTTP 403/404 и не отдают карточку компании. Ни одна реестровая запись (CIN, PAN, GSTIN, дата регистрации, MCA-статус, выручка) не подтверждена источником, поэтому все поля оставлены null — цифры и идентификаторы не выдумывались. Заявленный PAN AAACJ0701E не проверен: 4-й символ 'C' соответствует типу держателя 'company' (юридическое лицо), что формально согласуется с формой 'Private Limited', но это лишь проверка формата, а не подтверждение принадлежности данной компании. Заявленный штат Delhi не сверен с адресом регистрации. Роль (manufacturer/trader) не определена. Оснований для отклонения (rejected) нет: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию/ликвидации/банкротству — статус следует считать 'не проверено', требуется повторный прогон при доступных реестрах (MCA master data, GST-портал)."
+}

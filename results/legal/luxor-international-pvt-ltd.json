@@ -1,0 +1,18 @@
+{
+ "name_input": "LUXOR INTERNATIONAL PVT LTD",
+ "legal_name": "LUXOR INTERNATIONAL PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACL0282E",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'L' = surname initial of the entity name 'Luxor'). Format is structurally valid, but the PAN could NOT be verified against any public registry record in this session — treat as unconfirmed.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "None",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data could not be retrieved. Tooling failures: the web_search backend returned 'Connection refused' on both queries; Google/Bing/DuckDuckGo HTML endpoints returned either a redirect stub, a timeout, or completely irrelevant results (Las Vegas Luxor hotel, Luxor Egypt, Luxor Technology bitcoin mining) with no Indian company records; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and tofler.in returned HTTP 404 for the guessed URL slugs. No CIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced, so all such fields are null rather than guessed. The PAN AAACL0282E is only format-checked (holder type = company), not confirmed as belonging to this entity. Per project rules, rejection is NOT applied: absence of retrievable records is not evidence that the entity does not exist, is struck off, liquidated or bankrupt — no such finding was made. Role left as 'unknown' (no evidence of manufacturing plant or trading activity was reviewed; product catalogues and customs data were out of scope for this role). Revenue FY25/FY26 null — no audited accounts or MCA filings were accessible. Recommended next step: re-run against MCA21 master data / a paid registry API (InstaFinancials, Tofler, Probe42) using the PAN as the lookup key, and confirm GSTIN via the GST portal search by PAN."
+}
