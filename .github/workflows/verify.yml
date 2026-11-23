@@ -6,14 +6,13 @@ on:
   push:
     branches: [main]
 
-concurrency:
-  group: verify-${{ matrix.shard }}
-  cancel-in-progress: false
-
 jobs:
   verify:
     runs-on: ubuntu-latest
     timeout-minutes: 350
+    concurrency:
+      group: verify-${{ matrix.shard }}
+      cancel-in-progress: false
     strategy:
       fail-fast: false
       max-parallel: 20
