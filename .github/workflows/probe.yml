@@ -1,0 +1,40 @@
+name: probe
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/probe.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run one company
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SHARD: 0
+          SHARDS: 20
+          BATCH: 1
+          WORKERS: 4
+          MAX_SECONDS: 900
+        run: python run.py
+      - name: Commit probe
+        if: always()
+        run: |
+          git config user.name "verify-bot"
+          git config user.email "verify-bot@users.noreply.github.com"
+          git add -A results || true
+          git diff --cached --quiet || git commit -m "probe: one company"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && break || sleep 5
+          done
