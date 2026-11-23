@@ -1,0 +1,18 @@
+{
+ "name_input": "SPRINT EXPORTS PVT LTD; SPRINT EXPORTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "High Court of Andhra Pradesh (Amravati bench)",
+   "case": "Sprint Exports Pvt Ltd vs The State Of Ap",
+   "date": "2024-05-09",
+   "party_role": "petitioner (plaintiff/applicant)",
+   "status": "listed/decided per Indian Kanoon index; full text not retrieved",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sprint+Exports%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Verification was severely limited: the DuckDuckGo search API returned connection errors for all queries, Bing returned only irrelevant 'Sprint' (US telecom) results, and company-registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its search is a JS form that could not be queried via plain HTTP GET, so no name-level screening result was obtained — sanctions_hit is null, NOT a clean bill of health. UN/EU/UK consolidated lists and the BIS Entity List were not checked. Indian court check via Indian Kanoon found exactly one matching record: 'Sprint Exports Pvt Ltd vs The State Of Ap', High Court of Andhra Pradesh (Amravati), 9 May 2024, company as petitioner; the full judgment text was not retrieved, so the subject matter is unknown (a writ against the State is typically a licensing/regulatory or tax matter, but this is unconfirmed). No other litigation, regulator action, credit rating or negative news could be located or ruled out. No evidence of supplies to Russia or the CIS was found — and equally, no evidence was found either way, so rf_supply is null rather than negative. Per project rules, none of the above is a rejection ground; the company is retained. Recommend re-running sanctions screening (OFAC/EU/UK/BIS) and a paid registry/credit-bureau pull (CRISIL/ICRA/CARE/ACUITE or Tofler/Probe) before any commercial commitment, and confirming whether the Andhra Pradesh writ concerns the Kerala-registered entity or a same-named firm."
+}

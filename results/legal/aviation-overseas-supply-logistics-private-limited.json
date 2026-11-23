@@ -1,0 +1,18 @@
+{
+ "name_input": "AVIATION OVERSEAS SUPPLY LOGISTICS PRIVATE LIMITED",
+ "legal_name": "AVIATION OVERSEAS SUPPLY LOGISTICS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAPCA1149J",
+ "pan_holder_type": "PAN 4th character 'C' = company (non-individual) holder; format valid (5 letters + 4 digits + 1 letter). Taken from input only — not independently verified against a public registry record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record retrieved. Tooling failures: web_search backend refused connections (searx 'Connection refused') on both queries; zaubacorp.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; duckduckgo/lite timed out or 403; Google returned a redirect/consent interstitial; Bing returned only generic 'aviation' dictionary/regulator results with no company-specific hit for the exact name, so no CIN, GSTIN, incorporation date, registered-office state or MCA status could be sourced. PAN AAPCA1149J is carried over from the input as unverified; the 'C' in position 4 is consistent with a company-type holder, which matches the 'PRIVATE LIMITED' suffix, but this is a format inference, not a registry confirmation. Revenue FY25/FY26: null — no audited accounts or MCA filings accessible, so no figures are asserted. Role: unknown — the name suggests a logistics/supply entity rather than a manufacturer, but no MCA business-activity code or GST HSN filing was retrievable to classify it as manufacturer/trader/service_provider. Declared HS 321490 (non-refractory surfacing preparations/plasters) is not assessed here per role scope; note only that a logistics-named entity with a construction-chemicals HS code is a mismatch worth flagging for the HS reviewer, and per project rules an HS mismatch is not a rejection ground. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found — the entity simply could not be verified with the available tools. Recommended next step: re-run against MCA master data / GST portal once search access is restored, or obtain the CIN or GSTIN directly from the supplier."
+}

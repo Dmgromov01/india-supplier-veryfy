@@ -1,0 +1,14 @@
+{
+ "name_input": "SPRINT EXPORTS PVT LTD; SPRINT EXPORTS PRIVATE LIMITED",
+ "declared_hs": "030617",
+ "actual_hs_list": [
+  "030617",
+  "030635",
+  "030636",
+  "2516 (granite, HS-4 only — no HS-6 established)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Company website (sprintexports.com, home page) states: exporter of frozen seafood — Vannamei shrimp, Black Tiger shrimp and sea-caught shrimps, in raw forms: PD tail-on/tail-off, easy peel, head-on, headless, in block and IQF packs. Brands: SPRINT GOLD, SPRINT PREMIUM, SPRINT GOLD PREMIUM, CAPE CLASSIC. Stated markets: USA, EU, Canada, South Africa, Middle East, China, Vietnam, Japan. Site also has a separate 'Granite' section (product line not covered by the declared HS). Processing facility stated at Visakhapatnam (AP), earlier leased facility at Bhimavaram (AP).",
+ "role_hint": "manufacturer_trader",
+ "comment": "Declared 030617 (frozen shrimps and prawns) is corroborated by the site's own product description — frozen Vannamei/Black Tiger/sea-caught shrimp in IQF and block packs — so the core code is correct (partial match overall, not wrong). Two gaps: (1) the site also lists a 'Granite' product line, which is a completely different chapter (HS 25) and is missing from the declaration — needs a separate code if that line is actually traded; (2) the site mentions 'sea caught shrimps' generally, which could include non-penaeid species falling under 030635/030636 rather than 030617 — cannot be resolved from the site alone. Industry label 'Продукты питания и FMCG' is a rough fit: the real profile is frozen seafood processing/export (a marine-products manufacturer-exporter), not general FMCG. Role: site describes its own processing facility (Visakhapatnam, since 2011), i.e. manufacturer, but the 'Exports' name and multi-origin sourcing (Bhimavaram/Visakhapatnam) leave a trader component possible — hence manufacturer_trader. IMPORTANT: all of the above is website self-declaration only; no customs line, B/L or shipping record was checked in this task, so product scope and the granite line are 'заявлено, не подтверждено'. State claimed as Kerala conflicts with the site's stated Andhra Pradesh (Visakhapatnam/Bhimavaram) operations — flag for the registry team, not an HS issue. No rejection on HS grounds per Rule 3."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "BICON LIMITED",
+ "legal_name": "BIOCON LIMITED",
+ "cin_llpin": "L24234KA1978PLC003417",
+ "pan": "INE376G01013 (ISIN only; PAN not published on accessible public sources — null)",
+ "pan_holder_type": "null — PAN not public; note: 4th-character holder-type test cannot be applied. Entity is a public limited company (Company limited by shares, Indian Non-Government, Public Listed), so a company PAN (4th char 'C') would be expected, but this is not verified from a source",
+ "gstin": null,
+ "gst_status": "not verified — GSTIN not retrievable from any accessible public profile (zaubacorp/thecompanycheck/moneycontrol returned 403; gstsearch.in 404)",
+ "incorporation_date": "1978-11-29",
+ "state_registered": "Karnataka (ROC Bangalore; registered office 20th KM, Hosur Road, Electronic City, Bengaluru, Karnataka 560100)",
+ "state_claimed": "Delhi",
+ "mca_status": "Active (status 'Active', 'ACTIVE compliant'; last balance sheet filed 31-03-2026; last AGM 06-08-2026; authorised capital ₹900.00 Cr, paid-up ₹814.85 Cr; NIC 24234 – manufacture of chemicals and chemical products)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 16470,
+ "revenue_fy26_cr": null,
+ "revenue_source": "FY25: ₹16,470 crore consolidated revenue for FY ended 31-03-2025, per Biocon Q4 & Full Year FY25 Earnings Presentation / audited results for FY25 (as cited in Wikipedia infobox, refs: biocon.com/docs/Q4&Full-Year-FY25-Earnings-Presentation.pdf and OutcomeofBM08052025.pdf). FY26: audited FY26 results not retrievable (biocon.com blocked by SSL certificate error; BSE/NSE pages returned no data), so null",
+ "note": "Legal entity exists and is active — no rejection ground. Name in input 'BICON LIMITED' is a misspelling; exact MCA name is BIOCON LIMITED, CIN L24234KA1978PLC003417, ROC Bangalore, incorporated 29-11-1978 (source: instafinancials.com company master page, last updated 15-10-2026). STATE MISMATCH: input claims Delhi, but registered office is in Karnataka (Bengaluru) — state should be corrected to Karnataka. PAN and GSTIN could not be confirmed from any public source within the tool budget (registry aggregators returned 403/404; company site failed SSL verification), so both are null rather than guessed. Role: manufacturer — MCA main line of business is 'Manufacture Of Chemicals And Chemical Products' (NIC 24234) and the company is a listed biopharmaceutical manufacturer (Wikipedia/Biocon). Declared HS codes 291639/292219/293319/293339 (organic chemicals, heterocyclic compounds) are broadly consistent with an API manufacturer; per project rules HS mismatch is not a rejection ground in any case. Revenue FY25 ₹16,470 Cr is consolidated group revenue from the company's audited FY25 results; standalone figure not separately verified. FY26 null — not public in accessible sources."
+}
