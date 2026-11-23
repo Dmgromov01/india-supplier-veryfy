@@ -1,0 +1,18 @@
+{
+ "name_input": "Boltblitz Eng",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "CGOPJ2140L",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character of the claimed PAN is 'P', which denotes an individual person, not a company (companies carry 'C' at position 4, firms 'F', HUF 'H'). This is consistent with the claimed legal name being a personal name (SUJAL SUNIL JAIN), i.e. a proprietorship, not a registered company.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no source could be retrieved. Verification was blocked by tooling failure, not by evidence of non-existence. (1) web_search returned 'Connection refused' on both queries. (2) Fallback engines were unusable: Google returned only a redirect stub; DuckDuckGo returned HTTP 403; Bing returned completely unrelated results (Amazon/YouTube/US Wikipedia pages) for the exact-phrase queries \"Boltblitz\" and \"CGOPJ2140L\", i.e. the query terms were ignored — no usable hits. (3) Registry aggregators blocked or non-functional: zaubacorp.com returned HTTP 403; knowyourgst.com PAN/name search endpoint returned HTTP 404 and its GST-number page is a form-only page with no data. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed. Nothing is asserted as fact and no numbers are invented. IMPORTANT STRUCTURAL OBSERVATION (from the input data itself, not a lookup): the claimed PAN CGOPJ2140L has 'P' at the 4th character, which by PAN format rules indicates an INDIVIDUAL / sole proprietorship, not a company. So 'Boltblitz Eng' is most likely a trade name of a proprietorship of Sujal Sunil Jain rather than a company with a CIN — meaning there is likely no MCA record to find, and the entity would need to be verified via GSTIN (state code 27 for Maharashtra) and Udyam/proprietorship records instead. Per project rules this is NOT grounds for rejection: the entity is not shown to be non-existent, struck off, liquidated or bankrupt — it is simply unverified. Verdict: needs re-check when search/registry access is restored; do not treat as accepted or rejected. Also note the declared HS 731816 (steel nuts) is a product code and, per rules, is not a rejection criterion regardless of outcome."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Elcon Drugs & Formulations Limited",
+ "legal_name": "ELCON DRUGS AND FORMULATIONS LTD (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAACE7948Q (as claimed by input; NOT verified against any public source)",
+ "pan_holder_type": "C — company (per 4th character 'C' of the claimed PAN; holder type inferred from format only, PAN itself unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results' due to connection error); zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404; mca.gov.in returned HTTP 403; Google returned only a redirect stub; Bing returned only generic 'Elcon' US/electrical results (Elcon Inc., Elcon Precision, TE Connectivity ELCON connectors) with zero hits for the Indian entity. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — NOT because they are absent, but because they were not publicly retrievable with the available tools. No rejection is applied: there is no evidence the entity does not exist, and per project rules non-existence/strike-off/liquidation/bankruptcy is the only rejection ground; absence of retrievable data is not such evidence. IMPORTANT DISCREPANCIES for follow-up: (1) The claimed PAN AAACE7948Q could not be matched to any public record; it must be validated on the income-tax/MCA portal before use. (2) The company name is a pharmaceutical/drugs entity, yet the declared HS codes (271012, 271019 — petroleum oils; 280120 — iodine; 280610 — hydrogen chloride) are petrochemical/inorganic-chemical codes with no pharmaceutical codes (HS 30) at all; per rule 3 this is NOT a rejection ground, but the HS set should be corrected to the actual traded goods and the verdict recorded as accepted_hs_corrected once the entity is confirmed. (3) Industry claimed as 'Нефтегаз и химия' is inconsistent with a drugs/formulations name — role is left 'unknown' pending registry confirmation of actual business activity. Recommended next step: manual lookup of the exact legal name on MCA V3 / Zauba / Tofler from an unblocked network, plus GSTIN search on the GST portal, before any commercial decision."
+}

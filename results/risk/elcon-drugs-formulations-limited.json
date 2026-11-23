@@ -1,0 +1,9 @@
+{
+ "name_input": "Elcon Drugs & Formulations Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / timeout на всех запросах; Bing отдавал только нерелевантную общую выдачу по бренду 'ELCON' (Elcon Inc., Elcon Precision, TE Connectivity ELCON, Elocon) и игнорировал уточняющие операторы, поэтому ни одного релевантного источника по компании 'Elcon Drugs & Formulations Limited' (Rajasthan) получить не удалось. OFAC Sanctions List Search — JS-форма, прямой GET-запрос к ней результатов не возвращает, поэтому скрининг по SDN/Non-SDN фактически не выполнен (sanctions_hit=null означает 'не проверено', а НЕ 'чисто'). Судебные дела (eCourts/NCLT/High Court Rajasthan), действия регуляторов (CDSCO, State FDA Rajasthan, GST/EPFO), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверены — данных нет, ничего не выдумываю. Дополнительно: заявленные коды ТН ВЭД (271012, 271019, 280120, 280610 — нефтепродукты, йод, соляная кислота) не соответствуют названию 'Drugs & Formulations' — это вопрос к профильной проверке HS/юрлица, вне моей роли. Рекомендация: повторить риск-скрининг при восстановлении доступа к поиску и к санкционным реестрам (OFAC SDN, EU, UK OFSI, BIS Entity List, UN) — до этого статус считать непроверенным, а не нулевым риском."
+}
