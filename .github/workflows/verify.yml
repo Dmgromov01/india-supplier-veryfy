@@ -33,9 +33,9 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           SHARD: ${{ matrix.shard }}
           SHARDS: 20
-          BATCH: 8
-          WORKERS: 4
-          MAX_SECONDS: 19800
+          BATCH: 420
+          WORKERS: 10
+          MAX_SECONDS: 21000
         run: python run.py
       - name: Commit results
         run: |
