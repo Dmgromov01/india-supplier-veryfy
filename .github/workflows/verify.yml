@@ -34,8 +34,8 @@ jobs:
           SHARD: ${{ matrix.shard }}
           SHARDS: 20
           BATCH: 420
-          WORKERS: 10
-          MAX_SECONDS: 21000
+          WORKERS: 16
+          MAX_SECONDS: 19500
         run: python run.py
       - name: Commit results
         run: |

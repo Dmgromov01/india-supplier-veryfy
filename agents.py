@@ -8,6 +8,8 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -125,14 +127,27 @@ def web_search(query):
     return "no results" + (" (%s)" % "; ".join(errors[:1]) if errors else "")
 
 
-def _post(body, key, timeout=300):
-    req = urllib.request.Request(
-        API,
-        data=json.dumps(body).encode(),
-        headers={"Content-Type": "application/json", "Authorization": "Bearer " + key},
-    )
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return json.loads(r.read())
+def _post(body, key, timeout=300, retries=3):
+    last = None
+    for attempt in range(retries):
+        req = urllib.request.Request(
+            API,
+            data=json.dumps(body).encode(),
+            headers={"Content-Type": "application/json", "Authorization": "Bearer " + key},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            last = e
+            if e.code in (429, 500, 502, 503, 504):
+                time.sleep(5 * (attempt + 1) + 2)
+                continue
+            raise
+        except Exception as e:
+            last = e
+            time.sleep(3 * (attempt + 1))
+    raise last
 
 
 def run_agent(system_prompt, user_prompt, max_steps=10, temperature=0.2, schema_hint=""):
