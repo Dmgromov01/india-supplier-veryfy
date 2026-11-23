@@ -1,0 +1,18 @@
+{
+ "name_input": "AQUATREAT SYSTEMS & ENGINEERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. All search backends failed during this run: DuckDuckGo/searx returned connection refused, lite.duckduckgo.com and mirror timed out, Google returned a redirect/consent page, Bing returned only irrelevant results for both the company name and the claimed PAN 'AAHFA5559K', and ZaubaCorp returned HTTP 403. Therefore no exact legal entity name, CIN/LLPIN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source. IMPORTANT DISCREPANCY: the input is internally inconsistent - name field is 'AQUATREAT SYSTEMS & ENGINEERS' while legal_claimed is 'V TORK CONTROLS'; these appear to be two different entities and it is unclear which one is the actual supplier. The claimed PAN 'AAHFA5559K' has the 4th character 'F', which in PAN format denotes a PARTNERSHIP FIRM, not a company (a company would carry 'C' at position 4) - so if the PAN is genuine, the entity is likely a partnership/proprietorship-style firm with no CIN, which would explain the absence of MCA records; this is an inference from PAN format only, not a verified fact. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy could NOT be established either way, and per project rules rejection requires positive evidence of such status. Verdict: unverified, needs re-check when search infrastructure is restored - specifically confirm which of the two names is the contracting entity, obtain GSTIN from a public GST profile, and confirm PAN holder name against the Income Tax / GST portal."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "CGK DECOR PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public risk data could be retrieved for this entity. Search backend (DuckDuckGo/searx) was down (connection refused) for the whole session; fallback engines (Bing, Google) returned zero relevant hits for the exact strings \"CGK Decor Private Limited\", \"CGK Decor\" + India/director, and the claimed PAN AAHCC5878N — results were dominated by unrelated 'CGK' (Jakarta airport) and generic Microsoft pages. Zaubacorp returned HTTP 403, so MCA/registry-derived data (directors, charges, status) was not readable. Therefore: sanctions_hit = null (NOT verified against OFAC SDN/UN/EU/UK/BIS lists — absence of a hit is not confirmed, it is simply unchecked); court_cases = null (no eCourts/NCLT/High Court records located; party role and status unknown); rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found, no date available); news_risk = null (no regulator action or negative media found, but coverage may simply be absent for a small private company); rf_supply = null (no evidence of supplies to Russia or CIS found, and none of the contrary either). Per project rules, none of these nulls is a rejection ground and no adverse inference should be drawn — the company is retained in the database. IMPORTANT CAVEAT: the complete absence of any indexed footprint for the name and PAN is itself a data-quality flag worth a manual MCA master-data check (existence, status, directors) before relying on this record; that check is outside my assigned scope (legal identity) and was not performed. Recommend re-running this risk pass once search connectivity is restored."
+}
