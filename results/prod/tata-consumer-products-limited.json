@@ -1,0 +1,31 @@
+{
+ "name_input": "TATA CONSUMER PRODUCTS LIMITED",
+ "declared_hs": "090111;090121;090220;090230",
+ "actual_hs_list": [
+  "0902 30 (black tea, fermented, in packings <=3kg — Tata Tea, Tetley, 1868 by Tata Tea, Teapigs, Good Earth, Vitax, Joekels, Organic India teas)",
+  "0902 40 (black tea, other packings — bulk tea, out-of-home/solubles supply)",
+  "0902 10 (green tea, unfermented <=3kg — Tetley/Good Earth/Organic India green & herbal infusions)",
+  "0902 20 (green tea, other packings)",
+  "0901 11 (coffee, not roasted, not decaffeinated — green coffee bean sourcing/trading)",
+  "0901 21 (coffee, roasted, not decaffeinated — Eight O'Clock, Tata Coffee Grand, Sonnets, Tata Coffee Gold)",
+  "2101 11 / 2101 12 (coffee extracts, essences, concentrates — Tata Coffee Quick Filter, Cold Coffee, instant coffee)",
+  "2101 30 (roasted chicory & other roasted coffee substitutes)",
+  "2501 00 (salt incl. iodised/table salt — Tata Salt)",
+  "0910 91 / 0910 99 (spices, incl. Himalayan Saffron — Tata Sampann spices)",
+  "0713 31 / 0713 39 (dried leguminous vegetables, shelled — Tata Sampann dals/pulses)",
+  "1106 10 (flour/meal of dried leguminous vegetables — besan)",
+  "1104 29 (worked grains — poha, ragi atta, millet-based products)",
+  "2106 90 (food preparations NEC — Tata Sampann Yumside, Tata Soulfull, Tata Nutrikorner, GoFit)",
+  "2005 99 / 2008 99 (prepared/preserved vegetables & nuts — Ching's Secret, Smith & Jones, Capital Foods)",
+  "2201 10 (mineral/natural water — Himalayan Natural Mineral Water)",
+  "2202 10 / 2202 99 (waters with added sugar/sweetener, other non-alcoholic beverages — Tata Gluco+, Tata Copper+, Tata Fruski, ZipZap)",
+  "0409 00 (natural honey — Himalayan Honey)",
+  "1515 90 / 1512 19 (cold-pressed edible oils — Simply Better Cold Pressed Oils)",
+  "1211 90 / 1302 19 (herbal supplements/plant extracts — Organic India Herbal Supplements)",
+  "2101 30 / 0902 30 (tea/coffee solubles for vending — Tata Consumer Specialist Solutions, Tata MyBistro)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт tataconsumer.com (раздел Our offerings) подтверждает 4 бизнес-направления: Tea (Tata Tea, 1868 by Tata Tea, Tetley, Teapigs, Good Earth, Vitax, Joekels, Organic India Teas & Infusions), Coffee (Eight O'Clock, Tata Coffee Grand, Sonnets by Tata Coffee, Tata Coffee Gold, Tata Coffee Quick Filter, Tata Coffee Cold Coffee), Foods (Tata Salt, Tata Sampann, Tata Soulfull, Simply Better Cold Pressed Oils, Tata GoFit, Himalayan Honey & Preserves, Himalayan Saffron, Tata Sampann Yumside, Ching's Secret, Smith & Jones, Organic India Packaged Foods), Liquid Beverages (Himalayan Natural Mineral Water, Tata Copper+, Tata Gluco+, Tata Fruski, ZipZap), Herbal Supplements (Organic India), Out-of-Home (Tata Starbucks, Tata Consumer Specialist Solutions, Tata MyBistro, Vending, Solubles). Заявленные 4 кода покрывают только чай (0902) и кофе (0901) — это ядро портфеля, но не весь ассортимент.",
+ "role_hint": "manufacturer_trader",
+ "comment": "СООТВЕТСТВИЕ ЧАСТИЧНОЕ (partial). Заявленные коды: 090111 (кофе нежареный, недекаф.), 090121 (кофе жареный, недекаф.), 090220 (зелёный чай, прочие упаковки), 090230 (чёрный чай, упаковки <=3 кг). Все четыре — корректные HS-6 и подтверждаются сайтом: чайные бренды (Tata Tea, Tetley, Teapigs, Good Earth, 1868, Vitax, Joekels) и кофейные (Eight O'Clock, Tata Coffee Grand, Sonnets, Tata Coffee Gold) — источник: https://www.tataconsumer.com/our-offerings. НО декларация неполная: 090111/090121 не покрывают растворимый кофе и кофейные экстракты (2101 11/2101 12), которые компания реально продаёт (Tata Coffee Quick Filter, Cold Coffee, направление Solubles). Отсутствуют целые товарные линии: соль (2501 00 — Tata Salt, флагманский бренд), специи и шафран (0910), бобовые/дал и безан (0713, 1106 10 — Tata Sampann), зерновые/миллеты и раги-атта (1104 29), готовые пищевые продукты (2106 90 — Soulfull, Yumside, Nutrikorner), соусы/консервы (Ching's Secret, Smith & Jones, Capital Foods), минеральная вода и напитки (2201 10, 2202), мёд (0409), растительные масла (1515), травяные добавки (1211/1302). Отраслевая классификация «Продукты питания и FMCG» корректна и не является мис-классификацией, но она шире, чем заявленные коды. Признаки трейдера: компания одновременно крупный производитель (собственные чайные и кофейные плантации/фабрики, заводы Tata Salt, Tata Sampann) и импортёр/дистрибьютор (Starbucks JV, импорт Eight O'Clock, Ching's Secret/Capital Foods, Organic India) — отсюда role_hint manufacturer_trader. Все перечисленные товарные линии — заявлено на сайте, не подтверждено таможенными записями (в рамках этой роли таможенные линии не проверялись): статус «заявлено, не подтверждено». Вердикт по правилу 3: компания сохраняется, HS-коды дополняются до фактического ассортимента, отклонения нет."
+}

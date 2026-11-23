@@ -1,0 +1,18 @@
+{
+ "name_input": "R. D. Mould & Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Daman and Diu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. Tooling failure during this run: DuckDuckGo/searx backend returned 'Connection refused' for all web_search calls; direct fetches of registry aggregators were blocked (zaubacorp.com 403, instafinancials.com 403, thecompanycheck.com 404); Bing and Google returned irrelevant/redirect pages, so no MCA/GST page for this entity could be read. Consequently the exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - none of these are public in any source I could actually open, and I will not infer or invent them. The claimed name 'R D MOULD AND IND' is a truncated/abbreviated form and cannot be matched to a registered company without an MCA lookup. Role is recorded as 'unknown' rather than guessed: the input industry ('oil & gas and chemicals') is inconsistent with declared HS 848071 (injection/blow moulds for rubber or plastics), which suggests the entity may be a mould/tooling maker rather than a chemical supplier, but this is unconfirmed. Per project rules this is NOT a rejection ground - the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it simply remains unverified. Recommended next step: manual MCA master-data search on the full name plus a GST portal 'Search Taxpayer' lookup for the Daman/Diu (state code 26/25) jurisdiction, and a request to the supplier for its GSTIN and CIN/PAN directly."
+}
