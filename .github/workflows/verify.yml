@@ -36,7 +36,11 @@ jobs:
           BATCH: 420
           WORKERS: 16
           MAX_SECONDS: 19500
-        run: python run.py
+        run: |
+          git config user.name "verify-bot"
+          git config user.email "verify-bot@users.noreply.github.com"
+          ( while true; do sleep 300; git add -A results >/dev/null 2>&1; git diff --cached --quiet || git commit -q -m "shard $SHARD: incremental"; git pull --rebase --autostash -q origin main >/dev/null 2>&1 && git push -q || true; done ) &
+          python run.py
       - name: Commit results
         run: |
           git config user.name "verify-bot"
