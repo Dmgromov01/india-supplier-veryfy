@@ -1,0 +1,9 @@
+{
+ "name_input": "POLYCHEM LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google/Brave/IndianKanoon/TheCompanyCheck отдали 403/429, OpenSanctions API — 401. OFAC SDN CSV (treasury.gov/ofac/downloads/sdn.csv) получен, но инструмент обрезает ответ на 6000 символах, поэтому полный поиск по строке 'POLYCHEM' в списке выполнить не удалось — совпадение не подтверждено и не опровергнуто. Санкционные списки ООН/ЕС/UK/BIS, индийские суды (NCLT/HC), рейтинги (CRISIL/ICRA/CARE) и данные о поставках в РФ/СНГ не проверены. Все поля null — данных нет, ничего не выдумано. Требуется повторный прогон при доступном поиске. По правилу 2 любые найденные в будущем санкции/суды/уголовные дела не являются основанием для отклонения."
+}

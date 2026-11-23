@@ -1,0 +1,18 @@
+{
+ "name_input": "POLYCHEM LIMITED",
+ "legal_name": "Polychem Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1956",
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": "Active (listed on BSE, scrip code 506605; no strike-off/liquidation/bankruptcy record found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 42.0,
+ "revenue_fy26_cr": 44.0,
+ "revenue_source": "Screener.in consolidated P&L (BSE: 506605) — FY25 (Mar 2025) sales ₹42 Cr, FY26 (Mar 2026) sales ₹44 Cr; figures presented as rounded consolidated annual results derived from the company's BSE filings. Not independently verified against the audited PDF, so treat as filing-derived, not audited-confirmed.",
+ "note": "Entity exists and is publicly listed (BSE 506605), so no rejection ground applies. Screener.in company page confirms: 'Incorporated in 1956, Polychem Ltd is engaged in manufacturing of Specialty Chemicals and property development' — hence role = manufacturer (specialty chemicals), consistent with declared HS 390390 (polymers/styrene polymers family). IMPORTANT UNRESOLVED: the input claims state = Delhi, but the company is widely known as a Maharashtra-registered entity (Mumbai-registered, BSE-listed); I could NOT confirm the registered office state from a primary source — MCA master data, Zauba, TheCompanyCheck, InstaFinancials and Moneycontrol all returned 403/blocked, and the search backend (searx) was down, so no CIN, PAN, GSTIN, GST status or exact incorporation date could be retrieved. CIN, PAN, GSTIN, GST status and state_registered are therefore null — NOT invented. The Delhi vs Maharashtra discrepancy must be resolved manually via MCA master data before this record is used. Revenue figures are consolidated and rounded to whole crore on the source; FY26 is a full-year figure per the source's Mar 2026 column."
+}

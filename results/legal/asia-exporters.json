@@ -1,0 +1,18 @@
+{
+ "name_input": "ASIA EXPORTERS",
+ "legal_name": "ASIA EXPORTERS (unverified — exact legal form not confirmed)",
+ "cin_llpin": null,
+ "pan": "ABLFA4749G",
+ "pan_holder_type": "F — Firm/Partnership firm (per 4th character 'F' of the claimed PAN; PAN itself not independently verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on all queries; html.duckduckgo.com returned HTTP 403; Bing returned only generic 'Asia' continent results for every query (no match for the PAN 'ABLFA4749G' or for 'ASIA EXPORTERS' + Punjab/Ludhiana/Jalandhar); zaubacorp.com and tofler.in returned HTTP 403; instafinancials search URL returned 404. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT confirmed absent. PAN format check: 'ABLFA4749G' is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'F' denotes a Firm/Partnership, which is consistent with a non-company trading/export proprietorship-firm style name; this is a format inference only, not verification. The name 'ASIA EXPORTERS' with no Pvt Ltd/LLP suffix suggests a proprietorship or partnership firm, which would have no CIN and no MCA record — so absence of a CIN should not be read as non-existence. Per project rules, no rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' (name suggests trader/exporter, but that is a name inference, not a verified registry fact). Revenue FY25/FY26 null — no audited accounts or official filings located; not estimated. HS codes 730840/731816 (steel scaffolding/structural and nuts/bolts) are noted as declared only and were not assessed here (out of scope for this role). RECOMMENDATION: re-run verification when search backend is restored, or supply the GSTIN directly so the GST portal 'Search Taxpayer' profile (legal name, constitution, registration date, status, principal place of business state) can be read as the primary source."
+}

@@ -1,0 +1,16 @@
+{
+ "name_input": "NUTECH SINTERED PRODUCTS PVT. LTD.; NUTECH SINTERED PRODUCTS PRIVATE LIMITED",
+ "declared_hs": "848330",
+ "actual_hs_list": [
+  "848330",
+  "73269099",
+  "84669390",
+  "85030090",
+  "84149090",
+  "87089900"
+ ],
+ "match_status": "partial",
+ "product_summary": "Powder-metallurgy (sintered) components manufacturer, plant at Palghar (outskirts of Mumbai), founded 1994. Website product categories: (1) Automotive sintered parts; (2) Home Appliances parts; (3) Fans & Electricals parts; (4) 'Sintered Parts & Bushes'. Core competency stated as 'precise development of intricate components' via powder metallurgy, with in-house sintering furnace, sizing and forming presses up to 250 T, metallurgical/chemical testing. No item-level catalogue with part numbers or drawings is published — only four category tiles (https://www.nutechsintered.com/products, https://www.nutechsintered.com/about-us).",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: declared 848330 ('Bearing housings, not incorporating ball or roller bearings; plain shaft bearings') is a plausible but narrow fit. The site explicitly sells 'Sintered Parts & Bushes' — sintered bronze/iron self-lubricating bushes are correctly 848330, so that line is corroborated by the product description (exact for the bush line only). However the declared single code does not cover the bulk of the stated range: general sintered structural/mechanical components (gears, sprockets, cams, levers, counterweights) fall under 73269099 (other iron/steel articles) or 84669390 / 87089900 depending on end use; fan and electrical-appliance parts under 85030090 (parts of electric motors/generators) and 84149090 (parts of fans/blowers). So status = partial: one declared code matches one product line, the rest of the declared range is missing from the declaration. No HS mismatch requiring rejection — per rule 3 the company is kept and the code list is corrected/expanded. Industry label 'Металлургия и горнодобыча' (metallurgy & mining) is a misclassification in the narrow sense: this is a powder-metallurgy component maker for automotive/appliance OEMs, not a mining or primary-metals producer; the correct industry is auto components / powder metallurgy. Trader signs: none — the site describes own plant, own presses, own sintering furnace and in-house testing, so manufacturer role is supported by the site's own description. IMPORTANT per rule 5: all of the above is website/catalogue evidence only. No customs line, B/L or GST record was checked in this task (out of scope), therefore every product line here is 'заявлено, не подтверждено' — the site asserts the range but no shipment record corroborates any specific item. PAN AACCN5993L and revenue/export volumes not verified here (null, out of scope)."
+}
