@@ -1,0 +1,18 @@
+{
+ "name_input": "NAIMI EXPORT CORPORATION",
+ "legal_name": "NAIMI EXPORT CORPORATION (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "AGAPR6410R",
+ "pan_holder_type": "P — Individual (natural person). 4th character of the claimed PAN is 'P', which denotes an individual taxpayer, not a company (company PANs carry 'C' at the 4th position). This is consistent with a proprietorship/individual trading name rather than a registered company, but the PAN itself could not be verified against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not disproven. Tooling failed: web_search backend refused connections (searx: Connection refused); DuckDuckGo served a bot challenge; Bing returned only irrelevant results for every query variant tried; zaubacorp.com and mca.gov.in both returned HTTP 403; tofler.in search returned a 404 page. No public page containing the exact string 'NAIMI EXPORT CORPORATION' was retrieved, so no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be sourced. Nothing is asserted here beyond the input's own claims. Important structural observation for the analyst: the claimed PAN AGAPR6410R has 'P' at the 4th character, i.e. an individual PAN — such an entity cannot hold a CIN and would be a proprietorship, so 'NAIMI EXPORT CORPORATION' is likely a trade name, not a company. Per project rules this is NOT grounds for rejection (entity existence is unconfirmed, not disproven; and trader/proprietorship status is a category, not a defect). Revenue FY25/FY26 left null: no audited accounts or official filings were located, and figures must not be invented. Recommended next step: re-run against MCA master data and the GST taxpayer search once search/registry access is restored, and confirm whether the entity is a proprietorship (Udyam/GST registration) rather than a company."
+}
