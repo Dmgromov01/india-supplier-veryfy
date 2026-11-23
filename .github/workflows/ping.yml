@@ -1,0 +1,44 @@
+name: ping
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/ping.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check DeepSeek key
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          key = os.environ.get("DEEPSEEK_API_KEY", "")
+          out = {"key_present": bool(key), "key_len": len(key)}
+          if key:
+              req = urllib.request.Request("https://api.deepseek.com/models",
+                                           headers={"Authorization": "Bearer " + key})
+              try:
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                      out["status"] = r.status
+                      body = json.loads(r.read())
+                      out["models"] = [m.get("id") for m in body.get("data", [])][:8]
+              except Exception as e:
+                  out["error"] = str(e)[:300]
+          os.makedirs("results/_runlog", exist_ok=True)
+          json.dump(out, open("results/_runlog/ping.json", "w"), indent=1)
+          print(out)
+          PY
+      - name: Commit ping
+        run: |
+          git config user.name "verify-bot"
+          git config user.email "verify-bot@users.noreply.github.com"
+          git add -A results/_runlog || true
+          git diff --cached --quiet || git commit -m "ping: deepseek key check"
+          git pull --rebase --autostash origin main && git push

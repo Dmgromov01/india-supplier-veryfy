@@ -173,6 +173,19 @@ def main():
     queue = load_json(os.path.join(ROOT, "queue.json"), [])
     done = done_set()
 
+    preflight = "skipped"
+    try:
+        import urllib.request
+        req = urllib.request.Request(
+            "https://api.deepseek.com/models",
+            headers={"Authorization": "Bearer " + os.environ["DEEPSEEK_API_KEY"]},
+        )
+        with urllib.request.urlopen(req, timeout=20) as r:
+            preflight = "ok" if r.status == 200 else "http %s" % r.status
+    except Exception as e:
+        preflight = "error: %s" % str(e)[:200]
+    print("preflight:", preflight)
+
     picked = []
     for idx, c in enumerate(queue):
         if idx % shards != shard:
@@ -191,7 +204,7 @@ def main():
         return 0
 
     print("shard %d/%d: %d companies, workers=%d" % (shard, shards, len(picked), workers))
-    failures = 0
+    failures, errors = 0, []
     with ThreadPoolExecutor(max_workers=workers) as pool:
         futures = []
         for c in picked:
@@ -209,8 +222,28 @@ def main():
                 print("  ok %-45s %s" % (s[:45], role))
             except Exception:
                 failures += 1
-                print("  fail: %s" % traceback.format_exc(limit=2))
+                tb = traceback.format_exc(limit=2)
+                if len(errors) < 8:
+                    errors.append(tb.strip().splitlines()[-1][:300])
+                print("  fail: %s" % tb)
     print("done, failures=%d, elapsed=%.0fs" % (failures, time.time() - started))
+
+    # Diagnostics are committed with the results so failures are visible without job logs.
+    diag = {
+        "shard": shard, "shards": shards, "picked": len(picked),
+        "roles_submitted": len(futures), "failures": failures,
+        "api_key_present": bool(os.environ.get("DEEPSEEK_API_KEY")),
+        "api_key_len": len(os.environ.get("DEEPSEEK_API_KEY", "")),
+        "model": os.environ.get("DEEPSEEK_MODEL", "deepseek-chat"),
+        "search": os.environ.get("SEARXNG_URL", "duckduckgo"),
+        "preflight": preflight,
+        "elapsed_s": round(time.time() - started), "errors": errors,
+        "worker": "github" if os.environ.get("GITHUB_ACTIONS") else "local",
+    }
+    d = os.path.join(RES, "_runlog")
+    os.makedirs(d, exist_ok=True)
+    with open(os.path.join(d, "shard-%02d.json" % shard), "w", encoding="utf-8") as fh:
+        json.dump(diag, fh, ensure_ascii=False, indent=1)
     return 0
 
 
