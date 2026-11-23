@@ -1,0 +1,18 @@
+{
+ "name_input": "GENOTYPIC TECHNOLOGY PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: DuckDuckGo/searx search backend refused connections (Errno 111) for the whole session, and every public registry aggregator attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) returned HTTP 403/404. Bing/Google HTML endpoints returned no usable organic results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrievable in this session, NOT confirmed absent. IMPORTANT DATA-QUALITY FLAG for the batch owner: the input record is internally inconsistent — the 'name' field is GENOTYPIC TECHNOLOGY PRIVATE LIMITED while 'legal_claimed' is JODAS EXPOIM PRIVATE LIMITED, and the claimed PAN AABCG2490G has 'C' as its 4th character, which denotes a company (non-individual) holder, so the PAN format is plausible but its holder cannot be matched to either name without a registry lookup. The declared HS codes (170211 sugar/lactose, 283525 calcium hydrogenorthophosphate, 290543 mannitol, 291719 acyclic polycarboxylic acids) are chemical/pharma-intermediate codes and do not fit the claimed industry 'Продукты питания и FMCG' — per project rules this is NOT a rejection ground; the HS code should be corrected to the actual activity once the entity is identified. No rejection applied: existence, strike-off, liquidation or bankruptcy could not be established either way. Recommend re-running this company when search access is restored, and first resolving which of the two names is the real counterparty."
+}
