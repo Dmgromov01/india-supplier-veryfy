@@ -1,0 +1,9 @@
+{
+ "name_input": "CERACIN",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend was down for the entire session (searx 'Connection refused' on every query), and fallback engines (DuckDuckGo HTML, Bing, Google) returned either 403/connection errors or completely irrelevant results (credit-union and Abercrombie pages) — no page mentioning 'Ceracin' was retrieved. The OFAC Sanctions List Search tool is a JavaScript form and cannot be queried via plain HTTP GET, so no SDN/Non-SDN screening was actually performed. Therefore sanctions exposure, Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all null — NOT because they were checked and found clean, but because no source could be read. No CIN, PAN, case number, rating or shipment record is asserted or invented. Recommended: re-run this company once search access is restored, and screen the exact legal name against OFAC SDN/Non-SDN, UN, EU, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NCLT) and CRISIL/ICRA/CARE/India Ratings. Note also that the input name 'CERACIN' is unverified as a legal entity name, which further limits name-based screening."
+}

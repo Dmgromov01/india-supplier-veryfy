@@ -1,0 +1,18 @@
+{
+ "name_input": "OPERA CLOTHING PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: all research channels failed during this run. DuckDuckGo/searx backend returned 'Connection refused' (no results at all); Google returned only a redirect stub; Bing ignored the quoted queries and returned unrelated results (Opera browser, Microsoft) for both the company name and the PAN string. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, instafinancials.com 404, tofler.in 404 (no such company page), quickcompany.in 404. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT verified, not confirmed absent. PAN AABCO0698Q is only the value claimed in the input; it was not confirmed against any public source. Format check only: 4th character 'C' in AABCO0698Q denotes a company (non-individual) PAN holder, which is consistent with a private limited company, but this is a format inference, not verification. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling failure, not a negative finding. Role left as 'unknown' (declared HS codes 6104/6109 are knitted apparel, which conflicts with the claimed industry 'food & FMCG'; per project rules this is not a rejection ground and the HS code should be corrected to the actual one once verified). Recommended action: re-run verification when search access is restored, or check the MCA master data / GST portal directly by CIN or GSTIN."
+}

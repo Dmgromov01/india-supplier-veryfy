@@ -1,0 +1,19 @@
+{
+ "name_input": "M/S VASHALI EXPORT HOUSE",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Allahabad High Court",
+   "case": "M/S Vaishali Export House Moradabad vs State Of U.P. Thru Prin.Secy. Forests",
+   "date": "2025-08-25",
+   "role": "Petitioner",
+   "status": "Pending / disposed per judgment text not retrieved",
+   "bench": "Rajan Roy, Manish Kumar",
+   "source": "https://indiankanoon.org/search/?formInput=%22Vaishali%20Export%20House%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no match found for 'Vaishali Export House' / 'Vashali Export House' in the OFAC SDN or Consolidated Non-SDN lists as retrieved on 2026-11-23 (SDN list last updated 11/23/2026 per sanctionssearch.ofac.treas.gov); UN, EU, UK OFSI and BIS Entity List were NOT checked because the search backend (searx) was down and returned connection refused, and the OFAC CSV export was truncated at 6000 chars so a full-string scan was not possible - sanctions_hit recorded as null (not confirmed negative). Court: one Allahabad High Court matter, M/S Vaishali Export House Moradabad vs State Of U.P. Thru Prin.Secy. Forests, dated 25.08.2025, company appears as petitioner; the full judgment text could not be opened (Indian Kanoon doc ID not resolvable), so the nature of the dispute (appears forest/environment related, possibly linked to NGT Ganga flood-plain/mining matters) and current status are unconfirmed. Per project rules this is not a rejection ground and is noted neutrally. Credit rating: no public rating found (null) - small export house, likely unrated; not verifiable. Negative news: none found, but web_search was unavailable so this is a coverage gap, not a clean result. RF/CIS supply evidence: none found; no export or customs records located. NOTE: legal name in the input is inconsistent ('VASHALI' vs 'VAISHALI'); court record uses 'Vaishali Export House, Moradabad' (Uttar Pradesh), which matches the claimed state. All findings limited by tool outages - recommend re-run of sanctions screening (UN/EU/UK/BIS) and full judgment retrieval before reliance."
+}

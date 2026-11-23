@@ -1,0 +1,18 @@
+{
+ "name_input": "CERACIN",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: не удалось получить ни одного первоисточника. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; агрегаторы реестров недоступны — zaubacorp.com и instafinancials.com отдали HTTP 403, thecompanycheck.com — 404, tofler.in — 404 на странице поиска; Bing по запросу \"CERACIN\" GST CIN company выдал нерелевантную выдачу (Facebook/StackOverflow), Google вернул только редирект-заглушку. Таким образом, точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 не подтверждены — все поля null, ничего не выдумано. Название 'CERACIN' в открытых источниках не подтверждено как зарегистрированное юрлицо; возможно, это торговое обозначение/бренд, а не компания. Роль не определена (unknown). Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3 — отклонять только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при доступном MCA-поиске (mca.gov.in) и GST-портале; также нужен точный юрлиц-нейм или CIN/GSTIN от заказчика. Заявленный HS 841381 (насосы) не проверялся — вне роли."
+}

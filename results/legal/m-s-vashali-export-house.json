@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S VASHALI EXPORT HOUSE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAGFV3067J",
+ "pan_holder_type": "AAGF = Firm/Partnership firm (4th character 'F' denotes Firm) — as claimed in input, NOT independently verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no source could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); DuckDuckGo HTML endpoint returned HTTP 403; Bing returned only irrelevant results for both the PAN query and the company-name query; ZaubaCorp, Tofler and mca.gov.in all returned HTTP 403 to direct fetches. Therefore legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, and nothing is inferred or invented. PAN AAGFV3067J is carried over from the input only; its format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'F' indicates a partnership firm, which is consistent with a proprietorship/partnership-style 'Export House' but is unconfirmed. Note the input itself is internally inconsistent: name given as 'M/S VASHALI EXPORT HOUSE' vs legal_claimed 'VAISHALI EXPORT HOUSE' — the correct spelling must be resolved before any registry lookup. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role cannot be determined: no evidence of manufacturing or trading activity was retrieved, so 'unknown' rather than a guess. Per project rules this company is NOT rejected — absence of retrievable registry data is not grounds for rejection (rejection requires proof the entity does not exist, is struck off, liquidated or bankrupt, and no such proof was found). Declared HS 940519 (lamps/lighting fittings) is not assessed here as it is outside the legal/registry scope. RECOMMENDATION: re-run verification when search access is restored, using the exact legal name and PAN AAGFV3067J on the GST portal (gst.gov.in search taxpayer) and MCA master data."
+}
