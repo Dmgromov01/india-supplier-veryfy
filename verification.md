@@ -1,6 +1,6 @@
 # Second-pass verification
 
-Records checked: **4**, passed: **4**, flagged: **0**
+Records checked: **8**, passed: **8**, flagged: **0**
 
 | check | hits |
 |---|---|
