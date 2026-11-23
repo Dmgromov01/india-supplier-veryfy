@@ -1,0 +1,18 @@
+{
+ "name_input": "PRAKASH IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and direct fetches of the primary public registries were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, mca.gov.in returned HTTP 403, html.duckduckgo.com returned HTTP 403. Bing returned only irrelevant cached results (US physicians named Prakash) for every query, including site-restricted queries. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be retrieved from any source, so all such fields are null rather than guessed. 'PRAKASH IMPEX' is a very common Indian trade name (multiple proprietorships/partnerships/LLPs across states), so without a GSTIN or CIN the exact legal entity cannot be pinned down; the input itself supplies no PAN. State 'Tamil Nadu' is therefore unconfirmed. Role is recorded as 'unknown' - the declared HS codes (411310 = leather further prepared after tanning, 420310 = articles of apparel of leather) do not match the claimed industry 'food and FMCG', but per project rules an HS mismatch is NOT grounds for rejection; the code should be corrected to the factual one once the entity is identified. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Recommended next step: re-run with a working search backend, or obtain the GSTIN/PAN from the client to resolve the entity via the GST portal and MCA master data."
+}

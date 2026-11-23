@@ -1,0 +1,18 @@
+{
+ "name_input": "IMPERIAL AUTO CRAFTS",
+ "legal_name": "IMPERIAL AUTO CRAFTS (unverified — no registry record retrieved; claimed proprietor name in input: RAMESHKUMAR R M)",
+ "cin_llpin": null,
+ "pan": "CDPPR1207N",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual) — format-consistent with a proprietorship; NOT verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not negative. Tooling failure: web_search returned 'Connection refused' on all queries; Bing fallback returned only generic 'imperial' results (Imperial College, Imperial Supplies) with no Indian entity; zaubacorp.com returned HTTP 403; thecompanycheck returned 404. No public page confirming the existence of a GST/Udyam/company record for 'IMPERIAL AUTO CRAFTS' was retrieved. PAN CDPPR1207N is reported as claimed by the input only: its 4th character 'P' denotes an individual holder, which is consistent with a sole proprietorship (no CIN expected, MCA status not applicable), but the PAN itself could not be validated against any public source. GSTIN, GST status, incorporation/registration date, registered state and revenue are all null because nothing public was obtained — revenue FY25/FY26 cannot be sourced from audited accounts for a proprietorship in any case. Role left as 'unknown': the input's industry label 'Металлургия и горнодобыча' does not match the declared HS codes (820740/820750 = interchangeable tools for tapping/drilling; 848180 = valves; 848390 = parts of gearing/transmissions), which points to metalworking/auto-components rather than mining — HS mismatch is NOT a rejection ground per project rules and the code should be corrected to the actual activity once verified. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found; absence of records here is a research gap, not a finding. Recommended next step: re-run with a working search backend and check GST portal / Udyam registry / Tamil Nadu commercial-tax records for the proprietor name RAMESHKUMAR R M."
+}
