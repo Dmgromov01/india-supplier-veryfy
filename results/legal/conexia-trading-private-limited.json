@@ -1,0 +1,18 @@
+{
+ "name_input": "CONEXIA TRADING PRIVATE LIMITED",
+ "legal_name": "CONEXIA TRADING PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAHCC4270A (claimed in input; format-valid, 4th character 'C' = company/firm holder type — NOT independently verified against any public record)",
+ "pan_holder_type": "company (inferred from 4th character 'C' of the claimed PAN; unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry record could be retrieved. Tooling failed during this run: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, falconebiz.com and mca.gov.in returned HTTP 403; tofler.in, instafinancials.com, quickcompany.in and indiafilings.com returned HTTP 404 for the derived URL slugs; Google/Bing/DuckDuckGo fetches returned no relevant results (Bing served unrelated mail-service pages, DuckDuckGo timed out). Consequently CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — they are NOT public-and-absent, they are simply unretrieved. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left 'unknown': the claimed HS codes (401180 conveyor belts, 820719 rock-drilling/earth-boring tools, 831110 coated welding electrodes, 840590 gas-generator parts) are industrial goods inconsistent with the claimed industry 'Строительство и DIY' (construction & DIY), which hints at a trading/intermediary profile, but this is inference only and is not evidence of manufacturer vs trader status. Per project rules no rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — absence of a retrieved record is not proof of non-existence. ACTION REQUIRED: re-run with working search/registry access (MCA master data, GST portal search by PAN AAHCC4270A, or a paid registry API) before this company is used in any decision."
+}

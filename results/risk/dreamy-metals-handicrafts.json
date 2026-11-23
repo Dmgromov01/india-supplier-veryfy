@@ -1,0 +1,9 @@
+{
+ "name_input": "DREAMY METALS HANDICRAFTS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. No public risk data could be retrieved for this entity. (1) Sanctions: no match found in any accessible source; OFAC SDN/UN/EU/UK/BIS lists could not be queried directly (sanctionssearch.ofac.treas.gov, EU/UK consolidated lists not reachable from this environment), so absence of a hit is NOT verified — status: not checked, null. (2) Indian courts: no records found; eCourts/NJDG and the UP district-court portal were not accessible, so court_cases = null (not confirmed clean). (3) Regulator actions / negative news: no hits. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Brickwork rating found; likely an unrated small proprietorship/partnership — rating = null. (5) Russia/CIS supply evidence: none found; no customs, B/L, or trade-flow record located. Search tooling was degraded during this run: the primary web_search backend returned connection errors, DuckDuckGo HTML returned HTTP 403, Google returned a redirect interstitial, and Bing returned only irrelevant results for the exact quoted name 'DREAMY METALS HANDICRAFTS' (no matching page in top results). ZaubaCorp returned HTTP 403 and Tofler returned 404 for the name query. Conclusion: no adverse risk findings, but equally no verification — all fields null rather than asserted clean. Per project rules, absence of sanctions/court data is not a rejection ground and no rejection is proposed; recommend re-running the sanctions and eCourts checks when list access is restored. Note also that the claimed PAN AAYPQ5692A and the claimed proprietor name were not independently verified (outside this role's scope)."
+}
