@@ -1,0 +1,18 @@
+{
+ "name_input": "Discovery Leather Pvt Ltd",
+ "legal_name": "DISCOVERY LEATHERS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AABCD7489C (as claimed in input; NOT verified)",
+ "pan_holder_type": "Per PAN 4th character 'C' = company (this is the only element consistent with the claimed PAN; the PAN itself could not be verified against any public source)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned 404; tofler.in search returned 404; Google returned a redirect/consent page; Bing returned only generic 'Discovery' brand results (discoveryplus.com, discovery.com, discover.com) with no Indian company record; duckduckgo.com timed out. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null - NOT because they are absent, but because they were not retrievable within the tool budget. No rejection is applied: there is no evidence the entity does not exist, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. IMPORTANT DATA-QUALITY FLAGS for the next pass: (1) The claimed PAN 'AABCD7489C' has an unusual structure - the 5th character 'D' is the surname initial, which is atypical for a private limited company (usually the company's own initial), so the PAN should be re-verified against the PAN card / MCA master data before use. (2) The claimed industry 'Продукты питания и FMCG' (food/FMCG) is inconsistent with the declared HS codes 411310, 420221, 420231, 420310, which are all leather and leather-goods (finished leather, leather handbags, articles carried in the pocket, leather apparel) - the company is evidently a leather/leather-goods entity, not food/FMCG. Per project rules this is NOT a ground for rejection; the industry classification should be corrected to leather goods and the HS codes retained as declared. (3) The claimed legal name 'DISCOVERY LEATHERS PRIVATE LIMITED' (plural 'Leathers') differs from the input short name 'Discovery Leather Pvt Ltd' (singular) - exact legal name must be confirmed from MCA. Recommended next step: re-run with working search access and check MCA master data / a GST public profile (e.g. a GSTIN search portal) to fill CIN, GSTIN, incorporation date, registered state and MCA status, and check audited FY25/FY26 filings for revenue."
+}

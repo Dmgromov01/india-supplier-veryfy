@@ -1,0 +1,18 @@
+{
+ "name_input": "Bansal Fine Foods Pvt. Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All 10 tool calls failed to yield usable sources: web_search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403 Forbidden; instafinancials and tofler returned HTTP 404 for the guessed URL slugs; Google returned only a redirect/consent page; Bing returned irrelevant Amazon.com results for both queries (search engine not honouring the quoted query). Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all UNVERIFIED and reported as null - none of these values were invented. IMPORTANT: the PAN claimed in the input, 'AAFCB1847C', is internally inconsistent and should be treated as suspect: the 4th character 'C' denotes a company/firm holder, but the 5th character 'B' is the surname initial of the holder, which for a company PAN is conventionally the first letter of the company name ('B' for Bansal is plausible), so the format is structurally valid but its actual allotment to this entity is unconfirmed. No basis to reject: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt - the absence of data is a research limitation, not evidence of non-existence. Role left as 'unknown' (no evidence of manufacturing vs trading). Recommended next step: re-run verification against MCA master data / GST portal when search access is restored, and confirm the PAN against the income-tax PAN verification facility before relying on it."
+}
