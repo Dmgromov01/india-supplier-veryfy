@@ -1,0 +1,18 @@
+{
+ "name_input": "Osho Sanitarywares Private Limited",
+ "legal_name": "OSHO SANITARYWARES PRIVATE LIMITED (as claimed; not independently verified in MCA records)",
+ "cin_llpin": null,
+ "pan": "AACCE7276M (claimed by input; not verified against any public registry record)",
+ "pan_holder_type": "C — company (4th character 'C' of the claimed PAN indicates a company holder; consistent with a 'Private Limited' entity, but the PAN itself is unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search backend (Searx) returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results about the spiritual teacher Osho for every query, including exact-phrase queries for the company name and for the claimed PAN 'AACCE7276M'. Direct fetches of registry aggregator profiles failed: zaubacorp.com and thecompanycheck.com returned HTTP 403 (bot-blocked), tofler.in and quickcompany.in returned HTTP 404 for the guessed slugs, instafinancials.com returned 404. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they could not be read from a public source within the tool budget. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown': the 'Private Limited' suffix and the sanitaryware/ceramic-ware HS 691010 context suggest a possible manufacturer, but this is inference, not evidence, and no factory/Udyam/registration proof was retrieved. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way — the entity's status is simply unverified. Recommended next step: re-run with a working search backend or query the MCA master data / GST portal directly by CIN or PAN before any commercial decision. No shipment, court or catalogue research was performed, per role scope."
+}
