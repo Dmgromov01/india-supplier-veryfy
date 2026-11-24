@@ -1,0 +1,18 @@
+{
+ "name_input": "RAJAN MACHINERY WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "CLZPK4430L",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character of the claimed PAN is 'P', which denotes an individual person, not a company (C), firm (F) or LLP (F). This is consistent with the input's legal_claimed = 'RAJAN KUMAR' being a proprietor name, i.e. the entity is a proprietorship, which has no CIN/LLPIN and no MCA record. PAN itself is unverified — no public source could be read to confirm it belongs to this business.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence. Verification could not be completed: the web_search tool was down (connection refused) and every fallback query to Bing returned the same generic, query-independent result set (YouTube/rajan.com/Wikipedia noise), i.e. no usable search index; zaubacorp.com returned HTTP 403. Therefore no public GST profile, GSTIN, GST status, incorporation date or registered-office state could be read, and no audited accounts or official filings were found. All such fields are null rather than guessed. Structural inference only (not a verified fact): the claimed PAN 4th character 'P' indicates an individual/proprietorship, so a CIN/LLPIN and MCA status are not expected to exist for this entity — it would be registered only under GST/Shop & Establishment, not the Companies Act. Role cannot be determined from registry data alone (HS 844720 = textile weaving machinery, which does not match the claimed 'metallurgy and mining' industry — flagged for the HS/industry reviewer, not a rejection ground). Revenue FY25/FY26: null — proprietorships do not file public audited accounts. Recommended action: re-run once search is restored, or obtain the GSTIN directly from the supplier and verify on the GST portal."
+}
