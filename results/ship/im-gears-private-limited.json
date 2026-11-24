@@ -1,0 +1,8 @@
+{
+ "name_input": "IM GEARS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey page https://importkey.com/countries/india/im-gears-private-limited loaded only a paywalled shell: 'Shipments available for IM GEARS PRIVATE LIMITED, refreshed daily' — 0 rows actually visible, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. volza.com, eximpedia.app and trademo.com returned HTTP 403; DuckDuckGo/Bing/Google search backends returned no usable results for the quoted company name.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split retrieved. Search backends (searx: connection refused; DuckDuckGo lite/html: timeout; Bing: query not honoured, generic 'IM' dictionary results) produced no page about this entity, so no domestic supply record could be read.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных B/L записей, ни внутренних GST/тендерных подтверждений получить не удалось, поэтому оба статуса = unknown, а не confirmed/declared_only. Заявленный HS 870129 (товарная позиция 8701 — тракторы) не подтверждён ни одной таможенной записью; фактический код не установлен, поэтому HS не исправлялся. Выручка и объём экспорта: null (не публичны / не найдены), цифры не выдумывались. PAN AAACI1606H и штат Tamil Nadu не проверялись — реестры вне области задачи. Требуется повторный прогон при доступных volza/eximpedia/importgenius или прямой запрос GST-оборота."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S EAPRO GLOBAL LTD; EAPRO GLOBAL LIMITED; M/S EAPRO GLOBAL LIMITED; M/S EAPRO GLOBAL LTD",
+ "legal_name": "EAPRO GLOBAL LIMITED (as claimed; exact MCA-registered name NOT verified)",
+ "cin_llpin": null,
+ "pan": "AADCE1852G (as claimed by input; not independently verified)",
+ "pan_holder_type": "Company (4th character 'C' = company per PAN structure) — based on the claimed PAN only, not verified against the PAN holder record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttarakhand",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' for every query; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Google/Bing/DuckDuckGo HTML endpoints returned irrelevant or empty results, so no MCA/GST public profile page for 'EAPRO GLOBAL LIMITED' was reachable. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they could not be read from a public source. No revenue figures are stated: no audited accounts or official filings were accessible, so FY25/FY26 revenue = null (not estimated). Role left as 'unknown' — the input's 'Ltd' suffix and the claimed PAN 4th character 'C' are consistent with a company, but no filing confirms manufacturer vs trader activity. IMPORTANT per project rules: this company is NOT rejected — rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found either way; the entity is simply unverified. Note also that the claimed PAN prefix 'AADC' is a Delhi-series PAN, which is not inconsistent with a Uttarakhand registered office but should be re-checked once a GSTIN is obtained. Recommended next step: re-run verification when search/fetch access is restored, using MCA master data by CIN and the GST portal's public 'Search Taxpayer' by PAN AADCE1852G."
+}

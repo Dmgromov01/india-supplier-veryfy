@@ -1,0 +1,18 @@
+{
+ "name_input": "S.L. AGRO FOODS",
+ "legal_name": "S.L. AGRO FOODS (unverified — no registry record retrieved; input field 'legal_claimed' contains a person's name 'MADAN KESHAV GAIKWAD', which is a proprietor/partner name, not a legal entity name)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — research could not be completed. All search channels failed during this run: web_search returned 'searx: Connection refused' on every query; html.duckduckgo.com and lite.duckduckgo.com timed out; bing.com returned only generic 'letter S' results and ignored the quoted company name; zaubacorp.com returned HTTP 403. No page containing 'S.L. AGRO FOODS' was ever retrieved, so no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or revenue figure could be sourced. Per project rules nothing was invented: all identifier and financial fields are null. Two observations from the input itself, not from any source: (1) the 'legal_claimed' value 'MADAN KESHAV GAIKWAD' is an individual's name, so this is most likely a sole proprietorship or partnership — such entities have no CIN/LLPIN and no MCA record, only a GSTIN and PAN; (2) the name pattern 'S.L.' plus a personal name is consistent with a proprietorship, but this is inference only. Role cannot be assigned (manufacturer vs trader undetermined). Revenue FY25/FY26 unavailable — proprietorships do not file audited accounts publicly, so these will likely remain null even after a successful re-check. NOT rejected: absence of a retrieved record is not evidence that the entity does not exist, and rejection is permitted only for non-existent/struck-off/liquidated/bankrupt entities. ACTION REQUIRED: re-run this company when search access is restored, targeting the GST portal public search and a GSTIN-derived profile; the GSTIN is the only reliable key for a proprietorship of this type."
+}

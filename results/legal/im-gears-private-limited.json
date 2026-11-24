@@ -1,0 +1,18 @@
+{
+ "name_input": "IM GEARS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Все попытки источников завершились ошибкой: web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in и mca.gov.in отдали HTTP 403/404; Bing и Google выдавали нерелевантную выдачу (толкование аббревиатуры 'IM'), релевантных сниппетов по компании нет. Поэтому CIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка — null: не подтверждено публично доступными источниками в рамках этой сессии, а не 'отсутствует'. ВАЖНО по PAN: заявленный в input PAN 'AAACI1606H' имеет 4-й символ 'C', что по формату PAN означает компанию (company), т.е. тип держателя формально совместим с Pvt Ltd, НО сама строка PAN не сверена ни с одним публичным источником и не подтверждена — считать непроверенной, не использовать как факт. Название 'IM GEARS PRIVATE LIMITED' vs заявленное 'I M GEARS PRIVATE LIMITED' — расхождение в написании не разрешено (нет реестровой записи). Штат Tamil Nadu (вероятно Coimbatore — кластер шестерён/редукторов) заявлен, но не подтверждён. Роль (manufacturer/trader) не определена — null/unknown. Отклонять НЕЛЬЗЯ: нет доказательств несуществования, ликвидации, struck off или банкротства; отсутствие данных — не основание для rejected. Требуется повторная проверка при восстановлении доступа к MCA/Zauba/Tofler или запрос выписки MCA21 и GST-профиля у поставщика напрямую. HS 870129 (части/принадлежности моторных ТС) не проверялся — вне роли."
+}
