@@ -1,0 +1,9 @@
+{
+ "name_input": "GREEN PACK FOILS PVT.LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No adverse risk data could be retrieved for this entity, and this must NOT be read as a clean bill of health — it reflects tool/source failure, not absence of risk. (1) Sanctions: OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov) was reachable and its SDN list is dated 11/23/2026, but the tool is a JS form and cannot be queried via plain HTTP GET, so no name match was actually executed; UN/EU/UK consolidated lists and the BIS Entity List were not queried at all. sanctions_hit = null (not verified, not cleared). (2) Indian courts: Indian Kanoon full-text search for \"Green Pack Foils\" returned 0 matching results (https://indiankanoon.org/search/?formInput=%22Green%20Pack%20Foils%22) — a negative result only for that one database; eCourts/NCLT/SCI-DRT and Gujarat High Court dockets were not searched, so court_cases = null. (3) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; rating = null, not public in any source reached. (4) News/regulator actions: none found, but the search backend was down (DuckDuckGo/searx returned connection refused or bot-challenge; Bing returned only generic 'green' results; Google returned a redirect stub), so news_risk = null and negative-news coverage is effectively unassessed. (5) Russia/CIS supply evidence: none found; rf_supply = null. Company registry pages (ZaubaCorp, TheCompanyCheck) returned HTTP 403, so no corporate/ownership data was obtained either. Per project rules this company is NOT rejected on any of the above; the correct status is 'risk profile unverified — re-run when search and registry access are restored'. Recommend a manual OFAC/EU/UK/BIS name screen and an eCourts+NCLT check before any decision."
+}

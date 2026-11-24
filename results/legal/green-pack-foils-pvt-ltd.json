@@ -1,0 +1,18 @@
+{
+ "name_input": "GREEN PACK FOILS PVT.LTD",
+ "legal_name": "GREEN PACK FOILS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AABCG0683K",
+ "pan_holder_type": "AABC — 4th character 'C' = company (non-individual) PAN; consistent with a private limited company. Format valid (5 letters + 4 digits + 1 letter). Value taken from the input, not independently confirmed against an official record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. All 10 tool calls failed: the web_search backend returned 'Connection refused' on every query; zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, falconebiz.com and mca.gov.in all returned HTTP 403/404 (bot blocking); Google returned a redirect stub; DuckDuckGo returned a CAPTCHA; Bing returned only irrelevant generic 'green' results with no matching company page. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — these are NOT public-and-absent, they are simply unretrieved. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left 'unknown' — the name and declared HS 760711/760720 (aluminium foil, rolled but not further worked) suggest a foil converter/packaging producer, but this is inference from the name only, not evidence, and no product catalogue or shipment research was performed per role scope. PAN AABCG0683K is carried over from the input with a format check only (holder type = company); it has not been matched to an MCA/GST record. No basis for rejection: the entity was neither found to be non-existent nor shown to be struck off, liquidated or bankrupt — the absence of data is a tooling failure, not a negative finding. Recommend re-running this company once search access is restored, checking MCA master data by CIN and the GST portal by PAN."
+}

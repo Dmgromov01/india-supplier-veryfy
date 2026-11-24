@@ -1,0 +1,18 @@
+{
+ "name_input": "MARINE EQUIPMENTS CENTRE",
+ "legal_name": "MARINE EQUIPMENTS CENTRE (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "AAFFM7139M",
+ "pan_holder_type": "F — Firm/Partnership (4th character 'F' in the claimed PAN AAFFM7139M indicates a firm, i.e. partnership/proprietary-firm PAN; PAN itself not independently verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Kerala",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. All search backends failed or returned irrelevant results: DuckDuckGo/searx returned 'Connection refused' and then a bot challenge; Bing returned only US Marine Corps pages for the name query and unrelated weather pages for the PAN query; Google returned a redirect/consent page. Direct registry/profile fetches were blocked: zaubacorp.com 403, instafinancials.com 403, mca.gov.in/mcafoportal 403, tofler.in search returned 404. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status could not be confirmed from any public source and are recorded as null rather than guessed. The PAN AAFFM7139M is taken as given in the input; its 4th character 'F' is consistent with a partnership firm, which would mean no CIN exists (firms are not MCA-registered companies) — this is an inference from PAN structure, not a verified fact. Role is 'unknown': no evidence obtained on whether the entity manufactures or trades. Revenue FY25/FY26 null — no audited accounts or official filings located. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity simply could not be checked with the tools available. Recommend re-running with working search/registry access (MCA master data, Kerala GST taxpayer search, GSTIN lookup by PAN) before any verdict. Declared HS codes (681381;760612;840710;841112) were not assessed, as HS/product research is outside this role."
+}
