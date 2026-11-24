@@ -1,0 +1,18 @@
+{
+ "name_input": "Kansal footwear",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: search backend returned connection refused, and all registry/profile sources (Zauba Corp, TheCompanyCheck, InstaFinancials, MCA master data, IndiaMART) returned HTTP 403/404/429; Google/Bing/DuckDuckGo returned no usable results. No CIN, PAN, GSTIN, incorporation date or MCA status could be confirmed, so all such fields are null rather than guessed. Input is internally inconsistent: 'ANMOL GUPTA' is a proprietor/partner name, not a legal entity name, so the entity may be a proprietorship (no CIN) or an unregistered trade name - unconfirmed. Declared HS 640110/640299 are footwear codes, while the claimed industry 'food & FMCG' is inconsistent; per project rules this is not a rejection ground and the industry label should be corrected to footwear. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, therefore NOT rejected - status is unverified, needs re-check of MCA/GST portal with a working search channel. Revenue FY25/FY26: null (no audited accounts or official filings accessible)."
+}

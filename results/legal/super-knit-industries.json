@@ -1,0 +1,18 @@
+{
+ "name_input": "SUPER KNIT INDUSTRIES",
+ "legal_name": "SUPER KNIT INDUSTRIES",
+ "cin_llpin": null,
+ "pan": "ARMPS6162L",
+ "pan_holder_type": "Individual (proprietor) — 4th character 'P' in the claimed PAN ARMPS6162L denotes a Person/individual, consistent with a proprietorship, not a company",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Daman and Diu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data could be retrieved. Tooling failed during this run: the web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML, Zauba Corp, Tofler, InstaFinancials and mca.gov.in all returned HTTP 403; Bing returned only irrelevant generic results for both the company name and the PAN string. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from any public source, and no audited revenue figures were found — all such fields are null rather than guessed. What can be said from the input alone: the claimed PAN ARMPS6162L has 'P' as its 4th character, which in Indian PAN format indicates an individual, so the entity is most likely a proprietorship/firm rather than a company — meaning there would be no CIN and no MCA record at all, and the 'legal entity' would be the proprietor. This is a format inference, not a verified fact. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and per project rules rejection requires positive evidence of one of those. Also note the input is internally inconsistent: declared HS 611595 is knitted fabric/apparel (Ch. 61), while the claimed industry is 'food and FMCG' — per rules this is NOT grounds for rejection; the HS code should be corrected to the actual product and the record kept. Action required: re-run verification when search/registry access is restored, checking (a) GSTIN and GST status on the GST portal public search for Daman & Diu, (b) whether the PAN belongs to an individual proprietor (no CIN expected), (c) any MCA/LLP record under the same name, and (d) audited FY25/FY26 revenue — currently null."
+}
