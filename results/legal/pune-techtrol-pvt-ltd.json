@@ -1,0 +1,18 @@
+{
+ "name_input": "PUNE TECHTROL PVT LTD",
+ "legal_name": "PUNE TECHTROL PRIVATE LIMITED (unverified - name as claimed; could not be confirmed against MCA)",
+ "cin_llpin": null,
+ "pan": "AABCP1274H (as claimed in input; NOT verified against any public registry)",
+ "pan_holder_type": "Company (4th character 'P' = person/company other than individual; consistent with a private limited company, but unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on both queries; Bing returned only irrelevant results (utdallas.edu pages) for all three query variants; Google returned a redirect/consent page; DuckDuckGo returned HTTP 403; zaubacorp.com (company page and search page) returned HTTP 403; thecompanycheck.com HTTP 403; instafinancials.com HTTP 404; quickcompany.in HTTP 404; mca.gov.in MDS page HTTP 403. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status (active/struck off) and audited revenue for FY25/FY26 are all null - not public via accessible sources in this session, and NOT invented. No rejection is applied: per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found either way - the entity's existence is simply unconfirmed, not disproven. PAN AABCP1274H is carried over only as the claimant's assertion; its format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'P' indicates a non-individual holder, which is consistent with a private limited company, but the PAN was not matched to any public record. Role left as 'unknown' - the claimed industry (IT/electronics) and declared HS 902610 (instruments for measuring/checking liquid flow or level) are not registry facts and were not assessed here. Recommended next step: re-run with working search access or a paid registry API (MCA21 / GSTN / Tofler / Probe42) to obtain CIN, GSTIN and filed financials before any verdict."
+}

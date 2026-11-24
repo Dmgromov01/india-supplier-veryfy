@@ -1,0 +1,18 @@
+{
+ "name_input": "SAASKIN CORPORATION PRIVATE LIMITED",
+ "legal_name": "SAASKIN CORPORATION PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAZCS6003M",
+ "pan_holder_type": "Company (4th character 'C' = company per PAN holder-type convention; format-valid, holder type inferred from PAN structure only, not confirmed against Income Tax records)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned connection errors ('searx: Connection refused') for both queries, and direct reads of registry aggregators were blocked or empty — zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com and quickcompany.in returned HTTP 404, falconebiz.com returned only its generic search shell with no company record, and Bing/Google/DDG HTML endpoints returned no usable company results. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT evidence of absence. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role left as 'unknown' because no MCA business-activity code or GST trade-name record was obtained. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity simply could not be checked with the tools available. PAN AAZCS6003M is carried over as claimed by the input and is format-consistent with a company PAN, but its allotment to this specific entity is unverified. Recommended follow-up: re-run against MCA master data (CIN lookup by name) and the GST taxpayer search once search access is restored."
+}
