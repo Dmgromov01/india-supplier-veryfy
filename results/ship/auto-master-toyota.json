@@ -1,0 +1,8 @@
+{
+ "name_input": "Auto Master Toyota",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey page for slug 'auto-master-toyota' returned only the generic template shell: \"Shipments available for AUTO MASTER TOYOTA, refreshed daily\" — a boilerplate placeholder, not a record. Zero rows actually seen (0 of 0). Second slug variant 'auto-master-toyota-tejinder-pal-singh' returned the identical empty shell, also 0 rows. No bill-of-lading number, date, destination or HS code could be read anywhere.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search engine (DuckDuckGo/searx) was unreachable for the whole session (\"Connection refused\"), so no domestic-supply source could be located. Zero rows seen.",
+ "note": "Name pattern ('Auto Master Toyota' + proprietor TEJINDER PAL SINGH) suggests a small proprietorship, likely an authorised Toyota dealership/service outlet rather than an exporter, but this is inference only and is NOT evidence. Declared HS 870899 (motor-vehicle parts) is unverified against any shipment. No export or domestic supply trail was found, but the absence is due to source inaccessibility, not to a negative finding — hence 'unknown', not 'none_found'. volza, eximpedia, trademo returned HTTP 403; importgenius returned a JavaScript challenge; importkey returned template shells with no data rows. Revenue and export volume: null (not public / not retrieved). No CIN or PAN available — proprietorship, PAN not public. Recommend re-run when search access is restored, or manual check of the proprietor's GSTIN on the GST portal and of GeM/CPPP for the exact legal name."
+}
