@@ -1,0 +1,18 @@
+{
+ "name_input": "NortStar",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не идентифицировано юрлицо. Входные данные противоречивы: 'NortStar' — не зарегистрированное наименование, а 'legal_claimed' = 'VARUN DIDDI' — имя физлица, а не компании; PAN/CIN/GSTIN не заявлены, штат не указан. Заявленный HS (840710 — авиадвигатели, 848420 — прокладки/уплотнения, 880211/880220 — вертолёты/самолёты) не соответствует заявленной отрасли 'Металлургия и горнодобыча' — вероятно, HS и отрасль заполнены ошибочно. Проверка реестров не выполнена по техническим причинам: поисковый бэкенд возвращал 'Connection refused', zaubacorp.com / instafinancials.com / mca.gov.in — HTTP 403, tofler.in — 404, duckduckgo — timeout, bing — без релевантных результатов. Никаких CIN/PAN/GSTIN/выручки не выдумываю: все поля null. Вердикт по правилам проекта: НЕ отклонять (нет подтверждения, что юрлицо не существует/ликвидировано/банкрот) — статус 'требует уточнения у заказчика': нужны точное юрлицо (Pvt Ltd/LLP), CIN или GSTIN, а также корректные HS и отрасль. Следов поставок не проверял (вне роли)."
+}
