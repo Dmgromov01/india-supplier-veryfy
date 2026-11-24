@@ -1,0 +1,9 @@
+{
+ "name_input": "NANDU CHEMICAL INDUSTRIES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: ни один источник не удалось прочитать. Поисковые бэкенды недоступны или блокируют запросы (searx — connection refused; DuckDuckGo html/lite — timeout; Brave и Mojeek — HTTP 429/403; Yahoo — HTTP 500; Bing выдал нерелевантную выдачу без совпадений по названию). ZaubaCorp — HTTP 403, IndiaMART — HTTP 429. Инструмент OFAC Sanctions List Search — JS-форма, через GET результаты не отдаёт, поэтому скрининга по SDN/Non-SDN фактически не выполнено. Следовательно: sanctions_hit, court_cases, rating, news_risk, rf_supply — null, НЕ потому что рисков нет, а потому что данные не получены и не подтверждены. Никаких утверждений об отсутствии санкций, судов, рейтинга или поставок в РФ/СНГ по этой компании делать нельзя. Требуется повторный прогон при доступном поиске (рекомендуемые цели: OFAC SDN/Non-SDN и BIS Entity List по полному и усечённому наименованию, UN/UK/EU consolidated lists, eCourts/NJDG и Karnataka High Court по названию, реестр MCA, кредитные рейтинги CRISIL/ICRA/CARE/India Ratings, новостной поиск по датам). Отклонение по правилу 2 не применяется: санкции/суды/уголовные дела не являются основанием для rejected в любом случае."
+}

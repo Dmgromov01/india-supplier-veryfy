@@ -1,0 +1,18 @@
+{
+ "name_input": "Rilox Ev Private Limited",
+ "legal_name": "RILOX EV PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAMCR1370D",
+ "pan_holder_type": "AAMCR1370D — 4th character 'C' = company (non-individual). NOTE: this is the PAN supplied in the input; it was NOT independently verified against any public registry record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: web_search backend refused connections (searx 'Connection refused') on both queries; DuckDuckGo HTML/lite endpoints timed out; Bing returned only irrelevant results (Microsoft, Las Vegas hotels) for the exact-phrase queries; zaubacorp.com, thecompanycheck.com and tofler.in all returned HTTP 403; MCA portal host (search.mca.gov.in) did not resolve. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session — they are NOT null because the company is absent. No conclusion about existence, strike-off, liquidation or bankruptcy can be drawn, therefore the company is NOT rejected (per rule 3, rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which is absent here). Role left as 'unknown' — the name suggests EV/2-wheeler mobility (declared HS 871160 = electric motorcycles/cycles), but no registry record confirms manufacturer vs trader status. Revenue FY25/FY26 null: no audited accounts or official filings were accessible; not estimated. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored, and confirm whether the claimed PAN AAMCR1370D actually belongs to this entity."
+}
