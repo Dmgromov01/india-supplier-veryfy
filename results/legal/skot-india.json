@@ -1,0 +1,18 @@
+{
+ "name_input": "SKOT INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "BNXPA0753P",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual, not a company or firm)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' for every query; DuckDuckGo HTML timed out; Google returned only a redirect stub; Bing returned irrelevant/unrelated results for both queries tried; Zauba Corp returned HTTP 403; Tofler and Instafinancials search endpoints returned 404; Falcon Ebiz is JavaScript-only and served no results. Consequently no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures were found. Nothing here is inferred or invented. Two substantive observations from the input itself: (1) the claimed PAN 'BNXPA0753P' has 'P' as its 4th character, which denotes an INDIVIDUAL holder, not a company - so 'SKOT INDIA' as a legal entity is not evidenced by this PAN; a proprietorship or an individual trading name is the more likely structure, and the exact legal entity name must be established before any verdict. (2) The claimed legal name 'AHMEDSYEDBAWKHER' does not match the trade name 'SKOT INDIA' and could not be corroborated. Per project rules this is NOT grounds for rejection: the entity is not shown to be non-existent, struck off, liquidated or bankrupt - it is simply unverified. Verdict should be treated as pending verification, not accepted. Recommended next step: re-run against MCA master data / GST portal (or a paid API such as Falcon Ebiz or Tofler) once search access is restored, and confirm whether the supplier is a proprietorship (PAN-based) or a registered company/LLP. Revenue FY25 and FY26 left null as required - no audited accounts or official filings were located."
+}

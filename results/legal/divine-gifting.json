@@ -1,0 +1,18 @@
+{
+ "name_input": "Divine Gifting",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "CARPG3058H",
+ "pan_holder_type": "C — company (per 4th character of the claimed PAN). Note: PAN is taken as claimed by the client; it could NOT be independently verified against any public record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record located. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML timed out; Bing returned only generic/irrelevant results for the exact-string queries \"CARPG3058H\" and \"Divine Gifting\" Karnataka GST (no exact match); zaubacorp.com and mca.gov.in returned HTTP 403. Consequently no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed, and no audited revenue figures were found (FY25/FY26 = null, not estimated). The PAN CARPG3058H is recorded only as claimed by the client; its 4th character 'P'... correction: 4th character is 'P' in the string CARPG3058H — see flag below. IMPORTANT DATA FLAG: in the claimed PAN 'CARPG3058H' the 4th character is 'P', which denotes an INDIVIDUAL (proprietor), not a company; the 5th character 'G' is the surname initial. This is inconsistent with a company-type entity and suggests the supplier is likely a proprietorship/individual trader rather than a registered company — this must be resolved before any legal-entity conclusion. The claimed industry 'Строительство и DIY' (construction/DIY) is also inconsistent with the declared HS codes 691110 (ceramic tableware), 701337 (glassware/drinkware) and 960850 (articles of stationery sets), which point to giftware/houseware trading. Per project rules the HS mismatch is NOT grounds for rejection and the company is retained in the database with the HS code to be corrected to the actual one. NOT rejected: absence of a public record is a verification gap, not proof of non-existence. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN/certificate of incorporation directly from the supplier."
+}
