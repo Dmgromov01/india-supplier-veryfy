@@ -1,0 +1,18 @@
+{
+ "name_input": "NATIONAL COOLING TOWERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAPPS9644H",
+ "pan_holder_type": "P — individual (natural person). 4th character 'P' denotes an individual taxpayer, so this PAN belongs to a person, not to a company/firm. It is consistent with the input's 'legal_claimed' being a proprietor's name (Chandrashekar Soodappa), i.e. a proprietorship concern, which has no CIN. PAN is taken as claimed by the client; it could NOT be independently verified in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; equally, no registry record could be retrieved. Verification was blocked by tooling: DuckDuckGo search returned 'Connection refused' on both queries; Bing returned only generic 'national' results for every query (including the exact PAN string 'AAPPS9644H' and the exact company name), i.e. the search backend was degraded; zaubacorp.com and instafinancials.com returned HTTP 403; tofler.in search returned 404. Therefore: exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, not 'absent'. Because the PAN's 4th character is 'P' (individual), the most likely structure is a sole proprietorship trading as 'National Cooling Towers' under Chandrashekar Soodappa, in which case there is no CIN and no MCA record by design; this is an inference from PAN format only, not a confirmed fact. Role left as 'unknown' — no registry or filing evidence of manufacturing vs trading was obtained. Revenue FY25/FY26 null: proprietorships do not file audited accounts with MCA, so no official filing source exists; nothing was estimated. Declared HS 841989 (machinery/plant for treatment of materials by temperature change — plausible for cooling towers) is not a rejection ground per project rules and was not used as one. Recommended next step: re-run with working search, or query GST portal / Udyam registration directly by the claimed PAN to obtain the GSTIN and the registered trade name."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Excel Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Kerala",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: the web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; html.duckduckgo.com timed out; Google and Bing returned only generic Microsoft Excel software results with no Indian company profile. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, MCA status or audited revenue could be confirmed from any public source. 'Excel Enterprises' is a very common Indian trade name and multiple unrelated proprietorships/partnerships/companies across states may use it, so no identifier is asserted here - all fields left null rather than guessed. State 'Kerala' is unverified against the registered office. Role left 'unknown' (no evidence of manufacturing or trading activity). Revenue FY25/FY26 null: no audited accounts or official filings located. Per project rules this is NOT a rejection - the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it is simply unverified and requires re-run with working registry access (MCA master data / GST public search) before any verdict. Declared HS 820900 (interchangeable tools for hand tools) is not assessed here as HS mismatch is not a rejection ground."
+}

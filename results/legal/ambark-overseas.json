@@ -1,0 +1,18 @@
+{
+ "name_input": "AMBARK OVERSEAS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "ABPFA0420L",
+ "pan_holder_type": "P — individual (natural person), per 4th character 'P' of the claimed PAN; PAN itself unverified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: web_search backend returned connection refused for all queries, and every direct registry/profile source attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com, mca.gov.in) returned HTTP 403, while DuckDuckGo HTML/lite endpoints timed out. Therefore no exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source. The PAN ABPFA0420L is carried over only as claimed by the input; its 4th character 'P' indicates an individual (proprietorship/sole-proprietor style) holder, which is consistent with a non-corporate trading entity, but this is a format inference, not a verified record. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' — no evidence of manufacturing plant or of trading activity was retrievable. NOT rejected: absence of accessible public data is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Recommend re-running this company when the search backend is restored, checking MCA master data by PAN and the GST portal for the GSTIN."
+}

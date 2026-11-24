@@ -1,0 +1,9 @@
+{
+ "name_input": "REVOLT INTELLICORP PRIVATE LIMITED; REVOLT INTELLICORP PRIVATE LIMITED; REVOLT INTELLICORP PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' (searx) on all attempts; DuckDuckGo HTML endpoint timed out; Google returned only a redirect/consent interstitial; Bing returned generic results for the bare token 'revolt' (revolt.tv, Revolut, Revolve) and ignored the quoted phrase 'Revolt Intellicorp' on every query, so no page about this entity was retrieved. Consequently nothing can be asserted about OFAC SDN/UN/EU/UK/BIS listing status, Indian court or NCLT/IBC proceedings, regulator actions, credit rating, or any supplies to Russia/CIS. All fields set to null per instruction not to invent data — null here means 'not established', NOT 'clean'. No negative finding should be inferred from the nulls. Recommended next step: re-run with a working search backend and check (a) OFAC SDN + BIS Entity List + EU/UK consolidated lists for 'Revolt Intellicorp', (b) eCourts/NCLT/IBBI and the Delhi HC cause lists, (c) CRISIL/ICRA/CARE/India Ratings/Brickwork rating rationales, (d) Indian trade-press coverage of the Revolt Motors electric-two-wheeler business (note: the claimed HS 871160 and 'Delhi' state are consistent with an EV two-wheeler maker, but this was not verified and is outside my remit). Per project rules, sanctions/court/criminal matters are not rejection grounds regardless of outcome."
+}

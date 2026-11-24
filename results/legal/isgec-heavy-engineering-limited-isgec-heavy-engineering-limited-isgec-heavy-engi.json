@@ -1,0 +1,18 @@
+{
+ "name_input": "ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LTD.; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LTD; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED FORMERLY THE SARASWATI INDUSTRIAL SYNDICATE LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LTD; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; M/S ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LTD; ISGEC HEAVY ENGINEERING LTD.; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LTD; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED; M/S ISGEC HEAVY ENGINEERING LIMITED; ISGEC HEAVY ENGINEERING LIMITED",
+ "legal_name": "ISGEC Heavy Engineering Limited (formerly The Saraswati Industrial Syndicate Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Все 35 строк входа — одно и то же юрлицо (варианты написания, включая прежнее имя The Saraswati Industrial Syndicate Limited), поэтому проверялось как одна компания. Подтверждено только с официального сайта isgec.com (главная страница, прочитана 23.11.2026): компания действует, публикует разделы Investor Relations (Annual Reports, Financial Results, Shareholding Pattern, Corporate Governance Reports, Credit Rating, IEPF), т.е. это публичная отчитывающаяся компания; заявлена как производитель — 12 производственных площадок в Индии и Канаде (Yamunanagar, Rattangarh, Bawal, Dahej, Muzaffarnagar и др.), собственные продуктовые направления (process equipment, EPC, котлы, сахарные заводы, прессы, стальное и чугунное литьё, ESP/APC, криогенные контейнеры), совместные предприятия (Isgec Hitachi Zosen, Isgec Redecam, SFW Isgec Energy, Isgec TITAN) — отсюда role=manufacturer. CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 НЕ подтверждены: поисковый бэкенд (DuckDuckGo/searx) в этой сессии не отвечал (connection refused), а сторонние реестры (zaubacorp, thecompanycheck) вернули HTTP 403, страницы isgec.com с CIN и финансовыми результатами — HTTP 404. Значения оставлены null, не выдуманы. Штат входа не заявлен (пусто), фактический штат регистрации по открытым данным не подтверждён — null. Оснований для отклонения нет: признаков несуществования, ликвидации, struck off или банкротства не обнаружено; компания сохраняется в базе. HS-коды входа (732599, 840211, 840290, 841430) не проверялись — вне роли данного этапа (registry/legal). Требуется повторный прогон с работающим поиском или доступом к MCA-выписке для заполнения CIN/PAN/GSTIN и выручки."
+}
