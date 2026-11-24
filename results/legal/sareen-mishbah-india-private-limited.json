@@ -1,0 +1,18 @@
+{
+ "name_input": "SAREEN MISHBAH INDIA PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (searx) возвращал 'Connection refused', DuckDuckGo — таймаут, Bing выдавал только нерелевантные/спам-результаты, страницы реестровых агрегаторов (zaubacorp.com, thecompanycheck.com, instafinancials.com) и портал MCA (mca.gov.in) — HTTP 403. Ни одна запись реестра (CIN, PAN, GSTIN, дата регистрации, статус MCA) не подтверждена публичным источником, поэтому все поля оставлены null — данные не выдумывались. Заявленный PAN 'ABICS7894Q' НЕ подтверждён: обращаю внимание, что 4-й символ 'C' в формате PAN означает тип держателя 'company', что формально совместимо с Pvt Ltd, но сама строка не верифицирована и в базу как факт не внесена. Заявленный штат Gujarat не сверен с адресом регистрации. Роль (manufacturer/trader) не определена — нет данных о видах деятельности в учредительных документах. Выручка FY25/FY26 отсутствует: аудиторская отчётность не найдена. Отклонение НЕ применяется: нет доказательств того, что юрлицо не существует, ликвидировано или обанкрочено — отсутствие данных не является основанием для rejected. Требуется повторная проверка при восстановлении доступа к реестрам (MCA master data, GST-портал)."
+}

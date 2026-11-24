@@ -1,0 +1,18 @@
+{
+ "name_input": "SMARTECIN PRIVATE LIMITED",
+ "legal_name": "SMARTECIN PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403, while mca.gov.in returned HTTP 403 and DuckDuckGo HTML/lite endpoints timed out or were blocked. Bing fallback returned only irrelevant results, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Per project rules, nothing is invented: all fields are null and no rejection is made, because non-existence/strike-off/liquidation/bankruptcy is NOT established either. Role is 'unknown' - the claimed HS codes 853710 (control panels) and 901580 (surveying/geophysical instruments) and industry 'Энергетика' are unverified claims only. Action required: re-run verification when search access is restored, or supply the CIN/GSTIN so the MCA master data and GST public profile can be checked directly."
+}

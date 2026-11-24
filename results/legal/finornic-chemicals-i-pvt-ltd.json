@@ -1,0 +1,18 @@
+{
+ "name_input": "FINORNIC CHEMICALS (I) PVT. LTD",
+ "legal_name": "Finornic Chemicals (India) Pvt. Ltd.",
+ "cin_llpin": null,
+ "pan": "AAACF0650L",
+ "pan_holder_type": "Company (4th character 'C' = company; 'F' = firm per PAN 4th-character convention — claimed PAN is internally consistent with a company/firm holder, but NOT independently verified against MCA/PAN records)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat (Ankleshwar, Dist. Bharuch — per company's own website contact page; MCA registered-office record not retrieved)",
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no rejection basis found, but also no MCA record retrieved. What is confirmed: the company's own website (finornic.com, About Us and Contact Us pages) states 'Finornic Chemicals (India) Pvt. Ltd. was founded in the year 1991' by Doongarshi R. Shah, with head office at Plot No. 6234, GIDC Industrial Area, Ankleshwar 393002, Dist. Bharuch, Gujarat, and describes itself as a manufacturer and exporter of 2-mercaptobenzimidazole and derivatives, heterocyclic/pharma intermediates and rubber chemicals (antioxidants). Directors named: Doongarshi R. Shah, Manish D. Shah, Jatin D. Shah. This supports role=manufacturer and state_registered=Gujarat matching the claimed state. NOT confirmed: CIN, GSTIN, GST status, exact date of incorporation, MCA status (active/struck off), and revenue. Attempts to reach MCA-derived aggregators (zaubacorp, thecompanycheck, tofler, instafinancials) returned HTTP 403 / paywall, and the web_search backend was unavailable (connection refused), so no public registry profile could be read. PAN AAACF0650L is the value supplied in the input and is reproduced as claimed, not verified. Revenue FY25/FY26: null — no audited accounts or MCA filings were accessible; not estimated. Note the website's 'founded 1991' is a company self-statement, not an MCA incorporation date, so incorporation_date is left null. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, therefore the company is NOT rejected; it should be re-queued for MCA/GST portal lookup to fill CIN, GSTIN, incorporation date, MCA status and financials."
+}

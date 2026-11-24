@@ -1,0 +1,18 @@
+{
+ "name_input": "BYK India Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAHCB6130E",
+ "pan_holder_type": "Company (4th character 'C' in AAHCB6130E indicates a company/non-individual PAN holder). Note: PAN is taken from the input as 'claimed'; it could not be independently confirmed against an official filing because MCA/registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials) returned HTTP 403/404 and search engines returned no relevant results during this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: DuckDuckGo search backend was down (connection refused), Bing/Google returned only irrelevant results, and all public company-data aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) blocked automated access with HTTP 403/404. Therefore legal entity name, CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. No rejection applied: there is no evidence the entity is struck off, liquidated or bankrupt. Note also that the input's 'legal_claimed' field contains a personal name (LAIQUE AHMED AIJAZ GADHWALA), not a legal entity name, and the declared HS 871499 (bicycle/vehicle parts) does not match the claimed industry 'Авиастроение и транспорт' (aviation/transport) — per project rules this is not a rejection ground; HS should be corrected to the actual code once the entity's real activity is established. Role left as 'unknown' pending registry data. Revenue FY25/FY26 null — no audited accounts or official filings were accessible. Recommend re-run with working search/registry access (MCA master data, GST portal) before any verdict."
+}

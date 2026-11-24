@@ -1,0 +1,18 @@
+{
+ "name_input": "NANDU CHEMICAL INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAIFN6930E",
+ "pan_holder_type": "F — Firm / Partnership firm (4th character 'F' of the claimed PAN; PAN itself not independently verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the search backend (DuckDuckGo/searx) was unreachable for the whole session and returned irrelevant results when it did respond, and the public registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 Forbidden; gstinsearch.in failed DNS resolution. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced, and all such fields are left null rather than guessed. Two observations from the input itself: (1) the claimed PAN AAIFN6930E has 'F' as its 4th character, which denotes a partnership FIRM, not a company — so this entity is most likely a partnership/proprietorship-style firm rather than a company limited by shares, meaning a CIN would not exist and MCA status would be 'not applicable' (unconfirmed); (2) the declared HS codes (282720 calcium chloride, 282739 other chlorides, 310420 potassium chloride) are consistent with a chemicals trading/manufacturing profile, but HS consistency is not a rejection ground per project rules. No evidence of non-existence, strike-off, liquidation or bankruptcy was found — the entity is NOT rejected; it is simply unverified pending a working registry/GST lookup. Role left as 'unknown' (cannot distinguish manufacturer vs trader without registry/GST data). Revenue FY25/FY26: null — no audited accounts or official filings accessible. Recommended next step: re-run verification against MCA master data by PAN AAIFN6930E and the GST portal once search access is restored."
+}
