@@ -1,0 +1,18 @@
+{
+ "name_input": "AMCHONG PARK & RESORT (A UNIT OF M/S BHAURAM JODHRAJ)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных из реестров получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на всех запросах; Bing отдавал нерелевантную выдачу; zaubacorp.com, instafinancials.com и tofler.in вернули 403/404 при прямом обращении. Ни одна запись MCA/GST не подтверждена. ВАЖНО по структуре имени: формулировка «A unit of M/S BHAURAM JODHRAJ» указывает, что BHAURAM JODHRAJ — это, вероятнее всего, единоличное предприятие (proprietorship) или партнёрство, а не компания (Private Limited / LLP). У таких форм НЕТ CIN/LLPIN и НЕТ данных в MCA — регистрация только по GSTIN и PAN физлица/фирмы. Поэтому cin_llpin = null и mca_status = null здесь, скорее всего, не «нет данных», а структурное отсутствие: проверять нужно по GST-порталу (gst.gov.in → Search Taxpayer) и по PAN-формату. PAN проприетарной фирмы обычно содержит 4-й символ 'P' (individual) или 'F' (firm) — но конкретный PAN не найден, поэтому pan_holder_type = null, не выдумываю. Заявленный штат в инпуте пуст; по названию «Amchong» можно предположить Ассам (район Камруп, чайный регион), но это НЕ подтверждено источником — state_registered оставлен null. Роль: заявлено как «Park & Resort» при HS 090220/090240 (чай) — вероятнее всего trader/переработчик чая с сопутствующей туристической единицей, но без подтверждения роль = unknown. Выручка FY25/FY26: null — для проприетарной фирмы аудиторская отчётность в открытом доступе обычно отсутствует, официальных filings нет. ОСНОВАНИЙ ДЛЯ ОТКЛОНЕНИЯ НЕТ: несуществование, ликвидация или банкротство не установлены — просто нет данных. Требуется повторная проверка при восстановлении доступа к реестрам (MCA master data + gst.gov.in по названию и штату Ассам)."
+}

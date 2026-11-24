@@ -1,0 +1,19 @@
+{
+ "name_input": "WEG INDUSTRIES (INDIA) P LTD",
+ "declared_hs": "850153",
+ "actual_hs_list": [
+  "850152",
+  "850153",
+  "850151",
+  "850164",
+  "850431",
+  "850421",
+  "853710",
+  "850440",
+  "850300"
+ ],
+ "match_status": "partial",
+ "product_summary": "WEG Industries (India) Pvt Ltd is the Indian manufacturing subsidiary of Brazilian WEG S.A. (plant announced 2008, Hosur, Tamil Nadu). The group's product portfolio, per WEG S.A. corporate profile (en.wikipedia.org/wiki/WEG_S.A., sourced from WEG corporate data), covers: electric motors (low and high voltage, IEC/NEMA, incl. large medium-voltage motors), generators and alternators, transformers (power and distribution), switchgears, electrical panels/substations, motor drives (VFDs), soft starters, industrial automation and control, industrial sensors, industrial gearboxes, BESS, wind and steam turbines, coatings and varnishes. The India unit's own site (weg.net/institutional/IN) returned HTTP 403 on every attempt, so the India-specific catalogue could not be read directly; the product list above is the group portfolio, not a verified India-plant list.",
+ "role_hint": "manufacturer",
+ "comment": "Declared HS 850153 = AC multi-phase motors, output > 75 kW. This is a real WEG product line (large/medium-voltage induction motors), so the code is plausible but only PARTIAL: it covers one slice of the portfolio. Missing from the declaration: 850152 (multi-phase AC motors 750 W–75 kW) and 850151 (<=750 W) — WEG's core volume lines; 850164 (AC generators/alternators > 750 kVA) and 850161-850163 for smaller alternators; 850421/850431 (liquid/dry-type transformers <= 650 kVA and <=1 kVA) and 850423/850433 for larger units; 853710 (control panels/automation), 850440 (static converters/VFDs, BESS inverters), 853650/853649 (soft starters, contactors), 850300 (parts of motors/generators). Industry label 'Энергетика' is a loose but not wrong classification — the accurate label is electrical machinery / rotating machines and power equipment (HS ch. 85), i.e. capital electrical equipment rather than power generation per se. No trader signs found: this is a wholly-owned manufacturing subsidiary of a global OEM, not a reseller. IMPORTANT: no customs line, shipping bill or invoice was available to me in this task (registry/customs research explicitly out of scope), therefore the actual export/domestic shipment mix and the exact HS codes used on Indian export declarations are 'заявлено, не подтверждено'. The HS mapping above is derived from the group product catalogue, not from a customs record. Per project rule 3, the partial HS match is NOT grounds for rejection — company retained, code set corrected/expanded to the actual product range. Note: PAN AAACW7745D and the exact legal name were not verifiable from public sources within this task (registry lookups blocked, HTTP 403) — treat as unverified, not confirmed."
+}

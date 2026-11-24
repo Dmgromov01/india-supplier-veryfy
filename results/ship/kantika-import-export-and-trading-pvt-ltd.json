@@ -1,0 +1,8 @@
+{
+ "name_input": "Kantika Import export and trading pvt ltd",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/kantika-import-export-and-trading-pvt-ltd and .../kantika-import-export-trading-pvt-ltd both returned only the generic template text \"Shipments available for KANTIKA IMPORT EXPORT AND TRADING PVT LTD, refreshed daily\" with zero shipment rows rendered (0 rows seen on both slugs, no dates, no destinations, no HS codes, no B/L numbers). No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No public GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: thecompanycheck.com and trademo.com returned HTTP 403, volza.com and eximpedia.app returned HTTP 403, and the DuckDuckGo search backend was unreachable (\"Connection refused\") for every query attempted, so no domestic supply record was seen either way.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки (дата/направление/HS/B-L) и ни одной записи о внутренних поставках получить не удалось — источники либо закрыты (403), либо отдают пустой шаблон без строк. Статус по экспорту — none_found по факту отсутствия записей в доступных бесплатных выборках; по внутреннему рынку — unknown, так как проверка не была выполнена из-за недоступности источников, а не из-за отсутствия данных. Заявленные коды HS (151790;220210;283110;283990) и PAN AAJCK6356R ничем не подтверждены и не опровергнуты — это заявление, не факт. Выручка и объём экспорта: null (не публичны / не найдены), цифры не выдумывались. Компания не отклоняется: юрлицо не признано несуществующим или ликвидированным, оснований для rejected нет; требуется повторная проверка при доступности платных/незаблокированных источников."
+}

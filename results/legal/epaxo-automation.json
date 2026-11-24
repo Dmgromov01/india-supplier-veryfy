@@ -1,0 +1,18 @@
+{
+ "name_input": "EPAXO AUTOMATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного факта. Все попытки доступа к источникам в этом прогоне провалились: web_search вернул 'Connection refused' (бэкенд поиска недоступен), Bing/Google отдали нерелевантную выдачу или заглушку, DuckDuckGo (html и lite) — таймаут, zaubacorp.com и mastersindia.co — HTTP 403. Поэтому CIN/LLPIN, GSTIN, GST-статус, дата регистрации, MCA-статус и выручка за FY25/FY26 не установлены — null, не выдуманы. ВАЖНО по входным данным: 'RANJEET KUMAR' — это имя физлица, а не юрлицо; 'EPAXO AUTOMATION' по формату похоже на торговое наименование/проприеторшип или partnership, у которых CIN отсутствует по определению (только GSTIN/PAN). Заявленный PAN ALPPK9162K: 4-й символ 'P' соответствует типу держателя 'individual' (физическое лицо) — это согласуется с версией проприеторшипа на имя Ranjeet Kumar, но сам PAN по публичным источникам не сверен, поэтому в поле pan оставлен null; pan_holder_type также null, так как формат не подтверждён документально. Роль оставлена 'unknown': отнесение к manufacturer/trader требует проверки деятельности, которую в этом прогоне выполнить не удалось. Отклонение НЕ применяется — нет оснований считать, что юрлица не существует (отсутствие данных ≠ отсутствие компании); статус — 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к GST-порталу/поиску."
+}
