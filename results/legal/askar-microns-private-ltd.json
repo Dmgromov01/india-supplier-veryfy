@@ -1,0 +1,18 @@
+{
+ "name_input": "ASKAR MICRONS PRIVATE LTD",
+ "legal_name": "ASKAR MICRONS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAECA6365M (as claimed in input; not verified against any public record)",
+ "pan_holder_type": "Company (4th character 'C' of the claimed PAN indicates a company holder; based on the claimed string only, not verified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on all attempts; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in returned 404 for the guessed URL; instafinancials.com returned 404; mca.gov.in returned 403; Google returned a redirect/consent page; DuckDuckGo timed out; Bing returned only irrelevant results (Askar telescopes, Askar HVAC) for every query, including exact-phrase queries for 'ASKAR MICRONS PRIVATE LIMITED' and for the claimed PAN 'AAECA6365M' - i.e. no indexed page mentioning this entity was surfaced. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null: not public in any source I could reach, and I will not invent them. The claimed PAN AAECA6365M is format-consistent (5 letters + 4 digits + 1 letter, 4th char 'C' = company), but its existence and holder are unconfirmed. No basis to reject: absence of a retrievable record in this session is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt - rejection criteria are not met. Role left as 'unknown' (no registry/NIC activity code retrieved); the claimed HS codes 732599 (cast iron/steel articles) and 845811 (horizontal lathes) are consistent with a metals/engineering business but are not evidence of manufacturer vs trader status. Recommended next step: manual MCA master-data / GST portal lookup by CIN or PAN before any decision."
+}

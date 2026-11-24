@@ -1,0 +1,9 @@
+{
+ "name_input": "AVIK PHARMACEUTICAL LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned connection errors (searx: Connection refused) on all queries; direct fetches of DuckDuckGo HTML and Google returned timeouts/redirect stubs; Bing returned only unrelated results (speedtest.net, Google Meet help pages), i.e. the search index was not actually queried. The OFAC Sanctions List Search page loaded but is a form-driven tool that cannot be queried via GET parameters, so no name match was executed. ZaubaCorp returned HTTP 403. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all UNVERIFIED - recorded as null, not as 'no hit'. Do NOT read these nulls as a clean result. Per project rules this company must not be rejected on this basis; it should be re-queued for risk screening once search access is restored. Suggested next checks: OFAC SDN + consolidated non-SDN name search, EU consolidated list, UK OFSI, BIS Entity List, eCourts/NCLT/NCLAT by company name, SEBI/ROC enforcement, and CRISIL/ICRA/CARE/India Ratings rating rationales. Note also that the claimed PAN AAACA5490R and the claimed industry 'oil & gas and chemicals' are inconsistent with the claimed HS 293721 (a pharma API code) - flagged for the identity/HS team, not a risk finding."
+}

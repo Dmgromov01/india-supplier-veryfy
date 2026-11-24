@@ -1,0 +1,18 @@
+{
+ "name_input": "AHT",
+ "declared_hs": "847989",
+ "actual_hs_list": [
+  "8479.89",
+  "8462.39",
+  "8479.82",
+  "8436.80",
+  "8428.33",
+  "8428.39",
+  "8426.99",
+  "8479.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт advancehydrautech.com (разделы Metal Recycling / Waste Recycling / Agriculture Waste Recycling / ELV Recycling, About Us, Contact Us) перечисляет реальный продуктовый ряд: гидравлические пакетировочные прессы (High Density Baler, Quad Baler, Triple Action Baler, Continuous Baler, Mini Triple Action Baler, Double Action Baler, Single Action Baler, Vertical Baler, Mobile Baler, Car Baler, Automatic/Semi-Automatic Baler, Triple Action Baler for Waste); ножницы/шредеры (Inclined Shear / Shear Baler, Continuous Shear, Alligator Shear, Single Shaft Shredder, Twin Shaft Shredder, Hammer Mill Shredder, Casting Cracker); Chip Briquetting Machine (Vertical/Horizontal Briquetting Machine); Nibblers; оборудование обработки материалов (Magnetic Separator / UBC Sorter, Conveyors, Grabs & Cranes, Scrap Charging Trolley); MSW Sorting Line; сельхоз-линия (Fodder Block Making Machine, TMR Mixer). Компания позиционирует себя как «Manufacturer of Scrap Recycling Machines» / «Manufacturer/Exporter».",
+ "role_hint": "manufacturer",
+ "comment": "Сопоставление с заявленным 847989: частичное. Код 8479.89 («машины и механические устройства с индивидуальными функциями, прочие») формально покрывает часть номенклатуры — прежде всего брикетировочные машины, сортировочные линии MSW, nibblers, т.е. оборудование без более специфичной товарной позиции. Однако основной и заявленный на сайте как ключевой продукт — гидравлические пакетировочные прессы и гидравлические ножницы/шредеры для металлолома — по ТН ВЭД классифицируется в 8462 (машины для обработки металлов давлением/резки: 8462.39 — прочие машины для гибки/правки/резки металла, 8462.91/8462.99 — части), а не в 8479.89. Шредеры для пластика/бумаги/авто-лома — 8479.82 (смешивание/дробление/измельчение) либо 8477.80 для пластика; конвейеры — 8428.33/8428.39; краны/грейферы — 8426.99/8431.41; сельхоз-линия (Fodder Block Making Machine, TMR Mixer) — 8436.80. Таким образом, декларация 847989 неполна: она не отражает главную товарную линию (8462) и не покрывает линейку обработки материалов и сельхозоборудование. Согласно правилу 3 HS-несоответствие не является основанием для отклонения — компания сохраняется в базе, фактический код корректируется на 8462.39 (основной) с добавлением 8479.89/8479.82/8428.33/8426.99/8436.80 по линейкам; вердикт accepted_hs_corrected. Отраслевая классификация «Нефтегаз и химия» не подтверждается: сайт не содержит ни нефтегазового, ни химического оборудования — фактическая отрасль «оборудование для переработки металлолома и отходов / рециклинг». Признаки трейдера не выявлены: сайт заявляет собственное производство («we design and manufacture», «10000+ machines installed», «35+ turnkey projects»), но это заявление, а не подтверждение — статус «заявлено, не подтверждено». Внимание: заявленный в задании штат Telangana не соответствует публичному адресу на сайте — Khasra No 86/23, Village Ghevra, Mundka Udyog Nagar, Rohtak Road, New Delhi 110081, CIN U74899DL1982PTC013168 (по данным страницы Contact Us; реестры в рамках этой роли не проверялись). Экспортные отгрузки и внутренние поставки в рамках данной роли не проверялись — данных нет (null)."
+}

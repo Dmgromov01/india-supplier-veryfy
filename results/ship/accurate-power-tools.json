@@ -1,0 +1,8 @@
+{
+ "name_input": "Accurate Power Tools",
+ "export_status": "unknown",
+ "export_evidence": "No export record obtained. importkey.com/countries/india/accurate-power-tools and .../accurate-power-tools-umapathy-raj-kumar both returned only the paywalled shell: \"Shipments available for ACCURATE POWER TOOLS, refreshed daily\" — 0 shipment rows visible (counter: 0 rows seen of an undisclosed total). No bill-of-lading number, date, destination or HS code could be read. volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge; DuckDuckGo search backend was down (connection refused) and Google returned a redirect interstitial.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence obtained. No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved — search tooling was unavailable (searx: connection refused) and no registry/catalogue source was in scope. GSTIN/PAN not public in the retrieved material; left null.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники фактических отгрузок оказались недоступны (paywall/403/JS-challenge), поэтому статус по экспорту и внутреннему рынку — unknown, а не confirmed. Заявления сайтов и каталогов фактом не считались. Юрлицо не проверялось по MCA (вне области задачи); сведений о ликвидации/банкротстве нет, но и подтверждения существования нет. declared_hs 846729 (ручные электроинструменты) не подтверждён ни одной таможенной записью — HS не корректировался, так как фактический код установить не удалось. Требуется повторный прогон при доступном источнике таможенных данных."
+}
