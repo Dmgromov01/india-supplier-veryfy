@@ -1,0 +1,9 @@
+{
+ "name_input": "PGP Glass Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no verifiable risk data obtained. Tooling failures: web_search backend refused all connections (searx: Connection refused); DuckDuckGo HTML/lite endpoints returned 403/timeout; Bing returned only irrelevant cached results about 'PGP' encryption software, so no usable page was retrieved for the Indian entity. The domain pgpglass.com resolves to an unrelated Ukrainian glass-container producer ('PGP Glassworks', EDRPOU 33894121, Ukrainian-language site with Ukrainian financial reporting) - it is NOT the Indian company and must not be used as a source for it. pgpglass.in does not resolve. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable and its SDN list is current as of 23.11.2026, but the tool requires an interactive name query and returned no lookup results via direct GET, so no sanctions screening result could be recorded. Therefore: sanctions_hit = null (NOT screened - absence of a hit is not established), court_cases = null (no NCLT/HC/SC docket checked), rating = null (no CRISIL/ICRA/CARE/India Ratings action located), news_risk = null (no negative-news search completed), rf_supply = null (no evidence of Russia/CIS supplies found, but no trade or customs source was successfully queried). Per project rules no values are invented and no rejection is implied - this is a data gap, not a clean bill of health. Recommended follow-up: re-run with working search, screen 'PGP Glass' and 'PGP Glass Pvt Ltd' on OFAC SDN/SSI, EU consolidated, UK OFSI and BIS Entity List; check NCLT Ahmedabad and Gujarat HC; check CRISIL/ICRA/CARE rating rationales; check Indian trade/customs records for RF/CIS destinations. Note the declared PAN AALCP5737F and Gujarat state were not verified by me (out of scope)."
+}

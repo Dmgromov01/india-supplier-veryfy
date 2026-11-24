@@ -1,0 +1,18 @@
+{
+ "name_input": "VISHNU BARIUM PRIVATE LIMITED",
+ "legal_name": "VISHNU BARIUM PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAGCS0968L",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'S' = surname initial of the entity as recorded, consistent with a private limited company PAN). NOTE: PAN is taken from the input as claimed only — it could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data could be retrieved. Tooling failed in this session: the web_search backend returned 'Connection refused' on every query; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in returned 404 for the guessed URL; Google returned only a redirect stub; Bing returned completely irrelevant results (Wikipedia 'Vishnu', nuclear-blast pages) for the exact-phrase queries '\"VISHNU BARIUM PRIVATE LIMITED\" CIN', '\"VISHNU BARIUM PVT LTD\" ANDHRA PRADESH company registration' and '\"AAGCS0968L\"', i.e. no indexed hit for the company name or the PAN. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null and must NOT be treated as confirmed. The PAN AAGCS0968L is reproduced from the input only; its format is structurally valid for a company (4th char 'C') but the holder could not be matched to this legal name from any public profile. State 'Andhra Pradesh' is the input claim and is unverified — no registered-office record was seen. Role left as 'unknown': no MCA main-object clause or GST/udyam classification was retrievable, so manufacturer vs trader cannot be determined. Revenue FY25/FY26 null — no audited accounts or official filing was accessible; no figure is estimated. Per project rules this company is NOT rejected: absence of retrievable data is not evidence of non-existence, strike-off, liquidation or bankruptcy, and no such adverse record was found either. Recommended action: re-run verification when the search backend is restored, or query the MCA master-data / GST public search directly by CIN or GSTIN."
+}

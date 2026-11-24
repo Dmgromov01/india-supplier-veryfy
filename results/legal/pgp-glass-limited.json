@@ -1,0 +1,18 @@
+{
+ "name_input": "PGP Glass Limited",
+ "legal_name": "PGP GLASS LIMITED",
+ "cin_llpin": null,
+ "pan": "AALCP5737F",
+ "pan_holder_type": "P — individual (sole proprietor) per 4th character 'P'; this is inconsistent with a company entity, which would normally carry 'C' (company) at the 4th position. PAN is as claimed in the input and could NOT be independently verified against a public registry record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not absent. The search backend (DuckDuckGo/searx) returned connection refused for all queries, and Bing returned only irrelevant results about PGP encryption. Direct fetches of public company-data profiles (zaubacorp.com, thecompanycheck.com, tofler.in) returned HTTP 403/404, so CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status could not be read from any public source. The only domain reachable under the name 'PGP Glass' (pgpglass.com) is a Ukrainian glass-container plant (PGP Glassworks), which is a different entity and was NOT used as evidence. No audited accounts or official filings were accessible, so FY25/FY26 revenue is null. IMPORTANT FLAG for the analyst: the claimed PAN AALCP5737F has 'P' at the 4th character, which denotes an individual/proprietor PAN, not a company PAN ('C'). Either the PAN is mis-transcribed or it belongs to a proprietorship rather than to 'PGP Glass Limited'. This must be re-checked against the PAN card / GST certificate before the record is used. No rejection is proposed: there is no evidence the entity does not exist, and per project rules non-verification is not grounds for rejection. Status: unverified, pending manual registry lookup (MCA master data + GST portal search by PAN)."
+}

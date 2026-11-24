@@ -1,0 +1,18 @@
+{
+ "name_input": "KANDUI INDUSTRIES PVT LTD (UNIT-II); KANDUI INDUSTRIES PRIVATE LIMITED",
+ "legal_name": "KANDUI INDUSTRIES PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx: connection refused) on every attempt, and direct fetches of registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 403, tofler.in returned 404 for the guessed slug, and DuckDuckGo HTML returned 403. Bing and Google returned only irrelevant/redirect pages, so no CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source. Per the rules, nothing was invented: all registry fields are null. No rejection is proposed - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the entity simply remains unverified. Note on the input: 'Unit-II' suggests a second unit/branch of the same legal entity rather than a separate company, but this is unconfirmed. Role is recorded as 'unknown' because the claimed HS codes (390190, 390469, 390950 - polyethylene/polymer and polyurethane primary forms) are consistent with either a manufacturer or a trader and no MCA business-object clause or factory record was accessible. Revenue FY25/FY26: null - no audited accounts or official filings were reachable. Recommended next step: re-run once the search backend is restored, or query MCA V3 / GST portal directly by legal name to obtain CIN and GSTIN."
+}

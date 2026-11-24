@@ -1,0 +1,18 @@
+{
+ "name_input": "TEJAS ENGINEERING",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": "Individual (4th character 'P' in claimed PAN NLFPS0378G indicates a natural person / proprietorship) — claimed value only, NOT verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": "Not applicable / not found — no LLPIN or CIN located for any entity matching this name plus the claimed PAN",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "IDENTITY NOT ESTABLISHED — no rejection, entity status unconfirmed. (1) The claimed PAN NLFPS0378G returns zero public hits: exact-phrase searches on Bing and DuckDuckGo produced no GST, MCA, tender or registry record for this PAN. The 4th character 'P' would denote an individual, i.e. a proprietorship, which is consistent with the claimed 'legal name' BHASKAR UPRETI being a person rather than a company — but this is inference from PAN format only, not a verified record. (2) 'TEJAS ENGINEERING' is a very common trade name in Maharashtra; public GST profiles show at least four unrelated proprietorships with this exact name, none carrying PAN NLFPS0378G: 27DKLPN7664F1ZL (Bhiwandi, Bhumi World Industrial Park, registered 31/10/2025, nature of business: Supplier of Services / Factory-Manufacturing / Others — source knowyourgst.com profile page); 27AQKPT8225G1ZE (MIDC Satpur, Nashik, registered 06/09/2017, Service Provision — source knowyourgst.com); 27ABNPN9124C1ZK (Rajasthan-something address, registered 01/07/2017, proprietorship — source gstverify.co.in/piceapp.com/tenderkart.in snippets); plus 'Tejas Engineering Works' 27ASDPP5243R1Z2, 27CQIPM3938H1ZH, 27AEIPT5073Q2ZJ and 'Tejas Machine Parts / Tejas Engineering' 27APEPA1295A1ZH. None of these can be attributed to the input record, so no GSTIN is asserted. (3) No CIN/LLPIN exists to report: as a proprietorship there would be no MCA registration; no LLP/company named TEJAS ENGINEERING tied to this PAN was found. (4) Registered-office state therefore cannot be compared with the claimed Maharashtra — the Maharashtra GST registrations above are for different PANs and are not evidence for this supplier. (5) Revenue FY25/FY26: null — a proprietorship has no audited-accounts filing in the public domain, and no official filing was located. (6) Role: unknown — the declared HS 902480 (machines/appliances for testing hardness, tensile, compression of materials) and the claimed industry 'IT и электроника' are inconsistent with each other, and neither is corroborated by any registry record; per project rules this is not a rejection ground and the HS code should be corrected to the factual one once the entity is identified. (7) Per rule 5, no shipment or domestic-supply evidence was assessed in this registry-only pass; no conclusion on actuality of supplies is drawn here. ACTION NEEDED: obtain the correct PAN or the GSTIN from the supplier, or the proprietor's full name as registered, to disambiguate among the several same-named Maharashtra proprietorships. Tooling caveat: the primary search backend (DuckDuckGo/searx) was returning connection-refused errors throughout this pass, and zaubacorp.com returned HTTP 403, so MCA/GST portal coverage was partial."
+}
