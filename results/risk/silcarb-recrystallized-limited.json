@@ -1,0 +1,18 @@
+{
+ "name_input": "SILCARB RECRYSTALLIZED LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bangalore District Court",
+   "case": "M/s Lakshmindra Cargo Movers (rep. by its ...) vs Shambulingayya Shivayya Hiremath",
+   "date": "2024-06-12",
+   "party_role": "Silcarb Recrystallized Pvt. Ltd. appears as a cargo consignor/customer of the transport operator, not as plaintiff or defendant in the dispute itself",
+   "status": "civil freight/cargo dispute between transporter and driver; no adverse finding against Silcarb identified",
+   "source": "https://indiankanoon.org/search/?formInput=%22Silcarb%20Recrystallized%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a clean negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript form and returned no query results via direct fetch, and the web_search backend was down (DuckDuckGo connection refused; Bing returned unrelated AI-generated results). UN/EU/UK/BIS lists were not independently queried. Treat sanctions status as UNVERIFIED, not cleared. Court: only one Indian Kanoon hit (Bangalore District Court, 12.06.2024) — a freight/cargo dispute in which Silcarb is mentioned as the consignor whose consignments were booked; Silcarb is not a party against whom any relief is sought. A search for 'silcarb Russia' on Indian Kanoon returned no matching results. Rating: no credit rating found in public sources — null, not public. News/regulator actions: no negative news or regulator action identified, but search coverage was severely degraded, so absence of evidence here is weak. RF/CIS supply: no evidence of supplies to Russia or CIS found; equally, no evidence affirmatively ruling it out — null. Company identity context (from silcarb.com, not a risk finding): Bangalore-based manufacturer of SiC heating elements, MoSi2 heaters, kiln furniture and industrial furnaces, operating since 1982, 150+ staff; site lists Aerospace, Nuclear and Defence among application sectors, which is a relevant watch-item for dual-use end-use screening but is not itself a risk event. Per project rules, none of the above is a rejection ground. Recommend re-running sanctions screening against OFAC/EU/UK/BIS manually before onboarding."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "SHAH PRECICAST PRIVATE LIMITED",
+ "legal_name": "SHAH PRECICAST PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAECS8077J",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'S' = surname initial of the entity name 'Shah') — format-consistent, but holder identity NOT verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: web_search backend returned 'Connection refused' on all queries; Google/Bing/DuckDuckGo returned irrelevant results and did not honour quoted queries; zaubacorp.com, thecompanycheck.com, mca.gov.in all returned HTTP 403; tofler.in and quickcompany.in returned 404 for the guessed slugs. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and role are all null — NOT because they are absent, but because they were not publicly retrievable within the tool budget. PAN AAECS8077J is carried over from the input only: its format is valid (AAECS8077J: 5 letters + 4 digits + 1 letter, 4th char 'C' = company holder), but I could not confirm it belongs to this entity. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the correct status is 'unverified, pending registry check', not rejected. Recommended next step: re-run against MCA master data / GST portal when search access is restored."
+}

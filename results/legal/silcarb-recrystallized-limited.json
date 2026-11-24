@@ -1,0 +1,18 @@
+{
+ "name_input": "SILCARB RECRYSTALLIZED LIMITED",
+ "legal_name": "SILCARB RECRYSTALLIZED LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AABCS9826L (as claimed in input; not verified against Income Tax / MCA records)",
+ "pan_holder_type": "AABC = Association of Persons (AOP) per 4th-character PAN convention; note this is inconsistent with a company (Pvt/Public Ltd) which should carry the 5th character 'C' — the claimed PAN therefore looks doubtful and needs documentary confirmation",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed: the search backend (searx) returned 'Connection refused' for all queries, and every registry aggregator tried (zaubacorp.com, thecompanycheck.com, instafinancials.com) plus mca.gov.in returned HTTP 403/404. Bing/Google result pages returned irrelevant or blocked content, so no CIN, GSTIN, incorporation date, MCA status or audited revenue could be sourced. What IS confirmed from a primary source: the corporate website silcarb.com (fetched successfully) presents 'SILCARB RECRYSTALLIZED' as a Bangalore-based manufacturer of SiC heating elements, MoSi2 heaters, kiln furniture, technical ceramics and industrial furnaces, operating since 1982, 150+ staff — i.e. the entity appears to exist and is a manufacturer, not a trader. This is a website claim only; no GST filing, MCA filing or audited account was read. State: website states Bangalore plant, consistent with claimed Karnataka, but registered office state is unverified (null). Declared HS 851490 (parts of industrial/laboratory electric furnaces) is broadly consistent with the stated product line (furnaces, heating elements), but per project rules HS is not a rejection ground and no correction is asserted here. No rejection applied: no evidence of non-existence, strike-off, liquidation or bankruptcy was found — the entity is treated as existing pending registry confirmation. All numeric fields left null rather than estimated. Recommended next step: re-run with working search access and pull the CIN from MCA master data, then GSTIN from the GST taxpayer search."
+}

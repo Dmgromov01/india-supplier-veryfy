@@ -1,0 +1,8 @@
+{
+ "name_input": "MAKE 3D",
+ "export_status": "unknown",
+ "export_evidence": "No export record found. importkey.com/countries/india/make-3d, /make3d and /make-3d-jatin all returned the same empty page template: 'Shipments available for MAKE 3D, refreshed daily' with zero shipment rows rendered (0 rows seen; the counter is a static template string, not a data count). No bill-of-lading number, date, destination or HS code was visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence found. No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches for the company and the claimed proprietor 'Jatin Raghavbhai Goti' returned no relevant hits (Bing returned only generic 'make' software results; DuckDuckGo/searx backend was unreachable: 'Connection refused').",
+ "note": "Evidence could not be established either way, so both statuses are 'unknown' rather than 'none_found' — this is a tooling limitation, not a finding of absence. importkey free views rendered no shipment rows for any of three slug variants; volza, eximpedia and trademo all returned HTTP 403 Forbidden; the web_search backend was down for the whole session. Nothing here confirms or refutes the claimed HS 848520 (3D printers/additive manufacturing machinery) or the claimed Haryana location. No CIN, PAN, GSTIN, revenue figure or export volume is public in what I could reach — all left null, not estimated. Per Rule 5, the company's own name/catalogue presence is not treated as shipment fact. Recommend re-running this company once the search backend and a paid trade-data view are available; do not record any shipment as confirmed on the basis of this pass."
+}

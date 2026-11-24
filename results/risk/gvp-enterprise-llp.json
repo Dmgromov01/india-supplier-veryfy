@@ -1,0 +1,9 @@
+{
+ "name_input": "GVP Enterprise LLp",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No public record of the entity could be located. Tooling was degraded during this run: the web_search backend returned connection errors (searx: Connection refused) on every query, and DuckDuckGo HTML endpoint timed out. Fallback Bing queries for the exact strings \"GVP Enterprises LLP\" / \"GVP ENTERPRISES LLP\" (with and without Tamil Nadu / rice / zauba / tofler / indiafilings qualifiers) returned only irrelevant results (EMA pharmacovigilance 'GVP', gvp.org, Punjab Kings IPL pages) - i.e. zero relevant hits, not a confirmed absence. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but the search form is JS/POST-driven and could not be queried via plain HTTP GET, so no name screening was actually executed. Therefore: sanctions exposure = not verified (null), not 'clear'. No Indian court records (e.g. eCourts/NJDG), no regulator action, no credit rating and no negative news could be retrieved - all null, not confirmed clean. No evidence of supplies to Russia or CIS found, but equally no evidence of any activity at all; absence of evidence here is a tooling limitation, not a finding. Recommend re-running with working search backend and a manual OFAC/EU/UK/BIS consolidated-list name check plus eCourts lookup before any risk conclusion. Per project rules, this is not a rejection ground - company stays in the database."
+}

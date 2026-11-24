@@ -1,0 +1,18 @@
+{
+ "name_input": "ARIZONA TOOLS COMPANY",
+ "legal_name": "ARIZONA TOOLS COMPANY (as claimed; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "AASFA0799E (claimed by input; not independently verified)",
+ "pan_holder_type": "A — Association of Persons (AoP), per 4th character 'F'? No: 4th character is 'F' → Firm/Partnership. Correction: PAN 4th char = 'F' = Firm/Partnership (proprietary/partnership firm, not a company). Note: 'AASFA0799E' — chars: A A S F A 0 7 9 9 E; 4th char 'F' = Firm. Format is structurally valid (5 letters + 4 digits + 1 letter).",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no source found. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused'; Bing returned only irrelevant generic 'Arizona' tourism results for both the company name and the PAN; ZaubaCorp, InstaFinancials and mca.gov.in all returned HTTP 403; Tofler search returned 404. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public to me in this run, not asserted as absent. PAN AASFA0799E is taken from the input only and is unverified; its 4th character 'F' indicates a Firm/Partnership holder, i.e. the entity is likely a partnership/proprietary firm rather than a company limited by shares — this is a format-based inference, not a registry fact. Role cannot be determined (no MCA/GST record read); 'unknown', not trader/manufacturer. Revenue FY25/FY26 null: no audited accounts or official filings located. Per project rules the company is NOT rejected — non-existence/struck-off/liquidation/bankruptcy could not be established either way, so no rejection basis exists. HS codes 852990/854370/903180 were not assessed (out of scope for this role). Recommended next step: re-run with working search, or manual MCA master-data / GST portal lookup on PAN AASFA0799E and name 'ARIZONA TOOLS COMPANY' in West Bengal."
+}

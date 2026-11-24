@@ -1,0 +1,9 @@
+{
+ "name_input": "STANLEY CHEMICAL PVT.LTD; M/S STANLEY CHEMICALS PRIVATE LIMITED; STANLEY CHEMICALS PRIVATE LIMITED",
+ "declared_hs": "350510",
+ "actual_hs_list": [],
+ "match_status": "cannot_verify",
+ "product_summary": "Реальные продукты не установлены. Ни сайт, ни каталог, ни карточка IndiaMART не открылись: stanleychemicals.com отдал HTTP 403, indiamart.com/stanleychemicals — HTTP 429 (rate limit). Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), а Bing по запросам «Stanley Chemicals Pvt Ltd India», «Stanley Chemicals India dextrin / maize starch / glue manufacturer» выдал только нерелевантные результаты о брендах Stanley (посуда, инструменты) — ни одной страницы, относящейся к индийской химической компании. Следов товарной номенклатуры не найдено.",
+ "role_hint": "unknown",
+ "comment": "HS 350510 = декстрины и прочие модифицированные крахмалы (гр. 35). Заявленный отраслевой ярлык «Продукты питания и FMCG» с этим кодом не согласуется: 350510 — это промышленный клей/модифицированный крахмал (текстиль, бумага, гофрокартон), а не пищевой FMCG-продукт. Вероятна отраслевая мис-классификация в декларации. Однако подтвердить фактический ассортимент не удалось — все источники (сайт, IndiaMART, поисковики) недоступны, поэтому actual_hs_list пуст, а не «исправлен»: код 350510 остаётся заявленным, не подтверждённым. По правилу 3 HS-несоответствие не является основанием для отклонения — компания сохраняется в базе, вердикт по HS: cannot_verify (не accepted_hs_corrected, т.к. фактический код не установлен). Поле state_claimed содержит мусорный текст поисковой заглушки («Did not find you looking for? Please refine your search...»), а не штат — данные декларации по этому полю недостоверны. PAN AACCS4789D не проверялся (вне моей роли). Рекомендация: повторить проверку при доступном IndiaMART/сайте или запросить у поставщика каталог/инвойс с описанием товара."
+}

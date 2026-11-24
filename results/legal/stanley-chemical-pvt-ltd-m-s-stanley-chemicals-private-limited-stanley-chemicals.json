@@ -1,0 +1,18 @@
+{
+ "name_input": "STANLEY CHEMICAL PVT.LTD; M/S STANLEY CHEMICALS PRIVATE LIMITED; STANLEY CHEMICALS PRIVATE LIMITED",
+ "legal_name": "STANLEY CHEMICALS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AACCS4789D",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN structure); format valid (5 letters + 4 digits + 1 letter). Value taken from input, NOT verified against any public registry record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Did not find you looking for? Please refine your search. Type few letters of company name or pan.",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public source could be read. Tooling failures: DuckDuckGo/searx backend refused connections (web_search returned 'no results' for every query); Bing and Google returned generic/irrelevant results and ignored the quoted company name and PAN; zaubacorp.com, thecompanycheck.com and instafinancials.com all returned HTTP 403. Therefore CIN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public to me in this session, not invented. IMPORTANT DATA-QUALITY FLAG: the 'state_claimed' field is not a state at all — it is a fragment of a website search-box placeholder text ('Did not find you looking for? Please refine your search. Type few letters of company name or pan.'), i.e. the input was scraped from a directory search page, not from a company profile. This means the input record itself is unreliable and the legal name string may be a concatenation of directory aliases rather than the exact MCA name. Also note the declared HS 350510 (dextrins/glues, modified starches) is inconsistent with the claimed industry 'Food & FMCG' — per project rules this is NOT a rejection ground; the company stays in the base and the HS code should be corrected to the actual product line once verified. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation, not a negative finding. Recommended next step: re-run against MCA master data / GST public search with a working search backend before any commercial use."
+}
