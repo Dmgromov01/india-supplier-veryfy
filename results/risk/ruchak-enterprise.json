@@ -1,0 +1,9 @@
+{
+ "name_input": "Ruchak Enterprise",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. All 10 tool calls failed to return usable evidence: the web_search backend refused connections (searx: Connection refused) on every attempt; DuckDuckGo HTML/lite endpoints timed out; Google returned only a redirect/consent interstitial; the Bing proxy returned completely unrelated results (adult content and Microsoft homepage links) for every query, so it is not usable as evidence; zaubacorp.com returned HTTP 403; tofler.in search URL returned a 404 page; search.sanctionslist.io did not resolve. Consequently NOTHING can be asserted about this entity: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) is UNVERIFIED, not 'clear'; Indian court cases (party role, status) UNVERIFIED; regulator actions and negative news UNVERIFIED; credit rating UNVERIFIED; evidence of supplies to Russia or CIS UNVERIFIED. All fields set to null per the rule against inventing data - null here means 'not established', NOT 'none found'. Note also that the claimed name 'RUCHAK ENTPS' / 'Ruchak Enterprise' is a non-standard trade-style name that does not match the usual Indian legal-entity naming pattern (no Pvt Ltd / LLP suffix), and no registry record was reachable to confirm existence; per project rules this is not a rejection ground and is outside my remit (legal identity is another researcher's scope). RECOMMENDATION: re-run this company once search connectivity is restored, prioritising (1) OFAC SDN and BIS Entity List name searches, (2) eCourts/NJDG and Gujarat High Court name search, (3) MCA/Tofler/Zauba record for the PAN ACSPS6286N holder, (4) Indian trade press and Russian/CIS import records. Do not treat this record as risk-cleared."
+}

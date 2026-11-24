@@ -1,0 +1,18 @@
+{
+ "name_input": "NBR COOLING SYSTEMS PRIVATE LIMITED",
+ "legal_name": "NBR COOLING SYSTEMS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAFCN6585K",
+ "pan_holder_type": "F — Firm/LLP (4th character 'F' in AAFCN6585K indicates a partnership firm or LLP, NOT a company; a private limited company's PAN must have 'C' as the 4th character). This is an internal inconsistency in the input data: the PAN supplied cannot belong to a Private Limited company.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Madhya Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed: the web_search backend was down (searx connection refused) and all registry/profile sources returned errors — zaubacorp.com 403, thecompanycheck.com 403, tofler.in 404, instafinancials.com 403/404, quickcompany.in 404, mca.gov.in 403. Bing results were polluted by unrelated 'NBR' (nitrile rubber / National Board of Revenue) hits and returned nothing on this entity; a search on the claimed PAN 'AAFCN6585K' returned only irrelevant results. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrievable in this session, and nothing is invented. IMPORTANT DATA-QUALITY FLAG: the claimed PAN AAFCN6585K has 'F' as its 4th character, which denotes a partnership firm/LLP, not a company; a genuine Private Limited company PAN would read AAxC N6585K with 'C'. Either the PAN or the legal form in the input is wrong and must be re-confirmed with the supplier. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy could not be established either way, and HS-code mismatch is not a rejection ground. Role left as 'unknown' — no evidence of manufacturing plant or trading activity was obtainable. Revenue FY25/FY26: null (no audited accounts or MCA filings accessible). Recommended next step: re-run against MCA master data and GST portal once search access is restored, and request the supplier's CIN and GSTIN certificate directly."
+}

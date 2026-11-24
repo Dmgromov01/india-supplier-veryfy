@@ -1,0 +1,18 @@
+{
+ "name_input": "PATEL INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по открытым источникам в рамках лимита запросов. 'PATEL INDUSTRIES' — крайне неспецифичное имя: под ним в Индии существует множество разных юрлиц (частные компании, LLP и единоличные proprietorship-фирмы без CIN). Поисковый бэкенд (searx/DuckDuckGo) был недоступен (connection refused / timeout), а Google/Bing вернули только нерелевантную выдачу по фамилии 'Patel'; агрегаторы реестров (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдали HTTP 403/404. Поэтому CIN/LLPIN, PAN, GSTIN, дата инкорпорации, MCA-статус и выручка не установлены — все поля null, ничего не выдумано. Отклонять НЕЛЬЗЯ: отсутствие подтверждения существования юрлица не равно его отсутствию (правило 3). Требуется уточнение от заказчика: полное юридическое название с суффиксом (Pvt Ltd / LLP / & Co.), город/округ, PAN или GSTIN, либо подтверждение, что это proprietorship (тогда CIN отсутствует по определению и проверка идёт только по GSTIN). Роль предварительно unknown; заявленный HS 391231 (карбоксиметилцеллюлоза и её соли) не проверялся по правилу 3 — несоответствие HS не является основанием для отклонения."
+}

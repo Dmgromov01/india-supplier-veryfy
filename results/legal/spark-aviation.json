@@ -1,0 +1,18 @@
+{
+ "name_input": "SPARK AVIATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена. Входные данные противоречивы: 'SPARK AVIATION' — название, а 'RUPESH MATHUR' указан как legal_claimed, т.е. это, вероятно, имя физлица/проприетора или директора, а не название компании. Заявленные HS-коды (320890, 320990, 321490 — краски/лаки/штукатурные составы; 401130 — авиационные шины) не соответствуют отрасли 'Строительство и DIY' и названию 'Aviation'. Проверка невозможна: поисковый бэкенд (DuckDuckGo/searx) недоступен — соединение отклонено; Bing по запросам '\"Spark Aviation\" \"Rupesh Mathur\"', '\"Spark Aviation\" India private limited CIN' и site-ограниченным запросам по zaubacorp/tofler/indiafilings вернул только нерелевантные результаты (Apache Spark, Spark mail, Pearson и т.п.) — ни одного индийского юрлица с таким названием не найдено. Реестровые агрегаторы закрыты: zaubacorp.com и instafinancials.com — HTTP 403, thecompanycheck.com — только лендинг без результатов поиска. MCA-портал и GST-портал публичного поиска без капчи не отдают. Следовательно: CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, данные не публичны/не подтверждены. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие подтверждения не равно несуществованию юрлица (правило 3: rejected только при ликвидации/банкротстве/несуществовании, что здесь не установлено). Роль оставлена 'unknown'. Требуется от заказчика точное юрлицо: полное название (например 'Spark Aviation Pvt Ltd' / 'Spark Aviation LLP') либо подтверждение, что это ИП Rupesh Mathur, а также город/штат и GSTIN — после этого проверка выполнима."
+}

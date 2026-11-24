@@ -1,0 +1,18 @@
+{
+ "name_input": "Agarwal Earthmoving Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AALPG2743F",
+ "pan_holder_type": "Individual (4th character 'P' = person) — PAN as claimed in input; not independently verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": "not applicable / not found — no LLPIN or CIN located, so this appears to be a non-corporate entity (proprietorship or partnership firm), which is not registered with MCA",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry research could not be completed: the web_search tool was down (connection refused) for the whole session, and direct fetches of registry/profile sources failed — zaubacorp.com returned HTTP 403, tofler.in search returned 404, mca.gov.in returned HTTP 403, and Bing/Google/DDG HTML endpoints returned only unrelated or blocked results. Consequently NO public record was found for 'Agarwal Earthmoving Enterprises' and nothing could be confirmed. What can be said from the input alone: the 'legal_claimed' field contains a personal name (GOVIND RAM GUPTA), not a company name, and the PAN AALPG2743F has 'P' as its 4th character, i.e. it is an individual PAN — consistent with a proprietorship trading/earthmoving business rather than a company. No CIN/LLPIN, GSTIN, GST status, incorporation date, registered state or audited revenue could be sourced, so all such fields are null rather than guessed. Per project rules the entity is NOT rejected: non-existence/struck-off/liquidation could not be established either way, and absence of public data is not grounds for rejection. Role left as 'unknown' — no evidence of manufacturing capability (no plant, no Udyam/manufacturing GST profile found), and equally no verified trading record. Revenue FY25/FY26: null, no audited accounts or official filings available. Recommended next step: re-run verification when search access is restored, checking GST portal 'Search Taxpayer' for the proprietorship's GSTIN in Delhi and the Udyam/GeM registries; also confirm whether the declared HS 843149 (parts of earthmoving machinery) matches the actual activity once GST HSN data is visible."
+}

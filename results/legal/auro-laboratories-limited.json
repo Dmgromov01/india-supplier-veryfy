@@ -1,0 +1,18 @@
+{
+ "name_input": "AURO LABORATORIES LIMITED",
+ "legal_name": "AURO LABORATORIES LIMITED",
+ "cin_llpin": null,
+ "pan": "AAACA3977D",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'A' = association of persons/body corporate — consistent with a public limited company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1989 (year only, per Screener.in company profile; exact date not verified)",
+ "state_registered": "Maharashtra (per Screener.in/BSE listing profile; registered-office address not read from MCA)",
+ "state_claimed": "Maharashtra",
+ "mca_status": "Active — listed on BSE (scrip 530233), quarterly results filed up to Sep 2026; no strike-off/liquidation/insolvency indication found. MCA master data page could not be opened (Zauba/Tofler/InstaFinancials returned 403/404), so status is inferred from continued BSE filings, not from an MCA extract.",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 19.12,
+ "revenue_fy26_cr": 30.74,
+ "revenue_source": "Screener.in P&L (standalone, Rs crore, sourced from the company's audited/BSE-filed results): FY Mar-2025 Sales 19.12; FY Mar-2026 Sales 30.74. Note: FY25 shows a -64% drop vs FY24 (53.64) and FY26 a +61% rebound — figures taken as filed, not adjusted.",
+ "note": "Registry verification is partial: web_search was unavailable (searx connection refused) and all registry aggregators (Zauba, Tofler, InstaFinancials, TheCompanyCheck) blocked or 404'd, so CIN, GSTIN, GST status and exact incorporation date could NOT be confirmed from a public registry page and are left null rather than guessed. What IS confirmed: the entity exists and is a listed public limited company (BSE: 530233), incorporated 1989, in bulk drugs/APIs (Metformin HCl), with continuous quarterly filings through Sep 2026 — so no ground for rejection. PAN AAACA3977D is format-valid for a company and matches the claimed value, but was not independently cross-checked against an MCA/PAN-India record. Industry claim 'Нефтегаз и химия' (oil & gas / chemicals) is a misclassification: the company is a pharmaceutical API manufacturer; declared HS 300490 (medicaments) is consistent with the actual business, so the HS code is correct and the industry label should be corrected to pharma. Role: manufacturer (own API plant, own brand, toll/custom manufacturing) — not a trader. Revenue figures are from Screener's transcription of filed results, not read directly from the audited PDF; treat as high-confidence but secondary-sourced."
+}

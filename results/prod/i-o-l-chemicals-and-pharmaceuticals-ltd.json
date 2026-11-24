@@ -1,0 +1,18 @@
+{
+ "name_input": "I O L CHEMICALS AND PHARMACEUTICALS LTD",
+ "declared_hs": "293339",
+ "actual_hs_list": [
+  "2916.39 (Ibuprofen — 2-(4-isobutylphenyl)propionic acid, an aromatic monocarboxylic acid; the correct HS-6 for ibuprofen, NOT 2933.39)",
+  "2915.90 (Acetic anhydride, C4H6O3, CAS 108-24-7)",
+  "2915.31 (Ethyl acetate, C4H8O2, CAS 141-78-6)",
+  "2915.90 (Acetyl chloride, CH3COCl, CAS 75-36-5)",
+  "2915.90 (Mono chloro acetic acid, ClCH2COOH)",
+  "2915.39 (Triacetin / glycerol triacetate, C9H14O6, CAS 102-76-1)",
+  "2902.90 (Iso butyl benzene, C10H14)",
+  "2933.39 (other heterocyclic compounds with nitrogen hetero-atom(s) only — plausible for part of the API portfolio, but no specific product on the site corroborates this code)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website www.iolcp.com (Ludhiana, Punjab — No. 85, Industrial Area A) lists two divisions. Specialty Chemicals page (https://www.iolcp.com/business/specialty-chemicals) names: Ethyl Acetate (CAS 141-78-6), Acetic Anhydride (CAS 108-24-7), Triacetin (CAS 102-76-1), Acetyl Chloride (CAS 75-36-5), Mono Chloro Acetic Acid, Iso Butyl Benzene — all 'continuous production'. Home page and navigation describe the company as 'one of the world's largest integrated API & Specialty Chemicals facility', with ibuprofen as the flagship API ('The ibuprofen market holds significant growth potential... we are strategically expanding our value-added services in this segment') and an 'IBU Derivatives' value-chain line. The API product table itself (https://www.iolcp.com/business/active-pharma-ingredients) renders empty in the fetched HTML — individual API names beyond ibuprofen are not publicly readable, so the API list is only partially verifiable.",
+ "role_hint": "manufacturer",
+ "comment": "HS 2933.39 is only partially right. Ibuprofen — the company's flagship and self-declared core product — is an aromatic monocarboxylic acid and belongs in 2916.39, not 2933.39; the declared code therefore does not cover the main product line. Conversely, the entire specialty-chemicals portfolio (ethyl acetate 2915.31, acetic anhydride/acetyl chloride/MCA 2915.90, triacetin 2915.39, isobutyl benzene 2902.90) is absent from the declaration — a whole second business vertical missing. 2933.39 could legitimately apply to some nitrogen-heterocyclic APIs, but no specific product on the site corroborates it, so that part is 'заявлено, не подтверждено'. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: this is a pharma-API + specialty-solvent chemical manufacturer with no oil & gas activity on the site. No trader signs — own plants, own continuous-production lines, own CAS-numbered catalogue, so manufacturer. Per project rule 3 the HS mismatch is not a rejection ground: company is kept, code corrected to the actual product mix (2916.39 for ibuprofen, 2915.31/2915.90/2915.39 for solvents, 2902.90 for isobutyl benzene), verdict accepted_hs_corrected. Note: product mapping is based solely on the company's own website catalogue; no customs line was available to me in this task, so shipment-level corroboration of any code is out of scope here and remains 'заявлено, не подтверждено'."
+}
