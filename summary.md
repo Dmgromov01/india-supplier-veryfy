@@ -1,38 +1,40 @@
 # Supplier verification summary
 
-Companies in results: **86**, fully covered (4/4 roles): **49**
+Companies in results: **548**, fully covered (4/4 roles): **458**
 
 | Role files | count |
 |---|---|
-| legal | 62 |
-| ship | 83 |
-| prod | 58 |
-| risk | 57 |
-| failed (quarantined) | 2 |
+| legal | 509 |
+| ship | 542 |
+| prod | 482 |
+| risk | 470 |
+| failed (quarantined) | 7 |
 
 ## Export evidence
 
 | status | companies |
 |---|---|
-| confirmed | 64 |
-| unknown | 17 |
-| none_found | 3 |
-| declared_only | 2 |
+| confirmed | 347 |
+| unknown | 126 |
+| none_found | 59 |
+| declared_only | 16 |
 
 ## HS match
 
 | status | companies |
 |---|---|
-| cannot_verify | 33 |
-| unknown | 28 |
-| partial | 20 |
-| wrong | 4 |
-| exact | 1 |
+| cannot_verify | 295 |
+| partial | 150 |
+| unknown | 66 |
+| wrong | 33 |
+| exact | 4 |
 
 ## Company role
 
 | role | companies |
 |---|---|
-| unknown | 78 |
-| manufacturer | 6 |
-| manufacturer_trader | 2 |
+| unknown | 494 |
+| manufacturer | 46 |
+| manufacturer_trader | 6 |
+| service_provider | 1 |
+| trader | 1 |
