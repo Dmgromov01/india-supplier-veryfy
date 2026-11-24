@@ -1,0 +1,18 @@
+{
+ "name_input": "MIRANDA AUTOMATION PVT LIMITED",
+ "legal_name": "MIRANDA AUTOMATION PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AACCM7620F (claimed by input; not verified against any public source)",
+ "pan_holder_type": "Company (4th character 'C' in AACCM7620F indicates a company holder) — based on claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint and Google returned 403/redirect walls; Bing returned only irrelevant results about the UK sitcom 'Miranda' for every query variant tried; zaubacorp.com, thecompanycheck.com and instafinancials.com all returned HTTP 403 to direct fetches. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not publicly retrievable through the available tools in this session — they are NOT null because the company was found to be non-existent. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. PAN AACCM7620F is recorded only as claimed by the input; its 4th character 'C' is consistent with a company-type holder, but the PAN itself was not confirmed against any public filing. Role is 'unknown' — no registry record (main-object clause / NIC activity) was obtained to distinguish manufacturer from trader. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible, and figures must not be estimated. Declared HS 843810 (baking machinery / macaroni-plant type heading) is inconsistent with the claimed industry 'metallurgy and mining', but per project rules HS mismatch is not a rejection ground — the code should be corrected to the factual one once the company's actual activity is established; verdict would be accepted_hs_corrected, not rejected. Recommended next step: re-run verification when search backend is restored, or query MCA master data / GST portal directly by PAN AACCM7620F to obtain CIN, GSTIN and status."
+}

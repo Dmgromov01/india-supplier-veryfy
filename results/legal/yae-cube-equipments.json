@@ -1,0 +1,18 @@
+{
+ "name_input": "YAE CUBE EQUIPMENTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AXQPM8766N",
+ "pan_holder_type": "P — individual (natural person), per 4th character of the claimed PAN; NOT a company PAN (companies carry the 4th character 'C'). The claimed PAN therefore cannot belong to a registered company named 'YAE CUBE EQUIPMENTS' — it is either a proprietorship/individual PAN or the claim is erroneous.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data obtained. Tooling failed: web_search backend refused connections (searx urlopen Connection refused); Bing/Google returned only unrelated results (porn/NBA/CNN) for every query variant tried; zaubacorp, instafinancials, falconebiz returned HTTP 403; thecompanycheck 404; search.mca.gov.in DNS did not resolve. Therefore no exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from any public source. Nothing is asserted here as fact. Two observations from the input itself, flagged for follow-up rather than as findings: (1) the 'legal_claimed' field contains 'MARIYA CHINNAMMAL', which is a personal name, not a company name — consistent with a proprietorship/individual trading style rather than a registered company, and consistent with the PAN 4th character 'P'; (2) the claimed PAN AXQPM8766N is an individual PAN, so if the supplier is a proprietorship there will be no CIN and MCA status is not applicable. Per project rules this is NOT grounds for rejection: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt — it is simply unverified. Role left as 'unknown' (no evidence of manufacturing or trading activity was obtainable). Revenue FY25/FY26 left null — no audited accounts or official filings were accessible; not estimated. Recommended next step: re-run with a working search backend and check the GST portal (gst.gov.in search by PAN AXQPM8766N) plus MCA/UDYAM lookup to establish whether this is a proprietorship (Udyam registration) or a company, and to capture the actual GSTIN and registered state."
+}

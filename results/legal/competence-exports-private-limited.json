@@ -1,0 +1,18 @@
+{
+ "name_input": "COMPETENCE EXPORTS PRIVATE LIMITED",
+ "legal_name": "COMPETENCE EXPORTS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AABCC7335C (as claimed in input; not verified against any public source)",
+ "pan_holder_type": "Company (4th character 'C' = company per PAN structure) — based on the claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Bihar",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (searx) returned 'Connection refused' on all queries, and every direct registry/profile source attempted was blocked or unusable — zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 403), mca.gov.in MDS (HTTP 403), tofler.in search (404), duckduckgo html/lite (timeout), Google (redirect/consent wall), Bing (returned only generic dictionary results for the word 'competence', no company pages). Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures for FY25/FY26 were found — all left null rather than guessed. The claimed PAN AABCC7335C is syntactically consistent with a company PAN (4th char 'C'), but its existence and holder are unverified. IMPORTANT: no evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules this company is NOT rejected — it is retained with status unverified/pending. Note also the input inconsistency: declared HS codes (420329 leather gloves, 611610 rubber-coated gloves, 640340/640391 footwear) do not match the claimed industry 'food and FMCG'; per the 23.11.2026 rule this is not a rejection ground — the HS code should be corrected to the actual one and the verdict recorded as accepted_hs_corrected once the entity is confirmed. Recommended next step: manual MCA master-data lookup by name and GST portal search on the claimed PAN to obtain CIN, GSTIN and status."
+}

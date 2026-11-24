@@ -1,0 +1,18 @@
+{
+ "name_input": "WELLMAN ENGG",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search backend returned connection errors ('searx: Connection refused') for every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Bing returned only irrelevant US results (Wellman Dynamics, Vitabiotics Wellman, Fred Wellman) with no Indian entity match. Therefore the claimed legal name 'WELLMAN ENGINEERS & BURNERS PRIVATE LIMITED', the claimed PAN AAACW5259J, CIN, GSTIN, incorporation date, MCA status and revenue are all UNVERIFIED and left null rather than guessed. Note on the claimed PAN: the 4th character 'C' would indicate a company (non-individual) holder, which is consistent with a 'Private Limited' entity, but this is a format observation only, not confirmation that the PAN exists or belongs to this entity. No rejection is recorded: non-existence, strike-off, liquidation or bankruptcy could not be established either way, so the entity is neither accepted nor rejected on registry grounds - it requires re-check against MCA master data / GST portal. Also flag for the data-quality team: the declared HS 841690 (furnace burners / parts of furnaces) does not match the claimed industry 'IT и электроника'; per project rules this is not a rejection ground, but the industry label should be corrected to industrial burner/furnace equipment manufacturing if the entity is confirmed. Role left as 'unknown' pending verification."
+}

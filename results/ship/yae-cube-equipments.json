@@ -1,0 +1,8 @@
+{
+ "name_input": "YAE CUBE EQUIPMENTS",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record obtained. ImportKey pages for three slug variants (yae-cube-equipments, yae-cube-equipment, yae-cube-equipments-coimbatore) all returned the identical empty template: \"Shipments available for YAE CUBE EQUIPMENTS, refreshed daily\" with the shipment table left as \"Loading...\" — 0 rows actually rendered, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes seen. Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page. Search backend (DuckDuckGo/searx) was unreachable (connection refused), so no alternative source could be located.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrieved. No public page for this entity could be opened: web_search returned no results (backend error), and all trade-data aggregators were blocked. Nothing to quote as an evidence line.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных, ни внутренних записей получить не удалось, поэтому статус unknown, а не none_found. Причина техническая: importkey отдаёт пустой шаблон без строк по всем трём вариантам слага, volza/eximpedia/trademo — 403, importgenius — JS-челлендж, поисковик недоступен. Заявленный HS 848190 (части клапанов/арматуры) и отрасль «нефтегаз и химия» ничем не подтверждены и не опровергнуты. PAN AXQPM8766N и владелец MARIYA CHINNAMMAL не проверялись — реестры вне области задачи. Выручка и объём экспорта: null (данных нет, не выдумывать). Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "INDO TORG LLP",
+ "legal_name": "INDO TORG LLP (as claimed; not verified in any public registry during this session)",
+ "cin_llpin": null,
+ "pan": "AAKFI8553L (as claimed by input; NOT verified)",
+ "pan_holder_type": "4th character 'F' = Firm/LLP (per PAN format rules, consistent with an LLP). Note: the 5th character 'I' is unusual for a firm PAN and the number could not be confirmed against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "VERIFICATION INCOMPLETE - NOT A REJECTION. Tooling failure, not evidence of non-existence. DuckDuckGo search backend returned 'Connection refused' on all queries; Bing returned only generic 'Indo' results and ignored quoted/exact-match operators; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in master-data portal returned HTTP 403. Therefore no LLPIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. Per project rules, nothing was invented: all unverified fields are null. The claimed PAN AAKFI8553L decodes structurally as a firm/LLP PAN (4th char 'F'), which is at least consistent with the 'LLP' suffix in the name, but this is a format inference only, not confirmation of the specific number. No basis to reject: the entity was neither shown to be non-existent nor shown to be struck off/liquidated/bankrupt - the registry simply could not be reached. Recommended action: re-run against MCA master data / GST portal when search access is restored, and confirm (a) exact LLPIN, (b) GSTIN and active/cancelled status, (c) registered state vs claimed Delhi, (d) whether the entity is a manufacturer, trader or manufacturer_trader for the claimed HS codes 841182/841990/843149/846799 (power-generation and parts machinery). Revenue FY25/FY26: not public for an LLP of this apparent size - null."
+}

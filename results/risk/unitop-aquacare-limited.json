@@ -1,0 +1,9 @@
+{
+ "name_input": "UNITOP AQUACARE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure during this run: DuckDuckGo search endpoint refused connections (searx: Connection refused) on both queries; Bing HTML endpoint returned unrelated results (query mangling) on two attempts; Google returned only a redirect/consent stub; DuckDuckGo HTML endpoint returned HTTP 403; Zaubacorp and TheCompanyCheck returned HTTP 403; Tofler returned HTTP 404 for the guessed slug. The OFAC Sanctions List Search page was reachable but is a JavaScript form, so no name lookup could be executed via plain HTTP GET — therefore sanctions exposure is NOT confirmed as clear, it is simply unverified. No court records (eCourts/NCLT/High Court), no regulator actions (SEBI/RBI/GST/EPCH), no credit rating (CRISIL/ICRA/CARE/India Ratings) and no Russia/CIS supply evidence could be retrieved. All fields set to null per rule 4 (do not invent data). IMPORTANT: the claimed industry 'IT и электроника' is inconsistent with the company name (aquaculture/aquacare) and with declared HS 841990 (parts of machinery/plant for temperature treatment) — this is a data-quality flag for the identity/HS researcher, not a rejection ground. Per rule 2, nothing here constitutes a rejection ground; per rule 3 the company must not be rejected on this basis. Recommend re-running this risk check when search infrastructure is restored, with direct queries against OFAC SDN/consolidated list, UN Consolidated, EU consolidated, UK OFSI, BIS Entity List, eCourts/NCLT, and CRISIL/ICRA/CARE rating directories."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "GENNOVA BIO PHARMACEUTICALS LTD",
+ "legal_name": "Gennova Biopharmaceuticals Limited (per company's own website gennova.bio, 'Company Profile': 'Gennova Biopharmaceuticals Ltd., headquartered in Pune, India'; exact MCA-registered spelling NOT verified from a registry source)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (Pune) — per company website only; not confirmed against MCA registered-office record",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no identifiers could be confirmed from a public source within the tool budget. What was actually verified: (1) gennova.bio/about-us/company-profile (fetched successfully) states 'Gennova Biopharmaceuticals Ltd., headquartered in Pune, India', a biotechnology company that manufactures recombinant biotherapeutics (bacterial, yeast, mammalian expression platforms) and has commercialised nine products (Elaxim, GEMCOVAC-OM, Hamsyl, PEGEX, TENECTASE, Vintor, Xgrast) — this supports role=manufacturer, not trader. (2) A Bing results page surfaced a Financial Express headline dated Jul 2026 stating Emcure Pharmaceuticals acquired a further 12.05% of subsidiary Gennova Biopharmaceuticals and sold its mRNA business — i.e. the company appears to be an active, going concern subsidiary of a listed parent; the article body itself returned HTTP 403 and was NOT read, so this is a headline-level indication only. NOT verified: CIN, PAN, GSTIN, GST status, incorporation date, MCA status, audited FY25/FY26 revenue. Zaubacorp, TheCompanyCheck and InstaFinancials all returned HTTP 403 / paywalled shells; DuckDuckGo search backend was down (connection refused) and Google/Bing returned only generic cached results, so no registry page could be read. No CIN, PAN, GSTIN or revenue figure is stated here because none was seen on a source — per project rules these are left null rather than inferred. Action needed: re-run with access to MCA master data / a GST public profile to fill CIN, PAN (4th-character holder type), GSTIN, incorporation date and MCA status. No rejection basis found: nothing indicates the entity is non-existent, struck off, liquidated or bankrupt — on the contrary, the website and the 2026 Emcure transaction indicate an operating company. HS codes declared (294200; 300215; 390690) are broadly consistent with a biopharmaceutical manufacturer, but per the 23.11.2026 rule HS mismatch is not a rejection ground in any case. Revenue fields deliberately null — no audited accounts or official filing was accessible."
+}

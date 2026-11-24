@@ -1,0 +1,18 @@
+{
+ "name_input": "ECHAAR EQUIPMENTS PRIVATE LIMITED",
+ "legal_name": "ECHAAR EQUIPMENTS PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AABCE4262G",
+ "pan_holder_type": "AABCE 4th character = 'C' → company (non-individual) PAN. Format is structurally valid (5 letters + 4 digits + 1 letter), but the PAN was NOT verified against any public registry record in this session — it is carried over from the input as 'claimed, unverified'.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed: the search backend returned connection refused / empty results for the whole session, and every registry aggregator attempted returned HTTP 403/404 or timed out (zaubacorp 403, thecompanycheck 403, falconebiz 403, instafinancials 404, MCA master-data 403, DuckDuckGo HTML/lite timed out, Google/Bing returned no relevant hits). Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public in this session, NOT because they do not exist. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so per the rules the company is NOT rejected; it stays in the database with unverified registry fields. Role cannot be determined from registry data alone (declared HS 844316/847150 and 'IT and electronics' are input claims only, not evidence of manufacturing vs trading). Revenue FY25/FY26: no audited accounts or official filings were accessible, so null — not estimated. Recommended action: re-run verification when search access is restored, checking MCA master data by name and the GST portal by the claimed PAN AABCE4262G; also note the declared HS codes (844316 = machinery for working rubber/plastics; 847150 = processing units) do not match the claimed 'IT and electronics' profile cleanly, but per the rules HS mismatch is not a rejection ground and the code should simply be corrected to the actual one."
+}
