@@ -1,0 +1,8 @@
+{
+ "name_input": "MC COM INDUSTRIES INDIA PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'mc-com-industries-india-private-limited' loaded but returned only a paywalled shell: 'Join ImportKey to view the import and export data records of companies all over the world' — 0 shipment rows actually visible (source counter: page states 'Shipments available for MC COM INDUSTRIES INDIA PRIVATE LIMITED, refreshed daily', rows seen: 0). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both queries, so no domestic-supply source could be located; zaubacorp and seair supplier pages returned HTTP 403 / 404.",
+ "note": "Evidence gap, not a negative finding. ImportKey free view exposes no rows; volza, eximpedia, trademo returned HTTP 403 and importgenius returned a JavaScript challenge, so no second source could be read. Therefore neither export shipments nor domestic supplies are confirmed or refuted — status recorded as unknown rather than none_found, because the absence of visible rows is a paywall artefact, not proof of no shipments. Declared HS 854110 (diodes/semiconductor devices) is unverified against any actual customs line; no HS correction is proposed since no shipment record was seen. Revenue and export volume: null (not public in any source reached). No CIN/PAN verified — PAN AAECM5983B is as claimed by the requester only. Recommended next step: paid ImportKey/Volza export or DGFT/ICEGATE lookup to obtain dated B/L lines before any verdict."
+}

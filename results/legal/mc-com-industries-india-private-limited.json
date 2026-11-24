@@ -1,0 +1,18 @@
+{
+ "name_input": "MC COM INDUSTRIES INDIA PRIVATE LIMITED",
+ "legal_name": "MC COM INDUSTRIES (INDIA) PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAECM5983B (as claimed in input; not verified against a public registry record)",
+ "pan_holder_type": "Company (4th character 'C' = company per PAN structure) — based on the claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned 'Connection refused' on all queries, and every public registry/profile source attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, quickcompany.in, falconebiz.com, mca.gov.in, search.mca.gov.in) returned HTTP 403/404 or DNS failure. Bing/Google HTML endpoints returned only irrelevant results, so no CIN, GSTIN, incorporation date, MCA status or audited revenue could be sourced. Nothing is asserted as fact: CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null because they are not publicly retrievable in this session. The claimed PAN AAECM5983B has a valid format with 'C' in the 4th position (company holder type), but the PAN itself is unverified. Role is 'unknown' — no registry document (MOA objects / NIC activity code) was readable to distinguish manufacturer from trader. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy — the absence of data is a tooling limitation, not a negative finding. Recommended action: re-run verification when registry access is restored, checking MCA master data for the exact CIN, GSTIN status on the GST portal, and FY25/FY26 audited filings."
+}

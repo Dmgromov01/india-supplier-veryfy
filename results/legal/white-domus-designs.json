@@ -1,0 +1,18 @@
+{
+ "name_input": "WHITE DOMUS DESIGNS",
+ "legal_name": "WHITE DOMUS DESIGNS",
+ "cin_llpin": null,
+ "pan": "AACFW3821B",
+ "pan_holder_type": "Firm (4th character 'F' = partnership firm / LLP-type entity, not a company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - tooling failure, not a negative finding. All search backends were unusable during this run: web_search returned 'Connection refused' (searx down); DuckDuckGo html/lite endpoints timed out; Bing returned only generic 'white' colour results for every query, including exact-phrase queries for the name and for the PAN; zaubacorp.com, instafinancials.com and mca.gov.in returned HTTP 403; gstsearch.in 404; tofler.in search 404. Therefore no public profile could be read and no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be sourced. PAN AACFW3821B is taken as supplied by the input only - it was NOT independently confirmed against any public record; its 4th character 'F' indicates a partnership firm, which means the entity would have no CIN and would be registered with the Registrar of Firms rather than the MCA, so 'mca_status' may legitimately be non-applicable rather than unknown. No rejection applied: there is no evidence the entity does not exist, and absence of data is not grounds for rejection under the project rules. Revenue FY25/FY26 left null per rule 4 (no audited accounts or official filings accessible). Role left 'unknown' - no evidence of manufacturing plant, GST turnover or trade activity was obtainable. Recommended action: re-run this company when search/registry access is restored, checking MCA master data (if a company), the Delhi ROF firm register, and the GST public search by PAN AACFW3821B to obtain the GSTIN and filing status."
+}

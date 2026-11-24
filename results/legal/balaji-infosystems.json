@@ -1,0 +1,18 @@
+{
+ "name_input": "Balaji Infosystems",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реквизита. Поисковый бэкенд (DuckDuckGo/searx) в этой сессии недоступен — возвращал ошибку соединения либо нерелевантную выдачу; прямые запросы к реестровым агрегаторам (zaubacorp.com, instafinancials.com, thecompanycheck.com) и к порталу MCA (mca.gov.in) вернули HTTP 403/404. Входные данные противоречивы: в поле legal_claimed указано имя физлица 'LALIT NARSINGDAS AGARWAL', а не наименование юрлица, поэтому точное юридическое наименование, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, дата регистрации, штат регистрации, статус MCA и роль (manufacturer/trader/...) установить не удалось — все поля null. Выручка за FY25 и FY26 не найдена в аудированной отчётности или официальных filings — null. Отклонение НЕ применяется: отсутствие данных не является доказательством несуществования юрлица (правило 3). Требуется повторная проверка при доступном поиске/реестре; вероятно, что 'Balaji Infosystems' — торговое наименование ИП или проприеторшипа (что согласуется с указанием имени физлица), тогда CIN отсутствует по определению и нужен GSTIN как основной идентификатор."
+}

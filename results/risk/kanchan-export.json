@@ -1,0 +1,9 @@
+{
+ "name_input": "KANCHAN EXPORT",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Research could NOT be completed: the DuckDuckGo search backend returned connection errors ('searx: Connection refused') on every query, and fallback engines (Google, DuckDuckGo HTML, Bing) returned either timeouts or completely irrelevant results — Bing ignored the quoted phrase \"RARE DIAM LLP\" and served generic dictionary/gaming pages, and the query \"Kanchan Export\" \"Rare Diam\" returned Microsoft corporate pages. ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form whose lookup results cannot be retrieved via plain HTTP GET, so no name screening was actually performed. Therefore: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — NOT because they were checked and found clean, but because no source could be read. Do not treat these nulls as a clean bill of health. No sanctions, court, regulatory, credit-rating or Russia/CIS supply evidence was found or ruled out. Also note a data-quality flag outside my scope (for the identity/HS researcher, not a rejection ground): the claimed legal entity 'RARE DIAM LLP' is a diamond/gems entity (declared HS 7102/7104 are diamonds and synthetic stones) while the claimed industry is 'Пищевые продукты и FMCG' — these are mutually inconsistent, and the trade name 'Kanchan Export' does not match the claimed LLP name. Per project rules this is not a rejection ground; the company stays in the base. Recommend re-running this risk check when search access is restored, with manual screening against OFAC SDN, UN, EU, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NCLT) and CRISIL/ICRA/CARE rating databases."
+}

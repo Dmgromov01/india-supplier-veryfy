@@ -1,0 +1,18 @@
+{
+ "name_input": "KEKULE PHARMA LIMITED",
+ "legal_name": "KEKULE PHARMA LIMITED",
+ "cin_llpin": null,
+ "pan": "AABCK3469K",
+ "pan_holder_type": "AABC — 4th character 'C' = company (non-individual); PAN is as claimed in the input and could NOT be independently verified against an MCA/ITD record in this session",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Telangana",
+ "state_claimed": "Telangana",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no data invented. What was confirmed from a primary source: the company's own website kekulepharma.com (fetched) describes Kekule as an 'Active Pharmaceutical Ingredients (API) and Intermediates manufacturer', founded 1986, with three plants (Hyderabad, Vijayawada, Visakhapatnam), and gives the corporate address 8-3-680, LIC Colony, Yellareddyguda, Hyderabad 500073, Telangana — consistent with the claimed state Telangana. Management page names Raja Rao Kudaravalli (Chairman) and Sridhar Kudaravalli (Managing Director). NOT confirmed: CIN/LLPIN, GSTIN, GST status, exact date of incorporation, MCA status (active/struck off), and audited revenue for FY25/FY26 — all set to null. Reason: the search backend (searx) was down ('Connection refused') and every registry aggregator attempted (zaubacorp, thecompanycheck, tofler, quickcompany, instafinancials) returned HTTP 403/404; Bing/Google/DDG returned irrelevant or blocked results. The PAN AABCK3469K is carried over from the input only; its 4th character 'C' indicates a company-type holder, which is consistent with a limited company, but the PAN itself is unverified. No rejection basis found: the entity clearly exists and operates (live corporate site, named directors, three plants), so it is NOT rejected. HS codes 293090/293339/293359/293399 (heterocyclic/organosulphur chemical compounds) are broadly consistent with an API/intermediate manufacturer, but per project rules HS mismatch is not a rejection ground in any case. Action needed: re-run registry lookup (MCA master data / GST portal) when search access is restored to fill CIN, GSTIN, incorporation date, MCA status and revenue."
+}
