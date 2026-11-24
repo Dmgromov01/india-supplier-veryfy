@@ -1,0 +1,18 @@
+{
+ "name_input": "VITAL CHEMTECH LIMITED",
+ "legal_name": "VITAL CHEMTECH LIMITED",
+ "cin_llpin": null,
+ "pan": "AAICV4201F",
+ "pan_holder_type": "Company (4th character 'C' = company; PAN format valid, 5th char 'V' = surname initial of the entity as registered) — PAN taken from the input, NOT independently verified against MCA/Income Tax records",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: search backend (searx) returned 'Connection refused' on all queries; Google/Bing returned only generic 'Vital' results with no Indian company match; DuckDuckGo, ZaubaCorp, TheCompanyCheck returned HTTP 403; Tofler and QuickCompany returned 404 for the guessed URL slugs; InstaFinancials root page loaded but no company record retrievable; company website vitalchemtech.com failed TLS (hostname mismatch) and IndiaMART returned HTTP 429. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 could NOT be confirmed from any public source and are left null — no values invented. The PAN AAICV4201F is reproduced from the input only; its 4th character 'C' is consistent with a company-type holder, but this is a format check, not verification. No basis for rejection under the rules (entity existence/struck-off/liquidation/bankruptcy could not be established either way) — status is 'unverified', not rejected. Role left 'unknown' because no MCA business-object or GST activity data was retrievable. Recommend re-run when registry access (MCA master data / GST portal) is available."
+}

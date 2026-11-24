@@ -1,0 +1,18 @@
+{
+ "name_input": "Softech Hydraulic",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AFBPI2594F",
+ "pan_holder_type": "Individual (4th character 'P' = person) — the claimed PAN is an individual PAN, not a company PAN; it matches the claimed proprietor name 'MD ASHAD IMAM' pattern, but the PAN itself could not be verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence; entity status simply unverified. Registry research could not be completed: the web_search backend returned connection errors for every query, and all registry aggregators attempted (zaubacorp.com, tofler.in) returned HTTP 403 / 404, while Bing/Google returned only unrelated 'Softech' software/surfboard companies and no hit for the exact name 'Softech Hydraulic' or for PAN AFBPI2594F. Consequences: (1) No CIN/LLPIN found — consistent with the input being a proprietorship/firm rather than a company, since the claimed PAN is an individual PAN (4th char 'P'), so an MCA record may legitimately not exist; MCA status therefore null, not 'not found = struck off'. (2) No GSTIN located on any public profile, so GST status null. (3) Registered-office state vs claimed Delhi unverified. (4) Revenue FY25/FY26 null — no audited accounts or official filings accessible; not estimated. (5) Role unknown: no registry or filing evidence of manufacturing vs trading; the claimed industry 'metallurgy & mining' is unverified and HS 841221/841229 (hydraulic cylinders/engines) is a plausible but unconfirmed fit. Per project rules, absence of HS fit or of public data is not grounds for rejection; company retained in base as unverified. Recommend re-run when search backend is restored, or manual check of the GST portal / Udyam / MCA name search for 'Softech Hydraulic' in Delhi."
+}

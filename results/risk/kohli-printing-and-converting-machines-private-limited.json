@@ -1,0 +1,9 @@
+{
+ "name_input": "KOHLI PRINTING AND CONVERTING MACHINES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', DuckDuckGo HTML/lite — 403, Brave — 429, Bing отдавал только нерелевантные кэшированные результаты (страницы про Вирата Кохли, Kohl's), ZaubaCorp — 403. Прямой доступ к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но инструмент работает на JS и результаты запроса через http_get не возвращаются — фактического скрининга по SDN/Non-SDN не выполнено. Никаких сведений о санкциях (OFAC SDN, UN, EU, UK, BIS Entity List), индийских судебных делах (роль стороны, статус), действиях регуляторов, негативных новостях с датами, кредитном рейтинге (дата/статус) и поставках в РФ/СНГ получить не удалось. Все поля оставлены null — данные не публичны либо не найдены; ничего не выдумано. Требуется повторный прогон при доступном поиске и/или проверка по платным реестрам (ZaubaCorp/Tofler, eCourts, NCLT, OFAC/BIS/UK OFSI/EU consolidated list) вручную. Отклонение по правилу 2 не применяется: санкции/суды/уголовные дела не являются основанием для отклонения; при обнаружении — формулировка «есть сложности»."
+}
