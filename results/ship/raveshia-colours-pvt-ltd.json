@@ -1,0 +1,8 @@
+{
+ "name_input": "RAVESHIA COLOURS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/raveshia-colours-pvt-ltd returned only a page shell: 'Shipments available for RAVESHIA COLOURS PVT LTD, refreshed daily' — 0 shipment rows actually rendered (counter says data exists, rows seen = 0). No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, so no domestic-supply source could be located.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни одной фактической записи (экспортной B/L или внутренней поставки) получить не удалось. ImportKey отдал только шаблон страницы без строк (счётчик заявляет наличие данных, фактически увидено 0 строк). volza.com, eximpedia.app, trademo.com — HTTP 403; importgenius.com — JS-челлендж; zaubacorp.com — HTTP 403; web_search — бэкенд недоступен (Connection refused). Заявленные HS 284150;320620;690721 и PAN AAACQ0808R не проверены по таможенным записям. Выручка и объём экспорта: null (не публичны / не получены). Статус 'unknown', а не 'none_found', поскольку источники были недоступны, а не пусты — при повторной проверке с рабочим доступом к Volza/Eximpedia вопрос закрывается."
+}

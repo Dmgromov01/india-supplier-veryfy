@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S A.F. EXPORTS",
+ "legal_name": "A F EXPORTS (exact legal entity name not verified — no registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record found. Search infrastructure failed during this run: DuckDuckGo/searx backend returned 'Connection refused' on both queries; ZaubaCorp and QuickCompany returned HTTP 403/404; IndiaMART returned HTTP 429; Google returned a redirect interstitial; Bing returned only irrelevant results (letter 'A' / US Air Force) for all three query variants. ExportersIndia directory search for 'A.F. Exports' and 'AF Exports' returned 0 results in India, which is a negative signal but NOT proof of non-existence (that directory covers only registered members). Consequently: CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, MCA status and revenue are all null — not public/not retrieved, NOT invented. The name form 'M/S A.F. EXPORTS' with no Pvt Ltd/Ltd/LLP suffix and no PAN supplied is consistent with a proprietorship or partnership, which would have no CIN and no MCA record at all; in that case PAN 4th-character holder-type determination and GSTIN lookup would require the GST portal or the Udyam/MSME registry, neither of which was reachable. Registered-office state could not be confirmed against the claimed Uttar Pradesh. Role left as 'unknown' — no evidence of manufacturing plant, no evidence of trading activity. Per project rules this company is NOT rejected: absence of a found record is not proof of non-existence, liquidation or bankruptcy, and no such finding was made. ACTION REQUIRED: re-run with working search, or obtain the GSTIN/PAN from the supplier directly, then verify on gst.gov.in and the MCA/Udyam portals. Revenue FY25/FY26: null — no audited accounts or official filings located; for a proprietorship/partnership these are typically not public at all."
+}
