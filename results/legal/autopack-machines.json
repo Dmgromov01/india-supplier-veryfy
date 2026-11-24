@@ -1,0 +1,18 @@
+{
+ "name_input": "Autopack Machines",
+ "legal_name": "AUTOPACK MACHINES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the search backend (DuckDuckGo/searx) returned connection refused for all queries, and every direct registry/aggregator fetch failed — zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, mca.gov.in 403 Forbidden, tofler.in 404 (no such company slug), instafinancials.com 404. Bing/Google HTML fallbacks returned irrelevant results, so no page confirming the entity's CIN, PAN, GSTIN, incorporation date or MCA status was actually read. Therefore CIN, PAN, GSTIN, incorporation date, registered state and MCA status are all null — NOT verified, not confirmed absent. The claimed PAN AABCA2915L was not cross-checked against any public record; note that the 4th character 'C' would denote a company-type holder, which is consistent in form with a private limited company, but this is a format observation only, not verification. Role left as 'unknown' because no MCA main-object clause or GST/registration evidence was retrieved. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Per project rules the company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy was not established; the correct status is 'unverified, pending registry check'. Recommended next step: re-run with a working search backend or paid registry API (MCA V3 / Zauba / Tofler) to obtain CIN, GSTIN and FY25/FY26 filings. Also note the declared HS 842240 (packaging machinery) is inconsistent with the claimed industry 'food & FMCG' — per rules this is not a rejection ground; the HS code should be recorded as 842240 (machinery) and the industry label corrected to packaging machinery manufacturing."
+}

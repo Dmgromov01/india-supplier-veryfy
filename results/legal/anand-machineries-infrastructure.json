@@ -1,0 +1,18 @@
+{
+ "name_input": "Anand machineries & infrastructure",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "ABPFA9449K",
+ "pan_holder_type": "P — individual (natural person), per 4th character 'F'... correction: 4th character is 'F', which denotes a Firm/Partnership firm (LLP/partnership); the 'P' in position 3 denotes person type. Interpretation: 4th char 'F' = Firm. PAN is as claimed in input, NOT independently verified against any public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; equally, no registry record could be retrieved. Verification was blocked by tooling: the web_search backend returned 'Connection refused' on all queries; zaubacorp.com and instafinancials.com returned HTTP 403; tofler.in search returned a 404 page; search.mca.gov.in did not resolve (DNS failure); Bing/Google returned only unrelated generic results for the exact-name queries. Consequently the exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — these are not public to me in this session, not 'absent'. PAN ABPFA9449K is carried over from the input only; its 4th character 'F' indicates a Firm/partnership holder, which is inconsistent with a private-limited company and should be re-confirmed with the supplier (PAN card / GST certificate). State 'Maharashtra' is unverified. Role left as 'unknown' — no registry document (MOA objects, Udyam/ factory licence) was readable, so manufacturer vs trader cannot be established. Revenue FY25/FY26 null: no audited accounts or MCA filings accessible. Per project rules the company stays in the database pending a manual registry pull (MCA master data + GST portal search by PAN)."
+}
