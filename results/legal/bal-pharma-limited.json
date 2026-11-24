@@ -1,0 +1,18 @@
+{
+ "name_input": "BAL PHARMA LIMITED",
+ "legal_name": "BAL PHARMA LIMITED",
+ "cin_llpin": "L85110KA1987PLC008368",
+ "pan": "null",
+ "pan_holder_type": "null — PAN not published on any accessible public profile; cannot be derived. (Note: CIN's 4th character 'L' denotes a listed public company, not PAN.)",
+ "gstin": "null",
+ "gst_status": "null — GSTIN not retrievable: gstsearch.in returned 404 and registry aggregator GST tab unavailable; no public GST profile read.",
+ "incorporation_date": "1987-05-19",
+ "state_registered": "Karnataka (ROC Bangalore; registered office 21-22, Bommasandra Industrial Estate, Bangalore South, Karnataka 560099)",
+ "state_claimed": "Telangana",
+ "mca_status": "Active (status Active; last balance sheet filed 31-03-2026; AGM 24-09-2026; public listed non-government company; paid-up capital ₹15.92 Cr)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 302,
+ "revenue_fy26_cr": 311,
+ "revenue_source": "Screener.in company page (BSE: 524824 / NSE: BALPHARMA), Standalone Profit & Loss, figures in Rs. Crores: Mar 2025 Sales 302, Mar 2026 Sales 311 (sourced from the company's filed audited results). Consolidated figures not read — treat as standalone.",
+ "note": "Entity exists and is active — no rejection ground. Legal name confirmed as BAL PHARMA LIMITED, CIN L85110KA1987PLC008368, incorporated 19-05-1987, ROC Bangalore (source: instafinancials.com company master page; CIN also printed on the company's own website footer balpharma.com). STATE MISMATCH: input claims Telangana, but the registered office is in Karnataka (Bangalore); the company does operate plants in other states (Pune, Rudrapur, Sangli, Udaipur) but none in Telangana per its own site — state should be corrected to Karnataka. Role: manufacturer — own API/FDF manufacturing units (Bangalore Units 1-2, Pune, Rudrapur, Sangli, Udaipur) per balpharma.com; also exports APIs/formulations, but no separate trading-entity evidence, so 'manufacturer'. Declared HS 293399/293590 (heterocyclic/other organo-sulphur compounds) is consistent with its bulk-drug/API business — no HS correction needed. PAN and GSTIN are not public on the pages reachable in this session (zaubacorp 403, quickcompany/cleartax 404/410, gstsearch 404) — left null rather than guessed. Revenue figures are standalone audited-filing-based sales from Screener.in; FY26 figure is from the year ended 31-03-2026 accounts as filed. No customs/shipment or court research performed per role scope."
+}

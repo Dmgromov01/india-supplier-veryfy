@@ -1,0 +1,18 @@
+{
+ "name_input": "Sharda Mining Services & Technology",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ВЕРИФИКАЦИЯ НЕ ВЫПОЛНЕНА — нет доступа к источникам. Все попытки получить данные провалились: web_search вернул 'searx: Connection refused' (бэкенд поиска недоступен); DuckDuckGo HTML — HTTP 403; Bing выдавал нерелевантные AI-сгенерированные результаты (авиакомпании, паводки в Роли) вместо запрошенной компании; zaubacorp.com, instafinancials.com — HTTP 403; tofler.in — 404 на поисковом URL. Ни одна запись реестра (CIN, PAN, GSTIN, дата инкорпорации, MCA-статус) не была прочитана ни на одном источнике, поэтому все поля оставлены null — цифры и идентификаторы не выдумывались. ВАЖНО по входным данным: 'NEETA PRAKASH KUKREJA' в поле legal_claimed — это имя физлица, а не наименование юрлица; вероятно, речь о proprietorship/individual-предприятии, у которого не будет CIN (только PAN/GSTIN), либо о партнёрской фирме (LLPIN). PAN AOSPK1768H: 4-й символ 'P' по формату PAN означает индивидуального плательщика (person/individual), что согласуется с версией proprietorship — но сама строка PAN НЕ подтверждена ни одним публичным источником, это лишь разбор формата заявленного значения, а не верифицированный факт. Роль (manufacturer/trader) не определена. Выручка FY25/FY26: null — аудиторская отчётность не найдена и не могла быть найдена. Отклонять НЕЛЬЗЯ: отсутствие данных не является основанием для rejected (нет доказательств несуществования/ликвидации/банкротства). Требуется повторный запуск проверки при восстановлении доступа к поиску и реестрам (MCA, GST-портал)."
+}

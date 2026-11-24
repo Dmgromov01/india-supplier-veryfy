@@ -1,0 +1,9 @@
+{
+ "name_input": "NAVPAD IMPEX",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый инструмент (DuckDuckGo/searx) возвращал 'Connection refused', DuckDuckGo HTML — таймаут, Google — редирект-заглушка, Bing по запросам \"Navpad Impex\" / \"Navpad Impex India company\" / \"Navpad impex Surat OR Ahmedabad OR Gujarat\" выдал полностью нерелевантную выдачу (Walgreens, ESPN, Gemini) — то есть ни одного релевантного результата по компании получено не было. Прямой запрос к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) отдал только интерфейс формы без возможности выполнить поиск через http_get, поэтому проверка по SDN/Non-SDN фактически не выполнена. По этой же причине не проверены: судебные дела (eCourts/NJDG, High Court of Gujarat), действия регуляторов (CDSCO, GST, DGFT), негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ. Все поля оставлены null — данные не выдумывались. ВАЖНО: null здесь означает 'не проверено', а не 'чисто'. Компания НЕ отклоняется (правило 2 и 3): нет оснований для rejected, так как отсутствие данных не является негативным фактом. Требуется повторный прогон при восстановлении доступа к поиску; приоритетные проверки: OFAC SDN + BIS Entity List по точному написанию, eCourts по Gujarat, реестр CDSCO (заявленный профиль — фармацевтика, коды 3004xx, что расходится с заявленной отраслью 'нефтегаз и химия' — это вопрос к профилированию, не к риску)."
+}

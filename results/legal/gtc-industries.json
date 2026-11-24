@@ -1,0 +1,18 @@
+{
+ "name_input": "GTC INDUSTRIES",
+ "legal_name": "GTC Industries Limited (unverified — see note)",
+ "cin_llpin": null,
+ "pan": "AACFG6605R",
+ "pan_holder_type": "Company (4th character 'F' = Firm/Company-type PAN; 'C' would be company, 'F' denotes firm — holder type could not be confirmed against MCA records)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — research could not be completed. The web_search tool returned 'Connection refused' (searx backend down) on every attempt, and all registry sources attempted returned HTTP 403 or timed out: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (404 on the guessed URL, homepage only), mca.gov.in MDS portal (403), duckduckgo html/lite endpoints (timeout), google.com/search (redirect/consent wall). No CIN, GSTIN, incorporation date, MCA status or revenue figure could be read from any authoritative source, so all such fields are null rather than guessed. The PAN 'AACFG6605R' is reproduced from the input only and was NOT independently validated; note that the 4th character 'F' in the PAN format denotes a Firm, which is inconsistent with a company-type entity — this needs checking against the PAN card / MCA master data. The claimed HS code 901060 (photographic projection screens) is also inconsistent with the claimed industry 'IT и электроника' and with the historical profile of the GTC Industries name (cigarettes/tobacco, a long-suspended listed entity), so the identity of the legal entity behind this input is genuinely uncertain. Per project rules no rejection is issued: there is no evidence the entity does not exist, and absence of data is not grounds for rejection. Action required: re-run verification when the search backend is restored, or supply the CIN/GSTIN so the MCA master data and GST public profile can be pulled directly. Until then this record must be treated as 'заявлено, не подтверждено' — no registry facts confirmed."
+}

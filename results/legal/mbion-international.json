@@ -1,0 +1,18 @@
+{
+ "name_input": "MBION International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on both queries, and fallback engines (Bing, DuckDuckGo HTML, Google) returned only unrelated results for the queries '\"MBION International\" GST Maharashtra', '\"MBION\" \"ALYPS5422K\"' and '\"MBION International\" IndiaMART OR proprietor OR GSTIN'. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com (HTTP 403), instafinancials.com (HTTP 403), tofler.in search (404). Therefore no legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. The claimed PAN ALYPS5422K was NOT verified; note only that its 4th character 'P' would denote an individual (proprietor) holder type if the PAN is genuine - this is a format observation, not a verification. The claimed 'legal_claimed' value 'CHINTAN MAHENDRA SHAH' is a person's name, not a company name, so the entity is most likely a proprietorship, which has no CIN and no MCA record; this is unconfirmed. No rejection applied: absence of retrievable records is not evidence of non-existence, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown'. Revenue FY25/FY26 left null - no audited accounts or official filings were accessible; not estimated. Recommend re-running this company when the search backend is restored, checking the GST portal public search for the trade name and the PAN, and the Udyam/proprietorship registration if applicable."
+}

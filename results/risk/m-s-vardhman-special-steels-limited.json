@@ -1,0 +1,91 @@
+{
+ "name_input": "M/S VARDHMAN SPECIAL STEELS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Punjab & Haryana High Court",
+   "case": "Vardhman Special Steels vs State Of Punjab And Ors",
+   "date": "2003-07-15",
+   "role": "petitioner",
+   "status": "decided (reported [2004]138STC69(P&H))",
+   "subject": "sales tax",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "Punjab & Haryana High Court",
+   "case": "Vardhman Special Steels Ltd vs State Of Punjab & Ors",
+   "date": "2016-08-10",
+   "role": "petitioner",
+   "status": "decided",
+   "subject": "tax",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "Punjab & Haryana High Court",
+   "case": "Vardhman Special Steels Ltd vs The State Of Punjab And Another (CWP 4227/2014)",
+   "date": "2014-03-06",
+   "role": "petitioner",
+   "status": "decided",
+   "subject": "tax",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "Punjab & Haryana High Court",
+   "case": "PSPCL And Anr vs M/S Vardhman Special Steels Ltd And Anr",
+   "date": "2025-09-04",
+   "role": "respondent",
+   "status": "pending/listed 2025 (outcome not visible in snippet)",
+   "subject": "electricity/power utility dispute",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "Allahabad High Court",
+   "case": "M/S Vardhman Special Steels Limited vs State Of U.P. Through Secretary And 3 Others (Writ Tax 238/2018)",
+   "date": "2019-10-15",
+   "role": "petitioner",
+   "status": "decided",
+   "subject": "tax",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "ITAT Chandigarh",
+   "case": "Vardhman Special Steels Ltd., Ludhiana vs DCIT, Circle-1, Ludhiana (AY 2018-19)",
+   "date": "2025-05-20",
+   "role": "appellant",
+   "status": "decided",
+   "subject": "income tax",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "ITAT Chandigarh",
+   "case": "DCIT C-1 Ludhiana vs M/s Vardhman Special Steels Ltd (AY 2014-15)",
+   "date": "2019-04-04",
+   "role": "respondent",
+   "status": "decided",
+   "subject": "income tax; PAN AADCV4812B stated in order",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "ITAT Chandigarh",
+   "case": "DCIT vs M/s Vardhman Special Steels Limited (AY 2012-13)",
+   "date": "2017-12-11",
+   "role": "respondent",
+   "status": "decided",
+   "subject": "income tax",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  },
+  {
+   "court": "Customs, Excise & Gold Tribunal Delhi",
+   "case": "Commissioner Of C. Ex. vs Vardhman Special Steels",
+   "date": "2002-02-25",
+   "role": "respondent",
+   "status": "decided (2002(145)ELT389(TRI-DEL))",
+   "subject": "central excise",
+   "source": "https://indiankanoon.org/search/?formInput=Vardhman%20Special%20Steels"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "SANCTIONS: no hit found, but NOT a verified negative. The OFAC SDN CSV endpoint (https://www.treasury.gov/ofac/downloads/sdn.csv and sanctionslistservice.ofac.treas.gov SDN.CSV) returned only the first ~6000 characters (alphabetical A-F/Cuba section), so a name-level match for 'Vardhman' could not be executed; the OFAC Sanctions List Search UI is JavaScript-only and returned no query results. UN, EU, UK OFSI and BIS Entity List were NOT checked - web_search backend was down (searx connection refused) for the whole session and the company website domain did not resolve. Treat sanctions status as UNVERIFIED, not clean. COURTS: Indian Kanoon search returned 730 documents for the name; the 9 listed above are the top-relevance hits and are overwhelmingly tax/excise/electricity writ and tribunal matters where the company is petitioner or respondent - no criminal case, no NCLT/insolvency, no fraud or regulatory enforcement action surfaced in the visible results. One live matter: PSPCL vs Vardhman Special Steels (P&H HC, 04.09.2025) - a utility/power dispute, not a risk signal per se. Per project rule 2, court matters are noted neutrally and are not rejection grounds. RATING: null - could not retrieve. ICRA rating-list query returned a 404 custom error page and CRISIL ratings-list URL returned 404; no rating action, date or outlook could be confirmed from a primary source. Do not assume a rating exists. NEWS/REGULATOR: null - no negative news or regulator action could be retrieved because the search backend was unavailable; absence of findings here reflects tool failure, not a clean record. RF/CIS SUPPLY: null - Indian Kanoon full-text search for 'Vardhman Special Steels' + Russia returned 'No matching results', which is only a court-records check and is NOT evidence of absence of trade; no customs, B-L or trade-data source was reachable, so no evidence of supplies to Russia or the CIS was found and none is asserted. RECOMMENDATION: company is retained (no liquidation/bankruptcy/defunct finding); risk profile is incomplete pending re-run of sanctions screening (OFAC/UN/EU/UK/BIS), credit rating lookup and news sweep when the search backend is restored."
+}
