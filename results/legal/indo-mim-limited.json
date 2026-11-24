@@ -1,0 +1,18 @@
+{
+ "name_input": "INDO-MIM LIMITED",
+ "legal_name": "INDO-MIM LIMITED",
+ "cin_llpin": null,
+ "pan": "AABCI0484L",
+ "pan_holder_type": "C — company (4th character of PAN is 'C', i.e. a company/firm-type PAN, consistent with a public limited company; format valid: 5 letters + 4 digits + 1 letter)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned 'Connection refused' on every query, and all registry/GST aggregator pages attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in, quickcompany.in, gstsearch.in, mca.gov.in) returned HTTP 403/404/429 or were unreachable; indo-mim.com returned only a 307 redirect. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are NOT confirmed and are left null — they must not be treated as verified. What can be stated: the PAN supplied (AABCI0484L) is format-valid and its 4th character 'C' denotes a company-type holder, which is consistent with the claimed legal form 'INDO-MIM LIMITED' (a public limited company). The claimed state Karnataka is plausible for this entity but was not confirmed from a public registry record in this session. Role is recorded as manufacturer on the basis of the company's known metal-injection-moulding business, but this too was not re-verified from a fetched source in this session. No audited accounts or official filings were retrievable, so revenue FY25 and FY26 are null (not estimated). No ground for rejection exists: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation, not a negative finding. Recommend re-running registry checks (MCA master data, GST public search) when the search backend is restored."
+}

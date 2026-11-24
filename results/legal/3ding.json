@@ -1,0 +1,18 @@
+{
+ "name_input": "3DING",
+ "legal_name": "REDDX TECHNOLOGIES PRIVATE LIMITED (claimed, not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com, mca.gov.in and instafinancials returned HTTP 403/404; tofler.in returned 404 for the guessed slug; Google returned only a redirect stub; DuckDuckGo timed out; Bing returned completely irrelevant results (unrelated IMDb/Facebook pages), so no usable SERP. Only substantive page reached was the company's own website 3ding.in, which states it is 'based in Chennai and operating since 2013' and sells 3D printers/scanners/filaments plus 3D printing services (brands Bambu Lab, Anycubic, Elegoo, Creality; house brand FilamentX; own FabX printer line) - this is a self-declaration on the vendor site, NOT a registry record, and per project rules does not count as confirmation. The claimed legal entity 'REDDX TECHNOLOGIES PRIVATE LIMITED' could NOT be matched to any CIN/LLPIN, PAN, GSTIN, incorporation date or MCA status from a public source, so all registry fields are null rather than guessed. No audited accounts or official filings were located, hence revenue FY25 and FY26 are null. Role left as 'unknown': the site describes both own-brand manufacturing (FabX printers) and reselling of third-party brands, which would suggest manufacturer_trader, but this is unverified marketing text. NOT rejected - absence of retrievable records is a data gap, not proof of non-existence; the entity must be re-checked against MCA master data when search/registry access is restored. Note also that the declared HS 848520 (3D printers/additive manufacturing machinery) is broadly consistent with the site's product line, but HS is not a rejection criterion per project rules."
+}

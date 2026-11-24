@@ -1,0 +1,9 @@
+{
+ "name_input": "KARMA INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable findings, all fields null. Tooling failure: DuckDuckGo/searx backend refused connections or timed out for every query; Bing returned only unrelated AI-generated results (beauty products, flashlight manuals) for both '\"KARMA INTERNATIONAL\" Haryana dyes' and '\"Karma International\" dyes India company', so no usable web evidence was obtained. Checks actually performed: (1) OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded, but it is a client-side JS form — no name query could be executed server-side, so no SDN/Non-SDN screening result was produced; SDN list shown as last updated 11/23/2026. (2) Indian Kanoon exact-phrase search for \"Karma International\" returned 'No matching results' — this is a weak negative only, since Indian Kanoon does not index all district courts/NCLT and the name is highly generic (many unrelated 'Karma International' entities exist in India and abroad), so it cannot be treated as confirmation of no litigation. NOT checked: UN Consolidated List, EU consolidated list, UK OFSI list, BIS Entity List, MCA/NCLT insolvency records, credit rating agencies (CRISIL/ICRA/CARE/India Ratings), GST/regulatory actions, and any Russia/CIS shipment or customs evidence. No sanctions hit, court case, rating action, negative news item or Russia/CIS supply link is asserted or implied — absence of findings here reflects failed research, not a clean record. Recommend re-running this company once search access is restored, and screening the exact registered legal name plus CIN/PAN against OFAC, UN, EU, UK OFSI and BIS lists before any decision. Per project rules, nothing here is a rejection ground."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "Vyom Global Impex",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/vyom-global-impex (and slug variant 'vyom-global-impex-') both returned only the page shell: 'Shipments available for VYOM GLOBAL IMPEX, refreshed daily' — a generic template string, with 0 shipment rows, 0 dates, 0 destinations, 0 HS codes and 0 B/L numbers rendered. No export record seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches returned no usable results (DuckDuckGo/searx backend refused connections; Bing returned unrelated noise); volza, eximpedia and trademo free views returned HTTP 403. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось, потому что все источники фактических записей были недоступны (importkey — JS-оболочка без строк, volza/eximpedia/trademo — 403, поисковые бэкенды — connection refused). Заявленный HS (252329 цемент, 281122 диоксид кремния, 281511/282720 гидроксид и хлорид кальция) ни одной таможенной записью не подтверждён и не опровергнут. Выручка: null (не публична/не найдена). Юрлицо (CIN/PAN) не проверено — реестры вне области задачи. Статус 'unknown', не 'none_found', чтобы не подменять недоступность источника утверждением об отсутствии поставок; для окончательного вердикта нужен платный доступ к таможенным данным или повторный прогон при работающем поиске."
+}

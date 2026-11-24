@@ -1,0 +1,17 @@
+{
+ "name_input": "SUDE ENGINEERING PRIVATE LIMITED",
+ "declared_hs": "848180",
+ "actual_hs_list": [
+  "84818030 (industrial valves: ball, butterfly, gate/sluice, plug, diaphragm, pinch, angle, control, check)",
+  "84818090 (other appliances for pipes/vats — zero-bacteria valves, septum/snort valves, special valves)",
+  "84819090 (parts of valves — if spares/trim supplied)",
+  "84145900 / 84149000 (industrial dampers, air/throttle/isolation/check dampers — non-rotating air/gas handling equipment; classification depends on whether supplied as damper assembly or as valve-type flow-control device)",
+  "84122100 / 84122900 (hydraulic actuators — linear/other)",
+  "85015100 / 85015200 (electric actuators — AC motors/geared motor actuators)",
+  "84123100 (pneumatic actuators — linear acting, pneumatic power engines)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official site sudeengg.com lists: dampers (double eccentric butterfly damper, septum valve series 1931, snort valve CID-01, isolation damper, throttle damper, check damper, air damper); valves (angle, ball, butterfly, plug, zero-bacteria, diaphragm, pinch, sluice/gate, control); actuators (pneumatic, hydraulic, electric). Founded 1989 by D.R. Shetty, Bangalore; manufacturing at Alandi (Pune), offices Mumbai/Chennai; sizes up to 5500 mm; ISO 9001/14001/45001. Industries served: oil & gas, power/nuclear, steel, cement, chemicals & petrochemicals, HVAC, water/wastewater, food & beverage, pharma, paper, defence.",
+ "role_hint": "manufacturer_trader — site claims own manufacturing (Bangalore + Alandi Pune facility, in-house design/testing), but the About page also states 'The essential business of SUDE is in Damper Valve Automation and distribution of Fluid flow control equipment', and the group history includes associate companies (Kriss Instrumentation, SDTORK Controls) — i.e. a mix of own production and distribution of third-party flow-control equipment. Trader/distributor element present; not a pure manufacturer.",
+ "comment": "HS 848180 is CORRECT for the core valve line (ball, butterfly, gate, plug, diaphragm, pinch, angle, control) — exact match on that segment. However the declared single code 848180 is INCOMPLETE: a large part of the catalogue (dampers, pneumatic/hydraulic/electric actuators) falls outside 848180 and needs separate codes (8414/8412/8501 families). Industry claim 'Нефтегаз и химия' (oil & gas, chemicals) is corroborated — both are listed industry verticals — but it understates the real profile: nuclear, power, steel, pharma, food, HVAC, water and defence are also declared, so the industry field is a partial misclassification (too narrow). No customs line was available to me in this task, therefore the entire product range and the manufacturing claim are 'заявлено, не подтверждено' — the site is the only source; no shipment record was checked or found here. No evidence of a wrong HS code, so no rejection and no HS-correction verdict needed beyond broadening the code list: verdict accepted, HS list to be expanded (84818030/84818090 + 84819090 + damper/actuator codes). PAN ABMCS4842C and Karnataka state are consistent with the Bangalore-registered entity per the site address (Plot 67 & 68, Magadi Road, Seegehalli, Bangalore 560112), but PAN/CIN were NOT verified in any registry in this task — null/unverified."
+}
