@@ -1,0 +1,18 @@
+{
+ "name_input": "ARHAM EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра не получены. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо нерелевантные результаты; zaubacorp.com, tofler.in и instafinancials.com отдали 403/404 при прямом запросе. Ни CIN, ни GSTIN, ни дата инкорпорации, ни PAN не подтверждены публичным источником — все поля null, ничего не выдумано. Входные данные противоречивы: 'legal_claimed' = 'TARANG KIRITBHAI MANIYAR' — это имя физлица (формат «Имя Отчество Фамилия»), а не название юрлица; 'ARHAM EXPORTS' может быть либо proprietorship/partnership (тогда CIN отсутствует по определению, а PAN — это PAN физлица-собственника, 4-й символ 'P'), либо LLP/Pvt Ltd с иным официальным названием. Без подтверждения существования юрлица вердикт не выносится: отклонение НЕ применяется (нет доказательств ликвидации/страйк-офф/банкротства), статус — 'unknown', требуется повторная проверка при доступности MCA/GST-порталов. Заявленный штат Maharashtra не сверен с адресом регистрации. Роль (manufacturer/trader) не определена — по правилам проекта трейдеры не отклоняются. HS-коды 071140;071220;071290;200110 (сушёные овощи, лук, консервированные продукты) не сверены с фактическим профилем компании; несоответствие HS основанием для отклонения не является."
+}

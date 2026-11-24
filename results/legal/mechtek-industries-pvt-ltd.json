@@ -1,0 +1,18 @@
+{
+ "name_input": "MECHTEK INDUSTRIES PVT LTD",
+ "legal_name": "MECHTEK INDUSTRIES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAKCM6233A (as claimed in input; not verified against any public record)",
+ "pan_holder_type": "Company (4th character 'C' of claimed PAN indicates a company holder) — based on claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. The web_search tool returned a backend error (searx: connection refused) on every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404, while mca.gov.in returned 403 and Google/Bing/DuckDuckGo HTML endpoints returned irrelevant or blocked results. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — no data was found, none was invented. The claimed PAN AAKCM6233A is syntactically consistent with a company holder (4th char 'C') but its existence and linkage to this entity are unconfirmed. No basis for rejection: absence of public data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' — no registry evidence of manufacturing plant, and no evidence of trading activity either. Revenue FY25/FY26: no audited accounts or official filings accessible, so null per rules. Recommend re-run when search backend is restored and MCA master data / GST portal lookup is reachable."
+}

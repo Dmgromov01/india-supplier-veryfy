@@ -1,0 +1,9 @@
+{
+ "name_input": "LAXMI ART EXPORTS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — research infrastructure failure, not a clean result. The DuckDuckGo search tool returned 'Connection refused' (searx backend down) on both attempts; fallback fetches to Google (redirect/consent wall), DuckDuckGo HTML (HTTP 403), and Bing (returned entirely unrelated results — time-zone converters and Chegg pages — i.e. no genuine match for the query) produced no usable data. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no name screening was actually performed. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT SCREENED, not 'clear'. Indian court cases (party role/status) = NOT CHECKED. Regulator actions and negative news = NOT CHECKED. Credit rating = NOT CHECKED. Evidence of supplies to Russia/CIS = NOT CHECKED. All fields are null because nothing is public to me at this time — no values were invented. The only identifiers available are those supplied by the requester (claimed proprietor 'Sangeeta Gurjar', claimed PAN AULPG9703D, Rajasthan, HS 441920/940550) and these were NOT independently verified by me, as legal-identity and HS verification are outside my remit. RECOMMENDATION: re-run this company once the search backend is restored; do not treat this record as a negative or positive risk finding. Per project rules, nothing here constitutes a rejection ground."
+}

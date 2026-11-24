@@ -1,0 +1,9 @@
+{
+ "name_input": "Globex Laboratories ( R&D) Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: no verifiable public data retrieved. Search backend (DuckDuckGo/searx) returned connection refused; Bing returned only irrelevant results; Google served a redirect interstitial. Registry/aggregator pages (zaubacorp.com, thecompanycheck.com) returned HTTP 403. Indian Kanoon search for \"Globex Laboratories\" returned 0 matching results (https://indiankanoon.org/search/?formInput=%22Globex%20Laboratories%22) — this is a null result, NOT proof of no litigation, since the exact legal name could not be confirmed. OFAC Sanctions List Search tool was reachable (SDN list last updated 11/23/2026) but its search is a POST/JS form that could not be queried via plain HTTP GET, so no name screening was actually performed against OFAC SDN, UN, EU, UK or BIS Entity List. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = not public/not retrieved, not 'clean'. No credit rating, regulator action, negative news or Russia/CIS supply evidence was found or ruled out. Recommend re-running with working search access and a queryable sanctions-screening endpoint before any risk conclusion is drawn. Per project rules, absence of findings here is not a rejection ground."
+}

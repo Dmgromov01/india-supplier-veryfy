@@ -1,0 +1,8 @@
+{
+ "name_input": "Hyglow Industries Limited",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'hyglow-industries-limited' rendered only the template shell: 'Shipments available for HYGLOW INDUSTRIES LIMITED, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were displayed. Second slug 'hyglow-industries-ltd' returned the identical empty template. Rows actually seen: 0 of 0. No export record found to quote.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches for domestic supply evidence returned no results (search backend unavailable: 'searx: <urlopen error [Errno 111] Connection refused>'), and volza/eximpedia/trademo/thecompanycheck all returned HTTP 403 Forbidden. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни по внутреннему рынку. Это НЕ означает, что отгрузок не было: проверить не удалось, потому что (1) поисковый бэкенд был недоступен на всех запросах, (2) volza, eximpedia, trademo и thecompanycheck отдали 403, (3) ImportKey по двум вариантам слага показал пустой шаблон без единой строки отгрузки. Заявленный HS 851310;940511 (лампы/осветительное оборудование) ни подтверждён, ни опровергнут — фактический код не установлен, поэтому HS-корректировка не производилась. Выручка: null (не публична/не получена). Объём экспорта: null. Статус 'unknown', а не 'none_found', поскольку отсутствие данных здесь — следствие недоступности источников, а не проверенного отсутствия записей. Требуется повторная проверка при доступном поиске и платном доступе к таможенным данным; решение по компании на этих данных принимать нельзя."
+}
