@@ -1,0 +1,20 @@
+{
+ "name_input": "ZENITH ALLOYS",
+ "declared_hs": "261390;282090;720219;720221",
+ "actual_hs_list": [
+  "2820.90 — manganese oxides (Mn3O4 / trimanganese tetraoxide, incl. ProDens drilling weighting agent) — confirmed by own product page",
+  "7202.19 — ferromanganese, high-carbon (HCFeMn 70/75, Mn 70-75% min, C 6-8%) — confirmed by own product page",
+  "7202.21 — ferrosilicon (listed in site menu as a product line; no grade/spec page read)",
+  "7202.30 — ferrosilicon manganese (listed in site menu; no spec page read)",
+  "7202.41 — ferrochrome (listed in site menu; no spec page read)",
+  "7202.70 — ferromolybdenum (listed in site menu; no spec page read)",
+  "7202.80 — ferrotitanium (listed in site menu; no spec page read)",
+  "2505.10 — silica sand / frac sand, SiO2 98% min, 40-150 mesh (own product page)",
+  "2521.00 — cenosphere (listed in site menu; no spec page read)",
+  "3912.90 — microcrystalline cellulose (listed in site menu; no spec page read)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (zenithalloys.com, Nagpur, Maharashtra) shows a chemicals-and-alloys supply house with two distinct lines: (1) oilfield/ceramics chemicals — ProDens Mn3O4-based drilling-fluid weighting agent (Mn 65-67% min, SG 4.68-5.0 g/cc, spherical, ISO 9001 production claimed), silica sand/frac sand, cenosphere, microcrystalline cellulose; (2) ferroalloys — ferro manganese (HCFeMn 70/75, MC/LC/ELC grades up to Mn 92%), ferro silicon manganese, ferro chrome, ferro molybdenum, ferro titanium, ferro silicon. Declared codes 282090 (manganese oxides) and 720219 (HC ferromanganese) match the two flagship lines exactly. 720221 (ferrosilicon >55% Si) is plausible but only a menu entry, no grade page. 261390 (manganese ores/concentrates) is NOT corroborated anywhere on the site — no ore, mining or concentrate product is offered; the company describes itself as a producer of Mn3O4 and ferroalloys, not an ore miner/exporter. Industry label 'Металлургия и горнодобыча' is only half right: no mining activity is evidenced, and the largest actual business (oil-drilling chemicals, silica sand, cenospheres, MCC) is not metallurgy at all — the declared HS set misses 2505.10, 2521.00 and 3912.90 entirely.",
+ "role_hint": "manufacturer_trader — claims in-house manufacturing of Mn3O4 (ProDens) and of ferro manganese ('We Produce a wide selection of Ferro Manganese alloys'), with in-house laboratory; but the breadth of unrelated lines (cenosphere, silica sand, MCC, FeMo, FeTi, FeCr) indicates a trading/supply layer on top. No customs line was available to this check, so all product claims are 'заявлено, не подтверждено'.",
+ "comment": "HS-6 mapping done from the company's own website only (zenithalloys.com: home, /about-us, /mn3o4, /ferro-manganese, /silica-sand). 282090 and 720219 = exact match. 720221 = partial (menu listing only, no spec). 261390 = wrong: no manganese ore/concentrate product exists on the site; recommend replacing with the actually traded lines 2505.10 (silica sand), 2521.00 (cenosphere), 3912.90 (microcrystalline cellulose) and adding 7202.30/7202.41/7202.70/7202.80 for the ferroalloy menu. Per rule 3 the company is NOT rejected for the HS mismatch — code corrected, verdict accepted_hs_corrected. Industry misclassification noted: 'Металлургия и горнодобыча' overstates mining; core declared focus per site is oil-drilling chemicals + steel alloys. Trader signs: multi-commodity catalogue spanning minerals, ferroalloys and cellulose. No customs/export line was checked in this task, so no shipment fact is asserted; every product above is 'заявлено, не подтверждено'. PAN, revenue and volumes not researched per role scope — null."
+}
