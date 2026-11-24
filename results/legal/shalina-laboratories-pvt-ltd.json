@@ -1,0 +1,18 @@
+{
+ "name_input": "SHALINA LABORATORIES PVT LTD",
+ "legal_name": "SHALINA LABORATORIES PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a connection error (searx: Connection refused) on every attempt, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404. Bing HTML results were polluted with unrelated 'Shalina Devine' content and returned no usable company record. The only page successfully read was the group website shalina.com, which is a marketing site for Shalina Healthcare (Africa-focused pharma distribution) and contains no CIN, PAN, GSTIN, incorporation date, MCA status or audited financials - and it does not even confirm that an Indian entity named 'Shalina Laboratories Private Limited' exists. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and FY25/FY26 revenue are all null: not public in any source I could reach, NOT verified as non-existent. No rejection is proposed - per project rules rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and I have no such proof either way. Role left as 'unknown' (no evidence of manufacturing licence or trading activity obtained). Note also a scope mismatch worth flagging to the analyst, not a rejection ground: the declared HS codes 842139/848130 (filters, valves - mechanical engineering) are inconsistent with the pharma/healthcare profile of the Shalina group; per rule 3 this would at most be an HS correction, never a rejection. Recommended next step: re-run with a working search backend or MCA/GST portal access to obtain CIN, GSTIN and FY25/FY26 filings."
+}
