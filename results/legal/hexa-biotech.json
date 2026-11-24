@@ -1,0 +1,18 @@
+{
+ "name_input": "Hexa Biotech",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Telangana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра не получены. Проверка не выполнена по техническим причинам: web_search (DuckDuckGo/searx) возвращал 'Connection refused' либо полностью нерелевантные результаты; zaubacorp.com, thecompanycheck.com, falconebiz.com, mca.gov.in — HTTP 403; instafinancials.com — 404; tofler.in — 404. Никаких CIN/PAN/GSTIN/даты инкорпорации/выручки подтвердить не удалось, поэтому все поля null — цифры и идентификаторы не выдумывались. Дополнительная неопределённость во входных данных: name_input 'Hexa Biotech' не совпадает с legal_claimed 'TAVRON ENGINEERS' — неясно, какое юрлицо проверять (возможно, Hexa Biotech — бренд/торговое имя, а TAVRON ENGINEERS — заявленное юрлицо; либо наоборот). Также не подтверждено, является ли TAVRON ENGINEERS частной компанией (CIN) или единоличным предприятием/партнёрством (тогда CIN отсутствует, нужен GSTIN/Udyam). Роль (manufacturer/trader) не определена. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществующем/ликвидированном/банкротном юрлице, что не установлено). Требуется повторная проверка при доступных источниках: MCA master data по 'TAVRON ENGINEERS', GST-профиль по Telangana, уточнение у поставщика точного юрлица и GSTIN."
+}

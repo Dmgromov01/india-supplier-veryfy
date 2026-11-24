@@ -1,0 +1,9 @@
+{
+ "name_input": "OM TEA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verified findings, all fields null. Reason: the web_search tool (DuckDuckGo/searx) was unavailable for the whole session ('Connection refused'), and fallback engines reached via http_get (Google, Bing, DuckDuckGo HTML) returned generic, query-ignoring result pages, so no company-specific sources could be retrieved. Negative checks actually performed: (1) Indian Kanoon full-text search for the exact string \"Om Tea Private Limited\" returned 0 matching results (https://indiankanoon.org/search/?formInput=%22Om%20Tea%20Private%20Limited%22) — this is a weak negative only, since Indian Kanoon does not index all district/consumer/NCLT matters and party names are often spelled differently; it is NOT evidence of no litigation. (2) A guessed Tofler profile URL returned 404, which only means the URL guess was wrong, not that the company is unregistered. NOT CHECKED (no data, not 'clean'): OFAC SDN / consolidated sanctions list, UN, EU, UK OFSI, BIS Entity List; NCLT/NCLAT, High Court and district court dockets; SEBI/RBI/DGFT/EPC and other regulator actions; credit ratings (CRISIL/ICRA/CARE/India Ratings/Acuite) — a private unlisted tea company would typically have no public rating, but this is unconfirmed; negative news; any evidence of supplies to Russia or CIS. Per project rules, absence of a sanctions hit here must not be read as a cleared counterparty. Recommend re-running this company once search access is restored, and in the meantime requesting sanctions screening and litigation declarations directly from the supplier."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KALAKRITI",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data verified. The search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, and direct fetches of corporate-data sources failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, html.duckduckgo.com returned HTTP 403, Google returned a redirect/consent interstitial with no results, and Bing returned geo-mismatched irrelevant results (US Walmart store listings) with no hits for the company name. Consequently NOTHING could be verified for the claimed legal entity 'OSWAL TRADERS AND TRAVELS PRIVATE LIMITED' (West Bengal): no OFAC SDN / UN / EU / UK / BIS Entity List screening result, no Indian court records (NCLT, High Court, district courts) with party role or status, no regulator actions, no negative news, no credit rating, and no evidence of supplies to Russia or the CIS. All fields are null because they are unverified, NOT because they were checked and found clean - this must not be read as a negative screening result. Per project rules, sanctions/court/criminal matters are in any case never rejection grounds and would be recorded neutrally as 'есть сложности'. Recommended action: re-run this company once the search backend is restored, and screen the exact legal name against the OFAC SDN list, the BIS Entity List, and Indian court databases (e.g. eCourts, NCLT) before any risk conclusion is drawn."
+}

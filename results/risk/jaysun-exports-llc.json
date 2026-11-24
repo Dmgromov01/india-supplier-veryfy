@@ -1,0 +1,9 @@
+{
+ "name_input": "JAYSUN EXPORTS LLC",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of research date. Tooling limitation: the web_search backend (searx) was unreachable ('Connection refused') for the whole session, and DuckDuckGo HTML / Bing / Google direct fetches returned either timeouts or generic non-matching results. Therefore NO primary source could be read for this entity. Findings: (1) Sanctions exposure — no match found for 'JAYSUN EXPORTS LLC' or 'Gopal Sundaramoorthy' in any accessible OFAC SDN / UN / EU / UK / BIS Entity List mirror; this is NOT a clean bill of health, it is 'not verifiable with available tools' — status null, must be re-run against sanctionssearch.ofac.treas.gov, EU FSF, UK OFSI and BIS CSL directly. (2) Indian court cases — eCourts/NJDG/SCI and High Court portals were not reachable; party role and status unknown, null. (3) Regulator actions / negative news — no public record retrieved, null (absence of evidence, not evidence of absence). (4) Credit rating — no CRISIL/ICRA/CARE/India Ratings/Acuite action located; null, not public or not rated. (5) Supplies to Russia/CIS — no customs, B/L or trade-flow record retrieved; null. Additional flag for the analyst: the claimed name 'JAYSUN EXPORTS LLC' combines an Indian-style trade name with the US 'LLC' suffix, and the claimed principal 'Gopal Sundaramoorthy' is a personal name with no company/designation given — the legal form and jurisdiction are internally inconsistent and unconfirmed. Per project rules this is NOT a rejection ground and no verdict is issued here; the entity is retained and flagged for re-verification once registry access is restored. Recommend re-running this risk pass with working search before any onboarding decision."
+}
