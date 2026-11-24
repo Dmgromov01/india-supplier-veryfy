@@ -1,0 +1,18 @@
+{
+ "name_input": "PLASTECH INTERNATIONAL PRIVATE LIMITED (BUDDYZ)",
+ "legal_name": "PLASTECH INTERNATIONAL PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified - no source obtained. Tooling failure during this run: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; direct fetches of registry mirrors were blocked or empty - zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, instafinancials.com 404, quickcompany.in 404, tofler.in 404 (no such company page), Google search returned only a redirect stub, Bing returned irrelevant results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrieved, NOT confirmed absent. Legal name is taken verbatim from the input claim only and is unconfirmed against MCA. Role left as 'unknown': the input industry claim ('Продукты питания и FMCG') contradicts the declared HS codes 950300/950490 (toys/games and gaming equipment), and no registry or filing evidence was available to determine manufacturer vs trader. Per project rules this is NOT a rejection ground: no evidence the entity does not exist, is struck off, liquidated or bankrupt, so the company is retained in the database pending re-verification. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored, and correct the industry classification to toys/games to match HS 9503/9504."
+}
