@@ -1,0 +1,8 @@
+{
+ "name_input": "HSN EXIM PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/hsn-exim-private-limited (and slug variant /hsn-exim-pvt-ltd): page renders only the boilerplate shell — \"Shipments available for HSN EXIM PRIVATE LIMITED, refreshed daily\" — with the shipment table left as \"Loading...\"; 0 rows actually seen, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: thecompanycheck.com, zaubacorp.com, volza.com and eximpedia.app all returned HTTP 403; the web_search backend was unavailable (connection refused) for the whole session, so no domestic-supply page could be located. 0 rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось, потому что все источники данных о фактических отгрузках были недоступны (importkey отдаёт пустую заглушку без строк, volza/eximpedia/thecompanycheck/zaubacorp — 403, поисковик не работал). Статус по обоим каналам — unknown, а не none_found. Заявленные коды HS 090111/090210/090411 (кофе и чай) и PAN AAGCH3067B, штат Rajasthan ничем не подтверждены и не опровергнуты — реестры и каталоги вне области проверки. Выручка и объём экспорта: null (не публичны / не получены), не выдумывались. Рекомендуется повторный прогон при доступном поиске и платном срезе таможенных данных."
+}

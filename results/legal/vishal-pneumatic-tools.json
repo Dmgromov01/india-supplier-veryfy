@@ -1,0 +1,18 @@
+{
+ "name_input": "VISHAL PNEUMATIC TOOLS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "FKWPP8574F",
+ "pan_holder_type": "P — individual (natural person). 4th character 'P' in the PAN format AAAAA9999A denotes an individual/person. This is consistent with the input's legal_claimed 'VISHAL PANDEY' being a proprietorship/individual name, NOT a company. PAN is taken as claimed by the client; it could not be independently verified against any public GST/MCA profile in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity simply could not be verified. Registry research FAILED technically, not substantively: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Bing returned only unrelated results (Italian classifieds, China education pages) for both quoted-name queries; zaubacorp.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search returned a 404 page. Therefore no public GST profile, no CIN/LLPIN, no GSTIN, no incorporation date and no MCA status could be retrieved. Key structural finding from the input itself: the claimed 'legal entity' is a personal name (VISHAL PANDEY) and the claimed PAN FKWPP8574F has 'P' as its 4th character, i.e. an individual's PAN — so this is almost certainly a sole proprietorship, which by definition has NO CIN and NO MCA registration; only a GSTIN (and possibly a Udyam registration) would exist. Role cannot be determined: 'PNEUMATIC TOOLS' in the trade name suggests trading and/or manufacture of pneumatic tools, but nothing was confirmed, so role = unknown. Declared HS 846792 (parts of pneumatic tools) is plausible for the trade name but is NOT verified and, per project rules, HS mismatch is not a rejection ground in any case. Revenue FY25/FY26: null — a proprietorship's financials are not in the public domain and no audited accounts or official filings were accessible; no figures were invented. ACTION NEEDED: re-run with a working search backend, or obtain the GSTIN directly from the supplier (15-char GSTIN would confirm state code 19 = West Bengal, registration date, status and constitution as Proprietorship)."
+}

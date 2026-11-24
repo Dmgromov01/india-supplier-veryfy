@@ -1,0 +1,18 @@
+{
+ "name_input": "SAMRAT INSULATIONS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "CVOPM6344Q",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual — consistent with a proprietorship or a partner/individual PAN, NOT a company PAN which would carry 'C')",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; equally, no registry record was retrieved. Research was blocked: the DuckDuckGo search backend returned 'Connection refused' on both queries, Google returned only a redirect interstitial, DuckDuckGo HTML endpoint returned HTTP 403, Zaubacorp returned HTTP 403, Instafinancials returned HTTP 403, QuickCompany search returned HTTP 404, Tofler search returned HTTP 404, and Bing returned only irrelevant results (Illinois Housing Development Authority / BBC News) for every query including the exact-string PAN query 'CVOPM6344Q'. Consequently NO public source was obtained for: exact legal entity name, CIN/LLPIN, GSTIN, GST status, date of incorporation, registered-office state, MCA status, or revenue. All such fields are null because they are not public/not retrieved — they are NOT invented. IMPORTANT STRUCTURAL OBSERVATION: the input's 'legal_claimed' field contains 'SHRAVAN VINAYAKBHAI MEHTA', which is a personal name, not a company name. Combined with the claimed PAN CVOPM6344Q whose 4th character is 'P' (individual), this strongly suggests 'SAMRAT INSULATIONS' is a PROPRIETORSHIP / sole-proprietary concern of Shravan Vinayakbhai Mehta, not a registered company. A proprietorship has NO CIN, NO LLPIN and NO MCA status by definition — those fields will legitimately remain null even after a successful registry check. Verification for this entity must therefore be done via the GST portal (GSTIN search on the trade name) and the Udyam/MSME registration, not via MCA. The claimed PAN itself is UNVERIFIED — it was supplied in the input and could not be confirmed against any public source; do not treat it as validated. The declared HS code 850490 (parts of electrical transformers/static converters) is not assessed here per role scope, and per project rules an HS mismatch is never grounds for rejection. Role is left as 'unknown' rather than guessed: the trade name 'Insulations' plus HS 850490 is suggestive of manufacturing or trading of electrical insulation/transformer parts, but no source confirms which. Revenue FY25 and FY26 are null — no audited accounts or official filings were located, and for a proprietorship these would typically only appear in income-tax filings, which are not public. RECOMMENDED NEXT STEP: re-run this company when the search backend is restored, or verify manually on the GST portal using the trade name and on the Udyam registration portal; also request the GSTIN directly from the supplier, since a proprietorship's GSTIN is the primary verifiable identifier in the absence of a CIN."
+}

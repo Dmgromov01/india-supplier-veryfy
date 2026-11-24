@@ -1,0 +1,9 @@
+{
+ "name_input": "DOLPHIN ELECTROMECH",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Research could NOT be completed: the web_search tool returned 'searx: Connection refused' on every attempt (2 calls), DuckDuckGo HTML/lite endpoints timed out (2 calls), and Bing returned unrelated cached results (dolphin emulator, pizza restaurants) for every query, including exact-phrase queries for 'Dolphin Electromech', the proprietor name 'Wasim Abdul Rauf Ghadiyali' and PAN 'CMMPG8750K' — i.e. no usable search index. The OFAC Sanctions List Search page was reachable but is a JavaScript form that returns no results via plain HTTP GET, so no SDN/Non-SDN match could be confirmed or excluded. Therefore: sanctions_hit = null (NOT verified, not a clearance), court_cases = null (no eCourts/NJDG/High Court Gujarat lookup possible), rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork page retrieved), news_risk = null (no news source retrieved), rf_supply = null (no customs, B/L, trade-data or open-source record retrieved). No claim in this record is sourced, because no source could be read. Nothing here should be read as a clean bill of health: the company and proprietor remain UNVERIFIED for sanctions, litigation, regulatory action, credit standing and any Russia/CIS supply links. Per project rules, absence of found data is not a rejection ground — the company stays in the base with these fields null. Recommended next step: re-run this record when the search backend is restored, or check manually against OFAC SDN/consolidated list, EU/UK consolidated lists, BIS Entity List, eCourts/NJDG and Gujarat High Court, and Indian credit-rating agency sites."
+}

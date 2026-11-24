@@ -1,0 +1,18 @@
+{
+ "name_input": "SVAMAZON FLEXIBLES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AITPA7191D",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual — PAN claimed in input, format-valid: 5 letters + 4 digits + 1 letter; not independently verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no source found. Tooling failure: web_search backend returned 'Connection refused' (searx down) and Bing/Google/DuckDuckGo HTML endpoints returned irrelevant or blocked results; direct fetches of Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403. Therefore no CIN/LLPIN, GSTIN, incorporation date, MCA status or registered-office state could be confirmed from a public source, and all such fields are null rather than guessed. IMPORTANT structural observation: the input's 'legal_claimed' field contains 'ANKUR AILAWADI', which is a personal name, not a legal entity name — and the claimed PAN AITPA7191D has 'P' as its 4th character, i.e. it is an INDIVIDUAL PAN, not a company PAN (a company PAN would carry 'C'). This strongly suggests 'SVAMAZON FLEXIBLES' is either a proprietorship/firm trading under a brand name or that the record conflates a proprietor with an entity; a proprietorship has no CIN and no MCA status, so absence of a CIN would not by itself mean non-existence. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy could NOT be established either way, and per project rules rejection requires positive evidence of one of those. Role left as 'unknown' — the declared HS codes (392049 plastic film/sheet, 760720 aluminium foil backed) are consistent with a flexible-packaging converter, but product/HS evidence is outside this role's scope and is not a basis for a role verdict. Revenue FY25/FY26 null: no audited accounts or official filings located; not estimated. Action needed: re-run with working search, or obtain the firm's GSTIN / Udyam registration / actual company CIN from the supplier directly to resolve whether the counterparty is an individual proprietorship or a registered company."
+}

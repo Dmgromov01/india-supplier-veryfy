@@ -1,0 +1,18 @@
+{
+ "name_input": "DOLPHIN ELECTROMECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "CMMPG8750K",
+ "pan_holder_type": "Individual (4th character 'P' = person). Note: the PAN is claimed, not verified against any public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The claimed legal name 'WASIM ABDUL RAUF GHADIYALI' is a personal name, not a company name, and the claimed PAN CMMPG8750K has a 'P' (individual) 4th character - consistent with a proprietorship/individual, which would mean no CIN/LLPIN and no MCA record exists. However, no public source was reachable to confirm this: the web_search backend returned connection errors for every query, Bing returned only generic unrelated results for the quoted name and PAN, and registry/GST aggregators (zaubacorp.com, mca.gov.in) returned HTTP 403. No GSTIN, incorporation date, registered state, MCA status or audited revenue figures could be obtained, so all are null rather than inferred. Per project rules the company is NOT rejected: non-existence/striking-off could not be established either way, and absence of public data is not grounds for rejection. Role left as 'unknown' - no evidence of manufacturing or trading activity was found, and no claim is made that supplies exist. Recommended next step: manual check on the GST portal (search by PAN CMMPG8750K) and, if a company rather than a proprietorship is involved, MCA master data by name."
+}
