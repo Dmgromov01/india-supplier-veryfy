@@ -1,0 +1,9 @@
+{
+ "name_input": "UMBERTO CERAMICS INTERNATIONAL PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing по запросам в кавычках \"Umberto Ceramics International\" / \"Umberto Ceramics\" Morbi OR Gujarat выдавал нерелевантную выдачу (автомобили, Microsoft) — то есть совпадений по названию не найдено, но это не подтверждение отсутствия записей. Zaubacorp вернул 403. OFAC Sanctions List Search — JS-форма, прямой запрос по имени через http_get не выполняется, результат скрининга не получен. Итог: ни по санкционным спискам (OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List), ни по индийским судам (eCourts/NCLT), ни по рейтингам (CRISIL/ICRA/CARE/India Ratings), ни по негативным новостям, ни по поставкам в РФ/СНГ публичных подтверждений найти не удалось. Все поля оставлены null — данных нет, не выдумывать. Требуется повторный прогон при работающем поиске и ручной скрининг по OFAC/EU/UK consolidated lists и eCourts по названию компании. Отклонение по правилу 2 не применяется; санкционные/судебные риски основанием для отклонения не являются."
+}
