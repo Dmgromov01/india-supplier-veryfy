@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S HY GRO CHEMICALS PHARMTEK PVT LTD",
+ "legal_name": "HY-GRO CHEMICALS PHARMTEK PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAACH6012J",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN holder-type convention); value is as claimed in the input, NOT independently verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Telangana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on all queries; direct reads of public registry aggregators were blocked or empty (zaubacorp.com and thecompanycheck.com -> HTTP 403; tofler.in and instafinancials.com -> HTTP 404 on the guessed URL slugs; falconebiz.com -> JavaScript-only shell with no company data; Google/Bing/DuckDuckGo HTML endpoints returned redirects, timeouts or irrelevant results). Consequently CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null and must NOT be treated as verified. The PAN AAACH6012J is carried over from the input only; its format is valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' indicates a company-type holder, but the value itself was not confirmed against any public source. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null — not estimated. Role left as 'unknown' because manufacturer/trader status could not be established from registry documents (product catalogues and IndiaMART were out of scope per instructions). No rejection basis found, but equally no confirmation of existence — this record needs a re-run of registry checks (MCA master data / GST portal) before any verdict. HS 293399 not assessed here (registry-only scope)."
+}

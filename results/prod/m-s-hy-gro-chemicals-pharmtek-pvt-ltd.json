@@ -1,0 +1,29 @@
+{
+ "name_input": "M/S HY GRO CHEMICALS PHARMTEK PVT LTD",
+ "declared_hs": "293399",
+ "actual_hs_list": [
+  "293399",
+  "293349",
+  "293359",
+  "293329",
+  "293499",
+  "292429",
+  "292219",
+  "291639",
+  "291821",
+  "291899",
+  "294190",
+  "300490",
+  "290629",
+  "292250",
+  "293090",
+  "293319",
+  "293379",
+  "293430",
+  "293590"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт hygrochemicals.com (разделы Active Pharmaceutical Ingredients и Advanced Intermediates) перечисляет реальный ассортимент. API: Choline Salicylate, Dexketoprofen Trometamol, Dextromethorphan HBr, Diflunisal, Doxylamine Succinate, Flurbiprofen, Flurbiprofen Axetil, Fosfomycin Calcium/Trometamol/Sodium, Loxoprofen Sodium, Naproxen, Naproxen Sodium, Phenyltoloxamine Citrate, Pyrathiazine Theoclate, S-Flurbiprofen, Vericiguat, Vigabatrin, Guaifenesin, Bemotrizinol, Diphenhydramine HCl, Docusate Sodium, Dutasteride, Finasteride, Minoxidil, Ulipristal Acetate, Vibegron. Промежуточные (с CAS на сайте): 1-Chloro-1-phenylpropan-2-amine HCl (39861-30-8), Dapagliflozin-интермедиаты (461432-23-7, 2088749-74-8, 461432-23-5), 3-Methoxymorphinan (1531-23-3), Dextromethorphan Base (125-71-3), Fosfomycin Phenylethylamine Salt (25383-07-7), 2-Methoxy Phenothiazine (1771-18-2), (S,S)-2,8-Diazabicyclononane (151213-40-0), 5-Difluoromethoxy-2-mercaptobenzimidazole (97963-62-7). Два GMP-завода: Bollaram (с 1995) и JN Pharmacity, Parawada, Visakhapatnam (с 2013).",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 293399 («гетероциклические соединения прочие») — частично верен: он покрывает лишь часть линейки (гетероциклические интермедиаты — морфинаны, фенотиазины, бензимидазолы, диазобициклононан), но не покрывает основную массу продукции. Фактическая номенклатура требует как минимум: 293349 (производные хинолина/изохинолина — нет в линейке), 293359 (пиримидины/пиперазины — Vericiguat, Vibegron), 293329 (имидазолы — 5-difluoromethoxy-2-mercaptobenzimidazole, 293399/293329), 293499 (прочие гетероциклы — Dapagliflozin-интермедиаты, фосфомицин-соли), 292429/292219 (амиды и аминоспирты — Docusate Sodium, Diphenhydramine HCl, Phenyltoloxamine Citrate), 291639/291821/291899 (ароматические карбоновые кислоты — Naproxen, Flurbiprofen, Diflunisal, Dexketoprofen), 294190 (антибиотики — Fosfomycin Calcium/Sodium/Trometamol), 293430 (фенотиазины — 2-Methoxy Phenothiazine, Pyrathiazine Theoclate), 293090 (тиолы/сульфиды — меркаптобензимидазол), 290629 (ароматические спирты — Dapagliflozin-кетон), 293319/293379 (лактамы/прочие азотсодержащие гетероциклы — Dutasteride, Finasteride, Ulipristal Acetate), 300490 (готовые формы — только если компания их поставляет, на сайте не заявлено). Отдельно: Minoxidil (293399/293339 — пиримидин-N-оксид), Bemotrizinol (УФ-фильтр, скорее 293399/292250). ВЕРДИКТ: HS-код исправить на фактический набор, компанию сохранить (accepted_hs_corrected). Отраслевая классификация «Нефтегаз и химия» — мисселекция: компания фармацевтическая (API и продвинутые интермедиаты, cGMP, USFDA/EDQM/PMDA-площадки), корректная отрасль — «Фармацевтика / химия для фармы». Признаков трейдера нет: собственные два завода с реакторными объёмами 238 KL и 350 KL, DMF/CEP-пакеты — роль manufacturer. Все перечисленные продукты — «заявлено, не подтверждено»: таможенных деклараций и B/L в рамках этой проверки не смотрел (по правилам роли не исследую), поэтому ни одна товарная линия не подтверждена записью об отгрузке. Данные о выручке/объёмах не проверялись — null."
+}

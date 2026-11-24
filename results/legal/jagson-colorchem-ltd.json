@@ -1,0 +1,18 @@
+{
+ "name_input": "JAGSON COLORCHEM LTD",
+ "legal_name": "JAGSON COLORCHEM LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACJ7664C (claimed by input; format valid: 4th char 'C' = company holder type; not independently verified)",
+ "pan_holder_type": "company (inferred from 4th character 'C' of the claimed PAN; unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) returned connection errors, and direct fetches of public registry aggregators (ZaubaCorp, TheCompanyCheck, Tofler, InstaFinancials) returned HTTP 403/404, while MCA master-data portal returned 403. Bing/Google HTML endpoints returned unusable results. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. No audited FY25/FY26 accounts were located, so revenue is null per rules (do not invent). No basis for rejection: the entity was not shown to be non-existent, struck off, liquidated or bankrupt. Role left as 'unknown' — no registry evidence of manufacturing plant vs trading activity was obtained. Recommended follow-up: re-run with working search, check MCA master data by name, and confirm GSTIN via GST portal search; declared HS 320416 (reactive dyes) is a chemistry-sector code consistent with the claimed 'oil/gas & chemicals' industry, but HS is not a rejection criterion per project rules."
+}
