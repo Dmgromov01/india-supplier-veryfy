@@ -1,0 +1,18 @@
+{
+ "name_input": "BEC CHEMICALS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com) отдали HTTP 403; Bing выдавал нерелевантную выдачу (антибот-деградация), по PAN AABCB1390E — только мусорные результаты (speedtest.net). Ни один реестровый источник прочитать не удалось. Поэтому все реестровые поля оставлены null, а не заполнены по догадке. ВАЖНО: заявленный PAN 'AABCB1390E' по 4-му символу 'B' соответствует типу держателя 'Body Corporate' (компания) — формат валиден для юрлица, но принадлежность именно этой компании НЕ подтверждена. Заявленное юрлицо 'B E C CHEMICALS PRIVATE LIMITED' и штат Maharashtra не верифицированы. Отклонение НЕ применяется: нет оснований считать, что юрлицо не существует, ликвидировано или обанкрочено — просто нет данных. Требуется повторный прогон при доступном поиске (MCA master data / Zauba / Tofler) для получения CIN, даты инкорпорации, MCA-статуса, GSTIN и аудированной выручки FY25/FY26. Роль (manufacturer/trader) не определена — null/unknown."
+}
