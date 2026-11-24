@@ -1,0 +1,18 @@
+{
+ "name_input": "Avionix Lab",
+ "legal_name": "PROSERV PROPERTY SERVICES PRIVATE LIMITED (as claimed in input; NOT verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All search/registry endpoints were unavailable from this environment: web_search returned 'Connection refused' (searx backend down); DuckDuckGo HTML/lite timed out; Google returned a redirect/consent page with no results; Bing returned only unrelated Microsoft results; Zauba Corp, TheCompanyCheck and Tofler all returned HTTP 403. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent, but because they could not be read from a public source. No number here is inferred or invented. Substantive observations from the input alone: (1) The claimed legal name 'PROSERV PROPERTY SERVICES PRIVATE LIMITED' is a property/facility-services style name and does not correspond to the trade name 'Avionix Lab' (aerospace/avionics connotation); the link between the two is unverified. (2) The declared HS codes 841111/841112 (turbo-jet/turbo-prop engines) and 880330 (aircraft parts) are aerospace goods, which is inconsistent with the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining) - per project rules this is NOT a rejection ground; the code should be corrected to the factual one and the verdict kept as accepted_hs_corrected once the entity is confirmed. (3) No PAN was claimed in the input, so no PAN holder-type check (4th character) was possible. (4) Role cannot be classified (manufacturer/trader/etc.) without registry or filing data. (5) No revenue figures are available from audited accounts or official filings, so FY25/FY26 are null per rule 4. NOT rejected: the entity's existence, strike-off, liquidation or bankruptcy status could not be established either way, and rejection is only permitted on those grounds - so the correct status is 'unverified / pending registry check', not rejected. Recommended next step: re-run against MCA master data (mca.gov.in company/LLP master data) and the GST portal search by legal name or PAN once network access to those sources is restored."
+}

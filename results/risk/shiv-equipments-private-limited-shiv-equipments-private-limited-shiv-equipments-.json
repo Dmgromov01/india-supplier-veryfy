@@ -1,0 +1,9 @@
+{
+ "name_input": "SHIV EQUIPMENTS PRIVATE LIMITED; SHIV EQUIPMENTS PRIVATE LIMITED; SHIV EQUIPMENTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: web_search backend returned 'Connection refused' on both attempts; DuckDuckGo (html + lite) timed out; Bing returned only generic 'shiv' dictionary/entertainment results with query terms ignored (no usable hits); zaubacorp.com, tofler.in and indiankanoon.org all returned HTTP 403 Forbidden. OFAC Sanctions List Search page loaded but is a JS-driven form that cannot be queried via http_get, so no SDN/Non-SDN name match could actually be executed - sanctions_hit is therefore null (NOT a negative result, simply unverified). No court records, regulator actions, credit rating or Russia/CIS supply evidence could be retrieved from any source. All fields set to null per rule 4 (do not invent data). Nothing here constitutes a rejection ground and no adverse finding is implied - the company remains in the database pending a re-run of this risk check when search/registry access is restored. Recommended re-check sources: OFAC SDN + consolidated non-SDN list, UN/UK/EU consolidated lists, BIS Entity List, eCourts/NJDG and Indian Kanoon, SEBI/RBI/ED/IT enforcement releases, CRISIL/ICRA/CARE/India Ratings, and customs/import-export mirror data for RF/CIS flows."
+}

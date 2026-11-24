@@ -1,0 +1,18 @@
+{
+ "name_input": "Avionix Lab",
+ "declared_hs": "841111;841112;880330",
+ "actual_hs_list": [
+  "841112 — turbojet engines of thrust > 25 kN (CFM56, V2500, GE90, PW100 series engine sales/exchange)",
+  "841111 — turbojet engines of thrust <= 25 kN (possible for smaller APU/small engines; not explicitly evidenced)",
+  "841191 — parts of turbojet/turboprop engines (engine spares, teardown cores) — likely, not explicitly listed",
+  "841430 / 841459 — APU units and parts (APU trading is explicitly offered; APU is a gas-turbine auxiliary power unit, not covered by 841111/841112)",
+  "880330 — parts of aeroplanes/helicopters (rotables, expendables, avionics, landing gear components, airframe spares)",
+  "880320 — landing gear assemblies and parts thereof (site explicitly sells complete landing gear shipsets for Boeing/Airbus/ATR)",
+  "880240 / 880230 — complete aircraft (aircraft leasing & sales is an explicitly offered line)",
+  "880710 / 880730 — propellers and parts (ATR platform support mentioned; weak evidence)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website avionixlab.com (pages: home, /about/, /services/, /contact-us/) describes: aircraft leasing & sales; aircraft engine sales, exchange and procurement (CFM56, V2500, PW100, GE90); APU sourcing and sale; landing gear sales/leasing (complete shipsets, nose/main gear for Boeing, Airbus, ATR); rotables & expendables; avionics; component repair management; consignment/inventory management; teardown & asset recovery. Claims ISO 9001:2016 and AS9120B certification. No part numbers, no catalogue with HS codes, no shipment or customs references on the site.",
+ "role_hint": "trader",
+ "comment": "Роль: трейдер (сам сайт: 'aviation trading and support company', 'global procurement, leasing, and trading of aircraft, engines, and certified components'). Не отклонять по правилу 1. HS-сопоставление: заявленные 841111/841112 (турбореактивные двигатели) и 880330 (части самолётов) частично подтверждаются — двигатели и авиазапчасти действительно заявлены как товарные линии. Однако декларация неполна: отсутствуют 880320 (шасси — прямо заявленная линия 'complete shipsets and nose/main gear assemblies'), 880240/880230 (целые ВС — лизинг/продажа самолётов), а также код для APU (газотурбинные вспомогательные силовые установки, 8414xx), которые сайт продаёт отдельной линией. 841111 (двигатели тягой ≤25 кН) отдельно не подтверждён — на сайте перечислены только крупные платформы (CFM56, V2500, GE90, PW100), т.е. скорее 841112. Отрасль в заявке 'Металлургия и горнодобыча' — грубая мисс-классификация: фактически авиационный aftermarket / торговля авиазапчастями (раздел 88 ТН ВЭД), не металлургия. Признаки трейдера: нет упоминания производственных мощностей, EASA Part-145/FAA repair station, только 'global vendor network', 'consignment', 'teardown & asset recovery'. Расхождение в названии: на странице /services/ сайт сам ссылается на 'Avaiparts LLP' как на оператора части услуг, тогда как в заявке юрлицо указано 'PROSERV PROPERTY SERVICES PRIVATE LIMITED' — связь между брендом Avionix Lab и заявленным юрлицом по открытым страницам сайта НЕ подтверждена (реквизиты, CIN, адрес на сайте не опубликованы). Все товарные линии — заявлено, не подтверждено: ни одной таможенной записи, B/L, инвойса или GST-подтверждения на сайте нет; фактичность отгрузок не проверялась в рамках этой роли. Вердикт по HS: accepted_hs_corrected — компанию сохранить, декларацию дополнить 880320, 880240/880230 и кодом APU, 841111 оставить под вопросом."
+}
