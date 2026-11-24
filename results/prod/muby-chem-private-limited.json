@@ -1,0 +1,28 @@
+{
+ "name_input": "MUBY CHEM PRIVATE LIMITED",
+ "declared_hs": "281390;283990;290712;290719",
+ "actual_hs_list": [
+  "281390 (sulphides of non-metals; polysulphides — declared, not corroborated by any product page found)",
+  "283990 (other carbonates — declared; site lists carbonates but mostly as USP/BP grades, e.g. magnesium carbonate, zinc carbonate, calcium carbonate)",
+  "290712 (cresols and their salts — declared, no cresol product found on site)",
+  "290719 (other monophenols — declared, no monophenol product found on site)",
+  "2915xx (acetic acid esters: amyl acetate, benzyl acetate, citronellyl acetate, geranyl acetate, phenyl ethyl acetate, styrallyl acetate)",
+  "2916xx (benzoic acid, benzoates, benzyl benzoate, benzyl salicylate, amyl salicylate, phenyl ethyl salicylate)",
+  "2912xx (benzaldehyde, cinnamaldehyde, alpha-amyl cinnamic aldehyde, hexyl cinnamic aldehyde, citral, citronellal, hydroxycitronellal)",
+  "2906xx (benzyl alcohol, citronellol, geraniol, styrallyl alcohol, phenyl ethyl methyl ether)",
+  "2926xx (citronellyl nitrile, geranyl nitrile, cinnamyl nitrile)",
+  "2827xx (chlorides: zinc chloride, ammonium chloride, calcium chloride, magnesium chloride, manganese chloride, ferric chloride)",
+  "2833xx (sulphates: magnesium sulphate, sodium sulphate, zinc sulphate, aluminium sulphate, manganese sulphate)",
+  "2836xx (carbonates/bicarbonates: sodium bicarbonate, ammonium bicarbonate, potassium carbonate)",
+  "2815xx/2817xx/2818xx (sodium hydroxide, potassium hydroxide, aluminium oxide/activated charcoal)",
+  "2835xx (phosphates: sodium/potassium/ammonium phosphates, calcium phosphate)",
+  "2841xx/2842xx (permanganates, persulphates, thiosulphates, metabisulphites)",
+  "2918xx (citric acid, maleic acid, fumaric acid, lactic/lactobionic acid, stearates)",
+  "2933xx/2934xx/2936xx (pharma actives & vitamins: aripiprazole, sitagliptin, vildagliptin, pregabalin, metoprolol salts, nicotinamide, riboflavin, folic acid, biotin, vitamin A/D2)",
+  "3824xx / 3811xx (shale-gas fracturing chemicals: ATMP phosphonate, encapsulated gel breaker, scale/paraffin/asphaltene inhibitors)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website mubychem.com (Muby Chemicals of Mubychem Group, offices Ambernath/Mumbai and Ankleshwar, Gujarat) presents itself as an original manufacturer since 1976 of: (1) IP/BP/USP/EP/FCC grade pharmaceutical excipients and reagent-grade inorganic salts — zinc chloride, ammonium chloride, calcium chloride, magnesium chloride, sodium/potassium hydroxide, sulphates, phosphates, carbonates, bicarbonates, thiosulphates, metabisulphites, EDTA, stearates, titanium dioxide, urea; (2) aromatic flavour & fragrance chemicals manufactured in Gujarat — amyl/benzyl/citronellyl/geranyl/phenyl-ethyl/styrallyl acetates, propionates, butyrates, salicylates and benzoates, benzaldehyde, cinnamaldehyde, alpha-amyl and hexyl cinnamic aldehyde, citral, ionones, citronellol, geraniol, hydroxycitronellal, nitriles (citronellyl, geranyl, cinnamyl), skatole, nerolin; (3) shale-gas hydraulic fracturing chemicals (ammonium persulphate, ATMP phosphonate, diverting agent, encapsulated gel breaker, scale/paraffin/asphaltene inhibitors); (4) a small list of pharma actives/vitamins (aripiprazole, sitagliptin, vildagliptin, pregabalin, metoprolol salts, biotin, riboflavin, folic acid, vitamin A/D2).",
+ "role_hint": "manufacturer_trader",
+ "comment": "Declared HS block 281390/283990/290712/290719 is only partially consistent with the actual catalogue. 283990 (other carbonates) is plausible — the site lists magnesium, zinc and calcium carbonates, though in USP/BP excipient grades. 281390 (sulphides/polysulphides of non-metals) is not corroborated by any product page found (only iron sulphide appears in the sitemap, which is 2830, not 2813). 290712 (cresols) and 290719 (other monophenols) are NOT corroborated: no cresol or monophenol product appears anywhere in the sitemap or the aromatic-chemicals page — the closest phenolics are benzyl alcohol (2906.21) and alkylphenol-type fragrance alcohols (citronellol/geraniol, 2905.22). The declared block therefore misses the company's dominant lines: flavour & fragrance esters/aldehydes/alcohols (2915, 2916, 2912, 2906, 2926), inorganic chlorides/sulphates/phosphates (2827, 2833, 2835), persulphates/thiosulphates (2833/2842), pharma actives and vitamins (2933/2934/2936) and oilfield fracturing chemicals (3824). Industry label 'Нефтегаз и химия' is only partly right: the core is specialty/pharma-excipient and aroma chemicals, with oilfield chemicals as a secondary line — the declared HS codes point to a narrow inorganic/phenol trader profile that does not match the published catalogue. Trader signs: the site itself states the group works through 'several manufacturing facilities spread across Western India and world wide contacts and toll manufacturers', i.e. part of the range is made by toll/third-party units, and the entity name on the site is 'Muby Chemicals' (Mubychem Group) rather than 'Muby Chem Private Limited' — the link between the website brand and this exact legal entity is not established from public pages. Per rule 3, the HS mismatch is not a rejection ground: company is kept, codes to be corrected to the actual product mix. All product claims above are from the company's own website (mubychem.com homepage, SiteMap.xml, aromaticchemicals.htm) and are therefore 'заявлено, не подтверждено' — no customs line was checked in this task (out of scope). No registry, revenue or shipment data researched; those fields are null."
+}
