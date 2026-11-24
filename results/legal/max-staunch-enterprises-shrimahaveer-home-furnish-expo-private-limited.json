@@ -1,0 +1,18 @@
+{
+ "name_input": "Max Staunch Enterprises (Shrimahaveer Home Furnish Expo Private Limited)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Регистрационные данные не подтверждены: ни один источник не удалось прочитать. Инструмент web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; прямые обращения к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com) и к порталу MCA (mca.gov.in) отдали HTTP 403 Forbidden; Bing/Google через http_get возвращали нерелевантную выдачу (поисковые операторы игнорировались), релевантных сниппетов по 'Shrimahaveer Home Furnish Expo Private Limited' и 'Max Staunch Enterprises' получить не удалось. Поэтому exact legal entity name, CIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null — это означает 'не опубликовано/не проверено', а не 'отсутствует'. ВАЖНО: отклонять компанию НЕЛЬЗЯ — нет доказательств, что юрлицо не существует, ликвидировано, struck off или банкрот; отсутствие данных о реестре не является основанием для rejected. Роль определена как unknown (нет данных о производственной или торговой деятельности). Отмечу несоответствие входных данных: заявленная отрасль 'Продукты питания и FMCG' не согласуется с заявленными кодами HS 5208/5209 (ткани хлопчатобумажные), а 'AMRITA ISHWAR' в поле legal_claimed выглядит как имя физлица/директора, а не название юрлица; название 'Max Staunch Enterprises' может быть торговой маркой/брендом, а не зарегистрированным юрлицом. Требуется повторная проверка при восстановлении доступа к MCA/агрегаторам (поиск по CIN или по названию в Master Data MCA, затем сверка GSTIN в публичном GST-профиле)."
+}
