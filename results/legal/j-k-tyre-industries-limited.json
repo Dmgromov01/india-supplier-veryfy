@@ -1,0 +1,18 @@
+{
+ "name_input": "J K TYRE & INDUSTRIES LIMITED",
+ "legal_name": "JK Tyre & Industries Limited",
+ "cin_llpin": null,
+ "pan": "AAACJ6716F",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type holder; PAN format valid: AAACJ6716F, 5th char 'J' = first letter of surname 'J' of the JK group)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Goa",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE - tools failed. DuckDuckGo search returned 'Connection refused' on both queries; zaubacorp.com returned HTTP 403; moneycontrol profile returned HTTP 410 Gone; jktyre.com investor sub-pages (annual-reports, investor-contacts, contact-us) all returned HTTP 404, only the homepage loaded. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status could NOT be confirmed from a public source and are left null rather than guessed. What IS confirmed: (1) the entity exists and is an operating listed tyre manufacturer - jktyre.com homepage names 'Dr. Raghupati Singhania, Chairman & Managing Director, JK Tyre & Industries Ltd.' and lists 11 manufacturing plants, OEM partners (Ashok Leyland, Tata Motors, Maruti Suzuki, Hyundai, Volvo etc.) and presence in 110+ markets, so role = manufacturer (not a trader). (2) PAN AAACJ6716F as claimed is format-valid and the 4th character 'C' indicates a company-type holder, consistent with a limited company. (3) HS codes 401110/401120/401161/401170 (new pneumatic tyres for cars, buses/lorries, agricultural/forestry) match the declared product line, so no HS correction is needed. IMPORTANT on state: the claimed state 'Goa' is doubtful - JK Tyre's registered office is widely reported in Kolkata, West Bengal (the company was originally incorporated in West Bengal; the CIN prefix commonly cited is L34102WB1970PLC027862, where 'WB' = West Bengal), while Goa is only one of its plant locations (JK Tyre has a plant in Goa). This could not be re-verified in this session because search and registry sites were unreachable, so state_registered is left null and the discrepancy is flagged for manual check rather than asserted. Revenue FY25/FY26: no audited accounts or official filing could be retrieved (annual report pages 404), so both are null - not estimated. No rejection ground found: the entity is not struck off, liquidated or bankrupt as far as observable; it is an active listed manufacturer. Recommend re-running with working search to capture CIN, GSTIN, incorporation date and audited FY25/FY26 revenue."
+}
