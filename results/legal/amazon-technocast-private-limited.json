@@ -1,0 +1,18 @@
+{
+ "name_input": "AMAZON TECHNOCAST PRIVATE LIMITED",
+ "legal_name": "AMAZON TECHNOCAST PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAMCA8418K",
+ "pan_holder_type": "C — company (4th character of PAN is 'C', consistent with a company PAN; format valid: 5 letters + 4 digits + 1 letter). PAN taken from the input, NOT independently verified against MCA/Income Tax records.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no source could be read. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned only irrelevant Amazon.com e-commerce results for the exact-name, PAN and 'Amazon Technocast Gujarat' queries (no Indian registry hit surfaced); zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in all returned HTTP 403; instafinancials.com and quickcompany.in returned HTTP 404 for the guessed URL slugs. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they do not exist, but because they were not publicly retrievable within the tool budget. No conclusion is drawn on existence: the entity is neither confirmed nor rejected. Per project rules, rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found, so the company stays in the base as unverified. Role left 'unknown' — the 'Technocast' name pattern and HS 848190 (valve parts) suggest a foundry/manufacturing activity, but that is an inference from the name, not a verified fact, and no product catalogue or shipment research was performed per role scope. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Recommended next step: re-run with working search, then verify on MCA master data (CIN, status, incorporation date, registered state) and on the GST portal / a public GSTIN profile for the Gujarat GSTIN and filing status."
+}
