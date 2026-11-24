@@ -1,0 +1,20 @@
+{
+ "name_input": "JIGS CHEMICAL LIMITED",
+ "declared_hs": "290519;291241;291242;291570",
+ "actual_hs_list": [
+  "291241 (vanillin, declared - plausible for aroma/food ingredient line)",
+  "291242 (ethylvanillin, declared - plausible)",
+  "291570 (palmitic/stearic acid, their salts and esters - plausible for excipient/industrial chemical line)",
+  "290519 (other saturated acyclic monohydric alcohols - plausible for industrial solvent line)",
+  "2933xx / 2941xx (heterocyclic / antibiotic APIs - likely, NOT declared)",
+  "2934xx (nucleosides, heterocyclic compounds - likely, NOT declared)",
+  "2936xx (provitamins/vitamins, nutraceuticals - likely, NOT declared)",
+  "13021919 / 1302 (herbal extracts - likely, NOT declared)",
+  "3204xx / 3206xx (dyes and dye intermediates - likely, NOT declared)",
+  "3824xx (other chemical preparations / excipients - likely, NOT declared)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (jigschemical.com, homepage navigation read 23.11.2026) declares the following product lines: Active Pharmaceutical Ingredients (APIs), Intermediates, Industrial Chemicals, A-Z Organic and Inorganic Chemicals, Nutraceuticals, Herbal Extracts, Excipients, Dyes & Dye Intermediates. The site self-describes as 'manufacturer, supplier, sourcing' with DMF/CEP/COS/COPP documentation support and sourcing from India, China, UK, USA. No individual product pages or CAS-number lists could be opened: all sub-URLs (/products, /products/apis, /products/industrial-chemicals, /products/industrial-chemicals-a-z, /products/dyes-dye-intermediates, /about-us) returned HTTP 500, so the concrete SKU list is not verifiable from public sources at this time.",
+ "role_hint": "trader (sourcing/trading house with documentation support - DMF/CEP/COS/COPP - and multi-country sourcing; no own manufacturing plant evidenced on the site). Self-description 'manufacturer, supplier, sourcing' is a claim, not corroborated.",
+ "comment": "HS-сверка: частичное совпадение. Заявленные 4 кода (290519, 291241, 291242, 291570) относятся к узкой группе — алифатические спирты, ванилин/этилванилин и жирные кислоты/эфиры. Это правдоподобно для их линии Industrial Chemicals / Excipients / ароматических ингредиентов, но НЕ покрывает основные заявленные линии: API, интермедиаты, нутрицевтики, травяные экстракты, красители и красительные полупродукты. То есть декларация неполная — по фактическому профилю должны присутствовать коды групп 29 (гетероциклы 2933/2934), 2941 (антибиотики), 2936 (витамины), 1302 (экстракты), 3204/3206 (красители), 3824. Отраслевая классификация «Нефтегаз и химия» неточна: компания не нефтегазовая, а фарма/тонкая химия, API и пищевые/косметические ингредиенты — корректнее «Химия / фармацевтическое сырьё». Признаки трейдера: заявления о сорсинге из Индии, Китая, Великобритании и США, поддержка DMF/CEP/COS/COPP, отсутствие упоминания собственных мощностей. Все продуктовые линии — статус «заявлено, не подтверждено»: ни одна позиция не подтверждена таможенной строкой или B/L в рамках этой проверки (объёмы и таможенные записи не исследовались по условиям роли). Отклонение по HS не применяется (правило 3): компания сохраняется, коды подлежат корректировке/расширению до фактического ассортимента. Ограничение: поисковый бэкенд был недоступен (searx connection refused), подстраницы сайта отдавали HTTP 500 — детальный перечень CAS-номеров не получен, поэтому часть кодов помечена как «вероятно» и требует подтверждения по каталогу/инвойсам."
+}

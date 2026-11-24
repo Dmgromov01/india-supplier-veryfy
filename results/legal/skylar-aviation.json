@@ -1,0 +1,18 @@
+{
+ "name_input": "Skylar Aviation",
+ "legal_name": "SKYLAR AVIATION PRIVATE LIMITED (as claimed; not verified in any public registry)",
+ "cin_llpin": null,
+ "pan": "ABDCS8770Q (as claimed in input; not verified)",
+ "pan_holder_type": "Firm/LLP (4th character 'C' = Firm/LLP per PAN structure) — note: this CONTRADICTS the claimed legal form of a 'Private Limited' company, which would require 4th character 'P'",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Kerala",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT possible in this run: web_search backend returned 'Connection refused' on all queries; zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com and mca.gov.in all returned HTTP 403/404; Bing/Google/DuckDuckGo returned only irrelevant results (US perfume brand 'Skylar') and no Indian registry hit for 'Skylar Aviation Private Limited'. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — not public/not retrievable, nothing invented. Two red flags to resolve before use: (1) the claimed PAN ABDCS8770Q has 4th character 'C' = Firm/LLP holder type, which is inconsistent with a 'Private Limited' company (should be 'P'); (2) no public trace of the entity was found at all, so existence is UNCONFIRMED, not disproven. Per project rules, rejection is only for non-existent/struck-off/liquidated entities — existence could not be established either way, so the record is left un-rejected with nulls and flagged for manual MCA master-data lookup by CIN or by PAN. Role cannot be assessed (no registry, no GST, no filings). No revenue figures available from audited accounts or official filings."
+}
