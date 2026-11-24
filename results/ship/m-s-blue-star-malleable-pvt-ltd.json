@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S BLUE STAR MALLEABLE PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for BLUE STAR MALLEABLE PVT LTD loaded but returned zero visible shipment rows — only the boilerplate line: \"Join ImportKey to view the import and export data records of companies all over the world.\" No bill-of-lading number, date, destination or HS code was displayed. Source counter: 1 page opened, 0 shipment rows seen. Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JavaScript challenge, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved. ZaubaCorp and TheCompanyCheck returned HTTP 403; DuckDuckGo search backend was down (\"Connection refused\") and Bing/Google returned only generic colour-related results for the quoted company name, i.e. 0 relevant hits. Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники фактических отгрузок (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) и реестры (ZaubaCorp, TheCompanyCheck) были недоступны или пусты, поэтому статус по экспорту и по внутреннему рынку — unknown, а не none_found. Ни одной записи B/L с датой, направлением и HS-кодом не получено; ни одного GST-оборота или тендера не подтверждено. Заявленные HS 732591/732611/847490 (мелющие тела / литьё / части дробилок) и PAN AADCB3045N не проверены — не подтверждаю и не опровергаю. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумываю). Требуется повторная проверка при доступе к платным таможенным выгрузкам."
+}

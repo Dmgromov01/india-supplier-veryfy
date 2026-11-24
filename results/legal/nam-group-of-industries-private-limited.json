@@ -1,0 +1,18 @@
+{
+ "name_input": "NAM GROUP OF INDUSTRIES PRIVATE LIMITED",
+ "legal_name": "NAM GROUP OF INDUSTRIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAHCN7253Q",
+ "pan_holder_type": "H — HUF (Hindu Undivided Family), per 4th character of the claimed PAN; inconsistent with a private limited company, which would carry the 4th character 'C'",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend was unreachable (connection refused) and all registry/profile sources attempted (zaubacorp, thecompanycheck, instafinancials, tofler, quickcompany, MCA master-data) returned 403/404/timeout, while Bing returned only irrelevant results for the exact-name queries. No CIN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, so all such fields are null rather than inferred. The only verifiable item is the claimed PAN AAHCN7253Q, whose 4th character 'H' denotes an HUF holder, not a company — this is a documentary inconsistency to be resolved with the supplier (a private limited company's PAN must have 'C' in the 4th position). Per project rules the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy is unproven, and absence of public data is not grounds for rejection. Role left as unknown pending registry confirmation. Recommend re-running verification when search access is restored."
+}

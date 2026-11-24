@@ -1,0 +1,18 @@
+{
+ "name_input": "KANGARO INDUSTRIES REGD",
+ "legal_name": "KANGARO INDUSTRIES (REGD) — unverified; no registry record retrieved",
+ "cin_llpin": null,
+ "pan": "AABFK4859L",
+ "pan_holder_type": "F = Firm / partnership firm (per 4th character of the claimed PAN; PAN itself not independently verified against any public registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not a negative finding. Tooling failure: web_search backend returned 'Connection refused' on all queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in returned 404; DuckDuckGo HTML timed out; Bing returned only generic 'Kangaroo' animal/brand results with no registry hit for the PAN or the exact entity name. The only page successfully read was the brand site kangaro.com (title 'Kangaro - Since 1959'), which is a marketing site and contains no CIN, GSTIN, incorporation date or financials — it cannot be used as registry evidence. Consequently: CIN/LLPIN, GSTIN, GST status, incorporation date, registered state and MCA status are all null (not public in any source I could reach). PAN AABFK4859L is carried over from the input only; its 4th character 'F' indicates a partnership firm, which is consistent with the '(REGD)' suffix typical of a registered partnership firm rather than a company — but this is inference from the PAN format, not confirmation. Note the entity is a stationery/stapler manufacturer brand (Kangaro), which does not match the claimed HS 847340 (parts of office machines) or the claimed industry 'IT и электроника'; per project rules this is NOT grounds for rejection — HS is to be corrected to the factual code and the company retained. No rejection applied: no evidence of non-existence, strike-off, liquidation or bankruptcy was found, and equally no evidence of active status was obtained. Revenue FY25/FY26: null — no audited accounts or official filings accessible; not estimated. Recommended follow-up: re-run against MCA master data / GST portal when search access is restored."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S BLUE STAR MALLEABLE PVT LTD",
+ "legal_name": "BLUE STAR MALLEABLE PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AADCB3045N",
+ "pan_holder_type": "Company (4th character 'C' = company per PAN structure) — format-consistent, but holder identity NOT verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Jharkhand",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results (searx: urlopen error [Errno 111] Connection refused)'); Google returned only a redirect/consent stub; Bing ignored the quoted phrase and returned generic 'blue' colour results, so no company page was surfaced; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; falconebiz.com returned a JavaScript-only shell with no company record. No CIN, GSTIN, incorporation date, MCA status or financials could be confirmed from a public source, therefore all such fields are null rather than guessed. PAN AADCB3045N is structurally valid (5 letters + 4 digits + 1 letter; 4th char 'C' indicates a company holder), but its linkage to this entity is unverified. IMPORTANT: no evidence of non-existence, strike-off, liquidation or bankruptcy was found either — the absence of data here is a tooling limitation, NOT a rejection ground. Per project rules the company must NOT be rejected on this basis; it should be re-queued for registry lookup (MCA master data / GST portal search by PAN) once search access is restored. Role cannot be classified (manufacturer vs trader) without MCA/GST records; declared HS codes 732591/732611/847490 (malleable cast-iron grinding media/balls and parts for crushing machinery) are consistent with a foundry-type manufacturer, but that is inference from HS only, not verified fact. Revenue FY25/FY26: null — no audited accounts or official filings accessible."
+}

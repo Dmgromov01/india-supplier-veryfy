@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S TRANSASIA BIO MEDICALS LIMITED",
+ "declared_hs": "382219;382290;850440;902780",
+ "actual_hs_list": [
+  "382219",
+  "382290",
+  "902780",
+  "902789",
+  "382100",
+  "382213",
+  "901890",
+  "850440"
+ ],
+ "match_status": "partial",
+ "product_summary": "IVD (in vitro diagnostics) manufacturer: clinical chemistry reagents and kits, hematology reagents/controls, electrolyte reagents, ELISA/immunoassay kits, plus the analyzers themselves — clinical chemistry analyzers, hematology analyzers (3-part/5-part), electrolyte analyzers, semi-auto biochemistry analyzers, coagulation and ESR instruments. Brand family Erba Mannheim / Transasia. Sources: transasia.co.in (Erba Mannheim corporate site, reachable only via search snippet — direct fetch returned 302 loop / 429), Bing result listing 'transasia.co.in — Transasia - Erba Mannheim'. Full catalogue pages could NOT be opened in this session (DNS failure on transasiabio.com, HTTP 429 on IndiaMART, 403 on DuckDuckGo), so the individual product list is taken from the company's own positioning as IVD reagent + analyzer maker and is marked 'заявлено, не подтверждено' at line level.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: 382219 (diagnostic/lab reagents, ex-3822) — correct and the core line, corroborated by the company's own IVD-reagent positioning; 382290 (other composite diagnostic/lab reagents) — correct, same family; 902780 (instruments/apparatus for physical/chemical analysis) — correct for the chemistry/electrolyte analyzers, though hematology cell counters and coagulation instruments are more precisely 902789 / 901890 and are missing from the declaration; 850440 (static converters/ power supplies) — this is the weak line: it fits only as a component/accessory (power supply units, UPS for analyzers), not as a main product, so it looks like a mis-declared or accessory-only code. Missing from the declaration: 382100 (prepared culture media), 382213 (diagnostic reagents with blood-grouping antisera, if blood-bank reagents are sold), 902789 (other analysis instruments), 901890 (other medical instruments), and 3926/3923 for consumables/cuvettes if traded. Industry classification 'Нефтегаз и химия' (oil & gas and chemicals) is a clear MISCLASSIFICATION — the company is medical devices / IVD diagnostics (pharma-adjacent healthcare), not oil & gas; the 'chemistry' part only loosely covers reagent chemistry. No trader signs found: the company is presented as a manufacturer with its own Erba Mannheim brand and plants, so role = manufacturer (not independently verified in this session). All product lines above are 'заявлено, не подтверждено' — no customs line was available to me to corroborate any specific HS code, and no shipment records were checked per role scope. Per Rule 3 the HS discrepancies are NOT grounds for rejection: company is kept, codes corrected to the actual product mix."
+}

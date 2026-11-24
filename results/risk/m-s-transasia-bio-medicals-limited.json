@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S TRANSASIA BIO MEDICALS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ПРОВЕРКА НЕ ВЫПОЛНЕНА — технический сбой инструментов, не отсутствие рисков. 10 попыток: web_search вернул 'searx: Connection refused' на всех запросах; html.duckduckgo.com — HTTP 403; bing.com отдавал один и тот же статический набор результатов, не связанный с запросом (TransAsia Airways, Trans-Asia Shipping Lines, tassgroup и т.п.), т.е. результаты недостоверны и не использовались; www.transasiabio.com и www.transasiabio.com/about-us — DNS 'Name or service not known'; transasia.co.in — бесконечный редирект (HTTP 302 loop); r.jina.ai — HTTP 403. Ни один первоисточник (OFAC SDN/consolidated list, UN/EU/UK sanctions lists, BIS Entity List, eCourts/NJDG, NCLT, IBBI, CRISIL/ICRA/CARE/India Ratings, таможенные и B-L записи) фактически не открыт. Соответственно: sanctions_hit, court_cases, rating, news_risk, rf_supply = null — это НЕ подтверждённое отсутствие, а отсутствие данных. Никакие сведения о санкциях, судах, рейтингах, негативных новостях или поставках в РФ/СНГ не выдумывались. ВАЖНО: null в этих полях нельзя трактовать как 'чисто'. Требуется повторный прогон при восстановлении доступа к поиску и первоисточникам. По правилу 2 проекта: даже при обнаружении санкций/судов/уголовных дел владельцев компания не отклоняется — фиксируется нейтрально как 'есть сложности'. По правилу 3 отклонение возможно только при несуществовании/ликвидации/банкротстве юрлица; статус юрлица в этом прогоне также не проверялся (вне роли risk specialist)."
+}

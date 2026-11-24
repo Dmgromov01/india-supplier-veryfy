@@ -1,0 +1,18 @@
+{
+ "name_input": "G G ORGANICS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "case": "S. Suresh Kumar vs State",
+   "court": "Madras High Court",
+   "date": "2024-01-30",
+   "party_role": "Компания упоминается косвенно: заявитель/истец (S. Suresh Kumar) работал в компании G.G. Organics Private Limited в должности 'Godown Consultant'; компания не является стороной по делу",
+   "status": "Решение опубликовано (C V Karthikeyan, 2024); исход в отношении компании не применим",
+   "source": "https://indiankanoon.org/search/?formInput=%22G%20G%20Organics%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка ограничена: поисковые движки были недоступны (DuckDuckGo — connection refused/timeout; Google, Zauba Corp, TheCompanyCheck — HTTP 403; Bing — нерелевантная выдача). Санкции: прямой запрос к OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) выполнен, но интерактивный поиск по имени через http_get не возвращает результаты — совпадений не подтверждено и не опровергнуто, поэтому null. Проверка по UN, EU, UK OFSI и BIS Entity List не выполнена (нет доступа к их поисковым интерфейсам) — null. Судебные дела: единственная найденная публичная запись — упоминание компании в решении Madras High Court от 30.01.2024 (S. Suresh Kumar vs State), где компания НЕ является стороной; иных дел в Indian Kanoon по запросам \"G G Organics\" и \"G.G. Organics Private Limited\" не найдено (1 результат). Действия регуляторов и негативные новости: не проверено из-за недоступности поиска — null, отсутствие данных не означает отсутствие риска. Кредитный рейтинг: публичных присвоений (CRISIL/ICRA/CARE/India Ratings/Acuite) не найдено; null. Поставки в РФ/СНГ: следов не найдено в доступных источниках — null; утверждать отсутствие нельзя, так как таможенные и B-L базы не проверялись. Согласно правилу 2, любые выявленные в будущем санкции/суды/уголовные дела владельцев не являются основанием для отклонения — только нейтральная пометка «есть сложности»."
+}

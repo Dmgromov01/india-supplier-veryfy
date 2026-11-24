@@ -1,0 +1,19 @@
+{
+ "name_input": "KVTEK POWER SYSTEMS PVT LTD",
+ "declared_hs": "850440",
+ "actual_hs_list": [
+  "9030.89",
+  "9030.33",
+  "8504.31",
+  "8504.34",
+  "8504.32",
+  "8543.70",
+  "9030.39",
+  "8537.10",
+  "8544.42"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт kvtekpower.com (разделы Home, About Us, Products) описывает компанию как разработчика и производителя Electrical Test and Measuring Equipment для высоковольтных (HV) испытаний. Заявленный перечень (About Us): Impulse Voltage / Current Test Systems; HV AC Series Resonance Test Systems (variable inductance & variable frequency); HV AC Dielectric Test Sets; Single/Multi Channel Partial Discharge Detection Systems; Transformer Loss Measuring Systems; Static Frequency Converters; Capacitor Banks for Transformer Testing; C&Tan Delta Test Sets; HV DC Power Supplies; AC/DC Hipot Tester; High Current Test System; RF Shielded Rooms; On-line Transformer Moisture Absorption System; Automatic Voltage Seasoning Test Systems for VI Bottles; Integrated Transformer Test System. Раздел Products содержит только 6 категорий (Integrated Transformer Test System, HV Test Systems, Measuring Systems, Calibrators, Instruments, Accessories) без спецификаций; страница /product-category/hv-test-systems/ отдаёт 'No products were found matching your selection' — детальные модели и техпараметры публично не раскрыты. Производственная площадка: IMT Manesar / Model Economic Township, Jhajjar, Haryana (адрес на сайте), участки: coil winding, resistance winding, capacitor manufacturing, assembly, calibration laboratory — признак собственного производства, не трейдер.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 850440 (статические преобразователи) покрывает лишь один элемент линейки — Static Frequency Converters и, частично, HV DC Power Supplies / зарядные блоки в составе импульсных установок. Основная продукция — испытательное и измерительное оборудование: импульсные и резонансные HV-установки, hipot-тестеры, измерители потерь трансформатора, детекторы ЧР, C&tan delta — это товарная позиция 9030 (осциллоскопы, анализаторы спектра и прочие приборы для измерения электрических величин; 9030.89 — прочие приборы и аппараты для измерения/контроля электрических величин), а не 8504. Отдельные узлы: измерительные/испытательные трансформаторы и реакторы — 8504.31/8504.32/8504.34; конденсаторные батареи для испытаний — 8532.10/8532.29 (не 8504); RF-экранированные комнаты — 9406.90/8543.70 (сборные конструкции); автоматизированные испытательные комплексы с управлением — 8537.10 + 9030.89. Итог: соответствие частичное — 850440 корректно только для статических преобразователей частоты, тогда как ядро экспортной линейки (HV test systems) должно классифицироваться в 9030.89 / 9030.33 (мультиметры и измерительные приборы) и 8504.31-8504.34 для трансформаторных узлов. Отраслевая привязка 'Энергетика' формально верна (оборудование для энергетики), но по ТН ВЭД это не силовое энергооборудование, а контрольно-измерительные приборы и испытательные стенды — риск ошибки декларирования при экспорте. Согласно правилу 3 компания сохраняется в базе, код подлежит исправлению на фактический (9030.89 как основной + 8504.31/8504.34 для трансформаторных блоков), вердикт accepted_hs_corrected. Все товарные позиции взяты из описания на сайте и НЕ подтверждены ни одной таможенной строкой — статус 'заявлено, не подтверждено'. Признаков трейдера не выявлено (собственные производственные и калибровочные участки), однако сайт не публикует модели, мощности и сертификаты соответствия — фактический ассортимент отгрузок требует сверки с инвойсами. Примечание: на сайте указан адрес в Jhajjar, Haryana (ранее IMT Manesar, Gurgaon) — расхождение в адресе между разделами Home и About Us, требует уточнения у поставщика. Данные о выручке, объёме экспорта и регистрационные реквизиты в рамках данной роли не проверялись (null)."
+}

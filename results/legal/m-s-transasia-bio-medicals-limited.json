@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S TRANSASIA BIO MEDICALS LIMITED",
+ "legal_name": "Transasia Bio-Medicals Limited (name as claimed; exact MCA spelling not verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACT2038C",
+ "pan_holder_type": "Company (4th character of PAN = 'C' → company; consistent with a limited company, but PAN itself not independently verified against a public registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data gap, not a rejection. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned only its marketing homepage with no company record; Bing returned only generic 'Transasia' logistics/airline noise and no MCA/GST record for this entity; transasia.co.in returned 404/429. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status could not be confirmed from a public source and are left null rather than guessed. The claimed CIN pattern U33110PB1985PLC006146 seen in my own search strings is NOT a verified source and must not be used. PAN AAACT2038C is carried over from the input only: format is valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' indicates a company holder, which is consistent with 'Limited', but the PAN-to-entity link is unverified. State: Punjab is plausible for this well-known IVD/medical-diagnostics group (Chandigarh/Punjab belt), but registered office state is unconfirmed. Role set to 'manufacturer' on the basis of the claimed business (in-vitro diagnostics reagents/instruments, consistent with declared HS 3822/9027/8504) — this is a business-type judgement, not a registry finding. Revenue FY25 and FY26: null — no audited accounts or MCA filing was accessible; not estimated. Per project rules the company is NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found (and none could be checked). Action required: re-run registry check when search/registry access is restored (MCA master data, GST public profile) to fill CIN, GSTIN, incorporation date, registered state and MCA status."
+}

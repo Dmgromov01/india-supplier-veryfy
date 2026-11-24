@@ -1,0 +1,16 @@
+{
+ "name_input": "AVIK PHARMACEUTICAL LIMITED",
+ "declared_hs": "293721",
+ "actual_hs_list": [
+  "293721 (prednisolone/methylprednisolone and derivatives — partially applicable)",
+  "293722 (halogenated corticosteroid hormones: beclomethasone, betamethasone, clobetasol, clobetasone, halobetasol, mometasone, triamcinolone acetonide/hexacetonide)",
+  "293723 (oestrogens — not applicable)",
+  "293729 (other steroid hormones incl. budesonide, calcitriol-related sterols)",
+  "293750 (prostaglandins — not applicable)",
+  "293359 / 293399 (heterocyclic compounds — possible for some intermediates, not corroborated)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт avikpharma.com (раздел Products, главная страница) перечисляет исключительно кортикостероидные API: Beclomethasone Dipropionate, Betamethasone Acetate / Valerate / Dipropionate / Sodium Phosphate, Budesonide, Clobetasol Propionate, Clobetasone Butyrate, Halobetasol Propionate, Methylprednisolone (base, Aceponate, Acetate), Mometasone Furoate Anhydrous / Monohydrate, Prednisolone Acetate / Sodium Phosphate / Sodium Metasulfobenzoate, Triamcinolone (base, Acetonide, Hexacetonide), Calcitriol. Компания позиционируется как «pioneer in manufacturing Steroids in India», производство API с начала 1980-х, площадка Vapi, Gujarat; офис — Andheri (E), Mumbai. Заявлены сертификаты EU GMP, ANVISA, MFDS, TFDA и присутствие в 45+ странах.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 293721 (глюкокортикоиды — prednisolone/methylprednisolone) покрывает только часть продуктовой линейки: Methylprednisolone, Methylprednisolone Acetate/Aceponate, Prednisolone Acetate/Sodium Phosphate/Sodium Metasulfobenzoate. Основная масса линейки — галогенированные кортикостероиды (beclomethasone, betamethasone и его эфиры, clobetasol, clobetasone, halobetasol, mometasone, triamcinolone acetonide/hexacetonide), которые относятся к субпозиции 293722, а не 293721. Budesonide и Calcitriol также не укладываются в 293721 (293729 / 2936 соответственно). Итог: match_status = partial — код не ошибочен, но неполон; фактический набор кодов должен включать как минимум 293721 и 293722, с проверкой 293729 по budesonide. Отраслевая классификация «Нефтегаз и химия» формально неверна по существу: это фармацевтика / API (органическая химия, гл. 29), хотя HS-раздел 29 «органические химические соединения» пересекается с химией — рекомендую переклассифицировать в «Фармацевтика / API». Признаков трейдерства нет: сайт описывает собственное производство (R&D, impurity profiling, polymorphism, micronization, площадка Vapi, GMP-сертификаты), указаны профильные руководители производства и R&D — роль manufacturer. Все продукты и сертификаты взяты только со слов сайта: конкретных таможенных строк/экспортных деклараций в рамках этой проверки не подтверждено — статус «заявлено, не подтверждено». Продуктовые линии, отсутствующие в декларации: галогенированные кортикостероиды (293722), budesonide (293729), calcitriol (2936), а также возможные промежуточные стероидные соединения/интермедиаты, которые на сайте отдельно не перечислены."
+}
