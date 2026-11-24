@@ -1,0 +1,9 @@
+{
+ "name_input": "SNARK POWER PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ТЕХНИЧЕСКИЙ СБОЙ ИССЛЕДОВАНИЯ — данные не собраны, не трактовать как отсутствие рисков. Все 10 доступных вызовов инструментов израсходованы, ни один источник не дал результата: (1) web_search (DuckDuckGo/searx) — 'Connection refused' на всех запросах, включая 'Snark Power Private Limited sanctions OFAC', 'Snark Power Pvt Ltd court case India', 'Snark Power Private Limited Pune'; (2) Bing — отдаёт кэшированный нерелевантный блок (словарные статьи 'snark') независимо от запроса, включая точные запросы в кавычках с PAN AAICS0607A и с операторами ZaubaCorp/Tofler/IndiaMART; (3) Google — блокировка скрейпинга; (4) html/lite.duckduckgo.com — CAPTCHA / HTTP 403; (5) zaubacorp.com — HTTP 403; (6) tofler.in — 404 на поисковом URL; (7) sanctionssearch.ofac.treas.gov — страница открылась, но поисковый запрос через GET не выполняется ('An error has occured'), проверка по SDN фактически НЕ проведена; (8) search.maritime.gov.in — DNS не резолвится. Итог: санкционная экспозиция (OFAC SDN, UN, EU, UK, BIS Entity List) НЕ проверена; судебные дела в индийских инстансах (сторона, статус) НЕ проверены; действия регуляторов и негативные новости НЕ проверены; кредитный рейтинг (агентство, дата, статус) НЕ проверен; признаки поставок в РФ/СНГ НЕ проверены. Все поля null означает 'не установлено из-за недоступности источников', а не 'чисто'. Компания остаётся в базе (правило 2: санкции/суды/уголовные дела не являются основанием для отклонения). Требуется повторный прогон при восстановлении поискового бэкенда; приоритетные цели для проверки: OFAC SDN/Consolidated List по строке 'SNARK POWER', BIS Entity List, реестр NCLT/MCA по Maharashtra, а также таможенные записи по экспорту в РФ/СНГ."
+}
