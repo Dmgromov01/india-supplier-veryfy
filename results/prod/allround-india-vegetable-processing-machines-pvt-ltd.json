@@ -1,0 +1,16 @@
+{
+ "name_input": "Allround (India) Vegetable Processing Machines Pvt. Ltd",
+ "declared_hs": "842890",
+ "actual_hs_list": [
+  "843360",
+  "843710",
+  "842833",
+  "842839",
+  "843880",
+  "847989"
+ ],
+ "match_status": "partial",
+ "product_summary": "Group site allroundvp.com (pages /machines and /grading, read 2026) lists the real product range: tipping hoppers/tipping boxes, dry cleaning (destoners, leaf separators), wet cleaning/washers, drying tunnels and vegetable dryers, inspection tables, grading machines (radial grader, shake grader, screen sizer, chunk/length grader, string grader, cabbage grader), conveyors, filling, loading/unloading, cooling, weighing & bagging lines, water-recycling units, box automation/palletizing, plus complete vegetable processing lines for cabbage, onion, potato, carrot and multi-product, and cold-storage equipment. The site states machines are produced in own facilities in The Netherlands and India, with Indian locations listed as Ambala, Mumbai and Ahmedabad. No India-specific product catalogue or price list could be opened: the likely India domain (allroundindia.com) did not respond, and IndiaMART returned HTTP 429, so the Indian entity's own catalogue is unverified.",
+ "role_hint": "manufacturer (per group site: own production facilities in India and the Netherlands); Indian entity's own manufacturing status not independently corroborated — заявлено, не подтверждено",
+ "comment": "HS 842890 ('other lifting, handling, loading or unloading machinery') is only partially right. It plausibly covers the tipping/hoisting, box-automation and palletizing/handling items, but the core of the range is food-processing and sorting machinery that belongs elsewhere: vegetable washing/cleaning machines -> 843360; grading/sorting/sizing machines -> 843360 (or 843710 if seed/grain cleaning-type); conveyors -> 842833 (belt, continuous) / 842839; other processing machinery (dryers, blanchers, fillers, packing) -> 843880 / 847989. So the declaration is a partial match: it captures the handling subset and misses the main product lines (grading, washing, drying, weighing/bagging). Per project rule 3 this is NOT a rejection ground — company stays in the base, code corrected to the actual range above, verdict accepted_hs_corrected. Industry misclassification: the claimed industry 'Авиастроение и транспорт' (aviation & transport) is wrong — this is food-processing / post-harvest vegetable machinery (HS ch. 84, headings 8433/8438/8428), not aerospace or transport equipment. Trader signs: none found — the group site presents own manufacturing, so no trader flag; however the Indian entity's plant and its own catalogue were not verifiable (domain unreachable, IndiaMART blocked), so the Indian manufacturing claim is 'заявлено, не подтверждено'. Product lines missing from the declaration: grading/sorting machines, washers, dryers, conveyors, weighing & bagging, cold-storage equipment. No customs line was available to me in this task (HS-only scope), so no shipment-level corroboration of any code is asserted."
+}

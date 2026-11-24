@@ -1,0 +1,9 @@
+{
+ "name_input": "MBION International",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах, Bing/Google отдавали нерелевантную выдачу, zaubacorp.com — HTTP 403, OFAC Sanctions List Search не принимает GET-запросы (нужна форма). Ни по одному из пунктов (санкции OFAC SDN/UN/EU/UK/BIS, индийские суды, действия регуляторов и негативные новости, кредитный рейтинг, поставки в РФ/СНГ) публичных данных получить не удалось. Все поля оставлены null — это означает 'не найдено/не проверено', а НЕ 'чисто'. Отдельно отмечаю: название 'MBION International' в открытых источниках не подтверждено; заявленное лицо CHINTAN MAHENDRA SHAH и PAN ALYPS5422K не верифицированы (проверка юрлица вне моей роли). Требуется повторный прогон при доступном поиске и ручная проверка по OFAC SDN, EU/UK consolidated lists, BIS Entity List, eCourts/NCLT и CRISIL/ICRA/CARE."
+}
