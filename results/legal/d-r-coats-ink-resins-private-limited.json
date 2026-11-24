@@ -1,0 +1,18 @@
+{
+ "name_input": "D R COATS INK & RESINS PRIVATE LIMITED",
+ "legal_name": "D R Coats Ink & Resins Private Limited (as claimed; exact MCA-registered spelling NOT verified)",
+ "cin_llpin": null,
+ "pan": "AABCD8645A",
+ "pan_holder_type": "AABC — 4th character 'C' = company (non-individual). Note: PAN is only the claimed value from the input; it could not be validated against any public source, and the 5th character 'D' is a surname initial, which is unusual for a company PAN (companies normally use the first letter of the legal name). Treat as unverified.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. The web_search tool was unavailable (searx connection refused) for the whole session, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404 or a generic 404 page; Bing/Google HTML endpoints returned only irrelevant generic results, so no page containing this company's CIN, GSTIN, incorporation date or MCA status was retrieved. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not because they are known to be absent, but because they were not publicly retrievable with the tools available. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules the company is NOT rejected; it is retained with role 'unknown' and revenue null. Revenue FY25/FY26: no audited accounts or official filings were accessible, so both are null (not estimated). The declared HS codes (292129, 381220, 381400, 390890 — amine compounds, plasticisers, solvents/thinners, polyurethane resins) are consistent with an inks/resins/coatings chemical business, but HS conformity is not a rejection criterion and the actual code set should be confirmed from the company's own GST/IEC records. Recommended next step: re-run verification when the search backend is restored, or query the MCA master data / GST portal directly by CIN or GSTIN."
+}

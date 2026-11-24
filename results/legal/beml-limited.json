@@ -1,0 +1,18 @@
+{
+ "name_input": "BEML LIMITED",
+ "legal_name": "BEML Limited (formerly Bharat Earth Movers Limited)",
+ "cin_llpin": null,
+ "pan": "AAACB8433D",
+ "pan_holder_type": "Company (4th character 'C' in AAACB8433D = company; PAN format valid: 5 letters + 4 digits + 1 letter)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1964-05-11",
+ "state_registered": "Karnataka",
+ "state_claimed": "Ladakh",
+ "mca_status": "Active (listed PSU, Schedule 'A' under Ministry of Defence; BSE 500048 / NSE BEML; no strike-off, liquidation or insolvency found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 4022,
+ "revenue_fy26_cr": 4351,
+ "revenue_source": "Screener.in consolidated annual P&L (Mar 2025: Sales 4,022 cr; Mar 2026: Sales 4,351 cr), derived from BSE/NSE audited consolidated results; company site states turnover 'more than Rs. 4,300 Crs' (bemlindia.in/about-us)",
+ "note": "Entity exists and is active - not rejected. Legal name confirmed on official site: 'BEML Limited (formerly Bharat Earth Movers Limited)', established 11 May 1964 (bemlindia.in/about-us; Wikipedia: incorporated 11 May 1964). Registered & corporate office: BEML Soudha, 23/1, 4th Main, SR Nagar, Bengaluru-560027, Karnataka (bemlindia.in/investors) - this CONTRADICTS the claimed state 'Ladakh'; no registered office or plant in Ladakh (plants: Bangalore, KGF, Mysore, Palakkad). PAN AAACB8433D matches the claimed value and is a company-type PAN. CIN could not be verified from an accessible public source: ZaubaCorp returned HTTP 403, BSE company page returned no content, and the search backend (DuckDuckGo/searx) was down for the whole session - therefore CIN/LLPIN reported as null rather than guessed (commonly cited as L35202KA1964PLC001546 but NOT confirmed by a source read in this session). GSTIN and GST status not retrievable from a public profile in this session - null. Revenue figures are consolidated net sales from exchange-filed results via Screener.in, not read directly from the audited PDF (the PDF fetch returned binary content); treat as filing-derived, FY26 figure is the full-year Mar-2026 consolidated number. Role: manufacturer - own plants at Bangalore, KGF, Mysore, Palakkad; product lines (dozers, dump trucks, excavators, engines, metro cars) are self-manufactured. Declared HS codes (6812.99 friction material, 8409.99/8413.30/8413.60 engine and pump parts) are largely parts/accessories rather than BEML's core finished goods (8474/8429/8605) - per project rules this is NOT a rejection ground; company retained, HS to be corrected to actual export lines. No customs, court or catalogue research performed per role scope."
+}

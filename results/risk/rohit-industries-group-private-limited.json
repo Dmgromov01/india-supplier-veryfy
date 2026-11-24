@@ -1,0 +1,9 @@
+{
+ "name_input": "ROHIT INDUSTRIES GROUP PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / timeout; Bing по всем вариантам запросов ('Rohit Industries Group Private Limited', + CIN, + Madhya Pradesh, + site:zaubacorp/tofler/thecompanycheck) выдавал только нерелевантную выдачу про крикетиста Рохита Шармы и канадскую Rohit Group (rohitgroup.com, Альберта) — ни одного упоминания индийской компании с таким названием. Zaubacorp отдал 403, mca.gov.in не резолвится (DNS). OFAC Sanctions List Search открылся, но это JS-форма без возможности отправить запрос через http_get — фактического скрининга по SDN/Non-SDN не проведено, поэтому sanctions_hit = null (НЕ 'чисто'). Аналогично не проверены UN/ EU/ UK/ BIS Entity List, eCourts/NJDG, IBBI, SEBI/RBI, кредитные рейтинги (CRISIL/ICRA/CARE/India Ratings) и любые следы поставок в РФ/СНГ. Все поля null означает 'не установлено', а не 'отрицательный результат'. Рекомендация: повторить проверку при восстановлении доступа к поиску и реестрам (MCA21, eCourts, OFAC/EU/UK консолидированные списки) до принятия решения по компании."
+}

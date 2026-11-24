@@ -1,0 +1,8 @@
+{
+ "name_input": "NARMADA COLOUR PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for slug 'narmada-colour-pvt-ltd' loaded but contained no shipment rows — only boilerplate: \"Shipments available for NARMADA COLOUR PVT LTD, refreshed daily\" with a 'Loading...' placeholder and \"Start Free Trial\". Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com returned HTTP 403; no accessible source yielded a turnover figure. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники оказались недоступны. ImportKey отдал пустую оболочку страницы (0 записей при заявленном наличии данных), volza.com, eximpedia.app, trademo.com и thecompanycheck.com вернули HTTP 403, importgenius.com — JS-челлендж, DuckDuckGo-поиск недоступен (connection refused), Google/Bing по запросу выдали нерелевантную выдачу. Ни одной фактической записи об отгрузке (экспортной или внутренней) получить не удалось, поэтому оба статуса — unknown, а не none_found: отсутствие доступа к данным не равно отсутствию поставок. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). HS 320500 (синтетические органические красители) соответствует профилю компании по названию, но фактичность отгрузок по этому коду не подтверждена. PAN AABCN0029L и штат Gujarat не верифицировались — реестры вне области задачи. Рекомендация: повторить проверку через платный доступ к таможенным данным Индии (DGFT/ICEGATE-агрегаторы) либо запросить у поставщика экспортные декларации и GST-выписку."
+}

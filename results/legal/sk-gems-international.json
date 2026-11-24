@@ -1,0 +1,18 @@
+{
+ "name_input": "SK Gems International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки верификации в этом прогоне не удались: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' или таймаут; Bing по запросам \"SK Gems International\" + \"Sanjeev Kumar Gupta\" / GSTIN выдавал нерелевантную выдачу (SK Group, Saskatchewan и т.п.), т.е. точное совпадение по названию не найдено; zaubacorp.com и instafinancials.com — HTTP 403; tofler.in — 404 на странице поиска. Никаких CIN/LLPIN, PAN, GSTIN, даты инкорпорации, статуса MCA и выручки публично подтвердить не удалось, поэтому все поля null — цифры не выдумывались. Существенные замечания по входным данным: (1) 'SANJEEV KUMAR GUPTA' — это имя физлица, а не юрлица; для индийской компании нужна форма ... Private Limited / LLP / 'Prop. Sanjeev Kumar Gupta' (sole proprietorship). Если это sole proprietorship, CIN/LLPIN и MCA-статус отсутствуют по определению, а PAN — это PAN физлица (4-й символ 'P' = individual), не организации. (2) Заявленный HS 710239 (необработанные/обработанные алмазы, не промышленные) полностью расходится с заявленной отраслью 'Продукты питания и FMCG' — по правилам проекта это НЕ основание для отклонения: компания сохраняется в базе, фактический код исправляется, вердикт accepted_hs_corrected. (3) Роль (manufacturer/trader) не установлена — null/unknown. Отклонение НЕ применяется: сведений о несуществовании, strike-off, ликвидации или банкротстве нет, но и подтверждения существования юрлица тоже нет — статус 'заявлено, не подтверждено', требуется повторная проверка при доступном реестре (MCA master data по имени, GST-портал по PAN/торговому имени)."
+}
