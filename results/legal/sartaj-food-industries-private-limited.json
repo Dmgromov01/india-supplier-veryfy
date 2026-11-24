@@ -1,0 +1,18 @@
+{
+ "name_input": "Sartaj Food Industries Private Limited",
+ "legal_name": "SARTAJ FOOD INDUSTRIES PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": "ABICS0160R (as claimed in input; not verified against any public record)",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN) — based on the claimed PAN string only; unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed. Tooling failed: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML/lite endpoints timed out; Google returned only a redirect stub; Bing returned irrelevant generic results (no company hits). Direct registry/profile pages were blocked or absent: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, mca.gov.in MDS returned HTTP 403. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role cannot be classified without MCA NIC/activity data, so 'unknown'. Per project rules the company is NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found — the entity simply could not be checked. PAN 'ABICS0160R' is carried over from the input only; its 4th character 'C' is consistent with a company-type PAN, but the string itself is unverified and must be confirmed against the MCA/Income Tax record before use. Recommended next step: re-run verification when search/registry access is restored (MCA master data by name, GST portal search by PAN/legal name, and Punjab ROF/registered office confirmation)."
+}

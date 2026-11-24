@@ -1,0 +1,9 @@
+{
+ "name_input": "HAYERS INFOTECH PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. No public record could be retrieved for this entity within the tool budget, so every field is null rather than a negative finding. Tooling status: DuckDuckGo/searx backend returned 'Connection refused' on all attempts; Google returned only a redirect interstitial; Bing returned exclusively unrelated spam results with no genuine match for the name; Zauba Corp returned HTTP 403; Tofler returned HTTP 404 for the guessed slug; indiafilings returned HTTP 404. The OFAC Sanctions List Search page loaded but is a JavaScript form and cannot be queried via plain GET, so no actual SDN/Non-SDN name screening was performed — sanctions_hit=null means 'not screened', NOT 'clear'. Likewise UN, EU, UK OFSI and BIS Entity List were not queried. No Indian court records (eCourts, NCLT, High Court) were checked, no credit rating (CRISIL/ICRA/CARE/India Ratings) was located, and no negative-news or Russia/CIS supply evidence was found — all null for absence of data, not absence of risk. Per project rules, sanctions/court/criminal matters are never rejection grounds and nothing here supports rejection; the company is not rejected. Recommended next step: re-run screening with a working search backend and a scripted OFAC/EU/UK/BIS list download, plus eCourts party-name search, before any reliance on this record. Do not treat this entry as a clearance."
+}

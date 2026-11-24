@@ -1,0 +1,37 @@
+{
+ "name_input": "MLA INDUSTRIES PRIVATE LIMITED; MLA INDUSTRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court (Orders)",
+   "case_title": "HIL India Limited (formerly known as ...) vs MLA Industries",
+   "party_role": "Defendant / respondent (MLA Industries is the party sued)",
+   "status": "Pending / ongoing — series of at least 8 orders issued between 24.02.2025 and 23.01.2026, indicating a live and actively litigated matter",
+   "orders_dated": [
+    "2025-02-24",
+    "2025-03-17",
+    "2025-05-15",
+    "2025-05-28",
+    "2025-08-29",
+    "2025-10-17",
+    "2025-11-21",
+    "2026-01-23"
+   ],
+   "bench": "P.K. Kaurav (Justice Purushaindra Kumar Kaurav)",
+   "source": "https://indiankanoon.org/search/?formInput=%22MLA%20Industries%22",
+   "note": "Case nature (commercial recovery / IP / contractual) not established from the search listing alone; full order text not retrieved. Per project rule 2 this is not a rejection ground — recorded neutrally as 'есть сложности'."
+  },
+  {
+   "court": "Himachal Pradesh High Court",
+   "case_title": "Ajay Singh vs State of H.P. & Others (11.12.2019)",
+   "party_role": "Unconfirmed — 'MLA Industries' appears only as a search-term match; no verified link to this company",
+   "status": "Unverified / likely false positive",
+   "source": "https://indiankanoon.org/search/?formInput=%22MLA%20Industries%22",
+   "note": "Bench: Dharam Chand Chaudhary. Not counted as a case against the company."
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no hit found, but this is a WEAK negative — the OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov) is a JavaScript form that returned no query results via direct fetch, and the DuckDuckGo search backend was down (connection refused) for the whole session, so no name was actually run against the SDN/Non-SDN lists, UN, EU, UK or BIS Entity List. Treat sanctions as UNVERIFIED, not cleared. Court cases: the one substantive finding is a live Delhi High Court matter, HIL India Limited vs MLA Industries, with at least 8 orders from 24.02.2025 to 23.01.2026 (source: indiankanoon.org search for \"MLA Industries\"). MLA Industries is the defendant. Per rule 2 this is NOT a rejection ground and is recorded neutrally as 'есть сложности'. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; not public in accessible sources. Regulator actions and negative news: null — no RBI/SEBI/DGFT/ED/CBI action or dated negative press located; Bing returned only generic 'MLA' citation-style results for every company-specific query, so absence here reflects search-tool failure, not a clean record. RF/CIS supply evidence: null — no evidence of supplies to Russia or the CIS found, and none disproving it either. IMPORTANT CAVEAT: no corporate registry record (MCA/Zauba/Tofler) could be retrieved — Zauba returned HTTP 403, Tofler search returned a 404 page — so I could not confirm the entity's existence, state of registration or directors, and I could not cross-check whether the Delhi HC defendant is the same legal entity as the Uttar Pradesh supplier claimed in the batch. Recommend re-running sanctions screening and the MCA lookup manually before any decision."
+}

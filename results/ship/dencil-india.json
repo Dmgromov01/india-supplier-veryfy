@@ -1,0 +1,8 @@
+{
+ "name_input": "Dencil India",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable export record obtained. importkey.com/countries/india/dencil-india returned only a paywalled shell: 'Shipments available for DENCIL INDIA, refreshed daily' — a marketing placeholder, not a shipment row; zero rows with date, destination, HS code or B/L number were visible on the page. volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JavaScript challenge; DuckDuckGo search tool was down ('Connection refused') and Bing returned unrelated results. Source counter: 5 trade-data sources attempted, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence obtained. Zaubacorp returned HTTP 403; GST turnover band, GeM/CPPP tender participation and annual-report splits could not be retrieved. Source counter: 2 domestic-evidence sources attempted, 0 records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны (403/JS-challenge/платный доступ), поэтому статус именно unknown, а не none_found. Ни одной записи с датой, направлением, HS-кодом или номером B/L получить не удалось; выручка и объём экспорта — null, не выдумывались. Заявленный HS 730900 (резервуары/цистерны из чёрных металлов) не подтверждён и не опровергнут фактическими данными — по правилу 3 несоответствие HS не является основанием для отклонения, вердикт по HS не выносится. Юрлицо DENCIL PUMPS AND SYSTEMS PRIVATE LIMITED не проверено на существование (реестр недоступен), поэтому оснований для rejected нет. Требуется повторная проверка при доступе к таможенным данным или реестру MCA."
+}

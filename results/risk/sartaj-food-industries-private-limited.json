@@ -1,0 +1,9 @@
+{
+ "name_input": "Sartaj Food Industries Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / таймаут, Bing по запросам «Sartaj Food Industries» Private Limited и «Sartaj Food Industries» Punjab company выдал полностью нерелевантную выдачу (форумы eBay, таблицы NHL) — то есть индексируемого следа компании в открытых источниках не обнаружено. Реестры (zaubacorp.com, thecompanycheck.com) отдали HTTP 403. Инструмент OFAC Sanctions List Search доступен только как интерактивная форма и не возвращает результаты по URL-запросу, поэтому прямой скрининг по SDN/Non-SDN не выполнен. Итог: sanctions_hit, court_cases, rating, news_risk, rf_supply — null, НЕ подтверждено отсутствие, а отсутствие данных. Никаких выводов о санкциях, судах, рейтинге, негативных новостях или поставках в РФ/СНГ не делаю: публичных записей не найдено, но это не эквивалент «чисто». Требуется повторный прогон при доступном поиске + ручной скрининг по OFAC SDN/Non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List, а также по eCourts/NJDG (Punjab, вероятно Chandigarh/Punjab district courts) и по реестру MCA по заявленному PAN ABICS0160R (PAN не проверялся — вне моей роли). Санкционных, судебных или криминальных оснований для отклонения не установлено; согласно правилу 2 такие основания в любом случае не являются причиной отклонения."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MAMTA CONVERTING",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "ASAPR8949P",
+ "pan_holder_type": "P — individual (natural person). 4th character 'P' in the claimed PAN ASAPR8949P denotes an individual taxpayer, which is consistent with the claimed legal name being a personal name (AJITSINH DEVUSINH RAJPUT) — i.e. a proprietorship/individual, not a company. Format check only: 5 letters + 4 digits + 1 letter, structurally valid. NOT verified against any official record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no source obtained. Tooling failure during this run: the web_search backend returned 'Connection refused' for every query; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant/spam results for both queries; zaubacorp.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; knowyourgst.com name-search page is a JS form and returned no data. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or revenue figure could be confirmed from any public/official source, and all such fields are null rather than guessed. Registry-specialist observations from the input alone: (1) the claimed 'legal_claimed' value is a personal name, and the claimed PAN's 4th character 'P' indicates an individual — so this is most likely a sole proprietorship, which has NO CIN/LLPIN and NO MCA status by definition; MCA fields should be expected to stay null permanently for this entity. (2) The declared HS code '844317' is not a valid HS heading as written (HS codes are 6 digits; 8443.17 does not exist in HS 2022 — 8443 covers printing machinery, with subheadings 8443.11/13/14/15/16/19/31/32/39/90), and the claimed industry 'IT и электроника' does not match printing machinery. Per project rules this is NOT a rejection ground: the entity is retained and the HS code must be corrected to the factual code. (3) No evidence of existence OR non-existence was obtained, so no rejection is applied — rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not available. (4) No shipment, GST-turnover or public-procurement record was checked (out of scope for this role), so no statement is made on whether supplies actually occurred. RECOMMENDATION: re-run this entity when the search backend is restored, and query the GST portal by the claimed PAN ASAPR8949P to obtain the actual GSTIN and legal trade name, plus the Gujarat state GST registration status."
+}

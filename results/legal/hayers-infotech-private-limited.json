@@ -1,0 +1,18 @@
+{
+ "name_input": "HAYERS INFOTECH PRIVATE LIMITED",
+ "legal_name": "HAYERS INFOTECH PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a connection error (searx: Connection refused) on every query, and direct fetches of registry/aggregator sources failed: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 403), tofler.in (404 on the guessed URL slug), mca.gov.in master-data page (HTTP 403). Bing/Google/DDG HTML endpoints returned irrelevant or blocked results, so no CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a primary or reliable secondary source. Per the rules, nothing is invented: all registry fields are null and role is 'unknown'. IMPORTANT: this is NOT a rejection - the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it simply remains unverified. No audited accounts or official filings were reachable, so revenue FY25/FY26 are null. The declared HS codes (841459; 842139; 847130; 847149 - fans/blowers, filtering machinery, computers and computer units) do not match the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals); per project rules this is not a rejection ground - the company stays in the base and the HS code should be corrected to the factual one, verdict accepted_hs_corrected, pending registry confirmation. Recommended next step: re-run with working search access and query the MCA master data / GST portal directly by exact legal name to obtain CIN, PAN (4th character holder type) and GSTIN."
+}
