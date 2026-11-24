@@ -1,0 +1,9 @@
+{
+ "name_input": "J P N PHARMA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable data obtained. Tooling failure: the web_search tool returned 'Connection refused' on both attempts; DuckDuckGo HTML endpoint returned HTTP 403; Google returned a redirect/consent interstitial; Bing returned only irrelevant generic results for 'JPN'/'J P N' (Japan country code, Malaysian JPN registry, alphabet pages) and no page referencing this company. Zaubacorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be queried via http_get, so no name lookup was actually executed — sanctions_hit is therefore null (NOT a negative/clear result). No Indian court records (eCourts/NCLT), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator actions (CDSCO/state FDA/EPFO/GST), no negative news and no evidence of supplies to Russia or the CIS could be retrieved or checked. Nothing here should be read as a clean bill of health: all fields are null because they are unverified, not because they were checked and found empty. Recommend re-running this company once the search backend is restored, and manually querying OFAC SDN/consolidated list, EU consolidated list, UK OFSI list, BIS Entity List, eCourts by party name, NCLT Mumbai/Ahmedabad benches, and CDSCO/state FDA enforcement notices. Note the claimed PAN AABCJ4911B and Maharashtra registration were not verified either (out of scope for this role, but flagged as unconfirmed)."
+}

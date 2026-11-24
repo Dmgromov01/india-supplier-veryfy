@@ -1,0 +1,18 @@
+{
+ "name_input": "J P N PHARMA PRIVATE LIMITED",
+ "legal_name": "J P N PHARMA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search backend returned connection refused on both queries; Bing/Google HTML endpoints returned only generic 'letter J' results with no company hits; direct fetches of Zauba Corp, TheCompanyCheck and MCA master-data pages returned HTTP 403/404. Therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all null - NOT verified, not absent. PAN claimed in input (AABCJ4911B) is format-plausible: 4th character 'J' = company (juristic person) holder type, and the 5th character 'J' matches the first letter of the legal name, so the claimed PAN is internally consistent, but it was NOT confirmed against any public record. Declared HS codes (292141, 293090, 293214, 293359) are organic-chemical/API codes consistent with a pharma/chemicals trader or manufacturer, but HS is not a rejection criterion per project rules and no correction is proposed without evidence. Role left as 'unknown' - no MCA NIC code or GST turnover data available to distinguish manufacturer from trader. No rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; equally there is no evidence it does exist. Recommend re-run with a working search backend or manual MCA/Tofler lookup before any verdict."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "KRISHNAVENI CARBON PRODUCTS (P) LTD",
+ "legal_name": "KRISHNAVENI CARBON PRODUCTS PRIVATE LIMITED (as claimed in input; NOT independently verified)",
+ "cin_llpin": null,
+ "pan": "AACCK0858R (claimed in input, unverified)",
+ "pan_holder_type": "A = Association of Persons (AOP) — derived from 4th character of the claimed PAN; note this is inconsistent with a private limited company, which should carry a 'C' (company) PAN. The claimed PAN therefore looks doubtful and must be re-checked against the PAN card / MCA master data before use.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry record could be retrieved. Tooling failed during this run: the web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in all returned HTTP 403; instafinancials.com returned 404 for the guessed slug; Google/DuckDuckGo HTML endpoints returned 403 or empty redirects; Bing returned only unrelated results (Maui Crisps / Microsoft pages), i.e. no genuine hits for the company name. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null because they are not public to me in this session — they are NOT null because the company is absent. Per project rules the entity is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established, and absence of evidence from a failed search is not evidence of absence. Role left as 'unknown' — the name suggests a carbon-products manufacturer, but that is an inference from the name only, not a verified fact. HS 848330 (bearings/housings) is not assessed here as this role covers legal/registry data only; per rule 3 an HS mismatch would not be grounds for rejection anyway. ACTION REQUIRED: re-run verification when search/registry access is restored — check MCA master data by name for the exact CIN, confirm the PAN (the 'A' 4th character is a red flag), pull the GSTIN from a public GST profile, and obtain FY25/FY26 revenue from audited filings or MCA AOC-4; until then treat every field above as unconfirmed."
+}
