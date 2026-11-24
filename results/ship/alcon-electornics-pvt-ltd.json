@@ -1,0 +1,8 @@
+{
+ "name_input": "ALCON ELECTORNICS PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'alcon-electronics-pvt-ltd' loaded but returned only a JavaScript shell: 'Shipments available for ALCON ELECTRONICS PVT LTD, refreshed daily' — 0 shipment rows actually rendered (counter/rows seen: 0). No bill-of-lading number, date, destination or HS code was visible. Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS challenge, so no export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Company website (alconelectronics.com) redirects to the Exxelia group site, which lists 'India Alcon' only as a group location with no turnover, order or delivery data — a corporate/catalogue page, not shipment evidence. Rows of domestic supply evidence seen: 0.",
+ "note": "No shipment evidence found either way — this is 'unknown', not 'confirmed' and not 'none_found'. The only substantive fact established is corporate: the Indian entity operates as 'Alcon India' within the French Exxelia group (passive components — aluminium electrolytic and film capacitors), i.e. a manufacturer, not a trader. Declared HS 853290 (electrical parts of capacitors) is broadly consistent with capacitor manufacture, but HS was not verifiable against any customs line because no customs line was readable. Revenue and export volume: null — not public in any source reached. Search backend (DuckDuckGo/searx) was down for the whole session, which blocked discovery of alternative record pages; recommend a retry of volza/eximpedia with a working search or a paid ImportKey view before drawing any conclusion."
+}

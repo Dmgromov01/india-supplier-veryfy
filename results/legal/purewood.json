@@ -1,0 +1,18 @@
+{
+ "name_input": "PUREWOOD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAQFP4054K",
+ "pan_holder_type": "F — firm/partnership (per 4th character of the claimed PAN; NOT independently verified against any official record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned connection refused / timeouts on every query; Bing returned only unrelated geo-mangled results; direct fetches of Zauba Corp, TheCompanyCheck, QuickCompany, InstaFinancials and mca.gov.in all returned HTTP 403/404. Consequently NO legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from any source. The PAN 'AAQFP4054K' is carried over from the input only; its 4th character 'F' denotes a firm/partnership holder type by PAN format convention, but the PAN itself was not validated against any public record. Note the input gives 'PUREWOOD' as both trade name and legal name, which is not a valid legal-entity form for a company (no Pvt Ltd / LLP / partnership suffix) — this is consistent with a proprietorship or unregistered trade name, in which case no CIN would exist at all; this is a hypothesis, not a finding. Per project rules the company is NOT rejected: rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was obtained either way. Verdict: unverified, requires re-run with working search/registry access. Revenue FY25 and FY26 left null — no audited accounts or official filings were accessible; figures must not be estimated. No customs, court or catalogue research was performed, per role scope."
+}

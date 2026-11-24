@@ -1,0 +1,20 @@
+{
+ "name_input": "HI TECH INFORMATION AND MARKETING PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Jharkhand High Court (Ranchi)",
+   "case_number": "W.P. (C) No. 7186 of 2011",
+   "parties": "Hi-Tech Information and Marketing (P) Ltd. (through Manager Anand Mohan Goswami, Giridih) — Petitioner vs State of Jharkhand & Ors — Respondents",
+   "role": "petitioner",
+   "bench": "Narendra Nath Tiwari",
+   "date": "2012-01-06",
+   "status": "disposed/decided (reported as a judgment of 06.01.2012); no further proceedings found",
+   "source": "https://indiankanoon.org/search/?formInput=%22HI%20TECH%20INFORMATION%20AND%20MARKETING%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no confirmed hit found, but this is NOT a verified clean result — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript application that returned only its search form, not query results, so SDN/Non-SDN screening could not be executed; UN, EU, UK OFSI and BIS Entity List screens were likewise not completed because the web_search backend was down (searx: connection refused) and Bing/Google/DuckDuckGo returned irrelevant results that ignored the quoted company name. sanctions_hit is therefore null = not verified, not 'clear'. Court: one Jharkhand High Court writ petition W.P.(C) 7186/2011, company as petitioner against the State of Jharkhand, decided 06.01.2012 (Indian Kanoon, 1 result for the exact name). Per project rules this is not a rejection ground and is noted neutrally. A second Indian Kanoon query for the variant 'Hitech Information and Marketing' returned 0 results, so no additional litigation is indexed under that spelling. Rating: no credit rating found in public sources; null. News/regulator actions: no negative news or RBI/SEBI/ED/ROC enforcement action found; null — but note the search tooling failure above means this is an absence of retrieved evidence, not a confirmed clean record. RF/CIS supply: no evidence of supplies to Russia or CIS found; null. Caveat on identity: the only matched record is 'Hi-Tech Information and Marketing (P) Ltd.' with a Giridih, Jharkhand address, consistent with the claimed Jharkhand state; the claimed PAN AAACH7675P could not be corroborated because ZaubaCorp returned HTTP 403 and no accessible registry mirror was reachable — legal identity/PAN verification is outside this role's scope and should be confirmed by the identity researcher."
+}

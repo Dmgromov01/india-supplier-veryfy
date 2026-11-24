@@ -1,0 +1,18 @@
+{
+ "name_input": "BRITAINNNIA INDUSTRIES LTD",
+ "legal_name": "Britannia Industries Limited",
+ "cin_llpin": "L22210WB1918PLC002964",
+ "pan": "AABCB2066P",
+ "pan_holder_type": "Company (4th character 'C' in PAN = company; 5th character 'B' = first letter of surname/entity name 'Britannia')",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1918 (incorporated as The Britannia Biscuit Company Limited; exact date not verified from a primary registry page in this session)",
+ "state_registered": "West Bengal",
+ "state_claimed": "Assam",
+ "mca_status": "Active (listed company, BSE: 500825 / NSE: BRITANNIA; no strike-off/liquidation/winding-up found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 17943,
+ "revenue_fy26_cr": 19152,
+ "revenue_source": "Screener.in consolidated P&L (sourced from company's audited/BSE-NSE filings): FY Mar-2025 Sales 17,943 Cr; FY Mar-2026 Sales 19,152 Cr. Cross-check: Wikipedia infobox cites company's audited consolidated results for year ended 31.03.2025 at ₹18,169 Cr (revenue from operations incl. other operating income basis) — figure basis differs slightly, both from official filings.",
+ "note": "Legal entity exists and is active — no grounds for rejection. Name in input is a misspelling ('BRITAINNNIA'); correct legal name is Britannia Industries Limited. CIN prefix L22210WB confirms a listed public limited company registered in West Bengal (registered office: Hungerford Street, Kolkata, per Wikipedia citing company/Forbes India), NOT Assam as claimed in the input — state mismatch noted, likely because the supplier/plant or GST registration is in Assam; the registered office state is West Bengal. PAN AABCB2066P matches the claimed PAN format and is consistent with a company-type holder (4th char 'C'). GSTIN could not be retrieved: zaubacorp and thecompanycheck returned HTTP 403 and the search backend (DuckDuckGo/searx) was unavailable during this session, so GSTIN and GST status are null (not public via accessible sources here) — must be re-verified on the GST portal. Role: manufacturer (own biscuit/bread/dairy plants; also has third-party contract manufacturing). Declared HS 1806/1905/2106 is consistent with its actual product range (biscuits, rusk, cakes, dairy/preparations) — no HS correction needed. Revenue figures are consolidated, from audited filings; FY26 = year ended March 2026 per Screener's annual column."
+}

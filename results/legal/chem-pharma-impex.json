@@ -1,0 +1,18 @@
+{
+ "name_input": "Chem Pharma Impex",
+ "legal_name": "CHEM PHARMA IMPEX (as claimed; exact MCA-registered name not verified)",
+ "cin_llpin": null,
+ "pan": "AAIFC7288G",
+ "pan_holder_type": "F — Firm/Partnership firm (4th character 'F' of claimed PAN AAIFC7288G). Note: PAN is taken from the input and could NOT be independently verified against any public source; the 4th-character rule only indicates the holder type IF the PAN is genuine. A firm PAN implies a partnership/LLP-type entity, not a company — so a CIN is unlikely and an LLPIN or firm registration would be expected instead.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data could be retrieved. Tooling failure, not a negative finding: the DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned only irrelevant generic results for both \"CHEM PHARMA IMPEX\" and \"AAIFC7288G\"; Google returned a redirect/consent page; and the public registry aggregators Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403 Forbidden. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session — they are NOT null because the entity was found to be absent. No rejection is applied: per project rules an entity may only be rejected if it is proven non-existent, struck off, liquidated or bankrupt, and no such proof exists here. Action required: re-run verification when search access is restored, or obtain the GSTIN / firm registration number directly from the supplier. Two flags for the next pass: (1) the claimed PAN's 4th character 'F' indicates a partnership firm, which is inconsistent with a 'company' framing and means MCA/CIN lookup will likely fail — check Udyam/firm registration and GST instead; (2) the declared HS codes (320810, 320820, 321290 — paints/varnishes/pigments; 391290 — cellulose derivatives) do not match the claimed industry 'Строительство и DIY' (construction/DIY) and are chemical-sector codes, consistent with the name 'Chem Pharma Impex'. Per rules this is NOT grounds for rejection; if confirmed, the HS code should be corrected to the actual code and the verdict recorded as accepted_hs_corrected. Role is 'unknown' — the name suggests trading/import-export ('Impex') but this is unconfirmed. Revenue FY25/FY26: null, no audited accounts or official filings located."
+}

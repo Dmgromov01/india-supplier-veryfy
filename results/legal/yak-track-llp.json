@@ -1,0 +1,18 @@
+{
+ "name_input": "YAK TRACK LLP",
+ "legal_name": "YAK TRACK LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AENPV5305A",
+ "pan_holder_type": "P — individual (natural person). 4th character of the claimed PAN is 'P', which denotes an individual, NOT an LLP/firm (LLPs carry 'F'). This is inconsistent with an LLP entity and suggests the PAN belongs to a partner/designated partner rather than to the LLP itself. Flagged, not corrected — no authoritative source obtained.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry evidence obtained. Tooling failed during this run: the web_search backend returned connection refused on both queries; DuckDuckGo HTML endpoint timed out twice; Bing returned only generic 'yak animal' results and no hit for the exact string 'YAK TRACK LLP' or for the PAN 'AENPV5305A'; zaubacorp.com, thecompanycheck.com and instafinancials.com all returned HTTP 403; MCA search host (search.mca.gov.in) did not resolve. Therefore LLPIN/CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public to me in this session, not absent from the registry. No revenue figures are available: LLP audited accounts/Form 8 filings are not accessible here, so FY25 and FY26 revenue are null rather than estimated. Role cannot be determined without the LLP agreement/NIC activity code, so 'unknown'. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of evidence in a failed search is not evidence of non-existence. Two items warrant follow-up by a human with MCA/GST portal access: (1) the claimed PAN's 4th character 'P' indicates an individual holder, so it is likely a partner's PAN, not the LLP's — the LLP's own PAN (4th char 'F') should be requested; (2) the declared HS code 920600 (percussion musical instruments) does not match the claimed industry 'IT и электроника' — per rule 3 this is not a rejection ground, the code should simply be corrected to the factual one once the actual product line is confirmed. Recommended status: pending verification, not accepted and not rejected."
+}

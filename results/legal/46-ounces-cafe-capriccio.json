@@ -1,0 +1,18 @@
+{
+ "name_input": "\"46 OUNCES\" / \"CAFE CAPRICCIO\"",
+ "legal_name": "VELANKANI INFORMATION SYSTEMS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AABCV0552G (claimed in input; not verified against any public record)",
+ "pan_holder_type": "AABCV0552G — 4th character 'C' = company (body corporate) per PAN structure; consistent with a private limited company, but the PAN itself could not be confirmed on any public source",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed: the search backend (DuckDuckGo/searx) returned connection refused for all queries, and every registry mirror attempted (zaubacorp, thecompanycheck, instafinancials, tofler, falconebiz) returned 403/404 or only a generic landing page; mca.gov.in MDS returned 403 and the company website velankani.com failed TLS (hostname mismatch). Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, not invented. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — absence of data is not a rejection ground under the project rules. IMPORTANT MISMATCH FLAGS for the analyst: (1) the input name pair '46 Ounces' / 'Cafe Capriccio' is a cafe/F&B brand, while the claimed legal entity 'Velankani Information Systems Pvt Ltd' is an IT/information-systems company — the brand-to-entity link is unsubstantiated; (2) declared HS 850490 (parts of electrical transformers/static converters, 'Энергетика') does not match either a cafe brand or an IT services entity — per rule 3 this is NOT a rejection ground, the code should be corrected to the actual traded product once the real supplier entity is identified; (3) the claimed PAN AABCV0552G could not be matched to the claimed legal name on any public source. Recommend re-running registry lookup (MCA master data / GST portal) when the search backend is restored before any commercial decision."
+}
