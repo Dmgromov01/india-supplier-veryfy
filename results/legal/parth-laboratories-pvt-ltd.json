@@ -1,0 +1,18 @@
+{
+ "name_input": "PARTH LABORATORIES PVT. LTD",
+ "legal_name": "PARTH LABORATORIES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AADCP3559K",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'P' = individual surname initial, consistent with a private limited company PAN format) — format-valid, holder type inferred from PAN structure only, not confirmed against Income Tax records",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed. The web_search tool returned 'Connection refused' (searx backend down) on all attempts, and direct fetches of public registry mirrors were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, quickcompany.in / instafinancials.com / indiafilings.com / tofler.in returned HTTP 404 for the guessed URL slugs, and Bing/Google HTML endpoints returned unrelated or redirect-only content. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined without the MCA main-object clause / NIC code, so it is 'unknown' rather than guessed. The claimed PAN AADCP3559K is structurally valid for a company (4th char 'C') but its actual allotment to this entity is unconfirmed. Per project rules this company is NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the registry simply could not be read. Declared HS 291560/291590 (butyric/valeric acids and salts/esters) is a chemistry-sector code consistent with the claimed 'oil & gas and chemicals' industry, but HS accuracy is not a rejection ground in any case. Recommended next step: re-run with a working search backend or MCA/GST portal access to obtain CIN and GSTIN before any factual-supply assessment."
+}

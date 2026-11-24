@@ -1,0 +1,9 @@
+{
+ "name_input": "INDO-MIM LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, INCOMPLETE — no adverse finding established, but also no clean bill of health. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (4 tries), so no news, court, rating or trade-press search could be executed. Direct fetches of indomim.com failed (SSL UNEXPECTED_EOF / connection reset), so no company disclosure was readable. Sanctions screening was attempted against primary sources but could NOT be completed: (a) OFAC Sanctions List Search is a JS form and returned no query results via GET; (b) the OFAC SDN.CSV and CONS_PRIM.CSV exports are truncated at 6000 chars and only cover the alphabetical range up to ~'F', so an 'INDO-MIM' record would fall outside the readable window — absence in the retrieved fragment is NOT evidence of absence; (c) the BIS page fetched was 15 CFR Part 744 regulatory text, not the Supplement No. 4 Entity List itself, so no Entity List name match was performed. Therefore sanctions_hit is null (not screened), not 'clear'. No UN, EU or UK consolidated-list check was performed at all. Court cases: no search of eCourts, Karnataka High Court, NCLT or Supreme Court could be run — null, not 'none found'. Credit rating: no CRISIL/ICRA/CARE/India Ratings lookup possible — null. Negative news: null. RF/CIS supply evidence: null — no customs, B/L or trade-data source was reachable, so there is neither positive nor negative evidence of supplies to Russia or the CIS. Per project rules, nothing here is a rejection ground and no adverse inference should be drawn from the nulls; the company should be re-queued for a full risk pass once search connectivity is restored, with priority on: OFAC/EU/UK/UN name screening, BIS Supplement No. 4, eCourts/NCLT by CIN, and a credit-rating agency lookup."
+}

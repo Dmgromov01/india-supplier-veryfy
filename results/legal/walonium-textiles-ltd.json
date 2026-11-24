@@ -1,0 +1,18 @@
+{
+ "name_input": "Walonium textiles ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing/Google отдавали нерелевантную выдачу, а реестровые агрегаторы (Zauba Corp, Tofler, InstaFinancials, MCA master-data) вернули 403/404. Ни одна реестровая запись не подтверждена. ВАЖНО: входные данные внутренне противоречивы — в name указано 'ltd' (компания), в legal_claimed — 'WALONIUM TEXTILE LLP' (партнёрство). Это разные организационно-правовые формы с разными идентификаторами (CIN vs LLPIN), поэтому нельзя утверждать, что юрлицо существует в заявленном виде. PAN AAEFW2213R заявлен, но не проверен: 4-й символ 'F' в формате PAN означает фирму (partnership firm/LLP), что согласуется с LLP, но не с 'ltd'; 5-й символ 'W' — начальная буква фамилии/названия, требует сверки с реестром. GSTIN, дата регистрации, MCA-статус, выручка FY25/FY26 — публично не получены, поэтому null (не выдуманы). Отклонение НЕ применяется: отсутствие подтверждения не равно доказанному отсутствию юрлица (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/Zauba/Tofler и уточнение у поставщика: компания (CIN) или LLP (LLPIN)."
+}
