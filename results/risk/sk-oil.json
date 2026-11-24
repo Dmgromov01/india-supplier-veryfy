@@ -1,0 +1,9 @@
+{
+ "name_input": "SK Oil",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Identity could not be established: the claimed name 'S K OIL INCORP' returned no matching corporate record in any accessible source. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); Bing/Google returned only generic 'SK' results and ignored the quoted phrase; Zauba Corp returned HTTP 403; Tofler search returned 404. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and could not be queried via plain HTTP GET, so no name was actually screened against SDN/Non-SDN - sanctions_hit is therefore null (NOT screened, not 'clear'). No UN/EU/UK/BIS Entity List screening was possible either. No Indian court records (eCourts/NCLT), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or negative news could be retrieved, and no evidence of supplies to Russia or the CIS was found - but absence here reflects tool failure, not a verified negative. All fields null; nothing invented. Recommend re-running this company once search access is restored and the exact legal name/CIN is confirmed, since 'SK Oil' is a very common trade name in the Gujarat edible-oil/solvent and lubricant sectors and name collisions are likely. Per project rules, no rejection is proposed on any of these grounds."
+}

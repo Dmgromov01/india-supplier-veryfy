@@ -1,0 +1,8 @@
+{
+ "name_input": "V.K V.K. STEELS PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/v-k-steels-pvt-ltd and .../vk-steels-pvt-ltd both returned only the paywalled template shell: 'Shipments available for V K STEELS PVT LTD, refreshed daily' — zero shipment rows rendered, no B/L number, no date, no destination, no HS code visible. Counter: 2 importkey pages opened, 0 shipment rows seen. volza (403), eximpedia (403), trademo (403), importgenius (JS challenge) all blocked; web_search backend returned 'searx: Connection refused' on every query.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: search backend was down for all queries ('no results (searx: <urlopen error [Errno 111] Connection refused>)') and Google returned only a redirect interstitial. Counter: 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок были недоступны (403/JS-challenge/пустой шаблон), поэтому статус 'unknown', а не 'none_found'. Ни одной записи об экспорте (дата, направление, HS, B/L) и ни одного подтверждения внутренних поставок (GST-оборот, GeM/CPPP, контракт) получить не удалось. Заявленный HS 841360/841391/841620/841690 (насосы, части насосов, горелки, части горелок) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения; вердикт по HS не выносится. Юрлицо 'V.K.V.K. STEELS PRIVATE LIMITED' (Maharashtra) в реестрах MCA не проверялось — реестры вне области задачи; CIN/PAN/выручка/объём экспорта = null, не выдумывались. Требуется повторная проверка при доступном источнике таможенных данных."
+}

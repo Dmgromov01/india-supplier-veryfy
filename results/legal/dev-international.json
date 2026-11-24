@@ -1,0 +1,18 @@
+{
+ "name_input": "DEV INTERNATIONAL",
+ "legal_name": "DEV INTERNATIONAL (unverified — no registry record retrieved; input suggests a proprietorship of DUDHAT MAGANBHAI BHAGVANBHAI, not a company)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: search backend (DuckDuckGo/searx) was down ('Connection refused') and returned only irrelevant results on retries; Google/Bing returned no usable hits; Zauba Corp and InstaFinancials returned HTTP 403; Tofler search returned 404. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source — all such fields left null rather than guessed. Important structural point: the 'legal_claimed' value 'DUDHAT MAGANBHAI BHAGVANBHAI' is a personal name, which indicates a sole proprietorship / individual GSTIN rather than a company, so no CIN is expected to exist; PAN 4th-character holder-type check and MCA status are not applicable to a proprietorship and could not be tested. State claimed (Delhi) could not be compared with a registered office because no GSTIN/address record was retrieved. Role cannot be determined from registry data alone (declared HS 290512/290532/291241/291242 are oxygenated-solvent/ketone chemicals, consistent with chemical trading or manufacture, but this is not registry evidence). NOT rejected: absence of a retrieved record is a research gap, not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Recommend re-run when search access is restored, checking the GST portal public search for the proprietor name and the Delhi GST jurisdiction."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Luxury Spares",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "BTTPA2061E",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual) — consistent with a proprietorship, not a company",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no source obtained. Tooling failure: web_search backend returned 'Connection refused' for all queries; Google/Bing/DuckDuckGo HTML endpoints returned irrelevant or empty results (query terms ignored); zaubacorp.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; gstinsearch.in failed DNS resolution. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and all such fields are null rather than guessed. What can be stated from the input alone: the claimed PAN BTTPA2061E has 'P' as its 4th character, which denotes an individual holder — so 'Luxury Spares' is most likely a proprietorship/firm trading name, not a company with a CIN; the claimed legal name 'DAS ADITYA' is a personal name, consistent with that reading. This is a format-level inference, not a verified record. No rejection is applied: absence of a found record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/struck-off/liquidation/bankruptcy. Role left as 'unknown' — no evidence of manufacturing facilities or of trading activity was retrieved. Revenue FY25/FY26 null: no audited accounts or official filings located (and a proprietorship would not file MCA accounts in any case). Declared HS 870899 (motor-vehicle parts) is retained as-is; no HS correction is made since no actual product line was verified. Recommended next step: manual check of the GST portal (search by PAN BTTPA2061E) and the Delhi VAT/trade records, plus a request to the supplier for its GST certificate and PAN card, before any status other than 'unverified' is assigned."
+}

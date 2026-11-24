@@ -1,0 +1,9 @@
+{
+ "name_input": "MC COM INDUSTRIES INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no reliable findings, all fields null. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on every web_search call (3 attempts), Google returned a redirect/consent interstitial, and company-data aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials) returned HTTP 403 or only generic landing pages. What WAS checked: (1) OFAC Sanctions List Search tool loaded successfully (SDN list last updated 11/23/2026, Non-SDN 11/4/2026) but the tool is a JS form and cannot be queried via plain HTTP GET, so no name match was actually executed - sanctions_hit is therefore null, NOT a confirmed negative. (2) Indian Kanoon searched for 'MCCOM Industries' and for the exact phrase 'MC COM Industries' - both returned 'No matching results' (0 results). This is a weak negative only: Indian Kanoon does not index all district courts, NCLT, DRT, consumer fora or arbitration, and the company name may be spelled differently in filings. No UN, EU, UK OFSI or BIS Entity List check was completed. No credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork/Acuite) search was completed. No negative-news or Russia/CIS supply search was completed - note that the claimed product line (HS 854110, diodes/semiconductor devices) is a dual-use-adjacent category, so an RF/CIS supply check is genuinely warranted and should be re-run. RECOMMENDATION: do not treat this record as cleared; re-run the risk pass when search access is restored, specifically: OFAC/EU/UK/BIS name screening, Indian Kanoon plus eCourts/NCLT by CIN, credit-rating agency sites, and Russian/CIS import records. Per project rules, absence of findings here is not a rejection ground and no adverse inference should be drawn."
+}
