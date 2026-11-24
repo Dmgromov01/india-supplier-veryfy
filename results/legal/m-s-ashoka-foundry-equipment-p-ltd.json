@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S ASHOKA FOUNDRY & EQUIPMENT P LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AADCA5722H",
+ "pan_holder_type": "C — company (4th character 'C' indicates a company/body corporate PAN). Note: this is the PAN supplied in the input; it could NOT be independently verified against any public registry record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Jharkhand",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data obtained. Tooling failed for this batch: the DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned only a redirect/consent page; Bing returned completely irrelevant results (Ashoka the Mauryan emperor, Ashoka University, Ahsoka TV series) for both the company-name query and the exact PAN query 'AADCA5722H', i.e. no indexed match was surfaced. Direct fetches of public registry aggregators were blocked: zaubacorp.com (403), thecompanycheck.com (403), tofler.in (403), instafinancials.com (404), and mca.gov.in Master Data (403). Consequently the exact legal entity name, CIN/LLPIN, GSTIN, GST status, date of incorporation, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — they are not public to me in this session, not absent from the registry. IMPORTANT: this is NOT a rejection. Per project rules a company may only be rejected if the entity does not exist, is struck off, liquidated or bankrupt — none of that has been established here, and absence of a search hit is not evidence of non-existence. The entity should be re-queued for verification with working search/registry access. Two observations that are NOT findings: (1) the claimed PAN AADCA5722H is format-valid and its 4th character 'C' is consistent with a private limited company, but format validity is not verification; (2) the input's declared HS 841790 (parts of furnaces/ovens/burners) is inconsistent with the claimed industry 'IT и электроника' — per rules this is not a rejection ground; the HS code should be corrected to the actual code once the product line is confirmed, and the industry label is likely mis-tagged. Role left as 'unknown' because no evidence of manufacturing vs trading was obtainable."
+}

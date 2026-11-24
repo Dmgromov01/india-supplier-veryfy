@@ -1,0 +1,9 @@
+{
+ "name_input": "BHAGWATI INDUSTRIAL GROUP LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search (DuckDuckGo/searx) backend returned 'Connection refused' on every query; direct fetches of Google, DuckDuckGo HTML and Bing returned either redirects/timeouts or completely irrelevant generic results (the engines did not honor the query string), so no page mentioning 'BHAGWATI INDUSTRIAL GROUP LIMITED' could be retrieved. ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be queried via plain GET, so no SDN/Non-SDN name match was actually executed. Therefore: sanctions_hit = null (NOT a clearance - simply not checked), court_cases = null (no eCourts/NCLT/High Court lookup performed), rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork page found), news_risk = null (no negative-news search possible), rf_supply = null (no export/trade record source reachable; nothing found either way). No claim in this record is sourced, and nothing here should be read as a clean bill of health. Recommend re-running this company once search access is restored, with explicit checks against: OFAC SDN + consolidated non-SDN, UN Consolidated, EU consolidated, UK OFSI, BIS Entity List; eCourts/NCLT/Judis for party-role court records; SEBI/RBI/DGFT/EPC regulator actions; and Indian trade/ customs data for Russia/CIS destinations. Per project rules, sanctions/court/criminal findings would in any case be recorded neutrally and would not be grounds for rejection."
+}

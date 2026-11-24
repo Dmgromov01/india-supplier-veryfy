@@ -1,0 +1,9 @@
+{
+ "name_input": "VOLGA OVERSEAS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА в полном объёме: поисковая инфраструктура недоступна. DuckDuckGo/Searx вернул 'Connection refused', Bing на все запросы (в т.ч. с точной фразой в кавычках) выдавал нерелевантную общую выдачу (Wikipedia/Volga River, Microsoft), Zauba Corp и Tofler — HTTP 403. Страница OFAC Sanctions List Search открылась, но это только интерфейс поиска без выполнения запроса — фактического совпадения по имени не проверено, поэтому sanctions_hit = null (не 'нет попаданий'). Никаких данных по судам, рейтингам, регуляторным действиям, негативным новостям и поставкам в РФ/СНГ получить не удалось; все поля null, значения не выдумывались. Требуется повторный прогон при работающем поиске: проверить OFAC SDN/SSI, UN, EU, UK OFSI, BIS Entity List по точному имени; eCourts/NJDG (Delhi HC, district courts) по стороне и статусу; рейтинги CRISIL/ICRA/CARE/India Ratings; GST/импортно-экспортные записи. Отсутствие данных НЕ является основанием для отклонения (правило 3); компания сохраняется в базе со статусом 'риск-профиль не установлен'."
+}

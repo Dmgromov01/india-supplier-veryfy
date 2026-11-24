@@ -1,0 +1,18 @@
+{
+ "name_input": "MM SPARES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AASCM7712N",
+ "pan_holder_type": "Firm (4th character 'C' = partnership firm; 'F' would be firm, 'C' indicates company/firm-type holder per PAN 4th-character scheme) — claimed value, NOT verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification could not be completed: the web_search backend was unavailable (connection refused) and all registry/GST aggregator pages attempted (zaubacorp.com, quickcompany, masterindia, DuckDuckGo HTML) returned HTTP 403 or were unreachable; Bing returned only irrelevant results for both the PAN and the trade name. Consequently NO registry fact could be confirmed: exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null. The PAN AASCM7712N is reproduced only as supplied in the input and is unverified; note that the 4th character 'C' is not the standard 'P' (individual) or 'F' (firm) code, so the claimed holder 'KRISHAN KUMAR' (an individual name) is inconsistent with a 'C'-type PAN — this needs re-checking against the GST portal. The trade name 'MM SPARES' with an individual proprietor name suggests a proprietorship, which would have no CIN and no MCA record at all; that is a hypothesis, not a finding. Revenue FY25/FY26 are null — no audited accounts or official filings were located, and a proprietorship would not file MCA accounts anyway. Role is 'unknown' — no evidence of manufacturing plant, GST registration or trade activity was retrievable. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of retrievable data is not grounds for rejection. Action required: re-run with a working search backend and verify PAN/GSTIN on the GST portal (gst.gov.in search by PAN) and the legal name on MCA/state VAT records before any verdict."
+}
