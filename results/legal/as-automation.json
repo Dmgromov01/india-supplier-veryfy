@@ -1,0 +1,18 @@
+{
+ "name_input": "AS Automation",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Jharkhand",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки доступа к реестрам в этой сессии не удались: поисковый бэкенд (searx) вернул 'Connection refused' на обоих запросах; Bing и Google проигнорировали запрос и выдали нерелевантную выдачу (словарные статьи 'as', 'a'); zauba.com — HTTP 403; mca.gov.in (Master Data) — HTTP 403; duckduckgo.com/html — timeout; thecompanycheck.com — только маркетинговая заглушка без результатов поиска. Никаких сведений о существовании юрлица, CIN/LLPIN, PAN, GSTIN, даты регистрации, статуса MCA и выручки получить не удалось, поэтому все поля null, а не предположения. Важно: 'AS Automation' — крайне общее, широко распространённое название; в Индии под ним могут существовать десятки разных юрлиц (Company/LLP/sole proprietorship) в разных штатах, поэтому отождествлять конкретное юрлицо с заявленным штатом Jharkhand без CIN/GSTIN невозможно. Рекомендация: запросить у поставщика GSTIN (15 знаков) или CIN — по ним проверка выполняется за 1–2 запроса. Отклонять НЕ следует: оснований для rejected (несуществование/ликвидация/банкротство) не установлено, статус — 'не проверено'. Роль оставлена unknown: заявленные HS 850440/850490/853690 (преобразователи/части/коммутационная аппаратура) не позволяют отличить производителя от трейдера без данных реестра."
+}

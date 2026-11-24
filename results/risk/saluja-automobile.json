@@ -1,0 +1,42 @@
+{
+ "name_input": "Saluja Automobile",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Supreme Court of India (Daily Orders)",
+   "case": "Saluja Automobiles v. The State of West Bengal & Ors., SLP(C) Diary No. 21648/2025, IA No. 134288/2026 (condonation of delay)",
+   "date": "2026-07-15",
+   "role": "Petitioner",
+   "status": "Pending — delay-condonation application listed; no merits order found",
+   "source": "https://indiankanoon.org/search/?formInput=%22Saluja%20Automobiles%22%20%22State%20Of%20West%20Bengal%22"
+  },
+  {
+   "court": "Income Tax Appellate Tribunal, Kolkata (SMC Bench)",
+   "case": "Saluja Automobiles, Burdwan v. ACIT, Circle-1, Burdwan, ITA No. 893/Kol/2023, AY 2005-06",
+   "date": "2024-01-09",
+   "role": "Appellant (assessee)",
+   "status": "Decided by ITAT; tax appeal, not a criminal matter",
+   "source": "https://indiankanoon.org/search/?formInput=%22Saluja%20Automobiles%22%20Burdwan"
+  },
+  {
+   "court": "National Consumer Disputes Redressal Commission",
+   "case": "Saluja Automobiles v. Amita Bhatnagar (Dr.) & Anr., I(2007) CPJ 199 (NC)",
+   "date": "2005-08-20",
+   "role": "Appellant / opposite party (dealer)",
+   "status": "Concluded (consumer appeal)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Saluja%20Automobiles%22"
+  },
+  {
+   "court": "State Consumer Disputes Redressal Commission, West Bengal",
+   "case": "Bajaj Allianz General Insurance Co. v. Tithi Banerjee (arising from District Burdwan Case No. 50/2009, order dated 2011-03-23); M/s Saluja Automobiles, Laxmipur, G.T. Road, Burdwan listed as respondent",
+   "date": "2014-11-18",
+   "role": "Respondent (co-respondent in insurance/consumer matter)",
+   "status": "Concluded (consumer appeal)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Saluja%20Automobiles%22%20Burdwan"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Risk-only review. Identity corroboration: the ITAT Kolkata record (ITA 893/Kol/2023) names 'Saluja Automobiles, Ground Floor, G.T. Road, Laxmipur, Burdwan-713101 (WB) (PAN: AAWFS6282Q)' — this matches the claimed PAN and West Bengal state, and the entity appears to be an automobile dealer in Burdwan (Purba Bardhaman), not an aircraft manufacturer. Sanctions: no hit found for 'Saluja Automobiles' in the sources reachable; however the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript form that returned no queryable results via direct fetch, and the UN/UK/EU/BIS consolidated lists could not be queried because the search backend (DuckDuckGo/searx) was down during this session ('Connection refused') and Bing returned only irrelevant results. Sanctions exposure is therefore recorded as null = NOT VERIFIED, not as a clean result; recommend a manual re-screen of OFAC SDN, UN, EU, UK OFSI and BIS Entity List before onboarding. Court cases: four matters found on Indian Kanoon — one pending Supreme Court SLP (2026) against the State of West Bengal, one ITAT income-tax appeal (2024), and two concluded consumer-forum matters (2005, 2014). Per project rules these are noted neutrally and are not rejection grounds. Regulator actions: none found in reachable sources. Negative news: none found; searches returned no relevant media coverage (search engine malfunction limits confidence). Credit rating: null — no public rating from CRISIL/ICRA/CARE/India Ratings/Acuite found; the entity appears to be a small proprietorship/partnership-scale dealer with no rated debt in public domain. Russia/CIS supply evidence: null — no customs, B-L, contract or media evidence of any supply to Russia or CIS found; nothing to suggest such trade. Overall: no rejection grounds under project rules; sanctions and news screening incomplete due to tooling failure and should be re-run."
+}
