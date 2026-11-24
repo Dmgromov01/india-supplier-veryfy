@@ -1,0 +1,9 @@
+{
+ "name_input": "AASR INDUSTRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Research was severely limited: the web_search backend returned connection errors for every query, Google/Bing/DuckDuckGo HTML endpoints returned no usable results or timed out, and ZaubaCorp returned HTTP 403. What was actually checked: (1) Indian Kanoon (indiankanoon.org) — search for \"AASR Industries\" returned 0 matching results; a broader query for \"AASR Industries Private Limited\" returned 1 irrelevant hit (Shree Renuka Sugars Ltd v. Union of India, Karnataka HC, 2011) that does not concern this entity. So no public Indian court record naming this company was found — this is a null result from one database, NOT proof that no litigation exists. (2) OFAC Sanctions List Search page was reachable but is a JavaScript form; no name query could be executed via plain HTTP, so no SDN/Non-SDN screening result was obtained. UN, EU, UK OFSI and BIS Entity List were NOT screened. (3) Credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork): not found, not public in accessible sources — null, not estimated. (4) Negative news / regulator actions (SEBI, RBI, MCA, GST, ED, CBI): no accessible source; null. (5) Evidence of supplies to Russia or CIS: no data found; null — absence of evidence here is not evidence of absence. Per project rules, sanctions/court/criminal matters are never rejection grounds; nothing found would in any case not be a rejection basis. No rejection recommended on risk grounds. Recommend re-running sanctions screening (OFAC/EU/UK/BIS) and Indian litigation/credit checks once search infrastructure is restored, and cross-checking the exact registered name and state (claimed Maharashtra) against MCA before relying on this null result."
+}

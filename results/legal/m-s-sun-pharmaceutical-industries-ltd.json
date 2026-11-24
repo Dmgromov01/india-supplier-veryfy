@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SUN PHARMACEUTICAL INDUSTRIES LTD",
+ "legal_name": "Sun Pharmaceutical Industries Limited",
+ "cin_llpin": "L24230GJ1993PLC019050",
+ "pan": "AADCS3124K",
+ "pan_holder_type": "C — company (4th character of PAN = 'C' in AADCS3124K, consistent with a corporate holder; PAN format valid: 5 letters + 4 digits + 1 letter)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1993 (per CIN year code 1993; exact date not verified from a primary MCA record — null)",
+ "state_registered": "Gujarat (per CIN state code GJ; corporate/registered office historically Vadodara, Gujarat; headquarters Mumbai, Maharashtra)",
+ "state_claimed": "Jharkhand",
+ "mca_status": "Active — listed on BSE (524715) and NSE (SUNPHARMA), part of Sensex/Nifty 50; no strike-off, liquidation or insolvency found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 52578,
+ "revenue_fy26_cr": 58462,
+ "revenue_source": "Screener.in consolidated P&L (sourced from the company's audited BSE/NSE filings): FY25 (Mar 2025) Sales ₹52,578 cr; FY26 (Mar 2026) Sales ₹58,462 cr. Cross-check: Wikipedia/Sun Pharma Q4FY25 press release — FY25 revenue ₹52,578 crore.",
+ "note": "Registry identity is unambiguous: Sun Pharmaceutical Industries Limited, CIN L24230GJ1993PLC019050, listed on BSE/NSE, ISIN INE044A01036, founded 1983 by Dilip Shanghvi. PAN AADCS3124K is format-valid and its 4th character 'C' denotes a company, matching the legal form. Two discrepancies with the input: (1) STATE — the company is registered in Gujarat (CIN state code GJ) with HQ in Mumbai, Maharashtra; there is no evidence of a Jharkhand registration for this entity, so the claimed Jharkhand state is not supported (possibly a Jharkhand-based branch/plant or a different, similarly named entity was intended). (2) INDUSTRY/HS — the input classifies it as 'Food & FMCG' with HS 2106/2904/2922; the company is a pharmaceutical manufacturer (formulations + APIs), so HS 2106 (food preparations) is not its core line, though 2904/2922 (sulphonated/nitrogen-function compounds) are plausible API/intermediate codes. Per project rules this is not a rejection ground — company retained, HS to be corrected to actual pharma/API codes. GSTIN and GST status could not be retrieved: public GST profile sites (Zauba, TheCompanyCheck) returned HTTP 403 and the search backend was unavailable, so both are null rather than guessed. Revenue figures are consolidated audited-filing based, in INR crore. No rejection: entity exists and is active."
+}

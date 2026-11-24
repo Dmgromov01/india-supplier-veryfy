@@ -1,0 +1,18 @@
+{
+ "name_input": "INDO WESTERN AGRO EXPORTS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record retrieved. Tooling failures: DuckDuckGo/searx backend refused connections ('Connection refused'); zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned a redirect/consent page; Bing returned only generic 'Indo' results with no match for this company name; duckduckgo lite timed out. Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status could not be confirmed from any source and are left null rather than guessed. The claimed PAN AAECI6914N is NOT verified: its 4th character 'C' would indicate a company (non-individual) holder, which is consistent with a Pvt Ltd, but the PAN itself could not be matched to any public profile, so pan_holder_type is null. No audited accounts or official filings were located, so revenue FY25/FY26 are null. Role left 'unknown' - no registry evidence of manufacturing plant, GST turnover or trade activity. Per project rules this is NOT a rejection: absence of retrievable public data is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found either. Recommended next step: manual MCA master-data lookup by CIN/name and GST portal GSTIN search before any verdict; status should be treated as 'unverified, pending registry check'."
+}

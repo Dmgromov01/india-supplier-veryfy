@@ -1,0 +1,18 @@
+{
+ "name_input": "PREET BROTHERS LIMITED; PREET BROTHERS LIMITED",
+ "legal_name": "PREET BROTHERS LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; Bing/Google HTML endpoints returned unrelated results (no usable SERP); direct fetches of zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in all returned HTTP 403/404 or timeout. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null - NOT verified, not 'not applicable'. No CIN, PAN, GSTIN or revenue figure was invented. Consequence for the rules: rejection is NOT permissible here, because rejection requires positive proof that the entity does not exist / is struck off / liquidated / bankrupt, and no such proof was obtained either way. Status must be treated as 'unverified - re-queue for registry check'. Role left as 'unknown' (no evidence of manufacturing vs trading); declared HS codes 845521/845710/903289 (rolling-mill, machining-centre, measuring-instrument lines) are not assessed here per role scope. Note also that the input name is duplicated ('PREET BROTHERS LIMITED; PREET BROTHERS LIMITED') - likely a single entity, but the exact legal suffix (Limited vs Pvt Ltd) and the Punjab registration district (Ludhiana/Amritsar/etc.) remain unconfirmed. Recommended next step: manual MCA master-data lookup by name and by Punjab state filter, plus GSTIN search on the GST portal."
+}

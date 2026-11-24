@@ -1,0 +1,18 @@
+{
+ "name_input": "EIP ENVIRO LEVEL CONTROLS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Google отдавал только редирект-заглушку, Bing по запросам 'EIP Enviro Level Controls' и по PAN 'AAACE7526Q' выдавал нерелевантную выдачу (EIP Card, Energy Impact Partners, t-online и т.п.) — совпадений с индийской компанией нет. Агрегаторы реестров (zaubacorp, thecompanycheck, instafinancials) и портал MCA отдают HTTP 403. Поэтому exact legal name, CIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации и MCA-статус — null, не подтверждены. Заявленное юрлицо 'E.I.P ENVIRO LEVEL CONTROLS PRIVATE LIMITED' и заявленный PAN AAACE7526Q (4-й символ 'C' => тип держателя 'company', т.е. юрлицо) НЕ верифицированы; формат PAN корректен, но принадлежность компании не подтверждена. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26 — null: аудиторской отчётности или официальных филингов в открытом доступе не найдено. Оснований для отклонения (rejected) НЕТ: отсутствие данных не равно несуществованию юрлица; компания сохраняется в базе как непроверенная, требуется повторная проверка при восстановлении доступа к MCA/GST-порталам. Отдельно: заявленный HS 902610 (расходомеры/уровнемеры) не соответствует заявленной отрасли 'IT и электроника' — по правилам HS-несоответствие не является основанием для отклонения, фактический код подлежит уточнению (вердикт accepted_hs_corrected при подтверждении юрлица)."
+}
