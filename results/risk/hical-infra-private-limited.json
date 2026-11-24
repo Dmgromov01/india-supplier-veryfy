@@ -1,0 +1,36 @@
+{
+ "name_input": "HICAL INFRA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "forum": "Income Tax Appellate Tribunal, Bangalore",
+   "case": "M/s Hical Infra Private Limited (formerly Hical Infra Technologies Pvt Ltd) vs Income Tax Officer Ward-3(1)(3)",
+   "appeal_no": "ITA No. 1575/Bang/2018",
+   "assessment_year": "2010-11",
+   "date": "2019-04-25",
+   "role": "Appellant / assessee",
+   "status": "Decided by ITAT (tax appeal; cited in later ITAT rulings)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Hical%20Infra%22"
+  },
+  {
+   "forum": "Income Tax Appellate Tribunal, Bangalore",
+   "case": "Hical Infra Pvt Ltd vs Dy. Commissioner of Income Tax (OSD), Bangalore",
+   "appeal_no": "ITA No. 313/Bang/2022 (also cited as 313/Bang/2020)",
+   "date": "2022-07-07 (per ITAT Bangalore ruling in Mobily Infotech India Pvt Ltd vs ITO, 07.07.2022)",
+   "role": "Appellant / assessee",
+   "status": "Decided by ITAT; ratio subsequently followed by other benches (e.g. ITAT Mumbai 25.03.2025, ITAT Bangalore 04.11.2026 in Spl Towers Pvt Ltd)",
+   "source": "https://indiankanoon.org/search/?formInput=Hical%20Infra%20Private%20Limited%20doctypes%3A%20itat"
+  },
+  {
+   "forum": "High Court of Karnataka",
+   "case": "Scheme of arrangement / demerger (Hical Technologies Ltd renamed Hical Infra Pvt Ltd as demerged company; manufacturing, design and engineering business demerged into Hical Aerospace Pvt Ltd)",
+   "role": "Party to the scheme",
+   "status": "Scheme sanctioned by High Court of Karnataka (per ITAT Bangalore record, 07.07.2022)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Hical%22%20%22Aerospace%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: no match found for 'Hical Infra' / 'Hical Technologies' on OFAC SDN/Non-SDN consolidated lists — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) was reachable but is a JS form and returned no query results via HTTP GET, and the OFAC API host did not resolve; UN, EU, UK OFSI and BIS Entity List were NOT checked (search backend down, tool budget exhausted). Therefore sanctions_hit is recorded as null = NOT VERIFIED, not as a clean negative. Court cases: only INCOME-TAX litigation found (ITAT Bangalore ITA 1575/Bang/2018, AY 2010-11, decided 25.04.2019; ITA 313/Bang/2022 decided 07.07.2022) plus the Karnataka High Court demerger scheme. These are civil tax/appellate matters, not criminal proceedings; per project rules they are not rejection grounds and are noted neutrally. No criminal cases, no NCLT/insolvency matters and no regulator (SEBI/RBI/DGFT/ED) actions were found in the sources reachable. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings/Acuite rating found in public sources; company appears to be an unrated private limited entity, but this is not confirmed. Negative news: null — no adverse media found; note that general web/news search was unavailable (searx backend refused connections; Google/Bing returned unusable results), so absence of negative news is a coverage gap, not a verified clean record. Russia/CIS supply evidence: null — a targeted Indian Kanoon search for 'Hical Infra' + Russia returned 'No matching results', and no other evidence of supplies to Russia or CIS was located. IMPORTANT CONTEXT (not a risk finding, for the analyst's awareness): per ITAT records the entity was formerly Hical Technologies Ltd / Hical Infra Technologies Pvt Ltd, and its manufacturing, design and engineering business was demerged into Hical Aerospace Pvt Ltd — so aerospace/aviation activity (relevant to declared HS 880390) sits in a SEPARATE legal entity, Hical Aerospace Pvt Ltd, which was NOT screened here and should be screened separately if it is the actual counterparty. All fields above are limited to what was publicly verifiable; nothing was inferred or invented."
+}

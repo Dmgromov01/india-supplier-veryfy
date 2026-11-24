@@ -1,0 +1,18 @@
+{
+ "name_input": "Dhaksha Unmanned Systems",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Telangana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; прямые обращения к публичным реестровым агрегаторам (zaubacorp, thecompanycheck, tofler, instafinancials, falconebiz) дали HTTP 403/404, портал MCA (mca.gov.in) — HTTP 403, Google/Bing выдали нерелевантную выдачу без совпадений по названию. Таким образом, ни точное юр. наименование, ни CIN/LLPIN, ни GSTIN, ни дата инкорпорации, ни MCA-статус не подтверждены публичным источником — все поля null, ничего не выдумано. Заявленный PAN AAHCD1745M НЕ подтверждён: обращаю внимание, что 4-й символ 'C' в формате PAN означает тип держателя 'Company' (юрлицо), что согласуется с заявлением о компании, но сама привязка PAN к конкретному юрлицу не проверена. Заявленный штат Telangana (регистрация) не подтверждён и не опровергнут. Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25 и FY26: аудированной отчётности или официальных филингов не найдено, значения null. ВАЖНО: отклонение (rejected) НЕ применяется — отсутствие данных не является основанием для отклонения; компания остаётся в базе со статусом 'не проверено, требуется повторный запрос к MCA/GST-порталу'. Рекомендуется повторная проверка при восстановлении доступа к реестрам (MCA Master Data, GST-поиск по GSTIN, ZaubaCorp/Tofler)."
+}

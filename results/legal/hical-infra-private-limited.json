@@ -1,0 +1,18 @@
+{
+ "name_input": "HICAL INFRA PRIVATE LIMITED",
+ "legal_name": "HICAL INFRA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAACH3639K",
+ "pan_holder_type": "H — Hindu Undivided Family (HUF), per 4th character of the claimed PAN. NOTE: an HUF PAN is inconsistent with a company (Pvt Ltd) entity, which would normally carry a 'C' (company) or 'P' (individual) 4th character. The claimed PAN could not be verified against any public record, so it is reported as claimed, not confirmed.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search backend returned connection refused on both queries; Google returned only a redirect stub; Bing returned completely unrelated results (burnout/stress articles, US property records) for every query; DuckDuckGo HTML timed out. Direct fetches of public registry aggregators were blocked or missing: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in / quickcompany.in / indiafilings.com / instafinancials.com returned HTTP 404 for the guessed URL slugs. Because no page was actually read, CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all reported as null rather than guessed. The CIN 'U74999KA2016PTC098001' used in the attempted URLs was a constructed guess and is NOT confirmed — do not treat it as a finding. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified, needs re-run'. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by PAN AAACH3639K, and reconcile the HUF-vs-company PAN discrepancy before accepting the PAN. Role cannot be classified (manufacturer vs trader) without registry data; declared HS 880390 (aircraft parts) is not a basis for any verdict under project rules."
+}
