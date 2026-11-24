@@ -1,0 +1,18 @@
+{
+ "name_input": "DIGITIVATE SOLUTION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. The input is internally inconsistent: the trade name 'DIGITIVATE SOLUTION' does not match the claimed legal entity 'YOGI DYE CHEM INDUSTRIES', and the declared HS codes mix an inorganic-chemistry heading (283719, cyanides/oxides - consistent with a dye-chem maker) with IT/telecom headings (844332 printers, 847130 laptops, 847170 storage units), which is a typical mis-declaration pattern. No state or PAN was supplied. Tooling failure: web_search returned 'Connection refused' (searx backend down) for all queries; DuckDuckGo HTML timed out; Bing returned only irrelevant generic 'Yogi' results and zero hits for 'Digitivate Solution'; zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403 to direct fetch. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed from any public source. Per project rules the entity is NOT rejected (no proof of non-existence, strike-off, liquidation or bankruptcy was found - it simply could not be checked), and no revenue figures are invented: FY25 and FY26 revenue are null. Role left as 'unknown' rather than guessed. Action required: re-run with working search access, or obtain the GSTIN/CIN directly from the supplier, and clarify whether the counterparty is 'Digitivate Solution' or 'Yogi Dye Chem Industries' - these appear to be two different parties and the HS mix (chemicals + IT hardware) suggests a trader rather than a manufacturer."
+}

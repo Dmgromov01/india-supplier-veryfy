@@ -1,0 +1,18 @@
+{
+ "name_input": "WHITECERA GLASS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error ('searx: Connection refused') on every attempt, and fallback engines (Bing/Google via http_get) returned unrelated results (flowers, Microsoft, supplements) — no page mentioning 'Whitecera Glass' was retrieved. Registry aggregators were inaccessible: ZaubaCorp returned HTTP 403, Tofler search returned 404, InstaFinancials search returned 404, and FalconEbiz company pages are JavaScript-gated and returned only navigation boilerplate. Therefore exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they do not exist, but because no public source could be read in this session. IMPORTANT: the PAN claimed in the input (AABFW9788L) could not be validated. Note on format only: the 4th character 'F' denotes a PARTNERSHIP FIRM under Indian PAN rules, which is inconsistent with a company-style name ('WHITECERA GLASS' presented as a corporate supplier) — this is a flag for manual review, not a rejection. No rejection is applied: there is no evidence the entity is struck off, liquidated or bankrupt; absence of retrievable records is not proof of non-existence. Role recorded as 'unknown' (no registry record read; the claimed HS 850213 / 'power engineering' profile is not assessable from registry data alone). Revenue FY25 and FY26 are null — no audited accounts or official filings were accessible; no figures were estimated. Recommended next step: re-run with working search access and query MCA master data directly by CIN or by the claimed PAN, plus a GST portal GSTIN lookup."
+}
