@@ -1,0 +1,18 @@
+{
+ "name_input": "KARAN IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "None",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure, not a negative finding: the DuckDuckGo/searx search backend returned 'Connection refused' on all queries; Bing returned only irrelevant results (Karran USA, Karan Johar, Karan Aujla) for every query variant including quoted '\"KARAN IMPEX\" GSTIN', '\"KARAN IMPEX\" CIN' and site-restricted searches; zaubacorp.com and instafinancials.com returned HTTP 403 (bot-blocked); thecompanycheck.com search returned HTTP 404; Google returned a redirect/consent page. Therefore exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null — not public via accessible sources in this session, and NOT invented. 'KARAN IMPEX' is a very common Indian trade name (multiple proprietorships/partnerships/LLPs across states), so without a GSTIN, PAN or CIN from the input it is not possible to disambiguate which entity is meant; the input itself supplied no PAN and no state. Role recorded as 'unknown' rather than guessed. No rejection applied: non-existence, strike-off, liquidation or bankruptcy could not be established, and per project rules traders are not rejected and HS mismatch is not a rejection ground. Note also that declared HS 630533 (sacks/bags of polyethylene/polypropylene strip, a textiles chapter heading) is inconsistent with the claimed industry 'food products and FMCG' — this is flagged for HS correction only, not for rejection. Recommended next step: re-run with a GSTIN or PAN, or with the registered state, to identify the specific entity."
+}

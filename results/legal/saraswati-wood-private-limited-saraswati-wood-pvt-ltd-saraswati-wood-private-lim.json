@@ -1,0 +1,18 @@
+{
+ "name_input": "SARASWATI WOOD PRIVATE LIMITED; SARASWATI WOOD PVT LTD; SARASWATI WOOD PRIVATE LIMITED",
+ "legal_name": "SARASWATI WOOD PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AAPCS6579L (as claimed in input; NOT verified against any public source)",
+ "pan_holder_type": "C — company (4th character 'C' of the claimed PAN AAPCS6579L indicates a company holder; this is a format-level reading of the claimed PAN only, not a verification of the PAN itself)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML endpoint returned HTTP 403; Google returned only a redirect/consent page; Bing returned generic 'Saraswati' (Hindu goddess) results for all company-specific queries, i.e. no relevant hits; zaubacorp.com, thecompanycheck.com and mca.gov.in/mcafoportal all returned HTTP 403 to direct fetches; instafinancials.com returned HTTP 404 for the guessed slug. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null — not public via accessible sources in this session, and deliberately not guessed. The PAN AAPCS6579L is carried over from the input only; its 4th character 'C' is consistent with a company-type holder, but the PAN itself was not confirmed against any public record. No rejection is applied: there is no evidence that the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation, not a negative finding. Role is 'unknown' because no registry/audited evidence of manufacturing vs trading activity was obtained. Per project rules, HS code 440712 is not a basis for rejection; the declared HS is noted but unverified. Recommended action: re-run verification when search/registry access is restored (MCA master data by name, GST public search by GSTIN/PAN, and audited FY25/FY26 filings)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "LENTO INDUSTRIES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', агрегаторы реестра (zaubacorp, thecompanycheck, instafinancials, MCA master-data) отдали HTTP 403, Bing по запросам '\"LENTO INDUSTRIES PRIVATE LIMITED\"' и '\"AACCL8419M\"' вернул только нерелевантные результаты (ресторан Lento, словарные статьи) — ни одного реестрового профиля не найдено. Поэтому CIN, GSTIN, дата регистрации, MCA-статус и выручка не подтверждены и оставлены null; ничего не выдумывалось. Заявленный PAN AACCL8419M: 4-й символ 'C' соответствует типу держателя 'Company' (формат PAN валиден по структуре), но принадлежность именно этой компании публично не подтверждена — pan оставлен null. Отклонять НЕЛЬЗЯ: отсутствие данных не равно отсутствию юрлица (правило 3). Требуется повторный прогон с доступом к MCA/GST-порталу или к платным реестрам (Tofler, Probe42, IndiaFilings) для установления факта существования, CIN, GSTIN и статуса; выручка FY25/FY26 — только из аудированной отчётности, иначе null."
+}

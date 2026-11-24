@@ -1,0 +1,18 @@
+{
+ "name_input": "Chemog agency (OPC) pvt td",
+ "legal_name": "CHEMOG AGENCY (OPC) PRIVATE LIMITED (name as claimed; existence not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint returned HTTP 403; Bing returned only irrelevant results (query mangled, results about Houston tourism and Microsoft); zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug. No CIN, PAN, GSTIN, incorporation date, registered state or MCA status could be read from any authoritative or aggregator source, so all such fields are null rather than guessed. PAN holder type cannot be inferred because no PAN was found (note: the 4th character of a PAN encodes holder type - P=individual, C=company, F=firm, etc. - but nothing was retrieved to decode). Revenue FY25/FY26 null: no audited accounts or MCA filings accessible; OPC entities of this size typically do not publish financials, but this is unconfirmed. Role left 'unknown' - the '(OPC)' suffix indicates a One Person Company structure, which is a legal form and not evidence of manufacturer vs trader status; no product or plant evidence was examined per role scope. IMPORTANT: per project rules a company may only be rejected if the entity does not exist, is struck off, liquidated or bankrupt - none of that was established here, so this record must NOT be treated as rejected. It is an unverified record pending a retry of registry lookup (recommended: MCA master data / MCA21 company search by name, and GST portal 'Search Taxpayer' by legal name) once search tooling is restored. Declared HS 210690 (food preparations) is not a basis for any verdict and was not assessed."
+}
