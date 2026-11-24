@@ -1,0 +1,9 @@
+{
+ "name_input": "SAGAR STEEL CORP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Google отдал только редирект-заглушку, DuckDuckGo HTML — 403. Bing по запросам «\"Sagar Steel Corporation\" Gujarat», «\"Sagar Steel\" Gujarat steel company Zauba/Tofler/IndiaMART» и «\"Sagar Steel\" Russia OR CIS export India pipe fittings» выдал только нерелевантные результаты про город Сагар (Мадхья-Прадеш), Sagard, Sager Electronics — ни одного упоминания компании. Санкционные списки: страница OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) доступна и открывается (SDN-лист обновлён 23.11.2026), но её поиск работает только через интерактивную форму — прямой запрос по имени через http_get выполнить нельзя, поэтому совпадение по OFAC SDN не подтверждено и не опровергнуто. UN/UK/EU Consolidated и BIS Entity List не проверялись из-за исчерпания лимита вызовов. Судебные дела (eCourts, NCLT), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — данных не найдено; все поля null, а не «отсутствует риск». Отдельно: заявленный PAN AAHFS2882F и название «Sagar Steel Corporation» не верифицированы ни по одному публичному источнику — это не подтверждение и не опровержение, а отсутствие данных. Рекомендуется повторный прогон при доступном поиске и ручная проверка по OFAC SDN, UK/EU Consolidated, BIS Entity List, eCourts и реестру MCA. Оснований для отклонения по правилу 2 нет и не заявляется."
+}
