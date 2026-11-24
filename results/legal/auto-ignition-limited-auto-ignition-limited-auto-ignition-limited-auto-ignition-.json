@@ -1,0 +1,18 @@
+{
+ "name_input": "AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED; AUTO IGNITION LIMITED",
+ "legal_name": "AUTO IGNITION LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACA5390E",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN; format valid: 5 letters + 4 digits + 1 letter). Holder type inferred from PAN structure only; the PAN itself was supplied in the input and could not be cross-checked against an MCA/GST public record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); Bing and Google returned only irrelevant US car-dealer results for every query variant tried; registry aggregators Zauba Corp, TheCompanyCheck and Falconebiz returned HTTP 403 (bot-blocked) and Tofler returned 404 for the guessed URL. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they were not publicly retrievable with the available tools. No CIN was invented; the URL slug used in the attempted fetches was a guess and is deliberately not reported as a CIN. Consequence for the rules: rejection is NOT permissible here, because rejection requires positive proof that the entity does not exist / is struck off / liquidated / bankrupt, and no such proof was obtained - absence of accessible data is not proof of non-existence. Company is retained in the database with role 'unknown' and all registry fields null, pending re-check on a working search backend or direct MCA master-data lookup. Note on the input: the name is repeated 11 times in the 'name' field - treated as one single company, not 11 entities. Note on state: 'Haryana' is the claimed state only; registered office could not be confirmed, and Indian public limited companies with this name pattern are often registered in Delhi, so the claimed state must be treated as unverified. Note on HS 851190 (parts of electrical ignition/starting equipment): per project rules an HS mismatch is never a rejection ground; no HS assessment was performed in this legal/registry-only pass. Revenue FY25/FY26: null - no audited accounts or official filings were accessible; no figures were estimated or inferred."
+}

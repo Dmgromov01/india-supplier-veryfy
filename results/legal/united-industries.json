@@ -1,0 +1,18 @@
+{
+ "name_input": "UNITED INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по открытым источникам в рамках лимита запросов. 'UNITED INDUSTRIES' — крайне неспецифичное имя: в Индии под ним существуют десятки разных юрлиц, proprietorship-фирм и partnership (в т.ч. unitedindustries.co.in — производитель литьевых пластиковых изделий, unitedindus.com и др.), ни одно из них не привязано к Пенджабу и к HS 6907 (керамическая плитка) по доступным данным. Поисковый бэкенд (searx) был недоступен (connection refused), Google/Bing отдавали нерелевантную выдачу (United Airlines), реестровые агрегаторы (zaubacorp, thecompanycheck, instafinancials, mca.gov.in) вернули 403/404, Cleartax GST-поиск требует 15-значный GSTIN, которого нет во входных данных. Следовательно: точное юрлицо, CIN/LLPIN, PAN (и его 4-й символ/тип держателя), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null (не публично/не установлено). НЕ отклонено: нет доказательств, что юрлицо не существует, ликвидировано или банкрот — отсутствие данных не является основанием для rejected. Роль оставлена 'unknown' (нельзя отнести к manufacturer/trader без подтверждения). Рекомендация: запросить у поставщика точное юрлицо (полное название по PAN/GST-сертификату), GSTIN и PAN — после этого проверка по MCA/GST-порталу займёт один запрос."
+}

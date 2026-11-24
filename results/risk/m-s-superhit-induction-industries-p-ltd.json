@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S SUPERHIT INDUCTION INDUSTRIES P.LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable public data retrieved. Tooling failure: web_search backend returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out; Bing returned results unrelated to the query (query terms not honoured), so no usable hits. Direct registry/aggregator reads blocked: zaubacorp.com HTTP 403 (both company page and company-list page), instafinancials.com HTTP 403/404, tofler.in search 404. OFAC Sanctions List Search page loaded but is JS-driven and returns no query results via plain GET, so no name screening could be executed. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = NOT VERIFIED (null, not 'clear'); Indian court cases (party role/status) = NOT VERIFIED (null); regulator actions and negative news = NOT VERIFIED (null); credit rating (agency/date/status) = NOT VERIFIED (null); evidence of supplies to Russia or CIS = NOT VERIFIED (null). No claim in this record is sourced, and nothing here should be read as a clean bill of health. Additional identity caveat for the reviewer (not a rejection ground): the record pairs the name 'M/S SUPERHIT INDUCTION INDUSTRIES P.LTD' with legal_claimed 'TSMD GLOBAL PRIVATE LIMITED' and PAN AAHCS3737N — the mismatch between the two names could not be resolved because no registry page was reachable; per project rules this is an identity/legal matter outside this role's scope and is flagged only for the identity researcher. Recommended next step: re-run screening when search access is restored, using MCA master data plus OFAC/UN/EU/UK/BIS list downloads (CSV) rather than the JS search UI, and eCourts/NJDG party search for both name variants."
+}

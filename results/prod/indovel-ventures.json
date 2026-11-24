@@ -1,0 +1,28 @@
+{
+ "name_input": "Indovel Ventures",
+ "declared_hs": "071290;080390;080450;080610",
+ "actual_hs_list": [
+  "071290",
+  "080390",
+  "080450",
+  "080610",
+  "0901 (coffee, green/roasted)",
+  "0910 (turmeric, cumin)",
+  "0904 (black pepper)",
+  "0908 (cardamom)",
+  "1006 (basmati rice)",
+  "1001 (wheat)",
+  "0713 (chickpeas, pulses)",
+  "0703 (onions)",
+  "0702 (tomatoes)",
+  "0709 (chillies, other vegetables)",
+  "0803 (bananas)",
+  "0806 (grapes)",
+  "0813 / 2008 (dried fruit, fruit pulp)",
+  "2106 / 1904 (ready-to-eat meals, flours)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website indovelventures.com (Bangalore, phone +91 96326 49911) presents itself as an exporter of: coffee (Arabica, Robusta, roasted specialty beans); spices (turmeric, black pepper, cardamom, cumin); pulses & grains (basmati rice, wheat, chickpeas, pulses); fresh fruits (mangoes, bananas, grapes, seasonal produce); fresh vegetables (onions, potatoes, chillies); dehydrated fruits & vegetables; plus 'fruit pulps', 'ready-to-eat meals', 'specialized flours' and 'general merchandise / industrial supplies'. Declared codes cover only 4 lines: 071290 (dried vegetables), 080390 (bananas), 080450 (guavas/mangoes), 080610 (grapes). These 4 are consistent with the catalogue (exact for the fresh-fruit and dehydrated-vegetable lines), but the declaration omits the bulk of the advertised range: coffee (0901), spices (0904/0908/0910), rice (1006), wheat (1001), pulses (0713), onions/potatoes/chillies (0703/0707/0709), fruit pulp and ready-to-eat meals (2008/2106). No product-level detail pages are reachable (all sub-URLs return 404), so per-SKU HS mapping cannot be verified beyond the homepage category list.",
+ "role_hint": "trader",
+ "comment": "Partial match. The four declared HS-6 codes (071290, 080390, 080450, 080610) are plausible and consistent with the advertised fresh-fruit and dehydrated-vegetable lines, so no HS correction is needed for those lines — but the declaration is materially incomplete: coffee, spices, rice, wheat, pulses, onions/potatoes/chillies, fruit pulp and ready-to-eat meals are all advertised on the site and absent from the declared codes. Industry label 'Продукты питания и FMCG' is broadly correct but understates the agri-commodity (raw grains/pulses/spices) share. Role: trader — the site describes itself as 'bridging local producers to global markets', 'facilitating the trade of', sourcing 'direct-from-farmer' and 'general merchandise', with no manufacturing plant, no processing facility and no owned brand mentioned; 'processed foods' vertical is described as an offering, not as own production. All product claims are website-only: no customs line, invoice or B/L was reviewed in this task, therefore every product line here is 'заявлено, не подтверждено'. Note also that the site's marketing figures (1.2M customers, 4.9/5, 'Established Since', 'Target Markets', 'Product Lines' shown as bare placeholders) are template text with no numbers filled in — not evidence of anything. No PAN/CIN/state published on the homepage; left null."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ALPHA SOLUTIONS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'ALPHA SOLUTIONS' — крайне неспецифичное имя: без CIN/PAN/GSTIN или адреса однозначно сопоставить его с конкретным юрлицом нельзя, а в Индии под таким наименованием существует множество проприетарных фирм, партнёрств и компаний в разных штатах. В этом прогоне инструменты поиска были недоступны: web_search возвращал ошибку соединения (searx: Connection refused), DuckDuckGo — таймаут, Bing на все запросы (в т.ч. site:zaubacorp.com и GSTIN-запросы) отдавал только общие результаты про греческую букву 'alpha'; zaubacorp.com и mca.gov.in — HTTP 403, tofler.in и instafinancials.com — HTTP 404. Следовательно: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации по реестру и статус MCA — не подтверждены (null). Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26 — null: аудированной отчётности или официальных филингов не найдено. Отклонять НЕ следует: отсутствие данных не равно отсутствию юрлица (правило 3 — rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Заявленный HS 847990 (части машин/механизмов с индивидуальными функциями) и отрасль 'нефтегаз и химия' не проверялись и не являются основанием для отклонения. Требуется от поставщика: полное юрлицо (Pvt Ltd / LLP / proprietorship), CIN или PAN, GSTIN, адрес регистрации — после чего проверку реестра можно повторить."
+}
