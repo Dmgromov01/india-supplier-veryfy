@@ -1,0 +1,9 @@
+{
+ "name_input": "STEELMECH PIPING INC",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — INCOMPLETE DUE TO TOOL FAILURE. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); Bing and Google returned only irrelevant/unrelated results (Pilates, YouTube, ChatGPT pages), so no usable open-source results were obtained for this company. What was actually checked: (1) Indian Kanoon — searches for \"Steelmech Piping\" and \"Steelmech\" both returned 0 matching judgments (https://indiankanoon.org/search/?formInput=%22Steelmech%20Piping%22 and .../formInput=Steelmech), so no Indian court cases are publicly indexed under this name; this is a negative search result, not proof of clean litigation history. (2) OFAC Sanctions List Search page was reachable but is JavaScript-driven and returned no lookup results to a plain HTTP fetch, so no SDN/Non-SDN screening could be completed — sanctions_hit is null, NOT a confirmed 'no hit'. UN, EU, UK OFSI and BIS Entity List were not screened at all. (3) No credit rating (CRISIL/ICRA/CARE/India Ratings) could be located; rating null. (4) No negative news, regulator action or adverse media could be located; news_risk null. (5) No evidence of supplies to Russia or CIS found, but absence of evidence here reflects failed search, not a verified negative; rf_supply null. Per project rules, nothing here is a rejection ground and no rejection is proposed. RECOMMENDATION: re-run this company's risk screening once the search backend is restored, and complete manual OFAC/UN/EU/UK/BIS screening plus a CRISIL/ICRA rating lookup before relying on these fields. Do not treat the nulls as clean results."
+}
