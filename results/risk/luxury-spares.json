@@ -1,0 +1,9 @@
+{
+ "name_input": "Luxury Spares",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: основной поисковый бэкенд (DuckDuckGo/searx) в течение всей сессии возвращал 'Connection refused', html.duckduckgo.com — таймаут. Bing по запросам \"Luxury Spares\" + Delhi / \"DAS ADITYA\" / IndiaMART / Zauba / sanctions / court / GST / \"sole proprietor\" выдавал только словарные статьи о слове 'luxury' — ни одного релевантного результата, т.е. ни одного публичного следа компании с таким названием или с PAN BTTPA2061E найти не удалось. Форма OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-интерфейс, через GET результаты не отдаются; прямой скрининг по SDN/Non-SDN, UN, EU, UK OFSI и BIS Entity List НЕ выполнен. Судебные базы (eCourts, NCLT, High Court Delhi), реестр MCA, кредитные рейтинги (CRISIL/ICRA/CARE/India Ratings) и новостные архивы проверить не удалось. Все поля оставлены null — это означает 'нет публичных данных / не проверено', а НЕ 'чисто'. Санкционных, судебных или регуляторных оснований для отклонения не установлено; по правилу 2 такие основания и не являются причиной отклонения. Сведений о поставках в РФ/СНГ не найдено, но и не опровергнуто. Рекомендуется повторный прогон при восстановлении поиска и ручной скрин по OFAC/EU/UK/BIS по имени 'DAS ADITYA' и по PAN BTTPA2061E."
+}

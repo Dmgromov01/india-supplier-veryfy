@@ -1,0 +1,18 @@
+{
+ "name_input": "Malwi Marine Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAOFM8228J",
+ "pan_holder_type": "F — partnership firm (4th character 'F' in the claimed PAN AAOFM8228J). NOTE: PAN is taken from the input only; it could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record found. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both queries; zaubacorp.com, instafinancials.com and tofler.in search returned HTTP 403/404; search.mca.gov.in did not resolve (DNS); Bing silently rewrote the query to 'Malawi' and returned only Malawi country pages, i.e. zero relevant hits for the exact name 'Malwi Marine Enterprises'. No CIN/LLPIN, GSTIN, incorporation date, registered office or MCA status could be retrieved, so all such fields are null rather than guessed. PAN AAOFM8228J is carried over from the input; its 4th character 'F' indicates a partnership firm, which is consistent with a non-corporate entity that would have no CIN at all (firms are registered with the Registrar of Firms, not MCA) — but this is an inference from the PAN format, not a verified fact. Role cannot be determined: HS 840810/840999 (marine propulsion engines / engine parts) is a product claim, not evidence of manufacturing vs trading, and the input industry label 'Металлургия и горнодобыча' (metallurgy & mining) does not match those HS codes. Revenue FY25/FY26: null — no audited accounts or official filings located; a partnership firm would in any case not file with MCA. Per project rules this is NOT a rejection: the entity's non-existence is not established, only that it is not traceable in the public sources reachable today. Recommend re-run with working search access and a check of the Gujarat Registrar of Firms / GST taxpayer search before any verdict."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "DEV INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data collected, all values null by necessity, not by finding. Tooling failure: web_search (DuckDuckGo/searx backend) returned 'Connection refused' on every attempt; html.duckduckgo.com and lite.duckduckgo.com timed out; Google and Bing HTML endpoints returned no usable results for the query; OpenSanctions API returned HTTP 401 (key required); OFAC sanctionssearch API endpoint returned HTTP 404. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court records, regulator actions, credit rating and any Russia/CIS supply evidence are all UNVERIFIED - absence of a hit here must NOT be read as a clean result. Additional identification problem: the record's 'legal_claimed' field contains a personal name (DUDHAT MAGANBHAI BHAGVANBHAI) rather than a company name, and no PAN/CIN was supplied, so 'DEV INTERNATIONAL' (Delhi) cannot be reliably disambiguated from numerous same-named Indian trading entities - any sanctions or court match found later would need entity-level confirmation before attribution. Per project rules this is not a rejection ground and no verdict is implied; recommend re-running this company once search access is restored and a CIN/PAN is obtained."
+}
