@@ -1,0 +1,18 @@
+{
+ "name_input": "EC Machines",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "BBOPS9655R",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'P' denotes a person; the 5th character 'S' is the first letter of the surname, consistent with the claimed proprietor name 'Sharma'. Note: PAN is taken from the input as claimed only — it could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public source could be read. Search backend (DuckDuckGo/searx) was down ('Connection refused') and Bing returned only irrelevant AI-generated results for every query tried ('EC Machines' + PAN, + Karnataka GST, + 'Anuj Sharma' proprietor). Direct fetches of registry aggregators failed: zaubacorp.com 403, instafinancials.com 403, tofler.in 404, mca.gov.in 403. Consequently no exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be established. The claimed PAN BBOPS9655R has the format of an individual PAN (4th char 'P'), which suggests a sole proprietorship rather than a company — in that case there would be no CIN and no MCA record at all, and the 'legal_claimed' field 'ANUJ SHARMA' is a proprietor name, not a legal entity name. This is an inference from PAN structure only, not a verified fact. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Per project rules the company is NOT rejected: non-existence/struck-off/liquidation could not be demonstrated, only that verification was impossible. Role left as 'unknown' — no evidence of manufacturing or trading activity was obtainable. HS code 842240 (packing/wrapping machinery) is inconsistent with the claimed industry 'food & FMCG'; per rules this is not a rejection ground and the code should be corrected to the factual one once verified. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN directly from the supplier and check it on the GST portal."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "TANSA EQUIPMENTS P LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/tansa-equipments-p-ltd loaded only a paywalled shell: 'Shipments available for TANSA EQUIPMENTS P LTD, refreshed daily' — zero shipment rows rendered, no date, destination, HS code or B/L number visible. Counter: 0 rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. ZaubaCorp company page returned HTTP 403; no annual-report split found. Counter: 0 rows actually seen.",
+ "note": "Evidence could not be established either way. importkey rendered a paywalled shell with no rows; volza.com, eximpedia.app, trademo.com and zaubacorp.com all returned HTTP 403; importgenius.com returned a JavaScript challenge; the web_search backend (searx) was down ('Connection refused') and Bing/Google fallbacks returned irrelevant results. Therefore export_status and domestic_status are 'unknown', NOT 'none_found' — absence of evidence here is a tooling failure, not proof of no shipments. No B/L number, date, destination, HS code, GST band or revenue figure is asserted; all such fields are null. Note the declared HS 903110 (balancing/testing machines) does not match the claimed industry 'IT и электроника' — per project rules this is not a rejection ground, only a flag for HS correction if the company is retained. Legal entity existence, PAN AAACT6222A and revenue remain unverified (null). Recommend re-run when a working search backend or a non-blocked customs-data mirror is available."
+}

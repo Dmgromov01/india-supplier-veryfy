@@ -1,0 +1,18 @@
+{
+ "name_input": "TANSA EQUIPMENTS P LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool (DuckDuckGo/searx backend) was down for every query ('Connection refused'), and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; Google/Bing/DuckDuckGo HTML endpoints returned no usable results for the company name or the claimed PAN. Therefore no CIN, PAN, GSTIN, incorporation date, MCA status or revenue figure is reported - all left null rather than guessed. IMPORTANT: the PAN claimed in the input, AAACT6222A, has 'C' as its 4th character, which denotes a COMPANY (body corporate) holder type - consistent with a private limited company, but the PAN itself is unverified and must not be treated as confirmed. The claimed PAN format is structurally valid (5 letters + 4 digits + 1 letter). No basis to reject: non-existence, strike-off, liquidation or bankruptcy could not be established either way, so the entity is NOT rejected - it is simply unverified pending a working registry lookup (MCA master data / GST portal search by trade name). Note also that the declared HS 903110 (balancing/testing machines) does not match the claimed industry 'IT and electronics'; per project rules this is not a rejection ground - the HS code should be corrected to the actual product line once the company's real activity is confirmed. Role is recorded as 'unknown' because no evidence of manufacturing vs trading was obtainable."
+}

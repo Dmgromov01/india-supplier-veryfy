@@ -1,0 +1,9 @@
+{
+ "name_input": "Injectoplast Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing и Google отдавали нерелевантную выдачу (результаты не содержали ни 'Injectoplast', ни 'Plastica Trading'), поэтому ни один факт подтвердить не удалось. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма — прямой GET не возвращает результатов поиска по имени, совпадений не проверено. ZaubaCorp вернул HTTP 403. Итог: sanctions_hit, court_cases, rating, news_risk, rf_supply — null, данные не публичны/недоступны в рамках лимита вызовов, НЕ выдуманы. Отдельно фиксирую расхождение во входных данных: name_input 'Injectoplast Pvt Ltd' (реально существующая индийская компания по переработке пластмасс, Kanpur/UP) не совпадает с legal_claimed 'PLASTICA TRADING PRIVATE LIMITED' (Maharashtra) — это, вероятно, разные юрлица; проверку рисков нужно повторить после уточнения юрлица. Санкционных, судебных или регуляторных оснований для отклонения не установлено (и по правилу 2 они отклонением не являются). Требуется повторный прогон при доступном поиске."
+}
