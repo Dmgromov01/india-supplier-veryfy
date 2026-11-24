@@ -1,0 +1,8 @@
+{
+ "name_input": "Shree Shyam Chemicals",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey page for slug 'shree-shyam-chemicals' returned only template text: \"Shipments available for SHREE SHYAM CHEMICALS, refreshed daily\" — a generic placeholder, not a record. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on every query, so no domestic-supply source could be located. Rows actually seen: 0.",
+ "note": "Evidence could not be gathered, therefore no verdict on shipments is asserted either way — this is NOT a finding of 'no shipments'. Source counter: 3 ImportKey slug variants attempted (shree-shyam-chemicals, shree-shyam-chemical, shree-shyam-chemicals-rajasthan) — all 3 returned the same JS-shell template with 0 shipment rows; volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page; web_search failed on all 3 attempts with connection refused. Declared HS 270810 (naphthalene/creosote-type coal-tar distillate) and claimed proprietor 'KAMAL KUMAR SAIN' (Rajasthan) are unverified — no registry or catalogue was consulted, per scope. Revenue and export volume: null (not public in any source reached). Recommended action: re-run once the search backend is restored, or query a paid customs-data view, before assigning confirmed/declared_only/none_found."
+}

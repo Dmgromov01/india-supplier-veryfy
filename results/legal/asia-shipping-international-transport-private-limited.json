@@ -1,0 +1,18 @@
+{
+ "name_input": "ASIA SHIPPING INTERNATIONAL TRANSPORT PRIVATE LIMITED",
+ "legal_name": "ASIA SHIPPING INTERNATIONAL TRANSPORT PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAMCA1167B",
+ "pan_holder_type": "AAMC -> 4th character 'C' = company (as per PAN format; holder type inferred from the claimed PAN, not independently verified against the PAN database)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search returned 'searx: connection refused' on both queries; DuckDuckGo HTML timed out; Google returned only a redirect/consent page; Bing returned 3 irrelevant results (Myanmar MOFA pages) for every query variant, i.e. no usable index. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, mca.gov.in MDS 403 Forbidden, instafinancials.com 404, search.marcia.in DNS failure. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they could not be read from a public source within the call budget. No conclusion on existence, strike-off, liquidation or bankruptcy is drawn; per project rules the company is NOT rejected on the basis of missing data. PAN AAMCA1167B is carried over from the input only and is unverified; its 4th character 'C' is consistent with a company-type holder. Role left as 'unknown' - the name suggests shipping/transport services rather than manufacturing, but that is an inference from the name alone and is not evidence; no registry record of the objects clause or business activity was obtained. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Declared HS 844391 (parts/accessories of printing machinery) is inconsistent with the claimed industry 'IT и электроника' and with a shipping/transport name; per project rules this is NOT a rejection ground - the HS code should be corrected to the actual activity once the objects clause is verified. ACTION REQUIRED: re-run this company when search/registry access is restored, checking MCA master data for CIN, status and incorporation date, and the GST portal public search for GSTIN and filing status."
+}

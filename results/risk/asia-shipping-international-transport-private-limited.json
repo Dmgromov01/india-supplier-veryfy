@@ -1,0 +1,9 @@
+{
+ "name_input": "ASIA SHIPPING INTERNATIONAL TRANSPORT PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, NOTHING CLEARED. Research blocked: DuckDuckGo/searx backend refused connections (all web_search calls failed), Google returned only a redirect interstitial, Bing returned 3 irrelevant results (Myanmar MOFA pages) for every query variant tried, and corporate-data aggregators (zaubacorp, thecompanycheck) returned HTTP 403. No usable page about this entity was retrieved. Therefore: sanctions_hit=null (no OFAC SDN / UN / EU / UK / BIS Entity List screening result obtained — NOT a negative finding, simply unverified); court_cases=null (no Indian court/party-role/status data retrieved; eCourts/NCLT not reachable); rating=null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found or checked); news_risk=null (no negative-news items with dates retrieved); rf_supply=null (no evidence of supplies to Russia or CIS found — and none excluded). Note the name pattern 'Asia Shipping International Transport' is a freight-forwarding/shipping-agency style name, which is inconsistent with the declared industry 'IT и электроника' and declared HS 844391; per project rules this is NOT a rejection ground and is flagged only for the identity/HS researcher, not for risk. Per Rule 2, no sanctions/court/criminal matter would be a rejection ground in any case. Recommended next step: re-run screening when search backend is restored, using MCA master data, OFAC SDN/EU/UK consolidated lists, BIS Entity List, eCourts/NCLT and credit-rating agency sites directly. No CIN, PAN, rating figure or shipment record is asserted here because none was verified."
+}

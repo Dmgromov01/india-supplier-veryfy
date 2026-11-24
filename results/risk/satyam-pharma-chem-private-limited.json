@@ -1,0 +1,9 @@
+{
+ "name_input": "SATYAM PHARMA CHEM PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковая инфраструктура недоступна. DuckDuckGo/searx вернули 'Connection refused'/'timed out', Bing отдавал нерелевантную кэшированную выдачу (только Satyam Computer Services / Satyam scandal и satyam.co.in — другие юрлица), Zauba Corp — HTTP 403, Brave — HTTP 429, Mojeek — 403. Санкционные списки: интерфейс OFAC Sanctions List Search открылся (SDN обновлён 23.11.2026), но программный запрос по имени выполнить не удалось — результат поиска по 'Satyam Pharma Chem' не получен, поэтому sanctions_hit = null (не подтверждено ни попадание, ни отсутствие). Судебные дела (eCourts/NCLT), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия и негативные новости, а также признаки поставок в РФ/СНГ — не проверены, данных нет. Все поля null означает 'не установлено', а не 'чисто'. Требуется повторный прогон при доступном поиске; отдельно проверить: точное юрлицо (в выдаче фигурируют одноимённые 'Satyam' в химии — satyam.co.in, Mumbai, с 1981, что может быть иным лицом), затем eCourts/NCLT Mumbai, сайты рейтинговых агентств и списки OFAC/UN/EU/UK/BIS по полному имени и адресу."
+}
