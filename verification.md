@@ -1,6 +1,8 @@
 # Second-pass verification
 
-Records checked: **8**, passed: **8**, flagged: **0**
+Records checked: **260**, passed: **219**, flagged: **41**
 
 | check | hits |
 |---|---|
+| confirmed export without URL | 32 |
+| PAN format | 9 |
