@@ -1,0 +1,18 @@
+{
+ "name_input": "PARMA IMPEX PVT LTD",
+ "legal_name": "PARMA IMPEX PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAGCP1282Q",
+ "pan_holder_type": "P — individual (natural person) per 4th character of the claimed PAN; this is INCONSISTENT with a private limited company, which must carry a company PAN with 'C' at the 4th position (e.g. AAACP....). The claimed PAN therefore does not belong to a Pvt Ltd company and must be re-verified with the supplier.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections; Bing returned only irrelevant 'Parma' (Italy/Ohio) results for every query variant tried ('PARMA IMPEX PRIVATE LIMITED' CIN, 'PARMA IMPEX' AAGCP1282Q, site-restricted queries); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials and quickcompany returned 404; duckduckgo html endpoint timed out. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrieved, NOT zero and NOT negative findings. Key red flag to resolve manually: the claimed PAN AAGCP1282Q has 'P' (individual) at the 4th character, which cannot be the PAN of a private limited company; either the PAN is wrong or the entity is a proprietorship trading as 'Parma Impex'. No rejection applied — per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was obtained. Role left as 'unknown' (name 'Impex' suggests trader, but that is inference, not evidence). Declared HS 630790 (made-up textile articles) also conflicts with the claimed industry 'food & FMCG' — flagged for HS correction review, not a rejection ground. Recommend re-running with working search/registry access (MCA master data, GST portal search by PAN, Zauba/Tofler) before any decision."
+}

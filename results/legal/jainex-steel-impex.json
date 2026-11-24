@@ -1,0 +1,18 @@
+{
+ "name_input": "Jainex Steel Impex",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один источник не открылся. DuckDuckGo-поиск возвращал 'Connection refused' на всех запросах; Bing отдавал нерелевантную выдачу (кэш/AI-страница без результатов по компании); zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com и портал MCA (mca.gov.in) вернули HTTP 403; tofler.in — 404 по поисковому URL; gstincheck — DNS-ошибка. Поэтому exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, MCA-статус и выручка FY25/FY26 остаются null — не выдуманы. Заявленный PAN AAOFJ7871L не подтверждён: по 4-му символу 'F' это была бы фирма/партнёрство (partnership firm), но проверить формат и держателя по публичному источнику не удалось, поэтому pan_holder_type = null. Существенно: название 'Jainex Steel Impex' не похоже на зарегистрированное юрлицо (Pvt Ltd/LLP) — вероятнее всего это проприетарное дело или торговое наименование, у которого CIN отсутствует по определению; это гипотеза, не подтверждённая фактом. Отклонение (rejected) НЕ применяется: отсутствие данных не равно несуществованию юрлица, а по правилам проекта отклонять можно только при ликвидации/банкротстве/отсутствии юрлица. Роль оставлена 'unknown' (не manufacturer и не trader), т.к. род деятельности по реестру не установлен. Требуется повторный прогон при доступных источниках: MCA master data по имени, GST-портал по PAN/GSTIN, либо коммерческий агрегатор (Tofler/InstaFinancials) с авторизацией."
+}

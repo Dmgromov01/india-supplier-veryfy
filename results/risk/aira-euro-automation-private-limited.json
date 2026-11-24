@@ -1,0 +1,9 @@
+{
+ "name_input": "AIRA EURO AUTOMATION PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on all attempts; Bing returned only generic unrelated results for the brand token 'Aira' (aira.io, AirAsia, ARIA Resort) and ignored all exact-phrase and qualifier operators, so no page about this Indian entity was ever retrieved. ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form that returns no results via plain GET, so no SDN/Non-SDN screen could actually be executed. Consequently sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List), Indian court cases (party role/status), regulator actions, negative news, credit rating and any evidence of supplies to Russia/CIS are all null - NOT because they were checked and found clean, but because they could not be checked. Per project rules no values were invented. Recommended follow-up: re-run with a working search backend, plus direct checks of the OFAC SDN/consolidated list CSV download, the BIS Entity List, the EU consolidated financial sanctions list, the UK OFSI consolidated list, eCourts/NCLT/NCLAT and the IBBI insolvency database, and Indian credit-rating agency sites (CRISIL/ICRA/CARE/India Ratings) for any rated instrument. Note: no adverse finding is implied by these nulls; equally, no clearance is implied."
+}

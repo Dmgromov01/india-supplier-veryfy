@@ -1,0 +1,9 @@
+{
+ "name_input": "INNOTECH SYSTEMS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА в полном объёме — нет данных, а не «чисто». Технические обстоятельства: (1) основной поисковый инструмент (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) резервный Bing по всем вариантам запросов ('Innotech Systems Private Limited' + Maharashtra / Pune / Mumbai / Nashik / CIN / ROC / Zauba / PAN AACCI9640P) выдавал только нерелевантные зарубежные одноимённые компании (innotech.com — Австралия, Innotech Windows — Канада, Innotech Manufacturing — США, Innotech Japan и др.) и полностью игнорировал кавычки и уточняющие операторы; ни одного индийского юрлица с таким названием в выдаче не появилось; (3) реестры закрыты: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403; (4) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен как страница, но это JS-форма без GET-параметров поиска — программно прогнать имя по SDN/Non-SDN не удалось, поэтому sanctions_hit = null, а НЕ 'нет совпадений'. По этой же причине не проверены UN, EU, UK OFSI и BIS Entity List. Судебные дела (eCourts, NCLT, High Court Bombay), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — не проверялись, все поля null. Отдельно: заявленный PAN AACCI9640P и отрасль «нефтегаз и химия» при HS 902219 (рентгеновская аппаратура) выглядят несогласованно, но это вне моей роли и не проверялось. Рекомендация: повторить проверку при восстановлении поиска и доступа к реестрам; до этого считать риск-профиль НЕПОДТВЕРЖДЁННЫМ. Оснований для отклонения по правилу 2 нет и быть не может — данных о санкциях/судах просто нет."
+}

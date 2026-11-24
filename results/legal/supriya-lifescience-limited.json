@@ -1,0 +1,18 @@
+{
+ "name_input": "SUPRIYA LIFESCIENCE LIMITED",
+ "legal_name": "Supriya Lifescience Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra",
+ "state_claimed": "Maharashtra",
+ "mca_status": "Active (listed on NSE: SUPRIYA and BSE: 543434; no strike-off/liquidation/insolvency indication found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 696,
+ "revenue_fy26_cr": 828,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/SUPRIYA/), Profit & Loss table, consolidated annual figures in Rs crore: FY25 (Mar 2025) sales 696, FY26 (Mar 2026) sales 828; derived from the company's audited/exchange-filed results. Not independently verified against the original annual report PDF.",
+ "note": "Entity exists and is a listed public limited company (BSE 543434, NSE SUPRIYA), so no rejection ground applies. CIN, PAN and GSTIN could not be retrieved: searx web_search was unavailable (connection refused) and registry aggregators (zaubacorp, thecompanycheck) returned HTTP 403; MCA/GST portals were not reachable within the tool budget. Therefore cin_llpin, pan, pan_holder_type, gstin, gst_status and incorporation_date are null - not public via the sources I could open, not invented. The claimed PAN AALCS8686A could not be validated (format-wise the 4th character 'C' would indicate a company holder, consistent with a limited company, but this is not confirmation). Registered office is in Maharashtra per exchange listing/profile data, matching the claimed state. Role: manufacturer - Screener company profile describes it as engaged in the manufacturing of active pharmaceutical ingredients (APIs), 38-40+ APIs across antihistamine, analgesic, anaesthetic, vitamin, anti-asthmatic and anti-allergic segments. Note on HS: declared codes 130219/292250/293339/293359 are chemical/API codes, broadly consistent with an API manufacturer, but HS verification is outside this role's scope. Revenue figures are consolidated annual sales from a secondary aggregator of audited filings; treat as indicative pending annual-report confirmation."
+}

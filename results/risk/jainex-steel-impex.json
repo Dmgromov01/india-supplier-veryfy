@@ -1,0 +1,9 @@
+{
+ "name_input": "Jainex Steel Impex",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of research date. Tooling was severely degraded: the web_search backend was down (connection refused) for the whole session, DuckDuckGo HTML and Bing returned mangled/irrelevant result sets (Bing served unrelated Microsoft/apartment listings), so no general web, news, sanctions-list or credit-rating source could be read. Only Indian Kanoon was reachable. (1) Sanctions: NOT VERIFIED — no OFAC SDN / UN / EU / UK / BIS Entity List screening could be completed; null means 'not checked', not 'clear'. (2) Indian court cases: Indian Kanoon exact-phrase search for \"Jainex Steel Impex\" returned 'No matching results' among judgments; a loose-token search returned one unrelated ITAT Mumbai 2019 matter (Shubh Enterprises, Kharghar vs ITO WD 2, New Panvel, 06.12.2019) in which the name appears only incidentally — it is NOT a case against this company. No party role or status can be attributed. NCLT/High Court/consumer-forum coverage was not reachable. (3) Regulator actions / negative news: none found, but coverage was effectively nil — treat as unverified, not as absence of issues. (4) Credit rating: no public rating (CRISIL/ICRA/CARE/India Ratings/Acuite) located; null. (5) Supplies to Russia/CIS: no evidence found either way; null. Per project rules, sanctions/court/criminal matters are never rejection grounds and are recorded neutrally only. No rejection basis identified in this pass. Recommend re-running the sanctions and litigation screening once search connectivity is restored before any decision."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Oshwin Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session: the web_search backend returned connection errors ('searx: Connection refused') for every query, and direct fetches of public registry aggregators (thecompanycheck.com, zaubacorp.com, instafinancials.com) returned HTTP 403, while tofler.in search returned a 404 page and Bing/Google returned unusable/generic results. Therefore legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue (FY25/FY26) are all reported as null — NOT verified, not absent. No CIN, PAN, GSTIN or revenue figure has been invented. Important caveat on the input: 'VIJESH SAGARMAL MEHTA' in the legal_claimed field is a person's name, not a company name, and the PAN claimed (AJFPM4321C) has 'P' as its 4th character, which denotes an individual (person) PAN, not a company PAN (companies carry 'C'). So the input appears to describe a proprietorship/individual trading entity rather than a registered company; if so, there may be no CIN at all and the correct identifier would be the GSTIN of the proprietorship. This needs confirmation from a working registry/GST lookup. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Role left as 'unknown' pending verification (no evidence of manufacturing plant or of pure trading). Declared HS 810890 (titanium articles) was not assessed here as this role covers legal/registry only. Recommended next step: re-run with a functioning search backend or a GSTIN/MCA lookup tool to confirm entity type, GSTIN and audited turnover."
+}
