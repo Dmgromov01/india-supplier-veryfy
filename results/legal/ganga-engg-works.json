@@ -1,0 +1,18 @@
+{
+ "name_input": "GANGA ENGG WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained - all sources failed. The DuckDuckGo search tool returned 'Connection refused' on every query; Bing HTML search returned only irrelevant generic results about the Ganges river for the exact-phrase queries \"GANGA ENGG WORKS\", \"Ganga Engineering Works\" + Haryana GST, and \"GAJENDRAN KANDIBAN\"; zaubacorp.com, instafinancials.com and mca.gov.in all returned HTTP 403. Therefore no legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or revenue could be verified, and all such fields are null rather than guessed. Important structural observation from the input itself: the 'legal_claimed' value 'GAJENDRAN KANDIBAN' is a personal name, not a company name, which suggests this is a sole proprietorship (proprietor: Gajendran Kandiban) rather than a registered company - a proprietorship would have NO CIN and NO MCA status at all, only a GSTIN and PAN (PAN 4th character 'P' = individual). This is a hypothesis, not a verified fact. No rejection applied: per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and absence of accessible public records is not such proof. Role left as 'unknown' - the claimed HS 7223 (flat-rolled stainless/alloy steel) and 'metallurgy' industry are unverified and, per rules, HS mismatch is not a rejection ground anyway. Revenue FY25/FY26 null: no audited accounts or official filings located; a proprietorship would typically have no public audited filings. RECOMMENDATION: re-run this company when the search backend is restored, or verify manually via the GST portal 'Search Taxpayer' (by trade name) and the MCA master-data search; also confirm whether the entity is a proprietorship (then CIN/MCA fields are legitimately N/A, not missing)."
+}

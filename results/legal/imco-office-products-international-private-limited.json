@@ -1,0 +1,18 @@
+{
+ "name_input": "IMCO OFFICE PRODUCTS INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": "IMCO OFFICE PRODUCTS INTERNATIONAL PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AACCA4313P (as claimed in input; not verified against any public record)",
+ "pan_holder_type": "Company (4th character 'C' in the claimed PAN indicates a company/non-individual holder) — based on the claimed PAN only, not verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed. All search tooling failed during this run: web_search returned a backend connection error (searx: Connection refused) on both queries; Bing/Google HTML endpoints returned only unrelated 'IMCO' US/Israel companies (imcousa.com, imcotrailers.com, imco-ind.com) and no Indian entity; a direct query on the claimed PAN 'AACCA4313P' returned zero relevant hits. Registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) and mca.gov.in all returned HTTP 403 Forbidden, so CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue could not be read from any official filing. Per project rules nothing is invented: all unverified fields are null. No rejection is proposed — there is no evidence the entity does not exist; the absence of data is a tooling limitation, not a finding. Note the input's declared HS 960810 (ball-point pens) is inconsistent with the claimed industry 'Food & FMCG'; per rule 3 this is not a rejection ground — the HS code should be corrected to the actual product code once the company's real product line is confirmed, and the verdict would be accepted_hs_corrected. Role is left 'unknown' pending registry/product evidence. Recommended next step: re-run against MCA master data / GST portal with working access, or obtain the company's CIN or GSTIN from the supplier directly."
+}

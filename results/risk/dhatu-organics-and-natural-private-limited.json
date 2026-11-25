@@ -1,0 +1,9 @@
+{
+ "name_input": "DHATU ORGANICS AND NATURAL PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant/corrupted results (Palantir, FIFA World Cup) for both exact-name queries, so no usable search results were produced. Direct fetches of primary sources were blocked: ZaubaCorp and TheCompanyCheck returned HTTP 403, IndianKanoon returned HTTP 403, and the OFAC Sanctions List Search is a JavaScript form that cannot be queried by plain HTTP GET (only the empty search page was retrievable, no lookup performed). Consequently NO sanctions screening (OFAC SDN, UN, EU, UK, BIS Entity List), NO Indian court-case check (party role/status), NO regulator-action or negative-news check, NO credit-rating check and NO evidence of supplies to Russia/CIS could be established. All fields are set to null because nothing is public/verified in this session - these are NOT findings of 'clean'. Per project rules, absence of data is not a rejection ground and no adverse inference is drawn; the company is not rejected. Recommended follow-up: re-run screening when search connectivity is restored, using exact-name queries on OFAC/EU/UK consolidated lists, IndianKanoon and eCourts by party name, and credit-rating agency sites (CRISIL/ICRA/CARE/India Ratings) - note that a small Karnataka private limited of this profile is unlikely to carry a public credit rating, in which case rating should remain null with that explanation. Also note the claimed PAN AAFCD2851G was not verified and was not cross-checked against any registry."
+}
