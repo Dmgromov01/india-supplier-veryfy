@@ -1,0 +1,18 @@
+{
+ "name_input": "Alphaprime",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "unknown — no MCA/registry record located",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record found for the claimed name 'ALPHAPRIME BOEKI CO'. Tooling failure: DuckDuckGo search backend returned connection refused on both queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned 403/404; Google returned 429; Bing returned only unrelated automotive results for the exact-phrase query, i.e. no indexed match for the name. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not located, NOT confirmed absent. No audited accounts or official filings were found, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data; the 'Boeki' element in the claimed name is a Japanese word for 'trade', which hints at a trading entity, but this is a naming inference only and is not registry evidence, so role is left as unknown. Per project rules the company is NOT rejected: non-existence is not established, only that the entity could not be located in accessible public sources. Recommended next step: re-run against MCA master data / GST portal search with a valid name or PAN, since the input supplied no PAN and no state, which makes disambiguation impossible. HS 820890 (tools/interchangeable tools) is inconsistent with the claimed industry 'metallurgy and mining', but per rule 3 this is not a rejection ground — the code should be corrected to the factual one once the entity is identified."
+}

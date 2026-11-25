@@ -1,0 +1,18 @@
+{
+ "name_input": "Armacell",
+ "legal_name": "ARMACELL INDIA PRIVATE LIMITED (as claimed; exact MCA spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned 'no results (searx: Connection refused)' on every query, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; Google returned HTTP 429; Bing returned only generic Armacell brand pages (armacell.com, Wikipedia, Home Depot, LinkedIn) with no Indian registry record, and armacell.com itself returned HTTP 403. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT public-verified, not absent. No audited accounts or MCA filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role 'manufacturer' is inferred only from the group's public self-description as an insulation-foam producer (Armacell is the inventor of flexible elastomeric foams), not from an Indian registry filing, and the Indian entity's own manufacturing vs. trading status is unconfirmed. No rejection basis established: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt - absence of data is not evidence of non-existence. Declared HS 400911 (tubes/pipes of unvulcanised rubber, not reinforced) is consistent with elastomeric foam insulation products, but HS is not a rejection criterion per project rules. Industry claim 'Авиастроение и транспорт' (aviation/transport) is not confirmed by any source found; the group's core business is thermal/acoustic insulation for HVAC, industrial and transport applications. Recommend re-run when search backend is restored and MCA/GST portals are reachable."
+}

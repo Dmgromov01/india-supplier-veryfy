@@ -1,0 +1,8 @@
+{
+ "name_input": "VINOD JAIN",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. importkey.com/countries/india/vinod-jain and .../vinod-jain-847920 both returned only the generic page template: \"Shipments available for VINOD JAIN, refreshed daily\" with zero actual records rendered (0 rows seen; the page is a paywalled shell that renders identically for any slug, so it is not evidence of shipments). volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge. No bill-of-lading number, date, destination or HS line could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for \"VINOD JAIN\" + GST/export/bill of lading returned no results (search backend unavailable: 'searx: Connection refused'); zaubacorp.com returned HTTP 403. No domestic supply record seen.",
+ "note": "'VINOD JAIN' is a personal name, not a registered company name, and no CIN/PAN/state was supplied, so there is no unambiguous legal entity to match against customs or GST records — any hit under this name could belong to a different individual. Declared HS 847920 (machinery for the industrial preparation/manufacture of food or drink) is unverified and is not treated as a rejection ground per project rules. No export or domestic shipment evidence was found either way; this is 'unknown', NOT 'confirmed' and NOT 'declared_only' — the supplier's own website/catalogue was not used as a source. Revenue and export volume: null (not public / not found). Recommendation: obtain the exact legal name, CIN/GSTIN and IEC before any further verification; nothing here supports a claim of actual shipments."
+}

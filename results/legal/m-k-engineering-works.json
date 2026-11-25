@@ -1,0 +1,18 @@
+{
+ "name_input": "M.K Engineering Works",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. Поисковый бэкенд DuckDuckGo недоступен (connection refused), Bing выдаёт нерелевантную гео-выдачу (Michael Kors, Wikipedia 'M'), Zauba Corp, InstaFinancials и портал MCA Master Data возвращают HTTP 403. Название 'M.K Engineering Works' в сочетании с именем 'MUKESH KUMAR GUPTA' (указано как legal_claimed, но это имя физлица, а не юрлица) не подтверждено ни одним публичным профилем. Скорее всего это проприеторшип/partnership без CIN — тогда CIN/LLPIN отсутствует по природе, а PAN и GSTIN существуют, но публично не подтверждены в рамках доступных инструментов. Юрлицо НЕ отклоняется: нет доказательств несуществования, ликвидации или банкротства — просто данных нет. Все поля null, ничего не выдумано. Требуется повторная проверка при восстановлении доступа к GST-порталу / MCA / Zauba; также нужен точный GSTIN или адрес от заказчика для однозначной идентификации (название крайне распространённое). HS 810890 (титан и изделия из него) — не проверялся, т.к. вне роли; при подтверждении фактического кода вердикт должен быть accepted_hs_corrected, а не rejected."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Armacell",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, NOT CONFIRMED. Research was effectively blocked: DuckDuckGo/searx backend returned 'Connection refused' on all attempts; armacell.com returned HTTP 403; zaubacorp.com returned HTTP 403; indiankanoon.org returned HTTP 403; OFAC Sanctions List Search is a JS form and cannot be queried via plain GET (page loaded, no query executed). Bing returned only generic corporate/product pages (armacell.com, Wikipedia, Home Depot, LinkedIn) with no India-entity-specific legal, regulatory or sanctions hits — this is an absence of retrieved evidence, NOT evidence of absence. Therefore: sanctions_hit = null (no OFAC SDN/UN/EU/UK/BIS match found in retrieved material; consolidated screening not completed); court_cases = null (no Indian court/NCLT records retrieved; party role and status unknown); rating = null (no credit rating from CRISIL/ICRA/CARE/India Ratings retrieved); news_risk = null (no regulator action or negative news retrieved); rf_supply = null (no evidence of supplies to Russia or CIS found, but no trade/tender data source was successfully queried). Context only, unverified: the group parent Armacell International S.A. is a Luxembourg-based foam/insulation manufacturer; the Indian entity 'Armacell India Pvt Ltd' is claimed by the requester but its legal identity, CIN and PAN were not verified here (out of scope for this role). Per project rules, nothing here constitutes a rejection ground. Recommended follow-up: re-run screening against OFAC/EU/UK/BIS consolidated lists, Indian Kanoon / eCourts / NCLT, and CRISIL/ICRA/CARE rating directories once search access is restored."
+}
