@@ -1,0 +1,18 @@
+{
+ "name_input": "MP EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / таймауты на всех запросах; агрегаторы реестров (zaubacorp, tofler, thecompanycheck) отдали 403/404; Google — 429; Bing выдавал нерелевантную выдачу (MP Materials, Madhya Pradesh) без единого индийского юрлица 'MP EXPORTS'. Ни одна запись реестра не прочитана, поэтому exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, дата инкорпорации, штат регистрации, MCA status и выручка FY25/FY26 остаются null — данные не выдумывались. Название 'MP EXPORTS' — родовое и, вероятно, соответствует нескольким разным юрлицам/проприеторствам в разных штатах; без PAN/GSTIN/штата из входных данных (все три поля пустые) однозначная идентификация невозможна. Роль (manufacturer/trader) не определена — null/unknown. Отклонение НЕ применяется: отсутствие подтверждения не равно несуществованию юрлица (правило 3). Статус: 'заявлено, не подтверждено' — требуется повторный прогон с работающим поиском и уточнением от заказчика (штат, PAN или GSTIN, город, сайт/IndiaMART-профиль)."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "RAMA CYLINDERS PVT. LTD.; RAMA CYLINDERS PVT.LTD; RAMA CYLINDERS PVT LTD.; RAMA CYLINDERS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты поиска были недоступны в этой сессии. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; DuckDuckGo HTML — timeout; Bing отдавал нерелевантную выдачу (игнорировал кавычки и операторы, результаты про индуистского божества Раму) — то есть фактического поиска по компании не произошло. Прямые источники закрыты: zaubacorp.com — HTTP 403, indiankanoon.org — HTTP 403, tofler.in — HTTP 403, Google — HTTP 429. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, результаты по имени через GET не извлекаются, поэтому скрининга по SDN/Non-SDN фактически не было. Следствие: по всем полям (sanctions_hit, court_cases, rating, news_risk, rf_supply) значения null — это НЕ подтверждённое отсутствие рисков, а отсутствие данных. Никаких утверждений об отсутствии санкций, судов, рейтинга или поставок в РФ/СНГ по этой компании делать нельзя. Требуется повторный прогон при работающем поиске: (1) OFAC SDN/Non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List по вариантам написания 'Rama Cylinders'; (2) eCourts / NCLT / Indian Kanoon по точному наименованию с указанием роли стороны; (3) рейтинги CRISIL/ICRA/CARE/India Ratings; (4) публичные закупки (GeM/CPPP) и таможенные записи как индикатор направления поставок. Отдельно: наименование крайне распространённое (Rama/Ram + Cylinders), высок риск ложных срабатываний при матчинге — нужен CIN/PAN для однозначной идентификации, в заявке они пустые."
+}

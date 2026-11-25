@@ -1,0 +1,18 @@
+{
+ "name_input": "PARASNATH ALUMINIUM",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in, falconebiz.com) returned HTTP 403/404. Google returned HTTP 429 and Bing returned entirely unrelated results, so no page containing a CIN, PAN, GSTIN or MCA record for 'Parasnath Aluminium' was actually read. Therefore legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not because they are absent, but because they were not publicly retrievable with the tools available. Input gives 'ASHISH KOCHAR' in the legal_claimed field, which is a person's name, not a legal entity name; it is likely a proprietor/partner name, suggesting a possible proprietorship or partnership rather than a company, but this is unconfirmed. No state was claimed in the input, so state comparison is not possible. Role left as 'unknown' — no evidence of manufacturing plant or trading activity was obtained. Per project rules, no rejection is applied: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN directly from the supplier and check it on the GST portal, plus an MCA name search for 'PARASNATH ALUMINIUM' variants (e.g. Parasnath Aluminium Pvt Ltd / LLP)."
+}

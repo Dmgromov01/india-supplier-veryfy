@@ -1,0 +1,24 @@
+{
+ "name_input": "M/S BRAKES INDIA PRIVATE LIMITED; Brakes India Ltd.; BRAKES INDIA PRIVATE LIMITED",
+ "declared_hs": "681381;870830;870893",
+ "actual_hs_list": [
+  "870830",
+  "870893",
+  "681381",
+  "870840",
+  "870899",
+  "732510",
+  "732599",
+  "841480",
+  "870891",
+  "870894",
+  "381900",
+  "382000",
+  "401693",
+  "400931"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт brakesindia.com, 4 бизнес-подразделения. (1) Light Vehicles BU: гидравлические тормозные системы — callipers, drum brakes, brake actuation (TMC/booster), clutch actuation, brake hoses, slip control (ABS/EPB), lined shoes, centre housing; заводы Bawal, Nanjangud, Padi, Sanand, Jhagadia, Polambakkam. (2) Heavy Vehicles BU: S-cam brakes (крупнейший поставщик S-cam в мире по заявлению сайта), air calipers, hydraulic drum brakes, air actuation (air management devices, control valves, wheel-end), electro-magnetic retarders, tractor brake systems; заводы Jamshedpur, Sitarganj, Pitampur, Thervoy Kandigai, Lucknow, Mahindra City SEZ, Sholinghur. (3) Metal Castings BU (литейное производство): turbocharger parts (turbine housing, bearing housing, centre housing, bearing cap), steering knuckles, chassis parts, integral manifolds, carriers, torque plate castings, adaptor castings, engine parts, brake parts; 150 000 т в Индии + 36 000 т в Омане (Salalah), экспорт >60% safety-critical отливок в US, Mexico, UK, Germany, Italy, Sweden, France, Japan. (4) Friction & Aftermarket BU (бренд TVS Girling, tvsgirling.com): friction products — rotors, pads, linings, lined shoes; air actuation kits, brake service kits, brake fluids и coolants.",
+ "role_hint": "manufacturer",
+ "comment": "Сопоставление с заявленными кодами: 870830 (тормоза и их части) — ПОДТВЕРЖДЕНО линейкой: drum brakes, calipers, S-cam brakes, air calipers, lined shoes, rotors, EPB, retarders. 870893 (сцепления и их части) — ПОДТВЕРЖДЕНО: clutch actuation в Light и Heavy Vehicles BU. 681381 (фрикционные накладки на минеральной основе, не содержащие асбеста) — ЧАСТИЧНО: сайт прямо заявляет friction products (pads, linings, lined shoes) и завод Sricity по pilot production дисковых фрикционных накладок (2019), но материал (асбест/не асбест, минеральная vs металлокерамика) на сайте не указан — выбор HS-6 681381 против 681389/681320 не верифицируем по публичным данным, статус «заявлено, не подтверждено» в части материала. ПРОПУЩЕННЫЕ В ДЕКЛАРАЦИИ ЛИНЕЙКИ (существенные): (а) литейная продукция — тормозные диски/барабаны как литые изделия, steering knuckles, carriers, turbine/bearing/centre housings, integral manifolds, torque plate и adaptor castings → 732510/732599 (литьё из нековкого чугуна) либо 870899 в зависимости от обработки; это крупнейшее по тоннажу направление (186 000 т/год суммарно) и основной экспортный поток в US/UK/DE/JP, в декларации отсутствует полностью; (б) turbocharger parts → 841480 (части турбокомпрессоров/насосов-компрессоров) — не заявлено; (в) brake hoses (rubber extrusion, injection moulding на Nanjangud) → 400931/401693 — не заявлено; (г) brake fluids и coolants (Friction & Aftermarket BU) → 381900 (тормозные жидкости) и 382000 (антифризы) — не заявлено; (д) electro-magnetic retarders → вероятно 870830/8505 — не заявлено. Отраслевая классификация «Авиастроение и транспорт» НЕВЕРНА: авиастроения в продуктовой линейке нет ни в одном из четырёх BU; корректно — «Автокомпоненты / тормозные системы и чугунное литьё для автомобилестроения». Признаков трейдера нет: собственные 21 производственная площадка, 10 000+ сотрудников, литейные мощности, R&D и испытательные треки (ARAI-сертифицированный полигон Polambakkam) — роль manufacturer. Все продуктовые утверждения взяты со страниц brakesindia.com (главная, /light-vehicles-business-unit/, /heavy-vehicles-business-unit/, /metal-castings-business-unit/, /friction-aftermarket-business-unit/); ни одна позиция не сверена с таможенной декларацией — по правилу проекта все они имеют статус «заявлено, не подтверждено» в части фактических отгрузок. Реестры, выручка и таможенные объёмы в рамках этой роли не проверялись (revenue/export volume — null, вне области задачи). HS-несоответствие не является основанием для отклонения: компания сохраняется, коды дополняются фактическими."
+}

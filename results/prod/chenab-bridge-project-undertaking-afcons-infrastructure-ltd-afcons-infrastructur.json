@@ -1,0 +1,18 @@
+{
+ "name_input": "Chenab Bridge Project Undertaking; AFCONS INFRASTRUCTURE LTD.; AFCONS INFRASTRUCTURE LTD; AFCONS INFRASTRUCTURE LIMITED",
+ "declared_hs": "870893",
+ "actual_hs_list": [
+  "7308",
+  "7302",
+  "7309",
+  "7308.90",
+  "8479",
+  "8704",
+  "8705",
+  "8708.93"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Afcons Infrastructure Limited (Mumbai, Shapoorji Pallonji Group, founded 1959) is an infrastructure EPC/construction contractor, not a parts manufacturer. Real output per company profile (Wikipedia, citing Afcons Annual Report 2023-24 and EMIS/Bloomberg profiles): bridges and flyovers (Chenab Rail Bridge, Tiger Valley Bridge, Airoli Bridge, Vembanad Rail Bridge, Mahatma Gandhi Setu rehab, Thilamalé Bridge Maldives), tunnels (Atal Tunnel, East-West Metro Kolkata tunnel, USBRL T49, Thane Creek undersea tunnel), metro works (Kolkata, Chennai, Kanpur, Bengaluru, Delhi, Mumbai, Kochi, Nagpur, Ahmedabad, Delhi-Meerut RRTS), highways (Udhampur-Jammu, Agra-Lucknow Expressway, Samruddhi Mahamarg), railway lines (Tema-Mpakadan Ghana, Dhaka-Chittagong doubling), ports/marine works (Dahej liquid cargo berth, Kochi LNG Terminal, Chhara breakwater, Sohar jetty Oman), barrages/dams (Saraswati Barrage, Pakal Dul Dam), oil & gas structures, and the Agaléga base project (Mauritius). No catalogue of tradeable goods, no product SKUs, no manufacturing line found.",
+ "role_hint": "trader/EPC contractor (project & construction services) — not a manufacturer of the declared goods; 'Chenab Bridge Project Undertaking' is a project/site undertaking of Afcons, not a separate manufacturing entity",
+ "comment": "HS 870893 (clutches and parts thereof, motor vehicles 8701-8705) is wrong for this company. Afcons does not produce clutch assemblies or any automotive parts; it builds civil infrastructure. Industry claim 'Авиастроение и транспорт' (aircraft & transport) is a misclassification — the correct industry is construction/EPC infrastructure (bridges, tunnels, metros, ports, dams). Corrected HS-6 mapping for the actual output: 7308 (structures and parts of structures, of iron/steel — bridge girders, fabricated steelwork), 7302 (railway track construction material of iron/steel), 7309 (reservoirs/tanks/vats of iron/steel — barrage and marine structures), 8479 (machinery/mechanical appliances with individual functions — tunnelling and marine equipment), 8704/8705 (special-purpose motor vehicles, if any self-propelled construction plant is supplied), 8708.93 only if genuine clutch/brake parts are traded — not corroborated. Per project rule 3 the company is NOT rejected on HS grounds: kept in the base with the code corrected. No customs line, invoice or shipping record was reviewed in this task (out of scope), therefore every product line above is 'заявлено, не подтверждено' — sourced only from the company profile/annual report description, not from a customs declaration. Website afcons.com returned HTTP 307 redirects and could not be read, so no first-hand catalogue check was possible; product list rests on the Wikipedia company profile citing Afcons Annual Report 2023-24. No revenue, CIN, PAN or shipment data researched per role scope."
+}

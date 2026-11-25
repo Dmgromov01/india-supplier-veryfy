@@ -1,0 +1,8 @@
+{
+ "name_input": "KEVIN PROCESS TECHNOLOGIES PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/kevin-process-technologies-pvt-ltd returned only a paywalled shell: 'Shipments available for KEVIN PROCESS TECHNOLOGIES PVT LTD, refreshed daily' — 0 shipment rows actually visible (no date, destination, HS code or B/L number). volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; no bill-of-lading record obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. zaubacorp.com and thecompanycheck.com returned HTTP 403; web_search backend was down (connection refused) and Bing/Google returned only unrelated 'Kevin' results — 0 relevant rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны (403/JS-защита/пейволл), поэтому статус именно unknown, а не none_found. Ни одной записи с датой, направлением, HS и номером B/L получить не удалось; выручка и объём экспорта — null, не выдумывались. Заявленные HS 847989/847990 (оборудование для нефтегаза/химии) не подтверждены ни одной таможенной записью. Требуется повторная проверка при доступе к платным базам (Volza/Eximpedia) или к GST-порталу; отклонять компанию по правилам проекта нельзя — нет данных о ликвидации/банкротстве."
+}

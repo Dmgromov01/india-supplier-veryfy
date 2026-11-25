@@ -1,0 +1,22 @@
+{
+ "name_input": "M/S AHSAN LEATHER P.LTD",
+ "declared_hs": "410792;410799;640690",
+ "actual_hs_list": [
+  "410792",
+  "410799",
+  "411200",
+  "411310",
+  "411390",
+  "411420",
+  "640690",
+  "640610",
+  "640620",
+  "640399",
+  "640391",
+  "640419"
+ ],
+ "match_status": "partial",
+ "product_summary": "Kanpur-based integrated tannery + shoe-upper factory (est. 1978, founder Mr. Zubair Ahsan). Own site lists product lines: Finished Leather (chrome-tanned finished leather of cow, imported cow, buffalo and split leather), Upholstery Leather, Safety Shoe Leather, Belting Leather, Safety and Military Shoe Uppers, and finished Shoes (men's, ladies', kids' footwear). Stated capacity: tannery 6 million sq ft/year, shoe-upper factory 720,000 pairs/year. Source: ahsanleathers.com (home, /about-us.html, /products.html).",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping vs declared 410792/410799/640690: PARTIAL. 410792 (bovine/equine grain-split, prepared after tanning, no further preparation) and 410799 (other bovine/equine leather, prepared after tanning) are consistent with the declared 'finished leather of cow/buffalo/split' line — plausible but NOT corroborated by any customs line, so status = 'заявлено, не подтверждено'. 640690 (parts of footwear, other than uppers/stiffeners) is only a partial fit: the site's 'Safety and Military Shoe Uppers' are shoe UPPERS, which belong to 6406.10 (uppers and parts thereof), not 640690; 640690 would only cover other parts (insoles, heels, gaiters etc.). Recommend adding 640610. MISSING from the declaration: (a) upholstery leather — chrome-tanned finished upholstery leather normally falls in 4112.00 (sheep/goat) or 4113.30/4113.90 (other animals) or 4114.20 (patent/metallised) depending on species; (b) belting leather — vegetable/chrome-tanned belting leather typically 4114.10/4114.20 or 4107/4113 depending on finish; (c) finished footwear (men's/ladies'/kids' shoes) — 6403.99 / 6403.91 (leather uppers) or 6404.19 if textile uppers. These product lines are absent from the declared HS set. INDUSTRY MISCLASSIFICATION: the claimed industry 'Продукты питания и FMCG' (food & FMCG) is WRONG — the company is a leather/tannery and footwear-components manufacturer (Ch. 41 + Ch. 64). Correct industry: leather & leather goods / footwear components. No trader signs: own tannery and own shoe-upper factory, self-described exporter — role = manufacturer. Per project rule 3, the HS mismatch is NOT a rejection ground: company is kept, codes corrected to the factual product range above. No customs/B-L line was available to me in this task (registry/customs volumes out of scope), so all shipment corroboration is null — every HS line above is 'заявлено, не подтверждено'."
+}
