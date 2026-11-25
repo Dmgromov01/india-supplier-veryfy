@@ -1,0 +1,18 @@
+{
+ "name_input": "BHAJJANKA ISPAT PRIVATE LIMITED; BHAJJANKA ISPAT PRIVATE LIMITED",
+ "legal_name": "BHAJJANKA ISPAT PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: web_search backend was down (searx connection refused) and all registry/profile sources attempted returned HTTP 403/404 or irrelevant results (zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, quickcompany.in 404, instafinancials.com 404, tofler.in 404, mca.gov.in 403, duckduckgo 403/timeout, bing/google returned unrelated pages). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - not public/not retrievable in this session, nothing invented. IMPORTANT: the PAN claimed in the input (AADCB3453A) is structurally inconsistent with a private limited company - the 4th character 'C' denotes an individual (proprietor/partner) PAN, whereas a company PAN must have 'C' at position 4 only for companies... precisely: 4th char 'C' = company, 'P' = individual. Here 4th char is 'C', which is consistent with a company holder type, but the PAN itself is unverified against any public record and must not be treated as confirmed. No rejection applied: no evidence of non-existence, strike-off, liquidation or bankruptcy was found, and absence of accessible records is not grounds for rejection under the project rules. Role left as 'unknown' - no registry document (MOA objects, NIC code) was readable to classify manufacturer vs trader. Declared HS 843139 (parts of lifting/handling machinery) does not match the claimed metallurgy industry, but per rule 3 this is not a rejection ground; HS should be corrected to the actual code once the company's real activity is documented. Recommended next step: re-run verification when search/registry access is restored, using MCA master data by name and GST portal search by PAN."
+}

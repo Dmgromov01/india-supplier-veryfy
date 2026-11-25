@@ -1,0 +1,18 @@
+{
+ "name_input": "Centra Export pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record could be retrieved. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); Bing returned only irrelevant global 'Centra' brand results (Centra Credit Union, Centra Health, Centra Ireland) with no Indian entity; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in MDS returned HTTP 403. Therefore legal name, LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, MCA status and revenue are all null - nothing is invented. IMPORTANT DISCREPANCY: the input name is 'Centra Export pvt ltd' (a Private Limited company) while legal_claimed is 'CENTRA EXPORTS LLP' (a Limited Liability Partnership) - these are two different legal forms and cannot be the same entity; the correct legal form must be confirmed before any record is matched. The claimed PAN 'AANFC0777D' could not be validated against any public source; note that the 4th character 'F' would denote a Firm/LLP holder, which is inconsistent with a 'Pvt Ltd' name but consistent with the LLP claim - unconfirmed either way. No rejection applied: absence of retrievable data is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' (no evidence of manufacturing or trading activity). Recommended next step: manual MCA master-data lookup by LLPIN/name and GST portal search on the PAN, plus confirmation of which legal entity is actually meant."
+}

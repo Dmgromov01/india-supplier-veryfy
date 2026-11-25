@@ -1,0 +1,18 @@
+{
+ "name_input": "SEA PACIFIC EXPORTS PRIVATE LIMITED (OPC)",
+ "legal_name": "SEA PACIFIC EXPORTS PRIVATE LIMITED (OPC) — as claimed in input; not independently verified against MCA master data",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Search backend (DuckDuckGo/searx) returned connection refused on all queries; Bing returned only irrelevant generic results for the exact-name queries; MCA master-data portal (mca.gov.in) returned HTTP 403; aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com, quickcompany.in, tofler.in) returned 403/404 or no matching record. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data alone; set to 'unknown'. Per project rules the company is NOT rejected: absence of retrievable records is not proof of non-existence, and the claimed HS code 300450 (pharmaceuticals — 'Нефтегаз и химия' industry label is inconsistent with it) is not a rejection ground; if the entity is later confirmed, the HS code should be corrected to the actual product line and the verdict recorded as accepted_hs_corrected. Recommended next step: manual lookup on MCA V3 portal / MCA 'Check Company Name' and GST portal search by trade name, since the '(OPC)' suffix indicates a One Person Company and such entities are frequently absent from free aggregators."
+}

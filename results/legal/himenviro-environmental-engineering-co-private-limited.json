@@ -1,0 +1,18 @@
+{
+ "name_input": "HIMENVIRO ENVIRONMENTAL ENGINEERING CO. PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО НИ ОДНОМ РЕГИСТРАЦИОННОЕ ПОЛЕ. Все попытки получить данные из реестров не удались по техническим причинам: web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in и mca.gov.in отдали HTTP 403/404; Google и Bing выдали нерелевантную выдачу (спам/мусор), без единого упоминания компании; marginalia — заглушка антибота. Итог: точное юрлицо, CIN, PAN, GSTIN, дата инкорпорации, статус MCA и выручка за FY25/FY26 не установлены — null, не выдуманы. Заявленный PAN AAACH5212L НЕ подтверждён: 4-й символ 'C' в формате PAN означает тип держателя 'company' (юридическое лицо), что структурно согласуется с формой 'Private Limited', но сама привязка PAN к этой компании из публичного источника не проверена, поэтому pan_holder_type оставлен null. Заявленный штат Maharashtra (регистрационный офис) не сверен с реестром. Роль (manufacturer/trader) не определена — по правилам проекта трейдеры не отклоняются, поэтому роль 'unknown' без негативных выводов. ОСНОВАНИЙ ДЛЯ ОТКЛОНЕНИЯ НЕТ: сведений о ликвидации, банкротстве или отсутствии юрлица не получено; отсутствие данных — не основание для rejected. Требуется повторная проверка при восстановлении доступа к MCA/Zauba/Tofler. Отдельно по правилу 5: фактичность отгрузок (экспорт по таможенным/B-L записям, внутренние поставки по GST-оборотам) в рамках этой роли не исследовалась — следов поставок не подтверждено и не опровергнуто."
+}
