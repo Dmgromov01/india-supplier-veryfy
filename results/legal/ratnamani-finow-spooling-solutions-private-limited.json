@@ -1,0 +1,18 @@
+{
+ "name_input": "RATNAMANI FINOW SPOOLING SOLUTIONS PRIVATE LIMITED",
+ "legal_name": "RATNAMANI FINOW SPOOLING SOLUTIONS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Все попытки получить первичные регистрационные данные не удались: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / timeout; Google и Bing выдали нерелевантную выдачу без результатов по компании; MCA master-data (mca.gov.in) — HTTP 403; агрегаторы Zauba Corp, TheCompanyCheck, FalconEbiz — HTTP 403; Instafinancials и Tofler — 404 по предполагаемому URL. Ни CIN, ни GSTIN, ни дата инкорпорации, ни MCA-статус не получены из публичного источника, поэтому все эти поля оставлены null — они НЕ выдуманы. ВАЖНО: PAN AANCR0403J из входных данных НЕ подтверждён; обращаю внимание, что 4-й символ 'C' в формате PAN означает тип держателя 'company', что согласуется с формой 'Private Limited', но сама строка PAN проверкой не верифицирована, поэтому pan_holder_type оставлен null. Штат Gujarat не подтверждён и не опровергнут. Роль (manufacturer/trader) не определена — нет данных о характере деятельности из реестра. Выручка FY25/FY26: аудиторская отчётность не найдена, значения null. ВЕРДИКТ: НЕ ОТКЛОНЯТЬ — оснований для отклонения нет (нет доказательств несуществования, ликвидации, банкротства или struck off); компания остаётся в базе со статусом 'данные реестра не подтверждены, требуется повторная проверка при восстановлении доступа к MCA/Zauba/GST-порталу'. Рекомендуется повторный прогон с рабочим поиском или ручная проверка по MCA master data и gst.gov.in по названию компании."
+}

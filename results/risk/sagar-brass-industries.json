@@ -1,0 +1,9 @@
+{
+ "name_input": "Sagar Brass Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. The web_search tool (DuckDuckGo/searx backend) returned 'Connection refused' on every attempt; fallback fetches to Google, DuckDuckGo HTML and Bing returned degraded/irrelevant results (Bing served unrelated Microsoft/Hawaii DMV pages instead of matches for the quoted company name), and the OFAC Sanctions List Search page is a JavaScript form that cannot be queried by plain HTTP fetch. Therefore sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List), Indian court cases (party role/status), regulator actions, negative news, credit rating and any evidence of supplies to Russia/CIS are ALL UNVERIFIED — recorded as null, not as 'none found'. No claim of a clean record should be inferred from these nulls. Note also that the batch record is internally inconsistent: 'legal_claimed' is a personal name (JAYSUKHBHAI BHIMJIBHAI BHALARA), not a legal entity name, and no PAN/CIN/state was supplied, which makes name-based screening of a common Indian trade name like 'Sagar Brass Industries' highly ambiguous (multiple unrelated brass-parts firms in Gujarat use similar names). Recommend re-running this company once search connectivity is restored, and supplying the CIN/PAN and registered address to disambiguate. Per project rules, no rejection is proposed on any ground; this is a data-gap flag only."
+}

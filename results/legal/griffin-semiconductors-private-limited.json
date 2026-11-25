@@ -1,0 +1,18 @@
+{
+ "name_input": "GRIFFIN SEMICONDUCTORS PRIVATE LIMITED",
+ "legal_name": "GRIFFIN SEMICONDUCTORS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AAKCG8580C",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type PAN; consistent with a private limited company, but the PAN itself could not be verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Tooling failed: DuckDuckGo/searx backend refused connections; Google returned only a redirect stub; Bing ignored quoted queries and returned generic 'Griffin' results (mythology, Griffin Greenhouse Supplies, griffin.com) for every query, including the exact PAN string 'AAKCG8580C' and the exact company name; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search returned a 404 page. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - not public/not retrieved, NOT invented. PAN 'AAKCG8580C' is only the value supplied in the input; its 4th character 'C' indicates a company-type holder, which is internally consistent with a Pvt Ltd, but this is a format check only, not verification. No basis to reject: the entity was neither found to be non-existent nor shown to be struck off/liquidated/bankrupt - the absence of a record here is a research gap, not evidence of non-existence. Role left 'unknown' because no MCA business-object clause or GST/registration activity was readable. Revenue FY25/FY26 null: no audited accounts or official filings accessible. Recommended next step: manual MCA master-data lookup by name and by PAN, plus GST portal 'Search Taxpayer' by PAN, before any verdict."
+}
