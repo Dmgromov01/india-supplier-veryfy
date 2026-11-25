@@ -1,0 +1,28 @@
+{
+ "name_input": "PRICOL LIMITED",
+ "declared_hs": "852692;870899",
+ "actual_hs_list": [
+  "8708.29",
+  "8708.39",
+  "8708.99",
+  "8708.40",
+  "8708.93",
+  "8708.91",
+  "8708.95",
+  "9029.20",
+  "8531.20",
+  "8528.59",
+  "8526.92",
+  "8507.60",
+  "8537.10",
+  "8483.30",
+  "8413.30",
+  "8413.70",
+  "8481.80",
+  "8482.10"
+ ],
+ "match_status": "partial",
+ "product_summary": "Pricol Limited (Coimbatore, Tamil Nadu; NSE: PRICOLLTD) is an automotive technology / precision-engineered components manufacturer, NOT an IT/electronics company. Three product verticals per its own site (pricol.com): (1) Driver Information & Connected Vehicle Solutions — LCD, TFT and hybrid instrument clusters, integrated display & infotainment systems (domain controller), telematics units/TCUs, fuel-level sensors (reed type, TFR type), battery management systems (10S/14S/19-30S BMS, with BMS PowerSafe); (2) Actuation, Control & Fluid Management — cabin tilting system, disc brakes, fuel pumps, electrical oil pumps, oil pumps, electrical coolant pumps, coolant pumps, electronic purge valve; (3) Precision Products — sintered components, chain tensioners, idle speed control valves, pressure relief valves, auto fuel cocks, wiper systems (wiper business acquired from PMP/Ashok Piramal). Wikipedia (en.wikipedia.org/wiki/Pricol) additionally lists switches, actuators, sensors, water pumps, brake-related components, fleet management systems. Serves 2W, 3W, PV, CV, tractor, off-road and industrial segments; 16 manufacturing units, exports to 45+ countries per site.",
+ "role_hint": "manufacturer",
+ "comment": "Declared codes: 852692 (radio remote control apparatus) and 870899 (other parts/accessories of motor vehicles, 8708.99). Verdict: PARTIAL, no rejection (Rule 3 — HS mismatch never rejects; company kept, codes corrected). 8708.99 is genuinely correct for a large share of the range (disc brakes -> 8708.39, brake parts; sintered/powertrain parts; wiper systems -> 8512.40 actually; other vehicle parts -> 8708.99), so the 8708 family is corroborated by the product catalogue. 8526.92 is only marginally defensible: Pricol makes telematics control units and connected-vehicle solutions (pricol.com/solutions/driver-information-and-connected-vehicle-solutions/), which may contain remote-control/telematics radio modules, but the site presents them as telematics units and infotainment, not as 'radio remote control apparatus' — so 8526.92 is at best a partial fit and should be replaced by the actual code of the shipped item (telematics/TCU -> 8517.62 or 8526.92 depending on function; instrument clusters -> 9029.20; infotainment displays -> 8528.59; BMS/lithium battery packs -> 8507.60; switches -> 8536.50; wiring/control panels -> 8537.10; pumps -> 8413.30/8413.70; valves -> 8481.80). Industry classification in the declaration ('IT и электроника') is WRONG — the company is automotive components (auto electronics is only one of three verticals); should be reclassified as automotive/auto components. Product lines missing from the declaration: instrument clusters (9029.20), infotainment/display units (8528.59), BMS/battery packs (8507.60), pumps (8413.30, 8413.70), valves (8481.80), disc brakes (8708.39), wiper systems (8512.40), sintered precision components (varies, often 8708.99 / 7326.90). Trader signs: none — own manufacturing plants (Coimbatore, Manesar, Pune, Sricity, Satara, Jakarta) and OEM awards (TVS, Ashok Leyland, Suzuki Motorcycle, Ather, Komatsu) indicate a genuine manufacturer. All product claims above are from the company website and Wikipedia only; no customs line was available in this task, therefore every HS mapping is 'заявлено, не подтверждено' at the shipment level — actual export HS codes must be confirmed against customs records (not researched here per role scope)."
+}

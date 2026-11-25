@@ -1,0 +1,18 @@
+{
+ "name_input": "CAPRIHANS INDIA LIMITED",
+ "legal_name": "Caprihans India Limited",
+ "cin_llpin": null,
+ "pan": "AAACC1646F",
+ "pan_holder_type": "Company (4th character of PAN = 'C' → company; consistent with a public limited company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (Mumbai) — inferred from the company being listed on BSE (Mumbai) and from the standard MCA registration pattern for this entity; CIN not independently verified in this session",
+ "state_claimed": "None",
+ "mca_status": "Active — listed public limited company, BSE scrip code 509486, shares actively traded (last quote 25 Nov, ₹87.4, market cap ₹154 Cr per Screener.in); no strike-off/liquidation/insolvency indication found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 752.0,
+ "revenue_fy26_cr": 715.0,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/CAPRIHANS/consolidated/) — consolidated annual P&L, Sales: FY Mar-2025 = ₹752 Cr, FY Mar-2026 = ₹715 Cr (standalone figures used for earlier years where consolidated not available). Figures are from the company's filed/audited results as aggregated by Screener; the underlying annual report PDF was not opened in this session.",
+ "note": "Entity exists and is verifiable as a listed company: Screener.in shows Caprihans India Ltd, BSE: 509486, incorporated 1976, manufacturer of rigid/flexible PVC films, PVdC-coated films, alu-alu films and extruded plastic products; part of the Bilcare group (Bilcare Mauritius Ltd holds 51%). Role = manufacturer (own plants, calendering/extrusion), not a trader. PAN AAACC1646F matches the claimed value and its 4th character 'C' confirms a company-type holder. NOT VERIFIED in this session (tools limited: web_search backend refused connections; zaubacorp, thecompanycheck, instafinancials, moneycontrol, EMIS, tickertape all returned 403/410/404 or empty pages): exact CIN, GSTIN and GST filing status, exact date of incorporation, and the registered-office state from an MCA master record. These are left null rather than guessed — the CIN commonly cited for this company (L24299MH1946PLC004956) could not be confirmed from a primary source and is therefore not asserted. No rejection grounds: the company is live and listed. HS codes declared in the input (292390/293399/293590/294200 — organic chemicals) do not match the actual product line (PVC/PVdC films, plastics, Chapter 39); per project rules this is not a rejection ground — the company stays in the base with the HS code to be corrected to the factual one (plastics, Ch. 39), verdict accepted_hs_corrected. Revenue figures are consolidated group sales, not export volume; export turnover specifically was not researched per role scope."
+}

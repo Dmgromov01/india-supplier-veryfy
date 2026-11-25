@@ -1,0 +1,18 @@
+{
+ "name_input": "PHARCOS SPECIALITY LIMITED",
+ "legal_name": "PHARCOS SPECIALITY LIMITED",
+ "cin_llpin": null,
+ "pan": "AAGCG0355F",
+ "pan_holder_type": "AAGCG0355F — 4th character 'C' = company (non-individual) PAN. Value taken from the input as claimed; NOT independently verified against an official record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Dadra and Nagar Haveli and Daman and Diu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. All registry sources attempted returned errors: web_search backend refused connection (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, falconebiz.com returned HTTP 403; mca.gov.in MDS returned HTTP 403; Bing/Google/DuckDuckGo returned irrelevant results or timed out; indiamart returned HTTP 429. The only page that loaded (pharcos.com) is an unrelated Italian dermatological cosmetics brand owned by Bionativa S.p.A. (Italy) and is NOT the Indian entity — it must not be used as evidence. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null: not public/not retrievable in this session, not invented. PAN is carried over from the input only, with holder type derived from its 4th character ('C' = company); it is unverified. Role left as 'unknown' — no registry document (MOA objects, NIC code) was read, so manufacturer vs trader cannot be asserted. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Per project rules the company is NOT rejected — there is no evidence of non-existence, strike-off, liquidation or bankruptcy; the correct status is 'unverified, registry data unavailable', requiring a re-run with working registry access (MCA master data / GST portal). No customs, court or catalogue research was performed, per role scope."
+}

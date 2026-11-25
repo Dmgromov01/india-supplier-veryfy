@@ -1,0 +1,18 @@
+{
+ "name_input": "ARAGEN LIFE SCIENCES LIMITED",
+ "legal_name": "ARAGEN LIFE SCIENCES LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Telangana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: the web_search backend returned connection errors (searx: Connection refused) and every public registry aggregator attempted (zaubacorp.com, thecompanycheck.com, tofler.in, indiafilings.com) returned HTTP 403/404 or bot-blocked pages; Google/Bing HTML endpoints returned unusable results. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all left null rather than guessed. The PAN claimed in the input (AABCG3208J) was NOT confirmed against any public source and is not reproduced as verified; note that the 4th character 'G' would indicate a non-individual holder type (e.g. body corporate/firm category) if the PAN were genuine, but this is unverified. No audited accounts or official filings were retrievable, so revenue FY25 and FY26 are null. Role left as 'unknown' (no registry evidence of manufacturing vs trading activity obtained). No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity is widely known as a Hyderabad-based CRDMO, but that is not a registry source and is not used as a claim here. Declared HS 293349 (heterocyclic compounds containing a quinoline/isoquinoline ring system) is a chemistry code and is not a basis for rejection under project rules. Recommended follow-up: re-run with working search, or query MCA master data / GST portal directly for the exact legal name 'ARAGEN LIFE SCIENCES LIMITED' (formerly GVK Biosciences-related entity) to obtain CIN, PAN, GSTIN and incorporation date."
+}

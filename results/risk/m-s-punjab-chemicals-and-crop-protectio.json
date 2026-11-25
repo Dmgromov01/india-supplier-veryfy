@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S PUNJAB CHEMICALS AND CROP PROTECTIO",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search backend (searx) returned 'Connection refused' on all attempts; Bing/Google HTML fallbacks returned only generic 'Punjab state' results and ignored the quoted company name, so no company-specific page was ever retrieved; zaubacorp.com, thecompanycheck.com and indiankanoon.org all returned HTTP 403; the OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) is JavaScript-driven and returned no query results via GET (page confirmed SDN list last updated 11/23/2026, but no name lookup was possible). Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news with dates = NOT VERIFIED; credit rating with date/status = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. All fields set to null per rule 4 (do not invent data). No adverse finding is asserted, and equally no clean bill of health is asserted. Recommended next step: re-run with working search access, checking OFAC SDN/consolidated list bulk file, EU/UK consolidated lists, BIS Entity List, NCLT/NCLAT and e-courts, IBBI, SEBI/ROC filings, and credit-rating agency sites (CRISIL/ICRA/CARE/India Ratings) for the exact legal name 'Punjab Chemicals and Crop Protection Limited'. Per rule 2, any sanctions/court/criminal items found later are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}

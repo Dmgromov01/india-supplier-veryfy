@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S PUNJAB CHEMICALS AND CROP PROTECTIO",
+ "legal_name": "PUNJAB CHEMICALS AND CROP PROTECTION LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failed: web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML timed out; Google returned only a redirect/consent page; Bing returned generic 'Punjab state' results for every query (including exact-CIN queries), i.e. no usable SERP. Direct fetches of registry/profile pages were blocked: zaubacorp.com and thecompanycheck.com -> HTTP 403; instafinancials.com -> only marketing landing page, no company record; bseindia.com -> JS shell, no content; Wikipedia article title -> 404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all reported as null because they were not publicly retrieved and confirmed in this session - they are NOT asserted to be absent. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the name matches a well-known listed agrochemical company, but per project rules a name match and website/listing claims are not proof, so nothing is asserted beyond the input. Role left 'unknown' (not verified as manufacturer vs trader). Declared HS 380893 (other herbicides/anti-sprouting products) is plausible for an agrochemical/pesticide maker but was not checked against any filing and is not a rejection ground per rule 3. Action needed: re-run with a working search backend or MCA/GST portal access (MCA company master search, GST taxpayer search) to fill CIN, PAN, GSTIN, incorporation date, state and audited FY25/FY26 revenue."
+}
