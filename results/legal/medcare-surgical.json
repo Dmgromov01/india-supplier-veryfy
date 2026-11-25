@@ -1,0 +1,18 @@
+{
+ "name_input": "MEDCARE SURGICAL",
+ "legal_name": "MEDCARE SURGICAL (unverified — exact legal entity name not confirmed; could be a proprietorship/firm or a company, no MCA/GST public record retrieved)",
+ "cin_llpin": null,
+ "pan": "CFSPB5514H (as claimed in input; NOT verified against any public record)",
+ "pan_holder_type": "Firm/LLP — per 4th character 'F' of the claimed PAN CFSPB5514H (PAN 4th char: P=individual, C=company, F=firm/LLP, H=HUF, A=AOP, T=trust). Based solely on the claimed string; unverified.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: DuckDuckGo search backend returned connection refused, Bing returned only irrelevant US/UAE 'Medcare' healthcare results for every query variant, and registry aggregators (ZaubaCorp, InstaFinancials) returned HTTP 403 while Tofler returned 404. No public page was retrieved that ties the name 'MEDCARE SURGICAL' to a CIN/LLPIN, GSTIN, incorporation date or MCA status, so all registry fields are null rather than inferred. The PAN CFSPB5514H is recorded only as claimed by the input; its 4th character 'F' would indicate a partnership firm/LLP (not a company), which is consistent with a small trading/proprietorship-style supplier but is NOT confirmed. No audited accounts or official filings were found, so revenue FY25/FY26 are null. NOT rejected: absence of retrievable records is not evidence of non-existence, strike-off, liquidation or bankruptcy — the entity may well exist as an unregistered/proprietary trading firm. Role left as 'unknown' (no evidence of own manufacturing plant; no evidence of trading activity either). Note also the input's industry_claimed 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the name and declared HS 940290 (medical/surgical furniture, e.g. operating tables) — flag for data-quality correction, but per project rules HS mismatch is not a rejection ground. Recommended next step: re-run with a working search backend or a paid registry API (MCA master data / GSTIN lookup) to obtain CIN, GSTIN and GST status."
+}

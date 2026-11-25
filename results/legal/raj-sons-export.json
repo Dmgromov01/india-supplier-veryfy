@@ -1,0 +1,18 @@
+{
+ "name_input": "RAJ SONS EXPORT",
+ "legal_name": "RAJ SONS EXPORT (as claimed; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "ADIPK5978N",
+ "pan_holder_type": "Individual (4th character 'P' = person). Note: PAN format is structurally valid (5 letters + 4 digits + 1 letter), but the holder is an individual/proprietor, not a company — so this is a proprietorship-style PAN, not a corporate PAN. PAN itself was supplied in the input and could NOT be independently confirmed against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "RESEARCH INCOMPLETE — tooling failure, not a negative finding. The web_search tool (DuckDuckGo) returned 'Connection refused' on every call, and direct fetches to Bing/Google returned generic, query-irrelevant results (pages about the British Raj), so no GST public profile, MCA record, or audited filing could be retrieved. masterindia.com returned HTTP 401. Consequently: no CIN/LLPIN, no GSTIN, no GST status, no incorporation date, no registered-office state and no revenue figures could be verified — all left null rather than guessed. What can be said from the input alone: the claimed PAN ADIPK5978N has 'P' as its 4th character, which denotes an INDIVIDUAL holder, so 'RAJ SONS EXPORT' is most likely a sole proprietorship / proprietary trading or export concern rather than a company registered with MCA — meaning there would be no CIN and no audited financials in the public domain (revenue would legitimately stay null). The name pattern ('... EXPORT') plus declared HS 100630 (semi-milled or wholly milled rice) is consistent with a small rice exporter, but this is inference, not verification. Per project rules no rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the entity simply could not be checked. Role is left 'unknown' (not 'trader') because no registry evidence was obtained. RECOMMENDATION: re-run this company once search access is restored, querying the GST portal's public 'Search Taxpayer' for the PAN ADIPK5978N to obtain the actual GSTIN(s) and status, and checking Gujarat state GST records for the trade name."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "RAJ SONS EXPORT",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable public data retrieved. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out; Bing returned only generic 'Raj' dictionary/encyclopedia noise with zero exact-phrase matches for 'RAJ SONS EXPORT' (and zero meaningful results for the claimed PAN ADIPK5978N, which returned unrelated NBA/Utah Jazz pages — i.e. no indexed record). The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried over plain HTTP, so no SDN/Non-SDN screening result could be obtained. Consequently NOTHING is asserted here: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because they are unverified, NOT because they were checked and found clean. Do not read these nulls as a negative/clear screening. Per project rules this is not a rejection ground and no verdict is proposed by this role. Required follow-up by a human or a working search channel: (1) exact-name screening on OFAC SDN/Non-SDN, UN Consolidated, EU consolidated, UK OFSI and BIS Entity List; (2) eCourts / High Court of Gujarat and NCLT Ahmedabad party-name search for 'Raj Sons Export'; (3) DGFT / APEDA and GST-register lookup against the claimed PAN ADIPK5978N to confirm the entity exists at all before any risk conclusion; (4) credit rating check with CRISIL/ICRA/CARE/India Ratings (small rice exporters are typically unrated — expect null); (5) negative-news search in Indian business press. Note also that the claimed PAN could not be corroborated by any public source, so even the identity of the subject is unconfirmed."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "NILKANTH ENGITECH PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public record of this entity could be located. Tooling was degraded: the DuckDuckGo/searx backend returned 'Connection refused' on all queries; Bing and Google were reachable but returned only unrelated 'Nilkanth' results (Nilkanth mountain/temple, Nilkanth Steel, Nilkanth Ayurveda, Nilkanth Foods) and no hit for 'Nilkanth Engitech'. Registry pages tried directly: zaubacorp.com returned HTTP 403 (bot block) and tofler.in returned HTTP 404 for the guessed URL slug — the URL was a guess, not a verified identifier, so the 404 is NOT evidence the company does not exist. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and could not be queried via plain HTTP GET, so no SDN/Non-SDN screen was actually completed; UN, EU, UK OFSI and BIS Entity List screens were likewise not completed. Therefore sanctions_hit = null means 'not screened / not found in accessible sources', NOT 'confirmed clean'. Same for court_cases (no NCLT/NCLAT/eCourts/High Court search completed), rating (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found), news_risk (no negative news found, but search coverage was effectively nil) and rf_supply (no evidence of supplies to Russia or the CIS found — and none would be expected to surface given the search failure). Per project rules this is not a rejection ground and no adverse inference should be drawn; the company should be re-screened when search tooling is restored, using the verified CIN from the MCA master data rather than a guessed URL. No CIN, PAN, case number, rating or shipment record has been invented here."
+}

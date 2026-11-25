@@ -1,0 +1,18 @@
+{
+ "name_input": "UNISOURCE CHEMICALS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет ни одного подтверждённого реестрового факта. Технические причины: (1) web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in отдали HTTP 403; (3) tofler.in по поисковому URL — 404; (4) Bing по запросам '\"UNISOURCE CHEMICALS PRIVATE LIMITED\" CIN GSTIN', '\"Unisource Chemicals\" Maharashtra zaubacorp/tofler/indiafilings' и '\"AAACU1107F\"' выдал только нерелевантные результаты (UniSource Energy Services, Unisource Worldwide, Unisource Manufacturing — все США), ни одного индийского юрлица с таким названием в выдаче не найдено. Следствие: точное юрлицо, CIN, дата инкорпорации, MCA-статус, GSTIN и GST-статус НЕ подтверждены; выручка FY25/FY26 не найдена (null, не выдумывать). PAN 'AAACU1107F' из входных данных НЕ верифицирован: по формату 4-й символ 'C' соответствует типу держателя 'Company' (юрлицо), но это лишь структурная проверка формата, а не подтверждение принадлежности данной компании — поэтому в поле pan оставлено null. Штат Maharashtra не подтверждён и не опровергнут. Роль (manufacturer/trader) не определена — по правилам проекта трейдеры не отклоняются, поэтому роль 'unknown' без негативных выводов. ВЕРДИКТ: НЕ ОТКЛОНЕНО (нет оснований: отсутствие данных ≠ несуществование юрлица; отклонение допустимо только при ликвидации/банкротстве/struck off, что не установлено). Требуется повторный прогон при доступных реестрах (MCA master data, GST-портал) — рекомендую пометить как 'требует повторной проверки', а не как проверенного поставщика."
+}

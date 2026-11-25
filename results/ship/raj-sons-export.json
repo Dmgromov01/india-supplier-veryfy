@@ -1,0 +1,8 @@
+{
+ "name_input": "RAJ SONS EXPORT",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/raj-sons-export (and variant /raj-sons-export-rajkot) returned only the paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — zero shipment rows rendered (0 rows seen; no date, destination, HS code or B/L number visible). volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrievable: DuckDuckGo search backend was down (\"Connection refused\"), Bing returned only generic 'Raj' dictionary/Wikipedia results with no company match, and no registry/catalogue source was consulted per scope. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных оказались недоступны (платный доступ или блокировка), поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found. Заявленный HS 100630 (рис) и PAN ADIPK5978N не подтверждены ни одной таможенной записью; PAN/выручка/объём экспорта — null, публично не раскрыты. Компания НЕ отклоняется: юрлицо не проверялось на ликвидацию/банкротство в этом задании, а трейдеры и неподтверждённые заявления не являются основанием для rejected. Требуется повторная проверка при восстановлении доступа к importkey/volza или при получении выгрузки таможенных записей."
+}
