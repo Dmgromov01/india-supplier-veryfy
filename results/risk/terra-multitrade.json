@@ -1,0 +1,9 @@
+{
+ "name_input": "TERRA MULTITRADE",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Данные не собраны: ни один источник не удалось прочитать. web_search (DuckDuckGo/searx) возвращал 'Connection refused'; html.duckduckgo.com — 403; Bing по запросам \"TERRA MULTITRADE\" и \"AAQFT5561M\" выдавал нерелевантную выдачу (портал terra.com.br, MacBook Pro), т.е. поиск по точной фразе фактически не отработал. Zaubacorp и InstaFinancials — 403, mca.gov.in — DNS не разрешается. OFAC Sanctions List Search доступен только как JS-форма, GET-запрос по имени не выполняется. Итог: санкционная экспозиция (OFAC SDN/UN/EU/UK/BIS Entity List), индийские судебные дела, действия регуляторов, негативные новости, кредитный рейтинг и признаки поставок в РФ/СНГ — НЕ ПРОВЕРЕНЫ, а не 'чисто'. Все поля null означает отсутствие подтверждённых публичных данных в рамках этой проверки, а не отсутствие риска. Требуется повторный прогон при работающем поиске (или ручная проверка по MCA master data, e-courts/NJDG, OFAC/EU/UK консолидированным спискам, CRISIL/ICRA/CARE). Санкции, суды и уголовные дела по правилу 2 основанием для отклонения не являются в любом случае."
+}

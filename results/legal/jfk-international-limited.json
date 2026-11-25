@@ -1,0 +1,18 @@
+{
+ "name_input": "JFK INTERNATIONAL LIMITED",
+ "legal_name": "JFK INTERNATIONAL LIMITED (as claimed; exact MCA-registered name NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Search backend (DuckDuckGo/searx) was unreachable ('Connection refused'); Bing returned only irrelevant results about John F. Kennedy / JFK Airport, i.e. no Indian corporate record surfaced for this name. Direct fetches of public registry profiles were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned only its homepage shell with no company data; tofler.in returned HTTP 404 for the guessed URL. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue is therefore confirmed, and none has been guessed or inferred. PAN holder type cannot be derived because no PAN is public/confirmed (the 4th character of an Indian PAN encodes holder type: P=individual, C=company, F=firm, etc.). Role is left as 'unknown' - the 'LIMITED' suffix suggests a public limited company, but no MCA record was read to confirm manufacturer vs trader activity, and product catalogues were out of scope per instructions. State 'Delhi' is the input claim only and is unverified against a registered office. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the record simply could not be retrieved. Recommended next step: re-run verification when the search backend is restored, or query MCA V3 / GST portal directly by legal name to obtain CIN and GSTIN before any commercial decision."
+}

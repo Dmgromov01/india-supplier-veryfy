@@ -1,0 +1,18 @@
+{
+ "name_input": "OVERSEAS IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was non-functional (searx connection refused) and direct fetches of public registry aggregators were blocked or empty: zaubacorp.com returned HTTP 403, thecompanycheck.com returned HTTP 404, instafinancials.com returned HTTP 403, duckduckgo.com timed out, and Google/Bing returned only generic dictionary results for the word 'overseas' with no India-specific company record. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures could be confirmed from any official or public source, so all such fields are null rather than guessed. 'OVERSEAS IMPEX' is a very common Indian trade name (multiple proprietorships/partnerships/LLPs across states), so without a CIN or GSTIN the exact legal entity cannot be pinned down; the input itself supplies no PAN. No rejection is warranted under the rules - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / identity ambiguous'. Role is left as 'unknown' (not manufacturer, not trader) because no MCA/GST record was retrieved. Revenue FY25/FY26: null - no audited accounts or official filings accessible. Recommended next step: obtain the supplier's GSTIN or PAN from the buyer, then re-run verification against the GST portal and MCA master data. Note also that declared HS 420329 (leather gloves/accessories) does not match the claimed industry 'food & FMCG' - per project rules this is not a rejection ground, but the HS code should be corrected to the actual product once the entity is identified."
+}

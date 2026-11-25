@@ -1,0 +1,18 @@
+{
+ "name_input": "SCARLETT ENGINEERS",
+ "legal_name": "SCARLETT ENGINEERS (unverified — exact legal form, e.g. 'Scarlett Engineers' as proprietorship/partnership/LLP/Pvt Ltd, could not be confirmed from any public registry source)",
+ "cin_llpin": null,
+ "pan": "AAUFS0462N",
+ "pan_holder_type": "F — Firm/Partnership (per PAN 4th character 'F'; note: this is the format-based reading of the claimed PAN only, the PAN itself could not be validated against any public source)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed — no data could be retrieved. Tooling failures during this run: web_search backend refused connections (searx 'Connection refused') on both queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in MDS returned HTTP 403; DuckDuckGo HTML/lite endpoints timed out; Google returned only a redirect interstitial. Consequently nothing is confirmed: legal entity name/form, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null. The claimed PAN AAUFS0462N is syntactically consistent with a firm/partnership (4th char 'F') and the state code is not derivable from PAN, so the Gujarat claim is unverified. No audited accounts or official filings were accessible, so revenue FY25/FY26 are null (not estimated). Role cannot be classified (manufacturer vs trader) without registry/records access. Per project rules this is NOT a rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the entity simply remains unverified and should be re-queued for registry lookup (MCA master data / GST public search) when the search backend is restored. No shipment, court or catalogue research was performed, per role scope."
+}

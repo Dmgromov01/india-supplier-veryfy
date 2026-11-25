@@ -1,0 +1,25 @@
+{
+ "name_input": "M/S SAHASTRA EXPORTS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bombay High Court",
+   "case": "Commercial Suit (L) No. 14246 of 2022 — Sahastraa Exports Pvt. Ltd. vs AP Moller Maersk A/S & Ors (and connected interim applications)",
+   "role": "Plaintiff",
+   "status": "Active/ongoing as of orders dated 05.05.2022, 10.06.2022, 13.06.2022, 30.06.2022, 05.07.2022, 11.07.2022, 19.01.2023 (Benches: A.K. Menon, M.G. Sewlikar, G.S. Patel, M.J. Jamdar, R.I. Chagla)",
+   "subject": "Commercial dispute with ocean carrier over consignment; court orders reference payment of demurrage, detention charges and ground rent by plaintiff on a without-prejudice basis",
+   "source": "https://indiankanoon.org/search/?formInput=Sahastraa%20Exports"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Commercial Suit No. 44 of 2016 — Sahastraa Exports Pvt. Ltd. vs Zhejang Chemicals Import and Export Corporation",
+   "role": "Plaintiff",
+   "status": "Order dated 05.01.2024 (Bench: Abhay Ahuja); appears to be a claim against a Chinese counterparty",
+   "source": "https://indiankanoon.org/search/?formInput=Sahastraa%20Exports"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no match in OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others), data current as of 2026-11-25 — https://www.opensanctions.org/search/?q=Sahastraa. OFAC Sanctions List Search tool is a JS form and could not be queried directly via GET; the OpenSanctions aggregate is the basis for the null sanctions_hit. Court: two civil/commercial matters found on Indian Kanoon, in both the company is the PLAINTIFF (claimant), not a defendant — a carrier demurrage/detention dispute and a claim against a Chinese chemicals trading counterparty. These are ordinary commercial disputes, not regulatory or criminal proceedings; per project rules they are not rejection grounds and are recorded neutrally. No evidence found of any regulator action (SEBI/RBI/DGFT/ED/CCI) or negative press coverage; searches for news returned no relevant results, so news_risk = null (not public / not found, not asserted as clean). Credit rating: no rating found in public sources — null; not verified against CRISIL/ICRA/CARE/India Ratings registries. Russia/CIS supply: no evidence found — Indian Kanoon search for 'Sahastraa Exports Russia' returned no matching results, and no customs, B-L or open-source record linking the company to Russian or CIS counterparties was located; rf_supply = null means 'no evidence found', not 'confirmed absent'. Research limitation: the primary web_search backend was unavailable (connection refused) and Bing returned irrelevant results for most queries, so coverage of news and regulator sources is incomplete; findings rest mainly on Indian Kanoon and OpenSanctions. Legal identity, HS code and shipment volumes were out of scope for this role and were not assessed."
+}

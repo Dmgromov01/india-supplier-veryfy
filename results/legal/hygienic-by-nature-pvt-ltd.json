@@ -1,0 +1,18 @@
+{
+ "name_input": "Hygienic By Nature Pvt Ltd",
+ "legal_name": "HYGIENIC BY NATURE PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAFCH3156A (as claimed by input; not verified against any public record)",
+ "pan_holder_type": "Company (4th character 'C' = company, per PAN format rule) — based on claimed PAN only",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on both queries; Bing HTML search returned only irrelevant dictionary results for the exact-name and PAN queries; direct fetches of zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403/404; DuckDuckGo timed out. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public to me in this session, not invented. PAN AAFCH3156A is only the input claim; its 4th character 'C' is consistent with a company holder, but the PAN itself is unverified. No rejection applied: absence of retrievable records is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left 'unknown' — no evidence of manufacturing vs trading activity was obtainable. Declared HS 392490 (plastic household/articles of plastics) vs claimed industry 'Construction & DIY' is a possible mismatch, but per rules HS mismatch is not a rejection ground; it would be recorded as accepted_hs_corrected once the entity is confirmed. Recommended next step: manual lookup on MCA master data / GST portal by PAN AAFCH3156A or by company name, then re-run this record."
+}

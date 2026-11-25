@@ -1,0 +1,18 @@
+{
+ "name_input": "CHROMATOGRAPHY WORLD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAGFC1217K",
+ "pan_holder_type": "AAGF = Firm/Partnership firm (4th character 'F' in the PAN format AAAA + holder-type letter). NOTE: this is derived from the PAN string supplied in the input, NOT verified against any public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public source could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on every query; Bing returned identical unrelated generic results for all queries (degraded proxy); zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com returned HTTP 404. Therefore no MCA master-data page, GST public profile, or audited filing was read for this entity. Consequences: (1) The exact legal entity name is unknown — 'CHROMATOGRAPHY WORLD' is a trade name; the PAN holder-type letter 'F' suggests a partnership firm, which would mean NO CIN exists (CIN applies to companies; a firm would have an LLPIN only if registered as an LLP, otherwise none). This is an inference from the PAN format, not a registry finding. (2) PAN AAGFC1217K is carried over from the input only; its validity, holder name and status were not confirmed against the Income Tax / GST portal. (3) GSTIN, GST status, incorporation/registration date, registered-office state and MCA status are all null because nothing public was reachable. (4) Registered state vs claimed state 'Maharashtra' cannot be compared — unconfirmed. (5) Role set to 'unknown': the declared HS codes (281122 silicon dioxide, 284170 molybdates, 293399 and 294190 other organic/antibiotic compounds) are bulk chemical products, while the name suggests chromatography lab supplies — a possible trader/indentor profile, but this is speculation and is NOT a basis for any verdict. (6) Revenue FY25 and FY26 are null: no audited accounts or official filing was accessed; no figure is estimated. Per project rules this entity is NOT rejected — rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof exists either way; the correct status is 'unverified, data gap', requiring a re-run with working search access or manual MCA/GST portal lookup. No shipment, court or catalogue research was performed, per role scope."
+}

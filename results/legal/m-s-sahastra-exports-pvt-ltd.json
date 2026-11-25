@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SAHASTRA EXPORTS PVT LTD",
+ "legal_name": "SAHASTRAA EXPORTS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections ('Connection refused') on both queries; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; instafinancials.com and indiafilings.com returned HTTP 404 for the constructed slugs; Google returned only a redirect interstitial and Bing returned entirely irrelevant results (no company hits). Consequently the exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are not public to me through the accessible channels in this session, and I have deliberately not guessed or derived them. PAN claimed in input (AAFCS2340R) is UNVERIFIED: format-wise it is a valid 10-character PAN pattern and the 4th character 'C' would indicate a company/firm holder type, but this is a format observation only, not a registry confirmation, so pan is reported as null. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role is 'unknown' - no evidence obtained either way on manufacturer vs trader. IMPORTANT: this is NOT a rejection. Per project rules a company may only be rejected if the entity does not exist, is struck off, liquidated or bankrupt; absence of accessible data is not evidence of non-existence, so the record must be treated as pending verification and re-queued. Note also the name discrepancy between input 'M/S SAHASTRA EXPORTS PVT LTD' and claimed legal name 'SAHASTRAA EXPORTS PRIVATE LIMITED' (single vs double 'A'), which must be resolved against MCA before any HS/role conclusions. Declared HS 291590 (saturated acyclic monocarboxylic acids and derivatives - chemicals) is consistent with the claimed 'oil & gas / chemicals' industry, but HS is not a rejection ground in any case. Recommended next step: manual MCA master-data lookup by CIN or by name search on the MCA portal, plus a GSTIN search on the GST portal, in an environment with access to those sites."
+}

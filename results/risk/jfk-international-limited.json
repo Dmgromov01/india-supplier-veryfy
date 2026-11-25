@@ -1,0 +1,9 @@
+{
+ "name_input": "JFK INTERNATIONAL LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable data collected. The primary search tool (DuckDuckGo/searx) was unavailable (connection refused) for the whole session; fallback engines (Bing, Google, DuckDuckGo HTML) returned only irrelevant results for 'JFK' (John F. Kennedy, JFK Airport) and no page referencing an Indian entity named 'JFK INTERNATIONAL LIMITED' in Delhi. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP fetch, so no SDN/Non-SDN screening result was obtained. Therefore: sanctions_hit = null (NOT screened — not a negative result), court_cases = null (no eCourts/NJDG/High Court Delhi search performed), rating = null (no CRISIL/ICRA/CARE/India Ratings lookup performed), news_risk = null (no negative-news search completed), rf_supply = null (no export/trade record or B-L evidence of supplies to Russia or CIS found or checked). No CIN, PAN, GSTIN, case numbers or shipment records are asserted — none were verified. Per project rules this is NOT a rejection ground and no adverse inference should be drawn; the company should be re-queued for a full risk pass once search connectivity is restored. Recommended next steps: (1) MCA master-data lookup to obtain CIN and registered address, then screen that exact name; (2) OFAC SDN/consolidated list and EU/UK/BIS entity-list screening by exact name and CIN; (3) eCourts and Delhi High Court party search; (4) credit-rating agency search; (5) Russian/CIS import records (e.g. customs/import databases) for supply evidence."
+}
