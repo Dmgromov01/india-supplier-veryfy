@@ -1,0 +1,9 @@
+{
+ "name_input": "Aryan Aviation",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена — данных собрать не удалось, все поля null по факту отсутствия доступа к источникам, а не по факту отсутствия рисков. Что произошло: (1) основной поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / timeout на всех запросах; (2) Bing по запросам '\"Aryan Aviation Private Limited\"', '\"Aryan Aviation\" India company aviation parts', '\"Aryan Aviation\" IndiaMART OR tofler OR zaubacorp' выдал только общие статьи об этимологии слова 'Aryan' — ни одного релевантного результата, т.е. релевантность выдачи нулевая; (3) zaubacorp.com отдал HTTP 403; (4) sanctionssearch.ofac.treas.gov доступен только как JS-форма, прямой GET-запрос к SDN не выполняется. Следовательно: санкционная экспозиция (OFAC SDN, UN, EU, UK, BIS Entity List) НЕ проверена; индийские судебные дела (party role/status) НЕ проверены; действия регуляторов и негативные новости НЕ проверены; кредитный рейтинг (дата/статус) НЕ проверен; признаки поставок в РФ/СНГ НЕ проверены. Отдельно отмечаю: заявленный PAN AAGCA4428H и название 'ARYAN AVIATION PRIVATE LIMITED' не подтверждены ни одним публичным источником в рамках этой сессии — это не вывод о несуществовании юрлица, а отсутствие подтверждения. Рекомендация: перезапустить проверку при доступном поиске; приоритетные источники — OFAC Sanctions List Search (ручной ввод), MCA/Zauba/Tofler по PAN, eCourts/NCLT, CRISIL/ICRA/CARE/India Ratings, GST-портал. Вердикт по правилам проекта не выносится: оснований для rejected нет, но и accepted не обоснован — статус 'проверка не выполнена'."
+}

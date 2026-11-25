@@ -1,0 +1,18 @@
+{
+ "name_input": "SD Export",
+ "legal_name": "SD EXPORTS (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "ALLPM9824A (as claimed by client; not verified against any public record)",
+ "pan_holder_type": "Individual (P — person, per 4th character of the claimed PAN format ALLPM9824A)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) returned connection errors for all queries, and direct fetches of MCA master data, Zauba Corp and InstaFinancials were blocked (403/404). No public record of an entity named 'SD EXPORTS' in Tamil Nadu was retrieved, so CIN/LLPIN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue (FY25/FY26) are all null — not public/not retrieved, not invented. Important flag: the claimed PAN 'ALLPM9824A' has 'P' as its 4th character, which denotes an INDIVIDUAL (proprietorship), not a company (expected 'C' for a company, 'F' for LLP/firm). This is consistent with a proprietorship trading/export outfit rather than a registered company, which would explain the absence of a CIN. Per project rules the company is NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found — only absence of retrievable data. Role is left 'unknown' pending registry confirmation; the claimed HS codes (8421/8481 — filters, valves, pressure-reducing/check valves) are consistent with a trader or stockist of oil/gas/chemical flow-control equipment, but this is inference only, not a verified fact. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN directly from the supplier and validate it on the GST portal."
+}

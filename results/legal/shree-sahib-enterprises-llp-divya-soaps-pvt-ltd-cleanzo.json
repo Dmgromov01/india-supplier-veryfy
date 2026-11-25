@@ -1,0 +1,18 @@
+{
+ "name_input": "Shree Sahib Enterprises LLP / Divya Soaps Pvt Ltd (Cleanzo)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Входные данные содержат два разных наименования (LLP 'SHREE SAHIB ENTERPRISES LLP' и 'Divya Soaps Pvt Ltd', бренд Cleanzo) без указания, какое из них является проверяемым юрлицом-поставщиком; штат и PAN во входных данных не заявлены. Попытки получить данные из реестров не удались: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо нерелевантные результаты, страницы ZaubaCorp, TheCompanyCheck, MCA Master Data — HTTP 403, llp.gov.in — DNS-ошибка, Tofler — 404, InstaFinancials — 404. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, дата регистрации, штат регистрации, статус MCA и выручка FY25/FY26 не установлены — везде null, значения не выдумывались. Роль определена как unknown: ни один источник не подтверждает производственную или торговую деятельность. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (нет подтверждения ликвидации/банкротства/отсутствия юрлица). Требуется повторная проверка при доступности MCA/LLP-реестра и GST-профиля; также нужно уточнить у заказчика, какое именно юрлицо (LLP или Pvt Ltd) подлежит верификации."
+}

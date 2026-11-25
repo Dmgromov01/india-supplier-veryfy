@@ -1,0 +1,59 @@
+{
+ "name_input": "M/S. THE METAL POWDER CO. LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Supreme Court of India",
+   "case": "Metal Powder Company Ltd vs Oriental Insurance Co. Ltd, Civil Appeal No. 481 of 2009, decided 07.04.2014",
+   "role": "Appellant (plaintiff/claimant side)",
+   "status": "Decided (civil insurance dispute)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Metal%20Powder%20Company%20Limited%22"
+  },
+  {
+   "court": "Madras High Court (Madurai Bench)",
+   "case": "The Metal Powder Company Limited vs The Tamil Nadu Generation and Distribution Corporation, order 23.10.2024 (W.P., M.Dhandapani J.)",
+   "role": "Petitioner",
+   "status": "Pending/disposed per order dated 23.10.2024 (writ, utility/electricity matter)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Metal%20Powder%20Company%20Limited%22"
+  },
+  {
+   "court": "Madras High Court (Madurai Bench)",
+   "case": "M/s.The Metal Powder Company Limited vs The Assistant Commissioner (CT), W.P.(MD) Nos.2212 of 2013, order 18.02.2022",
+   "role": "Petitioner (assessee)",
+   "status": "Decided 18.02.2022 (commercial tax / assessment challenge)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Metal%20Powder%20Company%20Limited%22"
+  },
+  {
+   "court": "Madras High Court / Supreme Court",
+   "case": "Commissioner of Income Tax, Madurai vs The Metal Powder Company Limited — TCA (07.06.2012; 04.11.2015) and SLP order 22.08.2016",
+   "role": "Respondent (assessee)",
+   "status": "Decided (income-tax appeals)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Metal%20Powder%20Company%20Limited%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "The Metal Powder Company Limited vs The General Manager (Southern Railway) — CRP(PD)(MD) No.1822 (10.01.2020) and earlier 23.07.2009; General Manager, Northern Railway vs The Metal Powder Company Limited (22.11.2006)",
+   "role": "Petitioner / Respondent respectively",
+   "status": "Decided (railway freight/claims disputes)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Metal%20Powder%20Company%20Limited%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "Metal Powder Company Ltd vs Collector of Central Excise, Madurai, 31.10.1994 (1995(75)ELT51(MAD))",
+   "role": "Petitioner",
+   "status": "Decided (excise)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Metal%20Powder%20Company%20Limited%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "Puthiya Jananayaga Thozhilalar Munnai vs Government of Tamil Nadu (labour/industrial dispute context, M.Sathyanarayanan J.) — matched on 'pollution' query",
+   "role": "Not established as party; company name appears in pollution-related labour litigation context",
+   "status": "Unclear — full text not read",
+   "source": "https://indiankanoon.org/search/?formInput=%22Metal%20Powder%20Company%20Limited%22%20pollution"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no confirmed hit found. OFAC Sanctions List Search was reachable but is a JS form and returned no query results via plain GET; UN/EU/UK/BIS lists could not be queried because the web_search backend was down for the whole session (searx connection refused). Therefore sanctions_hit = null means NOT VERIFIED, not 'clear'. Court record: 106 documents on Indian Kanoon under the exact name 'Metal Powder Company Limited' — all civil/commercial in nature (insurance, income tax, central excise, GST/CT assessment, railway freight claims, electricity). No criminal case, no NCLT/insolvency, no sanctions-enforcement or FEMA/ED matter surfaced in the first page of results. Party role is predominantly petitioner/assessee, i.e. the company is the one litigating, not being prosecuted. One labour/pollution-adjacent writ (Puthiya Jananayaga Thozhilalar Munnai v. Govt of Tamil Nadu) matched but the company's party role was not confirmed — flagged as unclear, not as adverse. Regulator actions: none found; no CPCB/SPCB closure or consent-revocation order located. Negative news: none found — but note the search tool was unavailable, so this is a null from failed retrieval, not a clean sweep. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings action found in accessible sources; not public in what I could reach. RF/CIS supply: null — Indian Kanoon search for 'Metal Powder Company' + Russia returned zero matching results; no export-to-Russia or CIS evidence found. Per project rules, none of the above is a rejection ground. Note also a data discrepancy for the desk (outside my scope, not verified by me): the court record places this entity at Maravankulam, Thirumangalam, Madurai District, Tamil Nadu, whereas the batch record claims West Bengal — worth a legal-identity check by whoever owns that field."
+}

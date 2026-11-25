@@ -1,0 +1,18 @@
+{
+ "name_input": "NISUN",
+ "legal_name": "VANSHIKA OVERSEAS",
+ "cin_llpin": null,
+ "pan": "AACFN5096M",
+ "pan_holder_type": "F — partnership firm (4th character of the claimed PAN is 'F'; this is the holder type implied by the PAN format, not independently verified against the PAN database)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no source obtained. The web_search tool returned a backend error ('searx: Connection refused') on every query, and all registry/profile pages attempted were inaccessible: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), tofler.in (404 on search endpoint), falconebiz.com (403), mca.gov.in Master Data (403), Google (redirect/consent wall), Bing (returned only unrelated Microsoft results), DuckDuckGo HTML (timeout). Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they were checked and found absent, but because they could not be read. No revenue figures are available from audited accounts or official filings, so FY25 and FY26 are null. Important caveat on the legal form: the claimed PAN AACFN5096M carries 'F' at the 4th position, which denotes a PARTNERSHIP FIRM, not a company. A partnership firm has no CIN and is not registered with MCA, so 'VANSHIKA OVERSEAS' as a firm would legitimately show no CIN and no MCA status — this must be re-checked against the GST portal (which would show the firm's GSTIN and constitution) rather than MCA. The claimed PAN itself is unverified: it was supplied in the input and no public source was reached to confirm it belongs to this entity. Per project rules the company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy could not be established either way; the correct status is 'unverified, pending registry lookup'. Role is 'unknown' (no evidence of manufacturing or trading activity obtained). HS codes 630260/630492 (toilet/kitchen linen, other furnishing articles) are inconsistent with the claimed industry 'food and FMCG', but per the 23.11.2026 rule this is not a rejection ground — the HS code should be corrected to the factual one once the actual product line is confirmed. Recommended next step: manual lookup on the GST portal by PAN AACFN5096M and on MCA by firm/company name, plus a paid registry source, before any verdict."
+}

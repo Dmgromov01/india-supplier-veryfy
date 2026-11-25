@@ -1,0 +1,18 @@
+{
+ "name_input": "MAHANSARIA TYRES PRIVATE LIMITED",
+ "legal_name": "MAHANSARIA TYRES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAFCK6222L",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'K' = individual surname initial per PAN structure, so the claimed PAN is internally inconsistent with a company entity and could not be verified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool failed (searx connection refused) and all direct attempts to read public registry aggregators were blocked or returned no data: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 403; tofler.in search returned a 404 page; mca.gov.in returned HTTP 403; Google returned only a redirect interstitial; Bing returned unrelated results (Microsoft/RemotePC pages) for every query; html.duckduckgo.com timed out. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - not public/not retrievable in this session, not invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was obtained, so the company is NOT rejected; it remains unverified pending a working registry lookup (MCA master data / GST portal). Note on the claimed PAN AAFCK6222L: the 4th character 'C' denotes a company holder, but the 5th character 'K' is an individual surname initial, which is inconsistent with a private limited company PAN - the PAN should be re-confirmed against the GST/MCA record. Role cannot be determined without registry or filing data; declared HS 401180 (tyres for construction/industrial handling) is plausible for a tyres business but is not evidence of manufacturing vs trading. Revenue FY25/FY26: no audited accounts or official filings accessible, so null."
+}

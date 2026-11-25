@@ -1,0 +1,18 @@
+{
+ "name_input": "Aryan Aviation",
+ "legal_name": "ARYAN AVIATION PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAGCA4428H",
+ "pan_holder_type": "AAGCA4428H — 4th character 'C' = company (non-individual) PAN per PAN format rules; the PAN itself is only the claimant's input and could NOT be verified against any public registry record in this session",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; Bing returned only generic 'Aryan' dictionary/encyclopedia results for every query variant (quoted legal name, CIN, GSTIN, aggregator names) — i.e. no usable SERP; zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403; instafinancials.com returned HTTP 404; duckduckgo.com/html timed out. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null — NOT because they are absent, but because they were not publicly retrievable with the available tools. No entity-existence conclusion can be drawn: per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof (nor any positive proof of existence) was obtained, so the company must NOT be rejected on this basis — it stays in the database pending a re-run of registry checks. The claimed PAN AAGCA4428H is format-valid for a company (4th char 'C') but unverified; the claimed state Maharashtra is unverified. Role left as 'unknown' — no registry/audited evidence of manufacturing vs trading activity was found. Revenue null per rule 4 (no audited accounts or official filings accessed). Recommended next step: re-run with working search plus a non-blocked MCA/GST mirror (e.g. MCA master data, GST taxpayer search) before any verdict."
+}
