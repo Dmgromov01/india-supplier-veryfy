@@ -1,10 +1,11 @@
 # Second-pass verification
 
-Records checked: **2178**, passed: **1921**, flagged: **257**
+Records checked: **3522**, passed: **3098**, flagged: **424**
 
 | check | hits |
 |---|---|
-| confirmed export without URL | 187 |
-| PAN format | 70 |
-| GSTIN format | 2 |
-| CIN format | 1 |
+| confirmed export without URL | 314 |
+| PAN format | 106 |
+| GSTIN format | 3 |
+| CIN state code unknown | 2 |
+| CIN format | 2 |
