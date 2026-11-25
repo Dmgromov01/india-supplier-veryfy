@@ -1,0 +1,18 @@
+{
+ "name_input": "Vijay Packaging System",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AEKPK2073F",
+ "pan_holder_type": "P — individual (natural person), per 4th character 'P' of the claimed PAN. Note: this is a personal PAN, not a company PAN (a company PAN would carry 'C' as the 4th character). This is consistent with a proprietorship/individual-run business rather than a registered company, but the PAN itself could not be verified against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry record could be retrieved. Search tooling was unavailable during this check (DuckDuckGo/searx backend refused connections; html.duckduckgo.com timed out), and the public aggregators that were reachable blocked automated access (ZaubaCorp 403, InstaFinancials 403, FalconEbiz 403, TheCompanyCheck requires login). A Bing query for the exact name plus 'Delhi GSTIN' returned no matching entity — only unrelated results about the actor Vijay — so there is no positive evidence of a registered legal entity under this name. No CIN/LLPIN, GSTIN, incorporation date, MCA status or financials could be confirmed, therefore all such fields are null rather than estimated. The claimed PAN AEKPK2073F is structurally valid (5 letters + 4 digits + 1 letter) and its 4th character 'P' indicates an individual holder, which suggests a proprietorship/sole-trader concern rather than a company or LLP; this is an inference from PAN format only, not a verified fact. Per project rules the company is NOT rejected: non-existence was not established, only non-verification. Role left as 'unknown' — no evidence of manufacturing or trading activity was found in registry sources. Revenue FY25/FY26 null: no audited accounts or official filings located. Recommended next step: manual MCA master-data lookup by name and GST portal search on the PAN, plus a request to the supplier for its GST certificate and Udyam/Shop & Establishment registration."
+}
