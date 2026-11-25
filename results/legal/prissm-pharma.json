@@ -1,0 +1,18 @@
+{
+ "name_input": "PRISSM PHARMA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity not established. Searches for the exact string \"PRISSM PHARMA\" (with and without GSTIN/CIN/Pvt Ltd qualifiers) returned no Indian corporate-registry, GST or MCA profile — only unrelated foreign entities (prismm.com event software, prissm.fr French occupational-health service, prissm.co US staffing). Direct fetches of Zauba Corp, TheCompanyCheck and InstaFinancials were blocked (HTTP 403), and the DuckDuckGo search backend was unavailable, so MCA/GST portals could not be queried. No CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue is public in the sources reachable, therefore all such fields are null and were NOT inferred. Per project rules the company is NOT rejected: absence of a public trace is not proof of non-existence, and the claimed name may be a trade/brand name or misspelling of a differently-spelled legal entity. Role recorded as unknown (no evidence of manufacturing or trading activity). Declared HS 330510 (shampoos) is inconsistent with the claimed industry 'food & FMCG' and with the 'pharma' name — flagged for HS correction only, not a rejection ground. Action needed: obtain the supplier's GSTIN or PAN from the counterparty to resolve the legal entity; until then treat as unverified."
+}

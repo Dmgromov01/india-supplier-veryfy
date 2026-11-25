@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S EVEREST TANNING INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Search backend (DuckDuckGo/searx) was unreachable ('Connection refused') for the whole session; Bing returned only generic 'Everest' results and ignored quoted queries; registry aggregators (ZaubaCorp, InstaFinancials) and mca.gov.in returned HTTP 403. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source - all such fields left null rather than guessed. What the input itself shows: the 'legal_claimed' value 'MOHD KHALID' is a personal name, not a company name, which suggests this is a sole proprietorship / partnership trading under the name 'M/S Everest Tanning Industries' rather than a company limited by shares - such entities have no CIN and no MCA record, only a GSTIN and PAN. The declared HS 640610 (footwear uppers of leather) is consistent with a tanning/leather-footwear business, which contradicts the input's industry_claimed 'Продукты питания и FMCG' (food & FMCG); per project rules this is NOT a rejection ground - the company stays in the base and the HS/industry code should be corrected to the actual leather/footwear activity. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Recommended next step: re-run verification when search is restored, checking GSTIN via a public GST profile and, if a CIN does surface, MCA master data; also obtain the PAN/GSTIN directly from the supplier's invoice or KYC pack, since a proprietorship's registry footprint is only public through GST."
+}

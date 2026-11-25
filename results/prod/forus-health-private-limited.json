@@ -1,0 +1,15 @@
+{
+ "name_input": "FORUS HEALTH PRIVATE LIMITED",
+ "declared_hs": "901850",
+ "actual_hs_list": [
+  "901850",
+  "901819",
+  "901890",
+  "902150",
+  "902300"
+ ],
+ "match_status": "partial",
+ "product_summary": "Bengaluru-based ophthalmic device OEM (own brand '3nethra'). Real product lines per own website (forushealth.com, fetched 2026): (1) Adult retinal imaging fundus cameras — 3nethra classic / classic HD / flora / pico / ultima; (2) Neonatal wide-field retinal imaging — 3nethra neo / neo HD FA (120° FOV, 2048x2048, contact-based handpiece); (3) Refraction & myopia management — 3nethra aberro (handheld Shack-Hartmann autorefractometer, -14D..+14D, 3.5in touchscreen, Bluetooth/USB, Li-ion battery), 3nethra specto, 3nethra bio; (4) Anterior segment device 3nethra SL5-1000 (slit lamp); (5) software/AI platforms FH TeleCare, FH TeleEye, FH TeleOpticals, FH eyepal, FH-POISE (AI screening for DR/glaucoma/ARMD/cataract). Also states 85+ countries and 5000+ installations, and a dedicated export@forushealth.com contact.",
+ "role_hint": "manufacturer",
+ "comment": "HS 901850 ('other ophthalmic instruments and appliances') is CORRECT for the core line: fundus cameras, retinal imaging systems, autorefractometer and slit lamp are all ophthalmic optical instruments -> 901850. Match = partial only because the declared single code does not cover the whole real range: (a) 3nethra neo/neo HD FA is a digital wide-field retinal imaging/photo-documentation system — arguably 901850 as an ophthalmic instrument, but if cleared/classified as an electro-diagnostic imaging apparatus it can fall under 901819 (other electro-diagnostic apparatus) — cannot_verify without the customs line; (b) 3nethra SL5-1000 slit lamp -> 901850 (or 9018 90 if treated as a general ophthalmic appliance); (c) FH TeleCare / TeleEye / FH-POISE AI software and SaaS screening platforms are software, not instruments — would be 8523/9973-type codes, not 901850, and are not covered by the declaration; (d) corporate eye-screening service is a service, not goods. Industry claim 'IT и электроника' is a MISCLASSIFICATION: the company is a medical-device / ophthalmic-instrument manufacturer (electro-optical + embedded software), not an IT/electronics trader. No trader signs found: own brand, own patents (integrated visual function testing apparatus, annular light source for fundus cameras, wearable for corrective), own manufacturing unit, own R&D page — consistent with manufacturer, not trader. Per project rule 3, the HS mismatch is not a rejection ground: company is retained, declared code 901850 kept as the primary code and the range above recorded as the factual product mapping. All product data above is from the company's own website (forushealth.com home, /contact-us/, /3nethra-aberro/, /3nethra-neo/) — i.e. заявлено, не подтверждено by any customs declaration line; no shipment/B-L or customs record was checked in this HS-only pass, so export actuality is not asserted here."
+}

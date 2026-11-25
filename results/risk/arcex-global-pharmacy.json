@@ -1,0 +1,9 @@
+{
+ "name_input": "Arcex Global Pharmacy",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Entity could not be identified in any public source: DuckDuckGo/searx backend was down (connection refused) for the whole session; Bing queries for \"Arcex Global Pharmacy\", \"Arcex Global\" + pharmacy/IndiaMART/exporter, and site-restricted queries (zaubacorp.com, tofler.in, indiamart.com) returned zero relevant hits - only unrelated 'ARC-EX' medical-device / 'Arcex' software and crypto results. Google returned HTTP 429. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = not verifiable, no match found but also no confirmed legal identity to screen against; Indian court cases (party role/status) = null, no records located; regulator actions / negative news = null, none located; credit rating = null, none public; evidence of supplies to Russia/CIS = null, none found. IMPORTANT: absence of hits here is NOT a clean bill of health - it reflects that the name as given does not resolve to a verifiable Indian legal entity in indexed sources. Per project rules this is not a rejection ground on its own (rejection only for non-existent/liquidated/bankrupt legal entity, which I am not tasked to determine), and no sanctions/court findings exist to flag. Recommend re-running sanctions screening once a CIN/PAN/GSTIN or registered address is supplied, and note that 'Arcex Global Pharmacy' with declared HS 330510 (shampoo/hair preparations) is inconsistent with a 'pharmacy' name - flagged for the HS/identity researcher, not a risk verdict."
+}
