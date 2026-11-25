@@ -1,0 +1,18 @@
+{
+ "name_input": "AMR HEALTH CARE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be verified. Tooling failures during this run: DuckDuckGo/searx backend returned 'Connection refused' (no results at all); zaubacorp.com returned HTTP 403; thecompanycheck.com and quickcompany.in are gated/404; findgst.in returned HTTP 500; Google returned a redirect interstitial; Bing returned only generic 'AMR' noise (American Medical Response, antimicrobial resistance) with zero Indian registry hits for the exact string 'AMR HEALTH CARE'. Therefore legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrievable in this session, NOT evidence of non-existence. IMPORTANT: the name pattern 'AMR HEALTH CARE' with no corporate suffix (no Pvt Ltd / LLP) is typical of a proprietorship or partnership firm, which has no CIN and no MCA record at all; such an entity can only be confirmed via its GSTIN (state code 19 for West Bengal) or Udyam registration. Action needed: obtain the GSTIN or PAN directly from the supplier, then re-verify on the GST portal (gst.gov.in search taxpayer) and, if a company, on MCA. Role is 'unknown' - the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the name and with declared HS 300450 (medicaments, retail pack), which points to pharma/healthcare; per project rules this is NOT grounds for rejection, only for correcting the industry/HS classification. No rejection applied: entity existence is unconfirmed, not disproven. No revenue figures were found in any audited accounts or official filing, so both FY25 and FY26 are null rather than estimated."
+}

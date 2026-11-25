@@ -1,0 +1,8 @@
+{
+ "name_input": "AMR HEALTH CARE",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/amr-health-care (also slugs /amr-healthcare and /amr-health-care-private-limited) returned only the generic template: \"Number of shipments by month: ... Shipments available for AMR HEALTH CARE, refreshed daily\" — zero actual shipment rows, no date, no destination, no HS code, no bill-of-lading number. Source counter: 3 importkey pages fetched, 0 shipment records seen. volza.com/p/amr-health-care/, eximpedia.app and trademo.com all returned HTTP 403, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. The web_search tool failed on every call (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no domestic-supply page was located; nothing public was found to quote.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это результат отсутствия доступа к данным, а не доказательство отсутствия деятельности: importkey отдал пустой шаблон без строк, volza/eximpedia/trademo заблокированы (403), поисковик недоступен. Заявленный HS 300450 (медикаменты) не подтверждён ни одной записью; фактический код не установлен, поэтому HS не исправлялся. Выручка и объём экспорта: null (не публичны / не получены). Юрлицо не проверялось по реестрам (вне области задачи), оснований для отклонения нет — статус unknown, требуется повторная проверка при доступном источнике."
+}

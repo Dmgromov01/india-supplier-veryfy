@@ -1,0 +1,18 @@
+{
+ "name_input": "PEACOCK MEDICINE COMPANY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AATFP9236A",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'P' denotes a Person/individual PAN, not a company (C), firm (F) or LLP (F). This is consistent with 'PEACOCK MEDICINE COMPANY' being a proprietorship trade name rather than a registered company; therefore no CIN/LLPIN is expected to exist.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not disproven. Tooling failure: DuckDuckGo search backend refused connections; Bing returned only unrelated 'Peacock TV' streaming results for every query variant; Zauba Corp, InstaFinancials and mca.gov.in Master Data all returned HTTP 403. No public GST profile, GSTIN, incorporation record or audited filing could be retrieved, so all such fields are null rather than guessed. What can be stated from the input alone: PAN AATFP9236A has 'P' as its 4th character, i.e. an individual PAN — so the entity is most likely a sole proprietorship trading as 'PEACOCK MEDICINE COMPANY', which would have no CIN/LLPIN and no MCA status; this is an inference from PAN structure, not a verified registry record. No revenue figures exist for a proprietorship in MCA filings, so FY25/FY26 revenue is null (proprietorship turnover would only appear in GST returns or ITR, which are not public). NOT rejected: non-existence was not established — the entity was simply not reachable through available sources. Also note the input's declared HS 300450 (pharmaceuticals) contradicts the claimed industry 'oil & gas and chemicals'; per project rules this is not a rejection ground and the HS code should be corrected to the actual product line once verified. Recommended next step: manual GSTIN lookup on the GST portal by trade name + Delhi, and a PAN-based search on the income-tax/GST common portal."
+}
