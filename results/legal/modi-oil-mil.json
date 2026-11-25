@@ -1,0 +1,18 @@
+{
+ "name_input": "Modi Oil Mil",
+ "legal_name": "MODI OIL MILL (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failure: web_search (DuckDuckGo/searx backend) returned 'Connection refused' on all queries; Bing HTML results ignored the quoted query and returned only Narendra Modi biography pages; DuckDuckGo HTML timed out. Direct registry/profile pages blocked or missing: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, thecompanycheck.com search returned HTTP 404. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be sourced, and all such fields are null rather than guessed. The name 'MODI OIL MILL' as given is a typical Indian proprietorship/partnership trade style (oil mill), which would normally have no CIN at all — but this is an inference, not a verified fact. Declared HS 151530 (castor oil) and 291570 (stearic acid/palmitic acid) are consistent with an oil-mill/oleochemical operation, but HS mismatch is not a rejection ground per project rules and no correction is proposed without evidence. NOT rejected: absence of a retrieved record is a research gap, not proof of non-existence, strike-off, liquidation or bankruptcy. Role left as 'unknown' (cannot distinguish manufacturer vs trader without filings). Revenue FY25/FY26 null — no audited accounts or official filings accessible. Recommended next step: re-run with a working search backend and check MCA master data / GST public search for the exact trade name plus district, since multiple unrelated 'Modi Oil Mill' proprietorships may exist across states."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Credo Aviation",
+ "legal_name": "CREDO AVIATION PRIVATE LIMITED (as claimed in input; not independently confirmed in MCA/registry sources)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: the web_search backend returned 'Connection refused' (searx) on both queries; DuckDuckGo HTML endpoint timed out; Google returned only a redirect/consent page; Bing returned only generic 'credo' brand results (Credo Beauty, Credo Mobile, Merriam-Webster) with no Indian company hit, including for site-restricted queries against zaubacorp.com / tofler.in / indiafilings.com. Direct fetches of registry aggregator profiles were blocked or absent: zaubacorp.com and thecompanycheck.com returned HTTP 403 Forbidden; instafinancials.com and quickcompany.in returned HTTP 404 for the guessed slugs. Consequently CIN/LLPIN, PAN (and therefore PAN holder type from the 4th character), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are not public to me in this run, not absent from the registry. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role is 'unknown' because the manufacturer/trader/service classification cannot be established without the MCA objects-of-business clause or GST/udyam classification. IMPORTANT: this is NOT a rejection. Per project rules a company may only be rejected if the entity does not exist, is struck off, liquidated or bankrupt - none of that has been established here, and the absence of a search hit is not evidence of non-existence. Recommended next step: re-run with a working search backend, or verify manually on the MCA portal (mca.gov.in 'Check Company Name' / View Company Master Data) using the exact name 'CREDO AVIATION PRIVATE LIMITED', then pull GSTIN from the GST portal 'Search Taxpayer' and revenue from the filed AOC-4. Also note the declared HS 880310 (aircraft/spacecraft parts) is unverified against any actual product line; per rules an HS mismatch is not a rejection ground and would only yield 'accepted_hs_corrected' with the code set to the factual one."
+}

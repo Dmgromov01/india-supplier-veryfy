@@ -1,0 +1,9 @@
+{
+ "name_input": "COMNET VISION INDIA PVT LTD; COMNET VISION INDIA P LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 23.11.2026. Tooling limitation: the DuckDuckGo search backend returned 'Connection refused' on all attempts; ZaubaCorp and TheCompanyCheck returned HTTP 403; Google returned a redirect stub; only Bing responded, and it returned exclusively generic international 'Comnet'/'ComNet' entities (comnet.net, comnetcomm.com, comnetinfo.com, comnet.com.au) with no hit for any Indian legal entity named 'Comnet Vision (India) Private Limited'. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and could not be queried via plain HTTP GET, so no name-level SDN/Non-SDN screen was actually executed. Consequently: sanctions_hit = null (NOT screened - not a negative finding); court_cases = null (no eCourts/NJDG/High Court record retrieved; party role and status unknown); rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found, and none is expected for a small private company); news_risk = null (no negative news located, but coverage could not be searched); rf_supply = null (no evidence of supplies to Russia or the CIS found - and equally no evidence of absence; nothing public located). Per project rules, absence of public data is recorded as null, not as a clean bill of health. No sanctions, court or criminal matter was found that would in any way affect the company's status - and per Rule 2 such matters would not be rejection grounds regardless. Recommend re-running the sanctions screen (OFAC/EU/UK/BIS) and an eCourts party search manually once the search backend is restored, before relying on this record."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "BLOS SHOWERS AGRO PRIVATE LIMITED",
+ "legal_name": "BLOS SHOWERS AGRO PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and every direct registry source attempted returned an error: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 404), quickcompany.in (HTTP 404), mca.gov.in/mcafoportal (HTTP 403), Google (HTTP 429), DuckDuckGo HTML (timeout). Bing (HTML and RSS) ignored the quoted query and returned only generic 'BLOS' acronym results (BLOS Communications, BVLOS drones, blos-shop.com) - no Indian company record. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null: NOT verified, not 'not existing'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so per the rules the company is NOT rejected - it stays in the base with role 'unknown' pending verification. Note on input quality: the 'legal_claimed' field contains a personal name ('THELLAPPANDA MANICHA SOMIAHA'), not a legal entity name - likely a proprietor/partner/director name, which is inconsistent with a 'PRIVATE LIMITED' entity; this needs clarification from the requester. Declared HS codes (071140, 071190, 090421, 200110 - prepared/preserved vegetables, dried capsicum, prepared onions) are consistent with an agro/food-processing profile, but HS is not a rejection criterion and the actual code must be confirmed against the company's GST registration once obtainable. Recommended next step: retry MCA master data / GST portal lookup when the search backend is restored, or obtain the CIN/GSTIN directly from the supplier."
+}

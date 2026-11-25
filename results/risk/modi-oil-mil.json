@@ -1,0 +1,9 @@
+{
+ "name_input": "Modi Oil Mil",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. The primary search backend (searx/DuckDuckGo) returned connection errors for the entire session; the only reachable engine (Bing) ignored the quoted entity name and returned only generic results about Indian PM Narendra Modi for every query variant tried (\"Modi Oil Mill\", +court case, +GST India, +tofler, +edible oil refinery, +sanctions OFAC). No page about an entity named 'Modi Oil Mill' was retrieved, so nothing can be asserted about OFAC SDN/UN/EU/UK/BIS exposure, Indian court cases, regulator actions, credit rating, or supplies to Russia/CIS. All fields set to null because none of this is public in what could be accessed - not because the company is clean. Note also that the input name appears truncated ('Modi Oil Mil' vs legal_claimed 'MODI OIL MILL') and no PAN/state was supplied, which makes disambiguation of this common-name entity impossible without a CIN/PAN or registered address. Recommend re-running this company once search access is restored, ideally with a CIN or PAN and state, and checking MCA master data, e-courts/NJDG, IBBI, and the OFAC/UN/EU/UK/BIS consolidated lists directly. Per project rules, no rejection is proposed on this basis."
+}
