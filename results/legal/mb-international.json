@@ -1,0 +1,18 @@
+{
+ "name_input": "MB international",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, вердикт не выносится (не rejected). Причина: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in) отдали HTTP 403 Forbidden. Bing/Google по запросам '\"MB INTERNATIONAL\" Gujarat GSTIN' и '\"JVKPK6436A\"' выдали нерелевантную выдачу (Mercedes-Benz, мегабайты, хонингование) — совпадений по PAN или компании не найдено. Единственный доступный реестр (Companies House UK) к индийскому юрлицу отношения не имеет. Итог: точное юрлицо, CIN, GSTIN, дата регистрации, MCA-статус и выручка за FY25/FY26 не подтверждены ни одним источником — все поля null, ничего не выдумано. PAN из ввода 'JVKPK6436A': формат структурно валиден (5 букв + 4 цифры + 1 буква), 4-й символ 'P' => holder type 'Individual' (физическое лицо), НО принадлежность именно этой компании публично не подтверждена, поэтому в поле pan оставлено null. Название 'MB international' крайне неспецифично: в Индии под ним могут существовать десятки проприетарных фирм и Pvt Ltd — без CIN/GSTIN идентификация невозможна. Заявленный штат Gujarat и HS 848210 (подшипники качения) не проверялись и не опровергнуты. Требуется повторный прогон при работающем поиске или доступ к GST-порталу/MCA по конкретному GSTIN или CIN от поставщика."
+}

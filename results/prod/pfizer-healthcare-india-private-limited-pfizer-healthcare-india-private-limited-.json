@@ -1,0 +1,17 @@
+{
+ "name_input": "PFIZER HEALTHCARE INDIA PRIVATE LIMITED; PFIZER HEALTHCARE INDIA PRIVATE LIMITED; PFIZER HEALTHCARE INDIA PRIVATE LIMITED; Pfizer Healthcare India Private Limited",
+ "declared_hs": "842139",
+ "actual_hs_list": [
+  "300490",
+  "300215",
+  "300241",
+  "300212",
+  "300439",
+  "300410",
+  "300420"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Pfizer India's own site (pfizerindia.com, homepage, fetched 2026) states: 'Pfizer Limited has over 150 products in 15 therapeutic areas through 4 key business categories' and describes 'Our India Manufacturing' as a quality-control system across production of 'every Pfizer product'. Global Pfizer product areas (pfizer.com, fetched 2026): Internal Medicine (obesity, type 2 diabetes, cardiovascular/kidney), Inflammation & Immunology, Vaccines, Oncology. Typical Indian Pfizer portfolio lines are finished pharmaceutical formulations (tablets/capsules/injectables), sterile injectables and vaccines — i.e. Chapter 30 goods. No industrial filtration/centrifugal/purifying machinery line is advertised anywhere on the corporate site.",
+ "role_hint": "manufacturer (pharma MNC subsidiary; also importer/marketer of parent-company brands). No trader signs found — no third-party trading catalogue, no IndiaMART-style reseller listing.",
+ "comment": "HS 842139 (machinery for filtering/purifying gases, Chapter 84) is a clear industry misclassification: the declared code belongs to industrial air/gas filtration equipment, while the company is a biopharmaceutical manufacturer/marketer of medicaments and vaccines. Correct HS-6 family: 300490 (other medicaments, retail), 300215/300241 (immunological products, vaccines), 300212 (antisera/blood fractions), 300439/300410/300420 (hormones, penicillins, other antibiotics). Industry claimed as 'Нефтегаз и химия' (oil & gas / chemicals) is also wrong — actual industry is pharmaceuticals. Per project rule 3 the company is NOT rejected for the HS mismatch; verdict accepted_hs_corrected with the code replaced by the factual Chapter 30 codes. Caveat: the exact product-level HS lines are 'заявлено, не подтверждено' — the site confirms the therapeutic areas and '150+ products' but the individual product pages could not be opened (all /products, /our-products, /about-us/our-manufacturing URLs returned only the homepage shell), so no customs line was corroborated in this pass. Also note the legal-entity distinction: pfizerindia.com is the site of Pfizer Limited (listed Indian entity), while the batch names Pfizer Healthcare India Private Limited — the product range is the same Pfizer India portfolio, but entity-level attribution of each product line is not verified here. Revenue/export volumes and registry data deliberately not researched (out of scope for this role)."
+}
