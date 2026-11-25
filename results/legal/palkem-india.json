@@ -1,0 +1,18 @@
+{
+ "name_input": "Palkem India",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "CZPPP7822K",
+ "pan_holder_type": "Individual (proprietor / sole trader) — 4th character 'P' in PAN CZPPP7822K denotes a Person/individual, not a company (C), firm (F) or LLP (F). Note: PAN is taken as claimed in the input; it could NOT be independently verified against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity simply could not be verified. Verification was not possible in this run: the web_search backend returned connection errors ('searx: Connection refused') for every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403, while Google/Bing/DuckDuckGo returned either a redirect/consent page, a timeout, or completely irrelevant results (US universities, gun-control articles) — i.e. no usable search index. Consequently NO public profile was found for either 'Palkem India' (the input trade name) or 'UMA DYE CHEM' (the claimed legal name). Therefore: exact legal entity name, CIN/LLPIN, GSTIN, GST status, date of incorporation, registered-office state and MCA status are all null — not public/not retrieved, not 'absent'. IMPORTANT STRUCTURAL FLAG for the next reviewer: the claimed PAN CZPPP7822K has 'P' as its 4th character, which is the individual/proprietor holder type. That is inconsistent with a company or LLP legal name such as 'UMA DYE CHEM' being a registered corporate entity — it points to a proprietorship/firm, which would have no CIN and no MCA record at all. If confirmed, the correct legal_name would be the proprietor's name with 'UMA DYE CHEM' as a trade name, and cin_llpin would legitimately be null. Also note the input is internally inconsistent: name 'Palkem India' vs legal_claimed 'UMA DYE CHEM' — these are two different names and it is unclear which is the contracting party. Declared HS codes 252100 (limestone/calcareous stone) and 291570 (palmitic/stearic acid) do not match the claimed industry 'Строительство и DIY' (construction/DIY) for the 291570 line; per project rules this is NOT a rejection ground — the company stays in the base and the HS code is to be corrected to the actual one (verdict would be accepted_hs_corrected) once the real product line is established. Role set to 'unknown': no evidence found that this party manufactures, and no evidence it trades. Revenue FY25 and FY26 are null — no audited accounts or official filings were located; per rules these must not be estimated. Recommended next step: re-run with a working search backend, or obtain the GSTIN directly from the supplier and check it on the GST portal, and ask the supplier for the PAN-holder name to resolve the proprietorship-vs-company question."
+}

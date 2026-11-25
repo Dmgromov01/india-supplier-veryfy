@@ -1,0 +1,18 @@
+{
+ "name_input": "Food & Pharma Specialities",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', а публичные реестровые профили (zaubacorp, thecompanycheck, instafinancials, tofler, mca.gov.in, search.mca.gov.in) отдали 403/недоступны; Bing по запросам '\"FOOD & PHARMA SPECIALITIES\" CIN GST' и '\"AADFF7864Q\"' выдал нерелевантную выдачу (рестораны, Xbox-профили) — совпадений нет. Поэтому exact legal entity name, CIN/LLPIN, GSTIN, GST status, дата инкорпорации, MCA status и выручка FY25/FY26 — null (не выдумываю). PAN: заявленный в input 'AADFF7864Q' по формату валиден как PAN физлица/не-компании — 4-й символ 'F' означает Firm (партнёрство/фирма), т.е. это НЕ PAN компании (для компании 4-й символ должен быть 'C'). Это существенное расхождение: либо поставщик — не компания (проприетарная фирма/партнёрство), либо PAN указан неверно; подтвердить по официальному источнику не удалось, поэтому в поле pan оставлено null, а заявленное значение зафиксировано здесь. Роль — unknown (нет подтверждения ни производства, ни торговли). Заявленный штат Uttar Pradesh не сверен с реестровым адресом. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (нет подтверждения ликвидации/банкротства/отсутствия юрлица). Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP/GST-порталу."
+}

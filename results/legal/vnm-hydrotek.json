@@ -1,0 +1,18 @@
+{
+ "name_input": "VNM Hydrotek",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поиск (DuckDuckGo/searx) недоступен — соединение отклонено; Bing по запросам \"VNM Hydrotek\" CIN/GST и по PAN \"AAFFV7667M\" выдал только нерелевантные результаты (VNM Simulation, VanEck VNM ETF и т.п.), ни одного совпадения с индийской компанией. Прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули HTTP 403, содержимое не прочитано. Следовательно: точное юрлицо, CIN/LLPIN, дата регистрации, штат регистрации, статус MCA и GSTIN не установлены — null, а не выдуманы. Заявленный PAN AAFFV7667M: формат структурно корректен (5 букв + 4 цифры + 1 буква), 4-й символ \"F\" соответствует типу держателя — фирма/партнёрство (не компания, у компаний 4-й символ \"C\"), т.е. заявленный PAN, если он верен, указывает на партнёрство/фирму, а не на Pvt Ltd; проверить принадлежность PAN компании не удалось, поэтому pan=null. Заявленный штат Maharashtra не сверен с реестром. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26: аудиторская отчётность и официальные филинги не найдены, значения null. Отклонение НЕ применяется: отсутствие подтверждения — не основание для rejected по правилам проекта; статус — требует дополнительной проверки через MCA/GST-портал вручную. Рекомендация: запросить у поставщика CIN, GSTIN-сертификат и PAN-карту, затем сверить на mca.gov.in и gst.gov.in."
+}

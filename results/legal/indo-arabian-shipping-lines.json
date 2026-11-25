@@ -1,0 +1,18 @@
+{
+ "name_input": "Indo Arabian Shipping Lines",
+ "legal_name": "INDO ARABIAN SHIPPING LINES (INDIA) PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AABCI4611H (claimed in input; NOT verified against any public record)",
+ "pan_holder_type": "4th character 'C' = company (per PAN format rule); holder type inferred from the claimed PAN only, not verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: the web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML and Google returned 403/redirect-only pages; Bing returned only generic 'Indo' results with the query terms effectively ignored (no company-specific hits); zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in/mcafoportal all returned HTTP 403; quickcompany.in search path returned 404. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null - not public via accessible sources in this session, and NOT invented. The claimed PAN AABCI4611H could not be corroborated by any public page; its 4th character 'C' would denote a company-type holder, but this is a format inference only. No evidence either way on existence, strike-off, liquidation or bankruptcy, so the entity is NOT rejected under the rules (rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy). Role left as 'unknown': the name suggests a shipping-lines/logistics business rather than a manufacturer of HS 300420 (medicaments), but no registry record confirms activity type. Declared HS 300420 vs claimed industry 'oil & gas and chemicals' is internally inconsistent and should be corrected to the actual code once the entity is identified - per project rules this is not a rejection ground. Recommended next step: manual MCA master-data lookup by name/CIN and GST portal search on the claimed PAN, then re-run."
+}

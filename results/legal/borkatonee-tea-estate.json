@@ -1,0 +1,18 @@
+{
+ "name_input": "BORKATONEE TEA ESTATE",
+ "legal_name": "Gillanders Arbuthnot and Company Limited (GACL) — Borkatonee is a tea estate/garden division of this company, not a separate legal entity",
+ "cin_llpin": null,
+ "pan": "AAACG9832F",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'G' = surname initial of the entity as registered) — PAN format is valid and consistent with a company; could not be cross-verified against an official Income Tax / MCA record because registry aggregators returned HTTP 403 and the search engine was unavailable",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1935-02-01",
+ "state_registered": "West Bengal (registered office: C-4, Gillander House, Netaji Subhas Road, Kolkata - 700 001, WB)",
+ "state_claimed": "Did not find you looking for? Please refine your search. Type few letters of company name or pan. (garbage/error text, not a state)",
+ "mca_status": "Active — company is a listed public limited company (Kothari Group), still publishing annual reports up to FY2025-26 on its own website; no strike-off/liquidation/winding-up notice found. MCA master-data page itself could not be opened (403).",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Not retrieved. Company website hosts Annual Reports 2024-2025 and 2025-2026 and Financial Results, but the direct financial-results/annual-report URLs returned HTTP 404 and the search engine was down, so no audited figure could be read. Null rather than estimated.",
+ "note": "Verified from the company's own website (gillandersarbuthnot.com, fetched successfully): GACL originated as a 19th-century partnership of F. M. Gillanders and G. C. Arbuthnot, was incorporated as a limited company under the Indian Companies Act VII of 1913 on 1 February 1935, is part of the Kothari Group, and operates Tea, Textiles, Engineering (MICCO) and Property divisions. It states it manufactures ~10 million kg of Assam and Dooars tea (CTC, Orthodox, Green) and holds 'Export House' recognition from DGFT (Certificate of Recognition dated 16 Dec 2010). Registered office confirmed as C-4, Gillander House, Netaji Subhas Road, Kolkata 700001, West Bengal. IMPORTANT on the input: 'Borkatonee Tea Estate' is a garden/division brand, not a registered company — the legal counterparty is Gillanders Arbuthnot and Company Limited, so the input name should be corrected to the legal entity. The claimed state field in the input is not a state at all (it is scraped error text from a search box), so state comparison is meaningless; actual registered state is West Bengal. PAN AAACG9832F is plausible for this company but is NOT independently confirmed — no public source was reachable. CIN, GSTIN, GST status, MCA status detail and both revenue figures are null because every registry source (Zauba, TheCompanyCheck) returned 403 and web search was unavailable; these must be re-checked against MCA master data and the GST portal before use. No rejection grounds found: the entity exists and shows no sign of strike-off, liquidation or bankruptcy. Per project rules, no customs/shipment or court research was performed in this role."
+}

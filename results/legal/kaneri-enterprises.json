@@ -1,0 +1,18 @@
+{
+ "name_input": "Kaneri enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend connection error (searx: Connection refused) on both queries, and direct fetches of registry aggregators were blocked or unusable: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, tofler.in search returned a 404 page, and Bing/Google result pages returned unrelated cached content (thesaurus/Zoom pages) rather than any page about this entity. No public record was obtained for 'Kaneri Enterprises' or for the proprietor name 'Sanyogita Shrenik Patil'. Consequently legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not because they do not exist, but because nothing could be read from a public source in this session. Note on the input: the 'legal_claimed' field contains a personal name (Sanyogita Shrenik Patil), which is consistent with a sole proprietorship rather than a company; a proprietorship has no CIN and no MCA status, and its PAN would be an individual PAN (4th character 'P'), but this is an inference from the input format only and is NOT confirmed by any source. The claimed state Karnataka is likewise unverified. Role is recorded as 'unknown' — the declared HS 732510 (cast iron articles) and the industry label 'Металлургия и горнодобыча' are claims from the input, not evidence of manufacturing capability. Revenue FY25 and FY26 are null: no audited accounts or official filings were located, and for a proprietorship such figures are typically not public. Per project rules this entity is NOT rejected — non-existence, strike-off, liquidation or bankruptcy was not established; the correct status is 'unverified / data not public', and the record should be re-checked against the GST portal (GSTIN search by trade name and state) and the MCA master data before any verdict."
+}

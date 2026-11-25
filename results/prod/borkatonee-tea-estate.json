@@ -1,0 +1,14 @@
+{
+ "name_input": "BORKATONEE TEA ESTATE",
+ "declared_hs": "090111;090220;090230;090240",
+ "actual_hs_list": [
+  "090240",
+  "090230",
+  "090210",
+  "090220"
+ ],
+ "match_status": "partial",
+ "product_summary": "Borkatonee Tea Estate is a tea garden of Gillanders Arbuthnot & Co. Ltd. (Kolkata, Kothari Group). Per the company's own website (gillandersarbuthnot.com, home page): 'GILLANDERS is one of the producers of Assam & Dooars quality tea... We manufacture around 10 Million kgs Tea comprising of CTC, Orthodox & Green Tea.' So the real product line is: black tea, CTC (bulk, HS 0902 40), black tea orthodox/leaf (0902 30 / 0902 40 depending on pack), green tea (0902 10), and small-pack retail tea (0902 30). No product page or catalogue with SKU-level detail could be opened - the site's division sub-pages returned HTTP 404, so the mapping rests on the home-page statement only.",
+ "role_hint": "manufacturer (tea estate / producer, part of a diversified group that also runs textiles, engineering 'MICCO' and property; group holds 'Export House' recognition per site)",
+ "comment": "Declared codes 090111 (green coffee, not decaffeinated) and 090220 (green tea >3kg) are inconsistent with the stated product mix: 090111 is coffee, not tea at all - a clear HS error, not a reason to reject (Rule 3), code must be corrected. Correct set for a CTC/orthodox/green tea producer: 090240 (black tea, other, bulk), 090230 (black tea, packings <=3kg), 090210 (green tea <=3kg), 090220 (green tea >3kg) - the last one is the only declared code that is plausible. 090111 should be dropped. Industry classification 'Продукты питания и FMCG' is broadly right for tea but understates that this is a primary plantation/commodity producer, not an FMCG brand; note the group also has non-food divisions (textiles/yarn, engineering fabrication) which are outside this entity's declared scope. Trader signs: none found - the site presents itself as a producer/manufacturer, though it also holds Export House status and the group has a trading activity line, so a merchant-export component cannot be excluded. All product claims are 'заявлено, не подтверждено': no customs line, invoice or shipment record was checked in this task (out of scope), and no catalogue-level evidence was retrievable because the site's sub-pages 404'd. Note also that the input's 'state_claimed' field contains a search-page error string, not a state - data quality issue in the source record, not a company attribute."
+}
