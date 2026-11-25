@@ -1,0 +1,18 @@
+{
+ "name_input": "PARAGON FINE AND SPECIALITY CHEMICAL LIMITED",
+ "legal_name": "PARAGON FINE AND SPECIALITY CHEMICAL LIMITED",
+ "cin_llpin": null,
+ "pan": "AAKCP1837D",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'P' = surname initial of the person/entity on record) — format-consistent, but NOT verified against MCA/PAN records",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failed: the web_search backend returned 'Connection refused' on every query; Bing returned only generic 'Paragon' brand results (Paragon Fitwear, Paragon Bank, Paragon Software) with no Indian chemical company; Zauba Corp, TheCompanyCheck and InstaFinancials returned HTTP 403; Tofler returned HTTP 404 for the guessed CIN. No CIN/LLPIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source, so all such fields are null rather than guessed. The PAN AAKCP1837D is reported only as supplied in the input; its format is consistent with a company PAN (4th char 'C'), but holder type and validity are unverified. The claimed state Gujarat is unverified. Role left as 'unknown' — the name suffix 'LIMITED' and the declared HS 292221 (aromatic monocarboxylic acids / chemical intermediates) are consistent with a chemical manufacturer, but this is an inference from the name and HS code, not a verified fact. Per project rules the company is NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — there is simply no evidence either way. Action required: re-run verification when MCA/GST portals are reachable (MCA master data, GST taxpayer search by PAN, and audited FY25/FY26 accounts) before any commercial decision."
+}

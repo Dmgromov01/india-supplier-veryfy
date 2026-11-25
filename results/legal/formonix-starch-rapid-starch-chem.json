@@ -1,0 +1,18 @@
+{
+ "name_input": "Formonix Starch (Rapid Starch Chem)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ подтверждена. Ни одна из проверок не дала результата: web_search (DuckDuckGo/searx) вернул ошибку соединения на всех запросах; прямые запросы к реестровым агрегаторам заблокированы или недоступны — zaubacorp.com HTTP 403, instafinancials.com HTTP 403, thecompanycheck.com HTTP 404, tofler.in HTTP 404, IndiaMART HTTP 429. Bing/Google по запросам 'Formonix starch India', 'Rapid Starch Chem', 'Formonix Starch Chem India GST CIN' выдали только нерелевантную выдачу (HP, Blooket, The Rapid) — совпадений по названию нет. Входные данные противоречивы и неполные: в поле name указаны два разных бренда ('Formonix Starch' и 'Rapid Starch Chem'), legal_claimed='FORMONIX' не является полным юрлицом (нет Organizational part: Private Limited / LLP / OPC и т.д.), PAN и штат не заявлены. Поэтому CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус — null: публично не подтверждено, выдумывать нельзя. Роль — unknown (нет данных ни о производстве, ни о трейдинге). Выручка FY25 и FY26 — null: аудированной отчётности или официальных филингов не найдено. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных в этой сессии не доказывает, что юрлица не существует; оснований для rejected (не существует / struck off / ликвидировано / банкрот) нет. Требуется повторная проверка с доступом к MCA21 (company master data) и GST-порталу по точному полному названию и штату, а также уточнение у заказчика: какое именно юрлицо имеется в виду — 'Formonix' или 'Rapid Starch Chem', и его штат/PAN. HS 350510 (декстрины и прочие модифицированные крахмалы) не проверялся по существу — по правилам проекта несоответствие HS не является основанием для отклонения."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "LIEBHERR INDIA PVT. LTD.; LIEBHERR INDIA PVT LTD; M/S LIEBHERR INDIA PRIVATE LIMITED; LIEBHERR INDIA PRIVATE LIMITED",
+ "legal_name": "LIEBHERR INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failure: web_search backend returned 'Connection refused' for all queries; DuckDuckGo HTML and Google returned 403/redirect-only; Bing returned only generic Liebherr Group corporate pages (liebherr.com, Wikipedia, LinkedIn) with no Indian registry record; zaubacorp.com and thecompanycheck.com returned HTTP 403 on direct fetch. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all left null rather than guessed. IMPORTANT: the PAN claimed in the input (AABCL2049J) is NOT confirmed by any source read here; note that the 4th character 'C' would denote a COMPANY holder, which is at least consistent with a private limited company, but this is a format observation only, not verification. Also unverified: the claimed HS 847160 (ADP machines/IT hardware) does not match Liebherr's known business (construction & mining machinery, cranes, refrigeration, aerospace components) - per project rules this is NOT a rejection ground; the company is retained and the HS code should be corrected to the actual product line once verified. No rejection applied: no evidence found that the entity does not exist, is struck off, liquidated or bankrupt - absence of data is not evidence of non-existence. Role left 'unknown' pending verification (Liebherr's Indian entity is widely presented as a sales/service and manufacturing presence of the German-Swiss group, but this was not confirmed from a registry source in this run). Recommended follow-up: re-run with working search, or query MCA master data / GST public search directly for 'LIEBHERR INDIA PRIVATE LIMITED'."
+}

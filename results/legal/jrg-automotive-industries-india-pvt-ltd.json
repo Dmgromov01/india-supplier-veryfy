@@ -1,0 +1,18 @@
+{
+ "name_input": "JRG Automotive Industries India Pvt Ltd",
+ "legal_name": "JRG AUTOMOTIVE INDUSTRIES INDIA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AASCS3288F (as claimed in input; not verified)",
+ "pan_holder_type": "Company (4th character 'C' = company, per PAN format rule) — based on the claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error (searx: Connection refused) on both queries, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403 Forbidden. Bing/Google/DDG HTML endpoints returned only irrelevant or blocked results; a search on the claimed PAN 'AASCS3288F' produced no matching Indian company record. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, not because they are absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown': no evidence found either way on manufacturing vs trading. No rejection applied — there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a research limitation, not a negative finding. Note the claimed PAN's 4th character 'C' is consistent with a company holder, but the PAN itself is unverified. Also note the declared HS 392690 (plastics articles) does not match the claimed industry 'oil & gas and chemicals' — per project rules this is not a rejection ground; the HS code should be corrected to the factual one once product data is available. Recommend re-running verification when MCA/GST portals or a working search backend are reachable."
+}

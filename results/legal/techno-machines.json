@@ -1,0 +1,18 @@
+{
+ "name_input": "Techno Machines",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один публичный реестровый источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, ошибка соединения; (2) zaubacorp.com и thecompanycheck.com — HTTP 403; (3) instafinancials.com — HTTP 403; (4) quickcompany.in — HTTP 404; (5) falconebiz.com — страница поиска требует JavaScript, выдача не отдаётся; (6) Google/Bing по запросам «Techno Machines» + «Praveen Sethi» / GSTIN / Maharashtra выдали только нерелевантные результаты (музыкальный жанр techno, TECNO Mobile) — совпадений по компании нет. ВАЖНО: 'PRAVEEN SETHI' в поле legal_claimed — это имя физлица (вероятно, проприетор или директор), а не название юрлица; 'Techno Machines' — коммерческое обозначение. Без подтверждённой связки имя-физлицо ↔ фирменное наименование/проприеторство нельзя утверждать, что юрлицо вообще зарегистрировано как компания/LLP: это может быть sole proprietorship без CIN (тогда CIN/LLPIN = null по природе, а не по сокрытию данных). CIN, PAN, GSTIN, дата инкорпорации, MCA-статус, выручка FY25/FY26 — null, данные не найдены в публичных источниках, не выдумывались. Штат Maharashtra не подтверждён и не опровергнут. Роль (manufacturer/trader) не установлена — заявленные HS 847940/847989 (машины для производства канатов/тросов и прочее механическое оборудование) относятся к металлургии/машиностроению, но это не подтверждает ни производственный, ни торговый характер деятельности. ВЕРДИКТ: НЕ отклонять — оснований для rejection (несуществование, struck off, ликвидация, банкротство) нет, они просто не проверены; статус — 'не проверено, требуется повторный прогон при доступных реестрах (MCA master data, GST-портал по GSTIN, Tofler/ZAUBACorp)'. Рекомендация: запросить у поставщика GSTIN и PAN напрямую — по ним проверка займёт один шаг."
+}

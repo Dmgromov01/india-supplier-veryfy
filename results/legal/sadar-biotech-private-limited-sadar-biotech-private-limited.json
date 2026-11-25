@@ -1,0 +1,18 @@
+{
+ "name_input": "SADAR BIOTECH PRIVATE LIMITED; SADAR BIOTECH PRIVATE LIMITED",
+ "legal_name": "SADAR BIOTECH PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AAZCS5846G (as claimed by input; not verified against any public source)",
+ "pan_holder_type": "Company (4th character 'C' of the claimed PAN indicates a company holder) — based on the claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Goa",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend returned connection errors ('searx: Connection refused') for both queries, and all direct registry/aggregator pages attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, mca.gov.in) returned HTTP 403/404 or timed out. Bing/Google HTML fallbacks returned only irrelevant results for both the company name and the claimed PAN AAZCS5846G, i.e. no public page confirming this entity was reachable. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrievable in this session, and NOT invented. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy could not be established either way, so the entity is left unverified rather than rejected. PAN holder type is inferred solely from the 4th character of the input-claimed PAN (C = company) and must be re-checked against the Income Tax / MCA record. Role cannot be determined from registry data alone (declared HS 1513/1516/2106 suggests edible oils/fats and food preparations, but that is a product-code inference, not a registry fact). Revenue FY25/FY26: no audited accounts or official filings were accessible, so null per rules. Recommended next step: re-run against MCA master data / GST public search when the search backend is available."
+}

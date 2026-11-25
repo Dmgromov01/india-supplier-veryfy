@@ -1,0 +1,8 @@
+{
+ "name_input": "Formonix Starch (Rapid Starch Chem)",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row found. ImportKey pages for slugs 'formonix-starch', 'rapid-starch-chem' and 'formonix' all returned the identical empty template: 'Shipments available for FORMONIX STARCH, refreshed daily' — a boilerplate header with zero records rendered (0 rows seen on each of 3 pages). No bill-of-lading number, date, destination or HS code was displayed on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, so no domestic-supply source could be located; eximpedia, trademo and volza returned HTTP 403.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось. Все три варианта слага на importkey отдали пустой шаблон (0 строк), вторичные источники (volza, eximpedia, trademo) заблокировали доступ (403), поисковик был недоступен. Заявленный HS 350510 (декстрины и прочие модифицированные крахмалы) не проверен по фактическим записям. Выручка: null (не публична/не найдена). Объём экспорта: null. Юрлицо FORMONIX / Rapid Starch Chem в реестрах не верифицировано — CIN/PAN отсутствуют. Требуется повторный прогон при доступном поиске и платном доступе к таможенным данным; статус 'unknown', а не 'none_found', поскольку отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок."
+}
