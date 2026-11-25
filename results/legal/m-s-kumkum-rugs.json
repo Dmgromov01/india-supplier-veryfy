@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S KUMKUM RUGS",
+ "legal_name": "KUMKUM RUGS (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "AAMFK0496N",
+ "pan_holder_type": "F — Firm/Partnership firm (4th character 'F' of the claimed PAN indicates a firm, not an individual/proprietor or company). Note: PAN is as claimed in the input; it could NOT be verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "VERIFICATION INCOMPLETE — NOT A REJECTION. No evidence of non-existence was found; equally, no registry record was retrieved. Tooling failure: the web_search backend returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant cached results (kumkum powder / TV serial pages) for the exact queries '\"KUMKUM RUGS\" AAMFK0496N', '\"AAMFK0496N\"', '\"KUMKUM RUGS\" GSTIN \"Uttar Pradesh\" proprietor' and '\"Kumkum Rugs\" Bhadohi carpet exporter'; Zauba Corp company search returned HTTP 403. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null — not public in this session, NOT invented. PAN AAMFK0496N is carried over from the input only; its 4th character 'F' implies a partnership firm, which is consistent with the 'M/S' prefix and with a non-corporate entity that would have no CIN at all (firms are registered with the Registrar of Firms, not MCA), so absence of a CIN is expected rather than evidence of non-existence. Role cannot be determined from registry data alone; the declared HS 570190 (knotted carpets) is inconsistent with the claimed industry 'food & FMCG', but per project rules an HS mismatch is NOT grounds for rejection — the code should be corrected to the factual one and the company retained. Action required: re-run this entity when search access is restored, checking GST public profile (GSTIN search by PAN AAMFK0496N), UP Registrar of Firms / Udyam registration, and any audited accounts; until then treat all registry fields as unconfirmed."
+}

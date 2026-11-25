@@ -1,0 +1,8 @@
+{
+ "name_input": "KK Shaving",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/kk-shaving (and slug variants /kk-shaving-system, /kk-shaving-system-ptd-ld-romer-7) returned only the generic template: \"Shipments available for KK SHAVING, refreshed daily\" with no shipment table, no B/L number, no date, no destination, no HS code. Rows actually seen: 0 of 0. No export record found on any source.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Bing queries for \"KK Shaving\" / \"KK Shaving System\" / \"K.K. Shaving\" + India returned only unrelated results about the singer KK (e.g. \"KK (singer) - Wikipedia\"); zero rows relevant to the company. DuckDuckGo search endpoint was unreachable (connection refused / timeout).",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок (нет ни одной таможенной/B-L записи с датой и направлением), ни подтверждённых поставок внутри Индии (нет GST-оборота, тендеров, контрактов). Название в заявке выглядит искажённым ('KK SHAVING SYSTEM PTD LD ROMER 7' — вероятно 'Pvt Ltd' + адрес/марка), поэтому однозначная идентификация юрлица невозможна; PAN AGVPP8386K и штат Gujarat не проверены по первоисточнику. Выручка и объём экспорта: null (не публичны / не найдены). Заявленный HS 821210 (бритвы и лезвия) не подтверждён ни одной записью; отрасль 'Строительство и DIY' с этим HS не согласуется, но по правилу 3 HS-несоответствие не является основанием для отклонения — вердикт по компании не выносится как rejected, статус остаётся 'следов поставок не найдено'. Источники volza/eximpedia/trademo вернули HTTP 403, importkey — пустой шаблон."
+}
