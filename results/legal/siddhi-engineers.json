@@ -1,0 +1,18 @@
+{
+ "name_input": "Siddhi Engineers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: web_search backend refused connections (searx: Connection refused); Bing/Google HTML endpoints returned only generic 'Siddhi' (yoga/software) results with no company-registry hits; zaubacorp.com returned HTTP 403; mca.gov.in returned HTTP 403; thecompanycheck.com and instafinancials.com returned HTTP 404; duckduckgo.com timed out. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be sourced, and all such fields are set to null rather than guessed. 'Siddhi Engineers' is a very common Indian trade name (multiple proprietorships/partnerships across states), so no single legal entity can be attributed to the input without a GSTIN or CIN from the buyer. NOT rejected: absence of public data is not evidence of non-existence, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, none of which was found. Role left as 'unknown' - the claimed industry 'IT и электроника' is inconsistent with declared HS 760810 (aluminium tubes/pipes), which suggests a possible mismatch in the input record, but HS is not a rejection ground and the actual code must be corrected from the invoice, not from this desk. Action required: obtain GSTIN or CIN (or a GST invoice copy) from the supplier/buyer, then re-run verification against MCA master data and the GST taxpayer profile."
+}

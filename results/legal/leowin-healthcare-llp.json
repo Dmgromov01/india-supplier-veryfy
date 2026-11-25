@@ -1,0 +1,18 @@
+{
+ "name_input": "LEOWIN HEALTHCARE LLP",
+ "legal_name": "LEOWIN HEALTHCARE LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAKFL4192L",
+ "pan_holder_type": "LLP (firm) — 4th character 'F' in AAKFL4192L denotes a Firm/LLP PAN; format is structurally valid (5 letters + 4 digits + 1 letter). Value taken from the input claim, not confirmed against an independent public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed: the web_search backend was unreachable (connection refused) and every registry/profile source attempted returned 403/404 or irrelevant results — zaubacorp.com (403), thecompanycheck.com (403/404), tofler.in (404), instafinancials.com (403), mca.gov.in MDS (403), Google (redirect only), DuckDuckGo (403), Bing (returned unrelated spam results for both the company name and the PAN). Therefore no LLPIN/CIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be sourced, and no audited FY25/FY26 revenue is available — all left null rather than guessed. PAN AAKFL4192L is recorded only as claimed by the input; its 4th character 'F' is consistent with an LLP/firm holder, which matches the 'LLP' suffix, but this is a format check, not confirmation of existence. NOT rejected: non-existence/strike-off/liquidation could not be established either way, and per project rules rejection requires positive evidence of non-existence or strike-off. Action needed: re-run once search/registry access is restored (MCA master data by name, GST portal search by PAN/legal name) to confirm the entity exists, its LLPIN, registered state (claimed Gujarat — unverified) and GST standing. Note also that the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the name 'Healthcare' and the declared HS 300450 (medicaments) — industry field appears mis-filled; HS/industry mismatch is not a rejection ground per rules, but the actual business line should be corrected. Role left 'unknown' pending registry/NIC-code evidence."
+}

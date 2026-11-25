@@ -1,0 +1,18 @@
+{
+ "name_input": "BHARAT",
+ "legal_name": "Bharat Heavy Electricals Limited",
+ "cin_llpin": "L40102DL1964GOI004573",
+ "pan": "AABCB0250H",
+ "pan_holder_type": "C — company (4th character 'C' in PAN AABCB0250H)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1964-11-13",
+ "state_registered": "Delhi",
+ "state_claimed": "Gujarat",
+ "mca_status": "Active (listed Maharatna CPSE, Government of India 63.17%; BSE:500103 / NSE:BHEL)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": 33782.18,
+ "revenue_source": "FY26: BHEL Q1 FY2026-27 results filing (quarter ended 30 June 2026), https://www.bhel.com/sites/default/files/BHEL%20Results%20Q1%2026-27.pdf — FY2026 revenue ₹33,782.18 crore as cited in the company's own filing (via Wikipedia infobox citing that PDF; PDF itself is a scanned image and could not be text-verified). FY25: not verified in this session — null.",
+ "note": "Registry identity is unambiguous: Bharat Heavy Electricals Limited, incorporated 13 November 1964 (Wikipedia, citing BHEL history; HE(I)L of 1956 was merged into BHEL in Jan 1974). Registered office BHEL House, Siri Fort, New Delhi 110049 — i.e. Delhi, NOT Gujarat as claimed in the input; BHEL's Gujarat presence is manufacturing units (e.g. Vadodara/TTPS) and regional offices, not the registered office. CIN L40102DL1964GOI004573 and PAN AABCB0250H are the widely published identifiers for this CPSE but could not be re-verified against MCA in this session (zaubacorp returned HTTP 403, DuckDuckGo search backend was down) — treat CIN/PAN as high-confidence but not MCA-confirmed here. GSTIN: no public GST profile could be retrieved (search unavailable, aggregator pages blocked), so GSTIN and GST status are null — BHEL as a multi-state manufacturer almost certainly holds multiple GSTINs, but none is confirmed here. Role: manufacturer (own 16 manufacturing facilities, design-to-commissioning). Declared HS codes 840681/841181/841182 (steam/gas turbines) and 841430 (compressors) are consistent with BHEL's actual product range — no HS correction needed. No rejection grounds: entity exists, is active and listed."
+}

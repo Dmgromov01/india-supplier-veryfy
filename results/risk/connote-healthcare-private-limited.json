@@ -1,0 +1,9 @@
+{
+ "name_input": "CONNOTE HEALTHCARE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Bing отдавал нерелевантный кэш (словарные статьи на 'connote') независимо от запроса, Google/DDG HTML — 403. Реестры: zaubacorp.com — 403, tofler.in — 404, instafinancials.com — 404. OFAC Sanctions List Search доступен только как JS-форма, GET-запрос с именем не даёт результатов, поэтому санкционный скриннинг по SDN/Non-SDN, UN, EU, UK, BIS Entity List фактически не проведён — null означает 'не проверено', а НЕ 'чисто'. Судебные дела (eCourts/NCLT/HC), действия регуляторов (CDSCO, GST, FSSAI), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не установлены. Никаких утверждений о наличии или отсутствии рисков по данной компании делать нельзя. Требуется повторный запуск с работающим поиском и/или доступом к платным реестрам (Zauba/Tofler/InstaFinancials) и eCourts. Отклонение по правилу 3 не применимо — данных о ликвидации/банкротстве нет, но и подтверждения существования юрлица получить не удалось."
+}

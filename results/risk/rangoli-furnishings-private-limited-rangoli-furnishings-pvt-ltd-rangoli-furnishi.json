@@ -1,0 +1,9 @@
+{
+ "name_input": "RANGOLI FURNISHINGS PRIVATE LIMITED; RANGOLI FURNISHINGS PVT.LTD.; RANGOLI FURNISHINGS PVT.LTD.; RANGOLI FURNISHINGS PRIVATE LIMITED; RANGOLI FURNISHINGS PRIVATE LIMITED; RANGOLI FURNISHINGS PVT.LTD; RANGOLI FURNISHINGS PVT.LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK CHECK NOT COMPLETED - no data obtained, all fields null. Reason: the web_search tool (DuckDuckGo/searx) returned 'Connection refused' on every call, and fallback attempts via http_get on Google, Bing and DuckDuckGo HTML endpoints returned either a redirect/consent page or completely irrelevant results (Florida Theatre, Gmail, Microsoft support pages) - i.e. no usable search index. Direct fetch of zaubacorp.com company page returned HTTP 403. Consequently nothing could be verified on: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role, status), regulator actions, negative news, credit rating, or any evidence of supplies to Russia/CIS. No sanctions hit was found, but this must NOT be read as a clean result - it is an absence of research, not an absence of risk. Per project rules no numbers, CINs, PANs or shipment records were invented. Also note: the claimed industry ('Продукты питания и FMCG' - food/FMCG) is inconsistent with the declared HS codes 630260/630419/630710 (toilet/kitchen linen, bed linen, cleaning cloths - home textiles), which is a data-quality flag for the legal/HS researcher, not a risk finding. Recommended action: re-run this company once a working search backend is available, and in the meantime check the name manually against the OFAC SDN list search, the BIS Entity List, and Indian court records (eCourts/NJDG) plus IBBI insolvency data."
+}

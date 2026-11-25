@@ -1,0 +1,18 @@
+{
+ "name_input": "RUHRPUMPEN INDIA PRIVATE LIMITED",
+ "legal_name": "RUHRPUMPEN INDIA PRIVATE LIMITED (as claimed; not independently confirmed against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": "AAECR3075M",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type PAN; consistent with a private limited company) — PAN taken from input, NOT verified against a public registry profile",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Tamil Nadu (per company's own official site: Plot No. G33, SIPCOT Industrial Park, Vallam Vadagal, Sriperumbudur Taluk, Kanchipuram District, Tamil Nadu 602105) — matches state_claimed",
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no data invented. Sources actually read: (1) ruhrpumpen.com/contact/india — official group page confirming 'Ruhrpumpen India Pvt. Ltd.' operates a pump MANUFACTURING plant (3,600 m2 plant, 700 m2 offices, test capability up to 5 MW, UL/FM fire-pump systems) at SIPCOT Industrial Park, Vallam Vadagal, Kanchipuram District, Tamil Nadu 602105, phone +91 44 3322-9900. This supports role=manufacturer and state_registered=Tamil Nadu = state_claimed. (2) Attempts to read MCA-derived public profiles failed: zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned HTTP 404 for the guessed URL slugs; the DuckDuckGo search tool was unavailable (connection refused) and Bing/Google HTML results returned only generic Ruhrpumpen Group pages with no CIN/GSTIN snippet. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, MCA status and audited revenue FY25/FY26 are all null — not public in the sources reachable here, and NOT guessed. PAN AAECR3075M is carried over from the input only; its 4th character 'C' denotes a company-type holder, which is consistent with a private limited company, but the PAN itself was not confirmed on any public profile. No basis for rejection: the entity demonstrably exists and operates (official corporate site), and nothing found indicates strike-off, liquidation or bankruptcy — MCA status simply unverified. HS codes 732690/841370 are broadly consistent with a pump manufacturer (cast/machined steel articles; centrifugal pumps), but per project rules HS mismatch is not a rejection ground and no HS verdict is issued here. Revenue: no audited accounts or official filings were accessible, so null per rule 4."
+}

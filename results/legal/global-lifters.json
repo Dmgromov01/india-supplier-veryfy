@@ -1,0 +1,18 @@
+{
+ "name_input": "Global Lifters",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AXWPG8906A",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'P' in AXWPG8906A denotes a Person/individual PAN, not a company (C) or firm (F). This is consistent with the input's 'legal_claimed' field being a personal name (NAVIN GUPTA), i.e. a proprietorship, not a registered company. PAN itself is taken from the input and was NOT independently verified against any public GST/MCA record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on every query, and direct fetches of registry/profile sources were blocked (zaubacorp.com 403, thecompanycheck.com 404, mca.gov.in 403, duckduckgo.com 403). Bing/Google HTML endpoints returned only generic unrelated results with the query terms ignored, so no usable hit was obtained. Consequently: no CIN/LLPIN, no GSTIN, no GST status, no incorporation date, no registered-office state and no MCA status could be confirmed from a public source. Because the PAN 4th character is 'P', the entity is most likely a sole proprietorship trading under the name 'Global Lifters' rather than a company, which would mean no CIN exists at all — but this is an inference from the PAN format, not a verified fact. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Per project rules the company is NOT rejected: non-existence/struck-off/liquidation/bankruptcy could not be established either way, and absence of retrievable records is not proof of non-existence. Role left as 'unknown' — no registry evidence of manufacturing plant, GST turnover or trade activity was obtainable. Action required: re-run this company when search/registry access is restored, checking (a) GST portal 'Search Taxpayer' for the GSTIN linked to PAN AXWPG8906A, (b) MCA company/LLP name search for 'Global Lifters', (c) Udyam registration if a proprietorship. Also note the declared HS 870840 (gearboxes/parts for motor vehicles) is a weak fit for a name suggesting lifting/handling equipment — flagged for HS review only, not a rejection ground."
+}

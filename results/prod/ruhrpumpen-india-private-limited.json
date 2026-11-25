@@ -1,0 +1,18 @@
+{
+ "name_input": "RUHRPUMPEN INDIA PRIVATE LIMITED",
+ "declared_hs": "732690;841370",
+ "actual_hs_list": [
+  "841370",
+  "841319",
+  "841381",
+  "841391",
+  "732690",
+  "848340",
+  "841350",
+  "841360"
+ ],
+ "match_status": "partial",
+ "product_summary": "Group website (ruhrpumpen.com, homepage read 2026) describes the corporate product range: between-bearing pumps, overhung pumps, horizontal pumping systems, vertical pumps, magnetic drive pumps, reciprocating pumps, fire pumps & fire systems, hydraulic decoking systems, plus spare parts for pumps of all brands. Standards cited: API, ANSI, Hydraulic Institute, UL, FM, ISO. Markets: oil & gas, offshore, power generation, industrial, chemical, water & wastewater, mining. The India entity (Tamil Nadu / Coimbatore) is a group manufacturing/service site; its own product page could not be opened (all /en/... sub-paths returned 404, site is JS-routed), so the India-specific SKU list is not publicly confirmed.",
+ "role_hint": "manufacturer (group manufacturing subsidiary; also spare-parts/aftermarket and rental/service lines -> manufacturer_trader possible for parts)",
+ "comment": "Declared 841370 (other centrifugal pumps) is CORRECT and is the core line: overhung/ANSI, between-bearing/API 610, vertical, magnetic-drive and horizontal pumping systems are all centrifugal pumps -> 8413.70 exact match for the main product. Declared 732690 ('other articles of iron or steel') is only partially defensible: it can cover non-machined steel fabrications, but pump-specific cast/machined parts (casings, impellers, shafts, seals) belong to 8413.91 (parts of pumps) and castings to 7325/8413.91, not 732690. So 732690 is likely a mis-mapped line for pump components -> partial. Missing from the declaration: 8413.19/8413.81 (fire pumps and fire pump systems, UL/FM - a distinct declared product line on the group site), 8413.50/8413.60 (reciprocating pumps, hydraulic decoking systems), 8413.91 (pump parts - the group explicitly sells spare parts for all brands, a major revenue line), and 8483.40 (gearboxes/drives if supplied with pumping systems). Industry classification 'Металлургия и горнодобыча' (metallurgy & mining) is a MISCLASSIFICATION: mining is only one of seven end-markets; the company is a general industrial pump manufacturer (mechanical engineering, HS chapter 84), not a metals/mining producer. Trader signs: none for own pumps (own brand, own facilities), but the 'spare parts for pumps of all brands' and 'RP Rental' lines are resale/service activities that would show up as trading in 8413.91/8483. No customs line was available to me in this task, therefore every product claim above is 'заявлено, не подтверждено' (website-declared only); actual HS codes on shipment records were not verified here. No rejection grounds - HS mismatch is corrected, company retained."
+}
