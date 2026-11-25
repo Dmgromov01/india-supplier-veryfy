@@ -1,0 +1,18 @@
+{
+ "name_input": "VODA CHEMICALS PRIVATE LIMITED",
+ "legal_name": "VODA CHEMICALS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google/Bing выдали нерелевантную выдачу без профилей компании, а агрегаторы реестров (zaubacorp, thecompanycheck — HTTP 403; instafinancials, quickcompany — HTTP 404; falconebiz — страница без данных, только JS-оболочка) не отдали карточку юрлица. Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус, ни выручка не подтверждены публичным источником — все поля оставлены null, ничего не додумано. Заявленный в инпуте PAN AAECV8403B не подтверждён: 4-й символ 'C' в формате PAN означает тип держателя 'company' (компания), что согласуется с формой 'Private Limited', но это проверка формата, а не подтверждение принадлежности конкретному юрлицу. Заявленный штат Delhi (код региона в GSTIN 07) не сверен с адресом регистрации. Роль (manufacturer/trader) не определена. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected — юрлицо не признано несуществующим/ликвидированным. Требуется повторный прогон при доступном реестре (MCA master data / GST-портал) для получения CIN, GSTIN и аудированной отчётности FY25/FY26."
+}

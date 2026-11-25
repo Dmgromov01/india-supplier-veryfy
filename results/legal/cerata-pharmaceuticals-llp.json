@@ -1,0 +1,18 @@
+{
+ "name_input": "Cerata Pharmaceuticals LLp",
+ "legal_name": "CERATA PHARMACEUTICALS LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AARFC8670K",
+ "pan_holder_type": "F — partnership firm / LLP (4th character 'F' in the claimed PAN indicates a firm, consistent with an LLP; PAN itself NOT verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: web_search (DuckDuckGo/searx) returned connection refused on both queries; DuckDuckGo HTML endpoint and Google returned 403/redirect; Bing returned only irrelevant results (sea-slug 'cerata', Warframe, Cirata) for queries on the exact name, the PAN AARFC8670K, and name+GST/LLPIN/Ahmedabad; registry aggregators zaubacorp.com, thecompanycheck.com and instafinancials.com all returned HTTP 403; MCA master-data page returned 403 and search.mca.gov.in did not resolve. Consequently LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — they are NOT public to me in this session, not absent from the registry. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role recorded as 'unknown': the name and the claimed HS codes 293339/293349/293359/293719 (heterocyclic/nitrogen-function compounds, pharma intermediates) suggest a pharma-intermediates business, but no registry or filing evidence of manufacturing vs trading was obtained. Per project rules the company is NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a research gap, not a negative finding. Action required: re-run with working search/registry access (MCA LLP master data by name, GST public search on the PAN) before any verdict; until then treat all fields as unverified and do not treat the claimed PAN/state as confirmed."
+}

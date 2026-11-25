@@ -1,0 +1,18 @@
+{
+ "name_input": "KSB MACHINERY LLP",
+ "legal_name": "KSB MACHINERY LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403 Forbidden; mca.gov.in MDS returned HTTP 403; Google search returned only a redirect interstitial; Bing returned only generic results for the German pump manufacturer KSB SE & Co. KGaA (ksb.com, Wikipedia) with zero hits for the exact string 'KSB MACHINERY LLP', so no LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be sourced. No audited accounts or official filings were located, therefore revenue FY25/FY26 are null (not estimated). Role left as 'unknown' - the name suggests machinery trading/manufacturing but this is not evidence. NOT rejected: absence of public data is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy, none of which is established. Action required: re-run verification against MCA master data (LLPIN lookup) and a GST public profile search once registry access is restored; also note the declared HS codes 847710 (injection-moulding machines) and 847989 (machinery with individual functions) do not match the claimed industry 'Metallurgy and mining' - flag for HS correction review, which per rules is not a rejection ground."
+}

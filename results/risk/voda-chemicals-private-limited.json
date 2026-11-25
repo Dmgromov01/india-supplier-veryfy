@@ -1,0 +1,19 @@
+{
+ "name_input": "VODA CHEMICALS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case_no": "W.P.(CRL) 2020/2021",
+   "parties": "M/s Voda Chemicals Pvt. Ltd. (through Gaurav Kumar Pal, Director) vs State of Delhi & Anr.",
+   "role": "Petitioner",
+   "status": "Orders passed 12.10.2021, 29.11.2021, 17.01.2022 and 03.03.2022 (final order by Manoj Kumar Ohri, J.); petition appears to have been disposed of — exact final relief not verified",
+   "subject": "Criminal writ petition; Indian Kanoon AI tags indicate Drugs and Cosmetics Act, 1940 / CrPC s.154 / FIR quashing context",
+   "source": "https://indiankanoon.org/search/?formInput=%22Voda%20Chemicals%22 (4 Delhi HC orders, 2021-2022)"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No adverse media, regulator action or negative news found. Searches for the company name returned no relevant press coverage; Bing results were unusable (query mangling), so absence of news is only partially verified.",
+ "rf_supply": "No evidence found. Indian Kanoon search for \"Voda Chemicals\" combined with Russia/sanctions/customs returned zero matching results; no public record of supplies to Russia or CIS located.",
+ "note": "RISK SUMMARY (as of 2026-11-23). Sanctions: no confirmed hit, but NOT fully verified — the OFAC SDN CSV download was truncated by the fetch tool and the OFAC Sanctions List Search is a JS form that cannot be queried via http_get; UN/EU/UK/BIS lists were not reachable. Treat sanctions status as UNVERIFIED, not as a clean result. Court: one confirmed matter — Delhi HC W.P.(CRL) 2020/2021, company as petitioner, with a director named as Gaurav Kumar Pal; the company sought relief against the State of Delhi, i.e. it was the party challenging an FIR/action, not the complainant. Per project rule 2 this is noted neutrally and is not a rejection ground. Credit rating: null — no rating found in public sources (CRISIL/ICRA/CARE/India Ratings not checked due to tool budget); absence of a rating is not evidence of poor credit. RF/CIS supply: no traces found in public legal or news sources; this is a negative search result, not proof of absence. Tooling caveat: the primary web_search backend was down (connection refused) for the whole session and Bing returned irrelevant results, so coverage is limited to Indian Kanoon plus partial OFAC data. Recommend re-running sanctions screening (OFAC/EU/UK/BIS) and a credit-rating check before final onboarding."
+}

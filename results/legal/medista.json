@@ -1,0 +1,18 @@
+{
+ "name_input": "Medista",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on both queries, so no page discovery was possible. Direct attempts to read registry aggregators failed: zaubacorp.com/companysearchresults/MEDISTA LIFECARE -> HTTP 403; thecompanycheck.com -> HTTP 404; instafinancials.com -> HTTP 403; quickcompany.in -> HTTP 404; falconebiz.com search -> JavaScript-only shell with no results rendered; Google/Bing/DDG HTML endpoints returned redirects, irrelevant results or timeouts. Consequently the exact legal entity name ('MEDISTA LIFECARE' as claimed) is UNCONFIRMED: no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or registered-office state could be sourced, and all such fields are left null rather than guessed. PAN holder type cannot be derived because no PAN is public/known. Role is 'unknown' - the claimed industry (oil & gas / chemicals) and HS codes 842121/842139/848120 (filtration/purifying machinery and valves) are input claims only, not evidence of manufacturing vs trading. Revenue FY25/FY26 null: no audited accounts or official filings located. Per project rules this is NOT a rejection - absence of retrievable public records is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found either. Recommended action: re-run once the search backend is restored, or verify manually on the MCA portal (mca.gov.in company search) and the GST portal (gst.gov.in search taxpayer) using the exact name 'MEDISTA LIFECARE' and the Uttar Pradesh state filter; also confirm whether the real entity is a private limited company, an LLP, or a sole proprietorship/proprietary GST concern (a proprietorship would have no CIN at all, which would explain the absence of MCA records)."
+}

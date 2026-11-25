@@ -1,0 +1,8 @@
+{
+ "name_input": "ROVEMA INDIA PRIVATE LIMITED",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey record set for slug 'rovema-india-private-limited' (1281 records, latest 2026-02-25) shows only INBOUND lanes into India, e.g. \"2026-02-13 | ROVEMA GMBH -> ROVEMA INDIA PRIVATE LIMITED | PACKING MACHINE 2T STEALTH | FRANKFURTMAIN INTL, GERMANY -> SAHAR AIR CARGO ACC INBOM4, India | 84223000 | BOL 9649803\". No outbound shipment row with India as origin was seen in the visible rows (5 of 1281 rows displayed).",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Counter check: ImportKey page claims 'Total Shipments 1281 Records detected' and 'Trading Partners 22'; only 5 shipment rows were actually rendered in the free view, and all 5 are imports into India (Germany, Indonesia, UAE, Senegal as origins). The 'Dakar, Senegal' and 'Jakarta, Indonesia' entries are the origin/destination fields of inbound consignments, not proof of Indian exports. Two other slug variants ('rovema-india-pvt-ltd', 'rovema-india-private-ltd') returned empty record sets. volza, eximpedia and trademo free views returned HTTP 403, and web_search was unavailable (connection refused), so no second source could be cross-checked. Domestic supply evidence (GST turnover band, GeM/CPPP tenders, contracts, annual-report splits) was not retrievable — recorded as null, not estimated. Declared HS 842230/842240 is consistent with the observed 84223000/84229090 packing-machinery codes, but that is a product-code observation, not a shipment fact. No export shipment with date, destination and B/L number attributable to this company as shipper was found; no traces of outbound supply confirmed."
+}
