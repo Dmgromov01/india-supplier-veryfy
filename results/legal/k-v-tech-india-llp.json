@@ -1,0 +1,18 @@
+{
+ "name_input": "K V TECH INDIA LLP",
+ "legal_name": "K V TECH INDIA LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on every query, and direct fetches of registry mirrors failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, llpin.com reset the connection, instafinancials.com returned 404, DuckDuckGo HTML endpoint timed out, and Bing/Google returned no matching results for the quoted name. Therefore LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, and nothing has been inferred or invented. No basis to reject: absence of retrievable records is not evidence of non-existence, strike-off, liquidation or bankruptcy, so the entity is retained. Role cannot be determined from registry data alone; the declared HS codes (401699 rubber articles, 731816/731824/731829 threaded nuts, cotters/pins, other iron-steel fasteners) suggest a fasteners/rubber-goods supplier, but that is an inference from the input, not a verified fact. Revenue FY25/FY26: LLPs in India do not file audited financials publicly with MCA in a machine-readable form, so no official-filing revenue figure is available — null. Recommended next step: re-run once the search backend is restored, or query the MCA master data / GST portal directly by LLPIN or GSTIN."
+}

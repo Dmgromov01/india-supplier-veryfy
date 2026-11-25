@@ -1,0 +1,9 @@
+{
+ "name_input": "RS Enterprises",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Идентифицировать компанию не удалось. Заявленное имя 'RS Enterprises' с указанием 'VISHAL BAJAJ' — крайне распространённое сочетание в Индии (сотни одноимённых проприетарных фирм), без PAN, CIN, адреса или штата однозначная привязка невозможна. Поиск: основной бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout); Bing по запросам '\"RS Enterprises\" \"Vishal Bajaj\"', '\"RS Enterprises\" India sanctions OR court case', '\"Vishal Bajaj\" \"RS Enterprises\" IndiaMART OR Justdial OR Delhi' выдал только нерелевантные результаты (RS Components/RS Group, актёр Вишал, Vishal Mega Mart) — ни одной страницы, относящейся к искомому юрлицу. Проверка по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List) фактически не выполнена: инструмент доступа к sanctionssearch.ofac.treas.gov недоступен, а веб-поиск не работал — поэтому sanctions_hit = null (НЕ 'чисто', а 'не проверено'). Судебные дела (eCourts/NJDG), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/Brickwork) и признаки поставок в РФ/СНГ — данных нет, все поля null. Никаких утверждений о санкциях, судах или поставках не делаю: источников нет. Требуется дополнительная идентификация: PAN, CIN/registration number, полный адрес, штат, либо ссылка на профиль (IndiaMART/Zauba/Tofler) — после этого проверку рисков можно повторить. Отклонение по данному блоку не предлагается (правило 2: санкции/суды не являются основанием для отклонения)."
+}

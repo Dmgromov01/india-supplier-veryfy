@@ -1,0 +1,20 @@
+{
+ "name_input": "KG BEARING INDIA LLP",
+ "declared_hs": "848320",
+ "actual_hs_list": [
+  "848320",
+  "848210",
+  "848220",
+  "848230",
+  "848240",
+  "848250",
+  "848330",
+  "848299",
+  "848790",
+  "848340"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт kgbearing.com (проверено 2 страницы: главная и /company-profile/, а также раздел Bearing Housing Units) показывает, что заявленный код 848320 покрывает лишь один из ~10 товарных блоков каталога. Реальные товарные линии по сайту: (1) Bearing Housing Units — Cast Iron Bearing Units (серии UCF, UCFA, UCFB, UCFC, UCFL, UCHA, UCP, UCPA, UCPH, UCT), Pressed Steel Bearing Unit, Stainless Steel Bearing Unit, Thermoplastic Bearing Units, Plummer Blocks → это и есть 848320 (bearing housings with incorporated ball/roller bearings); (2) Ball Bearings: Deep Groove, Miniature, Thrust, Angular Contact, Self-Aligning → 848210; (3) Roller Bearings: Spherical, Spherical Roller Thrust, Taper, Cylindrical, Needle → 848220/848230/848240/848250; (4) Plain Bearings: Spherical Plain Bearings, Rod Ends → 848330; (5) Adapter Sleeves, Insert Bearings → 848330 / 848299 (детали подшипников); (6) Automotive Bearings: DAC Wheel Bearings, AC car bearings, truck bearings → 848210/848220 (либо 8482xx в зависимости от типа); (7) Linear Motion System: linear bushing LM/LME → 848210/848280; (8) Agricultural Bearings → 848210/848220. Итог: 848320 — корректный, но узкий код: он описывает только housing units, тогда как основной объём каталога — сами подшипники (8482xx), которые в декларации не заявлены.",
+ "role_hint": "trader / brand-owner (не подтверждён как производитель). Признаки трейдера: компания позиционирует себя как «Manufacturer - Leading Exporter», но на сайте нет ни адреса завода, ни производственных мощностей, ни фото цеха; бренд KZ описывается как «manufactured by using Japanese and German technology machines» и «manufactured as per ISO/DIN/ANSI» без указания собственного производства; каталог построен как подбор по типоразмерам (search by dimensions / product code) — типичная схема торгового дома/бренд-хауса, размещающего заказы на сторонних заводах. Заявления «ISO 9001:2015 Certified», «KZ bearings are manufactured», «exported» — заявлено, не подтверждено (сертификат, завод, экспортные записи на сайте не приведены).",
+ "comment": "Проверка только по товарной/HS-линии (реестры, выручка, таможенные объёмы не исследовались по условию задачи). Отраслевая классификация в заявке — «Металлургия и горнодобыча» — ошибочна: компания относится к производству/торговле подшипников и узлов (машиностроение, раздел XVI, гр. 84), а не к металлургии (гр. 72/73) и не к добыче (гр. 25/26). Металлургия и горнодобыча упоминаются на сайте лишь как отрасли-потребители («Metal Industry», «Mining Industry» — «KG BEARING INDIA is an industry head in Producing bearings in the Mining Industry»), т.е. это end-use, а не отрасль компании. HS 848320 сам по себе верен для housing units, поэтому по правилу 3 компания не отклоняется: вердикт accepted_hs_corrected — код сохраняется, но декларацию следует расширить до фактической номенклатуры (848210, 848220, 848230, 848240, 848250, 848330, 848299). Не заявлены в декларации целые товарные линии: шарикоподшипники, роликоподшипники, подшипники скольжения/шарнирные головки, втулки скольжения линейного перемещения, автомобильные и сельхозподшипники, адаптерные втулки. Все товарные позиции подтверждены только каталогом сайта — статус «заявлено, не подтверждено» (таможенных/B-L строк в рамках этой проверки не сверялось). Юрлицо, CIN, PAN, адрес, выручка — null, публично в проверенных источниках не найдены."
+}
