@@ -1,0 +1,9 @@
+{
+ "name_input": "TRADITIONAL HANDICRAFTS CENTRE",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out; Google returned a redirect/consent interstitial with no results; Bing ignored the quoted phrase and returned only generic dictionary results for the word 'traditional' (merriam-webster, cambridge, wikipedia, etc.), i.e. zero exact-name matches. Consequently: (1) sanctions exposure — NOT verified against OFAC SDN, UN, EU, UK or BIS Entity List; absence of a hit is NOT established, value left null rather than asserted as 'no hit'. (2) Indian court cases (party role/status) — not checked; no e-courts/NCLT/High Court query could be executed. (3) Regulator actions and negative news — no searchable coverage retrieved; null. (4) Credit rating (CRISIL/ICRA/CARE/India Ratings) with date and status — not found; null. (5) Evidence of supplies to Russia or CIS — no records retrieved; null, not a negative finding. The claimed PAN AFSPM4028B could not be corroborated (PAN lookup requires a working search or a paid GST/tax API; not public via the tools available). The name is generic and consistent with a small handicrafts/wood-products trading or artisan unit in Tamil Nadu, but this is an inference from the name only and is NOT evidence. Per project rules this company is not to be rejected on the basis of missing risk data; it should be re-queued for risk screening once search connectivity is restored. Recommended next steps: OFAC SDN + consolidated EU/UK/UN list name search, BIS Entity List CSV, e-courts.gov.in party search, NCLT/IBC and MCA defaulter lists, and CRISIL/CARE rating directories."
+}

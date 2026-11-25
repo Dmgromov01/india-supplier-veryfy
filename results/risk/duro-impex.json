@@ -1,0 +1,9 @@
+{
+ "name_input": "Duro Impex",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable data obtained; all fields null because nothing was found, not because the company is clean. Tooling problems: the DuckDuckGo/searx web_search backend returned 'Connection refused' on every attempt; Google and DuckDuckGo HTML endpoints were blocked/timed out; Bing returned only generic 'Duro' brand results (durolabs.co, Novolex Duro bags, DuroPC, Duro diamonds, Merriam-Webster) and ignored all quoted/exact-match operators, so no Indian entity named 'Duro Impex' surfaced. The claimed PAN 'ABMPG1176C' returned zero relevant hits (only unrelated ChatGPT pages), so the PAN could not be corroborated. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded but is a JavaScript form that cannot be queried via plain HTTP GET, so no SDN/Non-SDN screen was actually executed; UN, EU, UK OFSI and BIS Entity List screens were likewise not completed. No Indian court records (eCourts, NCLT, High Court), no regulator actions, no credit rating and no Russia/CIS supply evidence could be checked. IMPORTANT: absence of a hit here is NOT evidence of absence — this company must be re-run with a working search backend and manual OFAC/UN/EU/UK/BIS lookups before any risk conclusion. Per project rules, no rejection is proposed and no negative inference is drawn; the entity remains unassessed on sanctions, litigation, rating, news and RF/CIS supply."
+}

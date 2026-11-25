@@ -1,0 +1,18 @@
+{
+ "name_input": "SARV BIO LABS PRIVATE LIMITED",
+ "legal_name": "SARV BIO LABS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAICS6960Q",
+ "pan_holder_type": "C — company (4th character of PAN is 'C', which denotes a company under Indian PAN structure); note: PAN taken from the input, not independently verified against an official record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Himachal Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification could not be completed: the search backend (DuckDuckGo/searx) returned connection errors, and Bing returned only irrelevant results for every query (company name, PAN, and name+registry-site combinations). Direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com) and the MCA master-data portal all returned HTTP 403, so no CIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be read from a public source. Per project rules, nothing is invented: all unverified fields are null. The PAN AAICS6960Q is reproduced from the input only; its 4th character 'C' is consistent with a company-type PAN, but the PAN itself was not confirmed against an official filing. No basis to reject: the entity was neither found to be non-existent, struck off, liquidated nor bankrupt — it simply could not be checked. Role left as 'unknown' (no evidence of manufacturing or trading activity was retrievable). Recommended action: re-run with working search/registry access, or obtain the CIN/GSTIN from the supplier's own documents (GST certificate, MCA extract) before any decision. HS 293399 (heterocyclic compounds) is not a rejection ground under current rules in any case."
+}

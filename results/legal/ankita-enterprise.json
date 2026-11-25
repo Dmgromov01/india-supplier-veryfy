@@ -1,0 +1,18 @@
+{
+ "name_input": "Ankita Enterprise",
+ "legal_name": "Ankita Enterprise (proprietorship name as claimed; legal entity name not verified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: web_search backend returned connection refused on all queries; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results (no matching snippets); zaubacorp.com, tofler.in and mca.gov.in Master Data all returned HTTP 403 Forbidden; instafinancials search returned 404. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source. The input 'legal_claimed' field contains a personal name (NIKUNJ KADAVABHAI SHELADIYA), which is consistent with a sole proprietorship rather than a company — a proprietorship has no CIN and no MCA status, and its PAN would be an individual PAN (4th character 'P'), but this is an inference from the input, NOT a verified fact, so PAN is left null. GSTIN and GST status likewise unverified. State of registration cannot be confirmed against the claimed West Bengal. Role left as 'unknown' — no evidence of manufacturing vs trading activity was obtained. Revenue FY25/FY26 null: no audited accounts or official filings located. Per project rules this company is NOT rejected: absence of retrievable data is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found. Recommend re-running this company once search/registry access is restored, and requesting the GSTIN directly from the supplier for verification on the GST portal."
+}

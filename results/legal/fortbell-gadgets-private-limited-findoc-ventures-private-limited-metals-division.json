@@ -1,0 +1,18 @@
+{
+ "name_input": "FORTBELL GADGETS PRIVATE LIMITED; FINDOC VENTURES PRIVATE LIMITED (METALS DIVISION); FINDOC VENTURES PRIVATE LIMITED",
+ "legal_name": "FINDOC VENTURES PRIVATE LIMITED (claimed; not verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - data unavailable, not absent. Tooling failure: web_search returned 'Connection refused' (searx backend down) for both queries; DuckDuckGo HTML/lite endpoints timed out; Bing and Google returned only unrelated/garbage results (no usable SERP); MCA master-data portal returned HTTP 403; zaubacorp.com, thecompanycheck.com and instafinancials.com company pages returned HTTP 403/404 to automated fetches. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status could NOT be confirmed from any public source and are recorded as null rather than guessed. No revenue figures are asserted: FY25/FY26 audited accounts or MCA filings were not retrievable, so both are null. IMPORTANT - input data quality issue: the input row conflates THREE distinct names in one record - 'FORTBELL GADGETS PRIVATE LIMITED', 'FINDOC VENTURES PRIVATE LIMITED (METALS DIVISION)' and 'FINDOC VENTURES PRIVATE LIMITED'. 'Metals Division' is a business division label, not a legal entity, and Fortbell Gadgets Pvt Ltd is a separate legal person from Findoc Ventures Pvt Ltd; they must be verified and recorded as separate entities. The declared HS 851713 (smartphones/telecom devices) is inconsistent with a 'metals division' of a financial-services group, but per project rules HS mismatch is NOT a rejection ground - the code should be corrected to the actual traded product and the verdict set to accepted_hs_corrected once the entity is confirmed. Role is set to 'unknown' (not trader/manufacturer) because no MCA NIC/industrial classification was obtained; the 'IT and electronics' industry claim is unverified. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of evidence here is a tooling limitation, not a finding. ACTION REQUIRED: re-run this record when search/registry access is restored, and split it into two separate company records (Fortbell Gadgets Pvt Ltd; Findoc Ventures Pvt Ltd) before any verdict is issued."
+}

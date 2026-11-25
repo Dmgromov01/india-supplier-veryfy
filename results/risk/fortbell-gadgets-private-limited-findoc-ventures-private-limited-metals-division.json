@@ -1,0 +1,9 @@
+{
+ "name_input": "FORTBELL GADGETS PRIVATE LIMITED; FINDOC VENTURES PRIVATE LIMITED (METALS DIVISION); FINDOC VENTURES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search returned 'searx: Connection refused' on both queries; html.duckduckgo.com timed out; bing.com and google.com returned only generic/irrelevant results (no company-specific hits); zaubacorp.com and tofler.in returned HTTP 403. Consequently nothing could be checked for: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role, status), regulator actions (SEBI/RBI/ED/DGFT) or dated negative news, credit rating (agency, date, status), or any evidence of supplies to Russia/CIS. All fields set to null because none of these are public in sources I could reach — NOT because they were checked and found clean. Two distinct legal entities are bundled in this input (Fortbell Gadgets Pvt Ltd and Findoc Ventures Pvt Ltd, the latter with a 'metals division' label); they must be screened separately, and the 'metals division' is not a separate legal person. Per project rules, absence of findings here is not a rejection ground and no adverse inference should be drawn; the company stays in the database. Recommend re-running this risk screen when search access is restored, and manually checking: OFAC SDN/consolidated list, EU consolidated list, UK OFSI list, BIS Entity List, eCourts/NJDG and High Court case search, SEBI and MCA enforcement orders, and CRISIL/ICRA/CARE/India Ratings/Brickwork rating rationales."
+}
