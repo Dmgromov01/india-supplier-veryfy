@@ -1,0 +1,18 @@
+{
+ "name_input": "Kamal Cotspin Private Limited",
+ "legal_name": "Kamal Cotspin Private Limited (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AACCK7499J",
+ "pan_holder_type": "Company (4th character 'C' = company/firm; PAN value is the one supplied in the input and was NOT independently verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Madhya Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. The web_search tool returned a backend error (searx: connection refused) on every query, and all direct fetches of public registry sources failed: zaubacorp.com (403 Forbidden), thecompanycheck.com (403 Forbidden), tofler.in (404), instafinancials.com (404), mca.gov.in MDS (403 Forbidden). Bing/Google HTML fallbacks returned only unrelated results about the name 'Kamal' (actor, jewellery brand, deploy tool) and no page for this entity, so no CIN, GSTIN, incorporation date, MCA status or audited revenue could be sourced. Per the rules, nothing is invented: CIN, GSTIN, GST status, incorporation date, registered state, MCA status and both revenue figures are null. The PAN AACCK7499J is reproduced from the input only - its 4th character 'C' indicates a company-type holder, which is consistent with a private limited company, but the PAN itself is unverified. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling failure, not a negative finding. Note also that the declared HS codes 5205.13/5205.14/5205.26/5205.28 are cotton yarn (HS 52), which does not match the claimed industry 'food products and FMCG'; per the rules this is not a rejection ground, only a flag for HS correction. Role left as 'unknown' pending registry data. Recommend re-running this company when search/registry access is restored."
+}

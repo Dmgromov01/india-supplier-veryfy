@@ -1,0 +1,9 @@
+{
+ "name_input": "ANVAY RUGS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No public risk data could be retrieved for this entity. Search infrastructure was largely unavailable during this run (DuckDuckGo/searx backend refused connections; Google returned only a redirect stub; Bing returned irrelevant results for both \"ANVAY RUGS\" and \"Anvay Rugs\" + India company queries). The OFAC Sanctions List Search page was reachable but is an interactive form that does not return lookup results via a plain GET request, so no SDN/Non-SDN screening result was obtained — sanctions_hit is null because screening could not be completed, NOT because a clean result was confirmed. No UN, EU, UK or BIS Entity List screening was performed. No Indian court records (eCourts/NCLT/High Court) were checked. No credit rating agency coverage (CRISIL/ICRA/CARE/India Ratings) was located. No negative news was located. No evidence of supplies to Russia or the CIS was found, but absence of evidence here reflects failed retrieval rather than a verified negative. IMPORTANT DATA-QUALITY FLAG for the lead researcher: the claimed profile is internally inconsistent — the declared HS code 570500 is hand-knotted/woven carpets and other textile floor coverings, while the claimed industry is 'Продукты питания и FMCG' (food and FMCG); the entity name 'RUGS' aligns with the HS code, not the industry claim. Per project rules this is not a rejection ground and is outside my remit (HS/legal identity), but it should be corrected by the responsible researcher. Recommend re-running this company once search tooling is restored, with direct queries against eCourts, NCLT, OFAC/EU/UK consolidated lists and Indian credit rating agency sites."
+}

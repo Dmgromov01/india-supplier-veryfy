@@ -1,0 +1,18 @@
+{
+ "name_input": "Harsoria Healthcare Pvt. Ltd.; Harsoria HealthCare Private Limited",
+ "legal_name": "HARSORIA HEALTHCARE PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search backend was unavailable (connection refused on all queries) and every registry aggregator attempted returned HTTP 403/404 (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com, instafinancials.com, mca.gov.in MDS portal); Google/Bing/DuckDuckGo HTML endpoints returned no usable results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all left null rather than guessed. IMPORTANT: the PAN claimed in the input (AABCH1354C) is NOT a valid PAN format for a company - the 4th character must be 'C' for a company (e.g. AABCx), whereas 'H' here denotes HUF. The claimed PAN is therefore inconsistent with the claimed legal form (Private Limited) and must be re-requested from the supplier. The claimed HS codes (293399, 294200, 701090, 901839) span organic chemicals, glassware and medical devices, which is inconsistent with the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) - per project rules this is not a rejection ground, only a note that the actual HS code must be corrected to the real product line once verified. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be checked. Status: unverified, pending re-run of registry checks."
+}

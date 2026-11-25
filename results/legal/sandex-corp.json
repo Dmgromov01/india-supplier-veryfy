@@ -1,0 +1,18 @@
+{
+ "name_input": "SANDEX CORP",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record retrieved. Tooling failed during this run: the DuckDuckGo search backend returned 'Connection refused' on both queries; Google/Bing HTML endpoints returned irrelevant or empty result pages; zaubacorp.com, instafinancials.com and falconebiz.com returned HTTP 403; tofler.in search returned a 404 page. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and all such fields are left null rather than guessed. IMPORTANT on the claimed PAN 'AIGPK9877M': the 4th character 'P' denotes an INDIVIDUAL (person) PAN, not a company PAN - a company PAN must carry 'C' in the 4th position. This is a structural inconsistency with the claimed entity name 'SANDEX CORP' and suggests the PAN belongs to a proprietor/partner rather than to a registered company; it is flagged, not asserted, since the PAN itself could not be verified. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' - no evidence of manufacturing plant, GST registration or trade activity was obtainable. Per project rules this is NOT a rejection: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt - the record is simply unverified. Recommend re-running with working search access, or obtaining the GSTIN / CIN directly from the supplier, before any verdict. Also note the declared HS codes 630260/630710 (toilet/kitchen linen, cleaning cloths) do not match the claimed industry 'food & FMCG' - per rule 3 this is not a rejection ground; the HS code should be corrected to the actual product if the company is retained."
+}

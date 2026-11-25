@@ -1,0 +1,8 @@
+{
+ "name_input": "ARDIV International",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/ardiv-international- returned only a gated shell page: \"Shipments available for ARDIV INTERNATIONAL , refreshed daily\" — no bill-of-lading row, no date, no destination, no HS code was rendered. Source counter: 1 page reached, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Search backend (DuckDuckGo/searx) returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" and later timed out, so no domestic-supply source could be opened. 0 rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных B/L записей, ни внутренних GST/тендерных подтверждений получить не удалось. importkey страница компании существует (slug 'ardiv-international-' сработал, без дефиса на конце — HTTP 525), однако все строки отгрузок за пейволом; volza, eximpedia, trademo вернули HTTP 403, importgenius — JS-челлендж. Заявленные HS 390931/390950 (полиуретановые прекурсоры, MDI/TDI-полиолы) и PAN ABJFA2224J не проверены и не подтверждены ни одной записью. Выручка и объём экспорта: null (не публичны, не выдумывались). Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

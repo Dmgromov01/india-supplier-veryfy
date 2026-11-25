@@ -1,0 +1,17 @@
+{
+ "name_input": "ARDIV International",
+ "declared_hs": "390931;390950",
+ "actual_hs_list": [
+  "090931 (cumin seeds, neither crushed nor ground)",
+  "090932 (cumin seeds, crushed or ground)",
+  "121190 (psyllium husk / plant seeds & husks, e.g. 1211.90)",
+  "090961/090962 (fennel seeds, whole / crushed-ground)",
+  "090411/090412 (black pepper, neither crushed nor ground / crushed-ground)",
+  "090921/090922 (coriander seeds, whole / crushed-ground)",
+  "120740 (sesame seeds, incl. white sesame)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Website ardivinternational.com (read 23.11.2026) presents the company as a spice/food-ingredient processor and exporter based at Plot No. 307/2/3, Opp. Bus Stop, Highway, Maktupur, Ta. Unjha, Dist. Mehsana – 384170, Gujarat. Stated activity: sourcing raw spices, cleaning, grading, sorting, grinding, sterilisation and packaging in-house, with Buhler Sortex optical sorting. Named top-selling products: Cumin Seeds, Psyllium Husk Seeds, Fennel Seeds, Black Pepper, Coriander Seeds, White Sesame Seeds; site claims '50+ Products' but only these six are named on the homepage. Contact: exports@ardivinternational.com, ritesh@ardivinternational.com, +91-9712692070. No petrochemical, isocyanate or polyol product is mentioned anywhere on the page.",
+ "role_hint": "manufacturer_trader — site claims own processing/packing facility ('integrated in-house processing', 'our own facility'), which is a processor/manufacturer profile; however Unjha/Mehsana is a seed-and-spice trading hub and no factory evidence (plant, capacity, certifications list) was readable, so a trading/aggregation component cannot be excluded. Not a petrochemical trader.",
+ "comment": "HS MISMATCH — CORRECTED, COMPANY KEPT (per rule 3). Declared 390931 (polymeric MDI) and 390950 (polyurethanes) belong to the petrochemical/isocyanate-polyol chain and match the declared industry 'Нефтегаз и химия'. The company's own website shows a completely different business: spices, seeds and husk (HS chapter 09/12). This is an industry misclassification, not a minor code error — the declared industry label must be changed from oil&gas/chemicals to agro-food (spices & oilseeds). Corrected codes to use: 090931/090932 (cumin), 090921/090922 (coriander), 090961/090962 (fennel), 090411/090412 (black pepper), 120740 (sesame), 121190 (psyllium husk). Product lines missing from the declaration: the entire actual range (all six named products). Product lines declared but absent from any company source: polymeric MDI, polyurethane — no trace on the website. All product claims here are 'заявлено, не подтверждено': the only source is the company's own website; no customs line, B/L, GST record or third-party catalogue was checked or found in this pass (IndiaMART returned HTTP 429, search backend unavailable), so no shipment or turnover fact is asserted. PAN ABJFA2224J and state Gujarat were not verified in this pass (out of scope for HS role) — the Gujarat address on the site is consistent with the claimed state, nothing more. Note: 'Ardiv International' is a generic name; if the buyer's counterparty is a chemical trader under a similar name, identity should be re-confirmed against the PAN before any HS correction is applied."
+}

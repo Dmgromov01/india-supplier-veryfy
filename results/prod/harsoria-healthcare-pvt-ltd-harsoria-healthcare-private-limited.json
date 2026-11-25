@@ -1,0 +1,17 @@
+{
+ "name_input": "Harsoria Healthcare Pvt. Ltd.; Harsoria HealthCare Private Limited",
+ "declared_hs": "293399;294200;701090;901839",
+ "actual_hs_list": [
+  "9018.39 — catheters, cannulae, needles and similar (vascular access range, infusion therapy range) — corroborated by product line",
+  "9018.31 — syringes with or without needles (infusion range, if syringes present) — заявлено, не подтверждено (конкретная номенклатура не открыта)",
+  "9018.90 — other instruments and appliances for medical use (stop cocks, stoppers, connectors, respiratory range, speciality products) — corroborated by product line",
+  "3926.90 — other articles of plastics (plastic stoppers, stop cocks, connectors, moulded plastic components) — plausible, заявлено, не подтверждено",
+  "9018.39 / 9018.90 — hemodialysis range (blood lines, dialysers accessories) — заявлено, не подтверждено",
+  "7010.90 — glass containers for packing (only if glass vials/ampoules are actually traded) — не подтверждено, вероятно ошибочно",
+  "2933.99 / 2942.00 — heterocyclic compounds / other organic compounds — не подтверждено, вероятно ошибочно"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт harsoria.com (главная, /products/, /company/): «fully-integrated, ISO 13485-certified medical devices manufacturer, producing CE-marked devices primarily for export». Заявленные линейки: Vascular Access Range; Stoppers & Stop Cocks; Infusion Range; Hemodialysis Range; Respiratory Range; Speciality Products. В новостях сайта упомянуты Veterinary Catheter и Decompression Needle. Компания с 2002 г. — 100% EOU, 2 площадки: Unit-1 Gurgaon (Haryana), Unit-2 Baddi (Himachal Pradesh). Заявлено 2000 продуктов, 300 млн медицинских изделий в год, экспорт в 50+ стран. Конкретные SKU-страницы (подкатегории) не открылись — 404, поэтому точная номенклатура внутри линеек не подтверждена.",
+ "role_hint": "manufacturer",
+ "comment": "Фактический профиль — производитель одноразовых медицинских изделий (инъекционные/инфузионные, сосудистый доступ, стоп-краны, гемодиализ, респираторка), а НЕ «нефтегаз и химия». Отраслевая классификация в декларации ошибочна. HS 901839 — единственный код, который прямо подтверждается сайтом (катетеры, канюли, иглы). Коды 293399 и 294200 (гетероциклические/прочие органические соединения) — химическая фармацевтика, сайтом не подтверждены вообще: ни одной линии API/сырья не заявлено, вероятно ошибочны. 701090 (стеклянная тара) — тоже не подтверждён: сайт говорит об injection moulding (пластик), стеклянной упаковки в линейках нет. Пропущены в декларации очевидные позиции: 901831 (шприцы), 901890 (стоп-краны, коннекторы, респираторные изделия), 392690 (пластиковые формованные детали). Признаков трейдера нет: собственные заводы, DSIR-признание, ISO 13485, CE. Все позиции, кроме 901839, помечены «заявлено, не подтверждено» — таможенных строк в рамках этой проверки не сверялось (по правилам роли не исследую). Согласно правилу 3 — компания сохраняется, вердикт accepted_hs_corrected: рекомендованные коды 901839 (основной), 901831, 901890, 392690; 293399, 294200, 701090 — снять или подтвердить документально."
+}
