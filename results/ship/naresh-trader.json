@@ -1,0 +1,8 @@
+{
+ "name_input": "Naresh Trader",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/naresh-trader (also /naresh-kumar-trader, /naresh-traders): page renders only the boilerplate template — \"Shipments available for NARESH TRADER, refreshed daily\" — with zero shipment rows, zero dates, zero destinations, zero B/L numbers, zero HS codes. Source counter: 3 importkey slug variants requested, 3 returned, 0 actual shipment records seen. volza.com/p/naresh-trader, eximpedia.app and trademo.com all returned HTTP 403 (no free view accessible).",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, no GeM/CPPP tender, no contract and no annual-report split found for \"Naresh Trader\" / \"NARESH KUMAR\". Web search backend was down during this check (searx: connection refused), so no Indian registry or procurement page could be retrieved; nothing public was located to cite.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Название «Naresh Trader» — родовое, совпадает с личным именем (NARESH KUMAR), поэтому привязка каких-либо таможенных или GST-записей к этому контрагенту невозможна без PAN/CIN/GSTIN, которых в заявке нет (pan_claimed пусто, state_claimed пусто). Заявленный HS 680421/680422 (абразивные/агломерированные камни) ничем не подтверждён — это заявление, не факт; по правилу 3 HS не является основанием для отклонения, код подлежит исправлению на фактический при появлении данных. Выручка и объём экспорта: null (не публичны, не выдумывались). Роль: unknown (трейдер по названию, но деятельность не подтверждена). Рекомендация: запросить у поставщика GSTIN/PAN и инвойсы или B/L — до этого статус «заявлено, не подтверждено»."
+}

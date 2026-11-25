@@ -1,0 +1,9 @@
+{
+ "name_input": "CENTAUR PHARMACEUTICALS (P) LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Verification was severely limited: the web_search backend returned 'Connection refused' on all attempts, Google/DuckDuckGo HTML endpoints were blocked or timed out, and the OFAC Sanctions List Search tool is a JS form that does not return results via GET (the sanctionslistservice API returned HTTP 405). The downloadable SDN CSV was retrieved but the tool truncated it at ~6000 chars (alphabetically only up to 'F'), so the absence of a 'Centaur' entry could NOT be confirmed from it. Therefore sanctions_hit is null = NOT VERIFIED, not a clean bill of health. What was verified: the company website centaurpharma.com is live and describes Centaur Pharmaceuticals as a Mumbai/Ambernath/Goa-based fully integrated Indian pharma (API + formulations, Sinarest brand, USFDA-approved Goa facility, claims footprint in 120 countries). Note this contradicts the batch's state_claimed = Kerala and industry_claimed = oil/gas & chemicals; the declared HS 293399 (heterocyclic compounds) is at least consistent with an API manufacturer, but per role scope I did not research legal identity or HS. No court cases, regulator actions, negative news, credit rating or Russia/CIS supply evidence could be retrieved or ruled out - all fields null because the sources were unreachable, not because they were checked and found empty. Recommended follow-up when search is restored: OFAC/UN/EU/UK/BIS list name search, USFDA warning letters/483s and import alerts for the Goa and Pune facilities, CDSCO actions, NCLT/High Court and e-courts lookups, and CRISIL/ICRA/CARE rating reports. No rejection grounds identified, and per project rules sanctions/court matters would not be rejection grounds in any case."
+}

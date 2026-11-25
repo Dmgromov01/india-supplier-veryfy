@@ -1,0 +1,9 @@
+{
+ "name_input": "STERLING EXPORTS INC",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковая инфраструктура недоступна. web_search (searx) возвращал 'Connection refused' на всех запросах; DuckDuckGo HTML — timeout; Bing отдавал нерелевантные SERP (Kohler/Sterling Plumbing, WhatsApp, Raheem Sterling) независимо от запроса, т.е. результаты нельзя считать ответом на запрос. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности выполнить запрос через http_get — совпадений по имени не проверено. Дополнительно: заявленное имя 'STERLING EXPORTS INC' с суффиксом 'INC' не соответствует типичному индийскому юрлицу (Pvt Ltd / LLP), что повышает риск того, что это торговое обозначение или иностранная структура; легальность/идентичность по правилам роли не проверялась. Все поля оставлены null — данных нет, выдумывать нельзя. Требуется повторный прогон при рабочем поиске: проверить OFAC SDN/Non-SDN, UN, EU, UK OFSI, BIS Entity List по вариантам 'Sterling Exports', 'Sterling Exports Inc', 'Sterling Exports India'; eCourts/NJDG и High Court по стороне 'Sterling Exports'; рейтинги CRISIL/ICRA/CARE/India Ratings; негативные новости; следы поставок в РФ/СНГ (таможенные записи, B/L, контракты). Никаких выводов о санкциях, судах, рейтинге или поставках в РФ по данной компании на текущий момент сделать нельзя."
+}

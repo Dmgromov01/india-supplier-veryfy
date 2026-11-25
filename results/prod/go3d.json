@@ -1,0 +1,15 @@
+{
+ "name_input": "GO3D",
+ "declared_hs": "848520",
+ "actual_hs_list": [
+  "848520",
+  "847759",
+  "902750",
+  "847989",
+  "854370"
+ ],
+ "match_status": "partial",
+ "product_summary": "GO3D Innovation LLP (Plot No. 40, Swapnil Industrial Estate 2, Ahmedabad-Indore Highway, Kuha, Ahmedabad 382433, Gujarat; sales@go3d.in, +91 9054983700) is an industrial 3D printer maker with 400+ installations, ISO 9001:2015, 'Made in Ahmedabad'. Real product lines per go3d.in: (1) FDM/FFF filament printers — Artish 300 Pro, Artish 700, BX 700, BX 1200 (build volume up to 1150x1000x1200 mm, single/double extruder); (2) Resin (SLA/LCD) printers — EZ 200, EZ 250, EZ 350, EZ 400 (layer resolution down to 25 microns); (3) WAAM metal printers (listed in site navigation as a separate category); (4) 3D scanners — resells Peel 3 / Peel 3.CAD / Peel 3 Pro.CAD as 'authorised Peel 3D partner in India' (imported brand, not own manufacture). Applications: prototyping, jigs & fixtures, casting patterns, dental, drone/UAV, education, sculpture/architecture.",
+ "role_hint": "manufacturer (own-brand FDM and resin 3D printers assembled/made in Ahmedabad) + trader/distributor for Peel 3D handheld scanners (imported, resold under partner status). Mixed profile: manufacturer_trader.",
+ "comment": "HS 8485.20 'machinery for additive manufacturing' is the correct heading for the FDM and resin 3D printers — exact match for the core line, so the declared code is right for the main product. However the declaration is incomplete: (a) WAAM metal printers are also additive manufacturing equipment and fall under 8485.20, but if sold as welding-based deposition cells they may be classified 8515.80 — cannot_verify without a customs line; (b) the Peel 3D handheld 3D scanners are a distinct, non-8485 product line — scanners are properly 9027.50 (optical measuring/checking instruments) or 8479.89 depending on configuration; these are imported and resold, so they are a trader line not covered by the declared code; (c) spare parts, extruder heads, filament/resin consumables and software licences are separate codes (filament/resin would be 3916/3907/3215-type, not 8485) and are absent from the declaration. Industry label 'IT и электроника' is a misclassification: this is mechanical/industrial capital equipment (special-purpose machinery, Ch. 84), not IT or electronics — the only electronics content is the scanner line. No customs line was available to me in this task, so all product-to-HS mapping above is derived from the company's own website catalogue and is therefore 'заявлено, не подтверждено' at the shipment level; the product existence itself is corroborated by the site plus named customer testimonials (BIT Patna, Mackwell Pumps, GKW Retail, Dynamic Tools) but not by any customs record. Per project rule 3, no rejection on HS grounds — company retained, code confirmed as 8485.20 for printers with the scanner and consumables lines added as corrections."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Naresh Trader",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — нет данных, а не отрицательный результат. Входные данные противоречивы и неполны: 'Naresh Trader' — это торговое обозначение (вероятно, проприетарная фирма/ИП), а legal_claimed указан как 'NARESH KUMAR' (имя физлица); PAN, штат и адрес не заявлены. Проприетарные фирмы не имеют CIN/DIN и не отражаются в MCA — для них CIN/LLPIN и mca_status принципиально null; PAN физлица-проприетора и GSTIN публично не подтверждены. Попытки проверки: DuckDuckGo-бэкенд web_search недоступен (connection refused); Bing по запросам \"Naresh Trader\" GSTIN / proprietorship / site:thecompanycheck.com|tofler.in|indiafilings.com возвращает нерелевантную выдачу (статьи об актёре Naresh и деле Naresh Bhatt) — релевантных страниц не найдено; zaubacorp.com — HTTP 403; mca.gov.in Master Data — HTTP 403. Итог: ни юридическое лицо, ни PAN, ни GSTIN, ни статус, ни выручка не подтверждены ни одним публичным источником. Выручка FY25/FY26 — null (аудированной отчётности не найдено; для проприетарной фирмы публичной отчётности обычно не существует). Роль: unknown — по названию 'Trader' предположительно trader, но это не подтверждено; HS 680421/680422 (абразивные круги/камни) — заявленный код, фактический вид деятельности не проверен. ОСНОВАНИЙ ДЛЯ ОТКЛОНЕНИЯ НЕТ: несуществование/ликвидация/банкротство не установлены, а отсутствие данных не является основанием для rejected. Требуется от поставщика: полное имя проприетора, PAN, GSTIN, адрес регистрации — для повторной проверки."
+}

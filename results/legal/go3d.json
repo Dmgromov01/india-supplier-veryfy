@@ -1,0 +1,18 @@
+{
+ "name_input": "GO3D",
+ "legal_name": "GO3D INNOVATION LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAUFG2509E",
+ "pan_holder_type": "F — Firm/LLP (4th character 'F' is consistent with an LLP/firm PAN; format valid, but the PAN could not be matched to a registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry record could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on both queries, and every registry/aggregator page attempted returned HTTP 403/404 or DNS failure (zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 403, falconebiz.com 403, tofler.in 404 for the PAN-based URL, mca.gov.in 403, llpin.in DNS failure). Bing/Google HTML endpoints returned no relevant results. Therefore LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — they are NOT public-verifiable from this session, not 'absent'. The claimed PAN AAUFG2509E is format-valid and its 4th character 'F' indicates a firm/LLP holder, which is consistent with the claimed legal form 'GO3D INNOVATION LLP', but consistency is not confirmation. Revenue FY25/FY26: null — no audited accounts or MCA filings were accessible; LLP financials are generally not published on the public MCA master data anyway. Role: unknown — the declared HS 848520 (3D printers / additive manufacturing machinery) is a product classification and says nothing about whether the entity manufactures or trades; no registry evidence either way. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established, and absence of retrievable data is not evidence of any of those. Recommended action: re-run verification when search/registry access is restored, and obtain the LLPIN and GSTIN directly from the supplier (GST certificate + LLP incorporation certificate) for cross-check against the MCA master data."
+}
