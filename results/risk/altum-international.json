@@ -1,0 +1,9 @@
+{
+ "name_input": "Altum International",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Sanctions: no confirmed match found. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JS form that returns no query results via plain HTTP GET, so no name-level screening result could be obtained; UN/EU/UK consolidated lists and the BIS Entity List were not screened because the search backend (DuckDuckGo/searx) was down ('Connection refused') and Bing/Google returned unrelated results. Therefore sanctions_hit = null means NOT VERIFIED, not 'clear'. Court cases: Indian Kanoon full-text search for \"Altum International\" returned exactly 1 judgment - Manoshi Shuvendu Roy vs Palechanda Varun Deviah, Karnataka High Court, 20 Sep 2024 - which concerns 'Indus Altum International School' and is UNRELATED to this supplier; no case naming this entity or the claimed proprietor MANDAVA VIJAYA KUMARI was found. court_cases = null (no case attributable to this company). Regulator actions / negative news: none found; news_risk = null. Credit rating: no public rating (CRISIL/ICRA/CARE/India Ratings/Acuite) located; rating = null - not public / not found. Russia/CIS supply evidence: none found; rf_supply = null. Caveats: ZaubaCorp and TheCompanyCheck both returned HTTP 403, so MCA/GST-linked records could not be read; the company name is generic and highly collision-prone, so absence of hits is weak evidence. Per project rules, no rejection is proposed on any of these grounds; sanctions/court matters are noted neutrally only. Recommend re-running sanctions screening (OFAC/UN/EU/UK/BIS) and MCA/Indian Kanoon checks once the search backend is restored."
+}

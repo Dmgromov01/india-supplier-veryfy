@@ -1,0 +1,18 @@
+{
+ "name_input": "Parth Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The name given in the input ('Parth Enterprises') and the claimed legal form ('PARTH ENTERPRISE') are inconsistent, and 'Parth Enterprise(s)' is a very common Indian trade name, so no single legal entity could be pinned down. Tooling failed during this run: the web_search backend returned 'Connection refused' on both queries; zaubacorp.com returned HTTP 403; mca.gov.in MDS returned HTTP 403; instafinancials, thecompanycheck and quickcompany returned 404; tofler search returned a 404 page; Google returned only a redirect interstitial; Bing returned irrelevant results; DuckDuckGo HTML timed out. Consequently no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be sourced, and all such fields are left null rather than guessed. No rejection is applied: absence of a verifiable record in this run is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires positive proof of one of those conditions. Role is recorded as 'unknown' because the manufacturer/trader distinction cannot be established without a GST or MCA record. The claimed HS codes (8421.31/8421.39/8421.99 filters and filter parts, 8481.10 pressure-reducing valves) are unrelated to the claimed industry 'Metallurgия и горнодобыча' (metallurgy and mining); per the 23.11.2026 rule this is not a rejection ground - the company stays in the database and the HS code should be corrected to the actual one once the entity is identified. Recommended next step: re-run with working search, or obtain the GSTIN or PAN directly from the supplier, then confirm on the GST portal and MCA master data."
+}

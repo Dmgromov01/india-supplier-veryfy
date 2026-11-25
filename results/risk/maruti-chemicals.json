@@ -1,0 +1,9 @@
+{
+ "name_input": "MARUTI CHEMICALS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS null. Research failed technically: the DuckDuckGo/searx search tool returned 'Connection refused' on every call, and the only reachable engine (Bing) returned the same 10 generic 'Maruti' results (Maruti Suzuki, Maruti restaurant, Wikipedia) for all four query variants, including paginated RSS requests — i.e. no actual result set for the exact phrase 'Maruti Chemicals'. No page belonging to or about a company named 'Maruti Chemicals' in Gujarat was retrieved, so no sanctions list, court docket, regulator order, rating or Russia/CIS supply evidence could be checked. This is a research gap, NOT a clean bill of health: absence of a hit here must not be read as 'no sanctions / no cases'. Also note the name is highly ambiguous (many Indian firms use 'Maruti'; no PAN/CIN was supplied to disambiguate), so any future hit must be matched to a specific legal entity before being attributed. Recommended next step: re-run with a working search backend plus direct checks of OFAC SDN/consolidated list search, UN Consolidated, EU FSF, UK OFSI, BIS Entity List, and Indian court/regulator portals (NCLT, e-courts, GPCB/CPCB, SEBI) once the legal entity is identified. Per project rules, no rejection is proposed and no negative inference is drawn from the failed lookup."
+}

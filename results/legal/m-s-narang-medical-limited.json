@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S NARANG MEDICAL LIMITED",
+ "legal_name": "Narang Medical Limited",
+ "cin_llpin": null,
+ "pan": "AABCN8921H",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'N' = first letter of surname 'Narang', consistent with the legal name)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1989 (year only, per company's own About page: 'the company got incorporated in 1989'); exact date not verified",
+ "state_registered": "Delhi",
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification incomplete — search backend (searx) was down and MCA aggregators (ZaubaCorp, TheCompanyCheck, Tofler, InstaFinancials) returned 403/404, so CIN, GSTIN, GST status, exact incorporation date and MCA status could NOT be confirmed from an official/public registry record and are left null rather than guessed. What IS confirmed from the company's own website (narang.com/contact.php, narang.com/about-us.php): legal entity name 'Narang Medical Limited'; registered/corporate office 'Narang Tower, T-1/73-74, Mangolpuri Industrial Area Phase 1, New Delhi - 110083, Delhi, India'; factory at Plot No. D4, Sector A2, Tronica City, Loni, Ghaziabad-201102 (this is the only Uttar Pradesh link — the registered office is in Delhi, so the input's state 'Uttar Pradesh' is only partially correct: UP is the factory location, not the registered-office state); incorporated 1989; self-described as manufacturer and exporter of hospital furniture, orthopaedic implants, surgical instruments and medical disposables, ISO 9001/13485 and CE certified, claims Star Export House status and exports to 80+ countries. Role assessed as manufacturer (own factory + own manufacturing claims), not trader. PAN AABCN8921H is format-valid and consistent with a company named Narang, but its actual allotment to this entity was not independently confirmed. Revenue FY25/FY26: no audited accounts or official filings accessible — null, not estimated. HS codes declared (902110, 902131, 902511 — orthopaedic/medical devices) are consistent with the company's actual product line; the input's industry label 'Нефтегаз и химия' (oil & gas / chemicals) is clearly wrong and should be corrected to medical devices / surgical instruments. No basis for rejection: the entity exists and operates (live website, factory address, ongoing trade-fair participation), no evidence of strike-off, liquidation or bankruptcy found."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "TRIVENI SRI LIMITED",
+ "legal_name": "Triveni Turbine Limited",
+ "cin_llpin": null,
+ "pan": "AAACT4550H",
+ "pan_holder_type": "Company (4th character 'C' in AAACT4550H = company; PAN matches the claimed value, but could not be independently verified against an MCA/GST public record in this session)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Uttar Pradesh (registered & corporate office: 401, BPTP Capital City, Sector 94, Noida, UP 201301); manufacturing plants in Karnataka (Peenya and Sompura, Bengaluru)",
+ "state_claimed": "",
+ "mca_status": "Listed public limited company, active — BSE: 533655, NSE: TRITURBINE; demerged from Triveni Engineering & Industries Ltd w.e.f. Oct 2010. Exact CIN, incorporation date and current MCA status could not be read from a registry source (ZaubaCorp/TheCompanyCheck returned HTTP 403, MCA not reachable) — null rather than guessed.",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 2006,
+ "revenue_fy26_cr": 2181,
+ "revenue_source": "Screener.in consolidated P&L (sourced from the company's audited filings): FY2024-25 Sales ₹2,006 Cr, FY2025-26 Sales ₹2,181 Cr; corroborated by company investor page (Q4 FY26 revenue from operations ₹6.80 bn). Standalone/consolidated basis: consolidated.",
+ "note": "Name mismatch: input says 'TRIVENI SRI LIMITED', claimed legal name 'TRIVENI TURBINE LIMITED' — the actual entity is Triveni Turbine Limited (Noida, UP), a listed steam-turbine manufacturer. HS codes 840410/840420/840682/840690 (steam/vapour turbines, boilers, parts) match the real business; the claimed industry 'IT и электроника' is wrong — this is heavy electrical/capital goods manufacturing. No rejection grounds: entity exists and is active. Registry-level identifiers (CIN, GSTIN, GST status, incorporation date) are null because public registry aggregators blocked access and the search backend was unavailable; they must be re-verified from MCA/GST portal before onboarding. Revenue figures are from audited consolidated filings via Screener.in, not invented."
+}

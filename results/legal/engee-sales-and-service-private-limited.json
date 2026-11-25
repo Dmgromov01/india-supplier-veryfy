@@ -1,0 +1,18 @@
+{
+ "name_input": "ENGEE SALES AND SERVICE PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра не подтверждены. Все попытки получить первоисточник не удались: DuckDuckGo (searx) недоступен (connection refused), Bing/Google вернули нерелевантную выдачу без совпадений по названию, а профили реестров Zauba Corp, TheCompanyCheck, FalconEBiz, QuickCompany и портал MCA (mca.gov.in) отдали 403/404. Поэтому CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — null, не выдуманы. Заявленный PAN AAACE4096K проверить не удалось: по формату 4-й символ 'C' соответствует типу держателя 'company' (юридическое лицо), но принадлежность именно этой компании не подтверждена ни одним публичным источником, поэтому pan_holder_type оставлен null. Заявленное название 'ENGEE SALES AND SERVICES PVT LTD' отличается от входного ('SERVICE' vs 'SERVICES') — точное юридическое наименование не подтверждено. Штат Maharashtra не подтверждён. Роль (manufacturer/trader) не определена. Оснований для отклонения (rejected) нет: сведений о ликвидации, банкротстве или отсутствии юрлица не получено — статус 'не проверено', требуется повторная проверка при доступности MCA/реестровых источников."
+}

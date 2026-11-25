@@ -1,0 +1,20 @@
+{
+ "name_input": "SUVCHEM",
+ "declared_hs": "284020;290719;292529;320413",
+ "actual_hs_list": [
+  "3822 (diagnostic/laboratory reagents, incl. 3822.00)",
+  "2850 / 2842 (inorganic & metal salts, precious-metal salts)",
+  "2852 (mercury compounds/inorganic or organic mercury salts)",
+  "3204 (synthetic organic colouring matter: biological stains, pH indicators)",
+  "2922 / 2923 / 2924 (ion-pair reagents, quaternary ammonium salts, amino compounds)",
+  "2921 / 2924 (amino acids, urea derivatives, agrochemical actives)",
+  "3821 (culture media bases & ingredients)",
+  "2905 / 2914 / 2915 / 2918 (organic solvents & acids, LR/AR/HPLC grades)",
+  "3815 / 3707 (catalysts; photographic chemicals & intermediates)",
+  "3824 (speciality/rare & research chemicals)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (suvchem.com, homepage + /products.html + /profile.html) describes Suvchem as a 2004-05 venture, 'manufacturer and exporter' of laboratory fine chemicals and reagents, ISO 9001-2008 certified, proprietor Manish Jain. Declared product lines: laboratory chemicals & reagents (organic/inorganic, LR/AR/GR/HPLC grades), biological stains & pH indicators, culture media bases & ingredients, ion-pair reagents (monohydrate/anhydrous, for HPLC), mercury salts (LR/AR, custom specs), 'Suvchem Speciality', photographic chemicals & intermediates, agrochemicals (6-benzyl adenine, indole-3-acetic acid, indole-3-butyric acid, kinetin, uracil), metallic salts, metal foils/powders/shots, precious metal salts, catalysts, rare & research chemicals, custom synthesis. Price lists offered as PDFs (2018-19) in INR and USD. Sub-pages for individual product lists (speciality, ion-pair, mercury salts) return HTTP 404, so item-level CAS/spec detail is not publicly retrievable.",
+ "role_hint": "manufacturer_trader — site claims own manufacture plus custom synthesis, but the breadth of catalogue (precious metal salts, mercury salts, stains, culture media, agrochemicals, photographic chemicals) and the 'we can supply products beyond our product list' wording indicate substantial trading/repackaging alongside in-house production. No customs line available to confirm either way.",
+ "comment": "Сопоставление с заявленными кодами: 284020 (бораты) — в каталоге не встречается, ближайшее по смыслу — прочие неорганические соли/препараты (2850/2842/3822), т.е. код выглядит ошибочным/смещённым; 290719 (прочие монофенолы) — прямого подтверждения нет, возможно частично через органические реагенты/антиоксиданты, но не подтверждено; 292529 (прочие соединения с карбоксимидной группой) — частично подтверждается ион-парными реагентами и азотсодержащими реагентами, но точная группировка не установлена; 320413 (основные красители) — подтверждается разделом 'Biological Stains & pH Indicators' (часть красителей относится к основным), т.е. частичное совпадение. Итог: match_status = partial — заявленный набор покрывает лишь часть реального ассортимента и содержит минимум один сомнительный код (284020). Пропущены в декларации целые товарные линии: лабораторные реагенты (3822), ртутные соли (2852), культуральные среды (3821), растворители (2905/2914/2915), катализаторы (3815), фотохимикаты (3707), агрохимикаты (2921/2924), благородные металлы и их соли (2842/7112). Отраслевая классификация 'Нефтегаз и химия' неточна: компания не нефтегазовая, а специализированный поставщик лабораторных реактивов/тонкой химии для образования, НИИ, фармы и медицины — корректнее 'Химия — лабораторные реагенты и тонкая химия'. Признаки трейдера: широчайший каталожный охват, 'custom synthesis', 'supply beyond our product list', прайс-листы в USD для экспорта. Все товарные позиции — заявлено, не подтверждено: ни одна строка не подтверждена таможенной записью (таможенные данные в рамках этой роли не исследовались). Правило 3 соблюдено: несоответствие HS не является основанием для отклонения — компания сохраняется, коды подлежат корректировке на фактические (3822, 2852, 3821, 3204, 2922/2923, 2905/2914, 3815, 3707, 2921/2924, 2842). Выручка/объём экспорта не оценивались (вне роли)."
+}

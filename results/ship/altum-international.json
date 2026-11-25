@@ -1,0 +1,8 @@
+{
+ "name_input": "Altum International",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'altum-international' returned only a paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — zero shipment rows rendered (0 rows seen; no date, destination, HS code or B/L number visible). Second slug variant 'altum-international-delhi' returned the identical generic template with the same placeholder text and 0 rows. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for the company together with the claimed proprietor name returned no results (search backend error / no hits), and registry pages (zaubacorp) and trade-data aggregators (volza, eximpedia, trademo) all returned HTTP 403 Forbidden. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ подтверждение отсутствия отгрузок: все источники были либо закрыты (403), либо отдавали пустой шаблон без строк. Заявленный HS 842959 (прочие экскаваторы/погрузчики) и отрасль «Строительство и DIY» ничем не подтверждены и не опровергнуты — HS не проверен по фактическим записям, поэтому не корректировался. Выручка и объём экспорта: null (не публичны, не выдумывались). PAN ASHPA4363P и юрлицо не верифицированы — реестры недоступны. Рекомендация: повторить проверку при доступе к платному срезу ImportKey/Volza или к выписке GST/MCA; до этого статус — unknown, не accepted и не rejected."
+}
