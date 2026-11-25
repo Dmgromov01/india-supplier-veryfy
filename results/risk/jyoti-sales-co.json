@@ -1,0 +1,9 @@
+{
+ "name_input": "Jyoti Sales Co",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of research date. Sanctions: no match found for 'Jyoti Sales Co' (Rajasthan, prop. Pankaj Gupta) in OFAC SDN / UN / EU / UK / BIS lists — but this is a NEGATIVE-ONLY result: the OpenSanctions API returned HTTP 401 (unauthorized) and the DuckDuckGo search backend was down (connection refused), so no consolidated screening list could actually be queried. Treat sanctions_hit=null as 'not verified', not as 'clear'. Court cases: Indian Kanoon full-text search for \"Jyoti Sales\" returned 65 documents, but every reviewed hit belongs to a DIFFERENT legal entity — M/s Jyoti Sales Corporation (Tarori, Haryana; excise/CESTAT and SC Civil Appeal 8612/2011; also Manish Garg, Maharani Chemicals, UP Power Corp matters), Jyoti Sales House (Delhi; Anil Kumar trademark suit, CS(COMM) Delhi HC 2022/2024) and Aditya Trading Company v. Jyoti Sales (Delhi HC CRL.A. 536/2025). None of these can be attributed to a Rajasthan proprietorship of Pankaj Gupta, so court_cases=null rather than importing another entity's litigation. Rating: no credit rating found; as a proprietorship it is unlikely to be rated — null, not public. News/regulator: no negative news or regulator action found; searches were degraded (see above), so absence of evidence is weak here. RF/CIS supply: no evidence of any supplies to Russia or CIS found; null. Overall: no adverse risk finding, but the entity is essentially undocumented in open sources — the name is generic and collides with several unrelated firms, so identity-level risk screening cannot be completed without the PAN/CIN/GSTIN. Recommend re-running sanctions screening against a proper consolidated list once identifiers are supplied."
+}

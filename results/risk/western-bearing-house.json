@@ -1,0 +1,9 @@
+{
+ "name_input": "Western Bearing House",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты, Bing отдавал нерелевантную выдачу (кэш Outlook), Google — заглушку. Проверено напрямую: (1) Indian Kanoon, поиск по точной фразе \"Western Bearing House\" — 'No matching results' (https://indiankanoon.org/search/?formInput=%22Western%20Bearing%20House%22), т.е. публичных судебных актов с таким наименованием не найдено; это НЕ подтверждение отсутствия дел — только отсутствие совпадений в этом индексе. (2) Страница OFAC Sanctions List Search открыта (https://sanctionssearch.ofac.treas.gov/), но инструмент не позволяет выполнить запрос по имени — фактического скрининга по SDN/Non-SDN не проведено, поэтому sanctions_hit = null, а не 'нет совпадений'. Не проверены: UN/UK/EU/BIS Entity List, реестры MCA/NCLT, действия регуляторов (SEBI/RBI/DGFT), кредитные рейтинги (CRISIL/ICRA/CARE/India Ratings), негативные новости, признаки поставок в РФ/СНГ. Все поля оставлены null — данные не выдумывались. Требуется повторный прогон при доступном поиске. Отклонение по данному отчёту не обосновано: оснований для rejected нет, статус — 'не проверено'."
+}

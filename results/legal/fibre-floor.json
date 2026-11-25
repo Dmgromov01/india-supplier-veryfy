@@ -1,0 +1,18 @@
+{
+ "name_input": "Fibre floor",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAACF2909E",
+ "pan_holder_type": "Company (4th character 'C' = company per PAN structure; unverified against any registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity NOT established. Search tooling was unavailable (DuckDuckGo/searx connection refused) and all registry aggregators returned blocks: zaubacorp.com 403, instafinancials.com 403, thecompanycheck.com 404, mca.gov.in 403; Bing returned only irrelevant generic 'fibre' results for queries on the name, on the PAN AAACF2909E, and on 'Fibre Floor' + Uttar Pradesh. Therefore no CIN/LLPIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced, and all such fields are null rather than guessed. The claimed PAN AAACF2909E is only reproduced from the input; its 4th character 'C' would indicate a company-type holder, but this is a format inference, not a verified record. Note the input is internally inconsistent: declared HS 401691 (rubber floor coverings) and 570220 (coir floor coverings) are flooring goods, while industry_claimed is 'food and FMCG' - per project rules this is NOT a rejection ground; the HS code should be corrected to the actual product line and the record kept. No rejection applied: non-existence, strike-off, liquidation or bankruptcy could not be evidenced either way, so the entity is left as unverified rather than rejected. Recommend re-running with working search access or a paid registry source (MCA V3 / Tofler / Probe42) before any commercial decision."
+}

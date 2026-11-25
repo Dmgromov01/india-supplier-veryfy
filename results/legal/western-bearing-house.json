@@ -1,0 +1,18 @@
+{
+ "name_input": "Western Bearing House",
+ "legal_name": "WESTERN BEARING HOUSE (as claimed; not verified in any public registry)",
+ "cin_llpin": null,
+ "pan": "AALPA3903H",
+ "pan_holder_type": "A — Association of Persons (AoP), per 4th character 'P'... correction: 4th character of AALPA3903H is 'P' = Individual (person). Note: the 4th character is 'P', which denotes an Individual, not a firm/company. This is inconsistent with a trading-house style business name and with the claimed legal form; PAN is unverified against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and every public registry aggregator attempted returned 403/404 or an unusable page (zaubacorp 403, instafinancials 403, falconebiz 403, tofler 404, quickcompany 404, Bing/Google returned no relevant hits). Therefore NO field is confirmed: no CIN/LLPIN, no GSTIN, no GST status, no incorporation date, no MCA status, no registered-office state, no audited revenue for FY25 or FY26. Nothing is invented here — all unverified fields are null. Two observations from the input data itself: (1) the claimed PAN AALPA3903H has 'P' as its 4th character, which in the Indian PAN format denotes an Individual, whereas the name 'Western Bearing House' suggests a proprietorship/firm/company — this mismatch must be resolved before the record is used; (2) the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining) does not match the declared HS 848210 (ball bearings), which is a machinery/bearing product, not a mining output — per project rules this is NOT a rejection ground, the HS code should simply be recorded as declared and the industry label corrected. Per the rules, rejection is only for non-existent/struck-off/liquidated/bankrupt entities, and non-existence could NOT be established either way, so the company is NOT rejected — it is left unverified pending a working registry lookup. Recommended next step: re-run against MCA master data and the GST portal (search by PAN AALPA3903H) once search access is restored."
+}

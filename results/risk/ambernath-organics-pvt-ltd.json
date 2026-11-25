@@ -1,0 +1,37 @@
+{
+ "name_input": "AMBERNATH ORGANICS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "forum": "Income Tax Appellate Tribunal, Mumbai Bench 'G'",
+   "case_no": "ITA No. 4554/Mum/2009",
+   "assessment_year": "2005-06",
+   "parties": "M/s. Ambernath Organics Pvt. Ltd. (appellant) vs Income Tax Officer (respondent)",
+   "role": "appellant / taxpayer",
+   "status": "decided (order dated 12.06.2009)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Ambernath%20Organics%22"
+  },
+  {
+   "forum": "Income Tax Appellate Tribunal, Mumbai Bench 'A'",
+   "case_no": "ITA No. 8752/Mum/2010",
+   "assessment_year": "2007-08",
+   "parties": "Ambernath Organics Pvt. Ltd. (appellant) vs Dy. CIT, Ward 10(1) (respondent)",
+   "role": "appellant / taxpayer",
+   "status": "decided (order dated 13.08.2010)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Ambernath%20Organics%22"
+  },
+  {
+   "forum": "Income Tax Appellate Tribunal, Mumbai Bench 'A'",
+   "case_no": "ITA No. 6491/Mum/2024",
+   "assessment_year": "2021-22",
+   "parties": "Ambernath Organics Pvt. Ltd. (appellant) vs Income Tax Officer, Mum-C-1, Range 222 (respondent)",
+   "role": "appellant / taxpayer",
+   "status": "decided (order dated 31.01.2025)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Ambernath%20Organics%20Pvt%20Ltd%20Commissioner%20of%20Income%20Tax%20Appeals%202025"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no hit found, but this is NOT a verified clean result — the OFAC SDN consolidated CSV (https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) was returned truncated (only reached entries beginning 'F'), the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JS form that cannot be queried via GET, and the searx search backend was down ('Connection refused') for the whole session. UN, EU, UK OFSI and BIS Entity List were therefore NOT checked. sanctions_hit left null = not established, not 'clear'. Court cases: three income-tax appeals before ITAT Mumbai (2009, 2010, 2025) — the company is the taxpayer/appellant in all three; these are tax-assessment disputes, not criminal or regulatory enforcement matters, and per project rules are not rejection grounds. No criminal cases, no NCLT/insolvency or debt-recovery proceedings found in Indian Kanoon. Regulator actions: none found (no SEBI/RBI/ED/PCBs orders surfaced). Credit rating: no rating found; CRISIL ratings-list lookup failed (SSL handshake timeout) and no other agency (ICRA/CARE/India Ratings/Acuite) result was retrievable — null, not public/not found. Negative news: none found, but news search was effectively unavailable (Bing returned unrelated content, DuckDuckGo timed out), so absence of negative news is unverified rather than confirmed. Russia/CIS supply evidence: none found; Indian Kanoon query for 'Ambernath Organics' + Russia/export/sanctions returned 'No matching results'. No customs, B-L or trade-data source was reachable, so rf_supply = null (no evidence either way). Recommend re-running sanctions (UN/EU/UK/BIS) and credit-rating checks when search infrastructure is restored."
+}

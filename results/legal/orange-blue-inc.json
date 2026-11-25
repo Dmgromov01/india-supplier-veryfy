@@ -1,0 +1,18 @@
+{
+ "name_input": "Orange Blue Inc",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "DMIPK0599F",
+ "pan_holder_type": "Individual (4th character 'P' = person). Note: PAN is claimed by the input, not independently verified against any public record; the 5th character 'K' is the surname initial, which is inconsistent with the claimed proprietor name 'Shweta Kumari' (surname initial would be 'K' — consistent) but the entity name 'Orange Blue Inc' is not a PAN-linked legal form.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No public registry record could be located. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); fallback engines (Bing, Google) returned only irrelevant generic results for both the company name and the PAN; direct fetches of registry aggregators (ZaubaCorp, InstaFinancials) and MCA master-data returned HTTP 403. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public/not retrievable, not invented. Important structural observation: 'Orange Blue Inc' is not a valid Indian legal-form name (no Pvt Ltd / LLP / OPC suffix), and the input's 'legal_claimed' field contains a person's name (SHWETA KUMARI), not a company name. This strongly suggests a sole proprietorship / individual trading name rather than a registered company, in which case there would be no CIN and no MCA record at all — only a GSTIN would exist. Per project rules, absence of a found record is NOT grounds for rejection (rejection requires confirmed non-existence, strike-off, liquidation or bankruptcy, none of which is established here). Verdict: entity status unverified, role unknown, revenue null. Recommended next step: obtain the GSTIN from the supplier directly and verify on the GST portal, and confirm whether the counterparty is a proprietorship (PAN-based) or a registered company."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Shree ganesh agro foods",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. В этом прогоне поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а реестровые источники были недоступны: zaubacorp.com — HTTP 403, mca.gov.in (MCA Master Data) — HTTP 403, thecompanycheck.com — HTTP 404, instafinancials.com — HTTP 404, tofler.in — HTTP 404, indiamart.com — HTTP 429, Google/Bing выдача нерелевантна. Поэтому точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 остаются null — цифры и идентификаторы не выдумывались. Название в запросе ('Shree ganesh agro foods' / 'SHRI GANESH AGRO FOODS') неоднозначно: под него могут подходить разные юрлица (в т.ч. proprietorship/partnership без CIN), поэтому отождествление с конкретной компанией без реестровой выписки невозможно. Роль — unknown (нет данных, является ли юрлицо производителем или трейдером). Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица; статус — 'заявлено, не подтверждено', требуется повторная проверка при доступности MCA/GST-порталов. HS 100630 (рис) не проверялся по правилам роли."
+}
