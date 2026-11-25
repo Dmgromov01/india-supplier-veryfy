@@ -1,0 +1,9 @@
+{
+ "name_input": "TUSHAR GEMS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT COMPLETED, NO FINDINGS OBTAINED. Search infrastructure was unavailable during this run: the DuckDuckGo/searx backend returned 'Connection refused' on all attempts, Google returned HTTP 429, and Bing (the only reachable engine) ignored the quoted phrase and returned only generic results for the personal name 'Tushar' (name-meaning sites, Wikipedia, Instagram, unrelated news) — zero pages referencing any entity called 'Tushar Gems'. The OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and cannot be queried via plain HTTP GET, so no automated SDN/Non-SDN name match was performed. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia or CIS = NOT VERIFIED. All fields set to null because nothing is public/retrievable in this run — no data was invented. Additional caveat for the analyst: the claimed name 'Tushar Gems' is a bare trade name with no legal suffix (Pvt Ltd / LLP / Partnership), no PAN and no state supplied, so even a working search would likely return multiple homonymous proprietorships; a CIN/PAN or registered address is needed to disambiguate before any sanctions or litigation screening can be considered meaningful. Also note the declared HS codes 710310/710391 (rough/semi-processed precious stones) are inconsistent with the claimed industry 'Food & FMCG' — flagged for the HS/identity team, not a rejection ground per project rules. Recommend re-running this company once search access is restored and identifiers are supplied."
+}

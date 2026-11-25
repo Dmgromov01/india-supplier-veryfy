@@ -1,0 +1,9 @@
+{
+ "name_input": "Sriya Life Science Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Zauba Corp, TheCompanyCheck, IndianKanoon — HTTP 403; Google — HTTP 429. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать запрос через http_get — результат поиска по имени получить не удалось, поэтому sanctions_hit = null (НЕ 'чисто', а 'не проверено'). Никаких утверждений о санкциях, судах, рейтинге, негативных новостях или поставках в РФ/СНГ не подтверждено источниками — все поля null. Данные отсутствуют в открытом доступе в рамках доступных инструментов; выдумывать записи нельзя. Требуется повторный прогон при работающем поиске и доступе к реестрам (MCA, Zauba, IndianKanoon, OFAC/UN/EU/UK/BIS списки). Юрлицо, HS-коды и объёмы отгрузок в рамках этой роли не исследовались."
+}

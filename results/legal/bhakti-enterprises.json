@@ -1,0 +1,18 @@
+{
+ "name_input": "Bhakti Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) DuckDuckGo-поиск по 'Bhakti Enterprises' + 'Pravin Dipchand Doshi' и по GSTIN-запросу — бэкенд недоступен (connection refused); (2) zaubacorp.com — HTTP 403; (3) instafinancials.com — HTTP 403; (4) search.mca.gov.in — DNS не резолвится; (5) Google — HTTP 429; (6) Bing по трём разным запросам вернул только нерелевантную выдачу про религиозное понятие 'бхакти', кавычки и операторы игнорируются, ни одного реестрового профиля не выдано. ВАЖНО: 'PRAVIN DIPCHAND DOSHI' в поле legal_claimed — это имя физлица (вероятно, проприетор/партнёр), а не название юрлица; форма организации (sole proprietorship / partnership firm / Pvt Ltd) не установлена. Для проприеторской фирмы CIN отсутствует по определению, PAN и GSTIN существуют, но публично не подтверждены. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, MCA-статус и выручка FY25/FY26 — null, так как не подтверждены публичным источником; цифры не выдумывались. Роль (manufacturer/trader) не определена — нет данных о деятельности. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется повторная проверка при доступных реестрах (MCA master data, GST-портал по PAN/GSTIN, GeM/IndiaMART-профиль с указанием GSTIN) либо запрос GSTIN/PAN у поставщика напрямую."
+}

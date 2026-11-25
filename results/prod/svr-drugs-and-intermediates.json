@@ -1,0 +1,22 @@
+{
+ "name_input": "SVR DRUGS AND INTERMEDIATES",
+ "declared_hs": "283911;291814;291816;340211",
+ "actual_hs_list": [
+  "291639 (5-Bromo-2-Chloro Benzoic Acid, CAS 21739-92-4; 4-chloro-3-nitro benzoic acid, CAS 96-99-1; 4-(methylamino)-3-nitro benzoic acid, CAS 41263-74-5 — halogenated/nitrated aromatic mono-carboxylic acids)",
+  "291819 (Cis Bromo Benzoate, CAS 61397-52-6 — bromo-substituted benzoate ester)",
+  "291899 (5-Carboxy Phthalide, CAS 4792-29-4 — carboxy-substituted lactone/aromatic acid)",
+  "293399 (1,2,3,9-Tetrahydrocarbazole-4-one, CAS 15128-52-6; 4-Hydroxycarbazole, CAS 52602-39-8; 9-Methyl-1,2,3,9-tetrahydrocarbazole-4-one, CAS 27387-31-1 — carbazole heterocycles)",
+  "293339 (2,6-Dipicolinic acid / pyridine-2,6-dicarboxylic acid, CAS 499-83-2; Ethyl-3-(pyridine-2-ylamino)propanoate, CAS 103041-38-9 — pyridine derivatives)",
+  "293359 (6-chloro-2,4-diaminopyrimidine, CAS 156-83-2 — pyrimidine derivative)",
+  "292690 (Acetone cyanohydrin, CAS 75-86-5 — nitrile/cyanohydrin function)",
+  "290319 (2-bromobutane, CAS 78-76-2; 1,4-dibromobutane, CAS 99110-52-1; 1-bromo-3-chloropropane, CAS 109-70-6 — halogenated acyclic hydrocarbons)",
+  "290399 (1-fluoro-2-methylbenzene, CAS 95-52-3 — halogenated aromatic hydrocarbon)",
+  "292219 (2-methoxyphenoxyethylamine, CAS 1836-62-0 — amino ether)",
+  "292119 (N,N-dimethylaminopropyl chloride, CAS 5407-05-5 — aliphatic amine hydrochloride/amino halide)",
+  "291479 / 291450 (Cis Mesylate, CAS 67914-86-7 — mesylate ester; exact subheading depends on the parent alcohol, cannot be fixed from the CAS alone)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт svrdrugs.com (страницы /products.html и /about.html) даёт закрытый перечень из 10 серийных продуктов и 9 продуктов «в разработке» — все с CAS-номерами. Профиль: фармацевтические интермедиаты и KSM (key starting materials) для API — карбазолы (тетрагидрокарбазол-4-он, 4-гидроксикарбазол, 9-метил-тетрагидрокарбазол-4-он), пиридины (2,6-дипиколиновая кислота), пиримидины (6-хлор-2,4-диаминопиримидин), галогенбензойные кислоты (5-бром-2-хлорбензойная, 4-хлор-3-нитробензойная), галогеналканы (2-бромбутан, 1,4-дибромбутан, 1-бром-3-хлорпропан), ацетонциангидрин, фтортолуол. Заявлено 3 производственные площадки (Unit-I chemicals/KSM, Unit-II speciality chemicals, Unit-III intermediate/KSM) в IDA Doolapally, Medchal-Malkajgiri, Telangana, суммарно ~93 KL реакторного объёма + 160 KL в плане; R&D в Хайдарабаде. Заявленный оборот ~Rs 32 crore (по сайту, не проверялось — вне моей роли).",
+ "role_hint": "manufacturer (заявлено: собственные производственные площадки Unit-I/II/III и R&D-лаборатория; признаков трейдера на сайте нет — нет раздела «мы поставляем со склада», нет чужих брендов). Фактичность отгрузок не проверялась — вне роли HS-специалиста.",
+ "comment": "НЕСООТВЕТСТВИЕ HS — код исправляется, компания сохраняется (правило 3). Заявленные коды не подтверждаются ни одним продуктом из каталога: 283911 (метасиликат натрия) — нет ни одного силиката в перечне; 291814 (лимонная кислота) — нет; 291816 (глюконовая кислота и её соли) — нет; 340211 (анионные ПАВ, сульфаты/сульфонаты спиртов) — нет ни одного ПАВ, ни одного сульфированного продукта. Все четыре заявленных кода относятся к неорганическим/пищевым кислотам и ПАВ, тогда как фактический ассортимент — тонкий органический синтез, гетероциклы и галогенароматика для фармы. Вероятная причина: коды взяты из чужой декларации или проставлены по «химии» без привязки к продукту. Фактические HS-6: 291639, 291819, 291899, 293399, 293339, 293359, 292690, 290319, 290399, 292219, 292119, 291479/291450. Отраслевая классификация «Нефтегаз и химия» — частично верна только по слову «химия»: это не нефтегаз, а фармацевтические интермедиаты / KSM (speciality chemicals для API). Продуктовые линии, отсутствующие в декларации: карбазольная группа (3 продукта), пиридины, пиримидины, галогеналканы, нитрилы (ацетонциангидрин — опасный груз, класс 6.1, требует отдельного внимания при отгрузке), фторароматика. Все позиции — «заявлено, не подтверждено»: ни одна строка не подтверждена таможенной записью, каталог сайта фактом отгрузки не является. Отдельно: 9 продуктов в разделе «Under Development» — это не товарная линейка, их нельзя включать в декларацию как поставляемые. Cis Mesylate (CAS 67914-86-7) — код на уровне HS-6 однозначно не выводится без знания спиртовой основы, помечен как cannot_verify внутри позиции."
+}

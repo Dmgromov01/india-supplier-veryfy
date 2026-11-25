@@ -1,0 +1,9 @@
+{
+ "name_input": "Global Trades",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query, and direct fetches to DuckDuckGo (html.duckduckgo.com, duckduckgo.com/html) timed out. Bing was reachable but returned the identical generic 'global' dictionary/game results for three different targeted queries ('Global Trades' India sanctions/court, 'Global Trades' India OFAC/NCLT/GST notice, 'Global Trades' Russia/CIS export electronics), i.e. the query terms were not actually applied — so no entity-level result can be attributed to this company. Google returned only a redirect/consent page. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = null (NOT checked, not 'clear'); Indian court cases with party role/status = null (NOT checked); regulator actions and negative news with dates = null (NOT checked); credit rating with date/status = null (NOT checked); evidence of supplies to Russia or CIS = null (NOT checked). IMPORTANT CAVEAT for the analyst: 'Global Trades' is an extremely generic trade name with no PAN, CIN, state or address supplied in the input, so even with working search it would be non-uniquely identifiable — multiple unrelated Indian proprietorships/firms plausibly use it. Any future check must first pin a legal identifier (CIN/PAN/GSTIN) before sanctions or litigation screening can be meaningful. Per project rules this is NOT a rejection ground and no adverse inference should be drawn: absence of found data here reflects tool unavailability, not a clean record. Recommend re-running this company once search connectivity is restored."
+}
