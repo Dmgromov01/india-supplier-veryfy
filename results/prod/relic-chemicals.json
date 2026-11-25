@@ -1,0 +1,23 @@
+{
+ "name_input": "RELIC CHEMICALS",
+ "declared_hs": "293329;293399;391190",
+ "actual_hs_list": [
+  "291719 (Succinic Acid, Adipic Acid)",
+  "292419 / 292429 (N-Bromosuccinimide, N-Bromo compounds — amide derivatives)",
+  "292390 (Tetra Butyl Ammonium Bromide, Tetra Butyl Ammonium Hydrogen Sulphate, Triethyl Benzyl Ammonium Chloride — quaternary ammonium salts)",
+  "292119 / 292129 (Tri-N-Butylamine — amine)",
+  "293399 (1,2,3-Benzotriazole, Tolyltriazole — heterocyclic compounds with N only)",
+  "283340 / 284290 (Potassium Monopersulfate / KMPS — peroxosulphates)",
+  "291531 (Ethyl Acetate)",
+  "291739 (Purified IsoPhthalic Acid)",
+  "291829 / 290719 (Butylated Hydroxy Toluene — hindered phenol antioxidant)",
+  "390890 / 390690 (PolyDADMAC, Polyamine, Wet Strength Resin — polymers)",
+  "380991 / 340290 (Paper Machine Defoamer, Pulp Mill Defoamer)",
+  "382499 / 382410 (H2S Scavenger RC ODC series, blended formulations)",
+  "291639 / 291560 (Isopropyl 2-Bromo Isobutyrate — brominated ester)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (relicchemicals.in, home page + product list) shows a chemical distribution portfolio across 8 categories: Pharmaceuticals, Oil & Gas, Pulp & Paper, Water Treatment, Fire Retardants, Paints & Coatings, Performance Chemicals, Solvents. Named products: Succinic Acid, 1,2,3-Benzotriazole, Tolyltriazole, Potassium Monopersulfate (KMPS), Tetra Butyl Ammonium Bromide, Tetra Butyl Ammonium Hydrogen Sulphate, Triethyl Benzyl Ammonium Chloride, N-Bromosuccinimide, Isopropyl 2-Bromo Isobutyrate, Tri-N-Butylamine, Paper Machine Defoamer, Pulp Mill Defoamer, Ethyl Acetate, Maleic Anhydride, Adipic Acid, Purified IsoPhthalic Acid, H2S Scavenger (RC ODC series), PolyDADMAC, Polyamine, Wet Strength Resin, Butylated Hydroxy Toluene. Site self-describes as 'leading manufacturers of Bromo compounds, defoamers and water polymers' while the About page calls it a 'chemical distribution industry' company since 2015 — mixed manufacturer/distributor self-description.",
+ "role_hint": "trader (distributor; self-described 'multifunctional distributor of Chemicals since 2015', 100+ products across 8 unrelated end-use industries, office-only address in Ajay Industrial Estate, Mazgaon, Mumbai — no plant address published; 'manufacturer' claim on the same site is uncorroborated)",
+ "comment": "HS mapping vs declaration: PARTIAL. (1) 293399 is corroborated — 1,2,3-Benzotriazole and Tolyltriazole are N-only heterocycles that fall in 2933.99 (declared 293329 would be an imidazole/indole-type ring, which does not match the actual benzotriazole line; the 2933 heading is right, the 6-digit subheading is not). (2) 391190 is only weakly corroborated — PolyDADMAC/Polyamine/Wet Strength Resin are polymers, but they are normally classified in 3906/3908/3909 (acrylic/other N-polymers) rather than 3911 (petroleum resins, polysulphides, polysulphones); no polysulphone or petroleum-resin product appears on the site, so 391190 looks like a generic 'polymer' placeholder. (3) 293329 is not corroborated by any product on the site — no imidazole/indole compound is listed. (4) The bulk of the real portfolio is NOT in the declaration at all: quaternary ammonium salts (292390), bromo-amide/imide compounds (2924), organic acids (2917), ethyl acetate (2915), amine (2921), KMPS (2833/2842), defoamers (3809/3402), H2S scavenger blends (3824). Industry label 'Нефтегаз и химия' is only partly right: oil & gas is one of eight end-markets; the company is a broad-line chemical distributor, not an oilfield-services or petrochemical producer — industry misclassification as a producer. Trader signs: office-only address, 100+ products spanning pharmaceuticals to paints, no manufacturing site, 'our partners' section, '1000+ MT quantity imported' — consistent with import-and-resell. All product names above are taken from the company's own website and are therefore 'заявлено, не подтверждено' — no customs line, invoice or B-L was available to me in this task, so no shipment-level corroboration of any HS code exists. Per project rule 3, the HS mismatch is not a rejection ground: company is retained, declared codes corrected to the actual product-based list above, verdict accepted_hs_corrected. Note: the .com domain currently serves an expired TLS certificate (fetch failed on https://relicchemicals.com); the content above is from relicchemicals.in. PAN AASFR2217G and revenue/export volumes were not researched per role scope — null."
+}

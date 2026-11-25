@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S B V M TECHNOLOGIES PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AADCB0375M",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN structure). Note: PAN is as claimed in the input; it could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — retrieval failure, not a negative finding. The web_search tool returned a backend error ('searx: Connection refused') on every query. Fallback attempts also failed: zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; duckduckgo.com/lite and duckduckgo.com/html timed out; Google returned only a redirect stub; Bing returned completely irrelevant results (bag-valve-mask, vehicle extrication) for both the company-name query and the exact PAN query 'AADCB0375M', i.e. no indexed match surfaced. Consequently NO registry fact could be confirmed: exact legal entity name, CIN, GSTIN, GST status, date of incorporation, registered-office state and MCA status are all null because they are not publicly retrievable in this session, not because they are absent. The claimed legal name 'BVM TECHNOLOGIES PRIVATE LIMITED' and the claimed PAN AADCB0375M are unconfirmed. The PAN's 4th character 'C' is consistent with a company-form holder, but the PAN itself is unverified. Per project rules, rejection is NOT warranted: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation. Role left as 'unknown' (no evidence of manufacturing or trading activity obtained; declared HS 853590/902610 and 'energy' industry are unverified claims). Revenue FY25/FY26 null — no audited accounts or official filings were accessible. RECOMMENDATION: re-run this company in a session with working search/registry access (MCA master data, GST portal public search, or a paid aggregator) before any sourcing decision."
+}
