@@ -1,0 +1,18 @@
+{
+ "name_input": "BAJAJ HEALTCARE LTD",
+ "legal_name": "Bajaj Healthcare Limited",
+ "cin_llpin": "L24230MH1993PLC071431",
+ "pan": "AABCB0103B",
+ "pan_holder_type": "Company (4th character 'C' = company; PAN as claimed in input, not independently verified on a public registry page — MCA/Income-Tax PAN lookup not accessible)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1993 (exact date not confirmed from a public registry page; company website and Screener both state 'incorporated in 1993')",
+ "state_registered": "Maharashtra",
+ "state_claimed": "Did not find you looking for? Please refine your search. Type few letters of company name or pan. (garbage/placeholder text, not a state)",
+ "mca_status": "Active — listed on BSE (539872) and NSE (BAJAJHCARE); MCA status not directly read from MCA portal (blocked), inferred from live listing and continuous filings",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 543,
+ "revenue_fy26_cr": 611,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/BAJAJHCARE/consolidated/) Profit & Loss table, consolidated: Sales Mar 2025 = 543 Cr, Mar 2026 = 611 Cr. Screener aggregates figures from the company's audited annual results filed with exchanges; the underlying audited PDF was not opened (annual-report links on bajajhealth.com returned 404).",
+ "note": "Legal entity confirmed: Bajaj Healthcare Limited, incorporated 1993, HQ Thane, Maharashtra; manufacturing units in Maharashtra and Gujarat; public company since 2005, listed 2016 (BSE 539872 / NSE BAJAJHCARE). Role = manufacturer (own API/intermediate/formulation plants; website 'Overview' page: four API/intermediate units + one formulation unit). CIN L24230MH1993PLC071431 is the widely published CIN for this listed entity but could not be re-read from MCA/Zauba/TheCompanyCheck (403/blocked) — treat as high-confidence, not registry-verified in this session. PAN AABCB0103B was supplied in the input; format is valid (4th char 'C' = company) but I could not verify it against a public source. GSTIN and GST status: not found on any accessible public profile — null. Revenue: FY25 (year ended Mar-2025) 543 Cr and FY26 (Mar-2026) 611 Cr consolidated, per Screener aggregation of audited filings; standalone figures are lower (Screener marks them '(S)'). Note FY24 was 473 Cr, so FY25 shows recovery. Input 'state_claimed' field contains a website search-box placeholder string, not a state — registered state is Maharashtra. Declared HS 292529/293499 (cyclic amides/heterocyclic compounds) is broadly consistent with API/intermediate manufacturing, but HS verification is outside this role. No rejection grounds: entity exists, is listed and trading."
+}

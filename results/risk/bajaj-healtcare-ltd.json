@@ -1,0 +1,9 @@
+{
+ "name_input": "BAJAJ HEALTCARE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all queries; Google returned a redirect interstitial; DuckDuckGo HTML endpoint timed out; Bing returned only generic Bajaj Group (Bajaj Auto / Bajaj Finserv / Bajaj Electronics) results and no hits for 'Bajaj Healthcare Ltd' pharma/API; company site bajajhealthcare.com returned HTTP 403; BSE page returned only page chrome; CRISIL rating-list URL 404. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all null — NOT confirmed clean, simply unverified. No claim of absence of sanctions/court/rating issues should be inferred from these nulls. Note also a name discrepancy in the input: 'BAJAJ HEALTCARE LTD' (misspelled) vs legal_claimed 'BAJAJ HEALTHCARE LIMITED' — the listed entity BSE 539872 / NSE BAJAJHCL is 'Bajaj Healthcare Limited' (API/formulations, Mumbai). The claimed PAN AABCB0103B and the 'state_claimed' field (which contains a website search-prompt string, not a state) were not verified and are outside this role's scope. Recommend re-run of risk checks when search access is restored, specifically: OFAC SDN + BIS Entity List name search, NCLT/NCLAT and High Court party search, SEBI orders database, and ICRA/CRISIL/CARE rating rationales."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "NEUTRICAL INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AVMPC1111H",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'P' in the claimed PAN AVMPC1111H denotes an individual person, which is consistent with the claimed legal name 'CHANGANI BHARAT GOVINDBHAI' being a proprietorship rather than a company. NOTE: PAN is taken from the input only; it was NOT independently verified against any public source, and the numeric portion looks like a placeholder pattern (1111) — treat as unverified.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence. Verification could not be completed: the web_search tool was down (connection refused) for the whole session, and every fallback attempt failed — Bing returned completely unrelated results for all three queries ('NEUTRICAL INTERNATIONAL' + Gujarat/GST, + IndiaMART, + Changani), Google served a redirect/consent page, DuckDuckGo timed out, and Zauba Corp, InstaFinancials and Tofler returned 403/404. Consequently NO public profile was found for 'NEUTRICAL INTERNATIONAL' and no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be established — all left null rather than guessed. Because the claimed legal name is an individual (PAN 4th char 'P'), this is most likely a sole proprietorship: such entities have no CIN/LLPIN and no MCA record at all, so absence of MCA data is expected and is not a rejection ground. Role cannot be determined: the declared HS codes (741980 copper articles; 853890 switchgear parts) point to trading/manufacturing of metal and electrical components, but nothing confirms whether the firm manufactures or trades — recorded as 'unknown'. Revenue FY25/FY26: null, no audited accounts or official filings located (proprietorships rarely file public financials). Per project rules the company is retained in the database; HS codes are not a rejection ground. Recommended next step: re-run with working search, or obtain the GSTIN directly from the supplier and verify on the GST portal."
+}

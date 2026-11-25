@@ -1,0 +1,17 @@
+{
+ "name_input": "Propix Technologies Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Income Tax Appellate Tribunal, Hyderabad",
+   "case": "Natco Pharma Limited, Hyderabad vs ACIT, Circle-5(1), Hyderabad, ITA No. 853/Hyd/2024, order dated 19.02.2025",
+   "party_role": "third party / non-party mention — Propix Technologies Private Limited is referred to in the ITAT's reasoning as one of the entities (alongside Trane Technologies Private Limited) that wrote off amounts receivable from the assessee company",
+   "status": "ITAT appeal by Natco Pharma; Propix is not a party to the proceedings and no adverse finding against Propix is recorded in the cited passage",
+   "source": "https://indiankanoon.org/search/?formInput=%22Propix%20Technologies%20Private%20Limited%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but NOT a clean negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is an interactive JS form that could not be queried programmatically, and the UN/EU/UK consolidated lists and the BIS Entity List were not reachable in this session. sanctions_hit is therefore null = 'not verified', not 'clear'. Court: the only Indian judicial record located is a single ITAT Hyderabad order (19.02.2025, Natco Pharma vs ACIT) in which Propix Technologies Private Limited is mentioned only in passing as a creditor that wrote off receivables; Propix is not a party and no finding is made against it. No High Court, NCLT, DRT or criminal proceedings were located. Per project rules this is not a rejection ground and is noted neutrally. Rating: no public credit rating (CRISIL/ICRA/CARE/India Ratings/Acuite) found; null — not public / not located. News risk: no regulatory action or negative media located; however the web_search backend was down (searx connection refused) and Bing/Google returned bot-mitigation noise, so absence of negative news here is a research limitation, not a verified clean record. RF/CIS supply: no evidence of supplies to Russia or CIS found; null — not confirmed either way. Caveat: the entity could not be independently matched to a registry record (ZaubaCorp returned HTTP 403, MCA/other registries not reachable), so name-level matching to sanctions and court data carries residual risk of false negatives."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "FINE FOODS INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AABFF6886G",
+ "pan_holder_type": "F — partnership firm (4th character 'F' of the claimed PAN indicates a Firm; PAN itself is unverified, taken from input only)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) was unreachable ('Connection refused') for the whole session, Bing returned only irrelevant dictionary results for both the company name and the PAN, and all registry aggregators tried (zaubacorp.com, tofler.in, instafinancials.com, mca.gov.in) returned HTTP 403/404 or blocked access. Therefore no public source was found for: exact legal entity name, CIN/LLPIN, GSTIN, GST status, date of incorporation, registered-office state, MCA status or audited revenue. All such fields are null — not invented. Note on entity type: the claimed PAN AABFF6886G has 'F' as its 4th character, which corresponds to a partnership firm, so this is likely a partnership/proprietary-style firm rather than a company; such firms have no CIN and no MCA record, which is consistent with the absence of MCA data. The PAN is recorded as claimed in the input and is NOT independently verified. State 'Gujarat' is unverified — no registered-office record was retrieved. Role cannot be determined (no catalogue/product research permitted in this role, no registry data available). Revenue FY25/FY26: null, no audited accounts or official filings located. Per project rules, the company is NOT rejected: non-existence/struck-off/liquidation/bankruptcy could not be established either way, so no rejection basis exists. Status: unverified — requires re-check of MCA master data and GST public profile when search access is restored."
+}

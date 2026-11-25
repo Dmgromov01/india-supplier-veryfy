@@ -1,0 +1,15 @@
+{
+ "name_input": "FINE FOODS INDUSTRIES",
+ "declared_hs": "071220;071290",
+ "actual_hs_list": [
+  "071220",
+  "071290",
+  "20052010 (fried onion - tentative, product line only)",
+  "07129090 (dehydrated vegetables, other - residual)",
+  "0904/0910 (spices - claimed on site banner, no product page found)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official website finefoodsindustries.com (Mahuva-364290, Gujarat; phone +91 9275333374 / +91 9574721110; info@finefoodsindustries.com) describes the company as a 'manufacturer and exporter of dehydrated onion, garlic and other vegetables in forms of Flakes, Minced, Granule, Chopped and Powder', with 25+ years in the dehydration industry. Product menu on the homepage lists: Dehydrated White Onion, Dehydrated Red Onion, Dehydrated Garlic, Dehydrated Vegetables, Toasted Onion, Fried Onion. The site banner also claims 'Spices Products', but no spice product page or catalogue item was found (product sub-pages returned HTTP 404), so spices are 'заявлено, не подтверждено'.",
+ "role_hint": "manufacturer (self-declared on own website: 'Leading Manufacturer & Exporter', own dehydration plant in Mahuva onion belt). No independent corroboration of manufacturing vs. trading obtained in this pass; treat as manufacturer_trader until verified.",
+ "comment": "HS mapping: declared 071220 (dried onions, whole/cut/sliced/powdered/broken) and 071290 (other dried vegetables; includes dried garlic 07129020 in Indian tariff) are CORRECT and cover the core range - dehydrated white onion, red onion, garlic, toasted onion, dehydrated vegetables in flakes/minced/granules/chopped/powder form. Status: partial, not exact, because two declared product lines on the site fall outside 0712: (1) FRIED ONION - fried/deep-fried onion is a prepared/preserved vegetable, not a dried vegetable; correct heading is 2005 (2005.20, onions prepared or preserved by vinegar/acetic acid or otherwise) - the declared codes do not cover it; (2) SPICES claimed in the site banner - would fall under 0904-0910, absent from the declaration, but no product page exists, so 'заявлено, не подтверждено'. No industry misclassification: 'Продукты питания и FMCG' is consistent with dehydrated vegetable processing. No trader signs found on the site (own facility, own procurement-to-finish chain claimed). Note: the site contains obvious template placeholders ('Lorem ipsum' blocks, 'Blog Title'), so the catalogue is thin and no downloadable product list or HS-tagged export catalogue was accessible; product sub-pages returned 404 during this pass. Per project rule 3, the HS gap is NOT a rejection ground - company is retained and the code set should be extended to include 2005.20 for fried onion (and 0904/0910 only if spices are confirmed). All product claims here are website-declared only; no customs line was checked in this role, so every line is 'заявлено, не подтверждено' at shipment level. PAN AABFF6886G and revenue/volumes not researched per role scope."
+}

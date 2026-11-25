@@ -1,0 +1,18 @@
+{
+ "name_input": "Propix Technologies Pvt Ltd",
+ "legal_name": "PROPIX TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAECP3873H",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'P' = individual surname initial, consistent with a company PAN)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this run. The web_search tool failed (searx connection refused) and every registry aggregator attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Google/Bing/DuckDuckGo fallbacks returned irrelevant or empty results. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not absent. The PAN AAECP3873H is taken only as claimed in the input; its format is valid (AAECP + 4 digits + 1 letter) and the 4th character 'C' indicates a company holder, but the PAN was not confirmed against any public filing. Legal name is reproduced as claimed, not confirmed against MCA. Role is 'unknown' because no registry/audited source was reachable to establish manufacturing vs trading activity. Revenue FY25/FY26 are null: no audited accounts or MCA filings were accessible. Per project rules, the entity is NOT rejected — there is no evidence it does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified, needs re-check'. Declared HS 903180 (measuring/checking instruments) is not a rejection ground and was not assessed here (out of scope for this role). Recommended next step: re-run against MCA master data / GST portal when search access is restored."
+}

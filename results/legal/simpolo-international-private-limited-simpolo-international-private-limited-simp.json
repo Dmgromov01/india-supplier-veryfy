@@ -1,0 +1,18 @@
+{
+ "name_input": "SIMPOLO INTERNATIONAL PRIVATE LIMITED; SIMPOLO INTERNATIONAL PRIVATE LIMITED; SIMPOLO INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": "SIMPOLO INTERNATIONAL PRIVATE LIMITED (as claimed; not verified in any public registry record)",
+ "cin_llpin": null,
+ "pan": "ABKCS8326F (claimed in input; not verified against any public source)",
+ "pan_holder_type": "Company (4th character 'C' of the claimed PAN indicates a company holder) — based on the claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT possible in this run: the web_search backend was down (connection refused) and every registry aggregator tried returned HTTP 403/404 or unrelated results (zaubacorp.com 403, thecompanycheck.com 403, tofler.in 404, instafinancials.com 404, falconebiz.com 403, mca.gov.in 403; Bing/Google returned irrelevant SERPs). Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from an official filing — all such fields are null rather than guessed. The claimed PAN ABKCS8326F is syntactically consistent with a company PAN (4th char 'C'), but its existence and holder are unverified. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the entity is NOT rejected under the project rules; it is left as unverified pending a re-run when registry sources are reachable. Role cannot be classified (manufacturer vs trader) without MCA/GST data. Declared HS 690721 (ceramic tiles) is not a rejection ground per rules; no HS correction is asserted here since the actual business activity could not be verified. Revenue FY25/FY26: null — no audited accounts or official filings accessible."
+}
