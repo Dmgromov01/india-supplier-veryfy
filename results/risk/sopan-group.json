@@ -1,0 +1,26 @@
+{
+ "name_input": "Sopan Group",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case_no": "W.P.(C) 17936/2024",
+   "parties": "Sopan O And M Company Pvt. Ltd. (Petitioner) vs GAIL India Ltd (Respondent)",
+   "role": "Petitioner (истец)",
+   "status": "pending / active — заседания 24.12.2024, 24.07.2025, 19.11.2025, 28.01.2026, 06.05.2026 (CM APPL. 30230/2026); производство продолжается",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sopan%20O%20And%20M%20Company%22%20GAIL"
+  },
+  {
+   "court": "Supreme Court of India",
+   "case_no": "CR-2333-2023 (O&M)",
+   "parties": "Great Eastern Energy Corporation Limited vs Sopan O and M Company Private Limited",
+   "role": "Respondent (ответчик)",
+   "status": "упоминается как pending before Supreme Court (по тексту определения от 16.02.2024); актуальный статус на сегодня не подтверждён",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sopan%20O%20and%20M%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": "Негативных публикаций в СМИ не найдено. Регуляторных действий (SEBI/RBI/CCI/DGFT) не выявлено. Судебные споры носят коммерческий характер (спор с GAIL India по контракту/тендеру, встречный иск Great Eastern Energy) — по правилу 2 не являются основанием для отклонения.",
+ "rf_supply": "Следов поставок в Россию или СНГ не найдено. Проверка: OpenSanctions (данные на 2026-11-25) по запросу «Sopan O and M» — совпадений нет; по «Sopan» — только 2 PEP-физлица (Nikhil Kumar, Jaya Bachchan), к компании не относятся. Отдельной проверки по таможенным/B-L записям РФ не проводилось (вне роли).",
+ "note": "Проверка ограничена: поисковый бэкенд (searx) был недоступен, Google/DuckDuckGo/Zauba/TheCompanyCheck отдали блокировку или таймаут, поэтому часть каналов не проверена. Санкции: OFAC SDN/UN/EU/UK/BIS — прямого попадания не найдено; интерактивный OFAC Sanctions List Search (обновление SDN 23.11.2026) не отдал результаты через GET-запрос, поэтому проверка по OFAC выполнена косвенно через агрегатор OpenSanctions — формально не полная, рекомендуется повторный скрин по официальным спискам. Кредитный рейтинг: публичных присвоений (CRISIL/ICRA/CARE/India Ratings) не найдено — null, данные не публичны. Юрлицо, HS-код и объёмы отгрузок не проверялись согласно роли. По правилу 2 судебные дела не являются основанием для отклонения — компания сохраняется в базе."
+}

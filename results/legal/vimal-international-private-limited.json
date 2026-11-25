@@ -1,0 +1,18 @@
+{
+ "name_input": "VIMAL INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": "VIMAL INTERNATIONAL PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: web_search backend returned 'Connection refused' for both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com and quickcompany.in returned HTTP 404; Google/Bing/DuckDuckGo HTML endpoints returned either a redirect stub, a timeout, or completely irrelevant results (no usable SERP). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT evidence of absence. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data alone; set to 'unknown'. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity's status is simply unverified. Note also that the input's declared HS code 392010 (plastic film/sheet) and industry 'oil & gas and chemicals' are inconsistent with each other; per rule 3 this is not a rejection ground and the HS code should be corrected to the factual one once product data is available. Recommended next step: re-run verification when MCA master data / a GST public profile is reachable, or obtain the CIN or GSTIN from the supplier directly."
+}

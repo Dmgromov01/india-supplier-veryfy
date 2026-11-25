@@ -1,0 +1,8 @@
+{
+ "name_input": "MRF CORP LIMITED",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey India customs page for MRF CORP LIMITED (Tarapore Towers, 5th Floor, 826 Anna Salai, Chennai) shows 104 records, all inbound: e.g. \"2026-02-08 | Surface Materials (Thailand) Ltd | MRF CORP LIMITED | Iriodin 305 Solar Gold | FRANKFURTMAIN INTL, GERMANY -> CHENNAI AIR CARGO ACC INMAA4, India | 32061900 | BOL 7394401\". No outbound/export line with Indian origin and foreign destination appears in the visible rows (5 of 104 rows seen; counter says 104).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split found in the sources reachable in this session (web_search returned connection errors; volza/eximpedia returned HTTP 403). Nothing public retrieved to confirm domestic supply.",
+ "note": "Company is an importer of effect pigments, spectrophotometers, styrene-acrylate copolymer and machinery for the paints/coatings trade — consistent with a coatings-related buyer, not with the declared HS 320910 (paints/varnishes) as an export line. Declared HS 320910 is not supported by any observed shipment record; the only HS codes actually seen are 32061900, 90273020, 39069090, 84799090, all on import side. No export bill of lading with date/destination found, so export_status = none_found (not 'declared only' — the company's own site was not used as evidence). Domestic supply: no traces found in accessible sources; recorded as unknown rather than confirmed. Revenue and export volume: null (not public in retrieved sources). Slug variants tried: mrf-corp-limited (104 records, populated), mrf-corp-ltd (empty), mrf-corporation-limited (empty)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "B J SPRING LIMITED",
+ "legal_name": "B J SPRING LIMITED (as claimed; not independently verified in MCA/registry sources)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. The web_search tool returned a backend error (searx: connection refused) on both attempts, and all subsequent fallbacks failed: zaubacorp.com and thecompanycheck.com returned HTTP 403 (blocked), tofler.in search returned HTTP 404, instafinancials.com returned HTTP 404, duckduckgo.com timed out, and Google/Bing returned only irrelevant generic results (letter 'B', BJ's Wholesale Club) with no Indian registry hit for 'B J SPRING LIMITED'. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they do not exist, but because they were not publicly retrievable within the tool budget. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' - the 'LIMITED' suffix suggests a public/private limited company but manufacturer vs trader status cannot be established from registry data alone. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Recommended next step: re-run with a working search backend or direct MCA master-data lookup by company name to obtain CIN, then derive PAN (4th character = holder type: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust) and GSTIN from the GST portal public search."
+}

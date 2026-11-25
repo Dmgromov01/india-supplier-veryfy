@@ -1,0 +1,9 @@
+{
+ "name_input": "Merchant Ship Equipment Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-SCOPE ONLY. Sanctions screening: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others), data current as of 2026-11-25, query 'Merchant Ship Equipment' -> 'No matching entities were found' (https://www.opensanctions.org/search/?q=Merchant+Ship+Equipment). This is a negative screen result on the name as supplied, NOT a clearance: no PAN/CIN/registered address was provided, so no exact-entity match was possible and a namesake or differently-spelled legal entity cannot be excluded. Court cases: NOT VERIFIED - null. The search layer was non-functional during this run (DuckDuckGo/searx backend refused connections; Bing returned only generic dictionary results for every query, ignoring exact-phrase operators), so eCourts/NJDG, Supreme Court, NCLT and High Court records could not be queried. No court case is asserted and none is excluded. Regulator actions / negative news: NOT VERIFIED - null, same tooling failure; no adverse media found, but absence of search results here is not evidence of absence. Credit rating: NOT VERIFIED - null; no CRISIL/ICRA/CARE/India Ratings/Acuite action located. Supplies to Russia or CIS: NOT VERIFIED - null; no export, B-L, customs or payment record found, and none is claimed. Per project rule 5, nothing here should be read as confirmation of any shipment to Russia/CIS. No rejection grounds identified in this scope (no sanctions designation, no liquidation/bankruptcy finding) - but note that legal existence, HS codes and shipment volumes were explicitly out of scope for this role and remain unverified by me. Recommend re-running court/negative-news checks once search is restored, and supplying CIN/PAN for a definitive sanctions match."
+}
