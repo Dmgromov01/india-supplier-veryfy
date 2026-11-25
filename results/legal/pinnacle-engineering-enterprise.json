@@ -1,0 +1,18 @@
+{
+ "name_input": "PINNACLE ENGINEERING ENTERPRISE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AABFP9313J",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'P' in the PAN format denotes a Person/individual, which is consistent with a proprietorship-style trade name ('Enterprise'). NOTE: this PAN is the value supplied in the input; it could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record retrieved. Search tooling failed in this session: the DuckDuckGo/searx backend returned connection refused, Bing returned only generic 'Pinnacle' brand results (Pinnacle Financial Partners, Pinnacle Sports, Pinnacle Studio) with no Indian entity match, Google returned a redirect stub, and direct fetches of registry/aggregator sources were blocked (zaubacorp.com HTTP 403, mca.gov.in HTTP 403, gstin.org timeout). Consequently no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed, and no audited revenue figures were found — all left null rather than guessed. The name 'PINNACLE ENGINEERING ENTERPRISE' plus a 'P'-type PAN strongly suggests a sole proprietorship, which would have no CIN and no MCA record at all; if so, the only registry footprint would be a GST registration, which was not retrievable here. Per project rules this is NOT a rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation, not a negative finding. Role left 'unknown' (no evidence of manufacturing plant or trading activity). Declared HS 846011/846012 (flat-surface grinding machines / other grinding machines, CNC) is plausible for an engineering trading/workshop firm but is unverified and, per rules, HS mismatch is never a rejection ground. Recommended next step: re-run with working search, or obtain the GSTIN directly from the supplier and verify on the GST portal / a GST-profile aggregator, and confirm whether it is a proprietorship (PAN-based) or a registered company."
+}

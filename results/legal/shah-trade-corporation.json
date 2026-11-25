@@ -1,0 +1,18 @@
+{
+ "name_input": "SHAH TRADE CORPORATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо таймаут, Bing выдавал нерелевантную выдачу, а публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) и портал MCA (mca.gov.in) отдали HTTP 403/404. Ни одного подтверждённого реестрового факта получить не удалось. ВАЖНО: заявленный в input PAN 'AAAFS4784M' не подтверждён — по 4-му символу 'F' он соответствует типу держателя 'Firm' (товарищество/фирма), а не компании (для юрлиц-компаний 4-й символ обычно 'C'), т.е. заявленное юрлицо 'VINAYAKA TRADING COMPANY' и наименование 'SHAH TRADE CORPORATION' могут относиться к разным субъектам (фирма vs компания) — это требует проверки, но НЕ является основанием для отклонения. Также обращаю внимание: legal_claimed ('VINAYAKA TRADING COMPANY') не совпадает с name_input ('SHAH TRADE CORPORATION') — вероятно, это два разных поставщика в одной записи, что нужно уточнить у заказчика. CIN, GSTIN, дата регистрации, MCA-статус, выручка FY25/FY26 — null, так как данные не публичны/недоступны, выдумывать не стал. Роль — unknown (нет данных о производственных мощностях или торговой деятельности). Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица. Рекомендуется повторный запуск проверки при восстановлении доступа к реестрам (MCA master data, GST-портал)."
+}

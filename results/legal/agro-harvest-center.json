@@ -1,0 +1,18 @@
+{
+ "name_input": "Agro Harvest Center",
+ "legal_name": "AGRO HARVEST CENTRE (as claimed; not verified in any public registry)",
+ "cin_llpin": null,
+ "pan": "AAHFA9213E",
+ "pan_holder_type": "Firm (4th character 'F' = Firm/Partnership firm, per PAN format rules)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT possible in this session. The search backend (DuckDuckGo/searx) returned connection refused on all queries; Bing returned only generic dictionary/stock results for the exact-phrase queries \"AGRO HARVEST CENTRE\", \"Agro Harvest Center\" and the PAN \"AAHFA9213E\"; MCA (mca.gov.in), ZaubaCorp and InstaFinancials all returned HTTP 403 to automated fetches. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from an official source, and no audited revenue figures are available - all such fields are null rather than guessed. PAN format check only: 'AAHFA9213E' is structurally valid (5 letters + 4 digits + 1 letter) and its 4th character 'F' denotes a Firm/partnership, i.e. this is a proprietorship/partnership-style PAN, not a company (CIN) PAN - consistent with a small trading/farm-input business rather than a registered company, but this is an inference from the PAN format, not a registry confirmation. The claimed name 'AGRO HARVEST CENTRE' with the 'CENTRE' spelling is typical of a proprietorship/firm trade name; no MCA company record was found or excluded. Per project rules the entity is NOT rejected: non-existence/struck-off/liquidation could not be established either way, and absence of accessible records is not proof of non-existence. Role is 'unknown' - no evidence of manufacturing or trading activity was retrievable. HS 843290 (agricultural machinery parts) is inconsistent with the claimed industry 'food products and FMCG'; per rule 3 this is not a rejection ground - the code should be corrected to the factual one once the actual product line is confirmed. Action required: re-run verification when the search backend is restored, checking MCA master data, the GST public portal (GSTIN search by PAN AAHFA9213E) and the UP GST commercial-taxes dealer list."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "SPARK YUGCHEM PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), а Bing и Google по запросам в кавычках \"SPARK YUGCHEM PRIVATE LIMITED\" / \"Spark Yugchem\" возвращали только нерелевантную выдачу про Apache Spark, Walmart Spark и т.п. — ни одного релевантного документа не найдено. Прямой доступ к реестрам закрыт: zaubacorp.com отдал HTTP 403, страница поиска OFAC Sanctions List Search — это JS-форма, через http_get результаты не возвращаются (получена только пустая форма, SDN List last updated 11/23/2026). Итог: санкционных совпадений НЕ подтверждено и НЕ опровергнуто; судебные дела (eCourts/NCLT/High Court Mumbai), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия (MPCB, PESO, DGFT, GST) и признаки поставок в РФ/СНГ — данных нет, все поля null. Ничего не выдумано. Требуется повторный прогон при доступном поиске и/или проверка по PAN ABBCS6819A в платных базах (Tofler, Probe42, MCA21, sanctions screening вроде Dow Jones/LexisNexis). Отклонение по данному отчёту не обосновано: оснований (ликвидация/банкротство) не установлено, но и подтверждающих данных нет."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Aarti Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. DuckDuckGo-бэкенд web_search возвращал 'Connection refused' на всех запросах; zaubacorp.com и instafinancials.com отдали HTTP 403, thecompanycheck.com — 404, indiamart.com — 429; Google вернул только редирект-заглушку, Bing выдал нерелевантную выдачу (страницы про индуистские аарти) на все три запроса, включая точные кавычки по 'AARTI OVERSEAS' + GSTIN/CIN и 'Aarti Overseas' + 'Arti Luthra'. В результате НЕ подтверждено: точное юрлицо, CIN/LLPIN, PAN (и его 4-й символ → тип держателя), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA. revenue FY25/FY26 — null (аудированной отчётности не найдено). Роль — unknown: заявленный HS 820600 (инструменты ручные: ключи, лопаты и т.п.) не соответствует заявленной отрасли 'Авиастроение и транспорт', но по правилам проекта несоответствие HS не является основанием для отклонения. Вердикт: НЕ отклонён — отсутствие данных не равно отсутствию юрлица; компания остаётся в базе как 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к реестрам (MCA/zaubacorp, GST-портал). Заявленное в input 'ARTI LUTHRA' — вероятно имя проприетора/партнёра, а не название юрлица; не подтверждено."
+}

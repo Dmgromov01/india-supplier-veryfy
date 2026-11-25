@@ -1,0 +1,18 @@
+{
+ "name_input": "Ushodaya Enterprises Pvt Ltd (Priya Foods)",
+ "legal_name": "USHODAYA ENTERPRISES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified. All registry sources were unreachable from this environment: web_search returned no results / irrelevant results (searx connection refused, Bing and Google returned unrelated pages), and zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in all returned HTTP 403/404 or DNS failure. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT confirmed, not invented. No audited accounts or official filings could be retrieved, so revenue FY25 and FY26 are null. Role 'manufacturer_trader' is a provisional classification based on the input description (Priya Foods brand, food/FMCG manufacturing plus distribution) and is NOT registry-confirmed. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity is widely known as a large Hyderabad-based foods group, but this could not be documented from a public registry record in this session. Recommend re-running with access to MCA master data / GST portal or a paid registry API before using this record."
+}

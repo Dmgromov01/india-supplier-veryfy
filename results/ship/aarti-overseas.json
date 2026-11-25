@@ -1,0 +1,8 @@
+{
+ "name_input": "Aarti Overseas",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row could be read. ImportKey pages for three slug variants (aarti-overseas, aarti-overseas-ludhiana, aarti-overseas-punjab) returned only the generic template text \"Shipments available for AARTI OVERSEAS, refreshed daily\" with 0 actual rows rendered (JS-gated); volza.com/p/aarti-overseas, eximpedia.app and trademo.com all returned HTTP 403. No bill-of-lading number, date, destination or HS code was observed anywhere.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Google search returned only a redirect interstitial; the DuckDuckGo search backend was unreachable (connection refused) for all queries attempted. No domestic supply line could be quoted.",
+ "note": "Evidence gap, not a negative finding: nothing was confirmed and nothing was disproved. The declared HS 820600 (hand tools: hammers, screwdrivers, etc.) is inconsistent with the claimed industry 'Авиастроение и транспорт' (aviation/transport) — per project rule 3 this is NOT grounds for rejection; the company stays in the base and the HS code should be corrected to the factual one once a real shipment line is obtained. Legal name claimed as 'ARTI LUTHRA' (likely a proprietor name, spelling differs from company name 'Aarti') — unverified, no CIN/PAN found and none invented. Revenue and export volume: null (not public in any source reached). Recommended next step: re-run against a paid/authenticated trade-data view or the DGFT/IEC-linked customs extract to obtain at least one dated B/L before assigning any status other than unknown."
+}
