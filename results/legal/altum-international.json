@@ -1,0 +1,18 @@
+{
+ "name_input": "Altum International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "ASHPA4363P",
+ "pan_holder_type": "Individual (4th character 'P' = person) — consistent with the claimed proprietor name MANDAVA VIJAYA KUMARI; PAN format itself is structurally valid (5 letters + 4 digits + 1 letter), but the PAN could NOT be verified against any public source",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no data obtained. The web_search tool returned a backend error (searx: connection refused) on both queries; direct fetches of Google, Bing, DuckDuckGo (html and lite endpoints) returned irrelevant results or timed out; zaubacorp.com and mca.gov.in returned HTTP 403; gstincheck.co.in and indiafilings.com returned HTTP 404. Therefore no public GST profile, MCA record, CIN/LLPIN, incorporation date or audited revenue could be retrieved. The claimed 'legal_claimed' value MANDAVA VIJAYA KUMARI is an individual proprietor name, not a company name, so this is most likely a sole proprietorship (no CIN/LLPIN would exist by design) — but this is an inference from the input, not a verified fact. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the entity is NOT rejected; it is left unverified. Revenue FY25/FY26: null — no audited accounts or official filings located. Role: unknown — cannot be classified as manufacturer or trader without registry/GST data. Recommended next step: re-run with a working search backend and check the GST portal (gst.gov.in search taxpayer by GSTIN/PAN) and MCA master data for the proprietor's name."
+}

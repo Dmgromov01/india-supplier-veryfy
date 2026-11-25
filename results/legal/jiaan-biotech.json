@@ -1,0 +1,18 @@
+{
+ "name_input": "JIAAN BIOTECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Madhya Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no registry data obtained. Tooling failure: the web_search backend returned 'Connection refused' on both queries; Google/Bing/DuckDuckGo HTML endpoints returned no usable results (Bing ignored the query and served generic Microsoft pages; DuckDuckGo timed out); zaubacorp.com, instafinancials.com and thecompanycheck.com returned 403/404. Consequently no source could be found for the exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status, and no audited accounts or official filings were located for FY25/FY26 revenue. All such fields are left null rather than guessed. The PAN claimed in the input (AALFJ7331G) could NOT be validated: its 4th character 'F' would denote a partnership firm, which is inconsistent with a company-style name, but this is an unverified observation only and is not a finding. No rejection is proposed: the entity's non-existence, strike-off, liquidation or bankruptcy was NOT established - the absence of data is a tooling limitation, not evidence against the company. Role left as 'unknown'. Recommended action: re-run this company in a later batch when search/registry access is restored, and check MCA master data plus the GST public search on the claimed PAN."
+}

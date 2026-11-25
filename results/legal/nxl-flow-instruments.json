@@ -1,0 +1,18 @@
+{
+ "name_input": "NXL FLOW INSTRUMENTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AACFN8269L",
+ "pan_holder_type": "F — partnership firm (per 4th character of the claimed PAN; PAN itself unverified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. All 10 tool calls failed to return usable sources: the DuckDuckGo/searx search backend was unreachable ('Connection refused'), Bing returned only unrelated results for both the company name and the PAN, and MCA master-data, Zauba Corp, InstaFinancials and Tofler all returned 403/404 or DNS failure. No CIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be confirmed, so all such fields are null rather than guessed. Important structural point: the claimed PAN AACFN8269L has 'F' as its 4th character, which denotes a PARTNERSHIP FIRM, not a company — so this entity is very likely an unregistered partnership/proprietorship-style firm with no CIN at all, and 'NXL FLOW INSTRUMENTS' is probably a trade name rather than a registered legal entity name. This is consistent with the absence of any MCA hit, but it is an inference from the PAN format, not a verified fact. Per project rules the company is NOT rejected: non-existence could not be established either way, and absence of public data is not grounds for rejection. Role left as 'unknown' — no evidence of manufacturing plant, GST registration or trade activity was obtainable. Revenue FY25/FY26 null: no audited accounts or official filings located. Recommended next step: manual check on the GST portal (search by PAN AACFN8269L) and MCA/LLPIN search, plus a request to the supplier for its GST certificate and Udyam/partnership registration, since a firm of this type will not appear in company-registry databases."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "NewAge Fire Fighting Co. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE - no company-specific record retrieved. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on every attempt; Google returned a redirect/consent page with no results; Bing (which did respond) ignored the quoted phrase 'NewAge Fire Fighting Company Limited' and returned only unrelated global 'NewAge' brands (newageproducts.com, newageindustries.com, newage-eng.com, etc.), i.e. zero relevant hits. The OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026 per page) but it is a JS-driven form that cannot be queried via plain HTTP GET, so no name lookup could actually be executed - therefore sanctions_hit is null, NOT a confirmed 'no hit'. Likewise no Indian court/registry source (NCLT, eCourts, Zauba/Tofler), no credit rating agency page (CRISIL/ICRA/CARE/India Ratings) and no news source could be opened for this entity, so court_cases, rating, news_risk and rf_supply are all null for lack of public data retrieved, not because they were checked and found empty. No sanctions, court, rating, adverse-media or Russia/CIS supply finding is asserted in either direction. Per project rules this is not a rejection ground and no negative inference should be drawn; the company should be re-queued for risk screening once search access is restored. Recommended next checks: OFAC SDN + consolidated non-SDN name search, UN Consolidated and EU/UK OFSI lists, BIS Entity List, NCLT/eCourts by CIN, and CRISIL/ICRA/CARE rating directories."
+}
