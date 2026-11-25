@@ -1,0 +1,46 @@
+{
+ "name_input": "M/S MACLEODS PHARMACEUTICAL LIMITED",
+ "declared_hs": "293790;294190;294200;300410",
+ "actual_hs_list": [
+  {
+   "hs": "3004.10",
+   "desc": "Medicaments containing penicillins or streptomycins (or derivatives), put up in measured doses/packings for retail sale",
+   "basis": "declared code, consistent with a formulations manufacturer's product line",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "3004.20",
+   "desc": "Medicaments containing other antibiotics, retail packings",
+   "basis": "typical output of an Indian formulations company; NOT corroborated by any customs line or fetched catalogue page",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "3004.90",
+   "desc": "Other medicaments in measured doses/retail packings (tablets, capsules, syrups, injectables)",
+   "basis": "typical output; NOT corroborated",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "2941.90",
+   "desc": "Other antibiotics (bulk API), incl. macrolides/polyenes",
+   "basis": "declared 294190; plausible only if bulk API is sold, not corroborated",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "2942.00",
+   "desc": "Other organic compounds (incl. plant alkaloids/derivatives, bulk)",
+   "basis": "declared 294200; plausible for bulk API, not corroborated",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "2937.90",
+   "desc": "Hormones/steroids and derivatives, other",
+   "basis": "declared 293790; plausible for bulk API, not corroborated",
+   "status": "заявлено, не подтверждено"
+  }
+ ],
+ "match_status": "cannot_verify",
+ "product_summary": "Macleods Pharmaceuticals Ltd is a well-known Indian pharmaceutical company (headquartered in Mumbai, Maharashtra) producing finished dosage formulations (tablets, capsules, syrups, injectables) and some bulk APIs. I could NOT open the company website or any catalogue in this session: macleodspharma.com returned empty bodies on /, /products, /about-us, /contact-us; the search backend (DuckDuckGo/searx) was down ('Connection refused'); Bing returned unrelated weather results; IndiaMART returned HTTP 429. Therefore no product list was actually read and no product-to-HS mapping can be evidenced. The actual_hs_list above is a reasoned expectation from the declared codes and the company's known industry, NOT a verified catalogue mapping.",
+ "role_hint": "manufacturer (по профилю компании — индийский производитель готовых лекарственных форм; признак трейдера не выявлен, но и не проверен по документам)",
+ "comment": "Проверка HS не выполнена по существу: ни сайт, ни каталог, ни страница IndiaMART не открылись (пустые ответы / 429 / поисковый бэкенд недоступен). Заявленные коды 293790, 294190, 294200, 300410 относятся к фармацевтике (гормоны/стероиды, антибиотики, прочие орг. соединения, лекарства с пенициллинами) и в целом соответствуют профилю производителя лекарств — противоречий не обнаружено, но и подтверждения нет: статус 'заявлено, не подтверждено'. Отраслевая метка в заявке 'Нефтегаз и химия' — вероятная ошибка классификации: компания фармацевтическая, корректная отрасль — 'Фармацевтика / химико-фармацевтическая продукция'. По правилу 3 несоответствие HS не является основанием для отклонения — компания сохраняется, коды не изменяются до получения фактического каталога/таможенных строк. Пропущенные в декларации вероятные линии (не подтверждены): 3004.20 (прочие антибиотики), 3004.90 (прочие лекарства), 3002 (вакцины/биопрепараты), 3005/3006 (перевязочные, прочие фармтовары) — требуют проверки по каталогу. Штат в заявке указан Odisha, тогда как компания обычно ассоциируется с Мумбаи (Maharashtra) — расхождение требует сверки с юр. адресом (в рамках этой роли не проверялось). Выручка, объёмы экспорта и таможенные записи не исследовались согласно заданию — null."
+}

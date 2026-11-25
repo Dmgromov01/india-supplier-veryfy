@@ -1,0 +1,18 @@
+{
+ "name_input": "REAL FORGE & FITTING; REAL FORGE & FITTING",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "BBSPP0249L",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual, not a company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), Bing returned only irrelevant results for the exact-string queries, and the public registry aggregators (Tofler, Zauba Corp, InstaFinancials) returned HTTP 403 to direct fetches. Therefore no CIN/LLPIN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, and all such fields are null rather than guessed. Two substantive observations from the input itself: (1) the PAN claimed, BBSPP0249L, has 'P' as its 4th character, which in the Indian PAN format denotes an INDIVIDUAL (proprietor), not a company/firm - so 'REAL FORGE & FITTING' is most likely a proprietorship trading name rather than a registered company, which would explain the absence of a CIN; this is an inference from the PAN structure, not a verified fact. (2) The 'legal_claimed' value 'BHAMRARAM SHAYAMJI PUROHIT' reads as a person's name (likely the proprietor), not a legal entity name, and the input name field itself is malformed (duplicated with a semicolon). Per project rules the entity is NOT rejected: non-existence/struck-off/liquidation could not be established either way, and absence of evidence from blocked sources is not evidence of non-existence. Role left as 'unknown' - no registry document shows manufacturing plant, GST registration or trade activity. Revenue FY25/FY26 null: no audited accounts or official filings located. Recommended next step: re-run once search access is restored, checking the GST portal (GSTIN search by PAN BBSPP0249L) and the Maharashtra GST/Shops & Establishment records for the proprietorship, plus Udyam registration if any."
+}

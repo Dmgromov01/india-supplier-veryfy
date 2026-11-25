@@ -1,0 +1,18 @@
+{
+ "name_input": "RADHESHWAR RASAYAN",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool was non-functional (searx connection refused on both queries), and direct fetches of registry sources failed: Tofler, Zauba Corp and Instafinancials all returned HTTP 403 Forbidden; mca.gov.in search endpoint did not resolve (DNS error); Google and Bing returned only unrelated/irrelevant result pages (skincare and Amex pages), i.e. the name produced no usable hits. Consequently no legal entity name, CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Nothing is asserted or inferred: all fields are null. Note on the input itself: 'RADHESHWAR RASAYAN' is a trade-style name with no legal suffix (no Pvt Ltd / LLP / Partnership), which is typical of a proprietorship or partnership firm - such entities have no CIN and no MCA record, so absence of an MCA entry would not by itself prove non-existence. Per project rules, rejection is NOT applied here: there is no evidence the entity is struck off, liquidated or bankrupt, and lack of retrievable data is not grounds for rejection. Role left as 'unknown' (no evidence of manufacturing plant or trading activity). Declared HS 291512 (salicylic acid salts/esters) is a chemistry claim only and was not assessed, per instructions. Recommended next step: re-run with a working search backend, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal and MCA master data."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "NUBERG ENGINEERING LTD",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable shipment row obtained. importkey.com/countries/india/nuberg-engineering-ltd returned only a JavaScript shell: \"Shipments available for NUBERG ENGINEERING LTD, refreshed daily\" — 0 shipment rows actually visible (counter says data exists, rows seen = 0). volza.com/p/nuberg-engineering/ → HTTP 403; eximpedia.app → HTTP 403; trademo.com → HTTP 403; importgenius.com → JS challenge page. No bill-of-lading number, date, destination or HS code could be read from any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. zaubacorp.com and thecompanycheck.com (company page for CIN U74220UP1996PLC021797) both returned HTTP 403; nuberg.com returned TLS error. No domestic supply record seen.",
+ "note": "Evidence could not be gathered: the web_search backend was unavailable for the whole run (searx connection refused) and every trade-data/registry host tried returned 403 or a JS-only shell. Therefore export_status and domestic_status are 'unknown', NOT 'confirmed' and NOT 'none_found' — absence of evidence here is a tooling failure, not proof that shipments do not exist. Declared HS 841989 (other machinery for treatment of materials by temperature change) is plausible for a chemical-plant/EPC contractor but is unverified against any customs line. Revenue and export volume: null (not public in any page I could open; not invented). Recommended next step: re-run with a working search backend and a paid/authenticated Volza or Eximpedia view, plus MCA/Tofler financials for the GST/turnover split. No rejection basis found and none asserted."
+}

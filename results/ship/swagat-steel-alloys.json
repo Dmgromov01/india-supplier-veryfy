@@ -1,0 +1,8 @@
+{
+ "name_input": "SWAGAT STEEL & ALLOYS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/swagat-steel-alloys (and variants -and-alloys, -alloys-pvt-ltd): page renders only the boilerplate line \"Shipments available for SWAGAT STEEL ALLOYS, refreshed daily\" with an empty shipment table — 0 rows actually seen on all 3 slug variants. No bill-of-lading number, date, destination or HS code visible. volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. web_search backend unavailable (connection refused) for both queries, so no alternative record could be located.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search backend was down (connection refused) and all reachable trade-data pages were paywalled or blocked, so no domestic supply record was seen — 0 rows.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники оказались недоступны (ImportKey — платный шаблон без строк, volza/eximpedia/trademo — 403, importgenius — JS-челлендж, поисковик — connection refused). Статус по экспорту и внутреннему рынку: unknown, не none_found, поскольку отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Заявленный HS 722020 (холоднокатаный прокат из нерж. стали) и PAN AKAPB8369F не проверены — реестры вне области задачи. Выручка и объём экспорта: null (не публичны / не получены). Рекомендуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S MACLEODS PHARMACEUTICAL LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. Tooling failure during this run: the web_search backend returned 'Connection refused' on every query, DuckDuckGo HTML/lite endpoints timed out or failed DNS, Google returned only a redirect interstitial, Bing returned irrelevant results, indiankanoon.org failed DNS, zaubacorp.com returned HTTP 403, and macleodspharma.com returned empty bodies. Consequently NO primary source could be read for this company. sanctions_hit=null: no OFAC SDN / UN / EU / UK / BIS Entity List screen was actually completed — absence of a hit here is NOT a clean bill of health, it is an unverified field. court_cases=null: no Indian court docket (e.g. eCourts, NCLT, High Court) was retrievable; party role and status unknown. rating=null: no CRISIL/ICRA/CARE/India Ratings action could be confirmed, so no rating, date or outlook is asserted. news_risk=null: no negative-news sweep completed. rf_supply=null: no evidence found either way of supplies to Russia or the CIS; this is 'not researched', not 'none exists'. Per project rules, none of the above is a rejection ground and no adverse inference should be drawn from these nulls. Recommend re-running this company once search connectivity is restored, and specifically checking: OFAC SDN and BIS Entity List name variants, Indian court records under both 'Macleods Pharmaceuticals Ltd' and 'Macleods Pharmaceuticals Limited', and rating agency rationales. Note also that the claimed industry ('Нефтегаз и химия' / oil-gas and chemicals) is inconsistent with the company's known pharmaceutical profile and the declared HS chapters 29/30 — flagged for the identity/HS team, not a risk finding, and per Rule 3 not a rejection ground."
+}

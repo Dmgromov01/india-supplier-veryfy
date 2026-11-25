@@ -1,0 +1,18 @@
+{
+ "name_input": "CREDENCE CERAMIC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не подтверждена. Входные данные противоречивы: в поле legal_claimed указано физлицо «GAURAV MUKESHBHAI BHORANIYA», а не юрлицо; название «CREDENCE CERAMIC» не является ни LLP-именем (нет суффикса LLP), ни названием Pvt Ltd, т.е. вероятнее всего это торговое обозначение / проприеторство или фирменное имя без регистрации в MCA. Поиск по открытым источникам не дал ни одного релевантного результата: web_search (DuckDuckGo/searx) был недоступен (connection refused), Bing по запросам «\"CREDENCE CERAMIC\" Bhoraniya», «\"Credence Ceramic\" Morbi Gujarat GST», «\"Gaurav Mukeshbhai Bhoraniya\"» выдал только нерелевантные результаты (Credence Blue Cross, Credence AI и т.п.); tofler.in, zaubacorp.com, instafinancials.com и mca.gov.in вернули 403/404. Следовательно CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 — null (не публичны либо не найдены; цифры не выдумывались). Штат ввода не заявлен (пусто), фактический штат не установлен. Роль: unknown — по названию «Ceramic» и HS 690721 (керамическая плитка) можно предположить производителя или трейдера плитки (кластер Морби, Гуджарат), но это предположение, а не подтверждённый факт. Отклонение НЕ применяется: отсутствие подтверждения существования в открытых источниках не равно доказательству несуществования юрлица (правило 3). Требуется от поставщика: точное юридическое имя, GSTIN (для проверки статуса на gst.gov.in), PAN, и подтверждение формы (проприеторство / partnership / LLP / Pvt Ltd) — после этого возможна достоверная верификация."
+}

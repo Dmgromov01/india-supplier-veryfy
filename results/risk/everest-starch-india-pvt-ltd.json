@@ -1,0 +1,9 @@
+{
+ "name_input": "EVEREST STARCH INDIA PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the search backend (DuckDuckGo/searx) returned connection errors for every query, and Bing returned only generic 'Everest' results (mountain, Everest Group, Everest Re) with no hit for 'Everest Starch (India) Private Limited'. Company-registry aggregators (zaubacorp.com, tofler.in) returned HTTP 403 and could not be read. The OFAC Sanctions List Search page was reachable but is a JS-driven form that cannot be queried via plain HTTP GET, so no name-level screening result was obtained. Therefore: sanctions exposure = not verified (null, not a clean result); Indian court cases (party role/status) = not verified; regulator actions and negative news = not verified; credit rating = not public/not found (null); evidence of supplies to Russia or CIS = not found, but this is an absence of search capability, not a verified negative. No CIN, PAN, directors or financial data were retrieved and none are asserted. Recommend re-running this company once web search is restored, and manually screening the exact legal name against OFAC SDN, UN, EU, UK OFSI and BIS Entity List, plus NCLT/High Court and GST/SEBI/RBI action searches."
+}

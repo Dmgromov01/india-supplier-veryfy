@@ -1,0 +1,17 @@
+{
+ "name_input": "EVEREST STARCH INDIA PVT LTD",
+ "declared_hs": "350510",
+ "actual_hs_list": [
+  "110812",
+  "350510",
+  "170230",
+  "170240",
+  "170290",
+  "350520",
+  "380910"
+ ],
+ "match_status": "partial",
+ "product_summary": "Corn wet-milling plant in Gujarat (operational since 2014, stated capacity >600 MT/day). Website (evereststarch.com) lists: native starches and modified starches (food and industrial grades); sweeteners — Hydrol/glucose syrup, maltodextrin, DAH (dextrose anhydrous), DMH (dextrose monohydrate); by-products. Application segments listed: bakery, batters & breadings, confectionery, dairy and plant-based dairy, meat/seafood/poultry, frozen and canned food, soups/gravies/sauces, instant premixes, seasonings/spray-dried powders, namkeen and snacks, beverages (brewing, coffee/tea, flavoured water, dairy and nutrition beverages), animal nutrition (pet food, cattle/fish/poultry feed), beauty & home care, paper making and corrugating/advanced packaging, textile yarn sizing/weaving, digital/inkjet printing, fabric coating/finishing, oil well drilling, ceramics, paint, firecrackers, agriculture, cigarette industry, gypsum board, adhesives, biodegradable plastics, pharmaceuticals & nutraceuticals (tablets/capsules, latex & surgical supplies, gummies, syrups/infusions/injections). Certifications claimed: APEDA, FSSAI, GMP, Kosher, US-FDA, HACCP, ISO 22000, Halal, ISO 9001, FSSC 22000, Export House, AEO.",
+ "role_hint": "manufacturer",
+ "comment": "Declared 350510 (dextrins and other modified starches) is corroborated by the site's own product line — modified starches for food and industrial applications — so the code is legitimate but covers only part of the range. Partial match: the declared single code omits the company's core native starch output (maize/corn starch, HS 110812), its sweetener line (glucose syrup 170230, glucose/dextrose syrup 170240, maltodextrin/dextrose 170290) and its paper/board sizing and surface-finishing starches (350520, 380910). Industry label 'Продукты питания и FMCG' is a misclassification: this is a corn wet-miller / starch and starch-derivative chemical producer serving paper, textile, drilling and pharma, not an FMCG food company. No trader signs found — own plant, own capacity, own certifications, so manufacturer. All product and capacity statements are from the company website only and are 'заявлено, не подтверждено' — no customs line or shipment record was checked in this task (out of scope). No HS correction required; recommend adding the missing codes to the declaration rather than replacing 350510."
+}

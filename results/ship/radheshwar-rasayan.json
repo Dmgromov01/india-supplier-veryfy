@@ -1,0 +1,8 @@
+{
+ "name_input": "RADHESHWAR RASAYAN",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/radheshwar-rasayan (and variant slug 'radheshwar-rasayan-') returned only the generic page template: 'Shipments available for RADHESHWAR RASAYAN, refreshed daily' — a boilerplate placeholder, with 0 actual shipment rows, 0 bill-of-lading numbers, 0 dates, 0 destinations and 0 HS codes rendered. No export record seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries; volza.com, eximpedia.app and trademo.com returned HTTP 403 Forbidden; Google returned a redirect interstitial. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждений поставок внутри Индии. Это НЕ означает, что компания не поставляет: проверить не удалось, так как все источники таможенных данных были недоступны (403/пустой шаблон), а поисковики не работали в этой сессии. Статус 'unknown', а не 'none_found', именно по причине технической недоступности источников. Заявленный HS 291512 (соли муравьиной кислоты / формиаты) не подтверждён и не опровергнут — фактический код не установлен. Выручка: null (не публична/не найдена). Объём экспорта: null. Юрлицо (CIN/PAN) не проверялось — реестры вне области задачи. Рекомендуется повторная проверка при доступности volza/eximpedia/trademo или прямом доступе к таможенным данным."
+}
