@@ -1,0 +1,40 @@
+{
+ "name_input": "COSMOS INTERNATIONAL LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Gujarat High Court",
+   "case": "State of Gujarat vs Cosmos International Ltd.",
+   "case_no": "Special Criminal Application No. 1390 of 2013",
+   "role": "respondent",
+   "status": "orders dated 10.05.2013 (Bench: A. Kureshi) and 27.09.2013 (Bench: K.S. Jhaveri)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Cosmos%20International%22"
+  },
+  {
+   "court": "Income Tax Appellate Tribunal, Delhi Bench",
+   "case": "Cosmos International Ltd., New Delhi vs DCIT/ACIT (multiple appeals, AYs 2002-03, 2004-05, 2008-09, 2009-10, 2012-13)",
+   "role": "appellant",
+   "status": "decided 2014-2018 (tax appeals)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Cosmos%20International%22"
+  },
+  {
+   "court": "Delhi High Court",
+   "case": "Commissioner of Income Tax Delhi XI vs M/s Cosmos International",
+   "role": "respondent",
+   "status": "decided 27.11.2008",
+   "source": "https://indiankanoon.org/search/?formInput=%22Cosmos%20International%22"
+  },
+  {
+   "court": "Allahabad High Court",
+   "case": "M/s Cosmos International vs State of U.P. and 2 Others",
+   "case_no": "Matters Under Article 227 No. 6822 of 2026",
+   "role": "petitioner",
+   "status": "pending/decided 18.05.2026 (per listing)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Cosmos%20International%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no confirmed hit found, but this is NOT a clean negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript application that returned no queryable results, and the BIS Entity List page (https://www.bis.gov/entity-list) returned only regulatory text, so OFAC SDN/UN/EU/UK/BIS screening could not be executed. sanctions_hit set to null = not verified, not 'clear'. Web search backend (DuckDuckGo/searx) was down ('Connection refused') and Bing/Google returned only generic 'Cosmos' noise, so no negative-news or credit-rating search was possible; rating and news_risk are null because nothing public was retrievable, not because nothing exists. Court records found on Indian Kanoon are name matches only — the Gujarat HC matter concerns 'Cosmos International Ltd.' and the ITAT/Delhi HC matters concern a New Delhi entity at 1 Aradhana Colony, Sector 13, R.K. Puram (PAN AAAFC5587A appears in one ITAT order), so identity with the claimed Gujarat petroleum trader is unconfirmed; the Allahabad HC 2026 petition is likewise an unverified name match. Per project rules these court matters are noted neutrally and are not rejection grounds. No evidence of supplies to Russia or the CIS was found, but absence of evidence here reflects tool failure rather than a verified negative. Recommend re-running OFAC/EU/UK/BIS screening and a news/rating check when search access is restored."
+}

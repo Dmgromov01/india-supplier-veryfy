@@ -1,0 +1,18 @@
+{
+ "name_input": "TOUGHLA AUTOMOTIVE PRIVATE LIMITED; TOUGHLA AUTOMOTIVE PRIVATE LIMITED",
+ "legal_name": "TOUGHLA AUTOMOTIVE PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AAHCT1945K",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'T' = first letter of surname/entity name 'Toughla') — format-consistent, but holder not verified against Income Tax / MCA records",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public source could be read. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both searches; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials and quickcompany returned 404 for the slug; tofler.in returned 404; mca.gov.in MDS page returned HTTP 403; Bing/Google HTML endpoints returned irrelevant or redirect-only content. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they could not be read from a public source in this session. PAN AAHCT1945K is carried over from the input only: its format is valid (AAHCT + 1945 + K, 4th char 'C' = company holder), but I did not confirm it belongs to this entity. Revenue FY25/FY26: null — no audited accounts or official filings were accessible; no figures invented. Role: unknown — no registry record read, so manufacturer vs trader cannot be established. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; equally there is no confirmation it exists. Declared HS 870830 (brake parts) is not a rejection ground per project rules and was not assessed. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by PAN AAHCT1945K."
+}

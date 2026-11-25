@@ -1,0 +1,18 @@
+{
+ "name_input": "BLISS FLOW SYSTEMS PRIVATE LIMITED",
+ "legal_name": "BLISS FLOW SYSTEMS PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AAFCB7618H",
+ "pan_holder_type": "Company (4th character 'C' = company/firm holder type) — note: PAN is the value supplied in the input, NOT independently verified against any public registry record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on every query; Bing/Google HTML endpoints returned only generic 'Bliss' consumer-brand results and ignored the quoted company name; zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials.com returned 404. No CIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from any public source, so all such fields are null rather than guessed. IMPORTANT: an earlier attempt used a CIN (U29199TN1996PTC025123) that was constructed by assumption, not found in any source — it is deliberately NOT reported here and must not be used. PAN AAFCB7618H is carried over from the input only; its 4th character 'C' indicates a company-type holder, which is consistent with a private limited company, but the PAN itself was not matched to any public profile. Role left as 'unknown' because manufacturer vs trader status requires product/plant evidence outside this role's scope and no registry record was reachable. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Per project rules this company is NOT rejected — absence of retrievable public data is not grounds for rejection; it should be re-queued for registry lookup when search/registry access is restored (recommended sources: MCA master data by name, GST portal 'Search Taxpayer' by PAN AAFCB7618H, and the company's own GSTIN printed on invoices)."
+}

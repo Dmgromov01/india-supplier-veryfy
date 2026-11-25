@@ -1,0 +1,18 @@
+{
+ "name_input": "SHAHI EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained - all fields null. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' / timeouts on every query; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com name-based URLs returned 404; Google returned only a redirect stub; Bing returned irrelevant results (adult content / math pages) for all three query formulations. One CIN I initially tried (U74899DL1974PTC007361) turned out to belong to JETAIR PRIVATE LIMITED, not to any Shahi entity - it was a guess and is explicitly NOT attributed to this company; no CIN is asserted here. IMPORTANT IDENTITY CAVEAT for the next pass: the input is internally inconsistent. 'SHAHI EXPORTS' is a well-known large Indian apparel/textile exporter (knitwear, woven garments) with manufacturing in Karnataka/Tamil Nadu/NCR, whereas the declared HS codes 570110 / 570249 (hand-knotted and other carpets/rugs) and 630210 (bed linen, knitted or crocheted) and the claimed industry 'Food & FMCG' do not match an apparel exporter. The 'legal_claimed' value 'BRIJ RAJ' is a personal name, not a legal entity name, so the exact legal entity (e.g. 'Shahi Exports Private Limited' vs a partnership/proprietorship or a same-name trader in Karur/Tamil Nadu) is UNRESOLVED. Per project rules this is NOT grounds for rejection - no evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company must be retained and re-verified. Next pass should: (1) query MCA master data by name for all 'SHAHI EXPORTS' variants and confirm CIN, incorporation date, ROC/state and status; (2) derive PAN 4th-character holder type from the confirmed PAN; (3) pull GSTIN and GST status from a public GST profile and compare the GST-registered state against the claimed Tamil Nadu; (4) determine role (manufacturer vs trader) from MCA NIC/principal business activity, not from catalogues; (5) take FY25/FY26 revenue only from audited accounts or MCA filings, else leave null. No revenue figures were invented."
+}

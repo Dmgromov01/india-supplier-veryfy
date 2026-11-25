@@ -1,0 +1,18 @@
+{
+ "name_input": "SWASAN CHEMICALS PRIVATE LIMITED",
+ "legal_name": "SWASAN CHEMICALS PRIVATE LIMITED (as claimed in input; not independently confirmed against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. All 10 permitted tool calls were spent without a single usable source: the web_search backend returned 'Connection refused' (searx unavailable); zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; Google returned only a redirect stub; Bing returned unrelated laptop-accessory results; DuckDuckGo (both endpoints) timed out; falconebiz.com search page requires JavaScript and returned no company record. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they do not exist, but because they could not be read from a public source within the call budget. PAN claimed in input (AAACS8715K) was NOT verified: note that the 4th character 'C' would indicate a company-type holder, which is consistent with a 'Private Limited' entity, but this is a format observation only, not a verification, and the PAN is therefore reported as null. Revenue FY25/FY26: null — no audited accounts or official filings were accessible; figures were not estimated. Role: unknown — no registry/legal evidence of manufacturing plant, GST turnover pattern or trade activity was obtained, so manufacturer vs trader cannot be determined. Per project rules the company is NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity is retained in the database pending re-verification. HS code 320810 (paints/varnishes in a non-aqueous medium) was not assessed against actual activity — HS mismatch is not a rejection ground and no correction can be justified without evidence. Recommended action: re-run verification when search backend is restored, using MCA master data (CIN lookup), a GST public profile for GSTIN/status, and the FY25/FY26 AOC-4 filings for revenue."
+}
