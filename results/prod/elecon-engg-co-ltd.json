@@ -1,0 +1,29 @@
+{
+ "name_input": "ELECON ENGG. CO. LTD",
+ "declared_hs": "842833;842890;843149",
+ "actual_hs_list": [
+  "842833",
+  "842839",
+  "842890",
+  "842831",
+  "842832",
+  "842619",
+  "842620",
+  "842641",
+  "842699",
+  "847420",
+  "847410",
+  "848340",
+  "848390",
+  "848360",
+  "848310",
+  "732591",
+  "732510",
+  "848190",
+  "841391"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт elecon.com (страницы Power Transmission, Material Handling Equipment, Foundry Division) перечисляет реальные товарные линии: (1) Конвейеры — желобчатые ленточные, трубчатые (pipe), наклонные/overland, высокоскоростные ленточные, с роликами (idlers) и барабанами (pulleys); (2) Складирование/штабелирование — stackers, reclaimers, stacker-cum-reclaimer, barrel-type blender reclaimer, bridge reclaimer; (3) Разгрузка ж/д — wagon tipplers, beetle marshalling equipment, side arm chargers, puller-pusher, pusher cars; (4) Порт/навал — ship loaders, trippers (crawler/rail-mounted), wagon loaders, bucket wheel excavators, mobile/transfer conveyors, shiftable conveying systems, drive heads, salt scraper reclaimers; (5) Питатели и вспомогательное — apron feeders, paddle feeders, vibrating feeders, reciprocating feeders, roller screens, grizzly feeders, wobbler screens, cable reeling drums; (6) Дробильно-сортировочное — impactors, ring granulators, single/double-roll crushers, hammer mill crushers, rotary breakers, feeder breakers, sizers, semi-mobile crushing units, clinker crushers; (7) Power transmission — helical и bevel-helical редукторы, worm gearboxes, planetary, high-speed, wind turbine, marine, custom-built редукторы, couplings, loose gears, spiral bevel pairs до 1100 мм; (8) Foundry Division — ферритные и цветные отливки (carbon/alloy/stainless/duplex/Ni-based, Mn steel, SG iron; фосфористая и алюминиевая бронза, gun metal, латунь), до 4500 кг/шт, центробежное литьё до Ø2200 мм; (9) Condition Monitoring Systems.",
+ "role_hint": "manufacturer",
+ "comment": "Сверка с заявленными кодами: 842833 (ленточные конвейеры) — ПОДТВЕРЖДЁН сайтом (trough belt, pipe, overland, high-speed belt conveyors) — exact. 842890 (прочее оборудование для перемещения/погрузки) — ПОДТВЕРЖДЁН частично: покрывает stackers/reclaimers, wagon tipplers, ship loaders, trippers, feeders, bucket wheel excavators — partial (эти позиции часто идут как 8428.31/8428.32/8428.39/8426.19/8426.20/8426.41/8426.99, т.е. декларация укрупнена в одну «прочую» подсубпозицию). 843149 (части машин 8426/8427/8428/8429/8430) — ПОДТВЕРЖДЁН частично: idlers, pulleys, drive heads, cable reeling drums, запасные части — partial. НЕ ОТРАЖЕНО В ДЕКЛАРАЦИИ (существенные товарные линии, ~половина бизнеса): редукторы и зубчатые передачи — 848340 (gearboxes, geared motors, planetary, worm, high-speed, marine, wind turbine), 848390 (loose gears, spiral bevel pairs, части передач), 848360 (couplings), 848310 (drive shafts); дробилки и грохоты — 847420 (crushers, ring granulators, sizers, rotary breakers), 847410 (screens/feeders сортировочные); литьё — 732591/732510 (мелющие и прочие чугунные/стальные отливки), 848190/841391 (литьё для арматуры/насосов по описанию Foundry Division). Отраслевая классификация «Металлургия и горнодобыча» — НЕВЕРНА как основная: компания машиностроительный производитель (power transmission + bulk material handling), а горнодобыча/металлургия — лишь конечные отрасли-потребители; корректно «Машиностроение / оборудование для обработки материалов». Признаков трейдера нет: собственные заводы (Vallabh Vidyanagar, Gujarat), заявлены ISO 9001:2015, NABL-лаборатория, PED, IRS — это самопроизводство, role = manufacturer. Все перечисленные товары взяты из описаний сайта; конкретных таможенных деклараций/отгрузочных линий в рамках этой проверки не сверялось, поэтому фактические экспортные позиции по каждому коду — «заявлено, не подтверждено» (проверка объёмов и B/L вне моей роли). HS-несоответствие НЕ является основанием для отклонения: компания сохраняется, рекомендовано дополнить декларацию кодами 848340, 848390, 848360, 847420, 847410, 732591 и уточнить 842890 до фактических подсубпозиций 842831/842832/842839/842619/842641."
+}

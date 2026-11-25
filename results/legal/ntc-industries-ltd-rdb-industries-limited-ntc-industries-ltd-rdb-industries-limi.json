@@ -1,0 +1,18 @@
+{
+ "name_input": "NTC INDUSTRIES LTD.; RDB INDUSTRIES LIMITED; NTC INDUSTRIES LTD.; RDB INDUSTRIES LIMITED",
+ "legal_name": "NTC Industries Limited",
+ "cin_llpin": "L15491WB1932PLC007589 (unverified — MCA/aggregator pages returned HTTP 403; CIN pattern consistent with a 1932 West Bengal public limited company, but not confirmed from a primary source)",
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "West Bengal (Kolkata) — per listing/company profile data; registered-office address not confirmed from MCA",
+ "state_claimed": "",
+ "mca_status": "Active — listed on BSE (scrip 526723) and NSE (NTCIND), market cap ~₹191 Cr as of 25 Nov; no strike-off/liquidation/insolvency indication found",
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": 46,
+ "revenue_fy26_cr": 98,
+ "revenue_source": "Screener.in company page (screener.in/company/NTCIND/), standalone P&L, figures in ₹ crore: FY25 (Mar 2025) sales 46, FY26 (Mar 2026) sales 98; consolidated: FY25 60, FY26 113. Derived from the company's published audited results as aggregated by Screener; the audited PDF itself was not opened (BSE PDF viewer returned no content).",
+ "note": "Registry/legal checks: NTC Industries Limited is a real, active listed entity (BSE 526723 / NSE NTCIND), part of the RDB Industries group — Screener's profile states 'Company is a part of RDB Industries' and that it traces heritage to National Tobacco Company of India (1931). 'RDB Industries Limited' in the input is therefore most likely the group/promoter name rather than a separate supplier entity; it was not verified as a distinct legal entity (search backend was down and zaubacorp/thecompanycheck/instafinancials returned 403). CIN, PAN, GSTIN, GST status and exact incorporation date could not be retrieved from a public primary source within the tool budget — left null rather than guessed. PAN holder type therefore also null. State: registered in West Bengal (Kolkata), while the input claimed no state and classified the company under 'Строительство и DIY' (construction/DIY) — that classification is wrong: the actual business is tobacco processing, cigarette/smoking-mixture manufacturing plus trading of FMCG and property letting, which matches the declared HS 240110/240120 (unmanufactured tobacco). Role assessed as manufacturer_trader (own manufacturing plus trading of F&B/FMCG). Revenue figures are from Screener's aggregation of published results, not from a directly opened audited PDF — treat as high-confidence but secondary-sourced. No grounds for rejection: entity exists and is active."
+}

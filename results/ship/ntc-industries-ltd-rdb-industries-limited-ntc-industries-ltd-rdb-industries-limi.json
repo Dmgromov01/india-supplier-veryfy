@@ -1,0 +1,8 @@
+{
+ "name_input": "NTC INDUSTRIES LTD.; RDB INDUSTRIES LIMITED; NTC INDUSTRIES LTD.; RDB INDUSTRIES LIMITED",
+ "export_status": "unknown",
+ "export_evidence": null,
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Две разные компании в одной строке (NTC Industries Ltd. и RDB Industries Ltd.) — их нужно разводить в отдельные записи. Заявленный HS 240110/240120 (табак необработанный) не проверялся по существу, т.к. не удалось получить ни одной записи об отгрузках. ФАКТИЧНОСТЬ ОТГРУЗОК НЕ УСТАНОВЛЕНА: importkey.com по слагам 'ntc-industries-ltd', 'rdb-industries-limited' и 'rdb-industries-ltd' отдаёт только JS-оболочку — счётчик 'Number of shipments by month' пуст, таблица записей не отрендерена, реально увиденных строк 0 из 0 (счётчик против строк: 0 vs 0). Вторые источники недоступны: volza.com, eximpedia.app, trademo.com — HTTP 403; importgenius.com — JS client challenge; web_search (DuckDuckGo/searx) — 'Connection refused', поиск не работал на протяжении всей проверки. Поэтому статус 'unknown' (данные не получены), а НЕ 'none_found' — отсутствие следов поставок не доказано, но и не опровергнуто. Ни одной даты, направления, номера B/L или HS-кода по конкретной отгрузке не найдено; выдумывать их нельзя. Выручка, GST-оборот, тендеры GeM/CPPP и годовые отчёты не проверены — null. Требуется повторный прогон при работающем поиске и доступе к таможенным данным, иначе по правилу 5 статус остаётся 'заявлено, не подтверждено' / 'unknown'."
+}

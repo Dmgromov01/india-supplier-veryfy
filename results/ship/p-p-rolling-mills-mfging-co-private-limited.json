@@ -1,0 +1,8 @@
+{
+ "name_input": "P P ROLLING MILLS MFGING CO. PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'p-p-rolling-mills-mfging-co-private-limited' loaded but rendered only the paywall shell: 'Shipments available for P P ROLLING MILLS MFGING CO PRIVATE LIMITED, refreshed daily' — 0 actual shipment rows visible (source counter: page claims shipment data exists; rows actually seen: 0). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. ZaubaCorp returned HTTP 403; no accessible domestic-supply source was reached in this session.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных записей (B/L, дата, направление, HS), ни внутренних поставок получить не удалось. ImportKey отдал только заглушку без строк; volza, eximpedia, trademo — HTTP 403; importgenius — JS-челлендж; web_search (DuckDuckGo/searx) недоступен (connection refused), Bing игнорировал кавычки и вернул нерелевантную выдачу про букву 'P'. Заявленный HS 846232 (прокатное оборудование) не проверен по фактическим записям — компания по названию выглядит как производитель проката (металлургия), т.е. возможное несоответствие HS, но подтвердить фактический код нечем, поэтому HS не корректируется. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

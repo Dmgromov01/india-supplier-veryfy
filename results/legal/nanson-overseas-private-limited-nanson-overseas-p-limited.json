@@ -1,0 +1,18 @@
+{
+ "name_input": "NANSON OVERSEAS PRIVATE LIMITED,NANSON OVERSEAS (P)LIMITED",
+ "legal_name": "NANSON OVERSEAS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: web_search returned connection refused (searx backend down); direct fetches of zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned HTTP 404 for the guessed URL slugs; Google and Bing HTML endpoints returned unrelated results (no usable SERP). Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, date of incorporation, registered-office state, MCA status and audited FY25/FY26 revenue are all null - NOT verified, not 'absent'. No rejection is proposed: the entity's non-existence, strike-off, liquidation or bankruptcy could not be established either way, and per project rules rejection requires positive proof of one of those conditions. Role left as 'unknown' (no evidence of own manufacturing plant vs. trading activity was obtainable). Declared HS codes 180632/210690/220210/330499 (cocoa food preparations, food preparations, aerated beverages, cosmetics) are noted but are not a rejection ground per rule 3; they also could not be checked against any actual GST/registration record. Recommended next step: re-run with working search, or query MCA master data by exact name 'NANSON OVERSEAS PRIVATE LIMITED' and its variant 'NANSON OVERSEAS (P) LIMITED' to obtain CIN, then pull GSTIN from the GST portal public search."
+}

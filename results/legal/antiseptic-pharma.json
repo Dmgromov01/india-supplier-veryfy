@@ -1,0 +1,18 @@
+{
+ "name_input": "ANTISEPTIC PHARMA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось верифицировать юрлицо. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), а запросы через Bing/Google возвращали нерелевантную выдачу (словарные статьи об 'antiseptic'), т.е. точный поиск по названию не сработал. Реестровые агрегаторы (zaubacorp.com, instafinancials.com, falconebiz.com) отдали HTTP 403, thecompanycheck.com — 404. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус публично не подтверждены в рамках доступных источников — все поля null, ничего не выдумано. Название 'ANTISEPTIC PHARMA' не является полным юрлицом (нет суффикса Pvt Ltd / LLP / Ltd), вероятно это торговая марка или проприетарное имя — требуется уточнение у поставщика (полное юрлицо, CIN/GSTIN). Отклонение НЕ применяется: отсутствие подтверждения существования при недоступных источниках не равно доказанному отсутствию юрлица. Роль не определена (unknown). Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. Заявленный HS 293499;382200 (гетероциклические соединения / диагностические реагенты) не проверялся по существу — вне рамок реестровой проверки."
+}

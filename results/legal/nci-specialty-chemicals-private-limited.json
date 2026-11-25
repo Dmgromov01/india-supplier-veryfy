@@ -1,0 +1,18 @@
+{
+ "name_input": "NCI Specialty Chemicals Private Limited",
+ "legal_name": "NCI SPECIALTY CHEMICALS PRIVATE LIMITED (as claimed; existence NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Bing returned only irrelevant results for 'National Cancer Institute' (query terms dropped, no India company hits); MCA portal (mca.gov.in), Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403 Forbidden. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT verified, not 'not applicable'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules the company is NOT rejected; it must be re-queued for registry lookup (MCA master data / GST public search) before any verdict. Role cannot be determined from registry data alone; left as 'unknown'. Declared HS 284690 (other inorganic/organic compounds of mercury etc.) is not a rejection ground under the current rules and was not assessed here (out of scope for this role)."
+}

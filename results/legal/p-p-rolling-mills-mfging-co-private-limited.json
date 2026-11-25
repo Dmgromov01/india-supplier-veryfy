@@ -1,0 +1,18 @@
+{
+ "name_input": "P P ROLLING MILLS MFGING CO. PRIVATE LIMITED",
+ "legal_name": "P P ROLLING MILLS MFGING CO. PRIVATE LIMITED (as claimed in input; not independently confirmed against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: the web_search backend (searx) returned 'Connection refused' on both queries; Bing HTML fallback returned only irrelevant generic results for the exact-name queries (no company page); ZaubaCorp, TheCompanyCheck and InstaFinancials returned HTTP 403; MCA master-data page returned HTTP 403. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT verified, not 'not existing'. No CIN/PAN/GSTIN was guessed or constructed. Role left as 'unknown': the name element 'MFGING' suggests a manufacturing entity, but that is a name convention only and is not registry evidence, so it is not asserted. No audited accounts or official filings were accessible, so FY25/FY26 revenue is null. Per project rules the company is NOT rejected: absence of retrievable public records is not proof of non-existence, strike-off, liquidation or bankruptcy. Action required: re-run against MCA master data / GST portal manually (or with a working search backend) to obtain CIN, PAN 4th-character holder type, GSTIN and status before any verdict. Declared HS 846232 (machine tools / rolling-mill-related machinery) is not a rejection ground in any case; if the actual activity is steel rolling, the HS code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected."
+}
