@@ -1,0 +1,18 @@
+{
+ "name_input": "MONIKSHA WORLDWIDE PHARMACEUTICAL PRIVATE LIMITED",
+ "legal_name": "MONIKSHA WORLDWIDE PHARMACEUTICAL PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a connection error (searx backend refused connection) on both queries, and every direct registry/aggregator source attempted returned HTTP 403 or an empty/JS-only shell: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), mca.gov.in MDS (403), tofler.in search (404), quickcompany.in (404), falconebiz.com (page renders only navigation, no company record), Google (redirect/consent wall), DuckDuckGo (timeout), Bing (returned only irrelevant results, no page containing the company name). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - not public/not retrievable in this session, and nothing has been inferred or invented. PAN claimed in the input (AALCM9432A) is NOT confirmed: its 4th character 'C' would denote a company holder, which is at least format-consistent with a private limited company, but the PAN itself is unverified and is not reported as fact. No rejection is applied: per project rules a company may only be rejected if the entity does not exist, is struck off, liquidated or bankrupt, and there is no evidence of any of these - absence of retrievable records is not proof of non-existence. Role left as 'unknown' (no evidence of manufacturing or trading activity). Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Action needed: re-run verification when the search backend is restored, or query MCA master data / GST portal directly with the CIN or PAN."
+}

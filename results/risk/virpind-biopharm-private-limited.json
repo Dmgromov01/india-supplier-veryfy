@@ -1,0 +1,9 @@
+{
+ "name_input": "VIRPIND BIOPHARM PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no findings either way; all fields null because nothing could be verified, not because the company was cleared. Tooling: the DuckDuckGo/searx backend returned 'Connection refused' on every attempt; html.duckduckgo.com and lite.duckduckgo.com timed out; Google returned only a redirect/consent stub; Bing returned 50-79 results but every one was unrelated filler (Amazon, 1001freefonts, allrecipes) — i.e. no genuine index hits for the name. Tofler search URL returned a 404 page. The OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be queried via plain GET, so no SDN/Non-SDN match could be run; the SDN list itself was last updated 23.11.2026 per that page. Consequently: (a) sanctions exposure — NOT screened against OFAC SDN/Non-SDN, UN, EU, UK or BIS Entity List; (b) Indian court cases (party role/status) — not checked, no source retrieved; (c) regulator actions and negative news with dates — none found, but absence of results here reflects search failure, not a clean record; (d) credit rating with date/status — not retrieved; (e) evidence of supplies to Russia or CIS — none found, unverified. No CIN, PAN, GSTIN, rating figure or case number is asserted anywhere in this record because none was observed in a source. Recommended next step: re-run screening when the search backend is restored, using the exact registered name plus the MCA/CIN once legal identity is confirmed by the identity researcher, and query the OFAC/EU/UK consolidated lists directly by name and by any known addresses. Per project rules this company is NOT to be rejected on the basis of this empty result — no evidence of non-existence, liquidation or bankruptcy was found, and no sanctions/court findings were established."
+}

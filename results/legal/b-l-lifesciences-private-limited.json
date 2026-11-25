@@ -1,0 +1,18 @@
+{
+ "name_input": "B L LIFESCIENCES PRIVATE LIMITED",
+ "legal_name": "B L LIFESCIENCES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра НЕ подтверждены. Все попытки получить первоисточники не удались: web_search (DuckDuckGo/searx) вернул ошибку соединения; zaubacorp.com, thecompanycheck.com, mca.gov.in — HTTP 403; instafinancials.com и quickcompany.in — 404; Bing по запросам с точным названием выдавал нерелевантную выдачу (страницы про букву «B»), т.е. релевантных публичных профилей по точному наименованию не найдено. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, не выдумывались. Юрлицо НЕ отклоняется: отсутствие подтверждения в открытых источниках не равно несуществованию/ликвидации/банкротству (правило 3). Роль — unknown (нет данных о деятельности). Отмечу несоответствия во входных данных: заявленный HS 901890 (медицинские/хирургические инструменты) противоречит заявленной отрасли «IT и электроника»; по правилу 3 HS-несоответствие не является основанием для отклонения — код подлежит исправлению на фактический после проверки. Требуется повторная проверка через MCA Master Data / GST-портал вручную (по CIN или PAN), а также уточнение у поставщика точного написания названия (возможны варианты «B.L. Lifesciences», «BL Lifesciences»)."
+}

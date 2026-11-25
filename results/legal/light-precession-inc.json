@@ -1,0 +1,18 @@
+{
+ "name_input": "LIGHT PRECESSION INC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AIYPA6165C",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual) — note: this PAN format is an individual's PAN, not a company PAN; a company PAN would carry 'C' at the 4th position. The PAN is therefore inconsistent with the claimed entity name 'LIGHT PRECESSION INC'.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry trace found. Searches for 'LIGHT PRECESSION', 'LIGHT PRECESSION INC', 'LIGHT PRECESSION PRIVATE LIMITED' and for the PAN 'AIYPA6165C' returned no matching company record; MCA master-data, Zauba Corp and Tofler lookups were blocked (HTTP 403) or returned no result, and the search backend was intermittently unavailable. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public/not verifiable in this session, not invented. Two red flags on the input itself: (1) the name ends in 'INC', which is not an Indian corporate form (Indian forms: Private Limited / Limited / LLP / OPC), so it is either a foreign entity or a trading name rather than a registered Indian legal entity; (2) the claimed PAN AIYPA6165C is an individual-type PAN (4th char 'P'), while the input's 'legal_claimed' field is a person's name (SANTOSH AGGARWAL) — i.e. the record appears to describe a proprietorship/individual, not a company. Per project rules, rejection is NOT applied here because non-existence could not be positively established (registry sources were inaccessible, not negative); status should be treated as unverified pending an MCA/GST portal check. No revenue figures available from audited accounts or official filings."
+}

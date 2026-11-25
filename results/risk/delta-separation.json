@@ -1,0 +1,9 @@
+{
+ "name_input": "Delta Separation",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all queries; Bing returned identical generic Delta Air Lines results for every query (including the exact-PAN query 'DBGPD0493G'), i.e. the search index was not actually queried; zaubacorp.com returned HTTP 403; direct DuckDuckGo HTML endpoint timed out. Therefore NO source could be read for this entity. All fields set to null per rule 'no data — null, do not invent'. Nothing below is a finding, only a statement of what was and was not established: (1) Sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List): NOT VERIFIED — no screening result obtained; absence of a hit must not be read as a clean result. (2) Indian court cases (party role/status): NOT VERIFIED — no eCourts/NCLT/High Court record retrieved. (3) Regulator actions / negative news: NOT VERIFIED — no news source retrieved. (4) Credit rating (agency, date, status): NOT VERIFIED — no CRISIL/ICRA/CARE/India Ratings/Acuite record retrieved; null. (5) Evidence of supplies to Russia or CIS: NOT VERIFIED — no customs, B/L, or open-source record retrieved; null. Per project rule 2, sanctions/court/criminal matters would in any case not be rejection grounds and would be reported neutrally as 'есть сложности'. Per rule 3, no rejection is proposed here — rejection requires proof of non-existence/liquidation/bankruptcy, which was also not established. ACTION REQUIRED: re-run this company's risk check when search access is restored, using exact-name and PAN 'DBGPD0493G' queries against OFAC SDN search, UN Consolidated List, EU/UK sanctions lists, BIS Entity List, eCourts/NCLT, and credit-rating agency databases."
+}
