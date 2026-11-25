@@ -1,0 +1,16 @@
+{
+ "name_input": "TRACTOR AND FARM EQUIPMENT LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "matter": "TAFE vs AGCO Corporation — multi-jurisdiction dispute over Massey Ferguson brand rights, shareholding and commercial arrangements (US/Delhi proceedings reported in trade press)",
+   "party_role": "claimant / counter-party (TAFE as plaintiff in part of the proceedings)",
+   "status": "settled — 'TAFE and AGCO reach comprehensive settlement covering brand rights, commercials and shareholding', TAFE newsroom media release dated 2025-07-01 (https://www.tafe.com/news-room/)",
+   "source": "https://www.tafe.com/news-room/ (media release 2025-07-01)"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No negative regulatory or enforcement news found in the sources actually read. TAFE newsroom (read 2026-11-23) shows only corporate/commercial releases: EIMA 2026 launch (2026-11-11), DEUTZ engine plant Alwar (2026-07-22), FY26 sales 214,000 tractors (2026-04-03), Mexico plant (2025-09-02), AGCO settlement (2025-07-01). No OFAC/UN/EU/UK/BIS listing could be positively confirmed OR excluded: the OFAC Sanctions List Search page (https://sanctionssearch.ofac.treas.gov/) was retrieved but is a JavaScript form that returns no results via plain HTTP GET, and the DuckDuckGo search backend was unreachable ('Connection refused') for the whole session. Sanctions status therefore recorded as null / not verified, not as 'clear'.",
+ "rf_supply": "Company's own website states: 'TAFE exports tractors to over 80 countries, powering farms in Asia, Africa, Europe, the Americas, and Russia' (https://www.tafe.com/, read 2026-11-23). This is a self-declaration of Russia as an export destination — status: заявлено, не подтверждено. No customs/B-L record, no dated shipment, no named Russian or CIS counterparty was found or verified. No evidence of supplies to other CIS states found.",
+ "note": "Risk-only scope. Identity/HS/volumes not researched per role. Key caveat: the web_search tool failed for every query (searx connection refused) and Google/Bing HTML endpoints were unusable, so this assessment rests on 3 pages actually read (tafe.com home, tafe.com/news-room, OFAC search landing page) plus one 404. Consequently: sanctions_hit = null (NOT verified clear — OFAC/UN/EU/UK/BIS screening could not be executed); rating = null (no CRISIL/ICRA/CARE/India Ratings action located; not public in sources read); court_cases limited to the AGCO dispute, which per the company's own release was settled on 2025-07-01 — Indian court dockets (eCourts/NCLT/SCI) were not queried, so additional litigation may exist and is unrecorded here. Per project rule 2, the AGCO litigation is a commercial dispute and is not a rejection ground; noted neutrally. The Russia reference is the company's own marketing claim, not a shipment record — do not treat as confirmed RF supply. Recommend re-running sanctions screening (OFAC/EU/UK/BIS) and eCourts/NCLT lookup when the search backend is restored."
+}

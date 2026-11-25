@@ -1,0 +1,9 @@
+{
+ "name_input": "VEGA INDUSTRIAL TECHNOLOGIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all queries; Bing returned only generic 'Vega' brand results (vega.com, myvega.com, vega.io) and ignored exact-phrase operators, so no company-specific page was ever surfaced; zaubacorp.com and thecompanycheck.com returned HTTP 403; Google returned a redirect interstitial. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form whose lookup results cannot be retrieved via plain HTTP GET, so no SDN/Non-SDN name match could be executed or confirmed. Therefore: sanctions_hit = null (NOT a negative clearance — simply not checked), court_cases = null (no NCLT/HC/consumer/ITAT docket search possible), rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork page found), news_risk = null (no negative-news search possible), rf_supply = null (no export/trade record source reachable; no evidence either way of supplies to Russia or CIS). Nothing here should be read as a clean bill of health. Recommended manual follow-up before any decision: (1) OFAC SDN + consolidated non-SDN name search, plus UN Consolidated, EU consolidated and UK OFSI lists, and the BIS Entity List; (2) MCA master data and NCLT/IBBI insolvency check on the exact registered name; (3) eCourts and Telangana High Court party search; (4) CRISIL/ICRA/CARE/India Ratings/Brickwork rating lookup; (5) Indian trade-data and customs sources for Russia/CIS counterparties. Per project rules, absence of findings is not a rejection ground and no adverse inference is drawn; the company remains in the database pending a completed risk pass."
+}

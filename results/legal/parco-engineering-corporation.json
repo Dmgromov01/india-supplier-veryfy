@@ -1,0 +1,18 @@
+{
+ "name_input": "Parco Engineering Corporation",
+ "legal_name": "Parco Engineering Corporation (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The DuckDuckGo search backend returned 'Connection refused' for all queries; Google returned only a redirect page; Bing returned irrelevant international 'PARCO' results (US aluminium extrusions, Japanese retailer, Pak-Arab Refinery) with no Indian entity match; zaubacorp.com returned HTTP 403; thecompanycheck.com returned 404; IndiaMART returned HTTP 429; duckduckgo.com/html and lite.duckduckgo.com timed out. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source, so all such fields are null rather than guessed. Important structural note: the input's 'legal_claimed' field contains a personal name ('SATISHBHAI MANILAL SHAH'), not a company name — this pattern is typical of a sole proprietorship, which would have NO CIN/LLPIN and NO MCA record at all (only a GSTIN and PAN of an individual, where the 4th PAN character would be 'P'). This is a hypothesis, not a verified fact. No rejection is applied: absence of retrievable records is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such positive evidence. Role left as 'unknown' — no evidence obtained to classify as manufacturer, trader or manufacturer_trader. Declared HS 843149 (parts of machinery of headings 8426/8429/8430 — earthmoving/crane parts) is broadly consistent with an 'engineering corporation' name, but HS consistency is not a rejection ground and was not assessed further. Recommended next step: re-run verification when the search backend is restored, or query the GST portal / MCA directly by GSTIN or proprietor PAN."
+}

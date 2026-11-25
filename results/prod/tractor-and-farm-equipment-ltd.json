@@ -1,0 +1,25 @@
+{
+ "name_input": "TRACTOR AND FARM EQUIPMENT LTD",
+ "declared_hs": "840999;842199;870899",
+ "actual_hs_list": [
+  "870190",
+  "870899",
+  "840890",
+  "840999",
+  "842123",
+  "842131",
+  "842199",
+  "843351",
+  "843390",
+  "843229",
+  "850211",
+  "841360",
+  "841221",
+  "848340",
+  "392690"
+ ],
+ "match_status": "partial",
+ "product_summary": "TAFE (Tractors and Farm Equipment Limited, Chennai; part of Amalgamations Group) — real product lines per own website tafe.com (home page + site map, fetched 2026): (1) tractors under 4 brands — Massey Ferguson, TAFE Tractors, Eicher Tractors, IMT Tractors (agricultural/utility tractors, 20-75+ HP class); (2) Harvestrac combine harvesters; (3) AgriStar farm implements; (4) TMTL-Eicher agro engines and industrial engines (diesel); (5) TMTL-Eicher silent gensets and TAFE POWER diesel generators; (6) gears and transmission components; (7) engineering plastics; (8) batteries; (9) hydraulic pumps; (10) hydraulic cylinders; (11) plantations (Southern Tree Farms); (12) passenger-vehicle dealership franchises. Wikipedia (en.wikipedia.org/wiki/Tractors_and_Farm_Equipment_Limited) corroborates: products = tractors, diesel engines, diesel generators, hydraulic pumps, hydraulic cylinders, farm equipment, engineering plastics, plantations; industry = agricultural machinery; HQ Chennai, Tamil Nadu; subsidiary TAFE Motors and Tractors Ltd (TMTL).",
+ "role_hint": "manufacturer",
+ "comment": "Сопоставление с заявленными кодами: 870899 — частично подтверждён (компания реально производит тракторы и компоненты трансмиссии/гидравлики, но основной продукт — готовые тракторы, которые должны идти по 8701 90, а не по 8708 99 как «части»); 840999 — частично подтверждён (производство дизельных двигателей TMTL-Eicher/Tafe Power, но готовые двигатели — 8408 90, части 8409 99 только для компонентов); 842199 — не подтверждён по существу: на сайте нет фильтров/фильтрующих элементов, есть гидравлические насосы (8413 60) и гидроцилиндры (8412 21), которые к 8421 99 не относятся. Статус: partial — коды не ошибочны формально, но не покрывают основной экспортный продукт. Пропущены в декларации ключевые линии: 8701 90 (тракторы — главный продукт, >180 тыс. шт./год по сайту), 8433 51 (комбайны Harvestrac), 8433 90 / 8432 29 (почвообрабатывающие орудия AgriStar), 8408 90 (дизельные двигатели), 8502 11 (генераторные установки), 8483 40 (шестерни и элементы трансмиссии), 8413 60 (гидронасосы), 8412 21 (гидроцилиндры), 3926 90 (инженерные пластики). Отраслевая классификация «Авиастроение и транспорт» некорректна: фактическая отрасль — сельскохозяйственное машиностроение (agricultural machinery), а не авиастроение; транспорт присутствует лишь косвенно через тракторы и авто-компоненты. Признаков трейдера нет: собственные заводы (6 тракторных, завод двигателей, 2 завода шестерён/трансмиссий, 2 участка гидравлики, завод АКБ — по Wikipedia), собственные бренды и товарные знаки Massey Ferguson для Индии/Непала/Бутана. Расхождение по штату: заявлен Bihar, фактический головной офис — Ченнаи, Тамилнад (77 Nungambakkam High Road, Chennai 600034, по сайту tafe.com); в Бихаре производственных площадок на сайте не указано. Все продуктовые линии выше — «заявлено, не подтверждено» в части таможенных записей: конкретных экспортных/таможенных строк по этой компании в рамках данного HS-анализа не проверялось (по правилам роли объёмы и таможенные записи не исследуются), поэтому факт отгрузок по каждому коду не подтверждён документально. Санкционных/судебных выводов не делаю. Компания сохраняется в базе, вердикт по HS — accepted_hs_corrected: добавить 8701 90, 8408 90, 8433 51, 8502 11, 8483 40, 8413 60, 8412 21; 8421 99 оставить только если есть подтверждённая линия фильтров (на сайте не найдена)."
+}

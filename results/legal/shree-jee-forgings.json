@@ -1,0 +1,18 @@
+{
+ "name_input": "SHREE JEE FORGINGS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AIUPB6489L",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual). Note: PAN was supplied in the input and could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned completely unrelated results (Biden climate policy, Monarch at Sea Pines) for the exact-phrase queries, i.e. no usable hits; Zaubacorp, Instafinancials, MCA master-data and DuckDuckGo HTML all returned HTTP 403; Tofler and QuickCompany returned 404/error pages; KnowYourGST name-search page loaded only its generic form with no result data. Consequently the following are all UNKNOWN and left null rather than guessed: exact legal entity name, CIN/LLPIN, GSTIN, GST status, date of incorporation, registered-office state, MCA status, and FY25/FY26 revenue. IMPORTANT STRUCTURAL POINT: the input lists 'ABHA BANSAL' as the 'legal_claimed' value - that is a natural person's name, not a company name, and the PAN AIUPB6489L has 'P' as its 4th character, which denotes an INDIVIDUAL PAN, not a company PAN (companies carry 'C'). This strongly suggests 'SHREE JEE FORGINGS' is a proprietorship or partnership/firm registered under an individual's PAN, not a company with a CIN - so a CIN/LLPIN may legitimately not exist, and MCA status would be 'not applicable'. This is an inference from PAN structure only, not a verified fact. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Role left as 'unknown' (forging/HS 870899 auto parts is plausible but unverified; no catalogue or shipment research was in scope). Revenue FY25/FY26: null - no audited accounts or official filings were accessible. Recommended next step: re-run with working search, or verify manually on the GST portal (search by PAN AIUPB6489L) and MCA/UP state VAT records."
+}

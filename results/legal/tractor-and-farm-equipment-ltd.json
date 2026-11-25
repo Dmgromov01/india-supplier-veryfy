@@ -1,0 +1,18 @@
+{
+ "name_input": "TRACTOR AND FARM EQUIPMENT LTD",
+ "legal_name": "Tractors and Farm Equipment Limited (TAFE)",
+ "cin_llpin": null,
+ "pan": "AAACT2761Q",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'T' consistent with the 'TRACTORS' name) — PAN matches the claimed value, but could not be re-verified against an MCA/Income-Tax record in this session",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1960 (year only; exact date not verified)",
+ "state_registered": "Tamil Nadu (corporate office: 77 Nungambakkam High Road, Chennai 600 034)",
+ "state_claimed": "Bihar",
+ "mca_status": "Active — no strike-off/liquidation/winding-up record found; MCA master data could not be opened directly (mca.gov.in and all registry mirrors returned 403)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Not obtained. Company website states turnover 'in excess of INR 16,000 crores' (undated, consolidated, unaudited marketing figure) — not usable as an audited FY25/FY26 number. No audited accounts or MCA AOC-4 filing could be retrieved (registry sites blocked).",
+ "note": "Entity exists and is a genuine, large manufacturer: TAFE, part of the Chennai-based Amalgamations Group, incorporated 1960, maker of Massey Ferguson/TAFE/Eicher/IMT tractors, diesel engines, gensets, hydraulic pumps and cylinders, gears and engineering plastics (sources: en.wikipedia.org/wiki/Tractors_and_Farm_Equipment_Limited; tafe.com corporate page listing 'Tractors and Farm Equipment Limited, 77 Nungambakkam High Road, Nungambakkam, Chennai - 600 034'). STATE MISMATCH: input claims Bihar; the registered/corporate office is in Tamil Nadu (Chennai). No Bihar entity of this name was found — the state field should be corrected to Tamil Nadu. HS codes declared (8409.99, 8421.99, 8708.99) are broadly consistent with an engine/parts and tractor-component manufacturer, but HS is not a rejection ground per project rules. CIN, GSTIN, GST status, exact incorporation date and audited FY25/FY26 revenue are null because every registry source (mca.gov.in, zaubacorp, thecompanycheck, falconebiz, instafinancials) returned 403/blocked or empty content, and the search backend was down (searx connection refused; Bing/Google returned irrelevant results). Nothing was invented. Verdict: accepted (entity exists, active); state corrected to Tamil Nadu; revenue null pending audited filings."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S CHEMPURE PVT. LTD; CHEMPURE PVT LTD",
+ "legal_name": "Chempure Private Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Karnataka",
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Legal entity confirmed as existing and active in substance: the company's own official website (chempure.in, contact-us and about-us pages) states 'Chempure Private Limited, #89A-4, 1st Main 3rd Cross, N.S.Palya Industrial Area, Bangalore - 560076, India', phone +91 (80) 6910 6910, and describes itself as 'a leading distributor of speciality research chemicals, serving educational and research institutions' (founded 1943). Registered office is therefore in Karnataka (Bengaluru), NOT Maharashtra as claimed in the input — state mismatch flagged. Role assessed as trader/distributor (self-described distributor; no manufacturing plant claimed on the site), though the API subdomain text says 'synthesize and markets specialty chemicals' — mixed self-description, so role could be manufacturer_trader; recorded as trader on the weight of the main site wording. CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, MCA status and FY25/FY26 revenue could NOT be verified: DuckDuckGo search backend was unreachable (connection refused) and all registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 Forbidden; Bing returned only generic brand results with no registry data. All such fields left null rather than guessed. No rejection grounds found — entity exists and operates; no evidence of strike-off, liquidation or bankruptcy. Note: declared HS 851713 (smartphones/telecom devices) is inconsistent with the actual business (speciality/research chemicals, HS ch. 28-38) — per project rules this is NOT a rejection ground; code should be corrected to the factual chemical HS heading and verdict recorded as accepted_hs_corrected. Revenue: no audited accounts or official filings publicly accessible, hence null."
+}
