@@ -1,0 +1,18 @@
+{
+ "name_input": "Pethe Industrial Marketing Company Pvt. Ltd",
+ "legal_name": "PETHE INDUSTRIAL MARKETING COMPANY PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (searx connection refused) for the whole session; direct fetches of public company-data profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404 or login walls, and Bing/Google fallbacks returned irrelevant results or HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — none of these were found in a public source and none are invented. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / data not public in accessible sources', not 'rejected'. Role is left 'unknown' because the name ('Industrial Marketing') suggests a trading/distribution activity, but that is an inference from the name only, not a verified registry classification. Declared HS 870893 (parts of motor vehicles) is not a rejection ground per project rules; the actual HS code should be confirmed against the company's GST registration once a GSTIN is obtained. Recommended next step: re-run with a working search backend or MCA/GST portal access to pull the CIN and GSTIN, then re-check revenue from audited filings."
+}

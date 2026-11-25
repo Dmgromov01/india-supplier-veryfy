@@ -1,0 +1,9 @@
+{
+ "name_input": "Jolly Engineering Works Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on every query; DuckDuckGo HTML and lite endpoints timed out; Bing returned identical cached generic results ('Jolly' YouTube channel, jolly.com, Merriam-Webster) for three different quoted queries, i.e. the quoted company name was not actually processed; Google returned a redirect/consent page. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form that returns no results via plain HTTP GET, so no name screening could be executed. Consequently NOTHING is asserted about this company: sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all null because they are unverified, not because they were checked and found clean. Do not read null here as 'no risk'. Also note the claimed legal name 'JOLLY ENGINEERING WORKS' with 'Pvt Ltd' suffix is unconfirmed - no CIN/MCA record was retrieved, and 'Jolly Engineering Works' is a common Indian trade name (multiple small hinge/hardware workshops use it), so name-based screening would in any case be ambiguous without a CIN or registered address. Recommended next step: re-run screening once search access is restored, using MCA master data for the exact entity, then OFAC/UN/EU/UK/BIS name screens, Indian court databases (eCourts, NCLT, High Court) and credit bureaus (CRISIL/ICRA/CARE/India Ratings)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "K V AGRO PRODUCTS PRIVATE LIMITED",
+ "legal_name": "K V AGRO PRODUCTS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — нет доступа к источникам. Все попытки получить реестровые данные провалились: web_search (DuckDuckGo/searx) возвращал 'Connection refused'; Bing отдавал только нерелевантные результаты про букву 'K' (поисковый запрос не обрабатывался); zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in вернули HTTP 403 Forbidden; html.duckduckgo.com — таймаут. Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат, ни MCA-статус, ни выручка не подтверждены публичными источниками, поэтому везде null — данные не выдумывались. Роль (manufacturer/trader) не установлена: заявленные HS 090412/090422/090811/090812 (перец, мускатный орех/кардамон и т.п.) относятся к специям, но это не подтверждает ни производство, ни торговлю. Отклонять НЕЛЬЗЯ: отсутствие данных не равно отсутствию юрлица (правило 3 — rejected только при несуществовании/ликвидации/банкротстве). Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP или запрос документов (COI, GST-сертификат, PAN) у поставщика."
+}

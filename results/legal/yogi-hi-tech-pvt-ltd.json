@@ -1,0 +1,18 @@
+{
+ "name_input": "YOGI HI TECH PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing по запросам в кавычках '\"YOGI HI TECH PRIVATE LIMITED\"', '\"YOGI HITECH PRIVATE LIMITED\"', '\"YOGI HI-TECH\" PRIVATE LIMITED' выдавал только нерелевантные результаты про йогу/бренды Yogi — ни одной страницы реестра. Прямые обращения к реестровым агрегаторам заблокированы: zaubacorp.com (403 Forbidden, и на карточку компании, и на поиск), thecompanycheck.com (403), instafinancials.com (404), mca.gov.in MDS (403). Таким образом, точное юридическое наименование, CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не подтверждены ни одним публичным источником — все поля null, ничего не домысливалось. Роль классифицирована как 'unknown': заявленные HS 848210/848320 (подшипники шариковые/подшипниковые корпуса) относятся к машиностроению, а не к заявленной в инпуте отрасли 'Металлургия и горнодобыча' — это несоответствие требует уточнения у поставщика, но по правилам проекта несоответствие HS не является основанием для отклонения. Компания НЕ отклонена: оснований для rejected (несуществование, ликвидация, банкротство) не установлено, но и существование юрлица документально не подтверждено. Требуется повторная проверка при восстановлении доступа к MCA/Zauba/Tofler или запрос у поставщика копии Certificate of Incorporation и GST-регистрации."
+}

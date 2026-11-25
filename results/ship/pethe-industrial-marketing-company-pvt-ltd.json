@@ -1,0 +1,8 @@
+{
+ "name_input": "Pethe Industrial Marketing Company Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/pethe-industrial-marketing-company-pvt-ltd (and slug variant .../pethe-industrial-marketing-co-pvt-ltd): page renders only the generic paywall shell — \"Join ImportKey to view the import and export data records of companies all over the world\" — with 0 shipment rows visible (0 rows seen out of an undisclosed counter; no date, destination, HS code or B/L number displayed). No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, and thecompanycheck.com returned HTTP 403. 0 domestic supply rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны. ImportKey отдал только заглушку без строк (0 записей), volza/eximpedia/trademo — HTTP 403, importgenius — JS-challenge, поисковик не работал. Поэтому статус unknown, а не none_found: отсутствие данных здесь означает недоступность источников, а не отсутствие отгрузок. Выручка, объём экспорта, PAN, CIN — null, публично не получены. Заявленный HS 870893 (части для двигателей/транспорта) не проверен по таможенным записям; несоответствие HS основанием для отклонения не является. Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

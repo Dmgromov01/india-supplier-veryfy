@@ -1,0 +1,9 @@
+{
+ "name_input": "HEXAPACK INDIA PRIVATE LIMITED; HEXAPACK INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, агрегаторы корпоративных данных (ZaubaCorp, TheCompanyCheck) отдали HTTP 403, Google — HTTP 429. Единственный успешный источник: Indian Kanoon — поиск по 'Hexapack India' и по 'Hexapack' дал 0 совпадений (https://indiankanoon.org/search/?formInput=Hexapack), т.е. публичных судебных решений с участием компании в этой базе не найдено; это НЕ доказывает отсутствие дел в нижестоящих судах/NCLT, которые в Indian Kanoon покрыты неполно. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) проверить не удалось — инструмент доступа к sanctionssearch.ofac.treas.gov недоступен, поэтому sanctions_hit = null (не 'нет попадания', а 'не проверено'). Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и негативные новости не проверены — null. Данных о поставках в РФ/СНГ не найдено, но и поиск не выполнялся — null. Требуется повторный прогон при восстановлении доступа к поиску. По правилам проекта компания сохраняется в базе; отклонение не предлагается."
+}

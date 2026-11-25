@@ -1,0 +1,17 @@
+{
+ "name_input": "Ogma Consulting Pvt Ltd",
+ "declared_hs": "847150",
+ "actual_hs_list": [
+  "847150",
+  "851762",
+  "852380",
+  "847330",
+  "851762",
+  "852359",
+  "998315"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт ogma.in (страница Contact: «Ogma Consulting», Gurugram, Haryana; GSTIN 06AADCO0295R1ZX, CIN U72900DL2019PTC355560 — приведены как заявленные на сайте, реестрами не проверялись). Реальные товарные линии по каталогу: (1) серверы Dell PowerEdge R350/R450/R650/R660/R750/R760/T150/T550/R960/XE9680 (16th Gen, Xeon Scalable, GPU NVIDIA H100) — страница /solutions/dell-servers-india; (2) серверы HPE ProLiant DL20/DL325/DL360/DL365/DL380/DL385/ML110/ML350/BL460c Gen10+/Synergy — страница /solutions/hpe-servers-india; (3) сетевое оборудование и ИБ: FortiGate (в т.ч. виртуальные), FortiManager, FortiADC, FortiNDR, FortiWeb, FortiAnalyzer, FortiSIEM, FortiClient EMS, FortiRecon; ZTNA/SASE/SD-WAN (Cato Networks), Aruba, Cisco, CrowdStrike, Microsoft; (4) сопутствующие услуги: managed SOC, аудит, миграция с Checkpoint/Palo Alto/Watchguard/Juniper/Cisco, AMC, обучение, киберстрахование. Ключевые слова страницы: «authorized Dell partner», «authorized HPE dealer», «certified Fortinet, Cato Networks & CrowdStrike partner», «a partner, not a reseller» — то есть модель дистрибуции/реселла чужого оборудования плюс сервисы.",
+ "role_hint": "trader (реселлер/системный интегратор ИТ-оборудования и ИБ; признаков собственного производства нет)",
+ "comment": "HS 847150 (процессорные блоки/серверы) подтверждается частично: серверы Dell PowerEdge и HPE ProLiant — это именно 8471.50, но это перепродажа брендированного импортного оборудования, а не производство. Заявленный код покрывает только одну из линий каталога. Не отражены в декларации: сетевое оборудование и межсетевые экраны (FortiGate, Aruba, Cato) — 8517.62; носители с ПО/лицензии и appliance-образы — 8523.80/8523.59; части и аксессуары к серверам (RAID, память, iDRAC-модули) — 8473.30; ИТ-услуги (managed SOC, аудит, миграция, AMC, обучение) — 9983.15 (услуги, не товар). Отраслевая классификация «IT и электроника» корректна, но компания по факту — ИТ-интегратор/сервис-провайдер, а не производитель электроники. Все товарные позиции взяты только из каталога сайта: ни одна строка не подтверждена таможенной записью, поэтому статус по каждой линии — «заявлено, не подтверждено». HS-несоответствие не является основанием для отклонения: компания сохраняется, код расширяется до фактического ассортимента (accepted_hs_corrected). Выручка, объёмы и факт отгрузок в рамках этой роли не проверялись — null."
+}
