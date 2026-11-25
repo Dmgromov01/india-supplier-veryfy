@@ -1,0 +1,9 @@
+{
+ "name_input": "PRADIP POLYFILS PVT .LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend returned connection errors ('searx: Connection refused') for both queries, and fallback engines (Google, DuckDuckGo, Bing) returned 403 or completely irrelevant results, so no page about 'Pradip Polyfils' could be retrieved. Company-data aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. The OFAC Sanctions List Search page was reachable but is a JavaScript application that returns no lookup results via plain HTTP GET, so no name screening could actually be executed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — NOT confirmed negative, simply not verified. No sanctions, court, regulatory, rating or Russia/CIS-supply finding is asserted or implied in either direction. Per project rules, absence of verification is not a rejection ground and no adverse inference should be drawn. Recommended follow-up when tooling is restored: (1) OFAC SDN/consolidated list name screen and EU/UK/BIS Entity List screen on 'Pradip Polyfils'; (2) eCourts / Gujarat High Court and NCLT Ahmedabad party search; (3) CRISIL/ICRA/CARE/Brickwork rating lookup; (4) news search for regulatory action; (5) Russian/CIS import records (e.g. customs/import mirror data) for supply evidence. Note also that the claimed PAN AABCP7172J and the claimed HS 842199 were not validated here as they fall outside this role's scope."
+}

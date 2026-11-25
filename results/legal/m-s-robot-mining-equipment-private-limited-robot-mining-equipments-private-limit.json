@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S ROBOT MINING EQUIPMENT PRIVATE LIMITED; ROBOT MINING EQUIPMENTS PRIVATE LIMITED; ROBOT MINING EQUIPMENTS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Telangana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо нерелевантную выдачу; публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдают HTTP 403; портал MCA (mca.gov.in) — HTTP 403. Ни одна реестровая запись не прочитана, поэтому все поля оставлены null — данные не выдумывались. Заявленный PAN AACCR6350H НЕ подтверждён: по 4-му символу 'C' он соответствовал бы типу держателя 'company' (юрлицо), но сама строка PAN в открытых источниках не найдена, поэтому pan_holder_type = null. Название в трёх вариантах входа ('ROBOT MINING EQUIPMENT' / 'ROBOT MINING EQUIPMENTS') не позволяет однозначно определить точное юрлицо без реестра. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности источников — не основание для rejected (правило 3), статус остаётся непроверенным. Требуется повторный прогон при доступных источниках (MCA master data / GST-портал) для установления CIN, даты регистрации, штата регистрации, GSTIN и статуса, а также аудированной выручки FY25/FY26 (в открытых источниках не проверялась)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Kavia Engineering Private limited",
+ "legal_name": "KAVIA ENGINEERING PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAACK5985B (as claimed in input; not verified against MCA/PAN records)",
+ "pan_holder_type": "AOP / Trust / BOI (4th character 'C' in the claimed PAN AAACK5985B indicates an association of persons / trust / body of individuals — NOT a company, which would require 'P' as the 4th character). This is a red flag: the claimed PAN does not match the claimed legal form of a private limited company.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned connection errors (searx: Connection refused) for all queries, and every direct registry/aggregator source attempted returned HTTP 403/404 or unrelated results — zaubacorp.com (403), thecompanycheck.com (403), tofler.in (404), instafinancials.com (404), quickcompany.in (404), mca.gov.in MDS (403), plus Google/Bing/DuckDuckGo HTML endpoints which returned no usable SERP data. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — not public/not retrievable in this session, and no values were invented. IMPORTANT PAN ANOMALY: the claimed PAN AAACK5985B has 'C' as its 4th character, which denotes an AOP/Trust/BOI holder, not a company ('P' is required for a private limited company). Either the PAN is mis-transcribed or it belongs to a different entity type; this must be resolved against the PAN card / MCA master data before the record is used. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, so no rejection basis exists. Role is recorded as 'unknown' — no registry evidence of manufacturing plant, GST turnover or filings was obtainable, so manufacturer vs trader cannot be determined. Revenue FY25 and FY26 are null (no audited accounts or official filings accessible). Declared HS 870899 (motor-vehicle parts) is noted but not assessed here (out of scope for this role). Recommended next step: re-run verification when search/registry access is restored, and confirm the PAN 4th character and CIN directly on the MCA master data portal."
+}

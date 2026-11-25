@@ -1,0 +1,23 @@
+{
+ "name_input": "EXCEL INDSTRIES LTD",
+ "declared_hs": "290519;292990",
+ "actual_hs_list": [
+  "380893",
+  "292090",
+  "292990",
+  "291990",
+  "292419",
+  "380891",
+  "380892",
+  "382499",
+  "390690",
+  "300490",
+  "300242",
+  "292111",
+  "292119"
+ ],
+ "match_status": "partial",
+ "product_summary": "Excel Industries Limited (Gujarat, agrochemical/specialty-chemical manufacturer) — product lines taken from the company's own website navigation (https://www.excelind.co.in/ and https://www.excelind.co.in/products-markets/): 1) Agrochemicals Intermediates; 2) Soil & Water Conditioners; 3) Polymer Additives; 4) Biocides; 5) Specialty Intermediates; 6) Phosphorus Based Intermediates; 7) Pharma & Veterinary Intermediates; 8) API; 9) Veterinary API; 10) Waste Management Solutions. Excel is historically a phosphorus-chemistry house (glyphosate and phosphite/phosphonate intermediates, e.g. diethyl/trimethyl phosphite, phosphorous acid derivatives) and a producer of agrochemical actives and intermediates. Mapping of the declared codes: 290519 (saturated monohydric alcohols, 'other') — no product line on the site corresponds to a C5+ monohydric alcohol; the closest phosphorus-chemistry items are phosphites/phosphonates, which fall in 2920/2919/2931, not 2905. 292990 (compounds with other nitrogen function) — plausible only as a generic bucket for some specialty intermediates; the site does not name a specific 292990 product. So the declaration is only partially consistent with the visible product range.",
+ "role_hint": "manufacturer",
+ "comment": "Вердикт по HS: partial (частичное соответствие), компания сохраняется в базе, коды корректируются на фактические — отклонение по HS не применяется (правило 3). Фактическая продуктовая линейка по данным сайта компании (https://www.excelind.co.in/, раздел Products & Markets): агрохимические интермедиаты, кондиционеры почвы и воды, полимерные добавки, биоциды, специальные интермедиаты, фосфорсодержащие интермедиаты, фарма/ветеринарные интермедиаты, API, ветеринарные API, решения по переработке отходов. Рекомендуемые коды HS-6: 380893 (гербициды/регуляторы роста — линейка агрохимии), 380891/380892 (инсектициды/фунгициды, если подтвердятся готовые формы), 292090 (прочие эфиры неорганических кислот — фосфиты/фосфонаты, ключевая для Excel фосфорная химия), 291990 (прочие фосфорорганические производные), 292990 (прочие соединения с азотной функцией — оставить как общий бакет), 292419 (амиды), 382499 (прочие химические продукты и препараты), 390690 (полимерные добавки, акриловые полимеры), 300490/300242 (API и ветеринарные препараты), 292111/292119 (амины, если подтвердятся как интермедиаты). Заявленный 290519 (прочие насыщенные одноатомные спирты) продуктовой линейкой сайта НЕ подтверждается — вероятна ошибка декларирования или перенос кода от другого поставщика; 292990 подтверждается лишь частично как общий бакет. Оговорка: подстраницы каталога (products-markets/agrochemicals-intermediates/, /phosphorus-based/, /soil-water-conditioners/ и др.) при проверке отдавали HTTP 404, sitemap.xml пуст, поэтому конкретные наименования продуктов и их CAS/коды по подстраницам не верифицированы — перечень линеек взят из навигационного меню сайта. Все позиции без таможенной строки помечены как «заявлено, не подтверждено»: фактических экспортных или внутренних отгрузочных записей по конкретным товарным позициям в рамках этой проверки (HS-специалист) не подтверждалось. Признаков трейдерства не выявлено: сайт описывает собственные производства, R&D, инфраструктуру и контрактное производство — роль manufacturer. Отраслевая классификация «Нефтегаз и химия» неточна: компания относится к агрохимии и фосфорорганической/специальной химии, не к нефтегазу — рекомендуется уточнить отрасль на «Химия / агрохимия». Выручка, объём экспорта, CIN/PAN и таможенные объёмы в рамках данной роли не проверялись — null."
+}

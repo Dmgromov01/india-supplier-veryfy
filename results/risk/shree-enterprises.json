@@ -1,0 +1,9 @@
+{
+ "name_input": "Shree Enterprises",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена — данных нет, все поля null, а не подтверждённое отсутствие рисков. Инструменты: web_search (DuckDuckGo/searx) на всех 3 попытках вернул 'Connection refused' — поиск недоступен; html.duckduckgo.com — timeout; Google — блокирует скрейпинг (только редирект-заглушка); Bing по запросам '\"Shree Enterprises\" Delhi court', '\"Shree Enterprises\" Delhi aviation/aerospace/aircraft parts', '\"Shree Enterprises\" site:indiankanoon.org' выдал только нерелевантный шум (магазин одежды byshree.com, IMDb, храмы в Техасе) — ни одного релевантного результата по юрлицу. OFAC: санкционный поиск sanctionssearch.ofac.treas.gov — JS-форма, через GET результаты не отдаются; скачивание SDN.CSV (sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) обрезано на 6000 символов и дошло только до буквы 'F' по алфавиту, поэтому отсутствие 'SHREE' в списке НЕ подтверждено. UN/EU/UK/BIS entity list, индийские суды (eCourts, NCLT, Indian Kanoon), рейтинговые агентства (CRISIL/ICRA/CARE), GST-обороты и любые следы поставок в РФ/СНГ не проверялись. Дополнительно: название 'Shree Enterprises' — крайне распространённое в Индии, без PAN/CIN/адреса однозначная идентификация невозможна, любой найденный судебный кейс или санкционная запись с таким именем не может быть атрибутирована этой компании. Требуется повторный прогон при работающем поиске и с PAN/CIN или полным адресом. По правилам проекта компания не отклоняется; вердикт по рискам — 'не проверено', не 'чисто'."
+}
