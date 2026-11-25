@@ -1,0 +1,9 @@
+{
+ "name_input": "LASONS INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена: ни один риск-факт не подтверждён и не опровергнут. Технические причины: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо таймаут на всех запросах; Bing отдал нерелевантную спам-выдачу; Brave и IndiaMART — HTTP 429; zaubacorp.com и thecompanycheck.com — HTTP 403; сайт lasonsindia.com не резолвится (DNS). OFAC Sanctions List Search открылся, но это JS-форма без возможности передать запрос через GET — фактического скрининга по SDN/Non-SDN не выполнено, поэтому sanctions_hit = null (НЕ 'чисто'). Аналогично не проверены UN/UK/EU/BIS Entity List, индийские суды (eCourts/NCLT), действия регуляторов (SEBI/RBI/PCB), кредитный рейтинг (CRISIL/ICRA/CARE) и признаки поставок в РФ/СНГ. Все поля оставлены null согласно правилу 'нет данных — null, не выдумывать'. Требуется повторный прогон при доступном поиске; до этого компанию нельзя считать проверенной по риск-профилю. Отклонение по данному отчёту не обосновано (правило 2: санкции/суды не являются основанием для отклонения в любом случае)."
+}

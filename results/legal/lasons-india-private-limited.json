@@ -1,0 +1,18 @@
+{
+ "name_input": "LASONS INDIA PRIVATE LIMITED",
+ "legal_name": "LASONS INDIA PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAACL3792R",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN) — format-consistent with the claimed PAN, but the PAN itself could not be verified against any public registry record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a connection error (searx: Connection refused) on both queries, and Bing/Google HTML fetches returned irrelevant or redirect-only content. Direct fetches of public company-data profiles (zaubacorp, thecompanycheck, tofler, falconebiz) returned HTTP 403 Forbidden; quickcompany and instafinancials returned 404 for the guessed URL slugs. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public to me in this session, not 'not existing'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected; it is retained with unverified status. The claimed PAN AAACL3792R is structurally valid (5 letters + 4 digits + 1 letter; 4th char 'C' indicates a company holder), which is consistent with a private limited company, but this is a format check only, not verification. Role cannot be determined from registry data alone (declared HS 281122/293339/293629 — silicon dioxide, heterocyclic compounds, hormones — are consistent with a chemicals trader/manufacturer, but that is inference, not a registry fact). Revenue FY25/FY26: null — no audited accounts or MCA filings were accessible; no figures invented. Recommended next step: re-run verification when search backend is restored, using MCA master data by CIN lookup and the GST portal's public 'Search Taxpayer' for the GSTIN."
+}

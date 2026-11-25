@@ -1,0 +1,18 @@
+{
+ "name_input": "GAUTAM SADH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: не удалось получить ни одного подтверждающего источника. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Google и Bing вернули нерелевантную выдачу без результатов по запросу, а реестровые агрегаторы Zauba Corp, Tofler, InstaFinancials и портал MCA Master Data отдали HTTP 403 Forbidden. Никаких данных о юрлице, CIN/LLPIN, PAN, GSTIN, дате регистрации, статусе MCA и выручке получить не удалось — все поля null, ничего не домысливалось. 'GAUTAM SADH' по формату похоже на имя физического лица (вероятно, ИП/проприетор или партнёр), а не на зарегистрированное название компании, поэтому CIN может отсутствовать в принципе; для ИП PAN имеет 4-й символ 'P' (индивидуальный предприниматель) — но это НЕ подтверждено, а лишь форматная гипотеза, поэтому pan_holder_type = null. Роль (manufacturer/trader) не установлена. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что здесь не доказано и не опровергнуто). Требуется повторная проверка при доступных источниках: MCA Master Data, GST-портал (gst.gov.in search taxpayer), профиль IndiaMART/счёт-фактура от поставщика для получения GSTIN и юридического имени."
+}
