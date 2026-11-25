@@ -1,0 +1,8 @@
+{
+ "name_input": "GOVIND MILK AND MILK PRODUCTS; GOVIND MILK AND MILK PRODUCTS PVT LTD; GOVIND MILK AND MILK PROD UCTS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/govind-milk-and-milk-products-pvt-ltd — page renders only the shell text \"Shipments available for GOVIND MILK AND MILK PRODUCTS PVT LTD, refreshed daily\" with no shipment rows, dates, destinations, HS codes or B/L numbers visible; rows actually seen: 0. Second slug variant /govind-milk-and-milk-products returned the identical paywalled shell, 0 rows.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: thecompanycheck.com returned HTTP 403, volza.com and eximpedia.app returned HTTP 403, trademo.com returned HTTP 403. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних — но это результат недоступности источников, а не доказательство отсутствия отгрузок, поэтому статус unknown, а не none_found. ImportKey подтверждает лишь существование карточки компании в таможенной базе (это не запись об отгрузке); конкретных строк с датой, направлением, HS и номером B/L получить не удалось — они за платным доступом. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на протяжении всей проверки, Bing отдавал нерелевантную выдачу, поэтому независимо перепроверить экспорт не удалось. Выручка и объём экспорта: null — публичных данных не найдено, не выдумывались. PAN AAACG7588A и HS 040210/040221/040510 остаются заявленными и настоящей проверкой не подтверждены. Рекомендация: повторить проверку при доступном платном срезе ImportKey/Volza или через запрос выписки GST-оборотов; отклонять компанию нет оснований."
+}

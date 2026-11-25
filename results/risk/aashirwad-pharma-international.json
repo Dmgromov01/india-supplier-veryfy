@@ -1,0 +1,9 @@
+{
+ "name_input": "AASHIRWAD PHARMA INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google/DDG HTML-выдача не отдала результатов, IndianKanoon недоступен (DNS), реестры Zauba/TheCompanyCheck отдали HTTP 403, Tofler — 404, MCA-портал — 403. OFAC Sanctions List Search и BIS Entity List — это JS-формы/нормативные тексты, прямой GET-запрос по имени невозможен, поэтому совпадений по имени не проверено. По всем полям (санкции, суды, рейтинг, негативные новости, поставки в РФ/СНГ) данных нет — null, а не 'чисто'. Никаких выводов об отсутствии санкций/судов делать нельзя: это отсутствие данных, а не отсутствие рисков. Требуется повторный прогон при доступном поиске и доступ к OFAC SDN CSV, BIS Entity List supplement no. 4, EU/UK consolidated lists, eCourts/NJDG и IndianKanoon. Заявленный PAN AAVCA1007B и CIN не проверялись (вне моей роли и недоступны источниками)."
+}

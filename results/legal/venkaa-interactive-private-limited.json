@@ -1,0 +1,18 @@
+{
+ "name_input": "Venkaa Interactive Private Limited",
+ "legal_name": "VENKAA INTERACTIVE PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAFCV9046F",
+ "pan_holder_type": "F — Firm / LLP (4th character 'F' in AAFCV9046F indicates a partnership firm or LLP, NOT a company; a private limited company PAN must have 'C' as the 4th character). The claimed PAN is therefore inconsistent with the claimed legal form 'Private Limited'.",
+ "gstin": null,
+ "gst_status": "unknown — no public GST profile could be retrieved",
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": "unknown — MCA master data and all registry aggregators (ZaubaCorp, Tofler, TheCompanyCheck, InstaFinancials, FalconEbiz) returned HTTP 403 / timeouts; no MCA record could be read",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "none — no audited accounts or official filings accessible; revenue not invented",
+ "note": "Registry verification could not be completed: the web_search backend was down (connection refused) and every direct fetch of MCA / ZaubaCorp / Tofler / TheCompanyCheck / InstaFinancials / FalconEbiz returned 403 or timed out; Bing/Google/DuckDuckGo returned only irrelevant results, i.e. no indexed page for 'Venkaa Interactive Private Limited' was found. Consequently CIN/LLPIN, GSTIN, incorporation date, registered state and MCA status are all null — this is a data-availability gap, not evidence of non-existence. Two red flags to resolve manually before acceptance: (1) the claimed PAN AAFCV9046F has 'F' as its 4th character, which denotes a firm/LLP, not a company — either the PAN or the 'Private Limited' legal form is wrong; (2) the claimed HS code 870120 (road tractors for semi-trailers) does not match the claimed industry 'Авиастроение и транспорт' (aviation & transport) and, per project rules, HS mismatch is not a rejection ground — the code should be corrected to the actual activity once the entity is confirmed. No rejection applied: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt. Recommended action: re-run against MCA master data / GST portal once network access is restored."
+}

@@ -1,0 +1,24 @@
+{
+ "name_input": "EASTERN CHEMICALS MUMBAI PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madras High Court",
+   "case": "M/s. Kawarlal & Co vs The Joint Commissioner of (Customs), 12.12.2017",
+   "role": "third party / Indian agent named in the order (M/s. Eastern Chemicals (Mumbai) Private Ltd. described as authorised Indian Agent)",
+   "status": "order passed; no adverse finding against the company identified in the snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Eastern%20Chemicals%20(Mumbai)%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "K. Ramlal Jain vs Union of India, 30.11.2023",
+   "role": "third party / Indian agent (M/s. Eastern Chemicals Pvt. Ltd., Mumbai) referenced in a Drugs & Cosmetics Act matter",
+   "status": "pending/decided at HC level; company not a party, only referenced as agent",
+   "source": "https://indiankanoon.org/search/?formInput=%22Eastern%20Chemicals%20(Mumbai)%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no match found for the name in the OFAC Sanctions List Search tool (SDN + Non-SDN consolidated, SDN list last updated 23.11.2026) — https://sanctionssearch.ofac.treas.gov/ ; UN, EU, UK OFSI and BIS Entity List could not be queried (search backend refused connections / timeouts), so those are NOT confirmed clean — treat as unverified, not as a negative. Court cases: only indirect references found on Indian Kanoon — the company appears as the authorised Indian agent of a foreign manufacturer in two Madras HC matters (2017 and 2023); no case where it is a plaintiff/defendant with an adverse outcome was located. Note per project rule 2: any court involvement is not a rejection ground. Regulator actions / negative news: none found; searches were severely degraded (DuckDuckGo/searx backend down, Google and Bing returned irrelevant results, Zaubacorp 403, Tofler 404), so absence of negative news is NOT evidence of absence. Credit rating: no public rating found (null) — company appears to be a small/private entity without rated debt; not verifiable from open sources. RF/CIS supply evidence: none found (null) — no customs, B/L or contract record linking this entity to Russia or CIS was located; the company's visible activity in court records is as an importer/agent for foreign chemical manufacturers into India, which is not evidence of RF supply. Overall: no sanctions hit and no rejection grounds identified, but the research environment was largely non-functional, so all 'clean' findings should be re-verified before reliance."
+}

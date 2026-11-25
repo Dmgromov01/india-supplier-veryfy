@@ -1,0 +1,18 @@
+{
+ "name_input": "A K S AUTOMATIONS & PRESSINGS PRIVATE LIMITED",
+ "legal_name": "A K S AUTOMATIONS & PRESSINGS PRIVATE LIMITED (as claimed; unverified)",
+ "cin_llpin": null,
+ "pan": "AAFCA0693P",
+ "pan_holder_type": "F — Firm / LLP (4th character 'F' in the claimed PAN indicates a partnership firm or LLP, NOT a company; a private limited company's PAN must have 'C' as the 4th character). The claimed PAN is therefore inconsistent with the claimed legal form 'Private Limited' — either the PAN belongs to a different (firm) entity or the PAN is wrong.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity simply could not be verified with the tools available. Research failure, not a negative finding. Tooling: web_search (DuckDuckGo/searx) returned 'Connection refused' on both attempts; direct fetches of zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned a redirect stub; Bing returned only irrelevant results (letter 'A', Fowler's toad) — no registry page for this company name was retrieved. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null because they are not public in any source I could read — they are NOT invented. Key flag for manual follow-up: the claimed PAN AAFCA0693P has 'F' as its 4th character, which denotes a partnership firm/LLP, not a company; this contradicts the 'PRIVATE LIMITED' legal form in the input and must be reconciled against the MCA master data and the GST portal before the record is used. Role cannot be determined (manufacturer vs trader) without registry/object-clause data. Declared HS 850490 (parts of electrical transformers/converters/inductors) and industry 'Энергетика' are plausible for a pressings/automation unit but are not evidence of anything. Recommended next step: manual lookup on MCA master data by name and on the GST portal by PAN, then re-run this record."
+}
