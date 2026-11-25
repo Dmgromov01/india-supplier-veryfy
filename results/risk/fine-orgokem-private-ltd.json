@@ -1,0 +1,9 @@
+{
+ "name_input": "FINE ORGOKEM PRIVATE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена: инструменты поиска были недоступны. web_search возвращал 'Connection refused' (searx backend down) на всех запросах; DuckDuckGo HTML и Marginalia — таймауты/антибот-заглушки; Bing игнорировал кавычки и выдавал нерелевантную выдачу (словарные статьи 'fine', Pizza Hut), т.е. результаты непригодны как источник. Прямые проверки: Indian Kanoon — 0 результатов по запросу \"Fine Orgokem\" и по \"Orgokem\" (https://indiankanoon.org/search/?formInput=%22Fine%20Orgokem%22), что НЕ доказывает отсутствие судебных дел (возможны иные написания/трибуналы NCLT, DRT, GST-апелляции не индексируются). OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) — форма на JS, программный запрос не дал результатов; SDN-лист не проверен фактически. TheCompanyCheck вернул HTTP 403. Итог: ни один из пяти риск-параметров не подтверждён и не опровергнут — все поля null, а не 'чисто'. Требуется повторный прогон при работающем поиске: OFAC SDN/SSI + consolidated non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List; Indian Kanoon/NCLT/DRT/e-courts по вариантам написания (Fine Orgokem, Orgokem, Fine Organics-не путать); CRISIL/ICRA/CARE/India Ratings/Brickwork; GST- и таможенные публичные записи по экспорту в РФ/СНГ. Ложное 'нет санкций' при непроверенном списке недопустимо, поэтому null."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Xcort Overseas LLP",
+ "legal_name": "XCORT OVERSEAS LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Реестровых данных получить не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо нерелевантную выдачу; zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in отдали HTTP 403; llpin.org не резолвится; tofler.in — 404 на поиске. Ни LLPIN, ни PAN, ни GSTIN, ни даты регистрации, ни MCA-статуса, ни выручки в открытых источниках в рамках этой проверки не найдено. ВАЖНО по PAN: заявленный 'AAAFX4039L' имеет 4-й символ 'F', что по формату PAN означает фирму (partnership firm) — для LLP это нехарактерно (у LLP обычно 4-й символ 'F' допустим только как firm, но LLP-паны часто начинаются с 'AAB'/'AAF' с 'F' — тем не менее сверить с реестром не удалось), поэтому PAN оставлен null, а не воспроизведён из входных данных. Заявленный HS 401039 (изделия из вулканизованной резины) не соответствует заявленной отрасли «Металлургия и горнодобыча» — по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический после проверки. Роль (manufacturer/trader) не определена. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица. Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP или запрос выписки у поставщика."
+}

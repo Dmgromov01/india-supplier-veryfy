@@ -1,0 +1,9 @@
+{
+ "name_input": "Bangur International",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (searx) возвращал 'Connection refused' на всех запросах; DuckDuckGo (html и lite) — таймауты; Bing отдавал нерелевантную выдачу (бот-деградация, результаты про Wembley/Kobe Bryant/eBay вместо запроса); Google блокирует скрейпинг. Прямой доступ к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма — поиск по имени через GET невозможен, результат по 'Bangur International' не получен. Следовательно: санкционная экспозиция (OFAC SDN, UN, EU, UK, BIS Entity List) — НЕ ПРОВЕРЕНО, null, а не 'чисто'. Судебные дела в индийских инстансах (eCourts, NCLT, High Court) — не проверены, null. Рейтинги (CRISIL/ICRA/CARE/India Ratings) — не проверены, null. Негативные новости и действия регуляторов — не проверены, null. Поставки в РФ/СНГ — следов не искали по существу, null. ВАЖНО: null здесь означает 'нет данных из-за недоступности инструментов', а НЕ 'рисков не выявлено'. Компания НЕ отклоняется по правилу 2 (санкции/суды/уголовные дела не являются основанием для отклонения). Требуется повторный прогон при восстановлении поиска; приоритетные источники: OFAC SDN CSV, eCourts services.ecourts.gov.in, NCLT, Tofler/Zauba, GST-портал, отраслевые СМИ. Заявленный PAN AAGFB3347M и HS 870899 в рамках этой роли не проверялись."
+}

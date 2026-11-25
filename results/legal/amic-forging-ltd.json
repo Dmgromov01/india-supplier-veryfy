@@ -1,0 +1,18 @@
+{
+ "name_input": "AMIC Forging Ltd",
+ "legal_name": "AMIC FORGING LIMITED",
+ "cin_llpin": null,
+ "pan": "AADCK1084G",
+ "pan_holder_type": "AADCK — 4th character 'C' = company (PAN format is structurally valid; holder type inferred from format only, not verified against the PAN holder record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this run. The web_search backend was down (connection refused) and all direct fetches of registry/profile sources failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, moneycontrol.com returned HTTP 403, NSE timed out, BSE returned an empty shell page, and Bing/Google returned only unrelated 'AMIC' entities (US/UK/Australia organisations) with no Indian registry hit. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT invented. The claimed PAN AADCK1084G is syntactically valid for a company (4th char 'C'), but its holder could not be confirmed. No basis for rejection: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a retrieval failure, not evidence of non-existence. Role left 'unknown' (no registry/audited source reviewed; product catalogues and IndiaMART deliberately not used). Revenue FY25/FY26 null — no audited accounts or official filings were accessible. Recommended: re-run verification when search backend is restored, using MCA master data (CIN lookup), a GST public profile (GSTIN search) and the company's annual report / DRHP for audited FY25-FY26 revenue."
+}

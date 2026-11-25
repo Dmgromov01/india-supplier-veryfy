@@ -1,0 +1,18 @@
+{
+ "name_input": "FINE ORGOKEM PRIVATE LTD",
+ "legal_name": "FINE ORGOKEM PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAGCM0855N",
+ "pan_holder_type": "AAGCM0855N — 4th character 'C' = company (corporate) PAN holder; format valid (5 letters + 4 digits + 1 letter). Value taken from the input claim only; could not be cross-checked against an MCA/GST public record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. The DuckDuckGo search tool returned a connection error ('searx: Connection refused') on every query, and Bing/Google HTML fetches returned only generic dictionary/unrelated results (search backend degraded, no entity hits). Direct fetches of public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403 (bot-blocked), instafinancials.com and quickcompany.in returned HTTP 404 for the guessed slug, tofler.in returned its 404 page. IMPORTANT: an earlier attempt used a CIN (U24100MH1995PTC085512) that I constructed as a URL guess — that CIN is NOT verified and is therefore reported as null, not as a finding. No CIN/LLPIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from an official filing or public profile, so all such fields are null rather than estimated. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity simply remains unverified. Role is 'unknown' (no evidence of manufacturing plant or trading activity obtained; the claimed HS 3811 (anti-knock preparations / additives) is consistent with a chemicals trader or blender but is not evidence). Revenue FY25/FY26: null — no audited accounts or MCA filings accessible. Recommended next step: re-run with a working search backend, or verify via MCA master data / GST portal lookup by PAN AAGCM0855N to obtain the CIN and GSTIN."
+}

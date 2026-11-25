@@ -1,0 +1,18 @@
+{
+ "name_input": "MARSH AUTOMATION PRIVATE LIMITED",
+ "legal_name": "Marsh Automation Private Limited (as used on the company's own website: \"Marsh Automation Pvt. Ltd.\")",
+ "cin_llpin": null,
+ "pan": "AAFCM9339N",
+ "pan_holder_type": "C — company (4th character of PAN is 'C', consistent with a private limited company); PAN taken as claimed in input, NOT independently verified against an official record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (Pune — registered/works address 98A/25A, Hadapsar Industrial Estate, Pune 411013, per company website; MCA registered-office record not retrieved)",
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no rejection basis found, but also no official record retrieved. Sources actually read: (1) company website https://www.marshautomation.com/ — states 'Marsh Automation Pvt. Ltd. is a Manufacturer of Electrical Actuators... Manufacturer, Supplier, Exporter of Valves and Dampers Automation Solutions', ISO 9001:2015 certified, set up in Pune, Maharashtra, 'Since 1980' (marketing claim, not a registry fact). This supports role=manufacturer and state=Maharashtra, and is consistent with declared HS 848180 (valves/actuators). (2) Attempted and FAILED: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (404), DuckDuckGo search API (connection refused), Bing/Google queries returned only irrelevant results (Marsh McLennan, Marshalls). Therefore CIN, GSTIN, GST status, date of incorporation, MCA status and audited revenue FY25/FY26 could NOT be confirmed and are left null rather than guessed. No evidence of strike-off, liquidation or bankruptcy was found, so the entity is NOT rejected; it is retained pending manual MCA/GST portal lookup. Per project rules, website claims are 'заявлено, не подтверждено' — no shipment or turnover fact is asserted here."
+}

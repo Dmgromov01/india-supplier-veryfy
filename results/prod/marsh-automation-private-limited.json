@@ -1,0 +1,16 @@
+{
+ "name_input": "MARSH AUTOMATION PRIVATE LIMITED",
+ "declared_hs": "848180",
+ "actual_hs_list": [
+  "848180",
+  "848190",
+  "841239",
+  "848340",
+  "853710",
+  "730890"
+ ],
+ "match_status": "partial",
+ "product_summary": "Pune (Hadapsar Industrial Estate) manufacturer since 1980, ISO 9001:2015. Real product line per own site (marshautomation.com): (1) motorised/actuated valves — butterfly valves 50–1000 NB (wafer/flanged, PN10/PN16), ball valves 10–500 NB (class #150/#300/#600/#800, screwed/socket-weld/flanged), sluice/gate valves, globe valves, double-eccentric butterfly valves; (2) electric actuators — Emtork multi-turn, Regeltek linear, QT quarter-turn, Thruster trunnion-mounted linear, plus actuator accessories (limit/torque switches, positioners, local control stations); (3) pneumatic rack-and-pinion actuators 4–4000 Nm (DA/SR, NAMUR, ISO 5211) and pneumatically actuated ball/butterfly valves; (4) industrial dampers / fabricated valves, electrically operated dampers; (5) multi-turn, quarter-turn and bevel gearboxes; (6) PLC-based control systems and SCADA solutions. Sources: https://www.marshautomation.com/ , /products.html , /motorised-valves.html , /pneumatic-actuators.html",
+ "role_hint": "manufacturer (self-described manufacturer of actuators/valves/dampers in Pune; also states 'Supplier, Exporter' and seeks channel partners — no evidence of pure trading, but resale of third-party valves is implied by '400 mm Kirloskar Sluice Valve + Marsh Electrical Actuator' photo caption)",
+ "comment": "HS 848180 (taps, cocks, valves and similar appliances) is CORRECT for the valve core of the range — butterfly, ball, sluice/gate, globe, actuated valves — so the declared code is retained, not rejected (Rule 3). However it covers only part of the actual line: actuators (electric multi-turn/quarter-turn/linear and pneumatic rack-and-pinion) are a separate heading, most plausibly 8412.39 (pneumatic power engines/motors) or 8501.10 for small electric motors, with parts under 8481.90; gearboxes fall under 8483.40; PLC/SCADA panels under 8537.10; dampers/fabricated structures under 7308.90 or 8481.90 depending on execution. Match status = partial: the declared single code is right for valves but under-declares the actuator/gearbox/control-panel lines, which appear to be the company's flagship products ('Mfgr. of Industrial Actuators, Valves & Dampers'). Industry label 'Нефтегаз и химия' is plausible but the site's own emphasis is water/flow-control, power and process plants (valve automation in water, sluice valves, dampers) — a broader 'industrial flow control / process equipment' classification would be more accurate; no evidence of a dedicated oil-and-gas or chemical-specific product certification on the pages read. Trader signs: none material — the site presents own manufacturing (infrastructure, certificates pages), though the Kirloskar sluice valve reference indicates some bought-in valve bodies are integrated with own actuators. All product claims above are from the company's own website only and are therefore 'заявлено, не подтверждено' — no customs line, invoice or B-L was examined in this HS-only review. No HS code is printed on the site pages read, so the mapping is my inference from product descriptions, not a company declaration."
+}

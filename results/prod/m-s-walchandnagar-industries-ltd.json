@@ -1,0 +1,30 @@
+{
+ "name_input": "M/S WALCHANDNAGAR INDUSTRIES LTD",
+ "declared_hs": "848340",
+ "actual_hs_list": [
+  "848340",
+  "848310",
+  "848390",
+  "732510",
+  "732599",
+  "841861",
+  "841869",
+  "841989",
+  "840211",
+  "840219",
+  "840290",
+  "841370",
+  "902620",
+  "902580",
+  "880390",
+  "930690",
+  "840140",
+  "847490",
+  "841459",
+  "170199"
+ ],
+ "match_status": "partial",
+ "product_summary": "Heavy engineering company (est. 1908), HQ/registered office Pune (Siddharth Towers, Kothrud), works at Walchandnagar (Pune dist.), Foundry Division at Satara Road, Instrumentation Division at Dharwad (Karnataka). Confirmed business areas from own site (walchand.com homepage + contact page): Gear Boxes (marine & industrial gear boxes, '6500+ gearboxes installed globally'); Foundry (cast iron & spheroidal graphite cast iron heavy castings); Centrifugal Machines for sugar industry ('4500+ machines supplied'); Cement Plant & Machinery (all capacities); Sugar Plant & Machinery (turnkey); Power Plants & Boilers (multi-fuel industrial boilers, steam generators, co-generation, '540+ boiler installations'); Instrumentation (pressure & temperature gauges); Nuclear Power (core equipment for NPPs); Defence & Missiles (components for Akash missiles); Aerospace (ISRO/Chandrayaan/Mangalyaan components).",
+ "role_hint": "manufacturer",
+ "comment": "HS 848340 (gears and gearing, other than toothed wheels/chain sprockets) is genuinely one of WIL's lines — the Gear Boxes division designs and manufactures marine and industrial gearboxes, so the declared code is plausible and partially corroborated by the company's own product page. However it covers only a fraction of the actual product range: heavy CI/SG-iron castings (7325 10/7325 99), sugar centrifugal machines (8418 61/8418 69 or 8419 89 depending on type), industrial boilers and steam generators (8402 11/8402 19/8402 90), cement plant machinery (8474 90), pressure/temperature gauges (9026 20/9025 80), nuclear reactor core equipment (8401 40), defence/missile and aerospace components (9306 90 / 8803 90). Verdict per Rule 3: company is kept, code is not rejected — match_status 'partial', actual list above is the corrected/expanded mapping. Industry classification 'Металлургия и горнодобыча' (metallurgy & mining) is a misclassification: WIL is heavy/strategic engineering (defence, nuclear, aerospace) plus industrial equipment EPC, with a foundry division as only one segment; no mining activity is claimed on the site. Trader signs: none — own manufacturing facilities at Walchandnagar, Satara (foundry) and Dharwad (instrumentation), so role = manufacturer. Note on state: the claimed state 'Karnataka' matches only the Instrumentation Division at Attikola, Dharwad; the registered office is in Pune, Maharashtra and the main works are in Pune district — the state field should be corrected to Maharashtra. All product lines above are 'заявлено, не подтверждено' — taken from the company's own website (walchand.com), no customs line was checked in this task (out of scope). No revenue, export volumes, CIN/PAN or shipment records were researched or verified here; PAN AAACW0541M left as claimed, not verified."
+}

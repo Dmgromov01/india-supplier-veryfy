@@ -1,0 +1,8 @@
+{
+ "name_input": "Bangur International",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was ever rendered. ImportKey page for slug 'bangur-international' returned only the template shell: \"Shipments available for BANGUR INTERNATIONAL, refreshed daily\" with a 'Loading...' placeholder and no table rows, dates, destinations, HS codes or B/L numbers. Second slug variant 'bangur-international-jaipur' returned the identical empty template. volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. Source counter: 4 trade-data sources attempted (importkey x2 slugs, volza, eximpedia, trademo, importgenius), rows actually seen: 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrieved. The web_search tool failed on every call with 'searx: <urlopen error [Errno 111] Connection refused>', so no domestic-supply page could be located or read. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но это результат недоступности источников, а не доказательство отсутствия отгрузок. Ни экспортных записей (дата/направление/HS/B-L), ни внутренних поставок (GST-оборот, GeM/CPPP, контракты) получить не удалось: ImportKey отдаёт только пустой шаблон без строк, volza/eximpedia/trademo — 403, importgenius — JS-заглушка, поисковик был недоступен на всех вызовах. Заявленный HS 870899 и PAN AAGFB3347M не проверены и не подтверждены. Выручка и объём экспорта: null (не публичны / не получены). Рекомендуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}

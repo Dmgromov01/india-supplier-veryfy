@@ -1,0 +1,9 @@
+{
+ "name_input": "AMIC Forging Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. The primary search tool (DuckDuckGo/searx) returned 'Connection refused' on both queries, and fallback fetches (Google, DuckDuckGo HTML, Bing) either timed out, were blocked, or returned only name-collision noise for unrelated US/UK entities ('AMIC' = Acquisition Management and Integration Center, Amica Mutual Insurance, Advanced Medical Imaging Consultants, AMIC Australia meat industry body, etc.). Zaubacorp returned HTTP 403. Therefore: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency, date, status) = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. All fields set to null deliberately - no data was invented. Per project rules this is NOT a rejection ground and NOT a negative finding; the company must be re-queued for a risk pass once search connectivity is restored. Suggested next-step sources: OFAC SDN search + EU/UK consolidated lists by exact legal name 'AMIC FORGING LIMITED', BIS Entity List, NCLT/NCLAT and eCourts (West Bengal) by CIN, SEBI/BSE-NSE disclosure pages if listed, CRISIL/ICRA/CARE/India Ratings/Brickwork rating directories, and Indian trade-press archives."
+}
