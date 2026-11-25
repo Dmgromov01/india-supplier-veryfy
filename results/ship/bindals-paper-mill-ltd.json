@@ -1,0 +1,8 @@
+{
+ "name_input": "Bindals paper mill ltd",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. ImportKey page https://importkey.com/countries/india/bindals-paper-mill-ltd loaded only a paywalled shell: 'Shipments available for BINDALS PAPER MILL LTD, refreshed daily' — zero rows, zero dates, zero B/L numbers, zero destinations visible. Counter: 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. All registry/financial sources attempted returned HTTP 403 (thecompanycheck, zaubacorp, tofler) or JS challenge (importgenius); volza/eximpedia/trademo returned 403. Counter: 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: это отсутствие доступа к данным. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на всех 3 попытках ('Connection refused'), поэтому ни один источник не удалось открыть в читаемом виде. Заявленный HS (480256;480261;480620;481151 — немелованная/мелованная бумага и картон) соответствует профилю бумажной фабрики, но фактичность отгрузок не проверена. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Юрлицо BINDALS PAPERS MILLS LIMITED не проверено по MCA — статус существования не подтверждён и не опровергнут; отклонение по правилу 3 не применяется, так как нет данных о ликвидации/банкротстве. Требуется повторный прогон при работающем поиске и доступе к платным таможенным базам."
+}

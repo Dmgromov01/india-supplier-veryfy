@@ -1,0 +1,18 @@
+{
+ "name_input": "GUARAN CHEMICALS PRIVATE LIMITED; GUARAN CHEMICALS PRIVATE LIMITED; SHIVA TRADEWAY LOGISTICS PRIVATE LIMITED",
+ "legal_name": "GUARAN CHEMICALS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; direct fetches of registry mirrors (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) and mca.gov.in all returned HTTP 403 Forbidden; Google returned only a redirect interstitial; Bing returned irrelevant results (obituary/Shiva-deity pages) with no matching company record. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they were checked and found absent, but because they could not be retrieved. No identifier has been guessed or inferred. Per project rules the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established, and absence of evidence from a failed lookup is not evidence of absence. Role left as 'unknown' - the input bundles two distinct legal entities (Guaran Chemicals Private Limited and Shiva Tradeway Logistics Private Limited) in one record, which must be split and re-verified separately; the logistics entity is likely a trader/service provider rather than a manufacturer, but this is unconfirmed. Declared HS 130232/130239 (guar gum / mucilages and thickeners) is consistent with a guar-gum processor name, but HS mismatch is in any case not a rejection ground. ACTION REQUIRED: re-run with working registry access (MCA master data, GST public search) before any commercial decision; treat as 'заявлено, не подтверждено'."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Bindals paper mill ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing отдавал нерелевантную выдачу (результаты не по запросу); indiankanoon.org и tofler.in вернули HTTP 403; страница OFAC Sanctions List Search доступна только как JS-форма, результат запроса по имени получить не удалось. Ни один из пяти блоков (санкции OFAC/UN/EU/UK/BIS, индийские суды, действия регуляторов и негативные новости, кредитный рейтинг, поставки в РФ/СНГ) не подтверждён и не опровергнут. Все поля оставлены null — данных нет, выдумывать нельзя. Требуется повторный прогон при работающем поиске; приоритетные источники: OFAC SDN/Consolidated list (полный XML-дамп), BIS Entity List, UN/UK/EU consolidated lists, indiankanoon.org, NCLT/NCLAT cause lists, IBBI, SEBI, RBI, CRISIL/ICRA/CARE/India Ratings, GST-порталы, таможенные и B/L базы. Примечание по правилу 2: даже при обнаружении санкций/судов/уголовных дел владельцев компания не отклоняется — фиксируется нейтрально как 'есть сложности'."
+}

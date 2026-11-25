@@ -1,0 +1,18 @@
+{
+ "name_input": "Dristi Kitchen Solution",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, tofler.in, instafinancials.com, thecompanycheck.com) returned HTTP 403/404, and Bing/Google fallbacks returned irrelevant results, so no public profile was read. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be confirmed, and no audited revenue figures were found. Important: the input field 'legal_claimed' contains 'AATISH KUMAR', which is a person's name, not a legal entity name - this suggests the supplier is likely a proprietorship or an individual trader rather than a company, in which case there is no CIN and the PAN 4th character would be 'P' (individual). This is an inference only, NOT verified. No rejection is applied: the entity is not shown to be non-existent, struck off, liquidated or bankrupt - the status is simply unverified. Role left as 'unknown' (cannot distinguish manufacturer vs trader without evidence). Revenue FY25/FY26 left null per rule 4 (no audited accounts or official filings located). Recommended next step: re-run with a working search backend and query the GST portal / MCA master data by trade name and by the proprietor's name, plus check IndiaMART/GST-profile pages for the GSTIN and its registration state."
+}

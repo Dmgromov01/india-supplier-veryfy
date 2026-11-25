@@ -1,0 +1,16 @@
+{
+ "name_input": "EIE INSTRUMENTS PVT.LTD",
+ "declared_hs": "902780",
+ "actual_hs_list": [
+  "902480",
+  "902789",
+  "902730",
+  "903180",
+  "902790",
+  "847989"
+ ],
+ "match_status": "partial",
+ "product_summary": "Manufacturer (est. 1977, Ahmedabad/Gujarat) of laboratory testing instruments, per own website eieinstruments.com: (1) Civil engineering testing instruments — soil, asphalt/bitumen, cement-concrete testing (aggregate crushing value apparatus, centrifuge extractors, accelerated curing tanks, 2000 kN compression testing machines); (2) Pharmaceutical & microbiology testing instruments; (3) Filament yarn testing instruments; (4) Tiles & ceramics testing instruments; (5) Petroleum & grease testing instruments; (6) Tensile & elongation testing machines; (7) Paper & packaging (TR) testing equipment; (8) Plastic & rubber testing instruments; (9) Engineering laboratory instruments; (10) Refractory & castable testing instruments; (11) Drilling fluid testing instruments; (12) Wood particle board & plywood testing instruments; (13) General lab testing instruments; (14) Hydrology lab instruments. Also offers NABL-accredited calibration & validation services (IEC/ISO 17025) — a service line, not a goods line.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: the bulk of the range is mechanical/physical property testing machinery — compression/crushing/tensile/elongation testers, hardness and strength test benches — which belongs to 9024 (9024.80 for other machines/appliances for testing materials; 9024.10 for tensile testing of metals). Declared 9027.80 ('other instruments and apparatus for physical or chemical analysis') is only partially right: it fits the petroleum/grease, microbiology and some lab-analysis items (9027.89/9027.90), but not the mechanical testers, which are the company's core. Hydrology/water-resource instruments and general lab gear may fall in 9031.80 (measuring/checking instruments) or 9027.89 depending on the model. So: match_status = partial — declared code is plausible for a minority of the catalogue, while the dominant line (materials testing machines) is mis-declared and should be corrected to 9024.80 / 9024.10. Industry claim 'IT и электроника' is a misclassification: this is laboratory/instrumentation manufacturing (scientific & measuring equipment), not IT or electronics. No trader signs — the site describes own design, development and manufacturing plus in-house NABL calibration lab, so role = manufacturer. Product lines missing from the declaration: civil/soil/cement/asphalt testing machines, tensile & elongation testers, tiles/ceramics, paper & packaging, plastic & rubber, refractory, drilling fluid, plywood/particle board, filament yarn testing. All product claims here are from the company's own website only — no customs line was available in this task, therefore the entire product range is 'заявлено, не подтверждено'. Note: sub-page URLs on the site returned 404, so the mapping rests on the homepage product listing; individual model-level HS codes (e.g. exact 9024.10 vs 9024.80 split) cannot be verified without a catalogue PDF or customs record."
+}

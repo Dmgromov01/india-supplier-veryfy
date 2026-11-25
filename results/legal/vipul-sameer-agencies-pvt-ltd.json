@@ -1,0 +1,18 @@
+{
+ "name_input": "Vipul Sameer Agencies Pvt. Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the search backend (DuckDuckGo/searx) returned connection errors for every query, and all public registry aggregators attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404 to direct fetches. Bing HTML results for the exact name 'Vipul Sameer Agencies' returned only unrelated 'Vipul' entities (Vipul Organics, Vipul Limited, Vipul Fashions) - no matching company or LLP record. Therefore CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status and revenue are all null: NOT verified, not absent. Note the input itself is internally inconsistent - name field says 'Pvt. Ltd' while legal_claimed says 'LLP'; these are different legal forms (CIN vs LLPIN) and the correct one cannot be determined without a registry lookup. No rejection applied: non-existence, strike-off, liquidation or bankruptcy is NOT established - the entity simply could not be checked with the tools available. Role left 'unknown' (no evidence of manufacturing or trading activity). Declared HS 843143 (parts of boring/sinking machinery) is inconsistent with the claimed industry 'metallurgy and mining' only in the sense that it is mining-equipment parts; per project rules HS mismatch is not a rejection ground and no HS verdict is issued here. Recommended action: re-run verification when search access is restored, or obtain the CIN/LLPIN or GSTIN directly from the supplier, then confirm on mca.gov.in and the GST portal."
+}
