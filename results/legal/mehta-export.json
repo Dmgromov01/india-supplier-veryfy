@@ -1,0 +1,18 @@
+{
+ "name_input": "Mehta Export",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AHLPM5677P",
+ "pan_holder_type": "H — Hindu Undivided Family (HUF), per 4th character of the claimed PAN; format-valid (5 letters + 4 digits + 1 letter) but holder identity NOT verified against any public source",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record retrieved. Search backend (DuckDuckGo/searx) was down for the whole session; Bing returned only generic 'Mehta' surname results and, for the PAN query, irrelevant spam. Registry aggregators were inaccessible: zaubacorp.com and instafinancials.com returned HTTP 403, thecompanycheck.com returned only its marketing landing page with no search results. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed, and no audited financials were found — revenue FY25/FY26 left null rather than estimated. Important structural point: the claimed PAN's 4th character is 'P', which denotes a Hindu Undivided Family (HUF). An HUF is not a company or LLP, so it cannot have a CIN/LLPIN and would not appear in MCA records; it would only exist as a GST/PAN taxpayer. This is consistent with 'MEHTA EXPORT' being a proprietorship/HUF trading name rather than a registered company, but that is an inference, not a verified fact. Per project rules the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Status: declared, unconfirmed. Recommended next step: manual lookup of the GSTIN on the GST portal using the PAN AHLPM5677P, and a check of the Tamil Nadu commercial-taxes / DGFT IEC register, before any acceptance decision."
+}

@@ -1,0 +1,20 @@
+{
+ "name_input": "FOODS AND INNS LIMITED",
+ "declared_hs": "071080;071290;090412;090421",
+ "actual_hs_list": [
+  "200799 (fruit pulps/purees/concentrates — mango, guava, papaya, banana, mixed fruit; aseptic & non-aseptic)",
+  "200290 (tomato paste/concentrate, Brix min 28)",
+  "071080 (frozen vegetables, IQF — declared, corroborated by product line)",
+  "071040 / 071090 (frozen sweet corn / frozen vegetable mixtures — IQF range, code to be fixed per actual SKU)",
+  "081190 (frozen IQF fruits — mango, guava, papaya chunks/pulp)",
+  "190590 / 190120 (frozen flat breads, frozen snacks — paratha/ready-to-bake lines)",
+  "090422 / 090421 (chilli powder, ground spices under 'Kusum Spices' brand — 0904 covers Capsicum/Piper; ground chilli = 0904.22)",
+  "091091 / 091099 (spice blends / mixed condiments, if sold as mixtures)",
+  "200190 (canned vegetables/other preserved vegetables — 'Canned' product line)",
+  "200989 (other fruit juices/concentrates, if applicable)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Real product lines per own website (foodsandinns.com): (1) Aseptic fruit pulps/concentrates — Alphonso/Kesar/Totapuri mango pulp & concentrate, white/pink guava pulp & concentrate, red papaya pulp & concentrate, banana puree, mixed fruit puree, tomato paste, red chilli puree; (2) Non-aseptic pulps; (3) Canned products; (4) Frozen — IQF vegetables, IQF fruits, frozen snacks, frozen flat breads; (5) Powder — spices under 'Kusum Spices' brand; brands: Madhu Fruit Pulps, Green Top, Kusum Spices, Tri Global Frozen Snacks, Greentop Tetra Recart. 7 integrated plants, contract-grown produce, IQF/spiral/blast freezers, aseptic bag-in-box/drum/IBC packing. CIN on site: L55200MH1967PLC013837 (site footer; not independently verified here).",
+ "role_hint": "manufacturer (own processing plants, own brands, IQF/aseptic processing infrastructure; no trader signs on the site)",
+ "comment": "Declared codes 071080/071290 (frozen & dried vegetables) and 090412/090421 (pepper/chilli, dried) cover only a small slice of the real range. The dominant business by product breadth is FRUIT PULP/PUREE/CONCENTRATE (2007.99) and tomato paste (2002.90), plus frozen IQF fruits (0811.90), frozen flat breads/snacks (1905.90/1901.20) and spice powders (0904.22) — none of these appear in the declaration. 071080 is corroborated by the IQF vegetables line; 071290 (dried vegetables) and 090412/090421 are not corroborated by any product page I could open — status: заявлено, не подтверждено. Industry label 'Продукты питания и FMCG' is broadly correct but imprecise: the company is a fruit/vegetable processing (IQF + aseptic pulp) manufacturer, not an FMCG distributor. Per project rule 3 the HS mismatch is NOT a rejection ground: company retained, verdict accepted_hs_corrected — declared codes to be replaced/extended with the actual 2007.99 / 2002.90 / 0811.90 / 1905.90 / 0904.22 set. Note: no customs line was available to me in this task, so all product-to-HS mapping above is derived from the company's own website and is therefore 'заявлено, не подтверждено' at shipment level; revenue, export volumes and registry data were out of scope and not researched."
+}

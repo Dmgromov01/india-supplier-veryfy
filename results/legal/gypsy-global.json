@@ -1,0 +1,18 @@
+{
+ "name_input": "GYPSY GLOBAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "CRTPM9811R",
+ "pan_holder_type": "Individual (4th character 'P' = person). Note: the claimed PAN is an individual PAN, not a company/firm PAN — consistent with a proprietorship, but the PAN could not be verified against any public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. The web_search tool returned a backend error (searx: connection refused) on every query, and direct fetches of registry aggregators (zaubacorp.com, tofler.in, instafinancials.com, mastersindia.co) returned 403/404 or empty results; Bing/Google fetches returned only unrelated generic results, i.e. no usable index access. Therefore no exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source. 'GYPSY GLOBAL' with an individual PAN (CRTPM9811R, holder JASMEET SINGH MONGA) suggests a proprietorship or unregistered trade name rather than a company, but this is an inference, not a verified fact. No audited accounts or official filings were located, so revenue FY25/FY26 are null. NOT rejected: absence of a public record in this session is not proof of non-existence — the entity may be a proprietorship with no MCA record at all. Role left as 'unknown' pending verification. Recommend re-running with working search access or a paid registry/GST API before any decision."
+}
