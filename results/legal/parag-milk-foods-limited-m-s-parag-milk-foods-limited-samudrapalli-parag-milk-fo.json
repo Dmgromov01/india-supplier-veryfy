@@ -1,0 +1,18 @@
+{
+ "name_input": "PARAG MILK FOODS LIMITED; M/S PARAG MILK FOODS LIMITED SAMUDRAPALLI; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; Parag Milk Foods limited; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LIMITED; PARAG MILK FOODS LTD",
+ "legal_name": "Parag Milk Foods Limited",
+ "cin_llpin": "L15200MH1992PLC068060 (reported by third-party registry aggregators; MCA master data page could not be opened directly - zaubacorp/instafinancials returned 403, so treat CIN as unverified)",
+ "pan": "AABCP0425G",
+ "pan_holder_type": "P = individual (natural person) per 4th character of the PAN. NOTE: this is inconsistent with a public limited company, which should carry a company PAN (4th character 'C'). The PAN in the input therefore does not match the legal entity and must be re-requested from the supplier (likely a director's/individual PAN or a typo).",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1992 (year only; exact date not confirmed from a primary source - Wikipedia and Screener both state founded/incorporated 1992; MCA page not accessible)",
+ "state_registered": "Maharashtra (registered office Mumbai/Pune per company website and Wikipedia; MCA state code 'MH' embedded in the CIN)",
+ "state_claimed": "None",
+ "mca_status": "Active - listed on BSE (539889) and NSE (PARAGMILK), market cap ~INR 4,549 cr as of 25 Nov (Screener.in); no strike-off/liquidation/insolvency indication found. Exact MCA status string not retrieved (registry sites blocked).",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 3432,
+ "revenue_fy26_cr": 3818,
+ "revenue_source": "Screener.in consolidated annual P&L (sourced from the company's audited consolidated results filed with BSE/NSE): FY2024-25 (Mar 2025) Sales INR 3,432 cr; FY2025-26 (Mar 2026) Sales INR 3,818 cr; TTM INR 4,143 cr. Standalone figures not retrieved.",
+ "note": "Entity exists and is a large, listed dairy manufacturer (brands Gowardhan, Go, Pride of Cows, Avvatar; plants incl. Manchar and the former Danone Sonipat facility) - not rejected. Registry verification was partial: search engine was down (connection refused) and zaubacorp, thecompanycheck, moneycontrol and the company's own investors page returned 403/410/404, so CIN, exact incorporation date, GSTIN and GST status could not be read from a primary public profile - all left null/unverified rather than guessed. PAN issue: the claimed PAN AABCP0425G has 'P' as its 4th character, i.e. an individual PAN, which cannot belong to a public limited company; the company PAN should be of the 'C' type. Request the correct entity PAN and a GSTIN from the supplier. HS codes declared (130232 - mucilages/thickeners from locust beans/seeds; 170211 - lactose and lactose syrup) do not match the company's actual product line (milk, ghee, cheese, paneer, whey protein, milk powder); per project rules this is not a rejection ground - the company stays in the base and the HS code should be corrected to the factual dairy codes (e.g. 0401-0406, 1702 lactose, 3502 whey proteins). The input string 'M/S PARAG MILK FOODS LIMITED SAMUDRAPALLI' appears to be a plant/unit or consignee address variant, not a separate legal entity. Per role limits, no customs-shipment or court research was performed in this pass."
+}

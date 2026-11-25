@@ -1,0 +1,18 @@
+{
+ "name_input": "CANDID TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "CANDID TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAECC6126G",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN holder-type convention); format valid (5 letters + 4 digits + 1 letter). Value taken from the input as claimed, NOT independently verified against any public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failed during this run: web_search returned 'Connection refused' on every query; zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned only a redirect stub; DuckDuckGo timed out; Bing returned irrelevant results (matched the US nonprofit 'Candid' and generic 'IG' pages) for both the company name and the PAN string 'AAECC6126G'. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not because they are absent, but because they were not publicly retrievable with the available tools. No claim here should be read as confirmation that the entity exists or does not exist. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy could not be established either way, so rejection grounds are unmet. Role left as 'unknown' — the declared HS codes (401130 gaskets, 732690 iron/steel articles, 842139 filtering machinery, 848180 valves/taps) are consistent with an industrial-trading or light-engineering profile, but HS codes are not evidence of manufacturer vs trader status. Revenue FY25/FY26: null, no audited accounts or official filings located. Recommended next step: re-run with working search access and query MCA master data by CIN, plus a GST portal / public GSTIN-lookup profile for the PAN AAECC6126G to confirm the legal name, state of registration and GST status."
+}

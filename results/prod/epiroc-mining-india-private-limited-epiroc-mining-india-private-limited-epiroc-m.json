@@ -1,0 +1,27 @@
+{
+ "name_input": "EPIROC MINING INDIA PRIVATE LIMITED; Epiroc Mining India Private Limited; EPIROC MINING INDIA PRIVATE LIMITED; Epiroc Mining India PRIVATE Limited; EPIROC MINING INDIA PRIVATE LIMITED; EPIROC MINING INDIA PRIVATE LIMITED; EPIROC MINING INDIA PRIVATE LIMITED",
+ "declared_hs": "842121;842139;848110;848120",
+ "actual_hs_list": [
+  "843031 - Coal/rock cutters and tunnelling machinery, self-propelled",
+  "843039 - Other boring/sinking machinery, not self-propelled",
+  "843049 - Other boring or sinking machinery",
+  "843143 - Parts for boring/sinking machinery of 8430.41/8430.49",
+  "843149 - Parts of machinery of 8426, 8429, 8430",
+  "842952 - Machinery with a 360-degree revolving superstructure (excavators)",
+  "842959 - Other mechanical shovels, excavators, loaders",
+  "820719 - Rock drilling or earth boring tools, working part not cermet",
+  "820713 - Rock drilling/earth boring tools with cermet working part",
+  "847490 - Parts of machinery for sorting/screening/separating/washing",
+  "841459 - Other fans (underground mine ventilation systems)",
+  "848180 - Other taps, cocks, valves and similar appliances",
+  "848190 - Parts of taps, cocks, valves",
+  "841221 - Hydraulic power engines and motors, linear acting (cylinders)",
+  "841229 - Other hydraulic power engines and motors",
+  "870410 - Dumpers for off-highway use (Minetruck)",
+  "842123 / 842131 - Filters for internal combustion engines (service parts)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Epiroc is a Swedish mining and infrastructure equipment manufacturer (spun off from Atlas Copco in 2018), with manufacturing facilities including India. Confirmed product portfolio per Wikipedia (citing Epiroc's own 'Products' page): drilling rigs (surface and underground), rock drilling tools, trucks & loaders (Minetruck MT65), raise boring equipment, excavator attachments, rock excavation equipment, rock reinforcement tools, underground mine ventilation systems, digital solutions, and service agreements. Source: https://en.wikipedia.org/wiki/Epiroc (section 'Products and services'). Epiroc's own site (epiroc.com/en-in, epirocgroup.com) returned HTTP 403 to automated fetch, so the India-specific catalogue could not be read directly - the product list above is the group-level portfolio, not a verified India-entity catalogue.",
+ "role_hint": "manufacturer (group-level: own manufacturing facilities incl. India per Wikipedia); India entity role as manufacturer vs. importer/distributor of group products NOT verified - epiroc.com/en-in was not retrievable (403).",
+ "comment": "HS mismatch, company retained and codes corrected per Rule 3. Declared codes 842121/842139 (water/liquid and gas filtering or purifying machinery) and 848110/848120 (pressure-reducing and pneumatic/hydraulic transmission valves) describe generic industrial fluid-handling equipment - this is a wrong classification for a mining-equipment OEM. The declared set looks like a 'нефтегаз и химия' (oil & gas / chemicals) profile, which matches the claimed industry but not the actual business: Epiroc makes rock drilling rigs, rock tools, loaders/trucks, raise boring and rock reinforcement equipment. Correct HS-6 families are 8430.31/8430.39/8430.49 (boring & sinking machinery), 8431.43/8431.49 (parts thereof), 8429.52/8429.59 (excavators/loaders), 8207.13/8207.19 (rock drilling tools), 8704.10 (off-highway dumpers), 8414.59 (mine ventilation fans), plus 8481.80/8481.90 and 8412.21/8412.29 only for genuine valve/hydraulic-cylinder lines. Industry misclassification: 'Нефтегаз и химия' should be 'Горнодобывающее оборудование / строительная техника'. Trader signs: none observed at group level (own manufacturing), but the India entity's import-vs-manufacture split is unverified. Product lines missing from the declaration: rock drilling tools (8207), drilling rigs (8430), parts (8431), off-highway dumpers (8704), ventilation fans (8414). All product claims here are 'заявлено, не подтверждено' - no customs line was available to corroborate any specific code, and the India website could not be opened (HTTP 403). No registry, revenue or shipment data was researched per role scope; PAN AAECE7216R and state Maharashtra were not verified."
+}

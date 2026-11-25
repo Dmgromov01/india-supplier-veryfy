@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SEA SKY EXPORTS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All registry sources attempted returned errors: DuckDuckGo search backend refused connection (searx: Connection refused) on both queries; zaubacorp.com returned HTTP 403 on both the company page and the search-results page; thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in MDS portal returned HTTP 403; Google returned only a redirect interstitial; Bing ignored the quoted phrase and returned generic 'sea' results; duckduckgo.com/html and html.duckduckgo.com timed out. Therefore the exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all UNVERIFIED and recorded as null - none of these values were invented. IMPORTANT DISCREPANCY IN INPUT: the input name is 'M/S SEA SKY EXPORTS PVT LTD' but the claimed legal entity is 'MITTAL INTERNATIONAL' - these are two different names and cannot both be the same legal person; this must be resolved before any acceptance. The claimed PAN AAACS2993K is structurally valid in format (5 letters + 4 digits + 1 letter) and its 4th character 'C' indicates a COMPANY (non-individual) holder, but the PAN was NOT confirmed against any public record, so pan_holder_type is left null rather than asserted. The claimed HS codes 570249 (carpets/textile floor coverings) and 840999 (engine parts) are inconsistent with the claimed industry 'food products and FMCG' - per project rules this is NOT a rejection ground; the code should simply be corrected to the factual one and the verdict recorded as accepted_hs_corrected once the entity is identified. Role is 'unknown' because no registry or GST profile was readable; the 'PVT LTD' suffix suggests a company, but that is an inference from the name only, not a verified fact. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible, and no figures were estimated. Per the rules, rejection is NOT applied here because non-existence, strike-off, liquidation or bankruptcy could not be established either - the entity's status is simply unverified, not disproven. Recommended next step: re-run verification when the search backend is restored, or obtain the CIN/GSTIN directly from the supplier, then confirm on MCA master data and the GST portal."
+}
