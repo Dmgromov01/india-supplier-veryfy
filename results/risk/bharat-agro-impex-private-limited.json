@@ -1,0 +1,9 @@
+{
+ "name_input": "BHARAT AGRO IMPEX PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data collected. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML and Google/Bing fallbacks returned 403 or irrelevant results (search engines ignored the quoted company name and returned generic 'Bharat' pages). Registry/aggregator sources were blocked: zaubacorp.com returned HTTP 403 (both direct company page and search), tofler.in returned HTTP 404 for the PAN-based URL. Therefore NO verification was possible for any of the required risk dimensions: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role and status), regulator actions, negative news with dates, credit rating with date and status, and evidence of supplies to Russia or the CIS. All fields are set to null because nothing is public to me in this session - these are NOT findings of 'no risk' and must not be read as clean results. The claimed PAN AAOFB1998C and the claimed Haryana registration were not independently confirmed (out of my scope per role, but note that no source could be opened at all). Recommended next step: re-run this company once the search backend is restored, or verify manually against MCA master data, the OFAC SDN list search, the BIS Entity List, eCourts/NJDG, and CRISIL/ICRA/CARE rating directories. No rejection grounds identified, but equally no clearance - status is unverified."
+}

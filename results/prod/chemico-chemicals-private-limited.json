@@ -1,0 +1,17 @@
+{
+ "name_input": "CHEMICO CHEMICALS PRIVATE LIMITED",
+ "declared_hs": "282580;284020",
+ "actual_hs_list": [
+  "282580 - Antimony oxides (antimony trioxide Sb2O3, incl. High Tint / Catalytic Grade / VHP 999 / 'Antimony White Trioxide' / 'Diantimony Trioxide')",
+  "283090 - Antimony trisulphide (Sb2S3) powder",
+  "284190 - Sodium antimonate (NaSbO3 / 'Sodium Antimonate SB2O3')",
+  "284190 - Potassium pyroantimonate (potassium hexahydroxoantimonate, K[Sb(OH)6])",
+  "282570 - Molybdenum trioxide (MoO3)",
+  "284190 - Zinc hydroxy stannate (zinc hydroxystannate, ZnSn(OH)6)",
+  "284190 - Zinc stannate (ZnSnO3)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт chemicochemicals.com (раздел 'Our Products') перечисляет: Antimony Trioxide (включая Antimony Trioxide High Tint, Catalytic Grade, Catalytic Grade VHP 999, а также синонимы Antimony Oxide, Antimony III Oxide, Antimony White Trioxide, Diantimony Trioxide, Flame Retardant), Antimony Trisulphide-Powder, Potassium Pyro Antimonate-Powder, Sodium Antimonate (SB2O3), Molybdenum Trioxide, Zinc Hydroxy Stannate, Zinc Stannate ZnSnO3. Профиль — узкоспециализированный производитель сурьмяной химии (антипирены/катализаторы/пластификаторы для стекла и керамики), заявлено 'Established in 1981', 'manufacture of Antimony based chemical'. Сайт также указывает на импорт сырья: 'Lack of known sources of antimony are in the country has sucessfully led to the strengthening of the company's network of sourcing the goods abroad' — т.е. компания одновременно импортирует сурьмяное сырьё и продаёт готовую продукцию на внутреннем и внешнем рынках.",
+ "role_hint": "manufacturer_trader (заявлено собственное производство сурьмяных химикатов + закупка/сорсинг сырья за рубежом; сайт хостится на IndiaMART, что само по себе трейдерским признаком не является)",
+ "comment": "Сопоставление с заявленными кодами: 282580 (оксиды сурьмы) — ПОДТВЕРЖДЁН сайтом как основной продукт (Antimony Trioxide во всех марках). 284020 (бораты) — НЕ подтверждён: ни на главной, ни на странице 'Our Products' нет ни одного бората (буры, борной кислоты, тетрабората натрия); вероятно ошибочный/устаревший код. Итог: partial — один код верный, второй не подтверждён. Пропущенные в декларации товарные линии (по сайту, факт отгрузки не проверялся): антимонит/трисульфид сурьмы (283090), антимонаты натрия и калия (284190), триоксид молибдена (282570), станнаты цинка (284190) — все они отсутствуют в заявленных 282580;284020. Отраслевая классификация 'Нефтегаз и химия' — частично некорректна: нефтегазового профиля на сайте нет вообще, это чистая неорганическая специальная химия (антипирены, катализаторы, глушители для стекла/эмалей). Признаки трейдера: сайт размещён и управляется IndiaMART InterMESH Limited, есть форма запроса цены — но это стандартный хостинг, не доказательство трейдерства. ВАЖНО по правилу 5: все товарные позиции выше — 'заявлено, не подтверждено' (источник — только каталог собственного сайта https://www.chemicochemicals.com/our-products.html); таможенных записей, GST-оборотов, контрактов или публичных закупок в рамках этой проверки (HS-специалист) не исследовалось. HS-несоответствие по правилу 3 НЕ является основанием для отклонения: компания сохраняется, код 284020 подлежит замене на фактический (283090/284190/282570 по товарной линии). PAN AAACC0213A и штат Delhi — не проверялись (вне роли)."
+}

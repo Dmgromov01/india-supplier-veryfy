@@ -1,0 +1,8 @@
+{
+ "name_input": "VJYOT PROCESS EQUIPMENT PRIVATE LIMITED",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey (slug 'vjyot-process-equipment-private-limited', 1 row seen, counter 'Total Shipments 1 Records detected'): \"2026-01-31 VJYOT PROCESS EQUIPMENT PRIVATE LIMITED ATLASINDUSTRIAL EQUIPMENT CO.SAA- OTMSERVPO CATCH PORT FILTER- SAHAR AIR CARGO ACC INBOM4, India JEDDAH, SAUDI ARABIA 84212900 9252319\" — this is an IMPORT lane (origin Jeddah, Saudi Arabia → destination India, port of arrival Sahar Air Cargo ACC, Mumbai), i.e. the company is the Indian consignee/buyer, not the exporter. No export (India → abroad) record with date, destination and B/L found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Only one customs row exists in the free ImportKey view and it is inbound: HS 84212900 (filter/press equipment), B/L 9252319, dated 2026-01-31, supplier Atlas Industrial Equipment Co., Jeddah, Saudi Arabia. No outbound shipment, no export B/L, no destination country outside India. Domestic supply evidence (GST turnover band, GeM/CPPP tenders, contracts, annual-report splits) could not be verified: the web_search tool returned a connection error on both attempts and volza.com returned HTTP 403, so no public domestic record was retrieved — recorded as unknown, not as confirmed. Second slug variant 'vjyot-process-equipment-pvt-ltd' returned an empty record table (0 rows), so the single row above is the only data point. Declared HS 842129 matches the observed customs HS 84212900, so no HS correction is needed. No export shipments found; no traces of supply found on the export side. Revenue and export volume: null (not public in accessible sources). No PAN/CIN verified."
+}

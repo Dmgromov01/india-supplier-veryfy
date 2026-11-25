@@ -1,0 +1,8 @@
+{
+ "name_input": "Rotomotive Powerdrives India Ltd",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. ImportKey page https://importkey.com/countries/india/rotomotive-powerdrives-india-ltd loaded only a paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" Rows actually seen: 0 (counter shows no figures, only \"Loading...\"). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split was retrievable. ZaubaCorp and TheCompanyCheck pages for the company returned HTTP 403; no domestic supply record was seen (0 rows).",
+ "note": "Evidence could not be gathered: the search backend failed on every query (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no page discovery was possible. Direct reads of volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge; zaubacorp.com and thecompanycheck.com returned HTTP 403. ImportKey rendered only a subscription paywall with zero visible shipment rows. Therefore neither export nor domestic shipments are confirmed or refuted — status is unknown, not declared_only, because no company claim was even read. Nothing is asserted about the declared HS 848340, the claimed PAN AADCR3368J or the claimed state Karnataka; none of these were verified against any source. No revenue or export-volume figure is given (null) — no public data was obtained. Recommended next step: retry with a working search backend and a trade-data source that exposes free rows (e.g. Volza free company page via a non-blocked route), plus MCA/GST-linked turnover data."
+}

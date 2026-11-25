@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S GNG ELECTRONICS PVT LTD; GNG ELECTRONICS PVT LTD; GNG ELECTRONICS PRIVATE LIMITED; GNG ELECTRONICS LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/gng-electronics-pvt-ltd returned only a JavaScript shell: 'Shipments available for GNG ELECTRONICS PVT LTD, refreshed daily' — 0 shipment rows actually rendered (counter says data exists, rows seen = 0). No bill-of-lading number, date, destination or HS code visible. volza.com, eximpedia.app, importgenius.com and trademo.com all returned HTTP 403 / JS challenge; no free view obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. thecompanycheck.com and zaubacorp.com returned HTTP 403; DuckDuckGo search backend was down ('Connection refused') and Bing/Google returned only unrelated Georgia Natural Gas (gng.com) results — 0 relevant rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники таможенных данных и реестров были недоступны (403/JS-заглушки), поисковый бэкенд не работал. Ни одной фактической записи об отгрузке (экспортной или внутренней) получить не удалось, поэтому статусы выставлены unknown, а не none_found. Выручка и объём экспорта: null (не публичны/не получены). Заявленный HS 851713 (смартфоны) и штат Jharkhand не подтверждены ни одним источником; юридическое имя 'GNG ELECTRONICS LIMITED' не сверено с MCA. Требуется повторная проверка при доступности importkey/volza/eximpedia или MCA/GST-портала."
+}

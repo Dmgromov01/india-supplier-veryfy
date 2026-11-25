@@ -1,0 +1,18 @@
+{
+ "name_input": "SRB INFOTECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned a redirect/consent interstitial with no results; Bing returned completely unrelated results (Microsoft corporate pages, US Navy SRB pages) i.e. the quoted queries were not honoured; duckduckgo html/lite endpoints timed out; brave returned HTTP 429. Consequently NO public record was found for either 'SRB INFOTECH' or the claimed legal entity 'SANCAT ENGINE TECH PRIVATE LIMITED'. Nothing is asserted about existence, CIN, PAN, GSTIN, incorporation date, MCA status or revenue - all fields are null because they are unverified, not because they were checked and found absent. IMPORTANT DISCREPANCIES to resolve before any decision: (1) The input name 'SRB INFOTECH' and the claimed legal entity 'SANCAT ENGINE TECH PRIVATE LIMITED' are entirely different names with no evident link - the identity of the actual supplier is unresolved. (2) The claimed PAN 'BPAPA3993L' has 4th character 'P', which denotes an INDIVIDUAL (person) under Indian PAN structure, not a company (companies carry 'C' at position 4). A PAN of an individual cannot belong to a private limited company, so the claimed PAN is inconsistent with the claimed legal form and should be treated as unverified/likely mismatched. (3) Declared HS codes 382000 (anti-freeze/diagnostic reagents), 841360 and 841480 (positive-displacement pumps, compressors/fans) and 845949 (other machine tools) do not fit the claimed industry 'Авиастроение и транспорт' (aviation/transport) and are mutually incoherent for a single trading profile - per project rules this is NOT a rejection ground; the code must simply be corrected to the factual one once the real entity is identified. (4) No revenue figures were obtainable from audited accounts or official filings, so FY25 and FY26 are null per rule 4 - not estimated. Per rule 3, this company is NOT rejected: rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof exists either way. Status: unverified - re-run required with working registry access (MCA master data, GST public search) once the correct legal entity name is confirmed with the supplier."
+}
