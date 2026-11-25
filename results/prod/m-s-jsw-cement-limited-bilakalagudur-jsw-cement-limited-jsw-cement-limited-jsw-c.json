@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S JSW CEMENT LIMITED BILAKALAGUDUR; JSW CEMENT LIMITED; JSW Cement Limited; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; J S W CEMENT LTD; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED-NAGAUR; JSW CEMENT LTD; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED; JSW CEMENT LIMITED, VARANASI; JSW CEMENT LIMITED",
+ "declared_hs": "681099",
+ "actual_hs_list": [
+  "25232910",
+  "25232930",
+  "25232990",
+  "25239090",
+  "26180000",
+  "38244090",
+  "32141000",
+  "68109990"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Официальный сайт jswcement.in (разделы Products > Cement, Cementitious, Aggregates, Additives, Ready Mix Concrete) перечисляет реальный ассортимент: Ordinary Portland Cement (OPC), Portland Slag Cement (PSC), Composite Cement (COMPCEM), Concreel HD (CHD), Power Pro Cement, MaxSuper Cement, CHD ACE, CHD Waterguard, CHD Jalkavach, CHD Raksha; отдельная линейка Cementitious — Ground Granulated Blast Furnace Slag (GGBS) и Microfine GGBS; Aggregates — screened slag; Ready Mix Concrete (Green Crete); Additives — плиточный клей, затирка/очиститель, precision grout, mortar, гидроизоляция. Основной экспортный/товарный поток — цемент (HS 2523) и GGBS/шлак (HS 2618), а не изделия из цемента HS 6810.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 681099 (изделия из цемента/бетона прочие, неармированные) не соответствует фактическому профилю: компания — производитель цемента и цементирующих материалов, а не производитель готовых бетонных изделий. Корректные коды: OPC/PSC/композитный цемент — 2523.29 (портландский цемент прочий; при наличии сульфатостойких/спец. марок — 2523.29.10/30/90 по индийской 8-значной номенклатуре), прочие гидравлические цементы — 2523.90; GGBS (молотый гранулированный шлак) — 2618.00 (гранулированный шлак из чёрной металлургии) либо, при позиционировании как готовый цементирующий материал, 2523.90; screened slag/заполнитель — 2618.00; RMC (Green Crete) — 3824.40 (готовые связующие смеси для бетона) либо 2517/3824 в зависимости от состава; плиточный клей/затирка/гидроизоляция — 3214.10 и 3824.40. Позиция 6810.99 возможна только для узкой части ассортимента (готовые растворы/изделия), и по сайту такая линия не выделена — то есть код покрывает не более малой доли оборота. Вердикт по правилу 3: компания сохраняется в базе, код исправляется на фактический, статус accepted_hs_corrected. Отраслевая классификация «Строительство и DIY» неточна: это промышленное производство цемента/стройматериалов (heavy building materials), а не розничный DIY-сегмент. Признаков трейдерства на сайте нет — заявлено собственное производство (9 заводов, 25,1 MTPA, Индия и ОАЭ), но фактичность отгрузок по таможенным/B-L записям в рамках этой проверки не исследовалась (вне роли HS-специалиста) — статус: заявлено, не подтверждено. Множественные варианты имени (Bilakalagudur, Nagaar, Varanasi) — заводские/складские площадки одного юрлица, отдельными поставщиками не являются."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "FLEMING LABORATORIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд недоступен (DuckDuckGo — connection refused / timeout), Bing возвращал нерелевантную общую выдачу независимо от запроса (Fleming's Steakhouse, Alexander Fleming и т.п.), ZaubaCorp отдал HTTP 403. Ни по одному из направлений (OFAC SDN / UN / EU / UK / BIS Entity List, индийские суды, действия регуляторов и негативные новости, кредитный рейтинг, поставки в РФ/СНГ) подтверждённых публичных данных получить не удалось. Все поля оставлены null — это означает 'не проверено / нет публичных данных', а НЕ 'чисто'. Требуется повторный прогон при доступном поиске; отдельно проверить: (1) списки OFAC/UN/EU/UK/BIS по точному наименованию и вариантам 'Fleming Labs', 'Fleming Laboratories Pvt Ltd'; (2) eCourts / Calcutta High Court / NCLT Kolkata по наименованию; (3) CDSCO и West Bengal FDA (drugs/API — профиль соответствует HS 2933, что делает проверку лицензий CDSCO существенной); (4) рейтинги CRISIL/ICRA/CARE/India Ratings; (5) таможенные и B-L записи по направлению РФ/СНГ. Отклонение по данному отчёту не обосновано — оснований для rejected нет."
+}

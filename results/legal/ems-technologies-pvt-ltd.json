@@ -1,0 +1,18 @@
+{
+ "name_input": "EMS TECHNOLOGIES PVT LTD",
+ "legal_name": "EMS TECHNOLOGIES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Kerala",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. All 10 tool calls failed to yield a usable source: web_search backend returned 'Connection refused' (searx) on both queries; direct fetches of zaubacorp.com (company page and search page), thecompanycheck.com, instafinancials.com and mca.gov.in master-data all returned HTTP 403 Forbidden; Google/Bing/DDG HTML endpoints returned redirect stubs, timeouts or completely irrelevant results (no usable SERP). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - NOT because they are absent, but because they could not be read from a public source in this session. No numbers, CIN, PAN or GSTIN were invented. Role left as 'unknown': the name 'EMS Technologies' is consistent with electronics manufacturing services, but no registry/audited evidence was obtained to classify manufacturer vs trader. Per project rules the company is NOT rejected - non-existence/struck-off/liquidation/bankruptcy could not be established either way, so no rejection basis exists. Action required: re-run with a working search backend and MCA/GST portal access (or paid registry API) to confirm the exact legal name, CIN, GSTIN and FY25/FY26 filings before any verdict."
+}

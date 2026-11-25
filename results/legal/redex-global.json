@@ -1,0 +1,18 @@
+{
+ "name_input": "Redex Global",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "ANIPS4006R",
+ "pan_holder_type": "Individual (proprietor / sole proprietor) — 4th character 'P' in ANIPS4006R denotes a Person/individual PAN, not a company PAN",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned connection errors ('searx: Connection refused') and all registry/profile sources attempted (zaubacorp.com, mca.gov.in MDS, duckduckgo html, Google) returned HTTP 403 or empty/irrelevant results; Bing returned only unrelated 'Redex/Redx' foreign companies. Therefore no CIN/LLPIN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be sourced, and all such fields are null rather than guessed. What IS verifiable from the input alone: the claimed identifier ANIPS4006R is a valid-format PAN whose 4th character is 'P', i.e. an INDIVIDUAL PAN — so the claimed 'legal entity' DAKSHA GUNVANT SHETH is a natural person, consistent with a sole proprietorship trading as 'Redex Global', not a company/LLP. Consequently there is no CIN/LLPIN to expect and MCA status is not applicable in the usual sense; the entity's existence must be confirmed via the GST portal (GSTIN search on the PAN) and Udyam/Shop & Establishment registration, none of which were reachable. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected — it is left unverified pending a re-run with working registry access. Role cannot be determined from registry data alone (no MCA/GST records retrieved); the claimed food/FMCG HS 091099 (spices) is not a basis for rejection per project rules. Revenue FY25/FY26: null — no audited accounts or official filings found; a proprietorship's financials are typically not public."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "TRANSHEALTH PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttarakhand",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый источник не был доступен в этой сессии. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused'; Bing отдавал нерелевантную выдачу; zaubacorp.com, thecompanycheck.com и mca.gov.in вернули HTTP 403; instafinancials — 404. Поэтому exact legal name, CIN, PAN, GSTIN, GST status, дата инкорпорации, MCA status и выручка за FY25/FY26 остаются null — данные не выдумывались. PAN AAHCT8719R из входных данных НЕ подтверждён: 4-й символ 'C' по формату PAN означает тип держателя 'company' (юридическое лицо), что согласуется с формой 'Private Limited', но это лишь проверка формата, а не подтверждение принадлежности PAN данной компании. Заявленный штат Uttarakhand не сверен с адресом регистрации. Роль (manufacturer/trader) не определена — нет доступа к MCA-записям и GST-профилю. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3). Требуется повторный прогон при доступных источниках (MCA master data, GST-портал, ZaubaCorp/TheCompanyCheck)."
+}

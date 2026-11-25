@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S DESIGN IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx: connection refused) on both queries; direct fetches of registry aggregators were blocked or unusable: zaubacorp.com/company-search/DESIGN-IMPEX -> HTTP 403 Forbidden; instafinancials.com/search -> HTTP 403 Forbidden; thecompanycheck.com/company-search -> HTTP 404; duckduckgo.com/html and html.duckduckgo.com -> timeout. Bing and Google returned only generic 'design' results and ignored the quoted company name, so no page about this entity was retrieved. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures were found (revenue FY25/FY26 = null, not estimated). The input gives only the trade-style name 'M/S DESIGN IMPEX' / 'DESIGN IMPEX' with no PAN, CIN or GSTIN, and 'M/S' is a trade prefix, not proof of a registered company - it may equally be a proprietorship or partnership firm, which would have no CIN at all. Per the rules, rejection is NOT applied: absence of verifiable registry data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, so no rejection ground is met. Role is recorded as 'unknown' rather than manufacturer or trader, since nothing public confirms whether it manufactures or only trades. HS 732690 (iron/steel articles) is not treated as a rejection ground in any case. Action needed: re-run verification when the search backend is restored, or obtain the supplier's PAN/GSTIN directly from the counterparty so the entity can be matched on the GST portal and MCA master data."
+}

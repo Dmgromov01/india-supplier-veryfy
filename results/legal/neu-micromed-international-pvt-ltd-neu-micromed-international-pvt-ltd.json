@@ -1,0 +1,18 @@
+{
+ "name_input": "NEU MICROMED INTERNATIONAL PVT LTD ; NEU MICROMED INTERNATIONAL PVT LTD",
+ "legal_name": "NEU MICROMED INTERNATIONAL PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record found. Tooling failures: web_search backend refused connections (searx: Connection refused) on all attempts; Google returned only a redirect/consent interstitial; DuckDuckGo, Zauba Corp, TheCompanyCheck, InstaFinancials and MCA master-data portal returned HTTP 403; Bing returned irrelevant/unrelated results for both the exact legal name and the claimed PAN; Tofler and QuickCompany returned 404 for the derived URL slugs. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 could not be sourced and are recorded as null rather than guessed. PAN claimed in input (AAECN7890A) is NOT confirmed: format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' would denote a company/firm holder, but no public record ties this PAN to the entity, so it is not asserted. Note the input's declared HS 300410 (pharmaceuticals/medicaments) is inconsistent with the claimed industry 'oil & gas and chemicals' - per project rules this is not a rejection ground; HS should be corrected to the actual code once the product line is documented. No rejection applied: entity existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of accessible records is not proof of non-existence. Recommended next step: re-run against MCA V3 portal / GST public search manually, or obtain the company's CIN or GSTIN from the supplier directly, before any verdict."
+}

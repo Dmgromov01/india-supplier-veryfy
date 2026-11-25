@@ -1,0 +1,18 @@
+{
+ "name_input": "LORDS WEAR PRIVATE LTD; LORDS WEAR PVT LTD",
+ "legal_name": "LORDS WEAR PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACL2108F",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN) — format-consistent with the claimed PAN; holder identity NOT verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; Google returned only a redirect stub; Bing returned completely irrelevant results for all three targeted queries (company name + CIN, company name + zaubacorp, and the PAN 'AAACL2108F'); zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404; tofler.in returned 404 for the guessed slug. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they were not publicly retrievable within the tool budget. No rejection is warranted: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules absence of verification is not grounds for rejection. PAN AAACL2108F is structurally valid (AAACL = individual/company series, 4th char 'C' = company) but its holder is unconfirmed. Note the input's declared HS codes (620323, 621132) are apparel/textile codes, while the claimed industry is 'Продукты питания и FMCG' — an internal inconsistency in the input, not a rejection ground; per rules the HS code should be corrected to the factual one and the company retained. Role cannot be classified (manufacturer vs trader) without registry/activity data. Revenue FY25/FY26: null — no audited accounts or official filings were accessible; no figures invented. RECOMMENDATION: re-run this company in a later batch when search backends are available, or verify manually on mca.gov.in / gst.gov.in."
+}

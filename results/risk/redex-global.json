@@ -1,0 +1,9 @@
+{
+ "name_input": "Redex Global",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, DuckDuckGo HTML — 403, Google — редирект-заглушка. Bing по запросам \"Redex Global\" + Maharashtra / spices / Sheth / IndiaMART / zauba / tofler выдавал только нерелевантную выдачу (redx.com, redex-group.com, redexusa.com, redexadditives.com — иностранные компании, не связанные с заявленным индийским поставщиком); ни одной страницы, подтверждающей существование индийской компании \"Redex Global\" с директором Daksha Gunvant Sheth, не найдено. Запрос по PAN ANIPS4006R результатов не дал (выдача мусорная). Следовательно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) — не проверено, статус null, НЕ означает отсутствие санкций; судебные дела в индийских судах (eCourts, NCLT, Bombay HC) — не проверено, null; рейтинги (CRISIL/ICRA/CARE/India Ratings) — не найдено, null; регуляторные действия и негативные новости (FSSAI, GST, ED, SEBI) — не найдено, null; свидетельства поставок в РФ/СНГ — не найдено, null. Отсутствие данных в этом отчёте не является ни подтверждением, ни опровержением риска. Требуется повторный прогон при доступном поиске и/или проверка по eCourts, NCLT, OFAC/EU/UK консолидированным спискам и реестру MCA по фактическому CIN (CIN в исходных данных не предоставлен, самостоятельно не выдумывался)."
+}

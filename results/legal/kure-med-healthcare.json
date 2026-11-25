@@ -1,0 +1,18 @@
+{
+ "name_input": "KURE MED HEALTHCARE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "BFUPC7724R",
+ "pan_holder_type": "Firm/LLP (4th character 'P' = partnership firm / LLP, not a company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED - no evidence of non-existence; entity simply not found in the registries reachable during this run. Search backend (searx) was down (connection refused) and MCA portal, Zauba, TheCompanyCheck, InstaFinancials, DuckDuckGo returned HTTP 403; only QuickCompany was readable. QuickCompany full-registry search for 'KURE MED HEALTHCARE' returned 0 results, and 'KURE MED' / 'KUREMED' returned only unrelated names (Kuremal Kulfi, Cure Med Pharmacy LLP, Curemed Healthcare Pvt Ltd U24231DL2001PTC113355, etc.) - none matching. Therefore no CIN/LLPIN, GSTIN, incorporation date, registered-office state or MCA status could be verified: all null. PAN BFUPC7724R is the claimed value only, unverified; its 4th character 'P' indicates a partnership firm/LLP holder, which is inconsistent with a 'Private Limited' style name - needs confirmation from the supplier's PAN card. Claimed state Delhi unverified. Role unknown (no registry record to classify manufacturer vs trader). Revenue FY25/FY26 null - no audited accounts or official filings located. Claimed HS 940290 (medical/surgical furniture) does not match claimed industry 'oil & gas and chemicals'; per project rules this is NOT a rejection ground - HS to be corrected to actual product line once the entity is identified. NEXT STEP: re-run with working search/MCA access, or request the supplier's CIN/GSTIN/PAN card copy directly."
+}

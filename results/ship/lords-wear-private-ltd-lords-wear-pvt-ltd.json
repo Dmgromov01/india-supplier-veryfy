@@ -1,0 +1,8 @@
+{
+ "name_input": "LORDS WEAR PRIVATE LTD; LORDS WEAR PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/lords-wear-private-ltd and .../lords-wear-pvt-ltd both returned only the platform's generic template: \"Shipments available for LORDS WEAR PVT LTD, refreshed daily\" — a boilerplate string, not a shipment record. Rows actually seen: 0. No bill-of-lading number, no date, no destination, no HS code was displayed on either page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved. Attempted sources returned HTTP 403 (thecompanycheck.com, zauba.com, volza.com, eximpedia.app, trademo.com) or a JavaScript challenge (importgenius.com); the web_search backend was unreachable (\"Connection refused\") for both queries, so no domestic-supply record was located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных оказались недоступны (403 / JS-заглушка / поисковик не работал), поэтому статус именно unknown, а не none_found. Ни одной записи с датой, направлением и номером B/L получить не удалось; выдумывать их нельзя. Отдельно: заявленный отраслевой профиль «Продукты питания и FMCG» не согласуется с заявленными кодами HS 620323/621132 (мужские костюмы и женские костюмы из шерсти/хлопка) и с самим названием компании (wear) — вероятно, отрасль указана ошибочно; это НЕ основание для отклонения, компания сохраняется в базе. PAN AAACL2108F и штат Delhi не проверены (реестры вне области задачи). Требуется платный доступ к таможенным данным (Volza/Eximpedia/ImportGenius) или выписка GST для подтверждения фактичности отгрузок."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S JSW CEMENT LIMITED BILAKALAGUDUR; JSW CEMENT LIMITED; ... JSW CEMENT LIMITED, VARANASI; JSW CEMENT LIMITED",
+ "legal_name": "JSW Cement Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (Mumbai) — per group HQ/registered presence, not confirmed from MCA extract",
+ "state_claimed": null,
+ "mca_status": "Active (not verified from MCA extract in this session)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification was severely limited: the search backend (DuckDuckGo/searx) returned 'Connection refused' for all queries, and third-party registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. Only the company's own website (jswcement.in) was reachable. Confirmed from jswcement.in Corporate Profile: the entity 'JSW Cement Limited' exists and is an operating cement manufacturer within the JSW Group (installed grinding capacity 25.1 MTPA as of 06.10.2026; 1,848 employees as of 31.03.2026; 4,623 dealers), and it is described as one of five JSW Group entities with consolidated group revenue of USD 23 bn in Fiscal 2025 — that is GROUP revenue, not JSW Cement Limited's own audited revenue, so it is NOT used as revenue_fy25_cr. CIN, PAN, GSTIN, GST status, exact date of incorporation and MCA status could NOT be retrieved from any public source in this session (investor sub-pages on jswcement.in returned HTTP 404), therefore all are null rather than guessed. No rejection grounds found: the entity demonstrably exists and operates; no evidence of strike-off, liquidation or bankruptcy. Role classified as manufacturer based on own plant/grinding-capacity disclosures on the company website. Input state was empty, so state_claimed is null; registered office is understood to be in Mumbai, Maharashtra, but this needs confirmation from an MCA master-data extract. HS code 681099 declared in the input does not match the company's actual business (cement/OPC/PSC/GGBS, i.e. HS 2523/2618), but per project rules this is not a rejection ground — the code should be corrected to the factual one and the record kept. Recommended follow-up: pull MCA master data (CIN, incorporation date, status) and a GST public-profile lookup for the GSTIN once the search backend is restored."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KURE MED HEALTHCARE",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public record of this entity could be retrieved, so every field is null rather than inferred. Research limitations, stated plainly: (1) the primary search backend (DuckDuckGo/searx) was down for the entire session — every web_search call returned 'Connection refused'; (2) fallback Bing queries for the exact strings \"KURE MED HEALTHCARE\", \"Kure Med Healthcare\" and the claimed PAN BFUPC7724R returned only unrelated global 'Kure' brands (kureapp.com, kuresuperfoods.com, Kure Atoll, etc.) and no Indian entity, i.e. no match at all; (3) Indian registry aggregators were inaccessible — zaubacorp.com returned HTTP 403, tofler.in returned a 404 on the search path. Consequently I could NOT positively screen OFAC SDN, UN, EU, UK or BIS Entity List, could NOT check Indian court dockets (eCourts/NCLT) for party role or status, found no regulator action or dated negative news, found no credit rating, and found no evidence of supplies to Russia or the CIS. IMPORTANT: null here means 'not verified', NOT 'clean' — absence of a hit in this session is not evidence of absence, and this company must not be treated as sanctions-cleared or litigation-free on the basis of this report. Also note the claimed profile is internally inconsistent and unverified: the declared HS 940290 (medical/hospital furniture) does not match the claimed industry 'oil & gas and chemicals', and the PAN BFUPC7724R was not corroborated by any source. Per project rules, an HS mismatch is not a rejection ground and no rejection is proposed; the entity stays in the database. Recommended next step before any decision: re-run screening once search connectivity is restored, and query OFAC SDN/EU/UK/BIS lists and eCourts/NCLT directly by exact legal name and PAN."
+}

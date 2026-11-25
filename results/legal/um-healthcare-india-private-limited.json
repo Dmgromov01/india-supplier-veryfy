@@ -1,0 +1,18 @@
+{
+ "name_input": "UM HEALTHCARE INDIA PRIVATE LIMITED",
+ "legal_name": "UM HEALTHCARE INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AACCU1439L",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN holder-type convention); note: PAN taken as claimed by the client, NOT independently verified against any public registry record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on both queries; Google/Bing HTML endpoints returned only generic/irrelevant results (no company-specific hits); MCA master-data page, Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403/404; Tofler search returned 404. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue could not be confirmed from any public source. Nothing is inferred or invented: all unverified fields are null. The claimed PAN AACCU1439L is structurally consistent with a company-type PAN (4th char 'C') but its existence/validity is unconfirmed. IMPORTANT per project rules: no rejection is proposed — absence of retrievable data is not evidence of non-existence, and the entity is NOT struck off/liquidated as far as known. Also note the input's declared HS 901812 (medical/surgical instruments) is inconsistent with the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals); per rule 3 this is not a rejection ground — HS should be corrected to the factual code and the company retained. Role cannot be classified (manufacturer/trader) without registry or filing data. Recommend re-run with working search access or manual MCA lookup by name to obtain CIN, then GST portal check on the GSTIN."
+}

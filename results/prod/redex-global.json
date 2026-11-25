@@ -1,0 +1,20 @@
+{
+ "name_input": "Redex Global",
+ "declared_hs": "091099",
+ "actual_hs_list": [
+  "090611 / 090619 / 090620 / 0907 / 0908 / 0909 / 0910 (spices, whole & ground — declared line 091099 covers only part of this)",
+  "091091 (spice mixtures / masala blends)",
+  "071220 / 0712 (dried onions, dehydrated onion) and 070310 (fresh onions)",
+  "0713 (pulses & lentils: chickpeas, toor, moong, urad, masoor)",
+  "1101 / 1102 / 1103 / 1104 (flour of wheat and other cereals, groats, meal)",
+  "1201 / 1206 / 1207 / 1208 (oil seeds: sesame, mustard, groundnut, flax, melon seeds)",
+  "1211 (herbs, basil, mint, curry leaves, dried herbs)",
+  "2106 / 2103 (food additives, seasonings, sauces, food preparations n.e.s.)",
+  "FMCG / household articles — HS not determinable from site (mixed 3xxx/39xx/73xx/96xx depending on item)",
+  "Religious & festive products (incense, agarbatti 330741, puja items, diyas) — HS not determinable from site"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website redexglobal.com (homepage + /about-us/) lists product lines: SPICES, AGRO PRODUCTS, FLOUR, PULSES & LENTILS, OIL SEEDS, FRESH ONIONS, HERBS, FOOD ADDITIVES, FMCG, HOUSEHOLD ARTICLES, RELIGIOUS & FESTIVE PRODUCTS, plus private label and 'official export partner' mandates for Indian brands. Self-description: 'exporter, supplier and manufacturer of the complete range of finest quality food products', supplying 'importers, wholesalers, food multinational and Cash & Carry in more than 15 countries'. Founder named as Mr. Gunvant Sheth (consistent with the claimed proprietor name DAKSHA GUNVANT SHETH); team page lists Jasmin Sheth, Mohnish Sheth, Saloni Sheth. Registered office: 306, 3rd Floor, Shri Khodal Chambers, R.B. Mehta Marg, Ghatkopar East, Mumbai 400077; warehouse at Turbhe MIDC, Navi Mumbai (c/o Gohil Dye Chem). The /spices/ sub-page returned no SKU list (empty body), so no item-level product names could be captured.",
+ "role_hint": "trader / manufacturer_trader — site claims both 'manufacturer' and 'exporter/supplier', states a packaging-and-warehousing facility near a sea port (not a processing plant), and positions itself as a sourcing/private-label/export-mandate partner for third-party Indian brands. Strong trader/consolidator signals; no manufacturing evidence on site.",
+ "comment": "HS 091099 (spices, mixtures, n.e.s.) is only PARTIALLY correct: it fits spice blends/masala but not the bulk of the declared business. The declared single 6-digit code cannot cover the site's actual range — whole and ground spices (0906–0910), fresh onions (070310), pulses (0713), cereal flours (1101–1104), oil seeds (1201–1208), herbs (1211), food additives (2103/2106), and FMCG/household/religious items. Per project rule 3 this is NOT a rejection ground: company is retained and the code is corrected to the factual range above; verdict accepted_hs_corrected. Industry label 'Продукты питания и FMCG' is broadly right but understates the agro-commodity side (onions, pulses, oil seeds, flour) — the company is better classified as an agro-commodity + FMCG exporter/trader. Trader signs: 'official export partners with exclusive export mandate' for other brands, private-label service, third-party warehouse (c/o Gohil Dye Chem) — i.e. it moves other parties' goods. IMPORTANT: every product line above is taken from the company's own website only. No customs line, B/L, GST turnover or public-procurement record was checked in this HS-only pass, therefore all product lines are marked 'заявлено, не подтверждено'. The /spices/ page rendered empty and no catalogue PDF was readable, so no SKU-level corroboration exists. Revenue, export volume, PAN and CIN were not researched (out of scope for this role) — null."
+}
