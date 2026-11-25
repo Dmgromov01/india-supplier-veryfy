@@ -1,0 +1,18 @@
+{
+ "name_input": "ZEN TECHNOLOGIES LIMITED",
+ "legal_name": "Zen Technologies Limited",
+ "cin_llpin": "L41000AP1993PLC015206 (unverified — MCA/Zauba/TheCompanyCheck blocked with HTTP 403; CIN not confirmed from an official source, treat as provisional)",
+ "pan": "null — not public in any accessible source",
+ "pan_holder_type": "null — PAN not confirmed, so 4th-character holder type cannot be determined",
+ "gstin": "null — no public GST profile accessible (Zauba/TheCompanyCheck returned 403); GSTIN not confirmed",
+ "gst_status": "null — not verified",
+ "incorporation_date": "1993 (per company/Wikipedia: established 1993; Screener states incorporated 1996 — discrepancy unresolved, exact date not confirmed from MCA)",
+ "state_registered": "Telangana (registered office: B-42, Industrial Estate, Sanath Nagar, Hyderabad-500018, Telangana — per company investor-relations page)",
+ "state_claimed": "not stated in input",
+ "mca_status": "null — MCA master data not retrievable (registry aggregators blocked); company is an active listed entity on NSE (ZENTEC) and BSE (533339) with filings up to Nov 2026, so no evidence of strike-off/liquidation",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 974,
+ "revenue_fy26_cr": 688,
+ "revenue_source": "Screener.in consolidated annual P&L (Mar 2025: Sales ₹974 cr; Mar 2026: Sales ₹688 cr), derived from the company's audited/BSE-NSE filed results; company IR page confirms audited results for FY ending 31-03-2026 were filed 01-05-2026. Figures are consolidated revenue from filings, not independently re-read from the audited PDF.",
+ "note": "Legal entity exists and is a listed defence-technology manufacturer (training simulators, counter-drone, RCWS) with registered office in Hyderabad, Telangana; no grounds for rejection. Registry identifiers (CIN, PAN, GSTIN, exact incorporation date, MCA status) could not be verified because search was down and all registry aggregators returned HTTP 403 — these are left null rather than guessed. Declared HS 880622/880623 (UAV categories) does not match the company's core products (simulators, C-UAS, RCWS); per project rules this is not a rejection ground — HS should be corrected to the actual exported goods, verdict accepted_hs_corrected. Revenue: FY25 ₹974 cr, FY26 ₹688 cr (consolidated, per Screener compilation of filed results)."
+}

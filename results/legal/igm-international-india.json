@@ -1,0 +1,18 @@
+{
+ "name_input": "IGM INTERNATIONAL INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного реквизита. Входные данные противоречивы: в поле legal_claimed указано физлицо «VIRENDER KUMAR VAIRA», а не юрлицо; PAN и штат не заявлены. Поиск по реестрам не дал результата: DuckDuckGo/searx вернул ошибку соединения, Bing по запросам «IGM International India» + Virender Kumar Vaira / CIN выдавал нерелевантную выдачу (медицинские статьи про IgM), т.е. точного совпадения по названию не найдено; zaubacorp.com, thecompanycheck.com — HTTP 403, search.mca.gov.in — DNS не резолвится. Итог: существование юрлица с названием «IGM International India» в MCA не подтверждено и не опровергнуто — это НЕ основание для отклонения (правило 3: отклонять только при доказанном отсутствии/ликвидации/банкротстве), поэтому статус не rejected, а «unknown / требует ручной проверки в MCA по имени директора Virender Kumar Vaira». CIN, PAN, GSTIN, дата регистрации, штат, MCA-статус — null (не публичны в доступных источниках / не найдены). Роль (manufacturer/trader) не определена: заявленные коды HS 2203/2204/2208 (пиво, вино, крепкий алкоголь) указывают на импортно-торговый профиль, но это предположение, а не факт. Выручка FY25/FY26 — null: аудиторской отчётности или официальных филингов не найдено. Рекомендация: повторить проверку при восстановлении доступа к MCA/ZAUBACORP и уточнить у поставщика точное юрлицо (Pvt Ltd / LLP / проприеторство) и GSTIN."
+}

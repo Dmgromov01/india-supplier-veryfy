@@ -1,0 +1,18 @@
+{
+ "name_input": "RISHIKESH EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure, not a negative finding: web_search returned 'searx: Connection refused' on both queries; zaubacorp.com and tofler.in returned HTTP 403; thecompanycheck.com and instafinancials.com returned only marketing/404 pages; Google returned HTTP 429; Bing returned unrelated results (query mangled). No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified from any public source, so all such fields are null rather than guessed. The input gives no PAN and no state, so PAN holder-type decoding and registered-state comparison are impossible. 'RISHIKESH EXPORTS' is a bare trade name with no legal suffix; it may be a proprietorship, partnership, LLP or private limited company, and no public record was reached to determine which. Role cannot be established from registry data alone and is left 'unknown'. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity simply could not be checked. Recommend re-running this company when search access is restored, querying MCA master data by exact name and by GSTIN, and treating any catalogue/IndiaMART presence as 'заявлено, не подтверждено' until a registry record is obtained."
+}
