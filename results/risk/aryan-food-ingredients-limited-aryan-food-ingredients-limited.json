@@ -1,0 +1,9 @@
+{
+ "name_input": "ARYAN FOOD INGREDIENTS LIMITED; ARYAN FOOD INGREDIENTS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No risk finding could be established or excluded: the search backend (DuckDuckGo/searx) was unreachable ('Connection refused'/'timed out') for the whole session, and the fallback engines (Bing, Google) returned only generic 'Aryan' ethnology pages, i.e. the company-name terms were not honoured. Direct registry lookups failed: zaubacorp.com returned HTTP 403, tofler.in company-search returned HTTP 404, mca.gov.in did not resolve. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia or CIS = NOT VERIFIED. All fields set to null rather than guessed. Note the claimed PAN 'AAICA0702E' was not corroborated by any source reached, and the claimed industry ('Нефтегаз и химия' / oil-gas & chemicals) is inconsistent with the company name (food ingredients) and with declared HS 300490 (pharmaceuticals) - flagging as a data-quality observation only, not a rejection ground. Per project rules, no rejection is proposed: nothing indicates the legal entity is non-existent, struck off or bankrupt, and sanctions/court matters would in any case not be rejection grounds. RECOMMENDATION: re-run this company when search connectivity is restored, checking (1) OFAC SDN + BIS Entity List + EU/UK consolidated lists by exact name and PAN, (2) eCourts/NCLT/High Court Delhi by name, (3) SEBI/RBI/ED and GST enforcement news, (4) CRISIL/ICRA/CARE/India Ratings if rated, (5) customs/import-export records for RF/CIS destinations."
+}

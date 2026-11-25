@@ -1,0 +1,9 @@
+{
+ "name_input": "SUNRISE CHEM",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all queries; Bing returned an identical irrelevant cached page (sunrise/sunset times) for every query, including the exact-PAN query 'AEZFS0352J'; lite.duckduckgo.com timed out; Google returned HTTP 429; zaubacorp.com returned HTTP 403. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form that returns no results via plain GET, so no name screening could actually be executed - sanctions_hit is therefore null (NOT screened), not a negative result. No court records (eCourts/NJDG), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator actions (CDSCO/GPCB/SEBI/RBI) and no Russia/CIS shipment evidence could be checked. Nothing below should be read as clearance: all fields are null because they are unverified, not because they were checked and found clean. Note also that the claimed PAN prefix 'AEZFS' and the claimed industry 'oil & gas and chemicals' are inconsistent with declared HS 300490 (pharmaceuticals) - flagged for the identity/HS researcher, not assessed here. Recommend re-running this company once search access is restored."
+}

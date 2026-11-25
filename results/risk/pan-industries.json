@@ -1,0 +1,9 @@
+{
+ "name_input": "PAN INDUSTRIES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the primary search backend (DuckDuckGo/searx) returned 'Connection refused' on all queries; html.duckduckgo.com timed out; Google returned only a redirect/consent page; Bing returned identical generic 'PAN card / PAN Foundation / Pan (god)' results for every query variant, i.e. the exact-phrase operator was not honoured and no India-company results were surfaced. Zauba Corp company search returned HTTP 403 (blocked). No OFAC SDN / UN / EU / UK / BIS Entity List screening result could be retrieved, so sanctions_hit is null — this is NOT a negative clearance, it is an unverified field. No Indian court records (eCourts, NCLT, High Court) could be retrieved, so court_cases is null. No credit rating (CRISIL/ICRA/CARE/India Ratings) could be retrieved, so rating is null. No negative news could be retrieved, so news_risk is null. No evidence of supplies to Russia or the CIS was found, but absence of evidence here reflects search failure, not a confirmed absence — rf_supply is null. Additional identity ambiguity: the name 'PAN INDUSTRIES' is extremely generic and the batch record supplies no CIN, PAN, GSTIN or registered address, so even with working search the entity could not be uniquely matched; multiple unrelated Indian firms plausibly share this name. Per project rules this is not a rejection ground and no rejection is proposed — the company stays in the database. Recommended action: re-run this company once the search backend is restored, and obtain CIN/GSTIN from the supplier before screening, otherwise sanctions and litigation checks cannot be attributed to a specific legal entity."
+}

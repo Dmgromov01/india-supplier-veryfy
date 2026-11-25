@@ -1,0 +1,8 @@
+{
+ "name_input": "SUNRISE CHEM",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/sunrise-chem and /sunrise-chem-gujarat both returned only the generic template shell: 'Shipments available for SUNRISE CHEM, refreshed daily' — zero shipment rows rendered (0 rows seen, no B/L number, no date, no destination, no HS code). volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; DuckDuckGo search backend was unreachable ('Connection refused'), so no second source could be opened.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Zaubacorp returned HTTP 403 and the search engine was down, so no registry or procurement page could be read. Nothing found either way — not evidence of absence.",
+ "note": "Следов поставок не найдено и не опровергнуто: ни экспортных записей, ни внутренних поставок подтвердить не удалось. Все источники проверки фактичности отгрузок были недоступны (importkey — пустой шаблон без строк, volza/eximpedia/trademo/importgenius/zaubacorp — 403, поисковик не отвечал). PAN AEZFS0352J и HS 300490 не проверены — реестры вне доступа, выдумывать данные не стал. Статус 'unknown', а не 'none_found', потому что отсутствие данных здесь означает отказ инструментов, а не отсутствие отгрузок; для окончательного вердикта нужен повторный прогон при работающем поиске или платный доступ к таможенным данным. Трейдер/производитель не определён."
+}

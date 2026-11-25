@@ -1,0 +1,18 @@
+{
+ "name_input": "TONO SYSTEMS LLP",
+ "legal_name": "TONO SYSTEMS LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAGFT5348E",
+ "pan_holder_type": "Firm/LLP (4th character 'F' = Firm) — based on the claimed PAN string only, not verified against any registry record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML timed out; Google returned a redirect/consent page; Bing returned only irrelevant results (US restaurants, YouTube) for the exact-phrase queries '\"TONO SYSTEMS LLP\"', '\"TONO SYSTEMS\" LLP India Maharashtra' and '\"AAGFT5348E\"' — i.e. no indexed Indian registry page surfaced. Direct fetches of registry aggregators were blocked: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 403, and search.mca.gov.in did not resolve (DNS error). Consequently LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they could not be read from a public source within the call budget. PAN AAGFT5348E is carried over from the input only; its 4th character 'F' is consistent with a partnership firm/LLP holder, which matches the 'LLP' suffix, but this is a format check, not a verification. Revenue FY25/FY26: null — no audited accounts or MCA filings were accessible; LLP financials are generally not published in a machine-readable public form, so treat as not public unless obtained from MCA V3 filing documents. Role: unknown — no evidence of manufacturing facilities, plant, or GST-registered trading activity was retrievable. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of retrievable records is not proof of non-existence. Recommended next step: manual lookup on MCA V3 (LLPIN search by name) and GST portal 'Search Taxpayer' using the PAN, then re-run this record. HS 852990 (parts of TV/reception apparatus) is noted but not assessed here per role scope."
+}

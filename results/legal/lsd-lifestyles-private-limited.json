@@ -1,0 +1,18 @@
+{
+ "name_input": "LSD LIFESTYLES PRIVATE LIMITED",
+ "legal_name": "LSD LIFESTYLES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, вердикт не выносится (не rejected). Причина: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), а Bing по запросам с точным названием в кавычках выдавал только нерелевантную выдачу про препарат «LSD» — ни одного реестрового совпадения по компании не найдено. Реестровые агрегаторы (zaubacorp.com, thecompanycheck.com) вернули HTTP 403, портал MCA (mca.gov.in) — HTTP 403, поэтому CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не подтверждены ни одним публичным источником и оставлены null. PAN не выводился и не угадывался. Роль (manufacturer/trader) не определена — нет ни реестровых, ни корпоративных данных. ВНИМАНИЕ по существу: заявленный HS 610910 и 620520 — это трикотажные футболки и мужские хлопчатобумажные рубашки (текстиль/одежда), что прямо противоречит заявленной отрасли «Продукты питания и FMCG». По правилам проекта несоответствие HS не является основанием для отклонения: компания сохраняется в базе, фактический код исправляется, вердикт при подтверждении юрлица — accepted_hs_corrected с оговоркой. Требуется повторная проверка при доступности MCA/GST-порталов или выписки из реестра от поставщика (CIN + GSTIN)."
+}

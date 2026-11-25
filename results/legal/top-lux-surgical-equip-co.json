@@ -1,0 +1,18 @@
+{
+ "name_input": "TOP LUX SURGICAL EQUIP CO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AFEPV8158F",
+ "pan_holder_type": "F — firm/partnership (4th character 'F' of the claimed PAN; holder type inferred from PAN format only, not verified against any registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record retrieved. The search backend (DuckDuckGo/searx) was unreachable ('Connection refused') for the whole session, so exact-phrase lookups for 'TOP LUX SURGICAL EQUIP CO' and 'AFEPV8158F' returned nothing usable. Direct reads of registry aggregators failed: zaubacorp.com returned HTTP 403 on both the company-search and company pages, instafinancials.com returned HTTP 403, Google returned HTTP 429, and Bing returned only generic dictionary/'top' results with no matching entity for the exact-phrase queries. Consequence: legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not because they were checked and found absent, but because they could not be read. The PAN AFEPV8158F is carried over from the input only; its 4th character 'F' indicates a firm/partnership holder under PAN structure rules, which is consistent with the 'CO' suffix in the name (likely a partnership firm, hence no CIN), but this is an inference from the PAN format, not a verified fact. No audited accounts or official filings were located, so FY25 and FY26 revenue are null — not estimated. Role left as 'unknown': the name suggests a surgical-equipment supplier (HS 901812 = electro-diagnostic apparatus) while the input's industry field says oil/gas and chemicals, which is an internal inconsistency in the input that cannot be resolved without the registry record; per project rules the HS mismatch is not a rejection ground and the code should be corrected to the factual one once the entity is confirmed. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — absence of retrievable data is not evidence of non-existence. Action required: re-run this company when the search backend is restored, or verify manually on the MCA portal / GST portal search by PAN AFEPV8158F."
+}

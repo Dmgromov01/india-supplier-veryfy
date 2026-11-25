@@ -1,0 +1,18 @@
+{
+ "name_input": "PREMIER KNITS APPAREL (INDIA) PRIVATE LIMITED",
+ "legal_name": "PREMIER KNITS APPAREL (INDIA) PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один публичный источник не удалось прочитать. web_search (DuckDuckGo/searx) вернул ошибку соединения; Bing по точной фразе в кавычках выдал только нерелевантные результаты (Premier America, Premier League и т.п.), т.е. точного совпадения по названию в индексе не найдено; zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com отдали HTTP 403, mca.gov.in — 403, quickcompany.in — 404. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, GST-статус, дата инкорпорации, штат регистрации по MCA и MCA-статус — null: не публично доступны через доступные инструменты, а не «отсутствуют». Выручка FY25/FY26 — null, аудированной отчётности или официальных филингов получить не удалось. Роль (manufacturer/trader) не установлена — null/unknown. НЕ отклоняется: нет доказательств несуществования, ликвидации, страйк-оффа или банкротства; отсутствие данных — не основание для rejected. Отдельно фиксирую расхождение во входных данных: заявленный HS 610442/610910/611020 — это трикотажная одежда (футболки, джемперы), а заявленная отрасль «Продукты питания и FMCG» с ними несовместима; по правилам проекта это НЕ основание для отклонения — при подтверждении деятельности код исправляется на фактический, вердикт accepted_hs_corrected. Требуется повторная проверка при восстановлении доступа к MCA/реестровым агрегаторам (или ручная выгрузка MCA Master Data по названию)."
+}

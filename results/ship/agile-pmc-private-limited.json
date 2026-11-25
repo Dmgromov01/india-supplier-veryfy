@@ -1,0 +1,8 @@
+{
+ "name_input": "AGILE PMC PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'agile-pmc-private-limited-' renders only the boilerplate: \"Shipments available for AGILE PMC PRIVATE LIMITED, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were displayed (0 rows seen of an unstated counter; the page shows no counter value at all). Second slug 'agile-pmc-pvt-ltd' returned the identical empty template. Volza, Eximpedia and Trademo free views all returned HTTP 403, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. ZaubaCorp returned HTTP 403; DuckDuckGo search backend was down (connection refused) and Bing returned only generic 'agile methodology' results, i.e. no company-specific hits. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось, потому что (1) ImportKey отдаёт только шаблон без строк по обоим вариантам слага, (2) volza/eximpedia/trademo/zaubacorp — 403, (3) поисковые бэкенды недоступны или нерелевантны. Заявленные HS 401699;701990;860900 (резинотехника, стекловолокно, контейнеры) с фактическими записями не сверены — сверять не с чем. Выручка и объём экспорта: null (не публичны / не получены). Роль (manufacturer/trader) не установлена. Требуется повторная проверка при доступных источниках; отклонять по правилу 3 оснований нет — юрлицо не подтверждено как ликвидированное, но и не подтверждено как действующее."
+}
