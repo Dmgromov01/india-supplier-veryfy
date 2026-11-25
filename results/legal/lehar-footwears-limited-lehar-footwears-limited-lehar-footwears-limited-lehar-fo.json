@@ -1,0 +1,18 @@
+{
+ "name_input": "LEHAR FOOTWEARS LIMITED; LEHAR FOOTWEARS LIMITED; LEHAR FOOTWEARS LIMITED; LEHAR FOOTWEARS LIMITED; LEHAR FOOTWEARS LIMITED",
+ "legal_name": "LEHAR FOOTWEARS LIMITED",
+ "cin_llpin": null,
+ "pan": "AAACL2987J",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN structure); format valid (5 letters + 4 digits + 1 letter). Value taken from the input claim, NOT independently verified against an MCA/Income Tax record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not disproven. Tooling failed in this session: DuckDuckGo/searx search backend refused connections (all web_search calls returned 'Connection refused'), Zaubacorp and TheCompanyCheck returned HTTP 403, Moneycontrol returned HTTP 410, Screener returned 404, NSE timed out, BSE page rendered only a generic shell. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null and must be re-run when search is restored. What can be said: (1) the entity is not shown as non-existent — the name is a listed public company (BSE scrip id 532829, ticker LEHARFOOT) which is consistent with a live entity, but this is a market-listing observation, not an MCA status check; (2) role is recorded as 'manufacturer' on the basis of the company's own footwear-manufacturing positioning, which is a claim, not a registry fact — treat as unconfirmed; (3) the input's industry_claimed 'Продукты питания и FMCG' (food/FMCG) is inconsistent with the declared HS codes 640110/640299/640399 (footwear) and with the company name — the industry label appears to be an input error, the HS codes are the plausible ones; per project rules this is NOT a rejection ground, the record is kept and the industry field should be corrected to footwear. (4) No revenue figures are given because no audited accounts or official filing could be opened; do not substitute estimates. No rejection applied: no evidence of strike-off, liquidation or bankruptcy was obtained, and absence of evidence is not evidence of absence."
+}
