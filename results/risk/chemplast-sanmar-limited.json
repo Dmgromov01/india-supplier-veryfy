@@ -1,0 +1,9 @@
+{
+ "name_input": "Chemplast Sanmar Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Verification was severely limited: the web_search backend returned 'Connection refused' on every attempt (searx down), and the primary portals are JavaScript-only forms that return no query results via plain HTTP GET (OFAC Sanctions List Search at sanctionssearch.ofac.treas.gov, India Ratings press-release search, CRISIL rating list URL returned 404, BSE page returned only page shell). Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = NOT VERIFIED, not 'clean'. Do not read null as absence of risk. What was actually confirmed: the entity exists and is publicly listed - BSE: 543336, NSE: CHEMPLASTS, ISIN INE488A01050, part of the Sanmar Group (Chennai), IPO August 2021, plants at Mettur, Panruti, Cuddalore, Ponneri (Tamil Nadu), Shinoli (Maharashtra), Karaikal (Puducherry); source: en.wikipedia.org/wiki/Chemplast_Sanmar (accessed 2026-11-23). No sanctions, court, regulator, rating or Russia/CIS-supply record was found or ruled out in the sources reachable. Per project rules, no rejection is proposed on any ground here; nothing adverse was established either. Recommended follow-up before any decision: (1) manual OFAC SDN/consolidated non-SDN name search plus UN, EU, UK OFSI and BIS Entity List checks; (2) NCLT/NCLAT and Madras High Court party-role search; (3) CRISIL/ICRA/India Ratings/CARE rating rationale with date; (4) news scan for regulator actions (TNPCB/CPCB, SEBI) and for any Russia/CIS shipments. Note also that Chemplast Sanmar's declared HS codes (290312, 390410) and shipment volumes were explicitly out of scope for this role and were not researched."
+}
