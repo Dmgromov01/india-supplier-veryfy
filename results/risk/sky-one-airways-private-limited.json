@@ -1,0 +1,9 @@
+{
+ "name_input": "SKY ONE AIRWAYS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google отдавал редирект-заглушку, Bing по запросам в кавычках \"SKY ONE AIRWAYS PRIVATE LIMITED\" / \"Sky One Airways\" India / +IndiaMART OR Zauba OR Tofler выдавал только нерелевантные результаты про британскую Sky и Sky Airline (Чили) — ни одной страницы именно об индийской компании. ZaubaCorp и IndianKanoon вернули HTTP 403 (закрыты для автоматического доступа). Форма OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-приложение, через plain HTTP не запрашивается, поэтому совпадение по SDN/Non-SDN не проверено. Итог: по всем риск-полям данных нет — null, а не 'чисто'. Отсутствие находок здесь НЕ является подтверждением отсутствия санкций, судов, рейтинга или поставок в РФ/СНГ; это пробел в данных. Требуется повторный прогон при доступном поиске, либо ручная проверка по MCA Master Data, ZaubaCorp/Tofler, eCourts/NJDG, IndianKanoon, спискам OFAC SDN, UN, EU, UK OFSI, BIS Entity List, а также по открытым таможенным записям (Volza/ImportGenius/ImportYeti) на предмет направлений РФ/СНГ. Отмечу также: заявленный профиль (HS 841181/841191 — части газовых турбин, 880330 — части авиационных двигателей, отрасль 'Энергетика') и название 'Airways' между собой не согласуются; это вопрос к верификации юрлица и HS, вне моей роли. Правило 2 соблюдено: оснований для отклонения по риск-профилю не зафиксировано (и не опровергнуто)."
+}

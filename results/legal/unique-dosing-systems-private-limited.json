@@ -1,0 +1,18 @@
+{
+ "name_input": "UNIQUE DOSING SYSTEMS PRIVATE LIMITED",
+ "legal_name": "UNIQUE DOSING SYSTEMS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not retrieved. The search backend (DuckDuckGo/searx) returned connection errors for the whole session, and every direct registry/aggregator page attempted was inaccessible: zaubacorp.com (HTTP 403), thecompanycheck.com (403), falconebiz.com (403), tofler.in (403), instafinancials.com (404 - no such profile page), plus Google/Bing/DDG HTML endpoints returned no usable results for the quoted legal name. Consequently CIN, PAN, GSTIN, incorporation date, registered state, MCA status and audited revenue could not be verified from any public source, and all such fields are left null rather than guessed. No evidence of non-existence was found either, so the company is NOT rejected - it is simply unverified and must be re-queued for manual MCA master-data lookup (mca.gov.in / GST portal search by legal name). Role is 'unknown': the name suggests dosing-system equipment (plausibly manufacturer or manufacturer_trader, consistent with declared HS 841350 - pumps for liquids), but this is inference from the name only, not a verified fact. Per project rules, HS code is not a basis for rejection; if the entity is confirmed to exist, the HS code should be corrected to the actual product line at verification. Revenue FY25/FY26: null - no audited accounts or official filings were accessible."
+}
