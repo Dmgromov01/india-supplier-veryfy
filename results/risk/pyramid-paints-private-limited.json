@@ -1,0 +1,9 @@
+{
+ "name_input": "PYRAMID PAINTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK CHECK NOT COMPLETED — sources unavailable. As of this run the search backend returned 'Connection refused' for every query, and direct fetches failed: zaubacorp.com 403, tofler.in 403, indiankanoon.org 403, google.com returned only a redirect stub, duckduckgo.com timed out. The OFAC Sanctions List Search page loaded but only as an empty search form (no query could be executed), so no SDN/Non-SDN screening result was obtained. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = not verified, null; Indian court cases (party role/status) = not verified, null; regulator actions and negative news with dates = not verified, null; credit rating with date/status = not verified, null; evidence of supplies to Russia or CIS = not verified, null. No claim in this record is sourced, and no numbers, CINs, PANs or shipment records were invented. Per project rules this is NOT a rejection ground and NOT a negative finding — it is an absence of data. Recommended action: re-run the risk pass when search/fetch access is restored, screening the exact legal name plus variants ('Pyramid Paints Pvt Ltd', 'Pyramid Paints & Coatings') against OFAC SDN/Non-SDN, UN Consolidated, EU consolidated, UK OFSI and BIS Entity List, and checking NCLT/NCLAT, e-courts and IndianKanoon for party-role court records. Note for context only (not a risk finding): the claimed PAN AANCP5865E and Maharashtra registration were not independently verified in this pass."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "RMG POLYVINYL INDIA LTD.; RMG POLYVINYL INDIA LTD; M/S RMG POLYVINYL INDIA LIMITED; M/S RMG POLYVINYL INDIA LIMITED",
+ "legal_name": "RMG POLYVINYL INDIA LIMITED (as claimed in input; not independently confirmed against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - data unavailable, not a negative finding. Tooling failed: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); Google returned only a redirect stub; Bing returned generic 'RMG' results (Rover's Morning Glory, RMG gas meters, RMG Engineers) with zero hits for the Indian polymer company; zaubacorp.com, thecompanycheck.com and tofler.in all returned HTTP 403 Forbidden; instafinancials.com returned 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could not be read from any public source and are recorded as null rather than guessed. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role is 'unknown' - the input gives no evidence of own plant vs resale, and product catalogues/IndiaMART claims are explicitly out of scope for this role. IMPORTANT: per project rules, absence of registry data is NOT grounds for rejection - the entity is not shown to be non-existent, struck off, liquidated or bankrupt, so it must not be marked rejected. HS codes 391810/392049/392190 (PVC floor/wall coverings, plastic sheets) are consistent with a polyvinyl/plastics producer and require no correction on the available evidence. Recommended next step: re-run against MCA master data / GST public search when the search backend and registry sites are reachable, and obtain FY25/FY26 revenue from MCA AOC-4 filings."
+}

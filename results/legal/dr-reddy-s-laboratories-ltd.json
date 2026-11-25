@@ -1,0 +1,18 @@
+{
+ "name_input": "DR REDDY S LABORATORIES LTD",
+ "legal_name": "Dr. Reddy's Laboratories Limited",
+ "cin_llpin": "L85195TG1984PLC004507",
+ "pan": "AAACD7999Q",
+ "pan_holder_type": "Company (4th character 'C' in AAACD7999Q = company; PAN format valid, matches claimed PAN)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1984 (year confirmed; exact date not verified in this session)",
+ "state_registered": "Telangana (Hyderabad) — per Wikipedia infobox HQ; CIN state code 'TG' (Telangana)",
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": "Active (listed on NSE/BSE, NIFTY 50 constituent; no strike-off/liquidation found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 33741,
+ "revenue_fy26_cr": null,
+ "revenue_source": "FY25: audited consolidated results for year ended 31 March 2025, ₹33,741 crore (Wikipedia infobox citing company's 'INDAS Consolidated Q4 FY 2024-25' filing, drreddys.com). FY26: not verified — company site returned 403 and the guessed FY26 PDF URL returned 404; no audited FY26 figure confirmed, so null.",
+ "note": "Registry identity is solid: CIN L85195TG1984PLC004507 (TG = Telangana, 1984 incorporation, public limited company) and PAN AAACD7999Q (company-type holder) are consistent with a large listed entity; the claimed PAN matches. IMPORTANT DISCREPANCY: registered office is in Hyderabad, Telangana (CIN state code TG), NOT Andhra Pradesh as claimed in the input — the input state is outdated (pre-2014 bifurcation). GSTIN could not be retrieved: zaubacorp, thecompanycheck, moneycontrol and drreddys.com all returned HTTP 403, and search engines (searx down; Bing/Google returned irrelevant results) gave no public GST profile — GSTIN and GST status therefore null, not invented. Role: manufacturer (own API/formulation plants; Wikipedia: 'manufactures and markets a wide range of pharmaceuticals', 7 FDA-inspected API plants). Industry mismatch with input: input claims 'Продукты питания и FMCG' with HS 210690/290621/290719/291419 — actual business is pharmaceuticals/APIs; per project rules this is NOT a rejection ground, HS should be corrected to actual pharma/API codes (e.g. 2941/2933/3004 series) and verdict accepted_hs_corrected. No rejection: entity exists and is active. Revenue FY25 33,741 crore INR (consolidated, audited); FY26 null (not publicly retrievable in this session)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "PYRAMID PAINTS PRIVATE LIMITED",
+ "legal_name": "PYRAMID PAINTS PRIVATE LIMITED (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AANCP5865E",
+ "pan_holder_type": "P — individual (natural person), per 4th character of the claimed PAN. NOTE: a PAN whose 4th character is 'P' belongs to an individual, not to a company; a private limited company's PAN must have 'C' as the 4th character. The claimed PAN is therefore inconsistent with the claimed legal form and is very likely wrong or belongs to a proprietor/director. Not verified against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: the web_search backend was unreachable (connection refused) for all queries; direct fetches of registry aggregators returned HTTP 403 (zaubacorp.com, thecompanycheck.com) or 404 (instafinancials.com); Bing/Google HTML endpoints returned only generic 'pyramid' results with no company match, and a search on the claimed PAN 'AANCP5865E' returned zero relevant hits. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null — not public/not retrieved, and deliberately not guessed. Two substantive observations from the input itself: (1) the claimed PAN AANCP5865E has 'P' as its 4th character, which denotes an individual holder, so it cannot be the PAN of a private limited company — the PAN field needs re-collection from the supplier (GST certificate / PAN card), and the entity may in fact be a proprietorship trading under a 'Private Limited'-style name; (2) the declared HS codes (320810, 320820, 320910 — paints/varnishes; 390390 — styrene polymers) are consistent with a paints/polymers business, but HS consistency is not a rejection ground per project rules. Per the rules, no rejection is recorded: there is no evidence the entity does not exist, and absence of retrievable records is not proof of non-existence. Status: unverified, pending re-check against MCA master data and the GST portal once search/registry access is restored. Role cannot be classified (manufacturer vs trader) without MCA NIC code or factory/GST evidence."
+}
