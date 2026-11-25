@@ -1,0 +1,8 @@
+{
+ "name_input": "TRANSVALVES (INDIA) PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'transvalves-india-pvt-ltd' (https://importkey.com/countries/india/transvalves-india-pvt-ltd) returned only the generic template: \"Shipments available for TRANSVALVES INDIA PVT LTD, refreshed daily\" — a boilerplate placeholder, not a record. Rows actually seen: 0 shipment records (no date, no destination, no HS code, no B/L number). Second slug variant 'trans-valves-india-pvt-ltd' returned the same empty template, 0 rows. Volza, Eximpedia and Trademo free views all returned HTTP 403 Forbidden; DuckDuckGo/Google search endpoints were unreachable (connection refused / timeout), so no alternative B/L record could be retrieved.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: thecompanycheck.com returned HTTP 403 Forbidden and all search engines were unreachable during this session. Rows actually seen: 0.",
+ "note": "No shipment evidence obtained either way — this is a data-access failure, not a finding of absence. ImportKey's two slug variants both rendered the empty template (source counter: 2 pages fetched, 0 shipment rows). Declared HS 848190 (parts of taps/valves) is plausible for a valve business but was not verified against any customs record. Revenue and export volume: null — not public in any source reachable here. Recommend re-run with a working search backend or paid Volza/Trademo access before assigning any status other than unknown; do not treat the ImportKey page's existence as confirmation of shipments."
+}

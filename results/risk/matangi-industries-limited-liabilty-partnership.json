@@ -1,0 +1,9 @@
+{
+ "name_input": "MATANGI INDUSTRIES LIMITED LIABILTY PARTNERSHIP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend returned connection errors (searx: Connection refused) and fallback search engines (Google, Bing, DuckDuckGo) returned irrelevant/cached results unrelated to the query, so no source page for this entity could be retrieved. Direct registry access was blocked (zaubacorp.com HTTP 403; indiankanoon.org HTTP 403). OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but the tool is a form-driven JS application and cannot be queried via plain HTTP GET, so no name screening result was obtained. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — NOT a finding of 'clean', simply 'not verified'. No public evidence of supplies to Russia or the CIS was found, but absence of evidence here is due to failed retrieval, not to a negative screen. No credit rating, regulator action, negative news item, court case or sanctions designation could be confirmed or ruled out. Recommend re-running this entity when search infrastructure is restored, screening the name against OFAC SDN/consolidated non-SDN, UN, EU, UK OFSI and BIS Entity List, and checking Indian court records (eCourts, NCLT) plus credit bureaus (CRISIL/ICRA/CARE/India Ratings) for the LLP and its designated partners. Per project rules, no rejection is implied by this null result."
+}

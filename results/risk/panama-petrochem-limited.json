@@ -1,0 +1,9 @@
+{
+ "name_input": "PANAMA PETROCHEM LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research NOT completed - tooling failure, not a clean result. The web_search backend returned 'Connection refused' on every query (searx backend down), so no page discovery was possible. Direct fetches also failed: company site panamapetrochem.com returned 'Connection reset by peer'; Google search returned only a redirect interstitial; CRISIL ratings-list URL returned 404; ICRA rating search endpoint returned a 404 error page. The OFAC Sanctions List Search page loaded but is a JavaScript form whose query results cannot be retrieved via plain HTTP GET, so no actual SDN/Non-SDN name match was performed - sanctions_hit is null because it was NOT VERIFIED, not because the company is clear. BSE page loaded only a generic shell with no content. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = unverified; Indian court cases (party role/status) = unverified; regulator actions and negative news with dates = unverified; credit rating with date and status = unverified; evidence of supplies to Russia/CIS = unverified. No claim in this record should be read as a finding of absence. Per project rules this is not a rejection ground and no adverse inference is drawn; the company must be re-queued for risk research once search connectivity is restored. All fields deliberately left null rather than guessed."
+}

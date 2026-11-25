@@ -1,0 +1,18 @@
+{
+ "name_input": "MineralX Flowtech Pvt. Ltd",
+ "legal_name": "MINERALX FLOWTECH PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AANCM8063B (as claimed in input; unverified)",
+ "pan_holder_type": "AANC = Association of Persons (AOP) per 4th character 'C' — this is inconsistent with a private limited company, which should carry a company PAN (4th character 'C' is AOP; a company PAN has 'C' as 4th char only for company type code, so the claimed PAN's holder type does not match a Pvt Ltd entity and must be treated as doubtful/unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) returned connection refused, and direct fetches of registry/aggregator profiles (zaubacorp.com, tofler.in, instafinancials.com, mca.gov.in) returned HTTP 403 Forbidden; Bing/Google returned only irrelevant results, i.e. no page confirming the existence of 'MINERALX FLOWTECH PRIVATE LIMITED' was retrieved. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrieved, not invented. No rejection is applied: absence of a retrieved record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Note on the claimed PAN AANCM8063B: the 4th character 'C' denotes an Association of Persons, not a company, so the claimed PAN is inconsistent with a private limited company and should be re-requested from the supplier. Role cannot be determined without MCA/GST records (manufacturer vs trader unresolved). HS codes 841370/847420 not assessed here (out of scope for this role). Recommend re-run when search/registry access is restored."
+}

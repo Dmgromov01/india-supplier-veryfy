@@ -1,0 +1,18 @@
+{
+ "name_input": "SWASTIK INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML/lite endpoints timed out; Google returned only a redirect interstitial; Bing returned irrelevant results (Swastika symbol pages) for every query variant tried; MCA master-data page, Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures for FY25/FY26 were found. The input 'legal_claimed' value 'HEMANT JHANWARLAL NAHATA' is an individual's name, not a company name - this suggests the supplier may be a sole proprietorship / individual trader rather than a registered company, in which case there would be no CIN and the PAN would be an individual PAN (4th character 'P'), but this is an inference only and is NOT verified. 'Swastik Industries' is an extremely common Indian trade name, so any unverified match would risk conflating distinct entities - deliberately not guessed. Per project rules the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Action required: re-run verification when search/registry access is restored, ideally against MCA master data and the GST public taxpayer search using the PAN/GSTIN supplied by the supplier. Revenue FY25 and FY26 left null as no audited accounts or official filings were accessible."
+}

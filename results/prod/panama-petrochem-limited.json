@@ -1,0 +1,15 @@
+{
+ "name_input": "PANAMA PETROCHEM LIMITED",
+ "declared_hs": "271019",
+ "actual_hs_list": [
+  "2710.19 (white oil / liquid paraffin, transformer oil, rubber process oil, industrial & automotive lubricating oils, drilling fluids base oils)",
+  "2712.90 (petroleum jelly, waxes — microcrystalline/paraffin wax blends)",
+  "3403.11 / 3403.19 (ink and coating oils, metal-working/industrial lubricant preparations)",
+  "3404.90 / 3823.xx (specialty greases, textile chemicals/finishing preparations — segment-level, code not confirmed)",
+  "3824.99 (other specialty chemical preparations — segment-level, code not confirmed)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт panamapetro.com (раздел Products) перечисляет: White Oil / Liquid Paraffin Oil, Petroleum Jelly, Transformer Oil, Ink and Coating Oils, Rubber Process Oil, Textile Industry oils, Industrial Oils and Greases, Automotive Oils, Drilling Fluids, Waxes. Сайт позиционирует компанию как «prominent manufacturer and exporter of nearly 80 variants of petroleum specialty products»; по профилю screener.in (со ссылкой на сайт/BSE) — 80+ вариантов: white oils, automotive lubricants, petroleum jellies, transformer oils, inks, resins, rubber and textile chemicals, pharma/cosmetic-grade oils, specialty greases. Т.е. это не трейдер, а переработчик нефтяных производных (crude oil derivatives conversion).",
+ "role_hint": "manufacturer (переработчик/производитель специальных нефтепродуктов; есть 100% дочерняя Panol Industries RMC, FZE, Рас-эль-Хайма, ОАЭ — экспортное звено)",
+ "comment": "Заявленный код 271019 покрывает только часть ассортимента — базовые нефтяные масла (white oil, transformer oil, rubber process oil, automotive/industrial oils, drilling fluid oils). Это подтверждается перечнем продуктов на сайте, но НЕ подтверждено таможенной строкой: конкретных экспортных деклараций/записей я не проверял (вне моей роли), поэтому фактичность отгрузок по 2710.19 — «заявлено, не подтверждено». Часть ассортимента выходит за 2710: petroleum jelly и waxes — скорее 2712.90; ink and coating oils, greases, textile chemicals, resins — 3403/3404/3824 (коды на уровне 6 знаков по сайту не верифицируются, сайт даёт только названия сегментов). Отраслевая классификация «Нефтегаз и химия» корректна, уточнение: это не нефтегазодобыча, а нефтепереработка/специальная химия (petroleum specialty products). Признаков трейдера нет: собственные заводы (plant locations на сайте), производственные сегменты, публичная отчётность BSE: 524820 / NSE: PANAMAPET. HS-несоответствие не является основанием для отклонения — компания сохраняется, вердикт accepted_hs_corrected: базовый код 271019 оставить как основной, дополнить 2712.90 (petroleum jelly/waxes) и 3403/3824 (ink & coating oils, greases, textile chemicals) после подтверждения по инвойсам. Продуктовые линии, отсутствующие в декларации: petroleum jelly, waxes, inks/coating oils, greases, textile chemicals, resins, drilling fluids. Данные о выручке/объёмах и реестровые данные (CIN/PAN) в рамках этой роли не проверялись — null."
+}

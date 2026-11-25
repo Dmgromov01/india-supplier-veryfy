@@ -1,0 +1,18 @@
+{
+ "name_input": "PANAMA PETROCHEM LIMITED",
+ "legal_name": "Panama Petrochem Limited",
+ "cin_llpin": null,
+ "pan": "AACCP4358D",
+ "pan_holder_type": "C — company (4th character 'C' of PAN = company; consistent with a public limited company). PAN taken as claimed in input; could not be independently re-verified on a public registry page in this session (Zauba/TheCompanyCheck/InstaFinancials returned 403/blocked).",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1982 (year only, per Screener.in company profile: 'incorporated in 1982 by Amirali E Rayani'); exact date not retrieved",
+ "state_registered": "Dadra and Nagar Haveli and Daman and Diu (per input; CIN prefix 'DD' would be consistent with DNH&DD registration, but the CIN itself could not be read from a public source in this session — treat as unverified)",
+ "state_claimed": "Dadra and Nagar Haveli and Daman and Diu",
+ "mca_status": "Active — listed and trading on BSE (524820) and NSE (PANAMAPET) as of 25 Nov (Screener.in live quote, market cap ₹2,472 Cr); no strike-off/liquidation/insolvency indication found. MCA master-data status not directly read (registry sites blocked).",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 2793,
+ "revenue_fy26_cr": 3064,
+ "revenue_source": "Screener.in consolidated annual P&L (derived from company's audited/BSE-filed results): FY2024-25 (Mar 2025) sales ₹2,793 Cr; FY2025-26 (Mar 2026) sales ₹3,064 Cr. Standalone: FY25 ₹1,776 Cr, FY26 ₹1,962 Cr. https://www.screener.in/company/PANAMAPET/consolidated/",
+ "note": "Registry-only check. Entity exists and is a listed public limited company (BSE 524820 / NSE PANAMAPET), so no rejection ground. PAN format valid (AACCP4358D, 4th char 'C' = company) and matches the claimed PAN, but the PAN was not re-verified against an independent public registry page — Zauba Corp, TheCompanyCheck, InstaFinancials and Moneycontrol all returned 403/410/blocked in this session, and the search backend (DuckDuckGo/searx) was down, so CIN, GSTIN, GST status and exact incorporation date could not be read from a public profile and are left null rather than guessed. Registered state is claimed as Dadra and Nagar Haveli and Daman and Diu; the company is known to operate manufacturing at Daman/Silvassa, but the registered-office state was not independently confirmed here. Role: manufacturer — Screener profile describes it as a manufacturer/converter of crude-oil derivatives (white oils, lubricants, petroleum jelly, transformer oils, etc.), not a pure trader. Revenue figures are consolidated annual sales from Screener's reproduction of the company's filed results; audited annual report PDFs were not opened in this session, so treat as filing-derived, not directly audited-account-verified. HS 271019 (petroleum oils, other than crude) is plausible for its product line, but HS verification is outside this role's scope."
+}

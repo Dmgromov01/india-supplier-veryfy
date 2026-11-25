@@ -1,0 +1,18 @@
+{
+ "name_input": "Aditi Toys Pvt Ltd",
+ "legal_name": "ADITI TOYS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAQCA3819C (as claimed in input; NOT verified against any public source)",
+ "pan_holder_type": "A (Association of Persons / body of individuals) — derived from 4th character 'A' of the claimed PAN; note that a private limited company would normally carry 'C' (company) in the 4th position, so the claimed PAN is inconsistent with a Pvt Ltd entity and is likely wrong or belongs to a different entity",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) refused connections for the entire session, zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404, and mca.gov.in returned HTTP 403. Bing returned only irrelevant generic results for the exact-name and PAN queries, i.e. no public page matching 'ADITI TOYS PRIVATE LIMITED' was surfaced. Therefore CIN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null — not public/not retrievable in this session, not invented. Two flags for the analyst: (1) the claimed PAN AAQCA3819C has 'A' in the 4th character, which denotes an AOP/body of individuals, not a company ('C'), so it does not match a Private Limited entity; (2) the declared HS codes 950300/950490 are toys/games, which contradicts the claimed industry 'Food & FMCG' — per project rules this is NOT a rejection ground, the company stays in the base and the HS code should be corrected to the factual one. No rejection applied: existence, strike-off, liquidation or bankruptcy could not be established either way. Recommended next step: re-run verification against MCA master data and a GST public profile when the search backend is restored."
+}
