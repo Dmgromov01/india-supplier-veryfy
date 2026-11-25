@@ -1,0 +1,18 @@
+{
+ "name_input": "WESTERN DRUGS LIMITED",
+ "legal_name": "WESTERN DRUGS LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACW2424P",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'W' = surname initial of the entity as registered) — format-consistent with a company PAN, but the PAN itself could not be verified against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed — no data could be retrieved. The web_search tool returned 'Connection refused' (searx backend down) on both queries, and direct fetches of public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, quickcompany.in returned 404, tofler.in returned 404, instafinancials.com returned only its generic landing page. Bing/Google HTML endpoints returned unrelated results (the query terms were not honoured), so no CIN, GSTIN, incorporation date, MCA status or financials could be sourced. Nothing is asserted here: CIN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null because they are not public in anything I could read — they are NOT null because the company is absent. The PAN AAACW2424P is reproduced from the input only; its 4th character 'C' is consistent with a company holder, but the PAN was not confirmed against any filing. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the correct status is 'unverified, re-check required'. Role cannot be classified (manufacturer vs trader) without MCA/GST records. Recommended next step: re-run against MCA master data / GST portal once the search backend is restored, or supply the CIN directly."
+}

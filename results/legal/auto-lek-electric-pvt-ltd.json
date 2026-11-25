@@ -1,0 +1,18 @@
+{
+ "name_input": "Auto lek electric pvt ltd",
+ "legal_name": "AUTO-LEK ELECTRIC PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAXCA7203P (as claimed in input; not verified against any public record)",
+ "pan_holder_type": "A (Association of Persons) — derived from 4th character 'A' of the claimed PAN; note this is inconsistent with a private limited company, which should carry holder type 'C' (Company). Discrepancy unresolved, needs documentary confirmation.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry record could be retrieved. Tooling failure: the web_search backend returned connection refused on both queries; zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in returned HTTP 403; tofler.in returned 404 for both the search and the direct company URL; instafinancials.com returned 404; Google returned a redirect interstitial; Bing returned only irrelevant US car-dealer results (no Indian registry hits for the exact name); DuckDuckGo HTML endpoint timed out. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — not public/not retrieved, NOT zero and NOT estimated. No revenue figure is asserted because no audited accounts or official filing was read. Role left as 'unknown' because no MCA business-activity code or filing was seen. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity simply could not be checked with the available tools. Two flags for the next pass: (1) the claimed PAN AAXCA7203P decodes to holder type 'A' (AOP), which does not match a 'Private Limited' company (expected 'C'); either the PAN or the legal name in the input is wrong. (2) The claimed HS codes 850131 / 851190 / 870899 span electric motors/generators, electrical ignition/starting equipment and motor-vehicle parts, while the claimed industry is 'Энергетика' (power/energy) — the industry label and the HS set are not obviously consistent, and the actual code must be fixed to whatever the company really trades, with verdict accepted_hs_corrected if it differs. Recommended action: re-run with working search, or verify manually on the MCA master-data portal and the GST taxpayer search using the exact legal name."
+}

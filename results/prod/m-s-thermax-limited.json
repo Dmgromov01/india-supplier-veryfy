@@ -1,0 +1,22 @@
+{
+ "name_input": "M/S THERMAX LIMITED",
+ "declared_hs": "381121;841430;850421;853710",
+ "actual_hs_list": [
+  "8402 (steam/other vapour generating boilers, superheated water boilers)",
+  "8419 (heat exchangers, fired heaters, absorption chillers/heat pumps, evaporators, dryers)",
+  "8414 (fans/blowers for air pollution control, compressors)",
+  "8421 (centrifuges, filtering/water & waste treatment plant, separators)",
+  "8479 (absorption refrigeration machines / vapour absorption chillers, bio-CNG & green hydrogen equipment)",
+  "8504 (transformers, static converters, UPS for projects)",
+  "8537 (control panels, PLC/electrical control boards)",
+  "3824 / 3815 / 3811 (specialty chemicals: ion exchange resins, construction chemicals, fuel/oil additives, catalysts)",
+  "3802 (activated carbon for water/air treatment)",
+  "8413 (pumps for water & waste solutions)",
+  "8416 (burners, furnace burners for fired heaters)",
+  "7309/7310 (fabricated steel tanks/vessels for process heat projects)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Thermax (thermaxglobal.com) — Indian engineering group, HQ Pune, 12 plants in India + 4 overseas (Indonesia, Denmark, Poland, Germany). Four business segments: (1) Industrial Products — Air Pollution Control Systems, Cooling & Heating Solutions (absorption chillers, heat pumps, cooling towers), Process Heat Solutions (boilers, thermic fluid heaters, heat recovery), Steam Engineering Solutions (steam accessories, traps, valves, heat exchangers), Water & Waste Solutions (effluent/water treatment, RO, ZLD); (2) Industrial Infra — Large Boilers & Fired Heaters (TBWES), Projects & Energy Solutions; (3) Green Solutions — Bio-CNG, Green Hydrogen, Renewable Energy, BOO; (4) Chemicals — ion exchange resins, construction chemicals, fuel/oil additives, specialty performance chemicals. Also O&M and EPC services.",
+ "role_hint": "manufacturer",
+ "comment": "Сверка по сайту thermaxglobal.com (главная + разделы Industrial Products / Industrial Infra). Совпадение с заявленными кодами — частичное. 381121 (additives for lubricating oils) — правдоподобно только для химического сегмента (топливные/масляные присадки), на сайте как отдельная товарная позиция не выделено → заявлено, не подтверждено. 841430 (compressors for refrigerating equipment) — Thermax делает абсорбционные чиллеры/тепловые насосы, т.е. холодильное оборудование, но компрессоры не являются их продуктом; корректнее 8418/8479 (абсорбционные холодильные машины) → частичное/спорное. 850421 (liquid dielectric transformers ≤650 kVA) — трансформаторы не заявлены в портфеле; вероятно сопутствующее электрооборудование в EPC-проектах → заявлено, не подтверждено. 853710 (control panels ≤1000 V) — подтверждается наличием систем управления/КИП в составе котельных и водоподготовки, но как самостоятельный экспортный товар на сайте не выделено → частичное. Пропущены в декларации ключевые товарные линии: 8402 (котлы), 8419 (теплообменники, печи, чиллеры), 8421 (водоподготовка), 3824/3802 (ионообменные смолы, активированный уголь), 8416 (горелки). Отраслевая метка «Нефтегаз и химия» узка: Thermax — многопрофильный энерго- и экоинжиниринг (пищевая, цементная, металлургия, фарма, текстиль, ЦБК), химия — лишь один из четырёх сегментов. Признаков трейдера нет: собственные заводы в Индии и за рубежом, собственные бренды и R&D. Все товарные позиции подтверждены только описанием на сайте — таможенных записей в рамках этой проверки не смотрели, поэтому статус «заявлено, не подтверждено». HS-несоответствие не является основанием для отклонения: компания сохраняется, коды корректируются на фактические."
+}

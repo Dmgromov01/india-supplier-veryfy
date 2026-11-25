@@ -1,0 +1,8 @@
+{
+ "name_input": "GALUKU EXPORTS (INDIA) PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for slug 'galuku-exports-india-pvt-ltd' loaded but returned only the empty template: \"Shipments available for GALUKU EXPORTS INDIA PVT LTD, refreshed daily\" — zero shipment rows, zero dates, zero destinations, zero HS codes and zero B/L numbers were rendered in the free view. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrievable: web_search backend was down (\"searx: <urlopen error [Errno 111] Connection refused\") for the whole session, and eximpedia, trademo, importgenius and zaubacorp all returned 403 / JS-challenge blocks. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, поэтому оба статуса 'unknown', а не 'confirmed'. Причина — техническая: поисковик недоступен, а все платные трейд-базы (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) отдают пустой шаблон или 403. Единственный факт: карточка компании в таможенной базе ImportKey существует (slug galuku-exports-india-pvt-ltd), т.е. юрлицо с таким именем в индийских данных встречается, но ни одной конкретной записи отгрузки с датой, направлением, HS и номером B/L в открытом доступе не видно. Заявленные HS 140490 и 530500 (растительное сырьё / кокосовое волокно) и PAN AACCB5430E не проверены — реестры и каталоги вне области задачи, PAN не подтверждён. Выручка: null (не публична в доступных источниках). Требуется повторный прогон при работающем поиске или платный доступ к Volza/ImportKey для фактических B/L."
+}

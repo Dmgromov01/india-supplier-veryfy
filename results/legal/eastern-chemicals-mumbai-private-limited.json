@@ -1,0 +1,18 @@
+{
+ "name_input": "EASTERN CHEMICALS MUMBAI PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. web_search (DuckDuckGo/searx) вернул ошибку соединения; Bing и Google по запросам в кавычках выдавали нерелевантную выдачу (не учитывали запрос), поэтому поиск по названию и по PAN не дал результатов. Прямые профили реестров недоступны: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, tofler.in — 404 по сконструированному URL, instafinancials.com — 404, mca.gov.in (Master Data) — HTTP 403. Следовательно CIN/LLPIN, дата регистрации, MCA-статус, GSTIN и GST-статус, а также выручка FY25/FY26 не установлены — null, не выдуманы. Заявленный в входных данных PAN AABCE9391A НЕ подтверждён ни одним публичным источником; по формату он соответствует 4-му символу 'C' = компания (не физлицо), но это лишь структурная проверка формата, а не подтверждение принадлежности данной организации. Заявленное юрлицо 'EASTERN CHEMICALS (MUMBAI) PRIVATE LIMITED' и входное 'EASTERN CHEMICALS MUMBAI PRIVATE LIMITED' различаются только скобками — тождественность не проверена. Роль (manufacturer/trader) не определена — null/unknown. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3); статус — требует повторной проверки реестра вручную (MCA Master Data / GST-портал) при доступном доступе. Выручка и объём экспорта — null (правило 4). Фактичность отгрузок в рамках данной роли не исследовалась (правило 5 — вне зоны ответственности legal/registry)."
+}
