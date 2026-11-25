@@ -1,0 +1,18 @@
+{
+ "name_input": "Freightbro Logistics Private Limited",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madras High Court",
+   "case": "M/s. Harsha Marine Services vs M/s. Freightbro Logistics Pvt. Ltd.",
+   "date": "2022-03-23",
+   "role": "defendant/respondent",
+   "status": "order passed (per Indian Kanoon listing; full text not retrieved)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Freightbro%20Logistics%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no OFAC SDN / UN / EU / UK / BIS Entity List match found; however the search backend (DuckDuckGo/searx) was down for the whole session and Google/Bing returned 429/blocked, so sanctions screening is INCOMPLETE — treat sanctions_hit=null as 'not verified', not as 'clear'. Court cases: one Madras High Court matter found on Indian Kanoon (Harsha Marine Services vs Freightbro Logistics Pvt. Ltd., order dated 23.03.2022, company as respondent; appears to be a commercial/marine services dispute, not criminal). Per project rule 2 this is not a rejection ground — noted neutrally as 'есть сложности'. Regulator actions / negative news: not found, but search coverage was effectively nil (search engine unavailable), so absence of evidence is not evidence of absence. Credit rating: no public rating found (null) — no CRISIL/ICRA/CARE/India Ratings page located. Russia/CIS supply evidence: none found; not verifiable this session. IMPORTANT IDENTITY DISCREPANCY (flagged, not resolved — outside my scope): the record's legal_claimed is 'KAPPAL LOGISTICS PRIVATE LIMITED' while the name_input is 'Freightbro Logistics Private Limited'; these appear to be two different entities. Indian Kanoon returned zero relevant hits for 'Kappal Logistics' (only an unrelated 2011 Lok Sabha debate). Zaubacorp and Tofler lookups returned 403/404, so no registry confirmation for either name. Recommend the legal-identity/HS researcher confirm which entity is actually being onboarded before any risk verdict is relied upon; the court case above attaches to Freightbro, not necessarily to Kappal."
+}

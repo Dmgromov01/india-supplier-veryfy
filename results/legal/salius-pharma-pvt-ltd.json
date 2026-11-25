@@ -1,0 +1,18 @@
+{
+ "name_input": "SALIUS PHARMA PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search tool returned a connection error ('searx: Connection refused') on both queries, and direct fetches of registry aggregator profiles failed: zaubacorp.com and thecompanycheck.com returned HTTP 403 (bot-blocked), tofler.in returned HTTP 404 for the guessed slug, instafinancials.com returned HTTP 404. Google and Bing HTML endpoints returned no relevant results (Bing served unrelated content). Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all reported as null - NOT because the company is absent from the register, but because no authoritative page could be read. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / needs re-check'. Role is set to 'unknown' (the 'Pharma' name and the declared HS codes 170211/281390 - lactose and barium/other inorganic chemicals - are inconsistent with each other and with the claimed 'food & FMCG' industry, but HS mismatch is not a rejection ground per project rules; the actual code should be corrected once the entity is confirmed). Revenue FY25/FY26: null - no audited accounts or official filings were accessible. Recommended next step: re-run with a working search backend and read the MCA master data page plus a GST public profile (e.g. a GSTIN lookup) to fill CIN, PAN (4th character gives holder type: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust), GSTIN, status and incorporation date."
+}

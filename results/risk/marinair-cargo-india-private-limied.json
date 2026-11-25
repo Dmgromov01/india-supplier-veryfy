@@ -1,0 +1,9 @@
+{
+ "name_input": "MARINAIR CARGO INDIA PRIVATE LIMIED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. No verifiable public record could be retrieved for this entity. Tooling failure: the web_search backend was down (connection refused) for the whole session, and direct fetches of Google/DuckDuckGo/Bing returned either timeouts or completely unrelated results (Microsoft pages, a Milwaukee restaurant) — i.e. no page actually matching the exact name 'Marinair Cargo India Private Limited' was returned. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) — NOT VERIFIED, null, not a negative finding; Indian court cases (party role/status) — NOT VERIFIED, null; regulator actions and negative news — NOT VERIFIED, null; credit rating (with date/status) — NOT VERIFIED, null; evidence of supplies to Russia/CIS — NOT VERIFIED, null. Nothing here should be read as 'clean': absence of hits is an artefact of failed retrieval, not a cleared result. Per project rules, sanctions/court/criminal matters are never rejection grounds anyway (neutral 'есть сложности' framing if later found). Data-quality flag for the batch: the record is internally inconsistent — name_input 'MARINAIR CARGO INDIA PRIVATE LIMIED' (note the typo 'LIMIED') vs legal_claimed 'PHEROMONE DISTRIBUTION AND SERVICES INDIA PVT LTD', which is a different company name entirely, and the declared HS codes (842199; 853690; 853890 — filters, electrical connectors, switchgear parts) do not match the claimed industry 'Нефтегаз и химия'. Legal identity/HS are outside my remit, so I flag rather than resolve them. Recommended: re-run this company once search access is restored, and confirm which of the two names is the actual counterparty before any risk conclusion is drawn."
+}

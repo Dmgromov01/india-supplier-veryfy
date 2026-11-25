@@ -1,0 +1,9 @@
+{
+ "name_input": "DHANJAL IMPEX PVT.LTD.; DHANJAL IMPEX PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data collected, all fields null. Reason: every research channel failed during this run. The web_search tool returned 'searx: Connection refused' on all 3 attempts; DuckDuckGo HTML and Lite endpoints timed out; Google and Brave returned HTTP 429 (rate limited); Bing returned only unrelated spam/AI-generated results (NeuroQuiet supplement ads, US college basketball) with no relevant hits for the company name; ZaubaCorp and TheCompanyCheck returned HTTP 403. No sanctions list (OFAC SDN, UN, EU, UK, BIS Entity List), no Indian court records (eCourts/NCLT/High Court), no regulator actions, no credit rating and no Russia/CIS supply evidence could be checked. IMPORTANT: null here means 'not verified', NOT 'clean' - this company must not be treated as screened. Per project rules this is not a rejection ground and no adverse inference should be drawn; the record simply requires a re-run. Recommended next step: re-run this company in a later batch when search connectivity is restored, and check (a) OFAC SDN/consolidated screening for the exact legal name and known variants 'Dhanjal Impex', (b) eCourts and NCLT party search, (c) CRISIL/ICRA/CARE/India Ratings/Brickwork for any rating, (d) Indian trade press and customs/Russia-CIS trade data. Note also that the claimed industry ('Строительство и DIY' / construction-DIY) and declared HS 480540 (uncoated kraft paper, in rolls or sheets, other than goods of heading 4802/4803) appear inconsistent with each other - flagged for the HS/legal-identity researcher, outside my scope."
+}

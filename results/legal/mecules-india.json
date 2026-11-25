@@ -1,0 +1,18 @@
+{
+ "name_input": "MECULES INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All 10 tool calls failed: web_search backend returned 'Connection refused' (searx) on both queries; DuckDuckGo HTML and lite endpoints timed out; Bing returned only irrelevant results (WhatsApp, Blooket) with no matching entity; Google returned a redirect/consent page. Registry aggregators blocked with HTTP 403: zaubacorp.com/company/MECULES-INDIA, thecompanycheck.com/company/mecules-india, instafinancials.com/search?q=Mecules. MCA endpoints (search.mca.gov.in, api.mca.gov.in) were unreachable (DNS resolution failure). Consequently legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role set to 'unknown' because no evidence of manufacturing vs trading activity was obtained. NOT rejected: per project rules rejection requires proof the entity does not exist, is struck off, liquidated or bankrupt; no such proof exists here - the lookup simply failed. Note also that the input is internally inconsistent and should be flagged to the requester: declared HS codes 901839/901890 are medical/surgical instruments (Chapter 90), while industry_claimed is 'Food & FMCG' - the HS code, not the industry label, should be treated as the factual classification per rule 3, but this cannot be confirmed without a verified product/registry record. Recommend re-running this company when search infrastructure is restored, or supplying the CIN/GSTIN directly."
+}

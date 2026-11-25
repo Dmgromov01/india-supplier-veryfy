@@ -1,0 +1,8 @@
+{
+ "name_input": "SANDUR FLUID CONTROLS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/sandur-fluid-controls-pvt-ltd loaded only a paywalled shell: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows visible, no bill-of-lading number, no date, no destination, no HS code. Volza (403), Eximpedia (403), Trademo (403), ImportGenius (JS challenge) all blocked; DuckDuckGo search backend returned 'Connection refused' and Bing returned only unrelated Amazon sign-in results.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. ZaubaCorp and TheCompanyCheck both returned HTTP 403, so even the legal-entity/GST profile could not be read. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных оказались недоступны (403 / JS-challenge / платный доступ), поисковый бэкенд не работал. Заявленный HS 841381 (насосы объёмные) не проверен по фактическим записям. Выручка и объём экспорта: null (не публичны, не выдумывались). Требуется повторный прогон при доступном источнике (ImportKey с триалом, Eximpedia, или GST-портал по PAN/CIN). Вердикт по правилу 5: 'заявлено, не подтверждено' не применимо — заявлений от компании в этом прогоне тоже не читали; статус strictly unknown, не accepted."
+}

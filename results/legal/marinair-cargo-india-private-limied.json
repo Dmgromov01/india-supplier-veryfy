@@ -1,0 +1,18 @@
+{
+ "name_input": "MARINAIR CARGO INDIA PRIVATE LIMIED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного факта. Входные данные противоречивы: name_input = 'MARINAIR CARGO INDIA PRIVATE LIMIED' (с опечаткой в 'LIMITED'), а legal_claimed = 'PHEROMONE DISTRIBUTION AND SERVICES INDIA PVT LTD' — это два разных наименования, и какое из них является фактическим юрлицом, установить не удалось. Инструменты поиска в этой сессии неработоспособны: web_search возвращает ошибку соединения (searx: Connection refused), DuckDuckGo/Bing/Google через http_get отдают либо таймаут, либо нерелевантную выдачу (кроссворды, arthritis.org), а реестровые агрегаторы zaubacorp.com, thecompanycheck.com, instafinancials.com отвечают HTTP 403 Forbidden. Официальный портал MCA (mca.gov.in) без интерактивной капчи не читается. Следовательно CIN/LLPIN, PAN (и его 4-й символ — тип держателя), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 не установлены — везде null, ничего не выдумано. Роль определена как unknown: по наименованию 'Cargo' можно предполагать транспортно-экспедиторскую деятельность (service_provider/trader), но это не подтверждено реестром. Отклонение (rejected) НЕ применяется: нет доказательств, что юрлицо не существует, ликвидировано или обанкрочено — отсутствие данных не равно отсутствию компании. Заявленный HS 842199;853690;853890 и отрасль 'Нефтегаз и химия' реестром не подтверждены и по правилам проекта не являются основанием для отклонения. Требуется повторная проверка при восстановлении доступа к MCA/Zauba/TheCompanyCheck и уточнение у заказчика, какое из двух наименований является искомым поставщиком."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Kesarinandan Associates LLP",
+ "legal_name": "KESARINANDAN ASSOCIATES LLP (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved: the web_search backend was unavailable (connection refused) and every registry/aggregator page attempted (zaubacorp, thecompanycheck, instafinancials, falconebiz, quickcompany, MCA master-data portal) returned HTTP 403/404, while DuckDuckGo timed out and Bing/Google returned no relevant hits for the exact name. Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public via accessible sources in this session, not invented. No evidence found that the entity does not exist, so per the rules it is NOT rejected; status is 'unverified, pending registry lookup'. Role cannot be determined from registry data alone (LLPs are typically service/trading vehicles; the claimed HS codes 841822/847180/851712/851822 are IT/electronics goods, which is not evidence of manufacturing capability). Revenue FY25/FY26: null — LLP audited accounts/Form 8 filings are not publicly accessible without MCA login. Recommended next step: manual MCA master-data / GST portal lookup on the exact LLPIN before any commercial decision."
+}

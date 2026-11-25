@@ -1,0 +1,8 @@
+{
+ "name_input": "SALIUS PHARMA PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'salius-pharma-pvt-ltd' loaded but contained no shipment rows — only boilerplate: \"Shipments available for SALIUS PHARMA PVT LTD, refreshed daily\" and \"Loading...\". Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. ZaubaCorp (company registry) returned HTTP 403 and is out of scope for shipment evidence anyway; no domestic supply record was seen (0 rows).",
+ "note": "Evidence could not be gathered: the DuckDuckGo search backend was unreachable for every query (\"searx: Connection refused\"), so no page discovery was possible. Direct fetches: importkey.com returned a paywalled shell with zero shipment rows; volza.com, eximpedia.app, trademo.com and zaubacorp.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. Therefore export_status and domestic_status are 'unknown', NOT 'none_found' — absence of evidence here is a tooling limitation, not proof that no shipments exist. No export record with date/destination/HS/B-L and no domestic supply record could be verified, so per Rule 5 nothing is confirmed and nothing is claimed. Declared HS codes 170211 and 281390 were not checked against any actual shipment line, so no HS correction is proposed. Revenue and export volume: null (not public in any source reached). No CIN, PAN or shipment figures were invented. Recommend re-running this company once search access is restored, or supplying a paid Volza/Eximpedia extract."
+}

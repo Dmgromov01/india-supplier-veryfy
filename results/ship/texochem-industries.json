@@ -1,0 +1,8 @@
+{
+ "name_input": "Texochem Industries",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/texochem-industries (and slug variant .../texochem-industry) returned only a JS shell: the page text reads \"Shipments available for TEXOCHEM INDUSTRIES, refreshed daily\" with zero shipment rows rendered — 0 rows actually seen, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. No counter value was displayed on the page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrievable: volza.com, eximpedia.app and trademo.com returned HTTP 403; DuckDuckGo lite/html and the searx-backed web_search tool failed (connection refused / timeout); Google and Bing returned redirect/irrelevant pages with no result for the company name. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: все источники таможенных данных (ImportKey, Volza, Eximpedia, Trademo) отдали либо пустой JS-каркас, либо 403, а поисковые движки были недоступны в момент проверки, поэтому статус по обоим пунктам — unknown, а не none_found. Заявленный HS 350699 (клеи/прочие готовые клеи) и заявленное юрлицо/владелец \"SUMAN RAMPRAKASH AGRAWAL\" ничем не подтверждены и не опровергнуты: CIN, PAN, выручка и объём экспорта — null, публичных данных не получено, цифры не выдумывались. Рекомендация: повторить проверку при доступности платных/полных выгрузок таможни и GST-портала; до этого компанию не отклонять (нет оснований — юрлицо не подтверждено как ликвидированное/банкрот), но и не считать подтверждённым поставщиком."
+}
