@@ -1,0 +1,18 @@
+{
+ "name_input": "EXPLORE MEDICAL ACCESSORIES LLP",
+ "legal_name": "Explore Medical Accessories LLP",
+ "cin_llpin": "ABC-2639",
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "2022-08-26",
+ "state_registered": "Uttar Pradesh",
+ "state_claimed": "Delhi",
+ "mca_status": "Active",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Entity exists and is Active — not rejected. Source: quickcompany.in registry search (https://www.quickcompany.in/search?q=EXPLORE+MEDICAL+ACCESSORIES), which returned exactly one match: 'Explore Medical Accessories LLP', LLPIN/registration ABC-2639, filed 26 Aug 2022, MCA status Active, ROC Kanpur. ROC Kanpur jurisdiction covers Uttar Pradesh (and Uttarakhand), so the registered office is most likely in UP, NOT in Delhi as claimed in the input — state mismatch flagged, but the exact registered-office address could not be read because the detail page (quickcompany.in/companies/abc-2639 and /companies/explore-medical-accessories-llp) returned 404 and MCA master-data, Zauba, Tofler, TheCompanyCheck, InstaFinancials and Falconebiz all returned HTTP 403. PAN: not public — could not retrieve, so the 4th-character holder-type test could not be applied; for an LLP the 4th character would normally be 'F' (firm/LLP), but this is unverified and therefore left null. GSTIN: no public GST profile could be retrieved (search backend was down, GST-portal mirrors blocked), so GSTIN and GST status are null — not invented. Revenue FY25/FY26: no audited accounts or official filings accessible for an LLP of this size; both null. Role: unknown — the name and declared HS 901890 (medical/surgical instruments) suggest a medical-device supplier, but no registry evidence of manufacturing plant, factory licence or trading activity was obtained, so no role is asserted. Note also that the input industry 'IT и электроника' is inconsistent with HS 901890 (medical instruments); per project rules this is not a rejection ground — the HS code should be treated as the factual one and the industry label corrected. No shipment, court or catalogue research performed per role scope."
+}

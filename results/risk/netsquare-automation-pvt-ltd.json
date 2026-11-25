@@ -1,0 +1,9 @@
+{
+ "name_input": "NETSQUARE AUTOMATION PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT COMPLETED. Research could not be performed reliably: the web_search backend returned connection errors ('searx: Connection refused') and, when a fallback engine was reachable, returned wholly unrelated results (cricket schedules, ChatGPT pages) for every query, i.e. queries were not actually executed. Direct fetches: zaubacorp.com returned HTTP 403; www.netsquareautomation.com failed TLS (certificate hostname mismatch — the domain does not present a valid certificate for that host, so no company website content could be verified); OFAC Sanctions List Search page loaded but is a JS form and cannot be queried via plain HTTP GET, so no name screening was actually run. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = no data retrieved; regulator actions and negative news = no data retrieved; credit rating (agency/date/status) = no data retrieved; evidence of supplies to Russia/CIS = no data retrieved. All fields set to null rather than guessed. Per project rules, absence of found data is NOT a rejection ground and NOT a clearance — this company must be re-run when search tooling is functional. No sanctions, court, criminal or regulatory findings are asserted in either direction. Recommend re-verification of: OFAC/UN/EU/UK/BIS screening by exact legal name and by the claimed PAN AADCN2231N (PAN itself unverified — not researched per role scope); e-courts/NCLT/High Court Delhi records; MCA/IBBI and RBI/SEBI action lists; CRISIL/ICRA/CARE/India Ratings coverage; and any customs/B-L or trade-data trace of shipments to Russian or CIS consignees."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "VALLEY ELECTROVISION PVT LTD; VALLEY ELECTROVISION PVT LTD; VALLEY ELECTROVISION PVT LTD; VALLEY ELECTROVISION PRIVATE LIMITED; VALLEY ELECTROVISION PVT LTD; VALLECT; VALLEY ELECTROVISION PRIVATE LIMITED; VALLEY ELECTROVISION PRIVATE LIMITED; VALLEY ELECTROVISION PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY PASS — NOT VERIFIED. No risk data could be retrieved for this entity. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML endpoints timed out; Bing returned only generic 'valley' dictionary/bank results and, for the brand token 'valleyelectrovision', entirely unrelated pages — i.e. no company-specific hits surfaced at all. ZaubaCorp returned HTTP 403 (blocked). Therefore: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = NOT CHECKED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating (agency, date, status) = NOT CHECKED; evidence of supplies to Russia/CIS = NOT CHECKED. All fields set to null per rule 4 (do not invent data) — null here means 'not established', NOT 'no risk'. No sanctions, court, or criminal finding is asserted, and per rule 2 nothing here would be a rejection ground in any case. Note the input carries 9 name variants including the short brand 'VALLECT'; the legal identity, CIN/PAN and registered state were not researched in this pass (out of scope) and remain unconfirmed, so any future sanctions/court screening must first pin the exact legal entity — screening the wrong 'Valley Electrovision' variant would produce a false negative. Recommend re-running this risk pass once search connectivity is restored, using the confirmed CIN."
+}
