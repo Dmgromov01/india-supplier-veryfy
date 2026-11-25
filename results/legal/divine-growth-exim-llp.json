@@ -1,0 +1,18 @@
+{
+ "name_input": "DIVINE GROWTH EXIM LLP",
+ "legal_name": "DIVINE GROWTH EXIM LLP (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: the web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant dictionary results for the exact-phrase query 'DIVINE GROWTH EXIM LLP' (no Indian registry hit surfaced); MCA portal (mca.gov.in), Zauba Corp, TheCompanyCheck, Tofler and InstaFinancials all returned HTTP 403 Forbidden; llpin.com reset the connection. Consequently LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - none of these are public to me in this run and I will not fabricate them. Note on the name: the 'LLP' suffix is consistent with a limited liability partnership, which would mean an LLPIN (format AAA-9999) rather than a 21-character CIN, and PAN 4th character would be 'F' (firm/LLP) if a PAN exists - but this is inference from naming convention only, NOT a verified record, so both fields are left null. No rejection is applied: per project rules a company may only be rejected if the entity is proven non-existent, struck off, liquidated or bankrupt, and I have no evidence either way. Status should be treated as 'unverified - registry lookup pending'. The declared HS codes 848210/848220/848320 are ball/roller bearings (HS 8482), which does not match the claimed industry 'Metallurgiya i gornodobycha' (metallurgy & mining); per the 23.11.2026 rule this is NOT grounds for rejection - the company stays in the base and the HS code should be corrected to the factual one, verdict would be accepted_hs_corrected once the entity is confirmed. Role cannot be assigned (manufacturer/trader/manufacturer_trader) without registry or filing data. Recommended next step: re-run with working search, or manual MCA 'View LLP Master Data' / GST portal lookup by name to obtain LLPIN and GSTIN."
+}

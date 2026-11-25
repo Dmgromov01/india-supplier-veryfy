@@ -1,0 +1,18 @@
+{
+ "name_input": "EKIN",
+ "legal_name": "EKIN INDIA PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no registry data obtained. All attempts failed: web_search backend returned connection refused / irrelevant results; zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; Google returned 429; DuckDuckGo timed out. Therefore CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are not public in any source I could reach, and I will not guess them. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role cannot be determined from registry data (no NIC/activity code retrieved) - set to unknown rather than inferred from the claimed 'IT and electronics' industry. NOT rejected: the entity was not shown to be non-existent, struck off, liquidated or bankrupt - the record simply could not be retrieved. Declared HS 852859 is not a rejection ground under project rules and was not assessed here (out of scope for this role). Recommended action: re-run with a working search backend or paid registry API (MCA V3 master data / GST portal search by trade name) to obtain CIN, PAN, GSTIN and filings."
+}

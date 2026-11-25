@@ -1,0 +1,18 @@
+{
+ "name_input": "PLR FOODS PRIVATE LIMITED",
+ "legal_name": "PLR FOODS PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this session: DuckDuckGo/searx backend refused connections; Google returned HTTP 429; Bing returned only irrelevant 'PLR = private label rights' results for every query variant tried (company name + CIN, + GSTIN, + zaubacorp/tofler/indiafilings, + MCA/directors); zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403; instafinancials.com returned 404 for the guessed slug. No CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figure is therefore confirmed, and none has been fabricated — all such fields are null. Per project rules the company is NOT rejected: absence of a public record in these searches is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' — the declared HS codes (080450 guavas/mangoes fresh-dried, 200290 tomato paste, 200799 jams/fruit pastes, 200899 other prepared fruit) are consistent with a fruit-processing manufacturer or a trader in processed foods, but this is an inference from the HS list only, not a verified activity. Action required: re-run verification when search/registry access is restored, or obtain the CIN or GSTIN directly from the supplier, then confirm MCA status, registered state and FY25/FY26 audited turnover."
+}

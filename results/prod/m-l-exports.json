@@ -1,0 +1,16 @@
+{
+ "name_input": "M L EXPORTS",
+ "declared_hs": "240110;240120",
+ "actual_hs_list": [
+  "630260 - Toilet/kitchen linen of terry towelling, cotton",
+  "630291 - Toilet/kitchen linen of cotton, other (table linen, napkins, runners)",
+  "630231 / 630221 - Bed linen, cotton, printed or otherwise",
+  "630492 - Furnishing articles of cotton, not knitted (cushion covers, throws, curtains)",
+  "630790 - Other made-up textile articles (aprons, oven gloves, pot holders, tea cozies, dish cloths)",
+  "420222 / 630532 - Bags (textile shopping/beach bags) - code depends on construction, cannot_verify"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Per the only public catalogue found (mlexports.in, Karur, Tamil Nadu, est. 2005, self-described 'Government of India Recognized Export House'): home-textile made-ups and fabrics - kitchen linen (kitchen towels, aprons, dish cloths, double oven gloves, pot holders, tea cozies), table linen (table cloths, napkins, mats and runners), living linen (cushions, mattress cushions, curtains, throws), beach bed linen and textile bags. No tobacco, no unmanufactured tobacco leaf, no construction/DIY goods anywhere in the catalogue.",
+ "role_hint": "manufacturer_trader - site describes own hand-loom weaving unit evolved into a textile manufacturer-exporter, but also presents a broad multi-category trading-style catalogue; no customs line available to confirm either way.",
+ "comment": "HS MISMATCH - company retained, code corrected (Rule 3). Declared 240110/240120 (unmanufactured tobacco, not stemmed/stemmed) is contradicted by the entire published product range, which is cotton home textiles (HS 63xx). The claimed industry 'Строительство и DIY' (construction & DIY) is also misclassified - the catalogue is home furnishing textiles, not building materials. Two independent errors in the same record suggest the declared HS and industry were taken from a different company or a template. Corrected codes: 630260, 630291, 630231/630221, 630492, 630790, plus a bag code to be fixed after seeing construction. All product lines above are 'заявлено, не подтверждено' - sourced only from the company's own website (https://mlexports.in/), no customs line, no B/L, no GST turnover was available to corroborate any shipment. Identity caveat: 'M L Exports' is a generic name; I could not verify that mlexports.in (Karur) is the same legal entity as the declared supplier, and no registry/PAN check was performed (out of scope). If the declared supplier is a different firm, the tobacco codes may be correct and this catalogue is irrelevant - that must be resolved before the record is used. Search infrastructure was largely unavailable during this check (DuckDuckGo refused connections, Bing returned only generic results, IndiaMART rate-limited), so the catalogue search was not exhaustive."
+}

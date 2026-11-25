@@ -1,0 +1,18 @@
+{
+ "name_input": "M L EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure during this run: DuckDuckGo/Searx search returned 'Connection refused' on all queries; Bing returned only irrelevant results for the quoted name; Google returned a redirect/consent page; zaubacorp.com, thecompanycheck.com and tofler.in all returned HTTP 403 to direct fetches. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be verified from a public source. All such fields are set to null rather than guessed. IMPORTANT: 'M L EXPORTS' is a very common Indian trade name and may correspond to a proprietorship/partnership (no CIN, no MCA record) or to one of several similarly named private limited companies; without a GSTIN or PAN from the input it cannot be disambiguated. No rejection is applied - absence of retrievable data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' (name suggests an exporter/trader, but this is not registry-confirmed). Note also that the declared HS codes 240110/240120 (unmanufactured tobacco, not stemmed/stemmed) are inconsistent with the claimed industry 'Строительство и DIY' (construction/DIY); per project rules this is NOT grounds for rejection - the company stays in the base and the HS code should be corrected to the factual one. Recommended next step: re-run with a working search backend, or supply GSTIN/PAN/registered state to allow a targeted lookup."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "PALLAS LIFE SCIENCE",
+ "export_status": "confirmed",
+ "export_evidence": "ImportKey India customs record: \"2025-10-26 | PALLAS LIFE SCIENCE | KANTIPUR PHARMACEUTICALS LAB LTD | AMMONIUM PROPIONATE POWDER | Raxaul, India | BIRGUNJ, NEPAL | 29181190 | 4374487\" — 1 shipment row actually seen on the page (page header states \"Total Shipments 1 Records detected\", \"Trading Partners 1\", ports RAXAUL, INDIA 1 / BIRGUNJ, NEPAL 1); source counter = 1, rows seen = 1.",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Export fact confirmed by a single dated customs/B-L record (BOL 4374487, 2025-10-26, Raxaul→Birgunj, Nepal, buyer Kantipur Pharmaceuticals Lab Ltd, product ammonium propionate powder). Declared HS 282739 does not match the actual shipment HS 29181190 (propionates/esters of propionic acid) — per project rules this is NOT a rejection ground: company stays in the base, HS should be corrected to 29181190, verdict accepted_hs_corrected. Only one shipment in the visible record set, so export activity is real but thin (single consignment, single buyer, land-border trade with Nepal). Slug variants 'pallas-life-sciences' and 'pallas-lifescience' returned empty pages (no records). Domestic supply evidence: none found — no GST turnover band, GeM/CPPP tender or contract data could be retrieved; DuckDuckGo search backend was unavailable (connection refused) and volza returned HTTP 403, so domestic_status is unknown rather than none_found. Revenue and export volume: null (not public in free view). No CIN/PAN found; address fragment on record: 'B/22 COMMERCIAL COMPLEX'."
+}

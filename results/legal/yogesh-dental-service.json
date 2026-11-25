@@ -1,0 +1,18 @@
+{
+ "name_input": "Yogesh Dental Service",
+ "legal_name": "Yogesh Dental Service (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification could not be completed: the search backend (DuckDuckGo/searx) was down ('Connection refused'), Google returned only a redirect stub, Bing returned unrelated results for every query, and registry aggregators (ZaubaCorp, Tofler, InstaFinancials) plus mca.gov.in returned HTTP 403. No public record of the exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue was obtained, so all such fields are null — nothing was inferred or invented. The name 'Yogesh Dental Service' reads like a proprietorship/partnership trade name rather than a company, which would mean no CIN and no MCA record exists at all, but this is an unconfirmed hypothesis, not a finding. No rejection applied: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and per project rules rejection requires positive evidence of one of those. The declared HS 901849 (dental instruments) is consistent with the trade name, but the input industry_claimed 'Нефтегаз и химия' (oil & gas / chemicals) contradicts it — this is a data-quality flag for the input record, not a rejection ground; HS is left as declared pending actual verification. Role is 'unknown' because no evidence of manufacturing or trading activity was retrievable. Recommend re-running this company once search access is restored, checking the GST portal (gst.gov.in search by trade name) and the Udyam/MSME registry, which are the correct sources for a non-corporate dental-supply business."
+}

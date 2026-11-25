@@ -1,0 +1,9 @@
+{
+ "name_input": "ARTICER VITRIFIED LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo search backend returned 'Connection refused' on all queries; Bing returned only unrelated results (Windows help pages, TV Guide, e-bike manuals) for every query variant tried, i.e. the search layer is non-functional, not merely empty; IndianKanoon returned HTTP 403; Google returned a redirect interstitial. The OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be queried via plain HTTP GET, so no name screening was actually executed. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating (agency/date/status) = NOT CHECKED; evidence of supplies to Russia or CIS = NOT CHECKED. All fields set to null per rule 4 (do not invent data) — null here means 'not established', NOT 'none found'. No adverse information was found, but equally no clean bill of health can be given. Recommend re-running this company once search access is restored, and manually screening the exact registered LLP name (including any 'Articer Vitrified LLP' vs 'Articer Vitrified Products LLP' variants) against OFAC SDN, EU consolidated, UK OFSI and BIS Entity List, plus eCourts/NCLT and IndianKanoon. Per project rule 2, any sanctions/court/criminal findings that do emerge are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}
