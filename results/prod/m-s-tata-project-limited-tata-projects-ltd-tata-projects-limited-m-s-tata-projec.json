@@ -1,0 +1,33 @@
+{
+ "name_input": "M/S TATA PROJECT LIMITED; TATA PROJECTS LTD; TATA PROJECTS LIMITED,; M/S TATA PROJECTS LIMITED.; M/S TATA PROJECTS LTD.; M/S TATA PROJECTS LIMITED; M/S TATA PROJECTS LIMITED, MISA, NAGAON[ASSAM]; M/S TATA PROJECT LIMITED, MISSA, NAGAON, ASSAM; TATA PROJECTS LIMITED",
+ "declared_hs": "847431",
+ "actual_hs_list": [
+  "8474.10",
+  "8474.20",
+  "8474.31",
+  "8474.39",
+  "8474.80",
+  "8474.90",
+  "8411.81",
+  "8411.82",
+  "8402.11",
+  "8402.12",
+  "8402.19",
+  "8402.90",
+  "8504.21",
+  "8504.22",
+  "8504.23",
+  "8544.42",
+  "8544.70",
+  "7308.10",
+  "7308.20",
+  "7308.40",
+  "7308.90",
+  "9406.90",
+  "8479.89"
+ ],
+ "match_status": "partial",
+ "product_summary": "Tata Projects Limited (Tata Group, HQ Powai, Mumbai; founded 1979) is an EPC / construction contractor, not a goods manufacturer. Its own corporate description (Wikipedia, sourced to Bloomberg/Forbes India/BusinessLine) lists: advanced technology facilities (data centres, semiconductor fab for Micron at Sanand, life-science plants, nitric-acid expansion at DFPCL Dahej); space & nuclear structures (NPCIL, BARC, ISRO; trisonic wind tunnel at VSSC); power sector EPC (gas-based combined-cycle plants, coal BoP, 400 kV/500 kV transmission lines in Bangladesh and Thailand); transportation (metros in Lucknow/Mumbai/Pune/Delhi/Ahmedabad/Chennai/Dhaka, dedicated freight corridors, Mumbai Trans Harbour Link, Noida International Airport, Prayagraj terminal); urban infrastructure (new Parliament Building, BharatNet optical-fibre laying); oil & gas; metals & minerals (beneficiation plants, sinter plants, pellet plants, blast furnaces, casters, rolling mills on EPC basis; Rourkela Steel Plant); water. The declared HS 8474.31 (concrete/mortar mixers) is a single machine code that does not describe this business: the company builds plants and infrastructure and, where it supplies equipment, it is plant/machinery packages (8474.10 sorting/screening, 8474.20 crushing/grinding, 8474.80 other mineral-working machinery, 8474.90 parts), plus boilers/turbines/generators (8402, 8411), transformers (8504.2x), cables (8544), steel structures (7308) and prefabricated buildings (9406.90). No product catalogue with own manufactured SKUs was retrievable: the official site www.tataprojects.com returned only a generic title string ('Top Ten Construction Company Group in India...') on every path tried (/ , /businesses, /metals-and-minerals, /contact-us), so no product page could be read.",
+ "role_hint": "trader / EPC contractor (project integrator and procurement agent) — not a manufacturer; no evidence of own production of HS 8474 goods. Any goods it ships are bought-out equipment procured for projects.",
+ "comment": "HS 8474.31 (concrete mixers) is only partially consistent: the company does operate in the mineral/construction-machinery space (metals & minerals EPC: sinter/pellet/beneficiation plants, crushers, screens), so 8474 is the right heading family, but the specific subheading 8474.31 is not corroborated by any product line found on the company's own materials — it looks like a generic code picked for a construction/EPC firm. Per project rule 3 this is NOT a rejection ground: company retained, code corrected to the actual activity profile (8474.10/8474.20/8474.80/8474.90 for mineral-processing equipment packages, plus 8402/8411/8504/8544/7308/9406.90 for power and infrastructure equipment). Industry classification 'Металлургия и горнодобыча' (metals & mining) is a misclassification of the sector: Tata Projects is a metals-and-minerals *EPC contractor*, i.e. construction/engineering services (ISIC 42/71), not a metallurgical producer or miner. Trader signs: it is a project integrator that procures and resells third-party equipment; no own manufacturing plant or product catalogue found. Product lines missing from the declaration: power generation and T&D equipment, nuclear/space structures, metro/rail and airport infrastructure, oil & gas, water, data centres and semiconductor facilities, optical-fibre networks. All of the above is 'заявлено, не подтверждено' — no customs line, invoice or shipping record was checked in this task (out of scope), and the official website could not be read, so nothing here is corroborated by a customs entry. The Nagaon/Misa (Assam) address variants in the name field could not be verified against any company page (site unreachable) — null."
+}

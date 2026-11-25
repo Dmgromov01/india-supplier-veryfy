@@ -1,0 +1,8 @@
+{
+ "name_input": "Swaraj Polycoats",
+ "export_status": "unknown",
+ "export_evidence": "No export shipment row was retrieved. ImportKey pages for both slug variants (https://importkey.com/countries/india/swaraj-polycoats and https://importkey.com/countries/india/swaraj-poly-coats) returned only the generic page shell: 'Shipments available for SWARAJ POLYCOATS, refreshed daily' — a boilerplate template string, not a shipment record. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender, contract or annual-report split was found. Searches returned no usable results (DuckDuckGo endpoint refused connection; Bing returned unrelated Microsoft pages; Google returned HTTP 429). Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это не подтверждение отсутствия отгрузок, а отсутствие доступа к данным: ImportKey отдаёт только шаблонную заглушку без строк, volza/eximpedia/trademo/zaubacorp вернули HTTP 403, поисковые движки были недоступны. Заявленный HS 320890 (краски/лаки на полимерной основе) не проверен по фактическим записям — код не подтверждён и не опровергнут. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Юрлицо, CIN, PAN, штат — не установлены, поэтому оснований для rejected нет; статус остаётся unknown до получения таможенных или GST-записей."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ADVANCE PETROCHEMICALS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. All search tooling failed during this run: web_search (searx) returned 'Connection refused' on every query; DuckDuckGo HTML/lite endpoints timed out; Bing returned an identical static generic results page (Advance Auto Parts / dictionary entries) for every query, i.e. the quoted company name was never actually processed; Brave returned HTTP 429; Mojeek returned HTTP 403; Google is JS-gated. The OFAC Sanctions List Search page loaded but is a JavaScript form that returns no results via plain HTTP GET, so no SDN/Non-SDN name match could be executed. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT CHECKED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating (agency/date/status) = NOT CHECKED; evidence of supplies to Russia/CIS = NOT CHECKED. Per project rules no data is invented and no figures are estimated, hence all fields null. This is a tooling failure, not a negative finding - the company must be re-queued for risk screening once search access is restored. No rejection is implied or recommended on the basis of this null result (Rule 2 and Rule 3: sanctions/court matters are never rejection grounds anyway)."
+}
