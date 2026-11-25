@@ -1,0 +1,18 @@
+{
+ "name_input": "SPICE NEST IMPEX PRIVATE LIMITED",
+ "legal_name": "SPICE NEST IMPEX PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "ABGCS5965G (claimed by input, unverified)",
+ "pan_holder_type": "ABGCS5965G — 4th character 'C' = company (corporate PAN holder), consistent with a private limited company; format valid, but holder not confirmed against any public record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on both queries; Bing/Google HTML endpoints returned only generic 'spice' results with no match for the exact legal name; MCA master-data portal, Zauba Corp, Tofler, TheCompanyCheck, Falconebiz and InstaFinancials all returned HTTP 403/404. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public to me in this session, not evidence of absence. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined without the MCA main-object clause / NIC code, so 'unknown'. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of retrievable records is not proof of non-existence. Action required: re-run against MCA master data (or a paid registry API) to obtain CIN, GSTIN and status before any verdict; the claimed PAN ABGCS5965G is format-valid and its 4th character indicates a company holder, but it is unverified."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "M/s EXCELSOURCE INTERNATIONAL PRIVATE LI; EXCELSOURCE INTERNATIONAL PVT.LTD.; EXCELSOURCE INTERNATIONAL PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search возвращал ошибку соединения (searx: Connection refused), а прямые запросы к поисковикам (Google, Bing, DuckDuckGo HTML) отдавали нерелевантные/кэшированные результаты, не связанные с компанией. Профильные источники заблокировали доступ: tofler.in — HTTP 403, indiankanoon.org — HTTP 403. Форма поиска OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) загружается, но является JS-формой и не отдаёт результаты через GET, поэтому фактического прогона имени по SDN/Non-SDN не сделано. Следовательно: sanctions_hit, court_cases, rating, news_risk и rf_supply остаются null — это НЕ означает отсутствие рисков, это означает отсутствие проверки. Никаких данных о санкциях, судебных делах, рейтингах, негативных новостях или поставках в РФ/СНГ не подтверждено и не опровергнуто; выдумывать нельзя. Требуется повторный прогон при восстановлении доступа к поиску, а также ручная проверка по OFAC SDN CSV, UN/UK/EU consolidated lists, BIS Entity List, eCourts/NCLT и рейтинговым агентствам (CRISIL/ICRA/CARE). Отклонение по данному отчёту не обосновано ни в какую сторону."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Alchemy Medicine Private Limited; M/S ALCHEMY MEDICINE PVT.LTD; M/S ALCHEMY MEDICINE PVT.LTD; Alchemy Medicine Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных, все поля null. Технические причины: (1) поисковый бэкенд DuckDuckGo/searx возвращал 'Connection refused' на все запросы; (2) Bing отдавал только кэшированные общие результаты про 'алхимию' (Wikipedia, alchemy.com, Little Alchemy), полностью игнорируя кавычки и уточнения 'Private Limited', 'India', 'Uttarakhand', 'CIN' — то есть релевантных страниц по компании не найдено; (3) реестры индийских компаний недоступны: zaubacorp.com — HTTP 403, tofler.in — HTTP 403, search.mca.gov.in — DNS не разрешается; (4) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — форма на JS, результат по имени через GET не отдаётся, скрин-проверка по SDN/Non-SDN не выполнена. Отсутствие санкционного/судебного/рейтингового попадания НЕ подтверждено — это не 'чисто', а 'не проверено'. Никаких CIN, PAN, номеров дел, дат или сумм не выдумывалось. Требуется повторный прогон при работающем поиске и доступе к MCA/OFAC/EU/UK/BIS-спискам, а также к eCourts/NCLT/IBBI и рейтинговым агентствам (CRISIL/ICRA/CARE/Acuite). Отдельно: заявленная отрасль 'Нефтегаз и химия' при HS 300490 (фармпрепараты) — расхождение профиля, стоит перепроверить при следующем прогоне (не является основанием для отклонения по правилу 3)."
+}

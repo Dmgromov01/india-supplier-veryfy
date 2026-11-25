@@ -1,0 +1,9 @@
+{
+ "name_input": "DHV Stainless",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No public risk data found. Searches for 'DHV Stainless' (alone, with 'India/Maharashtra', with 'steel', and with sanctions/court/GST terms) returned no matching entity - only unrelated 'DHV' organisations (DHV Industries valves, DHV paragliding association, DHV Technology solar). The claimed PAN AMDPS0036K returned no indexed results at all. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and could not be queried via plain HTTP GET, so no automated SDN/Non-SDN screen was completed; UN/EU/UK/BIS lists were not separately screened because the web_search backend was down (connection refused) and only Bing HTML was reachable. Indian court records (eCourts/NCLT) and credit-rating agency pages (CRISIL/ICRA/CARE/India Ratings) were not reachable within the tool budget, so court_cases and rating are null - not evidence of absence. No negative news, regulator action, or any evidence of supplies to Russia/CIS was found; rf_supply null. Note also that the declared HS 730611 (stainless steel line pipe) is inconsistent with the claimed industry 'IT and electronics' - flagged for the HS/identity team, not a risk finding. Recommend manual registry (MCA) and paid-database screening before onboarding; absence of footprint is itself a due-diligence flag for a claimed exporter."
+}

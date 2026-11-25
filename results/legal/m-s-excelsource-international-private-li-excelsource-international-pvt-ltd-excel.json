@@ -1,0 +1,18 @@
+{
+ "name_input": "M/s EXCELSOURCE INTERNATIONAL PRIVATE LI; EXCELSOURCE INTERNATIONAL PVT.LTD.; EXCELSOURCE INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": "EXCELSOURCE INTERNATIONAL PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAHCS5986K",
+ "pan_holder_type": "H — HUF (per 4th character of PAN; note: this is inconsistent with a private limited company, which should carry a 'C' at the 4th position — the PAN as claimed/printed on the public profile appears to be a proprietorship/HUF PAN, so it may be a group/assessee PAN rather than the company's own PAN)",
+ "gstin": "24AAHCS5986K1ZP",
+ "gst_status": "Active — GST registration date 01-07-2017 (per IndiaMART public profile of the firm)",
+ "incorporation_date": null,
+ "state_registered": "Gujarat (Vadodara) — registered/operating address on public profile: 5th & 6th Floor, Excel House, Block 2, 73 East Avenue Corporate, Bhailal Amin Marg, Sarabhai Campus, Near Genda Circle, Vadodara 390023, Gujarat; GSTIN state code 24 = Gujarat",
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "No audited accounts or MCA/official filings accessible. Only self-declared IndiaMART band 'Annual Turnover > 500 Cr' — a self-declared range, not an audited figure, therefore not used.",
+ "note": "Registry verification incomplete: MCA/registry mirrors (Zauba, Tofler, TheCompanyCheck, InstaFinancials, QuickCompany) returned 403/404 and the search backend was unavailable (searx connection refused; Bing/Google returned irrelevant results), so CIN, incorporation date and MCA status could NOT be confirmed — left null rather than guessed. What IS confirmed from a public profile (IndiaMART company page for 'Excelsource International Pvt. Ltd.', Vadodara): GSTIN 24AAHCS5986K1ZP, GST registration 01-07-2017, legal status 'Limited Company', IEC 3403004368, declared nature of business 'Service Provider and Others', declared turnover band >500 Cr. IMPORTANT DISCREPANCIES: (1) state — input claims Maharashtra, but the public profile and GST state code 24 place the entity in Gujarat (Vadodara); a Maharashtra-registered entity would carry GST state code 27. (2) PAN 4th character 'H' indicates HUF, not a company ('C'), so the claimed PAN likely does not belong to the private limited company itself. (3) Declared HS 851762 (telecom/network equipment) does not match the profile's actual business (packaged drinking water / bottling / filling machinery and turnkey plants) — per project rules this is NOT grounds for rejection; the company stays in the base and the HS code should be corrected to the actual product line (machinery for water/beverage processing, e.g. HS 8422/8479 range, to be fixed by the classifier). Role assessed as trader/service-provider-type supplier of plant & machinery rather than a manufacturer of telecom equipment; 'trader' chosen because the profile self-describes as 'Service Provider and Others' and no manufacturing licence/plant evidence was found. No rejection grounds established (entity appears to exist and be GST-active), but CIN/MCA status must be re-verified against the MCA master data before final acceptance."
+}
