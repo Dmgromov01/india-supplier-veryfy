@@ -1,0 +1,18 @@
+{
+ "name_input": "STANFAB APPARELS PRIVATE LIMITED",
+ "legal_name": "STANFAB APPARELS PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AANCS0241H",
+ "pan_holder_type": "C — company (4th character 'C' of the claimed PAN indicates a company holder). Format is valid (5 letters + 4 digits + 1 letter), but the PAN could not be validated against any public record; it is reported as claimed, not confirmed.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: DuckDuckGo/searx search backend refused connection ('Connection refused') on both queries; Google and Bing returned no usable results (Bing served unrelated McDonald's results); zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; MCA portal (mca.gov.in/mcafoportal) returned HTTP 403 and search.mca.gov.in did not resolve. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT evidence of absence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the declared HS codes (620442, 620462, 620463, 620520 — women's/girls' and men's woven dresses, trousers, shirts) point to a garment/apparel entity, which contradicts the input's industry label 'Продукты питания и FMCG' (food & FMCG); this is a classification discrepancy to be corrected, not a rejection ground. Per project rules the company is NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found — the entity simply could not be checked. Action required: re-run verification when MCA/registry access is available, and confirm the exact legal name, CIN, GSTIN and registered state before any acceptance decision."
+}
