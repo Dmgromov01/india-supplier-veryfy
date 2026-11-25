@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SENTISS PHARMA PRIVATE LIMITED",
+ "legal_name": "SENTISS PHARMA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AAACP1612Q (claimed by input, NOT verified)",
+ "pan_holder_type": "P — individual (natural person) per 4th character of the claimed PAN. NOTE: this is inconsistent with a private limited company, which must hold a company PAN with 4th character 'C'. The claimed PAN therefore does not belong to the claimed legal entity — either the PAN or the entity name in the input is wrong.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. All search backends failed (DuckDuckGo/searx connection refused and timeouts, Google 429, Yahoo 500, Bing returned only irrelevant results for the exact-name query), and every registry aggregator tried returned HTTP 403 (zaubacorp.com, thecompanycheck.com, instafinancials.com) or 404 (tofler.in search); mca.gov.in MDS also returned 403. Consequently CIN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue are all null — not public/not retrieved, not invented. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy could NOT be established, and per project rules rejection requires positive evidence of one of those. Two flags for follow-up: (1) the claimed PAN AAACP1612Q has 4th character 'P' = individual holder, which cannot be the PAN of a private limited company — the PAN/entity pairing must be re-checked with the supplier's PAN card and COI; (2) the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) conflicts with the declared HS codes 3004xx (medicaments) and with the 'PHARMA' name — industry classification should be corrected to pharmaceuticals. Role cannot be determined without MCA/GST records; no evidence of manufacturing or trading activity was obtained. Recommend re-running this company when search/registry access is restored, or obtaining the COI, GST certificate and PAN card directly from the supplier."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "CARE MEDIQUIP",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx unavailable), so no search results were obtainable. Direct fetches of public registry sources also failed: zaubacorp.com (HTTP 403), instafinancials.com (403), mca.gov.in MDS portal (403), tofler.in search (404), thecompanycheck.com search (404), duckduckgo html (timeout). Bing/Google HTML endpoints returned only generic 'care' results and ignored the quoted company name, yielding nothing relevant. Consequently the exact legal entity name, CIN/LLPIN, PAN (and therefore the 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all UNVERIFIED and recorded as null rather than guessed. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role is 'unknown' - the input gives no evidence of manufacturing vs trading, and the claimed industry ('oil & gas and chemicals') is inconsistent with the declared HS 940290 (medical/surgical/ veterinary furniture, e.g. hospital beds), which points to a medical-equipment supplier; per project rules this HS mismatch is NOT a rejection ground and the code should be corrected to the factual one once the entity is identified. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research gap, not a negative finding. ACTION REQUIRED: re-run this company when the search backend is restored, or supply the GSTIN/PAN from the supplier's documents, to resolve the legal entity and confirm whether it is a proprietorship/partnership (no CIN) or a company. Per rule 5, no shipment or supply evidence was assessed in this pass (out of scope for the registry role), so no claim of actual supplies is made either way."
+}

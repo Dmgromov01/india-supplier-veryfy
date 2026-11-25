@@ -1,0 +1,18 @@
+{
+ "name_input": "CADILA PAHRMACEUTICALS LTD",
+ "legal_name": "Cadila Pharmaceuticals Limited",
+ "cin_llpin": "U24231GJ1991PLC015132",
+ "pan": "AAACC6251E",
+ "pan_holder_type": "Company (4th character 'C' = company; consistent with a public limited company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat",
+ "state_claimed": "Himachal Pradesh",
+ "mca_status": "Active (not struck off/liquidated per company's own corporate site; MCA master data not directly readable - registry aggregators returned 403/JS-only pages)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "CIN U24231GJ1991PLC015132 is taken from the footer of the company's official website (cadilapharma.com), which also lists the corporate office at Sarkhej-Dholka Road, Bhat, Ahmedabad-382210, Gujarat - so the registered state is Gujarat, not Himachal Pradesh as claimed in the input. The CIN's 1991 incorporation year and 'U24231' pharma-manufacturing activity code are consistent with the company's own description of itself as a formulations/API manufacturer with plants at Dholka, Ankleshwar, Jammu and (via CPL Pharmaceuticals Pvt Ltd) Udaipur/Dahej. PAN AAACC6251E is the claimed value; its format is valid and the 4th character 'C' indicates a company holder, but I could not independently verify the PAN against an official Income Tax / MCA record, so treat it as unverified. GSTIN, GST status, exact date of incorporation and MCA status could not be confirmed: zaubacorp, thecompanycheck, instafinancials, falconebiz and tofler all returned 403, JS-only shells or 404s, and the search backend was unavailable (searx connection refused, Google 429, Bing returned irrelevant results). Revenue FY25/FY26: null - no audited accounts or official filings were retrievable within the tool budget, so no figures are stated rather than estimated. Note the declared HS codes (170490, 210690, 292129, 292219) are food preparations and acyclic organic chemicals/amines, which do not match a formulations manufacturer's typical pharma HS chapters (29/30); per project rules this is not a rejection ground - the entity exists and is active, so it is retained with the HS code to be corrected to the actual pharma codes. No rejection applied."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Haks International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. В этом прогоне поисковый бэкенд (DuckDuckGo/searx) был недоступен, а публичные реестровые агрегаторы (zaubacorp.com, instafinancials.com, thecompanycheck.com) отдали 403/404; Bing выдавал нерелевантную выдачу. Ни точное юр. наименование, ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус, ни выручка за FY25/FY26 не найдены в публичных источниках — все поля null, ничего не додумано. Роль определить нельзя (unknown): по названию 'International' и кодам ТН ВЭД 870840/870899 (части КПП и прочие части для моторных ТС) это может быть и трейдер, и производитель — без реестра не устанавливается. Отклонять НЕЛЬЗЯ: нет подтверждения, что юрлицо не существует/ликвидировано/банкрот (правило 3). Требуется повторная проверка при доступном реестре (MCA master data, GST-портал по названию, PAN-валидация по 4-му символу)."
+}

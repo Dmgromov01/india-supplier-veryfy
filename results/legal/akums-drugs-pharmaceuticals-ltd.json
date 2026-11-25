@@ -1,0 +1,18 @@
+{
+ "name_input": "AKUMS DRUGS & PHARMACEUTICALS LTD",
+ "legal_name": "Akums Drugs and Pharmaceuticals Limited",
+ "cin_llpin": "L24231DL2004PLC129768 (unverified — MCA/Zauba/TheCompanyCheck returned HTTP 403; CIN pattern consistent with a 2004 Delhi-incorporated public limited company, but not confirmed from an official filing in this session)",
+ "pan": "AAECA7090B (as claimed in input; format valid: 4th character 'C' = company holder type. Not independently verified against an official source — Income Tax / MCA PAN lookup not accessible)",
+ "pan_holder_type": "company (per 4th character 'C' of claimed PAN)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "2004 (year only, per company website/Wikipedia and Screener company profile; exact date not confirmed from MCA)",
+ "state_registered": "Delhi — corporate/registered office: Plot No. 131 to 133, Block-C, Mangolpuri Industrial Area, Phase-I, Delhi 110083 (source: https://www.akums.in/contact-us). Manufacturing plants in Uttarakhand (Haridwar) etc.",
+ "state_claimed": "None (not specified in input)",
+ "mca_status": "Active — listed on NSE (AKUMS) and BSE (544222) since 6 Aug 2024; no strike-off/liquidation/insolvency indication found. MCA master data not directly retrieved (registry sites blocked).",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 4118,
+ "revenue_fy26_cr": 4359,
+ "revenue_source": "Screener.in consolidated P&L (https://www.screener.in/company/AKUMS/consolidated/): Sales Mar 2025 = ₹4,118 Cr; Mar 2026 = ₹4,359 Cr (consolidated, from company's audited/limited-reviewed filings). FY24 = ₹4,178 Cr. Note: figures are consolidated and taken from an aggregator of BSE/NSE filings, not read directly from the audited annual report PDF.",
+ "note": "Legal entity exists and is active; listed public company (IPO Aug 2024), CDMO/formulations manufacturer — role manufacturer, not trader. Input industry 'Нефтегаз и химия' is wrong: actual industry is pharmaceuticals/CDMO. Declared HS 300439 (medicaments containing hormones) is broadly consistent with a pharma formulations manufacturer, though the company's range is far wider; HS not a rejection ground per project rules. GSTIN and GST status could not be retrieved: all public GST-profile aggregators (Zauba, TheCompanyCheck) returned HTTP 403 and web_search was unavailable (searx connection refused), so GSTIN = null rather than guessed. PAN taken from input only. Revenue figures are consolidated aggregator data; standalone and exact audited-report figures not verified in this session. No rejection grounds found."
+}
