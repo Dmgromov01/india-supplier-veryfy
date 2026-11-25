@@ -1,0 +1,18 @@
+{
+ "name_input": "MEDIWIN PHARMACEUTICALS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AABFM4906E",
+ "pan_holder_type": "AABFM4906E — 4th character 'F' = Firm/Partnership firm (per PAN format rules). NOTE: this is the PAN as claimed in the input; it could NOT be verified against any public source in this session, so it is recorded as 'claimed, unverified'.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; direct fetches of Zauba Corp, TheCompanyCheck, InstaFinancials and MCA master-data returned HTTP 403; Tofler search returned 404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant results (Cleveland Clinic, stock photos, solitaire) for the exact-phrase queries '\"MEDIWIN PHARMACEUTICALS\" CIN GSTIN', '\"MEDIWIN PHARMACEUTICALS\" Ahmedabad OR Gujarat company' and '\"AABFM4906E\"' — i.e. no usable hit for the company name or the PAN. Therefore: exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. Per project rules the company is NOT rejected: rejection requires proof the entity does not exist / is struck off / liquidated / bankrupt, and no such proof was found either way. Role left as 'unknown' (no MCA business-object clause or GST trade-name evidence available). Revenue FY25/FY26 null — no audited accounts or official filings located. Two flags for the next pass: (1) the claimed PAN's 4th character 'F' indicates a partnership firm, which is inconsistent with a name that reads like a corporate entity and with a 'Pharmaceuticals' manufacturer profile — needs confirmation of whether the supplier is a firm or a company; (2) the input industry is 'Нефтегаз и химия' (oil & gas / chemicals) while the declared HS 300490 is a finished medicament heading — the industry label appears mis-assigned, though per rules HS/industry mismatch is not a rejection ground. Recommended action: re-run with working search, or query MCA/GST portal directly by the claimed PAN AABFM4906E."
+}

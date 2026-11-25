@@ -1,0 +1,18 @@
+{
+ "name_input": "BANDMA EQUIPCORP LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) недоступен, Bing/Google отдают нерелевантную выдачу, а реестровые источники (MCA master data, Zauba Corp, TheCompanyCheck, QuickCompany, InstaFinancials) возвращают 403/404 при прямом запросе. Ни одна реестровая запись не подтверждена, поэтому все поля оставлены null — данные не выдумывались. Заявленный PAN AAICB8160H не подтверждён: 4-й символ 'C' в формате PAN означает тип держателя 'company', однако сама строка PAN в публичных источниках не найдена, поэтому pan_holder_type оставлен null. Заявленный штат Delhi не сверен с адресом регистрации. Роль (manufacturer/trader) не определена. Выручка FY25/FY26 не найдена — аудиторская отчётность не получена. Отклонение НЕ применяется: отсутствие подтверждения не является основанием для rejected (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам."
+}

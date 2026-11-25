@@ -1,0 +1,9 @@
+{
+ "name_input": "BANDMA EQUIPCORP LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no verifiable risk data obtained. Tooling failed: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); Bing and Google returned irrelevant or empty result sets; zaubacorp.com and thecompanycheck.com returned HTTP 403; DuckDuckGo HTML endpoint timed out. What WAS checked: (1) Indian Kanoon full-text search for 'Bandma Equipcorp' and for 'Bandma' - both returned 'No matching results' (0 hits), which is a genuine negative for reported Indian judgments but is NOT proof of absence of litigation, since district-level, tribunal (NCLT/DRT) and arbitration records are not fully indexed there. (2) OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but the tool returns a static form and cannot execute a name query, so no OFAC screening result was actually obtained - sanctions_hit is null, NOT a confirmed 'no hit'. UN, EU, UK OFSI and BIS Entity List were not screened at all. No credit rating agency page (CRISIL/ICRA/CARE/India Ratings) was retrieved, so rating is null - absence of a public rating is plausible for a small private company but is unverified. No negative-news search could be completed. No evidence either way on supplies to Russia or the CIS; rf_supply null means 'not researched', not 'no evidence'. Per project rules this company must NOT be rejected on the basis of missing data - the gaps are research gaps, not adverse findings. Recommend re-running this company when the search backend is restored, with priority on: MCA/NCLT status, OFAC/UN/EU/UK/BIS name screening, and Indian Kanoon plus e-courts. Note also that the claimed industry ('Food & FMCG') is inconsistent with the claimed HS 842240 (packing/wrapping machinery) - flagged for the HS/identity researcher, not a rejection ground."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "CSI TECH PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAMFC2366H",
+ "pan_holder_type": "AAMF -> 4th character 'F' = Firm/Partnership firm (as per PAN structure). NOTE: this is inconsistent with the claimed legal form 'PVT LTD' (a private limited company would normally carry a company PAN with 4th character 'C'). The PAN is reported as claimed by the client; it could NOT be verified against any public source, so it may be mis-transcribed or belong to a different (non-corporate) entity.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry data could be retrieved. Tooling failure: web_search backend (searx) returned 'Connection refused' on every query; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only irrelevant results (CSI TV franchise) for both the company name and the PAN string. Registry/profile sources were blocked: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, mca.gov.in HTTP 403. Consequently the exact legal entity name, CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are NOT public-verifiable within this session and were deliberately not guessed. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role cannot be determined (no MCA business-activity classification obtained) -> 'unknown'. Per project rules the company is NOT rejected: there is no evidence that the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research limitation, not a negative finding. Flag for re-check: the claimed PAN AAMFC2366H has a 'F' (firm) 4th character, which does not match a 'PVT LTD' company PAN; the client should confirm the PAN and the exact registered name (possible variants: 'CSI Tech Private Limited', 'CSI Technologies Private Limited'). Declared HS 902000 is not a valid 6-digit HS heading (HS 9020 covers breathing appliances; 902000 is not a standard subheading) - per rules this is not a rejection ground, but the code should be corrected to the factual one once the entity is identified. Recommended next step: manual MCA master-data lookup by name and by PAN, plus GST portal search on the PAN."
+}

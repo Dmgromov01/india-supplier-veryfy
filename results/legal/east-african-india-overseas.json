@@ -1,0 +1,18 @@
+{
+ "name_input": "EAST AFRICAN INDIA OVERSEAS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool was down (searx connection refused) for the whole session, and direct fetches of registry aggregators failed: zaubacorp.com returned HTTP 403, thecompanycheck.com and instafinancials.com returned HTTP 404 on the search path, google.com returned HTTP 429, duckduckgo.com timed out, and search.mca.gov.in did not resolve (DNS failure). Bing returned only irrelevant generic results for the exact-phrase queries \"EAST AFRICAN INDIA OVERSEAS\" CIN, \"AABFE9410D\" and \"East African India Overseas\" GST, i.e. no matching entity page surfaced. Consequently the exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null and must NOT be treated as verified. The claimed PAN AABFE9410D is unverified: format-wise it is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'F' would indicate a PARTNERSHIP FIRM, not a company - but this is a format inference only, not a confirmed holder record, so pan_holder_type is left null. Note also that the claimed PAN's 4th character (F = firm) is inconsistent with a private limited company; if the entity is a partnership firm it would have no CIN at all, which may explain the absence of MCA records. The claimed state Gujarat is unconfirmed. Role is 'unknown' - the input industry label 'Нефтегаз и химия' (oil & gas / chemicals) is not evidence of manufacturing vs trading, and the declared HS 300420 (medicaments) does not match that industry label, but per project rules HS mismatch is not a rejection ground and no verdict is issued here. Revenue FY25/FY26 are null: no audited accounts or official filings were located. NOT rejected - the entity has not been shown to be non-existent, struck off, liquidated or bankrupt; the correct status is 'unverified, needs re-run when search tools are restored'. Recommended next step: re-run against MCA master data / GST public search using the exact legal name and the PAN, and confirm whether the entity is a firm or a company."
+}
