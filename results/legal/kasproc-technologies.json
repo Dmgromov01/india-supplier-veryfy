@@ -1,0 +1,18 @@
+{
+ "name_input": "Kasproc Technologies",
+ "legal_name": "Kasproc Machinery India Private Limited (only MCA entity matching the trade name \"Kasproc\"; the claimed legal name \"J D INDUSTRIES\" was NOT found as a company in MCA/registry search)",
+ "cin_llpin": "U32909MH2023PTC398433",
+ "pan": "null — not public. The claimed PAN AASFK7643R returned 0 results in registry search (quickcompany.in cross-registry search, incl. companies/directors/trademarks) and could not be tied to any entity; not confirmed, not invented.",
+ "pan_holder_type": "null — PAN unverified. Note on format only: 4th character of AASFK7643R is 'F', which in PAN format denotes a partnership firm (not a company, which would be 'C'). This is a format observation, not a verified holder record.",
+ "gstin": "null — no public GST profile found for either \"Kasproc Technologies\", \"Kasproc Machinery India Private Limited\" or \"J D INDUSTRIES\" with PAN AASFK7643R; GST portal/aggregator pages were not retrievable (403/404).",
+ "gst_status": "null — not public/not retrievable",
+ "incorporation_date": "2023-02-28 (Kasproc Machinery India Private Limited, per MCA record via quickcompany.in)",
+ "state_registered": "Maharashtra (ROC Mumbai) — matches state_claimed",
+ "state_claimed": "Maharashtra",
+ "mca_status": "Active (ROC Mumbai, filed 28 Feb 2023)",
+ "role": "unknown — CIN class U32909 (other manufacturing) suggests manufacturer, but no verified activity evidence; the claimed legal name \"J D INDUSTRIES\" is a generic trade name with no matching registered entity, so the actual operating role cannot be established.",
+ "revenue_fy25_cr": "null",
+ "revenue_fy26_cr": "null",
+ "revenue_source": "null — no audited accounts or official filings retrieved. Company incorporated 28 Feb 2023, so FY25 would be its second full year; MCA financials not accessible without paid filing access.",
+ "note": "Registry-only check. (1) The input mixes two identities: trade name \"Kasproc Technologies\" and claimed legal entity \"J D INDUSTRIES\". MCA/registry search for \"J D INDUSTRIES\" returns 47 fuzzy hits, none of which is a Maharashtra company named J D Industries; the exact-name search returned 0 results. So the claimed legal entity could not be confirmed as existing under that name. (2) The only real, verifiable entity behind the \"Kasproc\" name is Kasproc Machinery India Private Limited, CIN U32909MH2023PTC398433, incorporated 28.02.2023, ROC Mumbai, status Active — this is a genuine, non-struck-off company, therefore NOT rejected. (3) Claimed PAN AASFK7643R is unverified: no registry hit; its 4th character 'F' indicates a partnership firm, which is inconsistent with a private limited company — a discrepancy worth flagging to the client, but not grounds for rejection. (4) GSTIN, GST status, revenue FY25/FY26: not public / not retrievable — left null, not estimated. (5) Declared HS codes (732690;841370;848180;850440 — steel articles, pumps, valves, static converters) are broadly consistent with a machinery/pumps trading-manufacturing profile, but HS is not a rejection criterion per project rules; no HS correction is asserted here since the actual entity identity itself is unresolved. (6) No shipment, court or catalogue research performed per role scope. Recommendation: request the supplier's actual GST certificate and PAN card to resolve the Kasproc vs J D Industries identity mismatch before onboarding."
+}

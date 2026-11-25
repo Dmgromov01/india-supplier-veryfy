@@ -1,0 +1,9 @@
+{
+ "name_input": "Remso Control Technologies Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable source obtained. Tooling failure: the web_search backend returned 'Connection refused' on both queries; direct fetches of the company site (remso.in) failed with an expired TLS certificate; DuckDuckGo (html/lite) timed out; Brave returned HTTP 429; Bing returned unrelated cached results (percentage calculators, Jasper National Park) for every query, i.e. no usable SERP. The OFAC Sanctions List Search page loaded but is a JavaScript form and returned no lookup results for the name, so it does NOT constitute a negative (clear) sanctions screen. Therefore: sanctions_hit = null (NOT screened — OFAC SDN, UN, EU, UK OFSI, BIS Entity List all unchecked), court_cases = null (no Indian court/NCLT/NCLAT records retrieved; party role and status unknown), rating = null (no CRISIL/ICRA/CARE/India Ratings/Acuité action retrieved), news_risk = null (no negative-news search possible), rf_supply = null (no evidence either way of supplies to Russia or CIS; absence of evidence here is a research gap, not a finding). Per project rules, nothing here is a rejection ground and no adverse inference should be drawn from these nulls. Recommend re-running this company once search access is restored, with queries against: OFAC SDN/consolidated list, EU consolidated list, UK OFSI, BIS Entity List, eCourts/NCLT/NCLAT by CIN, and rating-agency press releases. Note also that the claimed PAN AABCR8577R and the claimed legal name were NOT verified by me (out of scope for this role) and should not be treated as confirmed."
+}

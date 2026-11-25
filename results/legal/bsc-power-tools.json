@@ -1,0 +1,18 @@
+{
+ "name_input": "BSC Power Tools",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки верификации в этом прогоне не удались по техническим причинам: web_search вернул 'searx: Connection refused' (бэкенд поиска недоступен); DuckDuckGo HTML — timeout; Bing отдал нерелевантную выдачу (только BSc/Bismarck State College, ни одного индийского юрлица); zaubacorp.com и thecompanycheck.com — HTTP 403; mca.gov.in/mcafoportal — HTTP 403. В открытых источниках, которые удалось прочитать, следов юрлица 'BSC POWER PRIVATE LIMITED' не найдено, но это НЕ доказательство отсутствия компании — это отсутствие доступа к реестру. Поэтому: legal_name оставлен null (заявленное 'BSC POWER PRIVATE LIMITED' не подтверждено), CIN/PAN/GSTIN/дата регистрации/штат/MCA-статус — null, выручка FY25/FY26 — null (аудированной отчётности не видел). Роль — unknown: по названию 'Power Tools' и заявленному HS 820600 (инструменты ручные) это похоже на торговлю/поставку инструмента, а не на авиастроение, но это догадка, а не факт; заявленная отрасль 'Авиастроение и транспорт' с HS 820600 не бьётся — при подтверждении код надо будет исправить на фактический (по правилу 3 это не основание для отклонения). ВАЖНО: отклонять НЕЛЬЗЯ — нет подтверждения, что юрлицо не существует/ликвидировано/банкрот; отсутствие данных ≠ отсутствие компании. Требуется повторная проверка при работающем поиске: MCA master data по названию, затем GST-профиль (например, через gst.gov.in 'Search Taxpayer' или публичные агрегаторы), затем аудированная отчётность за FY25/FY26."
+}

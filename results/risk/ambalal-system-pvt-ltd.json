@@ -1,0 +1,9 @@
+{
+ "name_input": "AMBALAL SYSTEM PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. No public source could be retrieved for this entity during this run, so every risk field is null rather than a negative finding. What was attempted (as of today): (1) DuckDuckGo search backend returned 'Connection refused' for both queries ('Ambalal System Private Limited' Gujarat; 'Ambalal System' OFAC sanctions court case) — search tool unusable. (2) Bing HTML search returned only unrelated results (Amazon/Reddit pages), i.e. the query was not honoured — no usable hits. (3) ZaubaCorp company page fetch returned HTTP 403 Forbidden (bot block). (4) Tofler URL built from the claimed PAN (AAGCA9375B) returned HTTP 404 — this does NOT prove the PAN is wrong, only that the guessed URL pattern did not resolve; PAN/CIN were not independently confirmed and are outside this role's scope. (5) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded, but it is a JavaScript form and no name query could be executed via plain HTTP fetch, so no SDN/Non-SDN screening result was obtained. NOT screened: UN Consolidated List, EU Consolidated List, UK OFSI List, US BIS Entity List. NOT checked: Indian court records (eCourts/NJDG, High Court of Gujarat, NCLT), regulator actions (RBI/SEBI/GST/EPCH), credit ratings (CRISIL/ICRA/CARE/India Ratings), negative news, and any evidence of supplies to Russia or the CIS. IMPORTANT per project rules: absence of a hit here must not be read as 'clean' — it means 'not researched'. No sanctions, court, rating, news or Russia/CIS-supply facts are asserted, and no numbers, CINs, PANs or shipment records were invented. Recommended next step: re-run screening when the search backend is restored, using the exact registered name plus the Gujarat state filter on OFAC/UN/EU/UK/BIS lists and eCourts by party name."
+}

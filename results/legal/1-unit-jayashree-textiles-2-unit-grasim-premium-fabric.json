@@ -1,0 +1,18 @@
+{
+ "name_input": "1 UNIT- JAYASHREE TEXTILES 2.UNIT- GRASIM PREMIUM FABRIC",
+ "legal_name": "Grasim Industries Limited",
+ "cin_llpin": "L17124MP1947PLC000410",
+ "pan": "null — PAN not published on any public registry page reachable in this session (MCA/ZAUBACORP/THE COMPANYCHECK returned HTTP 403; search engine unavailable). PAN holder-type therefore not determinable from the 4th character.",
+ "pan_holder_type": "null (PAN not public; cannot derive 4th-character holder type)",
+ "gstin": "null — no public GSTIN profile could be retrieved (search engine down, GST aggregator pages blocked). Not invented.",
+ "gst_status": "null — not verifiable from public sources in this session",
+ "incorporation_date": "1947 (year confirmed by CIN '1947' segment and company's own site/annual report title '79th Integrated Annual Report 2025-26'; exact day/month not published on the pages read)",
+ "state_registered": "Madhya Pradesh — Registered Office: P.O. Birlagram, Nagda - 456 331, Dist. Ujjain, Madhya Pradesh (source: grasim.com/contact-us, which also states CIN L17124MP1947PLC000410). Corporate office: Aditya Birla Centre, Worli, Mumbai, Maharashtra.",
+ "state_claimed": "(empty in input)",
+ "mca_status": "Active — listed public limited company, BSE:500300 / NSE:GRASIM, ISIN INE047A01021, filing quarterly results and annual reports with SEBI/exchanges as of Nov 2026 (source: grasim.com/investors; Wikipedia infobox citing 79th Integrated Annual Report 2025-26). No strike-off/liquidation/winding-up found.",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": 175431,
+ "revenue_source": "FY26: consolidated revenue ₹175,431 crore per 79th Integrated Annual Report 2025-26 (Statutory Reports, pp. 312-320), as cited in the Wikipedia infobox with direct PDF link https://www.grasim.com/integrated-annual-report-2025-26/pdf/Statutory-Reports.pdf (PDF fetched but binary/unparseable in this session; figure taken from the cited annual-report reference, not independently re-read). FY25: null — the FY2024-25 annual report PDF URL returned 404 and the annual-reports index page did not expose a working direct link within the call budget, so no audited FY25 figure was confirmed.",
+ "note": "Input name is not a legal entity: 'JAYASHREE TEXTILES' and 'GRASIM PREMIUM FABRIC' are divisions/units of Grasim Industries Limited (Textiles division at Rishra, Hooghly, West Bengal; premium fabric/linen business). The legal entity behind both units is Grasim Industries Limited, CIN L17124MP1947PLC000410, registered in Madhya Pradesh (Nagda, Ujjain) — so the registered-office state differs from the operating states of the units (West Bengal for textiles, plus Gujarat/Maharashtra for other divisions). Declared HS codes 271220 (paraffin wax), 390730 (epoxy resins) and 550410 (viscose staple fibre) are consistent with Grasim's chlor-alkali/epoxy and Birla Cellulose VSF businesses, but the input industry label 'Нефтегаз и химия' (oil & gas and chemicals) is only partly right: Grasim is a diversified manufacturer (VSF/pulp, chemicals, epoxy, insulators, textiles, paints) — no HS correction needed, role = manufacturer, not a trader. Registry facts verified from the company's own official contact page (CIN + registered office) and its investor/annual-report pages. PAN, GSTIN and GST status could not be verified because all public aggregator pages (ZAUBACORP, TheCompanyCheck) returned HTTP 403 and the search backend was unreachable (connection refused); these are left null rather than guessed. No rejection grounds: entity exists, is active and listed."
+}

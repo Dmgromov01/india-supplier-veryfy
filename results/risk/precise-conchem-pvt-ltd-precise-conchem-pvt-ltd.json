@@ -1,0 +1,20 @@
+{
+ "name_input": "PRECISE CONCHEM PVT LTD; PRECISE CONCHEM PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "forum": "Income Tax Appellate Tribunal, Mumbai",
+   "case_ref": "ITA No. 5392/Mum/2019",
+   "caption": "Income Tax Officer-15(2)(4), Mumbai vs M/s Precise Conchem Pvt. Ltd, Mumbai",
+   "date": "2021-03-16",
+   "party_role": "respondent / assessee (taxpayer)",
+   "status": "decided by ITAT (appeal order issued 16.03.2021)",
+   "nature": "income-tax assessment appeal; Indian Kanoon AI tags on the result set include 'bogus purchases' / 'bogus purchase' — tag association not verified against the order text itself",
+   "source": "https://indiankanoon.org/search/?formInput=%22Precise%20Conchem%22%20Mumbai"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no OFAC SDN / UN / EU / UK / BIS Entity List match found for 'Precise Conchem' — but this is a NEGATIVE-INDEPENDENCE result, not a verified clearance: the DuckDuckGo search backend was down (connection refused) for the whole session and Bing returned only irrelevant dictionary/insurance results, so no sanctions list was actually queried directly. Treat sanctions_hit=null as 'not established', not as 'clean'. Court: one confirmed ITAT Mumbai order, ITO-15(2)(4) vs M/s Precise Conchem Pvt. Ltd, ITA 5392/Mum/2019, dated 16.03.2021, company as respondent/assessee in an income-tax matter; per project rule 2 this is noted neutrally and is not a rejection ground. IMPORTANT IDENTITY CAVEAT: the ITAT case is captioned 'Mumbai', while the batch record claims Gujarat state and PAN AAECP8561C — I could not confirm the Mumbai ITAT entity is the same legal person as the Gujarat supplier, and I did not verify the PAN/CIN (out of scope). Do not merge these records without legal-identity confirmation. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings/Brickwork action found or searchable this session; not public/not retrieved. Regulator actions and negative news: null — no RBI/SEBI/GST/EPFO or press item retrieved; absence here reflects search-tool failure, not a clean record. Russia/CIS supply evidence: null — no customs, B-L, or trade-data evidence found either way; nothing to report. Overall: no rejection grounds identified under project rules, but the risk file is materially incomplete due to search infrastructure failure and should be re-run before any decision."
+}
