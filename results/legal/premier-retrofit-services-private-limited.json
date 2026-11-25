@@ -1,0 +1,18 @@
+{
+ "name_input": "PREMIER RETROFIT SERVICES PRIVATE LIMITED",
+ "legal_name": "PREMIER RETROFIT SERVICES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAGCP8099M",
+ "pan_holder_type": "AAGCP — 4th character 'C' = company (PAN format valid; holder type = company). Note: PAN taken from input, NOT independently verified against MCA/Income Tax records.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); Bing returned only irrelevant generic 'Premier' results (Premier League, Premier Health etc.) with no Indian registry hit; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; duckduckgo html/lite endpoints timed out. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public to me in this session, not 'absent'. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data alone; left 'unknown'. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy — the entity status is simply unverified. Action required: re-run against MCA master data / GST portal when the search backend is restored. Note also that the claimed PAN's 4th character 'C' is consistent with a private limited company, which is at least internally coherent with the claimed legal form."
+}

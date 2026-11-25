@@ -1,0 +1,26 @@
+{
+ "name_input": "JAY KESHAV EXPORTS PRIVATE LIMITED",
+ "declared_hs": "100630",
+ "actual_hs_list": [
+  "100630",
+  "090611/0906xx (spices, whole & ground — exact subheading not published)",
+  "0713xx (lentils/pulses, whole & split)",
+  "1006xx other than 100630 (cereals/rice variants)",
+  "1101/1102/1103 (cereal flours)",
+  "1902/1905 (papads & appalams, instant foods)",
+  "2106 (processed/instant food preparations)",
+  "0902 (tea)",
+  "0901 (coffee)",
+  "1513/1515 (edible oils)",
+  "2005/2008 (snacks)",
+  "1701/1704 (sweeteners, confectionary)",
+  "3304/3401 (cosmetics)",
+  "2202 (beverages)",
+  "3004/3003 (herbal & ayurvedic)",
+  "2006/2007 (mouth fresheners)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Own website jaykeshavexports.com (accessed via http_get) states: 'Jay Keshav Exports Pvt Ltd is a leading manufacturer exporter in India ... export over 1500 products, including spices, rice, lentils, processed foods, and snacks.' Listed product categories: Spices (Whole & Ground), World Spices & Seasonings, Rice & Lentils, Cereals (Whole & Flour), Processed Food Products, Herbal & Ayurvedic, Cookies/Confectionary/Sweeteners, Instant Foods, Snacks, Packaged Food Products, Tea & Coffee, Pooja & Religious Festival Items, Beverages, Edible Oil, Health Food & Drinks, Mouth Fresheners, Papads & Appalams, Cosmetics. Directors named on site: Jayesh Vora and Manjunath Krishnamurthy. Contact email on site is a personal Gmail (mnk1970@gmail.com); no product-level pages, catalogue PDFs, prices or specs are published (sub-pages /rice-lentils and /contact return HTTP 404), so no single product could be tied to a specific HS line.",
+ "role_hint": "manufacturer_trader (self-described 'manufacturer exporter', but the breadth — 1500+ SKUs across spices, cosmetics, pooja items, beverages — is the profile of a consolidator/trader of third-party brands; no plant, capacity, FSSAI or factory address published on the site)",
+ "comment": "HS 100630 (semi-milled or wholly milled rice, whether or not polished or glazed) is CORROBORATED as one real line: the site explicitly lists 'Rice & Lentils' and names rice among its export products. But it is only one of ~18 declared product families, so the declaration is materially incomplete — match_status = partial, not exact. Per project rule 3 the company is NOT rejected for the HS gap; the code is kept and the list is corrected/expanded to the actual range above. Industry label 'Продукты питания и FMCG' is broadly right but understates the scope: the site also sells cosmetics, herbal/ayurvedic products, pooja/religious festival items and beverages, i.e. non-food FMCG and religious-goods lines that are missing from the declaration entirely. Trader signs: 1500+ SKUs across unrelated categories, no factory/plant details, no certifications shown beyond a claim of 'adhering to USDA, AQIS, CFIA and EU guidelines', personal Gmail as the only contact. All product claims are 'заявлено, не подтверждено' — no customs line, invoice, B/L or shipment record was checked or found in this pass, and no product-level catalogue exists to verify against. Note: the site's own text is the only source used here; registry/revenue/customs research was out of scope for this role. Declared PAN AACCJ2007P and state Karnataka were not verified (registry lookup out of scope; site gives no address)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "KAPURTHALA HI-TECH TRANSBELT PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record could be retrieved. Tooling failure, not a negative finding: the web_search backend returned 'Connection refused' on both queries; Google and Bing fetches returned unrelated/irrelevant content (no usable SERP); MCA master-data page, Zauba Corp, TheCompanyCheck, InstaFinancials and Falconebiz all returned HTTP 403; QuickCompany returned 404 for the guessed slug. Therefore legal_name, CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - none of these are public to me in this session and none were invented. IMPORTANT on the claimed PAN 'AAACK5099E': the 4th character 'C' denotes a COMPANY (non-individual) holder, which is consistent with a 'Private Limited' entity, but the PAN itself could NOT be validated against any public source, so it is recorded as unverified rather than confirmed. The claimed state 'Punjab' is plausible given the 'Kapurthala' name element but is likewise unconfirmed. Role left as 'unknown' - the name suggests a manufacturer of conveyor/transmission belting (consistent with declared HS 401039, transmission belts), but per project rules a name and catalogue claims are not evidence of manufacturing status. NO REJECTION: per rule 3, rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and absence of accessible data is NOT such proof - the entity is neither confirmed nor rejected, it is simply unverified. Also note the declared HS 401039 (transmission belts, rubber) does not match the claimed industry 'Metallurgy and mining'; per rule 3 this is not a rejection ground - if the company is later confirmed, the HS code should be corrected to the actual product and the verdict set to accepted_hs_corrected. RECOMMENDED NEXT STEP: re-run with working search access, or verify manually on mca.gov.in Master Data / GST portal search by name, and check audited FY25/FY26 filings before any commercial decision."
+}

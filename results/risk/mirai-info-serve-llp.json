@@ -1,0 +1,9 @@
+{
+ "name_input": "MIRAI INFO SERVE LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public trace of this entity could be retrieved, so every risk field is null rather than assumed clean. Research conditions: the DuckDuckGo/searx search backend returned 'Connection refused' on all attempts; Google and DuckDuckGo HTML endpoints were blocked/timed out; Bing returned only generic 'Mirai' brand results (Toyota Mirai, Mirai Bio, Mirai Clinical, Mirai malware) and did not honor the exact-phrase query for 'MIRAI INFO SERVE LLP' or the PAN 'AARFV5316M'; ZaubaCorp returned HTTP 403 and Tofler's search returned a 404. Consequently: (1) sanctions exposure — not verified against OFAC SDN, UN, EU, UK or BIS Entity List; absence of a hit is NOT established, only that no lookup succeeded. (2) Indian court cases (party role/status) — not verified; no NCLT/HC/SCI or eCourts record retrieved. (3) Regulator actions and negative news — none found, but search coverage was effectively zero, so this is 'not found', not 'none exists'. (4) Credit rating (CRISIL/ICRA/CARE/India Ratings) with date and status — no rating located; null. (5) Evidence of supplies to Russia or CIS — none found; no customs, B-L or trade-flow record retrieved. Per project rules, nothing here is a rejection ground and no adverse inference should be drawn from these nulls; the company stays in the database. Recommended next step before any risk sign-off: re-run this check when the search backend is restored, and query the MCA master data plus eCourts/NCLT by the claimed PAN AARFV5316M to confirm the entity exists and to obtain a real sanctions screen."
+}
