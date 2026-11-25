@@ -1,0 +1,18 @@
+{
+ "name_input": "Lakshmi Machine Works Limited",
+ "legal_name": "LMW Limited (formerly Lakshmi Machine Works Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Tamil Nadu",
+ "state_claimed": "Karnataka",
+ "mca_status": "Active (listed public limited company, BSE: 500252 / NSE: LMW)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 2909,
+ "revenue_fy26_cr": 3082,
+ "revenue_source": "Screener.in standalone annual P&L (sourced from company's audited filings/BSE disclosures): Sales Mar 2025 = Rs 2,909 Cr; Mar 2026 = Rs 3,082 Cr. Consolidated figures not captured in this pass.",
+ "note": "Legal entity confirmed: the company's own website (lmwglobal.com/contact-us) states 'LMW Limited (formerly Lakshmi Machine Works Limited)', registered office S.R.K.V Post, Perianaickenpalayam, Coimbatore - 641 020, Tamil Nadu. STATE MISMATCH: input claims Karnataka, but the registered office is in Tamil Nadu (Coimbatore) - state_registered corrected to Tamil Nadu. CIN, PAN and GSTIN could NOT be verified: MCA master-data, ZaubaCorp, TheCompanyCheck and InstaFinancials all returned HTTP 403/404 and the search tool was unavailable (searx connection refused), so no public registry page could be read. The claimed PAN 'APPPR5645N' is NOT confirmed - note that its 4th character 'P' denotes an individual (person) holder, which is inconsistent with a public limited company (expected 4th character 'C'); treat the claimed PAN as unverified/likely incorrect and do not use it. Revenue figures are standalone audited-filing-based numbers from Screener.in, not read directly from the annual report PDF. Role: manufacturer (textile spinning machinery, CNC machine tools, heavy castings, aerospace components - per company site and Screener company description); no evidence of trading-only activity. No rejection grounds: entity exists and is listed/active."
+}

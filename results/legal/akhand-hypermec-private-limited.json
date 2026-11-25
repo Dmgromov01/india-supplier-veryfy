@@ -1,0 +1,18 @@
+{
+ "name_input": "AKHAND HYPERMEC PRIVATE LIMITED",
+ "legal_name": "AKHAND HYPERMEC PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Все попытки получить первичные данные не удались: web_search вернул ошибку бэкенда (searx: connection refused); zaubacorp.com, thecompanycheck.com и mca.gov.in отдали HTTP 403; tofler.in — 404; instafinancials.com — 404; duckduckgo (html и lite) — таймаут; Google/Bing вернули нерелевантную выдачу без единого упоминания компании; marginalia — антибот-заглушка. Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус публично не получены в рамках этой сессии, поэтому все поля null — цифры и идентификаторы не выдумывались. PAN из входа (AAFCA4984P) НЕ верифицирован: по 4-му символу 'C' он соответствует типу держателя 'Company' (юрлицо), что формально согласуется с формой 'Private Limited', но это лишь проверка формата, а не подтверждение принадлежности данной компании — в поле pan оставлен null. Заявленный штат Maharashtra (регион Мумбаи/Пуна — типичен для металлообработки и горнодобывающего оборудования, HS 820719 — прочие буровые/горные инструменты) не подтверждён и не опровергнут. Роль (manufacturer/trader) не установлена. Выручка FY25/FY26 недоступна: аудиторская отчётность не найдена. ВАЖНО: отсутствие данных — НЕ основание для отклонения по правилам проекта; статус компании остаётся непроверенным (unknown), а не rejected. Требуется повторный прогон при доступном реестре MCA (портал MCA Master Data / V3) или при доступе к платному агрегатору (Tofler, IndiaFilings, TheCompanyCheck) для установления CIN, даты инкорпорации, MCA-статуса и GSTIN."
+}

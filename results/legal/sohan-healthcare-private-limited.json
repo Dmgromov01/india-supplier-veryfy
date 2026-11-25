@@ -1,0 +1,18 @@
+{
+ "name_input": "SOHAN HEALTHCARE PRIVATE LIMITED",
+ "legal_name": "SOHAN HEALTHCARE PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAJCS5792H",
+ "pan_holder_type": "C — company (4th character 'C' of the claimed PAN indicates a company holder; format-consistent with a private limited company). PAN itself is the input claim, not independently verified against an official record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data could be retrieved. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused') on both queries; Google returned only a redirect stub; Bing returned entirely irrelevant results (Persian confectionery 'sohan', curtain-cleaning pages) for both the company-name query and the exact-PAN query 'AAJCS5792H', i.e. no indexed hit for this entity was surfaced. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, instafinancials.com 404, tofler.in 404 (no such company slug), mca.gov.in Master Data 403 Forbidden. Consequently CIN/LLPIN, GSTIN, GST status, date of incorporation, registered-office state and MCA status are all null — they are not public to me in this session, not absent from the register. Registered state could not be compared with the claimed state (Maharashtra). Role is 'unknown': the declared HS codes (292529, 293399, 293590, 294200 — organic/heterocyclic chemical intermediates) and the claimed industry 'oil & gas and chemicals' do not establish whether the entity manufactures or trades, and no MCA business-object or GST turnover evidence was obtainable. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible, and no figure is estimated. Per project rules this company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy could not be established either way, and HS-code mismatch is not a rejection ground in any case. Recommended action: re-run verification when search/registry access is restored, checking MCA Master Data by name and by PAN AAJCS5792H, then GST portal for the GSTIN and AOC-4 filings for FY25/FY26 revenue."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "INDUS PHARMA PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. Все 10 попыток доступа провалились: web_search (DuckDuckGo/searx) вернул 'Connection refused' на обоих запросах; zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in и mca.gov.in отдали 403/404; Bing по запросам '\"INDUS PHARMA PVT LTD\" CIN Delhi', '\"Indus Pharma\" \"Private Limited\" zaubacorp OR tofler OR companycheck' и '\"Indus Pharma\" Delhi \"CIN\" pharmaceutical' выдал только нерелевантную выдачу (Indus River, Indus Holding AG, indusinc.com и т.п.) — ни одной страницы реестра. По PAN: заявленный 'AAACI1456P' имеет 4-й символ 'C', что по формату PAN соответствует типу держателя 'company' (юрлицо) — это единственный проверяемый по формату элемент, но сам номер в открытых источниках подтвердить не удалось, поэтому pan=null. CIN, GSTIN, дата регистрации, MCA-статус, штат регистрации и выручка FY25/FY26 — null, публично не подтверждены в рамках доступных инструментов. ВАЖНО: отсутствие подтверждения НЕ является основанием для отклонения (правило 3) — юрлицо не признано несуществующим/ликвидированным/банкротом, статус остаётся непроверенным. Роль (manufacturer/trader) не установлена: заявленный HS 293399/293499/294190/294200 (гетероциклические соединения, антибиотики, прочие органические соединения) относится к фарм-субстанциям, но это не подтверждает ни производства, ни торговли. Требуется повторная проверка при работающем поиске: MCA Master Data (поле 'INDUS PHARMA'), GST-портал по PAN, ZaubaCorp/Tofler по CIN."
+}
