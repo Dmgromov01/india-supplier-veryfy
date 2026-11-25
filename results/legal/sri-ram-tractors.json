@@ -1,0 +1,18 @@
+{
+ "name_input": "Sri Ram tractors",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); Bing returned only irrelevant generic 'SRI' results and ignored the quoted phrase; registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials) and the MCA master-data portal all returned HTTP 403/404 to automated access. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, MCA status or audited revenue could be confirmed - all left null rather than guessed. IMPORTANT: the name 'Sri Ram Tractors' is a typical proprietorship/partnership trade name, which would mean NO CIN and NO MCA record exists at all; in that case only a GSTIN (state code 33 for Tamil Nadu) would identify it, and that was not obtainable. Consequence for the batch: entity existence is UNCONFIRMED, so per the rules this is NOT a rejection (rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which we do not have) - it is an open item requiring manual lookup on the GST portal (search by trade name, state 33) or MCA name search. Also note the declared HS codes 848120/848130/848180/848190 are valves for oil-hydraulic/oleohydraulic transmissions and similar fittings - i.e. engineering/hardware, not 'IT and electronics' as claimed in the input; industry label is inconsistent with the declared HS and should be corrected, but per the rules HS mismatch is not a ground for rejection. Role cannot be classified (manufacturer vs trader) without a registry/GST record. No revenue figures exist in any public filing for a non-corporate entity, so FY25/FY26 remain null."
+}

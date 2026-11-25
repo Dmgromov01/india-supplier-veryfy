@@ -1,0 +1,9 @@
+{
+ "name_input": "Faucon Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструмент web_search (DuckDuckGo/searx) возвращал ошибку соединения (Connection refused) на всех запросах; резервные попытки через Bing/Google/DuckDuckGo HTML дали нерелевантную выдачу (домены-парковки, Bible Gateway и т.п.), т.е. поиск фактически не работал. Zauba Corp вернул HTTP 403. Ни одного релевантного публичного источника по 'Faucon Industries' / 'Harpreet Singh Walia' (Punjab) получить не удалось. Соответственно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) — не проверены, статус null, НЕ означает отсутствие совпадений; судебные дела (eCourts, NCLT, High Court Punjab & Haryana) — не проверены, null; рейтинги (CRISIL/ICRA/CARE/India Ratings) — не проверены, null; регуляторные действия и негативные новости — не проверены, null; признаки поставок в РФ/СНГ — не проверены, null. PAN AAYPW2722K и название юрлица не верифицированы (вне моей роли). Требуется повторный запуск с рабочим поиском. Отклонение по данному отчёту недопустимо — оснований нет ни за, ни против."
+}

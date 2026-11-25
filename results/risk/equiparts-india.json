@@ -1,0 +1,9 @@
+{
+ "name_input": "Equiparts India",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the DuckDuckGo/searx web_search backend returned 'Connection refused' on every attempt (3 tries); html.duckduckgo.com timed out; Google returned a JS redirect wall; zaubacorp.com returned HTTP 403. Bing returned an identical static cached result set for all four distinct queries (including the exact-PAN query 'AAEFE0677P'), i.e. it was not actually executing the searches - the only hits were for the unrelated US plumbing-parts distributor 'Equiparts' (equiparts.com, Oakmont PA / Pittsburgh PA), which is NOT the Indian entity and must not be conflated with it. Consequently NO check could be completed for any of the five required dimensions: (1) sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) - not checked, null; (2) Indian court cases with party role and status - not checked, null; (3) regulator actions and negative news with dates - not checked, null; (4) credit rating with date and status - not checked, null; (5) evidence of supplies to Russia or the CIS - not checked, null. All fields are null because nothing is public to me in this session, NOT because the company is clean. Do not read these nulls as a negative screening result. The claimed PAN AAEFE0677P and the claimed West Bengal location are unverified - I did not confirm the entity exists under that name/PAN, and per project rules legal identity is outside my remit anyway. Recommended next step: re-run this company once the search backend is restored, or check the name/PAN manually against MCA, NCLT, IBBI, OFAC SDN, BIS Entity List, UN/UK/EU consolidated lists, and CRISIL/ICRA/CARE/India Ratings. No rejection ground is asserted here; per Rule 2 sanctions/court/criminal matters would not be rejection grounds in any case."
+}

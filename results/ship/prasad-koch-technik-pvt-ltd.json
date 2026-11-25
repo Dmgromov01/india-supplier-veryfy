@@ -1,0 +1,8 @@
+{
+ "name_input": "PRASAD KOCH TECHNIK PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/prasad-koch-technik-pvt-ltd returned only a page shell: \"Shipments available for PRASAD KOCH TECHNIK PVT LTD, refreshed daily\" — 0 shipment rows actually rendered (0 rows seen vs. a claimed-but-unpopulated dataset). No bill-of-lading number, date, destination or HS code was visible anywhere.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for the exact name returned only unrelated 'Prasad' (Hindu offering / NGO) results; volza, eximpedia and trademo free views all returned HTTP 403 Forbidden, so no domestic supply record could be read.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ вывод о том, что отгрузок не было: источники оказались недоступны (403 на volza/eximpedia/trademo, importkey отдал пустую оболочку без строк, поисковики проигнорировали точную фразу и вернули нерелевантную выдачу про 'Prasad'). Поэтому статус unknown, а не none_found. Выручка и объём экспорта: null — публичных данных нет, не выдумываю. Заявленные HS 845710 (обрабатывающие центры) и 845951 (фрезерные станки) относятся к станкостроению, а не к металлургии/горнодобыче, как указано в industry_claimed — это несоответствие профиля, но по правилу 3 оно не является основанием для отклонения; код фиксируется по факту, вердикт accepted_hs_corrected при подтверждении деятельности. PAN AAACP6751G и штат Gujarat не проверялись — реестры вне области моей роли. Рекомендую повторный прогон по платным/незаблокированным таможенным источникам (ImportGenius, Export Genius) и проверку GST-оборота вручную."
+}

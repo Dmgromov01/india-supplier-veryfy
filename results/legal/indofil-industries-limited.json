@@ -1,0 +1,18 @@
+{
+ "name_input": "INDOFIL INDUSTRIES LIMITED",
+ "legal_name": "Indofil Industries Limited",
+ "cin_llpin": "U24110MH1993PLC070713",
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra",
+ "state_claimed": "Jammu and Kashmir",
+ "mca_status": "Active (per company's own published CIN; MCA master data not directly retrieved)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Legal entity confirmed from the company's own official website (indofil.com, footer and 'Reach Us' block on every page): 'Indofil Industries Limited, CIN: U24110MH1993PLC070713, Kalpataru Square - 4th floor, Kondivita Road, Off Andheri Kurla Road, Andheri (East), Mumbai 400059, Maharashtra, India'. CIN structure: U24110 = chemicals manufacture, MH = Maharashtra, 1993 = year of registration, PLC = public limited company, 070713 = serial. Therefore the registered office is in Maharashtra, NOT Jammu and Kashmir as claimed in the input — state mismatch must be flagged. Incorporation year 1993 is derivable from the CIN, but the exact date of incorporation is not published on the site, so incorporation_date is left null. PAN: the claimed PAN AABCI4568D was NOT verified — no public source retrieved; note that the 4th character 'C' would denote a company holder, which is consistent with a public limited company, but this is unverified and must not be treated as confirmed. GSTIN and GST status: not obtained — GST public-profile aggregators (zaubacorp, thecompanycheck) returned HTTP 403 and search engines returned irrelevant results, so both fields are null rather than guessed. Revenue FY25 and FY26: the site has an Investor Relations > Annual Report section listing reports for 2019-20 through 2025-26, but the direct PDF paths I tried returned 404, so no audited figure was read; revenue_fy25_cr and revenue_fy26_cr are therefore null and must not be filled from memory or estimates. Role: manufacturer — the site describes own manufacturing plants (Thane, Dahej units 1-3) and R&D, and the CIN's industrial classification is manufacturing of chemicals; it also holds a CHEMEXCIL award in the 'Large-Scale Manufacturer & Merchant' category, so manufacturer_trader is a plausible refinement but 'manufacturer' is the best-supported single label. HS codes 380892 and 390690 are consistent with an agrochemical/specialty chemicals producer and are not a reason for any adverse verdict. No grounds for rejection: the entity exists and is operating. Per project rules, no customs/shipment verification was performed in this role."
+}
