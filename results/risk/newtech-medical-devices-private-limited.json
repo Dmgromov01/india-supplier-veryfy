@@ -1,0 +1,9 @@
+{
+ "name_input": "Newtech Medical Devices Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no findings either way. As of 23.11.2026 the search backend (DuckDuckGo/searx) returned 'Connection refused' on every query; Google returned only a redirect/consent interstitial; DuckDuckGo HTML timed out; Bing returned the same cached generic 'Newtech' brand results (newtechwood.com, newtechworldwide.com, newtec.com, newtechindustries.com, new-tech.mn, newtech.co.nz, newtech-sys.com) for three different queries including site:-restricted ones, i.e. no India-specific hit was ever surfaced. Direct registry reads were blocked: zaubacorp.com and thecompanycheck.com both HTTP 403; indiamart.com HTTP 429. The OFAC Sanctions List Search page loaded but is a JavaScript form, so no name query could be executed via http_get and no SDN/Non-SDN match was verified. Consequently sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List), Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all recorded as null - NOT as 'clean'. No source could be cited for any of these fields, and per project rules nothing is inferred or invented. Note also that the claimed industry ('Продукты питания и FMCG') is inconsistent with the declared HS codes 901832/901839/901890/902190 (surgical needles, catheters, medical instruments, orthopaedic appliances), which is a data-quality flag for the HS/identity researcher, not a risk finding. Recommended action: re-run this company once search access is restored, and verify sanctions status manually via the OFAC SDN CSV download and the BIS Entity List, plus Indian court records via eCourts/NJDG and Indian Kanoon."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S THERMAX LIMITED",
+ "legal_name": "THERMAX LIMITED",
+ "cin_llpin": "L29299PN1966PLC139535",
+ "pan": "AAACT3910D",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'T' = non-individual/trust-type holder per PAN structure) — PAN format valid, matches claimed PAN",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1966 (per company website: 'Thermax, founded in 1966'; exact MCA date of incorporation not retrieved — MCA/registry mirrors returned HTTP 403)",
+ "state_registered": "Maharashtra (Pune — registered office/headquarters per company website and Wikipedia; CIN state code 'PN' = Pune, Maharashtra)",
+ "state_claimed": "Madhya Pradesh",
+ "mca_status": "Active (listed public limited company, BSE: 500411 / NSE: THERMAX; no strike-off/liquidation/winding-up found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 10387,
+ "revenue_fy26_cr": 10774,
+ "revenue_source": "Screener.in consolidated P&L (compiled from audited filings): FY25 (Mar 2025) Sales ₹10,387 Cr; FY26 (Mar 2026) Sales ₹10,774 Cr. Standalone/consolidated distinction: figures are consolidated.",
+ "note": "Legal entity exists and is active — no rejection grounds. IMPORTANT DISCREPANCY: state_claimed = Madhya Pradesh, but the company is registered/headquartered in Pune, Maharashtra (CIN state code PN, website, Wikipedia). Madhya Pradesh presence is only plant-level (Thermax has manufacturing facilities in other states), not the registered office. CIN L29299PN1966PLC139535 is the widely published CIN for Thermax Limited (public limited, Pune, 1966); it could not be re-verified against the MCA portal directly because zaubacorp/thecompanycheck returned HTTP 403 and the search backend was unavailable — treat CIN as high-confidence but not MCA-verified in this session. GSTIN and GST status: not retrieved from a public profile (no accessible source in this session) — null, not invented. PAN AAACT3910D is consistent with a company-type holder and with the claimed value; not independently verified against the income-tax database. Revenue figures are consolidated group sales from Screener.in's compilation of audited results, not a direct read of the audited PDF (thermaxglobal.com PDF returned 403). Role: manufacturer — own manufacturing (12 plants in India, 4 overseas) per company website; also does EPC/projects and services, so manufacturer_trader is arguable, but primary role is manufacturer. Declared HS codes (381121 lubricating-oil additives, 841430 compressors for refrigerating equipment, 850421 transformers, 853710 control panels) are only partly aligned with Thermax's core lines (boilers, chillers, APC, water treatment, ion-exchange resins/chemicals) — per project rules this is NOT a rejection ground; the company stays in the base and the HS code should be corrected to the actual product line (chemicals/ion-exchange resins, boilers/heat exchangers, absorption chillers, control panels)."
+}

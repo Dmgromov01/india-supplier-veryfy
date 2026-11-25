@@ -1,0 +1,9 @@
+{
+ "name_input": "OM MANGALAM INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS null BY DESIGN (no data, not 'clean'). Research as of today was effectively blocked: the web_search tool returned 'Connection refused' (searx backend down) on both queries; DuckDuckGo HTML timed out; Google returned a redirect/consent interstitial; Bing returned only generic 'Om' dictionary/Wikipedia results for both the company name and the PAN 'BDZPP6098J' — i.e. no indexed page matching this entity was surfaced. Zaubacorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form whose lookup results cannot be retrieved via plain GET, so no SDN/Non-SDN screening result was actually obtained — sanctions_hit is null, NOT 'no hit'. No UN, EU, UK OFSI or BIS Entity List screening was completed either. No Indian court records (eCourts/NCLT/High Court), no regulator actions (RBI/SEBI/DGFT/EPCH), no credit rating (CRISIL/ICRA/CARE/India Ratings) and no negative news were located or verified. No evidence of supplies to Russia or the CIS was found — but absence here reflects zero retrievable sources, not a negative finding. IMPORTANT: the claimed 'legal_claimed' value 'KALPESH SHANTILAL PARMAR' is a personal name, not a legal entity name, and the PAN 'BDZPP6098J' is unverified — per project rules I did not research legal identity, HS codes or shipment volumes, and I have not validated either. Recommend re-running this company once the search backend is restored, and screening the name and PAN directly against OFAC/EU/UK/BIS lists and eCourts before any risk conclusion is drawn. No rejection grounds identified, and none could be identified."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "VEEDEE ENTERPRISES; VEE DEE ENTERPRISES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out twice; Bing returned only unrelated results with no match for the query string; Google served a redirect/consent page with no results. Consequently NOTHING could be checked for this entity: no OFAC SDN / UN / EU / UK / BIS Entity List screening, no Indian court (eCourts/NCLT/High Court) party search, no regulator action or negative-news review, no credit rating lookup, and no evidence either way on supplies to Russia or the CIS. All fields are null because they are unverified, NOT because they were checked and found clean - this must not be read as a negative screening result. Identity caveat: the record carries two name variants ('VEEDEE ENTERPRISES' / 'VEE DEE ENTERPRISES') and a proprietor-style name (VIRAL DINESH SHAH) with a Gujarat-format PAN (AKGPD4923R, 'G' = individual) against a Tamil Nadu state claim; the PAN was not validated and no CIN/registration was confirmed, so even the screening target is ambiguous. Recommended next step: re-run screening manually against OFAC/EU/UK/UN consolidated lists and eCourts with both name variants plus the proprietor name, and confirm the correct legal entity before any risk conclusion is drawn. Per project rules, no rejection is proposed on this basis - absence of data is not a rejection ground."
+}

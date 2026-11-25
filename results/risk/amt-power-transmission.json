@@ -1,0 +1,9 @@
+{
+ "name_input": "AMT Power Transmission",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; Bing по запросам \"AMT Power Transmission\" / \"AMT Power Transmission\" India / site:indiamart.com|zaubacorp.com|tofler.in выдавал только нерелевантные результаты (American Medical Technologists, American Tower, AMT Association for Manufacturing Technology) — ни одной страницы, относящейся к индийской компании с таким названием, не найдено. По заявленному имени владельца \"Suryabhavani Chalamkuri\" поиск также дал полностью нерелевантную выдачу (страницы про лошадь Наполеона), т.е. публичных следов этого лица найти не удалось. OFAC Sanctions List Search — JS-приложение, через http_get результаты запроса не отдаёт; скачиваемый SDN.CSV обрезается на 6000 символах, поэтому проверить вхождение имени в список технически не удалось. Итог: санкционная экспозиция (OFAC SDN/UN/EU/UK/BIS), индийские судебные дела, действия регуляторов, негативные новости, кредитный рейтинг и признаки поставок в РФ/СНГ — все поля null, НЕ подтверждено и НЕ опровергнуто. Отсутствие данных здесь означает отсутствие проверки, а не отсутствие риска. Требуется повторный прогон при доступном поиске (рекомендуемые источники: OFAC SLS, ecourts.gov.in, zaubacorp/tofler, MCA, Google News). Оснований для отклонения по правилу 2 нет и не заявляется."
+}
