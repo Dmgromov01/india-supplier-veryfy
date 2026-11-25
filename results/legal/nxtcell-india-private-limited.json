@@ -1,0 +1,18 @@
+{
+ "name_input": "NXTCELL INDIA PRIVATE LIMITED",
+ "legal_name": "NXTCELL INDIA PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAKCN0427B",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'N' consistent with surname initial of a director/company — format valid, holder type company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public source could be read. Tooling failures: DuckDuckGo/searx backend refused connection ('Connection refused') on both queries; Google returned only a redirect/consent stub; Bing returned irrelevant spam results; zaubacorp.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; tofler.in search returned 404. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they could not be read from a public source within the tool budget. PAN AAKCN0427B is reported as claimed by the input only: format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' denotes a COMPANY holder, which is consistent with a 'PRIVATE LIMITED' entity; this is a format check, not a registry confirmation of the actual PAN holder. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null and must not be estimated. Role left 'unknown' — no registry/legal evidence of manufacturing vs trading activity was obtainable. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either, so the correct status is 'unverified / pending registry check', not 'rejected'. Recommended next step: re-run against MCA master data and a GST public profile (e.g. GST search by PAN AAKCN0427B) when the search backend is restored, and confirm whether the registered office is in Haryana as claimed."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Satsure Analytics India Private Limited",
+ "legal_name": "SatSure Analytics India Private Limited",
+ "cin_llpin": null,
+ "pan": "AAZCS2618G",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'S' = surname initial of the entity name 'SatSure') — PAN as claimed in input, NOT independently verified against MCA/Income Tax records",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Karnataka (Bengaluru — registered/corporate address per company website: 202, Prestige Loka, Brunton Rd, Craig Park Layout, Ashok Nagar, Bengaluru 560025)",
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "service_provider",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no CIN, GSTIN, incorporation date, MCA status or financials could be confirmed from a primary/official source. Tooling failure: web_search (searx) returned 'Connection refused' on all attempts; zaubacorp.com, thecompanycheck.com and tofler.in returned HTTP 403/404; Bing/Google/DDG HTML endpoints returned only generic marketing results (satsure.co, LinkedIn, Tracxn) with no registry record. The only verified fact is the legal name and Karnataka (Bengaluru) address, taken from the company's own website footer (https://www.satsure.co/about-us: 'SatSure Analytics India Pvt Ltd, 202, Prestige Loka, Brunton Rd, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka, India – 560025'), which is consistent with the claimed state. The website states 'Founded in 2017' — this is a company self-statement, not an MCA incorporation date, so incorporation_date is left null. PAN AAZCS2618G is carried over from the input only; its format is structurally valid (AAZCS + 4 digits + 1 letter) and the 4th character 'C' indicates a company holder, but the PAN was not matched to any public filing. No audited accounts or MCA/ROC filings were accessible, so revenue FY25 and FY26 are null — not estimated. Role assessed as service_provider (Earth-observation/geospatial analytics and decision-intelligence software; no manufacturing or trading activity evidenced). Declared HS 491191 (printed matter/pictures) does not match the actual activity — per project rules this is NOT a rejection ground; the company is retained and the HS code should be corrected to the factual service/software classification. No rejection ground found: no evidence of non-existence, strike-off, liquidation or bankruptcy — but equally, no positive MCA confirmation of active status was obtained, so mca_status is null rather than 'Active'. Recommend re-run when registry sources are reachable (MCA master data / Zauba / Tofler) to fill CIN, GSTIN, incorporation date, MCA status and FY25/FY26 revenue."
+}
