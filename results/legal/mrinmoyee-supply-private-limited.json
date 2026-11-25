@@ -1,0 +1,18 @@
+{
+ "name_input": "Mrinmoyee Supply Private Limited",
+ "legal_name": "MRINMOYEE SUPPLY PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAGCM6139F (claimed in input, unverified)",
+ "pan_holder_type": "AAGC = Association of Persons (AOP) per 4th character 'C' of the claimed PAN; note this is inconsistent with a private limited company, which should carry 'P' as the 4th character (e.g. AAxCP...). The claimed PAN therefore does not appear to belong to a Pvt Ltd company and must be re-checked against the PAN card / MCA master data.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed. All search tooling failed during this session: the web_search backend returned 'Connection refused' (searx), Bing and DuckDuckGo HTML endpoints returned unrelated results or timed out, and registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials) returned HTTP 403. MCA portal (search.mca.gov.in) did not resolve. Consequently no CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. Nothing has been fabricated: all unverified fields are null. IMPORTANT FLAG: the claimed PAN AAGCM6139F has 4th character 'C' (Association of Persons), which is structurally incompatible with a private limited company (expected 'P'); this suggests either a wrong PAN or a wrong entity type in the input and should be resolved before onboarding. Per project rules the company is NOT rejected - non-existence/strike-off/liquidation/bankruptcy could not be established either way, so no rejection basis exists. Role is recorded as 'unknown' pending registry data; the declared HS codes (392490 plastic household articles; 960390 brooms/brushes) are consistent with a trading or plastics-moulding profile but this is not evidence of manufacturing. Status: verification pending - re-run against MCA master data and the GST public search once tooling is restored."
+}

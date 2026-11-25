@@ -1,0 +1,18 @@
+{
+ "name_input": "Add Xcessories",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AKAPK9939J",
+ "pan_holder_type": "P — individual (natural person). 4th character of the claimed PAN is 'P', which denotes an individual taxpayer, not a company (C), firm (F) or LLP (F). This is consistent with the input's legal_claimed field being a personal name (KHALID KAMAL), i.e. a proprietorship/individual GST registration rather than a company. PAN itself is only as claimed by the client and was NOT independently verified against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record could be retrieved. Tooling failure: the DuckDuckGo search backend returned 'Connection refused' for every query; Google returned only a redirect stub; Bing returned completely irrelevant results (dictionary/ADHD pages) for the exact-phrase queries '\"Add Xcessories\" GSTIN Delhi', '\"Add Xcessories\" Khalid Kamal' and '\"AKAPK9939J\"'; Zaubacorp and Instafinancials returned HTTP 403; mca.gov.in MDS returned HTTP 403; knowyourgst.com only served its generic search page (its name/PAN search is a POST/JS form not reachable via plain GET). Consequently NO legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed. Because the claimed PAN is an individual PAN (4th char 'P'), this is most likely a sole proprietorship of Khalid Kamal, which would have no CIN and no MCA record at all — but that is an inference, not a verified fact. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Per project rules the company is NOT rejected: non-existence/struck-off/liquidation/bankruptcy could not be established either way, and absence of retrievable data is not evidence of non-existence. Action required: re-run with a working search backend, or obtain the GSTIN directly from the supplier and verify it on the GST portal (gst.gov.in search taxpayer) and on the Udyam/proprietorship registry. Also note the declared HS 420292 (articles of leather/plastics, i.e. bags/cases) is inconsistent with the claimed industry 'food & FMCG' — per rule 3 this is NOT a rejection ground; the HS code should be corrected to the actual product and the record kept as accepted_hs_corrected once the entity is confirmed."
+}

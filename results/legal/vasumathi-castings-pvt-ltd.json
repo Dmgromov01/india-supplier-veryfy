@@ -1,0 +1,18 @@
+{
+ "name_input": "Vasumathi castings pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: все доступные публичные источники в этой сессии недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in — HTTP 403 Forbidden; html.duckduckgo.com — timeout; google.com — редирект без результатов; bing.com — выдал нерелевантные результаты (страницы Microsoft), т.е. поиск по названию фактически не выполнился. Поэтому CIN, дата инкорпорации, MCA-статус, GSTIN и GST-статус не установлены и оставлены null — выдумывать их нельзя. По PAN: заявленный 'ADUPD7907J' по формату валиден (5 букв + 4 цифры + 1 буква), 4-й символ 'P' соответствует типу держателя 'Individual' (физическое лицо), что НЕ соответствует заявленному юрлицу-компании (для Pvt Ltd ожидается 4-й символ 'C'). Это признак того, что PAN в заявке принадлежит физлицу (вероятно, директору/проприетору), а не компании; сам PAN не верифицирован по официальному источнику, поэтому в поле pan оставлен null, а несоответствие зафиксировано здесь. Название 'Vasumathi Castings' в заявке не является полным реестровым ('... Private Limited' не подтверждено), поэтому legal_name = null. Роль не определена (unknown) — нет подтверждённых данных ни о производстве, ни о трейдинге. Выручка FY25/FY26 не найдена (аудиторская отчётность недоступна) — null. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3); компания остаётся в базе как непроверенная, требуется повторная проверка при восстановлении доступа к MCA/Zauba/Tofler. Штат регистрации (Tamil Nadu) не подтверждён и не опровергнут."
+}

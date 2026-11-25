@@ -1,0 +1,18 @@
+{
+ "name_input": "HRV GLOBAL LIFE SCIENCES PRIVATE LIMITED",
+ "legal_name": "HRV Global LifeSciences Pvt. Ltd. (as spelled on the company's own website footer; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": "AADCH6322C (claimed in input; NOT verified against any public source)",
+ "pan_holder_type": "4th character 'C' = company (per PAN format rule); holder type inferred from the claimed PAN only, not verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Telangana (Hyderabad, Banjara Hills — per company website 'Global Headquarters'; MCA registered-office record not retrieved)",
+ "state_claimed": "Telangana",
+ "mca_status": null,
+ "role": "trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no rejection basis found, but also no primary registry confirmation. Sources actually retrieved: (1) https://hrvglobal.com/ — site footer reads 'Copyright © HRV Global LifeSciences Pvt.Ltd', global HQ Banjara Hills, Hyderabad, Telangana; (2) https://hrvglobal.com/contact-us/ — same Hyderabad address, phone +91 040 2355 4992, sales@hrvpharma.com. The company self-describes as 'India's first virtual pharma company' operating an 'asset-light model' that 'integrates, manages, and scales' third-party cGMP-certified manufacturing partners — i.e. it does not own manufacturing; on that self-description the role is recorded as trader (virtual pharma / sourcing & supply intermediary), not manufacturer. NOT retrieved: CIN, GSTIN, GST status, incorporation date, MCA status, audited revenue — zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials returned 404, mca.gov.in returned 403, and the DuckDuckGo search backend was unreachable (connection refused) so no registry page could be located. Therefore CIN, GSTIN, GST status, incorporation date, MCA status and FY25/FY26 revenue are all null — not public via the channels available, and not invented. PAN AADCH6322C is carried over from the input as unverified; its 4th character 'C' is consistent with a company holder, but this is a format check only, not a match to a PAN record. Note the input's declared HS 130219 (vegetable saps/extracts, e.g. botanicals) does not match the company's own stated business (APIs and formulations, pharma), but per project rules HS mismatch is not a rejection ground — the code should be corrected to the actual pharma HS chapter (30) at data-entry stage. No evidence of strike-off, liquidation or bankruptcy was found; entity appears active on its own live website. Recommend re-run of registry lookup (MCA master data / GST portal) when search access is restored before final acceptance."
+}

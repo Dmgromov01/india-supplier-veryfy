@@ -1,0 +1,18 @@
+{
+ "name_input": "Raads Marine",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAUFR7932E",
+ "pan_holder_type": "F — firm / partnership (4th character 'F' of the claimed PAN; not independently verified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Puducherry",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the search backend (DuckDuckGo/searx) was unreachable ('Connection refused' / timeouts) and all public registry aggregators attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403; Bing/Google returned only irrelevant results (RAADS-R autism scale) and no hit for the PAN string. Therefore no CIN/LLPIN, GSTIN, incorporation date, MCA status or audited revenue could be sourced, and all such fields are left null rather than guessed. PAN AAUFR7932E is taken only from the input and is unverified; its 4th character 'F' indicates a firm/partnership holder, which is consistent with a non-corporate entity that would have no CIN — but this is an inference, not a sourced fact. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected; it remains unverified pending a working registry lookup (MCA master data / GST portal). Role cannot be determined from registry data alone; declared HS 890110 (cruise/cargo vessels) is not assessed here per scope. Revenue FY25/FY26: null — no audited accounts or official filings accessible."
+}
