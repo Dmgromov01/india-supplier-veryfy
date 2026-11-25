@@ -1,0 +1,9 @@
+{
+ "name_input": "CAPRIHANS INDIA LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо таймаут на всех запросах; Bing отдавал нерелевантную выдачу (мусорные результаты, не связанные с запросом) на запросы 'Caprihans India Limited CRISIL rating', 'Caprihans India Russia export', '\"Caprihans\" India company news'; Google отдал только заглушку редиректа; zaubacorp.com — HTTP 403; сайт caprihans.com и search.maritime.gov.in — DNS не разрешается. Ни один источник по существу не прочитан. Поэтому: sanctions_hit=null (проверка по OFAC SDN/UN/EU/UK/BIS не выполнена — не означает отсутствие санкций), court_cases=null (роли и статусы в индийских судах/NCLT не установлены), rating=null (рейтинговые действия CRISIL/ICRA/CARE и их даты не найдены), news_risk=null (негативные новости и действия регуляторов не проверены), rf_supply=null (следов поставок в РФ/СНГ не искали — данных нет, а не 'поставок нет'). Требуется повторный прогон при доступном поиске. По правилу 2 санкции/суды/уголовные дела в любом случае не являются основанием для отклонения."
+}

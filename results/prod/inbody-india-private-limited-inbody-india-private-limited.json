@@ -1,0 +1,14 @@
+{
+ "name_input": "INBODY INDIA PRIVATE LIMITED; InBody India Private Limited",
+ "declared_hs": "901819",
+ "actual_hs_list": [
+  "901819",
+  "902789",
+  "901780",
+  "902830"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official InBody subsidiary in India (site states 'Official InBody subsidiary since 2013'). Real product lines per inbody.in: (1) professional body composition analysers using multi-frequency BIA — InBody 970S, 770S, 580, 570, 380, 370S, 270S, 260S; (2) body water analysers / specialised devices — BWA 2.0S, InBody S10, InGrip; (3) automatic blood pressure monitors — BPBIO 750, BPBIO 320S; (4) stadiometers — BSM 370, BSM 170; (5) home-use body composition scales — InBody Dial H40/H30/H20; (6) software — LookinBody Web, InBody App, InBody Touch. Source: https://inbody.in/ and https://www.inbody.in/products (product menus and model lists read directly).",
+ "role_hint": "trader",
+ "comment": "HS 901819 ('other electro-diagnostic apparatus') is a plausible but only partially correct fit. Body composition analysers (BIA) are electro-diagnostic measuring apparatus and are reasonably covered by 901819 — exact for the core analyser line. However the declared single code does not cover the rest of the real catalogue: (a) automatic blood pressure monitors BPBIO 750/320S are sphygmomanometers, which sit in 9018 90 20-type subheadings / more properly 9018 90 (measuring BP instruments) — within 9018 but a different national line than 901819; (b) stadiometers BSM 370/170 are height-measuring instruments, not electro-diagnostic — correct code 9017 80 (measuring/checking instruments for length); (c) home-use body composition scales (InBody Dial) are consumer weighing/body-fat scales, arguably 9028 30 (scales) or 9031 80, not 901819; (d) software (LookinBody Web, InBody App) is not goods at all — 8523 49 / 9973-type service, not declarable under 9018. So: partial match — 901819 is right for the professional analysers but the declaration omits the BP-monitor, stadiometer, home-scale and software lines. Industry claimed as 'Нефтегаз и химия' (oil & gas and chemicals) is a clear industry misclassification: the company is a medical/health-tech device supplier (fitness, hospitals, corporate wellness). Role hint 'trader': the site presents InBody as a Korean-origin brand with an Indian subsidiary distributing/importing into India ('3,000+ installations across India', 'Official InBody subsidiary since 2013'), i.e. importer-distributor rather than an Indian manufacturer — no manufacturing claim found on the site. Per project rule 3, the HS mismatch is NOT a rejection ground: company is kept, code corrected to the actual product mix above, verdict accepted_hs_corrected. All product lines above are 'заявлено, не подтверждено' — they come from the company's own website/catalogue, no customs line was checked in this task (registry/revenue/customs volume research out of scope)."
+}

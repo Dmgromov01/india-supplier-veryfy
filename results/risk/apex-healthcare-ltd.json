@@ -1,0 +1,9 @@
+{
+ "name_input": "APEX HEALTHCARE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты поиска были недоступны в течение всей сессии. web_search (DuckDuckGo/Searx) возвращал 'Connection refused' на всех запросах; DuckDuckGo lite и html-версия — таймаут; Brave Search — HTTP 429; Bing отдавал только кэшированные нерелевантные результаты про Apex Legends/Apex Trader Funding независимо от формулировки запроса; ZaubaCorp — HTTP 403. Форма поиска OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступна, но это JS-интерфейс, результат по имени через GET не отдаётся — фактического прогона по SDN/Non-SDN не сделано. Следовательно: sanctions_hit, court_cases, rating, news_risk, rf_supply = null, это НЕ означает отсутствие рисков, а означает отсутствие данных. Отдельно отмечаю: наименование 'Apex Healthcare' неоднозначно — существует известная малайзийская Apex Healthcare Berhad (не Индия), а также множество индийских юрлиц со словом 'Apex'; без CIN/PAN привязка результатов поиска была бы ненадёжной даже при работающем поиске. Рекомендация: повторить проверку при восстановлении доступа к поиску, обязательно с CIN/PAN и с ручным прогоном по OFAC SDN, UN Consolidated, EU, UK OFSI и BIS Entity List, а также по NCLT/NCLAT, eCourts, SEBI и IBBI. По правилу 2 проекта любые найденные санкции/суды/уголовные дела не являются основанием для отклонения — только нейтральная пометка «есть сложности»."
+}

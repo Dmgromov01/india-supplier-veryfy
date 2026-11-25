@@ -1,0 +1,18 @@
+{
+ "name_input": "DHV Stainless",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AMDPS0036K",
+ "pan_holder_type": "P — individual (natural person). 4th character 'P' in AMDPS0036K denotes an individual PAN, consistent with the claimed proprietor name 'Hemant Champalal Shah'. Note: PAN is taken from the input as claimed; it could NOT be independently verified against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity simply could not be located in any accessible public registry. Research was severely constrained: the web_search tool returned a backend connection error ('searx: Connection refused') on every call, and direct fetches of registry aggregators (zaubacorp.com, tofler.in) returned HTTP 403. Bing HTML results for 'DHV Stainless' returned only unrelated entities (DHV paragliding association Germany, DHV Technology Spain, DHV Industries Inc. — a US valve maker in Bakersfield CA/Nisku AB, confirmed via its own contact page, not Indian). No Indian legal entity, CIN/LLPIN, GSTIN, incorporation date or MCA record could be retrieved. Because 'DHV Stainless' appears to be a trade name rather than a registered company name, and the claimed legal name is a natural person (proprietor), this is most likely a sole proprietorship — such entities have no CIN and no MCA record, only a GSTIN and Udyam registration, neither of which was publicly retrievable here. All registry fields are therefore null rather than guessed. Revenue FY25/FY26 null: no audited accounts or official filings found (sole proprietorships do not file with MCA). Role left as 'unknown' — no registry evidence of manufacturing plant or trading activity. Separately flagged for the data-quality team (not a rejection ground): the declared HS 730611 (stainless steel line pipe for oil/gas) is inconsistent with the claimed industry 'IT и электроника'; per project rules the company is retained and the HS code should be corrected to the actual product, verdict would be accepted_hs_corrected once the entity is identified. Recommended next step: manual lookup on the GST portal by PAN AMDPS0036K and on the Udyam registry, which require a login/captcha and cannot be queried by these tools."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ESPACE PROCESS FOOD TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "ESPACE PROCESS FOOD TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAHCE3442J",
+ "pan_holder_type": "H — Hindu Undivided Family (HUF), per 4th character of the claimed PAN. Note: an HUF PAN is inconsistent with a private limited company, which would normally hold a 'C' (company) PAN. The claimed PAN is therefore unverified and likely misattributed; it could not be confirmed against any public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. The web_search tool was unavailable (searx connection refused on both attempts), and direct fetches of public registry mirrors failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404 for the slug, falconebiz.com returned HTTP 403. Bing fallback returned only irrelevant results (the engine ignored the quoted company name and the quoted PAN, returning eSPACE/Renault Espace/patent-office pages and, for the PAN query, film pages), so no page containing the company name or the PAN was ever read. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public to me in this session, not 'not existing'. No audited accounts or official filings were located, so FY25/FY26 revenue is null per the rule against inventing numbers. Role is 'unknown' because no MCA business-activity classification was obtained. IMPORTANT: this is NOT a rejection. Per the project rules a company may only be rejected if the legal entity does not exist, is struck off, liquidated or bankrupt — none of that has been established here; the entity's existence is simply unverified. Also note the internal inconsistency flagged above: the claimed PAN's 4th character 'H' denotes an HUF, which does not match a private limited company, so the PAN should be re-requested from the supplier (e.g. from the GST certificate or PAN card copy) before being used. The declared HS codes (732690; 820730; 842199; 848340 — steel articles, press/stamping tools, filter parts, gears/gearing) do not match the 'food technologies' name and the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining); per the rules this is not a ground for rejection — the company stays in the base and the HS code is to be corrected to the actual one, verdict would be 'accepted_hs_corrected' once the entity is confirmed. Recommended next step: re-run with a working search backend, or verify manually on the MCA portal (mca.gov.in 'Check Company Name' / View Company Master Data) and on the GST portal's 'Search Taxpayer' using the PAN, then re-check revenue on the MCA AOC-4 filings."
+}

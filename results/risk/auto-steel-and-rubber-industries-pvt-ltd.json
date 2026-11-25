@@ -1,0 +1,9 @@
+{
+ "name_input": "AUTO STEEL AND RUBBER INDUSTRIES PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. No risk data could be retrieved for this entity in this session. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned only a redirect/consent stub; Bing returned geo-localized US auto-parts results with no relevant hits for the exact company name (both quoted variants); ZaubaCorp and TheCompanyCheck returned HTTP 403; the OFAC Sanctions List Search page is JavaScript-driven and returned no query results via plain HTTP fetch. Therefore: sanctions exposure (OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List) = NOT CHECKED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating (agency/date/status) = NOT CHECKED; evidence of supplies to Russia/CIS = NOT CHECKED. All fields set to null deliberately — no data is public to me here and nothing has been inferred or invented. Per project rules, absence of a sanctions/court finding is NOT a rejection ground and this company must not be rejected on this basis; the only rejection grounds (non-existence, liquidation, bankruptcy) were also not verifiable here. Recommended follow-up before any decision: (1) MCA master-data lookup by the claimed PAN AABCA4526D / registered name to confirm active status, (2) OFAC/EU/UK consolidated list screening via a scripted/API endpoint, (3) eCourts/NCLT name search, (4) credit-bureau report (CRISIL/ICRA/CARE/Experian) if available. Note also that the claimed industry ('oil & gas and chemicals') is inconsistent with the declared HS codes 401693/401699 (rubber gaskets/seals) — flagged for the HS/identity reviewer, not a risk finding and not a rejection ground."
+}

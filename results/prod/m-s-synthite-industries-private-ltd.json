@@ -1,0 +1,17 @@
+{
+ "name_input": "M/S SYNTHITE INDUSTRIES PRIVATE LTD",
+ "declared_hs": "090240;091099",
+ "actual_hs_list": [
+  "130219 (oleoresins / botanical extracts - primary line, not declared)",
+  "330190 (essential oils, oleoresin-derived flavour/fragrance concentrates - not declared)",
+  "320300 (natural colours / pigments, e.g. paprika, turmeric - not declared)",
+  "210690 (functional food / custom food ingredient systems - not declared)",
+  "330210 (flavour & seasoning blends - not declared)",
+  "090240 (black tea, fermented, in immediate packings >3 kg - declared, not corroborated)",
+  "091099 (spices nes - declared, only partially plausible)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Synthite describes itself as 'The World's Leading Producer of Botanical Extracts' and lists its portfolio as: spice oleoresins, functional food, fragrance, flavour, pigments and botanical extracts, plus 'customized food solutions, flavors, and seasonings' (source: https://www.synthite.com/ homepage, 'WHAT WE DO' block and 'Our Companies and Brands' block). 8 manufacturing facilities, 90+ countries served, 50+ years, origin in Kerala. The site is a JS-rendered SPA - the dedicated /ingredient-solutions/, /oleoresins/ and /our-company/business-portfolio-divisions/ URLs returned only the generic homepage shell, so no item-level SKU list or catalogue PDF could be read; product-level detail beyond the six families above is therefore null / not public in readable form.",
+ "role_hint": "manufacturer",
+ "comment": "Industry classification 'Продукты питания и FMCG' is a misclassification in substance: the confirmed business is B2B extraction/ingredient manufacturing (oleoresins, botanical extracts, natural colours, flavour and fragrance concentrates), not consumer food/FMCG. The declared pair 090240 (black tea >3 kg) + 091099 (spices nes) does not match the core business: the flagship export lines are oleoresins and botanical extracts (130219), essential-oil/flavour concentrates (330190), natural pigments (320300) and functional food systems (210690) - none of these appear in the declaration. 091099 is only partially consistent, and only if whole/crushed spice trading is actually shipped; 090240 (tea) has no support anywhere on the company's own site and looks like a wrong line. Per project rule 3 this is NOT a rejection ground: company stays in the base, verdict accepted_hs_corrected, declared codes to be replaced by the actual extraction/ingredient codes. All product claims above are from the company website only - no customs line was available to this researcher, so every HS mapping here is 'заявлено, не подтверждено' at the shipment level; the product families themselves are corroborated by the company's own site text, the specific HS codes are my mapping, not a customs record. No trader signs found (own manufacturing facilities stated). No registry, revenue or customs-volume research performed per role scope."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ARAGEN LIFE SCIENCES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — INCOMPLETE, NOT A CLEAN BILL. Tooling failure: the web_search backend returned 'Connection refused' on every query (searx down), Google/Bing/DuckDuckGo HTML endpoints returned no usable results (Bing returned unrelated furniture listings), and the OFAC Sanctions List Search page is a JavaScript app whose query results cannot be read via plain HTTP fetch. OpenSanctions (which aggregates OFAC SDN, UN, EU, UK, BIS Entity List and more, data current as of 2026-11-25) was queried for 'Aragen' and 'Aragen Life Sciences Limited' and returned 'No matching entities were found' — however a control query (Piramal Pharma Solutions) also returned no matches, so the endpoint appears non-functional in this session and this result CANNOT be treated as a verified negative screen. Therefore: sanctions_hit = null (not screened, not 'clear'); court_cases = null (no Indian court/party-role/status data retrieved — e.g. eCourts, NCLT, High Court records not reachable); rating = null (no CRISIL/ICRA/CARE/India Ratings action retrieved, no date available); news_risk = null (no regulator actions or negative news retrieved, none confirmed or excluded); rf_supply = null (no evidence of supplies to Russia or CIS found, but no trade/press source was successfully read — absence of evidence here is a tooling artefact, not a finding). No numbers, CINs, PANs, case numbers or shipment records were invented; all unretrievable fields are null. Per project rules, nothing here is a rejection ground and no adverse inference should be drawn from the nulls. RECOMMENDATION: re-run this risk screen when the search backend is restored, specifically against OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, eCourts/NCLT, and CRISIL/ICRA rating rationales."
+}

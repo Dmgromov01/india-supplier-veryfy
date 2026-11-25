@@ -1,0 +1,18 @@
+{
+ "name_input": "Superior Networks",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AOJPK6926L",
+ "pan_holder_type": "Individual (4th character 'P' = person, i.e. sole proprietor / individual PAN, not a company PAN)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - tooling failure, not a negative finding. All search attempts failed: DuckDuckGo/searx returned 'Connection refused'/'timed out'; Bing returned only unrelated results (Superior Grocers, dictionary pages) for queries on the name, the PAN and the GSTIN; ZaubaCorp returned HTTP 403. No public registry page, GST profile or MCA record could be read, so legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not invented. What can be stated from the input alone: the claimed identifier AOJPK6926L is a valid-format PAN whose 4th character is 'P', which denotes an INDIVIDUAL holder, not a company/firm - so 'Superior Networks' is most likely a sole proprietorship (proprietor surname initial K, consistent with the 'KAMLESH' in the legal_claimed field), which would mean no CIN and no MCA record exists at all. This is a format inference, not a verified fact. Role left as 'unknown' (no evidence of manufacturing or trading activity). Per project rules the company is NOT rejected: absence of verifiable data is not grounds for rejection, and no evidence of non-existence, strike-off, liquidation or bankruptcy was found. Declared HS 847150 (ADP machines/processing units) is not treated as a rejection ground. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN directly from the supplier and check it on the GST portal."
+}

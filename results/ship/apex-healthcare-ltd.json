@@ -1,0 +1,8 @@
+{
+ "name_input": "APEX HEALTHCARE LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. ImportKey page https://importkey.com/countries/india/apex-healthcare-ltd returned only a paywalled shell: 'Shipments available for APEX HEALTHCARE LTD, refreshed daily' with zero rows rendered (0 rows seen, 0 records quoted). Volza (403 Forbidden), Eximpedia (403 Forbidden), Trademo (403 Forbidden), ImportGenius (JS challenge page, no data) all yielded no records.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved. BSE page for the scrip returned only site chrome ('LIVE Stock/Share Market | Indian Stock/Share Market LIVE | BSE SENSEX'), no financial content; ZaubaCorp returned 403 Forbidden. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных B/L записей, ни внутренних GST/тендерных подтверждений получить не удалось, все источники отдали 403/JS-заглушку, а поисковый бэкенд (searx) был недоступен на протяжении всей проверки. Статус по обоим направлениям — unknown, а не none_found, поскольку отсутствие доступа к данным не равно отсутствию отгрузок. Заявленный HS 293499 (гетероциклические соединения) не проверен по фактическим записям; компания сохраняется в базе, HS не корректировался. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Требуется повторная проверка при восстановлении доступа к volza/eximpedia или к поисковому бэкенду."
+}

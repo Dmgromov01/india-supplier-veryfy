@@ -1,0 +1,9 @@
+{
+ "name_input": "ADVANCED LIFE SCIENCES PVT. LTD.; ADVANCED LIFESCIENCES PRIVATE LIMITED; ADVANCED LIFESCIENCES PRIVATE LIMITED; ADVANCED LIFESCIENCES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure during this run: the web_search backend (searx) returned 'Connection refused' on every attempt; Zauba Corp returned HTTP 403; DuckDuckGo HTML endpoints timed out; Bing returned only generic dictionary/consumer results unrelated to the query (identical result set for three different queries, i.e. no real match for the company name or for PAN AAGCA1461L). Consequently NO source could be read for this entity, and per project rules nothing is asserted: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because they are unverified, NOT because they were checked and found clean. No evidence of supplies to Russia or the CIS was found, but this is likewise unverified — do not read it as a negative finding. Note also that the input carries four near-identical name variants (ADVANCED LIFE SCIENCES PVT. LTD. / ADVANCED LIFESCIENCES PRIVATE LIMITED), which may be duplicate records of one legal entity or may be distinct companies; this ambiguity could not be resolved without registry access. Recommended next step: re-run with working search/registry access (MCA master data, Zauba/Tofler, e-courts/NCLT, OFAC SDN + BIS Entity List + EU/UK consolidated lists, CRISIL/ICRA/CARE ratings) before any risk verdict is recorded. No rejection grounds identified or implied — this is an incomplete check, not a clearance."
+}

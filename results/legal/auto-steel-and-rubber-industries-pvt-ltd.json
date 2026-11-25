@@ -1,0 +1,18 @@
+{
+ "name_input": "AUTO STEEL AND RUBBER INDUSTRIES PVT LTD",
+ "legal_name": "AUTO STEEL AND RUBBER INDUSTRIES PVT LTD (exact MCA-registered form not verified — could not be confirmed from a public registry page)",
+ "cin_llpin": null,
+ "pan": "AABCA4526D",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type PAN; consistent with a private limited company). PAN is as claimed in the input; it was NOT independently verified against an income-tax or MCA record because no public page could be retrieved.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not negative. Tooling failed during this run: the DuckDuckGo search backend refused connections ('Connection refused') on both queries; zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com and mca.gov.in all returned HTTP 403; quickcompany.in returned 404; Bing returned only irrelevant US auto-parts results. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status could not be read from any public source and are left null rather than guessed. PAN AABCA4526D is recorded as claimed by the input only; its 4th character 'C' indicates a company-type holder, which is consistent with a Pvt Ltd entity, but this is a format inference, not verification. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. IMPORTANT per project rules: this company is NOT rejected — rejection is only for non-existent/struck-off/liquidated/bankrupt entities, and no evidence of any of those was found (nor could existence be confirmed). Status should be treated as 'registry data unverified — re-run required', not as accepted or rejected. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by PAN AABCA4526D to obtain CIN, GSTIN and status. Role (manufacturer vs trader) cannot be determined from registry data alone and is left 'unknown'."
+}
