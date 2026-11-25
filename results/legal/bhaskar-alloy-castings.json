@@ -1,0 +1,18 @@
+{
+ "name_input": "Bhaskar Alloy Castings",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "BVWPR5874D",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'P' in the PAN format AAAAA9999A denotes an individual person, so the PAN belongs to a natural person, not a company/firm. This is consistent with the claimed legal name 'RONDA VIJAYA BHASKAR REDDY' being a proprietor, i.e. the entity is a proprietorship, which has no CIN/LLPIN and no MCA record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Telangana",
+ "mca_status": "not applicable — proprietorship (PAN 4th char 'P' = individual); no LLPIN/CIN expected",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public source could be read. Tooling failure: web_search returned 'searx: Connection refused' on every query; DuckDuckGo HTML endpoint timed out; Bing returned only generic 'Dainik Bhaskar' newspaper results with the quoted company name ignored (no relevant hits); zaubacorp.com returned HTTP 403; quickcompany.in returned HTTP 404. Therefore GSTIN, GST status, registered-office state, incorporation/registration date and revenue could not be confirmed from any public profile or filing — all left null, nothing inferred. What IS verifiable from the input itself: the PAN BVWPR5874D is structurally valid in format (5 letters + 4 digits + 1 letter) and its 4th character 'P' marks the holder as an individual person, so 'Bhaskar Alloy Castings' is almost certainly a sole proprietorship of Ronda Vijaya Bhaskar Reddy rather than a registered company — meaning no CIN/LLPIN and no MCA status will exist for it. Per the rules, absence of a CIN is NOT grounds for rejection (the entity is not shown to be struck off, liquidated or bankrupt); verdict is 'unverified, needs manual check'. Recommended manual checks: GST portal 'Search Taxpayer' on the trade name in Telangana, Udyam registration lookup, and the PAN-based GSTIN search. HS 847490 (parts of machinery for sorting/screening mineral substances) is plausible for a castings supplier but was not assessed here (out of scope for this role). No revenue figures exist publicly for a proprietorship — audited accounts are not filed publicly, so FY25/FY26 revenue will remain null unless the supplier provides ITR/audited statements."
+}

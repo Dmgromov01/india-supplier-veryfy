@@ -1,0 +1,9 @@
+{
+ "name_input": "Rotarymaster",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data retrieved. As of today (per OFAC page footer: SDN list last updated 11/23/2026) no sanctions/court/rating/news/RF-supply record could be confirmed or excluded for 'ROTARYMASTER MANUFACTURING PRIVATE LIMITED' (claimed Tamil Nadu, PAN AAJCR9511P — PAN not verified, out of scope). Tooling failures: DuckDuckGo search backend refused connections ('Connection refused') on both queries; Bing returned unrelated results (storage/Shanghai travel) for the exact-name queries, i.e. no genuine match surfaced; ZaubaCorp returned HTTP 403; Tofler company page returned 404 (slug guess, not proof of non-existence); OFAC Sanctions List Search is a JavaScript app and returned no query results via plain HTTP GET. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = NOT PUBLICLY VERIFIED BY THIS RUN, not 'clean'. No negative news, no regulator action, no credit rating and no evidence of supplies to Russia/CIS were found — but absence here reflects failed retrieval, not absence of records. Per project rules, no rejection is proposed on this basis; company stays in the database. Recommend re-run with working search backend and manual checks of: OFAC SDN/consolidated list, UN/UK/EU/BIS lists, eCourts/NCLT by CIN, and credit bureaus (CRISIL/ICRA/CARE/ACUITE)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MELZER CHEMICALS PVT LTD",
+ "legal_name": "MELZER CHEMICALS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AABCM4138M",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN; consistent with a private limited company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this run. Tooling failure: the web_search backend refused connections (searx: Connection refused) on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Google and Bing HTML endpoints returned unrelated results (no usable SERP for the query). Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT invented. PAN AABCM4138M is taken from the input only and was not independently confirmed against MCA; its 4th character 'C' indicates a company-type PAN, which is consistent with the claimed legal form 'PRIVATE LIMITED'. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a retrieval failure, not a negative finding. Role left as 'unknown' pending verification of manufacturing vs trading activity. Recommended action: re-run verification when search/registry access is restored, checking MCA master data for the exact CIN and the GST portal for the GSTIN."
+}

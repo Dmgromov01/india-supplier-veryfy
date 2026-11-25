@@ -1,0 +1,18 @@
+{
+ "name_input": "Mehra Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо не удалось. Входные данные противоречивы: в поле legal_claimed указано 'VIKAS MEHRA' — это имя физлица, а не наименование юрлица; 'Mehra Industries' — типовое торговое обозначение, под которым в Индии может существовать множество проприетарных фирм и партнёрств, не имеющих CIN (CIN присваивается только компаниям, зарегистрированным в MCA). Проверка невозможна по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing по запросам '\"Mehra Industries\" Haryana GSTIN', '\"Vikas Mehra\" \"Mehra Industries\"', '\"MEHRA INDUSTRIES\" site:zaubacorp.com OR thecompanycheck.com OR tofler.in' выдал только нерелевантные результаты; zaubacorp.com, thecompanycheck.com и instafinancials.com отдают HTTP 403 при прямом обращении. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус публично не подтверждены — все поля null, ничего не домысливалось. Выручка FY25/FY26 отсутствует: аудированной отчётности или официальных филингов не найдено. Роль (manufacturer/trader) не установлена — unknown. ВАЖНО: отклонять НЕ следует — отсутствие подтверждения не равно несуществованию юрлица (правило 3: rejected только при ликвидации/банкротстве/отсутствии юрлица). Статус: требуется уточнение от поставщика — полное наименование юрлица, GSTIN (15-значный) либо CIN, адрес регистрации. Заявленный HS 400911 (трубы из вулканизированной резины, кроме твёрдой) с заявленной отраслью 'Авиастроение и транспорт' не противоречит, но фактический код не подтверждён."
+}

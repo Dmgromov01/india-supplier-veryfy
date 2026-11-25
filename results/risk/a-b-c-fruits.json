@@ -1,0 +1,9 @@
+{
+ "name_input": "A B C FRUITS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx unavailable); DuckDuckGo HTML endpoint timed out; Bing returned only generic 'ABC' media-corporation results and ignored the quoted entity name and PAN, so no entity-specific page was ever retrieved; the OFAC Sanctions List Search page is a JavaScript form and returned no queryable result over plain HTTP. Consequently sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all null = NOT CHECKED, not 'clean'. The name 'A B C FRUITS' / 'ABC FRUITS' is highly generic and cannot be reliably disambiguated without a working search or a registry lookup; the claimed PAN AAQFA7498G and state Tamil Nadu were not independently verified (out of scope for this role anyway). No claim in this record should be read as a negative clearance. Recommend re-running this company once search connectivity is restored, and cross-checking the PAN against the Income Tax / MCA / GST portal plus a manual OFAC/EU/UK consolidated-list name search before any risk conclusion."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "A B C FRUITS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAQFA7498G",
+ "pan_holder_type": "F — Firm/Partnership (4th character 'F' of the claimed PAN indicates a partnership firm; PAN itself is unverified, taken from input only)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry record could be retrieved. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); Bing returned only unrelated generic results for both the PAN 'AAQFA7498G' and 'ABC FRUITS GSTIN Tamil Nadu'; ZaubaCorp and mca.gov.in returned HTTP 403. Therefore: exact legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, not invented. PAN 'AAQFA7498G' is only the value supplied in the input; its existence and holder were not confirmed against any source. The 4th character 'F' would imply a partnership firm (not a company), which is consistent with the absence of a CIN, but this is an inference from the input string, not a verified fact. Role cannot be determined from registry data (no MCA/GST record seen) — set to unknown rather than guessing manufacturer/trader. Revenue FY25/FY26: null — no audited accounts or official filings located; a partnership firm of this type would typically not publish audited financials publicly. Per project rules the company is NOT rejected: non-existence/struck-off/liquidation/bankruptcy could not be established either way, so no rejection basis exists. HS codes 071080/080450/081110/081190 (frozen vegetables, guava/mango, fruit juices) were not assessed — outside this role's scope. Recommended next step: manual lookup of GSTIN by PAN on the GST portal (search by PAN) and, if a company rather than a firm is involved, an MCA name search, before any acceptance decision."
+}

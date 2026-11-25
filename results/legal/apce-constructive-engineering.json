@@ -1,0 +1,18 @@
+{
+ "name_input": "APCe CONSTRUCTIVE ENGINEERING",
+ "legal_name": "APCe CONSTRUCTIVE ENGINEERING (as claimed; no MCA/registry record located — likely a proprietorship/firm, not a company)",
+ "cin_llpin": null,
+ "pan": "AGEPP0540N",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual — consistent with a proprietorship PAN, not a company PAN where 4th char would be 'C')",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": "not found in MCA / no CIN located",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) returned connection refused for all queries, and direct fetches of MCA master-data, ZaubaCorp and Tofler were blocked (HTTP 403 / 404). Bing queries for the exact trade name 'APCe Constructive Engineering', for the proprietor name 'Atul Chandulal Pandya' and for the PAN 'AGEPP0540N' returned no relevant Indian registry or GST profile hits — only unrelated results (APCE = Association of Partners in Christian Education, APEC etc.). Therefore: no CIN/LLPIN, no GSTIN, no GST status, no incorporation date and no registered-office state could be confirmed from a public source; all set to null rather than guessed. The claimed PAN AGEPP0540N is format-valid (AAAAA9999A) and its 4th character 'P' indicates an INDIVIDUAL holder, which is consistent with the claimed legal name being a natural person (proprietorship) rather than a company — so the 'legal_claimed' field is a proprietor name, not a corporate legal entity. State of registration could not be verified against the claimed Gujarat. No audited accounts or official filings were found, so revenue FY25 and FY26 are null (not estimated). Per project rules the entity is NOT rejected: non-existence/struck-off/liquidation/bankruptcy could not be established either way — the record is simply unverified. Recommended next step: manual check on the GST portal (search by PAN AGEPP0540N) and on Udyam/MSME or Gujarat Shops & Establishments registration, since a proprietorship will not appear in MCA. Role left as 'unknown' — no evidence of manufacturing facility or trading activity was verifiable from registry sources."
+}
