@@ -1,0 +1,18 @@
+{
+ "name_input": "PARIN ENTERPRISES LIMITED (FORMERLY KNOWN AS PARIN FURNITURE LIMITED); PARIN ENTERPRISES LIMITED (FORMERLY KNOWN AS PARIN FURNITURE LIMITED); PARIN FURNITURE LIMITED; PARIN ENTERPRISES LIMITED (FORMERLY KNOWN AS PARIN FURNITURE LIMITED); PARIN FURNITURE PVT LTD; PARIN ENTERPRISES LIMITED (FORMERLY KNOWN AS PARIN FURNITURE LIMITED); PARIN FURNITURE LIMITED; PARIN FURNITURE LIMITED; PARIN FURNITURE PRIVATE LIMITED; PARIN ENTERPRISES LIMITED (FORMERLY KNOWN AS PARIN FURNITURE LIMITED)",
+ "legal_name": "Parin Enterprises Limited (formerly Parin Furniture Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat (inferred from NSE listing/registered office; not confirmed from MCA record)",
+ "state_claimed": "",
+ "mca_status": "Active – listed company, shares traded on NSE (symbol PARIN) and BSE; no strike-off/liquidation/insolvency found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 167.96,
+ "revenue_fy26_cr": 248.0,
+ "revenue_source": "Screener.in consolidated P&L (FY25 sales Rs 168 cr, FY26 sales Rs 248 cr; standalone FY25 Rs 97.96 cr, FY26 Rs 75.07 cr) – aggregator of audited filings, not the audited PDF itself; exact rupee figures to be confirmed from the annual report",
+ "note": "Registry identifiers (CIN, PAN, GSTIN, exact incorporation date) could NOT be verified: searx web_search was down (connection refused) and all registry aggregators (ZaubaCorp, TheCompanyCheck, Moneycontrol, BSE/NSE quote pages) returned 403 or empty shells. No CIN/PAN/GSTIN is stated here because none was read from a primary source – do not treat any value as confirmed. What IS confirmed: the entity exists and is publicly listed (NSE: PARIN, BSE 542918), so it is not struck off/liquidated/bankrupt – no rejection ground. Screener describes it as incorporated in 1983 and engaged in furniture manufacturing, which supports role=manufacturer and the declared HS 9401.30/9403.60 (furniture) as plausible; HS not corrected. Note the name history: Parin Furniture Limited -> Parin Enterprises Limited, and the company states that automobile manufacturing/trading, electronics/telecom wholesale-retail and real-estate/construction activities are 'in the pipeline and yet to commence' – i.e. the claimed industry 'Строительство и DIY' (construction/DIY) is not an operating segment, only furniture is. Revenue: FY25 consolidated Rs 168 cr, FY26 consolidated Rs 248 cr per Screener; FY26 standalone fell to Rs 75 cr, so consolidated vs standalone basis must be checked against the audited accounts before use. Next step for a full pass: pull CIN/PAN/GSTIN from the MCA master data and the GST portal using the legal name, and read the FY26 annual report PDF."
+}

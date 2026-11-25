@@ -1,0 +1,19 @@
+{
+ "name_input": "M/S SUNDRAM FASTENERS LTD",
+ "declared_hs": "731815;731816;870899",
+ "actual_hs_list": [
+  "731815 - Screws and bolts, of iron or steel, whether or not with nuts/washers (high tensile fasteners)",
+  "731816 - Nuts, of iron or steel",
+  "731822 - Other washers, of iron or steel (fastener range, likely)",
+  "732619 - Other articles of iron or steel, forged (hot forged parts)",
+  "732690 - Other articles of iron or steel (cold extruded / powder metallurgy parts, likely)",
+  "841330 - Fuel/lubricating/cooling-medium pumps for IC engines (pumps & assemblies)",
+  "848340 / 848390 - Gears, gearing and parts for powertrain components (likely)",
+  "870899 - Other parts and accessories of motor vehicles (powertrain components, radiator caps as automotive parts)",
+  "720529 / 720521 - Iron powder / alloy steel powder (iron powder line)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official website (sundram.com) product menu lists: High Tensile Fasteners, Cold Extrusion, Hot Forged parts, Powertrain Components, Pumps & Assemblies, Radiator Caps, Powder Metallurgy, Iron Powder. Core business is automotive OEM fasteners and engine/drivetrain components, not construction/DIY hardware. Declared codes 731815 (bolts/screws) and 731816 (nuts) match the fastener line exactly; 870899 matches the automotive powertrain/radiator-cap line. Not declared but present on the site: pumps & assemblies (8413), hot forged/cold extruded steel parts (7326), powder metallurgy parts, and iron powder (7205) - a separate metallurgical product line. Washers (731822) are typical of a high-tensile fastener range but not individually confirmed on the pages I could open (product sub-pages returned 404).",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: partial. 731815 and 731816 are exact matches to the declared fastener lines; 870899 is a plausible partial match for powertrain/radiator-cap automotive parts. Industry classification 'Строительство и DIY' (construction & DIY) is a misclassification: the company is an automotive OEM tier-1 component manufacturer (fasteners, powertrain, pumps, powder metallurgy), not a construction/DIY supplier. Product lines missing from the declaration: pumps & assemblies (HS 8413), hot forged and cold extruded steel parts (HS 7326), powder metallurgy components, and iron powder (HS 7205). No trader signs - own manufacturing plants and digital product catalogues per line. Per project rule 3, the HS mismatch is not a rejection ground: company is retained, code set corrected to the actual product mix. All product lines above are 'заявлено, не подтверждено' - sourced from the company's own website product menu (https://www.sundram.com/), not from a customs line; no shipment-level HS records were checked in this task. Note: web_search backend was unavailable (connection refused) and product sub-pages returned HTTP 404, so only the homepage product menu could be read; washer code 731822 and gear codes 8483 are inferred from the product category, not individually confirmed."
+}
