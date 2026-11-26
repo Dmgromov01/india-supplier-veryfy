@@ -1,0 +1,8 @@
+{
+ "name_input": "Team Ferro Alloys Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/team-ferro-alloys-pvt-ltd exists as a company profile shell but shows zero shipment rows in the free view: \"Join ImportKey to view the import and export data records of companies all over the world.\" — no date, destination, HS code or B/L number visible. Source counter: 1 company page found, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved. All registry/aggregator attempts returned HTTP 403 (zaubacorp, thecompanycheck, volza, eximpedia, trademo) or a JavaScript challenge (importgenius); search backends were unavailable (DuckDuckGo connection refused, Google 429, Bing returned unrelated results). 0 domestic supply records seen.",
+ "note": "Следов поставок не подтверждено ни по экспорту, ни по внутреннему рынку — но и не опровергнуто: все источники отгрузочных данных оказались закрыты (403/JS-challenge/платный доступ), поэтому статус именно unknown, а не none_found. Заявленный HS (720211, 720230, 720241, 720270 — ферромарганец/ферросиликомарганец) соответствует профилю ферросплавного производителя, но фактичность отгрузок не проверена. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). CIN/PAN не подтверждены — null. Требуется повторная проверка при доступе к платным таможенным базам (Volza/Eximpedia/ImportGenius) или к GST-порталу."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "BOTICS INDUSTRIES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / таймаут; агрегаторы реестра (zaubacorp.com, thecompanycheck.com) отдали HTTP 403, tofler.in — 404 по предполагаемому слагу; Bing выдал нерелевантную выдачу. Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус публично не получены в рамках этой проверки — все поля null, ничего не выдумано. Юрлицо НЕ отклоняется: отсутствие подтверждения не равно несуществованию (правило 3). Роль оставлена 'unknown' — по названию ('Industries') и заявленному HS 842230 (оборудование для розлива/упаковки) нельзя отнести к manufacturer или trader без подтверждения. Заявленная отрасль 'Продукты питания и FMCG' с HS 842230 не бьётся: код относится к машинам, а не к пищевой продукции — при подтверждении фактического кода вердикт должен быть accepted_hs_corrected (правило 3), но сам HS здесь не проверялся по заданию роли. Выручка FY25/FY26 null: аудиторская отчётность и официальные филинги не найдены. Требуется повторный прогон при доступном поиске или ручная проверка на mca.gov.in / GST-портале по точному названию."
+}

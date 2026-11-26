@@ -1,0 +1,18 @@
+{
+ "name_input": "Mansons International Pvt Ltd",
+ "legal_name": "MANSONS INTERNATIONAL PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Bing HTML search returned only unrelated results (Hulu/Chegg/Detroit Lions/backgammon) for the exact-name queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed slugs; mca.gov.in MCA master-data portal returned HTTP 403; Google search returned HTTP 429. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they were not publicly retrievable in this session - they are NOT null because the company was found to be non-existent. No rejection is applied: there is no evidence of non-existence, strike-off, liquidation or bankruptcy, and per project rules rejection requires such evidence. Role left as 'unknown' (no verified registry or filing evidence of manufacturing vs trading activity). Revenue FY25/FY26 null - no audited accounts or official filings were accessible; no figures invented. Recommended follow-up: re-run with working search access and check MCA master data by CIN, plus GST portal public search by legal name, before any verdict is assigned."
+}

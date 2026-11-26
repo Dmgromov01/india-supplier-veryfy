@@ -1,0 +1,8 @@
+{
+ "name_input": "Buraq Pets (Buraq Pet Supplies)",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/buraq-pets (and slug variants /buraq-pet-supplies, /buraq-pets-buraq-pet-supplies) all render the same empty template: \"Shipments available for BURAQ PETS, refreshed daily\" with \"Loading...\" and no shipment table. Rows actually seen: 0 of 0. No bill-of-lading number, date, destination or HS code visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. zaubacorp.com returned HTTP 403; web_search (DuckDuckGo/searx) was unavailable for the whole session (\"Connection refused\"), so no domestic-supply record was located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Все три варианта слага на importkey отдают пустой шаблон без единой записи (0 строк), volza/eximpedia/trademo — HTTP 403, importgenius — JS-челлендж, поисковик недоступен. Поэтому статус unknown, а не none_found: отсутствие данных здесь означает недоступность источников, а не отсутствие отгрузок. Заявленные коды HS 230910 (корм для собак/кошек в розничной упаковке), 330510 (шампуни), 392690 (изделия из пластмасс), 420292 (сумки/контейнеры с покрытием) — типичный набор для зоотоваров, но фактичность не подтверждена ни одной таможенной или B-L записью. Выручка и объём экспорта: null (не публичны / не найдены). Юрлицо, CIN, PAN, штат — не подтверждены; оснований для отклонения нет (нет данных о ликвидации/банкротстве), но и оснований для accepted нет. Рекомендация: повторить проверку при доступном поиске и платном доступе к таможенным данным."
+}

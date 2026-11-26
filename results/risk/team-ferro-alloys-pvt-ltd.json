@@ -1,0 +1,38 @@
+{
+ "name_input": "Team Ferro Alloys Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bombay High Court (Nagpur Bench)",
+   "case": "Writ Petition No. 3827 of 2019 — Team Ferro Alloys Private Limited (Gondia) & Anr. vs. Team Ferro Alloys Power Plant Workers Union & Ors.",
+   "role": "Petitioner",
+   "status": "Multiple orders/hearings: 27.08.2019 (Z.A. Haq), 14.11.2019, 20.11.2019, 25.11.2019, 08.01.2020 (A.S. Chandurkar)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Team%20Ferro%20Alloys%22"
+  },
+  {
+   "court": "Supreme Court of India (Daily Orders)",
+   "case": "Team Ferro Alloys Pvt. Ltd. & Anr. vs. Team Ferro Alloys Power Plant Workers Union & Ors. (SLP against Bombay HC Nagpur order)",
+   "role": "Petitioner",
+   "status": "Listed/heard 18.11.2020; bench Navin Sinha, K.M. Joseph",
+   "source": "https://indiankanoon.org/search/?formInput=%22Team%20Ferro%20Alloys%22"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Income Tax Appeal (IT) No. 2754 of 2018 — Team Ferro Alloys Pvt. Ltd. vs. Pr. Commissioner of Income Tax & Anr.",
+   "role": "Appellant",
+   "status": "Orders dated 11.06.2026 and 23.06.2026 (per Indian Kanoon listing)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Team%20Ferro%20Alloys%22"
+  },
+  {
+   "court": "Gujarat High Court",
+   "case": "Commissioner of Income Tax vs. Team Ferro Alloys Pvt Ltd (Tax Appeal)",
+   "role": "Respondent",
+   "status": "Order dated 23.08.2013, bench M.R. Shah",
+   "source": "https://indiankanoon.org/search/?formInput=%22Team%20Ferro%20Alloys%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a clean confirmation — the OFAC Sanctions List Search tool returned only its landing page (JS-driven, no query executed), and the search backend (DuckDuckGo/searx) was down for the whole session (connection refused), so UN, EU, UK and BIS Entity List screens could not be run. Treat sanctions_hit=null as 'not verified', not as 'clear'. Court cases: 29 documents on Indian Kanoon under the exact name; the substantive cluster is a long-running industrial dispute with the Team Ferro Alloys Power Plant Workers Union (Bombay HC WP 3827/2019, escalated to SC in 2020) plus income-tax litigation (Bombay HC ITXA 2754/2018; an older Gujarat HC tax appeal from 2013 — note the Gujarat matter may concern a different entity, name match only). Per project rule 2 these are noted neutrally and are not rejection grounds. Regulator actions / negative news: none found, but coverage is unreliable because general web search was unavailable; null means 'not found in the sources reachable', not 'none exists'. Credit rating: no CRISIL/ICRA/CARE/India Ratings action found — null, not public in reachable sources. Russia/CIS supply evidence: none found; an Indian Kanoon query combining the company name with Russia/export/customs returned zero matching results, and no customs or B-L record was located. This is an absence of evidence, not evidence of absence — no shipment record was verified either way. Company appears to be a ferro-alloy producer at M.I.D.C. Mudipar, Gondia district, Maharashtra (per court cause titles). Recommend re-running sanctions screening (OFAC/EU/UK/BIS) and a paid credit-rating check once search access is restored."
+}
