@@ -1,0 +1,9 @@
+{
+ "name_input": "Euro Farm Implements India Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена — данных нет, все поля null. Технические обстоятельства: (1) web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) Bing по запросам в кавычках '\"Euro Farm Implements India Private Limited\"' и '\"Euro Farm Implements\" IndiaMART OR export OR Russia' выдавал только общие результаты про валюту 'euro' — релевантных страниц не найдено; (3) Google вернул только редирект-заглушку; (4) реестры Zauba Corp, TheCompanyCheck, InstaFinancials — HTTP 403/404; (5) OFAC Sanctions List Search — JS-форма, GET-запрос без параметров поиска результатов не даёт; консолидированный SDN.CSV (sanctionslistservice.ofac.treas.gov) скачался, но ответ обрезан на 6000 символах (только начало списка, программы CUBA/SDGT), поэтому вхождение названия компании в список проверить не удалось. Санкционных скринингов (OFAC SDN, UN, EU, UK, BIS Entity List), проверки судебных дел (eCourts, NCLT, High Court), действий регуляторов, негативных новостей, кредитного рейтинга (CRISIL/ICRA/CARE/India Ratings) и любых свидетельств поставок в Россию/СНГ по открытым источникам получить не удалось. Никаких выводов об отсутствии санкций/судов/поставок делать нельзя — это пробел в данных, а не отрицательный результат. Требуется повторный прогон при доступном поиске и полнотекстовом доступе к санкционным спискам. Правило 2 соблюдено: даже при обнаружении санкций/судов в будущем они не будут основанием для отклонения."
+}

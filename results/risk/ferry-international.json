@@ -1,0 +1,9 @@
+{
+ "name_input": "Ferry International",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the search backend (DuckDuckGo/searx) was unreachable ('Connection refused' / timeouts) for every query, and the only reachable engine (Bing) returned identical generic 'ferry' results for all queries, including exact-phrase queries on the company name, the claimed PAN AAAFF0635L, and site-restricted queries to zaubacorp.com/tofler.in/indiamart.com — i.e. no company-specific page was ever retrieved. Therefore no sanctions screening (OFAC SDN, UN, EU, UK, BIS Entity List), no Indian court-record check (party role/status), no regulator-action or negative-news check, no credit-rating lookup and no evidence of supplies to Russia/CIS could be verified. All fields are null because nothing is public/retrievable in this session — this is NOT a finding of 'clean'. Per project rules, absence of a sanctions hit here must not be read as confirmation of no exposure, and no rejection is implied (sanctions/court matters are never rejection grounds anyway). Recommended: re-run the risk pass when search access is restored, using exact-name queries plus the claimed PAN, and check OFAC SDN/UN/EU/UK/BIS lists directly, eCourts/NJDG by party name, and Indian credit-rating agency sites (CRISIL/ICRA/CARE/Acuite) by legal name."
+}

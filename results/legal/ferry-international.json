@@ -1,0 +1,18 @@
+{
+ "name_input": "Ferry International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Входные данные противоречивы: 'Ferry International' с заявленным 'юрлицом' HARPREET SINGH — это имя физлица, что указывает на ИП/проприеторшип (sole proprietorship), у которого нет CIN/LLPIN и нет MCA-статуса; проверить это не удалось. Заявленный PAN AAAFF0635L по 4-му символу 'F' соответствует типу держателя 'Firm' (товарищество/фирма), а не физлицу (для физлица 4-й символ был бы 'P'), т.е. PAN не согласуется с заявленным 'юрлицом'-физлицом — вероятна ошибка во входных данных, PAN не подтверждён. Проверка невозможна технически: поисковый бэкенд (DuckDuckGo/searx) недоступен, zaubacorp.com и thecompanycheck.com отдают HTTP 403, портал MCA (mca.gov.in) — 403, search.mca.gov.in не резолвится, gstinsearch.in — DNS-ошибка, Bing по запросам с названием и PAN выдаёт нерелевантную выдачу. GSTIN, дата регистрации, статус GST, MCA-статус, выручка FY25/FY26 — null (нет публичного подтверждения). Отклонять НЕ следует: отсутствие данных не равно несуществованию юрлица (правило 3). Роль — unknown: ни производственных, ни торговых признаков реестрово не подтверждено. Требуется повторная проверка при восстановлении доступа к реестрам (MCA master data, GST-портал) или запрос документов у поставщика (GST-сертификат, PAN-карта, свидетельство о регистрации)."
+}

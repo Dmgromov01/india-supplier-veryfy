@@ -1,0 +1,9 @@
+{
+ "name_input": "BGR SPINNING WEAVING MILLS (BGR GROUP)",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search (DuckDuckGo/searx backend) returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint returned HTTP 403; Google returned only a redirect/consent stub; Bing returned entirely unrelated results (retail/forum pages) for every query variant tried, i.e. no usable index. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded but is a JavaScript form and cannot be queried via plain HTTP GET, so no SDN/consolidated-list screening result could be obtained. Consequently: sanctions exposure = NOT SCREENED (null, not 'clear'); Indian court cases (party role/status) = NOT CHECKED (null); regulator actions / negative news with dates = NOT CHECKED (null); credit rating with date/status = NOT CHECKED (null); evidence of supplies to Russia/CIS = NOT CHECKED (null). Nothing here should be read as a clean bill of health — all fields are null because they are unverified, not because they were found negative. Per project rules, absence of verification is not a rejection ground and no adverse inference is drawn; the company remains in the database. Note also that the declared HS codes (520513/520514/520522 — cotton yarn, not food) conflict with the claimed industry 'Продукты питания и FMCG'; HS/industry classification is outside this role's scope and is flagged only for the classification reviewer. Recommended action: re-run this company once search connectivity is restored, and screen the exact legal name against OFAC SDN, UN Consolidated, EU consolidated, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NCLT) and CRISIL/ICRA/CARE/India Ratings coverage."
+}

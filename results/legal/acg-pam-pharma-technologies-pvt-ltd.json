@@ -1,0 +1,18 @@
+{
+ "name_input": "ACG PAM PHARMA TECHNOLOGIES PVT LTD",
+ "legal_name": "ACG PAM PHARMA TECHNOLOGIES PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACP4776H (claimed by input; not verified against a public registry record)",
+ "pan_holder_type": "Company (4th character 'P' in AAACP4776H = individual person per PAN structure; the claimed PAN is therefore internally inconsistent with a private limited company, which should carry 'C' as the 4th character — flag for correction)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: DuckDuckGo search backend returned connection refused for all queries; zaubacorp, thecompanycheck, falconebiz returned HTTP 403; tofler/quickcompany/instafinancials returned 404; acg-world.com failed TLS certificate verification; Bing returned only generic 'ACG' (American College of Gastroenterology / ACG Global / Nike ACG) results with no registry hit. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — not public/not retrievable in this session, and no numbers are invented. No rejection ground established: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt, so it is retained. PAN note: the claimed PAN AAACP4776H has 'P' as its 4th character, which denotes an individual holder, whereas a private limited company's PAN must have 'C' in that position — the claimed PAN is very likely wrong or belongs to a proprietor/individual and must be re-confirmed from the GST portal or MCA master data. Role assessed as manufacturer_trader on the basis of the claimed HS codes (293399/294200 organic chemicals, 820730 interchangeable tools, 842139 filtering machinery) and the ACG group's known activity in pharma machinery and capsule/packaging equipment, but this is an inference from the input, not a verified registry fact. State 'Maharashtra' is plausible for the ACG group (Pune/Dombivli area) but was not confirmed from a registered-office record. Recommended next step: pull the MCA master data and GST public profile manually (or via a paid API) to obtain CIN, GSTIN, incorporation date and audited FY25/FY26 revenue before any commercial decision."
+}
