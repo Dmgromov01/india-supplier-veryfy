@@ -1,0 +1,18 @@
+{
+ "name_input": "MAHARAJA DEHYDRATION PVT.LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, вердикт не выносится (не rejected). Причина: в этом прогоне поисковый бэкенд DuckDuckGo/searx отдавал ошибку соединения, Google — HTTP 429, Bing возвращал нерелевантную выдачу (игнорировал кавычки, подставлял статьи про титул «махараджа» и расписание NFL), т.е. фактически поиск по названию компании не выполнялся. Реестровые агрегаторы закрыты для автоматического доступа: zaubacorp.com — HTTP 403 (и на карточку компании, и на поиск по названию), thecompanycheck.com — HTTP 403, instafinancials.com — HTTP 404. MCA-портал (mca.gov.in) и GST-портал в этом прогоне не опрашивались. Следовательно: точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации и статус MCA — не подтверждены ни одним источником, поэтому null. Заявленное название «MAHARAJA DEHYDRATION PRIVATE LIMITED» и HS 071220/071290 (сушёный лук/овощи) остаются неподтверждёнными; роль (manufacturer/trader) определить нельзя — unknown. Выручка FY25/FY26: аудиторской отчётности или официальных файлингов получить не удалось — null, цифры не выдумывались. Требуется повторный прогон при работающем поиске либо ручная проверка по MCA Master Data / GST-порталу по названию."
+}

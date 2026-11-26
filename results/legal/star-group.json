@@ -1,0 +1,18 @@
+{
+ "name_input": "Star Group",
+ "legal_name": "STAR EXIM MANAGEMENT CONSULTANCY AND SERVICES PRIVATE LIMITED (as claimed in input; existence NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failures: DuckDuckGo search backend returned connection refused; Bing returned only generic 'star' results with no match for the exact legal name; Zaubacorp and TheCompanyCheck returned HTTP 403; Tofler search returned 404; Instafinancials returned 404; MCA master-data portal returned HTTP 403; Google returned HTTP 429. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT confirmed absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data alone; the claimed name contains 'MANAGEMENT CONSULTANCY AND SERVICES', which suggests a service/consultancy object clause rather than manufacturing, but this is unverified. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — only that verification failed. Recommended next step: manual MCA master-data lookup by name and GST portal search on the legal name before any verdict. Declared HS 845221 (machine tools / metalworking) is not a rejection ground under the current rules; if the entity is confirmed, the HS code should be checked against its actual object clause and corrected with verdict accepted_hs_corrected if mismatched. Note also that 'Star Group' is a very common Indian trade name and may refer to a different entity than the claimed legal name — identity must be confirmed with the supplier."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "APEX INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена. Входные данные противоречивы: в поле legal_claimed указано физлицо «JANG BHADUR MAHAJAN» (вероятно, проприетор/партнёр/директор), а не название компании; PAN, штат и адрес не предоставлены. Поиск по реестрам не дал результата: DuckDuckGo-бэкенд недоступен (connection refused), zaubacorp.com отдаёт 403, tofler.in — 404 на поиске, instafinancials — 404, Google — 429, Bing по запросам «APEX INTERNATIONAL» + «JANG BHADUR MAHAJAN» и по имени директора выдал только нерелевантные результаты (игра Apex Legends, пакистанская газета Jang). Никаких подтверждённых данных о CIN/LLPIN, PAN, GSTIN, дате регистрации, статусе MCA и выручке получить не удалось — все поля null, цифры не выдумывались. «APEX INTERNATIONAL» — крайне распространённое название (сотни записей в MCA и GST), поэтому привязка к конкретному юрлицу без PAN/GSTIN/адреса невозможна. Роль определить нельзя (unknown). Отклонение НЕ применяется: отсутствие подтверждения существования юрлица по доступным источникам не равно доказанному отсутствию юрлица (правило 3). Требуется от поставщика: полное юрлицо (Pvt Ltd / LLP / проприеторство), PAN или GSTIN, штат и адрес — после этого проверку можно завершить."
+}

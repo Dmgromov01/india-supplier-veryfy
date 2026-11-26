@@ -1,0 +1,21 @@
+{
+ "name_input": "GRANICERA PRIVATE LIMITED; GRANICERA PRIVATE LIMITED",
+ "declared_hs": "680223;680293;691010",
+ "actual_hs_list": [
+  "6802.23",
+  "6802.93",
+  "6802.21",
+  "6802.91",
+  "2515.11",
+  "2515.12",
+  "2516.11",
+  "2516.12",
+  "2516.20",
+  "6802.10",
+  "6803.00"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website granicera.com (showroom: 21/1, 1st A Main, Eramma Layout, Adugodi Post, Bannerghatta Road, Bengaluru 560030, Karnataka; tel +91 91668 52222; info@granicera.com) positions the firm as a natural-stone supplier/exporter. Declared product lines on the site: Marble, Granite, Quartzite, Sandstone, Limestone, 'Exclusive/Imported Stones' (imported marble), and Monuments (granite slabs, monuments, luxury vanities). Applications listed: kitchen countertops, flooring & wall cladding, bathroom vanities, reception/commercial spaces. Site states 'Established 2019' in one block and 'Since 1998' in the footer - internally inconsistent, unverified. No product-level catalogue, no slab sizes, no finishes, no HS codes published; collection sub-pages (/granite, /marble, /monuments, /collections/granite, /natural-stones/granite) all return HTTP 404, so item-level verification was not possible.",
+ "role_hint": "trader",
+ "comment": "Сопоставление с заявленными кодами: 6802.23 (гранит обработанный, плиты/блоки) - подтверждается ассортиментом 'Granite' и 'granite slabs' на сайте, exact по товарной группе, но без подтверждения конкретной позиции. 6802.93 (прочий камень обработанный, кроме гранита) - частично: сайт заявляет мрамор, кварцит, песчаник, известняк, но код 6802.93 в текущей редакции относится к 'other stone' и не покрывает мрамор (6802.91) и травертин/алебастр (6802.92); фактически требуется 6802.91 для мрамора и 6802.92/6802.93 для прочих. Статус: partial. 691010 (керамические раковины/умывальники из фарфора или фаянса) - НЕ подтверждается: на сайте нет ни керамики, ни сантехники, ни упоминания умывальников; упомянуты только 'bathroom vanities' как изделия из камня (это 6802.91/6802.93, не 6910). Статус: wrong - вероятно ошибочная позиция, подлежит замене на каменные изделия. Пропущенные в декларации линии: необработанный/грубо обработанный камень - 2515.11/2515.12 (мрамор, травертин), 2516.11/2516.12/2516.20 (гранит, песчаник, прочий монументальный камень), а также 6802.10 (плитка, кубы, мозаика из камня) и 6803.00 (обработанный сланец) - если фирма торгует блоками и слэбами, эти коды релевантны. Признаки трейдера: язык сайта - 'sourcing the world's finest stone', 'imported marble', 'exotic global granites', 'supply premium natural stones to clients worldwide', 'international shipping process', 'reliable logistics' - то есть закупка и перепродажа, а не добыча/собственное производство; собственных карьеров или завода на сайте не заявлено. Отраслевая классификация 'Строительство и DIY' неточна: фактически это оптовая торговля натуральным камнем / поставщик отделочных материалов (B2B, архитекторы, застройщики), а не строительный ритейл DIY. Все товарные позиции - заявлено, не подтверждено: ни одна строка не подтверждена таможенной записью, каталогом с артикулами или спецификацией; сайт заявляет ассортимент, но факт отгрузок по этим кодам не проверялся (вне рамок роли). Вердикт по правилу 3: компания сохраняется, HS-код 691010 исправляется на фактический каменный (6802.91/6802.93), статус accepted_hs_corrected."
+}
