@@ -1,0 +1,20 @@
+{
+ "name_input": "SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; Sproutlife Foods Private Limited; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; Sproutlife Foods Private Limited; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; SPROUTLIFE FOODS PRIVATE LIMITED; Sproutlife Foods Private Limited; SPROUTLIFE FOODS PRIVATE LIMITED",
+ "declared_hs": "210690;220299",
+ "actual_hs_list": [
+  "190420",
+  "190410",
+  "210690",
+  "180690",
+  "200899",
+  "040299",
+  "210610",
+  "220299",
+  "040320",
+  "190190"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт бренда Yoga Bar (yogabar.com, главная страница прочитана 23.11.2026) — реальный ассортимент: (1) мюсли/гранола (OG Muesli Dark Chocolate, Protein Muesli) — готовые пищевые продукты из зерна, HS 1904.20 (мюсли на основе необжаренных хлопьев) / 1904.10 (гранола, полученная путём вздувания/обжаривания зерна); (2) High Protein Oats 26% — овсяные хлопья с добавками, HS 1904.10/1904.20, при чистом овсе — 1104.12; (3) батончики (Bars, категория в меню) — зерновые/протеиновые батончики, HS 1904.20 либо 1806.90 при какао-покрытии; (4) Fermented Yeast Protein 500 g (шоколад/натуральный) — пищевой белковый концентрат, HS 2106.10 (протеиновые концентраты) или 2106.90; (5) Ultimate Whey Isolate with Fermented Yeast Protein — HS 0403.20/2106.10; (6) 26 g Protein Shake (Mango Rizz, Cold Coffee) 250 ml — готовый к употреблению напиток, HS 2202.99; (7) OG Smoothie 160 ml, 6 g protein — HS 2202.99; (8) Dry Fruits & Seeds — HS 0813.50 / 1207 / 2008.99. Товарные позиции подтверждены только карточками товаров на сайте бренда; таможенных деклараций и B/L в рамках этой проверки не открывалось, поэтому фактические отгрузки по каждому коду — заявлено, не подтверждено.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Заявленные коды 2106.90 и 2202.99 закрывают лишь часть ассортимента: 2202.99 корректно соответствует protein shake и smoothie (позиция 2202 в декларации указана как 220299 — совпадение точное по этим SKU), 2106.90 частично соответствует протеиновым смесям/концентратам (точнее 2106.10 для протеиновых концентратов). Основная и, судя по сайту, крупнейшая товарная линия — мюсли, гранола и овсяные хлопья (1904.10/1904.20) — в декларации отсутствует полностью; также не заявлены батончики (1904.20/1806.90), сухофрукты и семечки (0813.50/2008.99), сухие молочные/сывороточные продукты (0403.20). Итог: partial — коды не ошибочны, но неполны; по правилу 3 компания сохраняется, декларацию следует дополнить фактическими кодами 1904.20, 1904.10, 2106.10, 1806.90, 0813.50, 0403.20. Признаки трейдера: часть SKU (whey isolate, сухофрукты, fermented yeast protein) выглядит как контрактное производство/закупка у третьих сторон под собственной маркой — собственных производственных мощностей по этим линиям по открытым страницам не подтверждено; при этом бренд Yoga Bar позиционируется как собственный продукт компании, поэтому роль manufacturer_trader. Отраслевая классификация «Продукты питания и FMCG» корректна, переклассификации не требуется. Оговорка: поисковый бэкенд был недоступен (searx connection refused), проверены только главная страница yogabar.com и попытки открыть разделы каталога (collections/* вернули 404), поэтому полнота списка SKU ограничена видимым на главной; данные о выручке, объёме экспорта, CIN/PAN и таможенных записях в рамках этой задачи не исследовались — null."
+}

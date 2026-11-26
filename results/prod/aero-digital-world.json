@@ -1,0 +1,16 @@
+{
+ "name_input": "Aero digital world",
+ "declared_hs": "852872",
+ "actual_hs_list": [
+  "852859",
+  "852872",
+  "852852",
+  "853120",
+  "940541",
+  "852990"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website aerodigitalworld.com (brand 'AERO Display Solutions'; founder & CEO Mr. Sunil Khera; corporate office Plot No. 4, 1st floor, MG Road, Ghitorni, New Delhi) lists a display-hardware portfolio: (1) Interactive Flat Panel Displays (IFPD) 'Smartvue' for business and education — 852859/852852; (2) Indoor LED video walls, pixel pitch P1.2–P4.0, COB, 500–600 nits, 320x160x14 mm modules, 16:9 panels for 2K/4K — LED-module video walls, 852859 (or 853120 for display panels with built-in control); (3) Outdoor LED displays and 'Pitchvue 4K' COB LED — 852859; (4) Transparent, flexible/curved, 3D anamorphic LED — 852859; (5) Kiosks: 'Bizvue' outdoor high-brightness kiosk, A-Frame kiosk, D-Type kiosk, ultra-slim kiosk — digital-signage kiosks, 852859 (display-only) or 847141/847149 if supplied as complete data-processing units; (6) 'Framevue' Mirror TV and Smart Frame — TV-type reception apparatus, 852872 (this is the only line that matches the declared code); (7) 3D holographic displays 'Aura Cube', 'HoloLife XL', 'HoloPrism' — 852859/853120; (8) Software: CMS and 'SmartLift' plug-and-play — 8523/not a hardware HS line.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Declared 852872 = 'reception apparatus for television, colour'. Match is PARTIAL: only the Mirror TV / Smart Frame line genuinely falls under 852872. The bulk of the catalogue — LED video walls (indoor/outdoor/COB/transparent/flexible/3D anamorphic), IFPDs, digital-signage kiosks and holographic displays — is not television reception apparatus and should be declared under 852859 (other monitors/displays) or 853120 (indicator panels with LCD/LED), with kiosks possibly 847141/847149 if shipped as complete computing units. Per project rule 3 the HS mismatch is NOT a rejection ground: company stays in the base, code corrected to the actual line, verdict accepted_hs_corrected. Industry label 'IT и электроника' is broadly right but imprecise — the company is a commercial display/signage (AV hardware) vendor, not general IT. Trader signs: the site markets itself as a 'dynamic manufacturer' and offers 'Be Our Distributor / Partner', yet the product naming (Smartvue, Pitchvue, Bizvue, Framevue, Aura Cube, HoloLife XL, HoloPrism) and the absence of any plant, factory address, production capacity or component-level manufacturing detail suggest rebranded/OEM-sourced Chinese LED and IFPD hardware assembled/integrated and installed in India — role recorded as manufacturer_trader, not confirmed manufacturer. Product lines missing from the declaration: LED video walls and COB modules, IFPDs, kiosks, holographic displays, and CMS/SmartLift software. All product claims here are from the company's own website (aerodigitalworld.com, /about-us/ and /indoor-led/ pages) — no customs line, B-L or invoice was available in this task, so every HS mapping is 'заявлено, не подтверждено'. No PAN, CIN, GST or registration data was retrieved or verified in this task (out of scope); fields left null rather than guessed."
+}

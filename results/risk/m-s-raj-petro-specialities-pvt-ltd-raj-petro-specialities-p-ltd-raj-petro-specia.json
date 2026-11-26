@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S RAJ PETRO SPECIALITIES PVT LTD; RAJ PETRO SPECIALITIES (P) LTD.; RAJ PETRO SPECIALITIES PVT LTD.; RAJ PETRO SPECIALITIES PVT.LTD; RAJ PETRO SPECIALITIES PVT. LTD.; RAJ PETRO SPECIALITIES PVT LTD; RAJ PETRO SPECIALITIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, not a clean result. All 6 tool calls failed: web_search returned 'searx: Connection refused' on every query (4 attempts), http_get to rajpetro.com and /about-us returned 'SSL: TLSV1_ALERT_INTERNAL_ERROR', google.com/search returned HTTP 429, duckduckgo.com/html timed out. No source could be read, therefore every field is null and must NOT be read as 'no sanctions / no cases / no rating'. Nothing here is verified. Per project rules no value was invented and no negative inference was drawn from absence of data. Required follow-up when tools recover: (1) OFAC SDN + consolidated screening list, UN, EU, UK OFSI, BIS Entity List name and alias variants; (2) Indian court records (eCourts / NCLT / High Court) with party role and status; (3) CRISIL/ICRA/CARE/India Ratings action with date and outlook; (4) regulator actions and dated negative news; (5) any evidence of supplies to Russia or CIS. Note the entity is a lubricants/specialty oils manufacturer in the petrochemical space, so RF/CIS re-export exposure is a plausible area to check - but this is a hypothesis to test, not a finding. Rule 2 reminder for the eventual write-up: sanctions, court cases and criminal matters involving owners are never rejection grounds; record neutrally as 'est slozhnosti'. Re-run this company before any verdict is issued."
+}

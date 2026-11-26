@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S RAJ PETRO SPECIALITIES PVT LTD; RAJ PETRO SPECIALITIES (P) LTD.; RAJ PETRO SPECIALITIES PVT LTD.; RAJ PETRO SPECIALITIES PVT.LTD; RAJ PETRO SPECIALITIES PVT. LTD.; RAJ PETRO SPECIALITIES PVT LTD; RAJ PETRO SPECIALITIES PRIVATE LIMITED",
+ "legal_name": "RAJ PETRO SPECIALITIES PRIVATE LIMITED (as claimed in input; not independently confirmed from an MCA master-data page in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session: the search backend (DuckDuckGo/searx) returned connection refused for all queries, Bing returned only irrelevant results, and every registry aggregator tried (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404 or a generic landing page. The company's own site rajpetro.com failed with a TLS internal error, so no public GST profile or MCA master data could be read. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable here, NOT evidence of absence. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the name is a well-known Indian lubricants/speciality-oils business, but per project rules a company website or catalogue claim is not proof, so role is left 'unknown' rather than 'manufacturer'. Revenue FY25/FY26 null - no audited accounts or official filings were accessible; no figures invented. Declared HS 382499 (chemical preparations) is plausible for speciality oils/greases but was not checked against actual filings; per rule 3 HS mismatch is not a rejection ground. Recommended next step: re-run with working search and pull MCA master data + GST profile (e.g. GSTIN state code) to fill CIN, PAN, GSTIN, incorporation date and registered state."
+}

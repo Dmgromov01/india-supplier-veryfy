@@ -1,0 +1,15 @@
+{
+ "name_input": "K.L.A. FOODS(INDIA) LTD.; KLA FOODS (INDIA) LIMITED; M/S K.L.A. FOODS(INDIA)LIMITED",
+ "declared_hs": "071080;071320;100630;200290",
+ "actual_hs_list": [
+  "100630 (semi-milled/wholly milled rice, basmati and non-basmati)",
+  "100620 (husked/brown rice) - possible, not confirmed on site",
+  "071080 (vegetables, frozen) - plausible for frozen line, not itemised on site",
+  "200290 (tomatoes prepared/preserved) - not corroborated",
+  "071320 (chickpeas, dried) - not corroborated"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website klafoods.com (KLA GROUP, phone +91-5944-243807) lists three product lines only: Basmati Rice, Non-Basmati Rice, Frozen & Processed Food, plus own brands. Site claims '90 products', '40+ exporting countries', '1000+ satisfied customers' and sourcing from nearby/contracted farmers. No itemised SKU list, no HS codes, no ingredient/species breakdown of the frozen & processed range was retrievable: all sub-pages (/products/, /about-us/, /basmati-rice/, /frozen-and-processed-food/, /non-basmati-rice/, /frozen-food/) returned HTTP 404, so only the homepage could be read.",
+ "role_hint": "manufacturer_trader (processor/miller with own brands and contract farming; frozen-food line suggests processing plant, but no plant/unit details were readable - treat as manufacturer with trader elements, unverified)",
+ "comment": "Сопоставление с заявленными кодами: 100630 - ПОДТВЕРЖДЕНО сайтом (basmati + non-basmati rice, milling/processing), точное совпадение. 071080 (замороженные овощи) - ЧАСТИЧНО: линейка 'Frozen & Processed Food' заявлена, но конкретные овощи/виды не перечислены, поэтому код заявлено, не подтверждено. 200290 (томаты консервированные) и 071320 (нут) - НЕ подтверждены: ни на одной доступной странице томатов, томатной пасты или нута нет; возможно, относятся к нечитаемым подстраницам, но фактом считать нельзя - заявлено, не подтверждено. Пропущенные в декларации линейки: рисовая линейка шире, чем 100630 (вероятны 100620/100640 - рис дробленый, не подтверждено), а также 'Brands' (фасовка под СТМ) и 'Solar Power'/'Global Farming' в структуре группы - не товарные позиции, но говорят о диверсификации. Отраслевая классификация 'Продукты питания и FMCG' в целом верна, но компания - прежде всего рисопереработчик/экспортер риса, а не FMCG-дистрибьютор; FMCG-составляющая (бренды, фасовка) вторична. Признаки трейдера: экспортная ориентация (40+ стран), бренды, закупка сырья у contracted farmers - при этом собственное производство/переработка заявлено. ВАЖНО: ни одна позиция не сверена с таможенной линией (это вне моего мандата), поэтому все товарные утверждения имеют статус 'заявлено, не подтверждено' на уровне сайта. HS-несоответствие основанием для отклонения не является (правило 3): компания сохраняется, коды 200290 и 071320 требуют подтверждения или исправления на фактический ассортимент. Источники: https://klafoods.com/ (главная, прочитана); остальные страницы сайта - HTTP 404 на момент проверки. Поисковые системы (DuckDuckGo/Searx, Google, Bing) были недоступны или нерелевантны, поэтому внешние каталоги/IndiaMART не проверены - данных нет, null."
+}
