@@ -1,0 +1,26 @@
+{
+ "name_input": "M/S MARICO IND",
+ "declared_hs": "151311;330300;330499;330510",
+ "actual_hs_list": [
+  "151311",
+  "151319",
+  "151211",
+  "151219",
+  "330510",
+  "330590",
+  "330499",
+  "330300",
+  "330710",
+  "330720",
+  "190410",
+  "190420",
+  "200819",
+  "210690",
+  "340111",
+  "340130"
+ ],
+ "match_status": "partial",
+ "product_summary": "Marico Limited (marico.com) is an Indian consumer-goods/FMCG company. Public brand portfolio (as stated on marico.com and in its annual reports): Parachute (coconut hair oil, edible coconut oil), Saffola (refined edible oils - rice bran/sunflower/soyabean blends, Saffola Oats, Saffola muesli/granola, Saffola Arogya/atta and other foods), Livon (hair serum, hair oil), Set Wet (hair gel, deodorant/perfume), Hair & Care (non-sticky hair oil), Nihar (coconut hair oil), Coco Soul (virgin coconut oil, coconut-based foods), Beardo (men's grooming - beard oil, face wash, shampoo), Just Herbs (ayurvedic skincare), True Elements (breakfast cereals, muesli, seeds, snacks), Plix (plant-based nutrition gummies/supplements), Mediker (anti-lice shampoo), Revive (fabric starch). Product lines therefore span: fixed vegetable oils (coconut, rice bran, sunflower, soyabean), hair oils/serums/shampoos, deodorants/perfumes, skin care, men's grooming, breakfast cereals/muesli, processed foods and nutraceuticals. NOTE: the marico.com brand pages could not be read in this session (TLS handshake timeouts / search backend down); the brand list above is from general public knowledge of the company and is NOT corroborated by any customs line - treat as 'заявлено, не подтверждено'.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS mapping vs declared codes: 151311 (coconut/coir oil, crude) - PARTIAL: Marico's coconut oil is largely refined/edible grade, which falls under 1513 19 (refined coconut oil) rather than 1513 11 (crude); the crude code is only correct if crude coconut oil is actually shipped. 330300 (perfumes/toilet waters) - plausible only for Set Wet/Beardo fragrance lines; a minor share, not a core line. 330499 (other beauty/skin-care preparations) - CORRECT for Livon serum, Just Herbs, Beardo face care, Plix. 330510 (shampoos) - CORRECT for Parachute/Mediker/Beardo shampoos. MISSING from the declaration: 151319 (refined coconut oil) and 1512/1515 (rice bran, sunflower, soyabean refined oils - Saffola, a major revenue line), 330590 (hair oils/lotions - Parachute, Nihar, Hair & Care, Livon hair oil, i.e. the single largest Marico category), 330710/330720 (shaving/body deodorants - Set Wet, Beardo), 190410/190420 (Saffola Oats, muesli, True Elements cereals), 210690/200819 (processed foods, seeds, nutrition), 340111/340130 (soaps/face wash). Industry classification 'Продукты питания и FMCG' is broadly right but understates the personal-care/hair-oil dominance. No trader-only red flags: Marico is a manufacturer with own plants, though it also trades/distributes third-party and acquired brands (Beardo, Just Herbs, True Elements, Plix), hence manufacturer_trader. Per project rules the HS mismatch is NOT a rejection ground: company is retained, declared codes to be corrected to the actual export mix (151319, 330590, 1512/1515 oils, 1904 cereals, 330499, 330510). All product-to-HS mapping above is 'заявлено, не подтверждено' - no customs/B-L line was available in this session to corroborate any specific code."
+}

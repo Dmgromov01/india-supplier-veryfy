@@ -1,0 +1,9 @@
+{
+ "name_input": "LLOYDS ENGINEERING WORKS LIMITED; LLOYDS STEELS INDUSTRIES LIMITED; LLOYDS STEELS INDUSTRIES LIMITED; LLOYDS ENGINEERING WORKS LIMITED; LLOYDS ENGINEERING WORKS LIMITED; LLOYDS STEELS INDUSTRIES LIMITED; LLOYDS ENGINEERING WORKS LIMITED; LLOYDS ENGINEERING WORKS LIMITED; LLOYDS STEELS INDUSTRIES LIMITED",
+ "declared_hs": "840681",
+ "actual_hs_list": [],
+ "match_status": "cannot_verify",
+ "product_summary": "Не подтверждено. В этом прогоне не удалось открыть ни сайт, ни каталог: web_search вернул 'searx: Connection refused' (бэкенд поиска недоступен), http_get по lloydsengineering.in и lloydssteels.com — DNS-ошибка 'Name or service not known', lloydsengg.com вернул пустой ответ, wikipedia.org — HTTP 429 (блокировка автоматических запросов). Перечень реальной продукции не получен, поэтому сопоставление с HS 8406 81 (паровые турбины мощностью более 40 МВт) не выполнено. Никаких кодов не присваиваю и не додумываю.",
+ "role_hint": "unknown",
+ "comment": "HS-код 8406 81 (турбины паровые прочие, мощность > 40 МВт) не подтверждён и не опровергнут — статус cannot_verify, НЕ основание для отклонения (правило 3). Отдельно фиксирую: в батче смешаны два разных юрлица — Lloyds Engineering Works Limited и Lloyds Steels Industries Limited — они склеены в одну запись с declared_hs 840681; это требует разделения на две карточки, так как продуктовые линейки у них разные. Заявленная отрасль «Энергетика» для 8406 81 внутренне непротиворечива, но это лишь логическая догадка, а не проверенный факт. Признаки трейдера/производителя не установлены. Все продуктовые утверждения — 'заявлено, не подтверждено'; следов поставок по данному прогону не проверялось (вне роли). Требуется повторный прогон при доступной сети: открыть официальный сайт и годовой отчёт, выписать фактические позиции (турбины, котлы, теплообменное оборудование, металлоконструкции, прокат) и пересобрать HS-6 по каждой позиции."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S VISTA FURNISHING LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕЕСТРОВЫЕ ДАННЫЕ НЕ ПОДТВЕРЖДЕНЫ — не отклонено, статус 'не проверено'. Причина: поисковый бэкенд (DuckDuckGo/searx) недоступен (connection refused), Bing возвращал нерелевантную кэшированную выдачу по слову 'Vista' (VistaPrint, City of Vista, VistaCreate) и игнорировал кавычки и операторы; прямые запросы к реестровым агрегаторам заблокированы — zaubacorp.com и thecompanycheck.com отдали HTTP 403, instafinancials.com — HTTP 404, mca.gov.in Master Data — HTTP 403. Ни одна запись MCA/GST не прочитана. Поэтому CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 оставлены null — выдумывать их запрещено правилами. Юрлицо с названием 'Vista Furnishing Limited' в открытой выдаче не подтверждено и не опровергнуто; оснований для rejected (несуществование/ликвидация/банкротство) нет, так как факт отсутствия компании не установлен. Роль не определена (unknown). ВНИМАНИЕ по существу: заявленный HS 520931/521131/540752/540761 — это хлопчатобумажные и синтетические ткани (ТН ВЭД 52 и 54), а заявленная отрасль 'Продукты питания и FMCG' им прямо противоречит; по правилу от 23.11.2026 это НЕ основание для отклонения — компания сохраняется в базе, фактический код исправляется, вердикт должен быть accepted_hs_corrected после подтверждения юрлица. Также название во входных данных ('M/S VISTA FURNISHING LIMITED') содержит префикс 'M/S', не являющийся частью наименования юрлица. Требуется повторная проверка при восстановлении доступа к MCA Master Data / GST-порталу."
+}

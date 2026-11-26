@@ -1,0 +1,18 @@
+{
+ "name_input": "RIVERBEKI",
+ "legal_name": "RIVERBEKI (OPC) PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification could not be completed: the search backend (DuckDuckGo/searx) returned 'Connection refused' for all queries, MCA master-data page and registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials, Tofler) returned HTTP 403, and Bing returned only irrelevant results for the exact-name queries. No public record of 'RIVERBEKI (OPC) PRIVATE LIMITED' was retrieved, so CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not because they are absent, but because they were not publicly retrievable in this session. Per project rules the entity is NOT rejected: non-existence/strike-off/liquidation could not be established either way. Role is 'unknown' (OPC structure suggests a single-owner small entity; no evidence of manufacturing or trading activity). Revenue FY25/FY26 null - no audited accounts or official filings found. Declared HS 090220/090230/090240 (green/black tea, >3kg packaging) is unverified and, per rules, is not a rejection ground; if the actual product line differs the HS code should be corrected and the verdict recorded as accepted_hs_corrected. Recommended next step: manual MCA/OPC name search and GST portal lookup by trade name before any commercial decision."
+}
