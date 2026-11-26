@@ -1,0 +1,18 @@
+{
+ "name_input": "HOME TEXTILES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо невозможно: 'HOME TEXTILES' — родовое/неспецифичное наименование, не полное юридическое имя. Входные данные не содержат ни CIN, ни PAN, ни GSTIN, ни штата, ни адреса, поэтому привязка к конкретной компании из MCA невозможна. Попытки проверки не удались по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) вернул 'Connection refused' на все запросы; zaubacorp.com и mca.gov.in отдали HTTP 403; thecompanycheck.com, instafinancials.com и gstsearch.in — HTTP 404; tofler.in — страница 404. Ни один реестровый источник не был прочитан, поэтому все поля null — данные не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие идентификации не равно несуществованию юрлица (правило 3). Требуется уточнение от заказчика: полное юридическое наименование (например 'X Home Textiles Pvt Ltd'), CIN/UIN либо GSTIN, и штат регистрации. Дополнительно: заявленный HS 630260 (текстильные изделия для ванной/кухни из махровых тканей) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилу 3 это не основание для отклонения, код подлежит исправлению на фактический после идентификации компании. Роль (manufacturer/trader) не определена — null/unknown."
+}

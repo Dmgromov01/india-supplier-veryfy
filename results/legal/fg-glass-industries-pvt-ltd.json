@@ -1,0 +1,18 @@
+{
+ "name_input": "FG GLASS INDUSTRIES PVT LTD",
+ "legal_name": "FG Glass Industries Private Limited (per company's own site branding 'FG GLASS INDUSTRIES PVT LTD'; exact MCA-registered spelling not verified — registry portals returned 403/429 and search backends were unreachable)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (unverified — company site describes Mumbai HQ and a processing plant on the outskirts of Mumbai near the country's largest seaport; no MCA record retrieved)",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved: searx web_search backend refused connections (Errno 111), Google returned 429, DuckDuckGo/lite timed out, and ZaubaCorp / TheCompanyCheck / InstaFinancials company pages returned 403 or only generic portal HTML. Therefore CIN, PAN, GSTIN, GST status, incorporation date, MCA status and revenue are all null — NOT invented. What is verifiable from the company's own website (fgglass.com, pages /about/ and /infrastructure/): the firm presents itself as a processor/manufacturer of architectural glass (tempering, laminating, insulating, digital printing) with a plant near Mumbai, part of the Fishfa Group, and states operations began in 2004 with group origins in 1976. This supports role=manufacturer on a self-declared basis only; no MCA/GST filing was read. No rejection grounds found (no evidence of non-existence, strike-off, liquidation or bankruptcy), so the company is retained. HS code declared in input is 842420 (spray guns / similar appliances) which does not match flat/processed glass (Chapter 70, e.g. 7005/7007/7008) — per project rules this is NOT a rejection ground; the code should be corrected to the actual glass product code and the verdict recorded as accepted_hs_corrected. Industry claimed as 'Металлургия и горнодобыча' is also inaccurate: the company is a glass processor, not metals/mining. Recommended follow-up: pull the MCA master data and GSTIN from a working registry source (e.g. MCA21 company search or a GSTIN lookup) to fill CIN/PAN/GSTIN and audited FY25/FY26 revenue."
+}

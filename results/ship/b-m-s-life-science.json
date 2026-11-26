@@ -1,0 +1,8 @@
+{
+ "name_input": "B M S LIFE SCIENCE",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/b-m-s-life-science and .../bms-life-science both returned only the generic paywalled template: \"Join ImportKey to view the import and export data records of companies all over the world.\" — zero shipment rows rendered (0 rows seen on each of the 2 slug variants tried). No bill-of-lading number, date, destination or HS code was visible anywhere.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on all 3 queries, and eximpedia.app / trademo.com returned HTTP 403 while importgenius.com served a JavaScript anti-bot challenge. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить фактичность отгрузок не удалось, так как все источники отгрузочных данных были недоступны (importkey — пустой шаблон без строк, eximpedia/trademo — 403, importgenius — JS-челлендж, поисковик — connection refused). Статус по экспорту и внутреннему рынку: unknown, не confirmed и не none_found. Заявленный HS 330510 (шампуни) не подтверждён и не опровергнут — данных о товарной номенклатуре отгрузок нет; HS не является основанием для отклонения. Выручка: null (не публична/не найдена). Юрлицо не проверялось по реестрам (вне области задачи), оснований для rejected нет. Требуется повторный прогон при доступном источнике таможенных записей."
+}
