@@ -1,0 +1,18 @@
+{
+ "name_input": "SUDEEP PHARMA LIMITED; SUDEEP PHARMA LIMITED",
+ "legal_name": "Sudeep Pharma Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1989 (exact date not verified in a primary registry source)",
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "active (listed on NSE: SUDEEPPHRM and BSE: 544619; no strike-off/liquidation/insolvency indication found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 502,
+ "revenue_fy26_cr": 642,
+ "revenue_source": "Screener.in consolidated P&L (FY25 = 502 Cr, FY26 = 642 Cr, consolidated; standalone FY25 = 357 Cr, FY26 = 339 Cr). Figures taken from aggregator of audited filings, not read directly from the audited annual report - treat as provisional.",
+ "note": "Entity exists and is active: Sudeep Pharma Limited, incorporated 1989, listed on NSE (SUDEEPPHRM) and BSE (544619), market cap ~Rs 14,700 Cr as of 26 Nov close per Screener.in. Manufacturer of pharmaceutical excipients, food-grade minerals and specialty nutrition ingredients (calcium/zinc/iron/magnesium salts) - consistent with declared HS 130219 (vegetable saps/extracts) only partially; HS code is a product-level matter and is not a rejection ground per project rules. CIN, PAN, GSTIN, GST status, exact incorporation date and registered-office state could NOT be verified: searx web_search backend was down (connection refused), and zaubacorp/thecompanycheck/moneycontrol returned HTTP 403, Google 429, Wikipedia 429, company website DNS failure. Therefore CIN/PAN/GSTIN/state_registered left null rather than guessed. State claimed in input was empty, so no state mismatch can be assessed. Revenue: consolidated FY25 Rs 502 Cr and FY26 Rs 642 Cr per Screener.in consolidated P&L; standalone FY25 Rs 357 Cr / FY26 Rs 339 Cr. No rejection grounds found."
+}

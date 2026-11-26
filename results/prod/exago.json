@@ -1,0 +1,20 @@
+{
+ "name_input": "EXAGO",
+ "declared_hs": "151530",
+ "actual_hs_list": [
+  "151530",
+  "151620",
+  "382499",
+  "340290",
+  "283510",
+  "293190",
+  "380991",
+  "390690",
+  "380910",
+  "282890"
+ ],
+ "match_status": "partial",
+ "product_summary": "Vadodara (Gujarat) based specialty-chemicals trader/manufacturer, per own site exago.in. Two declared business lines: (1) 'Manufacturing & Exports' — Castor Oil and Derivatives; Polymers for Water Treatment; Sugar Processing Additives; Water Treatment Chemicals; Phosphonates / Organo Phosphates. (2) 'Trading & Exports' — Food, Pharma & Cosmetic Ingredients; Pulp, Paper & Textile Industry chemicals; Mining Chemicals; Paint Industry Chemicals; Other General Chemicals. Site self-reports '21 Total Products, 11 Manufacturing, 10 Trading'. No individual product names, CAS numbers, grades or spec sheets are published — every sub-page URL (/our-products/, /castor-oil-and-derivatives/, /phosphonates-organo-phosphates/, /about-us/, /contact-us/, sitemap.xml) returns either 404 or the identical landing page, so the product list is only category-level.",
+ "role_hint": "trader (self-described 'Export, Import, Sourcing, International Trade and Manufacturing'; 10 of 21 products are trading lines, and the 'manufacturing' block is described in boilerplate copy lifted from an unrelated filter-element text — 'The filter element is the central component of industrial filters' — which is a strong sign of a reseller/marketing site rather than a plant operator). Treat as trader / manufacturer_trader unverified.",
+ "comment": "HS 151530 = castor oil and its fractions, not chemically modified. This is a genuine, correctly identified line: 'Castor Oil and Derivatives' is one of the five named manufacturing categories on exago.in, so the declared code is plausible and PARTIALLY corroborated at category level. However: (a) no customs line, invoice or B-L was available to this check, so the castor oil line is 'заявлено, не подтверждено'; (b) 'derivatives' is broader than 151530 — dehydrated castor oil, castor fatty acids (3823/2916), sulphated/ethoxylated castor oil (3402), hydrogenated castor oil (151620) and 12-HSA/sebacic acid (2918/2915) would fall outside 151530, so the single declared code understates the range; (c) the declared industry 'Нефтегаз и химия' (oil & gas / chemicals) does not match the site, which is agro-oleochemical + water-treatment + textile/paper auxiliaries — no oilfield or petrochemical line is shown, so the industry label is a misclassification; (d) the bulk of the portfolio (phosphonates/organo-phosphates ~2931/3824, water-treatment polymers ~3906, sugar-processing additives, mining and paint chemicals) is entirely absent from the declaration. Per project rule 3 the HS mismatch is NOT a rejection ground: company is retained, code corrected to the actual range with 151530 kept as the primary line. No registry, revenue or shipment data was researched in this task (out of scope); no CIN/PAN/IEC is published on the site, so those fields are null."
+}

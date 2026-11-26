@@ -1,0 +1,23 @@
+{
+ "name_input": "NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION PVT LTD; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; M/S NCR CORPORATION; M/S NCR CORPORATION INDIA PVT.LTD; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA CPS LTD. SCO 230 -231 SECTOR 34-A CHD.; NCR CORPORATION (INDIA) PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION (INDIA) PRIVATE LIMITED; NCR CORPORATION (INDIA) PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA PVT. LTD.; NCR CORPORATION INDIA PVT LTD; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION (INDIA) PRIVATE LIMITED; NCR CORPORATION (INDIA) PVT LTD; NCR COORPORATION INDIA PVT LTD; NCR CORPORATION (INDIA) PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION (INDIA) PVT LTD; N.CR CORPORATION INDIA PVT LTD; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; M/S NCR CORPORATION INDIA PVT LTD; NCR CORPORATION (INDIA) PRIVATE LIMITED; NCR CORPORATION INDIA PRIVATE LIMITED; NCR corporation India Pvt Ltd; NCR CORPORATION (INDIA) PRIVATE LIMITED; N C R CORPORATION INDIA PVT. LTD.; NCR CORPORATION INDIA PVT. LTD.; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION INDIA PVT LTD; NCR CORPORATION PVT LTD; NCR CORPORATION INDIA PRIVATE LIMITED; NCR CORPORATION (INDIA) PRIVATE LIMITED; NCR CORPORATION (INDIA) PRIVATE LIMITED; M/S N.C.R CORPORATION INDIA PVT. LTD.; NCR CORPORATIOIN INDIA PRIVATE LIMITED",
+ "declared_hs": "851762",
+ "actual_hs_list": [
+  "847050",
+  "847090",
+  "847130",
+  "847160",
+  "847329",
+  "851762",
+  "852852",
+  "853120",
+  "854370",
+  "902990",
+  "910700",
+  "482040",
+  "996311"
+ ],
+ "match_status": "partial",
+ "product_summary": "По официальным сайтам группы (ncr.com — редирект на два юрлица после разделения 2023 г.; ncrvoyix.com; ncratleos.com) реальные продуктовые линии: (1) POS-терминалы и POS-периферия для ритейла и ресторанов (POS hardware, handhelds, customer displays, kitchen monitors/controllers/bump bars, media players, fuel controllers) — 8470 50 (кассовые аппараты/POS), 8471 60 (периферия), 8528 52 (мониторы); (2) оборудование самообслуживания self-checkout — 8470 90 (прочие машины с функцией вычисления/кассовые), частично 8471 41/8471 49; (3) платёжные терминалы (payment devices) — 8470 50 / 8517 62 (устройства для передачи данных); (4) банкоматы ATM/ITM, cash recycling, cash dispense (NCR Atleos) — 8472 90 (банкоматы классифицируются как машины офисные прочие) либо 8470 90; (5) программное обеспечение (Voyix Commerce Platform, Aloha, ATM application management, endpoint security) — 8523 49 / поставляется как услуга (не товарная позиция); (6) сервисные и managed-услуги, ATM as a Service — 996311/9983 (услуги, не товар).",
+ "role_hint": "manufacturer_trader",
+ "comment": "Заявленный код 8517 62 (устройства для приёма/передачи данных) покрывает только часть ассортимента — платёжные терминалы и сетевые компоненты. Основная продуктовая линейка (POS-терминалы, self-checkout киоски, банкоматы ATM/ITM, cash recyclers, мониторы, принтеры чеков, сканеры ШК) относится к товарным позициям 8470, 8472, 8471, 8528, 8531, 8543 — то есть заявленный HS-код неполный/частично неверный по товарной номенклатуре. Вердикт по правилу 3: компания сохраняется в базе, код исправляется на фактический (accepted_hs_corrected), отклонения по HS нет. Признаки трейдера/интегратора: NCR India исторически импортирует и перепродаёт оборудование материнской группы, а также оказывает сервисные и managed-услуги (ATM as a Service), т.е. роль manufacturer_trader, а не чистый производитель. Важно: с октября 2023 г. NCR Corporation разделена на NCR Voyix (ритейл/рестораны) и NCR Atleos (банкоматы); бренд «NCR Corporation» как таковой больше не действует, что нужно учесть при сверке с декларацией. Ни одна из перечисленных товарных линий не подтверждена конкретной таможенной строкой в рамках этой проверки (доступ к таможенным записям не использовался) — статус всех позиций: «заявлено, не подтверждено». Данные о выручке, объёме экспорта, CIN/PAN и регистрационные сведения в рамках этой роли не проверялись — null. Отраслевая классификация «IT и электроника» корректна, но слишком широка: фактически это retail/banking automation hardware + software + services, а не телеком-оборудование, к которому отсылает код 8517 62."
+}
