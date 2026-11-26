@@ -1,0 +1,18 @@
+{
+ "name_input": "SAIN MEDICAMENTS PRIVATE LIMITED",
+ "legal_name": "SAIN MEDICAMENTS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure, not a negative finding: web_search backend returned 'Connection refused' for all queries; Bing/Google/DuckDuckGo HTML endpoints returned irrelevant cached results, HTTP 429 or timeouts; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials.com returned 404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT verified, not absent. No basis to reject: the entity was neither confirmed nor found to be struck off/liquidated/bankrupt. Role left 'unknown' (name suggests pharma/medicaments, but no registry evidence of manufacturing vs trading). Declared HS 210690 (food preparations) is not a rejection ground per project rules; HS not assessed here as this role covers registry only. Recommended action: re-run with working search access, or query MCA master data / GST portal directly by exact legal name."
+}

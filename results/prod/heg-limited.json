@@ -1,0 +1,16 @@
+{
+ "name_input": "HEG LIMITED",
+ "declared_hs": "854511;854590",
+ "actual_hs_list": [
+  "854511",
+  "854519",
+  "854590",
+  "380110",
+  "681510",
+  "854519"
+ ],
+ "match_status": "partial",
+ "product_summary": "HEG Ltd (Bhuj/Nagda, Madhya Pradesh) is a graphite-electrode producer for electric-arc furnaces, plus graphite specialties (graphite blocks, rods, cathodes, anodes, graphite powder/fines, carbon paste/ramming mass) and, historically, a graphite-wool/insulation and (via earlier diversification) a small textile/other segment. Core export line is UHP/HP/RP graphite electrodes and nipples. NOTE: website hegltd.com returned HTTP 403 on every attempt and search backend was unavailable, so the product list below is from general public knowledge of the company, NOT from a page I could read in this session — treat as 'заявлено, не подтверждено' pending a readable catalogue/AR.",
+ "role_hint": "manufacturer",
+ "comment": "Declared 854511 (graphite electrodes for furnaces) is the correct and dominant code — exact match on the main line. Declared 854590 ('other carbon/graphite articles for electrical use') is a residual basket code: it is only partially right, because HEG's non-electrode graphite output (graphite blocks/rods/powder, carbon paste/ramming mass, graphite insulation) is better classified outside 8545 — e.g. 380110 (artificial graphite in bulk/powder form), 681510 (articles of graphite/carbon, non-electrical), and 854519 (other carbon electrodes) — so the declaration likely under-splits the graphite-specialties range. Industry label 'Металлургия и горнодобыча' is a misclassification of the company's own activity: HEG is a carbon/graphite materials manufacturer (HS ch. 8545/3801/6815), a supplier TO metallurgy, not a metals/mining producer; no ore or metal product lines are declared or known. No trader signs found (own plants, own brand, manufacturer role). Per project rule 3, no HS mismatch is a rejection ground — company stays in the base with codes corrected as above. All HS mapping here is 'заявлено, не подтверждено' against customs records: I did not access any customs/B-L line in this session, and I did not research registries, revenue or shipment volumes per role scope."
+}

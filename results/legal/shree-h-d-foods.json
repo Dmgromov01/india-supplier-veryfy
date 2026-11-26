@@ -1,0 +1,18 @@
+{
+ "name_input": "SHREE H D FOODS",
+ "legal_name": "SHREE H D FOODS (as claimed; unverified — likely a proprietorship/firm name, not confirmed as a registered company)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record could be retrieved. Search infrastructure failed during this run: the DuckDuckGo/searx backend returned 'Connection refused' for both queries, Google returned HTTP 429, zaubacorp.com returned HTTP 403, and Bing (the only reachable engine) ignored quoted queries and returned only generic results for 'Shree', 'H' and 'Temu' — zero relevant hits for 'SHREE H D FOODS', 'Idris Satarbhai Kalaniya' or 'Shree HD Foods' + HS 071040. Consequently: exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue FY25/FY26 are all null — none of these are public in any source I could actually open, and I will not invent them. The input's 'legal_claimed' field contains a person's name (IDRIS SATARBHAI KALANIYA), which suggests a sole proprietorship rather than a company; a proprietorship has no CIN and no MCA status, only a GSTIN and PAN — this is an inference from the input, not a verified fact. State claimed in input is empty, so no state mismatch can be assessed. Role is 'unknown': the name and HS 071040 (sweet corn, frozen) suggest a food trader/processor, but there is no registry evidence of manufacturing vs trading. Revenue: null for both years — no audited accounts or official filings located. Per project rules this is NOT a rejection: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt — it is simply unverified. Recommended action: re-run with working search, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal (gst.gov.in search by GSTIN) and MCA master data; also confirm whether the counterparty is a proprietorship (PAN 4th char 'P') or a company ('C')."
+}
