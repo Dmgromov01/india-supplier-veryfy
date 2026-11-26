@@ -1,0 +1,9 @@
+{
+ "name_input": "CHAIZUP BEVERAGES LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no findings, not a clean bill of health. The web_search tool failed on every attempt (searx backend: 'Connection refused'), so no open-web search was possible. Direct fetches also failed: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, tofler.in returned 404 for the guessed URL, google.com/search returned HTTP 429, and bing.com/search returned only irrelevant WhatsApp results (no match for the exact-name query). The OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be queried via plain HTTP GET, so no actual SDN/Non-SDN name screening was performed - sanctions_hit is null because the check was NOT run, not because the company was cleared. Likewise UN, EU, UK OFSI and BIS Entity List screens were not run. No Indian court records (eCourts, NCLT, High Court), no regulator actions (FSSAI/RBI/SEBI/DGFT), no credit rating (CRISIL/ICRA/CARE/India Ratings) and no Russia/CIS supply evidence could be retrieved. All fields are null because nothing is public to me through the available tools in this session - none of these nulls should be read as 'no risk found'. Recommend re-running this company once search connectivity is restored, and note that as an LLP it is unlikely to carry a public credit rating (ratings are typically issued to corporates/lenders, not LLPs) - that would be a structural null rather than a missing data point. Per project rules, no rejection is proposed: nothing here establishes non-existence, liquidation or bankruptcy, and sanctions/court matters would not be rejection grounds in any case."
+}

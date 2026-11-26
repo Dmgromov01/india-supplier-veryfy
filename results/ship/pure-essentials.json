@@ -1,0 +1,8 @@
+{
+ "name_input": "Pure Essentials",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/pure-essentials and /pure-essentials-india both returned only the generic template shell: 'Shipments available for PURE ESSENTIALS, refreshed daily' — zero actual shipment rows, dates, destinations, HS codes or B/L numbers rendered on the free view. Source counter: 2 importkey pages checked, 0 shipment rows seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Zaubacorp returned HTTP 403; no registry or tender page could be read. Source counter: 0 domestic evidence rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Все источники фактических отгрузок оказались недоступны в этой сессии: importkey отдал пустой шаблон без строк (2 варианта слага), volza/eximpedia/trademo — HTTP 403, importgenius — JS-челлендж, zaubacorp — 403, поисковик DuckDuckGo/searx вернул 'Connection refused', поэтому найти альтернативные слаги и страницы было невозможно. Юрлицо 'PURE ESSENTIALS INDIA' не подтверждено и не опровергнуто: CIN/PAN/адрес/штат публично не получены (null). Заявленные HS 392490 (пластиковые изделия для дома), 850940 (бытовая техника — измельчители/миксеры), 960390 (щётки, метёлки, скребки) — это товары народного потребления, а не строительство и DIY, как указано в поле industry_claimed; несоответствие HS основанием для отклонения не является, код фиксируется по факту при появлении данных. Выручка и объём экспорта: null — данных нет, не выдумывались. Рекомендация: повторить проверку при доступе к платным/полным выгрузкам таможни и GST, либо запросить у поставщика IEC, инвойсы и B/L напрямую."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S R P G LIFE SCIENCE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data verified. All risk fields set to null because nothing could be confirmed from a primary source; nothing here should be read as a clean bill of health. What was attempted (8 tool calls): (1) web_search 'RPG Life Sciences OFAC sanctions BIS entity list' -> searx connection refused; (2) web_search 'RPG Life Sciences court case NCLT SEBI' -> searx connection refused; (3) http_get rpglife.com -> HTTP 403 Forbidden; (4) http_get duckduckgo.com/html -> timeout; (5) http_get bing.com search for SEBI penalty/court case -> engine returned only generic 'RPG' video-game results, query terms ignored, no usable hits; (6) http_get CRISIL ratings list search URL -> 404; (7) http_get bing.com for credit rating CRISIL/ICRA -> same generic RPG-game results, no usable hits; (8) http_get bing.com for Russia/CIS/sanctions -> same generic results; (9) http_get en.wikipedia.org/wiki/RPG_Life_Sciences -> HTTP 429 robot block; (10) http_get html.duckduckgo.com -> timeout. Context only (NOT verified in this session, must be re-checked before use): the entity appears to be RPG Life Sciences Limited, a listed Indian pharmaceutical company of the RPG Group (R.P. Goenka group), Mumbai - this matches the claimed legal name but was not confirmed against MCA/NSE records here. No sanctions, court, regulator, rating or Russia/CIS-supply finding is asserted either way. Recommended next step: re-run with working search, checking OFAC SDN/UN/EU/UK/BIS lists, NCLT/NCLAT and SEBI enforcement databases, and CRISIL/ICRA/CARE rating rationales, plus Indian pharma export data for Russia/CIS destinations."
+}

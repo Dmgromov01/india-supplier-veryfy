@@ -1,0 +1,9 @@
+{
+ "name_input": "NAYTRIX FOODTEK PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of research date. No public risk data could be retrieved for this entity. Search tooling was largely non-functional during the check (DuckDuckGo/searx backend refused connections; Google returned HTTP 429), and the fallback engines (Bing) returned only irrelevant results for the exact strings \"NAYTRIX FOODTEK PRIVATE LIMITED\" and \"Naytrix Foodtek\" — i.e. no indexed page mentioning the company was surfaced at all. Direct registry aggregator lookups also failed: zaubacorp.com returned HTTP 403 (blocked) and tofler.in returned a 404 for the guessed URL slug, so no company page was confirmed to exist there. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia or CIS = NOT VERIFIED. All fields set to null because nothing is public/retrievable in this session — no values are inferred or invented. Note also that the declared industry ('Металлургия и горнодобыча' / metallurgy & mining) is inconsistent with the company name ('Foodtek') and with declared HS 843860 (machinery for fruit/nut preparation) — flagged for the identity/HS reviewer, not a risk finding. Recommend re-running this check when search access is restored, and verifying the exact registered name spelling (possible transliteration/variant issue) before concluding the entity has no public footprint."
+}

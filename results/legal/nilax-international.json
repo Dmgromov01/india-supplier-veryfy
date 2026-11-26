@@ -1,0 +1,18 @@
+{
+ "name_input": "NILAX INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was unreachable for all queries, Bing returned only irrelevant results, and registry aggregators (zaubacorp.com, instafinancials.com, thecompanycheck.com, mca.gov.in) returned HTTP 403/404 or timed out. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, so all such fields are null rather than inferred. The input itself is internally inconsistent: 'legal_claimed' contains a personal name (JITENDRA RATHI), which is typical of a sole proprietorship, not a company — a proprietorship has no CIN and no MCA status, only a GSTIN and PAN (individual). The declared HS code 100850 (buckwheat) does not match the claimed industry 'food products and FMCG' only loosely; per project rules HS mismatch is not a rejection ground and no correction is asserted here since the actual code is unverified. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, therefore the entity is NOT rejected — status is unverified, not rejected. Recommended next step: manual lookup of the GSTIN/PAN on the GST portal (gst.gov.in search taxpayer) and, if a CIN exists, on MCA master data, before any verdict on role or revenue."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S R P G LIFE SCIENCE LIMITED",
+ "legal_name": "RPG Life Sciences Limited",
+ "cin_llpin": "L24239MH2006PLC160733",
+ "pan": "Not verified from a public source in this session (PAN not published on the pages reachable; MCA/InstaFinancials/Zauba/TheCompanyCheck blocked with 403/timeout). pan_holder_type therefore null — for a company the 4th character of PAN is 'C' (company), but this is a format rule, not a verified reading of this entity's PAN.",
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "2006 (CIN year code 2006; Screener states 'Incorporated in 2007' — discrepancy unresolved, exact date not confirmed from MCA)",
+ "state_registered": "Maharashtra (CIN state code MH; registered office Mumbai)",
+ "state_claimed": "not stated in input",
+ "mca_status": "Active — listed public limited company, BSE: 532983, NSE: RPGLIFE; no strike-off/liquidation/insolvency found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 653,
+ "revenue_fy26_cr": 708,
+ "revenue_source": "Screener.in company page (screener.in/company/RPGLIFE/) — consolidated P&L: FY25 (Mar 2025) Sales 653 Cr, FY26 (Mar 2026) Sales 708 Cr; standalone FY25 653 / FY26 708. Figures are from the company's filed/audited results as aggregated by Screener; the audited annual report PDF itself was not opened in this session.",
+ "note": "Legal entity confirmed: RPG Life Sciences Limited, public limited company of the RPG Group, CIN L24239MH2006PLC160733 (MH = Maharashtra). Business: formulations (finished dosage forms) and APIs — consistent with declared pharma HS codes 2933xx, so no HS correction needed; the input industry label 'Нефтегаз и химия' is a mis-bucket, actual sector is pharmaceuticals. GSTIN and GST status could not be retrieved: all public GST-profile aggregators (Zauba, TheCompanyCheck, InstaFinancials, QuickCompany) returned 403/timeout, and searx web_search was down (connection refused), so GSTIN is null rather than guessed. PAN likewise null — not published on any page I could open. Incorporation year: CIN encodes 2006, Screener says 2007; exact date of incorporation not verified. Revenue figures are consolidated/standalone sales from Screener's rendering of filed results (FY25 653 Cr, FY26 708 Cr); treat as filing-derived, not hand-checked against the audited PDF. No rejection grounds: entity exists and is active."
+}
