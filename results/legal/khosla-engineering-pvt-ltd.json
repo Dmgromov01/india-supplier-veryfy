@@ -1,0 +1,18 @@
+{
+ "name_input": "KHOSLA ENGINEERING PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input is internally inconsistent: name_input is 'KHOSLA ENGINEERING PVT. LTD' while legal_claimed is 'KOTHARI METSOL PRIVATE LIMITED' - two different, unrelated names, so the exact legal entity is ambiguous and no CIN/PAN/GSTIN can be attributed with confidence. Tooling failed: web_search backend returned 'Connection refused' (searx) on both queries; direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 Forbidden; Google returned only a redirect stub; DuckDuckGo HTML endpoint timed out; Bing returned only generic unrelated results (Vinod Khosla / Khosla Ventures / Kothari jewellery and academic pages) with no MCA or GST record for either name. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null - not public via accessible sources in this session, and not invented. No rejection applied: non-existence, strike-off, liquidation or bankruptcy could NOT be established either way, so the entity is not rejected under the rules. Role left as 'unknown' - no registry evidence of manufacturing plant, and no evidence of trading either. Action needed: confirm which of the two names is the actual counterparty, then re-run verification against MCA master data / GST portal with a working search backend."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ALPHABET INTERGLOBE LLP",
+ "legal_name": "ALPHABET INTERGLOBE LLP (as claimed; not verified against MCA register)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The DuckDuckGo search tool returned a connection error (searx: Connection refused) on both queries; direct reads of registry aggregators were blocked (zaubacorp.com and instafinancials.com returned HTTP 403, tofler.in search returned 404, Google returned HTTP 429), and Bing/Marginalia returned only irrelevant results with no page mentioning 'ALPHABET INTERGLOBE LLP'. Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrieved, nothing invented. Note on PAN logic: PAN 4th character encodes holder type (P=individual, C=company, F=firm/LLP, etc.), but no PAN was found, so holder type cannot be derived. No rejection applied: absence of retrievable data is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' - the 'LLP' suffix alone does not establish manufacturer vs trader, and product catalogues were out of scope for this role. HS 690721 (ceramic tiles) was not assessed here. Recommended next step: manual MCA master-data lookup by LLP name and a GST portal search on the legal name to obtain LLPIN, PAN and GSTIN before any verdict."
+}

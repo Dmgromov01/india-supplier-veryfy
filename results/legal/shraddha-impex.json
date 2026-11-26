@@ -1,0 +1,18 @@
+{
+ "name_input": "Shraddha Impex",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on both queries, and follow-up attempts via Bing/Google/DuckDuckGo returned only irrelevant or spam results (no page mentioning 'Shraddha Impex'). Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, thecompanycheck.com returned HTTP 404, tofler.in search returned HTTP 404. No CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source, so all such fields are null rather than guessed. The input itself supplies no PAN and no state, so state_claimed is null and no state mismatch can be assessed. Legal entity form is unknown: 'Shraddha Impex' may be a proprietorship, partnership, LLP or private limited company, and no evidence was found to determine which. Role is recorded as 'unknown' - the claimed industry 'IT and electronics' with declared HS 902480 (which is actually the heading for machines for testing hardness/strength of materials, not IT/electronics) is unverified and, per project rules, an HS mismatch is not a rejection ground; the code should be corrected to the factual one once the actual product line is confirmed. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible. IMPORTANT: this is NOT a rejection. Per the rules, rejection is only for non-existent, struck-off, liquidated or bankrupt entities, and no evidence of any of those was found either. Status is 'unverified - registry lookup blocked', requiring a retry of the registry check (MCA master data / GST public search) when the search backend is restored. No shipment, court or catalogue research was performed, per role scope."
+}

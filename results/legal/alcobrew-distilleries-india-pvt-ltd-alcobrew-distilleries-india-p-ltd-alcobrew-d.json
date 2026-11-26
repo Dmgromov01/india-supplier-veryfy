@@ -1,0 +1,18 @@
+{
+ "name_input": "ALCOBREW DISTILLERIES INDIA PVT LTD; ALCOBREW DISTILLERIES INDIA P. LTD.; ALCOBREW DISTILLERIES INDIA LIMITED; ALCOBREW DISTILLERIES INDIA LIMITED; ALCOBREW DISTILLERIES INDIA LIMITED; ALCOBREW DISTILLERIES INDIA LIMITED; ALCOBREW DISTILLERIES INDIA LIMITED; ALCOBREW DISTILLERIES INDIA PVT LTD; ALCOBREW DISTILLERIES INDIA PVT LTD; ALCOBREW DISTILLERIES INDIA PVT. LTD.; ALCOBREW DISTILLERIES INDIA LIMITED; ALCOBREW DISTILLERIES INDIA PVT LTD; ALCOBREW DISTILLERIES INDIA PVT LTD; Alcobrew Distilleries India Pvt Ltd; M/S ALCOBREW DISTILLERIES INDIA PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT retrieved - all fields null, nothing invented. Tooling failed: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only irrelevant OneDrive results. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com company page and companysearchresults -> HTTP 403; thecompanycheck.com -> HTTP 403; falconebiz.com -> HTTP 403; instafinancials.com -> HTTP 404; tofler.in guessed slug -> 404. No MCA/GST portal page was reachable, so exact legal entity name, CIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could not be verified from a primary or public source. IMPORTANT: the input mixes 'PVT LTD' and 'LIMITED' variants of the same name - the correct legal form must be confirmed against MCA before any record is created; do not assume 'ALCOBREW DISTILLERIES INDIA LIMITED' (as in legal_claimed) is the registered name. Revenue FY25/FY26: null - no audited accounts or official filings were accessible; not estimated. Role: unknown - the claimed HS codes 220820/220830/220840/220850 (spirits) suggest a distillery/manufacturer, but per project rules catalogue/site claims are not evidence and no registry object confirming manufacturing activity was obtained. NOT rejected: absence of accessible data is not proof of non-existence, strike-off, liquidation or bankruptcy, and none of those conditions was established. Action required: re-run with working search/registry access (MCA master data, GST public search) to populate CIN, PAN, GSTIN, incorporation date, state and revenue."
+}

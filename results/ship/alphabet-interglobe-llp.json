@@ -1,0 +1,8 @@
+{
+ "name_input": "ALPHABET INTERGLOBE LLP",
+ "export_status": "confirmed",
+ "export_evidence": "ImportKey India customs page (https://importkey.com/countries/india/alphabet-interglobe-llp) — counter says \"Total Shipments 117 Records detected\"; the free view actually displayed 5 export rows (counter vs rows seen: 117 vs 5). Exact line: \"2025-12-15 | ALPHABET INTERGLOBE LLP | TO THE ORDER-UNITED STATES | GLAZED PORCELAIN TILES - (DETAILS AS PERINVOICE)- | MUNDRA SEA, India -> Port Everglades, UNITED STATES | 69072100 | BOL 7902519\". Other dated rows: 2025-11-06 (BOL 9966672), 2025-10-09 (BOL 4270478), 2025-09-18 (BOL 5344543), 2025-09-11 (BOL 5359521) — all Mundra Sea -> Port Everglades, US, HS 69072100. Ports table: \"MUNDRA SEA 3 / Port Everglades 3\".",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Export side is factually confirmed: five dated customs/B-L records Sept–Dec 2025, Mundra Sea to Port Everglades (USA), HS 69072100 glazed porcelain tiles — this matches the declared HS 690721 (ceramic tiles), so no HS correction needed. Role reads as exporter/trader of Morbi-cluster tiles (address fragment on ImportKey: \"3, MADHAV APARTMENT,,PRANKUNJ SOCIE\"). Domestic supply evidence could not be verified: web_search was unavailable (searx connection refused) and zaubacorp returned HTTP 403, tofler returned 404 — no GST turnover band, GeM/CPPP tender or contract record was retrieved, so domestic_status is unknown, not 'none_found'. Revenue and export volume figures are not public on the free view — left null, not estimated. No registry/catalogue claims used as shipment proof."
+}

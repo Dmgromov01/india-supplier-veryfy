@@ -1,0 +1,18 @@
+{
+ "name_input": "BOYCE CARBON",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search backend was down (connection refused) and every public registry aggregator attempted returned an access error: thecompanycheck.com 403, zaubacorp.com 403 (both company page and search), instafinancials.com 404, tofler.in 404, indiamart.com 429, company website boycecarbon.com DNS not resolvable, Google 429, DuckDuckGo timeout; Bing returned only irrelevant Microsoft results. Therefore no exact legal entity name, CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Nothing is inferred or invented: all fields are null. Note that 'Boyce Carbon' is widely known in trade as an activated-carbon producer associated with Tamil Nadu, but this is NOT confirmed by any registry record retrieved here, so state_registered is left null and role is left 'unknown' rather than asserted. Per project rules the company is NOT rejected: absence of retrievable public data is not evidence of non-existence, strike-off, liquidation or bankruptcy. Recommended next step: re-run against MCA master data / GST portal once search access is restored, or obtain the CIN or GSTIN directly from the supplier. Declared HS 380210 (activated carbon) is plausible for this trade name but was not verified against any filing, so no HS correction is recorded."
+}
