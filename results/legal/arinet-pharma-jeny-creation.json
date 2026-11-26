@@ -1,0 +1,18 @@
+{
+ "name_input": "Arinet-Pharma(Jeny Creation)",
+ "legal_name": "ARINET PHARMA (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, and Bing/Google/DDG fallbacks returned irrelevant results (NHL, dictionary pages) — no page mentioning 'ARINET PHARMA' or 'Arinet-Pharma' was retrieved. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, and all such fields are null rather than guessed. The input name 'Arinet-Pharma(Jeny Creation)' looks like a trade/IndiaMART-style handle rather than a registered corporate name; 'Jeny Creation' may be a proprietorship or a separate entity — this needs a fresh lookup on MCA/GST portal. Per project rules the company is NOT rejected: non-existence/strike-off/bankruptcy is not established, only unverified. Role left as 'unknown' (no evidence of manufacturing plant or trading licence). Declared HS 330510 (shampoos) is inconsistent with the claimed industry 'food & FMCG' — flagged for HS correction only, not a rejection ground. Action: re-run registry check when search access is restored."
+}

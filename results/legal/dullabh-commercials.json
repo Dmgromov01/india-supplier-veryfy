@@ -1,0 +1,18 @@
+{
+ "name_input": "Dullabh Commercials",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No verifiable registry record found. The input gives no CIN and no PAN, and the 'legal_claimed' field contains a personal name (KISHORE DULLABH MISTRY), which suggests a proprietorship or partnership trading style rather than a company - such entities have no CIN/LLPIN and are not on MCA. Searches for the exact name 'Dullabh Commercials' returned no relevant hits (DuckDuckGo backend refused connections; Bing returned only unrelated results for the quoted phrase), and registry aggregators (zaubacorp.com, tofler.in) returned HTTP 403 to direct fetches, so GSTIN, GST status, incorporation date, registered state and MCA status could not be confirmed from a public profile. PAN, GSTIN, CIN, incorporation date, state and revenue are therefore null - not public/not found, not invented. Revenue FY25/FY26: no audited accounts or official filings located, so null. Per project rules the entity is NOT rejected: absence of a public record for a proprietorship-style name is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found. Role left as 'unknown' (no evidence of manufacturing or trading activity in registry data). Note also that the declared HS codes 843290 (agricultural machinery parts) and 848310 (transmission shafts) do not match the claimed industry 'food products and FMCG' - this is not a rejection ground; the HS code should be corrected to the actual product line once the entity's real activity is established. Recommended next step: obtain the GSTIN or PAN from the supplier directly, then re-verify on the GST portal and MCA."
+}

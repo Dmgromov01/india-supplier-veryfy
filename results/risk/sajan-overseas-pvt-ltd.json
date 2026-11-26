@@ -1,0 +1,9 @@
+{
+ "name_input": "Sajan Overseas Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам — данных нет, ничего не выдумано. Что произошло: (1) web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) Google и DuckDuckGo HTML — блокировка/таймаут; (3) Bing отдал нерелевантную выдачу (страницы Microsoft), т.е. результаты непригодны; (4) zaubacorp.com, thecompanycheck.com, indiankanoon.org — HTTP 403; (5) sanctionssearch.ofac.treas.gov — форма на JS, через plain GET поиск по имени невозможен, результат не получен. Итог по каждому блоку: санкции (OFAC SDN/UN/EU/UK/BIS) — не проверено, null; суды Индии (роль стороны, статус) — не проверено, null; действия регуляторов и негативные новости с датами — не найдено/не проверено, null; кредитный рейтинг (дата, статус) — публично не обнаружен в доступных источниках, null; признаки поставок в РФ/СНГ — не проверено, null. ВАЖНО: null здесь означает 'нет данных', а НЕ 'чисто'. Компания не отклоняется (правило 2: санкции/суды/уголовные дела не являются основанием для отклонения). Требуется повторный прогон при работающем поиске: проверить OFAC SDN и consolidated list по строке 'Sajan Overseas', BIS Entity List, EU/UK consolidated lists, indiankanoon и e-courts по 'Sajan Overseas', а также публичные упоминания об экспорте в Россию/СНГ (химия, HS 282590/284170 — карбонаты/сульфаты и т.п.)."
+}

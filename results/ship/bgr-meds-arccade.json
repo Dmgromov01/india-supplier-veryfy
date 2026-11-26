@@ -1,0 +1,8 @@
+{
+ "name_input": "BGR MEDS ARCCADE",
+ "export_status": "unknown",
+ "export_evidence": "No export record seen. ImportKey page for slug 'bgr-meds-arccade' returned only the paywalled template: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows visible (counter: 0 rows actually seen). Second slug 'bgr-meds-arcade' returned the identical generic template, also 0 rows. volza.com/p/bgr-meds-arccade, eximpedia.app and trademo.com all returned HTTP 403 Forbidden, so no bill-of-lading, date, destination or HS line could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Web search backend was unavailable for the whole session (searx: Connection refused on every query), so no domestic supply record could be located or ruled out.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Ни экспортных отгрузок (нет ни одной записи B/L с датой, направлением и HS-кодом), ни подтверждений поставок внутри Индии получить не удалось. Причина техническая: поисковик не работал (Connection refused), ImportKey отдаёт только заглушку без строк отгрузок, volza/eximpedia/trademo — 403. Заявленный HS 330510 (шампуни) не подтверждён и не опровергнут — по правилу 3 HS не является основанием для отклонения; компания сохраняется в базе. Выручка и объём экспорта: null (публичных данных нет, не выдумываю). Роль (manufacturer/trader) не определена — unknown. Требуется повторная проверка при доступном поиске и платном доступе к таможенным данным."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "SAGAR RUBBER PRODUCTS PRIVATE LIMITED",
+ "legal_name": "SAGAR RUBBER PRODUCTS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. Tooling failed: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; html.duckduckgo.com timed out; Bing returned only unrelated cached results (a Bengaluru staffing firm) for exact-name queries; zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in all returned HTTP 403 Forbidden; instafinancials search URL returned 404. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figure was obtained from any source, so all such fields are null rather than inferred. Note: an initial attempt used a guessed CIN (U25199MH1995PTC086123) in a URL; that identifier was NOT confirmed by any source and is deliberately excluded from this record - it must not be treated as data. Legal name is only the name as supplied in the input, not independently confirmed against MCA. Role left as 'unknown' because no registry/audited evidence of manufacturing vs trading activity was retrievable. Per project rules this is NOT a rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity's existence is simply unverified. Recommended next step: re-run against MCA master data / GST public search (a GSTIN or PAN is needed as a lookup key; the input supplied neither) or a paid registry API, then populate CIN, PAN (4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and FY25/FY26 audited revenue."
+}

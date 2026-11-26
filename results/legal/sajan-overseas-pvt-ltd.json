@@ -1,0 +1,18 @@
+{
+ "name_input": "Sajan Overseas Pvt Ltd",
+ "legal_name": "SAJAN OVERSEAS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error (searx: Connection refused) on both queries, and direct fetches of registry/mirror pages failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, falconebiz.com returned HTTP 403, instafinancials.com returned HTTP 404. Google and Bing HTML endpoints returned only redirect/irrelevant pages, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures could be confirmed from a public source. Per project rules nothing is invented: all registry fields are null and role is 'unknown'. No rejection is applied - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a tooling limitation, not a negative finding. Recommended next step: re-run with working search access or a direct MCA master-data lookup by company name to obtain CIN, then derive PAN (4th character = holder type) and GSTIN from a public GST profile. Declared HS codes 282590/284170 (inorganic chemicals - barium/other oxides-hydroxides, aluminium sulphate) were not assessed here as HS verification is outside this role."
+}

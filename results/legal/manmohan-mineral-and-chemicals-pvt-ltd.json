@@ -1,0 +1,18 @@
+{
+ "name_input": "MANMOHAN MINERAL AND CHEMICALS PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: все попытки получить первоисточники не удались. web_search вернул 'Connection refused' (поисковый бэкенд недоступен); прямые запросы к реестровым агрегаторам (zaubacorp, thecompanycheck, tofler, instafinancials, falconebiz, quickcompany) — HTTP 403/404, mca.gov.in — 403, duckduckgo — 403, bing/google выдали нерелевантную выдачу без профиля компании. Таким образом точное юр. наименование, CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 публично не установлены в рамках этого запроса — все поля null, цифры не выдумывались. Важно: в claimed-названии расхождение — 'MANMOHAN MINERAL AND CHEMICALS PVT. LTD' (ед.ч. MINERAL) против legal_claimed 'MANMOHAN MINERALS AND CHEMICALS P L' (мн.ч. MINERALS, суффикс P L, т.е. Private Limited); это может быть одно и то же юрлицо с опечаткой в одном из вариантов, но тождество не подтверждено. Штат в заявке не указан (state_claimed пусто), поэтому сверять нечего. Роль определить нельзя: нет ни реестровых данных, ни подтверждённого профиля деятельности; HS-коды 281122 (диоксид кремния), 282090, 720219 (ферросплавы) указывают на химико-металлургическую номенклатуру, но это не основание для присвоения роли manufacturer. Отклонять НЕ следует: отсутствие подтверждения в открытых источниках не равно несуществованию юрлица (правило 3 — reject только при отсутствии/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при доступном поиске или выписка MCA/ГСТ-профиль от поставщика."
+}
