@@ -1,0 +1,8 @@
+{
+ "name_input": "Anayra Overseas Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. ImportKey pages for both slug variants (https://importkey.com/countries/india/anayra-overseas-private-limited and https://importkey.com/countries/india/anayra-overseas-pvt-ltd) returned only the generic paywalled template — the only company-specific text was the heading 'ANAYRA OVERSEAS PRIVATE LIMITED- Import Customs Data Records - ImportKey' and the boilerplate 'Shipments available for ANAYRA OVERSEAS PRIVATE LIMITED, refreshed daily'. Rows actually seen: 0. No date, destination, HS code or bill-of-lading number was displayed. Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS challenge, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was found. Zaubacorp returned HTTP 403 and the DuckDuckGo HTML endpoint timed out, so no registry or procurement record could be read. Rows actually seen: 0.",
+ "note": "Evidence could not be obtained, not evidence of absence. The ImportKey pages are paywalled shells that render the same template for any slug, so their presence is NOT proof of shipments and must not be read as 'declared_only' or 'confirmed'. No export record with date/destination/HS/B-L and no domestic supply record was seen. Declared HS 847130 (portable computers) is unverified against any actual customs line. Export and domestic statuses are therefore 'unknown' rather than 'none_found' — a paid customs-data pull (ImportKey/Volza/Eximpedia) or MCA/GST lookup is required to settle this. No revenue or export-volume figure is public in the sources read; both left null."
+}

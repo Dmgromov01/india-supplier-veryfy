@@ -1,0 +1,9 @@
+{
+ "name_input": "M/s AKANKSHA OVERSEAS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No verifiable public record found for this entity as of the check date. Search infrastructure was degraded during this run: the DuckDuckGo/searx backend returned 'Connection refused' for all queries, Google returned HTTP 429, and Bing (the only reachable engine) ignored the exact-phrase operator and returned only generic results for the personal name 'Akanksha' (akanksha.org NGO, social-media profiles, Wikipedia name page) — none of which relate to a trading/export firm. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried by plain HTTP GET, so no automated SDN/Non-SDN name screen could be completed; the page did confirm the SDN list was last updated 23.11.2026. Consequently: sanctions exposure = not screened (null, not 'clear'); Indian court cases (party role/status) = no data located, null; credit rating = no rating found, null; regulator actions / negative news = none located, null; evidence of supplies to Russia or CIS = none located, null. IMPORTANT: these nulls mean 'not verified', NOT 'clean' — the absence of hits here is an artifact of failed search tooling, not a negative finding. Per project rules this is not a rejection ground and no adverse inference should be drawn; the company should be re-screened when search access is restored, using exact-name queries against OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, and Indian court portals (eCourts, NCLT, High Court) plus Tofler/Zauba for credit-rating and litigation history. Note also that the claimed name 'AKANKSHA OVERSEAS' is a very common Indian trade name, so any future hit must be disambiguated by address/CIN before attribution."
+}

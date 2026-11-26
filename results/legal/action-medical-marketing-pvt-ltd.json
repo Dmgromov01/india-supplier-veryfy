@@ -1,0 +1,18 @@
+{
+ "name_input": "ACTION MEDICAL MARKETING PVT LTD",
+ "legal_name": "ACTION MEDICAL MARKETING PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: web_search returned 'searx: Connection refused' for both queries; direct fetches of zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only generic 'Action' retail results and ignored the quoted company name, so no MCA/GST profile page was reached. Therefore CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public to me in this run, NOT confirmed absent. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy is NOT established, and per project rules rejection requires positive evidence of one of those. Role left as 'unknown' (name suggests a medical-goods marketing/distribution entity, i.e. likely trader, but this is inference from the name only and is not a verified registry fact). Note the declared HS codes (732690; 820411; 820900; 846610 - steel articles, hand tools, tool tips, machine-tool parts) are inconsistent with a medical-marketing name; per rules this is not a rejection ground - the code should be corrected to the actual traded goods once verified. Recommended action: re-run verification when registry access is available (MCA master data, GST portal/Know Your GST, company annual filings) before any commercial use."
+}

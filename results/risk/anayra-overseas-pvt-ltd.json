@@ -1,0 +1,9 @@
+{
+ "name_input": "Anayra Overseas Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS NULL. Research as of today was not possible: the DuckDuckGo/searx search backend returned 'Connection refused' on both queries, Google returned HTTP 429, DuckDuckGo HTML timed out, and Bing returned only unrelated results (Costco pages, date calculators) for both '\"Anayra Overseas\" private limited' and '\"ANAYRA OVERSEAS PRIVATE LIMITED\" MCA director' — i.e. no indexed page matching this entity name was surfaced. Direct reads of ZaubaCorp and Tofler company pages returned HTTP 403 (bot-blocked), and Indian Kanoon search returned HTTP 403, so no court-record check could be completed. The OFAC Sanctions List Search page loaded but is a JavaScript application that returns no results via plain HTTP GET, so no SDN/Non-SDN name match could be executed; UN, EU, UK OFSI and BIS Entity List screens were likewise not completed. Therefore: sanctions_hit = null (NOT 'no hit' — simply unverified), court_cases = null (no party role or status obtainable), rating = null (no credit rating agency page found; CRISIL/ICRA/CARE/India Ratings not checked successfully), news_risk = null (no negative news located, but absence of results here reflects tool failure, not a clean record), rf_supply = null (no evidence of supplies to Russia or CIS found, and none could be searched for). No CIN, PAN, director name, address or registration number is asserted anywhere in this record because none was verified. RECOMMENDATION: do not treat this as a cleared company. Re-run the sanctions (OFAC/UN/EU/UK/BIS), Indian court (eCourts, NCLT, High Court), and news screens manually or once the search backend is restored before any decision. Per project rules, the absence of a sanctions or court hit is never a rejection ground, and nothing here constitutes one."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ANJALI LABTECH LIMITED; ANJALI DIAMONDS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: the DuckDuckGo/Searx search backend returned 'Connection refused' on every query; direct fetches of duckduckgo.com/html and html.duckduckgo.com timed out; Google returned HTTP 429; Bing returned generic, query-irrelevant results (actress 'Anjali', unrelated pages) for all four exact-phrase queries ('Anjali Labtech Limited', 'Anjali Labtech' diamond, 'Anjali Diamonds Private Limited', 'Anjali Labtech Limited Surat OR Mumbai company'), so no usable hits. OFAC Sanctions List Search page was reachable but is a JS-driven form that cannot be queried via plain HTTP GET, so no SDN/Non-SDN name match could be executed; UN, EU, UK OFSI and BIS Entity List were not checked. No Indian court records (eCourts/NJDG), regulator actions, credit ratings or negative news could be retrieved. IMPORTANT: nothing here should be read as a clean result — sanctions_hit, court_cases, rating, news_risk and rf_supply are null because the data is NOT PUBLICLY VERIFIED BY THIS RUN, not because checks came back negative. Per project rules, absence of findings is not a rejection ground and no adverse inference is drawn; the company pair remains in the database. Also note the two names are distinct legal entities (a 'Limited' and a 'Private Limited') and must be screened separately in any re-run. Recommended re-run when search access is restored: (1) OFAC/UN/EU/UK/BIS name screening for both entities and known directors; (2) eCourts and High Court/District Court searches by party name; (3) GST/regulator and credit-rating agency lookups; (4) news search for both names plus 'Surat'/'Mumbai' and diamond-sector keywords. No CIN, PAN, rating figure or case number is asserted anywhere in this record."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ARKS PHARMACHEM",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT FOUND — no public record located. Search tooling was largely unavailable during this run (DuckDuckGo/searx backend refused connections; Google returned HTTP 429; Zauba Corp, InstaFinancials and TheCompanyCheck search returned HTTP 403 or JS-only pages), and Bing ignored the exact-phrase query and returned only unrelated 'ARK' brand results (arks.club, arks.com, ARK: Survival Evolved). Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be verified from a public source, and all such fields are set to null rather than guessed. The input itself is internally inconsistent: 'legal_claimed' is given as 'SHEETAL DEVANG MEHTA', which is a person's name (likely proprietor/partner or a director), not a company name, and no state was claimed, so the registered-state-vs-claimed-state comparison cannot be performed. No PAN was claimed either, so the 4th-character holder-type test could not be applied. Role is recorded as 'unknown' — the name suggests pharma/chemicals activity and declared HS 294190 (antibiotics) is consistent with that, but no registry evidence establishes manufacturer vs trader status. Revenue FY25/FY26 are null: no audited accounts or official filings were retrievable. Per project rules this is NOT a rejection — the entity is not shown to be nonexistent, struck off, liquidated or bankrupt; it is simply unverified. Recommended action: re-run verification when search backends are restored, and query MCA/GST portals directly using the proprietor name 'Sheetal Devang Mehta' plus the trade name 'ARKS PHARMACHEM' (likely a proprietorship or partnership, which would have no CIN — only a GSTIN and PAN), and request the GSTIN and PAN directly from the supplier."
+}
