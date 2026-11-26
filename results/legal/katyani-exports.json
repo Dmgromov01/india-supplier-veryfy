@@ -1,0 +1,18 @@
+{
+ "name_input": "KATYANI EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com search returned 404; tofler.in search returned 404; MCA master-data portal returned 403; IndiaMART profile returned 429; Bing returned only irrelevant results. Therefore exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT verified as absent. Input 'legal_claimed' field contains 'PRINCE GOENKA', which is a person's name, not a legal entity name; the input gives no state and no PAN, so state_claimed is empty. Role set to 'unknown' because no registry record was obtained; the name suffix 'EXPORTS' alone is not evidence of manufacturer vs trader status. Revenue FY25/FY26 null - no audited accounts or official filings were located. Per project rules, no rejection is applied: absence of retrievable data is not proof of non-existence, strike-off, liquidation or bankruptcy. HS 130219 (vegetable saps/extracts, e.g. pectin/guar-type extracts) is recorded as declared only and was not assessed. Recommended next step: re-run with working search access or a paid registry API (MCA/Tofler/Zauba) to confirm whether the entity is a registered company, LLP or a proprietorship/partnership firm (in which case CIN would legitimately not exist and GSTIN+PAN would be the primary identifiers)."
+}

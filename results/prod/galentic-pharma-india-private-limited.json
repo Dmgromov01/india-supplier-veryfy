@@ -1,0 +1,23 @@
+{
+ "name_input": "GALENTIC PHARMA INDIA PRIVATE LIMITED",
+ "declared_hs": "294190;300432;300490;382290",
+ "actual_hs_list": [
+  "300490",
+  "300432",
+  "300420",
+  "300410",
+  "300450",
+  "300439",
+  "300693",
+  "300670",
+  "330499",
+  "340111",
+  "340130",
+  "330510",
+  "300212"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт galentic.com (About Us, Products). Компания с 1992 г., Mumbai (Andheri East, MIDC), два производственных участка, аккредитации US FDA cGMP, WHO-GMP, ISO 13485:2016, ISO 9001:2015, Health-Canada, PIC/S-Malaysia. Заявлено >80 продуктов. Реальные товарные линии по каталогу: (1) стерильные офтальмологические мази и гели — Acyclovir Eye Ointment BP 3% (Netravir), Chloramphenicol Eye Ointment 1% (Kloraxin), Chloramphenicol+Hydrocortisone (Kloraxin H), Neomycin+Polymyxin B+Bacitracin Zinc (Triosporin), Neomycin+Polymyxin B+Hydrocortisone (Triosporin H), Neomycin+Dexamethasone (Dexamycin), Tetracycline HCl 1% (Tx), Oxytetracycline 1% (Netracycline), Oxytetracycline+Hydrocortisone (Netracycline H), Gentamicin 0.3% (Bromycin), Betamethasone+Neomycin (Netrabet N), Gatifloxacin 0.3%, Moxifloxacin HCl 0.5% (Galmoxcin), Erythromycin 0.5% (Galethro), Oxytetracycline+Polymyxin B, Hydrocortisone Acetate 0.5% (Netracort), Fluorometholone 0.1%, Carbomer Eye Gel 0.2%, искусственная слеза (White Soft Paraffin/Mineral Oil/Lanolin — Siccagel), Mineral Oil 20%+White Petrolatum 80%; (2) стерильные топикальные гели/желе — Lidocaine HCl Jelly USP 2% (Metacain), White Petroleum Jelly, Lubricating Gel (Sterile A B Jelly); (3) нестерильные дерматологические топикалы — крем/мазь/гель/лосьон/эмульсия, в т.ч. Clotrimazole Vaginal Cream 2% (Candigen V), противогрибковые, ГКС-топикалы; (4) medicated shampoo. Форма выпуска — исключительно готовая лекарственная форма (FDF, semi-solid), собственного производства АФИ (API) в каталоге не заявлено.",
+ "role_hint": "manufacturer",
+ "comment": "Сверка с заявленными кодами. 300490 — ПОДТВЕРЖДЕНО (основная масса: офтальмологические и дерматологические мази/кремы/гели/желе в дозированных формах для розничной продажи; сайт прямо указывает FDF semi-solid). 300432 — ПОДТВЕРЖДЕНО ЧАСТИЧНО: это код ГКС-препаратов (кортикостероиды для системного применения); у компании ГКС присутствуют только в комбинациях для местного/офтальмологического применения (Hydrocortisone Acetate 0.5%, Betamethasone+Neomycin, Neomycin+Polymyxin B+Hydrocortisone, Oxytetracycline+Hydrocortisone, Chloramphenicol+Hydrocortisone, Fluorometholone 0.1%). Для топикалов корректнее 300432 лишь при наличии дозировки в упаковке; фактически большая часть ГКС-линии уходит в 300490. 294190 — НЕ ПОДТВЕРЖДЕНО: это АФИ-антибиотики (хлорамфеникол, тетрациклин, неомицин, эритромицин и т.п. как субстанции). Сайт не заявляет производство или торговлю АФИ — только готовые формы. Код, вероятно, перенесён из описания состава, а не из факта поставки субстанции. 382290 — НЕ ПОДТВЕРЖДЕНО: диагностические/лабораторные реагенты, в каталоге отсутствуют полностью. ПРОПУЩЕННЫЕ ЛИНИИ: 300420/300410 (антибиотики в готовых формах — крупнейший блок офтальмологических мазей), 300450/300439 (прочие лекарственные средства в дозированных формах), 300693 (пластыри/повязки с лекарственным покрытием — при наличии), 300670 (гели для медицинского применения — Lubricating Gel, Lidocaine Jelly), 330499/340111/340130/330510 (косметика/мыло/шампунь — medicated shampoo и hand scrub, если регистрируются не как лекарства). ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявлено «Нефтегаз и химия» — неверно; фактически фармацевтика (фармацевтические препараты, готовые лекарственные формы). Трейдерских признаков нет: собственные заводы, R&D-центр, GMP-аккредитации, брендированные линейки — профиль производителя. Все товарные позиции взяты из каталога сайта и являются ЗАЯВЛЕННЫМИ, НЕ ПОДТВЕРЖДЁННЫМИ таможенными записями (таможенные линии в рамках этой задачи не проверялись). Экспорт заявлен на сайте («exported to numerous countries»), конкретных B/L или таможенных записей не проверял — заявлено, не подтверждено. Согласно правилу 3 HS-несоответствие не является основанием для отклонения: компания сохраняется, коды 294190 и 382290 подлежат замене на фактические (300490/300420/300410/300432/300670 и др.)."
+}
