@@ -1,0 +1,18 @@
+{
+ "name_input": "WATERPROOF CORPORATION PRIVATE LIMITED; WATERPROOF CORPORATION PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "source": "https://indiankanoon.org/search/?formInput=%22Waterproof%20Corporation%22",
+   "party": "WATERPROOF CORPORATION LIMITED (formerly Annapurna Pet Pvt. Ltd., merged via NCLT Mumbai Bench; reg. office WACO House, Masrani Lane, Kurla (W), Mumbai)",
+   "role": "complainant / original complainant company",
+   "case": "Bharti Pratish Naik vs State Of Gujarat, Gujarat High Court, 24 August 2026",
+   "status": "cited in judgment; outcome not established from snippet",
+   "note": "Entity name is 'Limited', not 'Private Limited' — identity match to the batch company NOT confirmed"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — treat as unverified, not as clean. Tooling failures: DuckDuckGo/searx backend refused connections on all attempts; Google returned only a redirect stub; DuckDuckGo HTML endpoint timed out; Zauba Corp and InstaFinancials returned HTTP 403. Only Bing and Indian Kanoon were readable. Bing ignored quoted operators and returned generic dictionary/commerce results (Wikipedia 'Waterproof, Louisiana', Merriam-Webster, Amazon, REI) — no Indian corporate entity surfaced, so Bing yielded no usable evidence. SANCTIONS: no OFAC SDN / UN / EU / UK / BIS Entity List screening could be completed — null means NOT CHECKED, not 'no hit'. COURT CASES: Indian Kanoon full-text search for \"Waterproof Corporation\" returned 7 documents; only one plausibly relates to a company of this name — the Gujarat HC matter above, which concerns WATERPROOF CORPORATION LIMITED (a public limited company, ex-Annapurna Pet Pvt Ltd, NCLT Mumbai amalgamation). The other six hits are different, unrelated firms: 'Overseas Waterproofing Corporation' (Karnataka HC 2012; Delhi District Court 2011 and 2008), 'United Waterproofing Corporation' (ITAT Mumbai 2021, bogus purchases), 'Architectural Waterproofing Corporation' (Bombay HC 2024, bank-guarantee matter). Per project rule 2, court matters are noted neutrally and are not rejection grounds. CREDIT RATING: no CRISIL/ICRA/CARE/India Ratings/Acuite action located — null, not public in sources reachable. NEGATIVE NEWS: none located; search coverage was too degraded to assert absence. RF/CIS SUPPLY: no evidence found either way — null, not established. RECOMMENDATION: re-run this company when search backend is restored, and confirm whether the target is the 'Private Limited' or the 'Limited' (Kurla, Mumbai) entity before relying on the court record above."
+}

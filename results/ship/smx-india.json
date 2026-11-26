@@ -1,0 +1,8 @@
+{
+ "name_input": "SMX INDIA",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record obtained. importkey.com/countries/india/smx-india, /smx-india-private-limited and /smx all returned the same paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows actually rendered on any of the three pages (source counter: 3 pages fetched, 0 rows seen). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend was unavailable for the whole session (DuckDuckGo/searx returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on all 3 attempts), and eximpedia.app and trademo.com free views returned HTTP 403 Forbidden. 0 domestic supply records seen.",
+ "note": "Evidence could not be gathered, not evidence of absence. Per Rule 5 no shipment fact is asserted and no claim from the company's own site/catalogue is treated as fact — nothing was found either way, so both statuses are 'unknown', not 'none_found'. Declared HS 845221 (machinery, not metallurgy/mining as claimed in industry_claimed) is unverified and, per Rule 3, is not a rejection ground in any case. Legal name 'VIKAS SANTOSH AGARWAL' appears to be a person's name rather than a registered entity; no CIN/PAN was claimed and none was found, so entity existence is also unconfirmed. Revenue and export volume: null (not public / not retrieved). Recommended next step: re-run with a working search backend and a paid trade-data view (Volza/Eximpedia/ImportGenius) before any verdict."
+}

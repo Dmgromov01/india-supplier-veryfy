@@ -1,0 +1,8 @@
+{
+ "name_input": "WATERPROOF CORPORATION PRIVATE LIMITED; WATERPROOF CORPORATION PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/waterproof-corporation-private-limited and .../waterproof-corporation-pvt-ltd both returned only the generic page shell: 'Shipments available for WATERPROOF CORPORATION PRIVATE LIMITED, refreshed daily' — 0 shipment rows rendered, no date, destination, HS code or B/L number visible. Counter: 2 ImportKey slugs tried, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. web_search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on all 3 queries; volza.com, eximpedia.app and trademo.com returned HTTP 403 Forbidden. Counter: 0 domestic records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось, потому что поисковый бэкенд был недоступен (connection refused), а все платные трейд-источники (volza, eximpedia, trademo) отдали 403. ImportKey по обоим слагам показал пустой шаблон без строк — такие страницы генерируются для любого имени, поэтому их наличие не является доказательством ни отгрузок, ни существования компании. Юрлицо, CIN, PAN, выручка и объём экспорта — null, публично не получены. Заявленный HS 481141 (бумага/картон с покрытием, самоклеящиеся) не проверен и не корректировался: оснований для отклонения нет, статус 'unknown' — требуется повторный прогон при работающем поиске."
+}

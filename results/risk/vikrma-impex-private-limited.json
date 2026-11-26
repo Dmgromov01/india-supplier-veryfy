@@ -1,0 +1,9 @@
+{
+ "name_input": "Vikrma Impex Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS null. Research was effectively blocked: the web_search backend returned 'Connection refused' on every attempt (searx down), DuckDuckGo HTML timed out, Zauba Corp and InstaFinancials returned HTTP 403, Tofler search returned a 404 page, and Google/Bing returned only irrelevant results (Garmin manuals, Wikipedia 'Yearn' pages) — i.e. no indexed page matching either 'Vikrma Impex Private Limited' or 'Yearn International Private Limited' was surfaced. The OFAC Sanctions List Search page loaded but is a JavaScript form, so no name query could be executed via http_get; therefore sanctions exposure (OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List) is UNVERIFIED, not cleared. No Indian court records (e.g. eCourts/NCLT), no regulator actions, no credit rating and no negative news could be retrieved. No evidence of supplies to Russia or the CIS was found — but absence here reflects tool failure, not a negative finding. IMPORTANT DATA-QUALITY FLAG for the analyst: the record is internally inconsistent — the company name given is 'Vikrma Impex Private Limited' while the claimed legal entity is 'YEARN INTERNATIONAL PRIVATE LIMITED', and the declared HS codes (090220/090230/090240, tea) sit under an industry label of 'Food & FMCG'. Per project rules this is not a rejection ground, but the entity identity must be resolved before any risk conclusion. Recommend re-running this company once search access is restored, and manually querying OFAC/EU/UK/BIS lists plus eCourts by exact legal name."
+}
