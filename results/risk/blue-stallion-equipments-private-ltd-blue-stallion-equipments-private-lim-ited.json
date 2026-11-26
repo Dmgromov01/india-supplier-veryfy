@@ -1,0 +1,9 @@
+{
+ "name_input": "BLUE STALLION EQUIPMENTS PRIVATE LTD.; BLUE STALLION EQUIPMENTS PRIVATE LIM ITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты, Bing отдавал нерелевантную выдачу по слову 'Blue', агрегаторы (Tofler, ZaubaCorp, IndianKanoon) — HTTP 403. Единственный успешно открытый ресурс — интерфейс OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/), который не поддерживает поиск через GET-параметры без интерактивного запроса, поэтому результат скрининга по имени получить не удалось. По всем полям (sanctions_hit, court_cases, rating, news_risk, rf_supply) данных нет — null, не выдумывать. Никаких подтверждённых сведений о санкционной экспозиции (OFAC SDN, UN, EU, UK, BIS Entity List), индийских судебных делах, регуляторных действиях, негативных новостях, кредитном рейтинге или поставках в РФ/СНГ не найдено и не опровергнуто. Требуется повторный прогон при доступном поиске; отсутствие данных НЕ является основанием для отклонения (правило 2 и 3)."
+}

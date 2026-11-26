@@ -1,0 +1,19 @@
+{
+ "name_input": "SHEETAL INDUSTRIES",
+ "legal_name": "Sheetal Industries (proprietorship — no registered company name found; no CIN exists for a proprietorship)",
+ "cin_llpin": null,
+ "pan": "ADSPC1790J",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual) — consistent with a proprietorship, not a company",
+ "gstin": "09ADSPC1790J1Z5",
+ "gst_status": "Active per IndiaMART public profile; GST registration date 2017 (GST portal status not independently verified — aggregator pages returned 403)",
+ "incorporation_date": null,
+ "state_registered": "Uttar Pradesh (GST state code 09 = Uttar Pradesh)",
+ "state_claimed": "",
+ "mca_status": "Not applicable — proprietorship, not registered with MCA (no CIN/LLPIN)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "null — no audited accounts or official filings exist/are public for a proprietorship; IndiaMART profile gives no turnover figures",
+ "note": "Registry findings: the only public legal-identity record located is the IndiaMART profile for 'Sheetal Industries', Ghaziabad, Uttar Pradesh (https://www.indiamart.com/sheetal-industries/), which states: Nature of Business = Manufacturer; Legal Status of Firm = Proprietorship; GST Number 09ADSPC1790J1Z5; GST Registration Date 2017; contact person Sheetal Chopra (Manager). PAN ADSPC1790J is derived from the GSTIN (characters 3-12) and its 4th character 'P' indicates an individual holder — i.e. this is a sole proprietorship, so there is no CIN, no LLPIN, no MCA status, no date of incorporation and no audited financials; revenue FY25/FY26 are therefore null, not estimated. IMPORTANT DISCREPANCY: the IndiaMART profile declares HSN 8712 / 87142010 (stainless-steel bicycle and rickshaw rims), whereas the input declares HS 120242 (groundnut kernels), 120740 (sesame seeds) and 200811 (groundnuts, prepared/preserved) — food/FMCG. These are unrelated product lines, so the input may refer to a different, same-named firm (several unrelated 'Sheetal Industries' exist across India, and no food-sector entity of this name could be confirmed). Per project rules this is NOT grounds for rejection: the entity is not struck off, liquidated or bankrupt, so it is retained; the HS code should be corrected to the factual one (8712/87142010) if this Ghaziabad firm is the intended supplier, or the correct food-sector entity must be re-identified. No state was claimed in the input, so no state mismatch can be assessed. Not rejected.",
+ "verdict": "accepted_hs_corrected"
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "STONEHILL EXPORT",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error (searx: Connection refused) on both queries, and direct fetches of registry/profile sources failed: zaubacorp.com returned HTTP 403, thecompanycheck.com returned HTTP 404, instafinancials.com returned HTTP 403, and Google returned HTTP 429. Bing was reachable but returned entirely irrelevant results (Google Docs, Thanksgiving pages), i.e. no usable hits for the query. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be verified from a public source. The input itself is internally inconsistent with a registered company: 'legal_claimed' is a personal name (PRATAP SINGH), not a company name, and no PAN, state or CIN was supplied, which is consistent with a sole proprietorship / unregistered trade name rather than a company limited by shares or LLP. A proprietorship would have no CIN and no MCA status; its PAN would be an individual PAN (4th character 'P') and its GSTIN would be a 15-digit state-wise registration, but neither could be confirmed publicly here. Role is recorded as 'unknown' rather than guessed: the declared HS 680293 (worked monumental/building stone articles) is a plausible export line for a stone trading/export outfit, but no evidence of manufacturing plant or of trading activity was verifiable. Revenue FY25 and FY26 are null because no audited accounts or official filings were accessible; per project rules no figures are estimated. NOT rejected: non-existence, strike-off, liquidation or bankruptcy was NOT established - the entity simply could not be verified with the tools available, so this record is unverified, not rejected. Recommended next step: re-run with a working search backend and check the GST portal (gst.gov.in search by trade name) and MCA master data for the state of the claimed proprietor."
+}
