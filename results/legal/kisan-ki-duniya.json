@@ -1,0 +1,18 @@
+{
+ "name_input": "Kisan Ki duniya",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: 'Kisan Ki duniya' — не зарегистрированное наименование юрлица, а торговая вывеска/бренд; в качестве 'legal_claimed' указано имя физлица 'SEEMA PANKAJ AGARWAL', что типично для ИП (sole proprietorship) — у таких лиц нет CIN/LLPIN и нет MCA-записей, только GSTIN. Проверка не удалась по техническим причинам: web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; прямые запросы к zaubacorp.com и mca.gov.in — HTTP 403; Google — HTTP 429; DuckDuckGo HTML — timeout; Bing выдавал нерелевантную выдачу (YouTube Music, Microsoft, city-data) по всем 4 запросам, включая точные кавычки по 'Kisan Ki Duniya' и 'SEEMA PANKAJ AGARWAL'. Ни одной публичной записи (GST-профиль, Udyam, MCA) получить не удалось. Все поля оставлены null — данные не выдумывались. Отклонение НЕ применяется: отсутствие подтверждения существования из-за сбоя инструментов не равно доказательству несуществования (правило 3). Требуется повторная проверка при работающем поиске: искать GSTIN по имени 'Seema Pankaj Agarwal' в публичных GST-справочниках (knowyourgst, gst.jamku, mastersindia) и по бренду 'Kisan Ki Duniya'; уточнить у заказчика штат и GSTIN из инвойса. Заявленные HS 071040/071080/100829/110290 (замороженная кукуруза, замороженные овощи, просо/зерновые, мука) — по правилу 3 несоответствие HS не является основанием для отклонения; код подлежит исправлению на фактический после идентификации. Роль предварительно unknown: по названию бренда и HS-набору похоже на торговлю/фасовку пищевых продуктов, но подтверждений нет."
+}

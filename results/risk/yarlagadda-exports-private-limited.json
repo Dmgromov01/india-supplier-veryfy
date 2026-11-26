@@ -1,0 +1,9 @@
+{
+ "name_input": "YARLAGADDA EXPORTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend was down for the whole session (searx 'Connection refused' on every query), DuckDuckGo HTML timed out, Google returned HTTP 429, and Bing returned only unrelated advertising results for both the exact-name and name+industry queries. Company-registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form, so no name query could actually be executed against the SDN/Non-SDN lists; UN, EU, UK OFSI and BIS Entity List screens were likewise not run. Therefore sanctions_hit, court_cases (Indian courts / NCLT), rating and news_risk are all null — this means NOT CHECKED, not 'clean'. No evidence of supplies to Russia or the CIS was found, but equally no search could be performed, so rf_supply is null rather than a negative finding. No CIN, PAN, revenue, shipment or case data is asserted here; nothing was invented. Per project rules this company must NOT be rejected on the basis of missing risk data — it stays in the database with risk fields marked unverified. Recommended follow-up when tooling is restored: (1) OFAC SDN/consolidated list and EU/UK/UN/BIS screens on the exact legal name and known director names; (2) eCourts / NCLT / High Court of Andhra Pradesh party search; (3) DGCIS/export-shipment records for Russia/CIS destinations; (4) credit rating check with any Indian agency (CRISIL/ICRA/CARE/India Ratings) if rated."
+}

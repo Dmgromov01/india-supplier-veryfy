@@ -1,0 +1,18 @@
+{
+ "name_input": "Himech",
+ "legal_name": "HIMECH EQUIPMENTS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: DuckDuckGo (searx) вернул 'Connection refused'; zaubacorp.com, thecompanycheck.com и mca.gov.in отдали HTTP 403; tofler.in и instafinancials.com — 404 по предполагаемому слагу; Google — 429; Bing и Marginalia вернули нерелевантную выдачу (поиск по точной строке \"HIMECH EQUIPMENTS PRIVATE LIMITED\" не дал ни одного реестрового профиля). CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 остаются null — не выдумывались. Название 'HIMECH EQUIPMENTS PRIVATE LIMITED' взято из входных данных (legal_claimed) и не сверено с MCA. Роль определена как unknown: род деятельности по реестру (manufacturer/trader) не установлен. Штат в запросе не заявлен (state_claimed пусто), поэтому сверка 'штат в реестре vs заявленный' невозможна. Отклонение НЕ применяется: оснований для rejected (несуществование, struck off, ликвидация, банкротство) не установлено, но и обратное не подтверждено — статус 'не проверено, требуется повторный прогон при доступном реестре'. Рекомендуется повторная проверка через MCA Master Data / GST-портал вручную."
+}

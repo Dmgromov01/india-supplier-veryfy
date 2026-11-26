@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S IMAGES INC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data found, not a rejection. The name 'M/S IMAGES INC' as supplied is not a valid Indian legal-entity form: 'Inc' is a US/Canadian suffix and is not permitted for Indian companies (Indian forms: Private Limited, Limited, LLP, OPC, partnership/proprietorship). No matching MCA record, CIN, PAN or GSTIN could be located. Tooling failure: the web_search backend returned 'Connection refused' on every query, and direct registry lookups were blocked (zaubacorp.com HTTP 403, thecompanycheck.com HTTP 404, instafinancials.com HTTP 404, Google HTTP 429, DuckDuckGo timeout). Bing fallback returned only irrelevant 'images' results (US photography firms Images, Inc. of Greer SC and imagesinc.net), i.e. no Indian entity. Therefore legal_name, CIN, PAN, GSTIN, incorporation date, MCA status and revenue are all null because they are not public/not found - none were invented. Role recorded as 'unknown' (cannot confirm manufacturer vs trader). Per project rules the company is NOT rejected: non-existence was not proven, only that the supplied name is unverifiable and likely a trade/export name (M/S prefix suggests a proprietorship or partnership trading as 'Images Inc'). Action needed: obtain the actual GSTIN or PAN from the supplier's invoice/export documents, or the IEC, and re-run verification against MCA/GST portals. Declared HS 732393 (stainless steel kitchen/household articles) is inconsistent with the claimed industry 'food & FMCG' - per rules this is not a rejection ground; the HS code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected once the entity is identified."
+}
