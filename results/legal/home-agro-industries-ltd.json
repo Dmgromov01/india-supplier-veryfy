@@ -1,0 +1,18 @@
+{
+ "name_input": "HOME AGRO INDUSTRIES LTD",
+ "legal_name": "HOME AGRO INDUSTRIES LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, quickcompany.in) returned HTTP 403/timeout; mca.gov.in MCA master-data portal returned HTTP 403 and search.mca.gov.in did not resolve. Bing/Google HTML endpoints returned only generic unrelated results, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figure could be sourced. Per project rules, no values are invented: all registry fields are null. NOT rejected - absence of retrievable data is not evidence of non-existence, and rejection is permitted only on confirmed non-existence/strike-off/liquidation/bankruptcy, none of which was established. Role left as 'unknown' (no evidence of manufacturing or trading activity obtained). Note also that the claimed industry ('Нефтегаз и химия' - oil & gas / chemicals) is inconsistent with the company name (agro industries) and with declared HS 300490 (medicaments, not agro or petrochemical); this is a classification observation only and is not a rejection ground. Recommended next step: re-run verification when search access is restored, or obtain the CIN/GSTIN directly from the supplier and validate on the MCA portal and GST taxpayer search."
+}

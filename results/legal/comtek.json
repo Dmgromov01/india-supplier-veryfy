@@ -1,0 +1,18 @@
+{
+ "name_input": "COMTEK",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать индийское юрлицо не удалось. Входные данные содержат только бренд-строку 'COMTEK' без указания организационно-правовой формы, штата, PAN или GSTIN. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), поэтому использовались Bing и прямые запросы к реестровым агрегаторам: zaubacorp.com вернул HTTP 403, thecompanycheck.com — HTTP 404, instafinancials.com — HTTP 403. Bing по запросам 'COMTEK CIN GSTIN India', 'COMTEK Private Limited registered office', 'Comtek Systems/Technologies India private limited CIN' выдал исключительно зарубежные компании (COMTEK Communications Technology Inc. — США, Comtek Network Systems — Великобритания, Comtek Advanced Structures — аэрокосмос, ComTek-NY — США); ни одной индийской записи MCA не обнаружено. Следовательно: точное легальное имя, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус — null, публично не подтверждены в рамках доступных источников. Роль — unknown (нет данных о производственных мощностях или торговой деятельности). Выручка FY25/FY26 — null: аудированной отчётности или официальных файлингов не найдено. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно доказательству несуществования (правило 3). Требуется уточнение от заказчика: полное юридическое наименование (например, 'Comtek ... Pvt Ltd'), штат, PAN или GSTIN, либо ссылка на профиль IndiaMART/сайт — после этого проверку можно завершить. HS 847150 не проверялся по существу (вне роли) и в любом случае не является основанием для отклонения."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "Kumar Steels",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'kumar-steels' returned only the generic template shell: \"Shipments available for KUMAR STEELS, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Second slug variant 'kumar-steel' returned the identical empty template. Source counter: 2 ImportKey pages fetched, 0 actual shipment records seen. volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; DuckDuckGo search backend returned 'Connection refused' on all 3 attempts, so no independent corroboration was possible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Search backend unavailable (searx: Connection refused) and no public page was reachable that names this entity with supply records. Source counter: 0 domestic evidence sources retrieved, 0 rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это не подтверждение отсутствия отгрузок, а отсутствие доступа к данным: ImportKey отдал пустой шаблон без единой записи, volza/eximpedia/trademo заблокированы (403), поисковик недоступен. Название 'Kumar Steels' крайне неспецифично — в Индии под ним может скрываться множество разных юрлиц; без CIN/PAN/адреса привязка записей к конкретному поставщику невозможна, поэтому любые найденные записи были бы недостоверны. Заявленный HS 732020 (пружины/рессоры из чёрных металлов) не проверен и не подтверждён. Выручка: null (не публична, не найдена). Объём экспорта: null. Трейдер/производитель: unknown. Требуется CIN или PAN от заказчика для повторной проверки."
+}

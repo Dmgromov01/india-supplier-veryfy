@@ -1,0 +1,8 @@
+{
+ "name_input": "AL Quresh (Aurangabad City) Modern Abattoir Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for both slug variants (al-quresh-aurangabad-city-modern-abattoir-private-limited and al-quresh-aurangabad-city-modern-abattoir-pvt-ltd) returned only the paywall shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. Source counter: 2 ImportKey pages fetched, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. ZaubaCorp, TheCompanyCheck, Eximpedia and Trademo all returned HTTP 403; ImportGenius returned a JavaScript challenge page. Source counter: 4 registry/tender sources attempted, 0 records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники закрыты (403 / JS-challenge / paywall), поэтому статус по обоим каналам — unknown, а не none_found. Ни одной таможенной или B-L записи с датой, направлением, HS-кодом и номером B/L получить не удалось; ни одного GST-оборота, тендера GeM/CPPP или контракта не видно. Заявленный HS 020230 (мясо крупного рогатого скота, замороженное) не подтверждён и не опровергнут фактическими отгрузками — по правилу 3 несоответствие HS не является основанием для отклонения, код подлежит сверке при появлении данных. Выручка и объём экспорта: null (не публичны / не получены), не выдумывались. Рекомендация: повторить проверку при доступе к платному Volza/Eximpedia или к выписке GST; до этого компания остаётся в базе с пометкой «заявлено, не подтверждено»."
+}

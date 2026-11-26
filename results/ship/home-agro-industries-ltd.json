@@ -1,0 +1,8 @@
+{
+ "name_input": "HOME AGRO INDUSTRIES LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/home-agro-industries-ltd (also -limited and bare slug): page renders only the boilerplate shell — \"Shipments available for HOME AGRO INDUSTRIES LTD, refreshed daily\" — with 0 shipment rows, 0 dates, 0 destinations, 0 HS codes and 0 B/L numbers visible without a paid login. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: zaubacorp returned HTTP 403, eximpedia/trademo/volza/importgenius returned HTTP 403 or a JavaScript challenge, and the search backend was unreachable (connection refused / timeout). 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники закрыты. Проверено 3 варианта слага importkey (home-agro-industries-ltd, -limited, home-agro-industries) — все три отдают одинаковую заглушку с нулём строк, то есть счётчик источников = 3, фактически увиденных записей об отгрузках = 0. Вторые источники (volza, eximpedia, trademo, importgenius) недоступны (403/JS-challenge), поиск DuckDuckGo не отвечал. Заявленный HS 300490 (фармпрепараты) не подтверждён и не опровергнут; название 'Agro Industries' с этим кодом не бьётся, но по правилу 3 несоответствие HS не является основанием для отклонения — код подлежит исправлению на фактический после получения данных. Выручка: null (не публична/не получена). Объём экспорта: null. Юрлицо не проверено на существование (реестр MCA/zaubacorp недоступен) — статус не отклонён, требуется повторный прогон при доступных источниках."
+}
