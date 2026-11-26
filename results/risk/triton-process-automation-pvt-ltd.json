@@ -1,0 +1,9 @@
+{
+ "name_input": "Triton Process Automation Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. Tooling failure: web_search backend returned 'Connection refused' on all queries; Google returned HTTP 429; DuckDuckGo (both html endpoints) timed out; Bing returned completely unrelated results (NFL / Food Network pages) for every query, i.e. the query was not honoured; Tofler search URL returned a 404 page; the OFAC Sanctions List Search page is a JavaScript form and cannot be queried via plain GET, so no SDN/Non-SDN match could be confirmed or excluded. Consequently sanctions_hit, court_cases, rating, news_risk and rf_supply are all null - NOT because they were checked and found clean, but because nothing could be checked. Do not read null here as 'no sanctions / no cases'. No claim in this record is sourced, and per project rules no data was invented. Recommended follow-up for a human analyst: (1) OFAC SDN + consolidated non-SDN list name search for 'Triton Process Automation'; (2) UN Security Council consolidated list and EU consolidated financial sanctions list; (3) UK OFSI consolidated list; (4) BIS Entity List / Federal Register search; (5) eCourts / NCLT / High Court party search for the exact legal name and any known directors; (6) CRISIL/ICRA/CARE/India Ratings/Brickwork rating actions; (7) Indian trade-press and Russian/CIS import records for any supply evidence. Note also that the declared HS code 841430 (compressors for refrigerating equipment) is inconsistent with the claimed industry 'IT and electronics' - flagged for the HS/identity researcher, not a rejection ground under project rules."
+}

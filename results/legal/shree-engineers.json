@@ -1,0 +1,18 @@
+{
+ "name_input": "Shree Engineers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input gives two conflicting names ('Shree Engineers' vs legal_claimed 'SHREEM ENGINEERS'), and no state, PAN or GSTIN was supplied. Attempts to reach public registry sources failed: DuckDuckGo search backend returned connection refused; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com search returned HTTP 404; google.com returned HTTP 429; mca.gov.in master-data page returned HTTP 403; bing.com returned only irrelevant results. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from an official filing, so all such fields are null rather than guessed. Per project rules, the entity is NOT rejected: absence of verifiable public data is not proof of non-existence, and the name ambiguity alone is not grounds for rejection. Role left as 'unknown' pending identification of the actual legal entity. Note also that declared HS 842240 (machinery for filling/closing containers) is inconsistent with the claimed industry 'food & FMCG' - per rules this is not a rejection ground; the HS code should be corrected to the factual one once the entity and its actual product line are identified. Recommended next step: obtain the GSTIN or CIN from the supplier directly, then re-check on the MCA portal and the GST taxpayer search."
+}

@@ -1,0 +1,30 @@
+{
+ "name_input": "EMCO ENGINEERING",
+ "declared_hs": "842820",
+ "actual_hs_list": [
+  "848360",
+  "848390",
+  "848340",
+  "848350",
+  "731511",
+  "731512",
+  "731589",
+  "848790",
+  "848210",
+  "848299",
+  "847982",
+  "847920",
+  "842833",
+  "842839",
+  "401031",
+  "401039",
+  "392690",
+  "848330",
+  "848320",
+  "848390"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Catalogue (emcoengineering.in, IndiaMART storefront, Mumbai, GST 27AACFE6426A1ZW, partner Viral Mehta) shows a mechanical power-transmission / material-handling components maker, not a metallurgy or mining producer. Real product lines: (1) universal joint couplings, telescopic universal joints, universal joint assemblies, cardan shafts; (2) jaw/Lovejoy couplings, grid-spring resilient couplings, gear couplings, pin-bush couplings, disc/Arpex couplings, tyre couplings, chain couplings, nylon gear couplings, bellow/servo/encoder couplings, Rotex GR/GS couplings, coupling spiders (NBR/PU); (3) chain sprockets (simplex/duplex/triplex, taper-bush), chain wheels, conveyor chain sprockets; (4) roller chain, attachment chain, Diamond roller chain, leaf chain, PIV chain, SS slat chain, conveyor chain; (5) taper-lock pulleys, V-groove pulleys, timing pulleys, wire-rope pulleys, sheave pulleys, conveyor head pulleys; (6) helical gear boxes, worm reduction gearboxes, spiral bevel gearboxes, PIV gearbox; (7) gears and spares - helical gears, spiral bevel gears, rack pinions, crown pinions, worm gear and shaft; (8) plummer blocks, slew ring bearings; (9) Fenner V-belts, industrial V-belts, PVC conveyor belts, honeycomb belts; (10) conveyor idler rollers, rotary airlock valve; (11) pharma machinery - jet mill/micronizer, air jet mill, double cone blender.",
+ "role_hint": "manufacturer_trader - self-described 'manufacturer, supplier and exporter' (IndiaMART: Nature of Business Manufacturer, 51-100 employees, partnership, IEC 0309033292), but the catalogue mixes own-brand items ('EMCO Jaw Coupling', 'Emco Crown Pinion') with third-party branded resale (Lovejoy, Diamond, Fenner, KTR Rotex, Elecon gear couplings, Masta plummer blocks), which is a clear trader/re-seller signal alongside manufacturing.",
+ "comment": "HS 842820 (pneumatic elevators and conveyors) is WRONG for this company's declared/actual core range. 8428 covers continuous-action lifting/conveying machinery; the catalogue's actual goods are predominantly transmission components and gearing, which fall in 8483: 848360 (clutches and shaft couplings incl. universal joints, jaw/grid/gear/disc/tyre couplings), 848340 (gears and gearing, gear boxes, worm/spiral bevel/helical reducers), 848350 (flywheels and pulleys incl. taper-lock, V-groove, timing, sheave pulleys), 848390 (parts of transmission elements, sprockets, chain wheels, gear blanks). Chains map to 7315: 731511 (roller chain), 731512 (other articulated link chain incl. leaf/slat), 731589. Plummer blocks/bearing housings 848320/848330; slew ring bearings 848210/848299. Belts: 401031/401039 (V-belts, transmission belts of vulcanised rubber), PVC/honeycomb conveyor belting 392690. Conveyor idlers/rollers and conveyor pulleys could legitimately sit in 842833/842839 only if supplied as complete conveyor machinery - the catalogue lists them as standalone components, so 848350/848390 is the better fit. Pharma machinery (jet mill/micronizer, double cone blender) is a separate line entirely outside 8428: 847982 (mixing/kneading/crushing machines) and 847920. Only a narrow residual overlap with 8428 exists if the company actually ships assembled belt-conveyor or bucket-elevator units - that is not evidenced in the catalogue. Per project rule 3 the HS mismatch is NOT a rejection ground: company is retained, code corrected to the 8483/7315 core with 8428 only as an optional line if a real conveyor-machinery shipment exists. Industry claim 'Металлургия и горнодобыча' is a misclassification of the industry field: the company is a mechanical engineering / power-transmission components supplier serving steel, sugar and cement plants as end-users (site text: products 'widely used in various industries such as engineering, sugar, steel, cement'), it is not a metallurgical or mining producer. Product lines entirely missing from the declaration: gearing and gearboxes (848340), pulleys (848350), sprockets (848390), chains (7315), belts (4010/3926), bearings/plummer blocks (8482/8483), pharma processing machinery (8479). All product identifications above are from the company's own catalogue pages only - no customs line was available in this task, therefore the entire product range is status 'заявлено, не подтверждено' (declared, not confirmed); no shipment-level corroboration was checked here by design."
+}

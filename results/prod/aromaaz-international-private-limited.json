@@ -1,0 +1,23 @@
+{
+ "name_input": "AROMAAZ INTERNATIONAL PRIVATE LIMITED",
+ "declared_hs": "330129",
+ "actual_hs_list": [
+  "330129",
+  "330190",
+  "330113",
+  "330119",
+  "330124",
+  "330125",
+  "330112",
+  "330300",
+  "151590",
+  "130219",
+  "330741",
+  "382370",
+  "151620"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт aromaazinternational.com (Aromaaz International Pvt Ltd, B-45/8, Sahibabad Industrial Area Site-4, Shahibabad, Ghaziabad, UP 201010) заявляет себя как 'manufacturer, exporter and wholesale supplier' эфирных масел. Реальные товарные линии по каталогу сайта: (1) Natural Essential Oils — в т.ч. Lemon Eucalyptus, Lemongrass, Lime, Lavender (40/42, Bulgaria, Kashmiri), Lemon Balm, Lemon (Sicily) — эфирные масла цитрусовых/травяные → 3301.13 (лимон), 3301.19 (прочие цитрусовые), 3301.24 (мята), 3301.25 (прочие мяты), 3301.29 (прочие эфирные масла); (2) Certified Organic Oils / Organic Essential Oils — те же позиции, органические → 3301.xx; (3) Carrier Oils / Base Oils и Organic Carrier Oils — растительные жирные масла (кокос, жожоба, миндаль и т.п.) → 1515.90 / 1516.20; (4) Hydrosols / Floral Water (напр. Jasmine Grandiflora hydrosol) → 3301.90 (водные дистилляты эфирных масел); (5) Floral Absolute Oils → 3301.90; (6) Liquid Herbal Extracts → 1302.19; (7) Natural Cosmetic Butters (карите, какао) → 1515.90 / 1804.00; (8) Aromatic Chemicals → 2914/2912/3823 (ароматические соединения, вне 3301); (9) Ayurvedic Herbal Oils → 3003/3004 либо 3301.90/1515.90; (10) Fragrance Oils / Air Diffuser Fragrances / Color Cosmetics Catalog / Skin Care Catalog — парфюмерные композиции и косметика → 3303.00, 3304.xx, 3307.49. Заявленный код 330129 ('эфирные масла прочие, не цитрусовые') корректно покрывает лишь часть номенклатуры — травяные/прочие эфирные масла (лемонграсс, лаванда, мелисса). Цитрусовые масла (лимон, лайм) должны идти по 3301.13/3301.19, гидролаты и абсолюты — 3301.90, носители/баттеры — 1515.90/1516.20, экстракты — 1302.19, парфюмерные композиции — 3303.00. Т.е. декларация неполная: одна товарная линия из ~8.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Сопоставление HS: partial. Код 330129 подтверждён как реальная, но не единственная линия — сайт прямо перечисляет 500+ продуктов в 10 категориях, из которых только Natural/Organic Essential Oils попадают в 3301.29. Признаки трейдера/посредника: (а) в каталоге присутствуют масла явно не индийского происхождения — 'Lavender Essential Oil (Bulgaria)', 'Lemon Essential Oil (Sicily)' — т.е. перепродажа импортного сырья; (б) раздел 'Aromatic Chemicals' и 'Fragrance Oils' — закупная химия/композиции, не дистилляция; (в) сервисы 'Private Label', 'Custom Blends', 'White Label', 'Bulk Private Labeling' — контрактное смешивание/фасовка под чужим брендом. Одновременно сайт описывает собственные методы обработки (Steam Distillation, Cold Pressed, Solvent Extraction, Fractional Distillation, CO2 Extraction) и 'Factory Tour', что указывает на наличие собственного производства — отсюда manufacturer_trader, а не чистый trader. Отраслевая классификация 'Нефтегаз и химия' формально применима только к узкой части (Aromatic Chemicals, 3823/2914); основной профиль — эфиромасличное/агроперерабатывающее и косметическое сырьё, т.е. отрасль указана неточно/слишком широко. Товарные линии, отсутствующие в декларации: carrier/base oils (1515.90, 1516.20), hydrosols и floral absolutes (3301.90), liquid herbal extracts (1302.19), cosmetic butters (1515.90/1804.00), aromatic chemicals (2914/2912/3823), fragrance oils и air diffuser fragrances (3303.00/3307.49), готовая косметика по Skin Care / Color Cosmetics каталогам (3304.xx). ВАЖНО по правилу 5: всё вышеперечисленное — это содержимое сайта и каталога, т.е. статус 'заявлено, не подтверждено'. Ни одной таможенной декларации, B/L или иной отгрузочной записи с датой и направлением в рамках этой проверки не открывалось (по условию задачи реестры и объёмы не исследуются), поэтому фактичность экспортных и внутренних поставок не подтверждена. Сертификаты на сайте (HACCP, Kosher, ISO 9001:2015, WHO-GMP, FDA, USDA, HALAL, FSSAI) — тоже заявления сайта, не проверялись. Согласно правилу 3 несоответствие/неполнота HS не является основанием для отклонения: компания сохраняется в базе, вердикт accepted_hs_corrected — фактический набор кодов приведён в actual_hs_list, декларацию следует расширить за пределы 330129. Юрлицо в реестрах не проверялось (вне роли)."
+}

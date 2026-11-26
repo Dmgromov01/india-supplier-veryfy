@@ -1,0 +1,21 @@
+{
+ "name_input": "SALVI CHEMICALS INDUSTRIES LIMITED; SALVI CHEMICALS INDUSTRIES LTD; SALVI CHEMICAL INDUSTRIES LTD.; SALVI CHEMICAL INDUSTRIES LIMITED",
+ "declared_hs": "291812;292529",
+ "actual_hs_list": [
+  "29334900 (Halquinol / 5,7-dichloro-8-hydroxyquinoline — core product, 'H3Q Max - Halquinol', 'Halquinol 95% (Min)')",
+  "29333990 (other quinoline derivatives / quinoline-based speciality chemicals)",
+  "28276000 (iodine and iodides — 'Iodine Derivatives' line, 21 SKUs)",
+  "28273900 (other chlorides, incl. iron/other metal chlorides)",
+  "29181100 (lactic acid and its salts — lactate/glycinate-type iron salts, tentative)",
+  "29224900 (amino-acids and their salts, other than lysine/glutamic — bisglycinates, iron amino acid chelates)",
+  "29232000 (lecithins and other phosphoaminolipids — encapsulation/DC grade line, tentative)",
+  "28309000 (other sulphides; polysulphides — selenium sulfide)",
+  "30039000 / 21069099 (nutraceutical/food-pharma finished blends, DC-grade premixes)",
+  "23099090 (animal feed preparations / feed supplements)",
+  "33049990 / 33029000 (cosmetic & perfumery preparations, cosmetic actives)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Website (salvichem.com) self-describes as 'World's leading manufacturers of Iron, Iodine and Quinoline products' and 'Largest producers of Halquinol'; founded 1979, 10+ manufacturing units, 1,07,000 sq ft plant, 500 staff, R&D with HPLC/GC. Product page lists verticals: Animal Nutrition & Pet Care (13), Biocides (3), Cosmetics (11), Encapsulation & DC Grade (8), Food/Pharma/Nutraceutical – Iron Supplements (31), Iodine Derivatives (21), Iron Supplements (10), Pharma/API (2); site claims 'All Product (441)'. Named product lines: Halquinol 95% min (H3Q Max), Bisglycinate, Glycinate, Selenium Sulfide, Iodine Derivatives, Iron Supplements, cosmetic actives, feed growth promoters. Declared codes 2918.12 (tartaric acid) and 2925.29 (other imines/imine derivatives) do not correspond to any product line visible on the site — no tartaric acid or imine/amidine chemistry is advertised anywhere. The real core is quinoline chemistry (Halquinol, HS 2933.49) plus iodine derivatives (2827.60) and iron amino-acid chelates/bisglycinates (2922.49).",
+ "role_hint": "manufacturer",
+ "comment": "HS-код исправлен, компания сохраняется в базе (правило 3 — несоответствие HS не является основанием для отклонения). Сверка с сайтом salvichem.com (главная, /products, /about-us): заявленные 2918.12 (винная кислота) и 2925.29 (прочие имины/производные иминов) не подтверждаются ни одной товарной линейкой — статус «не соответствует фактическому ассортименту». Фактический профиль: Halquinol (5,7-дихлор-8-гидроксихинолин) → 2933.49; производные йода (21 SKU) → 2827.60; бисглицинаты/глицинаты железа → 2922.49; селенид селена → 2830.90; кормовые и нутрицевтические премиксы → 2309.90 / 2106.90; косметические активы → 3304/3302. Отраслевая классификация «Нефтегаз и химия» неточна: это не нефтегаз, а специальная органическая химия / фарма- и нутрицевтика (API, кормовые добавки, косметические активы) — уточнить на «Химия / спецхимия, фармацевтика и нутрицевтика». Признаков трейдера нет: сайт описывает собственные 10+ производственных площадок, R&D-лабораторию с HPLC/GC, контроль качества по фармакопее — роль manufacturer (заявлено, не подтверждено документально в рамках этой проверки). Все перечисленные коды — «заявлено, не подтверждено»: таможенные линии и B/L в рамках данной задачи не исследовались, поэтому привязка конкретных HS-кодов к фактическим отгрузкам не верифицирована. Часть кодов (2918.11, 2923.20, 3302.90) — предположительные, требуют подтверждения по инвойсам/каталогу PDF (кнопка 'Download Product Catalogue' на сайте, содержимое не открывалось)."
+}

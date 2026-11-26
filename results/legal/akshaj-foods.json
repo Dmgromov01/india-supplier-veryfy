@@ -1,0 +1,18 @@
+{
+ "name_input": "AKSHAJ FOODS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки доступа к источникам не удались: web_search вернул ошибку бэкенда (searx: connection refused) на обоих запросах; zaubacorp.com — HTTP 403; mca.gov.in (Master Data) — HTTP 403; thecompanycheck.com и instafinancials.com — HTTP 404 на поисковых URL; duckduckgo.com — таймаут; bing.com отдал нерелевантный кэш (результаты про Windows Safe Mode), т.е. выдача не соответствует запросу и не может считаться источником. Никаких CIN/LLPIN, PAN, GSTIN, даты инкорпорации, статуса MCA и выручки не найдено — все поля null, ничего не выдумано. Название 'AKSHAJ FOODS' без суффикса Private Limited/Limited/LLP с высокой вероятностью относится к proprietorship/partnership (не компании MCA), у которых CIN отсутствует по определению, а PAN/GSTIN публично доступны только через GST-портал (требует капчи) — проверить не удалось. Роль (manufacturer/trader) не определена: каталоги и сайты по правилам проекта фактом не считаются, а реестровых данных нет. Вердикт по правилам: НЕ отклонять — отсутствие подтверждения не равно несуществованию юрлица; статус 'заявлено, не подтверждено', требуется повторная проверка при доступности GST-портала и MCA Master Data. Выручка FY25/FY26: null — аудиторской отчётности в открытом доступе не найдено (для proprietorship её обычно нет в публичных источниках)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Oil Gas Industries Services",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry record NOT found. The name 'Oil Gas Industries Services' as supplied is not a verifiable legal entity name: it lacks the mandatory legal-form suffix (Private Limited / Limited / LLP / Partnership / Proprietorship), so it cannot be matched to a CIN/LLPIN or GSTIN. Search tooling was degraded during this check (DuckDuckGo/searx backend refused connections; Google returned HTTP 429; Zauba/InstaFinancials returned HTTP 403; TheCompanyCheck and Falconebiz search endpoints are JavaScript-gated and returned no result rows). Bing queries for the exact quoted name returned only generic oil-market pages with no exact match, i.e. no public MCA/GST profile surfaced. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder-type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not located, NOT invented. Revenue FY25 and FY26 are null: no audited accounts or official filings were located, and no revenue figure is estimated. Role set to 'unknown' because no MCA business-activity classification or GST HSN turnover data was retrievable; the declared HS codes 842121/842139 (filtration/purification equipment) and 848110/848130 (pressure-reducing and check valves) are consistent with an industrial-flow-equipment supplier, but that is an inference from the input, not a verified fact. Per project rules this company is NOT rejected: rejection requires positive evidence that the entity does not exist, is struck off, liquidated or bankrupt, and no such evidence was found - only absence of a locatable public record. Recommended next step: obtain the exact legal name with legal-form suffix, the GSTIN or PAN from the supplier directly, then re-run against the MCA master data and GST portal; also confirm the registered state, since the input declared no state at all."
+}

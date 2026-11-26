@@ -1,0 +1,19 @@
+{
+ "name_input": "Triton Process Automation Pvt. Ltd",
+ "declared_hs": "841430",
+ "actual_hs_list": [
+  "902610",
+  "902680",
+  "848180",
+  "841590",
+  "853110",
+  "853650",
+  "940542",
+  "850440",
+  "841459"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Per the company's own website (tritonprocess.com, homepage product menu, accessed for this check): flow meters, BTU/energy meters, variable air volume (VAV) boxes, control valves & actuators, manual valves, field sensors, UL 555S fire & smoke dampers, louvers/grilles/diffusers, damper actuators, LED lighting, electronic air cleaners, EV chargers, hydroxyl radical generators; plus solutions in building management (BMS), fire alarm systems and lighting management. Stated end-markets: chemicals, pharma, bulk drugs, pulp & paper, plumbing, automobile, power generation, food processing, refrigeration. No product page could be opened (sub-URLs returned HTTP 404), so no model-level or datasheet-level corroboration exists; the entire product list is website-declared only. No customs line was available to this check, therefore every code below is 'заявлено, не подтверждено'.",
+ "role_hint": "trader",
+ "comment": "HS 841430 = compression-ignition/internal-combustion engine compressors used in refrigerating equipment. Nothing on the company's site describes compressors or refrigeration machinery as its own product line; the site positions the firm as an instrumentation/automation supplier and system integrator (BMS, fire alarm, lighting management) with 30+ years and 20+ branches claimed. So the declared code does not match the actual catalogue: status 'wrong'. Correct mapping by product line: flow meters and BTU/energy meters -> 902610 (flow/level) and 902680 (other measuring instruments); control valves, manual valves, damper actuators -> 848180 (taps, cocks, valves and similar appliances) with actuators possibly 841229/850110 depending on type; VAV boxes, fire & smoke dampers, louvers/grilles/diffusers -> 841590 (parts of air-conditioning/ventilating plant) or 732690/761699 for purely sheet-metal items; field sensors -> 902580/902680; fire alarm systems -> 853110; LED lighting -> 940542; EV chargers -> 850440; electronic air cleaners and hydroxyl radical generators -> 841459/854370. Industry label 'IT и электроника' is a misclassification: the real sector is industrial instrumentation, HVAC/building automation and fire-safety equipment, i.e. mechanical/electrical process equipment, not IT. Trader signs: the site uses 'Triton provides the customers with best quality & cost effective valves' and presents itself as a 'Total Integrated Solution Provider' reselling multiple brands, with no manufacturing plant, factory address or production capability stated anywhere on the homepage - consistent with a distributor/integrator rather than a manufacturer. Product lines entirely missing from the single declared code: flow/energy metering, valves and actuators, HVAC air distribution, fire alarm, lighting, EV charging. Per project rule 3 the company is not rejected on the HS mismatch; the code should be corrected to the actual mix above (primary 902610/848180) and the record kept. Note: no registry, revenue or shipment research was done in this check, and no customs line was available, so actual export HS codes remain unverified."
+}
