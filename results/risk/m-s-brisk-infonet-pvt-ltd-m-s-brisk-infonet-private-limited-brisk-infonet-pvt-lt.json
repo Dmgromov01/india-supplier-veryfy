@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S BRISK INFONET PVT LTD; M/S BRISK INFONET PRIVATE LIMITED; BRISK INFONET PVT. LTD.; BRISK INFONET PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: the primary web_search backend returned 'Connection refused' on every query; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only generic 'brisk' brand results (Brisk Teaching, Brisk Invoicing, Brisk iced tea) for all four query variants tried, including queries with 'India company director', 'zaubacorp OR tofler OR indiafilings', 'indiamart OR exportersindia OR tradeindia' and a Russian-language query on supplies to Russia. Zaubacorp direct fetch returned HTTP 403. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. No claim is made in either direction and no numbers, CIN, PAN, case numbers or shipment records are asserted — all fields are null because nothing public was retrievable, not because the company was checked and found clean. Note also that the input name string contains four spelling variants of the same claimed legal name, which suggests the name was transcribed from a shipping/invoice document rather than a registry; the entity's existence and exact registered name remain unconfirmed. Per project rules this is not a rejection ground and no verdict is proposed here — this is a data gap, not a finding. Recommend re-running this company once the search backend is restored, and cross-checking the MCA master data (Zaubacorp/Tofler/IndiaFilings), the OFAC SDN and BIS Entity List search pages, and e-courts/NCLT records directly."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KGR TELELINKS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), Google returned HTTP 429, Zaubacorp and Tofler blocked/404, and Bing returned only irrelevant results for both 'KGR Telelinks' and 'Kisha Telelinks'. OFAC Sanctions List Search page was reachable but its query interface is JS-driven and could not be executed via http_get, so no name was actually screened against SDN/Non-SDN. Therefore: sanctions exposure = NOT VERIFIED (null, not 'clear'); Indian court cases (party role/status) = NOT VERIFIED; regulator actions / negative news = NOT VERIFIED; credit rating (agency, date, status) = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. Additional flag for the desk: the record itself is internally inconsistent — name_input 'KGR TELELINKS PRIVATE LIMITED' vs legal_claimed 'KISHA TELELINKS PRIVATE LIMITED'; neither name returned any public trace in the searches that did execute, which is itself a due-diligence signal (possible non-existent/mis-spelled entity or a name mismatch), but per project rules this cannot be treated as a rejection ground and no conclusion is drawn. No sanctions, court, criminal or regulatory findings are asserted in either direction. Recommend re-running the risk screen when search access is restored, using MCA master data for the exact registered name, plus OFAC/UN/EU/UK/BIS consolidated list screening and Indian court (eCourts/NJDG) and credit-bureau lookups. Per Rule 2, any future sanctions/court/criminal findings are to be recorded neutrally as 'есть сложности', not as rejection grounds."
+}
