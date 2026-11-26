@@ -1,0 +1,8 @@
+{
+ "name_input": "Swastik Tungsten Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/swastik-tungsten-private-limited and .../swastik-tungsten-pvt-ltd both returned only the paywalled shell: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows actually visible on either page (source counter: 2 pages checked, 0 rows seen). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. volza.com, eximpedia.app and trademo.com all returned HTTP 403; DuckDuckGo search backend returned 'Connection refused' on every query and Google returned only a redirect interstitial. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но это результат недоступности источников, а не доказательство отсутствия отгрузок: ни экспортных, ни внутренних записей получить не удалось, поэтому статус unknown, а не none_found. Заявленный HS 282590 (прочие соли/кислоты неорганических кислот) не подтверждён и не опровергнут — по правилу 3 HS не является основанием для отклонения; компания сохраняется в базе. Выручка и объём экспорта: null (не публичны, не выдумывались). CIN/PAN не проверялись — реестры вне области задачи. Рекомендуется повторить проверку при доступности платного/полного доступа к ImportKey или Volza, либо через запрос GST-оборота напрямую."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Aaron Helmets Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no findings can be asserted. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out; Google returned only a redirect/consent interstitial; Bing returned identical cached generic results ('Aaron's' rent-to-own, biblical Aaron, NFL Aaron Rodgers) for three different targeted queries, i.e. the query was not actually executed. ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form - no query could be submitted and no result rows were returned, so no SDN/Non-SDN match or non-match can be claimed. Therefore: sanctions exposure = NOT VERIFIED (not 'clear'); Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. Per project rules, null is used rather than invented data, and no negative or positive inference should be drawn from these nulls. Also note: the claimed industry 'Строительство и DIY' (construction/DIY) is inconsistent with the claimed HS 650610 (helmets) - flagged for the HS/identity researcher, not a risk finding and not a rejection ground. Recommended next step: re-run this company once the search backend is restored, checking (1) OFAC SDN + consolidated non-SDN, UN, EU, UK OFSI and BIS Entity List name searches, (2) eCourts/NJDG and Madras High Court records for 'Aaron Helmets', (3) credit rating agencies (CRISIL/ICRA/CARE/India Ratings) and (4) Indian trade/export reporting for Russia/CIS shipments."
+}

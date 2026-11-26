@@ -1,0 +1,18 @@
+{
+ "name_input": "Aaron Helmets Pvt Ltd",
+ "legal_name": "AARON HELMETS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AADCM8500F (claimed in input; not verified against any public record)",
+ "pan_holder_type": "C — company (per 4th character of the claimed PAN; consistent with a private limited company, but the PAN itself is unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404 or no matching page; Google returned only a redirect stub; Bing returned only irrelevant results (Aaron's rent-to-own, Aaron Rodgers, biblical Aaron) for every query, including the exact-PAN query 'AADCM8500F', which produced no relevant hits at all. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all null — not public/not retrieved, NOT invented. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of retrievable records is a tooling limitation, not a negative finding. Role left as 'unknown' because no MCA/NIC activity code or GST turnover data was obtained. Note on the input: declared HS 650610 (helmets) is inconsistent with the claimed industry 'Строительство и DIY' (construction/DIY) — per project rules this is not a rejection ground; the HS code should be treated as the factual one (helmets) and the industry label corrected. Recommended next step: re-run verification when search access is restored, checking MCA master data by name and the GST portal by the claimed PAN."
+}

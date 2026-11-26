@@ -1,0 +1,8 @@
+{
+ "name_input": "ARIHANT CHEMICAL",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. importkey.com/countries/india/arihant-chemical returned only a JavaScript shell: 'Shipments available for ARIHANT CHEMICAL, refreshed daily' — a template placeholder, not a record. Source counter vs rows seen: ImportKey page = 0 shipment rows rendered (0 of an unstated total). volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; no bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search engines (DuckDuckGo via searx, Google, Bing) returned unrelated results (Little Alchemy, Sephora) for every query variant, so no domestic supply document was located. Rows seen: 0.",
+ "note": "Nothing could be verified either way — this is an access failure, not a negative finding. Do NOT read 'unknown' as 'no shipments'. The name 'ARIHANT CHEMICAL' is a very common Indian trade name (multiple unrelated firms across states), and no PAN/CIN/state was supplied, so any record found under this name could not be attributed to the intended entity with confidence. Declared HS 380210 (activated carbon) is unverified against any actual shipment line. Next step requires either a PAN/CIN or a paid trade-data seat (Volza/Eximpedia/ImportGenius) to pull dated B/L rows; until then export and domestic status must stay null/unknown rather than be inferred from the company's own website or catalogue, which under Rule 5 would only be 'заявлено, не подтверждено'."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "SHREE RAM INDIA GUMS PRIVATE LIMITED; SHREE RAM INDIA GUMS LIMITED; SHREE RAM INDIA GUMS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data collected. All search tooling failed during this run: web_search returned 'searx: Connection refused' on every query; direct fetches to DuckDuckGo HTML/Lite timed out; Google returned only a redirect/consent stub; Brave returned HTTP 429; Mojeek HTTP 403; Startpage served an anti-bot challenge page; OpenSanctions search API returned HTTP 401 (key required). Consequently nothing could be verified for this entity. sanctions_hit=null (not checked against OFAC SDN/UN/EU/UK/BIS - no access), court_cases=null (no Indian court/NCLT records retrieved), rating=null (no CRISIL/ICRA/CARE/India Ratings/Brickwork page retrieved), news_risk=null (no negative-news search possible), rf_supply=null (no evidence of supplies to Russia or CIS found, but equally no search was possible - absence of evidence here is NOT evidence of absence). No CIN, PAN, GSTIN, case number, rating or shipment record is asserted, since none was observed in any source. Note also that the input itself is internally inconsistent: three different name variants are given (two 'Private Limited' and one 'Limited'), and the claimed industry 'oil & gas and chemicals' does not match the declared HS codes 130190/130232/130239/210690, which are natural gums, guar gum, other mucilages and food preparations - i.e. the profile looks like a guar-gum/agro-processing exporter rather than an oil & gas company. Per project rules this mismatch is not a rejection ground and is flagged only for the identity/HS researcher. RECOMMENDATION: re-run this company in a batch when the search backend is restored; do not treat this record as cleared or as rejected - it is simply unverified."
+}
