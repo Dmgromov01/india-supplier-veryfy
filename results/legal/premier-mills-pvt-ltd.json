@@ -1,0 +1,18 @@
+{
+ "name_input": "Premier Mills Pvt. Ltd",
+ "legal_name": "PREMIER MILLS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search backend returned connection errors ('searx: Connection refused') on both queries, and direct fetches of public registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, Google returned only a redirect stub, DuckDuckGo HTML timed out, and Bing returned only irrelevant generic 'Premier' results (Premier League, Adobe Premiere) with no Indian company record. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role is 'unknown' because the manufacturer/trader distinction requires MCA NIC/object-clause data that was not retrieved. Note on the input: declared HS 844590 is textile-machinery heading (machinery for preparing textile fibres / textile spinning machines), which does not match the claimed industry 'metallurgy and mining'; per project rules this is not a rejection ground - the company stays in the base and the HS code should be corrected to the factual one once the actual product line is confirmed. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be checked in this session. Recommended next step: re-run verification when the search backend is restored, or query MCA master data directly by company name to obtain CIN, then derive PAN (4th character = holder type: P = individual, C = company, F = firm, etc.) and GSTIN from the GST portal public search."
+}

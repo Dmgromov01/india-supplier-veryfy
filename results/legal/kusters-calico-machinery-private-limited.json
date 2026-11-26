@@ -1,0 +1,18 @@
+{
+ "name_input": "KUSTERS CALICO MACHINERY PRIVATE LIMITED",
+ "legal_name": "KUSTERS CALICO MACHINERY PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session: the web_search backend returned connection errors ('searx: Connection refused') for all queries, and direct fetches of public registry aggregators failed (zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned 404; falconebiz.com served a JavaScript-only shell with no company data; Google/Bing/DDG HTML endpoints returned no usable results). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all reported as null - none of these were confirmed from a public source and none are inferred. The claimed PAN 'AAACK4140J' was NOT verified: its 4th character 'C' would indicate a company-type holder, but the format check alone is not evidence of the actual PAN of this entity, so it is left null. The claimed state 'Gujarat' is likewise unverified. Role left as 'unknown' (no registry evidence of manufacturing vs trading activity). No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - absence of verification is not grounds for rejection under the project rules. Note also that the declared HS code 842240 (packing/wrapping machinery) does not match the claimed industry 'Food products and FMCG'; per the rules this is not a rejection ground - the company stays in the base and the HS code should be corrected to the factual one at the next verification pass. Recommended next step: re-run with working search access and check MCA master data plus the GST public search for the GSTIN."
+}

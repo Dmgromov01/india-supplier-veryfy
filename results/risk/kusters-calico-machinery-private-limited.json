@@ -1,0 +1,9 @@
+{
+ "name_input": "KUSTERS CALICO MACHINERY PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: web_search backend (searx) returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results (Rolex / football pages) for the exact-name queries, i.e. no usable SERP. Direct fetches of company-data aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; marcia.io failed TLS. The OFAC Sanctions List Search page loaded but is an interactive form - no query could be submitted, so no SDN/Non-SDN screening result was actually obtained. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because nothing was verified, NOT because the company is clean. No claim in this record should be read as a negative clearance. Required follow-up: (1) OFAC SDN/Non-SDN, UN Consolidated, EU consolidated, UK OFSI and BIS Entity List name screening for 'Kusters Calico Machinery Private Limited' and known short forms 'Kusters Calico'; (2) eCourts / NCLT / NCLAT / High Court of Gujarat party search; (3) RBI/SEBI/MCA/EPFO/GST regulator action search; (4) CRISIL/ICRA/CARE/India Ratings rating lookup; (5) Russian/CIS customs and import-registry search for supplies. Note per project rules: sanctions, court cases and criminal matters are never rejection grounds - record neutrally as 'есть сложности' if found. Also note the declared industry ('Продукты питания и FMCG') is inconsistent with the company's apparent machinery-manufacturing profile, but industry/HS verification is outside this role's scope."
+}

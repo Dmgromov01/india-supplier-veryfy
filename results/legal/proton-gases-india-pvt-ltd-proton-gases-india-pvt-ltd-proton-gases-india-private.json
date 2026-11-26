@@ -1,0 +1,18 @@
+{
+ "name_input": "PROTON GASES INDIA PVT LTD.; PROTON GASES (INDIA) PVT. LTD.; PROTON GASES (INDIA) PRIVATE LIMITED",
+ "legal_name": "PROTON GASES (INDIA) PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAECM2393K",
+ "pan_holder_type": "C — company (4th character 'C' in AAECM2393K indicates a company/non-individual PAN). Note: PAN is taken from the input as claimed; it could NOT be corroborated against any public registry or GST profile during this check.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failed during this run: the web_search backend returned 'Connection refused' on every query, and all registry/aggregator pages attempted (zaubacorp.com company page and company search, thecompanycheck.com, instafinancials.com, tofler.in, quickcompany.in) returned HTTP 403 or timed out. Bing/Google HTML fallbacks returned only generic 'Proton' (ProtonMail/Proton VPN/Proton cars) results and no Indian company record; a direct search on the claimed PAN 'AAECM2393K' returned irrelevant results. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this run — NOT because the entity was found to be non-existent. Per the project rules, rejection requires positive evidence that the legal entity does not exist / is struck off / liquidated / bankrupt; no such evidence was found, so the company is NOT rejected and remains in the database pending re-check. Role is 'unknown' (no evidence of manufacturing plant or trading activity obtained; the claimed HS 290110 = acyclic hydrocarbons is consistent with an industrial/medical gases business, but this is not a registry fact). Revenue FY25/FY26 null — no audited accounts or MCA filings accessible. Action required: re-run against MCA master data / GST portal (GSTIN search by PAN AAECM2393K) when search tooling is restored."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Premier Mills Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — tooling failure, no findings either way. As of this run the DuckDuckGo search backend returned 'Connection refused' on every query, and fallback fetches were blocked or returned unrelated results: Google (redirect/consent wall), DuckDuckGo HTML endpoint (timeout), Bing (returned only generic 'Premier League'/'Adobe Premiere' noise, no company-specific hits), ZaubaCorp and TheCompanyCheck (HTTP 403), premiermills.com (SSL certificate hostname mismatch — note: the certificate presented does not validate for that hostname, which is itself worth flagging for the legal-identity check, but I did not verify it further). Consequently NO source was obtained for any of the five risk dimensions, so all fields are null rather than negative: sanctions_hit null (not checked against OFAC SDN/UN/EU/UK/BIS lists), court_cases null (no Indian court records retrieved), rating null (no CRISIL/ICRA/CARE/India Ratings action retrieved), news_risk null (no negative-news sweep performed), rf_supply null (no evidence of Russia/CIS supplies found, but no search was completed). Nothing here should be read as clearance. Also note the declared industry ('Металлургия и горнодобыча' / metallurgy and mining) is inconsistent with the name 'Mills' and with the declared HS 844590 (textile machinery) — outside my remit, flagged for the identity/HS reviewer only. Recommend re-running this company once search access is restored."
+}

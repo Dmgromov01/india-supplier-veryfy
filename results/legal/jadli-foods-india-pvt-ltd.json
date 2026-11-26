@@ -1,0 +1,18 @@
+{
+ "name_input": "JADLI FOODS (INDIA) PVT LTD",
+ "legal_name": "JADLI FOODS (INDIA) PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAACJ8541L",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'J' = surname initial of the entity as registered) — PAN taken as claimed, NOT independently verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both search calls; Bing returned only irrelevant results (US telecom / SEC-filing pages) for three different queries; Google returned a redirect interstitial. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404, tofler.in 404 (wrong slug), mca.gov.in 403. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — they are NOT public-and-absent, they are simply unretrieved. Revenue FY25/FY26 null: no audited accounts or official filings were accessible, and no figure is estimated. Role left 'unknown' — the input gives no evidence of own manufacturing vs trading, and product/HS data is outside this role's scope. PAN AAACJ8541L is carried over from the input only; the format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' is consistent with a company holder, but the PAN was not confirmed against any public record, so treat it as unverified. Per project rules this company is NOT rejected: there is no evidence the entity does not exist, and absence of retrievable records is not grounds for rejection. Action required: re-run verification when search/registry access is restored, or supply the CIN so MCA master data can be checked directly."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Burhani supply corp",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить юридическое лицо по открытым реестрам. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на момент проверки (connection refused), Bing по запросу \"BURHANI SUPPLY CORP\" выдал нерелевантную выдачу без совпадений, а профильные реестровые источники (zaubacorp, instafinancials, thecompanycheck, mca.gov.in) вернули HTTP 403/404. Никаких публичных записей о CIN/LLPIN, PAN, GSTIN, дате регистрации или статусе MCA найти не удалось, поэтому все поля оставлены null — данные не выдумывались. Название \"Burhani Supply Corp\" по формату похоже на фирменное наименование индивидуального предприятия (proprietorship) или партнёрства, а не на компанию с ограниченной ответственностью: суффиксов Pvt Ltd / LLP / Limited нет, что делает наличие CIN маловероятным, но это предположение, а не подтверждённый факт. Заявленный штат West Bengal (Калькутта — типичный центр торговли насосами и запчастями, что согласуется с HS 841391) не подтверждён и не опровергнут. Роль (manufacturer/trader) не установлена — по названию \"Supply Corp\" вероятнее трейдер, но это не подтверждено. Выручка FY25/FY26 недоступна: для proprietorship/partnership аудиторская отчётность в публичном доступе обычно отсутствует, MCA-филинги не подаются. Отклонять НЕ следует: отсутствие данных не равно отсутствию юрлица (правило 3 — отклонение только при несуществовании/ликвидации/банкротстве). Требуется повторная проверка при восстановлении доступа к GST-порталу (gst.gov.in search taxpayer) и MCA Master Data, а также запрос GSTIN и PAN у поставщика напрямую."
+}

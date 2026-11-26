@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S BARKATI INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо нерелевантные результаты; агрегаторы реестров (zaubacorp, instafinancials, findgst, gstinsearch) отдали 403/500/DNS-ошибку; mca.gov.in — 403. Поэтому exact legal entity name, CIN/LLPIN, GSTIN, GST status, дата инкорпорации, MCA status и выручка FY25/FY26 остаются null — данные не выдумывались. Заявленный PAN BJIPK5544F по формату валиден (4-й символ 'P' = индивидуальное лицо / sole proprietor), что согласуется с заявленным владельцем Mohammad Kashif и форматом имени 'M/S ...' (обычно проприетарная фирма, не компания), но подтвердить принадлежность PAN конкретному лицу без публичного профиля невозможно. Юрлицо НЕ отклонено: оснований для rejected (несуществование/ликвидация/банкротство) не установлено, отсутствие данных не является основанием для отклонения. Роль оставлена 'unknown' — определить manufacturer/trader по реестровым данным не удалось. Требуется повторная проверка при доступных источниках (GST-портал по номеру, MCA/Удхьям для Udyam-регистрации, GST-профиль на aggregator)."
+}
