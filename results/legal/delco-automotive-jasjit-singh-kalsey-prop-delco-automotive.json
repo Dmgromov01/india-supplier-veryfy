@@ -1,0 +1,18 @@
+{
+ "name_input": "DELCO AUTOMOTIVE; JASJIT SINGH KALSEY PROP. DELCO AUTOMOTIVE",
+ "legal_name": "DELCO AUTOMOTIVE (proprietorship of Jasjit Singh Kalsey) — unverified, no registry record retrieved",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "not applicable — the input describes a sole proprietorship ('PROP.'), which is not an MCA-registered company or LLP and therefore has no CIN/LLPIN or MCA status",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence was found; the entity simply could not be verified with the tools available. The input name indicates a sole proprietorship ('JASJIT SINGH KALSEY PROP. DELCO AUTOMOTIVE'), so no CIN/LLPIN, MCA status or audited financials are expected to exist; proprietorship revenue is not published in any public filing, hence revenue FY25/FY26 = null (not estimated). PAN could not be retrieved, so the 4th-character holder-type test could not be applied; by construction of a proprietorship the PAN would be an individual PAN (4th character 'P'), but this is an inference from the legal form, NOT a verified record, and is therefore left null. GSTIN and GST status could not be retrieved from any public profile. Registered-office state is unknown; no state was claimed in the input, so state_claimed = null. TOOLING FAILURE: the web_search backend (searx) returned 'Connection refused' on both queries; Bing/Google fetches returned unrelated AI-generated results or redirect stubs; Zauba Corp returned HTTP 403; mca.gov.in returned HTTP 403; gstinsearch.in failed DNS resolution; thecompanycheck.com search requires login. No source could be cited for any identifier, so all identifier fields are null rather than guessed. RECOMMENDED NEXT STEP: re-run with working search access, or obtain the GSTIN directly from the supplier's invoice/letterhead and verify it on the GST portal (gst.gov.in 'Search Taxpayer'), and confirm the proprietorship's PAN and trade licence. HS codes declared (813110; 842952) are not a rejection ground per project rules and were not assessed here (out of scope for this role)."
+}

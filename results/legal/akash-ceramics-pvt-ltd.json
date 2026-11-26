@@ -1,0 +1,18 @@
+{
+ "name_input": "AKASH CERAMICS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search backend returned 'Connection refused' on both queries, and Bing/Google HTML endpoints returned only generic, irrelevant results (Akash Network, Aakash coaching institute, etc.) with no company-registry hits. Direct fetches of public registry aggregators failed: zaubacorp.com returned HTTP 403 (both the company page and the company-search endpoint), thecompanycheck.com search returned HTTP 404, instafinancials.com search returned HTTP 404, tofler.in search returned HTTP 404. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source, and all such fields are left null rather than guessed. IMPORTANT: this is a data-availability gap, NOT evidence that the entity does not exist. Per project rules, rejection is permitted only on proof that the legal entity does not exist, is struck off, liquidated or bankrupt - no such proof was obtained, so the company must NOT be rejected on the basis of this note. Role is recorded as 'unknown' because no MCA business-activity classification (manufacturer vs trader) was retrievable; the claimed HS codes 690721/690723 (ceramic tiles) and the claimed industry 'Строительство и DIY' are unverified and were not used to infer role. No state was claimed in the input, so state_claimed is empty and no state mismatch can be assessed. Recommended next step: re-run against MCA21 master data / GST portal with a working search backend, or obtain the CIN or GSTIN directly from the supplier, then re-verify legal name, incorporation date, status and FY25/FY26 audited revenue."
+}

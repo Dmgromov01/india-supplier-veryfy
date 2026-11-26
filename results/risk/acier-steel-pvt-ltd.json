@@ -1,0 +1,9 @@
+{
+ "name_input": "Acier steel pvt ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No risk data could be verified for 'Acier Steel Private Limited'. Tooling failure: the web_search backend returned 'Connection refused' on every attempt; DuckDuckGo HTML timed out; Google returned a redirect/consent page; Bing returned only unrelated results (insurance/NFL pages) for the exact-name queries, i.e. no matching page was surfaced. Registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 and could not be read. OFAC Sanctions List Search page was reachable but is a JS-driven form that cannot be queried via plain HTTP GET, so no SDN/Non-SDN screen was actually executed - sanctions_hit is therefore null (NOT screened), not a negative result. UN, EU, UK OFSI and BIS Entity List screens were likewise not executed. Indian court records (eCourts, NCLT, High Court) were not queried successfully, so court_cases is null with no party role or status known. No credit rating (CRISIL/ICRA/CARE/India Ratings) was located, so rating is null with no date or status. No negative news or regulator action (SEBI/RBI/DGFT/ED) was located, so news_risk is null. No evidence of supplies to Russia or the CIS was found, but absence of evidence here reflects failed retrieval, not a cleared finding - rf_supply is null. Per project rules this company is NOT rejected on this basis: nothing indicates non-existence, liquidation or bankruptcy, and traders/unknown roles are not rejection grounds. Recommended follow-up: re-run the OFAC/EU/UK/BIS screens and eCourts/NCLT lookups manually once search connectivity is restored, and confirm the exact registered name (the claimed name 'ACIER STEEL PRIVATE LIMITED' could not be matched to any public record in this session)."
+}

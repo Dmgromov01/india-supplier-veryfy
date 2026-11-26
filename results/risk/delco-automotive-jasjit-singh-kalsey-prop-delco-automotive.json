@@ -1,0 +1,9 @@
+{
+ "name_input": "DELCO AUTOMOTIVE; JASJIT SINGH KALSEY PROP. DELCO AUTOMOTIVE",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public risk data could be retrieved for this entity. (1) Sanctions: no match found for 'Delco Automotive' or 'Jasjit Singh Kalsey' in any accessible source; however the OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) is a JavaScript form and returned no query results via plain HTTP fetch, so OFAC SDN/Non-SDN, UN, EU, UK OFSI and BIS Entity List screening could NOT be positively executed — sanctions_hit is null = NOT VERIFIED, not 'clear'. Recommend manual screening of the exact name string plus proprietor name before onboarding. (2) Court cases: no Indian court records (eCourts, NCLT, High Court) could be retrieved; the search backend (DuckDuckGo/searx) was unreachable ('Connection refused') for the whole session and Bing returned only irrelevant results for every query variant tried ('Delco Automotive' + Kalsey/Kalsi/Jasjit). court_cases = null, status unknown — not evidence of absence. (3) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuité action found; as a sole proprietorship such ratings are typically not public — null. (4) Negative news / regulator actions: none found, but coverage is unverified due to search failure — null. (5) Russia/CIS supply evidence: none found; no export, customs or B-L record linking this entity to Russia or CIS located — null, and explicitly NOT confirmed either way. Per project rules this is a trader/proprietor-type entity and is not to be rejected on these grounds; the only rejection grounds (non-existence, liquidation, bankruptcy) were also not verifiable here. Action required: re-run screening when search tooling is restored, and manually check OFAC/EU/UK/BIS lists and eCourts by proprietor name."
+}
