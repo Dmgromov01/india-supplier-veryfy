@@ -1,0 +1,18 @@
+{
+ "name_input": "WHITE CRUZ INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AABFW5638F",
+ "pan_holder_type": "F — Firm / partnership firm (per 4th character of the claimed PAN; NOT independently verified against any registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' for both queries; Bing returned only generic dictionary/colour results for every quoted-phrase query (phrase matching not honoured); ZaubaCorp, Tofler and InstaFinancials all returned HTTP 403 Forbidden; Google returned HTTP 429. No MCA/CIN, GSTIN, incorporation date, registered-office state or MCA status could therefore be confirmed from a public source, so all such fields are null rather than guessed. Important caveat on the PAN: AABFW5638F is only the PAN supplied in the input, not a verified record. Its 4th character 'F' denotes a partnership firm, which is inconsistent with a company-style legal name and with a 'manufacturer' assumption — this needs re-checking against the actual PAN card / GST certificate before use. Because the entity's existence could not be confirmed OR disproved, no rejection is applied (per rules, rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which is absent). Role is 'unknown' — no evidence of manufacturing or trading activity was obtained. Revenue FY25/FY26: null, no audited accounts or official filings accessible. HS 690721 (ceramic tiles) was not assessed here as it is outside this role's scope. Recommended next step: re-run with working search access, or obtain the GSTIN / CIN directly from the supplier's documents."
+}

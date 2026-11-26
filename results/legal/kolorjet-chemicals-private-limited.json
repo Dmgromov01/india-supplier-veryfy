@@ -1,0 +1,18 @@
+{
+ "name_input": "KOLORJET CHEMICALS PRIVATE LIMITED",
+ "legal_name": "Kolorjet Chemicals Private Limited (as used on the company's own website; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. The search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, and every public registry aggregator attempted returned HTTP 403 Forbidden (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com) or 404 (instafinancials.com). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status could NOT be confirmed from a public profile and are recorded as null rather than guessed. The PAN claimed in the input (AABCG2863K) was NOT verified: its 4th character 'G' would denote a non-individual holder type (per PAN structure, 'G' = proprietorship/firm-type codes are not applicable to a private limited company, which should carry 'C'), so the claimed PAN is internally inconsistent with a Pvt Ltd entity and should be treated as unverified/likely incorrect until checked against the MCA/PAN master. Only factual finding: the company's own website https://www.kolorjetchemicals.com/ is live and self-describes as 'engaged in manufacturing and exporting a wide range of dyestuffs, pigments, enzymes, food colors' and 'an ISO 9001:2015 Certified Company', with the footer '© Kolorjet Chemicals Pvt Ltd.' — this is a self-declaration only, not a registry record, and per project rules a website claim is 'заявлено, не подтверждено'. Role is provisionally manufacturer_trader on the basis of that self-description (manufacturing + export/trading language); it is not registry-confirmed. Declared HS codes 320412, 320417, 320649 (synthetic organic colouring matter/pigments) are consistent with the product range described on the site; HS 350790 (enzymes) is also claimed by the site ('enzymes'). No HS-based rejection applies per project rules. Revenue FY25/FY26: no audited accounts or official filings were accessible, so both are null — not estimated. NOT rejected: no evidence found that the entity does not exist, is struck off, liquidated or bankrupt; the live corporate website with a Pvt Ltd footer is weak positive evidence of existence, but MCA status remains unverified. Recommended follow-up: re-run against MCA master data / Zauba / Tofler once accessible, and obtain GSTIN from the GST portal search by legal name."
+}
