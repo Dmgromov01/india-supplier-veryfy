@@ -1,0 +1,18 @@
+{
+ "name_input": "Minerals & Minerals Ltd",
+ "legal_name": "Hindalco Industries Limited",
+ "cin_llpin": "L27020MH1958PLC011238",
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1958 (exact date not confirmed from a primary registry page; CIN year code 1958)",
+ "state_registered": "Maharashtra",
+ "state_claimed": "",
+ "mca_status": "Active (listed company, BSE: 500440 / NSE: HINDALCO; CIN shown on company's own website footer)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Not captured. Hindalco's own Financial Highlights page (hindalco.com/investors/financial-performance/financial-highlights) hosts FY2025-26 and FY2024-25 consolidated and standalone statements, but the figures sit in tables that were stripped on fetch. Screener.in consolidated page confirmed the entity and quarterly sales (e.g. Q4 FY26 Rs 78,133 cr, Q1 FY27 Rs 84,825 cr, Q2 FY27 Rs 91,708 cr) but the annual FY25/FY26 revenue rows were truncated. No audited annual revenue figure is therefore recorded here rather than estimated.",
+ "note": "IMPORTANT NAME MISMATCH: the input name 'Minerals & Minerals Ltd' does not correspond to any registered Indian entity found; the claimed legal entity 'HINDALCO INDUSTRIES LIMITED' is real and verified. CIN L27020MH1958PLC011238 is taken directly from the footer of hindalco.com (company's own site), which also gives the registered office as 21st Floor, One Unity Center, Senapati Bapat Marg, Prabhadevi, Mumbai 400013 - i.e. Maharashtra, matching the 'MH' in the CIN. The 'L' prefix denotes a public limited company; '27020' is the industrial classification. Screener.in independently corroborates: 'Incorporated in 1958, Hindalco Industries Ltd. is a flagship company of the Aditya Birla Group', BSE 500440, NSE HINDALCO, market cap ~Rs 2,05,734 cr. Role is manufacturer (integrated aluminium smelting/refining, copper cathodes and rods, specialty alumina) - not a trader. PAN and GSTIN could not be retrieved: zaubacorp.com and thecompanycheck.com both returned HTTP 403, and DuckDuckGo search was unavailable (connection refused) throughout this session, so no public GST profile could be opened. PAN and GSTIN are left null rather than inferred - note that a PAN cannot be derived from a CIN. GST status likewise null. Revenue FY25 and FY26 left null per the rule against inventing numbers; the source documents exist on the company's investor page and should be read directly to populate these fields. No rejection grounds: the entity exists, is listed and active, not struck off, liquidated or bankrupt. HS 260600 (aluminium ores and concentrates) is plausible for this company given its bauxite mining and alumina refining operations, but per project rules HS is not a rejection criterion in any case."
+}

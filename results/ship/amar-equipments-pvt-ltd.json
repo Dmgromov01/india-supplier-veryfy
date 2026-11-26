@@ -1,0 +1,8 @@
+{
+ "name_input": "AMAR EQUIPMENTS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. importkey.com/countries/india/amar-equipments-pvt-ltd returned only a paywalled shell: \"Shipments available for AMAR EQUIPMENTS PVT LTD, refreshed daily\" — 0 actual rows visible (source counter: page claims a shipment database exists; rows actually seen: 0). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. ZaubaCorp, TheCompanyCheck, Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS-challenge blocks; no domestic supply line could be quoted.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных записей (B/L с датой и направлением), ни внутренних поставок получить не удалось. Все источники данных об отгрузках закрыты (403/JS-challenge/платный доступ), DuckDuckGo-поиск в этой сессии недоступен (connection refused), Bing выдал нерелевантную выдачу. Статус по обоим каналам — unknown, а не declared_only: заявлений сайта я тоже не читал, поэтому даже статус 'заявлено' не подтверждён. Выручка и объём экспорта: null (не публичны / не получены). Заявленный HS 261390;720270 (марганцевые руды/концентраты и ферромарганец) не проверен по фактическим отгрузкам — оснований для HS-корректировки нет, но и подтверждения нет. Требуется повторный прогон с доступом к платным/незаблокированным источникам (ImportKey trial, Export Genius, 52wmb) либо к GST-порталу."
+}

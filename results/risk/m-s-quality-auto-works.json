@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S QUALITY AUTO WORKS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING VERIFIED. Research could not be completed: the web_search tool returned a backend error (searx: connection refused) on both attempts, and fallback fetches to Bing returned generic dictionary results unrelated to the query (query not honored), while DuckDuckGo HTML endpoints timed out and Google returned HTTP 429. No page mentioning 'M/S QUALITY AUTO WORKS' or the claimed proprietor 'SWADHIN KUMAR' was retrieved. Therefore: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = not checked, null; Indian court cases (party role, status) = not checked, null; regulator actions and negative news = not checked, null; credit rating (agency, date, status) = not public / not found, null; evidence of supplies to Russia or CIS = none found, but this is an absence of retrieved data, not a verified negative. No CIN, PAN, GSTIN or registration number was supplied or found, so no registry, MCA, NCLT or sanctions-list lookup could be anchored to a specific entity — the name is a generic trade style ('Works') typical of a small Indian proprietorship/partnership, which raises entity-matching ambiguity. Per project rules this is NOT a rejection ground and no adverse inference is drawn; the company stays in the base. Recommend re-running this check when the search backend is restored, ideally with a GSTIN or PAN to disambiguate the entity."
+}

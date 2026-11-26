@@ -1,0 +1,18 @@
+{
+ "name_input": "Adiba Leather Exports",
+ "legal_name": "ADIBA LEATHER EXPORTS (unverified — exact legal form not confirmed)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failure during this run: DuckDuckGo search returned 'Connection refused' on both queries; Bing returned only unrelated commercial results for the exact-name queries; zaubacorp.com, thecompanycheck.com and instafinancials.com all returned HTTP 403/404 to direct fetches; Google returned HTTP 429. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced. Nothing is asserted as fact and no values were invented. Two observations from the input only, not verified: (1) the name pattern 'Adiba Leather Exports' with no 'Pvt Ltd'/'LLP' suffix is typical of a sole proprietorship or partnership, in which case there would be no CIN and no MCA record at all — PAN 4th character would be 'P' (individual) or 'F' (firm) rather than 'C'; this is a hypothesis, not a finding. (2) The declared HS 420231 (leather articles / handbags) is inconsistent with the claimed industry 'Food & FMCG'; per project rules this is NOT a rejection ground — the company stays in the base and the HS code should be corrected to the actual product line once the entity is identified. Role left as 'unknown' because no evidence of manufacturing vs trading was obtainable. NOT rejected: absence of public data is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN/PAN directly from the supplier and check it on the GST portal and MCA master data."
+}

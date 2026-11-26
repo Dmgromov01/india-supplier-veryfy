@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S QUALITY AUTO WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реквизита. Все попытки верификации провалились по техническим причинам: web_search (DuckDuckGo/searx) вернул 'Connection refused'; Bing отдал нерелевантную выдачу (словарные статьи на 'quality'), т.е. поисковый запрос не обрабатывался; MCA master-data (mca.gov.in) — HTTP 403; zaubacorp.com — HTTP 403; thecompanycheck.com — HTTP 404; gst.jivochat.com — DNS не резолвится; Google — HTTP 429. Выводы: (1) Название 'M/S QUALITY AUTO WORKS' с префиксом 'M/S' — типичная форма наименования ИП/проприетарной фирмы (sole proprietorship), а не компании. У ИП нет CIN и нет MCA-регистрации, поэтому cin_llpin и mca_status = null по природе субъекта, а не из-за отсутствия данных. (2) 'SWADHIN KUMAR' в поле legal_claimed — это, судя по формату, имя собственника/проприетаря, а не юрлицо; подтвердить связь с фирмой публично не удалось. (3) PAN и GSTIN не найдены ни в одном публичном профиле — null, не выдумывались. PAN-тип (4-й символ) определить невозможно без самого номера. (4) Штат регистрации не установлен; state_claimed в исходных данных пуст. (5) Роль: по названию ('Auto Works') предположительно производитель автокомпонентов/метизов, но это догадка из наименования, а не подтверждённый факт — поэтому role = unknown. (6) Выручка FY25/FY26: для ИП аудиторская отчётность в открытом доступе отсутствует, официальных filings нет — null. (7) ОСНОВАНИЙ ДЛЯ ОТКЛОНЕНИЯ НЕТ: отсутствие публичных данных не равно несуществованию юрлица. Компания сохраняется в базе со статусом 'заявлено, не подтверждено'. Требуется запросить у поставщика напрямую: GSTIN (для проверки статуса на gst.gov.in), PAN, Udyam/Shop & Establishment регистрацию, банковские реквизиты, и только затем повторно верифицировать."
+}

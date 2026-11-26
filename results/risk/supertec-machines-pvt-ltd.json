@@ -1,0 +1,9 @@
+{
+ "name_input": "Supertec Machines Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; html.duckduckgo.com и lite.duckduckgo.com — timeout; Google — HTTP 429; Bing отдавал нерелевантную выдачу (антибот-заглушка); zaubacorp.com — HTTP 403. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, GET-запрос с именем результатов не возвращает, поэтому скрининга по SDN/Non-SDN фактически не было. Ни по одному из пунктов (санкции OFAC/UN/EU/UK/BIS, индийские суды с ролью и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой, поставки в РФ/СНГ) подтверждённых публичных данных получить не удалось — везде null, а не 'чисто'. Отсутствие данных здесь означает отсутствие проверки, а не отсутствие риска. Требуется повторный прогон при работающем поиске: OFAC/UN/EU/UK consolidated/BIS Entity List по точному наименованию, eCourts/NCLT/CCI, кредитные агентства (CRISIL/ICRA/CARE/Acuite), затем отдельно — таможенные и B-L записи по направлению РФ/СНГ. Правило 2 соблюдено: негатива не зафиксировано, отклонение не предлагается."
+}

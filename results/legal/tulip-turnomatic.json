@@ -1,0 +1,18 @@
+{
+ "name_input": "TULIP TURNOMATIC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить существование юрлица по открытым источникам. Причина техническая: поисковый бэкенд (DuckDuckGo/searx) недоступен, Bing по запросам \"Tulip Turnomatic\" / \"TURNOMATIC\" выдаёт только нерелевантные результаты (TULIP Texas licensure, tulip.co, Wikipedia), реестровые агрегаторы (zaubacorp.com, instafinancials.com, thecompanycheck.com) отдают HTTP 403/404. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус не найдены — все поля null, ничего не выдумано. Название \"TULIP TURNOMATIC\" не содержит суффикса Pvt Ltd/LLP, что допускает форму proprietorship/partnership (у таких нет CIN, только GSTIN), но подтвердить это нечем. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25/FY26 не найдена, аудированной отчётности в открытом доступе нет. ВАЖНО: отклонять НЕ следует — отсутствие данных не равно отсутствию юрлица (правило 3: rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при восстановлении доступа к реестру MCA/GST-порталу или запрос GSTIN у поставщика напрямую. Заявленный HS 741539 (медные изделия, прочее) не проверялся по правилам роли и не является основанием для отклонения."
+}
