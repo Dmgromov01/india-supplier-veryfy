@@ -1,0 +1,18 @@
+{
+ "name_input": "BHARAT PETROLEUM COMPANY LIMITED",
+ "legal_name": "Bharat Petroleum Corporation Limited",
+ "cin_llpin": "L23220MH1951GOI008808",
+ "pan": "AABCB2901P",
+ "pan_holder_type": "Company (4th character 'C' = company; PAN widely published in BPCL tender/GST documents, not re-verified in this session)",
+ "gstin": "27AABCB2901P1ZP",
+ "gst_status": "Active (GSTIN/PAN combination widely published in BPCL tender documents; could not be re-verified on a public GST portal in this session - portal pages returned 403)",
+ "incorporation_date": "1951 (as Burmah-Shell Oil Storage & Distributing Co. of India Ltd; renamed Bharat Petroleum Corporation Limited in 1976) - exact MCA incorporation date not retrievable, registry pages blocked",
+ "state_registered": "Maharashtra (registered office: Bharat Bhavan, 4 & 6 Currimbhoy Road, Ballard Estate, Mumbai 400001)",
+ "state_claimed": "Maharashtra",
+ "mca_status": "Active - listed public limited company, BSE: 500547, NSE: BPCL, ISIN INE029A01011 (Wikipedia/stock exchange listing); MCA master-data page not directly readable (zaubacorp 403)",
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": 522820.41,
+ "revenue_source": "FY26: Wikipedia infobox citing BPCL Annual Report 2025-26 (https://www.bharatpetroleum.in/pdf/ourfinancial/annual-report-2025-26.pdf) - consolidated total revenue INR 522,820.41 crore. FY25 figure not retrieved (annual report PDF returned 403), so left null rather than estimated.",
+ "note": "Legal entity exists and is active - no rejection grounds. Input name 'BHARAT PETROLEUM COMPANY LIMITED' is a misnomer; correct legal name is Bharat Petroleum Corporation Limited (a Maharatna central public sector enterprise, Ministry of Petroleum & Natural Gas). Declared HS 846789 (hand tools) and industry 'Construction and DIY' do NOT match the actual business: BPCL is an oil refining and marketing company (refineries at Mumbai, Kochi, Bina; fuels, LPG, lubricants, petrochemicals). Per project rules this is not a rejection ground - company stays in the database with the HS code corrected to its actual profile (petroleum products, e.g. HS 2710/2711) and verdict accepted_hs_corrected. Registry sources (zaubacorp, moneycontrol, BPCL site) returned HTTP 403 in this session, so CIN, PAN, GSTIN and incorporation date are stated from widely published public references and flagged as not re-verified here; revenue FY25 is null because the audited figure could not be read."
+}

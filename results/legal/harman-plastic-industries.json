@@ -1,0 +1,18 @@
+{
+ "name_input": "Harman Plastic Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "None",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not retrievable in this run. Search backend (DuckDuckGo/searx) was down ('Connection refused'); Bing returned only generic HARMAN International / Harman Kardon audio-brand results for every query variant, including quoted and negative-keyword queries — no Indian entity named 'Harman Plastic Industries' surfaced. Registry aggregators blocked automated access: zaubacorp.com returned HTTP 403, thecompanycheck.com search returned HTTP 404, Google returned HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified from a public source; all such fields are null rather than guessed. PAN holder type cannot be inferred without a PAN. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected — it is left unverified pending a manual check on the MCA master data portal (mca.gov.in / MCA21 company search) and the GST taxpayer search (gst.gov.in 'Search Taxpayer') using the exact trade name. Note the input itself is internally inconsistent: state_claimed is 'None' (no state given) and industry_claimed is 'Строительство и DIY' (construction/DIY), while the declared HS codes 392310/392330/392350/701090 are plastic crates/boxes, plastic closures/caps, and glass bottles/jars — i.e. packaging, not construction materials; per project rules this HS mismatch is not a rejection ground and the code should simply be corrected to the actual product line once the entity is identified. Role is recorded as 'unknown' because the legal form (proprietorship / partnership / private limited) is not established; a name without a 'Private Limited'/'LLP' suffix suggests a proprietorship or partnership firm, which would have no CIN and would only be traceable via GSTIN/Udyam registration. Revenue FY25 and FY26 are null: no audited accounts or official filings were located, and for a non-corporate entity they would typically not be public at all."
+}

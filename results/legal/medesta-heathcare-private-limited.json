@@ -1,0 +1,18 @@
+{
+ "name_input": "MEDESTA HEATHCARE PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry data could be retrieved. All 10 tool calls failed: DuckDuckGo/searx backend refused connection ('Connection refused'), Google returned only a redirect stub, Bing returned irrelevant results, and registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials, Tofler, MCA portal) returned HTTP 403 or timed out. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not because they do not exist, but because they were not publicly retrievable in this session. IMPORTANT: the claimed PAN 'ABFCS8016B' is internally inconsistent with the claimed entity type — the 4th character 'C' denotes a FIRM/partnership (not a company; a private limited company would carry 'P'), and the 5th character 'S' is the surname initial of the holder. This suggests the PAN belongs to a partnership firm, not to 'MEDESTA HEALTHCARE PRIVATE LIMITED', and should be re-requested from the supplier. Also note the input name is misspelled ('HEATHCARE' vs claimed legal 'HEALTHCARE') — the exact MCA-registered spelling is unconfirmed. No rejection applied: rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and no such evidence was found either way. Revenue FY25/FY26: null — no audited accounts or official filings accessible. Role: unknown — cannot be classified without registry/incorporation data. Per project rules, no shipment, court or catalogue research was performed. Recommended next step: manual MCA master-data lookup by CIN or by name on mca.gov.in, plus GSTIN verification on the GST portal, before any commercial decision."
+}

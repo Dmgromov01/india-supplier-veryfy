@@ -1,0 +1,18 @@
+{
+ "name_input": "pharmaffiliates analytics & synthetics PRIVATE lIMITED",
+ "legal_name": "Pharmaffiliates Analytics & Synthetics Private Limited (as claimed; exact MCA-registered spelling NOT verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAECP2191E (claimed by input; format-valid, 4th character 'P' = individual/Person PAN, NOT a company PAN — a company PAN must have 'C' at position 4, e.g. AAECP2191C. PAN not verified against any public source)",
+ "pan_holder_type": "individual (per 4th character 'P' of the claimed PAN) — inconsistent with a private limited company; likely a typo in the input, needs re-check",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — no data could be confirmed. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results'), zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned 404, Google/Bing HTML endpoints returned unusable/irrelevant results. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all null — not public in this session, not invented. What IS confirmed: the company's own website pharmaffiliates.com is live and describes the group as a pharmaceutical CRDMO / impurity-standard manufacturer 'Established in 2001', with an R&D centre in Haryana, USFDA-inspected manufacturing facilities, NABL-accredited labs, ISO 9001/14001/45001 and GLP compliance, and India contact number +91-172-5066494 (Chandigarh/Panchkula area code). This supports role = manufacturer_trader (own synthesis/manufacturing plus supply/trading of reference standards), but a website is not a registry record. Note the input's declared HS codes (281000, 281390, 284290, 290329 — inorganic/boron/arsenic compounds and a cyclic hydrocarbon) do not match the company's actual business (pharmaceutical reference standards, APIs, intermediates, custom synthesis); per project rules this is NOT grounds for rejection — the company stays in the base and the HS code should be corrected to the factual one (pharma chemicals / reference standards, Ch. 29/38). No rejection criteria met (no evidence of non-existence, strike-off, liquidation or bankruptcy — simply unverified). Recommended next step: re-run against MCA master data / a GST public profile once the search backend is restored, and confirm the correct company PAN (expect AAECP2191C)."
+}

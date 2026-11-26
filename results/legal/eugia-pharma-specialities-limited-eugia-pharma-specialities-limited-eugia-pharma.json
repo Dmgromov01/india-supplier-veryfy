@@ -1,0 +1,18 @@
+{
+ "name_input": "EUGIA PHARMA SPECIALITIES LIMITED; EUGIA PHARMA SPECIALITIES LIMITED; EUGIA PHARMA SPECIALITIES LIMITED; EUGIA PHARMA SPECIALITIES LIMITED; EUGIA PHARMA SPECIALITIES LIMITED",
+ "legal_name": "EUGIA PHARMA SPECIALITIES LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: the search backend (DuckDuckGo/searx) returned connection refused, then Bing returned only irrelevant results, and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) plus mca.gov.in returned HTTP 403/404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are left null — not public/not retrievable here, nothing invented. Two points flagged for the next pass: (1) the claimed PAN 'AADCE3429K' could not be validated against any source, and its 4th character 'C' would denote a company/firm holder type — unverified; (2) the claimed state 'Rajasthan' is inconsistent with the company's known operating base (Eugia Pharma Specialities is associated with Hyderabad, Telangana), so registered-office state must be confirmed from MCA before use. Industry claimed as 'oil & gas / chemicals' also conflicts with the declared HS 300450 (pharmaceuticals) and the company name — HS/industry mismatch is NOT a rejection ground per project rules; the code should simply be corrected to the actual pharmaceutical code once the entity is confirmed. No rejection applied: no evidence of non-existence, strike-off, liquidation or bankruptcy was obtained, and absence of data is not proof of absence. Revenue FY25/FY26 null — no audited accounts or official filings were accessible. Role left 'unknown' pending registry/activity confirmation."
+}

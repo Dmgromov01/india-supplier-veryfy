@@ -1,0 +1,18 @@
+{
+ "name_input": "PRAKASH CHEMICAL INTERNATIONAL P L",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) for all queries, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials.com) returned HTTP 403/404; the company website pcil.com failed with a TLS error; Bing/Google/DDG HTML endpoints returned HTTP 429/timeouts or completely irrelevant results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all reported as null - NOT verified, not negative findings. The claimed PAN 'AACCP5395A' was NOT confirmed: its 4th character 'C' would denote a company/firm holder type, but this is only a format observation on the input string, not a verified record. The claimed legal name 'PRAKASH CHEMICALS INTERNATIONAL PRIVATE LIMITED' and the claimed Gujarat registered office are likewise unverified. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be checked with the tools available. Role left as 'unknown' because manufacturer vs trader status requires the MCA/registry record. Revenue FY25/FY26 left null because no audited accounts or official filings were retrievable. Recommended action: re-run verification when search/registry access is restored, using MCA master data (CIN lookup) and the GST portal public search for the GSTIN."
+}

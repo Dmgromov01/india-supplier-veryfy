@@ -1,0 +1,16 @@
+{
+ "name_input": "BHARAT PETROLEUM COMPANY LIMITED",
+ "declared_hs": "846789",
+ "actual_hs_list": [
+  "271019 (petroleum products: petrol, diesel, ATF, kerosene, base oils)",
+  "271111 / 271121 (natural gas, LNG)",
+  "340319 (lubricating oils and greases)",
+  "2902 / 2905 / 2907 etc. (petrochemicals, aromatics, solvents)",
+  "220710 / 220720 (ethanol / denatured alcohol blending streams, where traded)",
+  "730900 / 731100 (LPG cylinders, storage tanks - traded/installed equipment)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Public-sector downstream oil & gas major (Maharashtra, Mumbai HQ). Documented product portfolio per Wikipedia infobox sourced to BPCL Annual Report 2025-26: petroleum, natural gas, LNG, lubricants, petrochemicals; services: pipeline transport. Operates three refineries (Mumbai, Kochi, Bina) and markets petrol/diesel/ATF/LPG/kerosene through retail and industrial channels. No hand tools, no construction/DIY hardware, no mechanical appliances of chapter 84 in the product line.",
+ "role_hint": "manufacturer (refiner/producer, state-owned PSU); not a trader of the declared goods",
+ "comment": "HS 846789 (hand tools with self-contained non-electric motor, other) is wrong for this company: BPCL is an oil refining and marketing PSU, and no chapter-84 hand-tool line appears anywhere in its documented portfolio. Corrected actual codes are chapter 27 (271019 petroleum oils, 271111/271121 gas/LNG), 340319 lubricants and chapter 29 petrochemicals. Industry claim 'Строительство и DIY' (construction & DIY) is a clear industry misclassification - the correct industry is oil & gas / downstream refining & marketing. Legal name in the input ('BHARAT PETROLEUM COMPANY LIMITED') differs from the actual registered name 'Bharat Petroleum Corporation Limited' (BSE 500547, NSE BPCL) - a naming error in the record, not an HS issue. Per rule 3 the company is retained and the code corrected; verdict accepted_hs_corrected. Note on evidence: bharatpetroleum.in returned HTTP 403 to automated access, so the product list is corroborated only by the Wikipedia article citing BPCL's Annual Report 2025-26 (https://en.wikipedia.org/wiki/Bharat_Petroleum) - the official site itself could not be read. No customs line was checked in this task (out of scope), therefore the specific export/import HS lines for BPCL remain 'заявлено, не подтверждено' at the shipment level; the product-to-HS mapping above is based on the documented product portfolio only. Revenue and shipment volumes not researched per task scope."
+}

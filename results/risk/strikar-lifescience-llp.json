@@ -1,0 +1,9 @@
+{
+ "name_input": "STRIKAR LIFESCIENCE LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (searx/DuckDuckGo) возвращал 'Connection refused' и таймауты, Google отдал HTTP 429, Bing по всем вариантам запросов ('STRIKAR LIFESCIENCE LLP', 'Strikar Lifescience Gujarat', 'Strikar Lifescience LLP India MCA LLPIN') выдавал полностью нерелевантную выдачу без единого совпадения по названию — то есть ни одного публичного источника по этой компании получить не удалось. Tofler по поисковому URL отдал 404. OFAC Sanctions List Search — JS-форма, результат запроса через http_get не извлекается, поэтому санкционный скрининг фактически не проведён (null = не проверено, а не 'чисто'). Судебные дела (eCourts/NCLT/High Court Gujarat), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия (CDSCO, GST, ROC/MCA) и признаки поставок в РФ/СНГ — данных нет, все поля null. Никаких выводов о санкциях, судах или поставках не делаю: отсутствие находок здесь означает отсутствие доступа к источникам, а не отсутствие рисков. Требуется повторный прогон при работающем поиске либо ручная проверка по MCA master data (LLPIN по PAN AELFS6178Q), eCourts и санкционным спискам OFAC/EU/UK/BIS. Отклонение не предлагается — по правилу 3 оснований (ликвидация/банкротство/несуществование юрлица) не установлено."
+}
