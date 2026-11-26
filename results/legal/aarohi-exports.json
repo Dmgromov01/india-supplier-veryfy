@@ -1,0 +1,18 @@
+{
+ "name_input": "AAROHI EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on all queries; zaubacorp.com returned HTTP 403; thecompanycheck.com search page returned only its marketing landing page with no result rows; quickcompany.in timed out; google.com returned HTTP 429; bing.com returned unrelated results (Las Vegas hotels) with no relevant hits; mca.gov.in master-data portal returned HTTP 403. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be confirmed from a public source. 'AAROHI EXPORTS' is a generic trade name used by multiple unrelated Indian proprietorships/partnerships/companies, so without a GSTIN, PAN or state from the input it cannot be disambiguated to a single legal entity. Per project rules, revenue FY25/FY26 are null (no audited accounts or official filings located) and no numbers were invented. Role left as 'unknown' - the name suffix 'EXPORTS' is not evidence of manufacturer vs trader status. NOT rejected: absence of retrievable records is not proof of non-existence, and rejection is permitted only for confirmed non-existent/struck-off/liquidated/bankrupt entities. Recommended next step: re-run with a GSTIN or PAN, or with the registered state, to allow a targeted lookup on a working registry source."
+}
