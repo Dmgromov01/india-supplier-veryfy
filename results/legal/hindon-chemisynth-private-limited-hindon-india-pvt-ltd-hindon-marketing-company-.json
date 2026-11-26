@@ -1,0 +1,18 @@
+{
+ "name_input": "HINDON CHEMISYNTH PRIVATE LIMITED; HINDON INDIA PVT LTD; HINDON MARKETING COMPANY PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все 10 попыток доступа к источникам не дали результата: web_search (DuckDuckGo/searx) вернул 'Connection refused'; zaubacorp.com, thecompanycheck.com, falconebiz.com и mca.gov.in отдали HTTP 403; tofler.in и instafinancials.com — HTTP 404 по предполагаемым URL; google.com — HTTP 429; bing.com выдал нерелевантную выдачу (спам/переводчик), duckduckgo.com/html — таймаут. Ни один реестровый факт (точное юр. наименование, CIN, PAN, GSTIN, дата инкорпорации, штат, статус MCA) не подтверждён публичным источником, поэтому все поля оставлены null — цифры и идентификаторы не выдумывались. ВАЖНО по входным данным: во входе указаны ТРИ разных наименования (Hindon Chemisynth Pvt Ltd, Hindon India Pvt Ltd, Hindon Marketing Company Pvt Ltd) и заявленное юрлицо 'HINDON INDIA PRIVATE LIMITED' — это разные компании, их нужно разводить по отдельным карточкам с отдельными CIN; объединение в одну запись некорректно. Штат во входе не заявлен (state_claimed пусто), поэтому сверку 'штат в реестре vs заявленный' провести невозможно. Роль (manufacturer/trader) по реестру не определена — 'unknown'. Выручка FY25/FY26 не найдена, аудированной отчётности в открытом доступе не получено — null. Отклонение (rejected) НЕ применяется: нет подтверждения, что юрлицо не существует/ликвидировано/банкрот — отсутствие данных не является основанием для отклонения. Требуется повторный прогон при доступных источниках (MCA master data, GST-портал по GSTIN, Zauba/Tofler) либо ручная проверка по CIN."
+}

@@ -1,0 +1,19 @@
+{
+ "name_input": "GARUDA MART INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Court of the XXXIV Addl. Chief Judicial Magistrate, Mayo Hall, Bangalore (Bangalore District Court)",
+   "case_no": "KABC0C0182262021",
+   "title": "M/s. Garuda Mart Indai Pvt Ltd vs Kandula Srinivasa Rao",
+   "date": "2025-04-21",
+   "party_role": "complainant / petitioner (company is the party initiating the criminal complaint)",
+   "status": "order dated 21.04.2025 published on Indian Kanoon; underlying complaint concerns an outlet allegedly opened by the accused using the 'Garuda Mart' name without permission. Current appellate/final status not public in the retrieved record.",
+   "source": "https://indiankanoon.org/search/?formInput=%22Garuda+Mart+Indai+Pvt+Ltd%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified clean result — the OFAC Sanctions List Search tool is a JavaScript form that could not be queried via HTTP GET (only the empty search page was retrievable, https://sanctionssearch.ofac.treas.gov/), and the UN/EU/UK consolidated lists and the BIS Entity List were not checked because the search backend (DuckDuckGo/searx) returned 'Connection refused' for every query and Google returned HTTP 429. sanctions_hit is therefore null = not established, not 'clear'. Court: one Indian criminal complaint located, company as complainant, not as accused — per project rules this is not a rejection ground and is noted neutrally. Credit rating: no rating found; CRISIL/ICRA/CARE/India Ratings pages were not reachable (ZaubaCorp and TheCompanyCheck both returned HTTP 403), so rating = null, not public/not verified. Negative news: none found, but news search was unavailable, so null means 'not researched', not 'no news'. RF/CIS supply evidence: none found; no export, customs or B-L record linking this entity to Russia or CIS was located, and no such evidence should be inferred from the declared HS codes (household appliances/electronics). Overall: risk picture is materially incomplete due to tooling failures (search engine down, registry sites blocking, OFAC form not queryable) — recommend re-running sanctions screening (OFAC/UN/EU/UK/BIS) and credit-rating lookup manually before any decision. No rejection grounds identified under project rules."
+}

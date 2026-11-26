@@ -1,0 +1,38 @@
+{
+ "name_input": "Max Speciality Films Limited",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Punjab & Haryana High Court",
+   "case": "CR-828-2024(O&M) — Toppan Speciality Films Private Ltd. vs Mr. Piyush Roy",
+   "role": "Petitioner (civil revision)",
+   "status": "Decided 13.01.2025 (Neutral Citation 2025:PHHC:...), earlier order 05.09.2024 (2024:PHHC:116517), Bench: Justice Suvir Sehgal / Justice Deepak Gupta",
+   "source": "https://indiankanoon.org/search/?formInput=Toppan%20Speciality%20Films"
+  },
+  {
+   "court": "CESTAT, Chandigarh Regional Bench",
+   "case": "Max Speciality Films Ltd vs Chandigarh-I, decided 27.02.2025 (appellant noted as 'now Toppan Speciality Films Pvt. Ltd.')",
+   "role": "Appellant",
+   "status": "Decided 27.02.2025 — indirect tax / CENVAT dispute",
+   "source": "https://indiankanoon.org/search/?formInput=Max%20Speciality%20Films%20Chandigarh%20CESTAT"
+  },
+  {
+   "court": "CESTAT, Chandigarh Regional Bench",
+   "case": "Max India Limited vs Chandigarh-I, decided 05.09.2023 (appellant 'now known as Toppan Speciality Films Pvt Ltd')",
+   "role": "Appellant",
+   "status": "Decided 05.09.2023 — indirect tax dispute",
+   "source": "https://indiankanoon.org/search/?formInput=Max%20Speciality%20Films%20Chandigarh%20CESTAT"
+  },
+  {
+   "court": "CESTAT",
+   "case": "M/s. Max Speciality Films Ltd vs C.C., Ludhiana, decided 26.10.2015",
+   "role": "Appellant",
+   "status": "Decided 26.10.2015 — customs/excise appeal",
+   "source": "https://indiankanoon.org/search/?formInput=Max%20Speciality%20Films%20Chandigarh%20CESTAT"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: no confirmed hit found, but this is NOT a clean negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is JavaScript-driven and returned no queryable results via plain HTTP fetch, and the web_search backend was down (connection refused) for the whole session, so OFAC SDN, UN, EU, UK and BIS Entity List could not be queried directly. sanctions_hit is therefore null = not verified, not 'clear'. No evidence of any sanctions listing was encountered in the sources actually read. Court cases: only indirect-tax (CESTAT) and one civil-revision matter found via Indian Kanoon; all are commercial/tax in nature, none criminal, none involving sanctions or export control. Per project rule 2 these are not rejection grounds and are recorded neutrally. Regulator actions / negative news: null — could not be researched because the search backend was unavailable; no adverse media was seen in the pages read. Credit rating: null — CRISIL and India Ratings pages could not be queried (404 / JS-only), so no rating, agency or date can be stated; not invented. RF/CIS supply evidence: null — no evidence found either way; absence here reflects failed search tooling, not a verified negative. Note the entity is the renamed Max Speciality Films Ltd / Max India Ltd (BOPP film plant, Rail Majra, Nawanshahr, Punjab) now under Toppan; the claimed legal name TOPPAN SPECIALITY FILMS PRIVATE LIMITED matches the name used in the 2024-2025 High Court and CESTAT records. Recommend re-running sanctions screening (OFAC/EU/UK/BIS) and adverse-media checks once search tooling is restored before relying on this record."
+}

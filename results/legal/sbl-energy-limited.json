@@ -1,0 +1,18 @@
+{
+ "name_input": "SBL ENERGY LIMITED",
+ "legal_name": "SBL ENERGY LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search backend was unavailable (connection refused on all queries) and every public registry source attempted returned an access error: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), falconebiz.com (HTTP 403), mca.gov.in (HTTP 403), quickcompany.in (HTTP 404), gstsearch.in (HTTP 500); instafinancials.com returned only site navigation with no company record. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder type), GSTIN, GST status, date of incorporation, registered-office state, MCA status and audited FY25/FY26 revenue are all null - none of these are public to me in this session and none were guessed. The name 'SBL ENERGY LIMITED' is carried over from the input only; it has NOT been confirmed against MCA, so existence, strike-off/liquidation/bankruptcy status is unverified. Per the project rules no rejection is recorded, because rejection requires positive proof that the entity does not exist or is struck off/liquidated/bankrupt, and no such proof was obtained. Role is 'unknown' rather than manufacturer or trader: the declared HS codes (360300 - safety fuses/detonators/pyrotechnic articles; 860900 - containers) do not by themselves establish manufacturing capability, and no MCA business-object clause or factory record was read. Action required: re-run this company once the search backend is restored, or supply the CIN/GSTIN so the MCA master data and audited accounts can be pulled directly. Note also that the input left state_claimed and pan_claimed empty, so no state mismatch check was possible."
+}

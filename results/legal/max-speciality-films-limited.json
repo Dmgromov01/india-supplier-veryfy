@@ -1,0 +1,18 @@
+{
+ "name_input": "Max Speciality Films Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The search backend (DuckDuckGo/searx) returned connection errors, and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; mca.gov.in MDS returned HTTP 403; Bing returned only irrelevant TOPPAN-group corporate pages with no CIN/PAN/GSTIN. Therefore legal_name, CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all left null rather than guessed. IMPORTANT IDENTITY AMBIGUITY: the input name 'Max Speciality Films Limited' and the claimed legal name 'TOPPAN SPECIALITY FILMS PRIVATE LIMITED' are two different legal entities/formats (a 'Limited' public-company form vs a 'Private Limited' form), and no source was retrieved to confirm whether a name change from Max Speciality Films Ltd to Toppan Speciality Films Pvt Ltd occurred, or whether both exist. This must be resolved against MCA master data before any verdict. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy is NOT established — the entity simply could not be checked. Role left 'unknown' (BOPP/film production is claimed by the input but not verified from a registry source). Revenue FY25/FY26: null — no audited accounts or official filings were accessible. Per project rules, no HS-based rejection is applied; declared HS 392020/392062/392069 is a plastics-films classification and is not a rejection ground in any case. Recommended next step: re-run with working search access and pull MCA master data + GST public profile for both candidate names."
+}

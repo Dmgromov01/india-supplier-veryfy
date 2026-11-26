@@ -1,0 +1,18 @@
+{
+ "name_input": "Purnima Group",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация НЕ ВЫПОЛНЕНА по техническим причинам, а не из-за отсутствия компании. Входное имя 'Purnima Group' — не юридическое лицо, а группа/бренд; заявленное юрлицо 'PURNIMA ENTERPRISE' также не является полной формой (нет указания на Private Limited / LLP / proprietorship), поэтому однозначно сопоставить его с записью MCA невозможно. Попытки проверки: web_search вернул ошибку бэкенда (searx: connection refused) на всех запросах; zaubacorp.com — HTTP 403; instafinancials.com — HTTP 403; mca.gov.in (Master Data) — HTTP 403; thecompanycheck.com — только маркетинговая заглушка без результатов поиска; tofler.in/search — HTTP 404; duckduckgo.com/html — таймаут; google.com — HTTP 429; bing.com — выдал нерелевантный кэш (профили Instagram), реальных результатов по компании нет. Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус, ни выручка не подтверждены ни одним публичным источником. Все поля оставлены null — цифры и идентификаторы не выдумывались. Вердикт по правилам проекта: НЕ отклонять (нет доказательств несуществования/ликвидации/банкротства); статус — 'не проверено, требуется повторный прогон при доступном реестре'. Рекомендация: запросить у поставщика точное полное юрлицо (с указанием Private Limited/LLP/проприетор), CIN/GSTIN и PAN — по ним провести проверку MCA/GST повторно. Роль (manufacturer/trader) не определена. Заявленные HS 291090 и 390730 (эпоксиды/эпоксидные смолы и полимеры) в базе не подтверждены и не опровергнуты — по правилу 3 HS-несоответствие не является основанием для отклонения."
+}

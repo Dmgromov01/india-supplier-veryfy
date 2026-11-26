@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S NIERA IMPEX PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 23.11.2026. Sanctions: no hit found, but this is NOT a clean confirmation — the OFAC SDN/Non-SDN search tool (sanctionssearch.ofac.treas.gov, SDN list last updated 11/23/2026) is a JavaScript form and could not be queried programmatically; the api.ofac-api.com fallback returned HTTP 405. UN, EU, UK OFSI and BIS Entity List were not queried at all (DuckDuckGo/searx backend returned 'Connection refused' on every attempt, so no name-based screening was possible). Treat sanctions status as UNVERIFIED, not negative. Court cases: Indian Kanoon searched twice for 'Niera Impex' and 'Niera Impex' in quotes — 0 matching results both times (https://indiankanoon.org/search/?formInput=%22Niera%20Impex%22). This covers reported judgments only; district court, NCLT and consumer-forum records were not accessible, so absence of hits is not proof of clean litigation history. Regulator actions / negative news: not researched — search engine unavailable for the whole session. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings/Acuite publication found or searchable; not public in any source reached. RF/CIS supply evidence: null — no evidence found, but also no screening possible; explicitly not a finding of 'no supplies'. Registry access: ZaubaCorp returned HTTP 403, Tofler and InstaFinancials returned 404 for the name, so even basic corporate existence could not be independently confirmed from public sources in this session. Per project rules this company is NOT rejected: no evidence of non-existence, liquidation or bankruptcy was obtained, and sanctions/court matters would not be rejection grounds in any case. Recommendation: re-run full screening (OFAC/UN/EU/UK/BIS + NCLT + credit bureaus) once the search backend is restored before any commercial decision."
+}

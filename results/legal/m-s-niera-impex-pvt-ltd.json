@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S NIERA IMPEX PVT LTD",
+ "legal_name": "NIERA IMPEX PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All registry sources attempted were inaccessible: DuckDuckGo search backend refused connections (Errno 111) on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; falconebiz.com returned HTTP 403; instafinancials.com returned HTTP 404 (no such company page); Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results (query mangled, no company hits). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - NOT because they are absent, but because they could not be read from a public source within the tool budget. Per project rules, no CIN/PAN/GSTIN/numbers are invented. IMPORTANT: this is NOT a rejection. The entity is not shown to be non-existent, struck off, liquidated or bankrupt - existence is simply unconfirmed. Role left as 'unknown' (name suffix 'Impex' suggests trading, but that is an inference from the name only, not a verified MCA business-activity classification). Declared HS 620323/620343 (woven garments) is inconsistent with the claimed industry 'food products and FMCG'; per rules this is not a rejection ground - the HS code should be corrected to the actual activity once verified, and the company retained in the database. Recommended action: re-run verification with working registry access (MCA master data / GST portal public search) before any verdict; treat as 'verification pending', not accepted or rejected."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Purnima Group",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: search infrastructure was unavailable during this run (DuckDuckGo/searx backend refused connections, Google returned HTTP 429, Bing returned only irrelevant cached results for every query variant tried, including '\"Purnima Enterprise\" India chemical', '\"Purnima Group\" India', '\"Purnima Enterprise\" zauba OR tofler OR indiamart'). No source was retrieved, therefore no sanctions, court, regulator, rating or Russia/CIS supply finding is asserted. All fields set to null per rule 4 (do not invent data). Also note the identity itself is unresolved: the batch gives 'Purnima Group' as name and 'PURNIMA ENTERPRISE' as claimed legal entity, and no CIN/PAN/state was supplied, so even a successful search would have required disambiguation between multiple unrelated Indian firms using the 'Purnima' name. Recommend re-running this company once search access is restored, with a CIN or registered address to disambiguate. Per rule 2, any sanctions/court/criminal findings that later surface are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}
