@@ -1,0 +1,18 @@
+{
+ "name_input": "FIXDERMA INDIA PRIVATE LIMITED",
+ "legal_name": "FIXDERMA INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search backend was down (connection refused) and every public registry aggregator attempted returned HTTP 403/404/timeout: zaubacorp.com (403), thecompanycheck.com (403), falconebiz.com (403), quickcompany.in (timeout), tofler.in (404), instafinancials.com (only a generic landing page, no company record), indiamart.com (429), plus Bing/Google/DDG (429 or irrelevant results). The company's own site fixderma.com confirms the brand exists and sells cosmetic/derma products, but a brand website is not a registry source and does not establish the legal entity, CIN, PAN, GSTIN, incorporation date or state. Therefore legal_name is recorded only as the claimed name, and CIN/LLPIN, PAN, PAN holder type, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrieved, NOT confirmed absent. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified, needs re-check'. Role left as 'unknown' — the brand markets its own formulations, which suggests manufacturer or manufacturer_trader, but this is a marketing claim, not a registry fact. Revenue FY25/FY26 null: no audited accounts or MCA filings were accessible, and figures must not be estimated. Note on input: declared HS 330499/340130 (cosmetics/skin care and soap/organic-surface-active wash preparations) is consistent with the brand's product range, but HS is not a rejection criterion per project rules. Also note the input industry_claimed 'Продукты питания и FMCG' is only partly right — the actual line is dermocosmetics, not food. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored."
+}

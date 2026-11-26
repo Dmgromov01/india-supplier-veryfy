@@ -1,0 +1,18 @@
+{
+ "name_input": "MICROTRACK SURGICALS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The DuckDuckGo search backend returned 'Connection refused' on both queries, Google returned HTTP 429, and Bing returned only irrelevant/unrelated results (query terms not honoured). Direct fetches of public registry aggregators were blocked: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, thecompanycheck.com returned only its marketing landing page with no company profile. No MCA/CIN, PAN, GSTIN, incorporation date, registered-office state or audited financials could therefore be confirmed from a public source, so all such fields are null rather than guessed. Note on the input: the claimed industry 'IT и электроника' is inconsistent with the declared HS codes 901850/901890, which are ophthalmic and other surgical/medical instruments - the company name ('Surgicals') also points to medical devices, not IT/electronics; per project rules this is not a rejection ground, only a data-quality flag for the industry field. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected - it is simply unverified pending a re-run when search/registry access is restored. Role left as 'unknown' (name suggests a surgical-instrument supplier, possibly manufacturer or trader, but this is unconfirmed). Revenue FY25/FY26 null - no audited accounts or official filings were accessible."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Synokem Pharma",
+ "legal_name": "SYNOKEM PHARMACEUTICALS LIMITED (as claimed in input; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) returned 'Connection refused' for all queries, and every registry aggregator attempted returned HTTP 403/404 or an error page: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (404), tofler.in (404 - no such company slug), falconebiz.com (403), mca.gov.in MDS (403), google.com search (429), bing.com (returned unrelated spam results). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT verified, not 'not existing'. No rejection is applied: absence of retrievable data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' because manufacturer/trader status cannot be established from registry data alone. Note on the input: the declared HS code 300490 (medicaments, retail packing) is consistent with a pharmaceutical company name, but HS is not a rejection criterion per project rules and was not used for any verdict. The claimed industry label 'Нефтегаз и химия' (oil & gas and chemicals) does not match a pharma manufacturer profile and should be corrected to pharmaceuticals/chemicals. Recommended next step: re-run verification when the search backend is restored, or query the MCA master-data portal directly by company name to obtain CIN, then derive PAN holder type from the 4th character and pull GSTIN from a public GST profile."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "FIXDERMA INDIA PRIVATE LIMITED",
+ "declared_hs": "330499;340130",
+ "actual_hs_list": [
+  "330499",
+  "340130",
+  "330410",
+  "330420",
+  "330510",
+  "330590",
+  "330720",
+  "330790"
+ ],
+ "match_status": "partial",
+ "product_summary": "D2C/branded dermatologist-oriented skincare range per fixderma.com (accessed via http_get): face serums (incl. Vitamin C), face wash, sunscreens (face & body), body lotion, foot cream, acne care, hair care, lip balm, plus treatment creams such as 'Nigrifix Cream' (retinol + lactic acid + urea + tea tree oil, positioned against acanthosis nigricans/pigmentation). Site navigation lists categories: Face Serum, Facewash, Sunscreen, Body Lotion, Foot Cream, Acne Care, Hair Care, Lip Balm, Vitamin C. Mapping: creams/lotions/serums/sunscreen/face wash/foot cream -> 3304.99 (beauty/skin-care preparations, not medicaments); lip balm -> 3304.10; hair care (shampoo/serum) -> 3305.10 / 3305.90; deodorant/antiperspirant-type body products, if present -> 3307.20; other cosmetic preps -> 3307.90. 3401.30 (organic surface-active cleansing/washing preparations) is plausible only for the face wash/cleansers line, and only if formulated as surface-active wash products rather than cosmetic skin-care preps - the site does not publish formulations, so this cannot be confirmed.",
+ "role_hint": "manufacturer_trader (brand owner with own formulation/label; contract or in-house manufacturing not verifiable from public site; no trader-only signs such as third-party brand resale observed)",
+ "comment": "HS 3304.99 is corroborated by the product catalogue (creams, lotions, serums, sunscreens, face wash) and is the correct primary code. 3401.30 is only partially supported: it fits the cleanser/face-wash line if those are surface-active washing preparations, but the site does not disclose composition, so it is 'заявлено, не подтверждено' as a separate line. Industry classification 'Продукты питания и FMCG' is a misclassification at the segment level: the company is cosmetics/personal-care (FMCG-adjacent), not food - no food, beverage or edible product appears anywhere in the catalogue. Product lines missing from the declaration: lip balm (3304.10), hair care (3305.10/3305.90), and any deodorant/other cosmetic preps (3307.20/3307.90). Note the quasi-medical positioning of items like Nigrifix Cream (claims to 'treat' acanthosis nigricans) - if any SKU is registered/claims as a drug/medicament, it would fall under 3004 rather than 3304; this cannot be verified from public pages, so it is flagged as 'заявлено, не подтверждено'. No customs line, shipping bill or B-L record was examined in this HS-only review, therefore no product-to-shipment corroboration exists and all product claims remain 'заявлено, не подтверждено'. Per project rule 3, the partial HS match is NOT grounds for rejection: company is retained with codes corrected/expanded. Sources: https://fixderma.com/ and https://www.fixderma.com/collections/all (site navigation and product copy). No registry, revenue or customs-volume data researched by design."
+}
