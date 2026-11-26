@@ -1,0 +1,8 @@
+{
+ "name_input": "AGRIGOLD INCORPORATION INDIA",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'agrigold-incorporation-india' rendered only the template shell: \"Shipments available for AGRIGOLD INCORPORATION INDIA, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were displayed. Source counter: 2 ImportKey pages fetched (slugs 'agrigold-incorporation-india' and 'agrigold-incorporation'), rows actually seen: 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. No public record located and quoted; domestic supply evidence is null, not zero.",
+ "note": "No shipment evidence found either way. importkey.com returned only an empty page template for both slug variants (0 data rows); volza.com, eximpedia.app and trademo.com returned HTTP 403 and importgenius.com returned a JavaScript challenge, so their free views could not be read. web_search was unavailable throughout (searx connection refused), so no additional pages could be located. Declared HS codes 140420 (cotton linters / vegetable saps & extracts heading family) and 170114 (cane sugar, other) were NOT verified against any customs record — no HS correction is proposed because no actual shipment line was seen. Export status and domestic status are therefore 'unknown', not 'none_found': absence of evidence here is a tooling limitation, not proof of absence of supplies. No revenue or export-volume figures are stated because none are public in the sources reachable; both left null rather than estimated. No CIN/PAN found. Recommend re-run with working search access or a paid trade-data seat before any verdict."
+}

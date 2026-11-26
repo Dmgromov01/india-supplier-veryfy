@@ -1,0 +1,18 @@
+{
+ "name_input": "Chemtrade International Corporation",
+ "declared_hs": "282732",
+ "actual_hs_list": [
+  "340211 (LABSA 96% / LABSA 90% — linear alkyl benzene sulphonic acid, anionic surfactant)",
+  "381400 / 340290 (detergent/surfactant blends, cleaning preparations — if formulated)",
+  "283311 (sodium sulfate anhydrous, disodium sulphate)",
+  "281122 (silica — silicon dioxide)",
+  "283620 (soda ash — disodium carbonate)",
+  "281511 (caustic soda flake — sodium hydroxide, solid)",
+  "340213 / 340249 (SLES 70% — sodium lauryl ether sulfate, non-ionic/anionic surfactant)",
+  "290290 / 381700 (linear alkyl benzene — LAB, alkylbenzene intermediate)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Website chemtradeinternational.com (found via direct fetch; search engines returned no usable results for the exact legal name) lists: LABSA 96%, LABSA 90%, Linear Alkyl Benzene (LAB), Sodium Sulfate Anhydrous, Silica, Soda Ash, Caustic Soda Flake, SLES 70%. All are detergent/surfactant raw materials and commodity alkalis/salts. Declared HS 282732 is aluminium chloride (AlCl3) — an inorganic aluminium halide used as a Friedel-Crafts catalyst / water-treatment coagulant. Aluminium chloride does NOT appear anywhere in the published product range. The declared code is therefore not corroborated by the company's own catalogue.",
+ "role_hint": "trader — site self-describes as 'chemical trading industry', 'chemical indenting activity', 'bridge the gap between global suppliers and industries', 'sourced from leading manufacturers'; no manufacturing plant, no production capacity or factory address published. Founded 2017 by Mr. Tapas Guha (B.E. Mechanical, PGDBM), contact guha.tapas@chemtradeinternational.com, +91-9503247579.",
+ "comment": "HS mismatch — company retained per Rule 3, code to be corrected to the actual product line (surfactants/detergent raw materials, HS 3402 / 2833 / 2811 / 2836 / 2811 / 2902), verdict accepted_hs_corrected. IMPORTANT IDENTITY CAVEAT: the only website found is 'Chemtrade International' (proprietorship-style trading name, founded 2017), NOT 'CHEMTRADE INTERNATIONAL CORPORATION' as claimed. No page was found confirming a legal entity under the exact claimed name; the mapping above is therefore an assumption based on name similarity and must be re-verified against the actual supplier's own catalogue/website before the HS correction is applied. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: the published range is household/industrial detergent and surfactant chemistry, with no oilfield or petrochemical-catalyst products. Trader signs: 'indenting', 'trading', 'sourced from leading manufacturers', no plant. Product lines missing from the declaration: LABSA 90/96%, LAB, SLES 70%, sodium sulfate, soda ash, caustic soda flake, silica — i.e. essentially the entire catalogue. All product claims are 'заявлено, не подтверждено' — no customs line, invoice or shipment record was checked or found in this pass (out of scope per role). No revenue, export volume, PAN, CIN or GST data researched or asserted; all such fields null."
+}

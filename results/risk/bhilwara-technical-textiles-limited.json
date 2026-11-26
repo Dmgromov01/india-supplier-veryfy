@@ -1,0 +1,9 @@
+{
+ "name_input": "BHILWARA TECHNICAL TEXTILES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of research date. Tooling was largely unavailable: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; Wikipedia returned HTTP 429; ZaubaCorp returned HTTP 403; Screener.in lookup by BSE code 509953 resolved to a DIFFERENT company (Trade-Wings Ltd), so that page was discarded as non-matching and NOT used as evidence; Bing returned irrelevant results (plumbing services) indicating the query was not honoured; CRISIL ratings-list search returned 404; BSE pages returned only a JS shell with no readable content. Consequently NO verifiable public record was obtained for this company on any of the five risk dimensions. sanctions_hit = null (no OFAC SDN / UN / EU / UK / BIS Entity List listing found, but absence of evidence here is due to failed retrieval, not a confirmed clean screen — must be re-run). court_cases = null (no NCLT/NCLAT/HC/SC party records retrieved; role and status unknown). rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action retrieved; date and status unknown). news_risk = null (no regulator action or negative news retrieved). rf_supply = null (no evidence of supplies to Russia or CIS found; also no evidence of absence — unverified). Per project rules, none of these gaps is a rejection ground and no negative inference is drawn; the company is retained. Note also that the declared industry ('Продукты питания и FMCG') is inconsistent with the company name and declared HS 5205/5206 (cotton yarn/woven fabric) — flagged for the HS/identity researcher, not a risk finding and not a rejection ground. Recommend re-running this risk screen when search access is restored, specifically: OFAC SDN + BIS Entity List name search, NCLT/NCLAT and eCourts party search, and rating-agency action pages."
+}

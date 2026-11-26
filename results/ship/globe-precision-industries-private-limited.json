@@ -1,0 +1,8 @@
+{
+ "name_input": "Globe Precision Industries Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. importkey.com/countries/india/globe-precision-industries-private-limited and .../globe-precision-industries-pvt-ltd both returned only the paywalled template shell — exact line seen: \"Shipments available for GLOBE PRECISION INDUSTRIES PRIVATE LIMITED, refreshed daily\" — with 0 actual shipment rows rendered (no date, destination, HS code or B/L number). volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. Source counter: 5 sources attempted, 0 rows seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. web_search (DuckDuckGo/searx) failed twice with 'Connection refused', so no domestic-supply page could be located or read. Source counter: 0 domestic sources read, 0 rows seen.",
+ "note": "Shipment evidence could not be established either way — this is a tooling/access failure, not a finding of absence. Do NOT read 'unknown' as 'no shipments': no customs, B/L, GST or tender record was actually inspected. Declared HS 846693 (parts/accessories for machine tools of HS 8466) is unverified against any shipment line and was not corrected, since no actual code was observed. Revenue and export volume: null (not public in any source reached). Recommended re-check with a working search backend or a paid Volza/Eximpedia view before any verdict; per Rule 5 no 'accepted' or 'conditionally accepted' status can be justified on the current evidence."
+}

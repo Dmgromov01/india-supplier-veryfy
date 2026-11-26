@@ -1,0 +1,18 @@
+{
+ "name_input": "AGRIGOLD INCORPORATION INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: no public record was retrieved for this entity. Tooling failure, not a negative finding — the primary search backend (DuckDuckGo/searx) was unreachable ('Connection refused') for all queries, and fallback fetches failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, mca.gov.in returned HTTP 403, instafinancials returned 404, quickcompany.in timed out, Google returned HTTP 429, and Bing returned unrelated/garbage results (NFL pages, math worksheets) for every query, so no usable SERP was obtained. Consequently the exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — none of these are public to me in this session and none were invented. Note on the input: the claimed name 'AGRIGOLD INCORPORATION INDIA' is not a complete Indian legal name form (no 'Private Limited'/'Limited'/'LLP' suffix), so the exact registered entity is unconfirmed; it may be a proprietorship/partnership trading name with no CIN at all, which would explain the absence of a registry hit. Declared HS codes 140420 (cotton linters / vegetable plaiting materials) and 170114 (cane jaggery) are inconsistent with the claimed 'food & FMCG' industry label only in part — per project rules this is NOT a rejection ground and no HS verdict is issued here. Role left as 'unknown' rather than guessed as manufacturer or trader. Per the rules, rejection is permitted only for non-existence/struck-off/liquidation/bankruptcy, and non-existence was NOT established — so this company is retained in the database pending a re-run of registry verification (recommended sources: MCA master data, GST portal 'Search Taxpayer', Udyam/Udyog Aadhaar register for a possible non-company entity). No revenue figures were estimated."
+}

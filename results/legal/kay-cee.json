@@ -1,0 +1,18 @@
+{
+ "name_input": "Kay Cee",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал connection refused / timeout, Google — HTTP 429, Bing — нерелевантная выдача (кэш Gmail), Yahoo — HTTP 500. Прямые запросы к реестровым агрегаторам заблокированы: zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, instafinancials.com 404. Официальный портал MCA (mca.gov.in) и GST-портал требуют капчу/сессию и недоступны для автоматического чтения. В результате НЕ подтверждены: точное юрлицо 'KAY CEE GENERATORS PRIVATE LIMITED' (заявлено в input, но не подтверждено ни одним публичным источником), CIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, статус MCA. Выручка FY25/FY26 — null (аудиторская отчётность не найдена). Роль — unknown: род деятельности (производство генераторов vs торговля) по реестровым данным не установлена. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что тоже не подтверждено). Требуется повторная проверка при восстановлении доступа к поиску и реестрам (MCA Master Data, Zauba/Tofler, GST-профиль)."
+}
