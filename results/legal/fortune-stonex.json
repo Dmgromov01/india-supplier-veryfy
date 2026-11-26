@@ -1,0 +1,18 @@
+{
+ "name_input": "FORTUNE STONEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один публичный источник не подтвердил существование компании с названием 'FORTUNE STONEX'. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout); Bing по запросам '\"FORTUNE STONEX\" GSTIN India', '\"Fortune Stonex\" granite OR marble OR stone India company' и с ограничением по site:zaubacorp.com / tofler.in / indiamart.com выдал только нерелевантные результаты про журнал Fortune — ни одного совпадения по названию. Прямые запросы к реестрам и агрегаторам заблокированы: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, thecompanycheck.com — только лендинг без результатов поиска, google.com — HTTP 429. Следовательно CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — везде null, данные не выдумывались. Роль (manufacturer/trader) определить нельзя: нет ни одного подтверждённого профиля. ВАЖНО: отклонять НЕ следует — отсутствие следов в открытых источниках при недоступности реестров не является доказательством того, что юрлица не существует (правило 3: rejected только при подтверждённой несуществующей/ликвидированной/обанкроченной организации). Вероятно, это мелкий проприетарный бизнес или торговое наименование без отдельной регистрации компании (тогда CIN отсутствует по определению, а PAN/GSTIN — на имя физлица-владельца). Требуется повторная проверка при работающем поиске и доступе к MCA/GST-порталу, а также уточнение у поставщика: полное юрлицо, PAN, GSTIN, штат. HS 680223 (обработанный камень/плиты) не проверялся — по правилу 3 несоответствие HS не является основанием для отклонения."
+}

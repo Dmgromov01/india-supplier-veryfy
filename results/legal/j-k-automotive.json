@@ -1,0 +1,18 @@
+{
+ "name_input": "J K AUTOMOTIVE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам \"J K AUTOMOTIVE\" GSTIN и по имени \"JAGMEETSINGH PRABHAJOTSINGH CHANDHOK\" выдал нерелевантную выдачу (страницы про букву J), т.е. совпадений не найдено; zaubacorp.com и instafinancials.com вернули HTTP 403, tofler.in — 404 на странице поиска, Google — HTTP 429. Входные данные противоречивы: в поле legal_claimed указано имя физлица (JAGMEETSINGH PRABHAJOTSINGH CHANDHOK), а не название юрлица, что типично для ИП/единоличного проприетарного бизнеса (sole proprietorship) — у таких субъектов нет CIN и нет обязательной отчётности в MCA, поэтому выручка FY25/FY26 из аудированной отчётности публично недоступна (null). PAN, GSTIN, дата регистрации, штат и MCA-статус не подтверждены ни одной записью — оставлены null, не выдуманы. Штат в заявке не указан (state_claimed пусто). Роль не определена (unknown): ни производство, ни трейдерство не подтверждены реестром. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица; по правилам проекта отклонять можно только при подтверждённой несуществующей/ликвидированной/обанкротившейся организации, а такой записи не найдено. Требуется повторная проверка при доступных реестрах (MCA master data, GST-портал по PAN/GSTIN) или запрос у поставщика его GSTIN и PAN для однозначной идентификации."
+}

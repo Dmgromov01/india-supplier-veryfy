@@ -1,0 +1,8 @@
+{
+ "name_input": "SHAHAJI KESHAV CHAVAN",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'shahaji-keshav-chavan' (and variant 'shahaji-keshav-chavan-') renders only the boilerplate line 'Shipments available for SHAHAJI KESHAV CHAVAN, refreshed daily' with no shipment rows, dates, destinations, HS codes or B/L numbers visible; source counter = 2 URL variants tried, rows actually seen = 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. DuckDuckGo search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both queries, so no domestic-supply record could be retrieved; volza, eximpedia and trademo free views returned HTTP 403.",
+ "note": "Entity appears to be an individual/proprietorship name (personal name, no company suffix), so no CIN/PAN and no corporate filings are expected to be public; PAN and state left null. Declared HS set (271019;820900;841370;842119) is internally inconsistent — petroleum oils, machine-tool inserts, centrifugal pumps and centrifuges — which is typical of a trader/consolidator rather than a single-line manufacturer, but this is an inference, not evidence. No export or domestic shipment record was retrievable: следов поставок не найдено в доступных источниках (не подтверждено ни экспорта, ни внутренних поставок). Status left as 'unknown' rather than 'none_found' because the paywalled sources could not be read at all, not because records were checked and absent. No revenue or export-volume figures are public — null, not estimated."
+}

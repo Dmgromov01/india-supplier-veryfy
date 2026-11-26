@@ -1,0 +1,9 @@
+{
+ "name_input": "APP SYSTEMS(INDIA) PVT LTD; APP SYSTEMS (INDIA) PRIVATE LIMITED; M/S APP SYSTEMS (INDIA) PVT.LTD; APP SYSTEMS(INDIA) PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "РИСК-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных, все поля null. Технические обстоятельства: (1) web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) реестры компаний (zaubacorp.com, thecompanycheck.com) отдают HTTP 403; (3) Bing выдавал нерелевантную выдачу (только магазины приложений) — поиск по названию фактически не сработал; (4) Google — HTTP 429. Что реально проверено: OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) открыт, но это JS-форма без возможности передать запрос через http_get — совпадение по имени НЕ проверено, поэтому sanctions_hit=null, а не false. Indian Kanoon: запрос \"APP Systems (India)\" — 4 результата, все нерелевантные (Uber India Systems, Himgiri Automobiles, PNGRB regulations); запрос \"APP Systems India Pvt\" — 0 результатов. Это НЕ доказывает отсутствие судов: Indian Kanoon не индексирует NCLT/суды штатов полностью, а написание названия в исках может отличаться. Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings), регуляторные действия, негативные новости, поставки в РФ/СНГ — не проверены, источников нет. ВАЖНО: название крайне неспецифично ('APP Systems'), в Индии возможны несколько юрлиц с похожими именами — без CIN/PAN идентификация неоднозначна, и любые найденные суды/санкции нельзя привязать к нужному поставщику. Рекомендация: повторить проверку при работающем поиске и с CIN/PAN от поставщика; до этого риск-профиль считать непроверенным (не 'чистым'). По правилу 2 отсутствие данных не является основанием для отклонения."
+}
