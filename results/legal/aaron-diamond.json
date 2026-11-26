@@ -1,0 +1,18 @@
+{
+ "name_input": "AARON DIAMOND",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout); агрегаторы реестров (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдают HTTP 403 при прямом запросе; Bing по запросам «AARON DIAMOND» + CIN/GST/zaubacorp выдал только нерелевантные результаты (Aaron's rent-to-own, Aaron Rodgers и т.п.) — ни одного индийского юрлица с таким названием в выдаче не найдено. Поэтому точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 — null (не публично доступны в рамках доступных инструментов, не выдумывались). Роль — unknown. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие подтверждения не равно отсутствию юрлица (правило 3: rejected только при несуществующем/ликвидированном/банкротном юрлице). Также зафиксировано расхождение входных данных: заявленный HS 710491 (природные/синтетические камни, необработанные или просто распиленные — глава 71) не соответствует заявленной отрасли «Продукты питания и FMCG»; по правилу 3 это НЕ основание для отклонения — компания сохраняется в базе, фактический код должен быть исправлен по данным поставщика (вердикт accepted_hs_corrected при подтверждении). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или запрос CIN/GSTIN у поставщика."
+}

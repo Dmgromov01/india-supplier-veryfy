@@ -1,0 +1,14 @@
+{
+ "name_input": "Darwin Motion",
+ "declared_hs": "850440",
+ "actual_hs_list": [
+  "850440",
+  "850431",
+  "853710",
+  "903289"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт darwinmotion.com (sitemap + about.php + active-front-end-vfd.php): производитель/поставщик приводов частотного регулирования (VFD) и серводрайвов под брендом MATRIX: Micro Drive Matrix-900, DR Matrix 350 (в т.ч. Solar Drive), Matrix 500 / 500-HF (high frequency), Matrix 680, Matrix 880 (regenerative / active front end), Active Front End VFD, Bi-directional Power Supply VFD, Servo Drive, Profinet/EtherCAT communication drives, Active Harmonic Filter, Static Var Generator. Заявлены сертификаты CE/EMC, RoHS, ISO 9001 (PDF на сайте). Офис: Office No-212, Xion Pacific, Hinjewadi, Pune, Maharashtra 411057; производственная площадка: Gat no 309, Nighoje, Chakan, Pune 410501; второе юр. присутствие — Narre Warren VIC 3805, Австралия.",
+ "role_hint": "manufacturer_trader — сайт позиционирует компанию как «manufacturer of VFD and Servo Drive solutions in India and Australia» с адресом завода в Chakan (Pune), но одновременно заявляет штаб-квартиру в Австралии и ищет channel partners/дистрибьюторов в РФ, ЕС, Ближнем Востоке; фактическое производство vs. OEM/перепродажа по открытым страницам не разделимо.",
+ "comment": "HS 850440 (статические преобразователи) — ядро номенклатуры, соответствует: VFD, active front end, bi-directional power supply, servo drive, high-frequency drive. Статус: partial, т.к. декларация покрывает только главную товарную линию. Не отражены в заявленном коде: (1) Active Harmonic Filter и Static Var Generator — фильтры/компенсаторы реактивной мощности, обычно 8532 (853210/853229) либо 853710/903289 в зависимости от исполнения — требуют уточнения по datasheet; (2) Profinet/EtherCAT communication drives — при поставке как отдельные модули управления возможен 853710; (3) Solar Drive Matrix 350 — если поставляется как часть солнечной системы, возможна отдельная классификация. Отрасль «Энергетика» указана узко: фактически это промышленная автоматизация / электроприводы (drives & automation), а не энергетика. Признаки трейдера: австралийский адрес как «headquarters», поиск канальных партнёров, отсутствие на сайте данных о собственных производственных мощностях, мощностях и объёмах. Все товарные позиции и сертификаты — заявлено, не подтверждено: таможенных деклараций/экспортных записей с кодами и датами в открытых источниках не найдено (проверка объёмов и таможни вне рамок данной задачи). HS-код не является основанием для отклонения — компания сохраняется, код 850440 оставляем как базовый с расширением номенклатуры."
+}

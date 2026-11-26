@@ -1,0 +1,18 @@
+{
+ "name_input": "OSAKA RUBBER PVT.LTD",
+ "legal_name": "OSAKA RUBBER PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The DuckDuckGo search backend returned connection errors ('Connection refused') for all queries, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403 Forbidden. Bing/Google HTML endpoints returned only generic, non-company results (tourism pages about Osaka, Japan), so no CIN, PAN, GSTIN, incorporation date, MCA status or financials could be sourced. No PAN was claimed in the input, so no PAN 4th-character holder-type analysis was possible. State was not claimed in the input, so no registered-office vs claimed-state comparison was possible. Role cannot be determined from registry data alone; left as 'unknown'. Revenue FY25/FY26 left null because no audited accounts or official filings were accessible - not estimated. Per project rules, the entity is NOT rejected: absence of retrievable public records in this session is not evidence of non-existence, strike-off, liquidation or bankruptcy. Recommended follow-up: re-run against MCA master data / GST public search when the search backend is restored, and confirm whether the entity is 'Osaka Rubber Private Limited' or a differently spelled variant (e.g. Osaka Rubbers Pvt Ltd)."
+}

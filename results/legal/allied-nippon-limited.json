@@ -1,0 +1,18 @@
+{
+ "name_input": "ALLIED NIPPON LIMITED",
+ "legal_name": "ALLIED NIPPON LIMITED (as claimed; unverified — see note)",
+ "cin_llpin": null,
+ "pan": "AAACA0494M",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN; consistent with a corporate entity, but the PAN itself could not be verified against an official record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be confirmed from a public source in this session. Tooling failures: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML and Google returned 403/redirect walls; Bing returned only generic 'Allied' results (Allied Universal, Allied Benefit, etc.) with no Indian registry hit; zaubacorp.com, thecompanycheck.com, instafinancials.com and quickcompany.in all returned 403/404; gstsearch.in returned 404. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they were not retrievable. The claimed PAN AAACA0494M is structurally valid (5 letters + 4 digits + 1 letter) and its 4th character 'C' denotes a company holder, which is consistent with the claimed legal form, but this is a format check only, not verification. IMPORTANT DISCREPANCY: the input name is 'ALLIED NIPPON LIMITED' while legal_claimed is 'ALLIED NIPPON PRIVATE LIMITED' — the public/legal form (Limited vs Private Limited) must be resolved from MCA before use; do not assume either. No revenue figures are given because no audited accounts or official filings were accessible — per project rules these are left null rather than estimated. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified, pending registry check'. Recommended next step: re-run against MCA master data / GST portal when search access is restored, and confirm the exact legal name suffix and CIN state code (DL vs other) against the claimed Delhi registration."
+}
