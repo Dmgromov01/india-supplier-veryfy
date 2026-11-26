@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S MOON OVERSEAS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No verifiable public record found. Search tooling failed during this check: web_search returned a connection error (searx: Connection refused) on both queries, and the fallback search engine (Bing via http_get) returned identical generic 'Moon' astronomy results for every query variant, ignoring quoted phrases such as \"M/S MOON OVERSEAS\" and \"Mohammad Ishtiyaq Ahmad\" - i.e. no genuine match was ever retrieved. Zauba Corp company search returned HTTP 403 (blocked). Consequently nothing can be asserted on sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating or supplies to Russia/CIS: all fields are null because they are NOT PUBLICLY VERIFIED, not because they were checked and found clean. The name pattern 'M/S ...' plus a personal name in the legal_claimed field suggests a sole proprietorship, which typically has no CIN, no credit rating and no published financials - so absence of records is expected and is not evidence of absence of risk. No sanctions, court, criminal or negative-news findings were identified, and per project rules none of these would be rejection grounds in any case. Recommended next step: re-run the sanctions/court/news checks manually once search access is restored, and obtain the firm's GSTIN/PAN and IEC directly from the supplier to anchor any further lookup. Do not treat this record as cleared."
+}

@@ -1,0 +1,22 @@
+{
+ "name_input": "MEHTA API PVT LIMITED",
+ "declared_hs": "293399;382290",
+ "actual_hs_list": [
+  "293399",
+  "293359",
+  "293349",
+  "293499",
+  "294150",
+  "294190",
+  "292429",
+  "292219",
+  "293379",
+  "293339",
+  "293499",
+  "382290"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт mehtaapi.com (раздел «API Products List», https://www.mehtaapi.com/api-products/) перечисляет реальный ассортимент: Agomelatine, Anagrelide, Apixaban, Apremilast Form B, Aprepitant, Azelnidipine, Azithromycin Dihydrate, Bazedoxifene Acetate, Bisoprolol Fumarate, Cariprazine HCl, Chloramphenicol HCl / Palmitate, Cinacalcet HCl, Dapagliflozin Propanediol Monohydrate, Droperidol, Erythromycin (Base, Stearate, Ethyl Succinate, Estolate), Esmolol HCl, Fluvoxamine Maleate, Landiolol HCl, Linagliptin Form A+B, Mirabegron Form Alpha, Prochlorperazine Maleate / Mesylate, Rivaroxaban, Sitagliptin Phosphate Monohydrate, Sitagliptin HCl, Treprostinil Monohydrate, Tofacitinib Citrate, плюс отдельный список «Intermediates» и pipeline. Это готовые API (фармсубстанции) и продвинутые интермедиаты, а не нефтегаз/базовая химия.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленные коды 293399 и 382290 покрывают лишь часть ассортимента. 293399 (гетероциклические соединения прочие) корректно ложится на гетероциклические API: Agomelatine, Anagrelide, Apixaban, Apremilast, Aprepitant, Azelnidipine, Cariprazine, Cinacalcet, Dapagliflozin, Linagliptin, Mirabegron, Rivaroxaban, Sitagliptin, Tofacitinib, Prochlorperazine, Droperidol — exact/partial. 382290 (прочие химические продукты/реагенты) — сомнительный «остаточный» код, для готовых API не подходит; допустим только для части интермедиатов/смесей — partial. Не отражены в декларации целые товарные линии: макролиды-антибиотики Azithromycin Dihydrate и Erythromycin (Base/Stearate/Ethyl Succinate/Estolate) — это 294150 (эритромицин и производные) и 294190 (прочие антибиотики); Chloramphenicol HCl/Palmitate — 294140/294190 (антибиотик амфениколового ряда); бета-блокаторы Bisoprolol Fumarate и Esmolol HCl, а также Landiolol HCl — 292219/292429 (аминоспирты/амиды); Fluvoxamine Maleate — 292219; Treprostinil Monohydrate — 293750/293399 (простагландин). Итог: match_status = partial, декларация неполная, требуется расширение кодов (294150, 294190, 292219, 292429, 293750) и пересмотр 382290. Отраслевая классификация «Нефтегаз и химия» — миссклассификация: компания фармацевтический производитель API/интермедиатов (DSIR-одобренный R&D, заявлены EDQM/WHO-GMP/EU-GMP, DMF/CEP), ближе к «Фармацевтика / API». Признаков трейдера нет: сайт описывает собственное производство на 6.5 акрах, R&D-центр, multistep/chiral/high-potent синтез — роль manufacturer. Все перечисленные продукты — заявлено на сайте, не подтверждено таможенными записями (в рамках этой задачи таможенные линии не проверялись): статус «заявлено, не подтверждено». Юрлицо в реестрах, выручка и объёмы экспорта не проверялись — null."
+}
