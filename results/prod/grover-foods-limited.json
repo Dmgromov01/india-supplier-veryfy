@@ -1,0 +1,14 @@
+{
+ "name_input": "Grover foods Limited",
+ "declared_hs": "071010;200410",
+ "actual_hs_list": [
+  "200520 (potato flakes / dehydrated potato preparations - primary product)",
+  "110510/110520 (potato flour / flakes-powder, if sold as flour - not confirmed)",
+  "071010 (potatoes, fresh or chilled - only as raw input, not a sold product)",
+  "200410 (potatoes prepared/preserved, frozen - not evidenced on site)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website groverfoods.com (accessed via http_get) presents the company exclusively as a POTATO FLAKES manufacturer/supplier/exporter: 'Potato Flakes Manufacturer & Exporter in India', 'Delivering Premium Potato Flakes to Global Food Brands & Businesses Since 1996', dehydrated potato flakes produced on Tummers (Netherlands) dehydration equipment, with 'Flakes Types' and 'Packaging Options' sub-pages. Plant address: 37/38-39, Vill. Naugawan, Faridpur, Bareilly - 243503, UP. No other product lines (no frozen foods, no ready-to-eat, no fruit/vegetable preserves) are listed anywhere on the site.",
+ "role_hint": "manufacturer (own dehydration plant in Bareilly, UP; claims 25+ years in potato flakes, since 1996). No trader signs found - single-product industrial processor, not a multi-line trading house.",
+ "comment": "HS mapping: the declared code 200410 (frozen prepared potatoes) does NOT match the actual product. Dehydrated potato flakes in commercial trade are classified under 2005.20 (potatoes prepared or preserved, not frozen - flour/meal/flakes of potatoes). Declared 200410 is therefore WRONG for the core line; correct code is 200520. Declared 071010 (fresh/chilled potatoes) is only plausible as a raw-material import/agri line - the site describes potato sourcing from Indian farms, not sale of fresh potatoes, so 071010 is 'заявлено, не подтверждено' as a sale line. Conversely, the declaration omits the company's actual main export line (200520 potato flakes) - a product line missing from the declaration. Industry claim 'Продукты питания и FMCG' is broadly correct but imprecise: this is a B2B industrial ingredient/dehydrated-food processor, not an FMCG brand owner. Per Rule 3 the HS mismatch is NOT a rejection ground: company is kept, code corrected to 200520 (primary) with 071010 retained only as unconfirmed raw-material line. All product claims here are 'заявлено, не подтверждено' - no customs line was available to me in this task (registry/customs volume research out of scope), so actual shipment factuality is not verified by this check. Note: site is a single-page app - /product and /about routes returned identical homepage content, so the 'Flakes Types' detail pages could not be read; no additional SKUs could be confirmed or excluded beyond potato flakes."
+}

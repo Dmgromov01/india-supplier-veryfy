@@ -1,0 +1,8 @@
+{
+ "name_input": "NIKRO",
+ "export_status": "unknown",
+ "export_evidence": "No export record found. ImportKey pages for slugs 'nikro' and 'nikro-nikhil-bhoj' both returned only the empty template shell — exact line seen: 'Shipments available for NIKRO, refreshed daily' with zero shipment rows rendered (source counter: 0 rows actually seen on both pages). Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page; no bill-of-lading number, date, destination or HS code could be retrieved.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence found. No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Search backends unavailable: DuckDuckGo/searx returned 'Connection refused'; Google returned HTTP 429; Bing query \"NIKRO\" \"NIKHIL BHOJ\" export returned only unrelated oceanographic pages (0 relevant rows).",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку; это результат отсутствия доступа к данным, а не доказательство отсутствия отгрузок, поэтому статус 'unknown', а не 'none_found'. Название 'NIKRO' с указанным лицом 'NIKHIL BHOJ' не подтверждено ни одним публичным источником; возможно, это торговое обозначение, а не зарегистрированное юрлицо — CIN/PAN не найдены, оставлены null. Заявленный HS 630419 (текстильные изделия, бельё/постельное) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилу 3 это НЕ основание для отклонения, компания сохраняется в базе, фактический код требует уточнения у поставщика. Выручка и объём экспорта: null (не публичны, не выдумывались). Рекомендуется повторная проверка при восстановлении доступа к таможенным базам и поисковым движкам."
+}

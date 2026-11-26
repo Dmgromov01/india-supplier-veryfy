@@ -1,0 +1,18 @@
+{
+ "name_input": "NIKRO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по имеющимся данным. Входные данные противоречивы: 'NIKRO' как название и 'NIKHIL BHOJ' как юрлицо — это, судя по формату, имя физлица (вероятно, ИП/проприетор или название магазина), а не зарегистрированная компания; PAN и штат в заявке не указаны. Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google — HTTP 429, Bing по запросам 'NIKRO' + GSTIN/CIN и 'Nikhil Bhoj' + proprietor/director выдавал нерелевантную выдачу (Old Navy, LinkedIn, Aruba) без единого индийского реестрового совпадения; zaubacorp.com — 403, tofler.in — 404, instafinancials — 404, mca.gov.in — 403. Никаких CIN/PAN/GSTIN/даты инкорпорации/выручки подтвердить не удалось, поэтому все поля null — цифры не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие данных не равно отсутствию юрлица. Требуется уточнение от заказчика: точное юрлицо (например, 'NIKRO Exports', 'Nikro Textiles Pvt Ltd'), PAN или GSTIN, штат регистрации. Отдельно: заявленный HS 630419 (текстильные изделия, постельное бельё) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический после идентификации компании. Роль: unknown (признаков производства или торговли не установлено)."
+}
