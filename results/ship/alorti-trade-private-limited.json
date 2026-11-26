@@ -1,0 +1,8 @@
+{
+ "name_input": "ALORTI TRADE PRIVATE LIMITED",
+ "export_status": "confirmed",
+ "export_evidence": "ImportKey India customs records page (slug alorti-trade-private-limited): \"Total Shipments 8 Records detected ... Latest Cargo 2025-08-13\"; row: \"2025-08-13 | ALORTI TRADE PRIVATE LIMITED | AVTOTEKHNIKA LLC | AGRICULTURAL,PARTS- ROTARY TILLER BETASERIES BRT 226 | KILARAIPUR ICD, India | NOVOROSSIYSK, Russia | 84328020 | 6379440\". 5 of 8 rows visible on the free page (all dated 2025-08-13, destination Novorossiysk, Russia, HS 84328020, B/L 6379440); ports table: KILARAIPUR ICD, INDIA 5 / NOVOROSSIYSK, RUSSIA 5. Source counter: page states 8 shipments, 1 trading partner, 2 ports; rows actually seen = 5.",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Real export shipments confirmed by dated customs/B-L records: 5 visible rows, all 2025-08-13, India (Kilaraipur ICD) -> Novorossiysk, Russia, buyer AVTOTEKHNIKA LLC, HS 84328020 (agricultural rotary tillers), B/L 6379440. Declared HS 843210 differs from the actual recorded code 84328020 — per project rules this is not a rejection ground; actual HS should be corrected to 84328020 (agricultural machinery/parts, not food/FMCG as claimed in industry field). Role: trader/exporter (buys tillers domestically, ships to Russia) — traders are not rejected. Domestic supply evidence: no GST turnover band, GeM/CPPP tender or contract data could be retrieved — web_search backend returned connection refused (searx) and zaubacorp returned HTTP 403, so domestic_status = unknown, not 'none_found'. Revenue and export volume: not public on free views — null. No CIN/PAN found in accessible sources — null."
+}

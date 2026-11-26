@@ -1,0 +1,18 @@
+{
+ "name_input": "Magnaplast",
+ "legal_name": "MAGNAPLAST TECHNOLOGIES (INDIA) PRIVATE LIMITED (as claimed in input; existence NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: web_search backend returned 'Connection refused' (searx) for both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; tofler.in search returned 404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant results for the exact-name query. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrieved, NOT invented. No evidence either way on whether the entity exists, so no rejection is recorded (rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which we do not have). Role left as 'unknown': the claimed name contains 'TECHNOLOGIES' and the declared HS 850519 (permanent magnets) suggests a possible manufacturer, but this is unverified. Revenue FY25/FY26 null: no audited accounts or MCA filings accessible. Recommended follow-up: re-run with working search, then check MCA master data (mca.gov.in / company master data), GST portal public search for GSTIN, and the company's own site for GSTIN/CIN. Note per project rules: HS 850519 is not a rejection ground; if the actual product code differs, keep the company and correct the code (accepted_hs_corrected)."
+}

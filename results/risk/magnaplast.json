@@ -1,0 +1,9 @@
+{
+ "name_input": "Magnaplast",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / таймауты, Google — HTTP 429, Bing отдавал нерелевантную выдачу (кэш-мусор), ZaubaCorp — HTTP 403. Прямой запрос к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, результат поиска по имени через GET не получен — поэтому sanctions_hit = null (НЕ подтверждённое отсутствие, а отсутствие проверки). Никаких данных по судебным делам (eCourts/NJDG), регуляторным действиям, негативным новостям, кредитному рейтингу (CRISIL/ICRA/CARE/India Ratings) и поставкам в РФ/СНГ получить не удалось. Все поля оставлены null намеренно: выдумывать записи, номера дел или рейтинги запрещено правилами. Заявленное имя 'MAGNAPLAST TECHNOLOGIES (INDIA) PRIVATE LIMITED' публично не верифицировано (юрлицо/HS/CIN — вне моей роли, не проверялось). Рекомендация: повторить риск-проверку при восстановлении доступа к поиску и реестрам (MCA, eCourts, OFAC/EU/UK/BIS consolidated list, Tofler/Zauba)."
+}

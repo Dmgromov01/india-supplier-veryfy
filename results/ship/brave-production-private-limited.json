@@ -1,0 +1,8 @@
+{
+ "name_input": "BRAVE PRODUCTION PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/brave-production-pvt-ltd — page exists for 'BRAVE PRODUCTION PVT LTD' but contains only boilerplate: \"Shipments available for BRAVE PRODUCTION PVT LTD, refreshed daily\" with no dated rows, no destination, no HS code, no B/L number rendered in the free view. Rows actually seen: 0. Slug variant 'brave-production-private-limited' returned HTTP 520.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches returned no results (search backend error: 'Connection refused'); volza.com, eximpedia.app, trademo.com returned HTTP 403 and importgenius.com returned a JavaScript challenge, so no domestic supply record was visible. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что отгрузок не было: все бесплатные источники таможенных данных (importkey free view, volza, eximpedia, trademo, importgenius) оказались недоступны или не показали ни одной записи, а веб-поиск в этой сессии не работал (ошибка соединения с поисковым бэкендом). Поэтому статус по обоим пунктам — unknown, а не none_found. Ни одна запись об отгрузке (дата, направление, HS, номер B/L) не подтверждена; выручка и объём экспорта — null, не выдумывались. Заявленные коды 080299/090830/091099 (сухофрукты/специи) ничем не подтверждены и не опровергнуты. Требуется повторная проверка при доступном платном/полном доступе к India customs data или к реестру GST."
+}

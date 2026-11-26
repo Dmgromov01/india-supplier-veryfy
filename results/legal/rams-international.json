@@ -1,0 +1,18 @@
+{
+ "name_input": "Rams International",
+ "legal_name": "RAMS INTERNATIONAL",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search backend returned connection refused (searx urlopen error), and Bing/Google fallbacks returned only irrelevant NFL 'Los Angeles Rams' results for every query variant tried (quoted name + CIN, + GSTIN, + site:zaubacorp.com/thecompanycheck.com/tofler.in). Direct registry fetches blocked: zaubacorp.com returned HTTP 403 Forbidden; thecompanycheck.com and instafinancials.com search endpoints returned HTTP 404; duckduckgo.com/html timed out. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from any public source. All fields set to null rather than guessed, per rules. IMPORTANT: 'Rams International' is a very common Indian trade name (multiple proprietorships/partnerships and at least one private limited company across states), so the input name alone is ambiguous and cannot be matched to a single legal entity without a CIN, GSTIN or registered address. No rejection applied - absence of a found record is NOT evidence of non-existence, and per rules rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' (declared HS 741820 copper tube/pipe fittings is consistent with a trader or manufacturer_trader, but this is unverified). Declared HS 741820 not assessed against any actual record; per rules HS mismatch would not be a rejection ground anyway. Action required: re-run with a working search backend, or supply CIN/GSTIN/registered address or the IndiaMART/website profile URL for disambiguation."
+}

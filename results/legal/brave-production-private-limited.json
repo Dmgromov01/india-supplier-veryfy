@@ -1,0 +1,18 @@
+{
+ "name_input": "BRAVE PRODUCTION PRIVATE LIMITED",
+ "legal_name": "BRAVE PRODUCTION PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. web_search backend was unavailable (searx connection refused) and all direct registry sources returned errors: zaubacorp.com 403, thecompanycheck.com 403, tofler.in 404 for the guessed slug, instafinancials.com 404, quickcompany.in timeout, mca.gov.in 403, Google 429, DuckDuckGo timeout. Bing returned only irrelevant results for the exact-name queries, i.e. no indexed registry page for this exact legal name was surfaced. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrievable in this session, and no values were invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected under the rules; it is left with role 'unknown' and unverified registry fields pending a re-run when registry access is restored. Note also that the declared HS codes (080299 dried nuts, 090830/091099 spices) do not by themselves indicate manufacturing vs trading, so role cannot be inferred from them. State claimed in input was empty, so no state mismatch can be assessed."
+}

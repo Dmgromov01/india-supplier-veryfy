@@ -1,0 +1,8 @@
+{
+ "name_input": "Magnaplast",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/magnaplast-technologies-india-private-limited loaded as a paywalled shell: the only text present is 'Shipments available for MAGNAPLAST TECHNOLOGIES INDIA PRIVATE LIMITED, refreshed daily' with zero shipment rows, zero dates, zero destinations, zero B/L numbers rendered. ImportYeti search https://www.importyeti.com/search?q=magnaplast returned no company record for Magnaplast (only the generic API sample response for 'wal-mart'); rows actually seen for this company: 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Registry/aggregator pages (zaubacorp.com, thecompanycheck.com, eximpedia.app) all returned HTTP 403 Forbidden; search backend (DuckDuckGo/searx) was down ('Connection refused') and Bing returned unrelated results, so no domestic supply record was located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено: ни одной экспортной записи (дата, направление, HS, B/L) и ни одного подтверждения поставок внутри Индии получить не удалось. Это НЕ означает, что поставок не было — публичные источники были недоступны (ImportKey отдаёт только заглушку без строк, volza/eximpedia/zaubacorp/thecompanycheck — 403, поисковики не работали). Заявленный HS 850519 (магниты постоянные) не подтверждён и не опровергнут фактическими отгрузками; выручка и объём экспорта — null, данных нет. Юрлицо MAGNAPLAST TECHNOLOGIES (INDIA) PRIVATE LIMITED по имеющимся источникам не проверено на существование/ликвидацию — оснований для rejected нет. Требуется повторная проверка при доступности таможенных баз."
+}
