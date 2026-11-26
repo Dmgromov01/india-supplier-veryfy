@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SIMPEX PHARMA PVT. LTD",
+ "legal_name": "SIMPEX PHARMA PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. All search backends failed during this session: web_search returned 'searx: Connection refused' on every query; DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only irrelevant/poisoned results (no usable hits for the company name); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; quickcompany.in timed out. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they do not exist, but because no public source was reachable. No revenue figures are asserted: FY25/FY26 revenue null, no audited accounts or official filings were accessible. Role left as 'unknown' — the input gives no evidence of own manufacturing vs trading, and product catalogues/IndiaMART were out of scope for this role. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of retrievable data is not grounds for rejection. HS codes 293331/293339/300449/300450 (heterocyclic compounds and medicaments) are consistent with a pharma entity but were not validated against any filing. Recommended next step: re-run verification when search access is restored, using MCA master data by name and the GST portal 'Search Taxpayer' on the legal name, to obtain CIN, PAN (4th-character holder type) and GSTIN."
+}

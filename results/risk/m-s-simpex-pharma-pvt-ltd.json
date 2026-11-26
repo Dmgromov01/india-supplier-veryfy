@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S SIMPEX PHARMA PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: в ходе сессии поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Bing отдавал нерелевантный кэш (результаты про Cocker Spaniel и Whatnot вместо запроса), агрегаторы реестров (zaubacorp.com, thecompanycheck.com) вернули HTTP 403, Google — HTTP 429, duckduckgo html — timeout. OFAC Sanctions List Search доступен только как JS-форма, программный запрос по имени невозможен. Ни одного подтверждённого источника по компании M/S SIMPEX PHARMA PVT. LTD получить не удалось. Все поля оставлены null — данные не выдумывались. Требуется повторный прогон при работающем поиске: проверить OFAC SDN/SSI, UN, EU, UK OFSI, BIS Entity List по вариантам написания 'Simpex Pharma', 'Simpex Pharmaceuticals', 'Simpex Pharma Pvt Ltd'; проверить eCourts/NJDG и судебные агрегаторы по ответчику/истцу; проверить рейтинги CRISIL/ICRA/CARE/India Ratings; проверить новости о регуляторных действиях (CDSCO, FDA import alerts, GST/ED) и любые следы поставок в РФ/СНГ. Отсутствие данных НЕ является основанием для отклонения (правило 2 и 3): компания сохраняется в базе, вердикт по риску — 'не проверено', не 'rejected'."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S SIMPEX PHARMA PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/simpex-pharma-pvt-ltd loaded but rendered only the template shell: 'Shipments available for SIMPEX PHARMA PVT LTD, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were displayed (0 rows seen). Volza, Eximpedia, ImportGenius and Trademo all returned HTTP 403 / JavaScript challenge, so no second-source record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: ZaubaCorp and TheCompanyCheck returned HTTP 403, and web_search (searx backend) returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both attempts. No domestic supply evidence line available.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок (дата/направление/HS/B-L), ни внутренних поставок (GST-оборот, тендеры, контракты) подтвердить не удалось, все источники данных о перевозках были недоступны (403/JS-challenge/пустой шаблон). Статус по обоим направлениям — unknown, а не declared_only: заявлений сайта/каталога в этом прогоне тоже не проверялось. Заявленный HS 293331/293339/300449/300450 (алкалоиды, лекарственные средства) не подтверждён и не опровергнут фактическими записями; по правилу 3 несоответствие HS основанием для отклонения не является. Выручка и объём экспорта — null (не публичны в доступных источниках, не выдумывались). CIN/PAN не подтверждены — null. Требуется повторная проверка на платном/незаблокированном доступе к таможенным данным Индии."
+}

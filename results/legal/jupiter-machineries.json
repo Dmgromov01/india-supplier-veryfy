@@ -1,0 +1,18 @@
+{
+ "name_input": "JUPITER MACHINERIES",
+ "legal_name": "JUPITER MACHINERIES (exact legal entity name not verified — no public registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' (no results at all); Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant generic 'Jupiter' (planet/software) results for every query variant tried, including quoted-name + GSTIN/CIN queries; ZaubaCorp, TheCompanyCheck and MCA master-data portal all returned HTTP 403; Tofler search URL returned 404; IndiaMART guessed URL returned 404. Consequently no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be sourced. Per project rules, nothing was invented: all such fields are null. No rejection is applied — the entity is NOT proven non-existent, struck off, liquidated or bankrupt; the correct status is 'unverified / data not public in this run', not 'rejected'. The name 'JUPITER MACHINERIES' is a bare trade name with no legal suffix (no Pvt Ltd / LLP), which is consistent with a proprietorship or partnership firm — such entities have no CIN at all and would only be traceable via GSTIN or Udyam registration, neither of which was retrievable. Role therefore left as 'unknown' rather than guessed as manufacturer or trader. Declared HS 732690 (other iron/steel articles) is not assessed here per role scope; note that HS mismatch is not a rejection ground under project rules. Recommended next step: re-run with working search access, or obtain the GSTIN directly from the supplier's invoice/IndiaMART profile, then confirm GST legal name, status and state on the GST portal, and check Udyam/MSME registration for the firm's constitution and incorporation/registration date."
+}
