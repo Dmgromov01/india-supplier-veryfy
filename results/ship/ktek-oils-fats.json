@@ -1,0 +1,8 @@
+{
+ "name_input": "Ktek oils & fats",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/ktek-oils-fats and /k-tek-oils-fats-projects both render only the generic template: 'Shipments available for KTEK OILS FATS, refreshed daily' with no shipment rows, no dates, no destinations, no B/L numbers. Source counter: 2 importkey slug variants tried, 0 shipment rows actually seen.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backends failed: DuckDuckGo/searx returned 'Connection refused', Bing for \"K-TEK OILS & FATS\" private limited returned only generic letter-K results (Wikipedia, Merriam-Webster, YouTube) — zero company hits. Zaubacorp and eximpedia returned HTTP 403.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок (нет ни одной таможенной/B-L записи с датой, направлением, HS-кодом и номером B/L), ни подтверждённых поставок внутри Индии (нет GST-оборота, тендеров GeM/CPPP, контрактов). Заявленный HS 151710 (маргарин/пищевые смеси) ничем не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения, поэтому компания сохраняется в базе. Юрлицо K-TEK OILS & FATS PROJECTS PRIVATE LIMITED проверить не удалось: реестровые источники (Zaubacorp) недоступны (403), CIN/PAN/штат — null, не выдумываю. Роль (manufacturer/trader) не установлена — unknown. Выручка и объём экспорта — null (нет публичных данных). Статус: заявлено, не подтверждено; фактических отгрузок не обнаружено. Требуется повторная проверка при восстановлении доступа к реестру MCA и платным таможенным базам."
+}

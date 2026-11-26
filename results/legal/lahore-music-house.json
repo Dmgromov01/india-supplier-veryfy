@@ -1,0 +1,18 @@
+{
+ "name_input": "Lahore Music House",
+ "legal_name": "LAHORE MUSIC HOUSE (exact legal form not verified — could be proprietorship, partnership or company; no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "AABFL6397A (as claimed in input; NOT independently verified)",
+ "pan_holder_type": "Per PAN 4th-character rule, 'F' = Firm/Partnership firm. Note: this is derived from the claimed PAN only; the PAN itself could not be confirmed against any public source, so holder type is unverified.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry research could not be completed: the web_search backend returned connection errors ('searx: Connection refused') for all queries, and direct fetches of registry/aggregator profiles (zaubacorp, instafinancials) returned HTTP 403, while Bing/Google/DuckDuckGo returned only irrelevant results (Lahore city tourism pages) — no page mentioning the entity was retrieved. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null: not public/not retrieved, not invented. The claimed PAN AABFL6397A has a valid format (5 letters + 4 digits + 1 letter) and its 4th character 'F' indicates a partnership firm, which is inconsistent with a company (CIN) but consistent with a non-corporate trading/manufacturing entity — this is an inference from the claim, not a verified fact. No basis for rejection under the rules: absence of a retrieved record is not proof of non-existence, so the entity is NOT rejected; status is 'unverified — needs re-check when registry access is restored'. Also note the input's industry label 'IT и электроника' conflicts with the declared HS codes 920290/920600 (musical instruments), which under project rules is not a rejection ground — HS should be corrected to the factual code if instruments are confirmed. Recommended next step: manual check on MCA master data, the GST taxpayer search portal and the Delhi VAT/trade records using the PAN above."
+}

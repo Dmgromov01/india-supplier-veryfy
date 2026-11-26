@@ -1,0 +1,18 @@
+{
+ "name_input": "GOGROUND BEANS AND SPICES PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Kerala",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки верификации в этом прогоне технически не удались: web_search вернул 'searx: Connection refused' (бэкенд поиска недоступен); прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, falconebiz.com) вернули HTTP 403 Forbidden; api.mca.gov.in не резолвится (DNS). Bing/Google через http_get отдают нерелевантную выдачу без результатов по компании. Следовательно, ни точное юр. наименование, ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни штат регистрации, ни MCA-статус, ни выручка за FY25/FY26 не подтверждены ни одним публичным источником — все поля null, ничего не выдумано. Заявленный PAN AAFCG9200J: 4-й символ 'C' соответствует типу держателя 'Company' (формат PAN валиден по структуре), но принадлежность PAN именно этой компании НЕ подтверждена — pan_holder_type оставлен null, т.к. это вывод из формата, а не из документа. Заявленный штат Kerala не сверен с адресом регистрации. Роль (manufacturer/trader) не определена — нет данных о деятельности. Отклонение НЕ применяется: отсутствие данных о существовании юрлица не является основанием для rejected по правилам проекта (rejected только при подтверждённой несуществующей/ликвидированной/банкротной компании). Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP/GST-порталу."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Hero Cycles Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ОГРАНИЧЕНИЕ ДОСТУПА К ДАННЫМ: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо HTTP 403; Google — редирект-заглушка; Bing выдавал нерелевантную выдачу (словарные статьи 'hero'). Indian Kanoon — 403. CARERATINGS/CRISIL страницы рейтингов — 404. Поэтому по санкциям, судам, рейтингу, негативным новостям и поставкам в РФ/СНГ данные НЕ подтверждены и оставлены null — это не означает отсутствие рисков. Что удалось проверить фактически: (1) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыт, но это JS-приложение — результаты запроса по имени через http_get не отдаются, прямой скрининг по 'Hero Cycles' не выполнен; (2) BIS: страница part 744 EAR открыта, но это общий текст регуляции, а не Entity List — попадания не проверены; (3) официальный сайт herocycles.com подтверждает существование юрлица Hero Cycles Limited, CIN U35911PB1966PLC002667, зарегистрированный офис: Hero Nagar, G T Road, Ludhiana, Punjab-141003, корпоративный офис: Gurugram, Haryana; на сайте есть разделы 'EXPORT', 'INVESTORS', 'CORPORATE COMPLIANCE' — но это заявления компании, а не подтверждение отгрузок. Сведений о санкционных включениях, судебных делах, рейтинговых действиях или поставках в Россию/СНГ в проверенных источниках не получено. Требуется повторный прогон скрининга вручную (OFAC SDN CSV, EU/UK consolidated list, BIS Entity List supplement no. 4, Indian Kanoon/eCourts, ICRA/CRISIL/CARE/Acuite Ratings) при восстановлении доступа к поиску. По правилам проекта: оснований для отклонения нет; трейдер/производитель и HS — вне моей роли."
+}
