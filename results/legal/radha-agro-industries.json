@@ -1,0 +1,18 @@
+{
+ "name_input": "Radha Agro Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down); Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com served only its marketing landing page with no search results; Bing returned generic Microsoft results unrelated to the query, so no usable hit was obtained for either 'Radha Agro Industries' or 'Nishant Sama'. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced, and all such fields are left null rather than guessed. IMPORTANT: the input is internally inconsistent - 'legal_claimed' is given as 'NISHANT SAMA', which is a personal name, not a legal entity name; it is most likely a proprietor/partner or director name. 'Radha Agro Industries' is a generic trade name that may correspond to a proprietorship, partnership or a private limited company, and without a registry lookup the exact legal entity cannot be determined. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research limitation, not a negative finding. Role is recorded as 'unknown' (the name suggests agro processing, which is inconsistent with the declared HS 441520 - wooden pallets - but per project rules an HS mismatch is not a ground for rejection and no correction can be made without a verified record). Revenue FY25/FY26: null, not public in any source reachable here. Recommended next step: re-run with a working search backend, or supply the GSTIN/PAN so the entity can be resolved directly on the GST portal and MCA."
+}

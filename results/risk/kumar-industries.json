@@ -1,0 +1,9 @@
+{
+ "name_input": "KUMAR INDUSTRIES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. No verifiable data obtained. Tooling failure: DuckDuckGo/searx backend refused connections (2 attempts), duckduckgo.com HTML timed out, google.com returned HTTP 429, and bing.com returned only generic 'Kumar' name/etymology pages for all three query variants (plastics/rubber, court/sanctions/GST, Russia/CIS export) - i.e. no company-specific hits at all. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) - NOT VERIFIED, null, not a negative finding; Indian court cases (party role/status) - NOT VERIFIED, null; regulator actions and negative news with dates - NOT VERIFIED, null; credit rating with date/status - NOT VERIFIED, null (no rating agency coverage located); evidence of supplies to Russia or CIS - NOT VERIFIED, null. Important caveat for the analyst: 'KUMAR INDUSTRIES' is an extremely common Indian trade name (multiple unrelated proprietorships/partnerships across states use it), and the batch record supplies no PAN, CIN, state or address. Without a unique identifier it is not possible to attribute any sanctions, court, regulatory or rating record to this specific entity, and any match found by name alone would be a probable false positive. Recommend obtaining PAN/CIN/GSTIN and registered state before re-running the risk check. Per project rules, absence of data is not a rejection ground and no adverse inference is drawn; nothing here constitutes a sanctions hit or a court case."
+}

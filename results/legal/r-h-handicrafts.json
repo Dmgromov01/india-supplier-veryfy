@@ -1,0 +1,18 @@
+{
+ "name_input": "R H HANDICRAFTS",
+ "legal_name": "R H HANDICRAFTS (proprietorship name as given; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "not applicable / not found — no LLP/company record located; appears to be a sole proprietorship, which has no CIN and is not on MCA",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not negative. Tooling failed during this run: DuckDuckGo/searx backend refused connections, Google returned HTTP 429, MCA master-data portal and Zaubacorp/Instafinancials returned HTTP 403, gstinsearch.in DNS resolution failed, and Bing returned only generic irrelevant results for every query variant tried (\"R H HANDICRAFTS\" + \"RAHAT ALI KHAN\", + GSTIN, + proprietor, + IndiaMART/udyam). Consequently no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date or registered state could be sourced, and no audited revenue figures exist for a proprietorship in any case. The claimed legal name 'RAHAT ALI KHAN' is a personal name, consistent with a sole proprietorship (proprietor), so no CIN is expected and PAN 4th-character holder-type check cannot be performed without the PAN. State claimed in input is empty, so no state mismatch can be assessed. Role cannot be determined from registry data alone; the declared HS 7323 (stainless steel/iron household articles) is inconsistent with the claimed industry 'food & FMCG', but per project rules HS mismatch is NOT grounds for rejection — flag for HS correction only. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of records here is a tooling limitation, not proof of non-existence. Recommended next step: re-run with working search access and check GST portal 'Search Taxpayer' by trade name plus Udyam registration, and confirm the exact GSTIN/PAN before any onboarding decision."
+}

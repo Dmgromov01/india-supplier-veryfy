@@ -1,0 +1,9 @@
+{
+ "name_input": "MANORAMA INDUSTRIES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: инструменты не дали ни одного проверяемого источника. web_search возвращал ошибку соединения (searx: Connection refused); прямые запросы к поисковым страницам (Bing/DDG) по всем формулировкам ('Manorama Industries' + CRISIL/rating, + Russia/sanctions/court case, + 'Sumit Kumar Jha', + shea/Raipur/director) возвращали только нерелевантную выдачу про медиахолдинг Malayala Manorama — релевантных результатов ноль. Сайт manoramagroup.com не открылся (SSL CERTIFICATE_VERIFY_FAILED, self-signed). Страницы рейтинговых агентств (crisilratings.com, indiaratings.co.in) отдали 404/пустой JS-каркас без данных. Итог: санкционная экспозиция (OFAC SDN/UN/EU/UK/BIS), судебные дела в Индии, действия регуляторов, негативные новости, кредитный рейтинг и признаки поставок в РФ/СНГ — НЕ УСТАНОВЛЕНЫ, все поля null. Это отсутствие данных, а не подтверждённое отсутствие рисков: null по sanctions_hit не означает 'чисто'. Отдельно отмечаю: заявленное юрлицо/владелец 'SUMIT KUMAR JHA' не подтверждено ни одним источником; связь названия с листинговой Manorama Industries Ltd (производитель масла ши, Райпур) не верифицирована — возможно совпадение названий. Требуется повторный прогон при работающем поиске (санкционные списки OFAC/UN/EU/UK/BIS напрямую, eCourts/NCLT, сайты CRISIL/ICRA/CARE/India Ratings, таможенные данные для РФ/СНГ)."
+}

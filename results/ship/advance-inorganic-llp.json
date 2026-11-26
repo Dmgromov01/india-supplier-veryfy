@@ -1,0 +1,8 @@
+{
+ "name_input": "Advance inorganic LLP",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for ADVANCE IN ORGANICS LLP renders only the boilerplate line \"Shipments available for ADVANCE IN ORGANICS LLP, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no B/L numbers; the second slug variant (advance-inorganic-llp) returned the identical empty template. Rows actually seen: 0 of 0. Volza, Eximpedia and Trademo free views returned HTTP 403, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend was unavailable (searx connection refused) for every query, and thecompanycheck.com returned HTTP 403. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: единственный доступный источник (ImportKey) отдал пустой шаблон без единой записи, а вторичные источники (Volza, Eximpedia, Trademo, TheCompanyCheck) заблокировали доступ (403), поисковик был недоступен. Заявленный HS 282739/283529/293499 (неорганические химикаты, фосфаты/хлориды, гетероциклы) ни одной таможенной записью не подтверждён — статус «заявлено, не подтверждено». Юрлицо ADVANCE IN ORGANICS LLP в реестрах не проверялось (реестры вне области задачи), поэтому оснований для rejected нет; вердикт по отгрузкам — unknown, требуется повторная проверка при доступности Volza/Eximpedia/ImportKey с подпиской. Выручка и объём экспорта: null (не публичны, не выдумывались)."
+}
