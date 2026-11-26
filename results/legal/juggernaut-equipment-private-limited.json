@@ -1,0 +1,18 @@
+{
+ "name_input": "JUGGERNAUT EQUIPMENT PRIVATE LIMITED",
+ "legal_name": "JUGGERNAUT EQUIPMENT PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing/Google HTML endpoints returned only generic dictionary/entertainment results for the token 'Juggernaut' and did not honour the quoted company-name query (including a site:zaubacorp.com query), so no company-specific page was surfaced. Direct fetches of registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, and the MCA portal (mca.gov.in/mcafoportal/viewCompanyMasterData.do) returned HTTP 403. Consequently CIN/LLPIN, PAN (and therefore PAN 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable here, NOT confirmed absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role is recorded as 'unknown' rather than manufacturer/trader because the declared HS codes (842612 — machinery parts; 870452 — motor-vehicle parts) and the claimed industry (metallurgy & mining) are unverified claims, not evidence of manufacturing activity. Per project rules, this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity's status is simply unverified. Recommended next step: re-run with working search plus a paid/authenticated registry source (MCA V3 API, Tofler, or a GSTIN lookup) to obtain CIN, PAN, GSTIN and filed financials before any verdict."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KANSONS ENTERPRISES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Bing по точному названию в кавычках и по варианту с CIN выдавал только нерелевантную выдачу (Microsoft, evo Hotel Salt Lake City) — совпадений по компании не найдено. Прямые источники недоступны: zaubacorp.com и tofler.in вернули HTTP 403, html.duckduckgo.com — таймаут, google.com — редирект-заглушка без результатов. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать запрос через GET, поэтому фактического прогона имени по SDN/Non-SDN не было — sanctions_hit=null означает 'не проверено', а НЕ 'чисто'. Аналогично court_cases, rating, news_risk, rf_supply = null: публичных данных получить не удалось, выдумывать источники и записи нельзя. Никаких негативных сведений (санкции, суды, регуляторные действия, дефолты, поставки в РФ/СНГ) не обнаружено, но это отсутствие результата поиска, а не подтверждённое отсутствие рисков. Требуется повторный прогон при доступном поиске: проверить имя в OFAC SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List; поиск по eCourts/CM/ECF и NCLT; рейтинги CRISIL/ICRA/CARE/India Ratings; новостной поиск. Отклонение по правилу 2 не применяется — санкции/суды не являются основанием для отклонения."
+}
