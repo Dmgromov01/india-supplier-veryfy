@@ -1,0 +1,9 @@
+{
+ "name_input": "A B EMULTECH PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search tool (DuckDuckGo/searx) returned 'Connection refused' on every call; fallback fetches to Google (HTTP 429), DuckDuckGo HTML (timeout) and ZaubaCorp (HTTP 403) failed; Bing returned only irrelevant generic results for the exact-phrase queries '\"AB Emultech\"' and '\"Emultech\" India private limited chemical', i.e. no page mentioning this entity was surfaced. Consequently NOTHING can be asserted about: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (no party role or status found), regulator actions, negative news, credit rating (no agency, date or status found), or any evidence of supplies to Russia/CIS. All fields set to null per rule 4 — these are 'not found / not public in this session', NOT 'confirmed clean'. Do not read null as a negative sanctions or litigation clearance. Per rule 2, even if sanctions/court matters are later found they are not rejection grounds. Recommended next step: re-run with a working search backend and check the consolidated sanctions lists directly (OFAC SDN XML, EU consolidated list, UK OFSI list, BIS Entity List) plus Indian court records (eCourts/NJDG, NCLT) using the exact registered name 'AB EMULTECH PRIVATE LIMITED' and its CIN, which was not supplied and must not be guessed."
+}

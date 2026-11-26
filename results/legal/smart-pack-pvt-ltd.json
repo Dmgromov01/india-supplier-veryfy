@@ -1,0 +1,18 @@
+{
+ "name_input": "Smart pack pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Юрлицо не идентифицировано. Название в инпуте неполное/неоднозначное ('Smart pack pvt ltd', legal_claimed 'SMART PACK'), без штата, PAN и адреса — под него подходит множество разных индийских компаний (Smartpack / Smart Pack / Smart Pack Packaging и т.п.), поэтому привязка к конкретному CIN была бы выдумкой. Проверка не удалась по техническим причинам: DuckDuckGo-бэкенд недоступен (connection refused), MCA master data, Zauba Corp, TheCompanyCheck, InstaFinancials отдают HTTP 403, Bing по запросам с CIN/PRIVATE LIMITED возвращает только глобальные результаты про 'SMART' без индийских корпоративных записей. Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус, ни выручка не подтверждены — все поля null, ничего не додумано. Отклонение НЕ применяется: отсутствие найденной записи не равно отсутствию юрлица (правило 3). Роль оставлена unknown. HS 841382 (насосы для жидкостей) заявлен клиентом и с профилем компании не сверялся — по правилу 3 несоответствие HS не является основанием для отклонения. Требуется повторный прогон с рабочим поиском и уточнением от заказчика: полное название, штат, PAN или GSTIN, сайт/адрес — тогда возможна однозначная идентификация в MCA."
+}

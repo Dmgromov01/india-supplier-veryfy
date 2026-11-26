@@ -1,0 +1,18 @@
+{
+ "name_input": "AQUIGEN BIO SCIENCE PRIVATE LIMITED",
+ "legal_name": "AQUIGEN BIO SCIENCE PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: the web_search backend returned 'Connection refused' for both queries, and every public registry/profile source attempted was inaccessible — zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), falconebiz.com (HTTP 403), instafinancials.com (HTTP 404), indiafilings.com (HTTP 404), tofler.in (404 on both the company slug and the search endpoint), quickcompany.in (read timeout). No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could therefore be read from any source, so all such fields are null rather than guessed. The claimed legal name is a plausible Indian private-limited form, but existence is NOT confirmed — this is 'not verified', not 'does not exist'. No rejection applied: per project rules rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Role left as 'unknown' — the declared HS 294200 (a bulk drug/API heading) and the claimed industry 'oil & gas and chemicals' are inconsistent with each other, but HS mismatch is not a rejection ground and the actual code must be corrected on verification. State claimed in input was empty, so no state comparison is possible. Recommended next step: re-run against MCA master data / GST portal once the search backend is restored, and obtain FY25/FY26 revenue only from audited financials or MCA filings."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "A B EMULTECH PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for 'A B EMULTECH PRIVATE LIMITED' exists but renders zero shipment rows in the free view: 'Shipments available for A B EMULTECH PRIVATE LIMITED, refreshed daily' — a paywall placeholder, not a record. No bill-of-lading number, date, destination or HS code was visible. Source counter: 1 page checked (importkey.com/countries/india/a-b-emultech-private-limited), 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Bing search for the exact legal name returned only generic 'letter A' results (1,430,000 unrelated hits, 0 relevant); DuckDuckGo HTML timed out; the web_search backend returned connection errors on all three attempts. Source counter: 3 search attempts, 0 relevant results.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Все источники фактических отгрузок оказались недоступны в этой сессии: importkey отдал только заглушку без строк, volza/eximpedia/trademo вернули HTTP 403, Google — 429, DuckDuckGo — таймаут, web_search (searx) — connection refused. Поэтому export_status и domestic_status = unknown, а не none_found: отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Выручка и объём экспорта: null (не публичны / не получены). HS 382499 (прочее химическое, нефтегаз/химия) не проверен по фактическим записям и, согласно правилу 3, не является основанием для отклонения. Компания сохраняется в базе; требуется повторный прогон при доступном источнике таможенных данных."
+}
