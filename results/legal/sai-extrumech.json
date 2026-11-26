@@ -1,0 +1,18 @@
+{
+ "name_input": "Sai Extrumech",
+ "legal_name": "SAI EXTRUMECH PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on all attempts, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in search, mca.gov.in MDS) returned HTTP 403/404 or unrelated results; Bing/Google returned irrelevant SERPs (query terms not honoured, HTTP 429 on Google). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable here, and NOT invented. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role is 'unknown': the claimed HS codes (847720 extruders, 847940, 847989) suggest plastics/rubber extrusion machinery rather than the claimed 'oil & gas and chemicals' industry, but this is an inference from the HS codes only, not a verified fact. Per project rules, no rejection is applied: non-existence, strike-off, liquidation or bankruptcy could NOT be established, so the company is retained in the database pending re-verification. Recommended next step: re-run against MCA master data / GST portal with a working search backend before any verdict."
+}

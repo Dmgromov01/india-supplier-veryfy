@@ -1,0 +1,18 @@
+{
+ "name_input": "Medi Systems",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена. Входные данные противоречивы: 'legal_claimed' = 'SHASHI BHUSHAN' — это имя физлица, а не наименование юрлица; вероятно, речь о проприетарном концерне (sole proprietorship) 'Medi Systems', у которого нет CIN/LLPIN и нет MCA-записи, только GSTIN. Проверка невозможна: поисковый бэкенд (DuckDuckGo/searx) недоступен (connection refused), Bing по запросам \"Medi Systems\" + GSTIN/CIN/Shashi Bhushan выдаёт только нерелевантные бренды medi (USA/DE) и госсайты Иллинойса; zaubacorp.com, thecompanycheck.com и mca.gov.in отдают HTTP 403. Ни одна публичная запись (GST-профиль, MCA, PAN) не прочитана, поэтому CIN, PAN, GSTIN, дата регистрации, штат и выручка оставлены null — не выдумывались. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица при недоступных реестрах не равно доказанному отсутствию/ликвидации; статус — 'не проверено'. Роль не определена (unknown). Для завершения проверки нужны: точное наименование по GST-сертификату, GSTIN (15 знаков) либо CIN, и штат регистрации; при наличии только GSTIN — проверка через публичный GST-поиск, MCA неприменима. Отдельно: заявленный HS 392690 (изделия из пластмасс) не соответствует заявленной отрасли 'Нефтегаз и химия' — по правилам проекта это НЕ основание для отклонения, код фиксируется как фактический при подтверждении номенклатуры."
+}

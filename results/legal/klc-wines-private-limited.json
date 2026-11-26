@@ -1,0 +1,18 @@
+{
+ "name_input": "KLC WINES PRIVATE LIMITED",
+ "legal_name": "KLC WINES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification could not be completed: the search backend returned connection errors / irrelevant results, and registry aggregator pages (Zauba Corp, TheCompanyCheck, Tofler, InstaFinancials, Falcon eBiz) returned HTTP 403/404 or JS-only shells with no company record. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrieved, and NOT invented. No evidence found that the entity does not exist, so per the rules it is NOT rejected; it is left unverified. Input declared HS 220300/220410/220421/220820 (beer, wine, spirits) and industry 'Food & FMCG' — consistent with a beverages/alcohol trader or manufacturer, but the role cannot be classified without registry data (role set to 'unknown'). No revenue figures from audited accounts or official filings were located, so FY25/FY26 revenue left null. Recommended next step: manual MCA master-data lookup by exact name and GST portal search on the legal name to obtain CIN, PAN (4th character determines holder type: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust) and GSTIN."
+}

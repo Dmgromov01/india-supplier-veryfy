@@ -1,0 +1,9 @@
+{
+ "name_input": "Medi Systems",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data obtained. All search tooling failed during this run: web_search (DuckDuckGo/searx) returned 'Connection refused' on every query; html.duckduckgo.com and lite.duckduckgo.com timed out; Google returned HTTP 429; Bing returned identical cached/irrelevant results (medi USA, medi.de, Illinois HFS) for every query variant, including site-restricted queries against zaubacorp.com / tofler.in / indiamart.com, so no Indian entity named 'Medi Systems' with proprietor/contact 'Shashi Bhushan' could be located or verified. The OFAC Sanctions List Search page was reachable but is a JavaScript form that returns no results via plain HTTP GET, so no SDN/Non-SDN screening result was actually obtained - sanctions_hit is therefore null (NOT screened), not a negative finding. No Indian court records (eCourts/NJDG), regulator actions, credit rating or Russia/CIS supply evidence could be checked. All fields set to null per rule 4 (do not invent data). This is an absence of research, not a clean bill of health: the company must be re-run when search infrastructure is restored. Note also that the claimed industry ('oil & gas and chemicals') is inconsistent with declared HS 392690 (plastic articles) - flagged for the HS/identity researcher, not a rejection ground per rule 3."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "INDIGO DENIM PRIVATE LIMITED",
+ "legal_name": "INDIGO DENIM PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results'), Google returned HTTP 429, DuckDuckGo HTML timed out, and every registry/aggregator page attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in MDS) returned HTTP 403/404. Bing returned only generic 'Indigo' results (airline, dye, retail) with no company-registry hit for 'INDIGO DENIM PRIVATE LIMITED'. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT verified, not absent. No basis to reject: entity existence/struck-off status is unconfirmed, and per project rules rejection requires proof of non-existence/liquidation/bankruptcy, which we do not have. Role left 'unknown' (no registry evidence of manufacturing vs trading). Note on input quality: declared HS 520942 is woven cotton denim fabric (>=85% cotton, >200 g/m2), which contradicts the claimed industry 'Продукты питания и FMCG' (food/FMCG) — the industry label appears erroneous; per rules this is not a rejection ground, only a data correction flag. Recommend re-run with working search/registry access (MCA master data, GST portal search by trade name) before any verdict."
+}
