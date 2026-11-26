@@ -1,0 +1,8 @@
+{
+ "name_input": "TRIDENT INTERNATIONAL PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'trident-international-pvt-ltd' loaded but returned only a paywalled shell: \"Shipments available for TRIDENT INTERNATIONAL PVT LTD, refreshed daily\" — 0 actual shipment rows visible (no date, destination, HS code or B/L number). No rows seen on any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on all queries, so no domestic-supply source could be located.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных, ни внутренних записей получить не удалось. ImportKey отдал только заглушку без строк (счётчик источников: 1 страница, 0 строк данных). volza.com, eximpedia.app, trademo.com — HTTP 403; importgenius.com — JS-челлендж; web_search недоступен (Connection refused). Заявленный HS 401290 (шины/камеры восстановленные) не подтверждён и не опровергнут — по правилу 3 HS не является основанием для отклонения. Выручка: null (не публична, не выдумывалась). Требуется повторная проверка при доступности таможенных источников; статус 'unknown', а не 'none_found', поскольку отсутствие данных здесь — техническое ограничение доступа, а не результат проверки."
+}

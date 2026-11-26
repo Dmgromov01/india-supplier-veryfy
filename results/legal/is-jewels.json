@@ -1,0 +1,18 @@
+{
+ "name_input": "IS JEWELS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: web_search вернул 'no results (searx: connection refused)'; DuckDuckGo/Bing выдали нерелевантную выдачу (токен 'IS' обрабатывается как стоп-слово, по запросам 'IS Jewels' / 'Ingit Khandelwal' результаты отсутствуют); zaubacorp.com, instafinancials.com и mca.gov.in вернули HTTP 403; gstinsearch.in — DNS failure. Следовательно: точное юрлицо, CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, публично не подтверждены в рамках этой проверки. ВАЖНО по входным данным: (1) 'legal_claimed' = 'INGIT KHANDELWAL' — это имя физлица, а не наименование юрлица; вероятно, речь о проприетарном предприятии (sole proprietorship), у которого CIN отсутствует по определению, а PAN — это PAN физлица (4-й символ 'P' = individual). (2) Заявленный HS 710491 — это 'прочие изделия из природного/синтетического камня' (ювелирные изделия с камнями), что НЕ соответствует заявленной отрасли 'Продукты питания и FMCG'; по правилам проекта это НЕ основание для отклонения — компания сохраняется в базе, фактический код подлежит исправлению на ювелирный (7104), вердикт был бы accepted_hs_corrected. (3) Отклонять НЕЛЬЗЯ: нет подтверждения, что юрлицо не существует/ликвидировано/банкрот — статус просто не установлен. Рекомендация: повторить проверку при доступном GST-портале (gst.gov.in → Search Taxpayer по имени) и MCA-поиске, а также запросить у поставщика GSTIN и PAN напрямую — без них верификация невозможна."
+}

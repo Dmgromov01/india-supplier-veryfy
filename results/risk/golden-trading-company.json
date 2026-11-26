@@ -1,0 +1,9 @@
+{
+ "name_input": "Golden Trading Company",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx down); DuckDuckGo HTML/lite endpoints timed out; Google returned HTTP 429; Bing returned only generic unrelated results ('Golden' song, Golden Colorado) for all queries, i.e. the quoted company name and proprietor name were not actually searched. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form that returns no results via plain HTTP GET, so no name screening could be executed. Consequently NOTHING is asserted here: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = not screened, not 'clear'; Indian court cases (party role/status) = not checked; regulator actions and negative news = not checked; credit rating = not checked; evidence of supplies to Russia/CIS = not checked. All fields set to null because no public record was retrieved - these are gaps in verification, not findings of absence. Note also that the input is weak for screening: 'Golden Trading Company' is a highly generic trade name and 'SHAIKH MOHAMMAD ASLAM' is a common Indian/Pakistani personal name, so any future name-match hit must be resolved against address, PAN/CIN and incorporation details before being treated as the same entity. Per project rules, no rejection is proposed and no adverse inference is drawn from the lack of results. Recommend re-running this company once search access is restored, with targeted queries against MCA master data, Indian Kanoon / e-courts, and the OFAC/EU/UK consolidated lists."
+}

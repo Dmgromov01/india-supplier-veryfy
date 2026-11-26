@@ -1,0 +1,18 @@
+{
+ "name_input": "ALPHA DYE-CHEM",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (searx connection refused) for both queries; direct fetches of public registries were blocked or empty: zaubacorp.com returned HTTP 403 on both the search-results and company pages, thecompanycheck.com returned HTTP 404, quickcompany.in timed out, google.com returned HTTP 429, duckduckgo.com timed out, and bing.com returned only generic 'Alpha' results with no Indian company match. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any source, so all such fields are null rather than guessed. The claimed name 'ALPHA DYE CHEM' could not be matched to any verified legal entity, and no state was claimed in the input. Per the rules, absence of verifiable data is NOT grounds for rejection (rejection only applies where the entity is proven non-existent, struck off, liquidated or bankrupt), so the record is left as unverified/unknown rather than rejected. Role cannot be determined without registry or filing evidence. HS 320413 (synthetic organic colouring matter) was not assessed as it is out of scope for this role and is not a rejection ground. Recommend re-running once search/registry access is restored, or obtaining the GSTIN or CIN directly from the supplier."
+}
