@@ -1,0 +1,18 @@
+{
+ "name_input": "JUPITER COMTEX PVT LTD; JUPITER COMTEX PVT LTD",
+ "legal_name": "JUPITER COMTEX PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. Tooling failure: web_search (DuckDuckGo/searx backend) returned 'Connection refused' on every query; Bing HTML search ignored the quoted company name and returned only generic 'Jupiter planet' results; direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403, and google.com/search returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT verified, not absent. No audited accounts or official filings were reachable, so revenue FY25/FY26 are null (not estimated). Role left as 'unknown' because no MCA business-activity classification could be read; the input's industry claim ('Металлургия и горнодобыча') and declared HS 844590 (machinery for paper/printing, not metallurgy) are unverified and mutually inconsistent, but per project rules an HS mismatch is not a rejection ground and no verdict is drawn here. IMPORTANT: the legal name 'JUPITER COMTEX PRIVATE LIMITED' is carried over from the input claim only; existence of the entity is unconfirmed. Per rule 3, rejection requires proof of non-existence/strike-off/liquidation/bankruptcy - no such proof was obtained, so the company is NOT rejected; it is flagged for re-check of registry fields when search access is restored. No customs, court or catalogue research was performed (out of scope for this role)."
+}

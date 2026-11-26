@@ -1,0 +1,20 @@
+{
+ "name_input": "AUMOVIO INDIA PRIVATE LIMITED; CONTINENTAL AUTOMOTIVE COMPENENTS(INDIA)PVT. LTD.; CONTINENTAL AUTOMOTIVE COMPONENTS (INDIA)PVT LTD; AUMOVIO INDIA PRIVATE LIMITED; AUMOVIO INDIA PRIVATE LIMITED; AUMOVIO INDIA PRIVATE LIMITED; AUMOVIO INDIA PRIVATE LIMITED; AUMOVIO INDIA PRIVATE LIMITED; CONTINENTAL AUTOMOTIVE COMPONENTS (INDIA) PVT LTD; AUMOVIO INDIA PRIVATE LIMITED; Continental Automotive Components (India) Private Limited",
+ "declared_hs": "851762",
+ "actual_hs_list": [
+  "8708.29",
+  "8708.99",
+  "8537.10",
+  "8543.70",
+  "8526.91",
+  "8512.20",
+  "9029.20",
+  "8536.50",
+  "8507.60",
+  "9031.80"
+ ],
+ "match_status": "wrong",
+ "product_summary": "По корпоративному сайту AUMOVIO (aumovio.com, раздел Solutions, прочитан 23.11.2026) реальный продуктовый портфель — автомобильная электроника и мехатроника: электронные блоки управления (ECU) кузова, дверей, сидений, КПП для мотоциклов и грузовиков; zone control units и high-performance computers (ADAS/AD, cockpit HPC); электронные тормозные системы (EBS MK 120, MK C2), суппорты, барабанные тормоза, drive-brake unit; airbag control units (ACU) и crash-сенсоры; датчики скорости, шасси, e-motor sensors, current sensor modules, intelligent battery sensor, battery management system 12V Li-Ion, thermal runaway sensors; радар, камеры, ультразвуковые датчики, ProViu 360, RightViu; дисплеи, head-up displays, digital clusters, digital key (CoSmA), PASE; телематика для грузовиков и connected infotainment box для двухколёсных; плюс сервисы (EMC/электротесты, контрактное производство, plating). Собственного индийского каталога/страницы AUMOVIO India открыть не удалось (aumovio.com/en/company/locations/india — HTTP 404), поэтому привязка конкретных SKU к индийскому юрлицу не подтверждена.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 851762 (аппараты для передачи/приёма данных, включая коммутаторы и маршрутизаторы) не соответствует фактическому профилю: это поставщик автомобильных компонентов и электронных блоков управления, а не телеком-оборудования. Код 851762 может быть частично применим только к узкой части портфеля — телематическим модулям / connected infotainment box / модулям связи (V2X, eCall), но по публичным материалам нельзя выделить ни одной позиции, отгружаемой именно индийским юрлицом под этим кодом. Отрасль «IT и электроника» указана неверно: корректно — automotive electronics / auto components (производство автокомпонентов). Основные линии, отсутствующие в декларации: тормозные системы и суппорты (8708.29/8708.99), электронные блоки управления и распределения (8537.10), датчики (9029.20, 9031.80), радары и камеры (8526.91), дисплеи и HUD (8512.20), аккумуляторные сборки/ИБП-модули 12V Li-Ion (8507.60), разъёмы/переключатели (8536.50). Признаков трейдерской схемы не выявлено: группа сама разрабатывает и производит продукцию (указано на aumovio.com), но это заявление корпоративного сайта — статус «заявлено, не подтверждено» таможенной линией. Ни одна позиция не подтверждена таможенной записью: все коды — «заявлено, не подтверждено». Согласно правилу 3 компания не отклоняется, вердикт — accepted_hs_corrected: код следует исправить с 851762 на фактический ассортимент (основной 8708.99 / 8537.10, при наличии телематики — 851762 как дополнительный). Примечание: AUMOVIO — новое имя автомобильного подразделения Continental после выделения из Continental AG (подтверждено структурой сайта aumovio.com и разделом «Stock market listing — AUMOVIO SE»); тождество индийских юрлиц «Continental Automotive Components (India) Pvt Ltd» и «Aumovio India Pvt Ltd» по публичным источникам не проверялось (реестры вне рамок задачи)."
+}
