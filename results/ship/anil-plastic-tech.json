@@ -1,0 +1,8 @@
+{
+ "name_input": "Anil Plastic & Tech",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/anil-plastic-tech (and slug variant /anil-plastic-and-tech) returned only the generic template shell: \"Shipments available for ANIL PLASTIC TECH, refreshed daily\" — a boilerplate placeholder, not a record. Rows actually seen: 0 shipment records, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. No export record with date/destination/HS/B-L could be retrieved.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. web_search returned no results (searx: connection refused) on both queries, so no domestic supply record was retrievable. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Проверка ограничена технически: поисковик недоступен (searx: <urlopen error [Errno 111] Connection refused>), volza/eximpedia/trademo вернули HTTP 403, importgenius — JS-challenge. Оба слага importkey отдают пустой шаблон без строк отгрузок, поэтому отсутствие записей здесь НЕ доказывает отсутствие отгрузок — статус по обоим направлениям фактически unknown, зафиксирован как none_found только по доступным источникам. Заявленный HS 870829 (части и принадлежности кузовов, моторных ТС 8701–8705) и заявленный владелец ANIL SURESH NAIK ничем не подтверждены; CIN/PAN/выручка/объём экспорта — null, публично не найдены. Роль (manufacturer/trader) не установлена. Требуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}

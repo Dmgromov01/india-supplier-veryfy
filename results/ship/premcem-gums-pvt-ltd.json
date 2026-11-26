@@ -1,0 +1,8 @@
+{
+ "name_input": "PREMCEM GUMS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/premcem-gums-pvt-ltd returned only a page shell: 'Shipments available for PREMCEM GUMS PVT LTD, refreshed daily' — zero shipment rows rendered (0 rows seen, 0 dates, 0 destinations, 0 B/L numbers, 0 HS codes). No export record obtained from any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split retrieved. thecompanycheck.com, zaubacorp.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; web_search backend (searx) was down ('Connection refused') and Bing returned unrelated results. 0 domestic evidence rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных были недоступны в этой сессии (importkey — пустая оболочка без строк, volza/eximpedia/trademo/importgenius/zaubacorp/thecompanycheck — 403 или JS-челлендж, поисковик не работал). Ни одной записи об экспорте (дата, направление, HS, B/L) и ни одного подтверждения внутренних поставок (GST-оборот, тендер, контракт) получить не удалось. Заявленный HS 091099/130190/130232/130239 (камеди, специи) не проверен по фактическим отгрузкам. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Требуется повторная проверка при доступных источниках; статус 'unknown', а не 'none_found', поскольку отсутствие данных здесь — следствие блокировок, а не отсутствия отгрузок."
+}
