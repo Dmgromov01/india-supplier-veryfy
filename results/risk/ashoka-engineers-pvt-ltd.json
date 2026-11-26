@@ -1,0 +1,9 @@
+{
+ "name_input": "ASHOKA ENGINEERS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search returned 'searx: Connection refused' on all queries; DuckDuckGo HTML/lite endpoints timed out; Bing returned identical cached generic results (Emperor Ashoka / ashoka.org / Star Wars Ahsoka) for every query, i.e. the query was not actually executed. Therefore no source could be read for: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role, status), regulator actions, negative news, credit rating, or any evidence of supplies to Russia/CIS. All fields set to null per rule 4 (do not invent data). Name ambiguity is high: the input name 'ASHOKA ENGINEERS PVT LTD' vs claimed legal name 'ASHOKA ENGINEERS WORKS' are different legal forms, and 'Ashoka Engineers' is a common Indian SME name (multiple unrelated entities likely across states); without a CIN/PAN or state, no specific entity can be pinned down, so even a future sanctions/court hit could not be attributed reliably. Per rule 2, any sanctions/court/criminal findings would in any case be recorded neutrally as 'есть сложности' and would not be a rejection ground. Recommended next step: re-run with a working search backend and a CIN/PAN or registered state, and check OFAC SDN search, UN Consolidated List, EU/UK consolidated lists, BIS Entity List, NCLT/NCLAT and eCourts by exact legal name."
+}

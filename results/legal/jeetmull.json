@@ -1,0 +1,18 @@
+{
+ "name_input": "Jeetmull",
+ "legal_name": "JEETMULL JAICHANDLALL PVT LTD (as claimed; exact MCA-registered form not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; Bing HTML fallback returned completely irrelevant results (unrelated US statutes, Harry Potter pages, leboncoin) for every query, so no usable SERP was available. Direct fetches of public registry profiles were blocked: zaubacorp.com -> HTTP 403, thecompanycheck.com -> HTTP 403, falconebiz.com -> JS-only shell with no company data, instafinancials.com -> HTTP 404. Google search -> HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are not publicly retrievable with the tools available in this session - they are NOT null because the entity is absent. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules the company is NOT rejected; it is retained with role 'unknown' and all registry fields pending manual verification on the MCA portal (mca.gov.in / MCA21 company search) and the GST portal (gst.gov.in search taxpayer). Revenue FY25/FY26 null: no audited accounts or official filings were accessible, and no figures are estimated. Note on the claimed name: 'Jeetmull Jaichandlall' is a well-known old Kolkata-based trading house name, but this session produced no source confirming the private limited entity, its CIN or its current status, so the state is left null rather than assumed as West Bengal. HS 731419 (other iron/steel chain) is not assessed here per role scope; per project rules an HS mismatch would not be a rejection ground in any case."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "BIUMARK",
+ "legal_name": "BIUMARK DERMACEUTICALS PVT LTD (as claimed; unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data obtained. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused') on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and tofler.in returned 403/404; Google returned HTTP 429; Bing returned only unrelated results (no hit for 'BIUMARK DERMACEUTICALS' or 'Biumark'), which is weak negative evidence but not proof of non-existence. Therefore exact legal entity name, CIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - none of these could be read from an official/public registry source, and per project rules nothing is inferred or invented. Role left as 'unknown': the claimed name contains 'DERMACEUTICALS' suggesting a pharma/derma manufacturer, but no MCA business-object clause or factory licence was retrievable, so manufacturer vs trader cannot be established. Note on HS: declared HS 330510 (shampoos) is inconsistent with a dermaceutical/cosmetics name; per project rules this is NOT grounds for rejection - the code should be corrected to the actual product line once the company's real product list is confirmed. No rejection applied: non-existence/struck-off/liquidation/bankruptcy could not be established either way. Recommended action: re-run with a working search backend and MCA/GST portal access (or a paid registry API) before this supplier is used."
+}

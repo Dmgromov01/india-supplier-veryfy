@@ -1,0 +1,18 @@
+{
+ "name_input": "SYTCO ENGINEERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные не подтверждены. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Bing возвращал нерелевантную выдачу, реестровые источники (zaubacorp, instafinancials) отдали HTTP 403. Ни одна запись в MCA/GST-реестре не найдена и не прочитана. 'YUSUF KASIMSAB SAYYAD' в поле legal_claimed — это имя физлица, а не название юрлица; вероятно, речь об ИП (proprietorship) 'SYTCO ENGINEERS'. Для ИП CIN/LLPIN не существует, PAN — это личный PAN физлица (4-й символ 'P' = individual), но номер PAN публично не подтверждён, поэтому null. GSTIN, дата регистрации, штат и статус не подтверждены — null. Роль (manufacturer/trader) не установлена — unknown. Выручка FY25/FY26: аудиторской отчётности или официальных подач не найдено — null. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected; юрлицо не признано несуществующим/ликвидированным. Требуется повторная проверка при доступности реестров (MCA master data, GST-портал по имени/адресу)."
+}

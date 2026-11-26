@@ -1,0 +1,8 @@
+{
+ "name_input": "NAIVO COFFEE COMPANY",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'naivo-coffee-company' renders only the template shell: \"Shipments available for NAIVO COFFEE COMPANY, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers. Source counter: 3 slug variants tried (naivo-coffee-company, naivo-coffee-co, naivo-coffee), all returned the identical empty template; rows actually seen = 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend (DuckDuckGo/searx) returned connection refused / timeout on all attempts, so no domestic supply record could be retrieved. Rows actually seen = 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Проверка неполная по техническим причинам: поисковый бэкенд недоступен (connection refused / timeout), а volza, eximpedia, trademo и importgenius отдали HTTP 403. ImportKey по трём вариантам слага выдал пустой шаблон без единой записи об отгрузке, поэтому отсутствие строк НЕ доказывает отсутствие отгрузок — статус по обоим направлениям оставлен 'unknown', а не 'none_found'. Заявленные коды ТН ВЭД 090111/090112/090121 (кофе необжаренный/обжаренный) фактически не подтверждены ни одной таможенной записью; код не исправлялся, так как фактический код установить не удалось. Юрлицо не проверялось по MCA — вне области задачи. Выручка: null (не публична / не найдена). Объём экспорта: null. Требуется повторный прогон при доступном поиске и платных источниках таможенных данных."
+}
