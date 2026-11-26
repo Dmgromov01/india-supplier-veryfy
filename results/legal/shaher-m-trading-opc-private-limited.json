@@ -1,0 +1,18 @@
+{
+ "name_input": "SHAHER M TRADING (OPC) PRIVATE LIMITED",
+ "legal_name": "SHAHER M TRADING (OPC) PRIVATE LIMITED (as given in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' (no results at all); zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 403; mca.gov.in returned HTTP 403; tofler.in search returned a 404 page; Google returned HTTP 429; html.duckduckgo.com timed out; Bing returned only irrelevant results (no matching company page). Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT because they do not exist, but because they could not be read from a public source in this session. No numbers, CIN, PAN or GSTIN were invented. Role left as 'unknown': the '(OPC)' suffix indicates an One Person Company, which is a legal form and not evidence of manufacturer vs trader activity; the declared HS codes (090111 coffee, 210111/210130 coffee extracts & roasted chicory, 842119 centrifuges/drying equipment) are internally inconsistent with a single trading line, but per project rules HS mismatch is not a rejection ground and is not assessed here. Per rules, rejection is only for non-existent/struck-off/liquidated/bankrupt entities - none of that is established, so the company is NOT rejected; it is flagged as unverified pending a re-run with working registry access (MCA master data / GST portal lookup by legal name)."
+}

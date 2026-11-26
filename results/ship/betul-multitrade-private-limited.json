@@ -1,0 +1,8 @@
+{
+ "name_input": "Betul multitrade private limited",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. ImportKey pages for three slug variants (betul-multitrade-private-limited, betul-multitrade-pvt-ltd, betul-multitrade) returned only the generic template: 'Shipments available for BETUL MULTITRADE PRIVATE LIMITED, refreshed daily' — a boilerplate sentence, not a shipment row. Rows actually seen: 0 (no date, destination, HS code or B/L number displayed).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender, contract or annual-report split was found or read for this entity; search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, so no domestic source could be located.",
+ "note": "Evidence could not be established in either direction — this is a data-access failure, not a finding of no shipments. ImportKey free view renders no rows without login; volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge; web_search was unavailable (connection refused). Declared HS codes 190240/190430 (couscous / bulgur wheat) are unverified against any actual customs line. No CIN, PAN, GSTIN, revenue or export volume is asserted — all null, not public in what was reachable. Per Rule 5, nothing here confirms real shipments; equally, 'следов поставок не найдено' cannot be stated because the sources were never actually read. Recommend re-run with working search access or a paid trade-data seat before any verdict."
+}
