@@ -1,0 +1,9 @@
+{
+ "name_input": "jai balaji indusries limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — tooling failure, not a clean result. The web_search backend returned 'Connection refused' (searx) on both queries; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant cached results about the Tamil actor 'Jai' / JAI cameras / JAI jewelry for every query variant tried (sanctions, CBI/ED/court, credit rating, Russia export). Wikipedia blocked (HTTP 429). Direct fetches: jaibalajigroup.com loaded successfully and confirms the company is an active Kolkata-based iron & steel producer (registered office 5 Bentinck Street, Kolkata 700001; products: sponge iron, pig iron, ferro alloys, billets, TMT bars, ductile iron pipes, DRI, power; BSE-listed with active investor disclosures including FY2025-26 annual report and Q1/Q2 FY2026-27 results) — this is a live operating entity, but the site contains no sanctions, litigation, rating or Russia/CIS information. careratings.com entity URL returned 404. Therefore: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because NOTHING WAS VERIFIED — these are not findings of 'no exposure'. Do not treat nulls here as clearance. No OFAC SDN / UN / EU / UK / BIS Entity List screening was actually performed; no Indian court records (NCLT/NCLAT/HC/SC) were checked; no credit rating action was retrieved; no evidence either way on supplies to Russia or the CIS. Per project rules this company must NOT be rejected on the basis of this null result — it stays in the database pending a re-run of risk screening when search tooling is restored. Recommended re-checks: OFAC SDN + BIS Entity List name search, NCLT Kolkata and Calcutta HC party search, CRISIL/ICRA/Care/India Ratings press releases, and Indian trade-data review for RU/CIS destinations."
+}

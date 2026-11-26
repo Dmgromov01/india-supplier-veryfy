@@ -1,0 +1,8 @@
+{
+ "name_input": "NEELAM GLOBAL PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. ImportKey page https://importkey.com/countries/india/neelam-global-pvt-ltd returned only a paywalled shell: \"Shipments available for NEELAM GLOBAL PVT LTD, refreshed daily\" — a marketing placeholder, not a record. Rows actually seen: 0 (zero dates, zero destinations, zero HS codes, zero B/L numbers). Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS challenge; DuckDuckGo search backend was down (\"Connection refused\") and Bing returned only unrelated ESPN pages.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was found or readable. No source page containing a domestic supply record for this entity was successfully retrieved; nothing to quote.",
+ "note": "Registry and catalogue sources were out of scope per instructions, so no MCA/GSTIN lookup was performed and no CIN/PAN is asserted (pan_claimed was empty). Declared HS 760720 (aluminium foil, backed, thickness <=0.2mm) could not be checked against any actual shipment line, so no HS correction is proposed and no rejection ground exists. Critically: this is NOT a finding of absence — it is a failure of access. Every trade-data source for this name was paywalled or blocked, so neither export nor domestic supply can be confirmed or denied. Per Rule 5 the correct label is 'unknown', not 'declared_only' (the company made no claim we could read) and not 'none_found' (we did not search a readable dataset). Follow-up needed with a paid Volza/Eximpedia seat or a direct IEC lookup before any verdict on actual shipments."
+}

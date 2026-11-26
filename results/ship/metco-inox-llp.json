@@ -1,0 +1,8 @@
+{
+ "name_input": "Metco Inox LLP",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. importkey.com/countries/india/metco-inox-llp and .../metco-inox both returned only the generic page template with zero shipment rows rendered (source counter: 2 ImportKey pages fetched, 0 shipment rows actually seen). volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. No bill-of-lading number, date, destination or HS code could be read from any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GST turnover band, GeM/CPPP tender participation and contract records were not reachable: the web_search backend returned 'Connection refused' on all three attempts, so no registry or tender page could be located or read. 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — но это результат недоступности источников, а не доказательство отсутствия отгрузок. Все четыре источника торговых данных (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) заблокированы или отдают пустой шаблон, поисковик недоступен (connection refused). Ни одной записи об экспорте или внутренних поставках прочитать не удалось, поэтому статусы выставлены unknown, а не none_found. Выручка и объём экспорта: null — данных нет, не выдумывать. Заявленный HS 260120 (руды и концентраты никеля) и 720211 (феррохром, C>4%) не проверен по фактическим отгрузкам; несоответствие HS по правилу 3 основанием для отклонения не является. Компания сохраняется в базе; требуется повторная проверка при восстановлении доступа к таможенным данным и GST/GeM."
+}

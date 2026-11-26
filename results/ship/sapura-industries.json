@@ -1,0 +1,8 @@
+{
+ "name_input": "Sapura Industries",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'sapura-industries' rendered only the generic template: \"Shipments available for SAPURA INDUSTRIES, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers. Second slug 'sapura-industry' returned the identical empty shell. Source counter: 2 ImportKey pages opened, 0 shipment records actually seen. volza.com, eximpedia.app and trademo.com returned HTTP 403; DuckDuckGo/Bing/Google searches returned no usable results (search backend refused connection; Bing returned unrelated spam).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. No public page for this entity was retrievable, so no domestic supply record could be quoted. Source counter: 0 domestic sources opened, 0 records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых поставок внутри Индии. Это НЕ означает, что поставок не было: данные просто не публичны/недоступны бесплатно (ImportKey отдаёт пустой шаблон без подписки, volza/eximpedia/trademo — 403, поисковики недоступны). Выручка: null (не публична). Объём экспорта: null. Заявленный HS (152000;281111;282612;293090) и заявленное юрлицо HARSH CORPORATION ничем не подтверждены и не опровергнуты — расхождение между названием 'Sapura Industries' и юрлицом 'HARSH CORPORATION' требует отдельной проверки по MCA/GSTIN, что вне рамок данной роли. Вердикт по правилу 5: заявлено, не подтверждено; статус unknown, не 'условно принят'. Для окончательного вывода нужен платный доступ к таможенным данным или GSTIN компании."
+}

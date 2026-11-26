@@ -1,0 +1,9 @@
+{
+ "name_input": "TRINITY FILTRATION TECHNOLOGIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты были недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; html.duckduckgo.com — timeout; Bing отдавал нерелевантную выдачу (общие результаты про 'Trinity' — христианская доктрина, Trinity Health, Trinity University) независимо от точной фразы в кавычках, т.е. фактически не искал. Реестровые агрегаторы закрыты: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, instafinancials.com — HTTP 404. Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) загрузилась, но это JS-форма без возможности выполнить запрос через http_get — результат скрининга по имени не получен. Следовательно: санкционная экспозиция (OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List), индийские судебные дела с ролью стороны и статусом, действия регуляторов, негативные новости с датами, кредитный рейтинг с датой и статусом, а также признаки поставок в РФ/СНГ — по всем пунктам null, поскольку ни один публичный источник не был прочитан. Это НЕ означает отсутствие рисков: отсутствие данных не равно отсутствию находок. Требуется повторный прогон при работающем поиске (или ручная проверка по MCA-порталу, eCourts/NJDG, сайтам OFAC/EU/UK/BIS, CRISIL/ICRA/CARE/India Ratings) до принятия любого решения. Юрлицо, HS-код и объёмы отгрузок в рамках этой роли не проверялись."
+}

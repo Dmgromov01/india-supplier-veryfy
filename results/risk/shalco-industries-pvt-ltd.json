@@ -1,0 +1,9 @@
+{
+ "name_input": "SHALCO INDUSTRIES PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the primary web_search backend returned 'Connection refused' on all attempts; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing and Marginalia returned unrelated cached pages (voice-cloning sites, translation sites, an obituary) with no results for 'Shalco Industries'. The OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be queried via plain HTTP GET, so no SDN/Non-SDN screening result was actually obtained. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = not retrieved; regulator actions and negative news = not retrieved; credit rating (agency, date, status) = not retrieved; evidence of supplies to Russia/CIS = not retrieved. All fields set to null because nothing is public to me in this session - these are NOT negative findings and must not be read as 'no sanctions, no cases, no risk'. No CIN, PAN, GSTIN, rating figure or case number is asserted, as none could be verified. Recommended next step: re-run this company once the search backend is restored, screening at minimum (1) OFAC SDN/consolidated list and BIS Entity List by exact name, (2) eCourts/NJDG and High Court party search, (3) Tofler/Zauba/IndiaMART for rating and news, (4) Russian/CIS customs and B-L records for supply evidence. Per project rules, absence of these checks is not grounds for rejection; the company should be held as 'verification pending', not rejected."
+}

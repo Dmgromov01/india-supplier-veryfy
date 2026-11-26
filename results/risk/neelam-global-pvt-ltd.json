@@ -1,0 +1,9 @@
+{
+ "name_input": "NEELAM GLOBAL PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; http_get к duckduckgo.com — timeout; Google — HTTP 429; Bing отдавал нерелевантную выдачу (погода/медицинские статьи), т.е. прокси поиска деградировал и результатам доверять нельзя. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-форма, через GET результаты не отдаются, поэтому прямой скрининг по SDN/Non-SDN не подтверждён. Итог: по всем полям null — НЕ потому что рисков нет, а потому что публичных данных получить не удалось. Санкционных, судебных, рейтинговых и новостных записей не найдено и не опровергнуто. Следов поставок в РФ/СНГ не установлено и не исключено. Требуется повторный прогон при работающем поиске: (1) скрин OFAC SDN/Non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List по вариантам 'Neelam Global'; (2) eCourts/NJDG и High Court по 'Neelam Global Private Limited'; (3) реестр MCA для точной привязки имени (омоним 'Neelam' в Индии распространён — риск ложного совпадения высок); (4) кредитный рейтинг CRISIL/ICRA/CARE/India Ratings; (5) таможенные/логистические записи по направлению РФ/СНГ. Отклонять по этим основаниям нельзя (правило 2); статус — 'данных нет, проверка не завершена'."
+}
