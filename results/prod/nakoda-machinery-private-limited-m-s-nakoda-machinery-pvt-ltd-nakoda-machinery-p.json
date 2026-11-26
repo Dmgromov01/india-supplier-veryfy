@@ -1,0 +1,9 @@
+{
+ "name_input": "NAKODA MACHINERY PRIVATE LIMITED; M/S NAKODA MACHINERY PVT. LTD.; NAKODA MACHINERY (P) LTD; NAKODA MACHINERY PVT LTD; NAKODA MACHINERY PRIVATE LIMITED; NAKODA MACHINERY PVT.LTD.; NAKODA MACHINERY PVT.LTD",
+ "declared_hs": "843041",
+ "actual_hs_list": [],
+ "match_status": "cannot_verify",
+ "product_summary": null,
+ "role_hint": "unknown",
+ "comment": "Проверка каталога не выполнена по техническим причинам: web_search (DuckDuckGo/searx) возвращал ошибку соединения, затем нерелевантную выдачу; домены nakodamachinery.com, nakodamachinery.in, nakodamachinery.co.in, nakodagroup.com не резолвятся (DNS Name or service not known), карточка IndiaMART отдала HTTP 429. Ни одной страницы с реальным перечнем продукции получить не удалось, поэтому actual_hs_list пуст, product_summary = null, match_status = cannot_verify. Ничего не домысливаю: список товаров и коды HS-6 не подтверждены источником. Замечание по существу декларации (без подтверждения каталогом): заявленный код 8430 41 — «машины буровые/проходческие самоходные» (группа 84, машины и механическое оборудование), тогда как заявленная отрасль «Металлургия и горнодобыча» относится скорее к группе 84/85 в части горного оборудования либо к группе 73/72 при поставке металлопродукции; возможна отраслевая нестыковка, но проверить нечем. Признаков трейдера по доступным данным нет (роль unknown). Согласно правилу 3 несоответствие HS не является основанием для отклонения — компания сохраняется в базе, вердикт по HS отложен до получения каталога/сайта. Требуется повторный прогон с рабочим поиском или загрузка каталога/прайса поставщиком."
+}

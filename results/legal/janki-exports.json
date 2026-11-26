@@ -1,0 +1,18 @@
+{
+ "name_input": "JANKI EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить ни одного реестрового факта. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо полностью нерелевантные результаты; Bing отдавал мусорные выдачи (OSHA, MSN). Публичные реестровые профили недоступны: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, mca.gov.in — HTTP 403, thecompanycheck.com — HTTP 404, tofler.in — HTTP 404. Входные данные противоречивы: в поле legal_claimed указано физлицо 'LAKSHMI KANT MISHRA', а не юрлицо, что типично для проприеторского бизнеса (sole proprietorship) — у такой формы нет CIN и нет MCA-статуса, только GSTIN и PAN физлица. Заявленный HS 620442/620463/620520/620630 — это одежда (платья, брюки, блузки, юбки) из хлопка/синтетики, что не соответствует заявленной отрасли 'Продукты питания и FMCG'; фактический профиль компании по реестру не установлен, поэтому код не корректировался. PAN, GSTIN, дата регистрации, штат и выручка за FY25/FY26 — null, публично не подтверждены в рамках доступных источников. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица; статус 'struck off/liquidated/bankrupt' не подтверждён. Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или предоставление поставщиком GSTIN/PAN."
+}

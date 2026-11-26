@@ -1,0 +1,9 @@
+{
+ "name_input": "Pratik Corporation",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: все доступные поисковые каналы отказали в ходе сессии (DuckDuckGo/searx — connection refused; html.duckduckgo.com и lite.duckduckgo.com — timeout; Google — HTTP 429; Brave — HTTP 429; Mojeek и Ecosia — HTTP 403; Startpage — блокировка антиботом; Yahoo — HTTP 500; Bing отдавал нерелевантную выдачу, игнорируя операторы кавычек, — по запросам «Pratik Corporation» / «Deepak Anantrai Shah» возвращались статьи о людях по имени Pratik, ни одного релевантного документа). Ни один первоисточник (OFAC SDN/Consolidated list, UN Consolidated, EU consolidated, UK OFSI, BIS Entity List, eCourts/NJDG, SEBI, RBI, IBBI, кредитные рейтинги CRISIL/ICRA/CARE/India Ratings, таможенные и B-L записи) открыть не удалось. Поэтому по всем полям — null: это означает «данных нет / не проверено», а НЕ «чисто». Санкционных, судебных, регуляторных или новостных оснований для отклонения не установлено, но и отсутствие таковых не подтверждено. Отдельно: наименование «Pratik Corporation» с указанным лицом (Deepak Anantrai Shah) не удалось однозначно сопоставить ни с одним юрлицом в реестрах — вероятно, это проприетарная фирма/торговое наименование, а не компания с CIN; для корректной проверки нужны CIN/PAN/GSTIN или точный адрес. Следов поставок в РФ/СНГ не найдено, но это результат отсутствия поиска, а не проверки. Рекомендуется повторный прогон при восстановлении доступа к поиску и реестрам."
+}

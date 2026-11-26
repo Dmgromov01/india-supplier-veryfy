@@ -1,0 +1,18 @@
+{
+ "name_input": "S K OVERSEAS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused' на обоих запросах; (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — HTTP 404; (4) google.com/search — HTTP 429; (5) duckduckgo.com/html — timeout; (6) bing.com по запросу \"S K OVERSEAS\" GSTIN CIN — выдал нерелевантную выдачу (статьи про букву S), т.е. точного совпадения по названию поисковик не нашёл; (7) bing.com по \"SK OVERSEAS\" private limited CIN MCA — 21 результат, все нерелевантные (notion.site), совпадений по компании нет; (8) bing.com по \"S K Overseas\" GST number proprietor — снова нерелевантная выдача; (9) instafinancials.com company-search — HTTP 404; (10) mca.gov.in Master Data — HTTP 403. ВАЖНО: 'S K OVERSEAS' — крайне неспецифичное имя, соответствующее массе мелких проприетарных фирм и нескольким Pvt Ltd; без доступа к MCA/GST-порталу невозможно установить, о каком именно юрлице речь, а следовательно нельзя достоверно привязать ни CIN, ни PAN, ни GSTIN. Все поля оставлены null — данные не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно доказанному отсутствию юрлица (правило 3). Роль оставлена 'unknown' — по названию и заявленным HS (391810 — напольные/настенные покрытия из ПВХ, 570310/570331 — ковры и тафтинговые покрытия) нельзя отличить производителя от трейдера без реестровых данных. Заявленный штат в инпуте не указан, сверять нечего. Требуется повторный прогон при доступных MCA Master Data / GST-портале / zaubacorp; до этого компания остаётся непроверенной (pending), а не принятой."
+}
