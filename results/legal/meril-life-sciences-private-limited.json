@@ -1,0 +1,18 @@
+{
+ "name_input": "MERIL LIFE SCIENCES PRIVATE LIMITED",
+ "legal_name": "MERIL LIFE SCIENCES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failure: web_search (DuckDuckGo/searx) returned connection errors; Bing/Google returned irrelevant or rate-limited results; Zauba Corp and TheCompanyCheck returned HTTP 403; MCA portal hostname did not resolve; IndiaMART returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — not public/not retrievable here, and NOT invented. Only verifiable fact obtained: the company's own website (https://www.merillife.com/about-us) states 'Founded in 2006, Meril is a global medical device company' with 35+ owned subsidiaries and manufacturing of vascular intervention devices, orthopedic implants, robotics, endo-surgery, ENT and in-vitro diagnostics — this supports role=manufacturer (self-declared, not registry-confirmed) and suggests Gujarat (Vapi) as the likely registered state, but that is an inference, not a sourced registry record, so state_registered is left null. No rejection applied: no evidence of non-existence, strike-off, liquidation or bankruptcy was found; absence of data is not a rejection ground. Declared HS codes (382100;760720;761290;901839) are consistent with IVD reagents and medical devices, but per project rules HS mismatch is not a rejection ground in any case. Action required: re-run with working registry access (MCA master data / GST public search) to fill CIN, PAN, GSTIN, incorporation date, state and audited FY25/FY26 revenue."
+}

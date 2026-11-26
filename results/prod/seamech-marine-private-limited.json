@@ -1,0 +1,18 @@
+{
+ "name_input": "SEAMECH MARINE PRIVATE LIMITED",
+ "declared_hs": "732690",
+ "actual_hs_list": [
+  "840999",
+  "848330",
+  "848310",
+  "840991",
+  "731815",
+  "731822",
+  "848490",
+  "840999"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт seamechmarine.com (Bhavnagar, Gujarat; тел. +91 8320555965) — поставщик запчастей для судовых/промышленных дизелей Wärtsilä (W20, W32, VASA32). Реальный каталог (раздел Products, категория Wärtsilä W20, 10 позиций): 100002 Cylinder liner; 100003 Anti-polishing ring; 100004 Screw; 100005 Camshaft Bearing Bush; 111005/111006 Big End Bearing Shell (lower/upper); 111007 Plug; 111008 Cylindrical Pin; 113012 Piston Ring Set. В Services/About дополнительно заявлены: cylinder heads (reconditioned & new), pistons, piston rings, liners, connecting rods, fuel injection equipment (Bosch injectors), lub oil pumps, crankshafts, turbocharger parts, bearings/bushings (Miba, Daido Metal, Zollern, Johnson Metal), а также 'cabin, deck, engine and marine supplies' и снабжение oilfield/судовых чандлеров.",
+ "role_hint": "trader",
+ "comment": "HS 732690 (прочие изделия из чёрных металлов) не соответствует фактическому ассортименту. Основная масса позиций — части двигателей внутреннего сгорания: гильзы цилиндров, поршни, поршневые кольца, головки цилиндров, топливная аппаратура → 8409.99 (части ДВС); вкладыши/подшипники скольжения → 8483.30; коленчатые валы → 8483.10; крепёж (Screw 100004, Plug 111007, Cylindrical Pin 111008) → 7318.15/7318.22 — только эта узкая часть пересекается с заявленным 732690, и то неточно (крепёж имеет собственные субпозиции). Итог: код нужно исправить на фактический (основной 840999, плюс 848330/848310/731815), вердикт accepted_hs_corrected — компания сохраняется в базе. Признаки трейдера: сайт прямо называет себя 'premier supplier', 'Advanced Trading', 'One of the leading suppliers of OE spares', продаёт чужие бренды (Wärtsilä, Bosch, Mahle, KS, Miba, Daido, Zollern) — собственного производства не заявлено. Отрасль 'Металлургия и горнодобыча' указана неверно: фактически это морское судовое снабжение / торговля запчастями ДВС (marine engine spares & ship chandlery). Продуктовые линии, отсутствующие в декларации: запчасти ДВС, подшипники, топливная аппаратура, насосы, турбокомпрессоры, палубные/камбузныеsupplies. Все позиции каталога — заявлено, не подтверждено: таможенных/B-L записей и GST-оборотов в рамках этой проверки не смотрел (вне роли), сайт фактом отгрузки не является. Отдельно отметить: сайт содержит явные признаки шаблонного/недостоверного контента (противоречивые цифры '1+ год опыта' vs '60+ проектов', 'Revenue in 2022' vs 'Revenue in 2023 -3 (Million)', вымышленные отзывы, lorem ipsum в About) — это снижает доверие к заявленному ассортименту, но не является основанием для отклонения."
+}

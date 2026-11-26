@@ -1,0 +1,16 @@
+{
+ "name_input": "M/S UNICHEM LABORATORIES LIMITED",
+ "declared_hs": "291719;292250;293590",
+ "actual_hs_list": [
+  "3004 (medicaments, retail/packaged) — formulations, core business",
+  "3003 (medicaments in bulk) — bulk formulations",
+  "2941.90 / 2942 — APIs where applicable",
+  "2922.50 (amino-alcohols/amino-aldehydes etc.) — plausible for API intermediates, not corroborated",
+  "2935.90 (sulphonamides) — plausible for API, not corroborated",
+  "2917.19 (polycarboxylic acids) — plausible for API intermediate, not corroborated"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт unichemlabs.com (главная страница, прочитана 23.11.2026): «With formulations constituting the core of the company's business, Unichem is backward integrated to API Manufacturing»; 6 производственных площадок (формуляция: Goa, Baddi, Ghaziabad; API: Roha, Pithampur, Kolhapur); 620 marketed products; 50+ рынков. Раздел Newsroom перечисляет одобрения USFDA ANDA на готовые формы: Tolterodine Tartrate Tablets, Amiodarone Tablets, Baclofen Tablets, Cyclobenzaprine HCl Tablets, Atenolol Tablets USP, Solifenacin Succinate Tablets, Tramadol HCl Tablets, Chlorthalidone Tablets, Tadalafil Tablets. То есть фактический продуктовый профиль — готовые лекарственные формы (таблетки) плюс собственные АФИ.",
+ "role_hint": "manufacturer (вертикально интегрированный производитель: формуляция + собственные АФИ; признаков трейдера не выявлено)",
+ "comment": "Сверка с заявленными кодами: 291719 (поликарбоновые кислоты), 292250 (аминокислоты/аминоспирты и их производные), 293590 (сульфонамиды) — это коды АФИ/промежуточных химикатов, а НЕ готовых лекарственных форм, которые составляют ядро бизнеса компании. Основная масса отгрузок (таблетки в потребительской упаковке) должна классифицироваться в 3004, а не в 29-й группе. Таким образом: частичное совпадение — заявленные коды могут относиться к части API-портфеля (Роха/Питхампур/Колхапур), но ни один из них не подтверждён таможенной строкой или открытым каталогом АФИ: разделы сайта /api, /active-pharmaceutical-ingredients, /formulations, /our-business отдают 404, публичного перечня АФИ с CAS/HS получить не удалось. Все три заявленных кода — статус «заявлено, не подтверждено». Отраслевая принадлежность в декларации («Нефтегаз и химия») — мис-классификация: компания фармацевтическая (формуляция + АФИ), корректная отрасль — «Фармацевтика / химико-фармацевтическая продукция». Продуктовые линии, отсутствующие в декларации: готовые лекарственные формы (3004/3003) — основной объём; контрактное производство (CDMO) — раздел Contract Manufacturing на сайте. Рекомендация по правилу 3: компанию НЕ отклонять, сохранить в базе, добавить фактические коды 3004/3003 как основные, коды 29-й группы оставить как возможные для API-направления с пометкой «заявлено, не подтверждено». Выручка, объём экспорта, CIN/PAN и таможенные записи в рамках этой роли не исследовались — null."
+}

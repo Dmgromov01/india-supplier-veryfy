@@ -1,0 +1,8 @@
+{
+ "name_input": "I.P.L.PRODUCTS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/i-p-l-products (and slug variants /ipl-products, /i-p-l-product): page renders only the generic template — \"Shipments available for I P L PRODUCTS, refreshed daily\" — with 0 shipment rows, 0 dates, 0 destinations, 0 B/L numbers and 0 HS codes displayed. No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Search engine (DuckDuckGo/searx) returned \"Connection refused\" on the only query attempted, so no domestic-supply source could be retrieved.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Проверка ограничена: importkey по трём вариантам слага (i-p-l-products, ipl-products, i-p-l-product) отдаёт пустой шаблон без единой строки отгрузки; volza, eximpedia, trademo вернули HTTP 403, importgenius — JS-челлендж, веб-поиск недоступен (connection refused). Заявленный HS 850434 (энергетика) ничем не подтверждён и не опровергнут — код не корректировался, так как фактический HS установить не удалось. Выручка и объём экспорта: null (данных нет, не выдумывались). Юрлицо не проверялось по MCA — вне области задачи; оснований для отклонения нет. Статус по обоим направлениям — unknown (не none_found), поскольку источники были недоступны, а не потому что отгрузки отсутствуют."
+}

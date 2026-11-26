@@ -1,0 +1,20 @@
+{
+ "name_input": "DOLPHIN CHEMICALS (INDIA) LIMITED",
+ "declared_hs": "340239",
+ "actual_hs_list": [
+  "340239",
+  "290410",
+  "292142",
+  "292119",
+  "290339",
+  "292419",
+  "292690",
+  "290399",
+  "293410",
+  "280610"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт dolphinchemicals.in (sitemap + разделы /products/surfactant-chemicals, /products/specialty-chemicals, /products/pharma-intermediates) перечисляет три товарные линии. 1) ПАВ/гидротропы: Sodium Cumene Sulfonate (SCS/SCSDOL), Sodium Xylene Sulfonate (SXS/DOLSX), Sodium Toluene Sulfonate 40% (STS-40%) — это анионные сульфонаты, ароматические, соли; HS 3402.39 (прочие органические поверхностно-активные вещества) применим только если поставляются как готовые ПАВ/препараты для моющих средств; в чистом виде как отдельные сульфокислоты/их соли они классифицируются в 2904.10 (сульфированные производные углеводородов, их соли). 2) Specialty: Cyclopropyl Methanol (CPMO) — 2906.19/2903? (циклический спирт → 2906.19), Ethyl Bromide/Bromoethane — 2903.39, N-Propyl Bromide — 2903.39, N,N-Dimethylformamide dimethyl acetal (DMFDMA) — 2924.19, Para Toluene Sulfonic Acid (PTSA) — 2904.10, Hydrochloric Acid 32% — 2806.10. 3) Pharma intermediates: Diphenylacetonitrile (DPAN) — 2926.90, 2-Dimethylamino-isopropyl chloride HCl (DMIPC) — 2921.19, N,N-Diethylaminoethyl chloride hydrochloride — 2921.19, 3-Dimethylamino propyl chloride HCl — 2921.19, 2-Dimethylaminoethyl hydrochloride (DMC) — 2921.19, 2-Butyl-3-(4-hydroxy-3,5-diiodobenzoyl)benzofuran (амиодарон-интермедиат) — 2932.99/2934?, Ethyl 2-(3-cyano-4-isobutoxyphenyl)-4-methyl-5-thiazolecarboxylate (фебуксостат-интермедиат) — 2934.10, 2-Nitro-4-thiocyanatoaniline — 2930.90, 2-Amino-5-methylthiazole — 2934.10.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Заявленный код 340239 покрывает только часть ассортимента (сульфонатные гидротропы SCS/SXS/STS, и то с оговоркой: как индивидуальные соли сульфокислот они чаще идут по 2904.10, а 3402.39 — если это готовые ПАВ-препараты). Основная масса заявленных на сайте продуктов — фармацевтические интермедиаты и specialty-химикаты (амины 2921, нитрилы 2926, тиазолы 2934, бромиды 2903, PTSA 2904, HCl 2806), которые кодом 340239 не охватываются → статус partial, код нужно расширить/исправить на фактический по каждой отгрузке. Признаки трейдера: в разделе About Us прямо указано, что компания с 2011 г. работала как trading company по готовым формам и с 2015 г. — по API/интермедиатам, собственное производство заявлено только с 2021 г.; адрес — бизнес-центр в Сурате (527/528 Meridian Business Center, Mota Varachha), а не промплощадка; на сайте нет ни адреса завода, ни GMP/CEP/DMF-номеров, ни конкретных спецификаций партий. Отраслевая классификация «Нефтегаз и химия» формально верна (химия), но по факту профиль — фарм-интермедиаты + ПАВ, а не нефтегаз. Все перечисленные продукты — заявлено, не подтверждено: ни одна товарная позиция не подтверждена таможенной линией/инвойсом в рамках этой проверки (объёмы и таможенные записи не исследовались по условиям роли). Отсутствующие в декларации линии: фармацевтические интермедиаты (9 SKU), бромиды, PTSA, HCl, CPMO, DMFDMA — их нет в заявленном HS."
+}

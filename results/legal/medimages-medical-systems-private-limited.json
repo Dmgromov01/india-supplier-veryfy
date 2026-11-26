@@ -1,0 +1,18 @@
+{
+ "name_input": "Medimages Medical systems private Limited",
+ "legal_name": "MEDIMAGES MEDICAL SYSTEMS PRIVATE LIMITED",
+ "cin_llpin": "U33100DL2022PTC394851",
+ "pan": "AAPCM5378K",
+ "pan_holder_type": "P — individual (sole proprietor / personal PAN). 4th character 'P' = person; the 5th character 'C' is the first letter of the surname, so this is a personal PAN, not a company PAN (which would carry 'C' in the 4th position). This is a discrepancy worth flagging: a private limited company should hold a company PAN with 'C' as the 4th character.",
+ "gstin": "07AAPCM5378K1ZP",
+ "gst_status": "Active per the company's own published GSTIN (state code 07 = Delhi); status not independently confirmed on the GST portal (gst.gov.in search blocked, HTTP 403) — treat as 'заявлено, не подтверждено'",
+ "incorporation_date": null,
+ "state_registered": "Delhi (CIN state code DL; GST state code 07 = Delhi)",
+ "state_claimed": "",
+ "mca_status": "Existing/Active — not verified on MCA master data (mca.gov.in returned HTTP 403); CIN structure U33100DL2022PTC394851 is internally consistent (U33100 = manufacture of medical/dental/surgical appliances, DL, 2022, PTC = private limited company). No evidence of strike-off, liquidation or bankruptcy found.",
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "No audited accounts or MCA/AOC-4 filings retrievable — zaubacorp, tofler, thecompanycheck and instafinancials all returned 403/404, and search backend (searx) was down. Revenue left null rather than estimated.",
+ "note": "Legal name, CIN and GSTIN taken from the company's own website footer (medimages.in, pages / and /about-us, read 2026): 'Medimages Medical Systems Pvt. Ltd. | CIN: U33100DL2022PTC394851 | GST: 07AAPCM5378K1ZP'. About page states 'Founded in 2022' and describes the firm as both a manufacturer and an importer/B2B supplier of medical equipment — hence role manufacturer_trader. Registered state Delhi matches the New Delhi head office; input gave no state, so no mismatch to report. Exact date of incorporation not published on the site and MCA master data was inaccessible (403), so null. IMPORTANT DISCREPANCY: the GSTIN embeds PAN AAPCM5378K, whose 4th character is 'P' (individual), which is inconsistent with a private limited company — either the site quotes the proprietor's/director's PAN-based registration or the GSTIN is misprinted. This must be resolved against the GST portal before onboarding. HS code declared in the input is 901920 (ozone/oxygen therapy, artificial respiration apparatus), which is plausible for this product range (ventilators, CPAP/BIPAP, oxygen concentrators) — no HS correction needed. Industry claimed in the input ('Нефтегаз и химия' — oil & gas and chemicals) is clearly wrong: the company is a medical-equipment maker/supplier; industry field should be corrected to medical devices. No basis for rejection: entity appears to exist and is not struck off, liquidated or bankrupt. No customs, court or catalogue research performed per role scope."
+}

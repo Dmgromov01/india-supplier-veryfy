@@ -1,0 +1,8 @@
+{
+ "name_input": "DOLPHIN CHEMICALS (INDIA) LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. importkey.com/countries/india/dolphin-chemicals-india-limited and .../dolphin-chemicals-india-ltd both returned only the JS shell: 'Shipments available for DOLPHIN CHEMICALS INDIA LTD, refreshed daily' — 0 shipment rows actually visible (counter says data exists, rows seen = 0). volza.com, eximpedia.app and trademo.com returned HTTP 403; DuckDuckGo/searx search backend was down ('Connection refused'); Bing query for '\"Dolphin Chemicals (India) Limited\" export bill of lading' returned only generic dolphin-emulator/animal results, 0 company-specific hits.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. No public page with a verifiable domestic supply record was reachable within the tool budget; nothing to quote.",
+ "note": "No export record (date, destination, HS code, B/L number) and no domestic supply evidence could be verified — this is a tooling/access limitation, NOT proof of absence. Per Rule 5, no claim from the company's own site or catalogues was used, and no shipment was inferred. HS 340239 (anionic surface-active agents) is plausible for a chemicals trader/manufacturer but was not checked against any customs line. Revenue and export volume: null (not public in sources reached). Recommend re-run when a trade-data source is accessible (paid ImportKey/Volza view or DGFT/ICEGATE lookup) before any verdict; do not treat as 'no supply traces found' on this evidence alone."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "S.L. Fastners Pvt. Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained - all fields null, nothing invented. Tooling failure during this run: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only generic 'letter S' results with no company hits (query terms were not honoured); MCA company/LLP name search (mca.gov.in) returned HTTP 403; Zauba Corp company page and search page returned HTTP 403; TheCompanyCheck returned HTTP 403; InstaFinancials returned HTTP 403. Consequence: exact legal entity name, CIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could NOT be verified from any public source. Note the input itself is internally inconsistent: name_input spells 'Fastners' while legal_claimed spells 'FASTENERS' - the correct spelling of the registered name is unresolved, so no legal_name is asserted. state_claimed was empty in the input, so there is no claimed state to compare against a registered state. Role left as 'unknown' - no evidence of manufacturing plant, GST registration or trade activity was retrievable; declared HS codes (731816 nuts, 731819 threaded fasteners, 830820 tubular/rivet fasteners) are consistent with a fastener supplier but are not evidence of entity role. Revenue FY25/FY26 null: no audited accounts or MCA filings accessible. Per project rules this company is NOT rejected - absence of verifiable data is not grounds for rejection (rejection reserved for non-existent/struck-off/liquidated/bankrupt entities, which could not be established either way). Recommended action: re-run verification when search backend and MCA/aggregator access are restored, or obtain the GSTIN/CIN directly from the supplier's invoice or GST certificate."
+}
