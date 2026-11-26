@@ -1,0 +1,9 @@
+{
+ "name_input": "EPS WORLDWIDE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google — HTTP 429, DuckDuckGo HTML — timeout; Bing отдавал нерелевантную выдачу (EPS = earnings per share, ADRES Colombia, EPS courier и т.п.), реестры Zauba/Tofler/InstaFinancials — 403/404. Ни одного источника, подтверждающего существование юрлица 'EPS Worldwide Private Limited' в Индии, найти не удалось. OFAC Sanctions List Search открылся (SDN обновлён 23.11.2026), но поиск по имени через форму без API не выполним — санкционный статус НЕ подтверждён и НЕ опровергнут. Все поля null: суды (eCourts/NCLT), рейтинги (CRISIL/ICRA/CARE), негативные новости, поставки в РФ/СНГ — данных нет, выдумывать нельзя. Требуется повторный прогон при доступном поиске и, желательно, CIN/PAN от заказчика для однозначной идентификации (омоним 'EPS' крайне распространён). Отклонение по правилу 3 не предлагается: отсутствие данных ≠ отсутствие юрлица."
+}

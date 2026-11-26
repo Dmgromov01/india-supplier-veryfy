@@ -1,0 +1,18 @@
+{
+ "name_input": "Gorny Instrument India Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ВЕРИФИКАЦИЯ НЕ ВЫПОЛНЕНА — нет данных, а не отсутствие компании. Причина: в этой сессии недоступны все источники. web_search (DuckDuckGo/searx) вернул 'Connection refused'; http_get к duckduckgo.com/html — timeout; Bing отдаёт нерелевантную выдачу и игнорирует кавычки/site: (по запросу 'Kaizen Stonex' выдаёт статьи про кайдзен, по 'Gorny Instrument' — сайт Microsoft); zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403; Google — HTTP 429. Ни одного реестрового документа (MCA master data, GST-профиль) прочитать не удалось. ВАЖНОЕ РАСХОЖДЕНИЕ ВО ВХОДНЫХ ДАННЫХ: name_input = 'Gorny Instrument India Private Limited', а legal_claimed = 'KAIZEN STONEX PRIVATE LIMITED' — это два разных наименования; какое из них реальное юрлицо поставщика, не установлено. Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат, ни MCA-статус не подтверждены — все поля null, ничего не выдумано. Роль не определена (unknown). Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. Отклонять НЕЛЬЗЯ: правило 3 разрешает rejected только при доказанном отсутствии/ликвидации/банкротстве юрлица, а доказательств нет ни в одну, ни в другую сторону. Требуется повторный прогон при работающем поиске (MCA-портал, GST-портал, Tofler/Zauba) и уточнение у заказчика, какое из двух названий является контрагентом."
+}

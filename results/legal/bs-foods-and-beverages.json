@@ -1,0 +1,18 @@
+{
+ "name_input": "BS Foods and Beverages",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No verifiable registry record found. The input gives only a trade name 'BS Foods and Beverages' and the person name 'SAROJ KUMAR' in the legal_claimed field, which suggests a sole proprietorship rather than a company — proprietorships have no CIN/LLPIN and no MCA record, so cin_llpin, mca_status and incorporation_date are null by nature, not by omission. No PAN, GSTIN, GST status or registered state could be confirmed from any public profile: DuckDuckGo search backend was down (connection refused), Google returned HTTP 429, ZaubaCorp returned HTTP 403, MCA master-data portal returned HTTP 403, and Bing returned only irrelevant generic 'BS' results for every query variant tried ('BS Foods and Beverages' + GST/CIN, + 'Saroj Kumar', + GSTIN proprietor, + IndiaMART). Therefore legal_name, pan, gstin, gst_status, state_registered are null — not public/not retrievable in this session. Revenue FY25/FY26 null: no audited accounts or official filings located; no figures invented. Role set to 'unknown' — the declared HS 482320 (paper/paperboard cartons, boxes, packing containers) does not match the name 'Foods and Beverages', but per project rules an HS mismatch is NOT grounds for rejection and no role can be asserted without evidence. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of a registry hit is a data-availability gap, not proof of non-existence. Recommended next step: obtain the GSTIN or PAN directly from the supplier (or a GST search by trade name in the relevant state) to resolve the entity, then re-verify. Per rule 5, no shipment or supply evidence was assessed in this role; status of actual shipments remains unverified."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "PENNWALT LIMITED",
+ "legal_name": "Pennwalt Limited (name as claimed in input, 'Pennwalt Private Limited', is not verified; the widely used legal name is 'Pennwalt Limited' — a public limited company, not private)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this run. All search backends failed (DuckDuckGo/searx connection refused, Google 429, Bing returned irrelevant results) and every registry aggregator tried returned 403/404/timeout (zaubacorp, thecompanycheck, instafinancials, tofler, quickcompany, IndiaMART). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null — not public/not retrieved, and NOT invented. No rejection applied: there is no evidence that the entity does not exist, is struck off, liquidated or bankrupt; absence of data is not a rejection ground under the project rules. Name discrepancy flagged: input claims 'PENNWALT PRIVATE LIMITED' while the company is generally known as 'Pennwalt Limited' (public limited); the exact legal suffix must be confirmed against MCA master data before use. Role left as 'unknown' (no verified evidence of manufacturing vs trading activity). Declared HS 732690 (iron/steel articles) is not assessed here per role scope; per project rules an HS mismatch would not be a rejection ground anyway. Recommended action: re-run verification when search/registry access is restored, checking MCA master data and GST public profile."
+}

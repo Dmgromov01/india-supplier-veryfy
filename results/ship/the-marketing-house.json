@@ -1,0 +1,8 @@
+{
+ "name_input": "The marketing House",
+ "export_status": "none_found",
+ "export_evidence": "No export bill-of-lading found. The only customs records located are IMPORT records where the company is the buyer: \"2026-02-05 | SHENZHEN XINLIAN ELECTRONIC TECHNOL | THE MARKETING HOUSE | PCB SC 111 FOLDER NO- A2583 | Shenzhen, CHINA -> NHAVA SHEVA SEA INNSA1, India | HS 85340000 | BOL 7328467\" (importkey.com/countries/india/the-marketing-house; page counter: \"Total Shipments 120 Records detected\", 5 rows actually displayed). Direction is China->India, i.e. inbound, so it does not evidence any export shipment.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found in accessible sources. Address on record: \"201, Sairang DP Road, Kothrud, Haveli\" (Pune district, Maharashtra) per importkey. Domestic supply activity therefore not confirmed and not refuted — no public record seen.",
+ "note": "Role: importer/trader of bare PCBs (HS 853400) from Shenzhen Xinlian Electronic Technology; declared HS 853400 matches the actual customs HS 85340000, so no HS correction needed. Verified fact is inbound import only — 120 import records, latest 2026-02-05, 7 counterparties, 16 port lanes (top: SAHAR AIR CARGO ACC 21, KUNMING 14, NHAVA SHEVA SEA 11). No export shipments and no domestic supply evidence found; \"следов экспортных поставок не найдено\". Legal name \"GIRISH TRYAMBAK VAIKAR\" as proprietor not independently verified in this pass (registries out of scope). volza/eximpedia returned HTTP 403 and web search was unavailable, so second-source cross-check was not possible; revenue and export volume: null (not public)."
+}
