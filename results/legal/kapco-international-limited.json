@@ -1,0 +1,18 @@
+{
+ "name_input": "KAPCO INTERNATIONAL LIMITED",
+ "legal_name": "KAPCO INTERNATIONAL LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) on every query, and direct fetches of registry/aggregator sources failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, mca.gov.in returned HTTP 403, search.mca.gov.in did not resolve, and Google returned HTTP 429. Bing/DDG HTML fallbacks returned unrelated results (NYC311, Canberra Raiders), i.e. no usable hits. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent, but because no public source could be read. No number here is inferred or invented. Role left as 'unknown': the name suffix 'LIMITED' indicates a company, but no filing was read to establish manufacturer vs trader. Per project rules the company is NOT rejected - non-existence, strike-off, liquidation or bankruptcy was not established, and absence of evidence is not evidence of absence. Action required: re-run this company when search access is restored, or verify manually on the MCA master-data portal (check CIN, status, registered office state) and on the GST portal / a public GSTIN profile. Note also that the declared HS codes (151319 edible coconut/copra oil; 330410/330491/330499 cosmetics and skincare) span two unrelated product families, so the actual line of business needs confirmation from the MCA NIC code and GST registration once accessible."
+}

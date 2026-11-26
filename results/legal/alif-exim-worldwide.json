@@ -1,0 +1,18 @@
+{
+ "name_input": "ALif Exim Worldwide",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Ни один реестровый идентификатор не подтверждён. Проверка 23.11.2026: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам \"Alif Exim Worldwide\" и \"Kosanawala Farukbhai\" выдал только нерелевантные результаты (Instagram и т.п.) — совпадений нет. Прямые запросы к реестровым источникам заблокированы: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, mca.gov.in (Master Data) — HTTP 403, tofler.in — 404 на странице поиска, Google — HTTP 429. Входные данные указывают на ИП (sole proprietorship) «KOSANAWALA FARUKBHAI YAKUBBHAI» под торговым именем «Alif Exim Worldwide»: у ИП нет CIN/DIN и нет MCA-записи, поэтому CIN и mca_status по определению null — это не признак отсутствия юрлица. PAN и GSTIN не найдены ни в одном публичном профиле, поэтому PAN-формат и тип держателя (4-й символ) не определены, GST-статус неизвестен. Штат регистрации не установлен; в запросе штат не заявлен (state_claimed пусто), сверять нечего. Роль: предположительно trader (exim/экспортное торговое имя), но без подтверждения — unknown. Выручка FY25/FY26: аудированной отчётности или официальных подач не найдено, значения null (не выдуманы). Оснований для отклонения (rejected) НЕТ: отсутствие публичных данных не равно несуществованию, ликвидации или банкротству. Требуется первичный документ от поставщика: GST-сертификат (REG-06) или выписка с портала GST, PAN-карта, и для ИП — Udyam/Shop Act регистрация; после этого запись можно верифицировать."
+}

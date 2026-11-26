@@ -1,0 +1,9 @@
+{
+ "name_input": "KAFFEE INDIANO",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No verifiable public record of an Indian entity named 'KAFFEE INDIANO' was found. Search tooling was degraded during this run: DuckDuckGo/searx backend returned 'Connection refused' (no results), Google returned HTTP 429, and Bing ignored the quoted phrase and returned only generic 'Kaffee'/'coffee' pages (Wikipedia, kaffeare.com, roastmarket.de etc.) — i.e. zero relevant hits, not a positive match. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its lookup is a JS form and could not be queried programmatically; no name match was observed in any accessible list text. Therefore: sanctions_hit = null (not screened conclusively — no name to screen against a confirmed legal identity), court_cases = null (no eCourts/NCLT/High Court record located; no party role or status available), rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; no date, no status), news_risk = null (no negative news, regulator action or enforcement item found with a date), rf_supply = null (no evidence of supplies to Russia or CIS found — absence of evidence, not evidence of absence). Per project rules this is NOT a rejection ground and no adverse inference is drawn: the company is retained in the database. The name appears to be a brand/trade name rather than a registered legal entity, and no CIN/PAN was supplied, so the risk screen cannot be tied to a legal person. Recommended next step: obtain the legal entity name, CIN/PAN and registered address from the supplier, then re-run OFAC/UN/EU/UK/BIS screening, eCourts and credit-bureau checks against that identity. All fields left null deliberately — no numbers, CINs, PANs or case references were invented."
+}

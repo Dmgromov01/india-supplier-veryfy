@@ -1,0 +1,18 @@
+{
+ "name_input": "A T E ENTERPRISES PRIVATE LIMITED",
+ "legal_name": "A.T.E. ENTERPRISES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified - no source could be read. The DuckDuckGo search backend returned 'Connection refused' on both queries; Zauba Corp, TheCompanyCheck, QuickCompany and MCA master-data portal returned HTTP 403 / timeouts; InstaFinancials and FalconEbiz returned only JS page shells with no company record; Bing returned irrelevant results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null rather than guessed. Legal name is carried over from the input claim only and is unconfirmed. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling failure, not a negative finding. Role left as 'unknown' (cannot be classified without registry/MCA data). Declared HS 844399 (parts/accessories of printing machinery) is inconsistent with the claimed industry 'IT and electronics'; per project rules this is NOT a rejection ground - if the company is confirmed, the HS code should be corrected to the actual code and the verdict set to accepted_hs_corrected. Recommended next step: re-run with working search, or verify manually on mca.gov.in MDS and the GST portal using the exact legal name."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "ALif Exim Worldwide",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/alif-exim-worldwide (and slug variant -1) returned only the generic template: 'Shipments available for ALIF EXIM WORLDWIDE, refreshed daily' — no dated shipment row, no destination, no HS code, no B/L number rendered. Rows actually seen: 0 of 0. volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Web search backend was unavailable during this run ('searx: Connection refused'), so no domestic supply source could be located or read. Rows seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: все источники таможенных данных были недоступны (403 / JS-challenge / пустой шаблон), а поиск не работал. Заявленный HS 091099 (специи) и связка с именем 'KOSANAWALA FARUKBHAI YAKUBBHAI' ничем не подтверждены — статус 'заявлено, не подтверждено'. Выручка и объём экспорта: null (не публичны, не выдумывались). CIN/PAN: null. Роль (manufacturer/trader) не установлена — вероятнее trader по названию 'Exim', но это не доказано. Требуется повторный прогон при доступном поиске и платном доступе к Volza/Eximpedia для фактических B/L записей."
+}
