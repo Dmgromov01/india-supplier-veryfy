@@ -1,0 +1,9 @@
+{
+ "name_input": "INPACK PLAST PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public risk data could be retrieved for this entity as of today. Search infrastructure failed: DuckDuckGo/searx backend returned 'Connection refused' on all queries; Google returned HTTP 429; Bing returned only irrelevant results (query mangling, no company hits); ZaubaCorp and InstaFinancials returned HTTP 403; Tofler returned 404 for the guessed slug. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and cannot be queried via plain HTTP GET, so no SDN/consolidated-list screening result was obtained; UN, EU, UK OFSI and BIS Entity List screens likewise not completed. No Indian court records (eCourts/NCLT/High Court), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or negative news could be located or verified. No evidence of supplies to Russia or CIS found - but absence here reflects failed retrieval, not a verified negative. All fields set to null per instruction not to invent data. NOTE: the claimed name 'INPACK PLAST' and claimed industry 'IT and electronics' with HS 844316/850131/850300 are internally inconsistent (a 'plast' entity mapped to printing machinery/electric motors), which is a data-quality flag for the identity/HS team, not a risk finding. RECOMMENDATION: re-run screening when search access is restored, or obtain the CIN/PAN and screen manually against OFAC SDN, UN, EU, UK OFSI, BIS Entity List, eCourts and NCLT. No rejection grounds identified under project rules; sanctions/court findings would in any case not be rejection grounds."
+}

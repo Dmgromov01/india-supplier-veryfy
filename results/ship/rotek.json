@@ -1,0 +1,8 @@
+{
+ "name_input": "Rotek",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/dollar-madan and /countries/india/rotek both returned only the paywalled template: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible on either page (source counter: 2 pages fetched, 0 records seen). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. DuckDuckGo search backend returned \"searx: <urlopen error [Errno 111] Connection refused>\" on both queries; Google returned HTTP 429; volza, eximpedia and trademo returned HTTP 403. 0 domestic supply records seen.",
+ "note": "No shipment evidence obtained either way — this is a tooling/access failure, not a finding of absence. The claimed legal name \"DOLLAR MADAN\" is itself inconsistent with the trade name \"Rotek\" and could not be matched to any customs record; the two importkey slugs (dollar-madan, rotek) are separate company pages and neither exposed data. Declared HS 760711 (aluminium foil, rolled but not further worked) is unverified — no shipment line was readable to confirm or correct it. Revenue and export volume: null (not public in any source reached). Per Rule 5 no positive status is asserted: status is unknown, not confirmed, and equally not \"none_found\", because the paywall prevented inspection rather than showing an empty result. Recommend re-run with a working search backend or a paid importkey/volza view before any verdict."
+}

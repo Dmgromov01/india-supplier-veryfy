@@ -1,0 +1,8 @@
+{
+ "name_input": "Vantageo Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/vantageo-pvt-ltd and .../vantageo-private-limited both return only the generic template: \"Shipments available for VANTAGEO PVT LTD, refreshed daily\" — zero shipment rows rendered, no date, destination, HS code or B/L number visible. Source counter: 2 importkey slug variants tried, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record retrieved. thecompanycheck.com, zaubacorp.com, volza.com, eximpedia.app, trademo.com all returned HTTP 403; importgenius.com returned a JavaScript challenge. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что отгрузок не было: все вторичные источники (volza, eximpedia, trademo, zaubacorp, thecompanycheck, importgenius) заблокировали доступ (403 / JS-challenge), а DuckDuckGo-поиск в этой сессии не работал (connection refused), поэтому проверить нечем. Заявленный HS 847150 (машины обработки данных) ничем не подтверждён и не опровергнут. Выручка и объём экспорта: null — публичных данных не получено, не выдумываю. Юрлицо не проверено по MCA (zaubacorp 403), поэтому оснований для rejected нет; статус остаётся unknown до повторной проверки с доступом к платным/незаблокированным источникам."
+}

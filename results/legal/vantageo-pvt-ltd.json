@@ -1,0 +1,18 @@
+{
+ "name_input": "Vantageo Pvt Ltd",
+ "legal_name": "VANTAGEO PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and direct fetches of registry aggregators were blocked or empty: zaubacorp.com returned HTTP 403, thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, tofler.in search returned a 404 page, and Bing/Google/DuckDuckGo HTML endpoints returned either irrelevant results (Wikipedia/Microsoft pages) or HTTP 429/timeouts. Therefore no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Per project rules nothing is invented: all such fields are null. No rejection is made - absence of accessible public records in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' (no evidence of manufacturing or trading activity). Declared HS 847150 (ADP machines/processing units) is not assessed here as HS mismatch is not a rejection ground. Recommended follow-up: re-run against MCA master data / GST portal when search access is restored, and obtain the company's CIN or GSTIN from the supplier directly to anchor the lookup."
+}

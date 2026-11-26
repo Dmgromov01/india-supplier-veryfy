@@ -1,0 +1,18 @@
+{
+ "name_input": "COHANCE LIFESCIENCES LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failed: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, mca.gov.in returned HTTP 403; tofler.in, instafinancials.com, indiafilings.com returned 404; Google returned 429; DuckDuckGo timed out; Bing returned only irrelevant results (no usable SERP). Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not absent. No audited FY25/FY26 figures obtained, so revenue is null (not estimated). Role left 'unknown' because the input itself is contradictory: the name field says 'COHANCE LIFESCIENCES LIMITED' while legal_claimed says 'ATILUS PHARMA PRIVATE LIMITED' — these are two different legal entities and it is unclear which one is the actual supplier; this identity mismatch must be resolved before any registry lookup. No rejection applied: non-existence/struck-off/liquidation/bankruptcy was NOT established (and cannot be established without registry access), so per project rules the company is not rejected. Also note the declared HS codes (293349, 293410, 300490 — pharma APIs/medicaments) do not match the claimed industry 'Нефтегаз и химия' (oil & gas and chemicals); per rule 3 this is not a rejection ground — the HS code should be corrected to the factual one and the verdict would be accepted_hs_corrected once the entity is confirmed. Recommended next step: re-run with working search/registry access and confirm whether the supplier is Cohance Lifesciences Ltd or Atilus Pharma Pvt Ltd."
+}

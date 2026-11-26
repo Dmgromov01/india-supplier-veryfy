@@ -1,0 +1,18 @@
+{
+ "name_input": "INFO MEDIA3 NETWORK",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один публичный реестр/профиль не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Bing выдавал нерелевантную выдачу, а zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in вернули HTTP 403, tofler.in — 404 по запросу. Точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 не подтверждены — везде null, данные не выдумывались. Входные данные противоречивы и неполные: в поле legal_claimed указано 'ANITA' (похоже на имя физлица/проприетора, а не на юрлицо), PAN и штат не заявлены, заявленный HS 846232 (станки/механика) не соответствует заявленной отрасли 'Металлургия и горнодобыча' — вероятна ошибка исходной карточки. Роль определить невозможно (unknown). Отклонение НЕ применяется: нет доказательств несуществования, ликвидации, банкротства или strike-off; отсутствие данных — не основание для rejected. Требуется повторная проверка при доступности MCA/GST-порталов или уточнение от заказчика полного юридического наименования и штата."
+}

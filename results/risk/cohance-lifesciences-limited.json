@@ -1,0 +1,9 @@
+{
+ "name_input": "COHANCE LIFESCIENCES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', затем HTTP 429/timeout; Bing отдавал нерелевантные кэшированные страницы (Adobe, Equibase, Windows Help) — ни одного релевантного результата по 'Cohance Lifesciences' получить не удалось. Прямой запрос к nseindia.com/get-quotes/equity?symbol=COHANCE вернул только JS-шаблон без данных. Все поля оставлены null: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), судебные дела в Индии, действия регуляторов, кредитный рейтинг и признаки поставок в РФ/СНГ НЕ проверены, а не 'отсутствуют'. Отдельно отмечаю расхождение во входных данных: заявленное юрлицо 'ATILUS PHARMA PRIVATE LIMITED' не совпадает с названием 'COHANCE LIFESCIENCES LIMITED' — это вопрос к верификации юрлица (вне моей роли), но он влияет на то, что именно проверять по санкциям и судам. Требуется повторный запуск при доступном поиске; выводов о риск-профиле не делаю."
+}
