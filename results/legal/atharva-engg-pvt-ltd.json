@@ -1,0 +1,18 @@
+{
+ "name_input": "Atharva engg pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry aggregators were blocked or empty: zaubacorp.com returned HTTP 403, thecompanycheck.com and instafinancials.com search endpoints returned 404, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only irrelevant results (actor 'Atharvaa', atharvaimports.com, Atharvaveda) with no MCA/registry hit for 'Atharva Engg'. Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, not invented. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role set to 'unknown' (no registry evidence of manufacturing vs trading activity). Per project rules the company is NOT rejected: absence of verifiable registry data is not proof of non-existence, and HS code 841391 (parts of pumps) is not a rejection ground. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by exact name 'ATHARVA ENGG PRIVATE LIMITED' to confirm CIN and GSTIN."
+}

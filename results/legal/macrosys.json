@@ -1,0 +1,18 @@
+{
+ "name_input": "MACROSYS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no data obtained. The input gives only a trade name 'MACROSYS' and a person name 'Sushil Sachdev' (listed in the legal_claimed field, which is not a legal entity name), no PAN, no state, no CIN. Verification attempts failed for technical reasons, not because the entity was found to be non-existent: (1) the web_search tool returned 'searx: Connection refused' on both queries; (2) zaubacorp.com and instafinancials.com returned HTTP 403; (3) thecompanycheck.com search page returned only its marketing landing page with no result rows; (4) google.com returned HTTP 429; (5) duckduckgo.com/html timed out; (6) bing.com returned completely unrelated results (travelopick.com reviews, microsoft.com) for both quoted queries, i.e. no genuine match surfaced. mca.gov.in Master Data was also HTTP 403. Consequently no exact legal entity name, CIN/LLPIN, PAN (and therefore no 4th-character holder-type determination), GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be established. Per project rules, revenue and export figures are left null rather than estimated. IMPORTANT: this record must NOT be treated as rejected - rejection is only permissible where the entity is proven non-existent, struck off, liquidated or bankrupt, and no such proof exists here. Status is 'unverified / insufficient public data'. Recommended next step: obtain the PAN or GSTIN from the supplier directly, or re-run the registry lookup when the search backend is restored, then re-check MCA Master Data and the GST public profile. Note also that the declared HS code 854370 (electrical machines/apparatus with individual functions) is not evidence of manufacturing capability and, per the 23.11.2026 rule, is not a basis for rejection in any case."
+}

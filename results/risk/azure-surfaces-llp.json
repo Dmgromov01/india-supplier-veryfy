@@ -1,0 +1,9 @@
+{
+ "name_input": "AZURE SURFACES LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, DuckDuckGo HTML — timeout, Google — HTTP 429, Bing игнорировал кавычки и выдавал только результаты про Microsoft Azure (шум), сторонний движок — timeout. Ни одной страницы с упоминанием 'Azure Surfaces LLP' получить не удалось. Соответственно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не сверены — null, а не 'чисто'; судебные дела (eCourts/NCLT/High Court) не проверены — null; рейтинги (CRISIL/ICRA/CARE/India Ratings) не проверены — null; негативные новости не проверены — null; следов поставок в РФ/СНГ не искали результативно — null. ВАЖНО: null здесь означает 'нет данных / не проверено', а НЕ 'отрицательный результат'. Компания НЕ отклоняется по этим основаниям (правило 2 и 3): отсутствие данных о санкциях/судах/новостях не является основанием для rejected. Требуется повторный прогон при доступном поиске; приоритетные источники для следующей попытки: реестр MCA (LLP-мастер-данные), eCourts services.ecourts.gov.in, NCLT, OFAC SDN CSV, EU/UK consolidated lists, BIS Entity List, сайты рейтинговых агентств, IndiaMART/EPC-публикации. Юрлицо, HS-код и объёмы отгрузок в рамках этой роли не исследовались."
+}

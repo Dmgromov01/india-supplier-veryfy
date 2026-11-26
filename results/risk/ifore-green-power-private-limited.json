@@ -1,0 +1,9 @@
+{
+ "name_input": "IFORE GREEN POWER PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing по точному запросу \"IFORE GREEN POWER PRIVATE LIMITED\" выдал нерелевантную выдачу (страницы Microsoft) без единого совпадения, повторный запрос по \"IFORE GREEN POWER\" India company — тоже мусорные результаты (рецепты), т.е. достоверного подтверждения существования страниц нет. Прямые источники заблокированы: zaubacorp.com — HTTP 403, tofler.in — HTTP 403, indiankanoon.org — HTTP 403, duckduckgo.com/html — timeout, google.com — HTTP 429. Таким образом НЕ проверены: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), индийские судебные дела (eCourts/NCLT/High Court), действия регуляторов и негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings), признаки поставок в РФ/СНГ. Все поля оставлены null — данных нет, выдумывать нельзя. Отклонять по этим основаниям нельзя (правило 2), компания сохраняется в базе. Требуется повторный прогон при работающем поиске и доступе к реестрам (MCA, eCourts, NCLT, OFAC/UN/EU/UK/BIS консолидированные списки)."
+}

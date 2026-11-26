@@ -1,0 +1,18 @@
+{
+ "name_input": "SYNPOL PRODUCTS PRIVATE LTD.; SYNPOL PRODUCTS PVT. LTD",
+ "legal_name": "SYNPOL PRODUCTS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (connection refused on all queries), and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in) returned HTTP 403 Forbidden. Google returned HTTP 429 and Bing/DuckDuckGo returned irrelevant or timed-out results, so no authoritative page (MCA master data, GST public profile, audited accounts) was read. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null — NOT verified, not absent. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the entity simply remains unverified. Role is 'unknown' — the input gives no basis to classify it as manufacturer or trader, and product catalogues were out of scope for this role. Declared HS 390791 (polyacetals/polyethers in primary forms) is noted but not assessed here. Recommended next step: re-run against MCA master data / GST portal once search access is restored."
+}
