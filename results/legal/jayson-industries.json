@@ -1,0 +1,18 @@
+{
+ "name_input": "Jayson Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первичные регистрационные данные не удались: поисковый бэкенд (DuckDuckGo/searx) вернул 'Connection refused', затем Bing отдавал нерелевантный кэш (NBA-игрок Jayson Tatum, jaysonhome.com) вместо результатов по индийской компании; zaubacorp.com, instafinancials.com и mca.gov.in вернули HTTP 403, thecompanycheck.com — 404, Google — 429. Никаких сведений о существовании юрлица, CIN/LLPIN, PAN, GSTIN, дате инкорпорации, штате регистрации и статусе MCA получить не удалось. Юрлицо НЕ отклонено: отсутствие данных не является основанием для rejected (правило 3 — отклонение только при несуществовании/ликвидации/банкротстве, что не установлено). Роль оставлена 'unknown' — по названию 'Industries' и заявленным HS 392330/392410 (пластиковая тара/посуда) нельзя присваивать manufacturer без подтверждения. Выручка FY25/FY26 — null, аудированной отчётности не найдено (правило 4: не выдумывать). Требуется повторная проверка при доступном поиске: MCA master data по точному названию, GST-портал по торговому названию, а также уточнение у поставщика полного юридического названия и GSTIN, поскольку 'Jayson Industries' может быть торговым наименованием ИП/товарищества без CIN."
+}

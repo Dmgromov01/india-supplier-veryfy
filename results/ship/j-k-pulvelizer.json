@@ -1,0 +1,8 @@
+{
+ "name_input": "J K PULVELIZER",
+ "export_status": "unknown",
+ "export_evidence": "No export record found. ImportKey pages for three slug variants (j-k-pulvelizer, j-k-pulvelizer-jaydeep-parsotambhai-vekariya, jaydeep-parsotambhai-vekariya) all returned the same empty template: \"Shipments available for J K PULVELIZER, refreshed daily\" with 0 shipment rows rendered, no dates, no destinations, no HS codes, no bill-of-lading numbers. Source counter: 3 ImportKey pages opened, 0 shipment rows actually seen. volza.com, eximpedia.app and trademo.com returned HTTP 403 (blocked), so no second source could be checked.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence found. No GST turnover band, no GeM/CPPP tender, no contract and no annual-report split could be retrieved: the web_search backend was unreachable for every query (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no GST/tender pages could be located. Source counter: 2 search queries attempted, 0 results returned; 0 tender/contract records seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это не подтверждение отсутствия отгрузок, а отсутствие доступа к данным: платные трейд-базы (volza, eximpedia, trademo) отдают 403, а ImportKey показывает только шаблон без строк, поисковик недоступен. Заявленный HS 847420 (дробилки/мельницы) не проверен по фактическим записям. Выручка и объём экспорта: null — публичных данных нет, не выдумывались. Юрлицо не проверялось по реестрам (вне рамок задачи); оснований для отклонения нет, статус — неопределённость данных, требуется повторная проверка при доступном источнике."
+}

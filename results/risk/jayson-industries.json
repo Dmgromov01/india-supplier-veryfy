@@ -1,0 +1,9 @@
+{
+ "name_input": "Jayson Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковый слой был недоступен на момент проверки. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing отдавал один и тот же кэшированный нерелевантный результат (Jayson Tatum, Jayson Home) независимо от формулировки запроса — то есть фактически не искал; Google вернул HTTP 429; IndiaMART — HTTP 429; ZaubaCorp — HTTP 403. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен, но это JS-форма, прямой GET-запрос по имени невозможен — совпадение по SDN/Non-SDN не проверено. По компании 'Jayson Industries' (заявленные HS 392330/392410, пластиковая тара/посуда) не найдено ни одной публичной страницы, ни одного судебного дела, рейтинга или новости. ВАЖНО: отсутствие находок здесь НЕ является подтверждением отсутствия рисков — это отсутствие данных. Все поля оставлены null, ничего не выдумано. Требуется повторный прогон при работающем поиске, а также проверка по реестрам: OFAC SDN/Non-SDN, UN Consolidated, EU Consolidated, UK OFSI, BIS Entity List; eCourts/NJDG и High Court по точному юридическому имени; CRISIL/ICRA/CARE/India Ratings; GST-регистрация для подтверждения существования юрлица. Название крайне неспецифично (омоним бренда Jayson Home, фамилии Jayson) — высок риск ложных срабатываний при любом будущем поиске; нужен CIN/PAN/GSTIN от поставщика для однозначной идентификации."
+}

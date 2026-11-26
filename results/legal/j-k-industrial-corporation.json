@@ -1,0 +1,18 @@
+{
+ "name_input": "J. K. INDUSTRIAL CORPORATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) returned connection errors, and direct fetches of public registry aggregators were blocked or empty: zaubacorp.com returned HTTP 403, thecompanycheck.com search returned 404, instafinancials.com returned 403, tofler.in search returned 404, Google returned HTTP 429, and Bing returned only irrelevant results for the letter 'J' (no matching company record). No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures could be confirmed from any official or public source, so all such fields are null rather than guessed. The input itself is internally inconsistent: the 'legal_claimed' field contains a personal name ('JAIDEV PARDASANI'), not a legal entity name, and no state was claimed. 'J. K. Industrial Corporation' is a typical Indian proprietorship/partnership-style trade name, which would have no CIN at all and would only be traceable via GSTIN or Udyam registration - neither of which is available here. Per project rules, the entity is NOT rejected: non-existence/struck-off/liquidation/bankruptcy was not established, only that it could not be confirmed. Role is recorded as 'unknown' because no evidence of manufacturing or trading activity was obtained. HS code 820411 (hand-operated spanners/wrenches) is retained as declared and is not a basis for rejection. Recommended next step: obtain the supplier's GSTIN or PAN directly from the counterparty, then re-run verification against gst.gov.in search-taxpayer and the MCA master data portal."
+}

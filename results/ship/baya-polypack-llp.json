@@ -1,0 +1,8 @@
+{
+ "name_input": "BAYA POLYPACK LLP",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. importkey.com/countries/india/baya-polypack-llp and the variant .../baya-polypack-llp-1 both returned only the site's generic template text ('Shipments available for BAYA POLYPACK LLP, refreshed daily') with 0 shipment rows actually rendered — source counter: 2 pages checked, 0 rows seen. No bill-of-lading number, date, destination or HS code could be read. volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GST turnover band, GeM/CPPP tender participation and annual-report splits could not be checked: zaubacorp.com returned HTTP 403, and the web_search backend was unavailable for the whole session (searx: connection refused), so no GST/tender/contract page could be located. Nothing found either way — this is a tooling gap, not a negative finding.",
+ "note": "No shipment evidence obtained for this company in either direction. The declared HS 560311 (nonwoven fabric, <=25 g/m2) is inconsistent with the claimed industry 'Продукты питания и FMCG' (food/FMCG) — per project rules this is NOT grounds for rejection; the company stays in the base and the HS code should be corrected to the actual product code once a real shipment record is obtained. Legal existence not verified (MCA/Zauba blocked). Revenue and export volume: null — no public data retrieved, not estimated. Recommended next step: re-run with a working search backend and a paid/free-login Volza or Eximpedia view to pull at least one dated B/L or shipping-bill line before any verdict beyond 'unknown' is issued."
+}
