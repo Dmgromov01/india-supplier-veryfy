@@ -1,0 +1,18 @@
+{
+ "name_input": "Clean Fino-Chem Limited",
+ "legal_name": "CLEAN FINO-CHEM LIMITED (as claimed; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. Tooling failures: searx web_search returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in MDS returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com timed out; bing.com returned only irrelevant generic results for the exact-name queries ('Clean Fino-Chem Limited', 'Clean Fino-Chem Ltd', 'Fino-Chem limited India chemical manufacturer'), i.e. no indexed registry profile surfaced. Tofler search URL returned a 404 page. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT evidence of non-existence. Per project rules the company is NOT rejected: absence of a retrieved record is not proof that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' — the 'Limited' suffix and the declared HS codes (293319/293339 heterocyclic compounds; 381230/381239 anti-knock preparations and other chemical preparations) are consistent with a chemical manufacturer, but no filing was read to confirm manufacturer vs trader status. Revenue FY25/FY26 null: no audited accounts or official filing was accessible. Declared HS codes were not assessed against any verified product line (out of scope for this role). Recommended next step: re-run with working search or a paid registry source (MCA V3 master data / Zauba / Tofler) to obtain CIN, PAN, GSTIN and FY25/FY26 filings before any verdict."
+}

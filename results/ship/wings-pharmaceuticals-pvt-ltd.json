@@ -1,0 +1,8 @@
+{
+ "name_input": "Wings Pharmaceuticals Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'wings-pharmaceuticals-pvt-ltd' (https://importkey.com/countries/india/wings-pharmaceuticals-pvt-ltd) rendered only the template shell: 'Shipments available for WINGS PHARMACEUTICALS PVT LTD, refreshed daily' — 0 shipment rows actually visible (counter claims data exists, rows seen = 0). Second slug variant 'wings-pharmaceuticals' returned the identical empty shell. No bill-of-lading number, date, destination or HS code could be read anywhere.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backends failed: DuckDuckGo/searx returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)'; Bing ignored the quoted company name and returned only generic 'wings' results (Wingstop, Paul McCartney and Wings, Buffalo Wild Wings) — 0 relevant rows.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить фактичность не удалось. ImportKey отдал пустую JS-оболочку без строк отгрузок; volza, eximpedia, trademo вернули HTTP 403, importgenius — JS-челлендж, поисковики недоступны или нерелевантны. Ни одной записи об экспорте (дата, направление, HS, B/L) и ни одного подтверждения внутренних поставок (GST-оборот, GeM/CPPP, контракт) получить не удалось. Заявленный HS 330499/330610 (косметика/средства для зубов) не подтверждён и не опровергнут — по правилу 3 HS не является основанием для отклонения. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступном источнике таможенных данных; статус 'unknown', а не 'none_found', поскольку источники были недоступны, а не пусты."
+}

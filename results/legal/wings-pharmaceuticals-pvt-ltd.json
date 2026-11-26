@@ -1,0 +1,18 @@
+{
+ "name_input": "Wings Pharmaceuticals Pvt. Ltd",
+ "legal_name": "WINGS PHARMACEUTICALS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. All 10 tool calls failed to return usable sources: DuckDuckGo search backend was down (connection refused), Google returned HTTP 429, Bing returned only irrelevant results (US restaurant chains) for every query variant tried, and registry/profile pages (ZaubaCorp, TheCompanyCheck, Tofler, InstaFinancials, QuickCompany, IndiaMART) returned 403/404/429/timeouts. MCA portal (search.mca.gov.in) was not resolvable. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT invented. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of accessible data is not a rejection ground. Role left as 'unknown' - the declared HS codes (330499 cosmetics/skin care, 330610 oral/dental hygiene) are inconsistent with the claimed industry 'food & FMCG', which suggests the industry classification in the input is likely wrong and the company is probably a cosmetics/toiletries manufacturer or trader, but this is unconfirmed. Per project rules, HS mismatch is not a rejection ground; the HS codes should be treated as the factual ones and the industry label corrected. Recommended next step: re-run verification when search/registry access is restored, or obtain the GSTIN directly from the supplier's invoice/IndiaMART profile and query the GST portal for legal name, status and registration state."
+}
