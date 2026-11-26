@@ -1,0 +1,20 @@
+{
+ "name_input": "Azelis (India) Private Ltd",
+ "declared_hs": "300490",
+ "actual_hs_list": [
+  "382499",
+  "340290",
+  "330290",
+  "330499",
+  "3208/3209 (CASE: coatings, adhesives, sealants)",
+  "3811/3812/3814 (lubricant & metalworking additives)",
+  "2918/2922/2933/2934 (fine chemicals / synthesis intermediates)",
+  "2309/2835/2915/3504 (animal & food nutrition ingredients)",
+  "3808/3809 (agri & environmental solutions)",
+  "2807/2811/2815/2836/2833 (essential chemicals)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Azelis (India) Private Limited is the Indian arm of the Belgian Azelis group, a speciality chemicals and food-ingredient DISTRIBUTOR (not a manufacturer). The group's own market taxonomy (azelis.com/en/markets, read 2026) lists 15 served markets: Personal Care; CASE (coatings, adhesives, sealants, elastomers, inks, construction); Home Care & Industrial Cleaning (surfactants, builders, speciality additives); Advanced Materials & Additives; Pharmaceuticals & Healthcare ('an extensive range of finished preparations and (APIs) for the pharmaceutical, veterinary and health care industries'); Lubricants & Metal Working Fluids; Food & Nutrition; Animal Nutrition; Electronics; Agricultural & Environmental Solutions; Fine Chemicals (synthesis intermediates); Essential Chemicals; Textiles, Leather & Paper; Other Applications. The India-specific site (azelis.com/en-in) returned HTTP 404 at the time of check, so the India product catalogue could not be opened directly; the portfolio above is taken from the group-level markets page, which is the only public product source reachable.",
+ "role_hint": "trader",
+ "comment": "HS 300490 (medicaments, retail-packed) is only a partial fit. Azelis India is a speciality-chemicals/ingredients distributor: its declared code covers just the Pharmaceuticals & Healthcare slice of a 15-market portfolio, and even there the group describes APIs and 'finished preparations', i.e. bulk/API trade (HS 2941/2933-2934, 3002) rather than only 300490 retail medicaments. The bulk of the real product lines - surfactants and cleaning additives (3402), personal-care and fragrance ingredients (3302/3304), CASE raw materials (32xx, 39xx), lubricant additives (3811/3814), food and feed ingredients (2309, 2835, 2915, 3504), agri solutions (3808), essential and fine chemicals (28xx, 29xx) - is missing from the declaration. Industry label 'Нефтегаз и химия' is a misclassification: Azelis is not oil & gas; it is speciality chemicals distribution with a strong life-sciences (pharma/food/personal care) weighting. Trader signs are clear: the group self-describes as 'a speciality distributor of chemicals and food ingredients' sourcing 'raw materials from leading global manufacturers' and adding sampling/formulation labs - no own production. Per project rule 3 the HS mismatch is NOT a rejection ground: company is retained and the code corrected to the actual multi-line portfolio (accepted_hs_corrected). All product lines above are 'заявлено, не подтверждено' - they come from the corporate markets page, not from any customs line; no shipment record was checked in this task (out of scope). India-entity-specific catalogue and any India export/domestic supply evidence: null / not verified here."
+}

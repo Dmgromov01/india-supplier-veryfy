@@ -1,0 +1,14 @@
+{
+ "name_input": "BHANSALI ENGG POLYMERS LTD",
+ "declared_hs": "390330;390390",
+ "actual_hs_list": [
+  "3903.30 (ABS — acrylonitrile-butadiene-styrene copolymer, primary forms)",
+  "3903.90 (SAN — styrene-acrylonitrile copolymer; ASA and AES are also styrene-based copolymers, prima facie 3903.90 unless modified/compounded)",
+  "3907.40 (PC — polycarbonate, only as input for PC-ABS alloy; the alloy itself is normally classified as a compound of 3903.30 or 3907.40 depending on character — cannot_verify)",
+  "3906.90 / 3907.40 (PMMA content in ABS/PMMA, ASA/PMMA speciality grades — cannot_verify)"
+ ],
+ "match_status": "exact",
+ "product_summary": "Официальный сайт bhansaliabs.com (раздел Products) перечисляет реальный ассортимент: ABS (марки High Impact, Paintable/Electroplatable, Extrusion, Heat Resistant, Flame Retardant, General Purpose), ASA (UA-1300, UA-1800, UA-1200, H-250, T-141, H-270), PC-ABS сплавы (paintable, heat resistant, low/high flow), Specialities (Low Gloss, High Gloss, ABS/PMMA, ASA/PMMA, Pearl Effect, Metallic Effect) и SAN (IMS-1000 General SAN, IMS-1000M High Lubrication SAN). Профиль на screener.in (BSE: 500052, NSE: BEPL) подтверждает: «engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics», 80+ вариантов ABS и спецполимеров. Заявленные коды 390330 (ABS) и 390390 (прочие стирольные сополимеры) полностью покрывают основную товарную номенклатуру — совпадение точное.",
+ "role_hint": "manufacturer",
+ "comment": "HS-соответствие: exact. Заявленные 390330 и 390390 корректно описывают фактический выпуск — ABS-смолы (3903.30) и SAN/ASA/AES-сополимеры стирола (3903.90). Отраслевая метка «Нефтегаз и химия» формально верна (нефтехимия/полимеры), но точнее — «Производство пластмасс / инженерные полимеры (стирольные сополимеры)»; это не ошибка классификации, а слишком широкая формулировка. Пробелы в декларации: (1) сплавы PC-ABS — товарная позиция может уходить в 3907.40 или оставаться в 3903.30 в зависимости от преобладающего компонента, по открытым данным не подтверждено — «заявлено, не подтверждено»; (2) спецмарки ABS/PMMA и ASA/PMMA — возможна классификация с учётом ПММА (3906.90), не подтверждено; (3) AES-смолы (упомянуты в профиле screener.in) отдельной строкой в декларации не выделены, но покрываются 3903.90. Признаков трейдерской модели нет: собственное производство (завод в Абу-Роуд, Раджастхан, по данным сайта/профиля), R&D-центр, совместная работа с Nippon A&L — роль manufacturer. Все товарные линии взяты с сайта компании; таможенных записей по конкретным кодам в рамках этой проверки не исследовалось (по условию задачи), поэтому привязка марок к отдельным HS-строкам остаётся на уровне «заявлено, не подтверждено». Оснований для отклонения нет."
+}

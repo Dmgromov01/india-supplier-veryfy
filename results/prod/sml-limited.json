@@ -1,0 +1,17 @@
+{
+ "name_input": "SML LIMITED",
+ "declared_hs": "380892",
+ "actual_hs_list": [
+  "3808.92",
+  "3808.93",
+  "3808.94",
+  "3808.91",
+  "3105.90",
+  "3102.90",
+  "3808.99"
+ ],
+ "match_status": "partial",
+ "product_summary": "SML Limited (formerly Sulphur Mills Limited) — Indian agrochemical / agri-input manufacturer. Per its own website (sulphurmills.com, homepage, accessed for this check) the offering is organised into: Crop Nutrition (fertilisers), Crop Protection (fungicides, insecticides, herbicides), PGR (plant growth regulators) and Biologicals; the site's product-solution tabs list 'Fertiliser, Fungicide, Insecticide, Herbicide, PGR'. Brand 'Reap'. Claims presence in 80+ countries and multiple manufacturing units. Specific SKU-level product names and formulations were NOT retrievable: the catalogue is behind a 'Download Product Catalogue' link and the sub-pages (/our-solutions, /crop-protection, /crop-nutrition, /sml-sumil) returned HTTP 404, and web search was unavailable during this check. So the product list is category-level only, not SKU-level.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: declared 380892 = 'fungicides' (HS-6, 3808.92). The company genuinely makes fungicides, so the declared code is CORRECT for one of its lines — hence 'partial', not 'wrong'. However 380892 covers only a fraction of the real range: insecticides fall under 3808.91, herbicides/anti-sprouting products under 3808.93, disinfectants 3808.94, other 3808.99; the fertiliser/crop-nutrition line falls outside heading 3808 entirely (mineral/chemical fertilisers 3102/3105, or 3105.90 for other fertilisers containing two or three nutrients). PGRs may sit in 3808.93 or 2921/other depending on chemistry — cannot be pinned without SKU data. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a MISCLASSIFICATION: this is agrochemicals/agri-inputs, not oil & gas; the 'chemicals' half is only loosely right. No trader signs found — the site presents own R&D, own patents, own manufacturing units and own brands, consistent with manufacturer (not independently verified here, per scope). Per project rule 3, the HS mismatch is NOT a rejection ground: company is retained and the code set should be corrected/expanded to the actual range above. IMPORTANT per rule 5: everything above is 'заявлено, не подтверждено' — it comes from the company's own website, not from any customs line or shipment record. No customs/B-L line was checked in this task (out of scope), so no HS code here is corroborated by an actual shipment record. Registry, revenue and export-volume data deliberately not researched (out of scope)."
+}

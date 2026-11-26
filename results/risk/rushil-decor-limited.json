@@ -1,0 +1,9 @@
+{
+ "name_input": "RUSHIL DECOR LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research as of 2026-11-26 was largely inconclusive due to tooling limits: the web_search backend returned connection refused on all queries, and the company website (rushilgroup.com) did not resolve. OFAC SDN/Non-SDN lists were reachable (SDN list last updated 11/23/2026 per sanctionssearch.ofac.treas.gov), but the downloadable sdn.csv was truncated at 6,000 characters by the fetch tool, so a full name scan for 'RUSHIL' could not be completed - no sanctions hit was observed in the retrieved portion, but this is NOT a verified negative. BSE corporate-announcements page and ICRA rating search returned only page shells / 404 (JS-driven), so no court cases, regulator actions, credit rating or negative news could be confirmed. No evidence of supplies to Russia or the CIS was found, but absence of evidence here reflects source inaccessibility, not a verified clean result. All fields set to null per rule 4 (do not invent data). Recommended follow-up with working search access: OFAC/UN/EU/UK/BIS list checks by exact name, NCLT/NCLAT and High Court party searches, SEBI orders, and CRISIL/ICRA/CARE/India Ratings rationales. Per rule 2, any sanctions/court/criminal findings would be noted neutrally and would not be grounds for rejection."
+}

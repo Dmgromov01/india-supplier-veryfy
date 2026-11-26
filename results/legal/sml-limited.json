@@ -1,0 +1,18 @@
+{
+ "name_input": "SML LIMITED",
+ "legal_name": "SML LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search tool returned a backend connection error ('searx: Connection refused') on every query, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403, knowyourgst.com returned HTTP 500, and mca.gov.in returned HTTP 403. Bing/Google HTML endpoints returned only generic, query-irrelevant results (YouTube/Fandom 'SML' pages), so no reliable page identifying the Indian entity was obtained. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all left null rather than guessed. Note that 'SML Limited' is a common short form and at least two distinct Indian entities are plausible (e.g. a Punjab-based agrochemical/sulphur-milling company and other 'SML' companies); without a CIN or GSTIN from the input, the exact legal entity cannot be pinned down, so no legal_name variant is asserted beyond the claimed string. Role is 'unknown' - the claimed industry (oil/gas & chemicals) and declared HS 380892 (fungicides) are consistent with a manufacturer of agrochemical formulations, but this is not confirmed by any registry document. Revenue FY25/FY26: null - no audited accounts or MCA filings were retrievable. Per project rules this is NOT a rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the data is simply not public/accessible here. Recommend re-running with a working search backend or supplying the CIN/GSTIN, and note that HS 380892 is not a basis for rejection in any case."
+}
