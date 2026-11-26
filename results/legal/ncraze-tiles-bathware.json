@@ -1,0 +1,18 @@
+{
+ "name_input": "NCRAZE TILES & BATHWARE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AHUPD8722D",
+ "pan_holder_type": "Individual (4th character 'P' = person/individual — consistent with a proprietorship PAN, not a company PAN)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record could be retrieved. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down) on both queries; zaubacorp.com, instafinancials.com and tofler.in returned HTTP 403; google.com/search returned HTTP 429; bing.com returned unrelated results (query not honoured); api.mca.gov.in did not resolve. Consequently no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from any source, and no audited revenue figures were found — all left null rather than guessed. What can be said from the input alone: the 'legal_claimed' value 'BHAVESH CHANDULAL DASADIYA' is a personal name, and the claimed PAN AHUPD8722D has 'P' as its 4th character, which denotes an individual holder — so this is most likely a sole proprietorship / individual trading style rather than a registered company, meaning there is probably no CIN and no MCA record at all; the entity would be evidenced only by GST registration. 'NCRAZE TILES & BATHWARE' therefore looks like a trade/brand name, not a verified legal entity name. Per project rules this is NOT grounds for rejection (the entity has not been shown to be non-existent, struck off, liquidated or bankrupt — it simply could not be checked), so the record is left unverified rather than rejected. Role cannot be determined: no evidence of own manufacturing capacity (kiln/plant) or of pure resale was obtainable, so 'unknown'. Declared HS 690721 (ceramic tiles, >=0.5% water absorption) is plausible for a tiles & bathware business but is not verified against any actual shipping document. ACTION NEEDED: re-run verification when search access is restored — priority sources are the GST portal public search for the trade name and PAN AHUPD8722D (to obtain GSTIN, status and registration state), and the Udyam/MSME or Gujarat Shops & Establishments registers for the proprietorship; if a GSTIN is obtained, confirm the state code matches the claimed Gujarat (24). Revenue will most likely remain null since proprietorships do not file audited accounts publicly."
+}

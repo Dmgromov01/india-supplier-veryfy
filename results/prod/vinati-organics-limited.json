@@ -1,0 +1,23 @@
+{
+ "name_input": "VINATI ORGANICS LIMITED",
+ "declared_hs": "292419;381239",
+ "actual_hs_list": [
+  "292419 (acyclic amides & derivatives: ATBS CAS 15214-89-8, NAATBS CAS 5165-97-9, TBA CAS 107-58-4, TOA CAS 4223-03-4)",
+  "290290 (aromatic hydrocarbons: IBB CAS 538-93-2, NBB 104-51-8, SBB 135-98-8, TAB 2049-95-8, 3-phenylpentane 1196-58-3)",
+  "290719 / 290729 (butyl phenols: OTBP 88-18-6, OSBP 89-72-5, PTBP 98-54-4, 2,4-DTBP 96-76-4, 2,6-DTBP 128-39-2, 2,6-DSBP 5510-99-6)",
+  "291639 / 291829 (PTBBA CAS 98-73-7; methyl 4-tert-butylbenzoate PTBMB CAS 26537-19-9)",
+  "381239 (antioxidant preparations/blends: Veenox B215, B225, Veenox 1010/1076/1098/1135/1315/L135/168)",
+  "290919 / 290943 (HP-MTBE CAS 1634-04-4)",
+  "292119 (tertiary butylamine, C4H11N)",
+  "290123 (isobutylene CAS 115-11-7)",
+  "290511 (methanol CAS 67-56-1)",
+  "271012 / 271019 (isohexane SBP CAS 64742-49-0, mixed hexenes, C10 aromatic solvent/Aromatic 150)",
+  "283630 (potassium bicarbonate CAS 298-14-6)",
+  "292142 / 292159 (4-butylaniline CAS 104-13-2)",
+  "382499 (miscellaneous polymer / other speciality products)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Реальный производитель (не трейдер): сайт vinatiorganics.com перечисляет 7 продуктовых линеек — Speciality Aromatics (IBB, NBB, SBB, TAB, 3-phenylpentane, C10 aromatic solvent, 4-butylaniline), Speciality Monomers (ATBS, NAATBS, TBA, TOA), Butyl Phenols (OTBP, OSBP, PTBP, 2,4-DTBP, 2,6-DTBP, 2,6-DSBP), Antioxidants под маркой VEENOX (1010, 1076, 1098, 1135, 1315, L135, 168, BHA, blends B215/B225), Other Speciality (isohexane, PTBMB, PTBBA, isobutylene, methanol, HP-MTBE, tert-butylamine, mixed hexene), Inorganic (potassium bicarbonate), Miscellaneous Polymer. Заявлено как крупнейший в мире производитель IBB и ATBS, поставки в 35+ стран, заводы в Maharashtra (Mahad и др.).",
+ "role_hint": "manufacturer",
+ "comment": "HS-коды заявлены частично верно. 292419 — точное попадание: это ядро бизнеса (ATBS/NAATBS/TBA/TOA — ациклические амиды и их производные), подтверждено страницей Speciality Monomers с CAS-номерами. 381239 — попадание частичное: относится только к готовым антиоксидантным смесям (Veenox B215/B225, blends), тогда как основная масса антиоксидантов (1010 CAS 6683-19-8, 1076, 1098, 168, 1135, L135) — индивидуальные соединения и должны классифицироваться по 2918/2924/2920/2916, а не по 3812. Крупные продуктовые линии вообще отсутствуют в декларации: ароматика (IBB/NBB/SBB/TAB — 2902), бутилфенолы (2907), PTBBA/PTBMB (2916), изобутилен (2901), метанол (2905), MTBE (2909), трет-бутиламин (2921), изогексан/гексены/C10-ароматика (2710), бикарбонат калия (2836), 4-бутиланилин (2921). Отрасль «Нефтегаз и химия» — некорректная формулировка: компания не нефтегазовая, это specialty chemicals / органический синтез (нефтехимическое сырьё — лишь исходное). Признаков трейдера нет: собственные заводы, интеграция назад по изобутилену и 2,4-/2,6-DTBP. Все перечисленные продукты — заявлено на сайте, не подтверждено таможенными записями (в рамках этой роли таможенные линии не проверялись). Вердикт по правилу 3: компания сохраняется, код исправляется на фактический — accepted_hs_corrected."
+}

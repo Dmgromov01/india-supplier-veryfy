@@ -1,0 +1,18 @@
+{
+ "name_input": "BHARAT RUBBER WORKS PVT.LTD.; BHARAT RUBBER WORKS PVT LTD",
+ "legal_name": "BHARAT RUBBER WORKS PRIVATE LIMITED (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error (searx: connection refused) on every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403 Forbidden; DuckDuckGo HTML/lite endpoints timed out and Bing returned only generic 'Bharat' results with no company-specific hits. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT verified, not absent. No audited accounts or official filings were reachable, so revenue FY25/FY26 are null. Role is 'unknown': the declared HS codes (4016 rubber articles; 9018 medical instruments) are inconsistent with each other and with the claimed industry 'oil & gas and chemicals', and no registry record was available to determine manufacturer vs trader. Per project rules this is NOT a rejection ground - the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it simply remains unverified. Note: an earlier attempt in this session used a guessed CIN (U25191MH1985PTC036789) in a URL - that identifier was fabricated by me and must be disregarded; it is not reported as a finding. Recommend re-running this company when registry access (MCA master data / GST portal) is available."
+}
