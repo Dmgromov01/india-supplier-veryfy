@@ -1,0 +1,9 @@
+{
+ "name_input": "INDOSURGICALS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google и Brave — HTTP 429, lite.duckduckgo.com и альтернативный движок — таймаут. Реестр Zaubacorp отдал 403, сайт indosurgicals.com закрыт бот-проверкой, инструмент OFAC Sanctions List Search — JS-форма, через http_get результаты запроса не возвращаются. Ни по одному из пунктов (санкции OFAC/UN/EU/UK/BIS, индийские суды, действия регуляторов и негативные новости, кредитный рейтинг, поставки в РФ/СНГ) подтверждённых данных получить не удалось. Все поля null — это означает 'не проверено / нет публичных данных в доступных источниках', а НЕ 'чисто'. Компанию не отклонять (правило 2); требуется повторный прогон проверки при восстановлении доступа к поиску и судебным базам (eCourts, NCLT, Zaubacorp/Tofler)."
+}

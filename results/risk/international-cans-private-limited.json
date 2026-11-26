@@ -1,0 +1,9 @@
+{
+ "name_input": "International Cans Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing отдавал нерелевантную общую выдачу по слову 'international' независимо от запроса (фильтр по точной фразе не работал); zaubacorp.com — HTTP 403; tofler.in — 404 по предполагаемому URL; страница OFAC Sanctions List Search — JS-форма, результаты через GET не отдаются. Никаких данных по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), судебным делам в индийских судах, регуляторным действиям, негативным новостям, кредитному рейтингу и поставкам в РФ/СНГ получить не удалось. Все поля оставлены null — данные не выдумывались. ВАЖНО: null здесь означает 'не проверено', а НЕ 'чисто'. Компанию нельзя считать проверенной; требуется повторный прогон при доступном поиске (рекомендуемые источники: OFAC Sanctions List Search, OpenSanctions, eCourts/NJDG, indiankanoon, Zauba Corp/Tofler, CRISIL/ICRA/CARE, IndiaMART/Volza для следов поставок). По правилу 2 проекта санкции/суды/уголовные дела в любом случае не являются основанием для отклонения — только нейтральная пометка «есть сложности»."
+}

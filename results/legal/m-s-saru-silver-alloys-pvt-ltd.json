@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SARU SILVER ALLOYS PVT.LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один публичный источник не удалось прочитать. DuckDuckGo-бэкенд web_search возвращал 'Connection refused' на всех запросах; Bing отдавал нерелевантную выдачу (игнорировал кавычки и операторы, результаты про сериал 'Saru'); zaubacorp.com, thecompanycheck.com и instafinancials.com вернули HTTP 403; tofler.in — 404 на поисковый URL. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата регистрации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, не выдуманы. Юрлицо 'SARU SILVER ALLOYS PRIVATE LIMITED' по названию выглядит как правдоподобная индийская private limited company, но факт существования в MCA по доступным мне источникам НЕ подтверждён — это не основание для rejected (правило 3: отклонение только при доказанном отсутствии/ликвидации/банкротстве), поэтому статус — 'не проверено', требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP. Роль (manufacturer/trader) не определена — null/unknown. Заявленный HS 381090 (флюсы/прочие хим. препараты), 710692 (серебро полуобработанное), 811269 (прочие неблагородные металлы, включая сурьму/висмут) — по коду 710692 профиль скорее производитель/трейдер серебряных полуфабрикатов, чем нефтегаз/химия, как указано в industry_claimed; это наблюдение по коду, а не подтверждённый факт. Выручка: аудиторская отчётность не найдена, поля null."
+}

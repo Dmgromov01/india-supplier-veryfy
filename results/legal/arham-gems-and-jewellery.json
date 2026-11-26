@@ -1,0 +1,18 @@
+{
+ "name_input": "ARHAM GEMS AND JEWELLERY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. DuckDuckGo-бэкенд недоступен (connection refused), Google вернул 429, Bing выдал нерелевантную выдачу (спам/кино-страницы) по всем трём запросам, MCA (mca.gov.in), ZaubaCorp, Tofler и InstaFinancials вернули 403/404. Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и MCA-статус — null: не публично доступны в рамках этой сессии, а не «отсутствуют». Важно: 'VIJIT VINOD JAIN' в поле legal_claimed — это имя физлица, а не юрлицо; 'ARHAM GEMS AND JEWELLERY' по формату названия похоже на proprietorship/partnership (тогда CIN отсутствует по определению, а PAN — это PAN физлица/фирмы, 4-й символ 'P' для физлица или 'F' для фирмы), но подтвердить это нечем. Роль оставлена unknown: заявленный HS 710491 (изделия из драгметаллов/ювелирные) не соответствует заявленной отрасли «Продукты питания и FMCG» — это несоответствие входных данных, а не основание для отклонения; по правилам проекта код исправляется на фактический после проверки, компания сохраняется в базе. Отклонение НЕ применяется: сведений о ликвидации/банкротстве/отсутствии юрлица нет, а без данных такой вывод был бы выдумкой. Требуется повторная проверка при доступном MCA/GST-портале (поиск по PAN/GSTIN владельца Vijit Vinod Jain)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "VAV LIPIDS PRIVATE LIMITED",
+ "legal_name": "VAV LIPIDS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, не выдуманы. Все попытки получить первоисточник не удались: web_search вернул 'Connection refused' (бэкенд поиска недоступен); DuckDuckGo (html и lite) — таймаут; Bing по точной фразе в кавычках игнорировал кавычки и выдал только HVAC-материалы про 'VAV' (variable air volume), т.е. релевантных результатов по компании нет; zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403; mca.gov.in (MDS) — HTTP 403. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null — публично не подтверждены в рамках доступных инструментов. Роль (manufacturer/trader) не определена: без MCA-записи и GST-профиля отнести нельзя, поэтому 'unknown'. ВАЖНО: отсутствие подтверждения НЕ является основанием для отклонения по правилам проекта — юрлицо не признано несуществующим/ликвидированным/банкротом, статус 'rejected' не применяется. Компания сохраняется в базе со статусом 'заявлено, не подтверждено' до повторной проверки при восстановлении доступа к MCA/ZAUBACORP/GST-порталу. Заявленный HS (200570; 290613; 292310; 292320) не проверялся и по правилам проекта не является основанием для отклонения — при подтверждении фактического кода вердикт должен быть accepted_hs_corrected. Требуется повторный прогон с рабочим поиском."
+}

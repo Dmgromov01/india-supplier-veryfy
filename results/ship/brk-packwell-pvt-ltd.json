@@ -1,0 +1,8 @@
+{
+ "name_input": "BRK PACKWELL PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. ImportKey page https://importkey.com/countries/india/brk-packwell-pvt-ltd returned only a JS shell: 'Shipments available for BRK PACKWELL PVT LTD, refreshed daily' — 0 rows actually visible, no bill-of-lading number, date, destination or HS code. Slug variant /brk-packwell-pvt-ltd-1 likewise returned 0 rows. Volza (https://www.volza.com/p/brk-packwell/) and Eximpedia returned HTTP 403; no free-view rows obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Web search for \"BRK Packwell\" returned only unrelated entities (Berkshire Hathaway, BRK Electronics, Blue Ridge Knives, Brocock/BRK airguns) — 0 relevant hits; DuckDuckGo backend refused connection, Google returned HTTP 429.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это результат отсутствия доступа к данным, а не доказательство несуществования компании: все источники отгрузок (ImportKey, Volza, Eximpedia) отдали либо пустой JS-контейнер, либо 403, а поисковый бэкенд был недоступен. Заявленный HS 330510 (шампуни) не подтверждён и не опровергнут — фактический код не установлен, поэтому HS не корректировался. Выручка: null (не публична/не найдена). Объём экспорта: null. Юрлицо не проверялось по MCA в рамках этой роли (реестры вне области задачи); оснований для отклонения нет. Требуется повторный прогон при доступном источнике таможенных записей."
+}

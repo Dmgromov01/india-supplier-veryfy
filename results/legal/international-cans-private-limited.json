@@ -1,0 +1,18 @@
+{
+ "name_input": "International Cans Private Limited",
+ "legal_name": "INTERNATIONAL CANS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified - no source could be read. Tooling failures: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; Google returned HTTP 429; Bing returned only generic 'international' dictionary/truck results and ignored quoted/exact-phrase and site: operators, so no company-specific page was ever retrieved. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are not public to me through the available tools in this session, and I will not invent them. Legal name is recorded only as the name claimed in the input; existence of the entity is UNCONFIRMED, not disproven. Per project rules, non-verification is not a ground for rejection, so no rejection is issued and the record stays in the database pending re-check. Role set to 'unknown' (no registry/audited evidence of manufacturing vs trading; the claimed HS 731029 - iron/steel cans of capacity < 50 l - is consistent with a metal packaging maker, but that is an inference, not a verified fact). Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible. Action needed: re-run this company when the search backend is restored, or supply the CIN/GSTIN so the MCA master-data and GST public-profile lookups can be done directly."
+}

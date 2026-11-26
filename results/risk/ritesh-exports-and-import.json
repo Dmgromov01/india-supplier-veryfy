@@ -1,0 +1,9 @@
+{
+ "name_input": "RITESH EXPORTS AND IMPORT",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Google — HTTP 429; Bing по точным кавычкам 'Ritesh Exports and Import' / 'Vijay Global Exports' / 'Ritesh Exports' выдавал только нерелевантную выдачу (Amazon, Home Depot), т.е. индексируемых совпадений по названию не найдено. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, прямой GET-запрос с именем не исполняется — результат скрининга по SDN/Non-SDN получить не удалось, поэтому sanctions_hit = null (НЕ означает 'чисто'). Судебные дела (eCourts/NJDG), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия (RBI/SEBI/DGFT) и признаки поставок в РФ/СНГ не проверены — все поля null. Дополнительно: заявленное юрлицо 'VIJAY GLOBAL EXPORTS' не совпадает с названием в поле name ('RITESH EXPORTS AND IMPORT') — это вопрос к верификации юрлица (вне моей роли), но риск-профиль без подтверждённой юрлица-идентичности построить нельзя. Рекомендация: повторить скрининг вручную по OFAC SDN XML, eCourts по фактическому CIN/PAN и открытым реестрам, когда поиск восстановится. Оснований для отклонения по риск-критериям (правило 2) нет и не заявляется."
+}

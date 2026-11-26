@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S SARU SILVER ALLOYS PVT.LTD",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. ImportKey page https://importkey.com/countries/india/saru-silver-alloys-pvt-ltd returned only a JavaScript shell: 'Shipments available for SARU SILVER ALLOYS PVT LTD, refreshed daily' — a marketing placeholder, not a shipment row. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender, contract or annual-report split was found or read. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: данные просто не получены. ImportKey отдал пустую JS-оболочку (0 строк), volza/eximpedia/importgenius/zaubacorp/thecompanycheck вернули HTTP 403, DuckDuckGo HTML — таймаут, Google — 429, Bing отдавал закэшированный нерелевантный результат (сериал 'Saru', saruorganics.com) на все запросы, включая точные в кавычках. Поэтому export_status и domestic_status = unknown, а не none_found: отсутствие доступа к источникам не равно отсутствию отгрузок. Заявленные HS 381090/710692/811269 (флюсы, серебро, сурьма/висмут) не подтверждены ни одной таможенной записью; фактический код не установлен. Выручка, объём экспорта, CIN, PAN, штат — null, публично не получены. Трейдер/производитель — не определено. Требуется повторная проверка при доступе к платным тарифам Volza/Eximpedia или к реестру MCA; отклонение не предлагается (нет оснований: факт ликвидации/несуществования юрлица не установлен)."
+}

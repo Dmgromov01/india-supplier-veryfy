@@ -1,0 +1,9 @@
+{
+ "name_input": "TOYOTA TSUSHO INDIA PVT. LTD; TOYOTA TSUSHO INDIA PVT LTD; METALS PLANET; TOYOTA TSUSHO INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Research could not be completed: the web_search backend returned connection errors ('searx: Connection refused') on every query, and fallback attempts (DuckDuckGo HTML endpoint, Bing) either timed out or returned only generic Toyota Motor / US dealership results with no relevance to the Indian entity. Direct fetches of toyota-tsusho.com global-network subpages returned HTTP 404. Consequently NO verifiable public source was obtained for any of the required risk fields, so all are set to null rather than guessed. What IS confirmed from a successfully fetched primary source: Toyota Tsusho Corporation's official Global Network page (https://www.toyota-tsusho.com/english/company/network/, 'as of October 30, 2026') lists a wholly-group Russian presence - 'Toyota Tsusho RUS LLC, Sadovnicheskaya naberezhnaya 9, Moscow, 115035, Russia' - plus CIS offices in Almaty (Kazakhstan) and Tashkent (Uzbekistan). This is group-level, not evidence of supply from the Indian entity to Russia/CIS; rf_supply for the Indian company remains unconfirmed (null). No sanctions listing, court case, regulator action, credit rating or negative news for Toyota Tsusho India Private Limited was found or confirmed - absence here reflects tool failure, not a clean bill of health. Recommend re-running with a working search backend and checking: OFAC SDN/UN/EU/UK/BIS lists for the exact Indian entity name, eCourts/NCLT/High Court records, CRISIL/ICRA/CARE ratings, and Indian trade/export records. Per project rules, sanctions or court findings would not be rejection grounds in any case."
+}
