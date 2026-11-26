@@ -1,0 +1,18 @@
+{
+ "name_input": "HI TECH INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; Zauba Corp and InstaFinancials returned HTTP 403; TheCompanyCheck and Tofler search returned HTTP 404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing ignored the quoted phrase and returned only generic 'hi' dictionary/HITECH-Act results, no Indian registry page. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. All such fields are null by rule (no invented data). 'HI TECH INTERNATIONAL' is a very common Indian trade name (multiple proprietorships/partnerships and at least one unrelated 'Hitech Group' conglomerate), so the input name alone cannot be mapped to a single legal entity without a CIN, PAN or GSTIN from the buyer. Role left as 'unknown' - the declared HS codes (732690 steel articles; 842240 packing/wrapping machinery) suggest a metal-fabrication or trading business, but that is an inference from the input, not a verified fact. NOT rejected: absence of public data is not evidence of non-existence, strike-off, liquidation or bankruptcy, and per project rules rejection requires positive proof of one of those. Recommended next step: obtain the supplier's GSTIN or PAN (or a copy of its GST registration certificate / invoice) and re-run verification against the MCA master data and GST portal."
+}

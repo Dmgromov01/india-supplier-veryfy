@@ -1,0 +1,19 @@
+{
+ "name_input": "PRIMAX EQUIPMENT PVT. LTD",
+ "declared_hs": "370520;842511;847431",
+ "actual_hs_list": [
+  "847431",
+  "847432",
+  "842951",
+  "842952",
+  "847910",
+  "847920",
+  "730840",
+  "730890",
+  "732690"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт primaxequipment.com (главная страница, раздел «Our Products»): производитель и экспортёр строительной и дорожной техники с 1978 г., офис 12A Netaji Subhas Road, Kolkata 700001, заводы Domjur (Howrah) и Harinavi (Kolkata). Реальная номенклатура: (1) Civil Construction Machinery — Mini Mobile Batching Plant, Self Loading Mixer, Concrete Batching Plant, Concrete Mixer; (2) Road Construction Machinery — Asphalt Drum Mix Plant, Combined Drying & Mixing Unit, Cationic Sprayer (битумный распылитель), Asphalt Batch Mix Plant; (3) Steel Centering Shuttering Scaffolding Equipments — Floor Forms Shuttering, Adjustable Steel Props, Adjustable Floor Centers, Cup Lock System; (4) 3 Bag Mixer.",
+ "role_hint": "manufacturer",
+ "comment": "СООТВЕТСТВИЕ HS: частичное. Подтверждён только 847431 (бетономешалки/бетоносмесители — Concrete Mixer, 3 Bag Mixer, Self Loading Mixer, бетоносмесительные установки). Код 842511 (тали/полиспасты с электроприводом) НЕ подтверждён ни одним продуктом на сайте — вероятно ошибочный/перенесённый код; фактически ближе 842951/842952 (погрузчики и экскаваторы с поворотной платформой — для Self Loading Mixer) либо 847910/847920 (дорожная техника). Код 370520 (фотоплёнка/фотобумага сенсибилизированная) — ЯВНО НЕВЕРЕН, никак не связан с продукцией; вероятно артефакт декларации. ПРОПУЩЕНО В ДЕКЛАРАЦИИ: асфальтосмесительные установки (Asphalt Drum Mix Plant, Asphalt Batch Mix Plant, Combined Drying & Mixing Unit) → 847432 (смесители минеральных материалов с битумом) или 847910; битумный распылитель (Cationic Sprayer) → 842489/847910; металлоконструкции опалубки, стоек, лесов (Adjustable Steel Props, Floor Forms Shuttering, Cup Lock System, Adjustable Floor Centers) → 730840 (оборудование для строительных лесов/опалубки) — целая товарная линия, отсутствующая в декларации. ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявленная отрасль «Продукты питания и FMCG» полностью не соответствует — компания является производителем строительной техники и металлоопалубки (машиностроение/металлообработка). Признаков трейдера нет: сайт описывает собственное производство (два заводских адреса, «manufacturing and exporting»), однако факт собственного производства подтверждён только заявлением сайта — статус «заявлено, не подтверждено» (таможенных записей и GST-оборотов в рамках этой проверки не исследовал). Вердикт по правилу 3: компания сохраняется, коды корректируются на фактические (accepted_hs_corrected); 370520 и 842511 подлежат замене/снятию. Все продуктовые данные — с https://primaxequipment.com (главная страница); внутренние страницы каталога по угаданным URL вернули 404, поэтому детальные спецификации не проверены."
+}

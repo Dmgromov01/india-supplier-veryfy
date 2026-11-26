@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S KASHVI DESIGS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: DuckDuckGo search backend returned 'Connection refused' on all queries; Google returned HTTP 429; Bing returned only unrelated results (Valentine's gifts, Microsoft pages) for the exact-name queries; direct fetches of zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; duckduckgo.com/html and html.duckduckgo.com timed out. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue could NOT be confirmed from any public source and are recorded as null - none of these values are invented. IMPORTANT NAME DISCREPANCY: input name is 'M/S KASHVI DESIGS PRIVATE LIMITED' while legal_claimed is 'KASHVI DESIGNS PRIVATE LIMITED' (DESIGS vs DESIGNS) - the two spellings are different legal names and must be resolved against MCA before any further work; the correct entity cannot be determined without registry access. No rejection applied: per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and absence of accessible data is NOT such proof - status is 'unverified', not 'rejected'. HS codes declared (610910;620342;620343;620442 - knitted T-shirts and woven cotton/mens/womens trousers) are apparel, which conflicts with industry_claimed 'Продукты питания и FMCG' (food/FMCG); per rule 3 this is not a rejection ground - if the entity is confirmed, the HS code should be corrected to the factual one and the verdict set to accepted_hs_corrected. Role provisionally 'unknown' (no evidence of manufacturing plant or trading activity obtained). Recommended next step: retry with working search access or a paid registry API (MCA master data / Zauba / Tofler) to obtain CIN, GSTIN and audited FY25/FY26 revenue."
+}

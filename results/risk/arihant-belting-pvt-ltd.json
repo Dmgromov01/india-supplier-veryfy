@@ -1,0 +1,9 @@
+{
+ "name_input": "ARIHANT BELTING PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no reliable negative findings can be asserted. Tooling failed: web_search backend refused all connections (searx urlopen error 111) on every attempt; DuckDuckGo HTML/lite endpoints timed out; Google returned HTTP 429; Bing returned wholly unrelated content (deer-hunting and Microsoft pages) for the exact-phrase query, i.e. the query was not honoured, so Bing results are unusable as evidence. OFAC Sanctions List Search page loaded but is a JS-driven form and could not be queried via http_get, so no SDN/UN/EU/UK/BIS screening was actually performed - sanctions_hit is null because it is UNVERIFIED, not because a clean result was obtained. Indian Kanoon was the only source that worked: exact-phrase search for \"Arihant Belting\" returned 0 matching judgments (https://indiankanoon.org/search/?formInput=%22Arihant%20Belting%22); the unquoted variant returned 28 loose keyword hits (Allahabad HC, NGT, Calcutta HC, Madras HC, Bombay HC, Delhi HC) that are generic keyword matches on land acquisition, SEZ and unrelated parties and do NOT name this company as a party - so court_cases is null, not 'none'. ZaubaCorp returned HTTP 403, so no MCA/registry, credit-rating or regulator-action data was retrieved. No credit rating found (null, not public in retrieved sources). No negative news retrieved. No evidence of supplies to Russia or CIS found - but absence of evidence here reflects failed retrieval, not a verified negative. RECOMMENDATION: re-run screening with working search and direct OFAC/EU/UK/BIS list downloads plus MCA and Indian Kanoon party-name queries before relying on this record. Per project rules this company is NOT rejected on this basis; it remains in the database with risk fields unverified."
+}

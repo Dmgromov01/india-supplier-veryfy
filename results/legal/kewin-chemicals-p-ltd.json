@@ -1,0 +1,18 @@
+{
+ "name_input": "KEWIN CHEMICALS P LTD",
+ "legal_name": "KEWIN CHEMICALS PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (Errno 111) on both web_search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results (Hungarian YouTubers, footballer 'Kewin', kewintech.com) with no Indian company record; tofler.in returned 404 for the guessed slug; instafinancials.com returned only its generic landing page, meaning the CIN I guessed (U24100MH1990PTC058123) is NOT confirmed and must not be used. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrieved, NOT invented. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of retrieved records is a tooling limitation, not proof of non-existence. Role left as 'unknown' - the declared HS codes (292142/292159 = aniline derivatives and other amino-compounds; 320412/320413 = acid and basic dyes) are consistent with a dyes/intermediates chemicals business, but no registry document (MOA objects, MCA activity code) was read to classify manufacturer vs trader. Revenue FY25/FY26: no audited accounts or official filings accessed, so null per rules. Recommended next step: re-run with working search access and query MCA master data by exact name 'KEWIN CHEMICALS PRIVATE LIMITED' plus GST portal search, before any verdict is assigned."
+}
