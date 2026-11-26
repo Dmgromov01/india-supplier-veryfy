@@ -1,0 +1,9 @@
+{
+ "name_input": "ATKOTIYA ENGINEERING WORKS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Google отдал заглушку, Bing по запросам в кавычках «Atkotiya Engineering Works» / «ATKOTIYA ENGINEERING WORKS PRIVATE LIMITED» вернул нерелевантную выдачу (Target, runic calendar, tenforums) — то есть ни одного релевантного документа по компании не найдено. Zaubacorp отдал 403, IndiaMART — 429. OFAC Sanctions List Search открылся (SDN-лист обновлён 23.11.2026), но интерактивный поиск через http_get невозможен — прямой запрос по имени не выполнен, поэтому sanctions_hit = null (НЕ подтверждение отсутствия санкций). Судебные дела (eCourts/NCLT), рейтинги (CRISIL/ICRA/CARE), регуляторные действия и негативные новости, а также признаки поставок в РФ/СНГ — не проверены, данных нет. Все поля null означает «не установлено / не публично в доступных источниках», а не «чисто». Требуется повторный прогон при восстановлении поиска; компания не отклоняется (правило 2), вердикт по риску — не определён."
+}

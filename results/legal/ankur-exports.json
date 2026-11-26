@@ -1,0 +1,18 @@
+{
+ "name_input": "ANKUR EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, ошибка соединения; (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — HTTP 404 по поисковому URL; (4) instafinancials.com — HTTP 403; (5) duckduckgo.com/html — HTTP 403; (6) bing.com — по трём разным запросам ('\"ANKUR EXPORTS\" CIN GSTIN', 'site:zaubacorp.com OR thecompanycheck.com OR tofler.in', '\"ANKUR EXPORTS PRIVATE LIMITED\" CIN') выдал только нерелевантные результаты (Anker, фильм «Ankur», Ankura, Ankur Inc), ни одной карточки компании; (7) mca.gov.in (Master Data) — HTTP 403. Вывод: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и статус MCA не установлены — все поля null, ничего не выдумано. Важно: 'ANKUR EXPORTS' — это торговое наименование, а не подтверждённое юрлицо; в Индии под таким именем могут существовать разные структуры (Ankur Exports Pvt Ltd, Ankur Exports LLP, ИП/проприеторство), поэтому привязка PAN/GSTIN к конкретному субъекту без реестра была бы произвольной. PAN-тип (4-й символ) определить невозможно, т.к. PAN не найден. Роль: unknown — по заявленному названию 'Exports' и HS 392690/732393 (изделия из пластмасс / прочие изделия из чёрных металлов) нельзя отнести к manufacturer или trader без данных о производственных мощностях; каталоги и сайты по правилам проекта фактом не считаются. Выручка FY25/FY26: null — аудиторская отчётность и официальные филинги не найдены. Отклонение (rejected) НЕ применяется: нет доказательств, что юрлицо не существует, ликвидировано или банкрот — отсутствие данных не равно отсутствию компании. Требуется повторная проверка при доступе к MCA Master Data / GST-порталу или при уточнении от поставщика: полное юрлицо, CIN, PAN, GSTIN, штат регистрации."
+}

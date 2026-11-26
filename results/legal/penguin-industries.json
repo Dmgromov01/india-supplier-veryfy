@@ -1,0 +1,18 @@
+{
+ "name_input": "Penguin Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input gives the legal entity as 'RAMASAMY KALAIMANI', which is a personal name, not a company name — this strongly suggests a sole proprietorship / individual GST registration rather than a company, so no CIN/LLPIN would exist. However, this could NOT be confirmed: the search backend (DuckDuckGo/searx) was down ('Connection refused'), Bing/Google returned only generic 'penguin' results with no Indian registry hits, and zaubacorp.com, thecompanycheck.com and IndiaMART all returned 403/429 blocks. Therefore legal_name, CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, not invented. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role left as 'unknown' (declared HS codes 842240/847940/847989 are packaging/hoisting/processing machinery, which conflicts with the claimed 'food & FMCG' industry — a data-quality flag for the analyst, not a rejection ground). NOT rejected: there is no evidence the entity does not exist; absence of retrievable records is not proof of non-existence. Recommended next step: manual lookup on the GST portal (search by trade name 'Penguin Industries' + name 'Ramasaamy Kalaimani') and MCA master data, since a proprietorship will only appear in GST records, not MCA."
+}

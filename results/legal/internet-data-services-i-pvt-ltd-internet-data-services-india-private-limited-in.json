@@ -1,0 +1,18 @@
+{
+ "name_input": "INTERNET DATA SERVICES (I) PVT LTD; INTERNET DATA SERVICES (INDIA) PRIVATE LIMITED; INTERNET DATA SERVICES (I) PVT. LTD",
+ "legal_name": "INTERNET DATA SERVICES (INDIA) PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained. All 10 tool calls failed to yield a verifiable record: DuckDuckGo search backend was down ('Connection refused'); Bing returned only generic 'Internet' results with no Indian company match; zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com and mca.gov.in all returned HTTP 403; tofler.in returned 404 for the guessed URL slug. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they could not be read from a public source within the call budget. No revenue figures are stated: no audited accounts or official filings were located, so FY25/FY26 revenue is null rather than estimated. Role is 'unknown' — the name pattern ('Data Services') suggests a possible service_provider, but this is inference from the name only and is not evidence. IMPORTANT: the input lists three name variants ('(I) Pvt Ltd', '(INDIA) PRIVATE LIMITED', '(I) PVT. LTD') which may be the same entity or may be distinct legal entities; this was not resolved. Per project rules, rejection is NOT warranted here — non-existence/struck-off/liquidation was not established, only that verification was inconclusive. Recommended action: re-run verification when search infrastructure is available, or obtain the CIN directly from the supplier's GST invoice / MCA master data, then confirm PAN 4th character (P = company, F = firm, etc.) and GSTIN state code against the claimed state. Declared HS 997331 is a services code (IT/telecom-related services) and is not a basis for rejection under the current rules."
+}
