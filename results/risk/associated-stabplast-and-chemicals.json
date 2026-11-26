@@ -1,0 +1,9 @@
+{
+ "name_input": "ASSOCIATED STABPLAST AND CHEMICALS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: инструмент web_search (DuckDuckGo/searx) был недоступен (connection refused / timeout) на протяжении всей сессии. Резервные попытки через Bing по точным фразам \"Associated Stabplast\", \"Associated Stabplast & Chemicals\", \"Stabplast\" + chemicals/India вернули только нерелевантные общие результаты (Associated Bank, словарные статьи, Microsoft) — ни одного упоминания компании. Zaubacorp отдал HTTP 403. OFAC Sanctions List Search — JS-приложение, через http_get результаты поиска не отдаются, поэтому санкционный скрининг по имени фактически не проведён (sanctions_hit = null, НЕ \"чисто\"). Судебные дела (eCourts/NCLT), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия и негативные новости, а также признаки поставок в РФ/СНГ — не проверены, данных нет. Все поля оставлены null: выдумывать записи, CIN/PAN, номера дел или даты запрещено правилами. Требуется повторный прогон при восстановлении поиска; при этом отказ от компании на этом основании недопустим (правило 3) — статус остаётся \"не проверено\", а не \"отклонено\"."
+}

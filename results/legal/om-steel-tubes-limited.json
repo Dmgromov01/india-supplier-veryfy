@@ -1,0 +1,18 @@
+{
+ "name_input": "OM STEEL TUBES LIMITED",
+ "legal_name": "OM STEEL TUBES LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant generic 'Om' results for all three query variants, so no CIN/GSTIN/PAN page was ever retrieved. Therefore CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the 'LIMITED' suffix suggests a public/private limited company rather than a proprietorship, but manufacturer vs trader cannot be established from registry data alone and product catalogues were out of scope per instructions. Per project rules this company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy was not established; the correct handling is 'unverified, needs re-check' with a manual MCA master-data lookup by CIN or by name on the MCA portal. HS codes 730441/730640 (seamless/cold-drawn stainless steel tubes) were not assessed and are not a rejection ground in any case. Recommended next step: manual MCA 'Check Company Name' / MDS lookup plus GST portal search on the legal name to obtain CIN and GSTIN, then re-run revenue extraction from filed financials."
+}
