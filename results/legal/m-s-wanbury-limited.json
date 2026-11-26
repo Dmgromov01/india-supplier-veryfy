@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S WANBURY LIMITED",
+ "legal_name": "Wanbury Limited",
+ "cin_llpin": "L24230MH1992PLC067126 (unverified — registry sites Zauba/CompanyCheck returned HTTP 403; CIN not confirmed from an official MCA page)",
+ "pan": "null — not public in accessible sources",
+ "pan_holder_type": "null — PAN not obtained, so 4th-character holder type cannot be determined",
+ "gstin": "null — no public GST profile page could be retrieved (search backend down, profile sites blocked)",
+ "gst_status": "null — not verified",
+ "incorporation_date": "null — Screener.in states 'Incorporated in 1988' (company profile text), which conflicts with the 1992 year embedded in the commonly cited CIN; exact date not confirmed from MCA",
+ "state_registered": "Maharashtra (per CIN state code MH and Mumbai-registered listed company; not confirmed from MCA master data)",
+ "state_claimed": "",
+ "mca_status": "null — MCA master data not retrieved; company is actively listed on BSE (524212) and NSE (WANBURY) with live filings, so no evidence of strike-off/liquidation/bankruptcy",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 600,
+ "revenue_fy26_cr": 650,
+ "revenue_source": "Screener.in standalone annual P&L (sourced from company's audited/BSE-filed results): FY25 (Mar 2025) sales Rs 600 cr; FY26 (Mar 2026) sales Rs 650 cr. Consolidated FY25 sales also 600 cr. Figures are revenue from operations as reported in filings, not independently re-checked against the PDF annual report.",
+ "note": "Legal entity 'Wanbury Limited' exists and is an active listed pharmaceutical manufacturer (API + formulations), so no rejection ground. HS 293499 (other heterocyclic compounds / APIs) is broadly consistent with an API manufacturer — no HS correction needed. Registry identifiers (CIN, PAN, GSTIN, exact incorporation date, MCA status) could NOT be verified: DuckDuckGo search returned connection refused, and Zauba Corp / TheCompanyCheck / Moneycontrol returned HTTP 403. Only Screener.in (BSE/NSE-linked financial data) was readable. Revenue figures are from Screener's compilation of filed results; treat as filing-derived, not audited-account-verified. Per project rules, no shipment/customs or court research was done in this role."
+}

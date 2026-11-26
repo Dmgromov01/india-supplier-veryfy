@@ -1,0 +1,18 @@
+{
+ "name_input": "HARIANSH PHARMACEUTICALS PRIVATE LIMITED",
+ "legal_name": "HARIANSH PHARMACEUTICALS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕЕСТРОВЫЕ ДАННЫЕ НЕ ПОДТВЕРЖДЕНЫ — нет доступа к источникам. Что пробовано (10 вызовов, все неудачны): web_search (DuckDuckGo/searx) — бэкенд недоступен ('Connection refused'); zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in — HTTP 403/404 (блокировка ботов); google.com — HTTP 429; duckduckgo.com/html и lite.duckduckgo.com — таймаут; bing.com — выдал нерелевантные результаты (openreview.net, surveyjunkie, reddit), т.е. точного совпадения по названию не найдено. Следствие: CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, НЕ выдуманы. Юрлицо с таким названием в открытых источниках по факту не подтверждено, но и отсутствие подтверждения НЕ является основанием для отклонения (правило 3: отклонять только при доказанной неликвидности/отсутствии юрлица). Вердикт: не отклонять, статус 'требует проверки в реестре MCA' — необходимо вручную проверить на mca.gov.in (Master Data / Company Master Data) по названию, а также GST-портал по PAN. Роль (manufacturer/trader) не установлена — null/unknown. Заявленные HS 210690/300390/300450/300490 (пищевые продукты + фармацевтика) не проверялись по существу; несоответствие HS основанием для отклонения не является (правило 3). Заявленная отрасль 'Продукты питания и FMCG' при HS-кодах лекарственных средств (3004) выглядит противоречиво — уточнить у поставщика. Выручка: аудиторская отчётность не найдена, поля null."
+}

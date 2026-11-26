@@ -1,0 +1,14 @@
+{
+ "name_input": "M/S WANBURY LIMITED",
+ "declared_hs": "293499",
+ "actual_hs_list": [
+  "293499",
+  "300490",
+  "300420",
+  "294200"
+ ],
+ "match_status": "partial",
+ "product_summary": "Wanbury Limited (Mumbai, listed on BSE/NSE) is an Indian pharmaceutical manufacturer. Publicly known product lines: (1) active pharmaceutical ingredients / bulk drugs — metformin HCl, ranitidine HCl, diclofenac sodium, nimesulide, and other heterocyclic/hetero-atom APIs; (2) finished dosage formulations — tablets, capsules, syrups, injectables sold in India and exported; (3) contract manufacturing / CDMO for formulations. NOTE: the company website (wanbury.com) could not be read in this session — all sub-pages returned 404/empty and search engines were unreachable, so the product list above is from general public knowledge of the company and NOT corroborated by a page fetched here. No customs line was available to me (registry/customs research is out of scope for this role).",
+ "role_hint": "manufacturer",
+ "comment": "HS 293499 ('other heterocyclic compounds — other') is a plausible but narrow fit: it covers only part of the API basket (heterocyclic APIs such as nimesulide-type molecules). It does NOT cover the larger part of the business — finished medicaments in dosage form, which fall under 3004 (3004 90 for retail-packed allopathic formulations, 3004 20 for antibiotics), and non-heterocyclic bulk drugs such as metformin HCl (2925 29 / 2925 21 family) or diclofenac sodium (2922 49). Verdict per project rule 3: company is KEPT, code is corrected — the declaration should be expanded to a list (2934 99 + 3004 90 + 3004 20 + 2942 00) rather than a single 6-digit code. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: this is a pharma/API manufacturer, not oil & gas; the correct sector is pharmaceuticals/chemicals. Trader signs: none observed — the company is a manufacturer with own API plants (Tarapur/Patalganga-type sites) and formulation units, so role = manufacturer, not trader. Product lines missing from the declaration: finished dosage forms (3004), non-heterocyclic bulk drugs (2925/2922), and any nutraceutical/OTC lines. All product claims here are 'заявлено, не подтверждено' — no customs line or fetched catalogue page was available to corroborate them in this session; the website was unreachable and no public page could be read, so actual_hs_list is an inferred mapping, not a verified one."
+}
