@@ -1,0 +1,18 @@
+{
+ "name_input": "Rockwell Automation India Private limited",
+ "legal_name": "ROCKWELL AUTOMATION INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AACCR3791A",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'R' = surname initial of the entity as recorded) — PAN taken from input, NOT independently verified against a public registry record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be confirmed from a public source in this session. Tooling failures: DuckDuckGo search backend refused connections (all web_search calls returned 'no results (searx: Connection refused)'); zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in returned HTTP 404 for the guessed URL; Google returned HTTP 429; Bing returned only generic Rockwell Automation Inc. (US parent) marketing pages and no Indian registry record. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — they are NOT public-verified here and must not be treated as confirmed. The CIN U31900KA1994PTC016147 used in attempted URLs was a hypothesis only and is deliberately NOT reported as a finding. PAN AACCR3791A is carried over from the input; its format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' indicates a company holder, but the PAN was not matched to an MCA/GST record. State: input claims Karnataka; this is plausible for the Indian subsidiary of Rockwell Automation Inc. (Milwaukee, USA) but was not confirmed from a registry filing, so state_registered is null. Role: recorded as manufacturer_trader on the basis of the parent being an industrial-automation OEM — this is an inference from the group's business, not from the Indian entity's own MCA NIC code or filings, and should be re-checked. Revenue FY25/FY26: null — no audited accounts or MCA filings were retrievable; no figures were estimated. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy — the entity is simply unverified in this session. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored, and confirm CIN, GSTIN and the registered office state before any acceptance decision."
+}

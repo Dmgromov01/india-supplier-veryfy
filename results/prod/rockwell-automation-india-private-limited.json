@@ -1,0 +1,22 @@
+{
+ "name_input": "Rockwell Automation India Private limited",
+ "declared_hs": "851762",
+ "actual_hs_list": [
+  "853710",
+  "853890",
+  "853649",
+  "853650",
+  "850431",
+  "850440",
+  "854370",
+  "847150",
+  "847130",
+  "852349",
+  "903289",
+  "851762"
+ ],
+ "match_status": "partial",
+ "product_summary": "Rockwell Automation (brands Allen-Bradley, FactoryTalk, LifecycleIQ) — industrial automation, not IT/telecom. Real product lines per corporate sources: programmable logic controllers / industrial controllers (Allen-Bradley ControlLogix, CompactLogix, Micro800), I/O modules and chassis (8538 90 / 8537 10), industrial control relays, contactors, motor starters and overload relays (8536 49, 8536 50), variable-frequency drives / servo drives and motion control (8504 40, 8537 10), industrial Ethernet switches and communication interface modules for control networks (8517 62 — the only line that genuinely fits the declared code), operator interface/HMI terminals and industrial PCs (8471 41 / 8471 30), power supplies (8504 40), sensors and safety devices (9032 89, 8543 70), plus FactoryTalk automation software on media/licences (8523 49).",
+ "role_hint": "manufacturer_trader — Indian entity of a US industrial-automation OEM (Rockwell Automation, Inc., Milwaukee; brands Allen-Bradley/FactoryTalk per Wikipedia). It is a group sales/manufacturing subsidiary: locally assembled controllers and panels plus large volumes of imported parent-company hardware, i.e. both manufacturer and importer/trader. Exact Indian plant/assembly scope not verifiable — rockwellautomation.com/en-in returned HTTP 403 to every fetch attempt, so no Indian catalogue page could be read.",
+ "comment": "HS 8517 62 (machines for the reception, conversion and transmission of data, incl. network switches/routers) is only a partial fit: it correctly covers the industrial Ethernet switch and communication-module line, but it is not the core of the business. The bulk of Rockwell's range — PLCs/controllers, I/O, contactors, relays, motor starters, VFDs, HMI panels, power supplies — belongs in 8537 10, 8538 90, 8536 49/50, 8504 40, 8471 41 and 9032 89, none of which appear in the declaration. Industry label 'IT и электроника' is a misclassification: the company is industrial automation / electrical control equipment (machinery-and-electrical cluster), not IT hardware. Trader signs: it is the Indian arm of a foreign OEM and a major importer of Allen-Bradley branded goods, so a single 8517 62 line cannot represent the shipment mix. Per project rule 3 this is not a rejection ground — company stays in the base, code corrected to the actual product mix, verdict accepted_hs_corrected. Evidence limitation: all product statements above rest on the parent group's public brand/product description (Wikipedia article on Rockwell Automation, fetched successfully) and general knowledge of the Allen-Bradley catalogue; the India-specific site and catalogue were inaccessible (403), so the India-entity product list is 'заявлено, не подтверждено' — no customs line was available to this researcher and no shipment records were checked (out of scope)."
+}

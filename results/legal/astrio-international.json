@@ -1,0 +1,18 @@
+{
+ "name_input": "ASTRIO INTERNATIONAL",
+ "legal_name": "ASTRIO INTERNATIONAL",
+ "cin_llpin": null,
+ "pan": "ABZFA2467K",
+ "pan_holder_type": "F — partnership firm (4th character 'F' in the claimed PAN ABZFA2467K; format-valid, but the PAN itself could not be independently verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity simply could not be verified with the tools available in this run. Verification was severely limited: the web_search backend returned 'Connection refused' on every query, and the fallback engines (Bing/Google/DDG via http_get) returned only irrelevant generic results, so no registry page for this name was ever reached. Direct checks performed: (1) quickcompany.in MCA company search for 'ASTRIO INTERNATIONAL' returned '0 results across every registry' — this indicates no company (CIN) is registered under this exact name, which is consistent with the PAN 4th character 'F' (partnership firm) or with a proprietorship, i.e. a non-MCA entity; it is NOT proof of non-existence. (2) cleartax.in GST search for the PAN-derived GSTIN pattern '24ABZFA2467K1Z' (24 = Gujarat) returned 'No details found for this GST number' — but the check digit was guessed, so this is inconclusive and no GSTIN is asserted. (3) zaubacorp.com and mastersindia.co returned HTTP 403; quickcompany company-page and further searches timed out. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this run, not invented. Role is 'unknown': no registry record establishes manufacturing or trading activity; the claimed industry 'Нефтегаз и химия' and declared HS 300420 (medicaments) are inconsistent with each other, but per project rules HS mismatch is not a rejection ground and no HS verdict is issued here. Revenue FY25/FY26: null — no audited accounts or official filings were located; figures were not estimated. Recommended next step: re-run with a working search backend and verify the PAN on the income-tax/GST portal, or obtain the GSTIN directly from the supplier."
+}

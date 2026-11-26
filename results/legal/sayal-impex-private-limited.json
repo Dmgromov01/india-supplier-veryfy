@@ -1,0 +1,18 @@
+{
+ "name_input": "SAYAL IMPEX PRIVATE LIMITED",
+ "legal_name": "SAYAL IMPEX PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AACCS3297A (as claimed in input; format-valid, 4th character 'C' = company/firm holder type; NOT verified against any public record)",
+ "pan_holder_type": "company (inferred from 4th character 'C' of the claimed PAN only — unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Punjab",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. All 10 permitted tool calls were used: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned only irrelevant results (Ross Stores, NFL pages) for the exact-name and exact-PAN queries, i.e. no indexed match surfaced; Google returned a redirect interstitial. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com (403 Forbidden, both company page and company-search), thecompanycheck.com (403), mca.gov.in MDS portal (403), instafinancials.com (404), quickcompany.in (404), gstsearch.in (404). Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — not public to me at this time, NOT confirmed absent. The claimed PAN AACCS3297A is format-consistent with a company PAN (4th char 'C') but its holder is unverified; the claimed state 'Punjab' is unverified. Role is 'unknown' because no MCA business-object clause or GST trade-name evidence was readable. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity may well exist and simply be unindexed/behind anti-bot walls. Recommend re-running this record when the search backend is restored, or manual lookup of the name/PAN on the MCA master-data portal and the GST taxpayer search."
+}
