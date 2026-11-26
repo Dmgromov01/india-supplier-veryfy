@@ -1,0 +1,18 @@
+{
+ "name_input": "SPLINT MEDITEC PRIVATE LIMITED",
+ "legal_name": "SPLINT MEDITEC PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Tooling failure: web_search backend returned 'Connection refused' on all queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; DuckDuckGo HTML endpoint timed out; Bing returned only generic dictionary/medical results for 'splint' with no Indian company record. Therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all null - NOT because they were found to be absent, but because no source was readable. Per project rules, absence of a readable source is not grounds for rejection: verdict is 'unverified, needs re-run', NOT rejected. No evidence the entity does not exist. Role left as 'unknown' (no evidence of manufacturing vs trading). Note on declared HS 901890 (surgical/medical instruments) vs claimed industry 'IT и электроника' - these are inconsistent; HS 901890 is plausible for a 'Meditec' firm, so the industry label is likely the error, but this cannot be confirmed without a readable profile. Revenue FY25/FY26: null, no audited accounts or official filings accessible. Recommend re-running this company when search backend is restored, querying MCA master data by name and checking GSTIN via a public GST search portal."
+}

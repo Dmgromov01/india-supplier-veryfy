@@ -1,0 +1,9 @@
+{
+ "name_input": "Dudheshwar Engineers Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена: ни один из источников не дал результата. DuckDuckGo/searx-бэкенд недоступен (connection refused), Google вернул 429, ecourts.gov.in не резолвится, Zauba Corp и InstaFinancials — 403, Tofler — 404 на поисковый запрос. Bing по точной фразе \"Dudheshwar Engineers Private Limited\" выдал только нерелевантную выдачу (Reddit/YouTube), т.е. релевантных публичных упоминаний не найдено. OFAC Sanctions List Search — JS-форма, прямой GET-запрос не даёт результатов; проверка по SDN/Non-SDN, UN, EU, UK, BIS Entity List фактически НЕ выполнена. Судебные дела (party role/status), регуляторные действия, негативные новости, кредитный рейтинг и признаки поставок в РФ/СНГ — данных нет, все поля null. Ничего не выдумано: CIN/PAN/номера дел не приводятся, т.к. не подтверждены. Требуется повторный прогон при доступном поиске и ручная проверка по MCA-реестру, eCourts и санкционным спискам. Отклонение по данному блоку не предлагается — отсутствие данных не является основанием для rejected (правило 3)."
+}

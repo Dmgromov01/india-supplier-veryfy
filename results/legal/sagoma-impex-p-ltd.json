@@ -1,0 +1,18 @@
+{
+ "name_input": "SAGOMA IMPEX (P).LTD",
+ "legal_name": "SAGOMA IMPEX PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public source could be read. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned only a redirect stub; Bing returned irrelevant results; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in and quickcompany.in search paths returned 404. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from an official filing, so all such fields are null rather than guessed. Legal name is only the input's own claim and is unverified. Role set to 'unknown' - the input gives no basis to classify as manufacturer vs trader, and no registry document (MOA/objects, NIC code) was readable. No rejection applied: per project rules rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and absence of readable sources is not such evidence. Declared HS 841370 (pumps) is not treated as a rejection ground in any case. ACTION NEEDED: re-run this company when MCA master-data / GST portal access or a working search backend is available, to obtain CIN, PAN (4th-character holder type), GSTIN and GST status, and to pull FY25/FY26 audited revenue from MCA AOC-4 filings."
+}

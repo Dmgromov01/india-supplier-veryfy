@@ -1,0 +1,18 @@
+{
+ "name_input": "SALSONS IMPEX (P) LTD",
+ "legal_name": "SALSONS IMPEX PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search backend was down (searx: connection refused) and every public registry aggregator attempted returned HTTP 403/404 or a JS-only shell: zaubacorp.com (403), thecompanycheck.com (403), tofler.in (404), instafinancials.com (404), falconebiz.com (JS-gated, no company page), mca.gov.in MDS (403). Bing/Google HTML endpoints returned irrelevant results, so no CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be sourced. Per the rules, nothing is invented: all registry fields are null. No basis for rejection exists either - the entity was not shown to be non-existent, struck off, liquidated or bankrupt; the correct status is 'unverified / data not public in this run', not 'rejected'. Revenue FY25/FY26: no audited accounts or official filings accessible, so null. Role: cannot be classified as manufacturer vs trader from registry data alone (HS 401161-401190 are tyre/tread-related codes, which is consistent with an impex/trading profile, but that is inference, not evidence). Recommended next step: re-run with working search, or query MCA master data / GST portal directly by legal name 'SALSONS IMPEX PRIVATE LIMITED'."
+}

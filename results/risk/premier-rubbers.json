@@ -1,0 +1,9 @@
+{
+ "name_input": "premier rubbers",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data collected. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out; Bing returned only generic 'Premier League / Adobe Premiere' results and ignored quoted-phrase and site: operators, so no page about a company named 'Premier Rubbers' could be located; ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page (https://sanctionssearch.ofac.treas.gov/, SDN list last updated 11/23/2026) was reachable but is a JavaScript form that cannot be queried by plain HTTP GET, so no name lookup was actually executed. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT CHECKED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating = NOT CHECKED; evidence of supplies to Russia/CIS = NOT CHECKED. All fields set to null per rule 4 (do not invent data) - null here means 'not established', NOT 'no risk found'. Additional caveat: the name 'Premier Rubbers' is generic and likely matches multiple unrelated Indian entities (rubber goods manufacturers/traders); without a CIN/PAN or registered address from the legal-identity researcher, any sanctions or court hit would risk being attributed to the wrong legal person. Recommend re-running this company once search access is restored and once a CIN/PAN is available. No rejection grounds identified or implied - per rule 2, sanctions/court/criminal matters are never rejection grounds anyway."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Luzon Healthcare Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No public risk data could be retrieved for this entity as of today. (1) Sanctions: OFAC SDN/Non-SDN list search tool (sanctionssearch.ofac.treas.gov, SDN list last updated 11/23/2026) was reachable but is a JavaScript form that does not execute a name query server-side, so no match/no-match result was obtained; UN, EU, UK OFSI and BIS Entity List were not queried. sanctions_hit left null = not verified, NOT a clean bill of health. (2) Court cases: Indian Kanoon full-text search for \"Luzon Healthcare\" returned 'No matching results' (0 judgments) — this is a negative search result only, not proof of no litigation; eCourts/NCLT/High Court cause lists were not accessible. (3) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; null. (4) Negative news/regulator actions: search engines were largely unusable (DuckDuckGo backend refused connections; Google returned a redirect wall; Bing returned only unrelated results for the exact-phrase queries), so no news sweep was completed; null. (5) Russia/CIS supply evidence: no evidence found, but also no usable search coverage — null, not a confirmed absence. IMPORTANT CAVEAT: the company name itself could not be independently corroborated in any public source during this session, so the entity's existence and identity remain unverified by me; that is a legal-identity matter outside my remit and should be resolved by the registry check. Recommend re-running sanctions screening (OpenSanctions/OFAC bulk CSV name match) and a court/news sweep once search access is restored."
+}

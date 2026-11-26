@@ -1,0 +1,18 @@
+{
+ "name_input": "Bryan Automotive",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / timeout на всех запросах; Bing отдавал нерелевантную выдачу без совпадений по запросу; ZaubaCorp и InstaFinancials вернули HTTP 403; search.mca.gov.in недоступен (DNS). Итог: юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и MCA-статус НЕ подтверждены — все поля null, ничего не выдумано. Важно: в поле legal_claimed указано не название компании, а имя физлица — 'DIPAK MANSUKHBHAI PANSURIYA', что типично для ИП/единоличного проприетарного бизнеса (proprietorship) без CIN; для такого формата CIN отсутствует по определению, а PAN должен быть формата ABCDE1234F с 4-м символом 'P' (individual/proprietor) — проверить не удалось, поэтому pan_holder_type = null. Роль 'Bryan Automotive' (manufacturer / trader) не установлена: заявленный HS 870899 (части и принадлежности моторных ТС) сам по себе роль не подтверждает. Отклонять НЕЛЬЗЯ: нет доказательств, что юрлицо не существует, ликвидировано или банкрот — отсутствие данных не является основанием для rejected. Требуется повторный прогон при доступном поиске либо ручная проверка по GST-порталу (gst.gov.in search taxpayer) и MCA по имени проприетора."
+}

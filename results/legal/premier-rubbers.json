@@ -1,0 +1,18 @@
+{
+ "name_input": "premier rubbers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый факт не подтверждён. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused'; агрегаторы реестров (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) отдали 403/404/таймаут; портал MCA (mca.gov.in) — 403; IndiaMART — 429. Bing по запросам '\"Premier Rubbers\" CIN GST' и '\"Premier Rubbers\" Private Limited' выдавал только нерелевантные результаты (Premier League, Adobe Premiere), то есть подтверждённой страницы с реквизитами не найдено. Название 'Premier Rubbers' неоднозначно: под ним могут существовать разные юрлица (LLP/ Pvt Ltd / проприетарная фирма) в разных штатах, поэтому привязывать CIN/PAN/GSTIN наугад нельзя — все поля null. PAN и GSTIN не публичны без доступа к реестру, поэтому не выдумывались. Выручка FY25/FY26 недоступна (нет аудиторской отчётности в открытом доступе) — null. Роль не определена (unknown). Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществующем/ликвидированном/банкротном юрлице, что здесь не установлено). Дополнительно: заявленный HS 950691 (инвентарь для физкультуры/спорта) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилам проекта это не основание для отклонения, код подлежит исправлению на фактический после подтверждения ассортимента; вердикт по HS не выносится, так как товарная деятельность не проверялась (вне роли legal/registry). Требуется повторный прогон при доступном реестре (MCA master data / GST-портал) либо уточнение от поставщика: полное юрлицо, штат, PAN."
+}
