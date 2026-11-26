@@ -1,0 +1,18 @@
+{
+ "name_input": "Victor Dispensing Systems Pvt. Ltd",
+ "legal_name": "VICTOR DISPENSING SYSTEMS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены: ни один публичный источник не удалось прочитать. Инструмент web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) отдали HTTP 403/404; mca.gov.in — HTTP 403; duckduckgo.com/html — таймаут; google.com/search — HTTP 429; bing.com выдавал нерелевантную выдачу (Victor Sport, Victor Pest и т.п.) без единого упоминания компании. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, а не «не существует». Юрлицо НЕ отклоняется: оснований для rejected (отсутствие в реестре, struck off, ликвидация, банкротство) не установлено — данные просто не получены. Роль (manufacturer/trader) не определена, т.к. исследование каталогов и отгрузок вне рамок этой роли. Заявленный HS 841311 (насосы для жидкостей с расходомером) и отрасль «Металлургия и горнодобыча» в заявке не согласуются между собой — требует уточнения у заказчика, но по правилам HS не является основанием для отклонения. Требуется повторная проверка при восстановлении доступа к реестру (MCA Master Data / GST-портал) — рекомендую перезапустить задачу."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "AEGIS LIFESCIENCES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. The DuckDuckGo search backend was unavailable (connection refused) for the whole session; Bing returned only irrelevant results (Aegis Insurance, Aegis band, etc.) for every query variant tried; Google returned HTTP 429. Direct fetches of registry aggregators were blocked: zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, instafinancials.com 404, mca.gov.in 403. Therefore no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Nothing is asserted or inferred: all identifier and financial fields are null rather than guessed. IMPORTANT: an earlier internal attempt to construct a CIN pattern (U24231GJ1997PTC033234) was a guess and is explicitly NOT reported as a finding - it must not be used. Note also that the claimed legal name 'AEGIS LIFESCIENCES PRIVATE LIMITED' could not be matched to any confirmed MCA record, so existence of the entity is unverified, not disproven. Per project rules, rejection is NOT applied: rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found - the entity is simply unverified. Role left as 'unknown' (no evidence of manufacturing or trading activity). Declared HS 300610 (pharmaceutical/medical goods - wound care/ostomy type products) is inconsistent with the claimed industry 'Food & FMCG'; per rule 3 this is not a rejection ground, but the HS code should be treated as unverified and corrected to the actual product line once the company's real activity is established. Recommended next step: re-run verification when the search backend is restored, or query MCA Master Data / GST portal directly by legal name, and obtain FY25/FY26 audited revenue from MCA filings (AOC-4) only."
+}

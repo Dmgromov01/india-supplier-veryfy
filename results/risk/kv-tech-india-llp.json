@@ -1,0 +1,9 @@
+{
+ "name_input": "KV TECH INDIA LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', html.duckduckgo.com — таймаут, Bing по запросам в кавычках \"KV TECH INDIA LLP\" / \"KV TECH INDIA\" выдавал только нерелевантные результаты про «KV» (Wikipedia, Knape & Vogt, танки КВ) — то есть точных совпадений по названию не найдено. Реестровые источники недоступны: tofler.in — HTTP 403, search.mca.gov.in — DNS не резолвится. Прямой поиск по списку OFAC SDN, UN, EU, UK и BIS Entity List не выполнен, поэтому sanctions_hit = null (НЕ означает «чисто»). Судебные дела (eCourts/NJDG), рейтинги (CRISIL/ICRA/CARE/India Ratings) и негативные новости не проверены — null. Следов поставок в РФ/СНГ не искали — null. Отдельно отмечаю: заявленное название «KV TECH INDIA LLP» в открытых источниках подтвердить не удалось; это не основание для отклонения (правило 3 — вопрос юрлица вне моей роли), но требует повторной проверки с доступом к MCA/LLP-реестру. Рекомендуется перезапуск задачи при восстановлении поиска."
+}

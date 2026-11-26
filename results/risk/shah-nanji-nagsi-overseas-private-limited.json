@@ -1,0 +1,9 @@
+{
+ "name_input": "SHAH NANJI NAGSI OVERSEAS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Данные не собраны: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; резервные попытки через Bing по точным фразам \"Shah Nanji Nagsi Exports\" / \"Shah Nanji Nagsi\" / \"Shah Nanji\" \"Nagsi\" дали только нерелевантную выдачу (YouTube, отели Дубая, podi.com) — ни одного документа с упоминанием компании. Google вернул HTTP 429, DuckDuckGo HTML — таймаут. Инструмент OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма и не может быть запрошен через http_get, поэтому проверка по SDN/Non-SDN фактически не выполнена. Дополнительно: заявленное юрлицо в брифе ('SHAH NANJI NAGSI OVERSEAS PRIVATE LIMITED') не совпадает с legal_claimed ('SHAH NANJI NAGSI EXPORTS PRIVATE LIMITED') — это вопрос к верификации юрлица, вне моей роли. Все поля оставлены null: санкционных попаданий, судебных дел, рейтингов, негативных новостей и следов поставок в РФ/СНГ не подтверждено и не опровергнуто. Требуется повторный прогон при работающем поиске и ручная проверка по OFAC SDN, UN Consolidated, EU Consolidated, UK OFSI, BIS Entity List, а также по eCourts/NCLT и реестрам кредитных рейтингов (CRISIL/ICRA/CARE). Отклонять по правилу 2 и по отсутствию данных нельзя."
+}

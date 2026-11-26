@@ -1,0 +1,9 @@
+{
+ "name_input": "IND INNOVATIONS PVT LTD; IND INNOVATIONS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing отдавал нерелевантную выдачу (Indeed, IND Netherlands, Indianapolis Airport, крикет) независимо от запроса, т.е. поиск фактически не работал; zaubacorp.com, tofler.in, instafinancials.com и indiankanoon.org вернули HTTP 403; html.duckduckgo.com — таймаут; google.com — HTTP 429. Ни одного первоисточника по компании получить не удалось. Соответственно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены — null, а не 'чисто'; судебные дела (party role/status) не проверены — null; рейтинговые действия не проверены — null; негативные новости и регуляторные акции не проверены — null; признаков поставок в РФ/СНГ не найдено, но это результат отсутствия доступа к данным, а не подтверждённое отсутствие — null. ВАЖНО: null здесь означает 'нет данных', а не 'рисков нет'. Компанию не отклонять (правило 2 и 3): нет оснований для rejected, так как нет подтверждения ликвидации/банкротства. Требуется повторный прогон при восстановлении доступа к поиску и реестрам (MCA, Zauba/Tofler, Indian Kanoon, санкционные списки OFAC/UN/EU/UK/BIS)."
+}
