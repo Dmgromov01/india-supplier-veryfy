@@ -1,0 +1,9 @@
+{
+ "name_input": "Goabay Trading Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "РИСК-ПРОВЕРКА НЕ ВЫПОЛНЕНА — данных нет. По компании 'GOABAY TRADING PRIVATE LIMITED' не удалось получить ни одного подтверждённого публичного источника. Технические обстоятельства: (1) DuckDuckGo/searx-бэкенд недоступен (connection refused); (2) Bing по запросам '\"Goabay Trading Private Limited\"', '\"GOABAY TRADING\" private limited zaubacorp OR tofler OR indiafilings' и '\"Goabay\" trading company Goa' выдал полностью нерелевантную выдачу (рецепты, Bible Gateway, пластическая хирургия) — признак отсутствия индексируемых совпадений либо деградации движка; (3) zaubacorp.com — HTTP 403; tofler.in — 404 на странице поиска; (4) OpenSanctions API — HTTP 401 (требуется ключ); (5) OFAC Sanctions List Search — интерфейс доступен, но это JS-форма, прямой запрос по имени через http_get не выполняется, поэтому скрининга по SDN фактически не было. ВАЖНО: sanctions_hit=null означает 'не проверено', а НЕ 'санкций нет'. Аналогично court_cases/rating/news_risk/rf_supply = null — 'не найдено публично доступных данных', а не подтверждённое отсутствие. Следов поставок в РФ/СНГ не найдено, но это также не подтверждение отсутствия. Рекомендация: повторить проверку при восстановлении поискового бэкенда — минимум по MCA-реестру (имя/CIN), eCourts/NJDG, Zauba/Tofler, OFAC SDN, EU/UK consolidated lists, BIS Entity List, а также по открытым таможенным базам на предмет экспортных направлений. Отклонять компанию по правилам проекта нельзя: нет оснований (не подтверждено ни существование, ни ликвидация/банкротство), и трейдеры не отклоняются. Статус: 'заявлено, не подтверждено' — фактически даже заявление не верифицировано."
+}

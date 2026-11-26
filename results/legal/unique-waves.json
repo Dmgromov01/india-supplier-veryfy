@@ -1,0 +1,18 @@
+{
+ "name_input": "UNIQUE WAVES",
+ "legal_name": "UNIQUE WAVES",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All search tooling failed during this run: web_search returned 'searx: Connection refused' on every query; Google returned HTTP 429; DuckDuckGo timed out; Bing ignored quoted queries and returned only generic dictionary results for the word 'unique' (no India-specific hits); zaubacorp.com returned HTTP 403; MCA master-data portal is not reachable via the available fetch tool. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any official filing, so every such field is null rather than guessed. 'UNIQUE WAVES' as supplied is a bare trade name with no legal suffix (no Pvt Ltd / LLP / OPC), no PAN and no state given in the input, which is consistent with either an unregistered trade name, a sole proprietorship, or a partnership firm - none of which would appear in MCA company/LLP registries at all. It is therefore NOT possible to assert the entity does not exist; per project rules rejection requires positive proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was obtained. Verdict: unverified, not rejected - needs manual re-check of the GST public portal (search by trade name) and the Udyam/MSME registry, plus a request to the supplier for its GSTIN and PAN. Role left as 'unknown' because manufacturer vs trader cannot be established without a GST/registry record. Declared HS 903180 (measuring/checking instruments) is unverified and, per the 23.11.2026 rule, is not a basis for rejection in any case. Revenue FY25/FY26: null - no audited accounts or official filings located; for a proprietorship/firm of this size audited accounts are typically not public at all."
+}

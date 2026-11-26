@@ -1,0 +1,18 @@
+{
+ "name_input": "PYE TOOLS (P) LTD",
+ "legal_name": "PYE TOOLS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search returned 'searx: Connection refused' on all queries; http_get to zaubacorp.com and thecompanycheck.com returned HTTP 403; Bing returned only generic 'Pye' results (Pye-Barker Fire & Safety, Pye electronics, Pye Cars) with query terms ignored, so no Indian entity named 'Pye Tools' was surfaced; instafinancials returned 403; Google returned 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role left as 'unknown': the '(P) Ltd' suffix in the input suggests a private limited company, but no MCA record was seen to confirm manufacturer vs trader status. IMPORTANT: during the attempt I constructed a URL containing a guessed CIN (U29253DL1997PTC086123); that identifier was invented by me as a URL pattern and must be discarded - it is not a verified CIN and must not be entered into the database. No rejection is proposed: rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and absence of search results is not such proof. Recommended action: re-run verification when search access is restored, or obtain the CIN/GSTIN directly from the supplier's invoice or GST certificate, then confirm on MCA/gst.gov.in."
+}
