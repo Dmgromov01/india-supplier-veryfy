@@ -1,0 +1,18 @@
+{
+ "name_input": "Karan Exports",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. All 10 tool calls failed to return usable evidence: DuckDuckGo search backend was down (connection refused); zaubacorp.com, mca.gov.in and falconebiz.com returned HTTP 403; thecompanycheck.com and instafinancials.com returned 404; quickcompany.in timed out; Google returned HTTP 429; Bing returned only irrelevant results (Karan Johar, Karan Aujla) with no registry hits for 'Karan Exports'. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, so all such fields are null rather than guessed. The name 'Karan Exports' is a generic trade name used by multiple unrelated proprietorships/partnerships in India, so no single legal entity can be matched to this input without a CIN or GSTIN. NOT rejected: absence of a verifiable record in this session is not evidence that the entity does not exist, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' - no evidence of manufacturing or trading activity was obtained. Note also that the declared HS codes (848120, 848140, 848180 - valves and taps for pipes/boilers) do not match the claimed industry 'IT и электроника'; this is flagged for HS correction only, not as a rejection ground. Recommended next step: obtain the supplier's CIN or GSTIN from the client and re-run verification against MCA master data and the GST portal."
+}

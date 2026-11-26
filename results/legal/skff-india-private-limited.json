@@ -1,0 +1,18 @@
+{
+ "name_input": "SKFF(INDIA) PRIVATE LIMITED",
+ "legal_name": "SKFF (INDIA) PRIVATE LIMITED (as spelled in input; unverified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) and all fallback attempts failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, duckduckgo.com/lite timed out, google.com returned HTTP 429, and bing.com returned corrupted/irrelevant results (unrelated stock and video pages) with no usable hits for the company name. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — not public via the channels reachable in this session, and NOT invented. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a tooling limitation, not a negative finding. Role left as 'unknown' — the declared HS 330290 (mixtures of odoriferous substances / perfume raw materials) is consistent with a chemicals/fragrance-ingredients business, but no registry evidence confirms manufacturer vs trader status. Recommended next step: re-run against MCA master data (mca.gov.in / MCA-21 company search) and the GST taxpayer search portal using the exact legal name, then verify the state of registered office against the (empty) state_claimed field."
+}

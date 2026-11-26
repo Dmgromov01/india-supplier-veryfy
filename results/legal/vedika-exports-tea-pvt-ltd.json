@@ -1,0 +1,18 @@
+{
+ "name_input": "VEDIKA EXPORTS TEA PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Search backend (DuckDuckGo/searx) was down for the whole session; Google returned HTTP 429, Bing returned irrelevant results, and registry aggregators (ZaubaCorp, TheCompanyCheck, FalconEbiz) returned HTTP 403 while Tofler search returned 404. MCA portal (search.mca.gov.in) was not resolvable from this environment. Therefore CIN, PAN, GSTIN, incorporation date, registered state and MCA status are all null — NOT confirmed absent, simply not retrieved. No revenue figures found in audited accounts or official filings, so FY25/FY26 revenue left null per rules (no invented numbers). Role cannot be determined from registry data alone; set to 'unknown'. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — absence of data is not a rejection ground under the project rules. Note also that the declared HS code 842240 (packing/wrapping machinery) is inconsistent with the claimed industry 'food products and FMCG' and with a tea-exporting name; per rule 3 this is not a rejection ground — the company stays in the base and the HS code should be corrected to the actual one (likely 0902 for tea) with verdict accepted_hs_corrected. Recommended next step: manual lookup on MCA master data / GST portal by exact name 'VEDIKA EXPORTS (TEA) PRIVATE LIMITED' to fill the null fields."
+}

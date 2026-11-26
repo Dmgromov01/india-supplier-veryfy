@@ -1,0 +1,18 @@
+{
+ "name_input": "Geniemode Global Private Limited; GENIEMODE GLOBAL PRIVATE LIMITED; GENIEMODE GLOBAL PRIVATE LIMITED",
+ "legal_name": "GENIEMODE GLOBAL PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure, not a negative finding: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo HTML endpoint served a bot challenge; Google returned HTTP 429; Bing returned wholly unrelated results (query not honoured) on two attempts; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned HTTP 404 for the guessed slugs. No CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue figures were obtained from any public source, so all such fields are null rather than inferred. Explicitly: no CIN was confirmed and none is asserted here - an earlier fetch attempt used a constructed CIN (U51909HR2022PTC101234) purely as a URL slug guess, which returned 403 and must NOT be treated as a real identifier. PAN holder type therefore cannot be derived (the 4th-character rule needs an actual PAN). Role left as 'unknown': the input's declared HS codes (610442, 610510, 610910, 611020 - knitted cotton T-shirts, singlets, men's shirts, cotton pullovers) are apparel/textiles, which conflicts with the input's industry_claimed 'Food products and FMCG'; per project rules this HS/industry mismatch is NOT grounds for rejection and no verdict is issued on it, but the discrepancy is flagged for the next pass. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - absence of data is not evidence of non-existence. Recommend re-running this company once search access is restored, querying MCA master data directly by company name and checking the GST portal for the legal name."
+}

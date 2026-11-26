@@ -1,0 +1,9 @@
+{
+ "name_input": "YNP INGREDIENTS PRIVATE LIMITED; YNP INGREDIENTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public risk data could be retrieved for this entity. (1) Sanctions: OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov) was reachable but is a JS form that returns no results via plain HTTP GET, so no name query could be executed; UN/EU/UK consolidated lists and the BIS Entity List were not queried successfully. No sanctions listing found, but this is NOT a clean bill of health - status is unverified, not negative. (2) Indian courts: IndianKanoon full-text search for \"YNP Ingredients\" returned 'No matching results' (https://indiankanoon.org/search/?formInput=YNP+Ingredients) - no reported judgments found; eCourts/NCLT/CCI not checked. (3) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; null - not public/not found. (4) Negative news: web_search tool was non-functional throughout (searx connection refused); Bing returned only irrelevant results (Yellowstone National Park) for the quoted company name; DuckDuckGo timed out; Google returned HTTP 429. No negative news found, but coverage was effectively zero, so absence of news here carries no evidentiary weight. (5) Russia/CIS supply evidence: none found; null. Registry sources attempted: Zauba Corp (HTTP 403), Tofler (404), InstaFinancials (404) - no company profile page retrieved, so no CIN/PAN/incorporation data confirmed. RECOMMENDATION: do not treat as cleared; re-run sanctions screening (OFAC/EU/UK/BIS) and Indian court checks manually once search access is restored. Per project rules, no rejection is proposed on any of these grounds."
+}

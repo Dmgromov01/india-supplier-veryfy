@@ -1,0 +1,16 @@
+{
+ "name_input": "MASTER FLUID SOLUTIONS (INDIA) PVT LTD",
+ "declared_hs": "340399",
+ "actual_hs_list": [
+  "340319",
+  "340399",
+  "382499",
+  "340290",
+  "271019",
+  "847989"
+ ],
+ "match_status": "partial",
+ "product_summary": "India-facing site masterfluidsolutions.in (India | English edition) describes the company as developing and marketing cutting and grinding fluids, straight oils, parts cleaners, pipe and tube expansion fluids, forming fluids and corrosion control fluids under the TRIM® and Master STAGES™ brands, plus WEDOLiT™ forming and corrosion-protection products and XYBEX® fluid-management systems. Catalogue taxonomy on the India site: TRIM (MicroSol, Soluble Oils, synthetic-ester coolant, Semisynthetics, Synthetics, Neat Oils, Tapping, DRIVE, Specialty, Additives); WEDOLiT (Expander Oil, Prelube, Forming – water miscible, Forming – neat, Corrosion Protection, Corrosion Inhibitor – neat oils); Master STAGES (Cleaners – spray/ultrasonics/maintenance, Corrosion Inhibitors, Synthetics, Emulsions, Cleaners+RP, Oil/Solvent, Additives); XYBEX (Filtration, Mixers, high- and low-speed Centrifuges, Separators, Clean-out, Meters & Equipment).",
+ "role_hint": "manufacturer_trader — the global group formulates/blends metalworking fluids (TRIM, Master STAGES, WEDOLiT are group brands), while the India entity also resells/distributes group-made fluids and third-party-style XYBEX equipment; no own plant or blending evidence found on the India pages, so manufacturer status is asserted by brand ownership, not corroborated.",
+ "comment": "HS 3403.99 is plausible but only covers part of the range. Correct mapping by product line: water-miscible cutting/grinding fluids (synthetics, semisynthetics, soluble oils) → 3403.19 (lubricating preparations, not containing petroleum oils as base) or 3403.99 depending on base; neat/straight cutting oils and tapping oils with petroleum base → 2710.19 (or 3403.19 if additive-based); WEDOLiT forming/prelube/expander oils → 3403.19 / 2710.19; corrosion inhibitors and corrosion-protection fluids → 3824.99 (prepared additives) or 3403.19; parts cleaners (aqueous/spray/ultrasonic) → 3402.90; oil/solvent cleaners → 3814.00; XYBEX filtration, mixers, centrifuges, separators, meters → 8479.89 / 8421.19 / 9026.xx (machinery, entirely outside chapter 34). So the declared single code 3403.99 is a partial match: it fits the synthetic/semisythetic coolant core but omits the neat-oil, cleaner, corrosion-inhibitor and equipment lines. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification — the actual industry is metalworking fluids / industrial lubricants and coolants for machining (aerospace, automotive, bearing, compressor, machine-tool end users per the site's industry-solutions menu), not oil & gas. Trader signs: XYBEX equipment line and 'Find a Distributor' structure indicate distribution activity alongside branded product; the India entity's own manufacturing footprint is not evidenced on the site. All product lines above are taken from the website catalogue only — no customs line was available in this task, so every code is 'заявлено, не подтверждено' (declared, not confirmed). No registry, revenue or shipment data researched per scope."
+}
