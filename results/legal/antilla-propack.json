@@ -1,0 +1,18 @@
+{
+ "name_input": "ANTILLA PROPACK",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record located. Search tooling was degraded during this run: the DuckDuckGo/searx backend returned 'Connection refused' on both queries, Bing returned only unrelated results (Antilia building, Antilla shipwreck) even with exact-phrase quoting, and registry aggregators were inaccessible (zaubacorp.com HTTP 403, instafinancials.com HTTP 403, thecompanycheck.com HTTP 404, duckduckgo.com HTML endpoint timed out). No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any source, so all such fields are null rather than inferred. The claimed name 'ANTILLA PROPACK' may be a trade/brand name or a misspelling (cf. 'Antila'/'Antilla Propac'); the legal entity form (Pvt Ltd / LLP / proprietorship) is unknown. NOT rejected: per project rules rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and absence of a findable record under degraded search is not such proof. Role left as 'unknown' - no evidence of manufacturing or trading activity was retrieved. Declared HS 392049 (plastic film/sheet, non-cellular, not reinforced - consistent with a flexible-packaging converter) is plausible for a 'Propack' name but is unverified against any actual GST registration or product record; per rule 3 HS mismatch is not a rejection ground in any case. Recommended next step: re-run against MCA master data / GST portal with working search, or obtain the GSTIN or PAN directly from the supplier, before any verdict."
+}

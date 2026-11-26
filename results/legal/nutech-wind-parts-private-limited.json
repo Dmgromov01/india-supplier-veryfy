@@ -1,0 +1,18 @@
+{
+ "name_input": "NUTECH WIND PARTS PRIVATE LIMITED",
+ "legal_name": "NUTECH WIND PARTS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; Bing and Google returned only irrelevant results (Gmail, Thanksgiving pages) for the exact quoted name; direct fetches of registry aggregators were blocked - zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, instafinancials.com HTTP 404, tofler.in HTTP 404 (no such company slug). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not publicly retrievable through available tools - NOT because the entity was found to be non-existent. No rejection applied: per rules, rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and no such evidence was obtained either way. Role left 'unknown' - the name suggests a wind-turbine component (HS 8503) manufacturer, but this is inference from the name only, not verified from MCA objects clause or GST activity. Revenue FY25/FY26 null - no audited accounts or official filings accessible. State claimed in input was empty, so no state mismatch can be assessed. RECOMMENDATION: re-run this company when search/registry access is restored, or verify manually on mca.gov.in MCA21 master data and the GST portal (gst.gov.in search by trade name) before any commercial decision."
+}

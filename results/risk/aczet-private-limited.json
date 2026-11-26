@@ -1,0 +1,9 @@
+{
+ "name_input": "ACZET PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no findings either way. During this session the DuckDuckGo search backend returned 'Connection refused' on every query, html.duckduckgo.com timed out, and Bing returned wholly unrelated results (Apple Music, NFL) for all queries, so no usable page set was obtained. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form that returns no results to a plain HTTP fetch, so no name match could be executed; the page confirmed the SDN list was last updated 11/23/2026. Direct fetches of aczet.com and aczetscales.com failed (timeout / DNS failure). Therefore sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List), Indian court cases with party role and status, regulator actions, negative news, credit rating and any evidence of supplies to Russia/CIS are all recorded as null - NOT as clean. No claim in this record is sourced, and nothing here should be read as a negative or positive risk signal. Per project rules, absence of a sanctions hit is not established and no rejection ground exists on this record. Recommended: re-run this company in a later batch when search tooling is functional, checking OFAC SDN/consolidated list, EU and UK consolidated lists, BIS Entity List, e-courts/NCLT/High Court records, and Indian credit-rating agency coverage. Note also that the claimed industry ('Металлургия и горнодобыча' / metallurgy and mining) is inconsistent with the declared HS codes (7616.99 aluminium articles, 8423.81/8423.82 weighing machinery, 8443.39 printing machinery), which points to a weighing-equipment manufacturer rather than a metals/mining firm - flagged for the identity/HS reviewer, not a rejection ground under Rule 3."
+}
