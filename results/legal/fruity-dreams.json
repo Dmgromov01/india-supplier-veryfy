@@ -1,0 +1,18 @@
+{
+ "name_input": "Fruity Dreams",
+ "legal_name": "CARGO YATRI PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - data unavailable, not disproven. Tooling failed: DuckDuckGo/searx backend refused connections; Google returned HTTP 429; Bing returned only generic 'cargo' results with no hit for the exact string 'CARGO YATRI PRIVATE LIMITED'; ZaubaCorp and TheCompanyCheck returned HTTP 403; Tofler and InstaFinancials returned HTTP 404 (no company page under that slug). Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could not be sourced from any public profile and are recorded as null rather than guessed. No audited accounts or official filings were located, so FY25/FY26 revenue are null. Role cannot be classified (manufacturer vs trader) without registry/NIC data - left 'unknown'. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy is not established; absence of a public page is not proof of non-existence. Also note the input itself is internally inconsistent: trade name 'Fruity Dreams' with declared HS 081090 (fresh fruit, e.g. pomegranate/other fresh fruit) is a mismatch with a 'food & FMCG' label and with the claimed legal name 'Cargo Yatri' (suggesting logistics), so the legal entity behind the trade name should be re-confirmed with the supplier (GST certificate / CIN on invoice) before any further work. Recommend re-run of registry check when search backend is restored."
+}

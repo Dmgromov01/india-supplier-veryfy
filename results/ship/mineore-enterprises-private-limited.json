@@ -1,0 +1,8 @@
+{
+ "name_input": "Mineore Enterprises Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey pages for both slug variants (mineore-enterprises-private-limited and mineore-enterprises-pvt-ltd) returned only the generic template shell: 'Shipments available for MINEORE ENTERPRISES PRIVATE LIMITED, refreshed daily' — zero shipment rows rendered, no date, destination, HS code or bill-of-lading number visible. Source counter: 2 ImportKey pages fetched, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record could be retrieved: web_search returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both queries, Google returned HTTP 429, and volza/eximpedia/trademo returned HTTP 403 while importgenius returned a JavaScript challenge. Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что отгрузок не было: все четыре независимых источника данных (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) были недоступны или отдали пустой шаблон без строк, а поисковые системы в этой сессии не работали (connection refused / HTTP 429). Заявленный HS 282090 (оксиды/гидроксиды металлов, прочие) не подтверждён и не опровергнут — фактический код установить не удалось, поэтому HS не корректировался. Выручка и объём экспорта: null (не публичны, не выдумывались). CIN/PAN не проверялись — реестры вне области задачи. Рекомендация: повторить проверку при доступном Volza/Eximpedia или запросить у поставщика экспортные B/L и GST-декларации напрямую; статус 'unknown' не является основанием для отклонения."
+}

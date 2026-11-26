@@ -1,0 +1,21 @@
+{
+ "name_input": "SHIVPURA AGRO PRODUCTS PRIVATE LIMITED",
+ "declared_hs": "071080;081190;091011",
+ "actual_hs_list": [
+  "0813 (dried fruit incl. mixtures — dry fruits gift thali/basket, raisins, cashews, almonds, pistachios as sold)",
+  "0801 (cashew, almond, walnut — if sold as nuts)",
+  "0802 (other nuts, pistachio)",
+  "0806 (grapes, dried — raisins/kishmish)",
+  "0904 (pepper, dried capsicum)",
+  "0908 (nutmeg/mace), 0909 (anise/cumin/coriander seed), 0910 (ginger, turmeric, curry, other spices)",
+  "0910 (ginger, saffron, turmeric, thyme, bay leaves, curry) — declared 091011 is only ginger, not the whole spice line",
+  "1201/1204/1206/1207 (oil seeds: soya, sunflower, safflower, other oil seeds)",
+  "0713 (dried leguminous vegetables — pulses & beans)",
+  "1006 (rice — basmati/non-basmati varieties)",
+  "0712 (dried vegetables), 1212 (locust beans/seaweeds/other veg. products for superfoods), 1008 (buckwheat/quinoa-type superfoods) — indicative only"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official site shivpuraagro.com (Shivpura Agro Products Pvt. Ltd., O-5102, 5th Floor, Gaur City Center, Sec-4, Greater Noida West - 201318, Uttar Pradesh; +91-8859716239; info@shivpuraagro.com) lists six product lines: Dry Fruits, Granular Spices, Oil Seeds, Pulses & Beans, Super Foods, and Rice, plus a 'Nutrition Gifting' line (DryFruits Gift Thali Small/Medium/Large, DryFruits Gift Basket Small/Medium/Large). Site claims '50+ Products', '5+ Years of Experience', '1000+ Happy Customers', '20+ Cities Served', 'PAN India delivery of bulk orders'. No SKU-level catalogue page rendered (the /products URL returned only the page title), so individual items are taken from the category names and the featured gift SKUs.",
+ "role_hint": "trader",
+ "comment": "СООТВЕТСТВИЕ HS: partial. Из трёх заявленных кодов подтверждается только один по смыслу: 081190 (прочие фрукты, замороженные/консервированные — сюда попадают сухофрукты и ореховые смеси в подарочных наборах) — соответствует линии Dry Fruits / Nutrition Gifting. Код 071080 (прочие овощи, замороженные) НЕ подтверждён: замороженных овощей в ассортименте на сайте нет; линия Pulses & Beans — это сушёные бобовые, т.е. 0713, а не 0710. Код 091011 (имбирь, недробленый и немолотый) — частичное совпадение: имбирь может входить в линию Granular Spices, но заявленный код покрывает только имбирь, тогда как сайт заявляет широкую линию специй (перец 0904, тмин/кориандр 0909, куркума 0910 и др.). ПРОПУЩЕННЫЕ ЛИНИИ, не отражённые в декларации: Oil Seeds (1201/1204/1206/1207), Pulses & Beans (0713), Rice (1006), Super Foods (1212/1008 и др.) — существенная часть ассортимента не покрыта заявленными кодами. ОТРАСЛЕВАЯ КЛАССИФИКАЦИЯ: заявленная «Продукты питания и FMCG» в целом корректна, но компания позиционирует себя как агро-поставщик (сухофрукты, специи, масличные семена, бобовые, рис) — это скорее агро/бакалея, чем FMCG-бренды. ПРИЗНАКИ ТРЕЙДЕРА: сайт не упоминает собственных производственных мощностей, фасовки или переработки; формулировки «sourcing directly from the farmers», «PAN India delivery of bulk orders», «Enquire Now / Get Quote» вместо цен и корзины, продажа подарочных наборов из чужой продукции — типичный профиль трейдера/дистрибьютора. Верификация: сайт заявляет «organic and fresh products» и «quality testing», но никаких сертификатов (FSSAI, Organic India, APEDA) на просмотренных страницах не приведено. ВСЁ, что не подтверждено таможенной строкой, помечается как «заявлено, не подтверждено»: ни одна позиция ассортимента не подтверждена записью об отгрузке; фактических экспортных или внутренних поставок по открытым источникам в рамках этой проверки не найдено — следов поставок не найдено. HS-несоответствие НЕ является основанием для отклонения (правило 3): компания сохраняется в базе, коды корректируются на фактические, вердикт accepted_hs_corrected. Реестры, выручка и таможенные объёмы в рамках роли не проверялись — null."
+}
