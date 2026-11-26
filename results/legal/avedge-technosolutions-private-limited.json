@@ -1,0 +1,18 @@
+{
+ "name_input": "AVEDGE TECHNOSOLUTIONS PRIVATE LIMITED",
+ "legal_name": "AVEDGE TECHNOSOLUTIONS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAWCA9147K",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'A' = surname/entity initial) — format-consistent with a private limited company, but not independently verified against a registry record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both searches; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; Google returned only a redirect stub; Bing returned completely irrelevant results (Aerie/YouTube/Microsoft) for the exact-name and exact-PAN queries, i.e. no usable hits. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they were not publicly retrievable with the available tools. PAN AAWCA9147K is carried over from the input only; its 4th character 'C' is consistent with a company holder, but this is a format check, not verification. No audited accounts or official filings were found, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown' — no registry record was read to establish manufacturer vs trader. Per project rules this company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy could not be established either way, and absence of retrievable data is not grounds for rejection. Declared HS codes (732690;847130;847141;847150) span iron/steel articles plus computers/ADP machines, which is internally inconsistent with the claimed industry 'Металлургия и горнодобыча' — flagged for HS correction on the next pass, but per rule 3 this is not a rejection ground. RECOMMENDATION: re-run this company when the search backend is restored, or verify manually on MCA Master Data / GST portal."
+}

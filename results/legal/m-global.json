@@ -1,0 +1,18 @@
+{
+ "name_input": "M Global",
+ "legal_name": "MG GLOBAL PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "None",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. All registry sources were inaccessible from this environment: MCA21 company master data (mca.gov.in) returned HTTP 403, Zauba Corp returned HTTP 403, TheCompanyCheck returned HTTP 403, InstaFinancials returned HTTP 403; the DuckDuckGo search backend was down (connection refused) and Bing/Google returned only irrelevant results (MG Motor / Morris Garages), so no CIN, PAN, GSTIN, incorporation date or MCA status could be retrieved from any public profile. No audited accounts or official filings were located, therefore revenue FY25/FY26 are null (not estimated). PAN holder type cannot be derived because no PAN is public. Registered-office state is unknown, so it cannot be compared with the input state (input itself states 'None'). Role is 'unknown' - the claimed IT/electronics profile (HS 847130, 847330, 851712, 852589) is a declaration only and is not evidence of manufacturing or trading activity. IMPORTANT: this is an unverified record, NOT a rejection - non-existence, strike-off, liquidation or bankruptcy was NOT established. Per project rules the company is retained in the database pending a manual registry lookup (MCA CIN search / GST portal search by trade name) or a GSTIN/CIN supplied by the requester. No shipment, court or catalogue research was performed, per role scope."
+}

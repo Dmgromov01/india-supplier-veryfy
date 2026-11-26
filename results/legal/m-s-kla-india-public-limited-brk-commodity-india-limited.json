@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S KLA INDIA PUBLIC LIMITED; BRK COMMODITY INDIA LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровая проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, затем Bing/Google отдавали нерелевантную выдачу (Klarna, Berkshire Hathaway) и игнорировали кавычки; агрегаторы реестров (zaubacorp, thecompanycheck, falconebiz) вернули 403, instafinancials — 404. Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус не подтверждены ни одним публичным источником. ВАЖНО: входные данные противоречивы — в поле name указаны ДВА разных юрлица ('KLA India Public Limited' и 'BRK Commodity India Limited'), а legal_claimed содержит только первое; неясно, какое из них является проверяемым поставщиком, и связаны ли они (возможна смена наименования либо два независимых лица). Также вызывает сомнение форма 'Public Limited' в сочетании с трейдерским профилем по коду ТН ВЭД 0710 (овощи замороженные) — требует сверки с MCA. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3), статус — 'не проверено'. Требуется повторный запуск с рабочим доступом к MCA master data / GST-порталу и уточнение от заказчика, какое юрлицо проверять. Выручка FY25/FY26 — null, аудированной отчётности в открытом доступе не найдено."
+}
