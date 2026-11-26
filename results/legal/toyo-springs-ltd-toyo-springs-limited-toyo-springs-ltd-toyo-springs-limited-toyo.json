@@ -1,0 +1,18 @@
+{
+ "name_input": "TOYO SPRINGS LTD.; TOYO SPRINGS LIMITED; TOYO SPRINGS LTD.; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED",
+ "legal_name": "TOYO SPRINGS LIMITED (as claimed; not independently confirmed against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved, so all identifiers are null rather than guessed. Tooling failures: DuckDuckGo search backend returned connection refused on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403 (bot-blocked); tofler.in returned 404 for the guessed URL; Google returned HTTP 429; DuckDuckGo HTML timed out. Bing returned only Toyo Tires (Japan/US tyre maker) results for every query variant, i.e. no Indian 'Toyo Springs' registry page surfaced at all. Consequently CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered state and MCA status are all unverified. No audited accounts or official filings were located, so revenue FY25 and FY26 are null - not estimated. Role left as 'unknown': the claimed HS 732020 (helical springs of iron/steel) is consistent with a springs manufacturer, but no MCA business-object or factory evidence was obtained, so manufacturer vs trader cannot be determined. Per project rules this is NOT a rejection: absence of retrievable data is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found either. Action required: re-run against MCA V3 / a paid registry API (Zauba/Tofler/Probe) with the exact CIN, and confirm whether the entity is 'Toyo Springs Limited' or a similarly named private limited company, since the input string repeats the same name 10 times and may be a deduplication artefact of several distinct supplier records."
+}

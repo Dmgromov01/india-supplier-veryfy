@@ -1,0 +1,8 @@
+{
+ "name_input": "Q LAND FOOD LLP",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/q-land-food-llp (and slug variant /q-land-food) returned only the generic paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible, no date, no destination, no HS code, no B/L number. Source counter: 2 importkey pages fetched, 0 records seen. volza.com/p/q-land-food-llp/ and trademo.com returned HTTP 403; eximpedia.app returned HTTP 403.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend was down (\"searx: Connection refused\") for all queries, and direct DuckDuckGo HTML fetch timed out. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: единственный доступный источник (importkey) отдал только заглушку без строк данных, а volza/eximpedia/trademo закрыты 403, поисковик недоступен. Заявленный HS 120242/120262 (очищенное ядро кешью / семена) не подтверждён ни одной таможенной записью. Выручка и объём экспорта: null (не публичны, не выдумываю). PAN/CIN не проверялись — реестры вне области задачи. Рекомендация: повторить проверку при доступном поиске или платном доступе к Volza/ImportKey, чтобы получить конкретные B/L записи."
+}
