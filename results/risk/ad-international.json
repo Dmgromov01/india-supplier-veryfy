@@ -1,0 +1,9 @@
+{
+ "name_input": "AD International",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. The DuckDuckGo search tool returned a backend error ('Connection refused') on every attempt; fallback attempts via Google (HTTP 429 rate limit), DuckDuckGo HTML endpoint (timeouts) and Bing (returned only irrelevant generic results for the token 'AD', ignoring the quoted phrase) produced no usable pages. Consequently nothing could be checked against OFAC SDN, UN, EU, UK or BIS Entity List, no Indian court/NCLT/insolvency records were retrieved, no regulator actions or negative news were found or excluded, no credit rating was located, and there is no evidence either way of supplies to Russia or the CIS. All fields are null because the data is not public/not retrieved - NOT because the company was cleared. The name 'AD International' is a highly generic trade name with no PAN, state or CIN supplied, so even with working search the entity would be ambiguous and likely unverifiable without a registration number. Per project rules this is not a rejection ground and no adverse inference should be drawn; the company should be re-queued for risk verification once search access is restored and a PAN/CIN or registered address is provided. No sanctions, court, rating or RF-supply conclusions are asserted."
+}

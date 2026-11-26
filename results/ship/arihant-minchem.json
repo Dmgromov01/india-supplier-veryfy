@@ -1,0 +1,8 @@
+{
+ "name_input": "Arihant Minchem",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record obtained. ImportKey page https://importkey.com/countries/india/arihant-minchem loaded only as a JavaScript shell: 'Shipments available for ARIHANT MINCHEM, refreshed daily' with zero rows rendered and no bill-of-lading, date, destination or HS line visible. Rows actually seen: 0. Counter: page claims shipment data exists, but 0 records were displayed.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. ZaubaCorp (https://www.zaubacorp.com/company/ARIHANT-MINCHEM) returned HTTP 403; no registry or procurement page could be read. Rows actually seen: 0.",
+ "note": "Evidence could not be gathered: the search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), Bing returned only unrelated results (Anthropologie, NVIDIA) for every query, and all shipment-data platforms blocked access — volza.com 403, eximpedia.app 403, trademo.com 403, importgenius.com JavaScript challenge, Google 429. Therefore no export or domestic shipment could be confirmed OR ruled out; both statuses are 'unknown', not 'none_found', because the absence of evidence here is a tooling failure, not a verified absence. No bill-of-lading number, date, destination, HS code, GST band or turnover figure is asserted — all null. Declared HS 252910 (feldspar) is unverified against any actual shipment line. Revenue and export volume: null (not public in any source reachable). Recommend re-running this company once search access is restored, checking importkey/volza for HS 252910 export lines and the GST portal for turnover."
+}

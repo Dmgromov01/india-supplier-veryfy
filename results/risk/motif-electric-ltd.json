@@ -1,0 +1,9 @@
+{
+ "name_input": "MOTIF ELECTRIC LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковые бэкенды были недоступны (DuckDuckGo/searx — connection refused/timeout, Brave и Mojeek — HTTP 429/403, Bing возвращал нерелевантную выдачу без учёта кавычек, Google — 429). OFAC Sanctions List Search открылся, но это JS-интерфейс без возможности передать запрос через http_get, поэтому фактический матчинг по имени 'Motif Electric Limited' не проводился — sanctions_hit=null означает 'не проверено', а НЕ 'чисто'. Аналогично не проверены: список BIS Entity List, консолидированные списки ЕС/ООН/UK OFSI, индийские судебные реестры (eCourts, NCLT, High Court), реестры регуляторов (SEBI/RBI/MCA), кредитные рейтинги (CRISIL/ICRA/CARE/India Ratings) и любые упоминания поставок в РФ/СНГ. Никаких утверждений о наличии или отсутствии санкций, судов, рейтингов и негативных новостей по данной компании не делаю — данных нет. Требуется повторный прогон при доступном поиске; приоритетные запросы: '\"Motif Electric Limited\" OFAC SDN', '\"Motif Electric\" NCLT OR eCourts', '\"Motif Electric\" CRISIL OR ICRA rating', '\"Motif Electric\" Russia OR CIS export'. Отмечаю также, что заявленная отрасль 'Нефтегаз и химия' и HS 841320 (насосы) не согласуются с названием 'Electric' — это вопрос к профильной проверке юрлица/HS, вне моей роли."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "S.K Bio Biz",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/s-k-bio-biz (and variant /s-k-biobiz): page renders the company header \"Import/Export Data about: S K BIO BIZ\" but the shipment section contains only boilerplate — \"Shipments available for S K BIO BIZ, refreshed daily\" — with no dated record, no destination, no HS code and no bill-of-lading number. Rows actually seen: 0 shipment records on both slugs (source counter: 2 slug variants tried, 0 rows).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches for \"S K Biobiz\" / \"SK Biobiz\" returned no results (search backend error: connection refused), and eximpedia (403), trademo (403) and importgenius (JS challenge) were inaccessible. No domestic supply record seen — null, not public/not retrievable.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки с датой, направлением, HS-кодом или номером B/L не обнаружено; внутренние поставки подтвердить нечем. Заявленный HS 350790 (ферменты) ничем не подтверждён — факт отгрузок не установлен, поэтому код не корректировался, а оставлен как заявленный. Выручка и объём экспорта: null (не публичны / не найдены). Юрлицо S K BIOBIZ PRIVATE LIMITED в реестрах не проверялось (реестры вне области задачи); оснований для отклонения нет — статус не rejected, а именно «следов поставок не найдено». Ограничение: поисковый бэкенд был недоступен, поэтому охват проверки неполный — при восстановлении доступа к volza/eximpedia запись стоит перепроверить."
+}
