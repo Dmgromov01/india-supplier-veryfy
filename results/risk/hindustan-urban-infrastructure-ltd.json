@@ -1,0 +1,9 @@
+{
+ "name_input": "HINDUSTAN URBAN INFRASTRUCTURE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: web_search returned 'searx: Connection refused' on both queries; direct fetches of Google, DuckDuckGo HTML and Bing returned either timeouts or completely irrelevant results (ESPN/Microsoft pages), i.e. the search layer is not returning real matches; indiankanoon.org returned HTTP 403. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all null - NOT because they were checked and found clean, but because nothing could be retrieved. Do not read nulls here as absence of risk. Additional flag for the analyst: the record itself is internally inconsistent - the claimed name 'HINDUSTHAN INSULATORS & INDUSTRIES LIMITED' is an electrical-insulator manufacturer, while the declared HS 854690 (electrical insulators) matches the insulator business but the claimed industry 'IT and electronics' and the input name 'HINDUSTAN URBAN INFRASTRUCTURE LTD' do not match either. The PAN AAACT2345J looks like a placeholder pattern and was not verified. Recommend re-running this company once search access is restored, and separately resolving which legal entity is actually being onboarded."
+}

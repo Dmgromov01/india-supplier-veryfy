@@ -1,0 +1,18 @@
+{
+ "name_input": "FLAIR WRITING INDUSTRIES LIMITED",
+ "legal_name": "FLAIR WRITING INDUSTRIES LIMITED",
+ "cin_llpin": null,
+ "pan": "AACCF8824C",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'F' = first letter of surname/entity name 'Flair') — PAN format consistent with a company; not independently re-verified against MCA/PAN master because registry sites (Zauba, TheCompanyCheck, InstaFinancials, QuickCompany) returned 403/timeouts and search engines were unreachable",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (per company's registered office; MCA master page not retrievable in this session)",
+ "state_claimed": "Maharashtra",
+ "mca_status": "Active — listed public limited company, BSE: 544030, NSE: FLAIR (per Screener.in company page); MCA master not directly retrieved",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 1080.0,
+ "revenue_fy26_cr": 1250.0,
+ "revenue_source": "Screener.in consolidated annual P&L (audited, sourced from company filings): FY Mar-2025 Sales ₹1,080 Cr; FY Mar-2026 Sales ₹1,250 Cr (TTM ₹1,300 Cr). https://www.screener.in/company/FLAIR/consolidated/",
+ "note": "Legal entity exists and is listed (BSE 544030 / NSE FLAIR), so no rejection ground. Screener.in describes it as 'Incorporated in 1976' and engaged in developing and manufacturing writing instruments (11 manufacturing facilities, 68% writing instruments / 25% art & creative revenue share) — hence role = manufacturer, not trader. IMPORTANT DISCREPANCY: the CIN prefix implied by a 1976 incorporation would be an old Maharashtra registration, whereas the input's PAN and the company's public listing are consistent; I could NOT retrieve the exact CIN/LLPIN, GSTIN, GST status or exact date of incorporation from a public registry profile in this session (Zauba/TheCompanyCheck/InstaFinancials/QuickCompany blocked or timed out; searx search backend refused connections), so those fields are null rather than guessed. Registered office is in Maharashtra per the company's own filings/listing, matching the claimed state. HS codes declared (321590, 391990, 392310, 392610 — inks, self-adhesive plastics, plastic boxes, plastic office/school articles) are broadly consistent with a writing-instruments and stationery manufacturer; per project rules HS mismatch is not a rejection ground in any case. Revenue figures are consolidated audited sales from Screener.in, not independently cross-checked against the annual report PDF."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "FLAIR WRITING INDUSTRIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data verified. All risk fields set to null because nothing could be confirmed from a source. Tool log: (1) web_search (DuckDuckGo/searx) returned 'Connection refused' on all 3 attempts; (2) http_get on google.com/search returned only a redirect/consent stub, no results; (3) html.duckduckgo.com timed out; (4) bing.com/search returned identical cached generic results for three different queries (all about Flair Airlines / Flair Espresso / Florida FLAIR system), i.e. the query was not actually executed - unusable; (5) company website flairwriting.com failed DNS resolution (Name or service not known); (6) en.wikipedia.org returned HTTP 429 robot block. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) NOT checked; Indian court cases (party role/status) NOT checked; regulator actions and negative news NOT checked; credit rating (agency/date/status) NOT checked; evidence of supplies to Russia or CIS NOT checked. No claim in this record is sourced, and no negative or positive inference should be drawn from the nulls - they mean 'not researched', not 'clean'. Per project rules this is not a rejection ground and no verdict is proposed; the company must be re-queued for risk research when search access is restored. Suggested next-step sources: OFAC SDN search + BIS Entity List, UN/UK/EU consolidated lists, NCLT/NCLAT and eCourts party search, SEBI orders and BSE/NSE disclosure pages, CRISIL/ICRA/CARE/India Ratings press releases, and Indian trade/export data for Russia/CIS destinations."
+}

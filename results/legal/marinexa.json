@@ -1,0 +1,18 @@
+{
+ "name_input": "Marinexa",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни одна публичная запись не подтверждена. 'Marinexa' — не похоже на зарегистрированное наименование юрлица (нет суффикса Pvt Ltd/LLP); вероятно торговое имя/бренд. Заявленное 'DHOLIA MOHMED SAHIL MOHMED IQBAL' — формат имени физлица (проприетор/партнёр), а не название компании, поэтому CIN/LLPIN для него не применим, а PAN/GSTIN физлица в открытых источниках не публикуются. Попытки проверки: web_search вернул ошибку бэкенда (connection refused); Bing/Google по точным строкам 'DHOLIA MOHMED SAHIL MOHMED IQBAL' и 'Dholia Mohmed Sahil' дали нерелевантную выдачу (USPS, Windows Control Panel) — совпадений нет; DuckDuckGo timed out; zaubacorp.com и mca.gov.in вернули HTTP 403; tofler.in — 403. Итог: следов регистрации юрлица/проприетарного GST-профиля не найдено в доступных источниках. Это НЕ основание для отклонения (rejected) — данных недостаточно, а не доказано отсутствие: статус 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или запрос PAN/GSTIN у поставщика. Выручка FY25/FY26 — null (аудиторской отчётности не найдено; для проприетарного бизнеса публичной отчётности обычно нет). Роль — unknown: HS 840999 (части двигателей) заявлен, но фактический характер деятельности (производитель/трейдер) не подтверждён ни одним документом."
+}

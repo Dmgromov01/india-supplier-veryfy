@@ -1,0 +1,18 @@
+{
+ "name_input": "ARCL Organics Limited",
+ "legal_name": "ARCL Organics Limited",
+ "cin_llpin": null,
+ "pan": "AACCA2121P",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type PAN; consistent with a limited company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "West Bengal (Kolkata-based; per Screener company profile and company website)",
+ "state_claimed": "West Bengal",
+ "mca_status": "Active — listed entity, BSE 543993 / NSE ARCL, filing SEBI LODR disclosures (annual reports up to 2025-26, shareholding patterns, board meeting outcomes) as of the latest filings",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 251,
+ "revenue_fy26_cr": 272,
+ "revenue_source": "Screener.in P&L (standalone, Rs crore), Mar 2025 = 251, Mar 2026 = 272; consolidated figures identical (251 / 272). Derived from the company's published audited/limited-review financial results filed with BSE/NSE (arclorganics.com Investor > Financial Results, 'Audited_Results_31.03.2025').",
+ "note": "Entity exists and is active: ARCL Organics Limited is a listed company (BSE 543993, NSE ARCL) with a live investor-relations section on arclorganics.com containing SEBI LODR Reg. 46 disclosures, annual reports 2020-21 through 2025-26, MGT-7 annual return, shareholding patterns and audited results for FY ending 31.03.2025 — so no ground for rejection. Role: manufacturer — the company states it manufactures formaldehyde, phenolics, amino and melamine resins and hardeners at a Kolkata plant (Screener business overview: 'Kolkata based company manufacturing chemicals such as Phenolics, Amino Resins, Melamine Resins and Formaldehyde'; website: 'Best Resin and Formaldehyde Manufacturer in India'). Declared HS 390940 (phenolic/amino resins) is consistent with the actual product line, so no HS correction is needed. PAN: the claimed PAN AACCA2121P is format-valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' denotes a company-type holder, which matches a limited company; however I could NOT independently verify this PAN against an MCA/Income Tax record — registry aggregators (ZaubaCorp, TheCompanyCheck) returned HTTP 403 and search engines returned no usable results, so treat the PAN as 'claimed, unverified'. CIN, GSTIN, GST status and exact date of incorporation could not be retrieved from a public source within the tool budget: CIN/GSTIN are not published on the company website or on Screener, and MCA/aggregator pages were blocked. Screener states only 'Incorporated in 1992' — that is a secondary source and not an exact date, so incorporation_date is left null rather than guessed. Registered office is in West Bengal (Kolkata), matching the claimed state. Revenue figures are from the company's own filed financial results via Screener (standalone = consolidated, no subsidiaries of consequence); FY26 = year ended 31.03.2026."
+}

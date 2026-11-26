@@ -1,0 +1,18 @@
+{
+ "name_input": "RUMIT LIFE CARE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAKFR5935M",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'F' in AAKFR5935M denotes a Firm/partnership in the standard PAN scheme, but the 4th character here is 'F' only if read as AAKF-R5935-M; the claimed PAN is internally inconsistent with a proprietorship and could not be validated against any public record. Treat as unverified.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record could be retrieved. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; Bing returned only unrelated results (backgammon, Walmart, NASCAR) for all three query variants; DuckDuckGo HTML endpoint timed out; zaubacorp.com, instafinancials.com and tofler.in all returned HTTP 403. Consequently no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed. 'RUMIT LIFE CARE' is styled like a sole-proprietorship trade name, which would mean no CIN and no MCA record exists at all — but this is an inference, not a finding. The claimed PAN AAKFR5935M is unconfirmed: its 4th character ('F') indicates a Firm under the PAN scheme, which conflicts with a proprietorship trade name, so the PAN may be mis-transcribed. No rejection is applied: absence of retrievable records is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Revenue FY25/FY26 left null — no audited accounts or official filings were accessible; nothing invented. Role left 'unknown' — no evidence of manufacturing plant, GST registration or trading activity was obtainable. Recommend re-running this company once search/registry access is restored, checking the GST portal (gst.gov.in search by PAN) and MCA for any 'RUMIT LIFECARE' variant spelling."
+}

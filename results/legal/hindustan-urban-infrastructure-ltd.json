@@ -1,0 +1,18 @@
+{
+ "name_input": "HINDUSTAN URBAN INFRASTRUCTURE LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, вердикт не выносится. Технические причины: web_search (DuckDuckGo/searx) вернул 'Connection refused'; Bing и Google через http_get отдали нерелевантную выдачу (результаты про крикет, рецепты, новостные сайты) — поиск фактически не работал. Все реестровые агрегаторы заблокировали доступ: zaubacorp.com — 403, thecompanycheck.com — 403, falconebiz.com — 403, instafinancials.com — 404, mca.gov.in — 403. Ни одного реестрового документа (CIN, PAN, GSTIN, дата регистрации, MCA-статус) получить не удалось, поэтому все поля null, а не предположения. ВАЖНОЕ РАСХОЖДЕНИЕ ВО ВХОДНЫХ ДАННЫХ: заявленное имя 'HINDUSTAN URBAN INFRASTRUCTURE LTD' и заявленное юрлицо 'HINDUSTHAN INSULATORS & INDUSTRIES LIMITED' — это, судя по названиям, два разных субъекта (инфраструктурная компания vs производитель изоляторов); совпадение не подтверждено и не опровергнуто. PAN 'AAACT2345J' выглядит как шаблонная заглушка (последовательность 2345), а не реальный PAN; 4-й символ 'C' в формате PAN означал бы компанию (company), но подлинность номера не проверена — pan_holder_type оставлен null. Заявленный штат Haryana также не сверен с адресом регистрации. Заявленный HS 854690 (электроизоляторы) не соответствует заявленной отрасли 'IT и электроника' — по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический после проверки. Отклонение (rejected) НЕ применяется: отсутствие данных не равно несуществованию юрлица. Требуется повторный прогон при работающем поиске и доступе к MCA/GST-порталам."
+}

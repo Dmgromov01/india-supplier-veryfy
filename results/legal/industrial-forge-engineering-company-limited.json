@@ -1,0 +1,18 @@
+{
+ "name_input": "INDUSTRIAL FORGE & ENGINEERING COMPANY LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Jharkhand",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Bing отдавал только общие словарные результаты без релевантных сниппетов; публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) и портал MCA (mca.gov.in) вернули HTTP 403 Forbidden. Ни один реестровый факт (точное юр. наименование, CIN, PAN, GSTIN, дата регистрации, статус MCA, выручка) не подтверждён источником, поэтому все поля оставлены null — цифры и идентификаторы не выдумывались. Заявленный PAN AAACI3749R: 4-й символ 'C' соответствует типу держателя 'Company' (формат валиден структурно), но принадлежность именно этой компании НЕ подтверждена — это только разбор формата, не верификация. Заявленный штат Jharkhand (вероятно Adityapur/Jamshedpur — металлургический кластер) не сверен с реестровым адресом. Роль (manufacturer/trader) не определена. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторный прогон при доступных источниках (MCA master data, GST-портал, аудиторская отчётность)."
+}
