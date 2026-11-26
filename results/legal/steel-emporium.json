@@ -1,0 +1,18 @@
+{
+ "name_input": "STEEL EMPORIUM",
+ "legal_name": "STEEL EMPORIUM (unverified; input suggests sole proprietorship of NIRAV KUMAR PARASMAL SANGHVI — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the search backend (DuckDuckGo/searx) was unreachable for all queries, Bing returned only generic 'steel' results ignoring the exact-phrase query, and registry aggregators (zaubacorp, instafinancials, thecompanycheck) returned 403/404. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or MCA status could be confirmed from a public source — all left null rather than guessed. The claimed 'legal name' NIRAV KUMAR PARASMAL SANGHVI is a personal name, which is consistent with a proprietorship/partnership trading firm rather than a company, so a CIN may legitimately not exist; this is an inference, not a verified fact. No audited accounts or official filings were found, so revenue FY25/FY26 = null. Role cannot be determined from registry data (HS 721420 = iron/steel bars with indentations, 740821 = copper wire — mixed ferrous/non-ferrous range typical of a metals trader, but unverified). NOT rejected: absence of retrievable records is a data-access limitation, not evidence that the entity does not exist; per rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Recommend re-run with working search access and a GSTIN or PAN supplied by the counterparty."
+}

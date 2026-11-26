@@ -1,0 +1,9 @@
+{
+ "name_input": "3M India Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend returned connection refused on all attempts, and direct fetches were blocked (3mindia.in HTTP 403, Wikipedia HTTP 429 robot policy, BSE page JS-only with no content, CRISIL rating-list URL 404, DuckDuckGo HTML timed out). Therefore no sanctions, court, regulator, rating or Russia/CIS supply data could be verified from a primary source and all fields are set to null rather than guessed. Context only, NOT verified in this session: 3M India Ltd is the Indian listed subsidiary of US-based 3M Company (BSE/NSE listed), which implies exposure to the parent group's post-2022 Russia exit policy, but no specific Indian-entity sanctions listing, court case, rating action or RF/CIS shipment record was confirmed. Per project rules, no rejection is implied: nothing found indicating the legal entity is non-existent, liquidated or bankrupt. Recommend re-running this company once search access is restored, checking: OFAC SDN/UN/EU/UK/BIS lists for '3M India', Indian court records (NCLT/High Court) with party role, CRISIL/ICRA rating rationale with date, and customs/trade data for any India-to-Russia or CIS flows."
+}

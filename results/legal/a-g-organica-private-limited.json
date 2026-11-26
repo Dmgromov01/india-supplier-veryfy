@@ -1,0 +1,18 @@
+{
+ "name_input": "A G ORGANICA PRIVATE LIMITED",
+ "legal_name": "A G ORGANICA PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: the web_search backend returned 'Connection refused' on all queries; Bing/Google/DuckDuckGo HTML fallbacks returned either irrelevant results (the token 'A G'/'AG' was parsed as the generic word 'ag') or HTTP 429/timeout. Registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in) and mca.gov.in returned HTTP 403 Forbidden / 404, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be read from any public source. Per project rules no CIN/PAN/GSTIN/revenue figures are invented and all such fields are null. No rejection is applied: absence of accessible records is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt - the rejection criteria are simply unverified. Role left as 'unknown' (no evidence of manufacturing plant or trading activity obtained; declared HS 1513/1515/1517/1804 are edible-oil/cocoa-butter codes, which is consistent with either a refiner or a trader, but this is not evidence). Recommended action: re-run with a working search backend and a paid registry API (MCA V3 / Tofler / Probe42) or request the company's CIN and GSTIN directly from the supplier, then re-verify."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "3M India Ltd",
+ "legal_name": "3M India Limited",
+ "cin_llpin": "L32999KA1987PLC008857",
+ "pan": "AABCU9603R",
+ "pan_holder_type": "Company (4th character 'C' = company/firm; PAN string itself not verified from a primary public source — treat as unconfirmed)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1987-06-25",
+ "state_registered": "Karnataka",
+ "state_claimed": "",
+ "mca_status": "Active (listed public limited company, BSE: 523395 / NSE: 3MINDIA)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 4446,
+ "revenue_fy26_cr": 5090,
+ "revenue_source": "Screener.in standalone annual P&L (Mar 2025: Sales ₹4,446 cr; Mar 2026: Sales ₹5,090 cr), derived from the company's audited/BSE-filed results — https://www.screener.in/company/3MINDIA/ ; consolidated FY25 revenue was ₹4,186 cr per the same source",
+ "note": "Entity exists and is active — no rejection ground. Legal name 3M India Limited, CIN L32999KA1987PLC008857 (state code KA = Karnataka; registered office in Bengaluru, per the CIN and the company's own disclosures of Bangalore HQ/manufacturing). Incorporated 1987 as Birla 3M Ltd (JV of 3M Company USA and Birla group), renamed 3M India in 2002 — source: Screener.in company profile/history page. Role: manufacturer — the company states manufacturing facilities at Ahmedabad, Bangalore and Pune plus an R&D centre in Bangalore (Screener.in citing 2020 Annual Report p.137); it also imports/distributes group products, so manufacturer_trader is arguable, but the primary role is manufacturer. Revenue figures are standalone sales from Screener.in's compiled audited annual results; FY26 = year ended March 2026. PAN: the format AABCU9603R is the commonly published PAN for this entity, but I could NOT open a primary source (MCA/Income Tax/GST portal) — zaubacorp, thecompanycheck, moneycontrol, 3m.com and Google all returned 403/429, and the search backend was down (connection refused). Therefore PAN is unverified and GSTIN/GST status could not be retrieved from any public profile — left null rather than guessed. Input declared HS 854420 (insulated cable) and industry 'Энергетика'; actual business is diversified industrial/healthcare/consumer products, so the HS code does not match the company's real product range — per project rules this is NOT a rejection ground; the company stays in the base and the HS code should be corrected to the actual exported item. State was not claimed in the input; registered state is Karnataka."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "KAPADIA GUMCHEM INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned completely irrelevant results (query not honoured); zaubacorp.com, instafinancials.com returned HTTP 403; tofler.in search URL returned 404; Google returned HTTP 429. No public registry record (MCA/CIN, GSTIN, PAN, incorporation date) could be retrieved, therefore every identifier field is null rather than guessed. Important structural observation from the input itself: the 'legal_claimed' value 'RAMESHCHANDRA MASHUKLAL KAPADIA' is a personal name, not a company name, and 'KAPADIA GUMCHEM INDUSTRIES' has no corporate suffix (no Pvt Ltd / LLP / Ltd). This strongly suggests a sole proprietorship or partnership firm, which would have NO CIN/LLPIN and NO MCA status - only a GSTIN and PAN (individual PAN, 4th character 'P'). This is a hypothesis, NOT confirmed. Per project rules, rejection is not permitted here: non-existence/struck-off/liquidation was not established, only unverified. Role left as 'unknown' - the declared HS codes 130190/130232/130239 (natural gums, guar gum, other vegetable saps and extracts) are consistent with a gum/chemical processor, but no evidence of manufacturing vs trading was found. Revenue FY25/FY26 null - no audited accounts or official filings located. RECOMMENDATION: re-run this company when search tooling is restored, targeting the GST portal public search and the Udyam/MSME registry (which covers proprietorships and partnerships that MCA does not), plus state GST authority records for the claimed state - note that state_claimed was empty in the input, so the registered-office state cannot be compared against anything."
+}
