@@ -1,0 +1,8 @@
+{
+ "name_input": "Hilti Metal Industries Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey landing page for slug 'hilti-metal-industries-pvt-ltd' (and variant 'hilti-metal-industries-private-limited') returned only the boilerplate line 'Shipments available for HILTI METAL INDUSTRIES PVT LTD, refreshed daily' with 0 shipment rows rendered behind a paywall; no date, destination, HS code or B/L number was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on all three queries, and volza/eximpedia/trademo returned HTTP 403 while importgenius returned a JavaScript challenge page.",
+ "note": "Evidence could not be established either way — this is a tooling/access failure, NOT a finding of no shipments. Source counter: 2 ImportKey pages fetched, 0 shipment rows actually seen; 3 search queries attempted, 0 results returned (search backend down); 4 secondary trade-data sources attempted (volza, eximpedia, trademo, importgenius), all blocked. Declared HS 721922 (flat-rolled stainless steel, width >=600mm, cold-rolled) is plausible for a metal-trading/fabrication name but is unverified against any customs record. No CIN, PAN, GSTIN, revenue or export volume is asserted here — all null. Recommended next step: retry once search access is restored, and check DGFT/IEC and GST portal directly rather than relying on aggregator free views."
+}

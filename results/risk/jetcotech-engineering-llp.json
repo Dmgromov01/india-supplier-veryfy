@@ -1,0 +1,9 @@
+{
+ "name_input": "JETCOTECH ENGINEERING LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE - no verifiable data obtained. Tooling failure, not a clean result. (1) Sanctions: OFAC SDN/Non-SDN, UN, EU, UK and BIS Entity List could not be queried. The OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and returns no results via plain HTTP GET; no downloadable list was retrieved. sanctions_hit=null means NOT CHECKED, not 'no hit'. (2) Indian courts: no court-record source (eCourts/NCLT/High Court) was reachable; no case with party role or status could be confirmed. court_cases=null. (3) Regulator actions / negative news: web_search backend (searx) refused connections on all attempts; Google returned HTTP 429; Bing returned wholly unrelated results (films, astronaut news, Seattle concerts) for every exact-phrase query including \"JETCOTECH ENGINEERING LLP\" and \"JETCOTECH ENGINEERING\" - i.e. no indexed exact match surfaced, but this is not evidence of absence. news_risk=null. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite page found; rating=null, not public in anything retrieved. (5) Russia/CIS supply evidence: nothing found either way; rf_supply=null. MCA portal hostname did not resolve, so no registry corroboration. RECOMMENDATION: re-run this company when search infrastructure is restored; do not treat nulls as clearance. Per project rules, no rejection is proposed - absence of data is not a rejection ground, and sanctions/court matters would not be rejection grounds in any case."
+}

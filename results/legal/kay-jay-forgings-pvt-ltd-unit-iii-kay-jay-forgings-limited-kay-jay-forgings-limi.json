@@ -1,0 +1,18 @@
+{
+ "name_input": "KAY JAY FORGINGS PVT LTD UNIT-III; KAY JAY FORGINGS LIMITED; KAY JAY FORGINGS LIMITED; KAY JAY FORGINGS LIMITED; KAY JAY FORGINGS LIMITED; KAY JAY FORGINGS LIMITED; KAY JAY FORGINGS LIMITED; KAY JAY FORGINGS LIMITED; KAY JAY FORGINGS LIMITED",
+ "legal_name": "KAY JAY FORGINGS LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: web_search backend returned 'Connection refused' (searx unavailable) on both queries; direct fetches of zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in returned HTTP 403; instafinancials.com returned 404; quickcompany.in timed out; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant results (US jewellery retailer 'Kay'), so no Indian registry page was ever reached. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null because they are not public to me in this session - they are NOT null because the company is absent. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Input name is internally inconsistent: it lists 'KAY JAY FORGINGS PVT LTD UNIT-III' (a private limited unit designation) alongside 'KAY JAY FORGINGS LIMITED' repeated 8 times; the legal form (private limited vs public limited) must be resolved from MCA before any record is created. Declared HS 732619 (forged/ stamped iron or steel articles, not further worked) is consistent with a forgings manufacturer, but per rules HS mismatch is not a rejection ground and role cannot be assigned without registry/website evidence - role left 'unknown'. Action required: re-run with working search/registry access (MCA master data, GST public search) to obtain CIN, PAN, GSTIN, incorporation date, state and FY25/FY26 audited revenue; until then this record should be treated as unverified, not as accepted or rejected."
+}

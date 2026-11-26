@@ -1,0 +1,18 @@
+{
+ "name_input": "Premier rubber mill",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials) returned HTTP 403; mca.gov.in MDS also returned 403. Bing/Google fallback returned only irrelevant 'Premier League' results, so no page confirming a legal entity named 'PREMIER RUBBER MILLS' in Haryana was obtained. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be sourced, so all such fields are null rather than guessed. Note on the input: the claimed name 'Premier rubber mill' (singular) is typical of a proprietorship/partnership trade name rather than an MCA-registered company, which would mean no CIN exists at all - but this is unconfirmed. Per project rules the company is NOT rejected: non-existence is not established, only unverified. Role left as 'unknown' (no evidence of manufacturing vs trading). Declared HS 841391 (parts of pumps) is inconsistent with a rubber-mill trade name, but per rule 3 this is not a rejection ground and no HS correction is asserted here since the actual activity is unverified. Recommend re-running with a working search backend or a paid registry API (MCA master data / GST portal) before any verdict."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Namco Indsutries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; прямые запросы к duckduckgo.com/html и indiankanoon.org — timeout/403; zaubacorp.com — 403; Bing по запросам '\"Namco Industries Private Limited\"', '\"Namco Industries\" India steel', '\"Namco Industries\" CIN director' выдавал только нерелевантные результаты (Bandai Namco, Namco Mfg — американский производитель чистящих средств), ни одного индийского юрлица с таким названием не найдено. Следствие: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), судебные дела (Indian Kanoon, eCourts, NCLT), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — НЕ проверены, поэтому везде null, а не 'чисто'. Отдельно: в названии входных данных опечатка ('Indsutries'), а заявленное юрлицо 'NAMCO INDUSTRIES PRIVATE LIMITED' не подтверждено ни одним публичным источником в рамках этой сессии — возможна ошибка в наименовании или несуществующее/непубличное юрлицо. Требуется повторный прогон при работающем поиске; до этого риск-профиль считать непроверенным (не 'низкий риск')."
+}

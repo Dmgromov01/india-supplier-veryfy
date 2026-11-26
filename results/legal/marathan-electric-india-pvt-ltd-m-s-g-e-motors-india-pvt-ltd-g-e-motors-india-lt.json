@@ -1,0 +1,18 @@
+{
+ "name_input": "MARATHAN ELECTRIC INDIA PVT. LTD.; M/S G.E. Motors India (Pvt.) Ltd.; G.E.MOTORS INDIA LTD.; Marathon Electric India Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ВЕРИФИКАЦИЯ НЕ ВЫПОЛНЕНА — нет доступа к источникам. Все попытки получить реестровые данные провалились: web_search вернул 'Connection refused' (бэкенд поиска недоступен); zaubacorp.com и thecompanycheck.com отдали HTTP 403; instafinancials.com отдал только маркетинговую страницу без карточки компании; gstinsearch.in — DNS failure; Google/Bing выдали нерелевантную выдачу (кинотеатры Regal, Marathon Petroleum), т.е. поиск по точным названиям не сработал. Следовательно НИ ОДИН реестровый факт не подтверждён: CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA, выручка — null. Отклонять НЕЛЬЗЯ: отсутствие данных не равно отсутствию юрлица (правило 3 — rejected только при несуществующем/ликвидированном/банкротном юрлице). ВАЖНОЕ НАБЛЮДЕНИЕ по входным данным: в поле name перечислены четыре разных наименования (Marathan Electric India Pvt Ltd, M/s G.E. Motors India (Pvt.) Ltd., G.E. Motors India Ltd., Marathon Electric India Private Limited), а в legal_claimed указано ещё одно — REGAL REXNORD INDIA PRIVATE LIMITED. Это не подтверждённая идентичность, а предположение: Regal Rexnord — глобальный производитель электродвигателей, владевший брендом Marathon Electric, поэтому правопреемство возможно, но требует проверки по MCA (история смены наименования / преемственность юрлица). До подтверждения считать это ОДНИМ кандидатом-юрлицом с неопределённой идентичностью, а не четырьмя компаниями. Роль (manufacturer/trader) не установлена — null/unknown, т.к. без реестра и без проверки фактичности отгрузок (правило 5) утверждать производственный характер нельзя. HS 850110 (двигатели постоянного тока ≤37,5 Вт) соответствует профилю электродвигателей, но по правилу 3 несоответствие HS не является основанием для отклонения и код в любом случае исправляется на фактический. Требуется повторный прогон при доступных источниках: MCA master data, GST-профиль, аудиторская отчётность FY25/FY26."
+}

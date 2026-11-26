@@ -1,0 +1,9 @@
+{
+ "name_input": "CENTRAL TYRES PVT.LTD.; CENTRAL TYRES PVT.LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS null. Research was effectively blocked: the DuckDuckGo/searx search backend returned 'Connection refused' on every attempt; ZaubaCorp and TheCompanyCheck returned HTTP 403; IndianKanoon returned HTTP 403; Google returned HTTP 429; Bing (en-IN) returned 'no results' for \"Central Tyres\" + tyre + India + Mumbai, and its generic query returned only unrelated US/Hawaii entities. The OFAC Sanctions List Search page loaded but is a JavaScript form whose lookup results cannot be retrieved by a plain GET, so no name was actually screened against the SDN/Non-SDN lists. Therefore: sanctions exposure = NOT VERIFIED (not 'clear'); Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia or CIS = NOT VERIFIED. No negative finding should be read into these nulls — equally, no clean bill of health. Per project rules this is not a rejection ground and no verdict is implied; the company stays in the base. Recommended next step: re-run screening when the search backend is restored, using MCA master data for the exact registered name, IndianKanoon by company name, and the OFAC/UN/EU/UK/BIS consolidated lists via their downloadable data files rather than the JS search UI. Note also that the input name is duplicated and the claimed legal name 'CENTRAL TYRES PRIVATE LIMITED' could not be matched to any public record in this session, so name-matching risk (possible homonyms) is unresolved."
+}

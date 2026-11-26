@@ -1,0 +1,9 @@
+{
+ "name_input": "Hilti Metal Industries Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не удалось прочитать. Что пробовалось (23.11.2026): (1) web_search по 'Hilti Metal Industries Private Limited' и по связке с OFAC/судами — бэкенд поиска вернул ошибку 'searx: Connection refused', результатов нет; (2) html.duckduckgo.com — таймаут; (3) google.com/search — HTTP 429; (4) bing.com по трём разным запросам — выдал полностью нерелевантную выдачу (FedEx, сравнения смартфонов), т.е. поиск деградирован и результатам доверять нельзя; (5) zaubacorp.com (карточка компании и поиск по названию) — HTTP 403; (6) thecompanycheck.com — HTTP 404; (7) sanctionssearch.ofac.treas.gov — открылась только форма поиска (JS), результат по имени через GET не отдаётся, поэтому SDN-проверка фактически НЕ проведена; (8) search.marcia.com — не поисковик, вернул парковочную страницу. ВАЖНО: sanctions_hit=null означает 'не проверено', а НЕ 'санкций нет'. Аналогично court_cases/rating/news_risk/rf_supply = null — публичных данных не получено, выдумывать не стал. Отдельно: наименование 'Hilti Metal Industries' может путаться с известным брендом Hilti (Liechtenstein) — это разные юрлица, совпадение названия не является санкционным или репутационным фактором. Рекомендация: повторить проверку при восстановлении доступа к поиску и реестрам (MCA/ZAUBACORP/TOFLER), а также прогнать имя вручную через OFAC Sanctions List Search, EU/UK consolidated lists и BIS Entity List. Оснований для отклонения по правилу 2 нет и быть не может — компания сохраняется в базе; статус проверки: 'не проверено, данных нет'."
+}

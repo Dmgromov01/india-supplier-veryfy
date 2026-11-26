@@ -1,0 +1,18 @@
+{
+ "name_input": "Namco Indsutries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Юрлицо не подтверждено и не опровергнуто: идентифицирующих данных нет. Входные данные содержат только название с опечаткой ('Namco Indsutries'), без PAN, CIN, GSTIN и штата. Поиск по реестрам не дал результата: DuckDuckGo-бэкенд недоступен (connection refused), Bing по запросам '\"NAMCO INDUSTRIES PRIVATE LIMITED\" CIN', '\"Namco Industries Private Limited\" India', site-ограниченным запросам по zaubacorp/tofler/indiafilings и запросам с GSTIN/HS 722540 возвращает только нерелевантные результаты (Bandai Namco, Namco Mfg US) — ни одной индийской записи MCA/GST не найдено. Прямые запросы к zaubacorp.com и thecompanycheck.com — HTTP 403 (антибот), instafinancials — 404. Итог: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 — null, публично не получены в рамках лимита вызовов. Роль — unknown (нет данных о деятельности). Отклонение НЕ применяется: отсутствие подтверждения существования не равно доказанному отсутствию юрлица (правило 3). Требуется уточнение от заказчика: точное написание названия, штат/город, PAN или GSTIN, либо ссылка на профиль IndiaMART/сайт — по ним возможна повторная проверка. HS 722540 (плоский прокат из легированной стали) не проверялся по существу и не является основанием для отклонения (правило 3)."
+}
