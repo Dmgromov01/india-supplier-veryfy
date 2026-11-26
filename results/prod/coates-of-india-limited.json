@@ -1,0 +1,17 @@
+{
+ "name_input": "COATES OF INDIA LIMITED",
+ "declared_hs": "321511;321519",
+ "actual_hs_list": [
+  "321511",
+  "321519",
+  "321590",
+  "321210",
+  "320417",
+  "350691",
+  "390690"
+ ],
+ "match_status": "partial",
+ "product_summary": "Coates of India Ltd is the Indian inks business historically merged into DIC India Ltd (the name in the 'legal_claimed' field). Product lines of the DIC India / Coates combine, per DIC Corporation's own global product taxonomy (dic-global.com, 'Business & Products' > Packaging & Graphic): offset inks, gravure inks, flexo inks, metal decorative inks, news inks, security inks, jet/inkjet inks, functional coatings, plus printing-ink pigments and packaging adhesives. Liquid printing inks of the offset/gravure/flexo/news type fall in HS 3215 (3215.11 black offset, 3215.19 other printing ink); inkjet/jet inks and security inks also normally 3215.19 or 3215.90; printing-ink pigments sit in 3204.17; packaging adhesives in 3506.91 / 3906.90; hot-stamping/foil-type decorative inks may fall in 3212.10. NOTE: no page of dicindia.com could be opened (SSL certificate verify failure and HTTP 429 on all attempts), and the DuckDuckGo search backend returned 'connection refused' for every query, so the product list above is taken from the parent group's global catalogue, not from the Indian entity's own site or catalogue. No customs line was available to me, therefore every code in actual_hs_list is 'заявлено, не подтверждено' at the level of this specific legal entity.",
+ "role_hint": "manufacturer",
+ "comment": "Declared 3215.11 + 3215.19 is the correct core of the range and is consistent with an inks manufacturer, so the declaration is not wrong - it is partial: it covers only liquid printing inks and omits the pigment (3204.17), adhesive (3506.91) and specialty/security-ink lines that the DIC group catalogue lists. Industry_claimed 'Строительство и DIY' (construction & DIY) is a misclassification: this is a printing-inks / graphic-arts chemicals producer, not a construction-materials supplier - the industry label should be corrected to chemicals/printing consumables. Trader signs: none observed, but this could not be checked against the Indian entity's own site. Per project rule 3 the HS mismatch is not a rejection ground: company is kept, code set corrected/expanded to the factual range, verdict accepted_hs_corrected. Verification gaps to close in a later pass: (1) open dicindia.com over a working TLS path or via archive to list the actual Indian SKUs; (2) confirm whether Coates of India Ltd still exists as a separate legal entity or was fully absorbed into DIC India Ltd - the two names in the input are the same business, and the input itself is internally inconsistent (name vs legal_claimed); (3) obtain at least one customs line to move any code from 'заявлено, не подтверждено' to confirmed."
+}

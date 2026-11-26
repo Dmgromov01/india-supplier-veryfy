@@ -1,0 +1,18 @@
+{
+ "name_input": "ELECTRONICA INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, ошибка соединения; (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — HTTP 404; (4) instafinancials.com — HTTP 403; (5) mca.gov.in (Master Data) — HTTP 403; (6) google.com — HTTP 429; (7) bing.com — по запросам «ELECTRONICA INDIA» + GSTIN/CIN/zaubacorp/tofler/IndiaMART выдаёт только нерелевантные результаты (выставка electronica.de, Wikipedia, YouTube) — ни одного индийского реестрового профиля с этим наименованием в выдаче не найдено. Входные данные не содержали ни PAN, ни штата, ни CIN — сверить нечего. Наименование «ELECTRONICA INDIA» крайне неспецифично (совпадает с названием мюнхенской выставки и с массой мелких фирм), поэтому без доступа к MCA/GST-порталам однозначную привязку к конкретному юрлицу сделать нельзя. ВАЖНО: отсутствие данных НЕ является основанием для отклонения — вердикт не rejected, статус 'unknown / не идентифицировано'. Требуется повторный прогон при работающем поиске либо от заказчика: полное юрлицо (с Pvt Ltd/LLP), CIN или GSTIN, город/штат. Заявленный HS 846150 (станки для резки/пиления металла, строгальные) не проверялся — по правилам проекта несоответствие HS не является основанием для отклонения; при подтверждении юрлица код подлежит сверке с фактическим ОКВЭД/товарным профилем. Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги не найдены (нет доступа к источникам)."
+}

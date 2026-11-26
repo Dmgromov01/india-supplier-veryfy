@@ -1,0 +1,18 @@
+{
+ "name_input": "VIKRAM THERMO (INDIA) LIMITED",
+ "legal_name": "Vikram Thermo (India) Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat (corporate office: A/704-714, The Capital, Science City Road, Ahmedabad 380060, Gujarat)",
+ "state_claimed": null,
+ "mca_status": "Active — listed on BSE (scrip 530961), filings current (AGM outcome 2026, shareholding pattern 30-06-2026, annual report 2025-26 published on company investor desk)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Not obtained. Company investor desk (vikramthermo.com/investor-desk) hosts Annual Report 2025-26 and audited results, but the PDFs were not retrievable within the tool budget; screener.in lookup by BSE code 530961 returned a different company (Vikas Ecotech Ltd), so no revenue figure is confirmed.",
+ "note": "Entity exists and is active: official site vikramthermo.com confirms 'Vikram Thermo India Ltd.' trading on BSE at ~INR 155, corporate office in Ahmedabad, Gujarat, 40+ years of operation, own manufacturing (10,000+ tons capacity, 200+ employees, EXCiPACT/ISO 9001/WHO cGMP certifications) — hence role = manufacturer, not trader. CIN, PAN, GSTIN, incorporation date and GST status could NOT be verified: searx web_search was down (connection refused) and registry aggregators (zaubacorp, thecompanycheck) returned HTTP 403; therefore all left null rather than guessed. State claimed in input was empty, so no mismatch to report; registered/corporate office is in Gujarat. Declared HS 390690 (acrylic polymers) is consistent with the company's actual product line (pharma excipients: DRUGCOAT/DRCOAT acrylic enteric polymers, Carbomer/AQUAPOL series) — no HS correction needed. Revenue FY25/FY26 left null per rule 4 (no audited figure retrieved). No rejection grounds: entity exists, is listed and filing."
+}
