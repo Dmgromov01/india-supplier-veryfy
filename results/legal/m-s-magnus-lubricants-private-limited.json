@@ -1,0 +1,18 @@
+{
+ "name_input": "M/s MAGNUS LUBRICANTS PRIVATE LIMITED",
+ "legal_name": "MAGNUS LUBRICANTS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was non-functional (searx connection refused) and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Bing/Google/DDG fallbacks returned HTTP 429 or irrelevant results that ignored the query terms, so no MCA/GST record for 'MAGNUS LUBRICANTS PRIVATE LIMITED' was retrieved. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, not invented. No state was claimed in the input, so state_claimed is null and no state mismatch can be assessed. Role is 'unknown': the declared HS codes (271019; 340319; 340399 - lubricating oils/preparations) are consistent with a lubricants business, but no registry evidence establishes manufacturer vs trader status. Revenue FY25/FY26 are null: no audited accounts or official filings were accessible. Per project rules this is NOT a rejection ground - the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it remains unverified pending a working registry lookup (MCA master data / GST portal). Recommend re-running with a functioning search backend or manual MCA check."
+}

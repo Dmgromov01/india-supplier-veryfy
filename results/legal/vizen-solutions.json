@@ -1,0 +1,18 @@
+{
+ "name_input": "Vizen Solutions",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; прямые обращения к публичным реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) дали HTTP 403, портал MCA (mca.gov.in) — HTTP 403, Google — HTTP 429, Bing — нерелевантная выдача. Точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации и статус MCA установить не удалось — все поля null, ничего не выдумано. Важно: 'Vizen Solutions' может быть торговым обозначением, а не зарегистрированным юрлицом; не исключено также совпадение названий у нескольких организаций (в т.ч. ИП/partnership без CIN). Отклонение НЕ применяется: отсутствие подтверждения существования юрлица при недоступности реестров — не основание для rejected по правилам проекта; статус — 'не проверено, требуется повторная проверка при доступности MCA/GeM/GST-порталов'. Роль (manufacturer/trader) не определена — заявленные HS 848110/848120/848180/848190 (клапаны, редукционные и регулирующие клапаны, их части) относятся к арматуре, но фактический характер деятельности не подтверждён. Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги не найдены. Входные данные не содержали PAN и штата, поэтому сверка 'state_registered vs state_claimed' невозможна."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "HL KLEMOVE INDIA PRIVATE LIMITED; HL Klemove India Private Limited; HL KLEMOVE INDIA PRIVATE LIMITED; HL KLEMOVE INDIA PRIVATE LIMITED",
+ "legal_name": "HL Klemove Gabriel India Private Limited (as claimed in input; NOT verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no registry data obtained. Tooling failed: DuckDuckGo/searx backend refused connection ('Connection refused') on both web_search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed slugs; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant results (Hargreaves Lansdown / Hecla Mining) for every query, so no MCA/GST profile page could be read. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, NOT confirmed absent. Only indirect signal found: the ANAND Group 'Our Companies' page (https://www.anandgroupindia.com/companies/) lists 'HL Mando Anand India' and 'Gabriel India' but does NOT list any 'HL Klemove Gabriel India' entity, so the claimed legal name could not be corroborated from the group's own site. Per project rules the entity is NOT rejected: non-existence/strike-off/liquidation/bankruptcy is unproven, and absence of data is not grounds for rejection. Role left as 'unknown' (HL Klemove is a Korean automotive electronics/ADAS supplier and Gabriel India an Indian auto-components maker, which would suggest a manufacturer JV, but this is inference, not a registry fact). Revenue FY25/FY26 null - no audited accounts or official filings were accessible. Declared HS 852610 (radar apparatus) is plausible for an ADAS/automotive-electronics entity but was not assessed here (out of scope for this role). Recommended next step: re-run with working search, or query MCA master data / GST portal directly for the exact registered name."
+}

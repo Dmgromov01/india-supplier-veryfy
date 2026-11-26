@@ -1,0 +1,9 @@
+{
+ "name_input": "QUALITY SPECIALITY CHEMICALS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no findings either way. All search queries failed: the web_search backend returned 'searx: Connection refused' on every call; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only generic dictionary results for the word 'quality' regardless of the quoted company name, i.e. the phrase was not actually matched. Direct registry access failed: zaubacorp.com returned HTTP 403 on both the company page and the company-search page. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded only as an empty JavaScript form, so no SDN/Non-SDN query could be executed and no match/no-match result was obtained. Consequently NOTHING is asserted about this company: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = not verified, not 'clear'; Indian court cases (party role/status) = not verified; regulator actions and negative news = not verified; credit rating (agency/date/status) = not verified; evidence of supplies to Russia or CIS = not verified. All fields set to null deliberately - no data is public to me through the available tools in this session, and per project rules no values are invented. No CIN, PAN, registration number, case number, rating or shipment record is stated because none was retrieved. Recommended next step: re-run this company once the search backend is restored, or verify manually against MCA master data, eCFR/BIS Entity List, OFAC SDN CSV download, UN/UK/EU consolidated lists, and Indian court portals (eCourts/NCLT) before any risk conclusion is drawn. This is an absence of evidence due to tool failure, not evidence of absence of risk."
+}

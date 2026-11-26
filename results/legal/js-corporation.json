@@ -1,0 +1,18 @@
+{
+ "name_input": "JS corporation",
+ "legal_name": "J S CORPORATION (unverified — exact legal form not established)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was down (searx connection refused) for the whole session; direct fetches of zaubacorp.com, instafinancials.com, thecompanycheck.com, tofler.in and mca.gov.in returned HTTP 403/404, and Bing/Google/DDG fallbacks returned only irrelevant generic results (letter 'J', JavaScript) or HTTP 429/timeout. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be sourced. Nothing is asserted or invented: all registry fields are null. The name 'J S Corporation' is a very common Indian trade name and cannot be matched to a single legal entity without a CIN or GSTIN. NOT rejected — absence of verifiable data is not proof of non-existence; per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy, which was not established. Role left as 'unknown' (no evidence of manufacturing or trading activity found). Declared HS codes (840999, 847989, 851310, 853690) are a mixed set spanning diesel-engine parts, general machinery, portable lamps and electrical connectors — consistent with a trader/assembler rather than a single-line manufacturer, but this is an inference, not a finding. Action needed: obtain CIN or GSTIN from the supplier (or a GST invoice / IEC copy) and re-run the registry check."
+}
