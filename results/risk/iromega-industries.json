@@ -1,0 +1,9 @@
+{
+ "name_input": "Iromega Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. The primary web_search tool was unavailable (backend connection refused on both queries), and fallback fetches to DuckDuckGo (timeout), Google (HTTP 429) and Bing returned only irrelevant results (YouTube/church listings) for the exact strings \"Iromega Industries\" and \"Roshan Maroti Bhagat\" — i.e. no indexed page mentioning this company or this proprietor name was surfaced. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no SDN/Non-SDN name match could be executed. Therefore: sanctions exposure = null (not checked, not cleared); Indian court cases (party role/status) = null (no source found); credit rating = null (no rating agency page found); regulator actions / negative news = null (no news items found); evidence of supplies to Russia or CIS = null (no records found). IMPORTANT: null here means 'not established', NOT 'clean'. Do not treat this company as sanctions-cleared or litigation-free on the basis of this report. Recommended next step: re-run with a working search backend and check (a) OFAC SDN/consolidated list by name and by proprietor, (b) EU/UK/BIS entity lists, (c) eCourts/NCLT by company name, (d) MCA/Tofler/IndiaMART presence to confirm the entity even exists under this name. Note also that the claimed 'legal_claimed' value is a personal name (proprietorship-style), which is consistent with a small unregistered/sole-proprietor trading outfit — such entities typically have no public court, rating or sanctions footprint at all, which would explain the zero results, but this is an inference, not a finding."
+}

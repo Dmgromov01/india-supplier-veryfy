@@ -1,0 +1,9 @@
+{
+ "name_input": "M/s MAGNUS LUBRICANTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data obtained, all fields null. Tooling failure, not a clean negative result. The DuckDuckGo/searx search backend returned 'Connection refused' on every query; Google returned HTTP 429; DuckDuckGo HTML and lite endpoints timed out; Bing returned an identical cached generic result set ('Magnus' the name, Magnus Carlsen, Magnus Health) for three different queries including exact-phrase and site-restricted variants, i.e. it was not processing the query terms and produced zero relevant hits. Consequently NO source was read for this entity: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) NOT verified, Indian court cases NOT verified, regulator actions and negative news NOT verified, credit rating NOT verified, and evidence of supplies to Russia/CIS NOT verified. Nothing here should be read as 'no sanctions hit' or 'no court cases' - it means unverified. Note also that the claimed name 'MAGNUS LUBRICANTS PRIVATE LIMITED' could not be matched to any indexed Indian entity in the fragments that did return, so even the existence of the legal entity is unconfirmed from my side (that check belongs to the legal-identity researcher, flagged here only as context). Recommend re-running this company once the search backend is restored, with queries against zaubacorp/tofler/instafinancials for the CIN, the OFAC SDN and BIS Entity List search pages directly, eCourts/NJDG and the Supreme Court/High Court portals, and Indian credit-rating agency sites (CRISIL/ICRA/CARE/India Ratings) by exact legal name."
+}
