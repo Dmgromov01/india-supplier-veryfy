@@ -1,0 +1,18 @@
+{
+ "name_input": "Koerber India",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The claimed legal name 'KOERBER SUPPLY CHAIN IN LIMITED' is almost certainly a garbled rendering of a Körber group entity (likely 'Körber Supply Chain India Private Limited', a subsidiary of the German Körber AG logistics/supply-chain group), but this could NOT be confirmed from any authoritative source in this session. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on all queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned 404; Google returned HTTP 429; Bing returned only irrelevant results (no usable SERP). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable here, NOT verified as absent. No audited accounts or MCA filings were accessible, so revenue FY25 and FY26 are null. Role left as 'unknown' (a Körber group Indian entity would typically be a manufacturer_trader or service_provider for logistics systems, but this is unverified). Per project rules, no rejection is applied: absence of retrievable data is not evidence of non-existence, strike-off, liquidation or bankruptcy. Also note the declared HS 847890 (machinery parts) and industry 'metallurgy and mining' are inconsistent with a supply-chain/logistics-systems group - HS code should be re-checked against actual product line, but per rule 3 this is not a rejection ground. RECOMMENDATION: re-run verification when search/registry access is restored, using MCA master data (CIN lookup) and the GST public search by legal name."
+}

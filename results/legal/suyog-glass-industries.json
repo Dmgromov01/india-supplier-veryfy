@@ -1,0 +1,18 @@
+{
+ "name_input": "SUYOG GLASS INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: web_search (DuckDuckGo/searx) возвращал 'Connection refused' либо полностью нерелевантные результаты (выдача подменялась посторонними темами), а публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) отдали HTTP 403, Google — HTTP 429. Ни один реестровый факт (точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка) не подтверждён источником, поэтому все поля null — цифры и идентификаторы не выдумывались. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3 — отклонять только при несуществующем/ликвидированном/обанкроченном юрлице, что не установлено). Роль оставлена 'unknown': заявленный профиль (стекло, HS 700719/700991 — закалённое/полированное листовое стекло) не подтверждён ни реестром, ни производственными данными; вероятно мелкий/средний производитель-трейдер, но это предположение, а не факт. Требуется повторный прогон при доступных источниках: MCA master data, GST-портал (поиск по торговому имени), Tofler/IndiaFilings. Выручка FY25/FY26: null — аудиторская отчётность не найдена и не проверялась."
+}

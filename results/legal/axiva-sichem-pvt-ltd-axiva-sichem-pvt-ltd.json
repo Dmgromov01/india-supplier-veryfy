@@ -1,0 +1,18 @@
+{
+ "name_input": "Axiva Sichem Pvt Ltd.; AXIVA SICHEM PVT LTD",
+ "legal_name": "AXIVA SICHEM PRIVATE LIMITED (as claimed in input; not independently confirmed against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search backend returned connection errors ('searx: Connection refused') for both queries, and direct fetches of public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in and instafinancials.com returned 404 for the guessed URL slugs, quickcompany.in timed out, falconebiz.com returned 403, and Google/Bing/DuckDuckGo HTML endpoints returned 429/timeout or irrelevant results. Consequently no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figure could be sourced, so all such fields are null rather than estimated. Note on PAN: no PAN was supplied in the input and none was found, so the 4th-character holder-type test (P = individual, C = company, F = firm, etc.) could not be applied. Note on state: the input declared no state, so no registered-vs-claimed state comparison is possible. Note on role: the input industry is 'Металлургия и горнодобыча' (metallurgy & mining) with declared HS 842129 (machinery for filtering/purifying liquids — not a metallurgy heading), but per project rules an HS mismatch is not a rejection ground and the role cannot be classified without registry/records evidence, hence 'unknown'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected — it is simply unverified and must be re-checked against the MCA portal (mca.gov.in) and the GST portal search by GSTIN/legal name in a session with working search access. Do not treat any field above as confirmed."
+}

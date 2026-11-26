@@ -1,0 +1,33 @@
+{
+ "name_input": "GEEWIN EXIM",
+ "declared_hs": "080112;530500",
+ "actual_hs_list": [
+  "0803.90 (бананы свежие — Cavendish Banana)",
+  "0801.12 (кокосы в скорлупе, свежие — Indian Coconut)",
+  "0801.11 / 0801.19 (кокосы без скорлупы / прочие — Coconut Copra, Desiccated Coconut Powder)",
+  "0801.31 (кешью)",
+  "1006.30 / 1006.20 (рис обработанный / нешелушёный — Indian Rice)",
+  "5305.00 (кокосовое волокно — Coir Fiber)",
+  "5305.00 / 1404.90 (кокосовая стружка, кокосовая скорлупа, кокосовый уголь — Coconut Shell Charcoal)",
+  "0711.40 / 2001.10 (огурцы-корнишоны, консервированные в уксусе/рассоле — Gherkins)",
+  "0910.30 (куркума — Turmeric Finger)",
+  "0904.21 (перец стручковый сушёный — Dry Red Chilli)",
+  "0703.10 (лук свежий)",
+  "0701.90 (картофель свежий)",
+  "1202.42 (арахис лущёный)",
+  "0713.10 / 0713.20 / 0713.40 (горох, нут — Grains and Pulses)",
+  "2304.00 (соевый шрот — soya meal)",
+  "0407.21 (яйца куриные свежие)",
+  "3605.00 (спички — Safety Matches)",
+  "4819.10 / 4819.20 (картонные спичечные коробки)",
+  "0902.30 / 0902.40 (чай)",
+  "2007.99 (пюре манго)",
+  "1008.29 / 1008.21 (просо — Millet)",
+  "0702.00 / 0709.99 (свежие овощи)",
+  "4408.xx (шпон — Veneer Match Boxes, косвенно)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт geewinexim.com (Madurai, Tamil Nadu; заявлено осн. 2001, рук. Mr. N. Govindraj) — «leading merchant exporter». Реальная товарная линейка по каталогу: Cavendish Banana, Indian Coconut, Coconut Copra, Coconut Shell, Coconut Shell Charcoal, Desiccated Coconut Powder, Indian Rice (basmati/non-basmati/matta), Coir Fiber, Cashew Nuts, Coco Disc, Cocopeat Block, Grains and Pulses (Kabuli chickpeas, soya meal), Turmeric Finger (Erode, AGMARK), Dry Red Chilli, Onion, Potato, Peanuts, Chicken Eggs, Safety Matches и 10+ видов спичечных коробок (Cardboard, Barbecue, Hotel, Wax, Book, Box Type, Jumbo, Tent Shape, Veneer, Kitchen), Tea, Mango Pulp, Millet, Gherkins, Fresh Vegetables. Заявленные рынки: Middle East, Europe, Africa.",
+ "role_hint": "trader (merchant exporter; сайт сам называет себя «merchant exporter», продукция «procured from certified vendors» — признак торговца, при этом заявлена собственная производственная площадка → возможен manufacturer_trader, но производство не подтверждено)",
+ "comment": "Сопоставление с заявленными кодами: 080112 (кокосы в скорлупе) — ПОДТВЕРЖДЕНО каталогом (Indian Coconut, полуочищенные кокосы), но это лишь 1 позиция из ~20+ товарных линеек. 530500 (кокосовое волокно и пр.) — ПОДТВЕРЖДЕНО (Coir Fiber, Coco Disc, Cocopeat Block). Итог: partial — оба кода верны, но декларация покрывает малую часть фактического ассортимента. Пропущены в декларации целые товарные группы: свежие фрукты (0803.90 бананы), орехи (0801.31 кешью, 1202.42 арахис), злаки (1006 рис, 1008 просо), специи (0910.30 куркума, 0904.21 чили, 0902 чай), овощи (0703.10 лук, 0701.90 картофель, 0702/0709 свежие овощи, 0711.40 корнишоны), бобовые и шрот (0713.xx, 2304.00), яйца (0407.21), пюре манго (2007.99) и — принципиально иная товарная группа — СПИЧКИ и спичечные коробки (3605.00, 4819.xx), которые составляют заметную часть каталога и не имеют отношения к пищевой/FMCG-агро-профилю. Отраслевая классификация «Продукты питания и FMCG» НЕПОЛНА: спички/картонаж (3605, 4819) и кокосовое волокно/кокосовый уголь (5305, 4402/1404) — не food; корректнее «агро-сырьё и FMCG + промышленные товары (спички, кокосовое волокно)». Признаки трейдера: формулировки «merchant exporter», «procured from certified vendors», «distribution network spread across Middle-Eastern countries, Europe and Africa» — типичный торговый посредник, а не производитель; заявление о «state-of-art manufacturing unit» на сайте не конкретизировано (ни адреса, ни мощностей) — заявлено, не подтверждено. Все товарные позиции — заявлено, не подтверждено: ни одна строка не сверена с таможенной декларацией/записью отгрузки; сайт, каталог и прайс-лист фактом отгрузки не являются. HS-несоответствие основанием для отклонения не является — компания сохраняется, коды дополняются фактическими (accepted_hs_corrected). Контакты с сайта: +91 96261 88777, info@geewinexim.com, адрес 48 A, 3rd floor, Mahal 3rd Street, Manjanakara Street, Madurai, Tamil Nadu. CIN/PAN/выручка/объёмы экспорта — не исследовались по роли (product/HS only), null."
+}

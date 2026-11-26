@@ -1,0 +1,8 @@
+{
+ "name_input": "Koerber India",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. importkey.com/countries/india/koerber-india and .../koerber-supply-chain-in-limited both returned only the JS shell text: \"Shipments available for KOERBER INDIA, refreshed daily\" — zero actual rows, dates, destinations, HS codes or B/L numbers visible. volza, eximpedia, trademo and importgenius returned HTTP 403 / JS challenge; no record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) was down (\"Connection refused\") and Bing returned unrelated football results; thecompanycheck.com returned HTTP 403. No domestic supply evidence line obtained.",
+ "note": "Следов поставок не подтверждено и не опровергнуто — данных нет. Ни экспортных отгрузок (дата/направление/HS/B-L), ни внутренних поставок (GST-оборот, тендеры, контракты) получить не удалось: все источники отгрузочных данных закрыты (403/JS-челлендж), а поисковики недоступны. Заявленный HS 847890 (части машин для сортировки/обработки металла) и отрасль «Металлургия и горнодобыча» не подтверждены ни одной записью; фактический HS не установлен. Юрлицо KOERBER SUPPLY CHAIN IN LIMITED (вероятно усечённое «Körber Supply Chain India Pvt Ltd») в реестрах не проверялось — вне области задачи. Выручка и объём экспорта: null (не публичны/не получены). Требуется повторная проверка при доступных источниках; статус не является ни подтверждением, ни отклонением."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KROMAS Life Sciences",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the search backend (DuckDuckGo/searx) returned connection errors for every query, and direct fetches of company registries were blocked (ZaubaCorp 403, TheCompanyCheck 403, Google 429, DuckDuckGo HTML timeout). Bing returned only unrelated results for the quoted strings \"VIYONI LABS PRIVATE LIMITED\" and \"Viyoni Labs\" / \"Kromas Life Sciences\", i.e. no indexed page matching the claimed legal entity was surfaced. Therefore no public evidence was obtained on: OFAC SDN/UN/EU/UK/BIS listings, Indian court cases (party role/status), regulator actions, negative news, credit rating, or supplies to Russia/CIS. All fields set to null — NOT a finding of absence, but a finding of no accessible data. Per project rules, no rejection is implied and no sanctions/court data is invented. Recommended: re-run verification when search access is restored, checking OFAC SDN search, UN Consolidated List, EU/UK sanctions lists, BIS Entity List, e-courts/NCLT records, and CRISIL/ICRA/CARE/India Ratings for the exact registered entity name."
+}
