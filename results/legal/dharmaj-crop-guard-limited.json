@@ -1,0 +1,18 @@
+{
+ "name_input": "DHARMAJ CROP GUARD LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: web_search вернул 'connection refused' (бэкенд поиска недоступен), затем через http_get поисковики (Google 429, DuckDuckGo timeout, Bing) выдавали полностью нерелевантную выдачу (погода, игрушки) — то есть поиск фактически не работал. Реестровые агрегаторы закрыты: zaubacorp.com и thecompanycheck.com — HTTP 403, mca.gov.in — HTTP 403, tofler.in — 404 по предполагаемому слагу, instafinancials.com — 404, quickcompany.in — timeout. Ни одного подтверждённого факта (CIN, PAN, GSTIN, дата регистрации, статус MCA, выручка) получить не удалось, поэтому все поля null, а не заполнены догадками. ВАЖНО: расхождение во входных данных — в поле name указано 'DHARMAJ CROP GUARD LIMITED', а в legal_claimed — 'HARTEJAS PRIVATE LIMITED'; это два разных юрлица, и какое из них является фактическим поставщиком, не установлено. Также не подтверждено, существует ли 'Hartejas Private Limited' вообще. Роль оставлена unknown: род деятельности (производитель/трейдер) по реестру не установлен. Отклонение (rejected) НЕ применяется — нет оснований: отсутствие данных не равно отсутствию юрлица. Требуется повторная проверка при работающем поиске и доступе к MCA/GST-порталам; приоритетно — уточнить у заказчика, какое юрлицо проверять (DharmaJ Crop Guard Limited или Hartejas Private Limited)."
+}
