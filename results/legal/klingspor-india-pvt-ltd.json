@@ -1,0 +1,18 @@
+{
+ "name_input": "KLingspor India Pvt Ltd",
+ "legal_name": "KLINGSPOR INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; Google returned only a redirect stub; Bing returned completely irrelevant results (nail polish, Madrid hotels) for every query; registry aggregators zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public via the sources reachable here, and NOT invented. What IS confirmed from a primary source: klingspor.in is the Indian web presence of the Klingspor group and describes itself as 'one of the world's leading manufacturers' of abrasives/surface-finishing products (klingspor.in homepage), and the site imprint (klingspor.in/en/imprint) names the parent as Klingspor AG, Hüttenstrasse 36, D-35708 Haiger, Germany, commercial register Wetzlar HRB 5037, VAT DE112589645. The Indian entity is a subsidiary of this German manufacturer, so role is assessed as manufacturer (production of abrasives) rather than trader — but this is an inference from the group's self-description, not from the Indian entity's own MCA/GST record. Declared HS 680421/680422 (abrasive products on a base of other materials) is consistent with the group's product range; no HS correction needed. No rejection grounds found: no evidence the entity is struck off, liquidated or bankrupt — status simply unverified. Recommended follow-up: re-run with working search, or query MCA master data / GST portal directly for 'KLINGSPOR INDIA PRIVATE LIMITED' to obtain CIN, PAN (4th char 'P' expected for a private limited company) and GSTIN, plus FY25/FY26 audited revenue."
+}

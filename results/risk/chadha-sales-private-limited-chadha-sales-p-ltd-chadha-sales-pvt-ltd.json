@@ -1,0 +1,9 @@
+{
+ "name_input": "CHADHA SALES PRIVATE LIMITED; Chadha Sales (P) Ltd.,; CHADHA SALES PVT.LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable public record retrieved. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx unavailable), DuckDuckGo HTML/lite endpoints timed out, and Google/Bing scraping returned only unrelated or spam results with no usable hits for 'Chadha Sales Private Limited'. The OFAC Sanctions List Search page was reachable but is a JavaScript form with no queryable URL, so no name query could be executed against the SDN/Non-SDN lists; UN, EU, UK OFSI and BIS Entity List consolidated files were not reachable within the call budget. Consequently sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — this means NOT CHECKED, not 'clean'. No Indian court docket (e.g. eCourts/NJDG), regulator action, credit rating (CRISIL/ICRA/CARE/India Ratings) or Russia/CIS supply evidence was located or reviewed. Per project rules, absence of findings here is not evidence of absence and must not be read as a negative clearance; the company is not to be rejected on this basis (Rule 2 and Rule 3 — rejection only for non-existence/liquidation/bankruptcy, which was also not established). Recommend re-running this risk pass when search connectivity is restored, with direct queries against the OFAC SDN CSV, EU/UK consolidated lists, BIS Entity List, and eCourts by company name. Note also that the claimed industry ('Металлургия и горнодобыча' / metallurgy and mining) is inconsistent with declared HS 843490 (parts of milking machines / dairy machinery) — flagged for the HS/identity researcher, not a rejection ground per Rule 3."
+}

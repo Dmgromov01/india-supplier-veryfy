@@ -1,0 +1,9 @@
+{
+ "name_input": "DeFINE CHEMICALS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковая инфраструктура недоступна. DuckDuckGo-бэкенд web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; прямые запросы к html.duckduckgo.com дали HTTP 403; Bing по запросам в кавычках (\"DeFINE CHEMICALS\" \"Prabir Deb Burman\", \"Prabir Deb Burman\", site:indiankanoon.org \"Deb Burman\" chemicals) игнорировал кавычки и выдавал нерелевантные результаты (словарные статьи 'define', пакеты .deb, UGC DEB) — ни одного релевантного документа не получено. Поэтому по всем полям null: это НЕ означает отсутствие санкций, судов, рейтинга или поставок в РФ/СНГ — означает, что публичных данных проверить не удалось. Дополнительно: заявленное 'юрлицо' PRABIR DEB BURMAN выглядит как имя физлица/проприетора, а не название компании, что затрудняет поиск в реестрах (MHA, MCA, GST) и в санкционных списках (OFAC SDN, UN, EU, UK, BIS Entity List) — совпадений по имени не проверено. Требуется повторный прогон при восстановлении доступа к поиску и проверка по: санкционным спискам OFAC/UN/EU/UK/BIS, eCourts/Indian Kanoon/NCLT, сайтам регуляторов (CPCB/GPCB, DGFT), кредитным рейтингам (CRISIL/ICRA/CARE/Acuite), а также по таможенным и B-L записям на предмет поставок в РФ/СНГ. Никаких данных не выдумано."
+}

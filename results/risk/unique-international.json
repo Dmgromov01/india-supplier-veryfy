@@ -1,0 +1,9 @@
+{
+ "name_input": "UNIQUE INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Идентификация невозможна: 'UNIQUE INTERNATIONAL' — крайне распространённое имя, в батче нет PAN, CIN, штата или адреса, поэтому привязка любых санкционных/судебных записей к этой компании была бы вымыслом. Проверки не дали результатов: DuckDuckGo (searx) вернул 'Connection refused' на всех запросах; Bing по запросам \"Unique International\" India exporter / sanctions / court выдал только словарные статьи ('unique') без релевантных страниц; прямой GET к duckduckgo.com/html — таймаут; Google — редирект-заглушка. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен, но это JS-форма, GET-запрос без параметров не выполняет поиск — совпадений не проверено, поэтому sanctions_hit = null (не подтверждено ни наличие, ни отсутствие). Судебные дела (eCourts/NCLT), действия регуляторов, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — публично не установлены в рамках лимита вызовов; все поля null, данные не выдумывались. Требуется PAN/CIN или штат+адрес для повторной проверки. По правилу 2 санкции/суды в любом случае не являются основанием для отклонения."
+}

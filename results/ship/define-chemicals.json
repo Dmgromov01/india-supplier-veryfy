@@ -1,0 +1,8 @@
+{
+ "name_input": "DeFINE CHEMICALS",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable record obtained. importkey.com/countries/india/define-chemicals and .../define-chemicals-pvt-ltd both returned only the empty paywall template (\"Join ImportKey to view the import and export data records of companies all over the world\") with 0 shipment rows visible; volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. DuckDuckGo search backend failed on all three queries (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no domestic-supply source was reachable. Rows actually seen: 0.",
+ "note": "Verification could not be completed: the search tool was down for the whole session and every trade-data platform was blocked or paywalled, so neither export nor domestic shipments could be checked. Per Rule 5 this is recorded as unknown, NOT as confirmed and NOT as 'declared_only' — no claim was tested either way. Nothing is asserted about the claimed proprietor 'PRABIR DEB BURMAN' or the declared HS 290711 (phenol/cresols): no source was read that names this entity, so the legal name, PAN, state, revenue and export volume are all null. No evidence of supply activity was found, but absence of evidence here reflects tool failure, not a negative finding — do not treat as 'следов поставок не найдено'. Recommend re-running this company once search access is restored, before any verdict."
+}

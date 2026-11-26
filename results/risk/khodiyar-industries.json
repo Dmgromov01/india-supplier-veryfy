@@ -1,0 +1,9 @@
+{
+ "name_input": "Khodiyar Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. All search tooling failed during this run: web_search returned 'searx: Connection refused' on every attempt; DuckDuckGo HTML and Lite endpoints returned 403/timeout; Bing returned only unrelated, evidently bot-poisoned results (medical and vacation-rental pages) for every query, so no result from it can be treated as evidence. The OFAC Sanctions List Search page was reachable but is a JavaScript form that returns no query results via plain HTTP GET, so no name screening could actually be executed. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = not found, not confirmed absent; regulator actions and negative news = none retrieved; credit rating = not public/not retrieved; evidence of supplies to Russia or CIS = none retrieved. Nothing here should be read as a negative finding about the company - it is an absence of research, not an absence of risk. The only identifiers available were the claimed proprietor name 'BHANUBHAI LABHSHANKER RAVAL' and declared HS 240311 (tobacco products), which were not independently corroborated. Recommend re-running this company once search access is restored, and screening the name manually against OFAC SDN, EU consolidated list, UK OFSI list and the BIS Entity List, plus Indian court records (eCourts/NJDG) and MCA/Tofler filings."
+}

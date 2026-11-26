@@ -1,0 +1,18 @@
+{
+ "name_input": "UNIQUE INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'UNIQUE INTERNATIONAL' — крайне распространённое торговое имя в Индии (десятки совпадений: проприеторшипы, партнёрства и Pvt Ltd в разных штатах), поэтому без PAN/CIN/GSTIN из входных данных привязка к конкретному юрлицу была бы выдумкой. Входные данные: PAN не указан, штат не указан, заявленный HS 640399 (обувь) при заявленной отрасли 'Продукты питания и FMCG' — внутреннее противоречие, которое нельзя разрешить без данных GST. Инструменты: web_search (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; zaubacorp.com и mca.gov.in отдали HTTP 403; thecompanycheck/instafinancials — 404; Bing и Google выдавали нерелевантную выдачу (словарные статьи) либо редирект-заглушку. Ни один реестровый факт (CIN, PAN, GSTIN, дата регистрации, статус MCA, выручка) не подтверждён источником, поэтому все поля null — не выдумывать. Вердикт: НЕ отклонён (нет оснований считать, что юрлицо не существует — оно просто не идентифицировано). Требуется от заказчика: точное юрлицо (Pvt Ltd / LLP / проприеторшип), PAN или GSTIN, штат регистрации. После этого проверку можно завершить по MCA/GST-порталу."
+}

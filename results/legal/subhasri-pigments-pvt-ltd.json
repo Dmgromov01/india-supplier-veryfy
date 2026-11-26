@@ -1,0 +1,18 @@
+{
+ "name_input": "SUBHASRI PIGMENTS PVT LTD",
+ "legal_name": "SUBHASRI PIGMENTS PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend returned 'Connection refused' on both queries; direct fetches of MCA master-data (mca.gov.in) returned HTTP 403; Zauba Corp and TheCompanyCheck returned HTTP 403; InstaFinancials returned HTTP 404; Tofler search returned 404; Google returned a redirect/consent page; Bing returned only unrelated results (no relevant hits for the company name). Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT because they are absent, but because they could not be read from a public source in this session. No revenue figures are available from audited accounts or official filings, so FY25/FY26 revenue are null. Role cannot be determined from registry data alone (HS codes 282110 iron oxides, 320417/320419 synthetic organic colouring matter are consistent with a pigments manufacturer, but this is an inference from the declared HS codes, not a verified fact). Per project rules the company is NOT rejected: there is no evidence that the entity does not exist, is struck off, liquidated or bankrupt - the absence of evidence is a research gap, not a negative finding. Recommend re-running verification when search/registry access is restored, or obtaining the CIN/GSTIN directly from the supplier's invoice or GST certificate."
+}
