@@ -1,0 +1,18 @@
+{
+ "name_input": "VIDRES INDIA CERAMICS PRIVATE LIMITED",
+ "legal_name": "VIDRES INDIA CERAMICS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первичные данные провалились: web_search (DuckDuckGo/searx) вернул 'Connection refused'; http_get к zaubacorp.com, thecompanycheck.com, falconebiz.com — HTTP 403; instafinancials.com и tofler.in — HTTP 404 (страница не найдена, т.е. и предполагаемый CIN U26999GJ1997PTC033456 не подтверждён — он НЕ использован в отчёте, т.к. был лишь гипотезой); сайт vidresindia.com — SSL error (UNEXPECTED_EOF); Google — HTTP 429; Bing выдавал нерелевантную выдачу (кэш/спам), пригодных сниппетов нет. Итог: ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус, ни выручка не подтверждены публичным источником — все поля null. Юрлицо НЕ отклоняется: оснований для rejected (несуществование/ликвидация/банкротство) нет, но и подтверждения существования нет — статус 'не проверено'. Роль (manufacturer/trader) не установлена. Заявленный штат в инпуте отсутствует (state_claimed пусто), поэтому сверка 'registered state vs claimed state' невозможна. Заявленный HS (253090;270750;281122;291570) — сырьё (минералы, растворители, кремнезём, стеараты), что не соответствует названию 'Ceramics' (керамика обычно 6907/6908); по правилам HS-несоответствие НЕ является основанием для отклонения — код подлежит исправлению на фактический после проверки, но фактический код без данных об отгрузках/продукции установить нельзя. Требуется повторный прогон при доступных реестрах (MCA master data, GST-портал) или ручная проверка."
+}

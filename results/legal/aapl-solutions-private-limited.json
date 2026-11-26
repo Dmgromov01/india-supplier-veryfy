@@ -1,0 +1,18 @@
+{
+ "name_input": "AAPL SOLUTIONS PRIVATE LIMITED",
+ "legal_name": "AAPL SOLUTIONS PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this session. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden to direct http_get; Bing and Google returned only irrelevant Apple Inc. (NASDAQ: AAPL) results, i.e. no Indian registry page for this entity was surfaced. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue (FY25/FY26) are all null — NOT because they were checked and found absent, but because no public source could be read. No numbers, CINs, PANs or GSTINs have been invented. Role is recorded as 'unknown' rather than 'manufacturer' or 'trader': the declared HS codes 760711/760720 (aluminium foil, not backed / backed) are a product claim only and do not establish manufacturing capability. Per project rules this company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy was not established, and HS mismatch is never a rejection ground. Recommended next step: re-run verification when MCA master data / a GST public-profile source is reachable, and confirm the exact legal name (the 'AAPL' prefix is ambiguous and collides with Apple Inc. ticker noise in search)."
+}

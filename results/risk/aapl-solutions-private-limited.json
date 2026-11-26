@@ -1,0 +1,9 @@
+{
+ "name_input": "AAPL SOLUTIONS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, прямые запросы к zaubacorp.com — HTTP 403, Google — HTTP 429, DuckDuckGo HTML — таймаут. Bing по запросам в кавычках «AAPL Solutions Private Limited» выдаёт только результаты по тикеру Apple Inc. (AAPL) — релевантных страниц об индийской компании не найдено. Форма поиска OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступна, но через GET-запрос результаты не отдаёт (требуется отправка формы), поэтому проверка по SDN/Non-SDN фактически не проведена — не подтверждено ни наличие, ни отсутствие совпадений. Аналогично не проверены UN/UK/EU/BIS Entity List, eCourts/NJDG, рейтинговые агентства (CRISIL/ICRA/CARE), новостной фон и признаки поставок в РФ/СНГ. Все поля оставлены null как «нет публичных данных в рамках доступных источников»; это НЕ означает отсутствие рисков. Требуется повторный прогон при восстановлении доступа к поиску и к реестрам (MCA/zaubacorp/tofler, eCourts). Отклонение по данному отчёту не обосновано — оснований для rejected нет."
+}
