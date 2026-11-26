@@ -1,0 +1,18 @@
+{
+ "name_input": "GRAYSTONE CERAMIC LLP",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained - all fields null, nothing verified. Tooling failed during this run: the DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; instafinancials.com returned 404; google.com returned HTTP 429; duckduckgo.com HTML endpoint timed out. Bing was reachable but returned only irrelevant US/UK 'Graystone/Greystone' entities (GreyStone Power, Gray Stone Day School, Graystone Consulting, Greystone) and no Indian LLP record for 'GRAYSTONE CERAMIC LLP' - i.e. no public profile page was surfaced for this exact name. Consequently the claimed legal form 'GRAYSTONE CERAMIC LIMITED LIABILITY PARTNERSHIP' could NOT be confirmed: no LLPIN, no PAN, no GSTIN, no incorporation date, no registered-office state, no MCA status. Per project rules the entity is NOT rejected - absence of a findable public profile in a failed-search session is not proof of non-existence, and no liquidation/strike-off/bankruptcy record was found either. Role left as 'unknown' (no evidence of manufacturing plant or trading activity in registry data). Revenue FY25/FY26 null - no audited accounts or MCA filings located; not estimated. HS 690721 (ceramic tiles) is plausible for a Morbi/Gujarat tile LLP but is unverified and, per rules, HS mismatch is not a rejection ground anyway. ACTION REQUIRED: re-run with working search/registry access (MCA master data, GST portal search by trade name, or a paid aggregator) to obtain LLPIN, PAN 4th-character holder type, GSTIN and GST status before any acceptance decision."
+}

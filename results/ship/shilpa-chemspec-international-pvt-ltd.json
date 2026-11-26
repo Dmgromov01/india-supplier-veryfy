@@ -1,0 +1,8 @@
+{
+ "name_input": "SHILPA CHEMSPEC INTERNATIONAL PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. importkey.com/countries/india/shilpa-chemspec-international-pvt-ltd returned only the page shell: \"Shipments available for SHILPA CHEMSPEC INTERNATIONAL PVT LTD, refreshed daily\" — a template placeholder, not a record. Rows actually seen: 0 (no date, no destination, no HS code, no B/L number).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrievable. Registry pages (zaubacorp, thecompanycheck) returned HTTP 403; IndiaMART returned HTTP 429. Rows actually seen: 0.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных записей (дата/направление/HS/B-L), ни внутренних поставок получить не удалось. Причина техническая, а не содержательная: поисковый бэкенд (searx) отдавал 'Connection refused' на все запросы, поэтому slug-варианты и вторичные источники (volza, eximpedia, trademo — HTTP 403; importgenius — JS-челлендж) не открылись. Заявленный HS 480261/480620/481099/481141 (бумага/картон) не проверен по фактическим отгрузкам; несоответствие HS основанием для отклонения не является. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Требуется повторный прогон при работающем поиске или платном доступе к таможенным данным."
+}

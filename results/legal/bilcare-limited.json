@@ -1,0 +1,18 @@
+{
+ "name_input": "BILCARE LIMITED",
+ "legal_name": "Bilcare Limited (per company website; note: the operating website bilcare.com now presents itself as Caprihans India Limited — the Bilcare pharma-packaging business appears to have been merged/renamed into Caprihans India Ltd, BSE scrip 509486. Exact current legal entity name could not be confirmed from an official MCA record in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (registered office per company website: 1028 Shiroli, Rajgurunagar, Pune 410505, Maharashtra; head office 601 ICC Trade Tower, Pune 411016)",
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified. Search backend (DuckDuckGo/searx) was down for the whole session and all registry aggregators (zaubacorp, thecompanycheck, mca.gov.in, BSE) returned 403/empty, so CIN, PAN, GSTIN, GST status, incorporation date, MCA status and audited revenue could not be sourced — all left null rather than guessed. What IS sourced: bilcare.com (fetched) describes Bilcare as a pharma-packaging manufacturer with Pune and Nashik (Maharashtra) plants, ~50,000 t/yr capacity, aluminium blister foils and polymer films — consistent with declared HS 760720 (aluminium foil, backed) and with role=manufacturer, not trader. The same site's Contact page lists the entity as 'Caprihans India Limited' with Pune registered office and states 'Bilcare was incorporated in 1946', which conflicts with the commonly cited Bilcare Ltd incorporation year (1987) — this discrepancy must be resolved against the MCA master data before the record is used. No rejection grounds established: no evidence of strike-off, liquidation or bankruptcy was found, but MCA status is unverified. Revenue FY25/FY26: null — no audited accounts were accessible. Recommended next step: pull the MCA master data / Caprihans India Ltd annual report to fix legal name, CIN, PAN, GSTIN and revenue."
+}
