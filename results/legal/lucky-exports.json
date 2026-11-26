@@ -1,0 +1,18 @@
+{
+ "name_input": "LUCKY EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failed during this run: web_search returned 'searx: Connection refused' on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com returned HTTP 404; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant US consumer-brand results (Lucky Supermarkets, Lucky Brand, IMDb) with no Indian registry hits for 'LUCKY EXPORTS'. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified from any public source, so all such fields are null rather than guessed. 'LUCKY EXPORTS' is a very common Indian trade name (many proprietorship/partnership firms and small private limited companies share it), and the input gives no PAN, no state and no address, so the specific legal entity cannot be disambiguated. Note also the internal inconsistency in the input: declared HS codes 570110 (carpets), 731816 (nuts), 871493/871494 (bicycle parts) do not match the claimed industry 'food & FMCG' - per project rules this is NOT a rejection ground, only a flag that the HS/industry classification needs correction once the entity is identified. Per rules, no rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply remains unverified. Recommended next step: obtain the GSTIN or PAN from the supplier directly, or the registered-office state, then re-run verification against MCA/GST portals. Role left as 'unknown' because no registry record was read."
+}

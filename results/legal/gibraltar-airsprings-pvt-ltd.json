@@ -1,0 +1,18 @@
+{
+ "name_input": "GIBRALTAR AIRSPRINGS PVT. LTD",
+ "legal_name": "GIBRALTAR AIRSPRINGS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a connection error (searx: Connection refused) for both queries, and fallback attempts failed: ZaubaCorp and TheCompanyCheck returned HTTP 403, InstaFinancials returned HTTP 404, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only generic 'Gibraltar' (the British territory) results with no company hits. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - none of these are public to me in this session and none were invented. Note: an earlier attempt used a guessed CIN in a URL; that guess was discarded and is NOT reported as data. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected - it remains unverified pending a working registry lookup (MCA master data / ZaubaCorp / Tofler). Role cannot be determined from registry data alone; declared HS 732010 (leaf springs/iron-steel) is not a basis for rejection per project rules. State claimed in input was empty, so no state mismatch can be assessed."
+}
