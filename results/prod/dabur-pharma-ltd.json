@@ -1,0 +1,16 @@
+{
+ "name_input": "DABUR PHARMA LTD",
+ "declared_hs": "294200;300449;300490",
+ "actual_hs_list": [
+  "300490",
+  "300449",
+  "300439",
+  "300212",
+  "300215",
+  "294200"
+ ],
+ "match_status": "partial",
+ "product_summary": "Dabur Pharma Ltd is the former name of Fresenius Kabi Oncology Limited (renamed after Fresenius Kabi's 2008 acquisition of Dabur Pharma). Real product lines per the Fresenius Kabi India portfolio (fresenius-kabi.com/in, section 'Products > Oncology' and 'Portfolio > I.V. Drugs & Infusion Therapy'): cytotoxic/oncology injectables and oral cytostatics (e.g. oxaliplatin, irinotecan, gemcitabine, carboplatin-type platinum agents, docetaxel/paclitaxel-type taxanes), plus supportive-care IV drugs (antiemetics, analgesics, anti-infectives) and infusion-therapy solutions. Also biopharma (biosimilars for autoimmune disease and cancer) per the global portfolio page. No itemised SKU list with pack sizes could be extracted: the India site's product pages are JS-rendered and returned only navigation boilerplate (HTTP 404 on /products/oncology-products, /company/our-heritage).",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: 300490 (other medicaments, retail/packaged) — EXACT match, this is the core code for the oncology injectables and oral cytostatics. 300449 (other medicaments containing alkaloids/derivatives, not in measured doses) — PARTIAL: plausible for bulk cytostatic alkaloid derivatives (vinca alkaloids, taxanes, camptothecins such as irinotecan), but the company's actual trade is overwhelmingly in finished, dosed forms, so 300449 is likely over-declared relative to 300490. 294200 (other organic compounds) — PARTIAL/weak: only defensible for genuine bulk API/cytotoxic intermediate trade; nothing on the public portfolio corroborates API bulk sales, so treat as 'заявлено, не подтверждено'. MISSING from the declaration: 300439 (other medicaments containing hormones/steroids — relevant if steroid/ hormonal antineoplastics or supportive-care steroids are shipped), 300212 (antisera/blood fractions) and 300215 (immunological products, dosed) — the latter two are the correct codes for the biopharma/biosimilar line (monoclonal antibodies, filgrastim-type products) which the declared codes do not cover at all. Industry misclassification: declared as 'Нефтегаз и химия' (oil & gas and chemicals) — WRONG; this is a pharmaceutical/oncology manufacturer, sector should be pharma/chemical-pharma. Trader signs: none found — the entity is a manufacturing subsidiary of Fresenius Kabi (Germany), not a trader. Per project rule 3, the HS mismatch is not a rejection ground: company is retained, codes corrected to the above, verdict accepted_hs_corrected. All product-level statements above are from the company's own portfolio pages and are therefore 'заявлено, не подтверждено' — no customs line was available to me in this task (registry/customs volume research out of scope)."
+}

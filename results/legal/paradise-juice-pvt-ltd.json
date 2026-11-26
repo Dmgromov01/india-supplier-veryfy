@@ -1,0 +1,18 @@
+{
+ "name_input": "PARADISE JUICE PVT LTD",
+ "legal_name": "PARADISE JUICE PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was non-functional (searx connection refused) and all direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) returned HTTP 403/404; Bing and Google returned irrelevant results or HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT verified, not 'not existing'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so per the rules the company is NOT rejected; it is retained with unverified registry fields. Role cannot be classified from registry data (no MCA main-object/activity record obtained) — set to unknown rather than guessed. Declared HS 071080/081190 (frozen vegetables / frozen fruit) is not a rejection ground and was not assessed here. Recommended next step: manual lookup on MCA V3 / GST portal by exact name, or obtain the GSTIN or CIN from the supplier directly, then re-run this check."
+}

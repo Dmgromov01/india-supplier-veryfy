@@ -1,0 +1,9 @@
+{
+ "name_input": "LUPIN STEELS INC",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один публичный источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Google — HTTP 429; DuckDuckGo HTML — timeout; Bing по запросам \"LUPIN STEELS INC\", \"Lupin Steels\" India, \"Lupin Steels\" Modi, \"Mahendra Tagaram Modi\" выдавал только нерелевантную выдачу (сериал Netflix \"Lupin\", фармкомпания Lupin Ltd, Mahindra Group) — ни одного документа с упоминанием заявленного юрлица или заявленного директора не найдено. Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыта, но это JS-форма без возможности выполнить запрос через http_get — фактического скрининга по SDN/Non-SDN не проведено, поэтому sanctions_hit = null (НЕ 'чисто'). Аналогично не проверены UN/UK/EU consolidated lists, BIS Entity List, eCourts/NCLT, реестры RBI/SEBI/MCA, кредитные рейтинги (CRISIL/ICRA/CARE/India Ratings) и следы поставок в РФ/СНГ. Все поля null означает 'не установлено', а не 'отрицательный результат'. Дополнительный риск-флаг для ручной проверки: заявленная отрасль 'IT и электроника' не соответствует заявленному HS 730411 (трубы/профили стальные бесшовные) и названию 'STEELS' — возможна подмена профиля контрагента; это не основание для отклонения по правилам проекта, но требует верификации. Рекомендация: повторить скрининг вручную (OFAC/UK/EU/BIS + eCourts + MCA) при восстановлении доступа к сети."
+}

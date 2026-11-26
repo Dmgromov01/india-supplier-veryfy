@@ -1,0 +1,18 @@
+{
+ "name_input": "LUPIN STEELS INC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: не удалось получить ни одного первоисточника. DuckDuckGo-поиск возвращал ошибку соединения (searx: Connection refused), Bing по запросам 'LUPIN STEELS INC CIN', 'Lupin Steels Mahendra Modi' и 'Lupin Steels private limited CIN' выдал только нерелевантные результаты (сериал/фармкомпания Lupin), агрегаторы реестров (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) и портал MCA (mca.gov.in) вернули HTTP 403/404. Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null: не публичны в доступных источниках либо не найдены. ВАЖНО: 'LUPIN STEELS INC' — нестандартное для индийского реестра наименование (суффикс 'INC' не соответствует Companies Act 2013; для LLP — 'LLP', для частной компании — 'Private Limited'/'Limited'), а поле legal_claimed содержит имя физлица ('MAHENDRA TAGARAM MODI'), а не юрлицо — вероятно, это проприетарное предприятие (sole proprietorship) либо ИП-трейдер, у которого нет CIN. Для proprietorship PAN берётся 4-й символ 'P' — проверить по документам поставщика, публично не подтверждено. Заявленный HS 730411 (трубы бесшовные из нерж. стали) противоречит заявленной отрасли 'IT и электроника' — по правилам HS-несоответствие НЕ основание для отклонения; фактический код следует исправить на 730411 (стальные трубы), вердикт accepted_hs_corrected. Роль: unknown (по наименованию 'Steels' вероятнее trader/manufacturer_trader, но подтверждения нет). НЕ отклонено: сведений о ликвидации/банкротстве/отсутствии юрлица нет — просто нет данных. Требуется ручная проверка: запросить у поставщика PAN, GST-сертификат (GSTIN + статус Active), Certificate of Incorporation/Udyam-регистрацию, и проверить CIN/PAN на mca.gov.in и GST-портале."
+}

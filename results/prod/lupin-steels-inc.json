@@ -1,0 +1,29 @@
+{
+ "name_input": "LUPIN STEELS INC",
+ "declared_hs": "730411",
+ "actual_hs_list": [
+  "730411",
+  "730419",
+  "730441",
+  "730449",
+  "730451",
+  "730459",
+  "730721",
+  "730729",
+  "730791",
+  "730793",
+  "730799",
+  "730723",
+  "730411 (seamless line pipe, API 5L)",
+  "721931 / 721933 / 721934 (cold-rolled stainless flat, if sheets/plates/coils traded)",
+  "721912 / 721913 (hot-rolled stainless flat)",
+  "722211 / 722219 (stainless round bars)",
+  "750711 / 750712 (nickel alloy tubes/pipes)",
+  "750720 (nickel alloy tube fittings)",
+  "810890 (titanium articles)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website lupinsteels.com (live, read 2026) describes the firm as 'Manufacturer & Supplier of Pipes, Plates, Fittings & Flanges in Stainless Steel, Alloy Steel & Carbon Steel'. Catalogue lines: (1) Pipes & Tubes - seamless/ERW/welded, 15 NB to 1200 NB, Sch 5S-XXS, in SS 304/304L/304H/309/310/316/316L/316Ti/317/321/347/904L (ASTM A312, A358), duplex/super-duplex S31803/S32205/S32750/S32760 (A790), carbon steel A53/A106/API 5L Gr.B-X70, alloy steel A335 P1-P91, plus nickel alloys (Nickel 200/201, Monel 400, Inconel 600/601/625/825, Incoloy 800/825, Hastelloy C-22/C-276/C-2000), copper-nickel C70600/C71500, titanium Gr1-Gr23, tantalum. (2) Flanges - slip-on, socket-weld, blind, lapped, screwed, weld-neck, reducing, spectacle, plate, ring joint; 15 NB-600 NB, class 150-2500, in A182 F304/316/321/347, A105, A350 LF2, A182 F5/F9/F11/F22/F91, nickel/copper alloys. (3) Buttweld fittings, forged fittings, compression fittings, outlets, long-radius bends. (4) Sheets, plates, coils, angles, flats, beams/channels, round bars, fasteners, perforated sheets, clamps, gaskets, dairy fittings. Address: Abbas Building, 17/B1, Jalbhai Ln., Grant Road (E), Girgaon, Mumbai 400004; contact lupinsteels@gmail.com, +91-022 6636 2970.",
+ "role_hint": "trader",
+ "comment": "HS 730411 (line pipe of a kind used for oil/gas pipelines, seamless, stainless steel) is CORRECT but covers only a narrow slice of the catalogue. Per project rule 3 the code is not a rejection ground - company is kept and the code set is corrected/expanded. Actual product range spans at least four HS families: seamless/welded tubes and pipes of stainless (7304.11/7304.19/7304.41/7304.49), carbon and alloy steel (7304.19/7304.51/7304.59), tube/pipe fittings (7307.21/7307.23/7307.29/7307.91/7307.93/7307.99), stainless flat-rolled sheets/plates/coils (7219.xx/7210.xx) and bars (7222.xx), plus nickel-alloy and titanium lines (7507.11/7507.12/7507.20, 8108.90). Match status: partial - declared code is valid for one product line, but the declaration omits fittings, flanges, flat products, bars and non-ferrous alloy lines. INDUSTRY MISCLASSIFICATION: the claimed industry 'IT и электроника' is wrong - the company is a ferrous/non-ferrous piping and metals supplier for oil & gas, petrochemical, refinery, power and nuclear sectors; no IT or electronics products appear anywhere on the site. TRADER SIGNS: the site simultaneously claims 'Manufacturer' and 'extensive Stockholder'/'International Suppliers & Exporters of Industrial Raw material'; the catalogue is a generic multi-grade stockist list (SS, duplex, nickel, titanium, tantalum, copper-nickel all at once) typical of a Mumbai reseller rather than a single-plant producer; contact is a free Gmail address and a Grant Road trading-office address, no plant/works address or mill list published. Role assessed as trader (possibly manufacturer_trader for fittings) - not a rejection ground. All product claims are 'заявлено, не подтверждено': no customs line, B/L, GST turnover or purchase-order record was checked in this task (out of scope), so no shipment or supply fact is asserted. No CIN/PAN/IEC is published on the site - left null, not invented."
+}

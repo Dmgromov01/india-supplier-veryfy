@@ -1,0 +1,9 @@
+{
+ "name_input": "DABUR PHARMA LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Name mismatch flagged for the team (not a rejection ground): input name 'DABUR PHARMA LTD' vs legal_claimed 'FRESENIUS KABI ONCOLOGY LIMITED' — these are different entities; Dabur Pharma Ltd was the former name of the entity acquired by Fresenius Kabi (rebranded Fresenius Kabi Oncology Ltd), so the two names plausibly refer to the same company across time, but this was NOT verified in this pass (legal identity out of scope). RESEARCH LIMITATION: the web_search tool was non-functional (searx connection refused) and direct fetches of Google (HTTP 429), DuckDuckGo HTML (timeout) and Bing (only generic Fresenius corporate results, no company-specific hits) yielded no usable records. Only fresenius-kabi.com/in/ corporate pages were readable and contain no sanctions/court/rating data. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = NOT CHECKED / NOT PUBLICLY RETRIEVED, not 'clean'. No OFAC SDN, UN, EU, UK or BIS Entity List listing for Fresenius Kabi Oncology Ltd was observed in any retrieved source, but absence of evidence here is not verification. No Indian court case records (party role/status), no regulator action, no credit rating (agency/date/status) and no evidence of supplies to Russia or CIS were retrieved. Per project rules, sanctions/court/criminal matters are never rejection grounds; nothing here supports rejection. Recommend re-run of this company once search access is restored, with explicit checks of OFAC SDN/EU/UK/BIS lists, e-courts/NCLT, and rating agency disclosures."
+}

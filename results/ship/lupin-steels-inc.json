@@ -1,0 +1,8 @@
+{
+ "name_input": "LUPIN STEELS INC",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/lupin-steels-inc and .../lupin-steels both returned only the generic page template: \"Shipments available for LUPIN STEELS INC, refreshed daily\" — zero shipment rows rendered (0 rows seen, 0 records with date/destination/HS/B-L number). No bill-of-lading, date, destination or HS code could be quoted.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search engine (DuckDuckGo/searx) was unreachable (connection refused / timeouts) for all queries, so no domestic supply record could be retrieved.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Все проверенные источники либо отдали пустой шаблон (importkey: 2 варианта слага, 0 строк данных), либо заблокировали доступ (volza, eximpedia, trademo — HTTP 403), либо были недоступны (поисковики — connection refused/timeout). Заявленный HS 730411 (трубы бесшовные из чёрных металлов) не соответствует заявленной отрасли «IT и электроника» — это внутреннее противоречие в карточке, но по правилу 3 несоответствие HS не является основанием для отклонения; фактический код не подтверждён ни одной таможенной записью, поэтому оставляю declared_hs как есть с пометкой «не подтверждён». Юрлицо с названием «LUPIN STEELS INC» в индийских реестрах не проверялось (реестры вне области задачи); суффикс «INC» для индийской компании нетипичен. Выручка и объём экспорта: null — публичных данных нет, не выдумываю. Рекомендуется повторная проверка при доступности поиска и платных таможенных баз."
+}
