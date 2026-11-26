@@ -1,0 +1,8 @@
+{
+ "name_input": "SANTOSH STARCH PRODUCTS LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page https://importkey.com/countries/india/santosh-starch-products-ltd resolves to a company profile, but the only shipment-related text rendered is a placeholder: \"Shipments available for SANTOSH STARCH PRODUCTS LTD, refreshed daily\" — no shipment rows, dates, destinations, HS codes or B/L numbers are exposed in the free view. Rows actually seen: 0. Volza (403), Eximpedia (403), ImportGenius (JS challenge), Trademo (403) all blocked; DuckDuckGo/searx backend returned connection refused and Bing returned unrelated results, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report domestic/export split could be retrieved: search backend (searx) was down for the whole session and Bing returned only irrelevant pages; no company website or financial filing page was reachable. Rows actually seen: 0.",
+ "note": "No shipment evidence found either way — this is a data-access failure, not a negative finding, so both statuses are 'unknown' rather than 'none_found'. Declared HS 350510 (dextrins/other modified starches) is plausible for a starch processor by name only and was NOT verified against any customs record; no HS correction is proposed. Revenue and export volume: null (not public in any source reached). No CIN/PAN/state confirmed. Recommend re-run when a working search backend and a paid/free-tier trade-data view are available; do not treat this record as evidence of supply activity."
+}

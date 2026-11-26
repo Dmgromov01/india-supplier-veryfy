@@ -1,0 +1,15 @@
+{
+ "name_input": "DAIRY AUTOMATION PRIVATE LIMITED",
+ "declared_hs": "843420",
+ "actual_hs_list": [
+  "843420",
+  "843880",
+  "848079",
+  "847989",
+  "842230"
+ ],
+ "match_status": "exact",
+ "product_summary": "По сайту dairyautomation.com (главная и /about-us, прочитано): компания DAPL (Dairy Automation Private Limited), офис Techniplex-II, Goregaon (W), Mumbai, «since 2010», заявляет собственное производство («every machine is designed and built in house»). Реальная продуктовая линейка: (1) сыроварное оборудование — Cheese Coagulation O-Vat, Double O-Vat, OST Horizontal Cheese Vat, Cheese Curd Master (belt system), Cheese Block Forming Tower, Cheese Pressing Systems, Dip Chilling Vat; (2) оборудование для панира — PaneerMaster 1000, Automated Paneer Coagulator («Paneer-o-Matic»), Paneer Pressing Systems, Tilting Vat Coagulator; (3) ультразвуковая резка — Ultrasonic Cheese Cutting and Portioning Machine, Ultrasonic Paneer Cutting Machine, Two Stage Ultrasonic Paneer Cutting Machine; (4) пресс-формы и оснастка — Micro-Perforated Mould, Euro (Rectangular) Block Mould, Euro Rectangle Honeycomb Block Mould, Cylindrical/Round/Square/Multi-Cavity Moulds with Spring Lid, Mould Lid Opening Machine, Cheese/Paneer Mould Cleaning Machine; (5) прочее — Milk Preheater, Sterilizer Machine, CIP-системы, пастеризаторы (упомянуты в FAQ), автоматизация и АСУ (ERP/MES-интеграция), turnkey-проекты.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 843420 (оборудование для молочной промышленности) соответствует фактической линейке — это основная специализация компании, статус exact. Заявленная отрасль «Металлургия и горнодобыча» — грубая отраслевая мисclassification: компания работает в пищевом/молочном машиностроении, к металлургии и горнодобыче отношения не имеет; отрасль следует исправить на «Пищевое/молочное машиностроение». Код 843420 покрывает не всю линейку: пресс-формы и матрицы для сыра/панира (Micro-Perforated Mould, Euro Block Mould, Multi-Cavity Moulds) — это оснастка, ближе к 848079 (формы для литья/прессования) либо 843890 (части оборудования для пищевой промышленности); ультразвуковые резательные машины — 847989 (машины с индивидуальными функциями) либо 843890; Sterilizer Machine — 841920/841989; фасовочно-упаковочное, если поставляется, — 842230. Рекомендация: оставить 843420 как основной, добавить 848079 и 847989 как дополнительные линии. Признаков трейдерства на сайте нет: заявлено собственное производство и сертификация (ISO 22000, CE, US FDA, Codex, RoHS2) — но это заявление сайта, сертификаты и производственная площадка по открытым страницам не подтверждены. Ни одна товарная позиция не подтверждена таможенной линией в рамках этой проверки — всё по продуктам имеет статус «заявлено, не подтверждено». Реестры, выручка и объёмы отгрузок в рамках роли не проверялись (null)."
+}

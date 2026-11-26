@@ -1,0 +1,9 @@
+{
+ "name_input": "CAPRON VITRIFIED PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failed during this run: web_search backend returned 'Connection refused' (searx) on both queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only irrelevant results (mirror.co.uk, johnlegend.com) for the exact-name queries, i.e. no usable hits for 'Capron Vitrified'. Registry aggregators blocked or absent: zaubacorp.com HTTP 403, tofler.in HTTP 403, instafinancials.com HTTP 404, indiankanoon.org HTTP 403. OFAC Sanctions List Search page loaded but is a JS-driven form — no query could be executed, so no SDN/Non-SDN screening result was actually obtained. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = NOT SCREENED; regulator actions and negative news = NOT SCREENED; credit rating (agency/date/status) = NOT SCREENED; evidence of supplies to Russia/CIS = NOT SCREENED. All fields set to null because nothing is public/retrievable in this run — no numbers, CINs, PANs or case references are invented. Per project rules this is NOT a rejection ground and NOT a negative finding: the company stays in the base with an explicit 'unverified' status. Recommended follow-up: re-run screening when search backend is restored, and check MCA master data, e-courts/NCLT, IBBI, OFAC/EU/UK consolidated lists and Indian tile-export trade press (Morbi cluster) for Russia/CIS shipments."
+}

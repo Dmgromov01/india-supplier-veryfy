@@ -1,0 +1,26 @@
+{
+ "name_input": "SBF PHARMA PRIVATE LIMITED",
+ "declared_hs": "281122;282739;283522",
+ "actual_hs_list": [
+  "283525",
+  "283526",
+  "283525",
+  "283650",
+  "283699",
+  "281122",
+  "282590",
+  "282720",
+  "291570",
+  "292320",
+  "291811",
+  "290611",
+  "284920",
+  "283525",
+  "283526",
+  "382499"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт sbfpharma.com (Gandhinagar, Gujarat; Santej plant, Block 263/03, Santej-Vadsar Road, Ta Kalol). Каталог /shop: 55 позиций, все с пометкой 'Contact Us' (цены не публикуются). Реальные товарные линии: (1) Кальциевые фосфаты — ядро ассортимента: Di-basic Calcium Phosphate Anhydrous (BP/USP, IP, EP, Food Grade, DC Granules), Di-basic Calcium Phosphate Dihydrate (BP/USP, IP, EP, Food Grade, Dental/Micronized, Unmilled, DC Granules 20/40 Mesh), Tri Calcium Phosphate (BP/USP, IP, Food Grade, Feed Grade, Micronized), Mono Calcium Phosphate Food Grade, Di Calcium Phosphate Feed Grade. (2) Карбонат кальция — Calcium Carbonate BP/USP/IP/EP/Food/Feed Grade, Precipitated Calcium Carbonate, Chalk BP, Powdered Oystershell JP, Egg Shell Calcium Carbonate, Calcium Carbonate Oystershell DC Granules, Calcium Carbonate 39%. (3) Тальк — Talc IP, BP/USP, Talc Powder, Talc Powder ETO Treated. (4) Стеараты — Calcium Stearate BP/IP/USP, Magnesium Stearate IP/BP/USP. (5) Оксиды — Light Magnesium Oxide IP/BP/USP, Magnesium Oxide Feed Grade, Zinc Oxide IP/USP, Zinc Oxide Dross. (6) Прочее — Colloidal Silicon Dioxide BP/IP/USP, Ferrous Gluconate BP/IP/USP, Menthol Crystal IP/BP/USP, Sodium Saccharine IP/BP, Customised DC Granules / custom blends. Заявленная мощность ~1,000 MT/год, DMF, Gujarat FDA, ISO 9001:2015, Halal, WHO-GMP (заявлен как 'upcoming'/2026). Экспорт заявлен в USA, UK, Canada, Australia — таможенных записей в рамках этой проверки не смотрел (вне роли).",
+ "role_hint": "manufacturer",
+ "comment": "Сверка с заявленными кодами. 283522 (дикальцийфосфат) — СОВПАДАЕТ по сути, но код неверный: в HS-2022 позиция 2835 'Phosphinates, phosphonates and phosphates; polyphosphates' не имеет субпозиции 2835.22; дикальцийфосфат (CaHPO4) классифицируется в 2835.25 (calcium hydrogenorthophosphate, 'dicalcium phosphate'), трикальцийфосфат — 2835.26. То есть 283522 — недействительный/устаревший код, требует исправления на 283525 (и 283526 для TCP). 281122 (диоксид кремния) — ТОЧНОЕ совпадение: Colloidal Silicon Dioxide BP/IP/USP, три грейда, реальная позиция каталога. 282739 (прочие хлориды) — НЕ ПОДТВЕРЖДЁН: ни одного хлорида в каталоге из 55 позиций нет (нет CaCl2, KCl, NaCl, ZnCl2); вероятно ошибочная позиция либо относится к сырью/побочному потоку, не заявленному на сайте. Отсутствуют в декларации, но реально продаются: 283650 (карбонат кальция — крупнейшая линия, ~15 SKU), 282590 (гидроксид/оксид кальция — Chalk/известь), 282720 (хлорид кальция — нет, не подтверждён), 291570 (стеараты Ca/Mg — 6 SKU), 292320 (лецитин — нет), 291811 (лактилактаты — нет), 290611 (ментол — есть, Menthol Crystal), 284920 (карбид кремния — нет), 382499 (прочие смеси — custom blends/DC granules). Итог: из трёх заявленных кодов один точный (281122), один с неверной субпозицией (283522→283525/283526), один не подтверждён (282739). Отраслевая классификация 'Нефтегаз и химия' — ЧАСТИЧНО неверна: нефтегазовой составляющей нет вообще, компания фармацевтических эксципиентов / пищевых и кормовых добавок (фарма/фудтек/агро), ближе к 'Химия — фармацевтические эксципиенты и минеральные соли'. Признаков трейдера нет: сайт описывает собственное производство с 1999 (старт 8 MT/мес DCP в Chattral GIDC), расширение Santej 2011 до 100 MT/мес, грануляционный цех с 2023, DMF, Gujarat FDA — роль manufacturer. Все товарные позиции — 'заявлено, не подтверждено' в части фактических отгрузок: каталог и сайт фактом поставки не являются, таможенных/B-L строк в рамках этой проверки не сверял. HS-несоответствие НЕ является основанием для отклонения (правило 3): компания сохраняется, код исправляется на фактический, вердикт accepted_hs_corrected."
+}

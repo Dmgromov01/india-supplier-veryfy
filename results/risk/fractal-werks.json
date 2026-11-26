@@ -1,0 +1,9 @@
+{
+ "name_input": "FRACTAL WERKS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 26.11.2026. Sanctions (OFAC SDN/UN/EU/UK/BIS): no hit found, but NOT a verified negative — the search backend (DuckDuckGo/searx) refused connections for every query and Google returned HTTP 429, so no sanctions list was actually screened. Treat sanctions_hit=null as 'not screened', not as 'clean'. Court cases: could not be checked — Indian court/NCLT aggregators were unreachable (zaubacorp.com returned HTTP 403; search engines returned unrelated results). court_cases=null, not public/not retrieved. Regulator actions and negative news: nothing found, but no search was successfully executed; news_risk=null. Credit rating: no public rating located (company appears to be an unrated private SME); rating=null — not public. Supplies to Russia/CIS: no evidence found either way; rf_supply=null. Only verified fact: the company operates an active website (fracktal.in, fetched 26.11.2026) presenting itself as a Bangalore-based 3D-printer manufacturer and 3D-printing service bureau (FDM/SLS/MJF/SLA, models Snowflake, Julia, Dragon, Twin Dragon, Volterra, Apollo), with a working contact number +91 63649 25434. Website self-presentation is not evidence of any shipment, sanction, litigation or rating. Per project rules, no rejection grounds identified; nothing here constitutes a rejection. Recommend re-running sanctions and court screening once a working search backend is available."
+}

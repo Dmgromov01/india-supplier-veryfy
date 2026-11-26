@@ -1,0 +1,9 @@
+{
+ "name_input": "MEHUL RAMESHCHANDRA SHAH",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. The name supplied is a personal name (individual / likely proprietor or partner), not a corporate legal entity, so there is no CIN/registration to anchor registry, court or sanctions lookups. Tooling failure during this session: the web_search backend returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoints timed out; Google returned HTTP 429; Bing returned only unrelated, clearly non-matching results (gaming PCs, Real Salt Lake, oil drain plug washers) for the exact-phrase queries, i.e. no genuine hits for 'Mehul Rameshchandra Shah'. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no SDN/Non-SDN name match could be executed; UN, EU, UK OFSI and BIS Entity List screens were likewise not completed. Indian court records (eCourts, NCLT, High Court portals) and credit-rating agency sites (CRISIL/ICRA/CARE/India Ratings) were not reachable or not queried within the call budget. Therefore: sanctions exposure = null (NOT screened — do not read as 'clear'); court cases = null (not searched); credit rating = null (no public rating found, and none expected for a natural person); negative news = null (no accessible index); evidence of supplies to Russia/CIS = null (nothing found, but no usable search channel). Per project rules no figures, case numbers, ratings or shipment records are invented. Recommended next step: re-run with working search access, and first establish the actual legal entity (company name / CIN / PAN) behind this individual, since risk screening of a bare personal name is not meaningful. No rejection grounds identified, and none could be established either way."
+}
