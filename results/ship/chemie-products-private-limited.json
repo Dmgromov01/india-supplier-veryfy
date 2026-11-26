@@ -1,0 +1,8 @@
+{
+ "name_input": "CHEMIE PRODUCTS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey page for slug 'chemie-products-private-limited' loaded only a paywalled shell: \"Shipments available for CHEMIE PRODUCTS PRIVATE LIMITED, refreshed daily\" — zero actual bill-of-lading rows, dates, destinations or HS codes rendered. Source counter: 1 page attempted, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. No domestic supply evidence line obtained from any accessible source.",
+ "note": "Shipment verification could not be completed: importkey free view returned a paywalled template with no rows; volza.com, eximpedia.app, trademo.com and zaubacorp.com returned HTTP 403; importgenius.com returned a JavaScript challenge; the web_search backend failed with 'Connection refused' on both queries, so no alternative sources could be located. Per Rule 5, no claim of shipments is made and no record is invented: export and domestic status are 'unknown', not 'confirmed' and not 'declared_only'. Declared HS 320649 (pigments/dyeing matter) is unverified against any customs line — no HS correction is possible without a shipment record. Revenue and export volume: null (not public in accessible sources). No evidence of supply activity found in either direction, but this reflects source inaccessibility rather than a negative finding; recommend re-run with a working search backend or paid Volza/Eximpedia access before any verdict."
+}

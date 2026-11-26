@@ -1,0 +1,9 @@
+{
+ "name_input": "PAWAN ASHOKKUMAR BAGDIYA",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Risk-only check as of today. The name appears to be that of an individual proprietor/sole trader rather than a registered company, and no public record could be retrieved for it. Search tooling was degraded during this run: the primary search backend returned connection errors, and fallback engines (Bing/Google via HTTP) returned only unrelated results for the exact-name queries \"Pawan Ashokkumar Bagdiya\", \"Pawan Bagdiya\" and \"Pawan Ashok Kumar Bagdiya\" — i.e. no exact-match page was surfaced at all. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) — no match found, but this is NOT a cleared screening: no authoritative list was queried directly and the name was not resolvable to a unique entity (no PAN, no CIN, no address supplied), so a homonym-safe negative cannot be asserted. court_cases — null, no Indian court record (e.g. eCourts/NJDG) could be located or read; not evidence of absence. rating — null, no credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork) is public for an unregistered proprietorship; such ratings are typically not issued to sole traders. news_risk — null, no regulator action or negative news item with a date was found. rf_supply — null, no evidence of supplies to Russia or the CIS was found; equally, no evidence of any trade activity at all was found. Per project rules this is not a rejection ground and no adverse inference is drawn; the entity is simply unverified on the risk axis. Recommended before any decision: obtain PAN/GSTIN and registered address from the supplier, then re-run screening against OFAC/UN/EU/UK/BIS lists and eCourts by exact legal name and address. All fields left null rather than estimated."
+}

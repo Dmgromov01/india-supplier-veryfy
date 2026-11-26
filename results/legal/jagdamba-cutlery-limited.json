@@ -1,0 +1,18 @@
+{
+ "name_input": "JAGDAMBA CUTLERY LIMITED",
+ "legal_name": "JAGDAMBA CUTLERY LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: all tool calls failed. web_search returned 'searx: Connection refused' (backend down); DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only irrelevant cached results (JSON-formatter / dictionary pages) with no company hits; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403/404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — NOT verified, not 'not existing'. No rejection is applied: absence of accessible public data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' (no registry evidence of manufacturing plant vs trading activity). Declared HS 732393 (stainless-steel kitchen/household articles) is inconsistent with the claimed industry 'Food products & FMCG'; per project rules this is NOT a rejection ground — the company stays in the database and the HS code should be corrected to the factual one at the next verification pass. Recommended action: re-run verification when the search backend is restored, using MCA master data (CIN lookup), GST public search on the GSTIN, and audited FY25/FY26 filings; also confirm whether the entity is a limited company or a proprietorship/partnership trading under the 'Limited' style name."
+}

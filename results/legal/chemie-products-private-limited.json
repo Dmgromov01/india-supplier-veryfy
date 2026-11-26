@@ -1,0 +1,18 @@
+{
+ "name_input": "CHEMIE PRODUCTS PRIVATE LIMITED",
+ "legal_name": "CHEMIE PRODUCTS PRIVATE LIMITED (as claimed; exact MCA-registered name NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified within the tool budget. The DuckDuckGo search backend returned connection errors ('searx: Connection refused') on both queries, and Bing results were polluted by generic German-language 'Chemie' pages with no Indian company hits. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com company page and company-search page -> HTTP 403 Forbidden; thecompanycheck.com -> HTTP 403; tofler.in guessed URL -> 404 (no such slug); instafinancials.com guessed URL -> 404; falconebiz.com search -> HTTP 403; Google search -> HTTP 429; DuckDuckGo HTML endpoint -> timeout. Consequently NO CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue figures were obtained from any official filing or public profile, so all such fields are null rather than guessed. PAN holder type cannot be derived because no PAN is public/confirmed. Role left as 'unknown' - no registry evidence of manufacturing plant, factory licence or trading activity was retrieved; the input's industry label ('Нефтегаз и химия') and declared HS 320649 are claims only, not verified. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity simply remains unverified. Recommended next step: re-run with a working search backend and query the MCA master data / GST portal directly by exact legal name, and check for similarly named entities (e.g. 'Chemie Products', 'Chemipro', 'Chemie Products India') to confirm which legal entity is meant before any acceptance decision."
+}

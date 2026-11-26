@@ -1,0 +1,18 @@
+{
+ "name_input": "COATES OF INDIA LIMITED",
+ "legal_name": "DIC India Limited (formerly Coates of India Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: search backend returned connection refused, and registry/aggregator pages (zaubacorp, thecompanycheck, moneycontrol, screener, wikipedia, NSE) returned 403/429/timeouts; BSE page loaded only boilerplate. The input name 'COATES OF INDIA LIMITED' with legal_claimed 'DIC INDIA LIMITED' is consistent with a public name change: Coates of India Ltd was renamed DIC India Limited (a listed ink manufacturer, BSE scrip 500875), so the entity appears to exist and is NOT rejected. However, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status could not be read from a public source within the tool budget, so all are null rather than guessed. PAN holder type therefore also null (4th-character rule not applicable without a PAN). Role assessed as manufacturer from the company's known business (printing inks/pigments, HS 3215) - not confirmed from a filing. Revenue FY25/FY26 null: audited accounts not retrieved; no figures invented. State claimed in input was empty, so no state mismatch can be assessed. Recommend re-run with working search access to confirm CIN (commonly cited as L51900WB1947PLC015221 - UNVERIFIED, do not use until confirmed), GSTIN and FY25/FY26 revenue from the annual report."
+}
