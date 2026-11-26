@@ -1,0 +1,9 @@
+{
+ "name_input": "SPICE ISLANDS INDUSTRIES LIMITED; SPICE ISLANDS APPARELS LIMITED; SPICE ISLANDS INDUSTRIES LIMITED; SPICE ISLANDS INDUSTRIES LIMITED; SPICE ISLANDS APPARELS LTD; SPICE ISLANDS INDUSTRIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable data obtained. Search backend (DuckDuckGo/searx) was down ('Connection refused') for the whole session; Bing returned only generic 'spice' consumer pages for every query variant, including quoted-name and site-restricted queries ('Spice Islands Industries Ltd' BSE/NSE, 'Spice Islands Apparels', site:bseindia.com/moneycontrol.com/thehindu.com) — zero entity-specific hits. Zaubacorp returned HTTP 403; Google returned HTTP 429. OFAC Sanctions List Search is a JavaScript form and could not be queried via plain HTTP GET, so no SDN/UN/EU/UK/BIS screening result was actually obtained — sanctions_hit is null because NOT CHECKED, not because cleared. Same for Indian court records (eCFR/NJDG/High Court), regulator actions, credit rating and any Russia/CIS supply evidence: none of these sources were reachable, so all fields are null rather than negative findings. IMPORTANT: the input name is a concatenation of two distinct legal entities (Spice Islands Industries Ltd and Spice Islands Apparels Ltd) repeated several times; the entity set must be de-duplicated and confirmed before any screening is re-run. Also note the declared HS 220210 (waters with added sugar) is inconsistent with the claimed 'food & FMCG' profile and with an 'Apparels' entity — per project rules this is NOT a rejection ground, but the actual activity needs confirmation. No rejection ground identified (no evidence of non-existence, liquidation or bankruptcy was found either way). Recommend re-running this company when search access is restored; do not treat the nulls as a clean bill of health."
+}

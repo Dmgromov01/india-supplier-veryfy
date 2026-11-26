@@ -1,0 +1,9 @@
+{
+ "name_input": "SELLWIN INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; http_get к duckduckgo.com — timeout; google.com — HTTP 429; zaubacorp.com — HTTP 403; indiamart.com — HTTP 429; indiankanoon.org — HTTP 403. Bing отдал нерелевантную выдачу (результаты про Microsoft и dash-cam), т.е. фактического совпадения по названию 'Sellwin International' не найдено, но это НЕ доказательство отсутствия записей. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся как форма без выполнения запроса — прямой поиск по имени не проведён, поэтому sanctions_hit=null, а не 'нет'. По всем полям (санкционные списки OFAC SDN/UN/EU/UK/BIS Entity List, индийские судебные дела с ролью стороны и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой и статусом, признаки поставок в РФ/СНГ) данные публично не получены — null, не выдумывать. Требуется повторный прогон при доступном поиске и доступе к реестрам (MCA/Zauba, eCourts, NCLT, CRISIL/ICRA/CARE, OFAC/EU/UK/BIS консолидированные списки). Отклонение по правилу 3 не применяется: сведений о ликвидации/банкротстве нет, но и подтверждения существования юрлица в этом прогоне не получено."
+}

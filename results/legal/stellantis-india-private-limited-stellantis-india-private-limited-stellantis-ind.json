@@ -1,0 +1,18 @@
+{
+ "name_input": "STELLANTIS INDIA PRIVATE LIMITED; Stellantis India Private Limited; Stellantis India Private Limited; FCA INDIA AUTOMOBILES PRIVATE LIMITED",
+ "legal_name": "FCA India Automobiles Private Limited (claimed; not verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: all registry sources were unreachable in this session. DuckDuckGo/searx backend refused connections; zaubacorp.com, thecompanycheck.com, instafinancials.com company pages and mca.gov.in returned HTTP 403; Google returned HTTP 429; Bing silently dropped the quoted company name and returned only generic 'FCA' (Financial Conduct Authority / Free Carrier) results, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be read from a primary or secondary source. Per project rules nothing is invented: CIN, PAN, GSTIN, incorporation date, state and FY25/FY26 revenue are all null because they are not confirmed public data in hand, not because they are known to be absent. No rejection is proposed - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the name 'FCA India Automobiles Private Limited' is the historically used Indian entity of the FCA/Stellantis group (Pune, Maharashtra, Jeep/Ranjango plant operations), and 'Stellantis India Private Limited' appears in the input as a later/parallel group naming, but the exact current legal name and whether a separate 'Stellantis India Private Limited' CIN exists must be confirmed on MCA before use. Role is recorded as manufacturer on the basis of the claimed industry (automotive OEM), not on verified filings. Declared HS 870850 (parts/accessories of motor vehicles, gearboxes/axles) is plausible for an automotive OEM but is not assessed here (out of scope for this role). Action needed: re-run with working access to MCA master data / a GST public profile to fill CIN, PAN (4th-character holder type), GSTIN, incorporation date, registered state and FY25/FY26 audited revenue."
+}

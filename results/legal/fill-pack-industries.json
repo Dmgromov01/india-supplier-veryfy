@@ -1,0 +1,18 @@
+{
+ "name_input": "FILL PACK INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Что пробовалось: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused'; (2) zaubacorp.com/companysearchresults/FILL PACK INDUSTRIES и /FILLPACK — HTTP 403 Forbidden; (3) thecompanycheck.com/companysearch/FILL-PACK-INDUSTRIES — HTTP 404; (4) instafinancials.com/company-search — HTTP 404; (5) google.com/search — HTTP 429; (6) bing.com/search по точной фразе в кавычках — движок проигнорировал кавычки и выдал нерелевантную выдачу (словарные статьи 'fill', затем статьи об актёре Walter Jones), т.е. совпадений по названию не найдено; (7) duckduckgo.com/html — таймаут. Вывод по существу: 'FILL PACK INDUSTRIES' в открытых реестровых источниках не подтверждено как зарегистрированное юрлицо; при этом отсутствие подтверждения НЕ является основанием для отклонения (правило 3: отклонять только при доказанном несуществовании/ликвидации/банкротстве), поэтому вердикт — не rejected, а 'не идентифицировано'. Входные данные противоречивы и неполные: legal_claimed='MAHESH KUMAR' — это имя физлица, а не название юрлица, что указывает на возможную регистрацию как sole proprietorship (тогда CIN отсутствует по определению, а PAN/GSTIN привязаны к физлицу-собственнику); state_claimed пуст, pan_claimed пуст — сверять штат регистрации не с чем. PAN, CIN, GSTIN, дата инкорпорации, MCA-статус, выручка FY25/FY26 — null, так как не публичны/не найдены; цифры не выдумывались. Роль (manufacturer/trader) не установлена — null-эквивалент 'unknown'. Декларированный HS 240311 (табачная продукция / курительные смеси) с названием 'Fill Pack Industries' и отраслью 'Продукты питания и FMCG' не согласуется по существу — требует уточнения у заявителя; по правилу 3 несоответствие HS не является основанием для отклонения. Рекомендация: запросить у поставщика GSTIN-сертификат (REG-06) и PAN, после чего повторить проверку на gst.gov.in и mca.gov.in."
+}
