@@ -1,0 +1,25 @@
+{
+ "name_input": "SATYAM TRADERS",
+ "declared_hs": "120241;120242",
+ "actual_hs_list": [
+  "120241 (ground-nuts, in shell, not roasted/otherwise cooked)",
+  "120242 (ground-nuts, shelled, whether or not broken, not roasted/otherwise cooked)",
+  "120230 (ground-nuts, in shell, roasted or otherwise cooked) — from 'Peanut Roasted & Blanched Whole/Split' line, code to be confirmed",
+  "120300 (copra) / 1207.41 (palm nuts and kernels) — 'Kernels and Oils' claim, ambiguous, cannot_verify",
+  "120740 (sesame seeds: natural whitish, black, hulled)",
+  "120190 (soybean seeds)",
+  "1207.40 / 0910.30 (coriander seeds, cumin seeds, fenugreek seeds, mustard seeds 1207.50)",
+  "0810.90 / 0813.40 (tamarind — whole, dried)",
+  "0904.21 (chilli, dried whole)",
+  "0910.30 (turmeric, whole)",
+  "0713.20 (chick peas / Bengal gram, whole dried)",
+  "1006.30 (basmati rice, semi-milled or wholly milled)",
+  "1006.30 / 1006.40 (non-basmati rice)",
+  "1007.90 (sorghum / jowar)",
+  "1008.29 / 1008.21 (bajra / millets)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website satyamtraders.com (Vyara, Gujarat; 'Govt. of India Recognised Star Export House', self-described processors & exporters of agro commodities since 1991) lists: Peanut Java, Peanut Bold, Peanut in Shell, Peanut Roasted & Blanched Whole, Peanut Roasted & Blanched Split; oil seeds — natural whitish sesame, black sesame, hulled sesame, soybean seeds; whole spices — tamarind, chilli whole, turmeric whole; spice seeds — coriander, cumin, fenugreek, mustard; pulses & cereals — chick peas, basmati rice, non-basmati rice, sorghum/jowar, bajra/millets. Homepage text also claims 'Ground Nuts, Kernels and Oils'. Source: http://www.satyamtraders.com/ (homepage product menu). Sub-pages (products.html, about-us.html, peanut-java.html) returned HTTP 404, so no per-product specs, packing or grade detail could be read.",
+ "role_hint": "trader / processor-exporter (self-described 'Processors and Exporters'; name 'Traders'; no plant, capacity or processing certificate visible on the reachable page) — trader signs present, manufacturer status заявлено, не подтверждено",
+ "comment": "Declared HS 120241 and 120242 are CORRECT for the core line: the site explicitly sells 'Peanut in Shell' (→120241) and shelled kernels Java/Bold (→120242). Match = partial, because the declaration covers only ground-nuts while the actual catalogue is much wider: roasted/blanched peanuts (roasted in-shell would move to 120230, roasted/blanched kernels out of Ch.12 into 2008.11), sesame 120740, soybean 120190, whole spices (chilli 0904.21, turmeric 0910.30, tamarind 0810.90/0813.40), spice seeds (coriander/cumin/fenugreek 1207/0910, mustard 1207.50), chick peas 0713.20, basmati & non-basmati rice 1006, jowar 1007.90, bajra/millets 1008. Product lines missing from the declaration: all oil seeds, all spices, all pulses and all cereals — i.e. roughly 4 of the 5 catalogue groups. Industry label 'Продукты питания и FMCG' is a rough fit: the real profile is agricultural raw commodities / oil seeds & spices B2B export, not FMCG packaged goods — industry misclassification (minor). The 'Kernels and Oils' claim on the homepage is ambiguous (could mean ground-nut kernels, or palm kernels/copra) and no oil HS line (1508/1513/1512) is declared — cannot_verify. No customs line was available to me in this task, so every product above is 'заявлено, не подтверждено' (website catalogue only, no shipment or B-L record checked). Per rule 3 the HS gap is not a rejection ground: company is kept, codes corrected to the actual range above, verdict accepted_hs_corrected. Note: 'Satyam Traders' is a very common Indian trade name — the mapping above is tied specifically to the Vyara, Gujarat entity at satyamtraders.com; if the batch record refers to a different same-named firm, the product list must be re-verified."
+}

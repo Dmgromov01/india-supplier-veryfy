@@ -1,0 +1,18 @@
+{
+ "name_input": "LC INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not obtained. The name 'LC INTERNATIONAL' is a generic trade name with no distinguishing suffix (no 'Private Limited'/'LLP'/'& Co.'), so it cannot be matched to a single legal entity without additional identifiers (CIN, GSTIN, PAN, city or full registered address) — none were supplied in the input (pan_claimed and state_claimed both empty). Tooling failed: the web_search backend returned connection errors, DuckDuckGo HTML endpoint timed out, Bing returned only generic 'letter of credit'/'Shop LC' results with query terms effectively ignored, and direct registry lookups were blocked (zaubacorp.com HTTP 403, thecompanycheck.com 404, instafinancials 404, Google 429). Therefore legal entity name, CIN/LLPIN, PAN and PAN holder type (4th character), GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null — not public/not retrieved, not estimated. No rejection applied: absence of a verifiable record in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such positive evidence. Role recorded as 'unknown' (no evidence of manufacturing or trading activity). Declared HS 630520 (sacks and bags of cotton, packing) is inconsistent with the claimed industry 'food products and FMCG'; per rules this is not a rejection ground — the HS code should be corrected to the actual product code once the entity is identified. Recommended next step: re-run with a GSTIN, CIN, PAN or city/registered address, or with working search access, to resolve the specific legal entity."
+}

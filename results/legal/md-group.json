@@ -1,0 +1,18 @@
+{
+ "name_input": "MD< Group",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна. Входные данные не содержат юридического названия: 'MD< Group' — обрывок/опечатка (символ '<' в названии), 'legal_claimed' = 'HARISH KUMAR' — это имя физлица, а не наименование юрлица; PAN, штат и адрес не указаны. Никакой конкретный юрлицо-субъект (Private Limited / LLP / partnership / sole proprietorship) не идентифицирован, поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка не могут быть установлены — везде null. Проверка источников: web_search (DuckDuckGo/searx) недоступен (connection refused); попытки прямого поиска через Bing по 'MD Group' + 'Harish Kumar' + CIN дали нерелевантные результаты (NFL, Microsoft, RCB) — совпадений с индийским юрлицом нет; zaubacorp.com вернул 403, tofler.in — 404, instafinancials — 404, search.mca.gov.in недоступен (DNS). Отклонение НЕ применяется: отсутствие данных о существовании юрлица не равно доказательству его несуществования (правило 3). Требуется от заказчика точное юридическое наименование (например, 'MD ... Private Limited'), CIN/GSTIN или PAN — после этого проверка может быть выполнена. Роль: unknown. HS 120740 (кунжут) не проверялся по существу, т.к. субъект не идентифицирован."
+}

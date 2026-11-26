@@ -1,0 +1,9 @@
+{
+ "name_input": "PAROSHA CHEMICALS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable public record found for this entity within the tool budget. (1) Sanctions: no match located in OFAC SDN, UN, EU, UK or BIS Entity List; however this is NOT a clean bill of health — the searches themselves failed (DuckDuckGo/searx backend returned 'Connection refused' on both queries; Google returned HTTP 429; Bing returned only irrelevant results, i.e. zero genuine hits for the exact name). Sanctions status must be treated as UNVERIFIED, not negative. (2) Indian court cases: Indian Kanoon full-text search for \"Parosha Chemicals\" returned 'No matching results' (https://indiankanoon.org/search/?formInput=%22Parosha%20Chemicals%22) — this is the one genuine negative result obtained, but it covers only reported judgments, not pending district/NCLT matters. Party role and status: null. (3) Regulator actions / negative news: none found, but no news index was successfully queried — null, not confirmed clean. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; null — not public in anything retrieved. (5) Supplies to Russia/CIS: no evidence either way; null. Registry lookups blocked: ZaubaCorp HTTP 403, Tofler search endpoint 404. Per project rules this company is NOT rejected — absence of found records is not a rejection ground, and sanctions/court matters would not be rejection grounds in any case. Recommended action: re-run risk screening when search infrastructure is restored, specifically against OFAC SDN/EU/UK consolidated lists by exact legal name, NCLT and eCourts, and Indian customs/Russia-CIS trade records; until then all five risk fields should be carried as null/unverified rather than as cleared."
+}

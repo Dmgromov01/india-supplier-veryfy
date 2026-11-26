@@ -1,0 +1,8 @@
+{
+ "name_input": "MD< Group",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/md-group (also /md-group-1 and /m-d-group): page renders only the boilerplate line \"Shipments available for MD GROUP, refreshed daily\" with the shipment table left as \"Loading...\" — 0 shipment rows actually visible on any of the three slugs. No bill-of-lading number, no date, no destination, no HS code was displayed.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was found or displayed for this entity; no source page returned any domestic supply record.",
+ "note": "Name as supplied (\"MD< Group\") is malformed and not a verifiable legal entity name; claimed contact \"HARISH KUMAR\" is a personal name, not a company, and no CIN/PAN was supplied. Declared HS 120740 (sesame seeds) could not be tied to any shipment record. Source counter: 3 importkey slug variants attempted (md-group, md-group-1, m-d-group) — all returned the same empty paywall shell, 0 rows seen. Second sources volza, eximpedia and trademo all returned HTTP 403 Forbidden, and web_search was unavailable (connection refused), so no independent customs or GST evidence could be retrieved. следов поставок не найдено — neither export nor domestic supply traces were found; this is an absence of retrievable public evidence, not proof the company does not trade. No revenue or export volume figures are public here, so both are null rather than estimated. Recommend obtaining the exact registered legal name plus CIN/GSTIN before any further verification."
+}

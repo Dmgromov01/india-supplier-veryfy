@@ -1,0 +1,18 @@
+{
+ "name_input": "COASTAL OVERSEAS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry aggregators failed (zaubacorp.com 403 Forbidden, thecompanycheck.com 404, instafinancials.com 403); Google returned 429, DuckDuckGo timed out, and Bing returned only irrelevant US 'Coastal Farm & Ranch' retail results with no Indian registry hits for 'COASTAL OVERSEAS'. Therefore legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they were checked and found absent, but because they were not publicly retrievable within the tool budget. No rejection is applied: non-existence/strike-off/liquidation/bankruptcy was NOT established, so per the rules the company must not be rejected on missing data. Role left as 'unknown' (no evidence of manufacturing vs trading). Note also that the input is a bare trade name with no legal suffix, no PAN and no state, which makes disambiguation impossible without a working search - 'COASTAL OVERSEAS' is a common Indian trade name and may correspond to a proprietorship/partnership (no CIN by design) or to one of several similarly named private limited companies. Recommended next step: re-run with a functioning search backend or supply the GSTIN/PAN from the supplier's documents, then verify on MCA (mca.gov.in) and the GST portal. Declared HS 690721 (ceramic tiles, >=0.5% water absorption) is unverified against any actual product line and, per project rules, is not a ground for rejection in any case."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Bar International Inc",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Google — HTTP 429, OpenCorporates и ZaubaCorp — HTTP 403, Bing по всем трём запросам выдавал только нерелевантную выдачу по слову 'bar' (Bureau of Automotive Repair, бары, State Bar of California) без единого точного совпадения. Точных публичных записей по компании 'Bar International Inc' с указанным лицом (Tina Khandelwal) не найдено. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), индийские судебные реестры (eCourts/NJDG), рейтинговые агентства (CRISIL/ICRA/CARE/India Ratings) и сообщения о поставках в РФ/СНГ по данной компании не проверены — все поля null, а не отрицательный результат. Отсутствие данных НЕ означает отсутствия рисков. Требуется повторный прогон при доступном поиске; также стоит уточнить, является ли компания индийским юрлицом (суффикс 'Inc' нетипичен для Индии) — это влияет на то, какие реестры проверять."
+}
