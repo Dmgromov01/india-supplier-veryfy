@@ -1,0 +1,20 @@
+{
+ "name_input": "CREST SPECIALITY RESINS PRIVATE LIMITED; CREST SPECIALITY RESINS PRIVATE LIMITED",
+ "declared_hs": "390799",
+ "actual_hs_list": [
+  "390791",
+  "390799",
+  "390730",
+  "390750",
+  "390690",
+  "390791",
+  "320890",
+  "390950",
+  "390940",
+  "390610"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт crestresins.com (Ahmedabad, Gujarat; «since 1989»). Реальные линейки по каталогу: (1) Composite Resins — ненасыщенные полиэфирные смолы (UPR), винилэфирные смолы, огнестойкие (fire-retardant) смолы, гелькоуты (пигментированные/непигментированные, FR и не-FR), SMC/DMC-смолы, смолы для оптического волокна; (2) Coating Resins — насыщенные полиэфирные смолы, силикон-модифицированные смолы, энерго-отверждаемые (UV) смолы, смолы для coil coating, металлической упаковки, термостойких покрытий, автомобильных шпатлёвок (DCPD и UPR), wood coating, glass flake coating; (3) отдельные страницы: reactive polyamide resin, UV-curable resins, acrylic polyol resins, polyester polyol resins. Продукция — жидкие/твёрдые полимерные смолы в первичных формах, не готовые изделия.",
+ "role_hint": "manufacturer",
+ "comment": "Сверка с заявленным 390799 (прочие сложные полиэфиры в первичных формах): ЧАСТИЧНО подтверждено. 390799 корректно покрывает насыщенные полиэфирные смолы для покрытий (coil coating, metal packaging, heat-resistant, wood coating, polyester polyol) — это действительно «прочие сложные полиэфиры». Однако заявленный код НЕ покрывает существенную часть фактического ассортимента, которую нужно добавить отдельными линиями: (а) ненасыщенные полиэфирные смолы UPR, SMC/DMC, automotive putty resins, гелькоуты → 390791 (ненасыщенные сложные полиэфиры); (б) винилэфирные смолы → 390791/390799 по химии (винилэфир — продукт этерификации эпоксидной смолы с метакриловой кислотой; на практике часто 390791), требует уточнения по составу; (в) эпоксидные смолы (если винилэфирные базы/эпоксидные позиции) → 390730; (г) алкидные смолы, если присутствуют в coating-линейке → 390750; (д) акриловые полиолы / акрилатные смолы (acrylic polyol resins, acrylate resins для композитов, UV-curable акрилаты) → 390690; (е) reactive polyamide resin → 390940 (полиамиды) либо 390890/390950 по составу; (ж) силиконовые смолы → 391000; (з) готовые покрытия/гелькоуты в виде составов на растворителях, если поставляются как краски/лаки, а не как смола → 3208/3209 (требует уточнения формы поставки). Вывод: HS-код исправляется на фактический набор, компания сохраняется в базе (вердикт accepted_hs_corrected). Отраслевая классификация «Нефтегаз и химия» — частично некорректна: компания не нефтегазовая, а производитель специальных полимерных смол (chemicals/specialty polymers); нефтегаз/петрохим и chlor-alkali фигурируют только как КОНЕЧНЫЕ ОТРАСЛИ-ПОТРЕБИТЕЛИ её смол (разделы «Industries Served»: Chlor Alkali, Chemical Plants, Pulp & Paper, Power Plant, Fertilizer, Mineral Processing, Wastewater & Desalination, Food & Beverage, Petrochem Industry, Building & Construction). Признаков трейдера не выявлено: сайт позиционирует собственное производство («Manufacturing Units», «permissible manufacturing capacity», R&D, заводская сертификация) — роль manufacturer. Все перечисленные товарные линии — заявлено на сайте, не подтверждено: таможенных/B-L записей и GST-оборотов в рамках этой проверки не исследовалось (по условию задачи реестры и объёмы не проверяются), поэтому фактичность отгрузок по конкретным кодам остаётся «заявлено, не подтверждено». Источники: https://www.crestresins.com/ ; https://www.crestresins.com/composite-resins.html ; https://www.crestresins.com/coating-resins.html ; https://www.crestresins.com/sitemap.xml (перечень страниц: unsaturated-polyester-resins, vinyl-ester-resins, fire-retardant-resin, gelcoats, smc-and-dmc-resins, optical-fibre-resins, coil-coating-resin, metal-packaging-coating-resin, heat-resistant-coating-resin, automotive-putty-resin, wood-coating-resin, uv-curable-resins, glass-flake-coating-resin, reactive-polyamide-resin)."
+}

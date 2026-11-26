@@ -1,0 +1,8 @@
+{
+ "name_input": "Ambe Foods",
+ "export_status": "unknown",
+ "export_evidence": null,
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. ImportKey по трём вариантам слага (ambe-foods, ambe-foods-pvt-ltd, ambe-food-products) отдал только шаблонную заглушку без единой строки данных; дословная строка со всех трёх страниц: 'Join ImportKey to view the import and export data records of companies all over the world.' — счётчик источников: 3 страницы открыты, 0 фактических отгрузочных записей увидено (ни даты, ни направления, ни HS, ни номера B/L). volza.com, eximpedia.app и trademo.com вернули HTTP 403 Forbidden; web_search (DuckDuckGo/searx) был недоступен на всех 4 попытках ('Connection refused'), поэтому поиск по названию компании, GeM/CPPP и GST-оборотам выполнить не удалось. Никаких данных о выручке, объёме экспорта, PAN, CIN или штате не получено — все поля null, не выдумывались. Отдельно: название 'Ambe Foods' неоднозначно (в индийской базе встречаются как минимум 'Ambe Foods', 'Ambe Foods Pvt Ltd', 'Ambe Food Products'), поэтому привязка заявленных кодов HS 071021/071040/071080 (замороженные овощи и бобовые) к конкретному юрлицу не подтверждена. Требуется повторная проверка при доступном поиске и платном доступе к таможенным данным; статус 'unknown' — не основание для отклонения."
+}

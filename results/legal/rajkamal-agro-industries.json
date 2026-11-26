@@ -1,0 +1,18 @@
+{
+ "name_input": "RAJKAMAL AGRO INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on all web_search calls; Bing and Google returned irrelevant/blocked result pages; Zauba Corp, Instafinancials and Tofler returned HTTP 403/404 (paywall or bot-blocking). No public page confirming an exact legal entity named 'RAJKAMAL AGRO INDUSTRIES' (Pvt Ltd / LLP / partnership / proprietorship) was retrieved, so legal_name, CIN/LLPIN, PAN, GSTIN, incorporation date, registered state and MCA status are all null - not inferred or invented. PAN holder type cannot be derived without a PAN. Role left as 'unknown': the name suggests agro processing (declared HS 120740 = sesame seeds), but no registry record confirms manufacturer vs trader status. Revenue FY25/FY26 null - no audited accounts or MCA filings accessible. IMPORTANT per project rules: this is NOT a rejection. Absence of retrievable registry data is a data gap, not evidence that the entity does not exist; no strike-off, liquidation or bankruptcy record was found either. Recommended next step: manual lookup on MCA21 master data / GST portal search by trade name, or request the supplier's GSTIN and PAN directly, then re-verify. Note also that the input gave no claimed state and no claimed PAN, so state_claimed is null and no state mismatch can be assessed."
+}

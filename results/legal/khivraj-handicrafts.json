@@ -1,0 +1,18 @@
+{
+ "name_input": "KHIVRAJ HANDICRAFTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data retrieved. The input gives no legal entity name (the 'legal_claimed' field contains a person's name, 'PRAKASH SANKHLA', not a company name), no PAN, no state and no GSTIN, so there was no anchor for a registry lookup. All attempts to reach public sources failed in this session: DuckDuckGo search backend refused connections (searx: Connection refused), Google returned only a redirect/consent page, Bing returned irrelevant results for both queries, and Zauba Corp, InstaFinancials and MasterIndia returned HTTP 403/401 while Tofler returned a 404 on its search path. Consequently the exact legal entity name, CIN/LLPIN, PAN (and therefore the 4th-character holder-type test), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - none of these are public in the material I could actually read, and none are guessed. Role is recorded as 'unknown' rather than manufacturer/trader because the entity type itself is unconfirmed; the declared HS codes 940161/940171 (upholstered seats with wooden frames / other wooden furniture) are consistent with a handicraft-furniture business but are not evidence of manufacturing status. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible. Per project rules this is NOT a rejection - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; it is simply unverified and must be re-checked with a working registry source (MCA master data by name, or GST public search on the trade name in Rajasthan/Jodhpur, the likely handicraft cluster) before any verdict. Recommend re-queuing this company for a session with functioning search/registry access."
+}
