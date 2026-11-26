@@ -1,0 +1,8 @@
+{
+ "name_input": "A one Proteins",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/a-one-proteins (and variants /a-one-protein, /a-one-proteins-pvt-ltd): page renders only the boilerplate template — exact line: \"Shipments available for A ONE PROTEINS, refreshed daily\" — with the shipment table, monthly bar chart and supplier/buyer lists all empty. Rows actually seen: 0 of 0. No bill-of-lading number, no date, no destination, no HS code displayed on any of the three slugs.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. web_search tool was non-functional during this run (searx: connection refused), so no domestic-source query could be executed; volza.com and eximpedia.app returned HTTP 403 Forbidden on direct fetch. Nothing to quote — null.",
+ "note": "Следов поставок не найдено: ни одной экспортной записи (нет B/L, даты, направления, HS) и ни одного подтверждения поставок внутри Индии. Все три варианта слага importkey отдают пустой шаблон без строк — это отсутствие данных, а не подтверждение нуля отгрузок, поэтому domestic_status оставлен unknown, а не none_found. Заявленные HS 071340 (чечевица), 080299 (орехи), 091099 (специи) ничем не подтверждены и не опровергнуты; по правилу 3 несоответствие HS основанием для отклонения не является. Выручка и объём экспорта: null (не публичны, не выдумывались). Юрлицо по названию 'A one Proteins' с владельцем Mahaveer Chand Chopra в открытых источниках не идентифицировано — CIN/PAN отсутствуют, требуется уточнение у поставщика. Рекомендация: запросить у компании инвойс/BL и GST-выписку напрямую."
+}

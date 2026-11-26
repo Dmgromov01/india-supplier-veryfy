@@ -1,0 +1,18 @@
+{
+ "name_input": "A one Proteins",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), Bing returned only irrelevant generic results for every query variant ('A One Proteins' + GST / CIN / Chopra / zaubacorp / thecompanycheck / tofler), and the registry aggregators themselves (zaubacorp.com, thecompanycheck.com, instafinancials.com) plus mca.gov.in returned HTTP 403/404 to direct fetches. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be verified from a public source. Nothing is asserted or invented: all fields are null. The input itself is ambiguous - 'MAHAVEER CHAND CHOPRA' is a person's name, not a company name, and no state or PAN was supplied, so it is unclear whether the supplier is a registered company, an LLP, a partnership or a sole proprietorship (in which case no CIN would exist at all and only a GSTIN would identify it). No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be looked up with the tools available. Role left as 'unknown' (no evidence of manufacturing plant or trading activity). Revenue FY25/FY26 null - no audited accounts or official filings accessible. Action required: re-run with a working search backend, or supply the GSTIN or CIN, or the registered state, to allow verification. HS codes 071340 / 080299 / 091099 (dried vegetables, dried nuts/fruits, spices) are not assessed here per role scope."
+}

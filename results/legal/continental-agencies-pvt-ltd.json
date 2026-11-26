@@ -1,0 +1,18 @@
+{
+ "name_input": "CONTINENTAL AGENCIES PVT. LTD",
+ "legal_name": "CONTINENTAL AGENCIES PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both search attempts; Zauba Corp, TheCompanyCheck and InstaFinancials returned HTTP 403; Google returned HTTP 429; MCA master-data portal returned HTTP 403; Bing returned only irrelevant results for Continental AG (German tyre maker) and ignored the quoted company name, so no Indian registry page for 'Continental Agencies Pvt Ltd' was reached. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are non-public, but because they could not be read. No revenue figures from audited accounts or official filings were located, so FY25 and FY26 revenue are null (not estimated). Role cannot be determined without MCA/GST records, hence 'unknown'. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity's status is simply unverified. Action required: re-run with working search/registry access (MCA master data by name, Zauba Corp / Tofler / TheCompanyCheck profile, GST portal search) to obtain CIN, PAN (4th character = holder type: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust), GSTIN and GST status, and to confirm whether the registered state matches the (empty) state_claimed field. HS 382290 (chemical preparations, 'Нефтегаз и химия') is not a rejection ground in any case; if the actual code differs it should be corrected to the factual code with verdict accepted_hs_corrected."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "MAC CHEM PRODUCTS INDIA PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/mac-chem-products-india-pvt-ltd loaded only a paywall shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible (source counter: page claims \"Shipments available for MAC CHEM PRODUCTS INDIA PVT LTD, refreshed daily\", rows actually seen: 0). No bill-of-lading number, date, destination or HS code could be read. Volza (403), Eximpedia (403), Trademo (403), ImportGenius (JS challenge) all blocked.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on all three queries, and registry pages (thecompanycheck, zaubacorp) returned HTTP 403. Rows seen: 0.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни одной фактической записи об отгрузке (экспортной или внутренней) получить не удалось — все источники таможенных данных закрыты платно или блокируют доступ, поисковик недоступен. Статус по обоим направлениям — unknown, а не declared_only, поскольку даже заявлений самой компании (сайт, каталог) прочитать не удалось. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Заявленные HS 293090/293339/294190 (прочие орг. соединения серы, гетероциклические соединения, антибиотики) не проверены по фактическим записям — HS не корректировался, оснований для отклонения нет. Требуется повторный прогон при доступном поиске или платном доступе к India customs data."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "CHANDAN STEEL LIMITED",
+ "legal_name": "CHANDAN STEEL LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - all fields null. Technical failure, not a finding about the company. The DuckDuckGo/searx search backend returned 'Connection refused' on every query, and the fallback engines (Bing, Google, DuckDuckGo HTML) returned either HTTP 429/403 or completely irrelevant results with the query terms dropped, so no page containing the company's CIN, PAN, GSTIN or MCA record could be located. Direct fetches of registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, and mca.gov.in returned HTTP 403. No CIN, PAN, GSTIN, incorporation date, state of registered office, MCA status or audited revenue figure could be confirmed from any public source, therefore all are null rather than guessed. The claimed legal name 'CHANDAN STEEL LIMITED' and the claimed industry (metallurgy/mining) are unverified; the declared HS codes 722300 and 730441 (flat-rolled stainless steel / seamless circular steel pipe) are consistent with a steel producer but are not evidence of the entity's existence or role. Role left as 'unknown' - no registry document was read to establish whether the entity is a manufacturer, trader or both. Per project rules the company is NOT rejected: rejection requires positive proof that the entity does not exist, is struck off, liquidated or bankrupt, and no such proof was obtained. Recommend re-running this company once the search backend is restored, checking MCA master data by name and the GST public search for the exact legal name."
+}

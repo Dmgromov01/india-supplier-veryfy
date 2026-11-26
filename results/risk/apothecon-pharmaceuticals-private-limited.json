@@ -1,0 +1,9 @@
+{
+ "name_input": "APOTHECON PHARMACEUTICALS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА — все каналы недоступны на момент запроса. Технические факты: web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех 3 попытках; Google и Brave — HTTP 429; Bing отдавал нерелевантную выдачу (запрос не соблюдался, результаты про Microsoft/YouTube); html/lite.duckduckgo.com — таймаут; zaubacorp.com и thecompanycheck.com — HTTP 403; sanctionssearch.ofac.treas.gov загрузился, но это JS-форма, прямой HTTP-запрос по имени выполнить нельзя. По компании не получено ни одной страницы, поэтому: sanctions_hit, court_cases, rating, news_risk, rf_supply = null (не 'нет данных об отсутствии', а 'данные не собраны'). Никаких утверждений об отсутствии санкций, судов или поставок в РФ/СНГ не делаю — это было бы выдумкой. Требуется повторный прогон при доступном поиске: проверить OFAC SDN/Non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List по точному имени и вариантам ('Apothecon Pharmaceuticals', 'Apothecon Pharma'); eCourts/NJDG и судебные агрегаторы по стороне; рейтинги CRISIL/ICRA/CARE/India Ratings; новости и регуляторные действия (CDSCO, FDA warning letters/import alerts — для фармы это ключевой риск-канал); следы поставок в РФ/СНГ по таможенным и B/L записям. Примечание по правилу 2: любые найденные санкции/суды/уголовные дела владельцев не являются основанием для отклонения — только нейтральная фиксация."
+}
