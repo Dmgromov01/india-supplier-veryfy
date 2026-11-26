@@ -1,0 +1,18 @@
+{
+ "name_input": "Saru Precision",
+ "legal_name": "SARU PRECISION WIRES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record retrieved. Tooling failures: DuckDuckGo/searx backend refused connection on both web_search calls; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler search returned 404; Bing and Google returned only irrelevant results (Zee TV show 'Saru', Saru Organics, etc.) with no hit for 'Saru Precision Wires'. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT because they are known to be absent, but because nothing could be read from an official source. No PAN can be inferred (4th-character holder-type rule cannot be applied without an actual PAN). Role left as 'unknown': the claimed HS 740821 (copper wire) and the claimed industry 'IT and electronics' are inconsistent, but per project rules HS/industry mismatch is not a rejection ground and is not evidence of trader vs manufacturer status. NOT rejected: the entity was neither found to be non-existent, struck off, liquidated nor bankrupt - the record simply could not be accessed. Recommended action: re-run this company in a batch with working search/registry access (MCA master data, GST public search, or a paid registry API) before any acceptance decision; do not treat this entry as verified."
+}
