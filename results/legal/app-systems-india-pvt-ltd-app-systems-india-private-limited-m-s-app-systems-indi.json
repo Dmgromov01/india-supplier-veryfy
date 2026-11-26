@@ -1,0 +1,18 @@
+{
+ "name_input": "APP SYSTEMS(INDIA) PVT LTD; APP SYSTEMS (INDIA) PRIVATE LIMITED; M/S APP SYSTEMS (INDIA) PVT.LTD; APP SYSTEMS(INDIA) PVT LTD",
+ "legal_name": "APP SYSTEMS (INDIA) PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure, not absence of the entity: web_search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials.com returned 404; google.com/search returned HTTP 429; duckduckgo.com timed out; bing.com returned only generic app-store results with the quoted company name ignored, so no usable hit. No CIN, PAN, GSTIN, incorporation date, registered state, MCA status or revenue figure was obtained from any authoritative source, therefore all such fields are null rather than guessed. PAN holder type cannot be derived because no PAN is public/confirmed. Role left 'unknown' - the input gives no evidence of manufacturing vs trading, and product catalogues were out of scope for this role. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity simply remains unverified. Recommended next step: re-run with a working search backend or MCA master-data / GST portal access, and confirm the exact legal name (the input lists four spelling variants, which suggests the name may be recorded differently, e.g. 'APP Systems India Pvt Ltd' vs a longer registered form)."
+}

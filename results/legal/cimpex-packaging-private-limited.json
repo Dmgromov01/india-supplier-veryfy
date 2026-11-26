@@ -1,0 +1,18 @@
+{
+ "name_input": "Cimpex Packaging Private Limited",
+ "legal_name": "CIMPEX PACKAGING PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused'; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; Google returned HTTP 429; Bing returned only irrelevant results (no usable hits for the company name). Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null — NOT verified, not absent. No rejection applied: non-existence, strike-off, liquidation or bankruptcy is NOT established, so under the project rules the company stays in the database. Role cannot be classified from registry data (no NIC/object clause, no MCA activity code retrieved) and is therefore 'unknown', not 'trader'. Declared HS 392350 (plastic closures/caps) is not assessed here — HS is out of scope for this role and is never a rejection ground. Recommended next step: re-run against MCA master data / GST public search once the search backend is restored, or supply the CIN or GSTIN from the input to allow direct lookup."
+}

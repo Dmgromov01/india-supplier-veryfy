@@ -1,0 +1,9 @@
+{
+ "name_input": "ESPEE INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-SCOPE ONLY. Sanctions screening: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others; data current as of 2026-11-26) returned 'No matching entities were found' for both 'Espee International' and 'Espee' (https://www.opensanctions.org/search/?q=Espee+International). No sanctions exposure identified on that basis. IMPORTANT LIMITATION: the web_search tool was non-functional during this run (searx backend connection refused) and the fallback Bing fetches returned unrelated results regardless of query, so no primary-source verification was possible for: Indian court cases (party role/status), regulator actions, negative news, credit rating, or any evidence of supplies to Russia/CIS. All those fields are set to null because nothing is public/verifiable in this run - NOT because they were checked and found clean. No CIN, PAN, rating figure or shipment record is asserted. Recommend re-running court/rating/news checks when search access is restored; per project rules, any sanctions, court or criminal findings would be noted neutrally and would not be grounds for rejection."
+}

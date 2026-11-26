@@ -1,0 +1,18 @@
+{
+ "name_input": "Xboom Utilities",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No verifiable registry record found. Searches for the exact strings \"Xboom Utilities\" and \"XBOOM UTILITIES\" (alone and combined with the claimed proprietor name \"Vishal Saurav\") returned zero exact matches on Bing; the DuckDuckGo search backend was unreachable (connection refused) for the whole session. Direct registry/profile lookups were blocked: zaubacorp.com returned HTTP 403 on both the company-search and company-list endpoints, thecompanycheck.com search returned only its generic landing page with no result rows, and Google returned HTTP 429. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source, and all such fields are left null rather than guessed. Note on the input itself: the 'legal_claimed' value \"VISHAL SAURAV\" is a personal name, not a company name, which suggests this may be a proprietorship or an unregistered trade name rather than a company or LLP - a sole proprietorship would have no CIN and would only be traceable via GSTIN/Udyam, neither of which is available here. Per project rules the entity is NOT rejected: non-existence could not be established, only non-verifiability. Role is recorded as 'unknown' because no MCA/GST record was retrievable to classify manufacturer vs trader. Revenue FY25/FY26 are null - no audited accounts or official filings were located. The declared HS codes (852380; 854370; 950450 - records/media, electrical machines, video game consoles) are noted but were not assessed, as HS alignment is not a rejection ground and is outside this role's scope. Recommended next step: obtain the GSTIN or Udyam registration number from the supplier directly, or re-run against MCA/GST portals once the search backend is restored."
+}
