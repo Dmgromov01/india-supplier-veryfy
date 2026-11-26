@@ -1,0 +1,18 @@
+{
+ "name_input": "APOTEX RESEARCH PVT LTD; APOTEX RESEARCH PRIVATE LIMITED",
+ "legal_name": "APOTEX RESEARCH PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAECA2791B",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'A' = association of persons/company per PAN structure) — claimed value, not independently verified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data confirmed. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on all web_search calls; zaubacorp.com, thecompanycheck.com and apotex.com returned HTTP 403; tofler URL guess returned 404; Bing returned only generic Apotex corporate (Canada) results with no Indian registry record. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because they could not be read from a public source within the call budget. Do not treat nulls as negative findings. What is supported: the entity name 'Apotex Research Private Limited' is the Indian arm of Apotex (Canada) and is a pharmaceutical R&D/manufacturing operation in Bangalore, Karnataka — consistent with the claimed state Karnataka and with declared HS 300490 (pharmaceuticals). Note the input's industry_claimed 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: the company is pharma, so the HS code 300490 is the correct one and the industry label should be corrected to pharmaceuticals — per project rule 3 this is NOT grounds for rejection, only an HS/industry correction. PAN AAECA2791B is plausible in format (5 letters + 4 digits + 1 letter) and its 4th character 'C' indicates a company holder, but the PAN itself was not cross-checked against any public filing. Revenue FY25/FY26: null — Apotex Research is a private subsidiary and no audited accounts or MCA filings were retrievable; no figures invented. No evidence of strike-off, liquidation or bankruptcy was found, so the entity is NOT rejected; verdict should be treated as pending registry confirmation. Recommended next step: re-run against MCA master data / a GSTIN lookup once the search backend is restored."
+}

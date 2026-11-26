@@ -1,0 +1,18 @@
+{
+ "name_input": "UMRAI INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "BHFPM8213A",
+ "pan_holder_type": "P — individual (natural person), per 4th character of the claimed PAN; consistent with a proprietorship/individual-linked registration, NOT a company PAN (company PANs carry 'C' at position 4)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record could be retrieved. Tooling failure: the DuckDuckGo/searx backend returned 'Connection refused' on every attempt; Google, Zauba Corp, Tofler, Instafinancials and mca.gov.in all returned HTTP 403; Bing returned only unrelated noise (bot-detection results, no genuine hits for either the trade name or the PAN); Marginalia returned zero results. Consequently NO source confirms that an entity named 'UMRAI INTERNATIONAL' exists, and nothing confirms the claimed PAN BHFPM8213A belongs to it. The 4th character 'P' of the claimed PAN indicates an individual holder, so the claimed 'legal_claimed' value ANISHA MAURYA is plausibly a proprietor name rather than a company name — but this is inference from PAN structure only, not a verified fact. No CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be established, so all are null. Revenue FY25/FY26 null: no audited accounts or official filings located. Per project rules the entity is NOT rejected — non-existence was not proven, only unverified; rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, which is absent. Role left 'unknown' (no evidence of manufacturing or trading activity). Declared HS 580127 (woven fabrics of man-made fibres) is inconsistent with the claimed industry 'food & FMCG'; per rule 3 this is NOT grounds for rejection — the code should be corrected to the factual one once the actual product line is established. ACTION REQUIRED: re-run this company when the search backend is restored, or supply a GSTIN/CIN directly, since a 15-character GSTIN would resolve state, registration status and legal name in one lookup."
+}

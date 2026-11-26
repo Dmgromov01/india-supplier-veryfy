@@ -1,0 +1,16 @@
+{
+ "name_input": "ZYDUS TAKEDA HEALTHCARE PVT.LTD",
+ "declared_hs": "293354",
+ "actual_hs_list": [
+  "300490",
+  "300410",
+  "300420",
+  "300439",
+  "300450",
+  "293354"
+ ],
+ "match_status": "partial",
+ "product_summary": "Zydus Takeda Healthcare Private Limited is described on the Takeda India site (zydustakeda.com, section 'What we do / Zydus Takeda') as a Joint Venture Company between Zydus Healthcare Limited and Takeda. The same site's India page states the Takeda India business focuses on finished pharmaceutical products in Oncology, Rare Diseases (Hemophilia, Lysosomal Storage Disorders), Rare Immunology and specialty care for Gastroenterology. No public product catalogue with pack-level or molecule-level detail was retrievable: the site is a single-page corporate site whose JV section is truncated, and the search backend (DuckDuckGo/searx) returned connection errors, so no catalogue page could be opened. Therefore the concrete SKU list is not public in the sources I could reach.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 293354 = 'Other derivatives of malonylurea (barbituric acid); salts thereof' — a bulk heterocyclic API intermediate code. The declared code is a chemistry/API code, while the only verifiable public description of the entity is a JV marketing/manufacturing finished-dose pharmaceutical business (Zydus Healthcare x Takeda). So the declared HS is at best a partial fit: it could only be correct if the specific shipment was a barbituric-acid-derivative API, which is not corroborated anywhere. Corrected/expanded actual HS-6 set for the described business: 300490 (other medicaments, put up for retail sale — the dominant line for a formulations JV), 300410/300420/300439 (medicaments containing antibiotics/hormones/other, incl. oncology and immunology injectables), 300450 (medicaments containing vitamins), and 293354 retained only as a possible API line. Industry classification 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: this is pharma — the correct industry is pharmaceuticals/finished formulations (with a possible API sub-line), not oil & gas. Trader signs: the entity is a 50/50 JV that markets Takeda-origin and Zydus-origin brands in India, i.e. it plausibly resells/imports third-party-manufactured product alongside own manufacture — role recorded as manufacturer_trader, not pure manufacturer. Product lines missing from the declaration: finished formulations (tablets/capsules/injectables) in oncology, rare disease, hemophilia, LSD, immunology and gastroenterology are entirely absent from a single-API-code declaration. Per project rule 3, the HS mismatch is NOT a rejection ground: company is kept, code corrected to the actual product line, verdict accepted_hs_corrected. All product statements above are 'заявлено, не подтверждено' — they come from the corporate website's own description, not from any customs line; no customs/B-L record was checked in this task (out of scope). Revenue, export volumes, CIN/PAN verification: not researched here, null."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ZYDUS TAKEDA HEALTHCARE PVT.LTD",
+ "legal_name": "ZYDUS TAKEDA HEALTHCARE PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACZ0736D (claimed by input; not verified against a public registry record)",
+ "pan_holder_type": "Company (4th character 'C' of AAACZ0736D indicates a company/firm PAN) — based on the claimed PAN format only, not on a verified PAN record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) was unreachable ('Connection refused') and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Google returned a redirect page and Bing returned only generic Zydus Group corporate pages with no company-specific CIN/GST record. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null — not public/not retrieved in this session, and no values were invented. Nothing indicates the entity does not exist (Zydus Takeda Healthcare is a known Zydus Group–Takeda joint venture), so no rejection is warranted; status is 'unverified, pending registry confirmation'. Role 'manufacturer' is a provisional classification from the pharma JV context, not from a verified MCA NIC/activity record. Note on HS: declared HS 293354 (heterocyclic compounds containing a pyrimidine/triazine ring — a chemical/API-type heading) is broadly consistent with a pharma API manufacturer, but HS was not the object of this check and is not a rejection ground per project rules. Recommended next step: re-run against MCA master data / GST portal once network access to registry sources is restored."
+}

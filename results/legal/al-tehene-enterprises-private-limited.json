@@ -1,0 +1,18 @@
+{
+ "name_input": "AL TEHENE ENTERPRISES PRIVATE LIMITED",
+ "legal_name": "AL TEHENE ENTERPRISES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAOCA0156E",
+ "pan_holder_type": "C — company (4th character of PAN is 'C', i.e. a company, not an individual/firm). NOTE: this is the PAN supplied in the input; it could NOT be independently verified against any public record in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry data could be retrieved. Tooling failed in this session: web_search returned 'Connection refused' (searx backend down) on both queries; direct fetches of registry aggregators were blocked or empty (zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, instafinancials.com 404, indiafilings.com 404, quickcompany.in 404); a direct DuckDuckGo HTML query timed out. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me here — NOT because they were found to be absent. No conclusion on existence, strike-off, liquidation or bankruptcy can be drawn, so the company is NOT rejected; it is left unverified pending a working registry lookup (MCA master data / GST portal search by the claimed PAN AAOCA0156E). The claimed PAN's 4th character 'C' is consistent with a private limited company, but that is a format check only, not confirmation that this PAN belongs to this entity. Role is 'unknown' — the claimed industry (power/energy) and HS 850421/850440 (liquid dielectric transformers; static converters) are consistent with either a manufacturer or a trader/importer, and nothing retrieved distinguishes them. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Per project rules, absence of data is recorded as null rather than estimated, and no rejection is made on the basis of missing information."
+}

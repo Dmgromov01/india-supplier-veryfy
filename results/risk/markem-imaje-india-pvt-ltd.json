@@ -1,0 +1,9 @@
+{
+ "name_input": "MARKEM-IMAJE INDIA PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend was unavailable for every query (searx connection refused), and direct fetches of the company site (markem-imaje.com), ZaubaCorp and IndianKanoon returned HTTP 403 / DNS failure. The OFAC Sanctions List Search page was reachable but is a JavaScript form that returns no name-query results via plain HTTP fetch, so no name screening could actually be executed; the page did confirm the SDN list was last updated 11/23/2026. Therefore sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List), Indian court cases with party role and status, regulator actions, negative news with dates, credit rating with date and status, and any evidence of supplies to Russia/CIS are all reported as null — NOT as 'no hits'. No claim in this record is verified; nothing was inferred or invented. Context only (not a verified finding, not a risk determination): the entity name corresponds to the Indian subsidiary of Markem-Imaje, a coding-and-marking business of Dover Corporation (US), which would ordinarily imply a US-parent compliance posture, but this was not confirmed from any source in this session. Per project rules, sanctions/court/criminal matters are never rejection grounds and are recorded neutrally; this record should be re-run when search access is restored before any decision is taken."
+}

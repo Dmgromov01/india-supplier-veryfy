@@ -1,0 +1,32 @@
+{
+ "name_input": "APOTEX RESEARCH PVT LTD; APOTEX RESEARCH PRIVATE LIMITED",
+ "declared_hs": "300490",
+ "actual_hs_list": [
+  "300490",
+  "300410",
+  "300420",
+  "300439",
+  "300449",
+  "300460",
+  "300431",
+  "300432",
+  "300439",
+  "300212",
+  "300215",
+  "300241",
+  "300242",
+  "300249",
+  "300390",
+  "294200",
+  "293499",
+  "293339",
+  "293359",
+  "293399",
+  "293499",
+  "300290"
+ ],
+ "match_status": "partial",
+ "product_summary": "Apotex Research Private Limited (Bangalore, Karnataka) is the Indian arm of Canadian generics group Apotex Inc. Per Apotex corporate site (apotex.com/global/about-us/global-reach): 'India sites including finished dose manufacturing and active pharmaceutical ingredient manufacturing'. Per apotex.com/global/about-us/manufacturing-excellence: group operates 'three active pharmaceutical ingredients (API) manufacturing sites' and produces 'approximately 25 billion finished doses annually'. Per apotex.com/global/portfolio/generics: '~460 generic products', dosage forms 'oral solid doses and suspensions, capsules, injectables, sprays, powders, inhalers, and drops'. So the real product lines are: (1) finished generic pharmaceutical formulations (tablets/capsules/suspensions/injectables/inhalers/drops) -> HS 3004xx; (2) active pharmaceutical ingredients / bulk drug substances -> HS 29xx (2933/2934/2942 etc.) or 3002 for biologicals; (3) R&D/analytical services (contract research) -> not a goods line at all, would be HS 9983xx services. No product-level catalogue for the Indian entity was retrievable (apotex.com/global/about-us/our-facilities/india returns 404), so the specific molecule list is not public on the corporate site.",
+ "role_hint": "manufacturer (group-owned manufacturing/R&D subsidiary of Apotex Inc.; no trader signs found on the corporate site)",
+ "comment": "HS 300490 is CORRECT for the finished-dose part of the business but only PARTIAL for the entity as a whole. Two gaps: (a) the declared single code 300490 covers only 'other medicaments put up in measured doses' - the site explicitly lists oral solids, capsules, suspensions, injectables, sprays, powders, inhalers and drops, which spread across 3004 subheadings (300410 penicillins, 300420 other antibiotics, 300431/300432/300439 hormones, 300449 alkaloids, 300460 containing alkaloids/other, 300490 residual) and injectables may fall under 3002/3004 depending on presentation; (b) the API manufacturing line at the India sites is NOT covered by 300490 at all - bulk APIs classify in Chapter 29 (2933xx, 2934xx, 2942) or 3002 for biologicals. Recommend correcting the declaration to a multi-code list led by 300490 plus the relevant 3004 subheadings and the Chapter 29 API codes. INDUSTRY MISCLASSIFICATION: the claimed industry 'Нефтегаз и химия' (oil & gas and chemicals) is wrong - this is a pharmaceutical manufacturer (pharma/API), not oil & gas; chemicals/API is only the secondary part. All product statements above are from Apotex corporate web pages only; no customs line, shipping bill or B-L was reviewed in this task, therefore every product line is marked 'заявлено, не подтверждено' at the shipment level. Per project rule 3, the HS mismatch is not a rejection ground - company retained, code corrected. Note: no registry, revenue or customs-volume research was performed in this task, per role scope."
+}

@@ -1,0 +1,66 @@
+{
+ "name_input": "THYSSENKRUPP INDUSTRIES INDIA PVT.LTD; THYSSENKRUPP INDUSTRIES INDIA PRIVATE LIMITED; TKIL INDUSTRIES PRIVATE LIMITED; THYSSENKRUPP INDUSTRIES INDIA P LTD",
+ "sanctions_hit": false,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case": "W.P.(C) 10616/2020 & 10617/2020 — M/S TKIL Industries Private Limited (formerly Thyssenkrupp Industries India Pvt Ltd) vs Union of India & Ors",
+   "role": "Petitioner",
+   "status": "Pending; listed repeatedly — orders 7 Aug 2024, 17 Mar 2025, 28 Jul 2025, 13 Nov 2025, 27 Mar 2026, 17 Sep 2026 (writ against Union of India, likely tax/regulatory; exact subject not confirmed from snippet)",
+   "source": "indiankanoon.org search 'TKIL Industries', sortby=mostrecent"
+  },
+  {
+   "court": "Madhya Pradesh High Court, Jabalpur",
+   "case": "WP No. 6803 of 2025 — M/S TKIL Industries Pvt Ltd (formerly Thyssenkrupp Industries India Pvt Ltd) vs Union of India",
+   "role": "Petitioner",
+   "status": "Filed 17 Mar 2025; outcome not confirmed",
+   "source": "indiankanoon.org, order dated 17 March 2025"
+  },
+  {
+   "court": "Delhi High Court",
+   "case": "DCM Shriram Limited vs TKIL Industries Private Limited (formerly Thyssenkrupp Industries India Private Limited)",
+   "role": "Respondent/Defendant",
+   "status": "Pending; order 28 Oct 2025 (Jasmeet Singh J.)",
+   "source": "indiankanoon.org, order dated 28 October 2025"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Application No. 5787 of 2026 in Suit No. 144 of 2024 — TKIL Industries Pvt Ltd (formerly Thyssenkrupp Industries India Pvt Ltd); CNR HCBM020328302026",
+   "role": "Applicant",
+   "status": "Pending; order 5 Oct 2026 (Abhay Ahuja J.)",
+   "source": "indiankanoon.org, order dated 5 October 2026"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Enkebee Infratech India Private Limited vs Thyssenkrupp Industries India Private Limited",
+   "role": "Respondent",
+   "status": "Pending; commercial order 23 Jul 2025",
+   "source": "indiankanoon.org, order dated 23 July 2025"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Malabar Erectors Projects and Plant Builders vs Thyssenkrupp Industries India Pvt Ltd",
+   "role": "Respondent",
+   "status": "Order 11 Aug 2021 (A.K. Menon J.)",
+   "source": "indiankanoon.org, order dated 11 August 2021"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "Crl.O.P.No.6071 of 2015 — M/s Thyssenkrupp Industries India Pvt Ltd vs The State",
+   "role": "Petitioner (criminal original petition)",
+   "status": "Order 20 Mar 2015 (R.S. Ramanathan J.); disposed/outcome not confirmed",
+   "source": "indiankanoon.org, order dated 20 March 2015"
+  },
+  {
+   "court": "Various (tax tribunals)",
+   "case": "Legacy tax litigation: Madras HC 15 Apr 2016 (State of Tamil Nadu); Bombay HC 16 Oct 2018 (Central Excise); CESTAT Bangalore 4 Aug 2005; ITAT Mumbai 17 Feb 2021 (ITA 1893/MUM/2015, AY 2010-11); Madras HC 13 Nov 2019 (Bank of India); Bombay HC 21 Aug 2003 (Sangamner Bhag Sahakari Sakhar)",
+   "role": "Mixed — petitioner/appellant and respondent",
+   "status": "Mostly concluded historical matters; ~165 total hits on Indian Kanoon for the former name",
+   "source": "indiankanoon.org search 'Thyssenkrupp Industries India' (165 results)"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No negative news, regulator action or enforcement item found in this pass. Search engines (Searx backend refused connections; Bing returned irrelevant/geo-mismatched results) could not be used reliably, so news coverage is NOT confirmed as clean — treat as unverified rather than absent. No OFAC SDN / Non-SDN hit: OFAC Sanctions List Search tool loaded (SDN list last updated 11/23/2026) but the name query could not be executed through the available interface, so the negative result is inferred from absence of any sanctions reference in court records and search output, not from a completed list query. UN/EU/UK/BIS lists not queried. Note: the company is a former thyssenkrupp Group entity now operating as TKIL Industries Private Limited — the German parent's name appears in the input, but no sanctions exposure of the Indian entity was identified.",
+ "rf_supply": "No evidence found of supplies to Russia or the CIS. Indian Kanoon full-text search for 'TKIL Industries' + 'Russia' returned zero matching results. No customs, B-L or contract record indicating RF/CIS direction was located. Status: not confirmed either way — absence of evidence, not evidence of absence.",
+ "note": "Risk-specialist scope only; legal identity, HS codes and shipment volumes deliberately not researched. Court exposure is ordinary commercial/tax litigation typical of an EPC/industrial plant contractor: multiple writ petitions against Union of India (Delhi HC W.P.(C) 10616 & 10617/2020, still active into Sep 2026; MP HC WP 6803/2025), contract disputes as respondent (DCM Shriram, Enkebee Infratech, Malabar Erectors), and a 2015 criminal original petition in Madras HC. Per project rules these are NOT rejection grounds and are recorded neutrally — the company remains in the database. No sanctions designation identified. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings action found in this pass; not public in the sources reached. News/regulator risk: unverified due to search-tool failure, not cleared. RF/CIS supply: no trace found. Recommend a follow-up pass with working search access to (a) complete OFAC/UN/EU/UK/BIS list queries, (b) confirm credit rating, (c) read the Delhi HC 17 Sep 2026 order to establish the subject matter of the long-running writ."
+}

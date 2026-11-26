@@ -1,0 +1,9 @@
+{
+ "name_input": "SAROJA PHARMA INDUSTRIES INDIA LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ОГРАНИЧЕНИЕ ДОСТУПА К ДАННЫМ: в этой сессии поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Bing и Google отдавали нерелевантную или пустую выдачу, zaubacorp вернул 403, mca.gov.in не резолвится. Поэтому по большинству полей — null, а не «чисто». Что удалось проверить фактически: (1) Санкции: страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыта 23.11.2026 — это JS-форма, прямой GET-запрос по имени не исполняется, поэтому подтверждённого результата скрининга по SDN/Non-SDN нет; скрининг по UN/EU/UK Consolidated/BIS Entity List выполнить не удалось (нет доступа к их поисковым интерфейсам). Санкционных записей в открытых источниках не найдено, но это НЕ подтверждённое отсутствие — требуется повторный скрининг. (2) Суды: Indian Kanoon — запрос \"Saroja Pharma\" дал 0 результатов; запрос \"Saroja Pharma Industries\" дал 4 документа (Jadala Traders v. Andhra Bank, Telangana HC 24.11.2021; R Janardhana Babu v. Managing Director, Karnataka HC 07.07.2017; A K A Majeed v. State of Karnataka, Karnataka HC 15.02.2019; Rohit Bhambari v. Jagdish, Delhi District Court 19.02.2013) — ни в одном компания не фигурирует как сторона, совпадение по ключевым словам. NCLT/NCLAT/SEBI/HC-базы отдельно не проверены. (3) Рейтинг: публичных кредитных рейтингов (CRISIL/ICRA/CARE/India Ratings/Brickwork/Acuite) не найдено; null. (4) Негативные новости: поиск не дал результатов из-за сбоя движков; null. (5) Поставки в РФ/СНГ: следов не найдено, но проверить таможенные и B-L записи не удалось — null. ВАЖНО по правилам проекта: null здесь означает «не проверено/нет публичных данных», а не «риска нет». Компанию не отклонять; повторный скрининг санкций и судов обязателен при восстановлении доступа к источникам."
+}

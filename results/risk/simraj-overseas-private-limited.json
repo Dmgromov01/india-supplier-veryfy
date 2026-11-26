@@ -1,0 +1,9 @@
+{
+ "name_input": "SIMRAJ OVERSEAS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING VERIFIED. All risk fields are null because no public source could be retrieved, not because the company is clean. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned only a redirect/consent interstitial; Bing returned entirely unrelated results (FIFA game sites, Chevrolet parts pages) for both queries, i.e. no usable hits; zaubacorp.com and thecompanycheck.com returned HTTP 403; OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and returned no query results via plain HTTP fetch. Consequently: (1) sanctions exposure — NOT screened against OFAC SDN/Non-SDN, UN, EU, UK or BIS Entity List; no hit found, but no screening was actually completed, so this must not be read as 'no sanctions'. (2) Indian court cases — no party role or status obtained; NCLT/NCLAT, High Court and e-courts records not checked. (3) Regulator actions / negative news — no dated items found or confirmed. (4) Credit rating — no CRISIL/ICRA/CARE/India Ratings/Acuite record located; status unknown. (5) Russia/CIS supply evidence — no customs, B/L, or contract evidence found; nothing to report either way. Per project rules, absence of retrieved data is not a rejection ground and no adverse inference is drawn; the company is neither cleared nor flagged on risk grounds. Recommended next step: re-run screening when search backend is restored, using direct registry access (MCA master data), e-courts/NCLT portals, and the OFAC/BIS/EU/UK consolidated lists via downloadable files rather than the JS search UI. Note also that the claimed PAN ABBCS8711M and the claimed industry ('Металлургия и горнодобыча') were NOT verified — out of scope for this role and unverifiable with available tools."
+}
