@@ -1,0 +1,18 @@
+{
+ "name_input": "B M HOUSE INDIA LTD",
+ "legal_name": "BM HOUSE INDIA LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (2 attempts); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned 404; Google returned HTTP 429; Bing returned only generic/irrelevant results for every query variant tried ('B M HOUSE INDIA LIMITED' CIN, GSTIN, granite/marble). Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public in any source I could reach, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings located. Role recorded as 'unknown' rather than manufacturer/trader because the declared HS codes (251520, 251611, 251612 - monumental/building stone, granite blocks; 680223 - worked granite) suggest stone working, but no registry document confirms manufacturing plant vs trading activity. state_claimed was empty in the input, so no state mismatch can be assessed. Per project rules this company is NOT rejected: rejection requires positive proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found - the entity may well exist under a slightly different legal name (e.g. 'B M House India Private Limited' or a proprietorship/partnership trading as 'BM House India'), which is common for Indian stone traders. Recommended next step: manual MCA master-data search on the exact spelling variants and a GST portal 'Search Taxpayer' lookup before any verdict; do not treat this record as verified."
+}
