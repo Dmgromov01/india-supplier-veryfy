@@ -1,0 +1,9 @@
+{
+ "name_input": "ORNARE HEALTHLIFE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on every attempt, and Google returned HTTP 429. Direct registry lookups failed: ZaubaCorp 403, TheCompanyCheck 403, Tofler 404, InstaFinancials 404 for both 'Ornare Healthlife Private Limited' and the claimed legal name 'Sunita Hydrocolloids Private Limited'. A Bing query for both names returned only unrelated hits (Brazilian furniture brand 'Ornare', ornare.in laminates) — no Indian entity matching either name. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form; no name query could be executed via GET, so no SDN/Non-SDN screening result was obtained. Consequently: sanctions exposure = null (NOT screened — do not read as 'clear'); Indian court cases (party role/status) = null (not checked); regulator actions / negative news with dates = null (none found, but search was non-functional); credit rating with date/status = null (no public rating located); evidence of supplies to Russia/CIS = null (no records found). Per project rules, absence of found data is recorded as null, not as a negative finding. Also note the mismatch between the input name and the claimed legal name — this is a legal-identity matter outside this role's scope and should be resolved by the identity/HS researcher before any risk conclusion is drawn. Recommend re-running this company once search access is restored."
+}
