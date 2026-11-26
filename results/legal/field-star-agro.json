@@ -1,0 +1,18 @@
+{
+ "name_input": "Field Star Agro",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни одна публичная запись не найдена. Ход проверки: (1) web_search (DuckDuckGo/searx) недоступен — 'Connection refused' на всех запросах; (2) zaubacorp.com — HTTP 403 (блокировка бота) на /companysearchresults/FIELD%20STAR%20AGRO и на /company/FIELD-STAR-AGRO; (3) thecompanycheck.com/companysearch/field-star-agro — HTTP 404; (4) instafinancials.com/search — HTTP 403; (5) google.com/search — HTTP 429; (6) duckduckgo.com/html — timeout; (7) bing.com по точным фразам \"Field Star Agro\", \"Field Star Agro\" India GST OR CIN OR \"Varun Agarwal\", \"Fieldstar Agro\" OR \"Field Star Agro Industries\" — релевантных результатов нет, выданы словарные статьи и медицинские страницы, т.е. точного совпадения по названию в индексе не обнаружено. Вывод по правилам проекта: НЕ отклоняем — отсутствие найденной записи не равно доказательству несуществования юрлица (правило 3: rejected только при подтверждённой ликвидации/банкротстве/struck off). Статус: не идентифицировано, требуется ручная проверка по MCA master data / GST-порталу по названию и по имени заявленного лица. ВНИМАНИЕ на несоответствия во входных данных: (а) в поле legal_claimed указано \"VARUN AGARWAL\" — это имя физлица, а не наименование юрлица, поэтому точное юридическое имя компании неизвестно; (б) заявленный HS 820190 (ручные инструменты: лопаты, заступы, кирки, топоры) и 843280 (сельхозтехника прочая) не соответствуют заявленной отрасли \"Авиастроение и транспорт\" — вероятно, отрасль указана ошибочно, а профиль компании скорее агро-инструмент/сельхозтехника (что согласуется со словом 'Agro' в названии). По правилу 3 несоответствие HS не является основанием для отклонения: при подтверждении юрлица код исправляется на фактический, вердикт accepted_hs_corrected. PAN, CIN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус, выручка FY25/FY26 — null: не публичны/не найдены, не выдумывались. Роль (manufacturer/trader) не определена — null-эквивалент 'unknown'. Фактичность отгрузок в рамках данной роли не проверялась (вне мандата: customs/B-L и каталоги не исследуются)."
+}

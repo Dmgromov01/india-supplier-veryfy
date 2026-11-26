@@ -1,0 +1,18 @@
+{
+ "name_input": "SUBHASH SADASHIV SATHE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификатор в батче — имя физического лица (Subhash Sadashiv Sathe), а не название компании: это либо sole proprietor / individual, либо неполная запись. CIN/LLPIN у ИП не существует по определению, поэтому MCA-статус и дата инкорпорации неприменимы (null). PAN и GSTIN не подтверждены: ни один публичный источник не удалось прочитать. Технические ограничения: web_search вернул 'Connection refused' (searx недоступен); DuckDuckGo (html и lite) — timeout; Google — HTTP 429; Bing отдал нерелевантную выдачу (запрос не соблюдён, результаты про постороннюю персону/OnlyFans); zaubacorp.com и instafinancials.com — HTTP 403; search.mca.gov.in и gstinsearch.in — DNS failure. Итог: ни юридическое лицо, ни PAN, ни GSTIN, ни выручка не верифицированы — все поля null, ничего не выдумано. Отклонение НЕ применяется: отсутствие данных в этом прогоне не равно доказательству несуществования юрлица (правило 3). Роль оставлена unknown, т.к. нет ни одного подтверждённого признака производителя или трейдера. Заявленный HS 071040 (сушёные бобовые, товарная группа 0710 — овощи замороженные/бобовые) не проверялся по существу: по правилу 3 несоответствие HS не является основанием для отклонения. Рекомендация: повторить проверку при восстановлении доступа к поиску, запросить у поставщика PAN и GSTIN напрямую — по 4-му символу PAN (P — individual/проприетор, C — company, F — partnership firm) можно будет однозначно определить тип держателя и наличие юрлица."
+}

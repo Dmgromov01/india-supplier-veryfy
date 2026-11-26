@@ -1,0 +1,31 @@
+{
+ "name_input": "Advancein organics LLP",
+ "declared_hs": "170250;282739",
+ "actual_hs_list": [
+  "29181600 (Glucono Delta Lactone / gluconic acid derivatives)",
+  "28352600 (Tri Calcium Phosphate / calcium phosphates)",
+  "28352900 (Mono/Diammonium phosphate, monopotassium phosphate, monosodium phosphate, tetrasodium pyrophosphate, magnesium phosphate tribasic)",
+  "29181100 (Lactic acid and its salts)",
+  "29159000 (Calcium propionate, sodium propionate, propionates)",
+  "29152900 (Calcium acetate, zinc acetate, potassium acetate)",
+  "29171100 (Sodium oxalate / oxalates)",
+  "29181500 (Zinc citrate / citrates)",
+  "29054900 (Xylitol, erythritol - polyhydric alcohols)",
+  "29224900 (Citrulline, glycine chelates, amino acids)",
+  "29232000 (Lecithins/phospholipids - if any)",
+  "28363000 (Sodium bicarbonate/carbonate)",
+  "28366000 (Potassium carbonate)",
+  "29163100 (Sodium benzoate)",
+  "29252900 (Creatine monohydrate)",
+  "29362900 (Vitamins & vitamin premixes)",
+  "29241900 (Amino acid derivatives)",
+  "38249900 (Chelated micronutrients / EDTA chelates, ferric EDTA)",
+  "38246000 (Sorbitol solutions - if offered)",
+  "17025000 (chemically pure fructose - declared)",
+  "28273900 (other chlorides - declared)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Two overlapping catalogues for the same Delhi entity. (1) advanceinorganics.in (footer: 'ADVANCEIN ORGANICS LLP', B-268 North Ex Mall, Rohini Sector-9, Delhi-110085) lists: Tri Calcium Phosphate, Glucono Delta Lactone, Xylitol, Erythritol, Citrulline, Sodium Benzoate, Calcium Propionate, Mono Ammonium Phosphate, Mono Potassium Phosphate, Tetra Sodium Pyrophosphate, Creatine Monohydrate, Mono Sodium Phosphate; positioned as food ingredients for bakery/bread/cookie/beer/sausage applications; self-described 'manufacturer, importer, trader and exporters'. (2) IndiaMART storefront 'Advance Inorganics' (B-215 IFC Holambi Kalan, Narela Phase-1, Delhi-110040; GST 07AAGPK3622A1ZB; IEC 0502065940; contact Abhishek Gupta) lists: phosphate chemicals (zinc phosphate, TCP FCC food grade, monocalcium phosphate), lactate/propionate/caseinate (DMG emulsifier, GDL, lactic acid food grade), artificial sweeteners (Neomalt 200X, crystalline fructose 25kg, erythritol), acetates & oxalates (potassium carbonate granular, sodium oxalate, potassium acetate anhydrous), agro chemicals (ferric EDTA 12%, copper glycinate, ferrous glycinate), laboratory chemicals (magnesium phosphate tribasic, zinc acetate), vitamins & amino acids, food additives. Note the IndiaMART page states 'Legal Status of Firm: Proprietorship' while the website footer says LLP - entity-form inconsistency worth flagging, and the two addresses/GST differ from the LLP address, so the IndiaMART listing may be a sister/legacy proprietorship concern.",
+ "role_hint": "manufacturer_trader (self-described manufacturer + importer + trader + exporter; broad multi-category catalogue with third-party brands such as 'Neomalt 200X' and resold vitamins/amino acids is a strong trader signal)",
+ "comment": "Declared 170250 (chemically pure fructose) is corroborated only indirectly: the IndiaMART catalogue offers 'Fructose Crystalline 25kg' as an artificial-sweetener line item, so the code is plausible but the product is a minor catalogue item, not a core line - status: заявлено, не подтверждено (no customs line available to this researcher). Declared 282739 (other chlorides) is NOT corroborated by either catalogue: no chloride product (CaCl2, ZnCl2, KCl, NH4Cl) appears on the website or the IndiaMART range, so this code looks wrong/legacy - status: wrong (not found in product range). The bulk of the real range is food additives and inorganic/organic fine chemicals: phosphates (2835), gluconates/lactates (2918), propionates/acetates (2915), polyols xylitol/erythritol (2905), amino acids and creatine (2922/2925), benzoate (2916), chelates (3824). Industry classification 'Продукты питания и FMCG' is only partly right: the company is a food-ingredient/fine-chemical supplier, not an FMCG brand owner - the correct framing is 'химия / пищевые ингредиенты (food additives & industrial chemicals)'. Product lines entirely missing from the declaration: phosphates (largest line), glucono delta lactone, xylitol/erythritol, calcium propionate, sodium benzoate, acetates/oxalates, chelated agro micronutrients, vitamins and amino acids. Per project rule 3 the HS mismatch is not a rejection ground: company is retained, declared codes corrected to the actual range above, verdict accepted_hs_corrected. All product data comes from the company's own website and IndiaMART storefront only - no shipment or customs record was consulted or found, so every line above is 'заявлено, не подтверждено'."
+}

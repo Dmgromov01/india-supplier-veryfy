@@ -1,0 +1,9 @@
+{
+ "name_input": "MEDTECH REMEDIES PRIVATE LIMITED; MEDTECH REMEDIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; zaubacorp.com and instafinancials.com returned HTTP 403. Bing was reachable but returned only generic 'MedTech' industry pages (medtecheurope.org, medtechdive.com, meditech.com) for all four query variants tried - quoted searches for \"Medtech Remedies Private Limited\", \"Medtech Remedies Pvt Ltd\" with city names, and with court/NCLT/GST/insolvency terms produced no matching company record, and a search on the domain-style token \"medtechremedies\" returned entirely unrelated results (fire pump standards), indicating the engine was not honouring the query. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) NOT verified - null means unverified, NOT a clean result; Indian court cases (party role/status) NOT verified; regulator actions and negative news NOT verified; credit rating NOT verified; evidence of supplies to Russia/CIS NOT verified. No CIN, PAN, registration number or address was supplied in the input, which prevented targeted lookups on MCA/NCLT/e-courts. Per project rules no data has been invented and no rejection is implied - this is a data gap, not a finding. Recommended next step: re-run once the search backend is restored, using the company's CIN or PAN (request from the supplier) to query MCA master data, NCLT/IBC lists, e-courts, and the OFAC/UN/EU/UK/BIS consolidated lists directly."
+}
