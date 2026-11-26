@@ -1,0 +1,9 @@
+{
+ "name_input": "Shree Karni Overseas",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка рисков НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) недоступен — 'Connection refused' / timeout; Bing и Google отдают заглушку или нерелевантную выдачу без учёта кавычек (по запросу \"Shree Karni Overseas\" возвращались IMDb, Wikipedia, byshree.com); Brave — HTTP 429; zaubacorp.com — HTTP 403. Поиск по PAN AOBPR6428Q не дал ни одного релевантного результата (выдача — сайты Microsoft), т.е. подтвердить связь PAN с компанией не удалось. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, программный запрос по имени через http_get невозможен — совпадений не проверено, поэтому sanctions_hit = null (НЕ означает 'чисто'). Судебные дела (eCourts, NCLT, High Court Calcutta), действия регуляторов (RBI/DGFT/SEBI), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверялись — все поля null, данные не выдумывались. Требуется повторный прогон при восстановлении доступа к поиску. Отклонять по этим основаниям нельзя (правило 2); статус риска — 'не проверено', а не 'условно принят'."
+}

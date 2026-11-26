@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S POLY MEDICURE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, data collection largely failed due to tooling outage. (1) Sanctions: could not verify against OFAC SDN/UN/EU/UK/BIS lists — web_search backend returned 'Connection refused' on all attempts and Bing/DDG HTML fallbacks returned irrelevant results (Poly/HP headsets, Florida Poly). No sanctions listing found, but this is NOT a confirmation of absence; treat as unverified, not as 'clean'. (2) Court cases: no source retrieved; Indian court records (e.g. eCourts/NCLT) not queried successfully — null, not public via available tools today. (3) Credit rating: CRISIL ratings-list URL returned 404, India Ratings entity search returned only a JS shell, BSE page returned only a header — no rating action, agency, or date could be confirmed. null. (4) Regulator actions / negative news: none retrieved; null. (5) Russia/CIS supply evidence: none retrieved; null — absence of evidence here is due to failed search, not a finding. (6) Only verified fact: the company's own website polymedicure.com is live and presents it as a medical-devices manufacturer (infusion therapy, critical care, dialysis, cardiology, vascular access, oncology, transfusion, anaesthesia, urology, wound drainage, gastroenterology) with an Investor Information section — i.e. a listed medical-device maker, not a petrochemical/chemical trader as the claimed industry 'Нефтегаз и химия' suggests. Per project rules this industry/HS mismatch is NOT a rejection ground and is outside my remit (legal identity/HS handled by another role); flagging only as context. Recommendation: re-run sanctions, court and rating checks when search tooling is restored before any decision; do not treat nulls as clearance."
+}

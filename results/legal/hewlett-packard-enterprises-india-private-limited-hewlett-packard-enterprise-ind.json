@@ -1,0 +1,18 @@
+{
+ "name_input": "HEWLETT PACKARD ENTERPRISES INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; Hewlett Packard Enterprise India Private Limited; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISES INDIA PVT LTD ; Hewlett Packard Enterprise India Private Limited; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PVT LTD ; HEWLETT PACKARD ENTERPRISE INDIA PVT LTD; HEWLETT PACKARD ENTERPRISES INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PVT LIMITED; HEWLETT PACKARD ENTERPRISES INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISES INDIA (P) LTD; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; M/S HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED",
+ "legal_name": "HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AADCH5900Q",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'H' = surname initial of the entity name, consistent with 'Hewlett')",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Madhya Pradesh",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: all registry sources were unreachable in this session. web_search returned 'Connection refused' (searx backend down); zaubacorp.com, thecompanycheck.com, instafinancials company page, tofler and mca.gov.in all returned HTTP 403/404; Bing/Google result pages returned only generic HP/HPE corporate pages with no CIN, GSTIN, incorporation date or MCA status. Therefore CIN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public in this session, not invented. PAN AADCH5900Q is carried over from the input only; its format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' indicates a company holder, but it was NOT independently confirmed against an official record. State mismatch unresolved: input claims Madhya Pradesh, while HPE India's operating/registered presence is commonly reported in Karnataka (Bengaluru) - this could not be verified, so state_registered is null rather than asserted. Role assessed as manufacturer_trader on the basis of HPE being a global OEM that also sells through Indian distribution/import channels; this is a business-model judgement, not a registry finding. Revenue FY25/FY26 null: no audited accounts or MCA filings were retrievable. No rejection grounds established - the entity is a well-known operating HPE subsidiary and there is no evidence of strike-off, liquidation or bankruptcy; absence of data here is a tooling failure, not a negative finding. Recommend re-running registry lookup (MCA master data / GST portal) when search access is restored."
+}

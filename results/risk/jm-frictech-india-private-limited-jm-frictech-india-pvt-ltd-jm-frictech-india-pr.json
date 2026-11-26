@@ -1,0 +1,9 @@
+{
+ "name_input": "JM FRICTECH INDIA PRIVATE LIMITED; JM FRICTECH INDIA PVT LTD; JM FRICTECH INDIA PRIVATE LIMITED; JM FRICTECH INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: the primary web_search backend returned 'Connection refused' on every query; fallback fetches of Google/DuckDuckGo were blocked (403 / redirect wall) and Bing returned only generic, non-matching results (JM Bullion, Johns Manville, LinkedIn profiles) for the exact-string queries '\"JM Frictech India\"', '\"Frictech\" \"Private Limited\"', '\"Frictech\" brake lining India'. OFAC Sanctions List Search page was reachable but is a JS form and cannot be queried via plain HTTP GET, so no SDN/consolidated-list screening result was obtained. Therefore: sanctions_hit = null (NOT screened — do not read as 'clear'); court_cases = null (no Indian court/registry source, e.g. eCourts/NCLT, could be retrieved); rating = null (no CRISIL/ICRA/CARE/India Ratings page found); news_risk = null (no negative-news item located, but absence of search results is not evidence of absence); rf_supply = null (no export/B-L or customs record referencing Russia or CIS found — and none could be searched). No claim in this record is sourced; nothing here should be treated as a clearance. Recommend re-running this company once the search backend is restored, with targeted checks on: OFAC SDN + consolidated list, BIS Entity List, EU/UK consolidated lists, eCourts/NCLT by CIN, and credit-rating agency sites. Per project rules, no rejection is proposed on this basis — the company stays in the database pending a completed risk check."
+}

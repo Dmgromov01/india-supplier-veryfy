@@ -1,0 +1,18 @@
+{
+ "name_input": "FOSS INDIA",
+ "legal_name": "FOSS INDIA PRIVATE LIMITED (as claimed; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": "AABCF1735D (as claimed by input; not verified against any public record)",
+ "pan_holder_type": "Company (4th character 'C' in the claimed PAN AABCF1735D is consistent with a company holder — format check only, holder not verified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused on both queries), and every attempt to reach public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, Google returned only a redirect stub, DuckDuckGo timed out, and Bing returned only generic 'FOSS' results (fossanalytics.com, itsfoss.com, foss.com) with no Indian corporate record. The company's own site (fossanalytics.com) contact page loaded but exposed no Indian entity details, and the India local-site page returned HTTP 500. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public in any source I could reach, not because they do not exist. No audited accounts or MCA filings were accessible, so revenue FY25 and FY26 are null. Role is 'unknown': the input claims 'Металлургия и горнодобыча' (metallurgy/mining) with HS 8434.90 (dairy/agricultural machinery parts), but the only 'FOSS' entity with an Indian presence that surfaced is the Danish FOSS analytical (food/grain analysis instruments) group, which would make the claimed industry and HS code inconsistent with the name — this needs a fresh registry lookup before any verdict. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity simply could not be verified with the tools available. Recommend re-running with working search access and a direct MCA master-data check."
+}

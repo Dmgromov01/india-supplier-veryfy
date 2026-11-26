@@ -1,0 +1,18 @@
+{
+ "name_input": "Shree Karni Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AOBPR6428Q",
+ "pan_holder_type": "P — individual (sole proprietor). 4th character 'P' denotes an individual person, so this PAN belongs to a proprietor, not to a company/firm. The PAN is the one supplied in the input and could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public record retrieved. The search backend (DuckDuckGo/searx) was unreachable ('Connection refused') and Bing/Google returned only irrelevant results for the exact-phrase queries '\"Shree Karni Overseas\" GSTIN', '\"Shree Karni Overseas\" \"West Bengal\" proprietor' and '\"AOBPR6428Q\"'. Registry aggregators blocked access: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, tofler.in search returned 404. Consequently no CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed. IMPORTANT STRUCTURAL POINT: the PAN supplied (AOBPR6428Q) has 'P' as its 4th character, which is the individual/proprietor holder type — this is consistent with 'Shree Karni Overseas' being a sole-proprietorship trade name of the person named in the input (Varun Kumar Rathi) rather than a registered company. A proprietorship has no CIN/LLPIN and no MCA status by definition, so those fields are legitimately null rather than merely unfound. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, therefore the entity is NOT rejected — it is left unverified. Revenue FY25/FY26: null, because a proprietorship files no audited accounts publicly and no official filing was accessible. Role: unknown — no registry or GST record was obtained to establish manufacturer vs trader. Recommended next step: re-run with a working search backend and check the GST portal (gst.gov.in search by PAN AOBPR6428Q) and the West Bengal GST jurisdiction records to confirm the trade name, GSTIN and registration status."
+}

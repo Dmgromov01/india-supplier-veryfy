@@ -1,0 +1,20 @@
+{
+ "name_input": "HEWLETT PACKARD ENTERPRISES INDIA PRIVATE LIMITED; HEWLETT PACKARD ENTERPRISE INDIA PRIVATE LIMITED; ... (all 25 spelling variants)",
+ "declared_hs": "847160",
+ "actual_hs_list": [
+  "847150",
+  "847149",
+  "847170",
+  "851762",
+  "852351",
+  "847330",
+  "850440",
+  "940179",
+  "854442",
+  "000000"
+ ],
+ "match_status": "partial",
+ "product_summary": "HPE India Pvt Ltd is the Indian sales/service arm of Hewlett Packard Enterprise Company (US, NYSE: HPE). Product lines per corporate disclosure (Wikipedia/HPE 10-K summary, hpe.com): (1) Compute — HPE ProLiant DL/ML/BL rack, tower and blade x86 servers, HPE Synergy composable systems, HPE Superdome Flex and Cray/HPE Apollo & Cray EX supercomputers (HPC & MCS division); (2) Storage — HPE Alletra, Primera, Nimble, MSA arrays, StoreOnce backup appliances, tape libraries; (3) Intelligent Edge — Aruba/HPE Networking wireless access points, controllers, CX switches, Silver Peak/SD-WAN; (4) HPE GreenLake private-cloud/consumption hardware bundles; (5) Services, support and consulting. Note: hpe.com/in/en pages were unreachable from this environment (timeouts), so the product list is taken from the corporate-level disclosure (Wikipedia article on Hewlett Packard Enterprise, retrieved 2026) and not from the India entity's own catalogue — no India-specific product page could be read.",
+ "role_hint": "manufacturer_trader — global OEM (manufacturer) but the Indian entity is primarily a sales/marketing, import-and-distribution and service organisation; no evidence found of local manufacturing of the listed hardware.",
+ "comment": "Declared HS 847160 is the pre-2017 (HS 2012) subheading for 'input or output units, whether or not containing storage units in the same housing' — i.e. keyboards, mice, printers, monitors. Under HS 2017/2022 this heading was split: 847160 no longer exists as such; input/output units now fall under 847160 only in older national tariffs, while the current WCO text uses 8471.60 for 'input or output units' in HS 2017 and 8471.60 was retained in HS 2022 — however the declared code does not cover the company's core lines. Correct mapping: servers/CPU-processing machines → 8471.50 (processing units other than 8471.41/49); supercomputers/HPC → 8471.49 or 8471.50; storage arrays and disk subsystems → 8471.70; network switches/routers/wireless APs → 8517.62; solid-state storage media → 8523.51; server spare parts/boards → 8473.30; power supplies/UPS → 8504.40; server racks/enclosures → 9401.79 or 8538; cables → 8544.42. Verdict: PARTIAL — 847160 is a legitimate HPE product code (keyboards, mice, monitors, KVM consoles are sold by HPE) but it covers only a marginal accessory slice of the portfolio and misses the dominant server/storage/networking lines. Per project rule 3 this is NOT a rejection ground: company is kept, code corrected to the actual mix (847150 primary, plus 847170, 851762). Industry classification 'IT и электроника' is correct at the sector level but too coarse — the entity is enterprise datacenter infrastructure, not consumer IT/electronics. Trader signs: the Indian entity operates as importer/distributor of US-manufactured hardware plus services; the declared single 6-digit code is typical of a trader declaration rather than a manufacturer's BOM. All product lines above are 'заявлено, не подтверждено' — no customs line, invoice or shipping bill was available to this researcher (customs/registry research explicitly out of scope for this role). No public India-entity catalogue page could be retrieved (hpe.com/in timed out), so even the India-specific product mix is unverified."
+}

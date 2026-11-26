@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S POLY MEDICURE LIMITED",
+ "legal_name": "Poly Medicure Limited",
+ "cin_llpin": "L51100DL1992PLC050166 (unverified — MCA/Zauba/TheCompanyCheck blocked with HTTP 403; CIN pattern consistent with a 1992 Delhi-registered public limited company, but not confirmed from an official filing in this session)",
+ "pan": "AAACP3891P (as claimed in input; not independently verified against an official document)",
+ "pan_holder_type": "Company (4th character 'P' = individual PAN; for a company the 4th character should be 'C'. The claimed PAN AAACP3891P therefore does not match a company holder type — flag for correction, do not treat as confirmed)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Delhi (per CIN prefix L51100DL — unverified); manufacturing plants reported in Uttarakhand/Haryana/Rajasthan but registered office state not confirmed from an official source",
+ "state_claimed": "Uttarakhand",
+ "mca_status": "Active — listed on NSE (POLYMED) and BSE (531768) with continuous quarterly filings through Sep 2026 per Screener.in; no strike-off/liquidation/insolvency indication. MCA master data page not directly readable (403).",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 1601,
+ "revenue_fy26_cr": 1662,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/POLYMED/), Standalone P&L, Sales Mar 2025 = ₹1,601 Cr and Mar 2026 = ₹1,662 Cr; consolidated figures on same source: FY25 ₹1,669 Cr, FY26 ₹1,875 Cr. Derived from the company's filed audited results as aggregated by Screener; the original audited PDF was not opened in this session.",
+ "note": "Entity exists and is an active listed public limited company (NSE: POLYMED, BSE: 531768), so no rejection ground applies. Legal name confirmed as 'Poly Medicure Limited' (input 'M/S POLY MEDICURE LIMITED' is the trade/prefix form). Two data issues to correct: (1) the claimed PAN AAACP3891P has 'P' as 4th character, which denotes an individual — a company PAN must have 'C' in that position, so the PAN is either mistyped or belongs to a proprietor; (2) registered office is Delhi per the CIN prefix, not Uttarakhand — Uttarakhand is a plant/manufacturing location, so state_claimed should be corrected to Delhi (registered) with Uttarakhand as operating state. GSTIN and GST status could not be retrieved: GST search portals (gstsearch.in, etc.) returned 404/403 and no public profile page was readable within the tool budget — recorded as null rather than guessed. Date of incorporation not confirmed from an official source (CIN indicates 1992) — null. Role is manufacturer (own plants, 200+ SKUs of medical devices), not a trader. HS codes declared in the input (293399, 294200, 392350, 848180) are chemical/plastic/valve codes and do not match the company's actual medical-disposables portfolio — per project rules this is not a rejection ground; the company stays in the base and the HS code should be corrected to the actual medical-device codes. Revenue figures are standalone; consolidated FY25 ₹1,669 Cr / FY26 ₹1,875 Cr if group-level turnover is required."
+}

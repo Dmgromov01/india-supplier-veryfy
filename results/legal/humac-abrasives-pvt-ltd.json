@@ -1,0 +1,18 @@
+{
+ "name_input": "Humac Abrasives Pvt. Ltd",
+ "legal_name": "HUMAC ABRASIVES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AABCH9880R",
+ "pan_holder_type": "C — company (4th character 'C' in AABCH9880R indicates a company holder); value taken from input, not independently verified against MCA/PAN records",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search tool (DuckDuckGo) returned 'Connection refused' on all queries, and fallback fetches of Google/Bing returned unrelated results. Direct reads of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) and mca.gov.in all returned HTTP 403/404, so no CIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Legal name and PAN are as supplied in the input; PAN holder type is inferred from the 4th character ('C' = company) per PAN format rules, not from a fetched record. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, therefore the company is NOT rejected — status is 'unverified, data not public/accessible in this session'. Revenue FY25/FY26 left null per rule 4 (no audited accounts or official filings retrieved). Role left 'unknown' — no registry/legal evidence of manufacturing vs trading activity was obtained. Recommend re-running with working search access or MCA master-data lookup before any verdict."
+}

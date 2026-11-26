@@ -1,0 +1,21 @@
+{
+ "name_input": "PATSON FOODS INDIA PRIVATE LIMITED",
+ "declared_hs": "070960;080450;081190;100630",
+ "actual_hs_list": [
+  "200799 (jams, fruit purees/pulps - mango, guava pulp; jams)",
+  "200290 (tomato paste/puree, canned chopped tomato - prepared/preserved tomatoes)",
+  "200190 (pickles, chutneys, vegetables in brine, patra, curried saag, undhiyu - vegetables preserved in vinegar/acetic acid)",
+  "200990 (sharbat/syrup - fruit juices mixtures, non-alcoholic beverages base)",
+  "210320 (ketchup and sauces, tomato ketchup)",
+  "170114 / 170199 (natural jaggery - cane sugar, unrefined)",
+  "200799 (mango/guava pulp - fruit pulp, otherwise prepared)",
+  "070960 (chillies/peppers - only as raw input, not evidenced as export line)",
+  "080450 (guavas/mangoes fresh - only as raw input, not evidenced as export line)",
+  "081190 (frozen fruit - not evidenced on site)",
+  "100630 (semi-milled/wholly milled rice - not evidenced on site)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт patsonfoods.com (главная, меню 'Our Products'): Fruit Pulp (Kesar/Alphonso/Totapuri mango pulp, guava pulp); Pickles (hot, sweet, Gujarati); Canned Vegetables (tomato chopped, tomato paste, tomato puree, peeled tomato, patra, curried sarso ka saag, curried Surti undhiyu); Chutneys (sweet mango, tamarind, tamarind&date, tomato, lime chilli, mint, spicy mango, pineapple); Jams (mixed fruit, mango, pineapple, strawberry, fig, orange, apricot); Sharbat/Syrup; Natural Jaggery; Ketchup & Sauces; Pickles in Brine; Vegetables in Brine. Адрес: 'Rasanand House', Block 887/888/905, Vada Road NH-48, Sisodara (Ganesh), Navsari 396463, Gujarat. Заявлено: Govt. Recognized Export House, BRCGS Std 8.0, ISO 22000:2018, USFDA, WHO-GMP; экспорт в UK, EU, USA, Canada, Australia, NZ, Singapore, Far East, Africa, Middle East.",
+ "role_hint": "manufacturer (сайт позиционирует как 'largest manufacturer and Exporter in Gujarat', собственные производственные мощности в Навсари; признаков трейдера не выявлено)",
+ "comment": "HS-код в декларации не соответствует фактическому ассортименту — компания сохраняется в базе, код исправляется (вердикт accepted_hs_corrected, правило 3). Декларированы сырьевые/первичные коды (070960 перец/чили, 080450 гуава/манго свежие, 081190 замороженные фрукты, 100630 рис), тогда как реальная продукция — глубоко переработанные консервы и соусы: джемы/пюре (2007), томатная паста и консервированные томаты (2002), маринады/чатни/овощи в рассоле (2001), шарбат (2009), кетчуп и соусы (2103), джаггери (1701). Код 100630 (рис) вообще не подтверждается сайтом — рис в ассортименте отсутствует; 081190 (заморозка) и 070960/080450 как товарные позиции экспорта также не подтверждены (перец/манго/гуава фигурируют только как сырьё для пюре и чатни). Отраслевая классификация 'Продукты питания и FMCG' корректна, но по сути это переработчик плодоовощных консервов (fruit & vegetable processing), а не торговля FMCG. Признаков трейдера нет. Все позиции ассортимента — 'заявлено, не подтверждено': таможенных/B-L записей в рамках этой проверки не исследовалось (по заданию), сайт и каталог фактом отгрузки не считаются. Внутренние подстраницы сайта (/our-products/, /about-us/, /contact-us/) отдают 404, поэтому детализация по отдельным SKU взята только с главной страницы; поисковый бэкенд был недоступен, IndiaMART отдал 429 — независимого каталога подтвердить не удалось. PAN/CIN/выручка не проверялись (вне роли)."
+}

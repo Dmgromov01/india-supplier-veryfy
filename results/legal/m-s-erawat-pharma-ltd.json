@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S ERAWAT PHARMA LTD",
+ "legal_name": "ERAWAT PHARMA LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AAACE3757F",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'E' = individual/company as per PAN structure — holder type consistent with a body corporate, but PAN not verified against any public registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Madhya Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed: the web_search backend returned 'Connection refused' on all attempts, and every public registry mirror tried (zaubacorp.com, thecompanycheck.com, falconebiz.com, mca.gov.in — HTTP 403; indiafilings.com — 404; quickcompany.in — timeout; instafinancials.com — returned only site boilerplate, no company data). Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT invented. PAN AAACE3757F is carried over from the input only; the 4th character 'C' indicates a company-type holder, which is consistent with the claimed legal form 'ERAWAT PHARMA LIMITED', but the PAN was not cross-checked against any official record. No audited accounts or MCA filings were accessible, so revenue FY25 and FY26 are null. Role cannot be determined from registry data alone (declared HS codes 130239/392390/842230 span food thickeners, plastic packaging and filling machinery, which is not conclusive of manufacturer vs trader) — set to 'unknown'. Per project rules the company is NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity simply could not be verified with the tools available. Recommend re-running verification when the search backend is restored, using MCA master data by CIN/PAN and the GST portal for GSTIN status."
+}
