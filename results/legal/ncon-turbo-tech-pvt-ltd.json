@@ -1,0 +1,18 @@
+{
+ "name_input": "NCON TURBO TECH PVT LTD",
+ "legal_name": "NCON TURBO TECH PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; Bing HTML fallback returned only unrelated results (Thanksgiving store hours, ChatGPT, Mercari, Microsoft) for every query variant tried; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials, quickcompany and tofler returned HTTP 404 for the guessed slug URLs. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT because they are absent, but because they were not publicly retrievable within the tool budget. No numbers, CIN, PAN or GSTIN are invented. Per project rules the entity is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established, and absence of evidence is not evidence of absence. Role left as 'unknown' - the claimed HS codes 8406 82 / 8411 81 / 8411 82 (steam turbines, turbo-jets/turbo-propellers, other gas turbines) suggest an engineering/turbomachinery supplier, but no registry or filing evidence confirms manufacturer vs trader status. Declared industry 'Энергетика' (power) is consistent with those HS codes but unverified. Recommended action: re-run verification when search backend is restored, using MCA master data lookup by company name plus GSTIN search on the GST portal, and confirm state of registered office against the (currently empty) state_claimed field."
+}

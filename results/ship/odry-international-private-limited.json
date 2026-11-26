@@ -1,0 +1,8 @@
+{
+ "name_input": "ODRY INTERNATIONAL PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/odry-international-private-limited and .../odry-international-pvt-ltd both returned only the page shell: \"Shipments available for ODRY INTERNATIONAL PRIVATE LIMITED, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Source counter: 2 importkey slug variants tried, 0 shipment rows actually seen. volza.com/p/odry-international/ and eximpedia.app and trademo.com all returned HTTP 403; DuckDuckGo search backend returned 'Connection refused' / timeout; Bing quoted-name search returned only unrelated OpenAI pages (0 relevant hits).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: search backend unavailable (searx 'Connection refused', DDG lite timeout) and no company website or registry page surfaced. 0 domestic supply records seen.",
+ "note": "No verifiable shipment or domestic-supply evidence found either way — status is unknown, NOT 'declared_only' and NOT 'none_found', because the sources were unreachable rather than checked and empty. The declared HS codes (080430 dates, 080450 guavas/mangoes, 080620 raisins, 081330 apple powder) are plausible for a dried-fruit/food trader, but no customs record was seen to confirm any of them. Revenue and export volume: null (not public in anything retrieved). No CIN/PAN found; not invented. Recommend re-run when a working search backend and a non-JS trade-data view are available, and check Zauba/Seair/Export Genius plus the MCA master data for legal existence before any verdict."
+}

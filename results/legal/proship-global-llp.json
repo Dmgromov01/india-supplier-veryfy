@@ -1,0 +1,18 @@
+{
+ "name_input": "Proship Global LLP",
+ "legal_name": "PROSHIP GLOBAL LLP (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned HTTP 429; Bing returned only generic 'ProShip' results (US parcel-software firm proshipinc.com, proship.com entertainment, proship.in logistics platform by Prozo) with no hit for an Indian entity named 'PROSHIP GLOBAL LLP'. No LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be sourced, so all such fields are null rather than guessed. PAN holder type cannot be derived without a PAN. Revenue FY25/FY26 null - no audited accounts or MCA filings accessible. Role left 'unknown': the claimed industry 'oil & gas and chemicals' with declared HS 330129 (essential oils) is internally inconsistent, and no registry evidence of manufacturing activity was found. Per project rules this is NOT a rejection ground - the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it is simply unverified. Recommend re-run with working search/registry access (MCA master data, GST portal search) before any verdict."
+}

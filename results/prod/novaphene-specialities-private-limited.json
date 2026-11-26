@@ -1,0 +1,20 @@
+{
+ "name_input": "Novaphene Specialities Private Limited",
+ "declared_hs": "290949;330190",
+ "actual_hs_list": [
+  "2915.90 (acid chlorides, e.g. for hormone/steroid APIs)",
+  "2916.xx / 2918.xx (acid anhydrides, esters)",
+  "2937.xx (hormone & steroid intermediates, pharma intermediates)",
+  "2905.49 (1,2-Hexanediol, Caprylyl Glycol — diols)",
+  "2909.xx / 2918.19 (Isosorbide 'Novasorb' — polyhydric alcohol cyclic ether; note 2905.49 vs 2932.99 classification variants)",
+  "2915.90 / 2922.xx (Ethylhexylglycerin — ether-alcohol; 2909.49/2918.xx variants)",
+  "2922.xx / 2924.xx (Lauroyl Lysine — amino-acid derivative, amide)",
+  "3304.99 / 3301.90 (personal-care ingredient blends, preservative systems — only if sold as cosmetic preparations)",
+  "2931.90 / 2920.xx (Grignard reagents — organometallic, often classified as solutions)",
+  "3907.xx / 3911.xx (polymers line, 4 SKUs)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (novaphene.com) lists two verticals. Specialty chemicals: acid chlorides (12 SKUs), Grignard reagents (21), acid anhydrides (6), esters (1), pharma intermediates (35), hormones intermediates (2), steroids intermediates (6), isosorbide 'Novasorb' (4), polymers (4), agrochemicals (5) — 100+ products made regularly. Personal care: Novaguard (42), Novapreserv (12), Novasolve (12), Novakare (5) — preservatives, antimicrobial actives, emollients, humectants, anti-dandruff, silicone alternatives. Named actives: Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol, Lauroyl Lysine, Isosorbide. Three plants: Tarapur (Maharashtra) and Dahej (Gujarat).",
+ "role_hint": "manufacturer (own plants, 450 KL reactor volume, in-house CMO/custom synthesis; historically started as a trading house — 'manufacturer' with a trading legacy, no evidence of pure-trader resale)",
+ "comment": "Declared codes 290949 (other ether-alcohols/phenols) and 330190 (essential-oil extracts/oleoresins) cover only a small slice of the real range. 2909.49 is plausible for Ethylhexylglycerin / 1,2-Hexanediol / Caprylyl Glycol (partial match), but 3301.90 (essential oils, oleoresins) is NOT corroborated by any product on the site — no essential oils or oleoresin line exists; the personal-care range is synthetic preservatives/emollients, which would sit in 2909/2918/2922/2932 or, if blended cosmetic preparations, 3304.99. So 330190 is effectively wrong/mis-declared. The dominant declared-absent lines are the core business: acid chlorides (2915.90), acid anhydrides (2916/2918), Grignard reagents (2931.90), hormone/steroid and pharma intermediates (2937/2932), isosorbide (2905.49/2932.99), polymers (3907/3911) — these are missing from the declaration entirely. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: the company is a specialty chemicals / pharma-intermediate / personal-care-ingredient maker, no oil & gas products found. Per Rule 3 the HS mismatch is not a rejection ground — company retained, codes to be corrected to the actual range above. All product lines are 'заявлено, не подтверждено' — no customs line or shipment record was checked in this task (out of scope), so no product is corroborated by a customs entry. No registry, revenue or volume data researched."
+}

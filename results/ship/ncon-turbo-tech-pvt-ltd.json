@@ -1,0 +1,8 @@
+{
+ "name_input": "NCON TURBO TECH PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for the company exists but is fully gated: \"Join ImportKey to view the import and export data records of companies all over the world\" — 0 shipment rows actually visible (counter shows no row count, only a placeholder \"Loading...\"). No bill-of-lading number, date, destination or HS code could be read. Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: web_search backend was down (\"searx: <urlopen error [Errno 111] Connection refused\") and Bing returned unrelated results (car listings) for the company name; thecompanycheck.com returned HTTP 403. 0 domestic supply rows seen.",
+ "note": "Следов поставок не подтверждено и не опровергнуто — данных нет. Ни экспортных B/L-записей, ни внутренних поставок (GST/GeM/контракты) получить не удалось: все источники таможенных данных закрыты платно или блокируют доступ, поисковые движки в этой сессии нерабочие. Заявленный HS (840682, 841181, 841182 — паровые/газовые турбины и части) соответствует профилю «Энергетика», но фактичность отгрузок не проверена. Выручка и объём экспорта: null (не публичны/не получены). Статус: заявлено, не подтверждено; отклонять не за что — юрлицо не проверялось на ликвидацию в этой сессии. Рекомендуется повторная проверка при доступном источнике (Volza/ImportKey с подпиской, GST-портал, GeM)."
+}
