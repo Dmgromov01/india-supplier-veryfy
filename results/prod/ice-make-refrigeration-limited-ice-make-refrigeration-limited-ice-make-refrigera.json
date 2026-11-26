@@ -1,0 +1,18 @@
+{
+ "name_input": "ICE MAKE REFRIGERATION LIMITED; ICE MAKE REFRIGERATION LIMITED; ICE MAKE REFRIGERATION LIMITED; Ice Make Refrigeration Limited; ICE MAKE REFRIGERATION LIMITED; ICE MAKE REFRIGERATION LIMITED; ICE MAKE REFRIGERATION LIMITED; ICE MAKE REFRIGERATION LIMITED",
+ "declared_hs": "841850",
+ "actual_hs_list": [
+  "841850",
+  "841869",
+  "841899",
+  "841830",
+  "841840",
+  "841861",
+  "841810",
+  "841989"
+ ],
+ "match_status": "partial",
+ "product_summary": "Ice Make Refrigeration Ltd (Ahmedabad, NSE: ICEMAKE, listed) — производитель промышленного и коммерческого холодильного оборудования под брендом «Ice Make»: холодильные/морозильные камеры и cold rooms, складские холодильники, blast freezers/chillers, чиллеры, ледогенераторы, холодильные витрины и прилавки, рефрижераторные транспортные установки, а также «customized cooling solutions» для пищевой, фармацевтической и агро-логистики. Источник: профиль компании на screener.in (icemakeindia.com, NSE: ICEMAKE) — «manufactures a wide range of refrigeration products under the brand name Ice Make… customized cooling solutions». Собственный сайт icemakeindia.com и IndiaMART на момент проверки недоступны (bot-check / 429 / timeout), поэтому постраничный каталог с моделями и мощностями не подтверждён — перечень продуктовых линеек взят из публичного профиля эмитента и является заявленным, не подтверждённым таможенной строкой.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 841850 (мебель холодильная/морозильная — витрины, прилавки, шкафы) соответствует лишь части ассортимента: холодильные витрины и шкафы действительно есть в линейке, поэтому статус — partial, а не wrong. Основная масса продукции (камеры, cold rooms, чиллеры, ледогенераторы, blast freezers) попадает в 841869 (прочее холодильное/морозильное оборудование), части и узлы — 841899, бытовые/торговые морозильные лари — 841830/841840, транспортные рефустановки — 841861/841810. Рекомендация: сохранить компанию в базе, код 841850 оставить как один из фактических, добавить 841869 и 841899; вердикт accepted_hs_corrected. Отрасль в заявке указана как «IT и электроника» — это явная отраслевая мис-классификация: компания относится к промышленному холодильному машиностроению (industrial refrigeration equipment manufacturing), а не к IT/электронике. Признаков трейдера не выявлено: собственное производство в Ахмадабаде, бренд «Ice Make», листинг на NSE. Все продуктовые позиции — заявлено, не подтверждено (нет доступа к каталогу и нет таможенной строки в рамках этой задачи). Реестры, выручка и объёмы отгрузок не проверялись согласно роли."
+}

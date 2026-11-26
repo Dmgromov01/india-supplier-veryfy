@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S TEXSPIN BEARINGS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка ограничена: поисковый бэкенд (DuckDuckGo/searx) был недоступен на протяжении всей сессии ('Connection refused'), поэтому целевой поиск по санкционным спискам, судам и новостям выполнить не удалось. Что проверено фактически: (1) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыт — это форма без GET-параметров, результат по имени через GET не возвращается, т.е. проверка по SDN фактически НЕ выполнена; (2) официальный SDN.CSV (sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) получен, но инструмент обрезает вывод до 6000 символов — видны только записи на 'A' (Cuba-программа), вхождение 'TEXSPIN' по этому фрагменту ни подтвердить, ни исключить нельзя; (3) реестры ZaubaCorp и TheCompanyCheck вернули HTTP 403, Indian Kanoon — HTTP 403, сайт texspin.com — ошибка SSL (несовпадение сертификата), DuckDuckGo HTML — таймаут. Итог: санкционных попаданий, судебных дел, регуляторных действий, негативных новостей, кредитного рейтинга и признаков поставок в РФ/СНГ НЕ обнаружено, но это следствие недоступности источников, а не подтверждённое отсутствие. Все поля оставлены null — данные не выдумывались. Требуется повторный прогон при работающем поиске: OFAC SDN/SSI, UN Consolidated, EU FSF, UK OFSI, BIS Entity List; NCLT/NCLAT, eCourts, Indian Kanoon; CRISIL/ICRA/CARE/India Ratings; таможенные и B-L записи по направлению РФ/СНГ. Отклонять по этим основаниям нельзя (правило 2) — компания сохраняется в базе."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "CELLO CONSUMERWARE PRIVATE LIMITEDCELLO CONSUMERWARE PRIVATE LIMITED",
+ "legal_name": "CELLO CONSUMERWARE PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены: все попытки получить первоисточник не удались. web_search (DuckDuckGo/searx) вернул 'Connection refused'; Bing по запросу в кавычках выдал нерелевантную выдачу про музыкальный инструмент (видимо, игнорируя кавычки/операторы); zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com — HTTP 403; quickcompany.in — таймаут; mca.gov.in — HTTP 403. CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 остаются null — не выдумываю. Название в инпуте дублировано ('...LIMITEDCELLO CONSUMERWARE PRIVATE LIMITED') — вероятная ошибка склейки при парсинге; юридическое имя приведено к нормальному виду 'CELLO CONSUMERWARE PRIVATE LIMITED', но факт существования именно такого юрлица в MCA по открытым источникам не верифицирован. Роль (manufacturer/trader) не определена — по правилам проекта трейдеры не отклоняются, поэтому role=unknown. Вердикт: НЕ отклонять (нет доказательств несуществования/ликвидации/банкротства), но статус — 'заявлено, не подтверждено'; требуется повторная проверка при восстановлении доступа к MCA/GST-порталам. Заявленный HS 701349 (стеклянная посуда/изделия из стекла) с отраслью 'Строительство и DIY' не согласуется, но по правилам от 23.11.2026 HS-несоответствие не является основанием для отклонения — код подлежит исправлению на фактический после проверки ассортимента."
+}

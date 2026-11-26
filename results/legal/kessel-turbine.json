@@ -1,0 +1,18 @@
+{
+ "name_input": "Kessel Turbine",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "REGISTRY DATA NOT OBTAINED — all identifiers null, nothing invented. What was actually verified: the operating website kesselsturbines.com (fetched: /about-us/, /contact-us/, /global-presence/) presents the brand 'Kessels' as a manufacturer of steam turbines 5 kW–30 MW, 'came into existence in 1987', with corporate head office at 1008 Pragati Tower, Rajendra Place, New Delhi 110008, plus regional offices in Pune (Maharashtra), Mohali (Punjab) and Bangalore (Karnataka), and UAE offices in Ras Al Khaimah and Dubai. The site does NOT state a legal entity form, CIN, PAN, GSTIN, incorporation date or registered-office state — so the exact legal entity behind the brand (e.g. 'Kessels Steam Turbines Ltd' vs a partnership/proprietorship or another group company) is UNCONFIRMED. The input's legal_claimed 'Kessels Steam Turbines' could not be matched to any MCA record. Attempts that failed: web_search (backend refused connection, returned no results on both queries); zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com all returned HTTP 403 or a generic landing page with no company data; quickcompany.in timed out; google.com/search returned HTTP 429; bing.com returned irrelevant results; duckduckgo.com/html timed out. No audited accounts or official filings were reachable, therefore revenue FY25 and FY26 are null (not estimated). Role 'manufacturer' is inferred only from the company's own site describing in-house design and manufacturing of steam turbines — it is a self-declaration, not a registry fact, and should be treated as 'заявлено, не подтверждено'. No rejection basis found (no evidence of non-existence, strike-off, liquidation or bankruptcy) — but equally no positive proof of active MCA status. Recommended next step: re-run against MCA master data / GST portal with the CIN once the search backend is restored, and confirm whether the Delhi head office is a branch of a West Bengal-registered entity."
+}

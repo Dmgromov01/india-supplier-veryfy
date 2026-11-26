@@ -1,0 +1,8 @@
+{
+ "name_input": "Kessel Turbine",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable shipment record obtained. importkey.com/countries/india/kessels-steam-turbine and .../kessels-steam-turbines both returned only the paywalled template shell: \"Shipments available for KESSELS STEAM TURBINE, refreshed daily\" — a generic site string, not a shipment row. Rows actually seen: 0 (no date, no destination, no HS code, no B/L number). volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript 'Client Challenge' wall; DuckDuckGo search backend was unreachable (connection refused) for all queries.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved. Search backend was down for the whole session, so no domestic-supply page was reachable; nothing to quote.",
+ "note": "Evidence gap, not a negative finding: no trace of supplies was either confirmed or ruled out. The claimed legal name 'Kessels Steam Turbine' and declared HS codes 840681/841181/841182 (steam and vapour turbines) were not cross-checked against any customs or GST record because every trade-data source was paywalled or blocked. Per rule 5, the company's own site/catalogue claims are NOT treated as fact — status stays 'unknown', not 'declared_only', because no claim page was even read. No shipment dates, destinations, B/L numbers, revenue or export volumes are asserted; all such fields are null. Recommend re-run when the search backend is restored, or a paid importkey/volza export for the exact legal name."
+}
