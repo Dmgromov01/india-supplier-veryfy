@@ -1,0 +1,8 @@
+{
+ "name_input": "Simplex Engineering & Foundry Works Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page exists but shipment rows are gated: \"Join ImportKey to view the import and export data records of companies all over the world.\" — no dated export record, destination, HS code or bill-of-lading number was visible. Rows actually seen: 0 shipment records (page shell only).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved. Search backends returned unrelated results (DuckDuckGo/searx connection refused; Bing returned off-topic pages), so no domestic supply record was seen. Rows actually seen: 0.",
+ "note": "Evidence could not be gathered this run: importkey.com/countries/india/simplex-engineering-foundry-works-pvt-ltd returned only a gated shell with 0 visible shipment rows; volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; the company domain simplexengineering.in did not resolve; web_search failed (searx connection refused) and Bing fallbacks returned irrelevant results. Per Rule 5, no claim from the company's own site or catalogues is treated as fact, and no shipment record was actually seen — therefore both statuses are 'unknown', NOT 'confirmed' and NOT 'declared_only'. No export date, destination, HS code or B/L number is asserted; no GST turnover figure is asserted (null). Declared HS 842959/843149 (earth-moving/parts of machinery) is unverified against any shipment record and is not a rejection ground per Rule 3. Recommend re-run when search infrastructure is restored, or manual check of ImportKey/Volza paid views and the GST portal."
+}

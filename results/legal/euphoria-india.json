@@ -1,0 +1,18 @@
+{
+ "name_input": "EUPHORIA INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and every public registry aggregator attempted returned HTTP 403/404 or timed out: thecompanycheck.com (403), zaubacorp.com (403), mca.gov.in MDS (403), instafinancials.com (403), gstincheck.co.in (404), duckduckgo html (timeout). Bing/Google returned only irrelevant results (HBO series 'Euphoria'), i.e. no indexed Indian legal entity matching the exact string 'EUPHORIA INDIA' was surfaced. Therefore exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT because the entity is proven non-existent, but because no public record was retrievable. Per project rules, rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained, so the company is NOT rejected; it is left unverified. Role cannot be determined from registry data (no MCA business-activity code retrieved) -> 'unknown'. Revenue FY25/FY26 null: no audited accounts or official filings accessible. Note also that the input carries no PAN and no state, so no cross-check of registered state vs claimed state was possible. HS 842620 (crane/goods-handling machinery) is inconsistent with the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining) - per rules this is NOT a rejection ground; the HS code should be corrected to the actual code once the entity and its product line are confirmed. Recommended next step: re-run with working search, or obtain the GSTIN/PAN from the supplier directly and verify on the GST portal (services.gst.gov.in) and MCA master data."
+}

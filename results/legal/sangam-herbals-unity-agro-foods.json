@@ -1,0 +1,18 @@
+{
+ "name_input": "SANGAM HERBALS / UNITY AGRO FOODS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: в батче указаны два разных имени ('SANGAM HERBALS' и 'UNITY AGRO FOODS') без CIN, PAN, GSTIN и штата, поэтому однозначно определить юрлицо невозможно. Инструмент web_search был недоступен (ошибка соединения searx), а публичные реестровые агрегаторы (zaubacorp.com, instafinancials.com, tofler.in) вернули 403/404; поиск через bing/google/duckduckgo выдал только нерелевантные результаты (Unity game engine, Sangam matrimony) либо 429/timeout. Никаких данных о CIN, PAN, GSTIN, дате регистрации, MCA-статусе и выручке получить не удалось — все поля null, ничего не выдумано. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица при недоступных источниках не равно доказанному отсутствию юрлица (правило 3). Требуется от заказчика точное юрлицо (полное название + CIN или GSTIN) либо повторный прогон при доступных реестрах (MCA master data, GST-портал). Роль оставлена 'unknown' — по названиям ('Herbals', 'Agro Foods') нельзя отнести к manufacturer или trader без подтверждения."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Suncross Bikes Pvt Ltd",
+ "legal_name": "Suncross Bikes Private Limited (unverified — could not be confirmed against MCA records; the input also links the name 'Naren International', which may be a separate proprietorship/partnership trading name, not a company)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. The DuckDuckGo search backend was unavailable (connection refused) for the whole session; Bing returned only irrelevant results; Google returned a redirect/consent page; and the registry aggregators attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com) all returned HTTP 403 Forbidden. Therefore no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Per project rules, nothing is invented: all such fields are null. No rejection is applied — there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / data not public via available tools', not 'rejected'. Note on the input: the declared HS codes 401320 (bicycle tyres) and 871200 (bicycles, non-motorised) are consistent with a bicycle manufacturer/trader profile, but HS consistency is not a rejection ground and the role cannot be assigned without registry or filing evidence, so role = unknown. Recommended next step: re-run with a working search backend or direct MCA21 master-data lookup by company name to obtain CIN, then derive PAN holder type from the 4th character and pull GSTIN from a public GST profile."
+}

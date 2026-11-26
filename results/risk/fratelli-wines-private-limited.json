@@ -1,0 +1,9 @@
+{
+ "name_input": "Fratelli Wines Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research limited: the web_search backend was unavailable throughout (searx connection refused / timeouts on DuckDuckGo HTML and Lite endpoints), and Bing returned irrelevant results, so no sanctions, court, regulator, rating or Russia/CIS-supply records could be retrieved. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript-driven tool that returns no results to a plain HTTP fetch, so no SDN/Non-SDN match could be confirmed or excluded — sanctions_hit left null rather than asserted as 'no hit'. Only verified fact: the company's own website https://www.fratelliwines.in/ is live and presents it as an Indian wine producer based at Akluj (Maharashtra), with an 'Investor' section and a 'Rights Issue 2026' reference — this is company self-presentation, not independent verification, and is not evidence of any risk item. No court case, regulator action, credit rating or Russia/CIS supply evidence was found or confirmed; all such fields are null because nothing public was retrievable, not because the company was cleared. Recommend re-running this company once the search backend is restored, checking: OFAC SDN/Non-SDN and BIS Entity List by exact name, UN/UK/EU consolidated lists, Indian court records (e.g. eCourts/NCLT/High Court) for party role and status, and any reported exports to Russia or CIS. Per project rules, any sanctions or court findings would be recorded neutrally and would not be grounds for rejection."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "HBL ENGINEERING LIMITED",
+ "legal_name": "HBL Engineering Limited (formerly HBL Power Systems Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Telangana",
+ "state_claimed": "",
+ "mca_status": "Active (listed on BSE/NSE; no strike-off/liquidation/bankruptcy indication found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Identity confirmed from the company's own website (hbl.in): registered office 'HBL Engineering Limited (formerly known as HBL Power Systems Ltd), No. 8-2-601, Road No.10, Banjara Hills, Hyderabad - 500 034, Telangana, India' — so the registered state is Telangana (input state was blank, no mismatch to flag). Role: manufacturer — the site lists own business units (Batteries, Electronics, eMobility, Defence, Spun Concrete, BESS) and plants, i.e. own production, not trading; declared HS 850720/850760 (lead-acid and lithium-ion batteries) is consistent with its battery manufacturing. NOT VERIFIED / NULL: CIN, PAN, GSTIN, GST status, incorporation date, FY25 and FY26 revenue. Reason: the DuckDuckGo search backend was unreachable ('Connection refused') for the whole session, and every registry/financial aggregator I tried returned HTTP 403/429 (zaubacorp.com, thecompanycheck.com, moneycontrol.com, screener.in, wikipedia, google) or an empty shell (bseindia.com). Per the rules I did not guess the CIN, PAN or GSTIN and did not estimate revenue — all left null. Follow-up needed: pull CIN/PAN/GSTIN from the MCA master data page and FY25/FY26 audited revenue from the company's annual report / BSE-NSE results filing (the company is listed, so both are public and should be retrievable from a non-blocked source). No ground for rejection: the entity exists and is operating."
+}

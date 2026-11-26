@@ -1,0 +1,9 @@
+{
+ "name_input": "PIONEER CHICORY",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (searx/DuckDuckGo) возвращал ошибку соединения, Bing по запросам «\"Pioneer Chicory\" India», «\"Pioneer Chicory\" chicory root India exporter Gujarat», «\"Pioneer Chicory\" zauba OR tofler OR indiafilings OR court» выдавал только нерелевантные результаты о бренде Pioneer (электроника, Pioneer Seeds) — ни одной страницы, относящейся к индийской компании с таким названием, получить не удалось. Google вернул HTTP 429. Инструмент OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-приложение, через http_get не запрашивается, поэтому прямой скрининг по SDN/Non-SDN не проведён. Никаких данных о санкционной экспозиции (OFAC SDN, UN, EU, UK, BIS Entity List), судебных делах (роль стороны, статус), действиях регуляторов, негативных новостях, кредитном рейтинге (дата/статус) и поставках в Россию/СНГ не найдено и не подтверждено. Все поля оставлены null — данные не выдумывались. Требуется повторный прогон при работающем поиске и/или уточнение от заказчика: полное юр. название (Pvt Ltd / LLP / partnership), CIN, город/штат, сайт — без идентификаторов одноимённость («Pioneer») делает скрининг недостоверным. Отклонять по правилу 2/3 оснований нет: сведений о ликвидации/банкротстве также не получено."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ACE HARDWARE PRIVATE LIMITED; ACE HARDWARE PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no findings, all fields null. Reason: the web_search backend was unavailable for the entire session (all queries returned 'searx: Connection refused'), and every direct page fetch of Indian corporate/registry sources failed (zaubacorp.com 403, thecompanycheck.com 403, Google 429, DuckDuckGo HTML timed out). The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded but is a JavaScript search form whose query results cannot be retrieved via plain HTTP GET, so no name screening was actually performed. Therefore: sanctions exposure NOT screened (not 'clear'), Indian court cases NOT checked, regulator actions/negative news NOT checked, credit rating NOT checked, and no evidence either way on supplies to Russia/CIS. Nothing here should be read as a clean bill of health. Note also that 'Ace Hardware' is a well-known US hardware-retail brand with Indian retail/wholesale operations, so name collisions with unrelated Indian entities are likely and any future screening must be tied to a verified legal identity (CIN/PAN) - which was outside this role's scope and was not established. Recommended next step: re-run this company once search access is restored, screening OFAC SDN/consolidated non-SDN, UN, EU, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NCLT) and credit-rating agency coverage."
+}
