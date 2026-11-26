@@ -1,0 +1,18 @@
+{
+ "name_input": "Pharmagate Solutions Pvt Ltd",
+ "legal_name": "PHARMAGATE SOLUTIONS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: DuckDuckGo/searx search backend refused connection; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; mca.gov.in returned HTTP 403; Bing/Google fetches returned unrelated or redirect-only content, so no page confirming the entity was obtained. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data alone; set to 'unknown'. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity simply could not be confirmed either way with the available tools. Recommended follow-up: manual lookup on the MCA portal (company/LLP master data) by exact name, and on the GST portal 'Search Taxpayer' by legal name, to obtain CIN, PAN, GSTIN and status. Note also that the input's declared HS 841311 (pumps for liquids) is inconsistent with the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining); per rules this is not a rejection ground — the code should be corrected to the factual one once the actual product line is established, and the verdict would be accepted_hs_corrected. No claims about shipments, courts or catalogues were researched, per role scope."
+}

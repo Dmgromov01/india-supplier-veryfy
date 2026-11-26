@@ -1,0 +1,19 @@
+{
+ "name_input": "S AND T MACHINERY PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madras High Court",
+   "case": "Tvl. S And T Machinery Private Limited vs The State Tax Officer",
+   "date": "2025-12-04",
+   "role": "Petitioner (company is the petitioner)",
+   "status": "Decided/order passed 04.12.2025 (per Indian Kanoon listing); outcome not read in full",
+   "subject": "GST/State Tax Officer, Singanallur North Assessment Circle (Coimbatore, Tamil Nadu) - tax assessment matter",
+   "source": "https://indiankanoon.org/search/?formInput=%22S%20and%20T%20Machinery%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "PARTIAL COVERAGE - research tools degraded. DuckDuckGo search backend refused connections (searx urlopen error 111) for all queries; Bing returned irrelevant results and ignored quoted company name; Zaubacorp returned HTTP 403; Tofler search URL returned 404. Only usable source was Indian Kanoon. (1) Sanctions: no OFAC SDN / UN / EU / UK / BIS Entity List match found, but this is NOT a verified negative - sanctions lists could not be queried directly in this session, so sanctions_hit is null rather than false. (2) Court: one confirmed Madras High Court matter, company as PETITIONER against State Tax Officer, Singanallur North Assessment Circle, order dated 04.12.2025, represented by General Manager Baby Nandakumar. This is a tax/GST assessment dispute, not a criminal or fraud matter; per project rules it is not a rejection ground and is noted neutrally. Full judgment text not retrieved, so the outcome (allowed/dismissed) is unconfirmed. (3) Credit rating: no public rating found; null - not public / not located, not invented. (4) Negative news / regulator actions: none located; null because search was non-functional, not because absence was proven. (5) Russia/CIS supply evidence: none found; null - no customs, B-L or trade-data source was reachable, so no conclusion either way. Recommended: re-run sanctions screening (OFAC/UN/EU/UK/BIS) and Indian news/court sweep when search infrastructure is restored before final risk sign-off."
+}

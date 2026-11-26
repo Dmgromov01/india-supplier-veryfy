@@ -1,0 +1,18 @@
+{
+ "name_input": "SHAH BROTHERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по публичным источникам в рамках лимита инструментов. 'SHAH BROTHERS' — неуникальное торговое имя: под ним в Индии существуют десятки разных юрлиц, товариществ (partnership firms) и ИП (proprietorships) в чайной/специйной отрасли, а также в других секторах; без PAN/CIN/GSTIN или адреса привязка невозможна. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Google и Bing вернули только заглушки без релевантных результатов. Реестровые агрегаторы: zaubacorp.com — HTTP 403, mca.gov.in — HTTP 403, thecompanycheck.com — 404, tofler.in — 404 на поисковый URL, indiamart.com — HTTP 429 (rate limit). Ни один реестровый факт (юрлицо, CIN/LLPIN, PAN, GSTIN, дата инкорпорации, MCA-статус) не подтверждён источником, поэтому все поля null — цифры и идентификаторы не выдумывались. Выручка FY25/FY26 не установлена: аудиторская отчётность не найдена, поле null. Роль (manufacturer/trader) не определена — null/unknown. Штат регистрации не установлен; в инпуте state_claimed пуст. ВАЖНО: отклонять компанию НЕЛЬЗЯ — нет оснований из правила 3 (не доказано, что юрлицо не существует, ликвидировано или банкрот); отсутствие данных ≠ отсутствие компании. Требуется уточнение от заказчика: точное юрлицо (Pvt Ltd / LLP / partnership firm / proprietorship), PAN или GSTIN, город/штат, либо ссылка на профиль IndiaMART/сайт — после этого проверка выполняется по MCA/GST-порталу. Заявленный HS 090220/090230/090240 (чай чёрный, в первичных упаковках ≤3 кг и прочий) соответствует чайному трейдеру/переработчику — но это заявление поставщика, реестром не подтверждено."
+}
