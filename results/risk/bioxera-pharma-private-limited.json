@@ -1,0 +1,18 @@
+{
+ "name_input": "BIOXERA PHARMA PRIVATE LIMITED",
+ "sanctions_hit": false,
+ "court_cases": [
+  {
+   "forum": "Income Tax Appellate Tribunal, Mumbai",
+   "case": "Ar-Ex Laboratories P. Ltd, Mumbai vs Assessee",
+   "date": "2015-06-30",
+   "party_role": "third party / referenced entity — described in the ruling as a subsidiary company of the assessee, in the context of an interest-free-funds / s.14A Rule 8D transfer-pricing-type dispute",
+   "status": "decided (tribunal order); no indication of any criminal or civil liability attaching to Bioxera Pharma itself",
+   "source": "https://indiankanoon.org/search/?formInput=Bioxera"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No adverse media, regulator action or negative news found. Note: web_search backend (searx) was unreachable throughout this run (connection refused) and Google/Bing returned 429/irrelevant results, so news coverage could not be exhaustively swept — absence of findings is therefore partly a tooling limitation, not a positive clearance.",
+ "rf_supply": "No evidence found of supplies to Russia or the CIS. No customs, B-L, or trade-record reference to this entity surfaced in any source consulted.",
+ "note": "Sanctions: screened 'BIOXERA' and 'Bioxera Pharma' against the OpenSanctions consolidated dataset (sanctions + PEP + regulatory, data current as of 2026-11-26) — 'No matching entities were found' both times. OFAC SDN/Non-SDN list landing page confirmed live (SDN last updated 11/23/2026) but its search is a JS application and could not be queried by name via GET, so OFAC/UN/EU/UK/BIS were not individually name-matched — treat sanctions clearance as OpenSanctions-aggregate only, not a per-list confirmation. Court: only hit is the 2015 ITAT Mumbai order above, where Bioxera Pharma appears as a referenced subsidiary, not as a litigant facing allegations; per project rules this is not a rejection ground and is recorded neutrally. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings/Brickwork action or rating found in public sources; the company appears to be a small private entity with no rated debt. No CIN, PAN or financials were researched per role scope. Registry lookups (Zauba, InstaFinancials) returned 403 and Tofler returned 404, so corporate standing was not independently verified in this run. Overall: no sanctions exposure and no material risk findings, but coverage is thin due to search-tool outage — recommend a re-run of the news and per-list sanctions sweep when the search backend is restored."
+}

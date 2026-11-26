@@ -1,0 +1,18 @@
+{
+ "name_input": "swiss healthcare",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена. Входные данные противоречивы: 'legal_claimed' = 'TANYA SACHDEVA' — это имя физлица (вероятно, проприетор/директор), а не название компании; 'swiss healthcare' — неполное торговое наименование без организационно-правовой формы, города и штата; PAN и штат в заявке пустые. Поиск: DuckDuckGo-бэкенд недоступен (connection refused), Google вернул 429, Bing по запросам '\"Swiss Healthcare\" \"Tanya Sachdeva\"' выдал только нерелевантные результаты (авиакомпания SWISS, Wikipedia), реестры zaubacorp.com, instafinancials.com и mca.gov.in вернули HTTP 403, tofler.in — 404. Ни одной публичной записи MCA/GST по связке 'Swiss Healthcare' + 'Tanya Sachdeva' получить не удалось. Следовательно: CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка FY25/FY26 — null (не публичны/не подтверждены), цифры не выдумывались. Роль — unknown: определить manufacturer/trader невозможно без юрлица. ВАЖНО: отклонение НЕ применяется — отсутствие данных не равно несуществованию юрлица (правило 3: rejected только при ликвидации/банкротстве/отсутствии юрлица, что здесь не установлено). Требуется от заказчика: полное юрлицо (напр. 'Swiss Healthcare Private Limited' / 'Swiss Healthcare LLP' / проприеторство), город и штат, PAN или GSTIN — после этого проверка MCA возможна. Заявленный HS 300490/300590 (медицинские препараты) не соответствует указанной отрасли 'Нефтегаз и химия' — вероятно, ошибка ввода отрасли; HS-несоответствие по правилу 3 не является основанием для отклонения."
+}

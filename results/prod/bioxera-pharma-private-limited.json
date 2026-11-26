@@ -1,0 +1,20 @@
+{
+ "name_input": "BIOXERA PHARMA PRIVATE LIMITED",
+ "declared_hs": "291300;293339",
+ "actual_hs_list": [
+  "2922.19",
+  "2936.22",
+  "2936.27",
+  "2933.39",
+  "2934.99",
+  "2906.29",
+  "2907.19",
+  "2916.39",
+  "2918.19",
+  "2836.99"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт bioxerapharma.com (главная, меню Products) перечисляет реальный ассортимент: API — Amylmetacresol, Benfotiamine, Clomifene Citrate, Cyclopentolate HCl, Flavoxate HCl, Lanthanum Carbonate, Metadoxine, Pramoxine HCl, Tamoxifen Citrate, Tropicamide, Zinc L-Carnosine, Sodium Ascorbyl Phosphate; ветеринарные API — 2,4-Dichlorobenzyl Alcohol, Clomiphene, Tamoxifen; интермедиаты — 2-Phenyl Butyric Acid, Tropic Acid, 4-Diethylaminobut-2-yn-1-yl Acetate. Профиль — фармацевтические субстанции и интермедиаты (cGMP, заявлено 13 стран экспорта).",
+ "role_hint": "manufacturer",
+ "comment": "Заявленные коды 2913.00 и 2933.39 почти не покрывают фактический ассортимент. 2913.00 (галогенированные/прочие производные бензола) — НЕ подтверждается ни одним продуктом: 2,4-дихлорбензиловый спирт относится к 2906.29, а не к 2913. Статус по 2913.00: wrong. 2933.39 (производные пиридина) соответствует только Metadoxine — статус partial. Основная масса портфеля — 2922.19 (аминоспирты/аминоэфиры: Clomifene, Cyclopentolate, Pramoxine, Tamoxifen, Tropicamide, 4-diethylaminobut-2-yn-1-yl acetate), 2936.22/2936.27 (Benfotiamine, Sodium Ascorbyl Phosphate), 2934.99 (Flavoxate), 2906.29, 2907.19 (Amylmetacresol), 2916.39 и 2918.19 (интермедиаты), 2836.99 (Lanthanum Carbonate). Отрасль заявлена как «Нефтегаз и химия» — мисclassификация: компания фармацевтический производитель API, не нефтехимия. Признаков трейдера нет: сайт описывает собственное производство (площадка 110 000 sq.ft., R&D, cGMP), но это заявление сайта — статус «заявлено, не подтверждено» (таможенных записей в рамках этой проверки не смотрели). Код следует исправить на фактический (ведущий 2922.19 + 2936), компания сохраняется в базе. Источник: https://www.bioxerapharma.com/ (главная, раздел Products). Внутренние страницы /products, /products/api, /products/intermediates, /about-us отдают 403/404 — детализация по отдельным молекулам не проверена, поэтому часть кодов дана на уровне HS-6 по химической природе молекулы."
+}

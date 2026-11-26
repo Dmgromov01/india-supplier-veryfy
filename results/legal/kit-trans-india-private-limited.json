@@ -1,0 +1,18 @@
+{
+ "name_input": "KIT TRANS INDIA PRIVATE LIMITED",
+ "legal_name": "KIT TRANS INDIA PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (2 attempts); zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and tofler.in returned 404 for the guessed slug; mca.gov.in MDS returned HTTP 403; Google returned HTTP 429; Bing returned only irrelevant results (kit.com, kit.edu etc.), i.e. no indexed page for this exact company name was surfaced. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they were not publicly retrievable within the call budget. PAN holder type cannot be derived without the PAN itself (4th character rule not applicable). Role set to 'unknown': the name element 'TRANS' suggests a transport/logistics/trading profile rather than manufacturing of HS 853710 (electrical control panels), but this is a name-based inference only and is not evidence. Revenue FY25/FY26 null - no audited accounts or official filings accessed; no figures invented. Per project rules the company is NOT rejected: there is no evidence that the legal entity does not exist, is struck off, liquidated or bankrupt. HS 853710 vs claimed industry 'Энергетика' is not a rejection ground in any case. Recommended next step: re-run with working search access and query the MCA master-data / GST public search directly by exact name to obtain CIN and GSTIN before any commercial decision."
+}

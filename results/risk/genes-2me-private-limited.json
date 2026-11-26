@@ -1,0 +1,9 @@
+{
+ "name_input": "GENES 2ME PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал Connection refused / timeout, Google — HTTP 429, ZaubaCorp — HTTP 403. Bing по точным запросам в кавычках (\"GENES 2ME PRIVATE LIMITED\", \"Genes 2Me\" Private Limited India MCA, \"GENES 2ME\" sanctions OR court OR GST) не выдал ни одного релевантного результата — только общие статьи о генах; это отсутствие индексируемых совпадений, а не подтверждённое отсутствие рисков. Поэтому по всем полям null: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены; судебные дела в индийских инстансах (eCourts/NJDG) не проверены; рейтинговые действия (CRISIL/ICRA/CARE/India Ratings) не найдены; негативные новости не найдены; свидетельств поставок в РФ/СНГ не найдено. Ничего не выдумывал: CIN/PAN/номера дел не генерировались. Требуется повторный прогон при доступном поиске и проверка по MCA/eCourts вручную. Отклонение по правилу 2 не применяется — санкции/суды не являются основанием для отклонения; статус компании в базе сохраняется."
+}
