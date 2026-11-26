@@ -1,0 +1,18 @@
+{
+ "name_input": "UNIVERSAL ESTERS LIMITED",
+ "legal_name": "UNIVERSAL ESTERS LIMITED (as claimed; not independently confirmed against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no registry data obtained. Tooling failed during this run: web_search backend returned 'Connection refused' on both queries; Bing/Google/DuckDuckGo HTML endpoints returned irrelevant generic 'Universal' results (theme parks/studios) or HTTP 429/timeout; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in returned 404 for the guessed slug; mca.gov.in MDS portal returned HTTP 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT evidence of absence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null; no figures were estimated. Role left as 'unknown': the name form 'Limited' and the declared HS 291899 (other esters of other acids, a chemical product code) are consistent with a chemical manufacturer, but this is an inference from the name/HS only, not a verified fact. No state was claimed in the input, so state comparison is not applicable. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity simply could not be checked. Action required: re-run with working search/registry access (MCA master data by name, GST public search by legal name, and the company's audited FY25/FY26 filings) before any verdict is assigned."
+}

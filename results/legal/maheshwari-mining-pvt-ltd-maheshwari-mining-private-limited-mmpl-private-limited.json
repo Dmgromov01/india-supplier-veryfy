@@ -1,0 +1,18 @@
+{
+ "name_input": "MAHESHWARI MINING PVT LTD; MAHESHWARI MINING PRIVATE LIMITED; MMPL PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All 10 tool calls failed to return usable registry evidence: DuckDuckGo search backend returned 'Connection refused' (searx urlopen error) on both queries; Bing HTML results were polluted/irrelevant (returned unrelated e-commerce pages, no company records); zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in/mcafoportal all returned HTTP 403 Forbidden; tofler.in and instafinancials.com returned 404 for the guessed URL slugs. Consequently the exact legal entity name, CIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all UNVERIFIED and left null rather than guessed. IMPORTANT: the input itself is internally inconsistent - it lists three different names (MAHESHWARI MINING PVT LTD / MAHESHWARI MINING PRIVATE LIMITED / MMPL PRIVATE LIMITED) and claims 'MMPL PRIVATE LIMITED' as the legal name, but 'MMPL' is a common Indian abbreviation that may or may not be the short form of Maheshwari Mining; no source was found to confirm the identity link. No state was claimed in the input, so state_registered vs state_claimed cannot be compared. Role left 'unknown' - the claimed industry (metallurgy/mining) and declared HS 842520 (HS chapter 84, machinery - typically continuous miners / mining machinery) are unconfirmed by any filing. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Per project rules this company is NOT rejected - rejection requires positive proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was obtained; the correct status is 'unverified, needs re-run'. Recommended next step: re-run when the search backend is restored, or supply the CIN/GSTIN directly so the MCA master data and GST public profile can be pulled by identifier."
+}

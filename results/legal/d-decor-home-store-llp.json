@@ -1,0 +1,18 @@
+{
+ "name_input": "D DECOR HOME STORE LLP",
+ "legal_name": "D'DECOR HOME STORE LLP (as claimed in input; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The DuckDuckGo search backend returned 'Connection refused' on every attempt; Zauba Corp, TheCompanyCheck and InstaFinancials returned HTTP 403; mca.gov.in returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing ignored the exact-phrase queries and returned only generic 'home decor' retail results, with no hit for 'D DECOR HOME STORE LLP' or 'D'DECOR HOME STORE'. Therefore no LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced. All such fields are null because they are not public in any source I could reach - they are NOT null because the entity was found to be absent. Per project rules, rejection requires positive evidence that the entity does not exist / is struck off / liquidated / bankrupt; absence of a search hit under a degraded search toolchain is not such evidence, so the company is NOT rejected and remains unverified pending a working registry lookup (MCA master data / GST portal). Note also a data-quality flag for the desk: the declared HS code 521215 is a chapter-52 woven-cotton-fabric heading, which is inconsistent with the claimed industry 'food products and FMCG'; per rule 3 this is not a rejection ground - the code should be corrected to the actual one and the verdict recorded as accepted_hs_corrected once the entity and its real product line are confirmed. Role is 'unknown' because no evidence of manufacturing or trading activity was obtainable. No revenue figures were invented."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "P P IMPEX INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один публичный источник не удалось прочитать. Что пробовалось (10 вызовов): web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused'; zaubacorp.com (2 URL) — HTTP 403; thecompanycheck.com — 404; instafinancials.com — 404; quickcompany.in — таймаут; falconebiz.com — 403; google.com/search — 429; bing.com (2 запроса) — поисковик проигнорировал точную фразу и выдал нерелевантные результаты (Wikipedia 'P', PowerPoint, polypropylene), совпадений по компании нет. ВАЖНО: 'JAGESH JAIN' в поле legal_claimed — это имя физлица (вероятно, проприетор/партнёр/директор), а не название юрлица; форма организации (Pvt Ltd / LLP / partnership / proprietorship) не установлена, поэтому CIN/LLPIN может отсутствовать в принципе. PAN не выводился: 4-й символ PAN (тип держателя: P — физлицо, C — компания, F — фирма/партнёрство, A — AOP и т.д.) требует фактического номера, которого нет; выдумывать запрещено. GSTIN не найден ни в одном публичном профиле. Штат регистрации и штат из входных данных (state_claimed пуст) сопоставить невозможно. MCA-статус (Active/Struck off) не проверен. Роль: 'unknown' — по названию 'IMPEX' можно предположить трейдера/экспортёра, но это догадка, а не факт; HS 732690 (изделия из чёрных металлов) — заявленный код, фактический не подтверждён. Выручка FY25/FY26: null — аудиторская отчётность и официальные филинги не получены. ВЕРДИКТ: НЕ отклонять — отсутствие юрлица не доказано, это пробел в данных, а не отрицательный результат. Требуется повторная проверка при доступном MCA-поиске (mca.gov.in / MCA master data), GST-портале (gst.gov.in search taxpayer) и, при наличии, по имени проприетора Jagesh Jain. Рекомендуется запросить у поставщика: полное юрлицо, PAN, GSTIN, свидетельство о регистрации."
+}
