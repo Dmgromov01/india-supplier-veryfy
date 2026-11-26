@@ -1,0 +1,8 @@
+{
+ "name_input": "Y N Z Export",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/y-n-z-export (also /ynz-export and /y-n-z-exports): page renders only the generic template text \"Shipments available for Y N Z EXPORT, refreshed daily\" with no shipment table, no date, no destination, no HS code and no bill-of-lading number; rows actually seen: 0 of 0. Volza, Eximpedia and Trademo free views returned HTTP 403, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found for this entity; no public page retrieved (search backend returned connection refused on both queries). Rows seen: 0.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки с датой, направлением, HS-кодом или номером B/L не обнаружено, и никаких подтверждений поставок внутри Индии (GST-оборот, тендеры GeM/CPPP, контракты) тоже нет. Заявленный HS 681290 (изделия из камня/минеральных материалов, не содержащие асбеста) ничем не подтверждён — ни одной таможенной записи по этому коду для данной компании не видно. Название «Y N Z Export» и заявленный владелец AJAYSINH GAMBHIRSINH ZALA не привязаны ни к одной публичной записи об отгрузках; CIN/PAN/выручка — null, публично не раскрыты. Ограничения проверки: поисковый бэкенд был недоступен (connection refused), платные трейд-базы (Volza, Eximpedia, Trademo) отдали 403, поэтому отсутствие записей в ImportKey не доказывает отсутствия отгрузок — статус domestic оставлен unknown, а не none_found. Трейдерская роль не является основанием для отклонения; при появлении доступа к таможенным данным запись следует перепроверить."
+}

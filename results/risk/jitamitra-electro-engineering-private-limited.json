@@ -1,0 +1,9 @@
+{
+ "name_input": "JITAMITRA ELECTRO ENGINEERING PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW — LIMITED VERIFICATION. Sources actually consulted: (1) Indian Kanoon full-text judgment search for 'Jitamitra Electro Engineering' — returned 'No matching results (0.20 seconds)', i.e. no reported judgments/orders naming the company (https://indiankanoon.org/search/?formInput=Jitamitra%20Electro%20Engineering). (2) OFAC Sanctions List Search page loaded successfully but is a JavaScript form; a name query could not be executed via plain HTTP GET, so no OFAC SDN/Non-SDN screening result was obtained — sanctions_hit left null, NOT a clean bill of health. (3) UN/EU/UK consolidated lists and the BIS Entity List were NOT screened (no accessible query endpoint within the tool budget). (4) Company registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials) all returned HTTP 403/404 — no CIN, directors, charges, or credit rating could be retrieved; rating = null because no rating is public/accessible, not because none exists. (5) General web search was unusable: the DuckDuckGo/searx backend refused connections (Errno 111) and Bing/Google returned irrelevant or rate-limited results, so no negative-news or regulator-action sweep was possible — news_risk null means 'not established', not 'none found'. (6) No evidence of supplies to Russia or the CIS was found in any source reached; rf_supply null (no data either way). Per project rules, absence of accessible data is not a rejection ground and no adverse inference is drawn. RECOMMENDATION: company is not rejected; risk profile is UNVERIFIED pending a re-run with working search plus a manual OFAC/EU/UK/BIS name screen and a registry pull (MCA CIN, directors, charges, GST turnover) once aggregator access is available."
+}

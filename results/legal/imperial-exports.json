@@ -1,0 +1,18 @@
+{
+ "name_input": "IMPERIAL EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам «\"Manju Kaur Gambhir\" \"Imperial Exports\"» и «\"Imperial Exports\" Gambhir GST proprietor India» выдал только нерелевантные результаты (Imperial College, Imperial Supplies и т.п.) — совпадений с индийской компанией нет. Zauba Corp и Instafinancials отдают 403, thecompanycheck — 404, Google — 429. Входные данные противоречивы: в поле legal_claimed указано физлицо («MANJU KAUR GAMBHIR»), а не юрлицо, поэтому CIN/LLPIN может отсутствовать в принципе (возможен проприеторшип/partnership). PAN не заявлен, штат не заявлен. PAN, GSTIN, дата инкорпорации, MCA-статус, выручка FY25/FY26 — null, публично не подтверждены в рамках доступных источников; цифры не выдумывались. Роль — unknown (по названию «Exports» и HS 6802 (обработанный камень/плитка) предполагать manufacturer или trader нельзя без подтверждения). Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица; требуется повторная проверка при восстановлении доступа к MCA/GST-порталам."
+}
