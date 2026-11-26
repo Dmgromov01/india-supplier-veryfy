@@ -1,0 +1,9 @@
+{
+ "name_input": "SENISTO SANITARYWARE LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no verifiable data obtained. Tooling failures: the web_search backend (searx) refused all connections on every attempt; Bing HTML fallback returned only unrelated results with no exact match for 'SENISTO SANITARYWARE LLP'; DuckDuckGo HTML timed out; Google returned HTTP 429. Indian registry aggregators were inaccessible: Tofler search returned 404, ZaubaCorp returned 403, InstaFinancials returned 404. The OFAC Sanctions List Search page loaded but is a JavaScript-driven form and returned no lookup results for the name, so neither a confirmed sanctions hit nor a confirmed clear can be asserted - recorded as null rather than guessed. No court records (eCourts/NJDG), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator actions, no negative news and no evidence of supplies to Russia or the CIS could be checked. Per project rules this is NOT a rejection ground and no adverse inference should be drawn: the absence of findings here reflects failed data collection, not a clean or a dirty profile. Recommend re-running this company once search infrastructure is restored, and specifically checking: MCA/LLP master data for the exact registered name and state, OFAC SDN and BIS Entity List name variants, eCourts by party name, and any GST/export records. Note also that the claimed HS codes (392210, 691010, 691090 - plastic and ceramic sanitaryware) are outside this role's scope and were not assessed."
+}

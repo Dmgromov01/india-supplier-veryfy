@@ -1,0 +1,18 @@
+{
+ "name_input": "BADANI CORPORATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was unreachable for the whole session ('Connection refused'), and fallback attempts failed: zaubacorp.com returned HTTP 403, thecompanycheck.com search returned HTTP 404, mca.gov.in returned HTTP 403, Google returned HTTP 429, and Bing returned only irrelevant results (academic papers about unrelated persons named Badani; no Indian entity named 'Badani Corporation' surfaced). No public MCA/CIN, PAN, GSTIN, incorporation date, registered state or audited revenue could be located, so all such fields are null rather than guessed. The input itself is internally inconsistent: the 'name' field is 'BADANI CORPORATION' while 'legal_claimed' is 'SHREENATHJI ENTERPRISE' - these are two different trade names and it is unclear which is the actual supplier; this needs clarification from the requester. No evidence of non-existence was found either, so per the rules the company is NOT rejected - it is left unverified (role unknown). Declared HS codes 120242 / 121190 / 200811 (groundnuts, other plants/seeds for pharma-perfumery, prepared nuts) are consistent with an agri-food trader profile, but HS is not a rejection ground and was not assessed further. Revenue FY25/FY26: null - no audited accounts or official filings found. Recommend re-running once search access is restored, or obtaining the GSTIN/PAN from the supplier directly."
+}

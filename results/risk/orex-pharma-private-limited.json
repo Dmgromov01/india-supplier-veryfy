@@ -1,0 +1,31 @@
+{
+ "name_input": "OREX PHARMA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bombay High Court",
+   "case": "Comm. Arbitration Petition No. 9 of 2023 — Orex Pharma Pvt. Ltd. vs Oriental Insurance Co. Ltd.",
+   "role": "Petitioner (claimant)",
+   "status": "Active through at least 10.01.2024; multiple hearings 25.07.2023, 11.08.2023, 30.08.2023, 20.09.2023, 09.10.2023, 02.11.2023, 07.12.2023, 10.01.2024 (Benches: R.I. Chagla, Bharati Dangre)",
+   "source": "https://indiankanoon.org/search/?formInput=Orex%20Pharma"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Orex Pharma Private Limited vs Oriental Insurance Co. Limited",
+   "role": "Petitioner",
+   "status": "Order dated 15.12.2020 (Bench: G.S. Patel)",
+   "source": "https://indiankanoon.org/search/?formInput=Orex%20Pharma"
+  },
+  {
+   "court": "Customs, Excise and Gold Tribunal (CESTAT), Mumbai",
+   "case": "Orex Pharma Pvt. Ltd. vs Commissioner of C. Ex.",
+   "role": "Appellant",
+   "status": "Decided 22.01.2003, 2003(154)ELT425(TRI-MUMBAI) — concluded",
+   "source": "https://indiankanoon.org/search/?formInput=Orex%20Pharma"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no confirmed hit found, but this is NOT a clean negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is JavaScript-driven and returned no queryable results to the fetch, and the DuckDuckGo search backend was down (connection refused) for the whole session, so UN/EU/UK consolidated and BIS Entity List screens could not be executed. sanctions_hit is therefore null = not verified, not 'clear'. Recommend a manual re-screen of OFAC SDN, UN, EU, UK OFSI and BIS Entity List before onboarding. Court cases: only civil/commercial matters found — an insurance-coverage arbitration against Oriental Insurance (Bombay HC, Comm. Arb. Pet. 9/2023, live into Jan 2024) and a 2003 CESTAT excise appeal; company appears as claimant/appellant, no criminal matters surfaced. Per project rule 2 these are not rejection grounds and are noted neutrally. Regulator actions and negative news: no CDSCO action, recall or adverse media found — but note the search engine was non-functional and Bing returned irrelevant results, so this is an absence of evidence, not evidence of absence; news_risk left null. Credit rating: no public rating located (company is a small private pharma firm; CRISIL/ICRA/CARE/India Ratings coverage not found) — null, not public. RF/CIS supply: Indian Kanoon full-text search for 'Orex Pharma' + Russia returned zero matching results; no customs, B-L or media evidence of supplies to Russia or CIS found — null, no evidence either way. No CIN, PAN, revenue or shipment data researched per role scope."
+}

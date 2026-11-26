@@ -1,0 +1,8 @@
+{
+ "name_input": "Nirohi Suppliers Private limited",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/nirohi-suppliers-private-limited and .../nirohi-suppliers-pvt-ltd both returned only the generic page template: 'Shipments available for NIROHI SUPPLIERS PRIVATE LIMITED, refreshed daily' — a boilerplate placeholder, not a shipment record. Rows actually seen: 0 (no date, no destination, no HS code, no B/L number). Source counter: 2 importkey slug variants tried, 0 shipment rows rendered. volza.com/p/nirohi-suppliers/ returned HTTP 403; eximpedia.app and trademo.com company pages returned HTTP 403.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search backends failed: DuckDuckGo/searx returned 'Connection refused' and timeouts; Google returned HTTP 429; Bing for the exact phrase \"Nirohi Suppliers Private Limited\" returned 50 results that were all unrelated WordReference forum pages — zero relevant hits. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ подтверждение отсутствия отгрузок: все источники были недоступны (403/429/timeout) либо отдавали пустой шаблон без строк. Заявленный HS 847150 (машины обработки данных) ничем не подтверждён и не опровергнут — фактический код установить не удалось, поэтому HS не корректировался. Выручка: null (не публична/не найдена). Объём экспорта: null. CIN/PAN: null — не найдены, не выдумывались. Юрлицо не проверено по MCA, поэтому оснований для rejected нет; статус — unknown, требуется повторная проверка при доступности volza/eximpedia/MCA."
+}

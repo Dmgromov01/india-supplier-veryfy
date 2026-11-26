@@ -1,0 +1,18 @@
+{
+ "name_input": "SENISTO SANITARYWARE LLP",
+ "legal_name": "SENISTO SANITARYWARE LLP",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404 or a 404 search page. Bing HTML fallback returned only unrelated results (speedtest.net, microsoft.com), i.e. no indexed match for the exact string 'SENISTO SANITARYWARE LLP'. Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable here, NOT evidence of non-existence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the name suffix 'LLP' indicates a limited liability partnership, but no filing evidence of manufacturing vs trading activity was obtained. Per project rules, no rejection is applied: absence of retrievable registry data is not proof that the entity does not exist, is struck off, liquidated or bankrupt. Declared HS codes 392210/691010/691090 (plastic/ceramic sanitaryware) are consistent with the name but were not checked against any actual filing. Recommended next step: manual MCA/LLP master-data lookup by LLPIN or by PAN/GSTIN from the supplier's documents."
+}
