@@ -1,0 +1,24 @@
+{
+ "name_input": "JOHARI STONEX INDUSTRIES PRIVATE LIMITED",
+ "declared_hs": "680223;680293;680299",
+ "actual_hs_list": [
+  "6802.23",
+  "6802.93",
+  "6802.99",
+  "6802.21",
+  "6802.91",
+  "2516.11",
+  "2516.12",
+  "2516.20",
+  "2516.90",
+  "2515.11",
+  "2515.12",
+  "2515.20",
+  "6803.00",
+  "6810.99"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт joharistonex.com (23, Keshav Nagar, Jaipur, Rajasthan 302019; CIN указан на сайте как U51432RJ2014PTC046544 — не проверялось, вне моей роли). Реальная продуктовая линейка по разделам каталога: (1) Granite — 60+ коммерческих наименований блоков/слябов (Black Galaxy, Black Pearl, Steel Grey, Sira Grey, Imperial White, Kashmir White, Jhansi Red, Chima Pink, Blue Pearl, Emerald Pearl, Apple Green и др.); (2) Marble — Antic White, Cosmos, Rainforest Brown/Green, Star Galaxy, White Dunes, Cappucino, Imported Marble; (3) Slate Stone & Quartzite — Zeera, Ocean Black/Green, S White, Silver Shine, Terra Red, Copper D, Indian Autumn, Himalayan Blue; (4) Sandstone — Dholpur Red, Mandana Red, Jodhpur Red, Agra Red, Lalitpur Grey, Mint, Jaisalmer Yellow, Teak Wood, Rainbow, Fossil Mint; (5) Lime Stone — Mint Yellow, Rainbow Teak, Agra Red, Mint White; (6) Veneer Stone — тонкие срезы камня (сланец, кварцит, мрамор, известняк, песчаник) для облицовки; (7) Fusion Series; (8) Monuments Series — раздел заявлен в меню, но страница пустая (контента нет). Компания сама позиционируется как «Manufacturers, Exporters and Importers of a wide variety of Stones», «Star Export House» (логотип на сайте), миксует контейнеры под клиента.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Сопоставление с заявленными кодами: 6802.23 (гранит обработанный, кроме скульптуры) — ПОДТВЕРЖДЕНО каталогом (раздел Granite, слябы/плиты); 6802.93 (прочий камень обработанный, гранит) — частично пересекается с 6802.23, дублирование; 6802.99 (прочий камень обработанный) — ПОДТВЕРЖДЕНО (мрамор, сланец, кварцит, песчаник, известняк в обработанном виде). Итог: partial — заявленные коды покрывают обработанный камень, но НЕ покрывают существенную часть фактической линейки: (а) необработанные блоки и сырьё — 2516.11/2516.12/2516.20/2516.90 (гранит-блоки, «Mines» в меню сайта), 2515.11/2515.12/2515.20 (мрамор, травертин), что критично при экспорте блоков; (б) 6802.21 (мрамор/травертин обработанный) — мраморная линейка (Antic White, Cosmos, Rainforest, Imported Marble) выделена отдельно, а в декларации отдельного мраморного кода нет; (в) 6803.00 — обработанный сланец (раздел Slate Stone & Quartzite, Zeera/Ocean Black/Indian Autumn) — в декларации отсутствует; (г) 6810.99 — изделия из каменной композиции/агломерата, если Veneer Stone и Fusion Series включают искусственный/композитный камень (сайт прямо пишет «thin slices of real stone or manufactured materials»); (д) Monuments Series (памятники, надгробия) — при фактической отгрузке это 6802.23/6802.99 либо 6802.91, но раздел на сайте пуст, поэтому статус «заявлено, не подтверждено». Признаки трейдера: «Exporters and Importers», «mix and match containers», «Imported Marble» в линейке, отсутствие описания собственного производственного парка (раздел Infrastructure/Gallery без данных в тексте) — вероятна модель manufacturer_trader (обработка + перепродажа импортного мрамора и блоков). Отраслевая классификация «Строительство и DIY» неточна: компания — камнеобработка/производство стройматериалов (B2B, слябы, блоки, облицовка), а не строительство и не DIY-ритейл; корректнее «Стройматериалы / природный камень». HS-несоответствие НЕ является основанием для отклонения (правило 3): компания сохраняется в базе, коды дополняются фактическими (2516.xx, 2515.xx, 6802.21, 6803.00, при необходимости 6810.99), вердикт accepted_hs_corrected. Все товарные позиции взяты из каталога сайта — это ЗАЯВЛЕНО, НЕ ПОДТВЕРЖДЕНО таможенной линией; фактических экспортных отгрузок и внутренних поставок в рамках этой роли не проверял (вне scope). Данные о выручке/объёмах: null — не исследовались."
+}

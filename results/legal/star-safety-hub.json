@@ -1,0 +1,18 @@
+{
+ "name_input": "Star safety Hub",
+ "legal_name": "STAR SAFETY HUB (unverified — no registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record found. Search tooling was non-functional during this run (DuckDuckGo/searx backend refused connections; Google returned HTTP 429; Zauba Corp, TheCompanyCheck and InstaFinancials returned 403/404; MCA master-data portal returned 403; Bing returned only generic 'star' results, no match for the exact string 'STAR SAFETY HUB'). Therefore: exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — NOT because they were checked and absent, but because they could not be retrieved. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined: the name pattern ('Hub') is consistent with either a proprietorship/partnership trading name or a small private limited company, but there is no evidence either way. Note on the input: declared HS codes 621040 and 621133 are textile/apparel headings (men's garments, knitted), which contradicts the claimed industry 'Продукты питания и FMCG' (food/FMCG) — this is an internal inconsistency in the input data, not a finding about the company; per project rules HS mismatch is not a rejection ground and the code should simply be corrected to the actual activity once verified. Per rule 3, this company is NOT rejected: non-existence was not established, only non-verification. Recommended action: re-run verification when search access is restored, or obtain the GSTIN/PAN directly from the supplier and re-check on the GST portal and MCA. Status: unverified, pending re-check."
+}
