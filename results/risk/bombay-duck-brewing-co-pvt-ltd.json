@@ -1,0 +1,9 @@
+{
+ "name_input": "Bombay Duck Brewing Co Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on every query; Bing via http_get returned identical cached generic 'Mumbai' results for all three distinct queries (including exact-phrase queries for 'Bombay High Brewing Private Limited' and 'Bombay Duck Brewing'), i.e. the search layer was non-functional and returned no entity-specific hits. Zaubacorp returned HTTP 403. OFAC Sanctions List Search is a JavaScript form and returned no query results via plain GET, so no SDN/Non-SDN screening result could be obtained. Therefore sanctions exposure, Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all null — NOT because they were checked and found clean, but because nothing could be checked. Per project rules, no numbers, CINs, PANs, case numbers or shipment records are invented. IMPORTANT NAME DISCREPANCY for the identity team (outside my remit, flagged only): the batch name 'Bombay Duck Brewing Co Pvt Ltd' and the claimed legal name 'BOMBAY HIGH BREWING PRIVATE LIMITED' are different names; neither could be confirmed to exist as a registered Indian entity in this session. Recommend re-running this company once search access is restored, and screening the exact registered name against OFAC SDN, UN, EU, UK and BIS Entity List, plus Indian court records (eCourts/NCLT) and credit bureaus (CRISIL/ICRA/CARE/India Ratings). No rejection recommendation is made on risk grounds — per Rule 2, sanctions/court/criminal matters are never rejection grounds regardless of outcome."
+}

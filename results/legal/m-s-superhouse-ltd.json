@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SUPERHOUSE LTD",
+ "legal_name": "SUPERHOUSE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this session: DuckDuckGo/searx search backend returned 'Connection refused' on both queries, and registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. Only the company's own website (superhouse.in) was reachable; it confirms the operating entity 'Superhouse Group' — a listed manufacturer of footwear, leather goods, safety footwear and garments with subsidiaries Superhouse (UK) Ltd, Superhouse (USA) International Inc, Superhouse Middle East FZC, Briggs Industrial Footwear Ltd (UK), Linea De Seguridad S.L. (Spain), Superhouse GmbH (Germany) — but the site's investor pages (annual reports, quarterly results, ten-year highlights) all returned 404, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be sourced. Therefore CIN, PAN, GSTIN, incorporation date, state of registered office, MCA status and FY25/FY26 revenue are all null — NOT invented. No rejection basis found (no evidence of non-existence, strike-off, liquidation or bankruptcy); entity appears to be an existing, BSE-listed public limited company, so it is retained. IMPORTANT MISMATCHES for the desk: (1) declared HS 420329 / 640340 (leather footwear / protective metal-toe footwear) is consistent with the company's actual business, but the input industry_claimed 'Продукты питания и FMCG' (food & FMCG) is WRONG — Superhouse is leather/footwear/garments, not food; industry field should be corrected, HS codes appear plausible. (2) Role is manufacturer (own manufacturing facilities listed on site), not trader. (3) Registered-office state not confirmed from a public registry record; the group is historically associated with Unnao, Uttar Pradesh, but this is unverified here and left null. Recommend re-run with working search access to pull CIN/PAN/GSTIN from MCA/GST portal and audited FY25/FY26 revenue from the BSE filings."
+}

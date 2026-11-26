@@ -1,0 +1,8 @@
+{
+ "name_input": "JobWurx Industrial Sourcing Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/jobwurx-industrial-sourcing-pvt-ltd and .../jobwurx-industrial-sourcing-private-limited both returned only the generic template shell: \"Shipments available for JOBWURX INDUSTRIAL SOURCING PRIVATE LIMITED, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no bill-of-lading numbers. Source counter: 2 importkey pages opened, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. zaubacorp.com, thecompanycheck.com and eximpedia.app all returned HTTP 403 Forbidden; DuckDuckGo search backend returned \"Connection refused\" on every query, so no domestic-supply record was located. Source counter: 3 registry/aggregator pages attempted, 0 rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Ни экспортных отгрузок (нет ни одной записи с датой, направлением, HS и B/L), ни подтверждений поставок внутри Индии (GST-оборот, GeM/CPPP, контракты) получить не удалось. Заявленный HS 843139/848390 (части машин, подшипниковые узлы) ничем не подтверждён; заявление компании фактом не считается. Выручка и объём экспорта — null, публичных данных нет. Юрлицо не проверено по MCA (zaubacorp 403), поэтому оснований для rejected нет — статус unknown, требуется повторная проверка при доступности реестров и таможенных баз."
+}

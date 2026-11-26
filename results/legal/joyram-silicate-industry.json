@@ -1,0 +1,18 @@
+{
+ "name_input": "Joyram silicate industry",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни одного подтверждённого реестрового источника получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам «Joyram Silicate Industry» / «Joyram Silicate» / «Joyram Silicate Industry Ashok Dutta» выдавал нерелевантную выдачу (японские статьи, Microsoft, Mercado Livre) — то есть релевантных страниц по компании не найдено. Прямые запросы к реестровым агрегаторам: zaubacorp.com — HTTP 403, thecompanycheck.com — 404, instafinancials.com — 404, tofler.in — 404, indiamart.com — HTTP 429, google.com — HTTP 429. Входные данные противоречивы: в поле legal_claimed указано «ASHOK DUTTA» — это имя физлица, а не наименование юрлица; штат не заявлен. Соответственно CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус, выручка FY25/FY26 — null, публично не подтверждено в рамках доступных инструментов. Роль (manufacturer/trader) не установлена — unknown. ВАЖНО: отклонение НЕ применяется — отсутствие данных не является основанием для rejected (правило 3: отклонять только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или при предоставлении поставщиком GSTIN/CIN/полного юрлица. Заявленные HS 281511 (гидроксид натрия, твёрдый) и 283919 (силикаты натрия) — не проверялись по существу; по правилу 3 несоответствие HS не является основанием для отклонения."
+}

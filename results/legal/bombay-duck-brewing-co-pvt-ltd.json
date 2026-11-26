@@ -1,0 +1,18 @@
+{
+ "name_input": "Bombay Duck Brewing Co Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены. Причина: поисковый бэкенд (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; Bing отдавал только нерелевантную общую выдачу по слову 'Bombay' (операторы кавычек игнорировались), поэтому ни одной страницы с профилем компании получить не удалось. Прямые обращения к реестровым агрегаторам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, instafinancials.com — HTTP 404, tofler.in/search — 404, mca.gov.in (Master Data) — HTTP 403. Следовательно CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — все поля null, цифры не выдумывались. Важное расхождение во входных данных: название в поле name ('Bombay Duck Brewing Co Pvt Ltd') не совпадает с legal_claimed ('BOMBAY HIGH BREWING PRIVATE LIMITED') — это два разных наименования, и ни одно из них не подтверждено публичным реестровым источником; до сверки по MCA нельзя утверждать, что юрлицо существует под заявленным именем. Роль оставлена 'unknown' (пивоваренное производство по HS 2203 — лишь предположение из названия, не подтверждено). Отклонение (rejected) НЕ применялось: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию юрлица (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/агрегаторам; рекомендуемые запросы: MCA Master Data по обоим наименованиям, GST-поиск по PAN после получения CIN."
+}

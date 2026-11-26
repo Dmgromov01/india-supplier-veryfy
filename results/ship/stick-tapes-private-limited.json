@@ -1,0 +1,8 @@
+{
+ "name_input": "STICK TAPES PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/stick-tapes-private-limited (and slug variant /stick-tapes-pvt-ltd) returned only the generic template shell: \"Shipments available for STICK TAPES PRIVATE LIMITED, refreshed daily\" — no bill-of-lading number, no date, no destination, no HS code, no row count. Rows actually seen: 0. Counter: 2 importkey slug variants tried, 0 shipment records displayed. volza.com, eximpedia.app, trademo.com all returned HTTP 403 Forbidden; web_search backend returned \"Connection refused\" for every query, so no second source could be reached.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com returned HTTP 403; search backend unavailable, so no registry or tender page was reachable. No domestic supply record seen — but this is a retrieval failure, not a negative finding.",
+ "note": "Следов поставок не найдено в доступных источниках, но и опровергнуть поставки нельзя: все вторичные источники (volza, eximpedia, trademo, thecompanycheck) отдали 403, поисковик был недоступен. ImportKey по обоим вариантам слага показал только шаблонную заглушку без единой записи об отгрузке — это не подтверждение экспорта. Заявленный HS 350699 (клеи/адгезивы) не проверен по фактическим записям; несоответствие HS по правилам проекта не является основанием для отклонения. Выручка и объём экспорта: null (данных нет, не выдумывать). Рекомендуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}
