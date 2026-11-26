@@ -1,0 +1,9 @@
+{
+ "name_input": "VASUDEV ENGINEERING",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Search infrastructure was largely unavailable during this run: the DuckDuckGo/searx backend returned 'Connection refused' on every query, Google returned HTTP 429, and Bing returned identical irrelevant cached results (a German restaurant) for all queries regardless of terms. Only Indian Kanoon was reachable. (1) Sanctions: no match found for 'Vasudev Engineering' with proprietor 'Pandya Krunalkumar Pravinbhai' in OFAC SDN / UN / EU / UK / BIS checks — but this is NOT a verified negative; no sanctions list was directly queried and search was degraded, so recorded as null. (2) Court cases: Indian Kanoon search for \"Vasudev Engineering\" returned 11 documents, but all identifiable parties are a DIFFERENT entity — 'M/s. TR Vasudev Engineering Pvt Ltd', Andhra Pradesh High Court at Amaravati, WP 10068/2024 and WP 12562/2024, proprietor Sri Devu Srinivasu, tax/assistant-commissioner writs (hearings 02.05.2024, 24.06.2024, 29.07.2024, 29.01.2025); plus ITAT Mumbai orders (30.08.2024) in GHV India Pvt Ltd matters merely mentioning 'Vasudev Engineering' as a vendor. None of these can be attributed to the Gujarat/Pandya entity, so court_cases = null. No case found naming Pandya Krunalkumar Pravinbhai. (3) Credit rating: no public rating found (CRISIL/ICRA/CARE/India Ratings not checked due to tool limits) — null, not public. (4) Regulator actions / negative news: none found; search coverage was insufficient to assert a clean record — null. (5) Russia/CIS supply evidence: none found; no customs, B-L or open-source record located — null. Per project rules, absence of evidence here is a research gap, not a clearance: this company should be re-run when search tooling is restored. No rejection grounds identified (no evidence of non-existence, liquidation or bankruptcy)."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "DR.DIGGER EQUIPMENTS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/dr-digger-equipments-private-limited (and slug variant .../dr-digger-equipments-pvt-ltd) returned only the generic template line: \"Shipments available for DR DIGGER EQUIPMENTS PRIVATE LIMITED, refreshed daily\" — zero actual shipment rows rendered; no date, destination, HS code or bill-of-lading number visible. Source counter: 2 importkey pages fetched, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, and volza.com, eximpedia.app and trademo.com free views returned HTTP 403 Forbidden. Source counter: 4 attempted sources, 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все доступные источники отдали заглушки или 403, поисковик был недоступен, поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found. Заявленный HS 854442 (кабели/провода с разъёмами, «Энергетика») ничем не подтверждён и не опровергнут; по правилу 3 несоответствие HS не является основанием для отклонения. Выручка и объём экспорта: null (не публичны, не выдумывались). Требуется повторная проверка при доступном поиске: importkey/volza/eximpedia по слагам 'dr-digger-equipments', а также GST-портал и GeM/CPPP по точному наименованию."
+}

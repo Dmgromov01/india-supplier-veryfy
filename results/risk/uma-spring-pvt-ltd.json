@@ -1,0 +1,9 @@
+{
+ "name_input": "UMA SPRING PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты поиска были недоступны в ходе сессии. web_search (DuckDuckGo/searx) возвращал ошибку 'Connection refused' на всех запросах; Bing отдавал нерелевантный кэш (результаты про Ultimate Medical Academy / University of Maine) независимо от формулировки запроса; Google — HTTP 429; альтернативный движок — таймаут. Страница OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) открылась, но это JS-форма без возможности передать запрос через GET, поэтому фактического поиска по SDN/Non-SDN не произведено. Следовательно: sanctions_hit, court_cases, rating, news_risk, rf_supply — null, НЕ потому что проверено и чисто, а потому что данные не получены. Никаких утверждений о наличии или отсутствии санкций, судебных дел, рейтингов, негативных новостей или поставок в РФ/СНГ по компании 'UMA SPRING PVT LTD' / 'UMA SPRING PRIVATE LIMITED' не делаю — это было бы выдумкой. Требуется повторный прогон при работающем поиске: проверить (1) OFAC SDN/Non-SDN, UN, EU, UK OFSI, BIS Entity List по точному и вариантным написаниям; (2) eCourts / NCLT / High Court по стороне дела; (3) реестры рейтингов (CRISIL/ICRA/CARE/India Ratings); (4) новостной фон; (5) следы поставок в РФ/СНГ (таможенные записи, B/L, импортные декларации РФ). Отклонение по правилу 2 не применяется в любом случае; по правилу 3 оснований для rejected нет (нет данных о ликвидации/банкротстве)."
+}

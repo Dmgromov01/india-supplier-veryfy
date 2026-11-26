@@ -1,0 +1,18 @@
+{
+ "name_input": "Bharat Coats",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input row is internally inconsistent: 'legal_claimed' contains a personal name (JANARDHANAN RAGUNATHAN), not a legal entity name, and no state or PAN was supplied. Searches for 'Bharat Coats' returned no Indian corporate-registry record (DuckDuckGo backend was down; Bing returned only unrelated results for 'Bharat'; Google returned HTTP 429). Registry aggregators were inaccessible: zaubacorp.com returned HTTP 403, thecompanycheck.com and instafinancials.com search endpoints returned HTTP 404. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. Per project rules, absence of verifiable data is NOT grounds for rejection (rejection only for non-existent/struck-off/liquidated/bankrupt entities), so the company is retained with all fields null and role 'unknown'. HS 391310 (cellulose and its chemical derivatives, primary forms) is a plausible code for a 'coats'-type coatings/adhesive business but was not verified against any filing. Recommended next step: obtain the exact legal entity name (e.g. 'Bharat Coats Pvt Ltd' / LLP name) or the GSTIN from the supplier, then re-run MCA/GST verification."
+}
