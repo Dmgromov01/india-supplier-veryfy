@@ -1,0 +1,8 @@
+{
+ "name_input": "7 Degriz",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug '7-degriz' (and variants '7-degriz-' and '7-degriz-vijaykumar-dahyabhai-pancholi') returned only template text: 'Shipments available for 7 DEGRIZ, refreshed daily' — a generic site boilerplate line, NOT a shipment record. Rows actually seen: 0. No bill-of-lading number, no date, no destination, no HS code was displayed on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Google search returned HTTP 429 (rate-limited); DuckDuckGo search backend returned 'Connection refused' for every query, so no domestic-supply page could be located or read. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок, а отсутствие доступа к данным: importkey отдал только шаблонную заглушку (0 строк записей), volza/eximpedia/trademo вернули HTTP 403, importgenius — JS-челлендж, поисковые движки были недоступны (searx connection refused, Google 429). Поэтому статус 'unknown', а не 'none_found'. Заявленный HS 842240 (упаковочное/фасовочное оборудование) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилу 3 это НЕ основание для отклонения; компания сохраняется, фактический код требует уточнения у поставщика. Юрлицо 'VIJAYKUMAR DAHYABHAI PANCHOLI' выглядит как имя индивидуального предпринимателя/проприетора, а не название компании — CIN/PAN/выручка/объём экспорта: null (не публичны, не выдумывались). Рекомендуется повторная проверка при восстановлении доступа к таможенным базам."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "LEE PHARMA LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all attempts; Google returned HTTP 429; html.duckduckgo.com and lite.duckduckgo.com timed out; Bing returned identical irrelevant cached results (denim brand 'Lee') for every query variant, so no usable hits. Consequently nothing could be confirmed or excluded on any of the five risk dimensions. All fields set to null per project rule 4 (do not invent data) - these nulls mean 'not verified', NOT 'clean'. No sanctions screening (OFAC SDN/UN/EU/UK/BIS), no court-record check (NCLT/NCLAT/HC/SEBI), no credit-rating check (CRISIL/ICRA/CARE/India Ratings), no negative-news check, and no Russia/CIS supply check was actually performed. Note the company is a pharma/API firm (declared HS 292145, 293090, 293339, 293399) - API exports are a plausible Russia/CIS exposure vector that specifically requires checking, and it remains unchecked. Recommend re-running this company once search access is restored; do not treat this record as a cleared supplier. Per rule 2, any sanctions/court/criminal findings that later surface are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}

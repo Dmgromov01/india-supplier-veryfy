@@ -1,0 +1,18 @@
+{
+ "name_input": "COLOR GRANITO PVT LTD",
+ "legal_name": "COLOR GRANITO PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAGCC1671E",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN holder-type convention). NOTE: PAN is taken from the input as claimed; it could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record was retrievable. Tooling failed: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; Google returned HTTP 429; Bing silently ignored quoted queries and returned irrelevant generic 'color' results for both the company name and the PAN; zaubacorp.com, thecompanycheck.com and mca.gov.in/mcafoportal all returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials.com returned 404. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — they are NOT public-verified and must not be treated as confirmed. The legal name 'COLOR GRANITO PRIVATE LIMITED' is only the input's own claim, not confirmed against MCA. The PAN AAGCC1671E is likewise unverified; its 4th character 'C' is consistent with a company holder, but the PAN may belong to a different entity. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown' — no registry evidence of manufacturing plant, GST-registered trade activity or import/export registration was obtained. Per project rules this company is NOT rejected: rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found either way. Status: unverified, pending re-check with working registry access (MCA master data, GST portal search by PAN, or a paid aggregator)."
+}

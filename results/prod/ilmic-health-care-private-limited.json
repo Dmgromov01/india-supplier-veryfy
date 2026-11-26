@@ -1,0 +1,21 @@
+{
+ "name_input": "ILMIC HEALTH CARE PRIVATE LIMITED",
+ "declared_hs": "350790",
+ "actual_hs_list": [
+  "300490",
+  "300410",
+  "300420",
+  "300431",
+  "300432",
+  "300439",
+  "300212",
+  "300215",
+  "300610",
+  "210690",
+  "300450"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт ilmichealthcare.com (разделы Home Page / Company Profile / Our Products) показывает ассортимент готовых лекарственных средств (finished dosage forms), а не ферментов: противоопухолевые инъекции — Fluorouracil Injection IP, Dacarbazine, Doxorubicin, Gemcitabine, Ifosfamide, Irinotecan, Carboplatin, Paclitaxel, Docetaxel, Oxaliplatin-подобные (Cabazi), Methotrexate, Cytarabine-подобные (Fludarabine), Mitomycin, Leucovorin, Bortezomib, Zoledronic Acid, Rituximab, Bevacizumab, Cetuximab, Daratumumab, Infliximab; противоопухолевые таблетки/капсулы — Abiraterone Acetate, Anastrozole, Tamoxifen, Bicalutamide, Capecitabine, Sorafenib, Olaparib, Everolimus, Enzalutamide, Lenalidomide, Sunitinib, Hydroxyurea, Mercaptopurine, Eltrombopag; антибиотики — Cefuroxime Axetil Tablets IP, Cefpodoxime Proxetil + Potassium Clavulanate, Amoxycillin + Clavulanate, Tigecycline Injection, Biapenem For Injection; прочее — Pantoprazole + Levosulpiride капсулы, Tamsulosin MR, Aceclofenac/Paracetamol/Serratiopeptidase, Lactulose Solution USP, Cefpodoxime Oral Suspension, Vitamin D3 Oral Solution, Curcumin Syrup, Multivitamin/Multimineral сиропы и таблетки, Co Enzyme Q10/Omega-3 капсулы, Ferrous Ascorbate + Folic Acid, Glutathione, Baricitinib (Olumiant); плюс не-фарма: Human Albumin Injection (Albucel 20), Semi Automatic Biopsy Needle, Paraffin Gauze Dressing BP. Заявленный код 350790 (ферменты; прочие) не соответствует ни одной позиции каталога: ферментных препаратов (папаин, пепсин, амилаза, липаза, протеазы, коагулянты/ферментные добавки) на сайте не найдено. Корректное ядро — 300490 (прочие медикаменты в дозированной форме), с отдельными линиями 300431/300439 (противоопухолевые и гормональные), 300410/300420 (пенициллины/прочие антибиотики), 300212/300215 (альбумин, иммунологические), 300610 (перевязочные материалы), 901839 (биопсийные иглы), 210690 (БАД/витаминные комплексы).",
+ "role_hint": "trader",
+ "comment": "Несоответствие HS: заявлен 350790 (ферменты), фактически — готовые лекарственные формы и сопутствующие медизделия. Согласно правилу 3 компания НЕ отклоняется, код исправляется на фактический (вердикт accepted_hs_corrected). Признаки трейдера/посредника прямые: в Company Profile указано «Nature of Business: Exporter, Manufacturer, Wholesaler, Trader and Supplier», а в разделе «Sourcing From The Best!» компания прямо пишет, что закупает ассортимент у «multiple top Indian vendors» — то есть перепродаёт чужую продукцию под своим брендом; сайт размещён на платформе IndiaMART (Infocom Network), что типично для торговых карточек, а не для завода. Отраслевая классификация «Продукты питания и FMCG» неверна: фактически это фармацевтика (онкология, антибиотики, кардио-диабет, БАД); пищевое направление лишь упомянуто словами «& foods» без единого продукта в каталоге. Линии, отсутствующие в декларации: онкопрепараты (инъекции/таблетки/капсулы), антибиотики, альбумин человека, перевязочные материалы, биопсийные иглы, БАД/витамины. Все позиции — «заявлено, не подтверждено»: ни одна строка каталога не подтверждена таможенной записью (таможенные/B-L записи в рамках этой задачи не проверялись, объёмы и реестры не исследовались). Данные о выручке/объёме экспорта: null — не проверялись по условиям роли. GST 07AAGCI2794C1ZL и IEC AAGCI2794C взяты с сайта компании (самозаявление), реестрами не верифицированы."
+}

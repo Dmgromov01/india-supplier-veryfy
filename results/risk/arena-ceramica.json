@@ -1,0 +1,9 @@
+{
+ "name_input": "ARENA CERAMICA",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING FOUND, NOTHING CONFIRMED. Search infrastructure was effectively unavailable during this run: the primary web_search tool returned 'searx: Connection refused' on every attempt (2 calls), duckduckgo.com/html timed out, and Bing (used as fallback, 5 calls) returned only generic 'arena' results (arenasport.com, arena.ai, Wikipedia 'Arena') with no Indian ceramic entity matching 'ARENA CERAMICA' or the claimed legal name 'AQUIRE CERAMIC'. No page, registry record, court docket, sanctions list entry, rating action or news item could be retrieved for either name. Therefore: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = null, not verified — absence of a hit here is a tooling failure, NOT a clean result. Indian court cases (party role/status) = null, not verified. Regulator actions / negative news with dates = null, not verified. Credit rating (agency, date, status) = null, not verified. Evidence of supplies to Russia or CIS = null, no trace found in any retrievable source. IMPORTANT CAVEAT for the analyst: the two names in the input are inconsistent (trade name 'ARENA CERAMICA' vs claimed legal entity 'AQUIRE CERAMIC'), and neither could be matched to any public record, so it is currently impossible to say whether the legal entity exists at all — this is a legal-identity question outside my remit and should be escalated to the identity/registry researcher before any risk conclusion is drawn. Per project rules, no rejection is proposed on risk grounds; sanctions/court/criminal matters would in any case be recorded neutrally as 'есть сложности'. Recommend re-running this risk check once search connectivity is restored, using the confirmed legal name and CIN."
+}

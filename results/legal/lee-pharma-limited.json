@@ -1,0 +1,18 @@
+{
+ "name_input": "LEE PHARMA LIMITED",
+ "legal_name": "LEE PHARMA LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Telangana",
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Legal name confirmed from the company's own website (leepharma.com and /contact): 'LEE PHARMA LIMITED', registered office Sy. No. 257 & 258/1, Door No. 11-6/56-C, Opp. IDPL Factory, Moosapet, Balanagar (Post), Hyderabad 500037 — i.e. Telangana, NOT Andhra Pradesh as claimed in the input (state mismatch; Hyderabad was in undivided AP only before the 2014 bifurcation). Role: manufacturer — the site describes own API/formulation manufacturing facilities with USFDA/EUGMP/WHO-GMP claims; this is a self-declaration, not independently verified. CIN, PAN, GSTIN, incorporation date, MCA status and audited revenue could NOT be verified: DuckDuckGo search backend was down (connection refused), Bing returned only irrelevant 'Lee' apparel results, and registry aggregators (zaubacorp, thecompanycheck, tofler, instafinancials) returned 403/404 or only generic landing pages. The site states 'trusted pharmaceutical innovation since 1997', which suggests incorporation around 1997, but no CIN/date is published there, so incorporation_date is left null rather than inferred. No audited accounts or MCA filings were accessible, so revenue FY25/FY26 = null (not estimated). No rejection grounds found: no evidence of non-existence, strike-off, liquidation or bankruptcy; the entity clearly operates (live website, phone numbers, facilities). Registry fields must be re-checked against MCA master data / GST portal before onboarding."
+}
