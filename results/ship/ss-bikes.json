@@ -1,0 +1,8 @@
+{
+ "name_input": "SS Bikes",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/ss-bikes (and slug variants /ss-bike, /ss-bikes-neeraj-kumar) returned only the empty template shell: 'Shipments available for SS BIKES, refreshed daily' — zero shipment rows rendered, no date, no destination, no HS code, no bill-of-lading number. Source counter: 3 importkey pages opened, 0 shipment records seen.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Search backend (DuckDuckGo/searx) was unavailable during this run ('Connection refused'), so no domestic supply record could be retrieved; eximpedia, trademo and importgenius returned HTTP 403 / JS challenge. Source counter: 0 domestic records seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Все проверенные источники (importkey — 3 варианта слага, eximpedia, trademo, importgenius) либо пустые шаблоны без строк отгрузок, либо заблокированы (403/JS challenge); поисковик был недоступен, поэтому охват проверки неполный. Заявленный HS 871160 (электро/мото-велосипеды) и заявленное лицо NEERAJ KUMAR ничем не подтверждены: ни одной таможенной записи, ни GST-оборота, ни тендера не найдено. Выручка и объём экспорта — null (не публичны / не найдены), не выдумывались. Статус 'заявлено, не подтверждено' не применялся, так как даже заявлений на проверенных страницах не было — только автогенерируемый текст каталога. Рекомендуется повторная проверка при доступном поиске и/или запрос у поставщика номера IEC, GSTIN и конкретных B/L."
+}
