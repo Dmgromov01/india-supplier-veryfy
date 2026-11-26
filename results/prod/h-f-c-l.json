@@ -1,0 +1,22 @@
+{
+ "name_input": "H F C L",
+ "declared_hs": "852910",
+ "actual_hs_list": [
+  "854470",
+  "900110",
+  "851762",
+  "853670",
+  "853690",
+  "852910",
+  "854420",
+  "854442",
+  "853810",
+  "852550",
+  "852691",
+  "854370"
+ ],
+ "match_status": "partial",
+ "product_summary": "По каталогу hfcl.com (страницы /products и /products/optical-fiber-cables, раздел «All products from A to Z») реальный ассортимент: (1) оптическое волокно — HFCL A1, A2, 2D, Eka (HS 900110); (2) оптические кабели — ADSS, aerial Fig.8, air blown unitube (CFU), armored, breakout, duplex, flat drop indoor/indoor-outdoor, FTTH, microduct, micromodule, underground (HS 854470); (3) interconnect — fiber patch cord, pigtail, FTTA cable assembly, active optical cable, direct attach copper cable, Ethernet cable/patch cord (854470 / 854442 / 854420); (4) пассивка — fiber access terminal box, fiber distribution hub, HFTB, joint closures (dome/inline), high density cabinets (853670 / 853810); (5) access — 8/24/48-port L2/L3 managed switches, PoE+ switches, industrial PoE+ switch, cell site router, IP/MPLS routers DCR 1100-X120/X360/X800, 5G indoor/outdoor FWA CPE, unlicensed band radios (UBR ion4/ion8), antennas (851762 / 852910 / 851771); (6) defence — electro optics, electronic fuzes, ground surveillance radar, high-capacity radio relay, software defined radios (852691 / 854370 / 9306/9305-класс).",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 852910 (антенны и их части) подтверждается лишь частично: в каталоге есть раздел Antennas и радиорелейные/UBR-радиоустройства, но это второстепенная линия. Основная масса продукции — оптическое волокно (900110) и оптические кабели (854470), а также маршрутизаторы/коммутаторы/CPE (851762) и пассивная оптическая коммутация (853670). Вердикт по правилу 3: компания сохраняется, код исправляется на фактический — базовый 854470 (OFC) с дополнительными 900110, 851762, 853670, 852910. Отраслевая классификация «IT и электроника» неточна: фактически это телеком-оборудование и оптоволоконное производство (плюс оборонное направление), т.е. ближе к «телеком-инфраструктура / кабельная промышленность». Признаков трейдера нет — собственные заводы (5 производственных площадок, 2 R&D-центра заявлены на сайте). Все перечисленные товарные линии — «заявлено, не подтверждено»: таможенные/экспортные записи в рамках этой проверки (HS-специалист) не исследовались, привязки конкретной декларации к конкретному коду нет. Пропущенные в декларации линии: оптическое волокно, OFC, маршрутизаторы/коммутаторы, пассивная оптика, оборонная продукция."
+}

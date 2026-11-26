@@ -1,0 +1,8 @@
+{
+ "name_input": "NATURE'S VIBE",
+ "export_status": "unknown",
+ "export_evidence": null,
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Следов поставок не найдено, но и опровергнуть нельзя: ни одна запись не была реально просмотрена. Проверены слаги importkey.com/countries/india/natures-vibe и /natures-vibe- (оба отдали только шаблонную оболочку: 'Loading... Get email alerts when this company has new activities', 0 строк отгрузок в таблице), а также /countries/india/kta-sprindle-toolings по заявленному юрлицу — тот же пустой шаблон, 0 строк. Вторые источники недоступны: volza.com/p/natures-vibe/ — HTTP 403, eximpedia.app/companies/natures-vibe — HTTP 403, trademo.com/companies/natures-vibe/ — HTTP 403; web_search возвращал 'searx: Connection refused', DuckDuckGo html/lite — таймаут. Счётчик источника против фактически увиденных строк: importkey заявляет 'Shipments available for NATURES VIBE, refreshed daily' (общая формулировка для любой компании), фактически видно 0 строк — то есть подтверждения нет, а не подтверждённое отсутствие. Ни одной записи с датой, направлением, HS-кодом или номером B/L не получено; выручка, GST-оборот, тендеры GeM/CPPP не проверены. Заявленные HS 820411/845970 (ручные инструменты, сверлильно-расточные станки) и связка 'NATURE'S VIBE' = 'KTA SPRINDLE TOOLINGS' ничем не подтверждены и выглядят несогласованными (название бренда vs. инструментальное юрлицо). Статус 'заявлено, не подтверждено' применить нельзя, так как не найдено даже заявления компании — отсюда unknown, а не none_found. Требуется повторный прогон при доступных volza/eximpedia/importgenius и проверка GST-оборота по PAN (PAN не заявлен, публично не найден)."
+}

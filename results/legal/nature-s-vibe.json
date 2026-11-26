@@ -1,0 +1,18 @@
+{
+ "name_input": "NATURE'S VIBE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned connection refused on all queries, and direct fetches of registry/profile sources (zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in, Google/DDG HTML endpoints) returned 403/404/timeout. No public record for the claimed legal entity 'KTA SPRINDLE TOOLINGS' could be retrieved, so existence, CIN, PAN, GSTIN, incorporation date, MCA status and revenue are all null — NOT verified, not asserted as non-existent. Note the input itself is internally inconsistent: trade name 'NATURE'S VIBE' vs claimed legal entity 'KTA SPRINDLE TOOLINGS', and declared HS 820411 (hand-operated spanners/wrenches) + 845970 (tapping/threading machinery) does not match the claimed industry 'Строительство и DIY' (construction/DIY) — HS mismatch is not a rejection ground per project rules, but the legal entity must be re-confirmed by the client. Per rules, no rejection is issued because non-existence was not established; status is 'unverified — registry data unavailable'. Recommend re-run when search/registry access is restored."
+}

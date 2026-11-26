@@ -1,0 +1,18 @@
+{
+ "name_input": "KRS ENTERPRISES",
+ "legal_name": "KRS ENTERPRISES (exact legal form not established — could be a proprietorship/firm name, not necessarily a registered company)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (connection refused) for the whole session, and fallback attempts failed: zaubacorp.com returned HTTP 403, thecompanycheck.com returned 404, indiamart.com returned HTTP 429, duckduckgo timed out, and Bing returned only irrelevant results (Polish KRS court-registry pages) for queries on \"KRS ENTERPRISES\" + GSTIN/CIN/LLPIN. No public record of a legal entity, CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue was obtained, so all such fields are null rather than guessed. 'KRS ENTERPRISES' is a very common Indian trade name (multiple unrelated proprietorships/firms across states), so without a GSTIN or CIN the specific entity cannot be pinned down — the input itself supplies no PAN, no state and no address. Role therefore 'unknown'; the claimed HS 902480 (measuring/checking instruments) and industry 'IT и электроника' are unverified and, per project rules, HS mismatch is not a rejection ground. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a research limitation, not a negative finding. Recommended next step: obtain the supplier's GSTIN or PAN (or Udyam registration number) from the counterparty, then re-run verification against the GST portal and MCA master data."
+}
