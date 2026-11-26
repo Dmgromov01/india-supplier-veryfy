@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S Natco Pharma Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data verified. As of this run the search backend was unavailable (DuckDuckGo/searx returned 'Connection refused' on all queries), so no sanctions, court, rating, news or Russia/CIS-supply source could be retrieved. natcopharma.co.in returned only an empty page shell ('Home page', 'Contact Us') with no readable content; /investors/ returned HTTP 404. The OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be queried via http_get, so a negative SDN hit is NOT confirmed - sanctions_hit is null, not 'no'. No court case, credit rating, regulator action, negative news or Russia/CIS supply evidence was found or ruled out; all fields null because nothing is public to me in this run, not because the company is clean. Nothing here is a rejection ground and no adverse finding is implied. Re-run required with working search access before this company is treated as risk-cleared. Note also that the declared industry 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the legal name Natco Pharma Limited, a listed Indian pharmaceutical manufacturer - flagged for the identity/HS team, not assessed here."
+}

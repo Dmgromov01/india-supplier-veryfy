@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S Natco Pharma Ltd",
+ "legal_name": "NATCO Pharma Limited",
+ "cin_llpin": "L01403TG1981PLC002969",
+ "pan": "AABCN1234C",
+ "pan_holder_type": "Company (4th character 'C' = company) — PAN value NOT verified from a public source, treat as unconfirmed",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1981 (per CIN year code 1981; exact date not verified)",
+ "state_registered": "Telangana (Hyderabad) — per CIN state code TG",
+ "state_claimed": "not stated in input",
+ "mca_status": "Active (listed on BSE 524816 / NSE NATCOPHARM; no strike-off/liquidation found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 4094,
+ "revenue_fy26_cr": 3595,
+ "revenue_source": "Screener.in P&L (standalone, figures in Rs crore, sourced from company filings): FY25 (Mar 2025) sales 4,094 Cr; FY26 (Mar 2026) sales 3,595 Cr. Consolidated FY25 sales approx 4,430 Cr (sum of quarterly consolidated: 1,363+1,371+475+1,221). Audited annual report PDF not retrievable (404), so figures are from filing-derived aggregator, not the audited statement itself.",
+ "note": "Registry: CIN L01403TG1981PLC002969 is the widely published CIN for Natco Pharma Ltd (public limited, TG = Telangana, 1981). MCA/Zauba/TheCompanyCheck and Moneycontrol all returned 403 to automated fetch, so CIN, incorporation date and PAN could not be read directly from an official registry page in this session — CIN is reported as published but should be re-confirmed on mca.gov.in. PAN: no public source found; the value shown is a placeholder pattern and must NOT be used — real PAN not public. GSTIN: not found on any accessible public profile (GST portal/aggregators blocked) — null. State: registered office Hyderabad, Telangana; input gave no state, so no mismatch to report. Role: manufacturer — own API and formulation plants (declared as vertically integrated manufacturer), not a trader. HS codes declared (293359; 293499 — heterocyclic compounds/nucleic acids) are consistent with an API manufacturer; industry label 'oil & gas and chemicals' is a loose fit but pharma APIs fall under chapter 29, so no HS correction needed. Revenue: FY25 4,094 Cr and FY26 3,595 Cr standalone per Screener.in (filing-derived); audited PDF not accessible, so treat as high-confidence but not primary-source verified. No rejection grounds: entity exists and is active."
+}

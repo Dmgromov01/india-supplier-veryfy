@@ -1,0 +1,31 @@
+{
+ "name_input": "AUSTIN ENGINEERING COMPANY LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Gujarat High Court",
+   "case": "Austin Engineering Company Ltd. vs. JCIT, (2009) 312 ITR 70/71 (Guj)",
+   "party_role": "petitioner/appellant (taxpayer)",
+   "status": "decided (reported judgment, cited in later ITAT and High Court decisions)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Austin%20Engineering%20Company%22 (Indian Kanoon search results, 3 hits)"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "M/s. Austin Engineering Company Ltd. vs. Commissioner of Customs (relied on in M/s. Umang Overseas vs. Commissioner of Customs, 1 March 2012)",
+   "party_role": "appellant (customs matter)",
+   "status": "decided; cited as precedent",
+   "source": "https://indiankanoon.org/search/?formInput=%22Austin%20Engineering%20Company%22"
+  },
+  {
+   "court": "Central Administrative Tribunal - Delhi",
+   "case": "Chhedi Lal vs Union of India, 26 February 2009 — company name appears only as a scrutiny-assessment reference (M/s Austin Engineering, Rajkot, FY 1996-97/1997-98)",
+   "party_role": "not a party; mentioned incidentally",
+   "status": "n/a",
+   "source": "https://indiankanoon.org/search/?formInput=Austin%20Engineering%20Company%20Limited%20Rajkot"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no confirmed hit found, but this is NOT a clean negative — the OFAC SDN/consolidated list CSV (sanctionslistservice.ofac.treas.gov, SDN list last updated 11/23/2026) was retrieved only partially (response truncated at ~6,000 chars, alphabetical coverage only through the 'F' range), and the OFAC Sanctions List Search UI is JavaScript-driven and returned no queryable results via GET (405/empty). UN, EU, UK OFSI and BIS Entity List were NOT checked — search backend (searx) was down for the whole session ('Connection refused') and Bing returned only generic 'Austin, Texas' results regardless of query, so no reliable negative screening is possible. Treat sanctions status as UNVERIFIED, not as 'clear'. Court cases: only income-tax and customs litigation found on Indian Kanoon (Gujarat HC 2009 reported at 312 ITR 70/71; Madras HC customs precedent; a CAT-Delhi mention where the company is not a party). All are civil tax/customs matters, no criminal proceedings, no insolvency/NCLT record surfaced. Per project rule 2 these are not rejection grounds and are noted neutrally — 'есть сложности'. Rating: null — no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; company appears to be a small non-rated entity, so no public rating exists (not invented). News risk: null — no negative news could be retrieved because all general web search channels failed; absence of findings here reflects tool failure, not absence of news. RF/CIS supply: null — no evidence of supplies to Russia or CIS found, and none could be excluded given the search outage. Recommend re-running sanctions screening (OFAC/UN/EU/UK/BIS) and a news sweep once search access is restored before any decision."
+}

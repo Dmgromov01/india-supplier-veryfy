@@ -1,0 +1,18 @@
+{
+ "name_input": "IMEX Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry evidence obtained. The input itself is internally inconsistent: 'legal_claimed' = 'NIKHIL DINESH RAKSHE' is a personal name, not a legal entity name, which suggests this may be a proprietorship/firm rather than a company (no CIN would exist in that case). Attempted sources: DuckDuckGo search backend returned connection refused (searx error) on two queries; ZaubaCorp company search returned HTTP 403; Tofler search returned 404; InstaFinancials search returned 404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant international 'IMEX' trade-show/RC/bathroom-brand results with no Indian entity matching 'IMEX Overseas' + 'Rakshe'. Therefore: exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, NOT confirmed absent. Revenue FY25/FY26 null (no audited accounts or official filings found). Role left 'unknown' - no evidence of manufacturing or trading activity. Per project rules this is NOT a rejection: no proof of non-existence, strike-off, liquidation or bankruptcy was found; the entity is simply unverified and must be re-checked against MCA master data and the GST portal (search by PAN/proprietor name 'Nikhil Dinesh Rakshe', likely Maharashtra given the surname) before any verdict. Declared HS 292142 (aromatic monoamines and derivatives) is unverified and, per rules, cannot be a rejection ground anyway."
+}

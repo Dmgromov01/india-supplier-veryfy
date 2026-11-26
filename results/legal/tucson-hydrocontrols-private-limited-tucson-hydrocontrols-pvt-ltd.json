@@ -1,0 +1,18 @@
+{
+ "name_input": "TUCSON HYDROCONTROLS PRIVATE LIMITED; TUCSON HYDROCONTROLS PVT LTD",
+ "legal_name": "TUCSON HYDROCONTROLS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on all queries; direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404, and Bing/Google/DuckDuckGo HTML endpoints returned irrelevant results (query terms ignored, results about Tucson, Arizona) or HTTP 429/timeout. Therefore no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Per project rules, nothing is invented: all such fields are null. No rejection is applied - the entity is NOT confirmed non-existent, struck off, liquidated or bankrupt; status is simply unverified. Role left as 'unknown' (no evidence of manufacturing plant vs trading activity obtained). HS 848180 (valves) is plausible for a 'hydrocontrols' name but was not checked against any product record, and per rules HS mismatch would not be a rejection ground anyway. Recommended action: re-run verification when search backend is restored, or query MCA master data / GST public search directly by legal name."
+}
