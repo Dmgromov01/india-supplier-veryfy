@@ -1,0 +1,18 @@
+{
+ "name_input": "ORCHID LIFESCIENCES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAFFO2175D",
+ "pan_holder_type": "F — partnership firm (4th character 'F' in AAFFO2175D). Note: this is the PAN as claimed in the input; it could not be verified against any public source. If the entity is in fact a company, the 4th character should be 'C' — the 'F' suggests a partnership firm, LLP or proprietorship, which would mean no CIN exists.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed. All tool routes failed: DuckDuckGo search backend refused connection (searx: Connection refused); html.duckduckgo.com timed out; Bing returned only generic 'orchid flower' results for every query variant, including exact-phrase queries on the name and on the PAN; ZaubaCorp, TheCompanyCheck and InstaFinancials returned HTTP 403; mca.gov.in MDS returned HTTP 403. Therefore legal_name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT because they were found to be absent, but because no public source could be read. No number here is inferred or invented. Two observations that are verifiable from the input alone: (1) the claimed PAN AAFFO2175D has 'F' as its 4th character, which denotes a partnership firm, not a company — so a CIN may legitimately not exist for this entity, and the correct identifier would be an LLPIN or a firm registration; this should be clarified with the supplier before further checks. (2) The claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the declared HS codes 3301/3304/3305, which are perfumery, cosmetic and hair-care goods — a cosmetics/personal-care profile, not petrochemicals. Per project rules this is NOT grounds for rejection; the HS code should be corrected to the factual one and the industry label re-classified. Verdict: NOT rejected — no evidence of non-existence, strike-off, liquidation or bankruptcy was obtained, and rejection is only permitted on those grounds. Status must be treated as unverified pending a working registry lookup (recommend a manual MCA master-data search and GST portal search by PAN/name)."
+}

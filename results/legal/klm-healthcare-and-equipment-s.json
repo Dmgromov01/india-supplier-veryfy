@@ -1,0 +1,18 @@
+{
+ "name_input": "KLM HEALTHCARE AND EQUIPMENT S",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "EJTPB6833A",
+ "pan_holder_type": "Individual (4th character 'P' = person) — as claimed in input, NOT verified against any public source",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) for the whole session; Bing/Google HTML fetches returned only irrelevant results (KLM airline) and ignored the quoted company name; registry aggregators (zaubacorp.com, instafinancials.com, thecompanycheck.com) returned HTTP 403/404. Therefore no CIN/LLPIN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed — all left null rather than guessed. Two observations from the input itself, flagged as unverified: (1) the claimed PAN 'EJTPB6833A' has 'P' as its 4th character, which denotes an INDIVIDUAL holder, not a company — a company PAN would carry 'C' in the 4th position; this suggests the identifier may belong to a proprietor/firm rather than a limited company, so the entity may be a sole proprietorship (no CIN exists for proprietorships). (2) The name appears truncated ('...EQUIPMENT S'), possibly '...EQUIPMENT SUPPLIERS' or similar. The claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the name (healthcare equipment) and with declared HS 940290 (medical/surgical furniture) — per project rules this is NOT a rejection ground; HS should be corrected to the factual code and the company retained. No rejection is applied here: non-existence/struck-off/liquidation could not be established either way, so the record stays unverified rather than rejected. Recommended next step: manual check on the MCA master-data portal and the GST taxpayer search using the PAN, plus a request to the supplier for its GST certificate and constitution of business."
+}

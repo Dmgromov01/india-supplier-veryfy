@@ -1,0 +1,18 @@
+{
+ "name_input": "KREATIVE ACTIVES PRIVATE LIMITED",
+ "legal_name": "KREATIVE ACTIVES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend (searx) returned 'Connection refused'; DuckDuckGo HTML timed out; Bing returned only irrelevant/corrupted results for every query variant (company name, name+CIN, name+GSTIN, PAN 'AAHCK8851B'); Google returned a redirect interstitial. Direct fetches of registry aggregators were blocked: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, mca.gov.in HTTP 403, instafinancials.com HTTP 404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT verified, not absent. The claimed PAN AAHCK8851B is unconfirmed: its 4th character 'C' would indicate a company-type holder, which is consistent with a 'PRIVATE LIMITED' name, but this is a format observation only, not a verified record. The claimed state Andhra Pradesh is unconfirmed. Role left as 'unknown' because no MCA main-object clause or GST activity could be read; the claimed industry (oil/gas & chemicals) and declared HS 293359 (heterocyclic compounds, likely pharma intermediates) are unverified and, per project rules, HS mismatch is not a rejection ground in any case. No rejection applied: there is no evidence the entity does not exist, and equally no evidence that it does - status is unverified, not rejected. Recommend re-running this company once search/registry access is restored, or manual MCA master-data lookup by name."
+}

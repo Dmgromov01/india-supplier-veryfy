@@ -1,0 +1,18 @@
+{
+ "name_input": "ILMIC HEALTH CARE PRIVATE LIMITED",
+ "legal_name": "ILMIC HEALTH CARE PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAGCI2794C",
+ "pan_holder_type": "A — Association of Persons (AOP) / body of individuals per 4th character; note: for a company the 4th character should normally be 'C', so this PAN format is inconsistent with a private limited company and needs re-verification against the PAN card / MCA master data",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this session: the web_search backend returned connection refused on all queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, indiafilings.com, falconebiz.com) returned HTTP 403/404 or JavaScript-only shells with no company record. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable here, NOT evidence of non-existence. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt. The claimed PAN AAGCI2794C has 4th character 'I' (AOP/BOI holder type), which is atypical for a private limited company (expected 'C') — flag for re-verification, but this is not grounds for rejection. Role left 'unknown' (no registry/audited evidence of manufacturing vs trading). Revenue FY25/FY26 null: no audited accounts or MCA filings accessible. Declared HS 350790 (enzymes) vs claimed industry 'food & FMCG' is a classification question only, not a rejection ground. Recommend re-run when search/registry access is restored."
+}
