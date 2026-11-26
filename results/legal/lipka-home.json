@@ -1,0 +1,18 @@
+{
+ "name_input": "Lipka Home",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input gives no legal entity form: 'KAPIL GUPTA' is a personal name, not a company name, and 'Lipka Home' appears to be a trade/brand name only. No CIN/LLPIN, PAN or GSTIN was supplied or found. Search tooling failed during this run (DuckDuckGo backend refused connections; Bing returned only unrelated results; Zauba Corp and MCA portal returned HTTP 403; IndiaMART returned HTTP 429), so no public GST profile, MCA record, incorporation date or registered-office state could be confirmed. Revenue FY25/FY26: no audited accounts or official filings located - null, not estimated. Role recorded as 'unknown' because no evidence distinguishes manufacturer from trader. NOT rejected: absence of verifiable data is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Recommended next step: obtain the exact legal entity name (e.g. '... Private Limited' / proprietorship) or the GSTIN from the supplier, then re-run the registry check. Declared HS 681099 (articles of cement/plaster) is not assessed here per role scope."
+}

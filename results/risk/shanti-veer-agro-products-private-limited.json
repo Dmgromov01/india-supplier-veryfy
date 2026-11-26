@@ -1,0 +1,9 @@
+{
+ "name_input": "SHANTI VEER AGRO PRODUCTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Tooling limitation: the web_search backend was unavailable throughout (searx connection refused), and company-registry aggregators (Zauba Corp, TheCompanyCheck) returned HTTP 403/404, so no registry, sanctions-list, rating-agency or news page could be read directly. Findings on what WAS checked: (1) Sanctions — no OFAC SDN / UN / EU / UK / BIS Entity List screening could be completed; no public sanctions listing for this name was observed, but this is NOT a verified negative screen. Recorded as null, not as 'clear'. (2) Indian courts — Indian Kanoon exact-phrase searches for \"Shanti Veer Agro Products\" and \"Shanti Veer Agro\" returned 0 matching results; a broader boolean query returned only generic keyword hits (Maharashtra Shops Act, unrelated High Court matters) with no party of this name. So no litigation involving this entity was found in that database; this covers only published judgments/orders, not pending district-level or NCLT matters. Recorded as null (no cases found, coverage incomplete). (3) Regulator actions / negative news — could not be researched (search backend down); null, not a clean bill. (4) Credit rating — no CRISIL/ICRA/CARE/India Ratings/Acuite action found or verifiable; null. (5) Supplies to Russia/CIS — no evidence found either way; null. Per project rules, absence of found data is not a rejection ground and no adverse inference is drawn; sanctions/court/criminal matters would in any case not be rejection grounds. Recommend re-running the sanctions screen (OFAC/UN/EU/UK/BIS) and a registry + NCLT check when search access is restored, since this batch's risk picture is currently unverified rather than verified-clean."
+}

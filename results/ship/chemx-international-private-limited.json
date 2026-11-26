@@ -1,0 +1,8 @@
+{
+ "name_input": "Chemx International Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for the company exists but renders zero data rows: \"Shipments available for CHEMX INTERNATIONAL PRIVATE LIMITED, refreshed daily\" — no shipment row, no date, no destination, no HS code, no B/L number was visible in the free view. Source counter: 1 company page found on ImportKey, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Searches for \"Chemx International Private Limited\" returned only unrelated brands (Chem-X car wash, Chemex coffeemakers); zaubacorp, thecompanycheck, volza, eximpedia, trademo and importgenius all returned HTTP 403 / JS challenge, so no domestic supply record could be read. Source counter: 0 domestic evidence rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. ImportKey подтверждает лишь существование карточки компании в таможенной базе (это не отгрузка), конкретных записей с датой, направлением, HS и номером B/L в бесплатном доступе нет. Внутренний рынок: GST-оборот, тендеры GeM/CPPP, контракты — null, публично не найдено. Заявленный HS 390599 (полимеры) не проверен по фактическим записям, поэтому не корректировался. Выручка и объём экспорта: null (данных нет, не выдумывались). Трейдер/производитель — роль не определена (unknown)."
+}

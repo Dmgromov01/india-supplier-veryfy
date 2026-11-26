@@ -1,0 +1,8 @@
+{
+ "name_input": "C-YARN INTERNATIONAL",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for 'C YARN INTERNATIONAL PRIVATE LIMITED' (https://importkey.com/countries/india/c-yarn-international-private-limited) renders only the shell: 'Shipments available for C YARN INTERNATIONAL PRIVATE LIMITED, refreshed daily' — zero shipment rows, dates, destinations, HS codes or B/L numbers were visible (0 rows seen; page is paywalled behind 'Start Free Trial'). No record could be quoted.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend was down ('searx: Connection refused') and eximpedia/trademo/importgenius/volza all returned 403 or JS-challenge, so no domestic supply record was retrievable (0 rows seen).",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались закрыты (ImportKey — только заглушка без строк, volza/eximpedia/trademo — 403, importgenius — JS-challenge, DuckDuckGo — таймаут/отказ). Поэтому статус 'unknown', а не 'none_found': отсутствие данных здесь означает недоступность источников, а не отсутствие отгрузок. Заявленный HS 610910 (трикотажные футболки) не соответствует заявленной отрасли «Продукты питания и FMCG» — по правилу 3 это НЕ основание для отклонения; код нужно исправить на фактический после получения данных. Юрлицо, судя по названию страницы ImportKey, — 'C YARN INTERNATIONAL PRIVATE LIMITED'; CIN/PAN/выручка/объём экспорта — null (не публичны в доступных источниках, не выдумывались). Рекомендуется повторная проверка при восстановлении доступа к таможенным данным."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "Lipka Home",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey pages for both slugs (https://importkey.com/countries/india/lipka-home and .../lipka-home-llp) returned only the generic template shell: 'Shipments available for LIPKA HOME, refreshed daily' — 0 actual shipment rows rendered, no date, destination, HS code or B/L number visible. Volza, Eximpedia, Trademo and ImportGenius free views all returned HTTP 403 / JS challenge, so no export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: DuckDuckGo search backend returned 'Connection refused' (no results at all), Google returned a redirect/consent interstitial, and the paid trade-data portals blocked access. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок были недоступны (ImportKey отдал пустой шаблон без строк, Volza/Eximpedia/Trademo/ImportGenius — 403, поисковик не работал). Поэтому статусы 'unknown', а не 'none_found'. Заявленный HS 681099 (изделия из камня/асбестоцемента, гр. 6810) не подтверждён ни одной таможенной записью; фактический код не установлен. Юрлицо: заявлен 'KAPIL GUPTA' как владелец, форма собственности не подтверждена (возможен вариант 'Lipka Home LLP' — страница ImportKey по этому слагу существует, но без данных). Выручка: null (не публична, не найдена). Объём экспорта: null. Рекомендация: повторная проверка при восстановлении доступа к таможенным базам; отклонять не за что (нет данных о ликвидации/банкротстве), но и подтверждений фактических отгрузок нет."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "UNOSOURCE PHARMA LIMITED",
+ "legal_name": "UNOSOURCE PHARMA LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a connection error (searx: Connection refused) on both queries, and direct fetches of registry/profile pages were blocked or empty: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), falconebiz.com (HTTP 403), instafinancials.com (HTTP 404), tofler.in (HTTP 404 - no such company slug), zaubacorp company-search (HTTP 403). Bing fallback returned only irrelevant results (grafting tape, COVID-19), so no page confirming the existence of an entity named 'UNOSOURCE PHARMA LIMITED' was obtained. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable here, not invented. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role is 'unknown' (no registry record to classify manufacturer vs trader). IMPORTANT: per project rules a company may only be rejected if the entity does not exist / is struck off / liquidated / bankrupt - absence of retrievable data is NOT proof of non-existence, so this record is NOT rejected; it is flagged as unverified pending a working registry lookup (MCA master data / GST portal search by trade name). Note also that the claimed name 'UNOSOURCE PHARMA LIMITED' with declared HS 210690 (food preparations) and industry 'food/FMCG' is internally inconsistent (a 'pharma' name vs a food HS code); HS mismatch is not a rejection ground - the code should be corrected to the actual product once the entity and its goods are confirmed. No shipment, court or catalogue research was performed per role scope."
+}

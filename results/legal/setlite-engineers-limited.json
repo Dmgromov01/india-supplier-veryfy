@@ -1,0 +1,18 @@
+{
+ "name_input": "SETLITE ENGINEERS LIMITED",
+ "legal_name": "SETLITE ENGINEERS LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a connection error (searx: Connection refused) on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404. Bing/Google fallback fetches returned unrelated results (US real-estate and home-appliance pages), so no page containing the company's CIN, PAN, GSTIN, incorporation date or MCA status was actually read. Per the no-invention rule, all registry fields are left null rather than guessed. The name 'SETLITE ENGINEERS LIMITED' is plausible as an Indian public limited company (the 'LIMITED' suffix suggests a company, not a firm/proprietorship), but this is inference from the name only, not a verified record. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected - it is left unverified pending a re-run with working search/registry access. Role cannot be determined from registry data alone; the declared HS codes (841480/841490/841950 compressors, parts, heat-exchange units; 846789 hand tools) are consistent with an engineering manufacturer, but that is a product-code inference, not a registry fact. Revenue FY25/FY26: no audited accounts or official filings were accessible, so null. Recommended next step: re-query MCA master data by CIN or by name via a working source, then pull the GSTIN from a public GST profile to confirm the registered state."
+}

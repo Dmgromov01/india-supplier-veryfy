@@ -1,0 +1,18 @@
+{
+ "name_input": "Accurate Gear",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not obtained. The input gives no legal-entity form: 'Accurate Gear' appears to be a trade name and 'ARVINDKUMAR DHARAMSINGH PATEL' an individual proprietor/partner name, so there is no CIN/LLPIN to look up and no company record to verify. Search backend (DuckDuckGo/searx) was down (connection refused) for the whole session; Google returned only a redirect page; Bing returned irrelevant generic results for the word 'accurate'; Zaubacorp and MCA master-data returned HTTP 403; Tofler and Instafinancials search URLs returned 404. No public GSTIN profile, PAN, incorporation date, MCA status or audited revenue could be retrieved, therefore all such fields are null rather than inferred. PAN holder type cannot be derived because no PAN is public. State registered vs claimed: nothing claimed in input and nothing found. Role left 'unknown' - no registry evidence of manufacturing plant or trading activity. NOT rejected: absence of public data is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy, none of which was established. Recommended next step: obtain the GSTIN or PAN directly from the supplier (a proprietorship GSTIN would confirm the 4th-character holder type as 'P' for individual PAN) and re-run verification against the GST portal and MCA."
+}
