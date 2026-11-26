@@ -1,0 +1,9 @@
+{
+ "name_input": "TEKSTAR DISTRIBUTION PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка ограничена: поисковый бэкенд (DuckDuckGo/searx) был недоступен на протяжении всей сессии ('Connection refused'), поэтому открытых источников по компании найти не удалось. Что проверено напрямую: (1) OFAC Sanctions List Search — страница доступна, но это JS-форма без возможности передать запрос через http_get; API-эндпоинт search.sanctionslist.ofac.treas.gov не резолвится (DNS error), поэтому совпадение по SDN/Non-SDN не подтверждено и не опровергнуто — null. (2) Indian Kanoon: запрос \"Tekstar Distribution\" — 0 результатов; запрос 'tekstar' дал 4 решения Delhi High Court (Toyota Jidosha Kabushiki Kaisha vs Tech Square Engineering Pvt Ltd, 03.02.2023 и 04.05.2026), но они касаются других лиц — 'Tekstar Global Private Limited' и 'Sai Supertrek Global Private Limited' (сестринские компании ответчика), а НЕ TEKSTAR DISTRIBUTION PRIVATE LIMITED. Судебных дел с участием именно этой компании не найдено; при этом наличие в одной группе компании с активным спором о товарных знаках (Toyota) — нейтральный факт, не основание для отклонения. (3) Реестры MCA-агрегаторы (ZaubaCorp, TheCompanyCheck, InstaFinancials) вернули 403/404 — данные о юрлице, рейтинге и регуляторных действиях получить не удалось. Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) — null, публичных записей не найдено. Негативных новостей — null, не проверено из-за недоступности поиска. Поставки в РФ/СНГ — null: следов не найдено, но и полноценный поиск не выполнен; формулировка 'следов поставок не найдено' здесь означала бы неподтверждённый вывод, поэтому ставлю null с явной оговоркой. Рекомендуется повторный прогон при восстановлении поиска и доступ к MCA-выписке."
+}

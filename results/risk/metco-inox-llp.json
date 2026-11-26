@@ -1,0 +1,9 @@
+{
+ "name_input": "Metco Inox LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCREENING — INCONCLUSIVE, NOT CLEARED. Sanctions: OpenSanctions consolidated dataset (OFAC SDN/UN/EU/UK/BIS-derived, data current as of 2026-11-26) returned 'No matching entities were found' for both 'Metco Inox' and the broader 'Metco' query (https://www.opensanctions.org/search/?q=Metco+Inox). This is a NEGATIVE screen result only, not proof of absence: OpenSanctions is an aggregator and does not guarantee full coverage of Indian LLPs, and no direct OFAC SDN / UN / EU / UK OFSI / BIS Entity List lookup was completed. sanctions_hit set to null (not false) because the primary lists were not individually verified. Court cases: NOT RESEARCHED — no Indian court source (eCourts, NCLT, High Court, Supreme Court) could be reached; search backend (DuckDuckGo/searx) was down with connection refused, Google returned HTTP 429, Bing returned unrelated generic results, and DuckDuckGo lite timed out. court_cases null = unknown, not 'no cases'. Regulator actions / negative news: NOT RESEARCHED for the same reason; news_risk null = unknown, not 'clean'. Credit rating: no public rating found and none expected for an LLP of this profile; null — not public / not verified. Russia/CIS supply evidence: NOT RESEARCHED; rf_supply null = no evidence found AND no search performed, so this must not be read as 'no Russia exposure'. ACTION REQUIRED: re-run this company once search connectivity is restored, with direct checks against OFAC SDN search, EU consolidated list, UK OFSI, BIS Entity List, eCourts/NCLT by party name, and Indian trade-press. Per project rules, any sanctions/court/criminal findings are to be recorded neutrally as 'есть сложности' and are NOT grounds for rejection."
+}

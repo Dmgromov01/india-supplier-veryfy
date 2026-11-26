@@ -1,0 +1,18 @@
+{
+ "name_input": "TEKSTAR DISTRIBUTION PRIVATE LIMITED",
+ "legal_name": "TEKSTAR DISTRIBUTION PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра НЕ подтверждены — не удалось получить ни одного первоисточника. Ход проверки: (1) web_search (DuckDuckGo/searx) вернул ошибку соединения 'Connection refused' на обоих запросах; (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — HTTP 403; (4) instafinancials.com — HTTP 404 (страница компании отсутствует); (5) quickcompany.in — таймаут; (6) falconebiz.com — отдал только шаблон/лендинг без карточки компании (данные за JavaScript-рендерингом); (7) Google — HTTP 429; (8) Bing по точному запросу в кавычках выдал полностью нерелевантную выдачу (страницы Microsoft/Windows), т.е. релевантных индексированных страниц по этому юрлицу не найдено. Итог: CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, так как ни один из них не был виден в публичном первоисточнике. Ничего не выдумывалось. Отклонять НЕЛЬЗЯ: отсутствие подтверждения существования юрлица из-за недоступности реестров — не основание для rejected по правилам проекта (rejected только при доказанном несуществовании/ликвидации/банкротстве). Роль (manufacturer/trader) не определена — нет данных о видах деятельности в MCA/GST. Заявленный HS (370120; 844332; 851713; 851830) и отрасль 'Строительство и DIY' не проверялись и не корректировались: по правилам HS-несоответствие не является основанием для отклонения. Требуется повторная проверка при доступе к MCA-порталу (mca.gov.in / MCA master data) или к GST-справочнику (gst.gov.in — 'Search Taxpayer') по точному названию, а также запрос CIN у поставщика напрямую."
+}

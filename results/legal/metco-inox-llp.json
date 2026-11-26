@@ -1,0 +1,18 @@
+{
+ "name_input": "Metco Inox LLP",
+ "legal_name": "METCO INOX LLP (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. All search tooling failed during this run: web_search (searx) returned 'Connection refused' on every query; DuckDuckGo HTML/lite endpoints timed out; Google returned HTTP 429; Bing returned completely irrelevant results (query not honored, results about Microsoft/MapleStory); zaubacorp.com and thecompanycheck.com returned HTTP 403; search.mca.gov.in did not resolve (DNS failure). Therefore no LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or revenue figure could be sourced from a public registry or official filing. Per project rules, nothing is inferred or invented: PAN holder type cannot be derived without the PAN itself; revenue FY25/FY26 left null because no audited accounts or MCA filings were accessible. Role left 'unknown' - the 'LLP' suffix in the claimed name is not evidence of manufacturing vs trading activity. NOT rejected: absence of accessible records is not proof of non-existence, strike-off, liquidation or bankruptcy, and rejection is permitted only on those grounds. Action required: re-run verification when search/registry access is restored, checking MCA master data for the exact LLPIN, the GST portal public search for GSTIN and status, and the LLP's filed Statement of Account & Solvency / ITR for revenue. Declared HS codes 260120 (chromium ores/concentrates) and 720211 (ferro-manganese, C>2%) are metallurgy inputs and are plausible for a metals trading entity, but HS alignment is not a rejection ground in any case."
+}

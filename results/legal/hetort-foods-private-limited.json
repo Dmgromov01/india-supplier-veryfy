@@ -1,0 +1,18 @@
+{
+ "name_input": "HETORT FOODS PRIVATE LIMITED",
+ "legal_name": "HETORT FOODS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. Все попытки получить первичные данные провалились по техническим причинам: web_search (DuckDuckGo/searx) вернул 'Connection refused'; zaubacorp.com и thecompanycheck.com — HTTP 403 Forbidden; instafinancials.com и tofler.in — HTTP 404 (страница компании не найдена по прямому URL); quickcompany.in — таймаут; falconebiz.com — отдал только шаблон поиска без данных (требуется JS/подписка); google.com — HTTP 429; duckduckgo.com/html — таймаут; bing.com вернул нерелевантную выдачу (поиск не отработал запрос). Таким образом CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 остаются null — эти сведения публично не подтверждены в рамках доступных источников. Роль (manufacturer/trader) не определена: без MCA-записи и GST-профиля отнести компанию к категории нельзя, поэтому 'unknown'. ВАЖНО: отклонять НЕЛЬЗЯ — по правилам проекта rejected допустим только при доказанном отсутствии юрлица, ликвидации или банкротстве, а таких доказательств нет (отсутствие данных ≠ отсутствие компании). Компания сохраняется в базе как непроверенная, требуется повторный прогон при восстановлении доступа к реестру MCA/GST. Заявленный HS (200490; 210320; 210390; 210410 — готовые/консервированные продукты, соусы, томатная паста) не подтверждён и не опровергнут; по правилу от 23.11.2026 несоответствие HS не является основанием для отклонения. Фактичность отгрузок (экспорт/внутренний рынок) в рамках данной роли не исследовалась — вне зоны ответственности legal/registry."
+}

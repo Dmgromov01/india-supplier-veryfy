@@ -1,0 +1,18 @@
+{
+ "name_input": "VIRGIN ENTERPRISE PRIVATE LIMITED",
+ "legal_name": "VIRGIN ENTERPRISE PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused') on both search queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant/spam results for the exact-name queries. Direct registry pages were blocked or unavailable: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, instafinancials.com HTTP 404, falconebiz.com returned only a generic search shell (JS-gated, no company record), quickcompany.in timed out, tofler.in search returned 404. Consequently no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figure could be confirmed from any public source. Per project rules, nothing is invented: all registry fields are null and revenue FY25/FY26 are null (no audited accounts or official filings located). Role is recorded as 'unknown' - the claimed name contains 'ENTERPRISE' and the declared HS 680223 (worked monumental/building stone) suggests a possible trader/stone-dealer profile, but this is an inference from the input only, NOT a verified fact. IMPORTANT: this is NOT a rejection. Per rule 3, rejection requires positive evidence that the entity does not exist, is struck off, liquidated or bankrupt - no such evidence was found either way, so the company remains in the database pending a re-run of registry checks (recommended sources: MCA master data via a working API key, GST portal search by trade name, or a paid registry aggregator). No customs, court or catalogue research was performed, per role scope."
+}
