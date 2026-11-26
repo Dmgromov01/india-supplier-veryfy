@@ -1,0 +1,8 @@
+{
+ "name_input": "ARYAN GLOBAL & CO",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/aryan-global-co (and slug variant aryan-global-and-co) returned only a paywalled template page: 'Shipments available for ARYAN GLOBAL CO, refreshed daily' — zero shipment rows rendered, no date, destination, HS code or B/L number visible. Source counter: 2 importkey pages opened, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. web_search backend failed on all queries ('searx: <urlopen error [Errno 111] Connection refused>'), so no domestic-supply source could be located. 0 domestic records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Ни одной фактической отгрузки (экспортной или внутренней) не зафиксировано, поэтому статус unknown, а не confirmed. Причины: (1) поисковый бэкенд был недоступен на всех запросах, (2) importkey отдаёт только заглушку без строк данных, (3) volza, eximpedia, trademo — HTTP 403, importgenius — JS-челлендж. Заявленный HS 902790 (приборы/аппаратура для физического или химического анализа) ничем не подтверждён и не опровергнут; по правилу 3 несоответствие HS не является основанием для отклонения, компания остаётся в базе. Выручка и объём экспорта: null (не публичны / не получены), не выдумывались. Рекомендуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}

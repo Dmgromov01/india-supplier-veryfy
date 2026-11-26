@@ -1,0 +1,18 @@
+{
+ "name_input": "P R D RIGS INDIA PRIVATE LIMITED; PRD RIGS INDIA PRIVATE LIMITED",
+ "legal_name": "PRD RIGS INDIA PRIVATE LIMITED (exact registered spelling not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved: the web_search backend was down (searx connection refused) and every registry aggregator tried returned 403/404/timeout (zaubacorp, thecompanycheck, tofler, instafinancials, quickcompany), while Bing/Google/DuckDuckGo returned irrelevant or rate-limited results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public via the sources reachable in this session, and not invented. What IS confirmed from the company's own website (https://www.prdrigs.com/, fetched successfully): the brand 'PRD Rigs' is an Indian drilling-rig manufacturer, founded 1972, Chairman Mr. T.P. Thangaraj, with manufacturing/design/QC facilities and stated global presence in India, Kenya, Sri Lanka and Burkina Faso; product lines (water-well, geo-exploration, mineral & metal mining, infrastructure & energy rigs) are consistent with declared HS 843041 (boring/sinking machinery, n.e.s.) and with the claimed industry 'metallurgy & mining'. This supports role = manufacturer, but the website is a marketing source, not a registry record, so the legal-entity attributes remain unverified. No rejection grounds found (no evidence of non-existence, strike-off, liquidation or bankruptcy), so the company is retained in the database pending MCA/GST portal verification. Recommended next step: pull the CIN from the MCA master data / GST portal search by trade name 'PRD RIGS INDIA PRIVATE LIMITED' and re-run this record."
+}
