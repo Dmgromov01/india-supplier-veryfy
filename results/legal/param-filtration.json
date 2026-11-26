@@ -1,0 +1,18 @@
+{
+ "name_input": "PARAM FILTRATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The name given in the input ('PARAM FILTRATION') is a trade name, not a verified legal entity name; the 'legal_claimed' field contains a personal name (Rashmin Balwantrai Desai), which suggests a sole proprietorship — such entities have no CIN/LLPIN and no MCA record, so MCA status, incorporation date and audited revenue are not public. No PAN, GSTIN, GST status, registered state or incorporation date could be confirmed: DuckDuckGo search backend was down (connection refused), Google returned HTTP 429, Zaubacorp returned HTTP 403, TheCompanyCheck/InstaFinancials search URLs returned 404, and Bing returned only irrelevant results with the query terms ignored. Per project rules, nothing is invented: all registry fields are null. NOT rejected — there is no evidence the entity does not exist; the absence of data is a research limitation, not a finding of non-existence. Role left as 'unknown' (HS 842129 = filtering/purifying machinery, consistent with a filtration-equipment supplier, but this is not evidence of manufacturer vs trader status). Revenue FY25/FY26: null — no audited accounts or official filings located. Recommended next step: re-run against MCA master data / GST public search by proprietor name 'Rashmin Balwantrai Desai' (likely Gujarat/Maharashtra) once search access is restored."
+}

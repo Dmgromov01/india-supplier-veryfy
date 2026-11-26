@@ -1,0 +1,18 @@
+{
+ "name_input": "C K Foods Industries Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Ни один реестровый источник не удалось прочитать: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Bing по запросам с точным названием выдавал нерелевантную выдачу (Calvin Klein, Wikipedia 'C', Richmond CA) — признак того, что точного совпадения по названию в индексе нет; zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in — HTTP 403 Forbidden; tofler.in — 404 по поисковому URL. Поэтому exact legal entity name, CIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null — выдумывать их запрещено правилами. Роль определена как 'unknown' (не manufacturer/trader), т.к. нет ни реестровых, ни корпоративных данных. ВАЖНО: отклонять компанию НЕЛЬЗЯ — отсутствие подтверждения существования юрлица в рамках этого прогона не равно доказательству несуществования (правило 3: rejected только при документально подтверждённой ликвидации/банкротстве/struck off). Статус: 'заявлено, не подтверждено', требуется повторная проверка при доступном MCA-поиске по названию и GST-портале. HS 100630 (рис) не проверялся — вне роли."
+}

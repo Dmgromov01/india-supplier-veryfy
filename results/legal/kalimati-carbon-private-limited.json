@@ -1,0 +1,18 @@
+{
+ "name_input": "KALIMATI CARBON PRIVATE LIMITED",
+ "legal_name": "KALIMATI CARBON PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend connection error ('searx: Connection refused') on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, falconebiz.com, tofler.in, instafinancials.com) returned HTTP 403/404 or timeouts. Bing fallback returned only irrelevant results (Greek salad recipes, Yahoo login pages, Amazon Prime), so no page containing the company's CIN, PAN, GSTIN, incorporation date or MCA status was actually read. Per the no-invention rule, all registry fields are set to null rather than guessed. The name pattern 'KALIMATI CARBON PRIVATE LIMITED' is consistent with an Indian private limited company and the claimed activity (activated carbon, HS 380210) is plausible for such a name, but this is NOT confirmation of existence. No rejection is applied: rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and no such evidence was found either. Status: unverified - requires re-check against MCA master data (mca.gov.in / company master data) and the GST portal. Revenue FY25/FY26 not available from audited accounts or official filings in this session, hence null. Role left as 'unknown' pending verification of whether the entity manufactures activated carbon or trades it."
+}

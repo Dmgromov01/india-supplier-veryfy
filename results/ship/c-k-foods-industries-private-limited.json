@@ -1,0 +1,8 @@
+{
+ "name_input": "C K Foods Industries Private Limited",
+ "export_status": "confirmed",
+ "export_evidence": "ImportKey India customs page (https://importkey.com/countries/india/c-k-foods-industries-private-limited): \"Total Shipments 4 Records detected ... Latest Cargo 2026-01-28\"; row: \"2026-01-28 | C K FOODS INDUSTRIES PRIVATE LIMITED | DURDANAH FOODSTUFF TRADING L.L.C. | 5KG STEAM (WAND) DURDANA PREMINUM AGED BASMATI RICE ... MANDIDEEP ICD INMDD6, India | Jebel Ali, UNITED ARAB EMIRATES | 10063092 | 9124281\". Source counter: page claims 4 shipments / 1 trading partner / 2 ports; rows actually seen: 4 shipment rows (all dated 2026-01-28, all HS 10063092, all BOL 9124281, all Mandideep ICD -> Jebel Ali, UAE, buyer DURDANAH FOODSTUFF TRADING L.L.C.).",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Export side is factually confirmed, not merely declared: 4 customs rows with date (2026-01-28), destination (Jebel Ali, UAE), HS 10063092 (basmati rice, consistent with declared HS 100630) and BOL 9124281, buyer DURDANAH FOODSTUFF TRADING L.L.C. Caveat: all 4 rows share one date, one BOL and one buyer, so this is effectively a single consignment split into 4 line items — one shipment event, not a recurring export flow. Domestic supply side: no evidence obtained — web_search returned no results (searx connection refused) and zaubacorp, thecompanycheck, volza and eximpedia all returned HTTP 403, so GST turnover band, GeM/CPPP tenders and annual-report splits are null/unverified. No revenue or export-volume figures are public in the sources read; left null rather than estimated. No registry or catalogue data used."
+}

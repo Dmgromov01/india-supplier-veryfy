@@ -1,0 +1,18 @@
+{
+ "name_input": "VEENDEEP OILTEK EXPORTS PVT.LTD",
+ "legal_name": "VEENDEEP OILTEK EXPORTS PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; Google returned HTTP 429; DuckDuckGo (html and lite endpoints) timed out; Bing returned only irrelevant results (Seattle maps / Home Depot) for the exact-phrase queries, i.e. no indexed match surfaced; marginalia returned a bot-check page. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they were not publicly retrievable within the tool budget. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role set to 'unknown' - the name contains 'EXPORTS' but that is a naming convention, not evidence of trading vs manufacturing activity. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of retrievable data is not grounds for rejection. Declared HS 848180 (valves/taps) is retained as-is; no HS correction is proposed since no actual product line was verified. Recommended follow-up: manual MCA master-data lookup by name, and GST portal 'Search Taxpayer' check, before any commercial decision."
+}

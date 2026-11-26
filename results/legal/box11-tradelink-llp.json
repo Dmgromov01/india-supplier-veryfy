@@ -1,0 +1,18 @@
+{
+ "name_input": "BOX11 TRADELINK LLP",
+ "legal_name": "BOX11 TRADELINK LLP",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд DuckDuckGo (web_search) возвращал 'Connection refused' на всех запросах; прямые запросы к Bing по точному названию в кавычках ('BOX11 TRADELINK LLP', 'BOX11 TRADELINK' + LLP India, + zaubacorp/thecompanycheck/llpin) не дали ни одного релевантного результата — выдавались посторонние страницы (форумы, Microsoft, погода), т.е. точного совпадения в индексе нет. Агрегаторы реестра недоступны: zaubacorp.com — HTTP 403, thecompanycheck.com — 404, instafinancials.com/company/box11-tradelink-llp — 404, falconebiz.com — 403, duckduckgo.com/html — timeout. Официальный портал MCA (mca.gov.in) и GST-портал в рамках лимита инструментов проверить не удалось. Следовательно: LLPIN/CIN, PAN (и тип держателя по 4-му символу), GSTIN, дата регистрации, штат рег. офиса, статус MCA и выручка FY25/FY26 — null, не выдумывались. Штат в исходных данных не заявлен (state_claimed пусто), поэтому сверку 'штат в реестре vs заявленный' выполнить невозможно. Роль определена как unknown: ни реестровых, ни корпоративных подтверждений производственной или торговой деятельности не найдено. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие публичных данных в этой сессии не является доказательством несуществования юрлица (правило 3: rejected только при подтверждённой ликвидации/банкротстве/struck off). Требуется повторная проверка с доступом к MCA V3 / GST-порталу или к платным реестрам (Tofler, Probe42) для установления LLPIN, PAN, GSTIN и финансовой отчётности. Заявленные коды HS (090111, 091099, 121190 — кофе/специи/лекарственное растительное сырьё) реестром не подтверждены и не опровергнуты; по правилу 3 несоответствие HS не является основанием для отклонения."
+}
