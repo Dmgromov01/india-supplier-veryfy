@@ -1,0 +1,18 @@
+{
+ "name_input": "SWADESH INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record located. Searches for 'SWADESH INTERNATIONAL' together with the claimed proprietor name 'DIPAK JADVANI' (and spelling variants Jadvani/Jadwani/Jadhavani) returned no matching Indian entity; DuckDuckGo search backend was down (connection refused) and Bing returned only unrelated generic 'Swadesh' results (a craft retailer, a film, a newspaper). Direct registry/profile pages (zaubacorp.com, thecompanycheck.com, mca.gov.in) returned HTTP 403 Forbidden, so CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status and audited revenue could not be confirmed. The input gives no PAN and no state, so the PAN 4th-character holder-type test and the registered-state vs claimed-state comparison cannot be performed. 'SWADESH INTERNATIONAL' is a very common Indian trade name and the claimed 'legal_claimed' value 'DIPAK JADVANI' is a person's name, not a company name - it is likely a sole proprietorship (proprietor-type PAN, P at 4th character) rather than a company, but this is unverified. Per project rules the entity is NOT rejected: non-existence/struck-off/liquidation is not established, only that no record was found within the available tooling. Role left as 'unknown' - the declared HS codes 340213 (non-ionic organic surface-active agents) and 380850 (disinfectants) suggest a chemicals trader, but that is inference from the input, not a verified fact. Revenue FY25/FY26 null - no audited accounts or official filings found; not estimated. Recommended next step: re-run against MCA master data / GST portal with the GSTIN or PAN, or obtain the GSTIN from the supplier directly."
+}

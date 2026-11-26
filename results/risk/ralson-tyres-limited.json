@@ -1,0 +1,9 @@
+{
+ "name_input": "RALSON TYRES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google — HTTP 429, indiankanoon.org — DNS-ошибка, duckduckgo html — timeout. OFAC Sanctions List Search доступен только как JS-форма, результат по имени через GET не отдаётся; консолидированный SDN-файл и списки BIS/EU/UK прочитать не удалось. Сайт ralsontyres.com отдаёт только заглушку 'RalsonOne' без содержимого. CareEdge (CARE Ratings) — поиск по названию реализован через JS-виджет, результаты не получены. Итог: по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), судебным делам в индийских судах (роль стороны, статус), действиям регуляторов, негативным новостям, кредитному рейтингу (агентство/дата/статус) и признакам поставок в Россию/СНГ — публичных подтверждений в рамках этой сессии получить не удалось. Все поля оставлены null; отсутствие данных НЕ означает отсутствие риска. Требуется повторный прогон при доступном поиске (рекомендуемые источники: OFAC SDN CSV, BIS Entity List, EU/UK consolidated lists, indiankanoon/ecourts по 'Ralson Tyres', сайты CARE/ICRA/CRISIL/Acuite, таможенные записи по экспорту в РФ/СНГ). Санкционных/судебных оснований для отклонения не зафиксировано (и по правилу 2 они отклонением не являются)."
+}

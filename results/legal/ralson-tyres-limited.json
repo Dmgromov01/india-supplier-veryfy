@@ -1,0 +1,18 @@
+{
+ "name_input": "RALSON TYRES LIMITED",
+ "legal_name": "Ralson Tyres Limited (as claimed; exact MCA-registered spelling not verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - identifiers deliberately left null, nothing invented. Tooling failed: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'), zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in and instafinancials.com company pages returned 404, mca.gov.in returned 403, google.com/search returned 429, duckduckgo.com/html timed out, bing.com returned irrelevant results. Company website ralsontyres.com resolves but serves only a JS shell ('RalsonOne') with no legal/registry data. Therefore CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all unverified - must be re-run when search/registry access is restored. Role 'manufacturer' is a provisional classification from the company's own tyre-manufacturing self-description on its website, not from an MCA NIC/activity code, so treat as unconfirmed. Revenue FY25/FY26: null - no audited accounts or official filings were retrievable; Ralson Tyres is understood to be an unlisted public limited company, so no exchange filings are available and figures must not be estimated. No rejection basis established: no evidence found that the entity does not exist, is struck off, liquidated or bankrupt - absence of evidence here is a tooling limitation, not a finding. Declared HS 401110 (new pneumatic tyres for motor cars) is consistent with a tyre manufacturer, but per project rules HS is not a rejection ground in any case. State claimed in input was empty, so no state mismatch can be assessed."
+}

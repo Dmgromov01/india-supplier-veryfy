@@ -1,0 +1,9 @@
+{
+ "name_input": "SWADESH INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all attempts; Google returned HTTP 429; Bing returned an identical cached generic result page for every query (only 'Swades' film, swadeshonline.com, swadeshnews.in, swadesh.co — none related to the subject), so no query-specific results were retrievable. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript application and returned only the empty search form via plain HTTP GET, so no name lookup could be executed; the SDN list was last updated 11/23/2026 per that page. Indian court sources (Indian Kanoon, eCourts/NJDG), credit-rating agencies (CRISIL/ICRA/CARE/India Ratings) and negative-news searches could not be reached or returned nothing attributable to this entity. No sanctions exposure, court case, regulator action, credit rating or Russia/CIS supply evidence is asserted in either direction — all fields are null because nothing was found or confirmed, NOT because the company was cleared. Identity caveat: the only identifying detail supplied is the claimed proprietor name 'Dipak Jadvani' and HS 340213/380850 (surfactants/organic chemicals); no PAN, CIN, city or state was provided, and 'Swadesh International' is a very common Indian trade name, so any future hit must be matched on PAN/CIN and address before attribution. Recommended next step: re-run with working search plus PAN/CIN, and manually query OFAC/EU/UK/BIS lists and eCourts by that identifier. Per project rules, absence of findings here is not a rejection ground and no verdict on the supplier is implied."
+}

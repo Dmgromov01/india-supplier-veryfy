@@ -1,0 +1,18 @@
+{
+ "name_input": "Mittal International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. All registry sources were unreachable or blocked during this run: DuckDuckGo search backend returned 'Connection refused' (searx urlopen error) on both queries; zaubacorp.com returned HTTP 403 Forbidden on both the company-search and direct company URLs; thecompanycheck.com returned 404; instafinancials.com returned 404; tofler.in search returned 404; quickcompany.in timed out; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com returned completely irrelevant results (weather/Chrome pages), i.e. no usable SERP. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. 'Mittal International' is a very common Indian trade name (multiple proprietorships, partnerships and private limited companies across states), so no entity can be singled out without a CIN/GSTIN/PAN or state from the input - the input supplied none of these (pan_claimed and state_claimed both empty). Per project rules, no CIN, PAN, GSTIN or revenue figure is invented; all such fields are null. NOT rejected: absence of verification is not evidence of non-existence, and rejection is permitted only for non-existent/struck-off/liquidated/bankrupt entities, which was not established either way. Role left as 'unknown' - the claimed industry ('Продукты питания и FMCG') is inconsistent with declared HS 570241 (carpets and other textile floor coverings, knotted), but per rule 3 an HS mismatch is not a rejection ground and no correction can be recorded until the actual entity is identified. Action required: re-run with a CIN/GSTIN/PAN or registered state, or with working registry access (MCA master data, GST portal search, zaubacorp/tofler via a non-blocked route)."
+}
