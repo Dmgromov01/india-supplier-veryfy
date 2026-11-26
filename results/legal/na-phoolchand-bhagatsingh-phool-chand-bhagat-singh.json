@@ -1,0 +1,18 @@
+{
+ "name_input": "NA; PHOOLCHAND BHAGATSINGH; PHOOL CHAND BHAGAT SINGH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record could be retrieved. The input name is not a usable legal-entity identifier: it is a personal/firm-style name ('Phoolchand Bhagatsingh' / 'Phool Chand Bhagat Singh'), with no suffix (Pvt Ltd / Ltd / LLP / & Sons / & Co), no CIN, no PAN and no state supplied, so it cannot be matched to a single MCA/GST record. Research attempts: DuckDuckGo search tool returned a connection error (searx backend refused connection) on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com search page returned only its generic landing page with no results; tofler.in search returned HTTP 404; Google returned HTTP 429; Bing returned wholly irrelevant results (query mangled, no matching Indian entity). No public profile, CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figure was obtained from any source, therefore every registry field is null and revenue FY25/FY26 are null (not estimated). Role set to 'unknown' - the declared HS 811100 (antimony and articles thereof) is a product code only and does not establish manufacturer vs trader status. Per project rules this is NOT a rejection: absence of a retrievable record is not proof of non-existence, and HS mismatch is not a rejection ground. Recommended next step: obtain the exact legal name with suffix, the GSTIN or PAN from the supplier's invoice/IndiaMART profile, then re-run against MCA and the GST taxpayer search; also confirm whether the entity is a proprietorship/firm (in which case no CIN exists and PAN 4th-character holder type would be 'P' for individual or 'F' for firm)."
+}

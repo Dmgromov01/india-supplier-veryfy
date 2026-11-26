@@ -1,0 +1,18 @@
+{
+ "name_input": "Lisha Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified - no source found. Tooling failure: DuckDuckGo/searx backend refused connections on all attempts; Google returned HTTP 429; zaubacorp.com returned HTTP 403; alternate engines timed out. Bing returned only irrelevant name matches (LISHA speech-language association, Lisha Switches, baby-name sites) and ignored site:/quoted operators, so no MCA/GST profile page for 'Lisha Enterprises' was reached. Consequently legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT confirmed absent, simply unverified. Note the input itself is internally inconsistent: legal_claimed 'LIsha Enterprises' (typo/case error) vs name 'Lisha Enterprises', and state_claimed is empty, so the registered-state-vs-claimed comparison cannot be performed. 'Lisha Enterprises' is a generic sole-proprietorship-style trade name with no distinguishing suffix; multiple unrelated Indian firms likely share it, so any single GSTIN found later must be matched by proprietor name and address before use. Role recorded as 'unknown' rather than manufacturer/trader because the claimed HS codes 732111 (cooking/space-heating appliances, gas) and 732399 (other iron/steel household articles) are consistent with a kitchenware/hardware trader or small fabricator, but nothing in a registry source establishes manufacturing vs trading. Revenue FY25/FY26 null - no audited accounts or MCA filings located; do not estimate. Per project rules this is NOT a rejection: no evidence the entity is non-existent, struck off, liquidated or bankrupt, and absence of a public profile is not proof of non-existence. Recommend re-querying MCA master data and the GST taxpayer search by proprietor name once search tooling is restored, and requesting the GSTIN and PAN directly from the supplier."
+}
