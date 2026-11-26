@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S POWER MACHINES INDIA LTD",
+ "legal_name": "POWER MACHINES INDIA LTD (as claimed; exact MCA-registered name NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All registry sources were unreachable or blocked: DuckDuckGo search backend returned connection refused; Google returned only a redirect stub; Bing returned irrelevant generic results for every query variant ('Power Machines India Limited' CIN / GSTIN / zaubacorp / tofler / thecompanycheck); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned only its marketing homepage with no company record; quickcompany.in timed out. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they do not exist, but because they were not publicly retrievable within the tool budget. No PAN can be inferred: the 4th-character holder-type rule requires an actual PAN string, which was not found, so pan_holder_type is null rather than guessed. Role left as 'unknown' - the 'LTD' suffix in the claimed name suggests a public limited company, but this is unconfirmed and no evidence of manufacturing vs trading activity was obtained (product catalogues were out of scope for this role). Revenue FY25/FY26 null: no audited accounts or MCA filings were accessible. IMPORTANT per project rules: this company is NOT rejected - rejection requires positive proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found; the correct handling is 'verification pending / insufficient public data'. Recommended next step: re-run with working search access or a paid registry API (MCA V3 / InstaFinancials / Tofler) to confirm the exact legal name, CIN and GSTIN before any onboarding decision. Note also that the claimed name 'M/S POWER MACHINES INDIA LTD' with the 'M/S' prefix is a trade-style prefix typical of proprietorship/partnership nomenclature, which is inconsistent with a 'LTD' entity - the legal form itself needs confirmation."
+}

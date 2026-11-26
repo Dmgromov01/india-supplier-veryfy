@@ -1,0 +1,18 @@
+{
+ "name_input": "JOLLY ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. The claimed legal name 'SATINDERSINGH JOLLY' is a personal name, not a company name, which suggests a sole proprietorship (proprietor: Satinder Singh Jolly) rather than a company; a proprietorship would have no CIN/LLPIN and no MCA status, only a GSTIN. This is an inference from the input format, NOT a verified fact. Tooling failed during this session: the web_search backend returned connection refused on every call; DuckDuckGo HTML endpoints timed out; Bing returned only generic/unrelated results with query terms dropped; MCA master-data, Zauba Corp and InstaFinancials returned HTTP 403. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be sourced. All such fields set to null per rules - nothing invented. NOT rejected: absence of a public record in this failed search is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, which are the only permitted rejection grounds. Role left as 'unknown' (cannot distinguish manufacturer from trader without registry/GST data). Revenue FY25 and FY26 null - no audited accounts or official filings located. Recommended action: re-run with working search access, query the GST portal by trade name 'JOLLY ENTERPRISES' and by proprietor name 'Satinder Singh Jolly', and check MCA for any 'Jolly Enterprises' private limited entity; also confirm the state of registration, which was blank in the input."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Geeta Exports",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was non-functional (searx connection refused) and fallback search engines (Google, Bing, DuckDuckGo) returned geo-skewed/irrelevant results with no usable hits for 'Geeta Exports'. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com company search -> HTTP 403; thecompanycheck.com -> HTTP 404; instafinancials.com -> HTTP 403; mca.gov.in company master data -> HTTP 403. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be verified from a public source, and no audited revenue figures for FY25/FY26 were found. All such fields are set to null rather than guessed. Note on the name: 'Geeta Exports' is a generic trade name used by multiple unrelated Indian proprietorships/partnerships and companies; without a CIN or GSTIN in the input it cannot be resolved to a single legal entity, so no PAN holder-type determination (4th character) is possible. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy is unproven, and absence of registry access is not evidence of non-existence. Role left as 'unknown' - the input claims food/FMCG but the declared HS codes (071340, 271019, 283522, 760200) span dried legumes, petroleum oils, sodium phosphates and aluminium scrap, which is inconsistent with a single FMCG manufacturer profile and suggests a multi-commodity trader; this is an observation only, not a rejection ground, and the HS codes should be corrected to actual trade once verified. Recommended next step: re-run verification with a working search backend, or obtain the GSTIN/CIN from the supplier directly, then confirm on mca.gov.in and the GST portal."
+}

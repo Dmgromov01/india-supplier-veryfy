@@ -1,0 +1,16 @@
+{
+ "name_input": "NEELAMALAI AGRO INDUSTRIES LIMITED; NEELAMALAI AGRO INDUSTRIES LTD.; NEELAMALAI AGRO INDUSTRIES LTD.; NEELAMALAI AGRO INDUSTRIES LIMITED",
+ "declared_hs": "090111",
+ "actual_hs_list": [
+  "0902 (tea, incl. 090240 black tea in bulk / 090230 packaged)",
+  "0901 (coffee, green/roasted — group-level line, not confirmed for this entity)",
+  "4001 (natural rubber — group-level line, not confirmed for this entity)",
+  "0904 (pepper, genus Piper)",
+  "0908 (cardamom)",
+  "0905 (vanilla)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Собственный сайт (neelamalaiagro.com): «Pure Nilgiri Tea, Grown with Purpose Since 1925»; Company Profile: «incorporated during the year 1946 with the main business being Tea, Trading and Exports»; estates Katary & Sutton (Nilgiris, Tamil Nadu), 569.42 ha, ~19,00,000 kg/год чая, Rainforest Alliance Certified. На главной странице в разделе об AVT Group перечислены направления группы: чай, каучук, кофе, ваниль, перец, кардамон. Собственных каталогов/прайсов на сайте нет — только чай как продукт компании и перечень культур группы.",
+ "role_hint": "manufacturer_trader — плантационное производство чая (свои сады) + в профиле прямо указано «Tea, Trading and Exports», т.е. торговая/экспортная функция. Признаки трейдера: слово Trading в описании бизнеса, отсутствие собственного каталога продукции, продажа через группу AVT.",
+ "comment": "Заявленный код 090111 — это КОФЕ (Coffee, not roasted, not decaffeinated), а не чай. Фактический профиль компании — чай (0902), поэтому соответствие: wrong (несовпадение HS, компания сохраняется, код исправляется — правило 3). Вероятная причина ошибки: путаница с групповым портфелем AVT (кофе, каучук, специи) либо с кодом 0902, набранным как 0901. Фактический код для основной продукции — 0902 (чай, чёрный, Нилум/Нильгири, насыпной или фасованный). Дополнительные линии (кофе 0901, каучук 4001, перец 0904, кардамон 0908, ваниль 0905) указаны на сайте только как направления ГРУППЫ AVT, а не как подтверждённая продукция данного юрлица — статус: заявлено, не подтверждено. Ни одна позиция не подтверждена таможенной линией в рамках этой проверки (таможенные записи не исследовались по условиям роли) — все коды имеют статус «заявлено, не подтверждено» на уровне сайта. Отраслевая классификация «Продукты питания и FMCG» частично некорректна: компания — сельхозпроизводитель/плантатор и экспортёр сырья (bulk tea), а не FMCG-бренд; брендированный FMCG относится к другим компаниям группы AVT. Пропущенные в декларации продуктовые линии: чай как таковой (главная позиция), а также потенциальные специи и каучук группы. Источники: https://www.neelamalaiagro.com/ ; https://www.neelamalaiagro.com/company-profile/ ; https://www.neelamalaiagro.com/katary-sutton-estates/ . Поиск (web_search) был недоступен (ошибка соединения), поэтому объём проверки ограничен официальным сайтом; независимые каталоги/IndiaMART не проверены — null."
+}
