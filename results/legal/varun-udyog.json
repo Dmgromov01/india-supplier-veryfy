@@ -1,0 +1,18 @@
+{
+ "name_input": "VARUN UDYOG",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was non-functional (searx connection refused) and fallback search engines (Bing/Google/DDG) returned only irrelevant results for the queries 'VARUN UDYOG' + 'NIRMAL SURENDERKUMAR GUPTA' and 'Varun Udyog GSTIN'. Registry aggregators were inaccessible: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, tofler.in search returned 404. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures could be confirmed from any public source, so all such fields are null rather than inferred. The input 'legal_claimed' value 'NIRMAL SURENDERKUMAR GUPTA' is a personal name, not a company name, which suggests this may be a proprietorship/firm rather than a company limited by shares - such entities have no CIN and no MCA record, only a GSTIN and PAN, neither of which was retrievable. No state was claimed in the input, so state_registered vs state_claimed cannot be compared. Role left as 'unknown' - the declared HS 820310 (hand tools: files, rasps, pliers, etc.) does not by itself establish manufacturer vs trader status. NOT rejected: absence of public registry data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires positive evidence of one of those conditions. Recommend re-verification when search/registry access is restored, specifically checking the GST portal public search for the trade name 'VARUN UDYOG' and the Udyam/proprietorship registration, plus MCA name search in case a similarly named private limited entity exists."
+}

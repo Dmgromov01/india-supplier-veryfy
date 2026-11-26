@@ -1,0 +1,18 @@
+{
+ "name_input": "Divyansh DECOR",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Ни один реестровый источник не удалось прочитать: DuckDuckGo/searx вернул 'Connection refused', Bing отдал нерелевантную выдачу (запрос не обработан), zaubacorp.com и instafinancials.com — HTTP 403, tofler.in — 404 на поисковый URL, mca.gov.in — 403, duckduckgo.com/html — таймаут. Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и статус MCA не установлены — null, не выдуманы. Входные данные противоречивы: 'legal_claimed' = 'YASHWANTI' (похоже на имя физлица/проприетора, а не на юрлицо), название 'Divyansh DECOR' с формой написания, не характерной для зарегистрированной компании, штат не указан, PAN не указан. Заявленный HS 850910 (первичные элементы/аккумуляторы) не соответствует профилю 'декор' — вероятно, речь о проприетарном/торговом наименовании, а не о юрлице. Роль определить нельзя: unknown. Выручка FY25/FY26 — null (аудированной отчётности не найдено). ВЕРДИКТ: НЕ отклонять — оснований для rejected (несуществование, ликвидация, банкротство) не подтверждено; статус 'не проверено, требуется повторный прогон с доступом к MCA/GST-порталу'. Рекомендация: запросить у поставщика GSTIN и PAN — по ним однозначно идентифицируется юрлицо и штат регистрации."
+}

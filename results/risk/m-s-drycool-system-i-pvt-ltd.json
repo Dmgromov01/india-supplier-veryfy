@@ -1,0 +1,29 @@
+{
+ "name_input": "M/S DRYCOOL SYSTEM (I) PVT.LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Allahabad High Court",
+   "case_no": "WRIT TAX No. 893 of 2019",
+   "parties": "M/S Drycool Systems India (P) Ltd. (Petitioner) vs State Of U P And 2 Others (Respondents)",
+   "role": "petitioner",
+   "date": "2023-02-02",
+   "bench": "Justice Rohit Ranjan Agarwal",
+   "status": "decided (writ-tax matter, company as petitioner against state tax authorities)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Drycool%20Systems%20India%22"
+  },
+  {
+   "court": "Delhi District Court",
+   "case_no": null,
+   "parties": "M/s Nutech Industries & Tools vs ... (Drycool Systems India Pvt. Ltd. mentioned in the record)",
+   "role": "third party / mentioned in evidence (cheque-dishonour matter under s.138 NI Act; company referenced in testimony about signatures)",
+   "date": "2014-01-28",
+   "status": "not established from snippet whether Drycool was a party or merely referenced; treat as reference only",
+   "source": "https://indiankanoon.org/search/?formInput=Drycool%20Systems%20India%20Pvt%20Ltd%20doctypes%3A%20judgments"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no OFAC SDN / UN / EU / UK / BIS Entity List match found, but this is NOT a clean negative — the web_search backend (DuckDuckGo/searx) was returning 'Connection refused' for the whole session and direct fetches to drycool.in failed on DNS, so sanctions lists and news were not systematically screened. sanctions_hit is null = not verified, not 'clear'. Court: two Indian Kanoon hits only. (1) Allahabad HC Writ Tax 893/2019, company as petitioner against UP state authorities, decided 02.02.2023 — a tax writ, neutral, not a rejection ground per project rules. (2) A 2014 Delhi District Court s.138 NI Act (cheque dishonour) judgment in which 'M/s Drycool Systems India Pvt. Ltd.' is mentioned in testimony; the snippet does not establish that Drycool was a party, so recorded as a reference only. Rating: no CRISIL/ICRA/CARE/India Ratings public rating located — null, not public as far as checked. News/regulator actions: none found, but coverage was incomplete due to tool failure. RF/CIS supply: no evidence found either way — null, not confirmed. Recommend re-running sanctions and news screening when search access is restored before relying on this record."
+}

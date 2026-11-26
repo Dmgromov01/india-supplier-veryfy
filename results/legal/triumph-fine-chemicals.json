@@ -1,0 +1,18 @@
+{
+ "name_input": "Triumph Fine Chemicals",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not obtained. Search backend (DuckDuckGo/searx) was down (connection refused) and Bing returned only generic 'Triumph' brand results (motorcycles, lingerie, band) with no Indian chemical entity; no exact legal entity match found. Direct fetches of registry aggregators failed: zaubacorp.com returned HTTP 403, thecompanycheck.com search returned HTTP 404, Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrieved, not invented. No audited accounts or official filings located, so revenue FY25 and FY26 are null. Role set to 'unknown' (no registry evidence of manufacturing vs trading). NOT rejected: absence of a found record is not proof of non-existence; the entity may exist under a different exact legal form (e.g. 'Triumph Fine Chemicals Pvt Ltd' / LLP / proprietorship) or be unregistered as a company. Recommended next step: manual MCA master-data lookup by name and GST portal search by trade name, plus confirmation of the exact legal suffix from the supplier's invoice/GST certificate. Note also that declared HS 320413 (synthetic organic colouring matter) is a dyes/pigments code, which is not verified against any registry record here."
+}

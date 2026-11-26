@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S DRYCOOL SYSTEM (I) PVT.LTD",
+ "legal_name": "DRYCOOL SYSTEM (I) PRIVATE LIMITED",
+ "cin_llpin": "U29192DL1999PTC100034",
+ "pan": "AABCD6383R",
+ "pan_holder_type": "A — Association of Persons (AOP) / body of individuals; consistent with a company PAN (4th character 'C' would be company, here 'C' is 4th char of AABCD6383R — see note). PAN 4th character = 'C' → Company",
+ "gstin": "09AABCD6383R1ZV",
+ "gst_status": "Active (GST registration date 01-07-2017 per company profile); status not independently confirmed on GST portal — portal not reachable",
+ "incorporation_date": null,
+ "state_registered": "Delhi (CIN state code DL; registered office state per MCA not independently verified)",
+ "state_claimed": "",
+ "mca_status": "Active — not verified on MCA; no evidence of strike-off, liquidation or bankruptcy found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "null — no audited accounts or MCA filings accessible. Company profile self-declares turnover band '25 - 100 Cr' (IndiaMART-hosted profile), which is a self-declared range, not an audited figure, and is not used as revenue.",
+ "note": "Legal name differs from input: registry/company profile shows 'DRYCOOL SYSTEM (I) PRIVATE LIMITED' (singular 'SYSTEM'), not 'DRYCOOL SYSTEMS (INDIA) PVT LTD'. CIN U29192DL1999PTC100034 indicates incorporation in 1999, Delhi jurisdiction, private limited, class 'U' (manufacturing/engineering). PAN AABCD6383R derived from GSTIN characters 3-12; 4th character is 'C' → Company holder type (the 'A' is the 1st character, not the holder-type character). GSTIN state code 09 = Uttar Pradesh, while CIN state code is DL (Delhi) — the operating/registered office is stated as C-34, Sector 63, Noida, Gautam Buddha Nagar, Uttar Pradesh 201307, so the state mismatch is between MCA jurisdiction (Delhi) and GST registration state (UP); this is common and not a defect. Input state_claimed was empty, so no conflict to report. Role: manufacturer (self-declared 'Nature of Business: Manufacturer', industrial chillers/refrigeration equipment — consistent with declared HS 840610, steam/vapour turbines is a mismatch but HS is not a rejection ground per project rules; actual product line is chillers, likely HS 8418/8419). IEC 0514004169 stated on profile. IMPORTANT LIMITATION: all registry aggregators (ZaubaCorp, Tofler, TheCompanyCheck, FalconEBiz, QuickCompany, InstaFinancials) returned 403/timeout, MCA master-data page returned 403, and the search backend (searx) was down while Bing/Google returned irrelevant or rate-limited results. Therefore CIN, GSTIN, PAN and incorporation year rest on a single source — the company's own IndiaMART-hosted profile (drycoolsystems.com) — and are NOT independently corroborated. Incorporation date, MCA status and revenue are null rather than guessed. No basis for rejection: entity appears to exist and operate; no strike-off/liquidation/bankruptcy evidence found."
+}

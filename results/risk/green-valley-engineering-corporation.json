@@ -1,0 +1,9 @@
+{
+ "name_input": "GREEN VALLEY ENGINEERING CORPORATION",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Bing возвращал нерелевантную заглушку независимо от запроса, Google — HTTP 429. OFAC Sanctions List Search — JS-интерфейс, через GET результаты не отдаёт, поэтому скрининга по SDN/Non-SDN фактически не было. Никаких публичных записей именно об этой компании получить не удалось. Все поля оставлены null — данных нет, выдумывать нельзя. Требуется повторный прогон при работающем поиске: проверить OFAC SDN/Non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List; индийские суды (eCourts/NJDG, Bombay/ Delhi HC, NCLT) по точному наименованию; реестр MCA по CIN (CIN не предоставлен и не подтверждён); рейтинги CRISIL/ICRA/CARE/India Ratings; новости и упоминания поставок в РФ/СНГ. Отклонять по правилу 3 нельзя — нет подтверждения ликвидации/банкротства; статус проверки: не проверено."
+}
