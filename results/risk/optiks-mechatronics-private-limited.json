@@ -1,0 +1,9 @@
+{
+ "name_input": "OPTIKS MECHATRONICS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' on all attempts; Google returned HTTP 429; Bing returned unrelated results (weather/Lions pages) for every query, i.e. the query was not actually executed; MCA portal (search.mca.gov.in) DNS resolution failed; OFAC Sanctions List Search is a JavaScript application and returned only the empty search form via http_get, so no name match could be run. Consequently nothing is asserted about this company: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = not verified, Indian court cases (party role/status) = not verified, regulator actions and negative news = not verified, credit rating (agency/date/status) = not verified, evidence of supplies to Russia or CIS = not verified. All fields set to null deliberately rather than guessed; no CIN, PAN, case numbers or shipment records are invented. Per project rules this is NOT a rejection ground and NOT a negative finding — it is an absence of evidence due to source unavailability. Recommended next step: re-run with working search access and check (a) OFAC SDN + consolidated non-SDN lists, (b) EU/UK consolidated lists and BIS Entity List, (c) eCourts/NCLT/High Court name search, (d) Indian import-export trade press and customs-derived trade data for Russia/CIS destinations, (e) CRISIL/ICRA/CARE/India Ratings coverage."
+}

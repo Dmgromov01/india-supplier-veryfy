@@ -1,0 +1,18 @@
+{
+ "name_input": "L G F VITRIFIED PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: DuckDuckGo-поиск вернул 'Connection refused' (бэкенд недоступен), Bing выдал полностью нерелевантную выдачу (результаты про пиццу/фитнес — поиск деградировал), zaubacorp.com и thecompanycheck.com отдали HTTP 403, instafinancials — 404, tofler.in/search — 404, портал MCA (mca.gov.in) — 403. Ни одного подтверждённого реестрового факта по 'LGF Vitrified Private Limited' получить не удалось. Юрлицо НЕ отклонено: отсутствие подтверждения существования не равно подтверждению несуществования (правило 3 — отклонение только при доказанной ликвидации/банкротстве/отсутствии юрлица). CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус, выручка FY25/FY26 — null, не выдуманы. Роль — unknown (по названию 'Vitrified' и HS 690721 предположительно керамическая плитка, но это догадка, не факт). Требуется повторный прогон при работающем поиске: проверить MCA Master Data по названию, затем GST-профиль (например, на GST-агрегаторах) и аудиторскую отчётность для выручки. Штат в инпуте не заявлен (пусто), поэтому сверять state_registered не с чем."
+}

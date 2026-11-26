@@ -1,0 +1,8 @@
+{
+ "name_input": "ESSENCE BUILD WARE PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was visible on any accessible source. ImportKey page for slug 'essence-buildware-pvt-ltd' returned only the paywalled shell text: \"Join ImportKey to view the import and export data records of companies all over the world.\" — zero data rows rendered (0 rows seen, counter not exposed). Second slug variant 'essence-build-ware-pvt-ltd' returned the identical shell, again 0 rows. volza.com/p/essence-buildware/ -> HTTP 403; eximpedia.app -> HTTP 403; trademo.com -> HTTP 403. No bill-of-lading number, date, destination or HS code could be read from any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved. thecompanycheck.com -> HTTP 403. The web_search backend was unavailable for the whole session (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no domestic-supply page could be located. No evidence line available.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок (ImportKey, Volza, Eximpedia, Trademo) отдали либо заглушку без строк, либо 403, а поиск был недоступен. Поэтому статусы выставлены 'unknown', а не 'none_found' — отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Заявленный HS 690721 (керамогранит/плитка) не проверен по фактическим записям — код не подтверждён и не опровергнут, менять его оснований нет. Требуется повторный прогон при работающем поиске или платном доступе к таможенным данным."
+}

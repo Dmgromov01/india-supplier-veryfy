@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S MARSHAL EXPORTS INDUSTRIES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. No public record for an entity named 'Marshal Exports Industries' could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML timed out; Google returned HTTP 429; Bing (the only reachable engine) ignored the quoted phrase and returned only generic results about Marshalls/Marshall/Marshal (retail, amplifiers, TV series) — i.e. zero relevant hits, not a confirmed absence. The OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov) is a JavaScript form and cannot be queried by URL, so no SDN/Non-SDN name match was actually run; UN, EU, UK OFSI and BIS Entity List screens were likewise not executed. Therefore sanctions_hit, court_cases (Indian courts / eCourts / NCLT), rating (CRISIL/ICRA/CARE/India Ratings) and news_risk are all null — NOT 'clean', simply unassessed. No evidence of supplies to Russia or the CIS was found, but absence of evidence here is an artefact of failed search, not a finding; rf_supply = null. Name is generic and ambiguous ('M/S' prefix suggests an Indian proprietorship/partnership trade name), and no CIN/PAN/GSTIN was supplied, so any future hit must be disambiguated by address and registration before being attributed. Per project rules this company is NOT rejected: no evidence of non-existence, liquidation or bankruptcy was found, and sanctions/court matters would not be rejection grounds in any case. Recommended next step: re-run screening manually against OFAC SDN, EU/UK consolidated lists, BIS Entity List, eCourts/NCLT and credit-rating agency sites once the search backend is restored, using the company's GSTIN and registered address."
+}
