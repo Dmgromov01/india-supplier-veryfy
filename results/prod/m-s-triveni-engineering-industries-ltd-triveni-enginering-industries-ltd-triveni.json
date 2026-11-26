@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S TRIVENI ENGINEERING & INDUSTRIES LTD.; TRIVENI ENGINERING & INDUSTRIES LTD.; TRIVENI ENGINEERING AND INDUSTRIES LTD.; TRIVENI ENGINEERING AND INDUSTRIES LTD; Triveni Engineering & Industries Limited; TRIVENI ENGINEERING & INDUSTRIES LTD.; Triveni Engineering & Industries Ltd",
+ "declared_hs": "840610;840681;848340",
+ "actual_hs_list": [
+  "840610",
+  "840681",
+  "848340",
+  "170199",
+  "220720",
+  "8413",
+  "8421",
+  "8402"
+ ],
+ "match_status": "partial",
+ "product_summary": "Triveni Engineering & Industries Ltd (UP-based, listed on BSE/NSE) is a diversified engineering + sugar group. Known business lines: (1) Power Transmission — steam turbines and turbo-generators (back-pressure, condensing, extraction-cum-condensing) and steam turbine spares/retrofits; (2) Gears — industrial gearboxes, high-speed gear units, gear couplings (Triveni Gears); (3) Sugar — white/refined sugar, molasses, ethanol/rectified spirit and distillery products; (4) Water & Wastewater treatment solutions (EPC, RO/desalination, sewage treatment); (5) Defence/engineering castings & precision components. NOTE: the corporate website (trivenigroup.com) returned HTTP 403 to every fetch attempt in this session, so the product list above is stated from general public knowledge of the company and NOT corroborated by a page read in this run — treat the item-level mapping as 'заявлено, не подтверждено' pending a direct catalogue/AR read.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping vs declared codes: 840610 (steam turbines of output > 40 MW) and 840681 (steam turbines, 40 MW < output... i.e. non->40MW steam turbines) are CORRECT and directly match the Power Transmission steam-turbine line — exact match. 848340 (gears and gearing, other than toothed wheels/chain sprockets) is CORRECT for the Triveni Gears industrial gearbox/gear-unit line — exact match. So the declared trio is coherent and consistent with a genuine manufacturer of turbines and gears; no HS mismatch requiring correction. Gaps in the declaration (product lines missing): the sugar/ethanol/distillery business (HS 1701 sugar, 2207 ethanol/ethyl alcohol, 2208/2207.20 denatured spirit) and the water-treatment/EPC business (pumps 8413, filtering/purifying machinery 8421) are not declared at all — if the company actually exports sugar or ethanol under this IEC, those lines are missing from the declaration. Industry_claimed 'Энергетика' (power) is only partially right: it describes the turbine/gear engineering division but ignores that sugar + ethanol is a major (historically the largest) revenue segment — industry classification is incomplete rather than wrong. Trader signs: none observed; this is a manufacturer with own plants (Dewan/Deoband sugar units, Naini/Peenya turbine and gear works) — role = manufacturer. Per project rules, no rejection on HS grounds; verdict = accepted, codes confirmed, with the note that sugar/ethanol and water-treatment lines should be added if exported. All product-level claims here are 'заявлено, не подтверждено' because the website could not be read in this session (403) and no customs line was available to me (customs/registry research out of scope for this role)."
+}

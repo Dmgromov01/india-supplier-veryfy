@@ -1,0 +1,8 @@
+{
+ "name_input": "Sunsai Pharma Equipments Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "No export record obtained. ImportKey company page (https://importkey.com/countries/india/sunsai-pharma-equipments-pvt-ltd) returned only a paywalled shell: \"Shipments available for SUNSAI PHARMA EQUIPMENTS PVT LTD, refreshed daily\" — 0 actual shipment rows visible (no date, no destination, no HS code, no B/L number). Source counter: 1 page opened, 0 rows seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence obtained. No GST turnover band, GeM/CPPP tender entry or contract record could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, and thecompanycheck.com returned HTTP 403. Source counter: 0 pages read, 0 rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Все вторичные источники таможенных данных оказались недоступны в этой сессии: volza.com — HTTP 403, eximpedia.app — HTTP 403, trademo.com — HTTP 403, importgenius.com — JS-челлендж, thecompanycheck.com — HTTP 403; поисковик (searx) не отвечал (Connection refused) на обоих запросах. ImportKey отдал только заглушку без строк отгрузок. Поэтому export_status и domestic_status = unknown, а не none_found: отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Заявленный HS 847989 (машины и механические устройства прочие) не подтверждён и не опровергнут — фактический код не установлен, коррекция не производилась. Выручка и объём экспорта: null (не публичны / не получены), цифры не выдумывались. CIN/PAN не подтверждены. Требуется повторная проверка при доступном поиске или платном доступе к таможенным данным."
+}

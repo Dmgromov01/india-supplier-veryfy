@@ -1,0 +1,18 @@
+{
+ "name_input": "SUPREME AGRO PRODUCTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного реквизита. Причина техническая: поисковый бэкенд (DuckDuckGo/searx) недоступен — 'Connection refused'; Bing по запросам с точным названием выдаёт нерелевантную выдачу (Supreme streetwear, The North Face), т.е. запрос фактически не обрабатывается; MCA master-data, Zauba Corp и InstaFinancials отдают HTTP 403, thecompanycheck — 404. Название 'SUPREME AGRO PRODUCTS' не является однозначным: под ним в Индии могут существовать как товарищество/ИП (proprietorship, без CIN), так и несколько юрлиц в разных штатах, поэтому без доступа к реестру нельзя установить точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, дату регистрации и статус MCA. Штат в исходных данных не заявлен (state_claimed пусто), сверять нечего. Роль (manufacturer/trader) по реестру не определяется — 'unknown'. Выручка FY25/FY26: аудиторской отчётности или официальных филингов не найдено, значения null (не выдуманы). ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не равно отсутствию юрлица; вердикт по правилам проекта — 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к MCA/поиску. HS 120242 (семена подсолнечника, дроблёные/не для посева) не проверялся по существу — несоответствие HS не является основанием для отклонения."
+}

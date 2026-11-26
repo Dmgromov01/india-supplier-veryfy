@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S TRIVENI ENGINEERING & INDUSTRIES LTD.; TRIVENI ENGINERING & INDUSTRIES LTD.; TRIVENI ENGINEERING AND INDUSTRIES LTD.; TRIVENI ENGINEERING AND INDUSTRIES LTD; Triveni Engineering & Industries Limited; TRIVENI ENGINEERING & INDUSTRIES LTD.; Triveni Engineering & Industries Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned wholly unrelated results (printer repair, job listings) for all queries, i.e. the search layer is not returning usable hits. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via http_get, so no SDN/Non-SDN name match could be executed; the downloadable SDN/Consolidated lists were not parsed. The company website (trivenigroup.com) returned HTTP 403. The CRISIL rating-list URL used returned a 404. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT CHECKED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating (agency, date, status) = NOT CHECKED; evidence of supplies to Russia/CIS = NOT CHECKED. All fields set to null deliberately - no numbers, dates, case references or ratings are invented. Per project rules this absence of data is not a rejection ground and no adverse inference should be drawn; the company remains in the database pending a re-run of this risk screen with working search access. Recommended re-check: OFAC SDN + consolidated non-SDN name search, BIS Entity List, EU consolidated and UK OFSI lists, eCourts/NCLT/NCLAT party search, CRISIL/ICRA/CARE/India Ratings press releases, and Indian trade-press for Russia/CIS turbine or sugar-plant exports."
+}

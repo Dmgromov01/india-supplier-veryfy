@@ -1,0 +1,9 @@
+{
+ "name_input": "GREENSAVE EVOLUTIONS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCREEN, as of 2026-11-26. Sanctions: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others; data current as of 2026-11-26) returned 'No matching entities were found' for both 'Greensave Evolutions' and 'Greensave' (https://www.opensanctions.org/search/?q=Greensave+Evolutions). Direct OFAC Sanctions List Search could not be executed (interactive tool returned an error page), so OFAC/UN/EU/UK/BIS are covered only indirectly via OpenSanctions - treat sanctions_hit as 'no hit found in screened lists', not as a certified clean screen. Court cases: Indian Kanoon returned 0 judgments for 'Greensave Evolutions' and 0 for 'Greensave' (https://indiankanoon.org/search/?formInput=Greensave) - no public judgments found; this does not cover district courts, NCLT or arbitration, which are not fully indexed there. Regulator actions / negative news: none found, but the web_search backend was unavailable throughout this task (connection refused on every query), so absence of negative news is NOT confirmed - it is an unverified gap, not a clean result. Credit rating: no public rating (CRISIL/ICRA/CARE/India Ratings/Acuite) found; null - not public. Russia/CIS supply evidence: none found; null - no public record located, and the search outage means this is unconfirmed rather than excluded. Registry lookups (Zauba, Tofler, TheCompanyCheck) were blocked (403/404), so no ownership or filing data was obtained. Per project rules, no rejection is proposed on any of these grounds; nothing here constitutes a rejection trigger. Recommend re-running the news and Russia/CIS supply checks once the search backend is restored."
+}

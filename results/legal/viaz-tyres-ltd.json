@@ -1,0 +1,18 @@
+{
+ "name_input": "Viaz Tyres Ltd",
+ "legal_name": "VIAZ TYRES LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend returned 'Connection refused' on both queries; direct fetches of zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; Bing/Google/DDG HTML endpoints returned irrelevant or empty results (Bing ignored the quoted company name and served unrelated pages). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent from public sources, but because no source was readable in this session. No number here is inferred or invented. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy could not be established either way, so rejection is not justified. Role left as 'unknown' - the 'Ltd' suffix and the claimed HS 401390 (tyres/tyre-related) are unverified claims, not evidence of manufacturing vs trading. Declared HS 401390 is a tyre-related heading and is not disputed here; HS mismatch is in any case not a rejection ground. ACTION REQUIRED: re-run this company in a session with working search/registry access (MCA master data, GST portal public search, or a paid aggregator) before any verdict is issued. Do not treat this record as 'accepted' - it is 'unverified, pending registry check'."
+}
