@@ -1,0 +1,9 @@
+{
+ "name_input": "Precions tools and dies industry",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — tooling failure, not a clean bill of health. The DuckDuckGo/searx backend returned 'Connection refused' on every web_search call; html.duckduckgo.com refused the connection; Google returned only a redirect/consent interstitial. Bing returned the same generic dictionary/auto-repair results for all three distinct queries (exact-name, name+India+company, name+sanctions/court/IndiaMART), i.e. the exact-phrase match was never actually evaluated. No source was read, so every field is null by rule ('if something is not public, use null'), NOT because the company was found clean. No sanctions screening (OFAC SDN, UN, EU, UK, BIS Entity List) was performed; no Indian court/registry search (eCourts, NCLT, MCA) was performed; no credit rating lookup (CRISIL/ICRA/CARE/India Ratings) was performed; no negative-news or RF/CIS supply evidence was checked. Name caveat: the input name is misspelled ('Precions') and the claimed legal form 'PRECISION TOOL AND DIES INDUSTRY' is a generic descriptive trade name, not a distinctive registered style — it is likely an IndiaMART/trade-directory listing rather than a verifiable legal entity, which makes exact-name screening unreliable even with working search. Per project rules this is NOT a rejection ground and no verdict is implied; the company must be re-queued for a full risk pass once search is restored. Recommended next steps: (1) obtain CIN/PAN/GSTIN from the client to anchor identity; (2) screen the resolved legal name against OFAC SDN/consolidated, UN, EU, UK OFSI and BIS Entity List; (3) search eCourts/NCLT by party name; (4) check CRISIL/ICRA/CARE/India Ratings; (5) search Russian/CIS import records and customs data for supply evidence."
+}

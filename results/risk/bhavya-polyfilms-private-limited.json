@@ -1,0 +1,9 @@
+{
+ "name_input": "BHAVYA POLYFILMS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ОГРАНИЧЕНИЕ ДОСТУПА К ДАННЫМ: веб-поиск (DuckDuckGo/searx) в ходе проверки не работал — 'Connection refused' на все запросы; Zauba Corp и TheCompanyCheck вернули HTTP 403; Google Search отдал редирект-заглушку. Проверено фактически: (1) Indian Kanoon — поиск по 'Bhavya Polyfilms' и по варианту 'Bhavya Poly Films' дал 0 результатов (https://indiankanoon.org/search/?formInput=Bhavya%20Polyfilms) — то есть публичных судебных решений с участием компании в этой базе не найдено; это НЕ доказательство отсутствия дел в нижестоящих судах/NCLT, т.к. Indian Kanoon покрывает не всё. (2) OFAC Sanctions List Search — страница доступна (https://sanctionssearch.ofac.treas.gov/, SDN-лист обновлён 23.11.2026), но инструмент работает только через JS-форму, GET-запрос с именем не исполняется, API-эндпоинт не резолвится (DNS error) — результат скрининга по OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List НЕ ПОЛУЧЕН, поэтому sanctions_hit = null, а не 'нет совпадений'. (3) Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings/Acuite) — не проверен, публичных данных не получено, rating = null. (4) Негативные новости, действия регуляторов (SEBI/RBI/EPFO/GST/NGT/PCB) — не проверены из-за недоступности поиска, news_risk = null. (5) Поставки в РФ/СНГ — следов не найдено, но и целевой поиск не выполнен; rf_supply = null, не подтверждено ни в одну сторону. ВАЖНО: нулевые/пустые значения здесь означают 'не проверено из-за сбоя инструментов', а НЕ 'чисто'. Требуется повторный прогон скрининга при восстановлении доступа к поиску и к санкционным базам (OFAC SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List) до принятия любого решения. Санкционные упоминания и суды по правилу 2 основанием для отклонения не являются в любом случае."
+}

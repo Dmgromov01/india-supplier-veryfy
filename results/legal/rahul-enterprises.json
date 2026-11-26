@@ -1,0 +1,18 @@
+{
+ "name_input": "Rahul Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам «Rahul Enterprises» + «Rahul Jindal» + GSTIN выдавал нерелевантную выдачу (Rahul Gandhi и т.п.), т.е. совпадений по названию не найдено. Реестровые агрегаторы закрыты: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, tofler.in — 404 на странице поиска. MCA-портал и GST-портал публичного API без капчи не отдают. Входные данные неполные: legal_claimed = «RAHUL JHINDAL» — это имя физлица, а не название юрлица; PAN и штат не заявлены. «Rahul Enterprises» — типовое имя проприетарной фирмы (sole proprietorship), у таких фирм нет CIN и нет аудиторской отчётности в MCA, поэтому выручка FY25/FY26 = null (не публична). CIN/PAN/GSTIN/дата регистрации/статус MCA — null, не выдуманы. Роль определить нельзя: заявленный HS 790310 (цинловая пыль/пыль цинка) не подтверждён ничем, кроме входных данных; статус — unknown. Отклонять НЕЛЬЗЯ: нет доказательств, что юрлицо не существует, ликвидировано или банкрот — отсутствие данных не является основанием для rejected. Требуется доработка: точное название фирмы, штат/округ, PAN или GSTIN от поставщика, либо скрин профиля GST — после этого проверка возможна."
+}
