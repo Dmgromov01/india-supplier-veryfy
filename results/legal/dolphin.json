@@ -1,0 +1,18 @@
+{
+ "name_input": "Dolphin",
+ "legal_name": "DOLPHIN TOOLS INDUSTRIES PRIVATE LIMITED (as claimed in input; existence NOT verified)",
+ "cin_llpin": null,
+ "pan": "EGSPK3555E (as claimed in input; not independently verified)",
+ "pan_holder_type": "Individual (4th character 'P' = person) — per PAN format rule applied to the claimed PAN; note that an individual PAN cannot be the tax ID of a private limited company, so the claimed PAN is likely the director's/proprietor's PAN, not the company's",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "None",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend returned connection-refused errors, and direct fetches of registry aggregators (zaubacorp, thecompanycheck, instafinancials, tofler) returned HTTP 403/404, while Bing/Google returned irrelevant results and ignored quoted queries. Therefore CIN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public/not retrieved, not invented. Two internal inconsistencies in the input are flagged: (1) the claimed PAN EGSPK3555E has 'P' as its 4th character, i.e. it belongs to an individual, not to a company, so it cannot be the PAN of 'DOLPHIN TOOLS INDUSTRIES PRIVATE LIMITED'; (2) the claimed HS code 846610 (tool holders/self-opening dieheads for machine tools) does not match the claimed industry 'metallurgy and mining' — per project rules this is NOT a rejection ground, the code is simply to be corrected to the factual one. No rejection is applied: the entity's non-existence, strike-off, liquidation or bankruptcy could not be established either way. Role left as 'unknown' pending registry data. Recommend re-running with a working search backend or MCA master-data lookup before any commercial decision."
+}

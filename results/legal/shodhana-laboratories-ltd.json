@@ -1,0 +1,19 @@
+{
+ "name_input": "SHODHANA LABORATORIES LTD",
+ "legal_claimed": "SHODHANA LABORATORIES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAFCS1075D",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'S' = surname/entity initial — consistent with a company PAN, but NOT independently verified against any registry record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Andhra Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data obtained. Tooling failure: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Google returned only a redirect stub; Bing returned irrelevant results (Bank of America). Direct fetches of public registry aggregators were all blocked: ZaubaCorp 403 (company page and search page), TheCompanyCheck 403, Falconebiz 403, Tofler 404, InstaFinancials 404 (both the CIN-suffixed and bare-slug URLs). No MCA master-data page, GST public profile, or audited filing was readable, therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null rather than guessed. The PAN AAFCS1075D is carried over from the input only and is unconfirmed; its 4th character 'C' indicates a company-type holder, which is at least consistent with the claimed 'Private Limited' form, but this is a format inference, not verification. The claimed legal name 'SHODHANA LABORATORIES PRIVATE LIMITED' vs input name 'SHODHANA LABORATORIES LTD' is an unresolved discrepancy (Pvt Ltd vs Ltd cannot both be correct) that must be settled from MCA before any onboarding. State: claimed Andhra Pradesh, unverified — note that a pharma/API entity of this name is commonly associated with Telangana/Hyderabad, so the state claim needs explicit checking against the registered office. Role left as 'unknown': no MCA activity code (nic code) or GST HSN turnover data was retrievable to distinguish manufacturer from trader. Revenue FY25/FY26 null — no audited accounts or official filings were accessible; per project rules these are not to be estimated. Per the rules, this company is NOT rejected: absence of accessible data is not evidence of non-existence, strike-off, liquidation or bankruptcy, and no such adverse status was found. Action required: re-run with working search/registry access (MCA master data by name, GST portal public search by PAN AAFCS1075D) to fill CIN, GSTIN, incorporation date, registered state, MCA status and revenue."
+}

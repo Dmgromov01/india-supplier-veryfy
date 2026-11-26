@@ -1,0 +1,18 @@
+{
+ "name_input": "IGAKU NEEDLES PRIVATE LIMITED; IGAKU NEEDLES PRIVATE LIMITED",
+ "legal_name": "IGAKU NEEDLES PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AACCI9634H",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type PAN; consistent with a private limited company, but the PAN itself could not be verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: web_search returned 'Connection refused' (searx backend down) on both queries; Google/Bing/DuckDuckGo HTML endpoints returned empty, timed out or irrelevant results; zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed slugs; quickcompany.in timed out. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they were not publicly retrievable with the available tools. PAN AACCI9634H is reproduced from the input only; its 4th character 'C' indicates a company-type PAN, which is consistent with the claimed legal form, but the PAN was not cross-checked against any public profile. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown' - the declared HS 901832 (hypodermic/medical needles) is inconsistent with the claimed industry 'food & FMCG', but per project rules an HS mismatch is not a rejection ground and the code should simply be corrected to the factual one; the mismatch is flagged here for the HS reviewer, not treated as a legal defect. Per the rules, rejection is only permitted for non-existence/struck-off/liquidation/bankruptcy, and none of those could be established either way - so the company is NOT rejected, it is left unverified pending a working registry lookup (MCA master data / GST portal). Recommend re-running this record when search and MCA access are restored."
+}
