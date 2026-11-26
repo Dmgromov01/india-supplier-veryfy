@@ -1,0 +1,9 @@
+{
+ "name_input": "SHARAR TECHNOLOGIES LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable public record obtained. Tooling failed during this run: the web_search backend returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out twice; Google returned HTTP 429; Bing returned only unrelated results with no match for the exact name 'SHARAR TECHNOLOGIES LLP'; ZaubaCorp returned HTTP 403; Tofler search returned a 404 page; one aggregator failed on TLS. Consequently NOTHING could be verified on any of the five assigned dimensions: (1) sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) — not checked against list data, null, not a negative finding; (2) Indian court cases (party role, status) — no source retrieved, null; (3) regulator actions / negative news with dates — no source retrieved, null; (4) credit rating with date and status — no source retrieved, null; (5) evidence of supplies to Russia or the CIS — no source retrieved, null. Per project rules, null means 'not public / not established', and no value here should be read as clearance or as an adverse finding. The absence of a sanctions hit is NOT asserted. Note also that the exact-name search returning no match on Bing is weak evidence only and does not establish non-existence of the entity. Recommended next step: re-run against MCA master data, the OFAC SDN/consolidated list and UN/EU/UK/BIS lists directly, plus Indian court dockets (eCourts, NCLT), once search connectivity is restored. No legal-identity, HS-code or shipment-volume work was performed, per role scope."
+}

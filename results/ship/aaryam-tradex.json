@@ -1,0 +1,8 @@
+{
+ "name_input": "AARYAM TRADEX",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/aaryam-tradex (and variant /aaryam-tradex-): page renders only the generic template — \"Shipments available for AARYAM TRADEX, refreshed daily\" — with 0 shipment rows actually displayed; no date, destination, HS code or bill-of-lading number visible. Source counter: 2 importkey pages fetched, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Searches for GST/tender data returned no results (search backend unavailable: 'searx: Connection refused'); eximpedia, trademo, volza and importgenius free views all blocked (HTTP 403 / JS challenge). 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: importkey отдал только шаблон без строк, а все вторичные источники (volza, eximpedia, trademo, importgenius) вернули 403/JS-challenge, поисковик был недоступен. Заявленный HS 090111/090121/090220/090230 (кофе) ничем не подтверждён и не опровергнут — код оставлен как заявленный, вердикт по HS не выносится. Выручка и объём экспорта: null (не публичны / не получены). Юрлицо не проверялось по MCA — вне области задачи; оснований для rejected нет. Рекомендуется повторный прогон при доступном поиске."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "NEW TEA EXPORTS (P) LTD",
+ "legal_name": "NEW TEA EXPORTS PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned HTTP 429; Bing returned only generic news filler with no relevant results; DuckDuckGo HTML/lite endpoints timed out. Direct registry/profile pages were blocked or empty: zaubacorp.com (403 on both company page and search), thecompanycheck.com (403), mca.gov.in (403), tofler.in (404 - the guessed CIN path does not exist, so no CIN is confirmed), quickcompany.in (timeout), instafinancials.com (returned only site navigation, no company record). CONSEQUENCE: CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null because nothing was publicly confirmed - none of these values were guessed or inferred. The name 'NEW TEA EXPORTS PRIVATE LIMITED' is plausible for an Indian private limited company and the '(P) Ltd' suffix in the input is consistent with a private limited entity, but this is a naming-convention inference, NOT a registry confirmation. No rejection is proposed: per project rules a company may only be rejected if the entity is proven non-existent, struck off, liquidated or bankrupt, and no such evidence was found either way - absence of retrieved data is not proof of non-existence. Role left as 'unknown' because manufacturer vs trader could not be established from any official filing (product catalogues and IndiaMART were out of scope by instruction). Declared HS codes 090220/090230/090240 (green/black tea, packaged) are consistent with a tea exporter, but HS alignment is not a rejection criterion and the codes were not verified against any shipment or licence record. ACTION REQUIRED: re-run this company when the search backend is restored, or supply the CIN/GSTIN directly, so that MCA master data, GST status and audited FY25/FY26 accounts can be pulled from primary sources."
+}

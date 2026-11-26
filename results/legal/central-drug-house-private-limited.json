@@ -1,0 +1,18 @@
+{
+ "name_input": "CENTRAL DRUG HOUSE PRIVATE LIMITED",
+ "legal_name": "CENTRAL DRUG HOUSE PRIVATE LIMITED (as claimed; not independently confirmed in MCA master data — MCA portal and registry aggregators returned HTTP 403 / search backend unavailable during this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (per company's own website: corporate office A-201, Krishna Nagari, S.V. Road, Borivali (West), Mumbai 400092, Maharashtra — self-declared, not a registry record)",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "No audited accounts or official filings retrieved. MCA/registry aggregators (zaubacorp, thecompanycheck, instafinancials, mca.gov.in) all returned HTTP 403; web_search backend was down (connection refused). Revenue therefore null — not estimated.",
+ "note": "Registry verification INCOMPLETE, not negative. No CIN, PAN or GSTIN could be retrieved from a public source in this session: DuckDuckGo search tool failed (searx connection refused), Bing returned irrelevant results, and every registry aggregator plus mca.gov.in blocked the fetch with 403. Nothing is invented here — all registry fields are null rather than guessed. What IS confirmed: the company's own website (centraldrughouse.com, About us / Contact us pages) presents it as 'leading importers and distributors in pharmaceuticals raw material since 1962', 'INDIA's leading global pharmaceutical TRADING COMPANY', with a Mumbai (Maharashtra) corporate office and a director named Ajit Upadhyay. On that self-description the role is recorded as trader (importer/distributor of API, sweeteners, excipients) — this is a self-declared role, not a registry-verified one. Note the declared HS codes (282720 calcium chloride, 290722 hydroquinone, 320490 synthetic organic colouring matter, 382290 diagnostic/lab reagents) are chemical/lab-reagent lines, broadly consistent with a pharma-raw-material trader, but per project rules HS mismatch is not a rejection ground in any case. No basis for rejection: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt — the absence of data is a tooling failure, not evidence of dissolution. Recommended follow-up: re-run against MCA master data / GST portal when the search backend is restored, to capture CIN, PAN (4th-character holder type), GSTIN and GST status, and to pull FY25/FY26 audited revenue."
+}
