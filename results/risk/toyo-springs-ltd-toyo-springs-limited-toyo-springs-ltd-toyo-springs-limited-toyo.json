@@ -1,0 +1,9 @@
+{
+ "name_input": "TOYO SPRINGS LTD.; TOYO SPRINGS LIMITED; TOYO SPRINGS LTD.; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED; TOYO SPRINGS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data collected. All research channels failed during this run: web_search returned 'searx: Connection refused' on every query; direct fetches of candidate company site (toyosprings.co.in) failed with DNS resolution error; DuckDuckGo HTML/lite endpoints timed out; Google returned HTTP 429. Only a control fetch (example.com) succeeded, confirming the failure is in search/access infrastructure, not in the target. Consequently sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all UNVERIFIED and recorded as null - not as 'no findings'. Do not read these nulls as a clean risk profile. Per project rules the company is not rejected on this basis; it must be re-queued for risk research once search access is restored. Note also that the input row is a single legal name repeated 10 times with no distinguishing identifiers (no CIN, PAN, state or address supplied), so even with working search the entity would need disambiguation - 'Toyo Springs' matches a Japanese spring-manufacturer group with Indian operations, and the specific Indian legal entity cannot be pinned down from the supplied data alone."
+}

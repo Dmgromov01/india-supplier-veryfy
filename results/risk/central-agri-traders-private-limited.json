@@ -1,0 +1,9 @@
+{
+ "name_input": "CENTRAL AGRI TRADERS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — NO VERIFIABLE SOURCE OBTAINED. As of 26.11.2026 all research channels failed: DuckDuckGo/searx backend returned 'Connection refused' and timeouts; Google returned HTTP 429; Bing (HTML and RSS) returned only generic dictionary/irrelevant results for every exact-phrase query, i.e. it did not honour the quoted company name; Zaubacorp returned HTTP 403; the OFAC Sanctions List Search tool is an interactive form and could not be queried via plain HTTP GET. Consequently NO sanctions screening (OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List), NO Indian court-case search (eCourts/NCLT/High Court), NO regulator-action or negative-news search, NO credit-rating lookup and NO Russia/CIS supply-evidence search could actually be performed. All fields are therefore null because nothing is public/retrievable in this session — NOT because a negative result was established. Do not read these nulls as 'clean'. Additional flag for the desk: the name is internally inconsistent in the batch — 'CENTRAL AGRI TRADERS PRIVATE LIMITED' vs legal_claimed 'CENTRAL AGRI TRADES PRIVATE LIMITED' (TRADERS vs TRADES). This is a material identity ambiguity that must be resolved before any sanctions or litigation screening is meaningful, since a screening run against the wrong spelling produces a false negative. Per project rules this is not a rejection ground and no verdict is proposed here; the company is retained. Recommended next step: re-run this risk check with working search access, and screen both name variants (TRADERS and TRADES) plus any known CIN/PAN against OFAC SDN, EU consolidated, UK OFSI, BIS Entity List, eCourts and NCLT. No sanctions, court, rating, news or RF-supply facts are asserted."
+}

@@ -1,0 +1,19 @@
+{
+ "name_input": "Kisan Agro",
+ "declared_hs": "071320;151530",
+ "actual_hs_list": [
+  "151530 — Castor oil and its fractions (core product: non-edible grades, organic-certified, USP/pharma grade castor oil)",
+  "382319 — Dehydrated castor oil fatty acid (DCOFA) / industrial monocarboxylic fatty acids, acid oils from refining",
+  "340213 / 340242 — Castor oil ethoxylates (non-ionic surfactants, ethoxylated castor oil)",
+  "230690 — Castor de-oiled cake (DOC) and high-protein castor DOC pellets (oil-cake and other solid residues)",
+  "440131 — Biomass pellets (wood/biomass pellets, agglomerated)",
+  "120740 — Groundnut (shell type, bold, counts 18/22, 20/24, 22/26) — in-shell groundnuts",
+  "150810 — Refined groundnut (peanut) oil",
+  "350400 — 'Kisan Proteins' / pharma-grade protein line (protein concentrates; code indicative, product page not detailed)",
+  "120590 / 120510 — Rapeseed seeds and oils (mentioned as traded line by Kisan Proteins)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Kisan Agro Product Industries (Palanpur, Gujarat, est. 1986, flagship of The Kisan Group) is a castor-oil processor with 1200 MT/day expelling capacity. Real product lines per own website (kisanagro.com, PRODUCTS page): non-edible grades of castor oil, organic-certified castor oil (USDA/EU/JAS/NPOP), USP/pharma-grade castor oil, dehydrated castor oil fatty acid (DCOFA), castor oil ethoxylates, castor de-oiled cake (DOC) and high-protein DOC pellets, biomass pellets, shell-type groundnut, refined groundnut oil, and a 'Kisan Proteins' edible/protein division. Group entities named on site: Kisan Proteins Pvt. Ltd. (edible, groundnut & rapeseed oils/seeds, self-described 'leading traders & exporters') and Kisan Oleochem & Derivatives Pvt. Ltd. (derivatives).",
+ "role_hint": "manufacturer (castor crushing/refining, own expelling capacity, ISO 9001:2008 + OHSAS 18001 claimed) with a trader/export arm in the group (Kisan Proteins explicitly self-describes as 'Traders & Exporters' of oilseeds and oils) — i.e. manufacturer_trader at group level",
+ "comment": "HS mapping: declared 151530 (castor oil) is EXACT and is the company's core line — corroborated by the site's own product pages. Declared 071320 (dried leguminous vegetables, shelled — chickpeas/gram) is WRONG for this company: no pulses/chana line appears anywhere in the catalogue; the closest real line is groundnut (120740 in shell, 150810 refined groundnut oil) and rapeseed (120590/120510), not 071320. So the declaration is partial: one code right, one code mismatched. Per project rule 3 the company is NOT rejected on HS grounds — code should be corrected to the actual castor-oil/derivatives range (151530 primary, plus 382319, 340213, 230690, 440131, 120740, 150810). Industry misclassification: claimed 'Продукты питания и FMCG' is only partly right — the bulk of the business is non-edible industrial/oleochemical (castor derivatives, DCOFA, ethoxylates, biomass pellets, de-oiled cake), with edible (groundnut/rapeseed oil, proteins) as a secondary division. Trader signs: group entity Kisan Proteins Pvt. Ltd. openly positions itself as trader/exporter of oilseeds and oils, so part of the declared trade flow may be merchant trade rather than own production. Product lines missing from the declaration: castor derivatives/DCOFA, castor oil ethoxylates, castor de-oiled cake and pellets, biomass pellets, groundnut (in shell and refined oil), proteins, rapeseed. All product statements above are from the company's own website only — no customs line was available in this task, therefore every product/HS pairing is 'заявлено, не подтверждено' (declared, not confirmed). No registry, revenue or shipment-volume research was performed per role scope."
+}

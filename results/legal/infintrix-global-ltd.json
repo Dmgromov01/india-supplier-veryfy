@@ -1,0 +1,18 @@
+{
+ "name_input": "INFINTRIX GLOBAL LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be obtained. Tooling failure: the web_search backend was down (connection refused on all queries), and every registry source attempted returned HTTP 403/429 or timed out: zaubacorp.com/company/INFINTRIX-GLOBAL-LIMITED (403), thecompanycheck.com (403), instafinancials.com search (403), mca.gov.in (403), google.com search (429), duckduckgo.com/html (timeout). Bing returned only unrelated cached results (YouTube pages) for the exact-phrase queries \"INFINTRIX GLOBAL LIMITED\" and \"Infintrix\" + CIN/GST, i.e. no indexed match was surfaced. Consequently the exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null - NOT because they were checked and found absent, but because they were not retrievable. No numbers, CIN, PAN or GSTIN were invented. Role left as 'unknown' (no evidence of manufacturing or trading activity). Per project rules this company is NOT rejected: absence of retrievable registry data is not proof of non-existence, and rejection is permitted only on confirmed non-existence/strike-off/liquidation/bankruptcy, none of which is established here. Action required: re-run verification when the search backend is restored, or supply the CIN/GSTIN directly so the MCA master data and GST taxpayer profile can be pulled. Note also that the claimed name ends in 'LTD'/'LIMITED' while the declared HS codes (847130 laptops, 852351 solid-state storage) are goods codes - if the entity turns out to be a foreign or non-MCA-registered entity, the Indian registry fields will legitimately remain null."
+}

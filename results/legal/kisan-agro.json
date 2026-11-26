@@ -1,0 +1,18 @@
+{
+ "name_input": "Kisan Agro",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: не удалось получить ни одного первоисточника. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; zaubacorp.com отдал HTTP 403; thecompanycheck.com и instafinancials.com — 404; tofler.in — 404; google.com — 429; bing.com возвращал нерелевантную выдачу (страницы Microsoft/бухгалтерия), т.е. фильтр по запросу не сработал. 'Kisan Agro' — крайне неспецифичное имя: в Индии под ним и близкими вариантами (Kisan Agro Industries, Kisan Agro Products, Kisan Agro Pvt Ltd и т.п.) существует множество разных юрлиц, поэтому сопоставить вход с конкретным CIN без реестра невозможно — любое присвоение CIN/PAN/GSTIN было бы выдумкой. Юрлицо НЕ отклоняется: отсутствие подтверждения существования не равно доказательству несуществования (правило 3 — отклонение только при документально подтверждённой ликвидации/банкротстве/struck off). Роль оставлена 'unknown' (не manufacturer и не trader — нет данных). Выручка FY25/FY26 — null, аудированной отчётности не найдено. Заявленный HS 071320 (нут/бобовые сушёные) и 151530 (касторовое масло) не проверялся по существу — это вне моей роли (registry/legal), и по правилу 3 несоответствие HS не является основанием для отклонения. Требуется повторный прогон при доступном реестре (MCA master data / GST-портал) либо уточнение от заказчика: полное юрлицо, штат, PAN или GSTIN."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "INFINTRIX GLOBAL LTD",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/infintrix-global-ltd and .../infintrix-global-limited both returned only the generic template text 'Shipments available for INFINTRIX GLOBAL LTD, refreshed daily' with the shipment table showing 'Loading...' — 0 shipment rows actually rendered on either page; no bill-of-lading number, date, destination or HS code visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: zaubacorp.com and trademo.com returned HTTP 403, eximpedia.app returned HTTP 403, volza.com returned HTTP 403, and the web_search backend was unavailable ('searx: Connection refused') for the whole session.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки (B/L, дата, направление, HS) в доступных источниках не обнаружено. Внутренние поставки не подтверждены и не опровергнуты — публичные реестры и тендерные базы были недоступны (403/сеть), поэтому domestic_status = unknown, а не none_found. Заявленные HS 847130;852351 (ноутбуки/флеш-накопители) ничем не подтверждены — это заявление, не факт. Выручка и объём экспорта: null (не публичны, не выдумывались). CIN/PAN не найдены. Трейдерская/производственная роль не определена. Требуется повторная проверка при восстановлении доступа к web_search и платным таможенным базам."
+}

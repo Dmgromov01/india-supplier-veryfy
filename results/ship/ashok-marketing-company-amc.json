@@ -1,0 +1,8 @@
+{
+ "name_input": "Ashok Marketing company (AMC)",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/ashok-marketing-company (also -co and -ashok-marketing): page renders only the template text \"Shipments available for ASHOK MARKETING COMPANY, refreshed daily\" with an empty \"Number of shipments by month\" chart — 0 shipment rows actually visible, no date, destination, HS code or B/L number. Source counter: 3 slug variants tried, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. web_search backend returned \"searx: <urlopen error [Errno 111] Connection refused>\" on both queries, so no domestic-supply source could be located; volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок (нет ни одной записи с датой, направлением, HS и B/L), ни внутренних поставок (нет GST-оборота, тендеров, контрактов) подтвердить не удалось. Причина — недоступность источников: importkey отдаёт пустой шаблон без строк по всем трём вариантам слага, volza/eximpedia/trademo блокируют доступ (403), поисковик не работал. Заявленный HS 843149 (части машин для горнодобычи/бурения) и отрасль «Металлургия и горнодобыча» ничем не подтверждены; юрлицо, CIN, PAN, выручка и объём экспорта — null, публично не установлены. Роль (manufacturer/trader) не определена — вероятно trader по названию, но это не подтверждено. Требуется повторная проверка при доступных источниках; отклонять не за что (нет данных о ликвидации/банкротстве)."
+}
