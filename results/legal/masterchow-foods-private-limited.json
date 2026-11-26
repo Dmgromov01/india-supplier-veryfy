@@ -1,0 +1,18 @@
+{
+ "name_input": "MASTERCHOW FOODS PRIVATE LIMITED",
+ "legal_name": "MASTERCHOW FOODS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error ('searx: Connection refused') on both queries, and every direct registry source attempted was inaccessible: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404 for the guessed slug, falconebiz.com returned HTTP 403, masterchow.com/pages/about-us returned HTTP 403, and Google returned HTTP 429. Bing and DuckDuckGo HTML endpoints returned irrelevant/blocked result sets, so no CIN, PAN, GSTIN, incorporation date or MCA status could be read from a primary or secondary public record. Per the rules, nothing is invented: all registry fields are null and revenue is null (no audited accounts or official filings were accessible). Role is left as 'unknown' because no MCA business-activity classification or GST/legal evidence was retrievable; the claimed HS codes 190230 (pasta) and 210320 (tomato ketchup/sauces) and the 'food & FMCG' industry claim are unverified and are NOT treated as evidence of manufacturer vs trader status. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling/access limitation, not a negative finding. Recommended follow-up: re-run against MCA master data (mca.gov.in company/LLP master data search) and the GST taxpayer search portal (gst.gov.in/search-taxpayer) once search access is restored, and confirm the exact registered name and state of registered office before any verdict."
+}

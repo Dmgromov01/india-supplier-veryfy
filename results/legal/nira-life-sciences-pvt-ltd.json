@@ -1,0 +1,18 @@
+{
+ "name_input": "Nira Life Sciences Pvt. Ltd",
+ "legal_name": "NIRA LIFE SCIENCES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failures during this run: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic 'NIRA' results (Uganda NIRA, NIRA skincare, NIRA rodeo) with no Indian company match for 'Nira Life Sciences Private Limited'; Zauba Corp and TheCompanyCheck returned HTTP 403; Tofler returned 404 for the guessed slug; InstaFinancials returned 404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they do not exist, but because no public source could be read in this run. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the entity is NOT rejected; it is left unverified pending a re-run with working registry access (MCA master data, GST portal search, Zauba/Tofler). PAN holder type cannot be inferred since no PAN was obtained. Role cannot be determined from registry data alone; declared HS 293311 (heterocyclic compounds, incl. hydantoin/phenobarbital-type) is consistent with a pharma/API chemical supplier, but HS is not a rejection criterion per project rules and is not used here. Revenue FY25/FY26: no audited accounts or official filings accessible - null, not estimated."
+}
