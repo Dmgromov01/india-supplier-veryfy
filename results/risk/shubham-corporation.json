@@ -1,0 +1,38 @@
+{
+ "name_input": "SHUBHAM CORPORATION",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Supreme Court of India",
+   "case": "Civil Appeal No. 7075/2024 — Shubham Corporation Private Limited v. Kotoju Vasudeva Rao & Anr.",
+   "role": "Appellant",
+   "status": "Pending/heard on 09.07.2024 and 20.01.2025 (daily orders)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Shubham%20Corporation%20Private%20Limited%22%20Kotoju"
+  },
+  {
+   "court": "NCLAT Chennai",
+   "case": "Shubham Corporation Private Limited v. M/s Navayuga Infotech Private Limited (Company Appeal, 2021 batch)",
+   "role": "Appellant (authorised signatory Chinta Madhav, Plot No 379, Road No 10, Jubilee Hills, Hyderabad)",
+   "status": "Order dated 22.05.2024",
+   "source": "https://indiankanoon.org/search/?formInput=%22Shubham%20Corporation%20Private%20Limited%22%20Navayuga"
+  },
+  {
+   "court": "Gujarat High Court (Ahmedabad)",
+   "case": "Shubham Corporation v. Commissioner of Health — C/IAAP/32/2019 (arbitration petition)",
+   "role": "Petitioner",
+   "status": "Orders 22.02.2019 and 24.08.2020",
+   "source": "https://indiankanoon.org/search/?formInput=%22Shubham%20Corporation%22"
+  },
+  {
+   "court": "Rajasthan High Court, Jaipur",
+   "case": "M/s Shubham Corporation v. State of Rajasthan & Jaipur Municipal Corporation — D.B. Civil Writ Petition No. 5757/2026 (proprietor Ramawatar, B-93 Rajdhani Mandi, Sikar Road, Jaipur)",
+   "role": "Petitioner",
+   "status": "Order dated 07.04.2026; part of a batch of similarly placed traders",
+   "source": "https://indiankanoon.org/search/?formInput=%22Shubham%20Corporation%22%20State%20Of%20Rajasthan"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "IDENTITY AMBIGUITY — CRITICAL. 'Shubham Corporation' is not one company in public records: at least four distinct entities appear — (1) Shubham Corporation Private Limited, Hyderabad (Jubilee Hills), litigating against Navayuga Infotech at NCLAT and before the Supreme Court; (2) a proprietorship 'M/s Shubham Corporation', Jaipur (proprietor Ramawatar), in a 2026 Rajasthan HC writ against Jaipur Municipal Corporation; (3) a Gujarat entity in a 2019 arbitration petition against the Commissioner of Health, Ahmedabad. The declared HS set (300490 pharma + 850131/850152/850440 electric motors and static converters) does not match any single one of these profiles and is internally inconsistent with the claimed industry 'oil & gas and chemicals'. No PAN or state was supplied, so the subject cannot be pinned to a specific legal entity — risk conclusions below are therefore indicative only and must be re-run once the exact entity (PAN/CIN/state) is confirmed. SANCTIONS: no confirmed hit found; OFAC Sanctions List Search (SDN last updated 23.11.2026) was reachable but its results are rendered client-side and returned no queryable output, and the web_search backend was down (connection refused), so OFAC SDN, UN, EU, UK and BIS Entity List screening could NOT be completed — recorded as null, not as 'clear'. COURT CASES: civil/commercial litigation only (Supreme Court, NCLAT, Gujarat HC, Rajasthan HC) — no criminal proceedings found; per project rules these are not rejection grounds and are noted neutrally. The Rajasthan HC writ is a routine municipal/trader grievance batch, not a regulatory penalty. REGULATOR ACTIONS / NEGATIVE NEWS: none found in the sources reachable; searches for 'Shubham Corporation' + Russia returned no matching results on Indian Kanoon. CREDIT RATING: no rating found on any public agency (CRISIL/ICRA/CARE/India Ratings/Acuite) — null, not public for an entity of this size. RF/CIS SUPPLY: no evidence of supplies to Russia or the CIS found in any reachable source — null; absence of evidence here is a research gap, not a clearance, given the search backend outage. RECOMMENDATION: keep the company in the database (no rejection grounds under project rules); flag for identity disambiguation before any further risk work."
+}

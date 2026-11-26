@@ -1,0 +1,18 @@
+{
+ "name_input": "Nitika Pharmaceutical Specialities Pvt Ltd",
+ "legal_name": "Nitika Pharmaceutical Specialities Private Limited (as claimed in input; not verified against MCA records)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. All tool attempts failed: web_search returned 'Connection refused' (searx backend down); Bing returned irrelevant results; Google returned HTTP 429; DuckDuckGo timed out; ZaubaCorp, TheCompanyCheck and FalconEbiz returned HTTP 403 (bot-blocked); InstaFinancials returned HTTP 404; IndiaMART returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT verified, not absent. No rejection is warranted: there is no evidence the entity does not exist, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Note the input's legal_claimed 'NIKITA PHARMA' differs in spelling from the name field 'Nitika Pharmaceutical Specialities Pvt Ltd' — spelling must be reconciled against MCA before any further use. Also note the declared HS 252620 (steatite/talc, crushed or powdered) and industry 'Строительство и DIY' are inconsistent with a pharmaceutical-specialities company name; per rules this is NOT grounds for rejection — the HS code should be corrected to the actual product code and the record kept. Role left as 'unknown' pending registry/activity verification. Requires manual re-check on MCA master data (mca.gov.in) and GST portal."
+}

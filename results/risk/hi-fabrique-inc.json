@@ -1,0 +1,9 @@
+{
+ "name_input": "HI FABRIQUE INC",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING FOUND, NOTHING CONFIRMED. As of today no public trace of an entity named 'HI FABRIQUE INC' / 'HI-FABRIQUE INC' could be located. Tooling was degraded: the web_search backend returned 'Connection refused' on both queries, Google returned HTTP 429, DuckDuckGo timed out, and Bing (two attempts with exact-phrase queries) returned only generic dictionary results for the word 'hi' — i.e. no matching company page, registry entry, news item or sanctions listing. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = null / not verifiable, NOT 'clear'; Indian court cases (party role, status) = null / not verifiable; regulator actions and negative news = null / none found; credit rating = null (no rating agency coverage found, no date); evidence of supplies to Russia or CIS = null / none found. No CIN, PAN, GSTIN, address or state is available in the input, so no registry (MCA, NCLT, e-courts, GST) could be queried against a unique identifier — this is the main reason the check is inconclusive rather than negative. Per project rules this is NOT a rejection ground and no adverse inference should be drawn: absence of public records here reflects search failure and a possibly non-public/misspelled/foreign name, not confirmed clean status. Recommended next step: obtain CIN/PAN/GSTIN or the exact registered name and re-run the sanctions, NCLT/e-courts and credit-rating checks against those identifiers. Note also that the declared HS 520819 (woven cotton fabric) is inconsistent with the claimed industry 'food & FMCG' — flagged for the HS/identity team only, not a risk finding and not a rejection ground."
+}

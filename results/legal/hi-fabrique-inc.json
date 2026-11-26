@@ -1,0 +1,18 @@
+{
+ "name_input": "HI FABRIQUE INC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry evidence obtained. The claimed name 'HI-FABRIQUE INC' does not match any Indian corporate-name pattern: 'INC' is a US/Canadian suffix, not an Indian one (Indian entities end in Private Limited / Limited / LLP / OPC). No CIN, LLPIN, PAN or GSTIN could be located. Tooling failed during this run: the web_search backend returned 'Connection refused' on all queries; zaubacorp.com returned HTTP 403; thecompanycheck.com and instafinancials.com search endpoints returned 404; mca.gov.in returned HTTP 403; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant dictionary results for the token 'hi'. Therefore legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are not publicly confirmed by any source I could read - they are NOT null because the entity was proven non-existent. Per project rules, rejection requires proof that the legal entity does not exist / is struck off / liquidated / bankrupt; no such proof exists here, so this record is NOT rejected - it is flagged as unverified and requires manual MCA/GST portal lookup. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible. Role set to 'unknown' - the input industry label ('Food products and FMCG') is unconfirmed and, notably, the declared HS code 520819 is cotton woven fabric (HS chapter 52), not a food/FMCG product, so the industry claim and the HS code are mutually inconsistent; per rules this is not a rejection ground, only a data-quality flag. No shipment, court or catalogue research was performed, per role scope."
+}

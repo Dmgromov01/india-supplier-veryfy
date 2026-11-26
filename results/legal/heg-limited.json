@@ -1,0 +1,18 @@
+{
+ "name_input": "HEG LIMITED",
+ "legal_name": "HEG Limited",
+ "cin_llpin": "L23109MP1972PLC008290",
+ "pan": "AAACH6188D",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type PAN; derived from the CIN-linked PAN pattern, not read from a primary document in this session)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1972 (exact date not verified in this session)",
+ "state_registered": "Madhya Pradesh",
+ "state_claimed": "",
+ "mca_status": "Active (not verified against MCA master data in this session)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity is well established: HEG Limited, CIN L23109MP1972PLC008290 (L = listed public company, 1972 incorporation, MP registrar), BSE scrip 509631, registered office in Madhya Pradesh (Mandideep/Raisen belt) — consistent with the graphite-electrode business behind the declared HS 854511/854590. However, in this session the search backend was unreachable (searx connection refused) and every primary source I tried returned 403/429/timeouts (zaubacorp, thecompanycheck, hegltd.com, moneycontrol, wikipedia, NSE, screener, google/duckduckgo). Therefore GSTIN, GST status, exact incorporation date, MCA status and audited FY25/FY26 revenue could NOT be confirmed from a public profile or official filing and are left null rather than guessed. PAN AAACH6188D is the widely published PAN for this CIN but was not re-verified from a primary document here — treat as provisional. No rejection grounds: the entity exists and is listed/active; nothing indicates strike-off, liquidation or bankruptcy. Role: manufacturer (own graphite-electrode and power operations), not a trader. Revenue must be re-pulled from the FY25 annual report and FY26 filings before use."
+}

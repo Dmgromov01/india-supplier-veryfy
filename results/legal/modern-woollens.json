@@ -1,0 +1,18 @@
+{
+ "name_input": "MODERN WOOLLENS",
+ "legal_name": "Modern Woollens Ltd (a unit of Modern Threads (India) Ltd; listed as Modern Threads (I) Ltd, BSE: 500282 / NSE: MODTHREAD)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1973",
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "listed and trading (BSE 500282, NSE MODTHREAD) — active as of Nov 2026; exact MCA status string not retrieved",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 260,
+ "revenue_fy26_cr": 295,
+ "revenue_source": "Screener.in consolidated P&L for Modern Threads (I) Ltd (BSE 500282), FY Mar-2025 = Rs 260 Cr, FY Mar-2026 = Rs 295 Cr (standalone FY25 260 / FY26 300). Figures from company filings aggregated by Screener; audited annual report PDF not opened directly.",
+ "note": "Registry aggregators (ZaubaCorp, TheCompanyCheck, Moneycontrol) returned HTTP 403 and the search backend was unavailable, so CIN, PAN, GSTIN, GST status and registered-office state could NOT be verified from a public profile — left null rather than guessed. What is confirmed: the entity exists and is listed (BSE 500282, NSE MODTHREAD); Screener describes it as incorporated in 1973, the flagship of the Modern Group and 'a unit of Modern Threads (India) Ltd', manufacturing worsted yarn, wool tops and synthetic yarn — hence role = manufacturer. The input's 'U/O MODERN THREADS INDIA LIMITED' matches this unit relationship. Declared HS 150500 (wool grease/fatty substances) is inconsistent with the actual business (wool/synthetic worsted yarn, i.e. HS 51xx/55xx) — per project rules this is NOT a rejection ground; the company stays in the base and the code should be corrected to the factual one (verdict accepted_hs_corrected). Industry claimed as 'Строительство и DIY' (construction/DIY) is also wrong — it is a textile/yarn manufacturer. No rejection: entity exists, is not struck off or liquidated."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S MICRO LABS LIMITED",
+ "legal_name": "MICRO LABS LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Karnataka",
+ "state_claimed": "",
+ "mca_status": "Active (not verified against MCA in this session)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Entity exists and is a well-known Indian pharma manufacturer (maker of Dolo). Registered office confirmed from the company's own official website contact page: 'MICRO LABS LIMITED, 31, Race Course Road, Bangalore-560 001, India' (https://www.microlabsltd.com/contact) — so registered state = Karnataka, while the input declared no state (state_claimed empty), hence no mismatch to report. Role: manufacturer — the official site states it operates 14 manufacturing plants in India plus an API unit (https://www.microlabsltd.com/), i.e. own production, not a trader. Declared HS codes 291590/291899/292249/292250 are organic-chemistry/API-type codes, broadly consistent with an API manufacturer; per project rules HS mismatch is not a rejection ground in any case. NOT VERIFIED / null fields: CIN, PAN, GSTIN, GST status, exact date of incorporation and MCA status could not be confirmed from a public source in this session — searx web_search was unavailable (connection refused) and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com company pages, mca.gov.in) returned HTTP 403/404, so no CIN/PAN/GSTIN is asserted rather than guessed. Revenue FY25 and FY26: null — Micro Labs is unlisted and no audited accounts or official filings were retrievable; no figure is invented. No rejection ground found (entity exists, no evidence of strike-off/liquidation/bankruptcy)."
+}

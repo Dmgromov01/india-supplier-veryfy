@@ -1,0 +1,26 @@
+{
+ "name_input": "Nitika Pharmaceutical Specialities Pvt Ltd",
+ "declared_hs": "252620",
+ "actual_hs_list": [
+  "283650 (Calcium carbonate / Magaldrate-related antacid actives — closest to declared 2526, but chemically a different heading)",
+  "291570 (Stearic acid, magnesium stearate, calcium stearate, aluminium stearate — salts/esters of stearic acid)",
+  "291719 / 29171990 (Sodium stearyl fumarate — ester of fumaric acid)",
+  "391231 (Croscarmellose sodium — cellulose ether)",
+  "390530 (HPMC / Hypromellose, Hypromellose phthalate — polyvinyl/ cellulose ethers; HPMC = 3912.39)",
+  "390720 / 390729 (PEG — polyethylene glycol, Pharmapeg)",
+  "391290 / 391231 (Microcrystalline cellulose — Tabcell)",
+  "283525 (Dibasic calcium phosphate anhydrous — Tabfil)",
+  "283630 (Sodium bicarbonate — Stanpure)",
+  "283329 / 283321 (Magnesium sulphate)",
+  "291711 / 291719 (Ferrous fumarate — 2917.19; Ferrous sulphate — 2833.29)",
+  "282110 (Ferric oxide — Colnat)",
+  "283650 (Calcium citrate — 2918.15 actually; Calcium citrate = 2918.15)",
+  "252620 (Purified talc — Tabglide, only product matching declared code)",
+  "293190 / 382499 (Simethicone — silicone, 3910.00)",
+  "2918.15 (Calcium citrate, malate)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Официальный сайт nitikapharma.com (открыт 1 раз, homepage + полный каталог в меню): производитель фармацевтических эксципиентов и активных субстанций. Реальные линейки: TABCELL (микрокристаллическая целлюлоза), TABLUBE (магния стеарат, кальция стеарат, алюминия стеарат), NOVALUBE (натрия стеарилфумарат), ACILUBE (стеариновая кислота), STANPURE (натрия крахмалгликолят, ферроза фумарат, ферроза сульфат, магния сульфат, натрия бикарбонат), PHARMELLOSE (кроскармеллоза натрия), PHARMAPEG (PEG), NEUTRA (магалдрат, алюминия гидроксид, магния карбонат, симетикон), TABFIL (дикальция фосфат безводный), COLNAT (феррик оксид), HYPROMALATE (гипромеллозы фталат), TABELLOSE (HPMC), TABGLIDE (очищенный тальк), цитраты (кальция цитрат, малат). Заявленный код 252620 (природный тальк, дроблёный/молотый) соответствует только одному SKU из ~20 — TABGLIDE purified talc, и то это фармакопейный очищенный тальк, а не строительный минеральный наполнитель. Остальные ~95% ассортимента — органическая химия и фармэксципиенты (гл. 29, 39), полностью вне гл. 25.",
+ "role_hint": "manufacturer",
+ "comment": "HS-код заявлен неверно (wrong): 252620 покрывает лишь один продукт — очищенный тальк TABGLIDE, тогда как основной ассортимент это стеараты (2915.70), МКЦ и кроскармеллоза (3912), HPMC (3912.39), PEG (3907.20), натрия стеарилфумарат (2917.19), минеральные соли (2833/2835/2836), феррик оксид (2821.10), магалдрат/симетикон. Отрасль заявлена как «Строительство и DIY» — это отраслевая мисclassификация: компания фармацевтических эксципиентов (pharma excipients), не строительные материалы; тальк у неё фармакопейный, а не строительный. Признаков трейдера нет: сайт описывает собственные заводы в Бутibori, Ваддхамне и Уппалвади (Нагпур, Махараштра), DMF No. 033414 на магния стеарат — это manufacturer. По правилу 3 HS-несоответствие не является основанием для отклонения: компания сохраняется, код исправляется на фактический. Все продуктовые позиции взяты из каталога сайта и являются «заявлено, не подтверждено» — таможенных строк в рамках этой задачи не проверял (по инструкции объёмы и таможню не исследую). Источник: http://nitikapharma.com/ (главная + меню Products), дата обращения — текущая сессия."
+}
