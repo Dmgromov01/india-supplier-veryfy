@@ -1,0 +1,18 @@
+{
+ "name_input": "Shofu Dental India Pvt Ltd",
+ "legal_name": "Shofu Dental India Private Limited (as claimed; unverified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. All tool routes failed: web_search (searx backend connection refused), Google (HTTP 429), Bing (returned unrelated results), DuckDuckGo (timeout); registry aggregators Zauba Corp, TheCompanyCheck, FalconEbiz (HTTP 403) and Tofler, InstaFinancials (HTTP 404). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null - not public/not retrieved, NOT invented. No evidence found of non-existence, strike-off, liquidation or bankruptcy, so the company is NOT rejected; it is retained with role 'unknown' pending a re-check on MCA master data and GST portal. Note on the input: declared HS 330690 (dental preparations/washes) and industry_claimed 'Food & FMCG' are inconsistent - Shofu is a Japanese dental-equipment/dental-materials group, so the actual product line is dental consumables, not FMCG; per project rules this is not a rejection ground and the HS code should be corrected to the factual dental-products heading once the product list is confirmed. Also note the claimed state field was empty, so no state mismatch can be assessed. Recommend re-running with working search/registry access before any verdict."
+}

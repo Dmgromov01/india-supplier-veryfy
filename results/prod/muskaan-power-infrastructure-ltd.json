@@ -1,0 +1,20 @@
+{
+ "name_input": "MUSKAAN POWER INFRASTRUCTURE LTD",
+ "declared_hs": "850421",
+ "actual_hs_list": [
+  "850421",
+  "850422",
+  "850423",
+  "850431",
+  "850432",
+  "850433",
+  "850434",
+  "850440",
+  "853720",
+  "903289"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт muskaanpower.com (Ludhiana, Punjab, Sua Road, Industrial Area-C, Dhandari Kalan; 'formerly known as Muskaan Engineers', год основания 2003, статус Limited Company, 101-500 сотрудников, nature of business: Manufacturer) заявляет следующие реальные товарные линии: (1) Distribution transformers / power transformers — до 150 kVA однофазные 11 и 33 kV класса, до 40 MVA 66 kV класса, до 20 MVA OLTC 33 kV класса, pole/ground mounted, CSP и non-CSP, испытанные по IS 2026 / IEC 76 (distribution-transformer.html, oltc-distribution-transformer.html); (2) Oil immersed / oil cooled power transformers, step-down transformers, low power transformers, furnace/isolation transformers, high voltage transformers, 3-phase transformers (sitemap + automatic-voltage-controllers.html); (3) Dry type transformers, ventilated dry type, cast resin transformers (dry-type-transformers.html); (4) Package substations / compact substations / unitized package substations (sitemap); (5) Automatic voltage controllers: multi-tab voltage stabilizer transformer (до 15 MVA, 11 и 33 kV), servo voltage stabilizer, automatic servo controlled voltage stabilizer, three-phase air cooled servo stabilizers (automatic-voltage-controllers.html, dry-type-transformers.html); (6) DC rectifier transformers, plating/anodizing rectifiers (sitemap); (7) Potential voltage transformers (PT) и transformer tanks (баки трансформаторов) как отдельная товарная позиция (automatic-voltage-controllers.html).",
+ "role_hint": "manufacturer (сайт заявляет собственное производство в Лудхиане, in-house facility для стабилизаторов; трейдерских признаков — перепродажи чужого ассортимента, дилерских брендов — на просмотренных страницах не выявлено). Заявление о статусе производителя не подтверждено независимо (нет проверки заводских площадок/сертификатов в рамках этой роли).",
+ "comment": "Заявленный код 850421 (трансформаторы с жидким диэлектриком мощностью ≤650 kVA) соответствует лишь части ассортимента: он верен для малых распределительных масляных трансформаторов, но НЕ покрывает заявленные на сайте мощности до 40 MVA / 66 kV (это 850422 ≤10 000 kVA и 850423 >10 000 kVA), сухие и литые трансформаторы (850431/850432/850433/850434), стабилизаторы и AVR-контроллеры (850440 — статические преобразователи; при поставке как готовые приборы регулирования возможен 903289), комплектные подстанции/КРУ (853720), а также баки трансформаторов (7310/7309 — изделия из чёрных металлов, не электротехника). Итог: match_status = partial — код не отклоняет компанию, требуется расширение номенклатуры кодов и уточнение по каждой фактической отгрузке. Отраслевая классификация 'Энергетика' корректна (электротехническое оборудование распределения и передачи энергии), но она слишком широка: фактически это производитель трансформаторного оборудования и стабилизаторов напряжения, а не энергогенерация. Пропущенные в декларации товарные линии: сухие/литые трансформаторы, комплектные и мобильные подстанции, стабилизаторы/AVR, выпрямители для гальваники, трансформаторные баки. Все перечисленные товары — 'заявлено, не подтверждено': ни одна строка не подтверждена таможенной записью или B/L в рамках этой проверки; цены 'Rs 1 Lakhs/Piece' на сайте — маркетинговый шаблон, не доказательство отгрузок. Данные о выручке, объёме экспорта, PAN/CIN и GST-оборотах в рамках роли HS-специалиста не исследовались — null."
+}
