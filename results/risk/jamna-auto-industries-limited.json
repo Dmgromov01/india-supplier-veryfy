@@ -1,0 +1,10 @@
+{
+ "name_input": "Jamna Auto Industries Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по технической причине: инструменты недоступны в этой сессии. web_search возвращал 'searx: Connection refused' (бэкенд поиска лежит); http_get на duckduckgo.com/html и html.duckduckgo.com — timeout; bing.com отдавал нерелевантную выдачу (запрос не учитывался, результаты про Microsoft/BSOD); сайт jamnaauto.com — DNS 'Name or service not known'; crisilratings.com rating-list — 404; bseindia.com отдаёт только JS-оболочку без данных. Ни один из требуемых пунктов (санкционные списки OFAC SDN/UN/EU/UK/BIS, индийские судебные дела с ролью стороны и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой и статусом, признаки поставок в РФ/СНГ) подтвердить источником не удалось. Все поля оставлены null — данные не выдумывались. Компания публичная (листинг BSE/NSE, тикер JAMNAAUTO), что делает проверку в принципе возможной при восстановлении доступа: рекомендую перезапустить проверку с рабочим поиском и источниками — реестры NCLT/ecourts, сайты CRISIL/ICRA/CARE, OFAC SDN/UK/EU/BIS consolidated lists, архивы новостей. Вердикт по правилам проекта: не отклонять (нет оснований — юрлицо публичное и действующее по признаку листинга), статус проверки — 'не проверено, требуется повтор'.",
+ "verification_status": "not_verified_tooling_failure"
+}
