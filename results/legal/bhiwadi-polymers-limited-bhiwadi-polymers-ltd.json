@@ -1,0 +1,18 @@
+{
+ "name_input": "BHIWADI POLYMERS LIMITED; BHIWADI POLYMERS LTD",
+ "legal_name": "Bhiwadi Polymers Limited (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AAACB3674N",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN; 5th character 'B' = surname initial of the entity as registered) — format-consistent, but the PAN could NOT be verified against any public source",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: no source could be read. web_search backend returned 'Connection refused' on all queries; direct fetches of MCA (mca.gov.in), Zauba Corp, TheCompanyCheck, InstaFinancials returned HTTP 403/404; DuckDuckGo timed out; Bing returned only irrelevant results for the company name and for the PAN string. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. PAN AAACB3674N is only format-checked (4th char 'C' = company holder type); it is not confirmed as belonging to this entity. Note the input itself is inconsistent: name says 'Bhiwadi Polymers Limited' (a 'Limited' suffix implies a company, typically Rajasthan/ Delhi registry) while state_claimed is Delhi — registered state unverified. No audited accounts or official filings were accessible, so revenue FY25/FY26 = null (not estimated). Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Role left 'unknown' — no evidence of manufacturing plant or trading activity was obtainable. Recommended action: re-run verification when MCA/GST portals are reachable, using CIN lookup on the exact legal name and GSTIN search on PAN AAACB3674N."
+}

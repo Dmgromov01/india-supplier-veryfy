@@ -1,0 +1,18 @@
+{
+ "name_input": "AURA BIOTECHNOLOGIES PRIVATE LIMITED; AURA BIOTECHNOLOGIES PRIVATE LIMITED; AURA BIOTECHNOLOGIES PRIVATE LIMITED; Aura Biotechnologies Private Limited; Aura Biotechnologies Private Limited; AURA BIOTECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "AURA BIOTECHNOLOGIES PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only generic 'Aura' consumer-brand results (aura.com, ASUS Aura, Aura Frames) with no Indian company-registry hits; Zauba Corp and TheCompanyCheck returned HTTP 403; MCA master-data portal returned HTTP 403; InstaFinancials search URL returned 404; Marginalia returned no results. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder-type test), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - none of these are public to me through the channels that worked, and I will not invent them. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left as 'unknown' rather than guessed: the input gives no evidence of own manufacturing plant vs. trading, and the declared HS 382290 (diagnostic/laboratory reagents, certified reference materials) is consistent with either a manufacturer or an importer/trader of reagents - per project rules an HS mismatch is not a rejection ground anyway, so no verdict on HS is made here. IMPORTANT: this is NOT a rejection. Per the rules, rejection requires positive proof that the entity does not exist, is struck off, liquidated or bankrupt - absence of accessible data is not such proof, so the company must be treated as unverified/pending, not rejected. Recommended next step: re-run with working search, or verify manually on the MCA portal (mca.gov.in > MCA Services > Master Data) by company name, and on the GST portal 'Search Taxpayer' for the GSTIN once the CIN/state is known. Note also that the input name is duplicated six times and the claimed short form 'AURA BIOTECH PVT LTD' is not a valid legal-name form; the exact registered name must be confirmed from MCA before any further work."
+}

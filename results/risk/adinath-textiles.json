@@ -1,0 +1,9 @@
+{
+ "name_input": "Adinath Textiles",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. All web_search calls failed (search backend returned 'Connection refused' on every attempt). Fallback attempts via Google (HTTP 429), DuckDuckGo HTML (timeout) and Bing (returned entirely unrelated results — dealercenter.com, feefo.com, dog-breeding pages — indicating the proxy/search layer was not returning real matches for the query) produced no usable pages. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried over plain HTTP, so no SDN/Non-SDN name match could be confirmed or excluded. Therefore: sanctions exposure = UNKNOWN (not cleared, not hit); Indian court cases (party role/status) = UNKNOWN; regulator actions and negative news = UNKNOWN; credit rating = UNKNOWN; evidence of supplies to Russia/CIS = UNKNOWN. Nothing here should be read as a clean bill of health. Note also that the batch record is internally inconsistent: declared HS 520859 is cotton woven fabric (HS ch. 52) while industry_claimed is 'Продукты питания и FMCG' (food/FMCG) — flagged for the HS/identity team, not assessed here per role scope. Recommend re-running this company once search access is restored, checking: OFAC SDN/consolidated list by exact name, EU/UK consolidated lists, BIS Entity List, eCourts/NCLT by legal name, and credit bureaus (CRISIL/ICRA/CARE/Brickwork). No CIN, PAN, rating figure or shipment record is asserted because none was retrieved."
+}

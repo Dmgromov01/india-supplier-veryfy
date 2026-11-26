@@ -1,0 +1,18 @@
+{
+ "name_input": "DRKATRE",
+ "legal_name": "DRKATRE PREMIXLAB PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error ('Connection refused') on both queries, and direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com, quickcompany.in) returned HTTP 403/timeouts. Bing fallback queries for the exact strings \"DRKATRE PREMIXLAB PRIVATE LIMITED\" and \"PREMIXLAB\" returned only unrelated results (SNCF, Reddit, Chegg), i.e. no indexed page for this entity was surfaced. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they were checked and found absent, but because no public source could be read in this session. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy is NOT established. Role left as 'unknown' (no evidence of manufacturing plant or trading activity in any readable source). Recommended follow-up: re-run against MCA master data / GST portal once search access is restored, before any verdict. Declared HS codes (230910, 230990, 292241 - dog/cat food, animal feed premixes, choline chloride) are consistent with a 'premix lab' animal-nutrition profile but are unverified and, per project rules, are not grounds for rejection in any case."
+}

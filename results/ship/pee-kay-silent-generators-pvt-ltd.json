@@ -1,0 +1,8 @@
+{
+ "name_input": "Pee Kay Silent Generators Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'pee-kay-silent-generators-pvt-ltd' (and variant 'pee-kay-silent-generators-private-limited') renders only the template line \"Shipments available for PEE KAY SILENT GENERATORS PVT LTD, refreshed daily\" — 0 shipment rows actually displayed, no date, destination, HS code or bill-of-lading number visible. Source counter: 2 ImportKey URLs opened, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved: thecompanycheck.com, zaubacorp.com, volza.com, eximpedia.app and trademo.com all returned HTTP 403 / JS challenge; DuckDuckGo search backend returned 'Connection refused' on both queries, so no domestic-supply page could be located. 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались закрыты (ImportKey — платный шаблон без строк, Volza/Eximpedia/Trademo/Zauba/TheCompanyCheck — 403, ImportGenius — JS-челлендж), а поисковик был недоступен, поэтому ни экспортных B/L, ни GST/тендерных записей получить не удалось. Статус 'unknown', а не 'none_found': отсутствие данных здесь означает недоступность источников, а не отсутствие отгрузок. Заявления сайта/каталогов по правилу 5 фактом не считаются и в evidence не включены. Выручка и объём экспорта: null (не публичны/не получены). CIN, PAN, штат — null, не подтверждены. HS 850211/850212/850213/850220 не проверялся по фактическим записям; при появлении доступа к таможенным данным проверить повторно."
+}
