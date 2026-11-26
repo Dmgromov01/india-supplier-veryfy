@@ -1,0 +1,8 @@
+{
+ "name_input": "ALLIES OVERSEAS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/allies-overseas (and variant /allies-overseas-): page renders only the template shell — \"Shipments available for ALLIES OVERSEAS, refreshed daily\" — with zero shipment rows, zero dates, zero destinations, zero B/L numbers and no shipment counter value. Source counter: 0 rows actually seen vs. 0 claimed. No export record with date/destination/HS/B-L could be retrieved.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search engine (DuckDuckGo/searx) returned connection refused; Bing returned only dictionary/WWII 'Allies' results, i.e. 0 relevant rows for the exact company name. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: публичные бесплатные срезы (importkey, volza, eximpedia, trademo) либо отдали 403, либо показали пустой шаблон без строк, а поисковики были недоступны. Заявленный HS 848299 (части подшипников) не подтверждён и не опровергнут — фактический код не установлен, поэтому HS не корректировался. Выручка: null (не публична). Объём экспорта: null (не публичен). Юрлицо не проверялось по MCA — вне области задачи; оснований для отклонения нет. Требуется платный доступ к таможенным данным (Volza/Eximpedia/ImportGenius) или запрос документов у поставщика (B/L, shipping bill, GST-3B) для перевода статуса в confirmed/declared_only."
+}

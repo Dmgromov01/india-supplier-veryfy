@@ -1,0 +1,9 @@
+{
+ "name_input": "DELMOS IMPEX PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Sanctions: no match found for 'Delmos Impex' / 'Delmos Impex Private Limited' in the sources I could actually query. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JS form that returns no results via plain HTTP GET, so the SDN/Non-SDN lists could NOT be positively screened — sanctions_hit is null, not 'clear'. UN, EU, UK OFSI and BIS Entity List were not screened (no accessible query endpoint in this session). Court cases: Indian Kanoon exact-phrase search for \"Delmos Impex\" returned 0 matching judgments (https://indiankanoon.org/search/?formInput=%22Delmos%20Impex%22), so no reported High Court/Supreme Court litigation found; district courts, NCLT and consumer forums were not searched, so court_cases = null (absence of reported judgments is not proof of no litigation). Regulator actions / negative news: none found; general web search was largely unavailable (DuckDuckGo backend refused connections, Google returned HTTP 429, Bing returned only irrelevant results for the exact name), so news_risk = null — this is a coverage gap, not a clean bill of health. Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; rating = null (not public / not located). Russia/CIS supply evidence: none found; rf_supply = null. Registry pages (Zauba 403, Tofler 404) did not confirm the entity's existence — legal identity and incorporation status were out of scope for this role and must be verified separately. No sanctions, court or criminal findings are treated as rejection grounds per project rule 2. Recommend re-running sanctions screening through a working OFAC/OpenSanctions API key and a paid court-records source before any decision."
+}

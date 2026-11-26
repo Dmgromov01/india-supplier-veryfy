@@ -1,0 +1,18 @@
+{
+ "name_input": "ADVANCED AGROVETS BIOTECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Ход проверки: (1) web_search — бэкенд поиска недоступен (connection refused), результатов нет; (2) zaubacorp.com и thecompanycheck.com — HTTP 403 Forbidden; (3) instafinancials.com — HTTP 403; (4) tofler.in/search — 404; (5) попытки через Bing (google.com/search дал 429, duckduckgo.com/html — таймаут) вернули нерелевантную выдачу без единого упоминания компании. Следовательно: точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, статус MCA, а также выручка FY25/FY26 — null; цифры не выдумывались. Роль (manufacturer/trader) по реестру не определена — unknown. Штат в инпуте не заявлен (пусто), поэтому сопоставление state_registered vs state_claimed невозможно. Отклонять НЕ на чем: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно доказанному отсутствию юрлица — статус не rejected, а «не проверено». Требуется повторный прогон при доступном MCA/GST-портале (mca.gov.in, GST-поиск по GSTIN) или при рабочем поисковом бэкенде. Примечание по HS: заявлен 230990 (корма/премиксы) при отрасли «Продукты питания и FMCG» — по правилам HS не является основанием для отклонения; код подлежит сверке с фактической продукцией при следующей проверке."
+}
