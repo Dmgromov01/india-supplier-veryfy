@@ -1,0 +1,16 @@
+{
+ "name_input": "CREATIVE PACKAGING SYSTEMS",
+ "declared_hs": "842240",
+ "actual_hs_list": [
+  "842230",
+  "842240",
+  "842320",
+  "903180",
+  "847989",
+  "842833"
+ ],
+ "match_status": "partial",
+ "product_summary": "Chennai (Ambattur), Tamil Nadu. Partnership firm, GST 33AAJFC1760C1ZZ, IEC 0415030498, founded 2012. Real catalogue (own site creativepackaging.in + IndiaMART storefront): horizontal flow-wrap machines (soap, chocolate, battery, peanut ball, bakery), shrink wrapping machines / shrink wrap equipment, semi-automatic box strapping machines, carton sealers, pouch packaging machines, vacuum packaging machines, automatic bagging machines, chikki/confectionery/ice-cream/incense-stick packing machines, online check weighers, metal detectors and metal detector conveyors, X-ray inspection machines, tablet hardness & weight detectors. Also states it is Manufacturer + Importer + Retailer and lists foreign partners (Maripak Turkey - shrink equipment, Pac Machinery USA - heat sealing, Fortress Technology UK - metal detectors), i.e. part of the range is re-sold imported equipment.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 842240 ('other packing/wrapping machinery') is only partially right. It correctly covers the flow-wrap, shrink-wrap, bagging, pouch and strapping machines, but the declared single code misses the rest of the real line: check weighers and metal detectors/X-ray inspection units are measuring/checking apparatus (heading 9031, e.g. 903180), and tablet hardness/weight testers are also 9031 — none of these are 8422. Conversely, if any of the wrapping is done by combined filling+sealing/forming-filling machines, 842230 would be the more precise subheading than 842240. Recommendation per Rule 3: keep the company, do not reject; correct the declaration to a multi-code list (842240 primary, plus 842230, 903180, and 842320 for any weighing-based filling/check-weighing lines). Industry label 'Продукты питания и FMCG' is a misclassification: this is packaging/processing machinery (HS section XVI), not food or FMCG goods — the food/FMCG verticals are only end-user industries served. Trader signs are explicit on the company's own About Us page ('Manufacturer, Importer and Retailer', named foreign OEM partners), so part of the assortment is imported and resold, not produced. All product lines above are 'заявлено, не подтверждено' — they come from the company's own website and IndiaMART catalogue, not from any customs line; no shipment or customs record was checked in this task. No public data on which specific models are manufactured in-house vs. imported: null."
+}

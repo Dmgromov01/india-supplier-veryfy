@@ -1,0 +1,18 @@
+{
+ "name_input": "AGIO PHARMACEUTICALS LIMITED",
+ "legal_name": "AGIO PHARMACEUTICALS LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AABCA8426A",
+ "pan_holder_type": "C — company (4th character 'C' of the claimed PAN AABCA8426A indicates a company holder). Format is structurally valid (5 letters + 4 digits + 1 letter), but the PAN could NOT be verified against any public record — treat as claimed only.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials returned 404; Bing returned only irrelevant results for 'Agio' (US furniture/restaurant brands) with no Indian registry hit for 'AGIO PHARMACEUTICALS LIMITED'. Consequently CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — NOT because they are absent, but because they were not publicly retrievable in this session. No number, CIN or GSTIN has been invented. NOT rejected: absence of retrievable records is not evidence of non-existence, strike-off, liquidation or bankruptcy, and per project rules rejection requires positive proof of one of those. Role left as 'unknown' (no evidence of own manufacturing plant vs trading). Note the input's declared HS codes (2616.90 precious-metal ores, 2834.29 nitrates, 2905.14 monohydric alcohols, 2906.13 diols) are inorganic/metallurgical and chemical-intermediate codes that do not match a pharmaceutical finished-dosage manufacturer profile — per rules this is NOT a rejection ground; the HS code should be corrected to the actual traded product once the real product line is established. Also flag: industry_claimed 'Металлургия и горнодобыча' (metallurgy & mining) is inconsistent with the company name 'Pharmaceuticals' — the entity's actual business needs confirmation. RECOMMENDED NEXT STEP: manual lookup of the CIN on the MCA master-data portal and on a GST public search by PAN AABCA8426A, plus audited FY25/FY26 accounts from Tofler/Instafinancials, before any acceptance decision."
+}

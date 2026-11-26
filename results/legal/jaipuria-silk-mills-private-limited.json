@@ -1,0 +1,18 @@
+{
+ "name_input": "JAIPURIA SILK MILLS PRIVATE LIMITED",
+ "legal_name": "JAIPURIA SILK MILLS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend connection error (searx: Connection refused), and direct fetches of registry/aggregator sources failed: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 404), mca.gov.in Master Data (HTTP 403). Bing/Google fallback queries returned only irrelevant results, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures could be sourced. Nothing is asserted or inferred: all registry fields are null and role is 'unknown'. NOT rejected - absence of accessible public data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt; per project rules rejection requires positive proof of non-existence/insolvency. Two points to flag for manual follow-up: (1) the claimed state 'Karnataka' is unverified against the registered office; (2) the claimed industry 'Food & FMCG' is inconsistent with declared HS 580137 (woven pile/chenille fabrics, i.e. textiles), which matches the 'Silk Mills' name - per rules this is NOT a rejection ground; the HS code should be corrected to the actual textile code and the verdict recorded as accepted_hs_corrected once the entity is confirmed. Recommend re-running with working search access or a paid registry API (MCA/Tofler) before any decision."
+}

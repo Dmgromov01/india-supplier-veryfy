@@ -1,0 +1,18 @@
+{
+ "name_input": "CODENYX TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "CODENYX TECHNOLOGIES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAJCC7470J",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type PAN; consistent with a private limited company). NOTE: PAN taken from input claim only — could not be validated against any public source.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "VERIFICATION INCOMPLETE — no registry data obtained. Tooling failed: DuckDuckGo search backend refused connections (searx: Connection refused) on both attempts; Bing returned only irrelevant results (box jellyfish, Gmail, Hero Health) for the exact-name queries; Google returned a redirect interstitial; MCA master-data and search.mca.gov.in were unreachable/403. Aggregator profiles blocked or absent: zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, instafinancials.com 404, quickcompany.in 404, tofler.in 404 (no such company page). Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because the entity is proven non-existent, but because nothing could be read. Per project rules, rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy; no such proof exists here, so the company is NOT rejected — it is unverified and must be re-run when search/registry access is restored. Role cannot be determined: the declared HS codes (844332 printers, 847130/847141/847150 computers and ADP units) are consistent with an IT-hardware trader or assembler, but no MCA business-object clause or GST turnover was readable, so role = unknown. Revenue FY25/FY26 null: no audited accounts or official filings accessible; no figures invented. State 'Karnataka' is the input claim only and is unconfirmed against the registered office. Recommended next step: query MCA V3 master data by company name and by PAN AAJCC7470J, then GST portal search by PAN to obtain the GSTIN and filing status."
+}
