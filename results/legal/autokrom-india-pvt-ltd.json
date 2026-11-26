@@ -1,0 +1,18 @@
+{
+ "name_input": "AUTOKROM INDIA PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: no public record was retrieved. The web_search tool was down for the entire session (searx backend 'Connection refused' on both queries), and direct fetches of registry aggregators were blocked — zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 403, mca.gov.in MDS portal returned HTTP 403, duckduckgo.com/html timed out, and Google/Bing returned no relevant results (Bing served unrelated LINE app pages). Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because the company is absent from the register, but because no source could be read. No conclusion on existence is drawn and the company is NOT rejected: rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left 'unknown' — the claimed name 'AUTOKROM INDIA PVT LTD' and declared HS 330510 (perfumery/cosmetics) are unverified; note that the claimed industry 'food & FMCG' does not match HS 330510, but per project rules an HS mismatch is not a rejection ground and would only yield 'accepted_hs_corrected' once the entity is confirmed. Recommended action: re-run verification when search access is restored, checking MCA master data and the GST taxpayer search by legal name."
+}

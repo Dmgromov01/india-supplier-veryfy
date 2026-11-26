@@ -1,0 +1,18 @@
+{
+ "name_input": "ELECTRONICA TUNGSTEN LIMITED; ELECTRONICA TUNGSTEN LIMITED; ELECTRONICA TUNGSTEN LTD; SRP TUNGSTEN PRIVATE LIMITED",
+ "legal_name": "ELECTRONICA TUNGSTEN LIMITED (as claimed; not verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search returned 'searx: Connection refused' on all queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in returned 404 for the guessed CIN path; instafinancials.com returned only a generic landing page with no company data; Google returned a redirect stub; DuckDuckGo timed out; Bing returned only generic/unrelated results (electronica trade fair, SRP Arizona utility) with no Indian registry hit. Therefore CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT public/not retrieved, not estimated. No rejection is applied: absence of retrievable records in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. IMPORTANT identity ambiguity: the input bundles four name strings, and 'SRP TUNGSTEN PRIVATE LIMITED' is a legally distinct entity (different suffix and ownership form) from 'ELECTRONICA TUNGSTEN LIMITED'; they must not be merged into one record without a shared CIN/PAN/GSTIN or a documented corporate relationship. Role left 'unknown' - no registry document (MOA objects, MCA activity code) was read, so manufacturer vs trader cannot be asserted. Declared HS 820730 (interchangeable tools for pressing/stamping/punching) is not assessed here per role scope; note that a tungsten-focused entity would more plausibly sit under HS 8101/8209, so the HS code should be re-checked against the actual product line by the product team, but per project rules HS mismatch is not a rejection ground. Recommended next step: re-run with working search/registry access (MCA master data, GST public search) to obtain CIN, PAN, GSTIN and filed financials before any verdict."
+}
