@@ -1,0 +1,9 @@
+{
+ "name_input": "(H.Bane Global)",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public trace of an entity named 'H.Bane Global' / 'H BANE GLOBAL' could be found. Search tooling was largely unavailable during this run: the DuckDuckGo/searx backend returned 'Connection refused' on every query, and Bing (used as fallback) returned only generic results for the letter 'H' and 'Bane' (DC Comics character) — i.e. zero exact-name matches, which is itself weak evidence of no indexed web presence, not proof of absence. The OFAC Sanctions List Search page was reachable but is a form-driven tool that does not return results via direct URL fetch, so no actual SDN/Non-SDN name match was executed — sanctions_hit is therefore null (NOT verified negative). No Indian court records (eCourts/NJDG), regulator actions, credit rating or negative news could be checked because no legal identity (CIN/PAN/GSTIN) was supplied and none could be located; per project rules I did not research legal identity. No evidence of supplies to Russia or the CIS was found, but absence of evidence here is due to failed search, not a completed check. RECOMMENDATION: do not treat this record as cleared. Re-run sanctions screening (OFAC SDN, UN, EU, UK, BIS Entity List) and eCourts/NJDG checks once a verified legal name, CIN or GSTIN is obtained from the supplier, and once search tooling is restored. All fields null = not public / not verifiable in this run, not 'clean'."
+}
