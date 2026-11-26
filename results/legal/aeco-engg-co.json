@@ -1,0 +1,18 @@
+{
+ "name_input": "AECO ENGG CO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) and fallback engines (Bing, DuckDuckGo HTML, Google) returned either irrelevant results or rate-limit/timeout errors; MCA-linked aggregators (ZaubaCorp, InstaFinancials, TheCompanyCheck) returned HTTP 403/404 to direct fetches. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or MCA status could be confirmed from a public source. The input name 'AECO ENGG CO' is an abbreviated trade-style name and does not by itself establish a registered legal entity, so it cannot be matched to a CIN. Per project rules the company is NOT rejected: non-existence is not established, only that verification failed. Role left as 'unknown' (no evidence of manufacturing or trading activity from registry sources). Revenue FY25/FY26 set to null because no audited accounts or official filings were accessible - figures deliberately not estimated. Declared HS 870899 (motor vehicle parts) is recorded as input only and is not a basis for rejection. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN/CIN directly from the supplier's invoice or GST portal lookup, then confirm legal name, PAN 4th-character holder type and MCA status."
+}

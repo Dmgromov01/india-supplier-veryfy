@@ -1,0 +1,18 @@
+{
+ "name_input": "ANCHOR MARK PVT LTD",
+ "legal_name": "ANCHOR MARK PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AACCA3248H (as claimed in input; NOT verified against any public registry)",
+ "pan_holder_type": "4th character 'C' = company (per PAN format rule applied to the claimed PAN); holder type not verified because the PAN itself is unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned 404; tofler.in search returned 404; mca.gov.in returned 403; Google returned 429; Bing returned only irrelevant generic 'anchor' results for both the company-name and PAN queries. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue could not be confirmed from any official filing or public profile. The PAN AACCA3248H is only the input claim - it is not confirmed to belong to this entity, and no GSTIN was found to cross-check it. Revenue FY25/FY26 left null per rule 4 (no audited accounts or official filings accessible). Role left 'unknown' - no evidence of manufacturing vs trading activity was obtainable. Per the project rules this company is NOT rejected: rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found either way - the entity's existence is simply unverified. Recommend re-running this record when the search backend is restored, checking MCA master data by CIN and the GST portal by PAN."
+}

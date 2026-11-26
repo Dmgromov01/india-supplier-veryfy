@@ -1,0 +1,18 @@
+{
+ "name_input": "OSCAR CHEMICALS PVT LTD",
+ "declared_hs": "282739",
+ "actual_hs_list": [
+  "281700 (zinc oxide — only if zinc chemicals traded; not corroborated)",
+  "283699 / 2836xx (other inorganic carbonates/chlorides — plausible for 282739 family but not corroborated)",
+  "2903xx (halogenated aromatic intermediates, e.g. 3-bromo anisole, 3-chloro anisole)",
+  "2914xx / 2915xx / 2921xx (organic intermediates, aliphatic & aromatic)",
+  "2903xx / 2905xx / 2902xx (chlorinated solvents, alcohols, hydrocarbons)",
+  "294200 / 2933xx / 2934xx (bulk drugs & drug intermediates, e.g. silver sulphadiazine)",
+  "390760 (PET resin)",
+  "7901xx / 7905xx (zinc & zinc die-casting alloys)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Website oscarchemicals.com (read 2026) describes Oscar Group as a chemicals TRADING house since 1982, with the trading business consolidated into Oscar Chemicals Pvt. Ltd. (est. 1994) as a dealer/distributor for leading Indian chemical manufacturers. Declared product lines on the site: (1) Basic Raw Materials; (2) Organic Intermediates & Chemicals — aliphatic and aromatic compounds for pharma, agrochemicals, dyes/dye intermediates; (3) Solvents — chlorinated solvents, alcohols, hydrocarbons; (4) Bulk Drugs / Drugs / Intermediates — specialty, OTC and generic, explicitly naming Silver Sulphadiazine (USP), 3-Bromo Anisole, 3-Chloro Anisole; (5) Polymers & Metals — PET resin for packaging, plus zinc and zinc die-casting alloys for hardware/autoparts. No product page could be opened (all /products/* URLs returned 404), so individual SKUs beyond those named on the homepage are not public.",
+ "role_hint": "trader",
+ "comment": "HS 282739 (other chlorides, inorganic) is a single narrow inorganic-chloride line and does not describe this company's declared portfolio: the site's own product list is dominated by organic intermediates, solvents, bulk drugs/drug intermediates, PET resin and zinc metal/alloys. Verdict: wrong mapping — the declared code covers at most a small slice of a much broader trading catalogue, and the company's core lines (organic intermediates, solvents, APIs, polymers, zinc) fall in completely different chapters (29, 39, 79). Per project rule 3 the company is NOT rejected on HS grounds; the code must be corrected to the actual product mix, and since the company is a multi-line dealer, a single HS-6 cannot represent it — a per-shipment code set is required. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a partial misclassification: the site shows no oil & gas or upstream activity, only chemicals/polymers/metals distribution. Trader signs are explicit and self-declared ('began chemicals trading in 1982', 'dealership of various leading chemicals manufacturing company of India', 'only distributes materials sourced from Quality Assured suppliers') — so role = trader, not manufacturer. All product lines above are 'заявлено, не подтверждено': they come solely from the company's own website text; no customs line, invoice or shipment record was available to this HS-only review, and the product sub-pages were unreachable (404), so even the catalogue detail is unverified. No registry, revenue or customs-volume research was performed per role scope."
+}

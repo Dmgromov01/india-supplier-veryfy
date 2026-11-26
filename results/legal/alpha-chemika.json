@@ -1,0 +1,18 @@
+{
+ "name_input": "ALPHA CHEMIKA",
+ "legal_name": "ALPHA CHEMIKA (exact legal form not verified — no public registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not a rejection. Tooling failed during this run: web_search backend refused connections (searx: Connection refused); DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only generic 'Alpha' results with no company hits; zaubacorp.com and thecompanycheck.com returned HTTP 403; company website alphachemika.co.in reset the connection. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be sourced, so all such fields are null rather than guessed. Nothing found indicates the entity does not exist, is struck off, liquidated or bankrupt, therefore per project rules the company is NOT rejected — it stays in the base with role 'unknown' pending re-check. Note on the name: 'Alpha Chemika' is commonly used by small Indian chemical traders/suppliers as a trade name, which would imply a proprietorship/partnership with no CIN and a PAN whose 4th character would be 'P' (individual) or 'F' (firm) — this is a hypothesis only, NOT verified, and must not be recorded as fact. Declared HS codes (282760, 283524, 283620, 284170 — iodides/iodates, potassium phosphates, sodium carbonate, aluminium silicates) are consistent with a laboratory/inorganic chemical supplier, but HS fit is not a rejection criterion and no product-catalogue research was performed per role scope. Recommended next step: re-run with working search, or obtain the GSTIN/PAN directly from the supplier's invoice or GST portal lookup, then confirm legal form and MCA status."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "GEA BGR ENERGY SYSTEM INDIA LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend (DuckDuckGo/searx) returned 'Connection refused' on all queries; direct http_get to duckduckgo.com/html timed out; bing.com/search returned only generic brand results for 'GEA'/'BGR' (gea.com, bgr.com, packbgr.com etc.) with no hits on the exact entity name 'GEA BGR Energy System India Limited'; the likely parent site bgrenergy.com returned HTTP 403 Forbidden. Consequently NO source was found for any of the required fields, so all are set to null rather than guessed. Specifically NOT established: (1) sanctions exposure - no OFAC SDN / UN / EU / UK / BIS Entity List screening could be performed; note that the name contains 'GEA' (German GEA Group AG) and 'BGR' (BGR Energy Systems Ltd, Chennai) - any sanctions nexus would most plausibly arise via a parent/affiliate, and this was NOT checked; (2) Indian court cases - no NCLT/NCLAT/High Court/consumer-forum records retrieved, party role and status unknown; (3) regulator actions and negative news - none retrieved, no dates; (4) credit rating (CRISIL/ICRA/CARE/India Ratings) - not retrieved, no date, no status; (5) evidence of supplies to Russia or CIS - none found, but absence of evidence here reflects search failure, NOT a confirmed negative. Per project rule 2, even if sanctions/court/criminal matters existed they would not be rejection grounds and would be recorded neutrally - but nothing was found either way. RECOMMENDATION: re-run this company once search access is restored, or verify manually via MCA master data, NCLT cause lists, OFAC SDN search, and CRISIL/ICRA rating directories. Do not treat these nulls as a clean risk profile."
+}

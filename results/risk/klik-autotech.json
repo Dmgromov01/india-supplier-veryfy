@@ -1,0 +1,9 @@
+{
+ "name_input": "KLIK AUTOTECH",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public trace of an entity named 'KLIK AUTOTECH' could be found. Search tooling was partly degraded (DuckDuckGo/searx backend refused connections; Google returned HTTP 429), and the Bing fallback returned only unrelated 'Klik' brands (klikcamera, klikbca, klik.co, klikusa) with no Indian auto-parts/autotech company matching the name — the quoted phrase was not honoured by the engine, so this is a weak negative, not a confirmed absence. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and could not be queried via plain HTTP GET, so no SDN/Non-SDN screening result was actually obtained; sanctions_hit is therefore null = NOT SCREENED, not 'clear'. UN, EU, UK OFSI and BIS Entity List screens were not reachable within the tool budget. No Indian court records (eCourts/NCLT/HC), no regulator actions, no credit rating (CRISIL/ICRA/CARE/India Ratings) and no negative news could be located, because no legal identity (CIN/PAN/registered address) was supplied or discoverable — the record gives empty PAN and empty state, and legal-identity research is outside this role's scope. No evidence of supplies to Russia or the CIS was found; equally, nothing confirms the company exists as a going concern. RECOMMENDATION: do not treat this as a cleared supplier. Request the exact registered legal name, CIN and PAN from the counterparty, then re-run sanctions screening (OFAC/UN/EU/UK/BIS) and litigation checks against the verified identity. Per project rules, absence of sanctions/court data is not a rejection ground, but the identity gap must be flagged to the requester."
+}
