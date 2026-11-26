@@ -1,0 +1,17 @@
+{
+ "name_input": "RAYMER ENGINEERING CORPOR ATION",
+ "declared_hs": "850940",
+ "actual_hs_list": [
+  "847982",
+  "847420",
+  "847439",
+  "847920",
+  "730900",
+  "841989",
+  "847979"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Raymer Engineering Corporation (W-87, MIDC Phase-2, Dombivali East, Thane 421204; founded 1972 by N.K. Engineer) is a manufacturer of industrial paint/ink/chemical processing machinery. Real product lines per its own site (raymerengineering.com, Home + /product-range/): sand mills (open/closed/horizontal), ball mills (shrouded, dry powder milling), bead mills (batch/continuous), basket mills, attritors (agitated ball mills), pug mixers (single/twin shaft), ribbon blender mixers, sigma kneaders, high-speed dispersers, twin-shaft disperser mixers, agitator mixing tanks, process reactors, limpet coil reactors, high-pressure reactors, stainless steel pressure vessels, storage tanks. Applications: paints, coatings, printing inks, pigments/dyes, pharma, agrochemicals, wall putty, detergents/soap, resins, emulsions. No audio, loudspeaker, amplifier or any electrical/electronic consumer product appears anywhere in the catalogue.",
+ "role_hint": "manufacturer",
+ "comment": "HS 850940 (electro-mechanical domestic food grinders/mixers and fruit/vegetable juice extractors) is WRONG for this company. The declared industry 'IT и электроника' is also a misclassification: the company is a capital-goods/mechanical engineering manufacturer for the paint, ink and chemical industries, not an electronics firm. Correct mapping of the actual catalogue: grinding/mixing/dispersing machinery = 8479.82 (mixing, kneading, crushing, grinding machines); ball/sand/bead mills as grinding plant = 8474.20 (crushing/grinding machines) where sold as mineral/pigment grinding plant; pug mixers/blenders for putty & mortar = 8474.39/8479.82; reactors and pressure vessels = 8419.89 (temperature-treatment apparatus) or 7309.00 (reservoirs/tanks/vats of iron or steel, capacity >300 l) for storage tanks; stainless steel pressure vessels = 7310.10/7309.00 depending on capacity. Per project rule 3 the HS mismatch is NOT grounds for rejection: company is retained, code corrected to the actual product line, verdict accepted_hs_corrected. Note the declared 850940 could only be justified if the company separately traded small domestic mixers - no such product is shown on the site, so it is 'заявлено, не подтверждено'. All product claims above are from the company's own website only; no customs line was available in this task, therefore the actual export/domestic shipment composition remains 'заявлено, не подтверждено'. Trader signs: none evident - the site describes in-house designing, fabrication and manufacturing plus a factory with quality-testing unit, consistent with a manufacturer role, though no third-party verification was performed here."
+}

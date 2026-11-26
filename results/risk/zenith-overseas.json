@@ -1,0 +1,9 @@
+{
+ "name_input": "ZENITH OVERSEAS",
+ "sanctions_hit": false,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions screening: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others; data current as of 2026-11-26) returned 'No matching entities were found' for 'Zenith Overseas' — https://www.opensanctions.org/search/?q=Zenith+Overseas. No sanctions exposure identified on that basis. IMPORTANT LIMITATION: the primary search backend (DuckDuckGo/searx) was unreachable throughout this run ('Connection refused'), Google returned HTTP 429, DuckDuckGo HTML timed out, and Bing ignored the quoted phrase and returned only generic 'Zenith' brand results (Zenith watches, Zenith Bank, Zenith Electronics) — none related to an Indian entity. Zauba Corp returned HTTP 403. Consequently NO verification was possible for: Indian court cases (party role/status), regulator actions, negative news, credit rating, or any evidence of supplies to Russia/CIS. All such fields are set to null because the data is not publicly retrievable with the tools available in this run — these are NOT confirmed negatives and must not be read as 'clean'. Also note the name 'Zenith Overseas' is a very common Indian trade name (multiple unrelated proprietorships/LLPs across states), so without a CIN/PAN/registered address any court or news hit found later cannot be reliably attributed to this specific supplier. Recommend re-running the risk checks once search access is restored and once legal identity (CIN/PAN) is supplied by the identity-research track. Per project rules, absence of sanctions/court data is not a rejection ground; company remains in the database."
+}

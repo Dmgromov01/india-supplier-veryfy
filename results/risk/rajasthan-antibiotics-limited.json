@@ -1,0 +1,9 @@
+{
+ "name_input": "RAJASTHAN ANTIBIOTICS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — tooling failure, no negative finding implied. As of today the primary search tool (DuckDuckGo/searx) returned 'Connection refused' on every query, and the only reachable fallback (Bing HTML) ignored the quoted entity name and returned generic 'Rajasthan state' tourism/encyclopedia pages for all four query variants tried (plain name, name+aurolab/NSE, name+Russia/sanctions/court, name+pharma+Jaipur). Direct DuckDuckGo HTML endpoint timed out; Google returned HTTP 429. Consequently NO source could be read for this entity, so sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases (party role/status), regulator actions, negative news, credit rating (agency/date/status) and any Russia/CIS supply evidence are all recorded as null = NOT VERIFIED, not as 'clean'. No claim in this record is sourced, and none should be read as a clearance. Also note the input itself is internally inconsistent: name 'RAJASTHAN ANTIBIOTICS LIMITED' vs legal_claimed 'AUROLAB' (Aurolab is a Madurai-based, Aravind Eye Care-linked pharmaceutical company, a different entity) — the two identifiers may refer to different companies, which must be resolved before any risk conclusion. Per project rules this is not a rejection ground and no verdict is proposed here; recommend re-running this company once search access is restored, checking MCA/NCLT case status, OFAC/UN/EU/UK/BIS lists, and CRISIL/ICRA/CARE ratings directly."
+}

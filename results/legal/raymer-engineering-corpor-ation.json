@@ -1,0 +1,18 @@
+{
+ "name_input": "RAYMER ENGINEERING CORPOR ATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: web_search вернул 'Connection refused' (бэкенд поиска недоступен); zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in — HTTP 403; quickcompany.in — таймаут; Google — HTTP 429; DuckDuckGo (html и lite) — таймаут; Bing выдал нерелевантную выдачу (Okta, Voicemod, Downdetector) без единого результата по компании. Никаких подтверждённых данных о юрлице, CIN, PAN, GSTIN, дате регистрации, штате, статусе MCA и выручке получить не удалось. ВАЖНО: имя во входных данных содержит разрыв 'CORPOR ATION' — вероятно, это 'Raymer Engineering Corporation', но точное юридическое наименование (Private Limited / LLP / проприетарная фирма) не установлено. Роль (manufacturer/trader) не определена. Выручка FY25/FY26 — null, публичных аудированных данных не найдено. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3 — отклонять только при несуществовании/ликвидации/банкротстве, что тоже не подтверждено). Требуется повторная проверка при доступном поиске/MCA-портале. Заявленный HS 850940 (электробытовые измельчители/миксеры) не проверялся — вне роли."
+}

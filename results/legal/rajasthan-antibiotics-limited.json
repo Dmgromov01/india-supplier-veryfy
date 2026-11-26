@@ -1,0 +1,18 @@
+{
+ "name_input": "RAJASTHAN ANTIBIOTICS LIMITED",
+ "legal_name": "RAJASTHAN ANTIBIOTICS LIMITED (name as given in input; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (connection refused) for the whole session; direct fetches of MCA aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404 or only boilerplate, and Bing/Google/DuckDuckGo fallbacks returned irrelevant results or were rate-limited/timed out. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — NOT verified, not 'not existing'. No rejection is warranted: absence of retrievable data is not proof of non-existence, strike-off, liquidation or bankruptcy. Note also that the input's 'legal_claimed' field contains 'AUROLAB', which is a different entity (Aurobindo/Aurolab-type pharma brand) and does not match the input name 'Rajasthan Antibiotics Limited' — this discrepancy must be resolved before any onboarding decision. Role left as 'unknown' pending registry verification of the actual legal entity. Recommend re-running this company once search/registry access is restored, checking MCA master data for the exact CIN, the 4th character of PAN (P=company, F=firm, etc.), and GSTIN state code versus the claimed state."
+}

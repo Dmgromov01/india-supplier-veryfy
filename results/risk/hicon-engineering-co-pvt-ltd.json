@@ -1,0 +1,20 @@
+{
+ "name_input": "HICON ENGINEERING CO. PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "District Court, Delhi (Commercial Court), District Judge Sh. Nikhil Chopra",
+   "case_number": "COMM 71/2023",
+   "cnr": "DLCT01-017435-2023",
+   "caption": "M/s Hicon Engineering Co. Pvt. Ltd. vs Gopala Thermopacks India Pvt. Ltd.",
+   "date": "2025-01-24",
+   "party_role": "plaintiff / petitioner (Hicon is the suing party, represented by AR Mr. Ravi Bafna, registered office Delhi)",
+   "status": "order/judgment dated 24.01.2025 published; outcome not readable in retrieved snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Hicon%20Engineering%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no hit found, but this is NOT a verified negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) was reachable only as an empty search form and returned no lookup results for the name; UN, EU, UK OFSI and BIS Entity List were not queried at all because the search backend (DuckDuckGo/searx) was down ('Connection refused') and Bing returned only irrelevant results. Treat sanctions_hit as 'not established', not 'clear'. Court: exactly one record found on Indian Kanoon — a commercial suit COMM 71/2023, CNR DLCT01-017435-2023, Delhi District Court (Commercial), Hicon as PLAINTIFF against Gopala Thermopacks India Pvt. Ltd., order dated 24.01.2025. Hicon is the claimant, not the defendant; this is an ordinary commercial recovery-type dispute and per project rules is not a rejection ground. No NCLT/insolvency, criminal or regulatory record surfaced, but NCLT, IBBI, SEBI, CCI, GST and MCA portals were not accessible (ZaubaCorp returned HTTP 403; Tofler/IndiaFilings not reachable). Credit rating: null — no CRISIL/ICRA/CARE/India Ratings/Acuite action found or searchable; company appears to be an unrated private limited entity, but this is unconfirmed. Negative news: null — no media search possible. Russia/CIS supply evidence: null — no customs, B-L, or trade-data source could be queried; nothing found either way, so no conclusion should be drawn. IMPORTANT CAVEAT FOR THE ANALYST: the claimed HS code 441820 (wooden doors and frames) is outside my scope and was not checked; note that the only court record shows the company litigating against 'Gopala Thermopacks' (thermopack/packaging), which is a weak, non-conclusive hint about its actual product line. Recommend re-running sanctions (OFAC/EU/UK/UN/BIS) and credit-rating checks when search infrastructure is restored before any onboarding decision."
+}
