@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S MICRO LABS LIMITED",
+ "declared_hs": "291590;291899;292249;292250",
+ "actual_hs_list": [
+  "30049099",
+  "30041090",
+  "30042019",
+  "30043990",
+  "30045090",
+  "29420090",
+  "29159090",
+  "29224990"
+ ],
+ "match_status": "partial",
+ "product_summary": "Micro Labs Limited (Bangalore, Karnataka) is a pharmaceutical manufacturer, not an oil & gas / bulk chemical trader. Per its own website (microlabsltd.com): (1) Formulations segment - oral solids, mini tablets, injectables, penicillin and non-penicillin categories, produced across 14 plants; therapy areas listed on the site: fever & pain management, cardiology, diabetology, gastroenterology, neurology, ophthalmology (https://www.microlabsltd.com/therapies, https://www.microlabsltd.com/formulations). Known brands referenced on the site itself: Dolo (paracetamol), Dolo pain relief spray, Dolosils cough lozenges, Dolo Fevometer, Bactoclav-B (amoxicillin + clavulanic acid), Micro DTF, Micro VIVAA, Micro GTF1/GTF2, Micro Wellness OTC range (antacids, nicotine gums, thermometers). (2) API segment - own API unit of 24,000 m2, cGMP/ICH Q7, USFDA/EDQM/ANSM/TGA accredited, producing APIs for anti-hypertensive, diuretic, anti-malarial, anti-diabetic, ARV, anti-inflammatory and ophthalmology therapeutic areas (https://www.microlabsltd.com/api). The API page names therapeutic classes only, NOT individual molecules - so no specific API molecule can be tied to a specific HS-6 code from public sources. Finished formulations dominate the portfolio and fall in HS Chapter 30 (3004/3003), which is entirely absent from the declared codes.",
+ "role_hint": "manufacturer",
+ "comment": "Industry misclassification: declared as 'Нефтегаз и химия' (oil & gas and chemicals), but the company is a pharmaceutical manufacturer (formulations + captive APIs). The declared HS codes 2915.90 / 2918.99 / 2922.49 / 2922.50 are organic-chemical intermediates (esters/acid anhydrides, oxygen-function carboxylic acids, amino-alcohols/amino-acids) - plausible only for the API unit's raw materials or a few API molecules, and even then the site does not name a single molecule, so no line can be corroborated. The bulk of the business - finished medicaments in dosage form - belongs to HS 3004 (and 3003 for bulk medicaments), which is missing from the declaration entirely. Verdict per Rule 3: HS mismatch is NOT a rejection ground - company is retained, code corrected to the factual Chapter 30 heading (3004.90.99 as the general residual for formulations, plus 3004.10/3004.20/3004.39/3004.50 for penicillin/other-antibiotic/other-hormone/other-vitamin lines and 2942.00.90 for any isolated API). The declared 2915.90 and 2922.49 are retained only as possible API/raw-material lines. All product claims here are from the company's own website and are therefore 'заявлено, не подтверждено' - no customs line was available to this check to corroborate any specific HS code or shipment. No registry, revenue or customs-volume research was performed in this role. Trader signs: none found - own 14 plants, own API unit, own R&D (DSIR-approved), so manufacturer role is well supported by the site."
+}

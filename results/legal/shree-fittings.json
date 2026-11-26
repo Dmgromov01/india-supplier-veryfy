@@ -1,0 +1,18 @@
+{
+ "name_input": "SHREE FITTINGS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT possible in this run: the search backend was down (searx connection refused) and every registry aggregator returned errors (zaubacorp 403, thecompanycheck 404, instafinancials 403, DuckDuckGo timeout, Google 429). Bing returned only irrelevant cached results and ignored all quoted query terms, so no page mentioning 'SHREE FITTINGS' could be retrieved. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or MCA status could be confirmed - all left null rather than guessed. No audited accounts or official filings were located, so revenue FY25/FY26 are null. IMPORTANT: the input gives no state and no PAN, and the claimed industry ('IT и электроника') is inconsistent with the declared HS codes 7304.51 / 7306.90 (iron/steel tubes, pipes and hollow profiles - i.e. pipe fittings, a metals/engineering product, not electronics). Per project rules this HS/industry mismatch is NOT grounds for rejection; the company is retained with role 'unknown' pending re-verification. Also note 'SHREE FITTINGS' is a very common Indian trade name and may correspond to a sole proprietorship (no CIN at all) or to several distinct firms in different states - identity cannot be resolved without a state, city, GSTIN or PAN. NOT rejected: there is no evidence the entity is non-existent, struck off, liquidated or bankrupt - the absence of data is a tooling failure, not a negative finding. Recommend re-running with a working search backend and, ideally, a state/city or GSTIN from the supplier."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "UNIKORN TECHSERVE PRIVATE LIMITED",
+ "legal_name": "UNIKORN TECHSERVE PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connection on both search queries; Google returned HTTP 429; Bing returned only irrelevant AI-generated results for the exact-name queries; ZaubaCorp, TheCompanyCheck and Falconebiz returned HTTP 403; Tofler returned 404 for the guessed slug; QuickCompany timed out; InstaFinancials returned 404. Because the CIN was never obtained, no MCA master-data lookup, PAN derivation (4th character holder type) or GSTIN public-profile check was possible. All registry fields are therefore null - these are NOT negative findings, they are unverified. No revenue figures are stated because no audited accounts or official filings were accessible; per project rule 4, revenue is left null rather than estimated. Role left as 'unknown' because the manufacturer/trader distinction cannot be established without the MCA principal-business-activity code and GST HSN filing pattern. Per project rule 3, the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - only that the data could not be fetched. Declared HS codes 850811/851631/851632/851713 (vacuum cleaners, hair dryers/electrothermic hair appliances, electric space-heating appliances, smartphones) are internally inconsistent with the claimed 'IT and electronics' profile and should be re-checked against actual GST HSN filings once the GSTIN is obtained; per rule 3 this is not a rejection ground. Recommended next step: manual lookup of the exact name on the MCA portal (mca.gov.in company search) or a paid registry aggregator to obtain CIN, then re-run PAN/GSTIN/state/revenue checks."
+}

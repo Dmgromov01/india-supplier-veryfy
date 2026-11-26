@@ -1,0 +1,9 @@
+{
+ "name_input": "CYGNUS DEVICES PRIVATE LIMITED",
+ "sanctions_hit": false,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "SANCTIONS: no match. OpenSanctions consolidated dataset (aggregates OFAC SDN/Non-SDN, UN, EU, UK OFSI, BIS and other lists; data current as of 2026-11-26) returned 'No matching entities were found' for 'Cygnus Devices' — https://www.opensanctions.org/search/?q=Cygnus+Devices. OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) was reachable but is a JS form and could not be queried via plain GET, so the OFAC result is inferred from the OpenSanctions mirror, not from a direct OFAC query — recommend a direct OFAC/UK/EU re-screen before onboarding. COURT CASES: null — Indian Kanoon returned 0 results for both '\"Cygnus Devices\"' and '\"Cygnus Devices Private Limited\"' (https://indiankanoon.org/search/?formInput=%22Cygnus%20Devices%20Private%20Limited%22), which covers reported judgments only; district court / NCLT / consumer-forum records were NOT checked, so absence of cases is not established. RATING: null — no credit rating found; CRISIL/ICRA/CARE/India Ratings/Brickwork not checked (no public rating located). NEWS/RISK: null — negative-news search could not be completed: the web_search backend failed on every attempt ('searx: Connection refused'), so no news sweep was possible. RF/CIS SUPPLY: null — no evidence found either way; no export or re-export record to Russia or CIS located, and none can be excluded given the failed news/trade-data search. Registry sources (ZaubaCorp, TheCompanyCheck) returned HTTP 403, so no director/ownership data was obtained and no PEP or ownership-linked sanctions exposure could be assessed. Per project rules this is a keep-in-database case: no sanctions hit and no liquidation/bankruptcy evidence, so no rejection ground. All nulls above mean 'not public / not retrievable in this pass', not 'clean'."
+}

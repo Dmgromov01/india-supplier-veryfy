@@ -1,0 +1,18 @@
+{
+ "name_input": "AMCO ENTERPRISES PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ВЕРИФИКАЦИЯ НЕ ВЫПОЛНЕНА — нет доступа к источникам. Входные данные противоречивы: name_input = 'AMCO ENTERPRISES PVT LTD', а legal_claimed = 'ARORA INTERNATIONAL PRIVATE LIMITED' — это два разных юрлица, какое из них проверять, не определено. Попытки проверки: web_search (DuckDuckGo/searx) — соединение отклонено (Connection refused); zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403 Forbidden; mca.gov.in Master Data — HTTP 403; google.com/search — HTTP 429; duckduckgo.com/html — timeout; bing.com — выдаёт только нерелевантные результаты по США (Arora Engineers, AAMCO, AMCO Enclosures), ни одного индийского реестрового профиля. Следовательно: CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус, выручка FY25/FY26 — все null, так как публично не подтверждены в рамках доступных инструментов. НЕ отклонять: отсутствие данных не является основанием для rejected (правило 3 — отклонение только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Роль оставлена 'unknown' — по названиям 'Enterprises'/'International' нельзя достоверно отнести к manufacturer или trader без реестровых данных (правило 1: трейдеры не отклоняются). Требуется повторный запуск с рабочим доступом к MCA Master Data / GST-порталу и уточнение у заказчика, какое юрлицо является фактическим поставщиком (AMCO Enterprises или Arora International)."
+}
