@@ -1,0 +1,9 @@
+{
+ "name_input": "Raj shakti machines india ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. Tooling failed across all 10 calls: the web_search backend returned 'Connection refused' on every attempt; Google returned HTTP 429 (rate-limited); Bing returned unrelated cached pages (FedEx, Wells Fargo, TCU football) for every query, i.e. bot-detection garbage, not real results; DuckDuckGo timed out; Tofler search URL returned its own 404 page; ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript application that returns no query results via plain HTTP GET, so no name screening could actually be executed. Consequently NOTHING is confirmed and NOTHING is cleared: sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all null because they are not publicly retrievable with the available tools - not because they were checked and found absent. Do not read these nulls as a clean bill of health. Also note the name itself is unverified: the claimed legal entity 'RAJSHAKTI MACHINES INDIA LLP' could not be matched to any registry record, and the input name ('...ltd') and claimed legal form (LLP) are inconsistent - legal identity is outside my scope and must be resolved by the identity/registry researcher before any risk screening is meaningful. Recommended next step: re-run this company once search access is restored, screening at minimum the OFAC SDN/consolidated list, the BIS Entity List, EU and UK consolidated lists, and Indian court records (eCourts/NCLT) under both 'Rajshakti Machines' and 'Raj Shakti Machines' spellings."
+}

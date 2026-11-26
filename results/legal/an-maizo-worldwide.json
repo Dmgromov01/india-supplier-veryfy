@@ -1,0 +1,18 @@
+{
+ "name_input": "AN MAIZO WORLDWIDE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки верификации в этом прогоне не удались по техническим причинам, а не из-за отсутствия компании: (1) web_search (DuckDuckGo/searx) вернул 'Connection refused' на обоих запросах; (2) zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in — HTTP 403 Forbidden; (3) tofler.in — 404 на поисковый URL; (4) Google — HTTP 429; (5) DuckDuckGo HTML — timeout; (6) Bing по запросу в кавычках \"AN MAIZO WORLDWIDE\" проигнорировал фразу и выдал словарные статьи про артикль 'an', по \"MAIZO WORLDWIDE\" — нерелевантную выдачу. Ни одного реестрового документа (MCA master data, GST-профиль, CIN, PAN, дата инкорпорации, выручка) получить не удалось. Поэтому все поля null: CIN/PAN/GSTIN/даты/выручку НЕ выдумываю. Вердикт по правилам проекта: НЕ отклонять — отсутствие подтверждения из-за недоступности источников не является основанием для rejected (rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Статус: 'заявлено, не подтверждено' — требуется повторный прогон при работающем поиске. Дополнительно: заявленный HS 950691 (товары для спорта/игры) не соответствует заявленной отрасли 'Продукты питания и FMCG'; по правилу 3 это НЕ основание для отклонения — при подтверждении фактического ассортимента код исправляется, вердикт accepted_hs_corrected. Роль (manufacturer/trader) не определена — нет данных о видах деятельности в MCA."
+}

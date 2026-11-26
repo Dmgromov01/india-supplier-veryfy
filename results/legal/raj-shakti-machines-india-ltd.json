@@ -1,0 +1,18 @@
+{
+ "name_input": "Raj shakti machines india ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на момент проверки; агрегаторы реестра (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули HTTP 403, tofler.in — 404, Bing выдавал нерелевантную выдачу. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус публично не получены — все поля null, ничего не выдумано. Отклонять НЕЛЬЗЯ: отсутствие подтверждения не равно отсутствию юрлица (правило 3). Дополнительно: входные данные противоречивы — в name_input указано 'ltd' (компания), в legal_claimed — 'LLP' (товарищество); это разные организационно-правовые формы с разными форматами идентификаторов (CIN vs LLPIN), требуется уточнение у заказчика. Роль (manufacturer/trader) не установлена — unknown. Выручка FY25/FY26 не найдена в аудированной отчётности/официальных filings — null. Требуется повторная проверка при доступном реестре (MCA21 / GST-портал)."
+}

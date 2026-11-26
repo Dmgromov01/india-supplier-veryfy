@@ -1,0 +1,18 @@
+{
+ "name_input": "Sha-Shib",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: не удалось получить ни одного первоисточника. Инструмент web_search возвращал ошибку соединения (searx: Connection refused); прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com) вернули HTTP 403; Google — HTTP 429; DuckDuckGo — timeout; Bing по запросам 'Sha-Shib' выдавал нерелевантную выдачу (SHA-хэши, Society for Historical Archaeology), т.е. точного совпадения по индийской компании не найдено. Домен sha-shib.com не разрешается (DNS Name or service not known). Входные данные содержали только бренд-имя 'Sha-Shib' без суффикса (Pvt Ltd / Ltd / LLP), без PAN и без штата, поэтому однозначно идентифицировать юрлицо невозможно: под этим брендом в Индии может действовать несколько связанных компаний (авиационное обучение / MRO). Точное юрлицо, CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 — null, публично не подтверждены в рамках доступных инструментов. Роль (manufacturer/trader) не определена — 'unknown'. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3), компания сохраняется в базе как непроверенная. Требуется повторная проверка при восстановлении доступа к MCA/Tofler/ZaubaCorp или уточнение полного юрлица и PAN от заказчика. HS-коды 880211/880529 (авиационные двигатели / части) не проверялись по факту отгрузок — вне роли данного этапа."
+}
