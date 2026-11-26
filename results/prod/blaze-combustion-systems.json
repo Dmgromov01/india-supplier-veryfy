@@ -1,0 +1,9 @@
+{
+ "name_input": "BLAZE COMBUSTION SYSTEMS",
+ "declared_hs": "848110",
+ "actual_hs_list": [],
+ "match_status": "cannot_verify",
+ "product_summary": "Открыть сайт или каталог не удалось: web_search (searx) вернул Connection refused на всех запросах; прямые попытки http_get по blazecombustion.com / blazecombustion.in — DNS не резолвится (Name or service not known); IndiaMART — HTTP 429; DuckDuckGo/Google — таймаут/429. Bing по запросам «\"Blaze Combustion Systems\" India», «\"Blaze Combustion\" burner India industrial», «\"Blaze Combustion Systems\" gas train valve» выдал только нерелевантные бренды (theblaze.com, blazecc.com, blazepizza.com, blazegrills.com) — ни одной страницы индийской промышленной компании с таким названием в выдаче нет. Реальный перечень продукции не получен, поэтому HS-коды не подтверждены и не опровергнуты.",
+ "role_hint": "unknown",
+ "comment": "Заявленный код 848110 (клапаны редукционные для регулирования давления) соответствует профилю «burner/gas train» — редукционные клапаны газовых рамп, но это логическая догадка от названия компании, а НЕ подтверждение: ни одной страницы продукции прочитать не удалось. Статус: заявлено, не подтверждено. Никаких фактических данных о номенклатуре нет — actual_hs_list оставлен пустым, чтобы не выдумывать коды. По правилу 3 несоответствие HS не является основанием для отклонения; компания сохраняется в базе, вердикт по HS — cannot_verify до получения доступа к сайту/каталогу. Для доработки нужен рабочий поиск или прямая ссылка на сайт/каталог/карточку IndiaMART от заказчика. Реестры, выручка и таможенные объёмы в рамках этой роли не проверялись."
+}

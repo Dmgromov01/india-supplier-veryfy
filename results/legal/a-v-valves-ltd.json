@@ -1,0 +1,18 @@
+{
+ "name_input": "A. V. Valves Ltd",
+ "legal_name": "A.V. VALVES LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained - all sources failed. Tool status: DuckDuckGo/searx backend refused connection (2 attempts); Bing returned only irrelevant 'letter A' results for every query variant tried ('A.V. Valves Limited CIN', 'AV Valves Limited zaubacorp/thecompanycheck/tofler', 'A V Valves CIN U28120'); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in and instafinancials.com returned 404 for guessed URL slugs. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, so all such fields are null rather than guessed. PAN holder type cannot be derived because no PAN was found (4th-character rule not applicable). Role left as 'unknown' - no registry record (main-object clause / NIC code) was readable to distinguish manufacturer from trader. NOT rejected: per project rules rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and absence of accessible data is not such proof. Action required: re-run with working search backend, or verify manually on MCA master data (mca.gov.in MDS) and GST portal search by trade name; also confirm whether the correct legal name is 'A.V. Valves Limited' or a variant (e.g. 'AV Valves Pvt Ltd'), since the input name may not match the registered entity."
+}

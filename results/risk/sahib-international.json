@@ -1,0 +1,9 @@
+{
+ "name_input": "SAHIB INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, 26.11.2026. No verifiable risk data could be retrieved for this entity. Search tooling was degraded: the primary web_search backend returned connection refused on all attempts; DuckDuckGo HTML/lite endpoints timed out; Bing (HTML and RSS) ignored the quoted phrase and returned only generic dictionary/restaurant results for the word 'Sahib' (Wikipedia, Merriam-Webster, sahib-nyc.com etc.) across four differently-scoped queries (owner name 'Devinder Singh', carpet/HS 570390, registry sites zauba/tofler/indiafilings/court, and Russia/CIS supply). No page mentioning a company named 'Sahib International' was ever returned, so no source exists to cite for any of the five risk fields. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable and its SDN list is current as of 23.11.2026, but it is a JavaScript form that cannot be queried via plain GET, so no name match was actually executed - sanctions_hit is therefore null (NOT a negative/clear result, simply unverified). Same for UN, EU, UK and BIS Entity List: not queried, no data. Indian court records (eCourts, NCLT, High Court), regulator actions, credit ratings (CRISIL/ICRA/CARE/India Ratings) and any Russia/CIS shipment evidence: no public record located, all null. IMPORTANT CAVEAT: 'Sahib International' is an extremely common Indian trade name and the claimed proprietor 'Devinder Singh' is a very common name; without a CIN, PAN, GSTIN or registered address (all blank in the input) any future hit on these names cannot be reliably attributed to this supplier. Recommend obtaining legal identity identifiers before re-running the sanctions and litigation screens. Per project rules, absence of found risk data is not a rejection ground and no adverse inference is drawn."
+}

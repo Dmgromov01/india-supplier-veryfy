@@ -1,0 +1,18 @@
+{
+ "name_input": "ACCEDE ENGG",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be located. The input gives 'ACCEDE ENGG' with legal_claimed 'TUHIN DUTTA', which looks like a proprietorship trade name plus proprietor name rather than a company, so no CIN/LLPIN is expected; a proprietorship would instead be traceable only via GSTIN, which was not supplied and could not be found publicly. Searches for 'ACCEDE ENGG', 'Accede Engg/Accede Engineering' and 'Tuhin Dutta Accede' returned no matching Indian entity (search backend was partly down; Bing returned only dictionary hits for the word 'accede'). Registry aggregator pages (ZaubaCorp, TheCompanyCheck, InstaFinancials) returned 403/404, so MCA status, incorporation date, registered state, PAN and GSTIN are all null - not public/not retrievable in this session. Revenue FY25/FY26 null: no audited accounts or official filings found. Role left 'unknown' - no evidence of manufacturing or trading activity in any registry source. NOT rejected: absence of a findable record in this limited session is not proof of non-existence; recommend re-check with the GSTIN or the exact trade-name spelling from the supplier's invoice before any verdict. Note also that declared HS 841950 (heat-exchange machinery) is inconsistent with the claimed industry 'IT и электроника' - per project rules this is not a rejection ground, only a code to be corrected to the factual one once the actual product is known."
+}
