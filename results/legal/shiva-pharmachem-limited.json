@@ -1,0 +1,18 @@
+{
+ "name_input": "SHIVA PHARMACHEM LIMITED",
+ "legal_name": "SHIVA PHARMACHEM LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified - no source obtained. Tooling failure during this run: web_search backend refused connections ('searx: Connection refused'); Bing HTML fallback ignored the query and returned only generic results about the Hindu deity Shiva; MCA master-data page (mca.gov.in) and all public registry aggregators attempted (zaubacorp.com, thecompanycheck.com) returned HTTP 403 Forbidden. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not publicly confirmed by any source I could read - they are NOT null because the entity was found to be non-existent. No rejection applied: per project rules an entity may only be rejected if it is proven non-existent/struck off/liquidated/bankrupt, and no such proof exists either way. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role recorded as 'unknown' - the 'LIMITED' suffix indicates a company form, but manufacturer vs trader status could not be established from registry data. Action required: re-run this company when the search backend is restored, or verify manually on MCA master data / GST portal using the exact name 'SHIVA PHARMACHEM LIMITED'. Declared HS 293349/293399 (heterocyclic compounds, pharma intermediates) is consistent with the claimed 'oil/gas & chemicals' industry, but HS is not a rejection criterion per rules."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "SHIVA PHARMACHEM LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый инструмент (DuckDuckGo/searx) возвращал 'Connection refused', Bing игнорировал кавычки и операторы и выдавал только общие результаты про индуистского бога Шиву, Google вернул HTTP 429, Zauba Corp — HTTP 403. Форма OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) загружается, но является JS-формой без возможности передать запрос через http_get — прямой скрин имени по SDN/Non-SDN не выполнен. Следовательно: sanctions_hit = null (НЕ подтверждено отсутствие, а именно не проверено); court_cases = null (Indian Kanoon / eCourts не открылись); rating = null (CRISIL/ICRA/CARE не проверялись); news_risk = null; rf_supply = null. Никаких утверждений о санкциях, судах, рейтингах или поставках в РФ/СНГ не делаю — данных нет, выдумывать не буду. Требуется повторный прогон при работающем поиске: 1) OFAC SDN + consolidated non-SDN по 'Shiva Pharmachem'; 2) BIS Entity List, EU/UK consolidated lists; 3) indiankanoon.org и eCourts по точному наименованию; 4) реестры CRISIL/ICRA/CARE; 5) новостной поиск по датам. Отклонять компанию по этим нулевым данным нельзя (правило 3: основание для rejected — только отсутствие/ликвидация/банкротство юрлица, что здесь не установлено)."
+}
