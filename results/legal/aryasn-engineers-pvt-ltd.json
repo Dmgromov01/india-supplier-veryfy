@@ -1,0 +1,18 @@
+{
+ "name_input": "Aryasn engineers pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input name is internally inconsistent: 'Aryasn engineers pvt ltd' vs legal_claimed 'ARYAN ENGINEERS' (also possibly 'Aryasn'/'Aryaan'), so the exact legal entity cannot be pinned down. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on all queries; zaubacorp.com and mca.gov.in returned HTTP 403; thecompanycheck.com and instafinancials.com returned 404; Google returned 429; Bing returned only irrelevant generic results (no Indian company registry hits). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, not invented. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role recorded as 'unknown' (no evidence of manufacturing or trading activity found in registry sources). Per project rules the company is NOT rejected: absence of verifiable data is not grounds for rejection, and rejection is reserved for non-existent/struck-off/liquidated/bankrupt entities, which could not be established either way. Recommended next step: manual MCA master-data lookup on the exact spelling, plus GST portal search on the trade name, before any verdict."
+}

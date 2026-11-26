@@ -1,0 +1,8 @@
+{
+ "name_input": "AROVEA FORMULATIONS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey pages for both slug variants (https://importkey.com/countries/india/arovea-formulations-private-limited and .../arovea-formulations-pvt-ltd) returned only the empty page template: 'Shipments available for AROVEA FORMULATIONS PRIVATE LIMITED, refreshed daily' — a marketing placeholder with zero rows, zero dates, zero destinations, zero HS codes and zero bill-of-lading numbers. Source counter: 2 ImportKey pages opened, 0 shipment records actually displayed. Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS challenge, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. ZaubaCorp returned HTTP 403 and the web_search backend was unavailable ('Connection refused'), so no domestic supply record was seen. Source counter: 0 domestic evidence pages read, 0 records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок (нет ни одной записи с датой, направлением, HS и B/L), ни подтверждений поставок внутри Индии получить не удалось. Заявленный HS 330510 (шампуни) не проверен по фактическим записям; несоответствие HS основанием для отклонения не является. Выручка: null (не публична/не найдена). Объём экспорта: null. Юрлицо не проверено по MCA — реестры вне области задачи и были недоступны (403). Статус 'unknown', а не 'declared_only', поскольку даже заявлений самой компании (сайт, каталог) прочитать не удалось. Требуется повторная проверка при доступности volza/eximpedia/importgenius или MCA."
+}

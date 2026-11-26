@@ -1,0 +1,18 @@
+{
+ "name_input": "Prime indutries ltd",
+ "legal_name": "Prime Industries Ltd (BSE: 519299) — exact MCA-registered name not verified in this session",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "2006 (per Screener company profile; exact date not verified)",
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": 2.62,
+ "revenue_fy26_cr": 10.83,
+ "revenue_source": "Screener.in company page for BSE:519299 (Prime Industries Ltd), standalone P&L, Sales row: FY2025 = Rs 2.62 Cr, FY2026 = Rs 10.83 Cr (figures in Rs crore, sourced from the company's filed results). Not independently cross-checked against the audited annual report PDF.",
+ "note": "Registry verification is INCOMPLETE and must not be treated as confirmed. The search backend (searx) was unreachable and MCA/ZAUBACORP/THE COMPANYCHECK/MONEYCONTROL returned 403/429, so CIN, PAN, GSTIN, GST status, MCA status and registered-office state could NOT be obtained from any public registry — all left null rather than guessed. What is public: a listed entity 'Prime Industries Ltd', BSE scrip 519299, website primeindustrieslimited.com, incorporated 2006, described as dealing in securities trading and allied activities while also engaged in manufacturing of packaging material (HDPE/PP bags, non-woven PP bags, BOPP laminated multi-colour printed bags) — hence role recorded as manufacturer_trader, not a pure manufacturer. IMPORTANT MISMATCH: the input claims HS 841391 (parts of pumps) and industry 'metallurgy and mining', but the public profile shows packaging/flexible-film and securities-trading activity, with no evidence of pump parts or metallurgical output. Per project rules this is NOT a rejection ground — the entity exists and is listed, so it is retained and the HS code should be corrected to the actual product line (plastic woven sacks / flexible packaging, i.e. HS 6305 or 3923 family) with verdict accepted_hs_corrected. Also note the input name is misspelled ('indutries') and no state was claimed, so no state comparison is possible. Revenue figures are from a secondary aggregator of filed results, not read from the audited accounts themselves; treat as provisional. No customs, court or catalogue research was performed per role scope."
+}

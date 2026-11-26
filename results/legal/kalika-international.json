@@ -1,0 +1,18 @@
+{
+ "name_input": "KALIKA INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реквизита. Поисковая инфраструктура в этой сессии нерабочая: DuckDuckGo (searx) вернул 'Connection refused', Bing выдавал нерелевантные кэшированные результаты (Microsoft/ESPN/UPS) на все запросы, включая точные кавычковые запросы 'Kalika International' + 'Lavand' и 'Vijaynand Ganpat Lavand'; zaubacorp.com и instafinancials.com — HTTP 403, tofler.in — 404 на странице поиска. Никаких данных о CIN/LLPIN, PAN, GSTIN, дате регистрации, штате и статусе MCA получить не удалось, поэтому все поля null — не выдумывать. Важно: заявленное 'VIJAYNAND GANPAT LAVAND' — это имя физлица (вероятно, проприетор/партнёр), а не наименование юрлица; 'KALIKA INTERNATIONAL' как форма (sole proprietorship / partnership firm / LLP / Pvt Ltd) не установлена. CIN у проприеторской фирмы отсутствует по определению — если это proprietorship, CIN будет null законно, а не из-за пробела в данных. PAN-тип (4-й символ) определить невозможно без самого PAN: для физлица-проприетора ожидается 'P', для фирмы 'F', для компании 'C'. Роль: manufacturer/trader не определяется без GST-профиля и адреса; HS 847720/847780 (экструдеры для пластмасс/резины) с заявленной отраслью 'Нефтегаз и химия' не бьётся, но по правилам проекта несоответствие HS — не основание для отклонения. Вердикт: НЕ отклонять — нет доказательств несуществования/ликвидации/банкротства; статус 'не проверено, требуется повторный прогон при рабочем поиске'. Рекомендация: запросить у поставщика GSTIN и PAN напрямую (или счёт-фактуру/COO), затем проверить на gst.gov.in и mca.gov.in."
+}

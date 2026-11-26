@@ -1,0 +1,8 @@
+{
+ "name_input": "CHEMFILT INDIA PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'chemfilt-india-pvt-ltd' loaded but contained zero shipment rows — only boilerplate: \"Shipments available for CHEMFILT INDIA PVT LTD, refreshed daily\" with the data table behind a paywall (\"Start Free Trial\"). No bill-of-lading number, date, destination or HS code was visible. Source counter: 1 company page reached, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrieved. All registry/tender sources attempted (zaubacorp, trademo, eximpedia, volza) returned HTTP 403; search backend (DuckDuckGo/searx) was down for the whole session, so no domestic-supply record could be located. Source counter: 0 domestic records seen.",
+ "note": "Следов поставок не найдено — но это результат недоступности источников, а не доказательство отсутствия отгрузок. ImportKey отдал только пустую страницу-заглушку (0 строк данных), volza/eximpedia/trademo/zaubacorp — 403, поисковик не работал (connection refused / 429). Ни одной таможенной или B/L записи с датой, направлением и номером не получено; ни одного GST-оборота или тендера не найдено. Заявленный HS 480540 (бумага/картон с покрытием, не для письма) не подтверждён и не опровергнут — фактический код установить не удалось. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступном поиске и платном доступе к таможенным данным."
+}

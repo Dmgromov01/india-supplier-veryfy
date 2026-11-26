@@ -1,0 +1,18 @@
+{
+ "name_input": "THE BANGALORE SALES CORPORATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Инструмент web_search (DuckDuckGo) возвращал 'Connection refused'; Bing/Google по запросам с точным названием в кавычках выдавали только общие страницы про город Бангалор (поиск фактически игнорировал операторы и название компании) либо HTTP 429; zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 404, instafinancials.com — HTTP 403, quickcompany.in — таймаут. Следовательно CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены и оставлены null — цифры не выдумывались. Название 'THE BANGALORE SALES CORPORATION' по форме похоже на старую фирму/товарищество (не 'Private Limited' и не 'LLP'), т.е. вероятно не компания по Companies Act 2013 и может не иметь CIN — но это предположение, не подтверждённый факт. Роль (manufacturer/trader) не определена: без GST-профиля и реестровой выписки классифицировать нельзя, поэтому 'unknown'. Оснований для отклонения (rejected) НЕТ: отсутствие данных не равно отсутствию юрлица; компания сохраняется в базе как непроверенная. Требуется повторная проверка при восстановлении доступа к реестру MCA / GST-порталу (например, по GSTIN или по адресу, если поставщик их предоставит)."
+}
