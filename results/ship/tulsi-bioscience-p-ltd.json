@@ -1,0 +1,8 @@
+{
+ "name_input": "TULSI BIOSCIENCE P LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey page https://importkey.com/countries/india/tulsi-bioscience-p-ltd rendered only the template shell — the only text present was 'Shipments available for TULSI BIOSCIENCE P LTD, refreshed daily' with a 'Loading...' placeholder and an empty 'Number of shipments by month' chart; rows actually seen: 0. No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backends (DuckDuckGo/searx) returned connection errors or irrelevant results; no domestic supply record was read.",
+ "note": "Evidence could not be established either way — this is NOT a finding of no shipments. ImportKey returned a JS-loaded shell with 0 rows (source counter: page claims data exists, rows actually seen: 0). volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript client challenge; Google/Bing/DuckDuckGo returned no usable results or timed out. Declared HS 390690 (acrylic polymers, per company input) is unverified against any customs record. No revenue or export-volume figure is public in what was retrieved, so both are null — not estimated. Recommend re-query with a working search backend or a paid trade-data view before any verdict; per project rules this company must not be rejected on the basis of missing evidence."
+}

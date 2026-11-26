@@ -1,0 +1,18 @@
+{
+ "name_input": "TULSI BIOSCIENCE P LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on both queries, and direct reads of public registry/profile pages failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in and instafinancials.com returned HTTP 404 for the guessed URL slugs, falconebiz.com served only a JS shell with no company record, and Bing/Google/DuckDuckGo HTML endpoints returned no usable results (Bing returned unrelated spam results, DuckDuckGo timed out). No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figure was obtained from any source, so all such fields are null rather than guessed. The claimed legal name 'Tulsi Biosciences Pvt Ltd' and the input name 'TULSI BIOSCIENCE P LTD' could not be matched to a confirmed MCA record, therefore no existence determination was made and the company is NOT rejected (rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which was not obtained). Role left as 'unknown' - no evidence of manufacturing or trading activity was reviewed. Declared HS 390690 (acrylic polymers, primary forms) was not assessed against any product data per role scope. State claimed in input was empty, so no state mismatch can be assessed. Recommended action: re-run verification when the search backend is restored, or query MCA master data / GST public search directly by exact legal name."
+}

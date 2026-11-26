@@ -1,0 +1,18 @@
+{
+ "name_input": "NEW INDIA ELECTRICALS LTD.; NEW INDIA ELECTRICALS LTD; NEW INDIA ELECTRICALS LIMITED",
+ "legal_name": "NEW INDIA ELECTRICALS LIMITED (as claimed in input; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: DuckDuckGo/searx backend refused connections (web_search returned 'no results' for both queries), Google and Bing HTML endpoints returned no usable organic results, zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned 404, and mca.gov.in / search.mca.gov.in were unreachable (403 / DNS failure). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null because they are not publicly confirmed by any source I could actually read - none of these values were inferred or guessed. Role left as 'unknown': the name suffix 'LIMITED' suggests a company, and the declared HS 850132 (DC generating sets / diesel gensets) suggests electrical-equipment activity, but no filing was read to establish manufacturer vs trader. Per project rules this is NOT a rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply remains unverified. Recommended next step: re-run with working search access, or query MCA master data / GST public search by exact legal name 'NEW INDIA ELECTRICALS LIMITED' (note: several similarly named entities exist in different states, so the exact CIN must be pinned before any PAN/GSTIN is attached)."
+}

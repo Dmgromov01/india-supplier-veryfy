@@ -1,0 +1,9 @@
+{
+ "name_input": "SANGAM (INDIA) LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no risk findings could be verified. The web_search backend returned 'Connection refused' on all 3 attempts (searx unavailable), so no sanctions, court, regulator, rating or news source could be located. Direct fetches attempted: (1) sangamindia.com resolved to an unrelated US restaurant (sangamusa.com) - not the company; (2) sangamgroup.com loaded and confirms the entity is a Bhilwara-based textile group (yarn, denim, synthetic fabric, garments, brand C9, ~12,000 employees, listed on BSE/NSE) - this contradicts the claimed industry 'Food & FMCG' but industry/HS is outside my remit; (3) OFAC Sanctions List Search page loaded but is JavaScript-driven and returned no lookup results, so no SDN/non-SDN screening was actually performed - sanctions_hit is null, NOT a negative clearance; (4) ICRA rating-list query URL returned a 404 page, no rating found; (5) CARE ratings company URL returned HTTP 404; (6) CRISIL ratings-list URL returned 'File not found'; (7) BSE stock page returned only a shell page with no content. No Indian court records (NCLT/NCLAT/HC/SCI), no SEBI/RBI/ED action, no credit rating action and no evidence of supplies to Russia or the CIS were retrieved or reviewed. All fields set to null because nothing is public in what I could reach - these are NOT clean results. Per project rules, absence of verified adverse data is not a rejection ground and this company must not be rejected on this basis. Recommend re-running this company once the search backend is restored, specifically checking: OFAC SDN/UN/EU/UK/BIS lists by exact name, NCLT Ahmedabad/Jaipur and Rajasthan HC filings, SEBI orders against Sangam (India) Ltd, and CARE/CRISIL/ICRA/Brickwork rationales for the textile entity."
+}

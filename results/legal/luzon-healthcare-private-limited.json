@@ -1,0 +1,18 @@
+{
+ "name_input": "Luzon Healthcare Private Limited",
+ "legal_name": "LUZON HEALTHCARE PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was non-functional (searx connection refused on both queries), and all registry/profile sources attempted returned HTTP 403/404 or JavaScript-only shells with no company data: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), falconebiz.com (search and direct company URL both returned only the site template, no record), indiafilings.com (404). Google and Bing were reachable but returned completely irrelevant results (Mexican folklore films, baking-time articles), i.e. no usable index for this query. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — NOT because the entity was found to be non-existent, but because no public record was successfully read. Per project rules, no CIN, PAN, GSTIN or revenue figure has been invented. No rejection is proposed: rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and no such evidence was obtained. Role is 'unknown' — the claimed industry ('Продукты питания и FMCG') is inconsistent with the declared HS code 961900 (sanitary/hygiene articles, e.g. sanitary towels and napkins), which suggests either a mis-declared HS code or a mis-declared industry; this is a data-quality flag for manual review, not a rejection ground. ACTION REQUIRED: re-run this company when the search backend is restored, or verify manually on mca.gov.in (MCA21 company master data) and the GST portal's public 'Search Taxpayer' facility, then populate CIN, PAN (4th character gives holder type: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust), GSTIN and state."
+}

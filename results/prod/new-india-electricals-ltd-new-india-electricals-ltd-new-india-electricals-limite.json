@@ -1,0 +1,32 @@
+{
+ "name_input": "NEW INDIA ELECTRICALS LTD.; NEW INDIA ELECTRICALS LTD; NEW INDIA ELECTRICALS LIMITED",
+ "declared_hs": "850132",
+ "actual_hs_list": [
+  "8501.52",
+  "8501.53",
+  "8501.31",
+  "8501.34",
+  "8413.70",
+  "8413.19",
+  "8413.50",
+  "8413.60",
+  "8483.40",
+  "8483.90",
+  "8535.21",
+  "8535.90",
+  "8536.90",
+  "8537.20",
+  "8504.21",
+  "8504.33",
+  "8504.34",
+  "8504.23",
+  "8504.31",
+  "8504.40",
+  "8504.90",
+  "8538.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт newindiaelectricals.com (офис: 1st Floor, Power House, #18, JC Road, Bangalore 560002; филиалы Zambia/Malawi/Nigeria) заявляет очень широкую номенклатуру: (1) AC-двигатели — High Voltage Motors, Rerolling Mill Duty, Closed/Open Cage, Wound Rotor, Flame Proof, Non-Sparking, Vertical Hollow Shaft, Crane Duty/Slipring, Roller Table, Cooling Tower; (2) DC-двигатели — Laminated Yoke, Mill Duty, Solid Yoke; (3) насосы — центробежные end-suction (MF, KDS/KDI, KPD, CE, CPHM, DB), borewell/открытые/погружные, горизонтальные осевые (DSM, UP), многоступенчатые (RKB), non-clog самовсасывающие (SP/SPM), sewage (NS), вакуумные, вертикальные турбинные (VT/BHR), пожарные, шестерённые NBL-DEL (HG, HGX, HGSX, RDRN, RDMS, FTMP), химические/дозирующие, SS и PP; (4) арматура — gate, reflux, butterfly, sluice valves; (5) КРУ/щиты — Medium Voltage Panels Power+ V/VO/V2/V3/V3O (VCB 3.3–33 кВ), SF6 F/FO/F3/F3O, Low Voltage Panels, Motor Contractor Panel, Neutral Grounding 66kV, Control & Relay 230kV, Bus Ducts 12kV; (6) трансформаторы — Distribution (15–2500 кВА, 11/22/33 кВ, IS:2026/IEC:76), Power, Furnace, Cast Resin dry-type, Containerised Secondary Substations; (7) приводы — Low Voltage AC Drives ACS 150/310/355/550/800/850, MV AC Drives, DC Drives; (8) редукторы и gear motors, brake motors (в т.ч. crane duty, flameproof). Заявленный код 850132 = DC motors/генераторы 75–375 кВт — покрывает только узкую часть DC-линейки (Mill Duty / Solid Yoke DC), тогда как основной оборот по каталогу приходится на AC-двигатели (8501.52/8501.53), насосы (8413) и трансформаторы (8504.2x/8504.3x).",
+ "role_hint": "trader",
+ "comment": "СООТВЕТСТВИЕ: partial. Код 850132 (DC motor 75–375 кВт) не ошибочен по сути — DC-двигатели в каталоге есть (Laminated Yoke, Mill Duty, Solid Yoke DC), но он не отражает фактическую номенклатуру: AC-двигатели, насосы, арматура, КРУ, трансформаторы, приводы и редукторы в декларации отсутствуют. Согласно правилу 3 HS-несоответствие НЕ является основанием для отклонения — компания сохраняется, код расширяется до фактического (accepted_hs_corrected). РОЛЬ: признаки трейдера/дилера, а не производителя. Сайт позиционирует себя как «Electricals Solution Providers», «Transformers Suppliers», «Distribution Transformer Supplier», «AC Motors ... we offer various categories of tailored motors» — язык подбора/поставки, а не собственного производства; на страницах товаров нет указания собственного завода, мощностей или бренда-производителя, зато есть раздел «Stock Inventory» (склад) и «Enquire Now» по каждому товару. Часть номенклатуры — чужие бренды (приводы ACS 150–850 — линейка ABB; насосы NBL-DEL — сторонний бренд). Рекомендуемая роль: trader (возможно manufacturer_trader при подтверждении собственной сборки НКУ/трансформаторов — не подтверждено). ОТРАСЛЬ: заявленная «Энергетика» корректна как широкая категория, но фактически это многопрофильный поставщик электромеханического оборудования (motors/pumps/switchgear/transformers), а не энергогенерирующая компания — уточнить формулировку. ПРОБЕЛЫ В ДЕКЛАРАЦИИ: отсутствуют 8413.70 (центробежные насосы), 8413.19/8413.50/8413.60, 8483.40 (редукторы), 8535/8536/8537 (КРУ, щиты, VCB/SF6), 8504.21/8504.33/8504.34 (трансформаторы), 8504.40 (приводы). ПОДТВЕРЖДЕНИЕ: всё перечисленное — заявлено на сайте, не подтверждено; таможенных/B-L строк в рамках этой проверки не исследовалось (по заданию), поэтому статус каждого товара — «заявлено, не подтверждено». Данные о выручке, объёме экспорта, CIN/PAN не проверялись и не приводятся (null). Заявление сайта «45+ Countries Exporting» — маркетинговое, фактом не является."
+}
