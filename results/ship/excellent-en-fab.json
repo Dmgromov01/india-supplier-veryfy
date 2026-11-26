@@ -1,0 +1,8 @@
+{
+ "name_input": "Excellent En Fab",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/excellent-en-fab and .../excellent-en-fab-incorp both returned only the generic page shell: \"Shipments available for EXCELLENT EN FAB INCORP, refreshed daily\" — zero shipment rows, zero dates, zero destinations, zero HS codes, zero B/L numbers rendered. Source counter: 2 importkey pages opened, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for the entity returned no usable results (search backend returned 'Connection refused' / timeout on all attempts); eximpedia and trademo returned HTTP 403. Source counter: 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Ни одной таможенной или B-L записи с датой, направлением и номером получить не удалось: importkey отдаёт пустой шаблон без строк, volza/eximpedia/trademo закрыты (403), поисковик недоступен. Заявленный HS 841989 (оборудование с теплообменом для обработки материалов — нефтегаз/химия) ничем не подтверждён и не опровергнут: фактический код установить не удалось, поэтому HS не корректирую и не выдумываю. Юрлицо 'EXCELLENT EN FAB INCORP' в реестрах не проверялось (реестры вне области задачи), CIN/PAN/выручка — null, публично не подтверждены. Статус 'unknown', а не 'none_found', только потому, что источники были недоступны, а не потому, что записи искали и не нашли; при повторной проверке с рабочим доступом к таможенным данным статус нужно пересмотреть. Оснований для отклонения нет."
+}
