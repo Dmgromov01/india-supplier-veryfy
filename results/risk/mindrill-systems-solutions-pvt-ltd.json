@@ -1,0 +1,9 @@
+{
+ "name_input": "MINDRILL SYSTEMS & SOLUTIONS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure during this run: web_search backend returned 'Connection refused' on all attempts (searx unavailable); direct fetches of mindrill.com and duckduckgo.com timed out; zaubacorp.com returned HTTP 403; indiamart.com returned HTTP 429. Basic connectivity was confirmed working (example.com fetched OK), so the failures are specific to the search backend and the target sources, not a general outage. Consequently NO checks could be evidenced for this company: OFAC SDN / UN / EU / UK / BIS Entity List screening not performed; Indian court records (party role/status) not checked; regulator actions and negative news not checked; credit rating not checked; evidence of supplies to Russia/CIS not checked. All fields set to null per project rule 4 (do not invent data) - null here means 'not established', NOT 'clean'. Do not treat this record as cleared: re-run the risk pass when the search backend is restored. Per project rules 1-2, sanctions/court/criminal findings would in any case not be rejection grounds and would be reported neutrally as 'есть сложности'; no rejection is proposed here since no adverse finding was established either way. Note also that legal identity, HS codes and shipment volumes were outside this role's scope and were not researched."
+}

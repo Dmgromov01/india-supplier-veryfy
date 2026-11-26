@@ -1,0 +1,16 @@
+{
+ "name_input": "MODCON HEALTH CARE PRIVATE LIMITED",
+ "declared_hs": "901812",
+ "actual_hs_list": [
+  "9406 (prefabricated/modular buildings — factory-built hospitals, isolation rooms)",
+  "9402 (medical/surgical/dental furniture & parts — hospital fit-out, joinery)",
+  "9018 (medical/surgical instruments & appliances — only as traded/installed equipment, not manufactured)",
+  "7308 / 7309 (steel structures, tanks — medical gas systems, radiation shielding)",
+  "8537 / 8544 (electrical panels, cabling — MEP works)",
+  "7610 (aluminium structures — aluminium & glass vertical)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Website modconhealthcare.com (read 2 pages: homepage and /about-us/) describes the company as a 'healthcare construction company' / 'turnkey medical engineering' contractor: factory-built hospitals, modular operating theatres, medical gas system engineering, radiation shielding, civil works, MEP, fit-out, joinery, aluminium & glass, design services, maintenance & support, plus a 'Medical Equipment' vertical. No ultrasound, echocardiography, ECG or any imaging/diagnostic device is named anywhere on the pages read. The declared code 901812 (ultrasonic scanning apparatus / ultrasound scanners) is not corroborated by any product line on the site. The claimed industry 'Нефтегаз и химия' (oil & gas and chemicals) is a clear misclassification — the company is healthcare infrastructure/construction.",
+ "role_hint": "trader / service-contractor (turnkey engineering & construction, equipment supplied as part of projects); no evidence of own manufacturing of HS 9018 devices. Product pages under /products-services/, /medical-equipment/, /hospital-manufacturing/ returned 404, so the equipment catalogue could not be verified — заявлено, не подтверждено.",
+ "comment": "HS 901812 = ultrasonic scanning apparatus. Actual business is turnkey hospital construction and medical engineering (modular buildings, MEP, medical gas, fit-out), so the correct primary codes are 9406/9402/7308/8537, with 9018 only as an incidental traded line. Verdict per Rule 3: company is NOT rejected — kept in the base, code corrected to the factual profile (accepted_hs_corrected). Industry field 'Нефтегаз и химия' must be corrected to healthcare infrastructure/construction. No customs line was available to corroborate any code, therefore all product claims are 'заявлено, не подтверждено'. Note: the site also presents a Dubai/UAE/Oman group (11 offices, 250–1000 employees) — the Indian entity's own product scope is not separately documented on the pages read. No registry, revenue or shipment data was researched (out of scope for this role)."
+}
