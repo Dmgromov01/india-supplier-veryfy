@@ -1,0 +1,18 @@
+{
+ "name_input": "MSP COFFEE PVT LTD",
+ "legal_name": "MSP COFFEE PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The DuckDuckGo search backend returned 'Connection refused' on both queries, and direct fetches of registry aggregators (zaubacorp.com company page and search, thecompanycheck.com, instafinancials.com, tofler.in) all returned HTTP 403/404. Bing HTML search returned only irrelevant generic 'MSP' results (MovieStarPlanet, Minneapolis airport, managed service providers) with no Indian corporate-registry hit, so no CIN, PAN, GSTIN, incorporation date, MCA status or financials could be sourced. Per project rules, nothing was invented: all identifier and revenue fields are null. No evidence of non-existence was found either, so the company is NOT rejected on this basis - it remains unverified and requires a re-run of the registry check (MCA master data / GST public search) when the search backend is available. Role cannot be determined from registry data alone; declared HS 090111 (green coffee) is consistent with a coffee trading/manufacturing profile but is not evidence of role. Revenue FY25/FY26: no audited accounts or official filings accessible - null."
+}

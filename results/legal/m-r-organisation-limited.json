@@ -1,0 +1,18 @@
+{
+ "name_input": "M R Organisation Limited",
+ "legal_name": "M.R.ORGANISATION LIMITED (as claimed; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not disproven. Tooling failure: DuckDuckGo search backend returned connection refused on both queries; zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in all returned HTTP 403; instafinancials.com returned 404; Bing/Google HTML fallbacks returned only generic 'M'/'Mr' dictionary results with no company match. Therefore CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could not be established from any public source and are recorded as null rather than guessed. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role cannot be classified (manufacturer vs trader) without MCA NIC/business-object evidence — set to unknown. Per project rules the company is NOT rejected: absence of retrievable records is not proof of non-existence, strike-off, liquidation or bankruptcy. Action required: re-run against MCA Master Data / GST portal manually, or supply the CIN or GSTIN from the supplier's documents, to confirm the exact legal name and status. Declared HS codes (271019; 841490; 842199; 848180) are noted but not assessed here (out of scope for this role)."
+}

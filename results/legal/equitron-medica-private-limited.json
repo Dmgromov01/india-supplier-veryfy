@@ -1,0 +1,18 @@
+{
+ "name_input": "EQUITRON MEDICA PRIVATE LIMITED",
+ "legal_name": "EQUITRON MEDICA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend connection error ('searx: Connection refused') on every query, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) all returned HTTP 403 Forbidden; Google returned HTTP 429 and Bing/DuckDuckGo returned irrelevant or timed-out results. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they do not exist, but because no public source could be read. No revenue figures from audited accounts or official filings were obtainable, so FY25 and FY26 revenue are null (not estimated). Role is recorded as 'unknown' rather than guessed: the claimed HS codes 732690 (other iron/steel articles) and 841920 (medical/surgical sterilizers) are consistent with a manufacturer of laboratory/medical sterilisation equipment, but this is an inference from the declared HS codes only, not a verified registry fact. Per project rules, no rejection is applied — there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / data not public in this session'. Recommend re-running with a working search backend or MCA/GST portal access before any verdict."
+}

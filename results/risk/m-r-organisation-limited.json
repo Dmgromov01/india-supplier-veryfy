@@ -1,0 +1,9 @@
+{
+ "name_input": "M R Organisation Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Google отдал 429, Zauba Corp — 403, DuckDuckGo HTML — timeout. Bing по запросам в кавычках \"M R Organisation Limited\" / \"M.R. Organisation Limited\" + sanctions/court/Russia/Mumbai petroleum вернул только нерелевантные общие результаты (Wikipedia 'M', Merriam-Webster), т.е. ни одной страницы, относящейся к компании, получить не удалось. Поэтому по всем полям null: санкционных записей (OFAC SDN, UN, EU, UK, BIS Entity List) не найдено, но это НЕ подтверждение отсутствия — источники не проверены; судебные дела (eCourts/NCLT/HC) не проверены; рейтинг (CRISIL/ICRA/CARE/India Ratings) не найден; негативных новостей не найдено, но и новостных источников прочитать не удалось; свидетельств поставок в РФ/СНГ не найдено — не подтверждено и не опровергнуто. Требуется повторный прогон при доступном поиске. Оснований для отклонения по правилу 2 нет: санкции/суды/уголовные дела отклонением не являются в любом случае."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Balaji Agro Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure, not a clean bill of health. Details: web_search (DuckDuckGo/searx backend) returned 'Connection refused' on both queries. http_get to google.com returned HTTP 429; duckduckgo.com and lite.duckduckgo.com timed out; indiankanoon.org returned HTTP 403; search.marcia.dev did not resolve. bing.com was reachable but returned an identical generic result set (Wikipedia 'Balaji', Balaji Wafers, Balaji Wireless, Lord Balaji, etc.) for three materially different queries, i.e. it was not honoring the query string — those results are unusable as evidence and were discarded. Consequently NOTHING could be checked for this company: no OFAC SDN / UN / EU / UK / BIS Entity List screening, no Indian court or NCLT record search, no regulator action or negative-news search, no credit rating lookup, and no evidence either way on supplies to Russia or the CIS. All fields are null because they are unverified, NOT because they were checked and found empty. 'Balaji Agro' is also a very common Indian trade name with many unrelated entities, so name-only matching would be unreliable even with working search — a CIN or PAN is required to disambiguate before any screening result can be attributed to this specific legal entity. Per project rules this company must not be treated as cleared or rejected on the basis of this record; it needs re-running once search access is restored. No sanctions, court, rating or RF-supply finding is asserted here in either direction."
+}
