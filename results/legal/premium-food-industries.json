@@ -1,0 +1,18 @@
+{
+ "name_input": "PREMIUM FOOD INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained - all fields null, nothing invented. Input is internally inconsistent: 'name' is a trade/firm style name (PREMIUM FOOD INDUSTRIES) while 'legal_claimed' is a personal name (YASH SANKHLECHA), so it is unclear whether the entity is a proprietorship, partnership, LLP or company; no CIN/LLPIN or PAN was supplied to anchor the search. Tooling failed: web_search backend returned 'Connection refused' on both attempts; zaubacorp.com, instafinancials.com, tofler.in company search and mca.gov.in MDS all returned HTTP 403; Google returned a redirect/consent page; Bing ignored the quoted phrase and returned only dictionary results for 'premium'; DuckDuckGo HTML timed out; Marginalia returned a bot-check page. Consequently no public GST profile, MCA master data, incorporation date, registered-office state, GST status or audited revenue could be verified. Revenue FY25/FY26: null - no audited accounts or official filings located. Role: unknown - cannot be classified as manufacturer/trader without a registry record. Per project rules this is NOT a rejection: absence of a verifiable record is not proof of non-existence, so the entity is retained in the database pending re-check. Recommended next step: obtain the GSTIN or PAN from the supplier (or a GST invoice copy) and re-run against the GST portal and MCA master data; the declared HS codes 090931 (cumin seeds, other than black) and 120740 (sesame seeds) suggest a seeds/spices trader or processor, but that is an inference from the HS codes only, not a verified fact."
+}

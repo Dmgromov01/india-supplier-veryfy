@@ -1,0 +1,18 @@
+{
+ "name_input": "MIMINO FASHIONS PRIVATE LIMITED",
+ "legal_name": "MIMINO FASHIONS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record retrieved. Tooling failures: web_search backend returned 'Connection refused' (searx) on both queries; direct fetches of zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404; tofler.in search returned 404; Google returned a redirect/consent page; DuckDuckGo HTML timed out; Bing returned only irrelevant results for the 1977 film 'Mimino' (no Indian company hit) for three different queries. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - not public in what was reachable, and deliberately not guessed. NOT rejected: per project rules rejection requires positive proof that the entity does not exist / is struck off / liquidated / bankrupt, and no such proof was obtained - only an absence of accessible records. Status: unverified, requires re-check against MCA master data (mca.gov.in / MCA-21 'Check Company Name') and the GST taxpayer search portal. Note on input data quality: declared HS codes 610342/610721/610910/620329 are all knitted/woven apparel (T-shirts, nightwear, trousers) - i.e. textiles/garments, which contradicts the claimed industry 'Продукты питания и FMCG' (food/FMCG); the industry label in the input appears erroneous and should be corrected to apparel/textiles. Role cannot be classified (manufacturer vs trader) without MCA NIC code or GST records. No revenue figures available from audited accounts or official filings."
+}
