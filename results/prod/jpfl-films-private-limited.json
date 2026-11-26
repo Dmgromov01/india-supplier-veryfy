@@ -1,0 +1,18 @@
+{
+ "name_input": "JPFL FILMS PRIVATE LIMITED",
+ "declared_hs": "391990;392010;392020;392062",
+ "actual_hs_list": [
+  "392062 (BOPET/PET film, non-cellular, not reinforced — core product)",
+  "392020 (BOPP film, non-cellular, not reinforced — core product)",
+  "392010 (polyethylene/other polyolefin film — CPP film line at Nasik; note CPP is polypropylene, so 3920.20 is the more precise heading, 3920.10 only if PE-based)",
+  "391990 (self-adhesive plastic film/tape in rolls — only for adhesive-coated/label-stock variants; JPFL sells base films, not self-adhesive tape, so this is a partial fit)",
+  "392190 (other plastic film, n.e.s. — metallized, PVDC/acrylic/siliconised/AlOx coated, thermal lamination, NTR films)",
+  "392063 (unsaturated polyester film — not applicable, JPFL makes saturated PET)",
+  "392069 (other polyester film — possible for speciality/coated PET variants)",
+  "390760 (polyester chips/PET resin — captive consumption per company site, not a declared line)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Manufacturer of plastic films, not a chemicals/refining trader. Per jpflfilms.com (home page and /about-us/overview): BOPET (PET) films 7–350 micron incl. chemical coated, opaque white, matte, capacitor, yarn grade, drafting/tracing; BOPP films 7–70 micron incl. transparent heat-sealable and non-heat-sealable, solid white, matte, coex, pearlised/cavitated, label BOPP, opaque, release film, tape & textile film; metallized films (BOPP/PET/CPP base); speciality coated films (PVDC, acrylic, siliconised, AlOx, ink receptive, digital printable); CPP films (first CPP line at Nasik); thermal lamination films (extrusion coating line for BOPP & BOPET); Non-Tearable Paper (NTR) films in matte/glossy. Stated capacities on site: BOPP 2,94,200 TPA, BOPET 1,70,000 TPA, CPP 33,600 TPA. Also polyester chips for captive BOPET consumption. Site notes 'Formerly a Division of Jindal Poly Films Limited' and part of B.C. Jindal group.",
+ "role_hint": "manufacturer",
+ "comment": "Соответствие HS частичное, компания сохраняется (правило 3 — HS-несоответствие не является основанием для отклонения). Ядро декларации верно: 3920.62 (BOPET) и 3920.20 (BOPP) точно соответствуют двум главным продуктовым линиям, подтверждённым сайтом jpflfilms.com. Проблемы: (1) 3919.90 — самоклеящиеся плёнки/ленты; JPFL продаёт базовые плёнки, а не самоклеящуюся ленту, поэтому код подходит только для адгезивно-активируемых/лейбл-вариантов и в декларации выглядит завышенным по весу; (2) отсутствует 3921.90 — металлизированные, PVDC/акриловые/силиконизированные/AlOx-покрытия, термоламинационные и NTR-плёнки, которые компания прямо заявляет как отдельные линии; (3) CPP-линия (Nasik) в декларации не отражена отдельно — фактически это 3920.20, а не 3920.10, если только плёнка не полиэтиленовая; (4) полиэстерная стружка/чипсы (3907.60) заявлены на сайте как продукт для собственного потребления — в декларации отсутствуют. Отрасль «Нефтегаз и химия» — мисс-классификация: это переработка полимеров / производство упаковочных плёнок (plastics film converting), а не нефтегаз и не базовая химия. Признаков трейдера нет: сайт описывает собственные производственные линии (5 Brukner + 2 Dornier линии BOPP, завод в Nasik, приобретение Rexor S.A.S. во Франции), есть разделы Supplier Enquiry и E-Procurement — типично для производителя. Все продуктовые утверждения взяты с сайта компании и потому имеют статус «заявлено, не подтверждено» — таможенных записей я не проверял (вне моей роли). Данные о выручке, объёме экспорта, CIN/PAN и регистрах не исследовались — null."
+}

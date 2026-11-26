@@ -1,0 +1,18 @@
+{
+ "name_input": "JPFL FILMS PRIVATE LIMITED",
+ "legal_name": "JPFL FILMS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAECJ3818N",
+ "pan_holder_type": "Company (4th character 'C' in AAECJ3818N indicates a company/non-individual PAN holder) — format-consistent, but holder identity NOT verified against any public registry record in this session",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be confirmed. All search tooling failed in this session: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Google returned only a redirect stub; Bing returned unrelated cached results (turkey-cooking pages), i.e. no usable SERP. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com (403 Forbidden, both company page and company-list search), thecompanycheck.com (403), falconebiz.com (403), instafinancials.com (404), tofler.in (404 — no company page at the guessed slug), mca.gov.in MDS portal (403). Consequently CIN/LLPIN, GSTIN, GST status, date of incorporation, registered-office state and MCA status are all null: they are not public-and-retrievable in this session, not absent from the registry. The PAN AAECJ3818N is carried over from the input only; its 4th character 'C' is structurally consistent with a company PAN, but I could not confirm it belongs to this entity, so treat it as unverified. Registered state vs claimed state (Delhi) could not be compared. Role left as 'unknown' — no MCA business-activity/nic code or GST-based classification was retrievable; the declared HS codes (391990, 392010, 392020, 392062 — plastic film/sheet) are consistent with a plastic-films business but are not evidence of manufacturer vs trader status. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible, and no figures are estimated. Per project rules this company is NOT rejected — rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found (equally, existence was not positively confirmed). Recommended action: re-run verification when search/registry access is restored, or obtain the CIN from the supplier's own documents (GST certificate / MCA master data extract) and re-check on the MCA portal."
+}

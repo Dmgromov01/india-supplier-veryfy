@@ -1,0 +1,19 @@
+{
+ "name_input": "Enviro Tech Industrial Products",
+ "declared_hs": "902620",
+ "actual_hs_list": [
+  "902620",
+  "842139",
+  "841459",
+  "841590",
+  "841480",
+  "842199",
+  "761699",
+  "732690",
+  "853810"
+ ],
+ "match_status": "partial",
+ "product_summary": "Source: own website https://envirotechindustrialproducts.com/ (homepage, read 2026). Real product lines listed there: (1) Clean Room Equipment — GEMTECH differential pressure gauges (ranges 0-100 kPa, 0-500 mm, 30-0-30 Pa magnehelic, 0-50 mm minihelic), Winters pressure transmitter 0-400 bar, double-door interlocked pass boxes; (2) Industrial Filters — hydraulic oil filter, tripler R filter elements, pre filters, HEPA filter, mini-pleat HEPA, wire-mesh filter, carbon filter, air pre filter; (3) Air Cooling Equipment — air handling unit, fan coil unit, air washer unit, axial flow fan, industrial impellers, heating/cooling coils, air cooling pads, air curtain, aluminium front/linear grill, volume control damper, ducting job work. HS mapping: differential pressure gauges and pressure transmitters -> 9026.20 (exact match to declared code); HEPA/pre/carbon/wire-mesh filters and filter elements -> 8421.39 / 8421.99; axial flow fans and impellers -> 8414.59; AHU/FCU/air washer -> 8415.90 (parts) or 8415.83 (units); heating/cooling coils -> 8419.50/8415.90; aluminium grills and dampers -> 7616.99; steel ducting/fabrications -> 7326.90; pass boxes (static, non-refrigerating enclosures) -> 8538.10/9403 as applicable. Declared 9026.20 covers only the gauge/transmitter slice — a minority of the catalogue.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 9026.20 is correct but only partial: it covers the GEMTECH differential pressure gauges and Winters pressure transmitters, which are a small part of the range. The bulk of the catalogue — HEPA/pre/carbon filters, AHU, fan coil units, air washer units, axial flow fans, grills and dampers — falls in 8421, 8414, 8415 and 7616 and is missing from the declaration. Per project rule 3 this is NOT a rejection ground: company stays in the base, code set corrected to the actual range, verdict accepted_hs_corrected. Industry misclassification: declared 'IT и электроника' is wrong — the site describes clean-room/HVAC-air-filtration equipment manufacturing (industrial equipment, not IT/electronics). Trader signs: the site self-describes 'Nature of Business: Manufacturers, Exporters, Wholesaler, Retailer, Distributor' and resells third-party branded instruments (GEMTECH gauges, Winters transmitters) alongside own fabrication — so manufacturer_trader, not pure manufacturer. Also note the site lists manufacturing addresses outside Delhi (Bindaika Industrial Area, Jaipur; UPSIDC Naini, Prayagraj) while the registered location is Delhi. GST on site 07AOSPS8386M1ZM is consistent with the claimed PAN AOSPS8386M and Delhi state code 07 (site-stated, not registry-verified). All product claims here are 'заявлено, не подтверждено' — no customs line or shipment record was checked in this task (out of scope), and no export/inland supply evidence was verified. Search tooling was largely unavailable this run (DuckDuckGo refused, Bing returned unrelated results, IndiaMART 429), so the catalogue page beyond the homepage could not be opened; product list is from the homepage only."
+}

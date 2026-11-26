@@ -1,0 +1,18 @@
+{
+ "name_input": "MEDICO REMEDIES LIMITED",
+ "legal_name": "Medico Remedies Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (per listing/registry profile; registered office not independently read from MCA)",
+ "state_claimed": "Maharashtra",
+ "mca_status": "Active (listed on BSE: 540937 and NSE: MEDICO; no strike-off/liquidation/insolvency indication found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 151,
+ "revenue_fy26_cr": 206,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/MEDICO/) annual Profit & Loss, standalone, in Rs crore: FY2025 (Mar 2025) Sales 151; FY2026 (Mar 2026) Sales 206. Figures are exchange-filed/audited annual results as aggregated by Screener; the underlying audited PDF was not opened in this session.",
+ "note": "Entity exists and is listed (BSE 540937, NSE MEDICO), so no rejection ground. Role: manufacturer — Screener business description states the company manufactures and sells pharmaceutical formulations (antibiotics, anti-infectives, beta-lactam/cephalosporin, antifungals, antimalarials, ARVs, vitamins, etc.), with 3 manufacturing units noted in the peer table. Declared HS 300420 (medicaments containing other antibiotics) is consistent with the stated product profile — no HS correction needed. IMPORTANT GAPS: CIN, PAN, GSTIN, GST status and exact date of incorporation could NOT be verified — search backend (DuckDuckGo/searx) was down with connection refused, and registry aggregators (ZaubaCorp, TheCompanyCheck, Moneycontrol) returned HTTP 403; the company website www.medicoremedies.com failed TLS (hostname/certificate mismatch) so no public GSTIN profile could be read. Screener only says 'Incorporated in 1994' without a date, so incorporation_date is left null rather than guessed. PAN holder type therefore also null (cannot derive 4th-character holder type without the PAN). State: Maharashtra is consistent with the claimed state, but the registered-office address was not read from an MCA/GST source in this session. Revenue figures are sales/turnover from annual P&L, not independently re-checked against the audited annual report PDF. Recommend re-running CIN/PAN/GSTIN lookup when search access is restored."
+}

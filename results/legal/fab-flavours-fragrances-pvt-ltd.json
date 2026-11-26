@@ -1,0 +1,18 @@
+{
+ "name_input": "Fab Flavours & Fragrances Pvt. Ltd",
+ "legal_name": "FAB FLAVOURS AND FRAGRANCES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAACF0281D",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN; format valid, 10 characters, but holder identity NOT verified against any public record)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be confirmed. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both searches; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials returned 404; Google returned a redirect interstitial; Bing returned only irrelevant 'fab.com' results (no company-specific hits). No CIN, GSTIN, incorporation date, MCA status or registered-office state could be read from any public source, so all such fields are null rather than guessed. PAN AAACF0281D is carried over from the input only: its format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' indicates a company holder, but the PAN was NOT matched to this legal entity in any public record. State 'Delhi' is the input claim and is unverified. Role left 'unknown' - the declared HS 300490 (pharmaceuticals) does not match the company name (flavours/fragrances, which would normally sit under HS 3302/3301); per project rules this is NOT a rejection ground, only a flag for HS correction at the data stage. Revenue FY25/FY26 null: no audited accounts or MCA filings were accessible. NOT rejected - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified, registry lookup blocked', requiring a retry with working registry access (MCA21 master data / GST portal search by PAN)."
+}

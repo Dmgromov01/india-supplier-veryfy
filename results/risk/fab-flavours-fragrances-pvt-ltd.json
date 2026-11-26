@@ -1,0 +1,9 @@
+{
+ "name_input": "Fab Flavours & Fragrances Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no verifiable public record retrieved. Tooling failures: DuckDuckGo/searx backend refused connections on both attempts; Bing returned only irrelevant results for the token 'Fab' (fab.com, First Abu Dhabi Bank, etc.) and no India-specific hits; Zauba Corp returned HTTP 403; Tofler and InstaFinancials returned 404/error pages. What WAS checked: (1) OFAC Sanctions List Search tool loaded successfully (SDN list last updated 11/23/2026, Non-SDN 11/4/2026) but the tool is a JS form and cannot be queried via plain HTTP GET, so no name match could be executed - sanctions_hit is null, NOT a negative clearance. (2) Indian Kanoon searched for both '\"Fab Flavours\"' and '\"Fab Flavours and Fragrances\"' - 0 matching results on each, which is weak evidence of no reported High Court/Supreme Court/tribunal litigation but does not cover district courts, NCLT, DRT or consumer fora. No credit rating (CRISIL/ICRA/CARE/India Ratings/Acuite) found - null, not public. No regulator action (SEBI/RBI/CCI/NCLT/EPFO/GST) or negative news found - null. No evidence of any supply to Russia or CIS found - null, and absence of evidence here is not evidence of absence given the search failures. RECOMMENDATION: do not treat this as a clean risk profile; re-run sanctions screening (OFAC/EU/UK/BIS) and litigation checks manually once search access is restored. Per project rules, no rejection is proposed on any ground - this is a data gap, not a finding."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "A S ENGINEERS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No verifiable public record found for an entity named exactly 'A S ENGINEERS' in West Bengal. Tooling was largely unavailable: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results (searx: urlopen error [Errno 111] Connection refused)'), Bing returned only generic 'letter A' results for every quoted query, Zaubacorp returned HTTP 403, IndiaMART returned HTTP 429, Indian Kanoon timed out. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its query interface is JS/POST-based and could not be executed via http_get, so no name-level screening result was obtained. Therefore: sanctions_hit = null (NOT screened, not 'clear'); court_cases = null (no searchable court record retrieved; Indian Kanoon unreachable); rating = null (no credit rating found; company appears to be a small/non-rated entity, but this is unverified); news_risk = null (no negative news retrieved, but no news index was searchable); rf_supply = null (no evidence of supplies to Russia or CIS found; absence of evidence only, not evidence of absence). IMPORTANT: the claimed name is highly generic and collides with many unrelated Indian engineering firms; any future hit must be tied to a specific legal identity (CIN/PAN/GSTIN) before being attributed. Per project rules, no rejection is proposed on any of these grounds; sanctions/court/criminal matters are noted neutrally as 'есть сложности' only if later confirmed. Recommend re-running screening when search backend is restored and legal identity is confirmed."
+}
