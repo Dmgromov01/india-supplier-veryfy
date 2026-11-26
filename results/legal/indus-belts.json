@@ -1,0 +1,18 @@
+{
+ "name_input": "Indus belts",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить существование юрлица 'SAURASHTRA MILL STORES'. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout); Bing по точной фразе в кавычках не выдал ни одного релевантного результата (только нерелевантные страницы), Google вернул только редирект-заглушку. Реестровые агрегаторы (zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 404) недоступны для чтения. Никаких публичных данных о CIN/LLPIN, PAN, GSTIN, дате инкорпорации, статусе MCA и выручке получить не удалось — все поля null, ничего не выдумано. Название 'Saurashtra Mill Stores' по форме похоже на торговое наименование/проприетарство (не 'Pvt Ltd'/'LLP'), что для proprietorship означает отсутствие CIN и MCA-записи в принципе; однако это лишь предположение, не подтверждённый факт. Соответствие штата (заявлен Tamil Nadu) проверить нечем: 'Saurashtra' в названии указывает скорее на гуджаратское происхождение, что требует проверки по GSTIN-префиксу (24 = Gujarat, 33 = Tamil Nadu) — данных нет. Роль (manufacturer/trader) не определена. Отклонять НЕ следует: отсутствие данных не равно отсутствию юрлица (правило 3). Требуется повторная проверка при доступности реестров (MCA master data, GST-портал) или запрос GSTIN/CIN у поставщика напрямую."
+}

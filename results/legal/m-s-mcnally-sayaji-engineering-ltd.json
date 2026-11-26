@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S. MCNALLY SAYAJI ENGINEERING LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первичные регистрационные данные не удались: DuckDuckGo-бэкенд недоступен (connection refused), Bing/Google выдали нерелевантную выдачу без ссылок на реестр, Zauba Corp и TheCompanyCheck вернули HTTP 403, MCA master-data — 403, instafinancials — 404, сайт tegaindustries.com/our-company — 404. Поэтому CIN, PAN, GSTIN, дата инкорпорации, MCA-статус и выручка остаются null: выдумывать их запрещено правилами. ВАЖНОЕ РАСХОЖДЕНИЕ ВО ВХОДНЫХ ДАННЫХ: name_input = 'M/S. MCNALLY SAYAJI ENGINEERING LTD', а legal_claimed = 'TEGA MCNALLY MINERALS LIMITED' — это два разных юрлица (McNally Sayaji Engineering Ltd — производитель дробильно-сортировочного оборудования, Kumardhubi, Джаркханд; Tega McNally Minerals Ltd — совместное предприятие Tega Industries и McNally, зарегистрированное, по неподтверждённым данным, в Западной Бенгалии). Ни одно из них не подтверждено документально в рамках этой проверки. Также заявленный штат Karnataka не соответствует известному месту регистрации ни одного из двух юрлиц (Джаркханд / Западная Бенгалия) — требует перепроверки по MCA. Роль (manufacturer/trader) не установлена. Отклонение НЕ применяется: нет подтверждения, что юрлицо не существует, ликвидировано или банкрот — статус 'не проверено', требуется повторный прогон при доступных реестрах (MCA21 master data, GST-портал по GSTIN, годовое собрание/финансовая отчётность)."
+}

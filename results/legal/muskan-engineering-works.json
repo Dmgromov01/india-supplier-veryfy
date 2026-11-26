@@ -1,0 +1,18 @@
+{
+ "name_input": "MUSKAN ENGINEERING WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый факт не подтверждён публичным источником. Причина техническая — поисковый бэкенд (DuckDuckGo/searx) недоступен (connection refused / timeout), Bing и Google отдают нерелевантную выдачу или редирект-заглушку, MCA (mca.gov.in) и ZaubaCorp возвращают HTTP 403, quickcompany.in — 404, gstinsearch.in — DNS failure. Поэтому legal_name, CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, MCA-статус и выручка FY25/FY26 оставлены null — данные не выдумывались. ВАЖНО по сути входа: 'MUSKAN ENGINEERING WORKS' по форме наименования — проприетарное предприятие / partnership-style trade name, а не компания (нет суффикса Pvt Ltd / LLP), поэтому CIN/LLPIN у него, скорее всего, отсутствует в принципе; 'MAHENDER KUSHWAHA' в поле legal_claimed — это имя физлица-проприетора, а не юрлицо. Такие структуры в MCA не регистрируются, их след — только GSTIN (формат 2 цифры штата + 5 букв PAN + 4 цифры + 1 буква + 1 цифра/буква) и, при обороте выше порога, Udyam-регистрация. PAN проприетора, если он есть, имеет 4-й символ 'P' (individual) — это ожидаемый тип держателя, но подтвердить нечем, поэтому null. Роль: предположительно manufacturer (engineering works, изготовление трансформаторов/ИБП под HS 8504), но без подтверждения — 'unknown'. HS-коды 850433/850434/850440 (трансформаторы, статические преобразователи) не проверялись и по правилам проекта не являются основанием для отклонения. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица. Требуется повторный прогон при доступном поиске, минимум по: (1) GST-профилю (gst.gov.in search taxpayer / aggregator), (2) Udyam-регистрации, (3) любому публичному MCA-следу, если структура окажется компанией. Рекомендуется также уточнить у поставщика точное написание наименования и GSTIN — по названию 'Muskan Engineering Works' в Индии существует множество одноимённых мелких мастерских в разных штатах, и привязка к Haryana без GSTIN неоднозначна."
+}
