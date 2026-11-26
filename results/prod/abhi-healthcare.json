@@ -1,0 +1,30 @@
+{
+ "name_input": "ABHI Healthcare",
+ "declared_hs": "300490",
+ "actual_hs_list": [
+  "300212",
+  "300214",
+  "300215",
+  "300290",
+  "300410",
+  "300420",
+  "300431",
+  "300439",
+  "300450",
+  "300490",
+  "2914xx (intermediates)",
+  "2923xx/2924xx (intermediates)",
+  "2905xx/2915xx (solvents)",
+  "3204xx (dyes)",
+  "3206xx (pigments)",
+  "3402xx (surfactants)",
+  "3824xx (specialty chemical preparations)",
+  "3504xx/3507xx (excipients, proteins/enzymes)",
+  "3304xx (cosmetic ingredients)",
+  "2106xx (food & nutraceutical ingredients)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Abhi Healthcare (Ankleshwar GIDC, Bharuch, Gujarat; founded 2004 by Kishor Kachhadia; sister concern of Alex Group) is an importer/exporter and global sourcing house, NOT a manufacturer. Its own site lists the product lines: APIs; Veterinary APIs; Solvents & Chemicals; Excipients; Cosmetic Ingredients; Surfactants; Pigments; Dyes; Pellets & Granules; Intermediates; Food & Nutraceutical Ingredients. Target industries: pharma, food, nutraceutical, cosmetic, specialty chemicals, plus textile, leather, polymer, paint, ink, plastics. Declared HS 300490 (medicaments, retail packs) covers only the finished-formulation tail of the range; the bulk of the catalogue is upstream chemistry (solvents, intermediates, dyes, pigments, surfactants) and non-pharma ingredients, which sit in chapters 28-34 and 21/33, not 30.",
+ "role_hint": "trader",
+ "comment": "HS 300490 = partial. It is plausible for the API/formulation and pellets & granules lines, but the declaration omits the majority of the actual catalogue: solvents & basic/fine/specialty chemicals (ch. 29/38), intermediates (ch. 29), dyes (3204) and pigments (3206), surfactants (3402), excipients (3504/3507/3824), cosmetic ingredients (3304) and food/nutraceutical ingredients (2106). Industry claimed as 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: the company is a pharma/food/cosmetic/specialty-chemical sourcing trader, with no oil & gas line on its site. Strong trader signs: self-described 'Importer, Exporter & Global Sourcing Company', 'End to End Sourcing Solutions from India to the World', '200+ manufacturers' as partners, 'One Stop Shop', free samples, and a portfolio spanning 11 unrelated product families - a distributor profile, not a plant. No manufacturing facility or plant capacity is claimed anywhere on the site. Per Rule 3 the HS mismatch is not a rejection ground: company is retained, code to be corrected to the actual multi-chapter range above. All product lines are 'заявлено, не подтверждено' - no customs line, invoice or B-L was checked in this pass (out of scope for this role), so nothing here is corroborated by a shipment record. Note: abhihealthcare.in is an unrelated telemedicine platform, not this company - do not conflate. Sources: https://abhihealthcare.com/ (homepage nav + body copy, accessed this pass)."
+}

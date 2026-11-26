@@ -1,0 +1,18 @@
+{
+ "name_input": "Kotai Electronics Pvt Ltd",
+ "legal_name": "KOTAI ELECTRONICS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool failed (searx connection refused) and direct fetches of public registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404. Bing/Google fallback queries returned irrelevant or rate-limited results, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a primary or reputable secondary source. Per project rules, nothing is invented: all registry fields are null. IMPORTANT: this is NOT a rejection - the entity's existence, strike-off, liquidation or bankruptcy status is unverified, so no rejected verdict is issued. Role left as 'unknown' (no evidence of manufacturing vs trading). Revenue FY25/FY26 null - no audited accounts or official filings located. Recommended next step: re-run against MCA21 master data / GST portal search once search connectivity is restored, or supply the CIN/GSTIN directly."
+}

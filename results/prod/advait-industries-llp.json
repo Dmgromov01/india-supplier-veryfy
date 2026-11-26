@@ -1,0 +1,20 @@
+{
+ "name_input": "Advait Industries LLP",
+ "declared_hs": "760521",
+ "actual_hs_list": [
+  "2903190 (hexachloroethane C2Cl6 — chlorinated derivatives of acyclic hydrocarbons; HS-6 2903.19)",
+  "3815190 / 3824999 (foundry fluxes, degassing tablets, cover flux, alkali/magnesium remover, grain refiner tablets — chemical preparations for metallurgy; HS-6 3824.99)",
+  "7601200 (aluminium master alloys in ingot/waffle/cast bar/stick/coil form: AlTi5B1, AlSr5/10/15, AlTi5/10, AlMn10/15, AlSi30, AlB8/10, AlCr10 — unwrought aluminium alloys; HS-6 7601.20)",
+  "7605210 (aluminium alloy wire/coil of AlTi/AlB type — only if supplied as wire of aluminium alloys; HS-6 7605.21) — declared code, plausible for the coil form only",
+  "2804690 (silicon metal 553/441/2202 — silicon containing <99.99% Si; HS-6 2804.69)",
+  "8104190 / 8104900 (magnesium 99.99% acid washed — unwrought magnesium; HS-6 8104.19)",
+  "8111000 (manganese 99.00% — unwrought manganese; HS-6 8111.00)",
+  "8110900 (strontium metal 99.99% — HS-6 8110.90)",
+  "6903900 / 6903200 (ceramic foam filters 20/30/40 PPI, ceramic shapes, coating refractories — refractory ceramic goods; HS-6 6903.90)",
+  "6815100 / 3801900 (graphite casting / graphite products; HS-6 6815.10 or 3801.90)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Real product lines per own website (advaitindustries.com, accessed for this check): (1) Hexachloroethane C2Cl6 — degassing/smoke/vet use; (2) AD-DEGASAR degassing tablets; (3) AD-COVERFLUX, AD-GRANULATED FLUX, fused fluxes; (4) AD-ALKALI REMOVER, AD-MGR magnesium remover, AD-GRAIN REFINER tablets; (5) AD MASTER ALLOYS — AlTi5B1, AlSr 5/10/15%, AlTi 5/10%, AlMn 10/15%, AlSi 30%, AlB 8/10%, AlCr 10%, supplied as waffle, cast bar, stick, coil, ingot; (6) AD-METALS (RAW) — silicon metal 553/441/2202, magnesium 99.99%, manganese 99.00%, strontium metal 99.99%; (7) AD-CERAMIC FORM FILTER 20/30/40 PPI (200x200x22 mm, 8/12/15 inch), AD-CERAMIC SHAPES, coating refractories; (8) AD-GRAPHITE CASTING. Declared 760521 (aluminium alloy wire, >7 mm) covers only the 'coil' form of master alloys — a narrow slice of the actual range.",
+ "role_hint": "manufacturer_trader — site claims 'manufacturer & exporter' of hexachloroethane and foundry products (own plant at Plot No. 11, GIDC Dhrol, Jamnagar, Gujarat), but the raw metals block (silicon 553/441/2202, Mg 99.99%, Mn 99.00%, Sr 99.99%) is standard traded commodity, so a mixed manufacturer/trader profile is likely. No customs line reviewed here, so the manufacturer claim is 'заявлено, не подтверждено'.",
+ "comment": "HS 760521 is only partially correct: it fits the aluminium-alloy master-alloy coil form, but the company's core declared business (hexachloroethane, foundry fluxes/degassing tablets, ceramic foam filters, raw silicon/magnesium/manganese/strontium) is not covered by 7605 at all. Per project rule 3 the company is kept and the code corrected — verdict accepted_hs_corrected, not rejected. Industry label 'Металлургия и горнодобыча' is a misclassification: the primary product is a chlorinated organic chemical (HS 2903.19) plus metallurgical chemical preparations (3824.99); metals are secondary. Trader signs: raw metals sold by standard grades (553/441/2202) with no smelter reference, and 'AD-' private-label branding across unrelated product families, typical of a formulator/trader rather than a single-process plant. Product lines missing from the declaration: hexachloroethane, fluxes/degassers/grain refiners, ceramic foam filters and refractories, graphite products, unwrought Si/Mg/Mn/Sr. All product data above is from the company's own catalogue pages — no customs line was available in this task, therefore every line is 'заявлено, не подтверждено'. No registry, revenue or shipment data researched per role scope; PAN/CIN not public on the site (null)."
+}

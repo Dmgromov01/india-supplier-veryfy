@@ -1,0 +1,9 @@
+{
+ "name_input": "V. R. INDUSTRIES P LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the primary web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only irrelevant results (query parsing collapsed to the single letter 'V', surfacing BTS singer pages) across three differently-phrased queries; ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so NO name-level screening against OFAC SDN/Non-SDN, UN, EU, UK or BIS Entity List was actually performed - sanctions_hit is null because it is UNVERIFIED, not because it is clean. Same for Indian court records (eCourts/NCLT), regulator actions, credit rating and any Russia/CIS supply evidence: none of these were checked against a source. No negative finding should be inferred from the nulls. Additional identity caveat: 'V. R. Industries' / 'VR Industries' is an extremely common Indian trade name with many unrelated registrations across states; without a CIN, PAN or registered address (all blank in the input) any screening result would be unreliable even with working search. Recommend re-running this company once search access is restored and a CIN/PAN is supplied. Per project rules this is NOT a rejection ground - the company stays in the database pending verification."
+}

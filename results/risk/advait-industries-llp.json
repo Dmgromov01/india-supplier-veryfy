@@ -1,0 +1,9 @@
+{
+ "name_input": "Advait Industries LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: инструменты недоступны. web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; http_get к google.com — HTTP 429; duckduckgo.com/html и html.duckduckgo.com — timeout; bing.com отдал нерелевантную выдачу (reddit/imdb/ebay), т.е. поиск по точной фразе \"Advait Industries LLP\" не сработал. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-приложение, статический fetch не возвращает результатов поиска. Никаких данных по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), индийским судам, действиям регуляторов, негативным новостям, кредитному рейтингу и поставкам в РФ/СНГ получить не удалось. Все поля null — это означает 'не проверено / нет публичных данных в доступных источниках', а НЕ 'чисто'. Не выдумывал ни одного факта, даты, CIN/PAN или записи об отгрузках. Рекомендация: повторить проверку при восстановлении доступа к поиску; минимум — прогнать название по OFAC SDN XML, UK OFSI consolidated list, EU consolidated list, BIS Entity List, а также по eCourts/NJDG и индийским реестрам (MCA, Zauba Corp, Tofler) вручную. По правилу 2 любые найденные санкции/суды/уголовные дела не являются основанием для отклонения — только нейтральная пометка 'есть сложности'."
+}

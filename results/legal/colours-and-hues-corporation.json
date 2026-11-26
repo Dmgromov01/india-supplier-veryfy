@@ -1,0 +1,18 @@
+{
+ "name_input": "COLOURS AND HUES CORPORATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was unreachable ('Connection refused'), and Bing returned only generic colour-related results, ignoring the quoted company name. Registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403 Forbidden, and Google returned HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be confirmed from a public source. The input field 'legal_claimed' contains a person's name ('SHYAM SUNDER'), not a legal entity name, so the exact legal entity name is unconfirmed - it may be a proprietorship/firm rather than a company, which would mean no CIN exists. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Per project rules the company is NOT rejected: non-existence/struck-off/liquidation/bankruptcy could not be established either way. Role left as 'unknown' pending registry confirmation. Declared HS 330590 (perfumery/cosmetics) is inconsistent with the claimed industry 'food & FMCG'; per rule 3 this is not a rejection ground - the HS code should be corrected to the actual product code once the product line is confirmed. Recommended next step: manual MCA master-data lookup by name and GST portal search on the proprietor's name to obtain CIN/GSTIN."
+}

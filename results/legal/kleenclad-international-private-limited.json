@@ -1,0 +1,18 @@
+{
+ "name_input": "Kleenclad International private limited",
+ "legal_name": "KLEENCLAD INTERNATIONAL PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) for the whole session; direct fetches of registry aggregators returned HTTP 403 (zaubacorp.com, thecompanycheck.com, mca.gov.in), HTTP 404 (instafinancials.com, tofler.in), and search-engine fallbacks (Bing, Google, DuckDuckGo) returned either HTTP 429/timeouts or completely irrelevant results, so no page containing the company's CIN, PAN, GSTIN, incorporation date, registered office or MCA status was ever read. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null - not public in anything I could access, and I will not invent them. No rejection is applied: per the rules a company may only be rejected if the entity is proven non-existent, struck off, liquidated or bankrupt, and I have no evidence either way. Role is 'unknown' because no MCA main-object clause or GST/registration evidence was obtained; the claimed HS 391810 (vinyl floor/wall coverings) and industry 'Строительство и DIY' are unverified claims only. Recommended next step: re-run with a working search backend or MCA/GST portal access to confirm the exact legal name, CIN and GSTIN before any commercial use."
+}

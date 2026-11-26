@@ -1,0 +1,18 @@
+{
+ "name_input": "BAGYALAKSHMI ENGG WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд недоступен (searx — connection refused), DuckDuckGo/Google — таймаут/429, Bing возвращал нерелевантную выдачу (не по запросу). Ни один публичный реестровый источник (MCA/zaubacorp/tofler/GST-профиль) открыть не удалось, поэтому CIN, PAN, GSTIN, дата регистрации, статус MCA и выручка не установлены — все поля null, данные НЕ выдумывались. Косвенно: наименование 'BAGYALAKSHMI ENGG WORKS' и указание 'GANESAN' в поле legal_claimed типичны для ИП/проприетарной фирмы (sole proprietorship) без CIN и без обязательной отчётности в MCA — в таком случае CIN/LLPIN и аудированная выручка публично отсутствуют в принципе; это гипотеза, не подтверждённая источником. Роль (manufacturer/trader) не определена — null/unknown. Отклонять НЕ следует: оснований для rejected (несуществование, struck off, ликвидация, банкротство) не установлено, отсутствие данных не является основанием для отклонения. Требуется повторный прогон при восстановлении доступа к реестрам (MCA master data, GST-профиль по торговому наименованию, IndiaMART/GST-агрегаторы)."
+}
