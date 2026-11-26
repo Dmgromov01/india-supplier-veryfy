@@ -1,0 +1,18 @@
+{
+ "name_input": "BHULLAR MECHANICAL WORKS",
+ "legal_name": "BHULLAR MECHANICAL WORKS (unverified — appears to be a proprietorship/firm name, not a company; no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "not applicable / not found in MCA company search — name pattern indicates a non-corporate proprietorship or partnership firm, which has no CIN; could not be confirmed because no registry page was retrievable",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not negative evidence. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down); DuckDuckGo HTML timed out; Bing returned only generic 'Bhullar' celebrity results and ignored the quoted query terms; zaubacorp.com returned HTTP 403 on both the company-search and direct-company URLs. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or audited revenue could be sourced. The input's 'legal_claimed' field contains a person's name (BALWINDER SINGH), which is consistent with a sole proprietorship — such an entity has no CIN and no MCA status, and its PAN 4th character would be 'P' (individual) if a PAN exists, but this is an inference from the input, NOT a verified fact. No GSTIN was found on any public profile. Revenue FY25/FY26: null — no audited accounts or official filings located; not estimated. Per project rules the company is NOT rejected: non-existence/striking-off/bankruptcy could not be established either way, and absence of retrievable records is not proof of non-existence. Action required: re-run verification when search/registry access is restored, checking (1) GST portal 'Search Taxpayer' for the trade name in Punjab, (2) Udyam registration, (3) Punjab VAT/professional tax records, to confirm the proprietor and GSTIN. HS 846591 (sawing machines for stone/wood) was not assessed — out of scope for this role."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "GRISHMA METAL TECHNOLOGY",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing отдавал нерелевантную выдачу (запросы искажались); Zaubacorp — HTTP 403; Tofler — 404; Marginalia — антибот-заглушка. OFAC Sanctions List Search доступен только как интерактивная форма (POST/JS), прямой запрос по имени через http_get невозможен, поэтому санкционный скрининг по OFAC SDN/Non-SDN, UN, EU, UK OFSI, BIS Entity List НЕ подтверждён и НЕ опровергнут — все поля оставлены null, а не 'нет попаданий'. Судебные дела (eCourts, NCLT, High Court), действия регуляторов (RBI/SEBI/GST/EPFO), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверялись. Никаких данных о компании (CIN, PAN, юрисдикция, сайт) не найдено и не выдумано. ВАЖНО: отсутствие результата здесь — не отсутствие риска. Требуется повторный прогон при восстановлении доступа к поиску и реестрам (MCA21, Zaubacorp/Tofler, eCourts, OFAC CSV-выгрузка sdn.csv, UK OFSI consolidated list, EU consolidated list, BIS Entity List)."
+}

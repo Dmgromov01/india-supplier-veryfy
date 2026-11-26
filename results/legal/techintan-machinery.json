@@ -1,0 +1,18 @@
+{
+ "name_input": "TECHINTAN MACHINERY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be retrieved. Search tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' and timeouts; Bing returned only unrelated results for the exact-phrase queries \"TECHINTAN MACHINERY\" and \"TECHINTAN\" + GST; direct fetches of registry aggregators (zaubacorp.com, instafinancials.com) returned HTTP 403 and thecompanycheck/tofler search pages returned only landing/404 pages with no entity data. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified from a public source. All fields set to null rather than guessed. NOT rejected: absence of a retrieved record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' - the name suggests machinery trading/manufacturing but this is unverified. Note also that the declared HS code 640399 (footwear, outer soles of rubber/plastics with leather uppers) is inconsistent with the claimed industry 'Food & FMCG'; per rules this is not a rejection ground - the HS code should be corrected to the actual product line once the company's real activity is established. Recommend re-run with working search access or manual MCA/GST portal lookup."
+}

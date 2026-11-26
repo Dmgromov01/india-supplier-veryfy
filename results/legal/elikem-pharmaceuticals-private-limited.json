@@ -1,0 +1,18 @@
+{
+ "name_input": "ELIKEM PHARMACEUTICALS PRIVATE LIMITED",
+ "legal_name": "ELIKEM PHARMACEUTICALS PRIVATE LIMITED (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. All tool attempts failed: web_search backend refused connection (searx: Connection refused); Bing/Google HTML endpoints returned only irrelevant generic results; Zauba Corp, TheCompanyCheck, InstaFinancials and Tofler all returned HTTP 403 or 404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 could not be confirmed from any public source and are recorded as null rather than guessed. No evidence found that the entity does not exist, is struck off, liquidated or bankrupt — so per the rules it is NOT rejected; it is left unverified pending a re-check against MCA master data / GST portal. Role cannot be determined from registry data alone (declared HS 294110 is a pharmaceutical API heading, which is consistent with a manufacturer, but this is an inference from the HS code only, not a registry finding). State claimed in input was empty, so no state mismatch can be assessed. Recommend re-running with working search access or direct MCA/GST portal lookup."
+}
