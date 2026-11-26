@@ -1,0 +1,25 @@
+{
+ "name_input": "M/s VENKATESHWARA HATCHERIES PRIVATE LIMITED",
+ "declared_hs": "040711",
+ "actual_hs_list": [
+  "040711",
+  "040721",
+  "040891",
+  "040811",
+  "040819",
+  "010511",
+  "010594",
+  "040390",
+  "230990",
+  "300230",
+  "300242",
+  "210690",
+  "040900",
+  "380894",
+  "843629"
+ ],
+ "match_status": "partial",
+ "product_summary": "Declared code 040711 (fertilised eggs for incubation, of fowls Gallus domesticus) is genuinely part of the business: the company is the flagship of the VH Group ('Venky's'), founded 1971 in Pune as a hatchery, and the group profile explicitly lists 'broiler and layer breeding' and 'SPF eggs' (venkys.com/group-profile). However the website shows a far wider portfolio than hatching eggs: (1) live breeding stock / parent and grandparent lines — VH Breed BV 300 Layer Breeder, BV 300 Brown Layer, Vencob 400 Broiler Breeder, Vencob 100 Broiler Breeder, Vencobb 400Y (venkys.com homepage, 'VH Breed' section) → live pure-bred breeding fowls 0105 11 / other live fowls 0105 94; (2) table/hatching eggs and SPF eggs → 040721 (fresh eggs of fowls, other) and 0407 21/0407 29; (3) egg powder line — pasteurised spray-dried whole egg powder, whole yolk powder, heat-stable hen egg yolk powder, desugared spray-dried egg albumen powder (venkys.com/egg-powder) → dried egg 0408 91 (yolk) and 0408 11/0408 19 (albumen/whole egg); (4) poultry vaccines — live and inactivated vaccines (venkys.com, 'Vaccines' category) → 3002 30 (veterinary vaccines) / 3002 42; (5) Animal Health Care products — antibiotics, anticoccidials, dewormers, electrolytes, liver tonics, acidifiers, toxin binders, vitamin premixes, probiotics, feed supplements → 2309 90 / 3004 / 2106 90; (6) bio-security products — disinfectants, water sanitisers, cleaners/surfactants → 3808 94; (7) incubation systems and farm equipment (Bala Industries & Entertainment, Farm Equipment Div.) → 8436 29; (8) processed chicken 'Venkys Chicken in Minutes' and FMCG (All Kleen, GermiZap, Rezilon) → 1602 / 3402; (9) human health care, sports nutrition and medical nutrition therapy products → 2106 90 / 0409 00 (natural honey-based) — the nutrition line is a separate division run by Ms. Uttara J. Desai per the About Us page.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 040711 is correct but drastically incomplete — status: partial. The company is a fully integrated poultry group (own hatcheries, breeding farms, vaccine and feed-supplement plants, egg-powder plant, equipment division), so the role is manufacturer, with a trading/import-export arm (group lists 'Eastern Hatcheries Ltd', 'Uttara Impex Pvt Ltd' and an 'Import/Export' service page), hence manufacturer_trader. Industry classification 'Продукты питания и FMCG' is a misclassification: the core is poultry genetics/breeding, veterinary biologicals (vaccines) and animal health/feed supplements — i.e. Chapter 01/04/23/30 — with food/FMCG only a secondary line (processed chicken, egg powder, sports nutrition). Product lines entirely missing from the declaration: live breeding stock (0105), vaccines (3002), AHP/feed supplements (2309/3004), disinfectants (3808), incubation equipment (8436). Per project rule 3 the company is NOT rejected for the HS mismatch — it is retained and the code set corrected to the actual portfolio above. All product facts are taken from the company's own website pages (venkys.com homepage, /group-profile, /about-us, /egg-powder); no customs line, shipping bill or B-L was available to me in this task, therefore the actual export/import composition is 'заявлено, не подтверждено' — the website catalogue alone does not prove shipments. Note also that the website is the group site (VH Group / Venky's India Ltd), not a dedicated site for the specific legal entity Venkateshwara Hatcheries Pvt Ltd, so attribution of every line to this exact legal entity is 'заявлено, не подтверждено'. No registry, revenue or customs-volume research was performed per role scope."
+}

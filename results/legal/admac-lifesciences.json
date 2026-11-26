@@ -1,0 +1,18 @@
+{
+ "name_input": "ADMAC LIFESCIENCES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search tool returned a connection error (searx: Connection refused) on both queries, and direct fetches of registry/profile sources failed — zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, instafinancials.com 403 Forbidden, zaubacorp company-search 403 Forbidden, google.com/search 429 Too Many Requests, duckduckgo.com/html timeout. Bing fallback returned entirely unrelated results (no usable hits for the company name), so no page containing the CIN/GSTIN/PAN could be read. Therefore exact legal entity name, CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — not public via accessible sources in this session, and NOT invented. Role recorded as 'unknown' (no evidence of manufacturing or trading activity obtained; the claimed industry 'oil & gas and chemicals' with declared HS 300490 is internally inconsistent but HS mismatch is not a rejection ground). No rejection: no evidence that the entity does not exist, is struck off, liquidated or bankrupt — absence of data is not proof of non-existence. Recommended action: re-run verification when registry access (MCA master data / GST public search) is available, and confirm whether the correct legal name is e.g. 'Admac Lifesciences Private Limited' or 'Admac Life Sciences LLP' before recording identifiers."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Green Village Agros Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data obtained, all fields null by necessity, not by absence of risk. Tooling failed: DuckDuckGo/searx backend refused connections on all attempts; Bing returned only generic 'green colour' results and did not honour the exact-phrase query; Google returned HTTP 429; Zauba Corp, TheCompanyCheck and InstaFinancials returned HTTP 403; OpenSanctions API returned HTTP 401 (auth required); html.duckduckgo.com and search.marcia.cc timed out. Therefore NO check was actually performed against OFAC SDN, UN, EU, UK or BIS Entity List, no Indian court records (eCourts/NCLT/HC) were searched, no regulator actions or negative news were reviewed, no credit rating was retrieved, and no evidence of supplies to Russia/CIS was examined. Nothing here should be read as 'clean' - it is 'unverified'. Per project rules this is not a rejection ground and the company must not be rejected on this basis; it should be re-queued for risk screening once search access is restored. Suggested next steps for the retry: (1) resolve the exact legal entity and CIN via MCA master data, (2) screen the resolved name and director names against OFAC/UN/EU/UK/BIS consolidated lists, (3) search eCourts and NCLT by party name, (4) check CRISIL/ICRA/CARE/Brickwork and India Ratings for a rating with date, (5) search for Russia/CIS shipment or counterparty mentions. Note also that the claimed HS 100630 (semi-milled or wholly milled rice) is outside my remit and was not assessed."
+}

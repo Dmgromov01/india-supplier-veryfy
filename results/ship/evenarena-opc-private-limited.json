@@ -1,0 +1,8 @@
+{
+ "name_input": "EVENARENA (OPC) PRIVATE LIMITED",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/evenarena-opc-private-limited and .../evenarena-opc-pvt-ltd both returned only the empty template shell — the only text present is 'Shipments available for EVENARENA OPC PRIVATE LIMITED, refreshed daily' with zero shipment rows, zero dates, zero destinations, zero HS codes and zero B/L numbers rendered. Source counter: 2 importkey slug variants tried, 0 shipment rows actually seen.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award, contract or annual-report split could be retrieved: eximpedia.app and trademo.com company pages returned HTTP 403, volza.com returned HTTP 403, and the search layer failed (searx 'Connection refused'; bing.com returned only unrelated microsoft.com pages; duckduckgo.com timed out). Source counter: 4 sources attempted, 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Заявленный HS 090230/090240 (чёрный чай, упаковки ≤3 кг / >3 кг) ничем не подтверждён: ни одной таможенной или B/L записи с датой, направлением и номером не обнаружено. Выручка и объём экспорта — null (не публичны, не выдумывались). Юрлицо не проверялось на ликвидацию/банкротство в рамках этой роли (registries out of scope), поэтому вердикт по существованию компании не выносится; отклонение по HS не применяется (правило 3). Рекомендуется повторный прогон при доступном поиске и платных тарифах importkey/volza для окончательного подтверждения отсутствия отгрузок."
+}

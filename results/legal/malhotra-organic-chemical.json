@@ -1,0 +1,18 @@
+{
+ "name_input": "MALHOTRA ORGANIC CHEMICAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search backend was down (connection refused) and direct fetches of public sources failed: Bing returned only unrelated/garbage results for the exact-name queries, zaubacorp.com and tofler.in returned HTTP 403, DuckDuckGo timed out, Google returned HTTP 429. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source, so all such fields are null rather than guessed. The input gives 'PRADEEP MALHOTRA' as the legal entity, which is a personal name, not a company name - this is consistent with a sole proprietorship, which would have no CIN and no MCA record at all; a proprietorship's PAN would be an individual PAN (4th character 'P') and its GSTIN would be state-specific, but neither could be confirmed. Registered state is unknown and no state was claimed in the input, so no state mismatch can be assessed. Role is recorded as 'unknown' - the name and declared HS 291631 (benzoic acid and its salts/esters, an organic chemical) suggest a chemical supplier, but the input's industry claim of 'food and FMCG' does not match that HS code; per project rules this is NOT grounds for rejection, only a note that the industry classification appears inconsistent and the HS code should be treated as the factual one. No rejection applied: there is no evidence the entity does not exist, and absence of public records for a proprietorship is not evidence of non-existence. Recommend re-running verification when search access is restored, checking the GST portal's public 'Search Taxpayer' for the trade name and the Udyam/Shop & Establishment registries, which are the correct sources for a proprietorship."
+}

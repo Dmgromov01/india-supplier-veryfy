@@ -1,0 +1,18 @@
+{
+ "name_input": "Novomediks Private Limited",
+ "legal_name": "NOVOMEDIKS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned no results (backend connection refused) and subsequent attempts via Bing returned only irrelevant results; direct fetches of registry/profile sources (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, mca.gov.in) all returned HTTP 403 Forbidden, and Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all reported as null - none of these were found in a public source and none are invented. No basis for rejection: the entity's non-existence, strike-off, liquidation or bankruptcy could NOT be established either way, so the company is not rejected, only left unverified. Role is 'unknown' because no MCA business-object classification or GST/registration evidence was retrievable. Note on the input: declared HS 901850 (ophthalmic instruments) does not match the claimed industry 'IT и электроника'; per project rules this is not a rejection ground - the HS code should be corrected to the factual one once the company's actual product line is confirmed. Recommended next step: re-run verification when registry access is available (MCA master data / Zauba / Tofler) to obtain CIN, PAN, GSTIN and filed financials."
+}
