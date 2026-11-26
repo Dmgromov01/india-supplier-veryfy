@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S. PET EQUIPMENT RESALES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) returned connection errors, and fallback engines (Bing/Google via http_get) dropped the quoted company name and returned irrelevant generic 'pet' results. Direct registry/profile pages (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source. IMPORTANT DISCREPANCY: the input name 'M/S. PET EQUIPMENT RESALES PRIVATE LIMITED' does not match the claimed legal name 'PETFORM TECHNOLOGIES PRIVATE LIMITED' - these appear to be two different entities and neither could be confirmed to exist in MCA records. Per project rules, non-existence cannot be asserted without evidence, so the company is NOT rejected; it is left as unverified with all fields null. Role set to 'unknown' (name suggests resale/trading of PET equipment, but this is unconfirmed). Declared HS 320417 (synthetic organic colouring matter / pigments) is inconsistent with a PET-equipment resale business - flagged for HS correction to the actual code once the entity is identified; HS mismatch is not a rejection ground. Revenue FY25/FY26: null - no audited accounts or official filings located. Recommended next step: manual MCA master-data lookup on the exact CIN for both candidate names."
+}
