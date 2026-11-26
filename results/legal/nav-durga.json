@@ -1,0 +1,18 @@
+{
+ "name_input": "Nav Durga",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Входные данные неполные и противоречивые: 'Nav Durga' — это торговое/фамильное имя, а не юрлицо; в поле legal_claimed указано имя физлица 'NILESHKUMAR CHANDULAL MEVADA', что типично для ИП (proprietorship) — у таких субъектов нет CIN/LLPIN, а PAN/GSTIN привязаны к физлицу. Идентифицировать конкретного поставщика невозможно: 'Nav Durga' — массовое имя (Nav Durga Industries, Nav Durga Engineering и т.п.), привязка к конкретному GSTIN не установлена. Все попытки доступа к реестрам в этой сессии не удались: поисковый бэкенд (searx) вернул 'Connection refused'; Bing выдал нерелевантную выдачу (сбой прокси); zaubacorp.com — HTTP 403; instafinancials.com — HTTP 403; mca.gov.in — HTTP 403; tofler.in — 404; duckduckgo.com — timeout. Ни один идентификатор (CIN, PAN, GSTIN, дата регистрации, статус MCA, выручка) не подтверждён публичным источником, поэтому все поля null — выдумывать значения запрещено правилами. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3 — отклонять только при несуществовании/ликвидации/банкротстве). Роль оставлена 'unknown'. Требуется: точное юрлицо (полное название фирмы/ИП), PAN или GSTIN, штат — и повторная проверка при доступных реестрах. Также: заявленный HS 842230 (оборудование для наполнения/укупорки/упаковки) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилу 3 это не основание для отклонения, но код подлежит уточнению до фактического."
+}

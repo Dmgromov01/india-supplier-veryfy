@@ -1,0 +1,8 @@
+{
+ "name_input": "Nav Durga",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'nav-durga' returned only the template shell: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows rendered; no date, destination, HS code or B/L number visible. Second slug 'nav-durga-nileshkumar-chandulal-mevada' returned the identical empty template, also 0 rows.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Searches for the proprietor name returned no results (search backend error: 'searx: <urlopen error [Errno 111] Connection refused>'), and eximpedia/trademo/volza free views returned HTTP 403.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. ImportKey отдал две пустые страницы-заглушки (0 строк в обеих), volza/eximpedia/trademo — 403, поисковик был недоступен, Google — 429. Ни одной таможенной или B/L записи с датой, направлением, HS и номером B/L не получено; ни одного GST-оборота, тендера или контракта не найдено. Заявленный HS 842230 (оборудование для наполнения/укупорки/упаковки) не подтверждён и не опровергнут — фактический код не установлен, поэтому HS не исправлялся. Заявленная отрасль «Продукты питания и FMCG» с HS 842230 не стыкуется (это машиностроение, а не FMCG), но по правилу 3 это не основание для отклонения. Выручка и объём экспорта: null — публичных данных нет, не выдумывались. Роль (manufacturer/trader) не определена — unknown. Рекомендация: повторить проверку при доступном поиске и платном доступе к India customs data, либо запросить у поставщика IEC, номера B/L и GST-декларации."
+}

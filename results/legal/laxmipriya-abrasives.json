@@ -1,0 +1,18 @@
+{
+ "name_input": "Laxmipriya Abrasives",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry data could be verified. The input itself is internally inconsistent: 'legal_claimed' is given as 'SUBODH TRILOCHAN KAR', which is a personal name, not a company name, and no state or PAN was supplied. This pattern (personal name + trade name 'Laxmipriya Abrasives') is typical of a sole proprietorship / individual GST registration rather than an MCA-registered company, in which case there would be no CIN and no audited MCA filings - but this is an inference, NOT a verified fact. Tooling failed during this session: the DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned HTTP 429; Zaubacorp, Instafinancials and Tofler search returned 403/404; Bing and Marginalia returned unrelated or blocked results. Therefore legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered state, MCA status and FY25/FY26 revenue are all null - not public/not retrieved, not invented. Role left as 'unknown' (no evidence of manufacturing plant or of trading activity). Per project rules the company is NOT rejected: absence of verifiable data is not grounds for rejection, and HS 680422 (abrasive paper/cloth) is not a rejection criterion. Recommended next step: re-run against MCA master data and the GST taxpayer search using the proprietor name 'Subodh Trilochan Kar' and the trade name, and confirm whether a proprietorship Udyam/GST registration exists."
+}

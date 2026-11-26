@@ -1,0 +1,31 @@
+{
+ "name_input": "M/S RASHI RESOURCES PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Calcutta High Court",
+   "case": "Srei Equipment Finance Limited vs Rashi Resources Pvt. Ltd.",
+   "role": "Respondent / Defendant (borrower side)",
+   "dates": [
+    "2015-05-11",
+    "2015-09-28"
+   ],
+   "status": "Orders passed in 2015; recovery/finance dispute. No later proceedings found in Indian Kanoon search (3 hits total, all 2015).",
+   "source": "https://indiankanoon.org/search/?formInput=%22Rashi%20Resources%22"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "M/s. Surviksh Stone Crusher Company vs Taurian MPS Pvt. Ltd. (Comm/Arb No. 6148 of 2026)",
+   "role": "Respondent (Taurian MPS Pvt. Ltd. — the entity named as legal_claimed)",
+   "dates": [
+    "2026-04-10"
+   ],
+   "status": "Pending; coram Gautam A. Ankhad J. Applicant unrepresented at hearing. Nature of dispute not stated in the snippet.",
+   "source": "https://indiankanoon.org/search/?formInput=%22Taurian%20MPS%20Pvt.%20Ltd.%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified negative screen — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript form and returned no query results to the fetcher, and the DuckDuckGo search backend was down (connection refused) for the whole session, so UN/EU/UK/BIS lists could not be queried. Treat sanctions status as UNVERIFIED, not cleared. Court cases: Rashi Resources Pvt. Ltd. appears as respondent in a 2015 Srei Equipment Finance recovery matter at Calcutta HC (two orders, 11.05.2015 and 28.09.2015) — a commercial/finance dispute, not a criminal matter; per project rules this is not a rejection ground and is noted neutrally as 'есть сложности'. Separately, the entity named as legal_claimed, Taurian MPS Pvt. Ltd., is respondent in a pending 2026 Bombay HC matter (Surviksh Stone Crusher, 10.04.2026). Context worth flagging to the analyst (not a rejection ground): the wider 'Taurian' group includes Taurian Iron and Steel Co. Pvt. Ltd., which appears in Bombay HC (Moorgate Industries DMCC vs Taurian Iron and Steel, 28.10.2021) as a party 'through the Official Liquidator, Mumbai', i.e. in liquidation — this is a DIFFERENT legal entity from Taurian MPS and must not be conflated, but group-level distress is a commercial risk signal. Credit rating: no public rating found for either name (null — not public / not found). Negative news: none found (null); Bing results were polluted/irrelevant and the search backend was unavailable, so absence of news is not evidence of absence. RF/CIS supply: no evidence found of supplies to Russia or CIS (null) — no trade or customs record located; this is an unverified null, not a confirmed negative. No CIN, PAN, revenue or shipment data researched per role scope."
+}

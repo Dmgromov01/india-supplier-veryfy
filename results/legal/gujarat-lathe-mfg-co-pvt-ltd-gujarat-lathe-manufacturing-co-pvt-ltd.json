@@ -1,0 +1,18 @@
+{
+ "name_input": "GUJARAT LATHE MFG. CO. PVT. LTD.; GUJARAT LATHE MANUFACTURING CO. PVT LTD",
+ "legal_name": "GUJARAT LATHE MANUFACTURING COMPANY PRIVATE LIMITED (as claimed in input; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search backend was unavailable (searx connection refused) and all direct attempts to reach public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, tofler.in search returned a 404 page, falconebiz.com returned HTTP 403, and Bing/Google/DuckDuckGo queries returned only generic 'Gujarat' tourism results or HTTP 429/timeout - no company-specific record was retrieved. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null: not public in any source I could reach, not because they do not exist. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null - not estimated. Role is 'unknown': the name suggests a manufacturer of lathes (HS 845819 = horizontal lathes, non-NC), but the input itself carries two conflicting name variants and no registry confirmation of the entity or its business activity was obtained. IMPORTANT: per project rules, rejection is only allowed if the entity does not exist, is struck off, liquidated or bankrupt - none of that is established here, so this company must NOT be rejected; it should be re-queued for verification once MCA/GST portals are reachable. No shipment, court or catalogue research was performed per role scope."
+}
