@@ -1,0 +1,9 @@
+{
+ "name_input": "Intech Organics Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковая инфраструктура недоступна. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; прямые запросы к html.duckduckgo.com и lite.duckduckgo.com — timeout; google.com — HTTP 429; bing.com отдавал нерелевантную выдачу (Costco/Microsoft/трансформаторы) вместо результатов по компании, т.е. результаты непригодны. Сайт intechorganics.com — SSL UNEXPECTED_EOF, не открылся. Инструмент OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен, но это JS-форма без возможности передать запрос через http_get — фактическая сверка по SDN/Non-SDN не произведена (SDN list last updated 23.11.2026 по данным страницы). Следовательно: sanctions_hit, court_cases, rating, news_risk, rf_supply — null, НЕ потому что проверено и чисто, а потому что проверить не удалось. Никаких утверждений об отсутствии санкций/судов/поставок в РФ делать нельзя. Требуется повторный прогон при восстановлении доступа к поиску и к базам eCourts/NCLT/OFAC/EU/UK/BIS. По правилу 2 санкции и суды в любом случае не являются основанием для отклонения."
+}

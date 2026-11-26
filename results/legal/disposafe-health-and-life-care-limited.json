@@ -1,0 +1,18 @@
+{
+ "name_input": "DISPOSAFE HEALTH AND LIFE CARE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused' на обоих запросах; zaubacorp.com, thecompanycheck.com, falconebiz.com — HTTP 403 Forbidden; instafinancials.com — 404; Google — 429 Too Many Requests; DuckDuckGo HTML — timeout; Bing выдавал нерелевантную выдачу (Microsoft/TD Ameritrade/отели), т.е. поисковый индекс недоступен. Ни один реестровый факт (точное юр. наименование, CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA, выручка FY25/FY26) не подтверждён источником, поэтому все поля null — цифры и идентификаторы не выдумывались. Отклонять НЕЛЬЗЯ: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно его несуществованию (правило 3). Роль 'unknown' — по названию ('HEALTH AND LIFE CARE', заявленные HS 901839/901890 — медицинские изделия) вероятен производитель/трейдер медизделий, но это догадка, не факт. Заявленный в input отраслевой ярлык 'Продукты питания и FMCG' с HS-кодами 9018/9018 (мединструменты) не согласуется — требует перепроверки, но по правилу 3 несоответствие HS не является основанием для отклонения. Требуется повторный прогон при доступных реестрах (MCA master data, GST-портал) или ручная проверка."
+}

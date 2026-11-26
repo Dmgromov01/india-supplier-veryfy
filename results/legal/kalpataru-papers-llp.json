@@ -1,0 +1,18 @@
+{
+ "name_input": "Kalpataru Papers LLP",
+ "legal_name": "Kalpataru Papers LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (connection refused) for the whole session, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Google returned HTTP 429 and DuckDuckGo timed out; Bing returned only irrelevant, unrelated results (no usable hits for the company name). Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — NOT verified, not absent. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the entity is NOT rejected under the rules; it stays in the database with role 'unknown' pending a re-check. Note on the input: the declared HS codes (392020 plastic film, 4802/4806 paper) point to a paper/plastics trader or converter, which does not match the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) — this is a classification inconsistency to be corrected on the next pass, not a rejection ground. Recommended next step: verify on MCA V3 / LLP master data and on the GST portal (search by legal name) once search access is restored."
+}

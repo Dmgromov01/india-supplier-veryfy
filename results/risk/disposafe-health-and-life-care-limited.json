@@ -1,0 +1,9 @@
+{
+ "name_input": "DISPOSAFE HEALTH AND LIFE CARE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable findings, all fields null. Tooling failure, not a clean result. Details: (1) web_search backend returned 'searx: Connection refused' on every attempt (3 tries); (2) direct fetches of search engines failed or were unusable - Google returned HTTP 429, DuckDuckGo html endpoint timed out, Bing returned results completely unrelated to the query (cricket sites, Menards hardware stores), i.e. the query was not honoured, so no result from Bing can be treated as evidence of absence; (3) primary sources blocked: zaubacorp.com HTTP 403, indiankanoon.org HTTP 403, mca.gov.in DNS resolution failure; (4) OFAC Sanctions List Search page loaded but is a JavaScript form - the static fetch returned only the form and no lookup result, so no SDN/consolidated-list screening was actually performed. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) NOT screened; Indian court cases (party role/status) NOT checked; regulator actions and negative news NOT checked; credit rating NOT checked; evidence of supplies to Russia/CIS NOT checked. Nothing here should be read as 'no sanctions hit' or 'no court cases' - it means the checks could not be run. Recommend re-running this company once the search backend is restored and with access to MCA/Indian Kanoon or a paid registry/sanctions-screening API. Per project rules this is not a rejection ground and no adverse inference is drawn; company remains in the database with unverified risk profile."
+}
