@@ -1,0 +1,18 @@
+{
+ "name_input": "Excel Hightech Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failure during this run: web_search returned 'searx connection refused' / no results; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; mca.gov.in returned HTTP 403; Bing/Google HTML endpoints returned irrelevant results (query terms dropped, only Microsoft Excel results). Therefore no exact legal entity name, CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source. Nothing is asserted or inferred: all fields null. Note also that the claimed name 'EXCEL HI-TECH PRIVATE LIMITED' vs input 'Excel Hightech Pvt Ltd' cannot be reconciled without a registry record. NOT rejected - absence of verification is not evidence of non-existence; status is unverified, requires re-run with working search/registry access (MCA master data, GST public search)."
+}

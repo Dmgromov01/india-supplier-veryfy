@@ -1,0 +1,9 @@
+{
+ "name_input": "PROPEL DRIVE SYSTEMS LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No verifiable public record could be retrieved for this entity within the tool budget, so all risk fields are null rather than assumed clean. (1) Sanctions: OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form; no name query could be executed via plain HTTP GET, so no SDN/Non-SDN match or non-match is asserted. UN, EU, UK OFSI and BIS Entity List screens were not completed. (2) Indian courts: no NCLT/NCLAT, High Court or eCourts record found; note that eCourts/NCLT portals are JS-driven and were not queryable here. (3) Regulator actions / negative news: none found, but the search backend (DuckDuckGo/searx) returned 'Connection refused' on every query and Bing returned only irrelevant cached results (US consumer brands named 'Propel', unrelated weather pages), so absence of negative news is NOT evidence of absence. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; for an LLP of this apparent size a public rating is unlikely to exist - treat as not publicly rated, not as good standing. (5) Russia/CIS supply evidence: none found; no export, customs, B-L or counterparty record located. Registry lookups (ZaubaCorp 403 Forbidden; Tofler 404) failed, so even the entity's existence/status was not independently confirmed in this pass - flag for a follow-up pass with working search and a registry API. Per project rules, no rejection is proposed on this basis; the correct status is 'insufficient public data', not 'clean'."
+}

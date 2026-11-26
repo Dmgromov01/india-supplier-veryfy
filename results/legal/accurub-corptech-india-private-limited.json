@@ -1,0 +1,18 @@
+{
+ "name_input": "Accurub Corptech India Private Limited",
+ "legal_name": "ACCURUB CORPTECH INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. В ходе сессии не удалось получить ни одной публичной записи по компании: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо таймаут; агрегаторы реестров отдали 403/404 (zaubacorp.com — 403, thecompanycheck.com — 403, instafinancials.com — 403, tofler.in — 404 по обоим опробованным URL), mca.gov.in Master Data — 403; Bing вернул нерелевантную выдачу, Google — редирект-заглушку. Следовательно CIN/LLPIN, дата регистрации, штат регистрации, MCA-статус, GSTIN и GST-статус не подтверждены и оставлены null. PAN: заявленный в инпуте 'ABACA1525E' НЕ подтверждён ни одним публичным источником; при этом обращаю внимание на структурную аномалию формата — 4-й символ 'C' в PAN по правилам Income Tax Department означает тип держателя 'Company', что для частной компании правдоподобно, но сама строка 'ABACA1525E' не верифицирована, поэтому pan=null, pan_holder_type=null (не подтверждено). Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25 и FY26: аудиторская отчётность и официальные филинги не найдены, значения null. ВАЖНО: отклонять компанию НЕЛЬЗЯ — отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Статус: требует повторной проверки при восстановлении доступа к реестрам (MCA Master Data / Zauba / Tofler)."
+}

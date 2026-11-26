@@ -1,0 +1,8 @@
+{
+ "name_input": "NPS DRIVE",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/nps-drive-automation-private-limited (also /nps-drive and /nps-driveautomation-private-limited): page renders only the boilerplate line \"Shipments available for NPS DRIVE AUTOMATION PRIVATE LIMITED, refreshed daily\" with a \"Loading...\" placeholder and an empty \"Number of shipments by month\" chart. Source counter: 0 shipment rows actually seen on all 3 slug variants; no bill-of-lading number, no date, no destination, no HS code displayed. No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. web_search tool returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, so GeM/CPPP tender pages and GST turnover data could not be located. eximpedia.app and trademo.com company pages returned HTTP 403 Forbidden. No GST turnover band, tender award or contract record seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это результат отсутствия доступа к данным, а не доказательство отсутствия отгрузок: importkey отдаёт только пустой шаблон (0 строк), вторичные источники (eximpedia, trademo, volza) заблокированы 403, поисковик недоступен. Заявленный HS (841490; 848190; 848340 — части насосов/компрессоров, клапаны, зубчатые передачи) и отрасль «нефтегаз и химия» ничем не подтверждены и не опровергнуты. PAN AACCN1639F и юрлицо NPS DRIVEAUTOMATION PRIVATE LIMITED не верифицированы — реестры вне области этой проверки. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "VARTI AGRO PRIVATE LIMITED",
+ "legal_name": "VARTI AGRO PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": "AAGCV4181Q",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN; the claimed PAN is structurally valid in format only — NOT verified against any registry source)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this session. All search backends failed: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo HTML and lite endpoints timed out; Google returned a redirect/consent stub; Bing returned completely irrelevant results (orchid hybrids, OpenAI status pages) for both quoted-name queries, i.e. no real match. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404 (no such company page), mca.gov.in MDS 403. Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrievable here, and NOT invented. The claimed PAN AAGCV4181Q is recorded as claimed only; its 4th character 'C' indicates a company-type PAN holder, which is consistent with a private limited company, but this is a format inference, not verification. Role left as 'unknown' because no MCA main-object/activity record was obtained; the claimed HS codes (071040, 071080, 071220, 090111 — frozen/processed vegetables and coffee, not HS 0710/0712/0901 as written) and the 'food & FMCG' industry claim are unverified. Per project rules this company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy — only absence of accessible data. Recommend re-running verification when search/registry access is restored, checking MCA master data by name and the GST portal by PAN."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "HOMERA TANNING IND.PVT.LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. importkey.com/countries/india/homera-tanning-ind-pvt-ltd and .../homera-tanning-industries-pvt-ltd both returned only the page template: \"Shipments available for HOMERA TANNING INDUSTRIES PVT LTD, refreshed daily\" — a boilerplate string, not a record. Rows actually seen: 0 (no date, no destination, no HS code, no B/L number). volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge; DuckDuckGo/searx backend was unreachable (connection refused); Bing returned 9 results, none referring to the company.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Search backend unavailable and no accessible public page surfaced any domestic supply record; rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных записей с датой/направлением/HS/B-L, ни внутренних поставок (GST-оборот, тендеры GeM/CPPP, контракты) подтвердить не удалось. Это результат отсутствия доступа к данным, а не доказательство отсутствия отгрузок: статус по обоим пунктам — unknown, не none_found. Заявленный HS 420221;640399 (кожгалантерея/обувь) не соответствует указанной отрасли «Продукты питания и FMCG» — по правилу 3 это НЕ основание для отклонения; код фиксируется как фактический по данным компании, вердикт accepted_hs_corrected с оговоркой. Выручка и объём экспорта: null (не публичны / не найдены), не выдумывались. Трейдер/производитель — не определялся, роль unknown. Требуется платный доступ к таможенным базам (Volza/Eximpedia/Trademo) или проверка по GSTN для закрытия пробела."
+}

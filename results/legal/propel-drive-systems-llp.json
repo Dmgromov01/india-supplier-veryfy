@@ -1,0 +1,18 @@
+{
+ "name_input": "PROPEL DRIVE SYSTEMS LLP",
+ "legal_name": "PROPEL DRIVE SYSTEMS LLP",
+ "cin_llpin": null,
+ "pan": "AAYFP0730E",
+ "pan_holder_type": "F — Firm/LLP (4th character of PAN is 'F', which is the correct holder-type code for a partnership firm / LLP). Note: PAN is taken from the input as claimed; it could NOT be independently verified against any public registry in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Tamil Nadu",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public source could be retrieved. Tooling failed: the web_search backend returned 'Connection refused' on both queries; Google returned only a redirect/consent page; Bing returned generic 'Propel' brand results (US fintech, PepsiCo water, etc.) with no Indian LLP match; zaubacorp.com and instafinancials.com returned HTTP 403; tofler.in search returned a 404 page; llp.gov.in and search.mca.gov.in did not resolve (DNS failure). Therefore LLPIN/CIN, GSTIN, GST status, date of incorporation, registered-office state and MCA status are all null — NOT because they are absent, but because they were not retrievable. No revenue figures are available: an LLP of this size would not file audited accounts publicly, so FY25/FY26 revenue is null and must not be estimated. The only datum carried over is the claimed PAN AAYFP0730E, whose 4th character 'F' is consistent with an LLP/firm holder type — this is a format check only, not a verification of existence. Per project rules, no rejection is recorded: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — there is simply no evidence either way. Role left as 'unknown' (no registry data on NIC activity code or manufacturing/trading classification). HS code 850440 (static converters) is noted as declared only and was not assessed, per scope. RECOMMENDATION: re-run this company once the search backend is restored, or verify manually on the MCA LLP master data portal and the GST taxpayer search using the PAN above."
+}

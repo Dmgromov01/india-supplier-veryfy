@@ -1,0 +1,21 @@
+{
+ "name_input": "AMIT HYDROCOLLOIDS",
+ "declared_hs": "130232;391390",
+ "actual_hs_list": [
+  "130232",
+  "391390",
+  "130239",
+  "130220",
+  "291529",
+  "350510",
+  "391231",
+  "391239",
+  "382460",
+  "130231",
+  "130235"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт amithydrocolloids.com (каталог Infocom/TradeIndia-типа) перечисляет реальный ассортимент: (1) камеди и гидроколлоиды — Guar Gum Powder (CAS 9000-30-0), Partially Hydrolyzed Guar Gum (PHGG), Locust Bean Gum (CAS 9000-40-2), Xanthan Gum (CAS 11138-66-2), Gum Carrageenan, Pectin Powder, Gum Powder; (2) альгинаты — Sodium Alginate, Sodium Alginate Powder, Potassium Alginate, Calcium Alginate, Alginic Acid, Propylene Glycol Alginate; (3) целлюлозные эфиры — Hydroxyethyl Cellulose, HPMC, MHEC, CMC Sodium/Calcium, Croscarmellose Sodium, Microcrystalline Cellulose Powder, White Cellulose Powder; (4) модифицированные крахмалы — E1422, E1442, E1450, Sodium Starch Glycolate; (5) стабилизаторы для мороженого — SS 900 / Pro Gum, Algel, Algel A4, RD Powder. Цены указаны в INR/кг (Guar Gum 175, Xanthan 275, Carrageenan 700, LBG 1400, Pectin 1098, Sodium Alginate 1450, Alginic Acid 1600, PGA 1800), MOQ 25–100 кг.",
+ "role_hint": "trader",
+ "comment": "СООТВЕТСТВИЕ HS: заявленные 130232 (слизи и загустители из семян рожкового дерева/гуара) и 391390 (прочие природные полимеры, вкл. простые эфиры целлюлозы) — подтверждены каталогом частично. 130232 корректно покрывает Guar Gum Powder и PHGG (оба на сайте, CAS 9000-30-0). 391390 корректно покрывает целлюлозные эфиры (HPMC, MHEC, HEC, CMC, кроскармеллоза, MCC). НО декларация неполная: не заявлены крупные товарные линии. Пропущено: 130239 (камеди прочие — ксантан, камедь рожкового дерева, каррагинан), 130220 (пектин), 130231 (агар — не найден, не заявлять), 291529/382460 (альгинаты: sodium/potassium/calcium alginate, alginic acid, пропиленгликоль альгинат — по ТН ВЭД альгинаты идут в 3913.10 как нерастворимые в воде альгинаты; корректнее 391310), 350510 (модифицированные крахмалы E1422/E1442/E1450, sodium starch glycolate), 391231 (CMC натрия/кальция), 391239 (прочие простые эфиры целлюлозы). Рекомендуемая корректировка: 130232; 130239; 130220; 391310; 391231; 391239; 391390; 350510. Вердикт по правилу 3: accepted_hs_corrected — компания сохраняется, код расширяется до фактического ассортимента. ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявлено «Продукты питания и FMCG», но фактически это промышленные/фармацевтические гидроколлоиды и вспомогательные вещества (chemical grade, industrial grade, pharma excipients) — корректнее «Спецхимия / фармацевтические эксципиенты и пищевые добавки (B2B)». ПРИЗНАКИ ТРЕЙДЕРА: сайт-витрина на платформе Infocom Network (TradeIndia), нет собственного производственного раздела, нет адреса завода, «manufacturers and suppliers» вперемешку, «collaborating with leading manufacturers», цены и MOQ как у дилера, «All India supply ability in the domestic market» — признак перепродажи/дистрибуции, а не собственного производства. ГЕОГРАФИЯ: заявлен Gujarat, но на сайте адрес — 121, Raja Industrial Estate, PK Road, Mumbai 400080, Maharashtra; GST 24AAHFA6241Q1Z7 (префикс 24 = Maharashtra, PAN AAHFA6241Q совпадает с заявленным). Расхождение штата — отметить, но не отклонять. ФАКТИЧНОСТЬ: ни одной таможенной записи, B/L или экспортной декларации в открытых источниках не найдено; сайт заявляет только внутренние поставки по Индии. Все товарные позиции — статус «заявлено, не подтверждено» (каталог и прайс фактом отгрузки не считаются). Следов реальных экспортных отгрузок не найдено. Выручка и объём экспорта — null (не публичны, не выдумывать)."
+}

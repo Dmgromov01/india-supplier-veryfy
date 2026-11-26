@@ -1,0 +1,9 @@
+{
+ "name_input": "Accurub Corptech India Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. No public risk data could be retrieved for this entity. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on both queries, and fallback engines (Bing, Google, DuckDuckGo HTML) returned either irrelevant results (no occurrence of the name 'Accurub'/'Accurub Corptech' in any snippet) or blocked/redirect pages. Zaubacorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JS-driven form that cannot be queried via plain HTTP GET, so no name screening result was obtained. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = null (NOT screened, not 'clear'); Indian court cases (party role/status) = null (not checked — no access to eCourts/NCLT/High Court dockets); regulator actions and negative news with dates = null (no news hits found, but absence of hits in a failed search is not evidence of absence); credit rating with date/status = null (no CRISIL/ICRA/CARE/India Ratings/Acuite reference found); evidence of supplies to Russia or CIS = null (no shipment, customs or B-L record found; nothing to confirm or deny). Per project rules this is NOT a rejection ground and no adverse inference should be drawn — the company remains in the database with risk fields unverified. Recommended next step: re-run screening manually when search access is restored, using exact-name queries against OFAC SDN, EU consolidated list, UK OFSI, BIS Entity List, eCourts/NCLT by CIN, and Russian/CIS import records (e.g. customs-broker databases) — the claimed PAN ABACA1525E and state Maharashtra were not independently validated here as identity checks are outside this role's scope."
+}

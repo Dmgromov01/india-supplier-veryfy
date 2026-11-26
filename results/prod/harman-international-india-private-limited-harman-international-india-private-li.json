@@ -1,0 +1,23 @@
+{
+ "name_input": "Harman International India Private Limited; Harman International India Private Limited; HARMAN INTERNATIONAL (INDIA) PVT. LTD; HARMAN INTERNATIONAL INDIA PRIVATE LIMITED; HARMAN INTERNATIONAL INDIA PRIVATE LIMITED; Harman International India Pvt Ltd; HARMAN INTERNATIONAL INDIA PRIVATE LIMITED; HARMAN INTERNATIONAL (INDIA) PRIVATE LIMITED; Harman International India Private Limited",
+ "declared_hs": "847130",
+ "actual_hs_list": [
+  "851830",
+  "851822",
+  "851821",
+  "851840",
+  "851850",
+  "852721",
+  "852729",
+  "852872",
+  "850440",
+  "854442",
+  "852560",
+  "851762",
+  "903289"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Harman International Industries (US, wholly owned by Samsung Electronics since 2017) is a consumer and professional audio, automotive electronics and connected-technologies group. Its brand portfolio — JBL, Harman Kardon, AKG, Infinity, Mark Levinson, Lexicon, Revel, Martin Logan, Arcam, Bowers & Wilkins (from 2025), plus professional lines (JBL Professional, Crown, dbx, Soundcraft, Studer, Martin, AMX, BSS) — covers: headphones and earphones (8518.30), portable/Bluetooth and smart speakers (8518.22), home loudspeaker systems (8518.21), audio amplifiers and receivers (8518.40), audio mixing/PA equipment (8518.50), car audio head units and infotainment head units with radio (8527.21/8527.29), automotive telematics/connected-car modules and TCUs (8517.62 / 8526.91 / 9032.89), in-vehicle displays (8528.72), power supplies/adapters (8504.40), cables and connectors (8544.42). The declared code 847130 (portable automatic data processing machines, weight ≤10 kg) does not correspond to any core Harman product line.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Declared HS 847130 = portable ADP machines/laptops. Harman's catalogue (harman.com, harmanaudio.com, jbl.com, harmankardon.com, pro.harman.com — all reachable only as search-result snippets; direct fetch blocked by SSL/403 during this session) shows audio, automotive electronics and professional sound, not computers. Verdict: wrong code, industry misclassified as 'IT и электроника' in the narrow sense — the company is audio/automotive-electronics, not IT hardware. Per project rule 3 the company is NOT rejected; the code must be corrected to the actual audio/electronics HS-6 lines above. Note: the Indian entity (Harman International India Pvt Ltd) is a subsidiary/affiliate that both manufactures (automotive infotainment and audio assembly in India) and imports/distributes JBL, Harman Kardon and AKG consumer products — hence role_hint manufacturer_trader. All product lines above are 'заявлено, не подтверждено': no customs line, invoice or B/L was available in this session, and no shipment record was verified. Revenue, export volumes, CIN/PAN and registration data were deliberately not researched (out of scope for this role) — null. Search backend (searx) was down and harman.com/jbl.com returned SSL/403 errors, so the product list rests on public brand/catalogue snippets only."
+}

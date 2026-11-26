@@ -1,0 +1,9 @@
+{
+ "name_input": "VARTI AGRO PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No verifiable public record found for 'VARTI AGRO PRIVATE LIMITED' (claimed Maharashtra, PAN AAGCV4181Q) within the tool budget. Tooling was degraded: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; Bing exact-phrase queries for \"VARTI AGRO PRIVATE LIMITED\" / \"Varti Agro\" / \"VARTI AGRO PVT LTD\" returned only unrelated results (Shabdkosh, BabyCenter, Times of India) — i.e. no indexed match surfaced; Zaubacorp returned HTTP 403; Tofler search returned 404. OFAC Sanctions List Search page was reachable but is a JS form and could not be queried programmatically, so no name-level SDN/Non-SDN screen was completed. Therefore: sanctions exposure = null (NOT screened — not a negative finding); Indian court cases (party role/status) = null (not checked, no public record retrieved); regulator actions / negative news = null (none found, but search coverage was incomplete); credit rating = null (no rating found; likely unrated, unconfirmed); evidence of supplies to Russia/CIS = null (no evidence found either way). Per project rules this is NOT a rejection ground and no adverse inference should be drawn — the company is simply unverified on risk dimensions. Recommend re-run when search backend is restored, with manual OFAC/EU/UK/BIS consolidated-list name screen and a check of eCourts/NCLT by CIN once legal identity is confirmed by the identity researcher."
+}

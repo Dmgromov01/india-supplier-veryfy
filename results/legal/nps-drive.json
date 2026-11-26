@@ -1,0 +1,18 @@
+{
+ "name_input": "NPS DRIVE",
+ "legal_name": "NPS DRIVEAUTOMATION PRIVATE LIMITED (as claimed in input; NOT verified against MCA)",
+ "cin_llpin": null,
+ "pan": "AACCN1639F (as claimed in input; NOT verified)",
+ "pan_holder_type": "Company (4th character 'C' = company/firm per PAN structure) — based on the claimed PAN only, unverified",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failed: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML timed out; Google returned a redirect/consent page; Bing returned only irrelevant results (US National Park Service, Italian Greyhound pages) for both the exact legal name and the claimed PAN 'AACCN1639F', i.e. no indexed match surfaced. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and quickcompany.in returned 404; tofler.in search returned a 404 page; falconebiz.com returned only a JS shell with no results; mca.gov.in MDS returned HTTP 403. Therefore CIN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue for FY25/FY26 are all null — not public via accessible sources in this session, NOT confirmed absent. The claimed PAN AACCN1639F is structurally consistent with a company PAN (4th char 'C') but its existence and holder are unverified. No basis for rejection: the entity was neither confirmed non-existent nor confirmed struck off/liquidated/bankrupt — the check simply could not be performed. Role left as 'unknown' (no evidence of manufacturing vs trading). Recommended next step: re-run against MCA master data / GST portal with working access, or obtain the CIN or GSTIN directly from the supplier, before any verdict."
+}
