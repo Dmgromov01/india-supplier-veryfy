@@ -1,0 +1,18 @@
+{
+ "name_input": "ELEGAR KERPEN KABEL INDIA PVT. LTD; LEONI CABLE SOLUTIONS (INDIA) PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕЕСТРОВЫЕ ДАННЫЕ НЕ ПОДТВЕРЖДЕНЫ — техническая блокировка источников. Вход содержит ДВА разных названия, которые не могут быть одним юрлицом: (1) 'ELEGAR KERPEN KABEL INDIA PVT. LTD' (в legal_claimed — 'ELEGAR KERPEN KABEL INDIA PRIVATE LIMITED') и (2) 'LEONI CABLE SOLUTIONS (INDIA) PRIVATE LIMITED'. Это разные компании (Elektrisola/Elegan? — не подтверждено; LEONI — немецкая группа, её индийское юрлицо). Требуется разделение записи на две и повторная проверка. Попытки проверки: web_search (DuckDuckGo) — backend недоступен (connection refused); http_get на zaubacorp.com и thecompanycheck.com — HTTP 403 Forbidden; Bing/Google выдача по точным названиям в кавычках вернула нерелевантные результаты (астронавт, LEONI Group global, leoni-studio), т.е. подтверждающих реестровых страниц получить не удалось. CIN, PAN, GSTIN, дата регистрации, штат, MCA-статус — null, публично не получены в рамках лимита вызовов. Выручка FY25/FY26 — null: аудиторская отчётность/MCA-филинги не открывались, цифры не выдумывались. Роль — unknown (по названиям 'Kabel'/'Cable' предположительно производитель кабеля, но это НЕ подтверждено документом, поэтому не проставляю manufacturer). HS 854449/854459 (кабель) по правилам проекта не является основанием для отклонения. ВЕРДИКТ: НЕ отклонять — нет доказательств несуществования/ликвидации/банкротства; статус 'заявлено, не подтверждено', требуется повторный прогон при доступных реестрах (MCA master data, GST-портал)."
+}

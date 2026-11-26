@@ -1,0 +1,18 @@
+{
+ "name_input": "P AND S CHEMITECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record could be retrieved. Search tooling failed during this run: the DuckDuckGo/searx backend returned 'Connection refused' on all queries, DuckDuckGo HTML/lite endpoints timed out, and Bing returned only generic results for the letter 'P' with no exact-match entity. Direct registry aggregators were inaccessible: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, thecompanycheck.com search path returned HTTP 404. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures were found. Per project rules, nothing is inferred or invented: all fields are null and role is 'unknown'. IMPORTANT: this is NOT a rejection - the entity has not been shown to be non-existent, struck off, liquidated or bankrupt; it simply remains unverified. The claimed name 'P AND S CHEMITECH' is a trading-style name with no legal suffix (Pvt Ltd / LLP / Ltd), so the exact legal entity name is unknown and may differ. The declared HS code 340590 (polishing/preparation agents) is inconsistent with the claimed industry 'Food & FMCG'; per the 23.11.2026 rule this is not a rejection ground - if the entity is later confirmed, the HS code should be corrected to the factual one and the verdict set to accepted_hs_corrected. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN/CIN directly from the supplier, then check MCA master data and GST status."
+}

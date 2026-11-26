@@ -1,0 +1,18 @@
+{
+ "name_input": "ILIFE MEDICAL DEVICES PRIVATE LIMITED; ILife Medical Devices (P) Ltd",
+ "legal_name": "ILIFE MEDICAL DEVICES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; Bing/Google HTML endpoints returned unrelated results (search-engine anti-bot pages), so no CIN, PAN, GSTIN, incorporation date, MCA status or financials could be sourced. Nothing is asserted here: all registry fields are null because they are not public to me in this session, not because they do not exist. No rejection is proposed - there is no evidence the entity is struck off, liquidated or bankrupt, and absence of retrievable data is not grounds for rejection under the project rules. Action needed: re-run with working search/registry access (MCA master data, GST portal search, or a paid aggregator) to obtain CIN, PAN (4th-character holder type), GSTIN and GST status, registered-office state, and FY25/FY26 revenue from audited filings. Note on input quality: the declared HS codes (701090 glass ampoules/vials, 901839 and 901890 medical/surgical instruments) are consistent with a medical-device supplier, so the claimed industry 'Строительство и DIY' (construction/DIY) is almost certainly a mis-tag in the input and should be corrected to medical devices; this is an input-data issue, not a supplier defect. Role cannot be classified (manufacturer vs trader) without registry/records access."
+}
