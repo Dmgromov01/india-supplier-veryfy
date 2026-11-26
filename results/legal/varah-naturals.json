@@ -1,0 +1,18 @@
+{
+ "name_input": "varah Naturals",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО И НЕ ОПРОВЕРГНУТО — данных нет, вердикт не выносится. Входные данные противоречивы: в поле legal_claimed указано физлицо 'LALIT SINGH', а не юрлицо; PAN и штат не заявлены. За 10 попыток не удалось получить ни одной публичной записи: web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; Bing по запросам \"Varah Naturals\", \"Varah Naturals\" Private Limited CIN и \"VARAH NATURALS\" GSTIN выдал полностью нерелевантную выдачу (Fred Meyer, макро-трекеры) — поисковый бэкенд деградирован; zaubacorp.com и mca.gov.in отдают HTTP 403; tofler.in — 404; instafinancials — 404; google.com — 429; duckduckgo html — timeout. Следовательно: точное наименование юрлица, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA — все null, публично не получены. Роль — unknown (нет данных, торговая или производственная деятельность не установлена). Выручка FY25 и FY26 — null: аудиторской отчётности или официальных филингов не найдено, цифры не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие данных не равно несуществованию юрлица; по правилам проекта отклонять можно только при подтверждённой ликвидации/банкротстве/struck off, чего здесь не установлено. Требуется повторная проверка при восстановлении доступа к MCA21 / GST-порталу или уточнение от заказчика: полное юрлицо (напр. 'Varah Naturals Private Limited' / LLP / проприетарное дело Lalit Singh), PAN или GSTIN, штат. HS 190410 (готовые пищевые продукты из зерновых) не проверялся — вне роли регистрационного специалиста."
+}

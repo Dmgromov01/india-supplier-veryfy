@@ -1,0 +1,9 @@
+{
+ "name_input": "NEELKANTH FINECHEM LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verified data obtained. Tooling failure: the web_search backend returned 'Connection refused' on all attempts; direct fetches of Google (HTTP 429), DuckDuckGo HTML (timeout) and Bing (returned unrelated/irrelevant results, query apparently mangled) produced no usable company-specific pages. The OFAC Sanctions List Search page was reachable but is a JavaScript form and returned no query results via plain HTTP GET, so no SDN/Non-SDN screening could actually be executed. Consequently: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating (agency/date/status) = NOT FOUND, not public in retrieved sources; evidence of supplies to Russia/CIS = NOT CHECKED. No claim in this record is sourced, and nothing here should be read as a negative finding against the company — it is an absence of research, not an absence of risk. Per project rules this is not a rejection ground; the company must be re-queued for risk screening once search access is restored. Recommended next steps: (1) OFAC/UN/EU/UK/BIS consolidated list screening by exact legal name and known aliases; (2) eCourts / NCLT / High Court party-name search; (3) credit rating check with CRISIL/ICRA/CARE/India Ratings/Acuite (note: LLPs frequently unrated — null is expected, not adverse); (4) Russian/CIS import records and customs mirror-data check for counterparty links. Note also that the declared HS codes (121190; 320611) span food/herbal and titanium-dioxide pigment categories, which is inconsistent with a single 'food & FMCG' industry claim — flagged for the HS/legal-identity researcher, outside this role's scope."
+}

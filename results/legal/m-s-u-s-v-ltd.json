@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S U S V LTD",
+ "legal_name": "USV Private Limited (formerly USV Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra",
+ "state_claimed": "",
+ "mca_status": "Active (not verified against MCA master data in this session)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "CRISIL Ratings rationale dated 01-Aug-2024 (consolidated operating income Rs 4,512 crore in fiscal 2024, i.e. FY25 in Indian fiscal labelling = FY2023-24). FY25/FY26 figures not found in any audited account or official filing accessible in this session — null.",
+ "note": "Legal entity confirmed as USV Private Limited, a Mumbai-based pharma manufacturer (own site usvindia.com: Arvind Vithal Gandhi Chowk, BSD Marg, Station Road, Govandi East, Mumbai 400 088; Wikipedia: founded 1961, pharma/biotech, HQ Mumbai, Maharashtra). Registered state Maharashtra; input state was blank, so no mismatch to report. CIN, PAN, GSTIN, GST status and exact incorporation date could NOT be retrieved: search backend (searx) was down, and zaubacorp/thecompanycheck returned HTTP 403 while Bing/Google returned unusable results — these fields are left null rather than guessed. PAN holder type therefore also null. Role: manufacturer (own API/formulation plants, CRISIL notes manufacturing and R&D; no evidence of pure trading). Revenue: only FY2023-24 consolidated operating income Rs 4,512 crore (CRISIL, Aug 2024) is public; FY25 and FY26 audited figures not public/not found, so null per rules. No grounds for rejection: entity exists and is operating. HS code 293359 (heterocyclic compounds with nitrogen) is plausible for an API manufacturer but was not the subject of this registry check."
+}

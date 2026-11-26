@@ -1,0 +1,15 @@
+{
+ "name_input": "Mark Foils",
+ "declared_hs": "391990",
+ "actual_hs_list": [
+  "321210",
+  "490890",
+  "84431990",
+  "84779000",
+  "39206200"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Sole proprietorship (owner Bhavesh Bosamia), Malad West, Mumbai, GST 27BBPPB4690G1ZG, GST reg. 01-07-2017, self-described 'Manufacturer and Trader'. Real catalogue (IndiaMART storefront, https://markfoils.com redirects to the IndiaMART page): hot stamping foils on PET/polyester carrier (plain, printed, glossy, floral, wood-grain, rainbow, switchboard, textile/pink, 'SLM' chrome foil, Codex hot-stamping foil), cold stamping foils (golden, silver, green), heat transfer film (PVC, printed, transparent), hot foil stamping machines (semi-automatic, MS, 220V, ~Rs 1,20,000/pc), hot-stamping silicone rubber rollers (25 mm, 60A), and hot-stamping job work. Sold per roll/metre/piece.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 391990 ('other self-adhesive plates/sheets/film of plastics') is WRONG for this product line. Hot/cold stamping foils are transfer foils consisting of a PET carrier film with a release coat and a metallised/pigmented transfer layer - they are NOT self-adhesive; they are applied by heat and pressure in a stamping machine. Correct mapping: (1) hot/cold stamping foils and Codex foil -> HS 3212.10 (foils for stamping/blocking, of a kind used in printing) - this is the primary and dominant line; (2) heat transfer film for textile/plastic decoration -> 3212.10 or, if plasticiser/PVC-based printing film, 4908.90 (transfer decalcomanias) - cannot be split further from the catalogue; (3) hot foil stamping machines -> 8443.19 (other printing machinery) or 8477.80/8479.89 depending on function - catalogue does not specify the mechanism; (4) silicone rubber rollers -> 4016.99 (other articles of vulcanised rubber) - note 4016.99, not plastics; (5) bare PET carrier film, if sold separately -> 3920.62 - this is the only line that could justify a 39.xx chapter, but the catalogue shows no separate PET film offer. Industry claim 'Нефтегаз и химия' (oil & gas and chemicals) is a MISCLASSIFICATION: this is a printing/packaging consumables and graphic-arts supplier, not an oil & gas or bulk-chemicals company. Trader signs: the firm itself declares 'Manufacturer and Trader', sells third-party-branded 'Codex' foil, and offers job work - so a mixed manufacturer/trader role is likely. Product lines entirely missing from the declaration: stamping machines, silicone rollers, heat transfer film, job-work services. Per project rule 3 the HS mismatch is NOT a rejection ground: company is retained, code corrected to 3212.10 as the primary actual code, verdict accepted_hs_corrected. All product data above is from the company's own catalogue/IndiaMART listing only - no customs line, B/L or GST turnover record was examined in this task, therefore the product range is 'заявлено, не подтверждено' at the shipment level; no export or domestic supply evidence is asserted here."
+}

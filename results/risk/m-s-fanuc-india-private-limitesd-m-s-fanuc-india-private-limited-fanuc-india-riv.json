@@ -1,0 +1,37 @@
+{
+ "name_input": "M/S FANUC INDIA PRIVATE LIMITESD; M/S FANUC INDIA PRIVATE LIMITED; FANUC INDIA RIVATE LIMITED; FANUC INDIA PRIVATE LIMITED; M/S FANUC INDIA PRIVATE LTD.; FANUC INDIA PVT. LTD.; FANUC INDIA PRIVATE LINITED; FANUC INDIA PVT LTD",
+ "sanctions_hit": false,
+ "court_cases": [
+  {
+   "court": "Karnataka High Court",
+   "case": "Company Petition No. 165 of 2014 — M/s Fanuc India Private Limited vs M/s Evgreen/Evergreen Machine Tool and Automation",
+   "role": "petitioner (creditor/claimant)",
+   "status": "active as of latest listed hearings 08.11.2023, 20.12.2023, 07.02.2024 (indiankanoon.org search 'FANUC India')"
+  },
+  {
+   "court": "Punjab-Haryana High Court",
+   "case": "M/s S. P. Construction vs M/s Fanuc India Pvt Ltd, order dated 19.04.2023 (Neutral Citation 2023:PHHC...)",
+   "role": "respondent",
+   "status": "order passed 19.04.2023; outcome not read in full",
+   "source": "indiankanoon.org"
+  },
+  {
+   "court": "Karnataka High Court",
+   "case": "Commissioner of Income Tax vs M/s Fanuc India Ltd, 07.02.2011 and 31.03.2010",
+   "role": "respondent (taxpayer)",
+   "status": "tax appeals, decided",
+   "source": "indiankanoon.org"
+  },
+  {
+   "court": "CESTAT Bangalore",
+   "case": "Fanuc India Pvt Ltd vs Commissioner of Central Excise, 18.11.2013; Commissioner of Central Excise vs Fanuc India Pvt Ltd, 06.03.2015",
+   "role": "appellant / respondent (indirect tax)",
+   "status": "decided",
+   "source": "indiankanoon.org"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No sanctions, regulator action or negative news found. Note: web_search backend was unreachable during this run (searx connection refused) and Google/Bing/DuckDuckGo returned 429/timeouts, so sanctions screening (OFAC SDN, UN, EU, UK, BIS Entity List) could not be executed against live lists — only the OFAC search landing page was reachable, which returns no query results via plain HTTP. Absence of a hit is therefore NOT confirmed; re-screen when search access is restored. Context: FANUC India is a 100% subsidiary of FANUC Corporation (Japan), a Japanese robotics/CNC maker — no known listing of the parent or Indian entity on major sanctions lists, but this is unverified in this run.",
+ "rf_supply": "No evidence found of supplies to Russia or CIS. FANUC Corporation (Japan) publicly exited/restricted Russia business after 2022 per general reporting, but no specific record for the Indian entity was retrievable in this run (search unavailable). Treat as null / not confirmed.",
+ "note": "Risk-only review. Litigation profile is ordinary commercial and tax: one long-running creditor company petition (CP 165/2014, Karnataka HC, hearings through Feb 2024), one Punjab-Haryana HC matter as respondent (2023), plus income-tax and excise/service-tax appeals (2010-2015). No criminal matters, no insolvency, no regulator penalty found. Per project rules these are not rejection grounds. Credit rating: null — no CRISIL/ICRA/CARE/India Ratings action found; rating agencies were not reachable via search in this run, so null means 'not public/not retrieved', not 'no rating'. Sanctions: sanctions_hit=false reflects no hit observed, but live list screening could not be completed (see news_risk). Recommend re-run of sanctions screening before onboarding."
+}

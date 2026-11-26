@@ -1,0 +1,8 @@
+{
+ "name_input": "varah Naturals",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/varah-naturals and .../varah-naturals-private-limited both render only the generic template text 'Shipments available for VARAH NATURALS, refreshed daily' with 0 shipment rows actually displayed (0 rows seen on 2 slug variants); no bill-of-lading number, date, destination or HS code visible. volza.com/p/varah-naturals and eximpedia.app/companies/varah-naturals returned HTTP 403, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backends failed: web_search returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)'; lite.duckduckgo.com timed out; bing.com returned unrelated headphone-review pages for the query \"Varah Naturals\" India. 0 relevant rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных записей, ни внутренних поставок подтвердить не удалось; это отсутствие данных, а не подтверждённое отсутствие отгрузок. Заявленный HS 190410 (готовые пищевые продукты из зерновых/хлопьев) не проверен по фактическим записям. Юрлицо 'VARAH NATURALS PRIVATE LIMITED' присутствует в индексе ImportKey как имя компании, но без раскрытых отгрузок; CIN/PAN/выручка не публичны в доступных источниках — null, не выдумываю. Роль (manufacturer/trader) не установлена. Требуется платный доступ к таможенным данным (ImportKey/Volza/Eximpedia) или проверка GST-оборота по GSTIN для окончательного вердикта."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ENAL DRUGS PRIVATE LIMITED - UNIT II",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the search backend (searx) was unreachable ('Connection refused') for the whole session, and every fallback engine failed (Google 429, DuckDuckGo timeouts, Brave 429, Mojeek 403, Bing returned only irrelevant/AI-generated junk results). Direct company-registry and aggregator pages (zaubacorp.com, thecompanycheck.com) returned HTTP 403. The only usable check performed: Indian Kanoon full-text search for the exact phrase \"Enal Drugs\" returned 0 matching results (https://indiankanoon.org/search/?formInput=%22Enal%20Drugs%22, checked today) — this is a weak negative signal only, since Indian Kanoon does not index all tribunals/High Courts and many NCLT/DRT orders are not full-text searchable there. OFAC SDN/Non-SDN list search page was reachable but requires interactive query submission, so no name match was actually executed; UN/EU/UK/BIS lists were not checked. No credit rating, no regulator action, no negative news and no evidence of supplies to Russia or the CIS could be verified either way. All fields are therefore null — this is an absence of verification, NOT a clean bill of health. Recommend re-running this company once search access is restored, and manually querying OFAC Sanctions List Search, the EU/UK consolidated lists, BIS Entity List, NCLT/IBBI insolvency records and CRISIL/ICRA/CARE rating directories. Note also that the entity name carries a 'UNIT II' suffix, so the sanctions/court screening should be run against the parent legal name 'Enal Drugs Pvt Ltd' as well as the unit designation."
+}
