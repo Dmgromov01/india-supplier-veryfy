@@ -1,0 +1,18 @@
+{
+ "name_input": "PRASAD GWK COOLTECH PRIVATE LIMITED",
+ "legal_name": "PRASAD GWK COOLTECH PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один публичный источник не удалось прочитать. web_search (DuckDuckGo/searx) вернул ошибку соединения; прямые запросы к zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in — HTTP 403; tofler.in — 404; выдача Bing/Google по точному названию и по PAN нерелевантна (поисковый бэкенд деградировал). Поэтому CIN, дата регистрации, штат регистрации, MCA-статус, GSTIN и GST-статус = null, НЕ выдуманы. PAN из входа (AABCP4965D) не подтверждён ни одним публичным источником, поэтому в поле pan = null; при этом по формату 4-й символ 'P' соответствует типу держателя 'individual' (физическое лицо), что для компании с суффиксом PRIVATE LIMITED аномально — вероятно, PAN указан неверно либо относится к физлицу-промотору; требует перепроверки по документу. Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25 и FY26 не найдена в аудиторской отчётности или официальных файлингах — null. Отклонять НЕ за что: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществующем/ликвидированном/банкротном юрлице, что здесь не установлено). Заявленный HS 851610 (электрические водонагреватели) не проверялся — вне роли. Требуется повторный прогон при доступном реестре (MCA master data / GST-портал) для получения CIN, даты инкорпорации и GSTIN."
+}

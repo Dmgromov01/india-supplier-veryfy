@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S ABDULLAH TANNERY P.LTD",
+ "legal_name": "ABDULLAH TANNERY PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": "AADCA7454Q (as claimed in input; not independently verified)",
+ "pan_holder_type": "AOP (4th character 'C' = Association of Persons / body of individuals per PAN structure) — note: for a private limited company the 4th character should normally be 'C' only for AOP; a company PAN typically carries 'C' as well in practice, so holder type cannot be confirmed without the PAN card/ITD record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "manufacturer (tannery — leather processing; consistent with declared HS 4113/6406, but role not confirmed from registry documents)",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "No audited accounts or official filings retrievable — null, not estimated",
+ "note": "Registry verification could not be completed: the web_search backend returned connection errors for every query, and all registry/aggregator sources attempted (zaubacorp.com, tofler.in, instafinancials.com, quickcompany.in, mca.gov.in master data) returned HTTP 403, 404 or timeouts. Bing HTML fallback returned no relevant hits for 'Abdullah Tannery' or for PAN AADCA7454Q. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because the entity is absent, but because no public record was reachable. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation is unproven, and absence of data is not a rejection ground. PAN AADCA7454Q is carried over from the input only and is unverified. State 'Uttar Pradesh' is the claimed state; registered-office state unconfirmed (tanneries of this name are commonly reported around Kanpur/Unnao, UP, but this is not a sourced registry fact). Declared HS 411310 (tanned leather) and 640610 (leather footwear uppers) are consistent with a tannery/manufacturer role, not with the claimed industry label 'Food & FMCG' — the industry label in the input appears to be a classification error on our side, not a supplier defect; HS codes are retained as declared. Revenue FY25/FY26: null, no audited accounts found. Recommended action: re-run verification when MCA/GST portals are reachable, or request the supplier's CIN, GSTIN and PAN card copy directly."
+}

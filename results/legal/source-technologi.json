@@ -1,0 +1,18 @@
+{
+ "name_input": "Source technologi",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAYFS2133C",
+ "pan_holder_type": "F — Firm / LLP (4th character 'F' in AAYFS2133C indicates a partnership firm or LLP, not a company). Note: PAN is as claimed in the input; it could NOT be independently verified against any public record.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Karnataka",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data obtained. Tooling failure: DuckDuckGo search backend returned 'Connection refused' for all queries; Bing returned only generic dictionary results for the exact-string queries \"AAYFS2133C\" and \"Source Technologi\" + CIN; Zauba Corp returned HTTP 403 and InstaFinancials 404. Therefore legal entity name, CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null and must not be treated as confirmed. Two substantive observations from the input itself: (1) the PAN 4th character 'F' means the holder is a firm/LLP, so the entity is very likely NOT a company limited by shares — a CIN may not exist at all, and the correct identifier would be an LLPIN (if an LLP) or no MCA registration (if a plain partnership/proprietorship); (2) the claimed name 'SOURCE TECHNOLOGI' is truncated/garbled and cannot be matched to any exact legal name, so identity of the counterparty is unresolved. Per project rules this is NOT a rejection ground — the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it is simply unverified. Action required: obtain the GSTIN or the full legal name from the supplier, then re-run verification against MCA/GST portals. Revenue FY25/FY26: null — no audited accounts or official filings located. Role: unknown — cannot be classified without registry data. HS 854159 (claimed) is a semiconductor-device heading; no HS assessment is made here as it is outside this role's scope."
+}

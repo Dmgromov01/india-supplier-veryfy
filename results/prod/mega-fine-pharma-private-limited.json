@@ -1,0 +1,23 @@
+{
+ "name_input": "MEGA FINE PHARMA PRIVATE LIMITED",
+ "declared_hs": "292419;293349;300390;300490",
+ "actual_hs_list": [
+  "294200",
+  "293349",
+  "293359",
+  "293379",
+  "293399",
+  "293499",
+  "292429",
+  "292249",
+  "292219",
+  "292149",
+  "292151",
+  "291639",
+  "300490"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт megafine.in (единственный резолвящийся домен; megafinepharma.com и megafine.com не резолвятся) описывает компанию как «pure play API company» — производителя АФИ и advanced intermediates, основана в 1995, площадки Nashik (Maharashtra) и Vapi (Gujarat), 270 KL, инспекции US FDA/EDQM/TGA/Health Canada/MFDS/PMDA/ANVISA/COFEPRIS. Реальный продуктовый список (страница /api/): АФИ для человека — Ambrisentan, Apixaban, Apremilast, Asenapine Maleate, Bosentan Monohydrate, Cinacalcet HCl, Dabigatran Etexilate Mesylate, Darifenacin HBr, Desvenlafaxine Succinate, Donepezil HCl (Form I и Form III), Edoxaban Tosylate, Lurasidone HCl, Memantine HCl, Mirabegron, Mirtazapine (anhydrous и hemihydrate), Paliperidone, Prasugrel HCl, Quetiapine Hemifumarate, Rivaroxaban, Solifenacin Succinate, Teriflunomide, Venlafaxine HCl, Vildagliptin, Vortioxetine HBr, Ziprasidone HCl; ветеринарные — Morantel Citrate, Morantel Tartrate, Oxantel Pamoate, Pyrantel Pamoate/Embonate, Pyrantel Tartrate; в разработке — Cariprazine HCl, Fezolinetant, Finerenone, Resmetirom, Vericiguat, Vibegron, Xanomeline Tartrate. Advanced intermediates (страница /advanced-intermediates/): Amlodipine, Ambrisentan, Apixaban, Asenapine, Bosentan, Cariprazine, Darifenacin, Donepezil, Dropropizine, Lurasidone, Mirabegron, Mirtazapine, Quetiapine, Rivaroxaban, Solifenacin, Vildagliptin, Vortioxetine, Ziprasidone. Готовых лекарственных форм (таблетки/капсулы) в каталоге нет — только субстанции и интермедиаты.",
+ "role_hint": "manufacturer (собственные производственные площадки Nashik и Vapi, 29 US DMF и 14 CEP; признаков трейдера нет)",
+ "comment": "Сверка с заявленными кодами. 293349 — ПОДТВЕРЖДЁН: хинолиновые/изохинолиновые гетероциклы, под него попадают производные хинолина/изохинолина в портфеле (палиперидон — хинолинон, дроpropizine — не подходит, но палиперидон и родственные интермедиаты да). 292419 — ЧАСТИЧНО: амиды ациклические; в портфеле есть амидные структуры (апремiласт, видаглиптин как амидные производные), но основная масса продуктов — гетероциклы и соли аминов, поэтому код покрывает лишь малую часть. 300390 и 300490 — НЕ ПОДТВЕРЖДЕНЫ: это готовые лекарственные формы (расфасованные ЛС), а на сайте нет ни одной ГЛФ — только API и интермедиаты в килограммах (batch 1–500 кг). Заявка 300490/300390 выглядит как типовой «фарма-шаблон» и не соответствует фактическому профилю. ФАКТИЧЕСКИЕ КОДЫ, которых нет в декларации: 294200 (прочие органические соединения фармакопейного качества — общая позиция для API), 293359/293379/293399 (прочие гетероциклы — кветиапин, миртазапин, луразидон, зипрасидон, асенапин, воrtioxetine), 293499 (прочие гетероциклы — модафинил-подобные, ривароксабан/апиксабан как оксазолидиноны/пиразолы), 292429 (амиды циклические — апремiласт, видаглиптин), 292249/292219/292149/292151 (амины и аминокислоты — мемантин, венлафаксин, дулоксетин-подобные, амлодипин-интермедиаты), 291639 (карбоновые кислоты ароматические — интермедиаты). ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявлено «Нефтегаз и химия» — неверно; компания фармацевтическая (API/CDMO), корректная отрасль — «Фармацевтика / химия для фармы». ПРОПУЩЕННЫЕ ЛИНИИ: ветеринарные АФИ (пирантел, морантел, оксантел — позиции 2933/2934), advanced intermediates (собственная товарная линия, отдельные коды 29xx), CDMO-услуги (не товар). ПРИЗНАКИ ТРЕЙДЕРА: не выявлены — собственные заводы, DMF/CEP, инспекции регуляторов. ВАЖНО: ни одна позиция не подтверждена таможенной линией — по правилу проекта все продуктовые утверждения имеют статус «заявлено, не подтверждено» (источник — только сайт megafine.in). Расхождение названий: заявлено «MEGA FINE PHARMA PRIVATE LIMITED» / «MEGAFINE PHARMA PRIVATE LIMITED», на сайте бренд «Megafine»; юридическое соответствие по сайту не проверяемо (реестры вне рамок задачи). HS-несоответствие НЕ является основанием для отклонения — компания сохраняется, коды корректируются на фактические."
+}

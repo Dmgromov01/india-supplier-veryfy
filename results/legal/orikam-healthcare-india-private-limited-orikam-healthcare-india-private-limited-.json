@@ -1,0 +1,18 @@
+{
+ "name_input": "ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PVT LTD.; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKEM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITED; ORIKAM HEALTHCARE INDIA PRIVATE LIMITES",
+ "legal_name": "ORIKAM HEALTHCARE INDIA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. Tooling failure during this run: web_search backend refused connections (searx urlopen error 111) on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search returned 404; duckduckgo html/lite endpoints timed out; Bing returned unrelated results (Costco/Red Cross), i.e. no usable SERP. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null because they are not public to me in this run - they are NOT null because the company lacks them. No rejection applied: per rules an entity may only be rejected if it does not exist / is struck off / liquidated / bankrupt, and I have no evidence of any of those; absence of verification is not evidence of non-existence. Role left as 'unknown' (no evidence of manufacturing plant or trading activity obtained). Note on input quality: the name field is the same string repeated 16 times with minor variants ('ORIKAM' vs 'ORIKEM', 'LIMITES' typo, 'PVT LTD.' vs 'PRIVATE LIMITED') - these are almost certainly one single entity, not 16 suppliers; deduplicate before further processing. Also note the declared HS 901849 (instruments/appliances used in medical/surgical/dental/veterinary sciences) is inconsistent with the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) - per project rules this is NOT grounds for rejection; the company stays in the base and the HS code should be corrected to the actual one once the product line is confirmed. Recommended next step: re-run with working search, or verify manually on mca.gov.in 'Check Company Name / View Company Master Data' and on the GST portal 'Search Taxpayer' using the legal name, then fill CIN, PAN, GSTIN, incorporation date and state."
+}

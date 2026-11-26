@@ -1,0 +1,18 @@
+{
+ "name_input": "MEDWISE OVERSEAS PRIVATE LIMITED",
+ "legal_name": "MEDWISE OVERSEAS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": "AAJCM8757C",
+ "pan_holder_type": "Company (4th character 'C' = company/firm PAN; consistent with a private limited company)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public source could be read. Tooling failed: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in/mcafoportal all returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; duckduckgo/lite endpoints timed out; Bing and Google returned only irrelevant/redirected results (no usable SERP for the exact name or for the PAN string). Therefore CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public via accessible channels in this run, NOT evidence of absence. PAN AAJCM8757C is taken from the input only; its format is valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' indicates a company-type holder, which is consistent with a 'PRIVATE LIMITED' entity, but the PAN was not confirmed against any public record. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data alone - set to 'unknown'; note that the declared HS 300432 (medicaments) is inconsistent with the claimed industry 'oil & gas and chemicals', but per project rules HS mismatch is not a rejection ground and no HS correction is asserted here since the actual business activity could not be verified. NOT rejected: no evidence found that the entity does not exist, is struck off, liquidated or bankrupt - the registry simply could not be queried. Recommend re-running with working MCA/GST portal access before any verdict."
+}

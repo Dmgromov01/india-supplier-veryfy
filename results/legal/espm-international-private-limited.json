@@ -1,0 +1,18 @@
+{
+ "name_input": "ESPM INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": "ESPM INTERNATIONAL PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry record could be retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404; tofler.in search returned 404; Google returned HTTP 429; Bing returned only irrelevant results (ESPN, ESPM Brazil/Mexico business schools) for the exact-name queries, i.e. no Indian corporate-registry hit surfaced. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not because they are absent, but because they were not publicly retrievable within the call budget. Revenue FY25/FY26 null: no audited accounts or official filings found. Role set to 'unknown' — the declared HS codes (730792/730799 iron-steel pipe fittings, 860400 railway maintenance vehicles) suggest a trading or manufacturing-trader profile, but this is inference from the input only, not evidence. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of retrievable data is not grounds for rejection. Recommended action: re-run verification when search/registry access is restored, or obtain the CIN or GSTIN from the supplier directly and query MCA V3 / GST portal. No shipment, court or catalogue research was performed per role scope."
+}
