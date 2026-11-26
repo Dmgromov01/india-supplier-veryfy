@@ -1,0 +1,18 @@
+{
+ "name_input": "GREEN WOOD AGENCIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Причина техническая: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing по запросам '\"GREEN WOOD AGENCIES\" GSTIN/CIN' выдавал только нерелевантные результаты (цвет green, Greenwood, США) — точного совпадения названия не найдено; прямые обращения к реестрам и агрегаторам заблокированы: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, mca.gov.in (Company/LLP Master Data) — HTTP 403, thecompanycheck.com — HTTP 404, google.com — HTTP 429. Следовательно: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 — null, данные не публичны/не получены, не выдумывались. Роль определить нельзя: по названию 'Agencies' это скорее трейдер/агент, но это догадка, а не факт — role=unknown. Штат ввода не заявлен (state_claimed пусто), сверять не с чем. ВАЖНО: отклонять НЕЛЬЗЯ — нет доказательств, что юрлицо не существует, ликвидировано или банкрот; отсутствие данных не является основанием для rejected. Заявленный HS 820110/820130/842952/843280 (лопаты/кирки, ножницы для живой изгороди, экскаваторы, сельхозтехника) не соответствует заявленной отрасли 'Авиастроение и транспорт' — по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический при подтверждении. Требуется повторная проверка при доступном реестре (MCA Master Data / GST-портал) либо предоставление поставщиком CIN/GSTIN."
+}

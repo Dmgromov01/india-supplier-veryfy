@@ -1,0 +1,18 @@
+{
+ "name_input": "NAIVO COFFEE COMPANY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record retrieved. The input itself is internally inconsistent: 'NAIVO COFFEE COMPANY' is given as the name while 'JESSIE AGATHA OVIAN' is given as legal_claimed, which looks like an individual proprietor name rather than a company; a proprietorship would have no CIN and no MCA status, only a GSTIN. No CIN, PAN, GSTIN, incorporation date, state or revenue could be confirmed from any public source. Tooling failed: web_search returned 'Connection refused' (searx backend down); zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in search returned 404; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only unrelated results (ProvaDent ads, Disney 'Jessie', Mary Jane shoes) for every query, so no page containing the company or the person name was ever reached. Per project rules the entity is NOT rejected - rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and absence of a retrievable record is not such proof. Status must be treated as unverified pending a manual MCA master-data / GST portal lookup by exact legal name or by the proprietor's name. Revenue FY25/FY26 left null (no audited accounts or official filings found); do not infer. Role left 'unknown' - no evidence of manufacturing plant or trading activity was obtained. HS codes 090111/090112/090121 (green coffee, decaffeinated, roasted) are plausible for a coffee business but were not checked against any actual registration, and per rules HS mismatch is not a rejection ground in any case."
+}

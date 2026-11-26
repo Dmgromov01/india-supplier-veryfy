@@ -1,0 +1,18 @@
+{
+ "name_input": "ENDOLITE INDIA LIMITED; ENDOLITE INDIA LTD.; ENDOLITE INDIA LTD",
+ "legal_name": "ENDOLITE INDIA LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: web_search (DuckDuckGo/searx) returned connection errors, and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, quickcompany.in) plus mca.gov.in returned HTTP 403/404/timeouts. Bing fallback returned only irrelevant results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null - not public/not retrievable in this session, and not invented. No basis to reject: absence of retrievable records is not evidence of non-existence, strike-off, liquidation or bankruptcy. Role left as 'unknown' (no registry evidence of manufacturing vs trading activity). Note also a mismatch signal worth flagging for the analyst: the declared HS 902110 (orthopaedic/prosthetic appliances) and the claimed industry 'oil & gas and chemicals' are inconsistent with each other, and the name 'Endolite' is associated with a UK prosthetic-limb brand - the Indian entity's actual business line needs confirmation from its MCA MOA/objects and GST registration, not from the input. Recommend re-run with working search/registry access (MCA V3 portal, GST portal search by trade name) before any verdict."
+}

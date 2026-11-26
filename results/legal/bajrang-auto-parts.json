@@ -1,0 +1,18 @@
+{
+ "name_input": "BAJRANG AUTO PARTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый инструмент (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам «Bajrang Auto Parts» + GSTIN / «Saurabh Juneja» / IndiaMART выдавал только нерелевантные результаты (Hanuman, Bajrang Baan) — то есть точного совпадения по названию в индексе не найдено. Агрегаторы реестров (zaubacorp.com, instafinancials.com, thecompanycheck.com — только лендинг без результатов, mca.gov.in) отдали 403/заглушку; gstinsearch.in — DNS-ошибка. Итог: ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты инкорпорации, ни MCA-статуса публично подтвердить не удалось. ВАЖНО: 'BAJRANG AUTO PARTS' — типичное имя проприетарной фирмы (sole proprietorship), у которой нет CIN и нет MCA-регистрации; в поле legal_claimed указано ФИО физлица (SAURABH JUNEJA), а не название юрлица, что согласуется с версией проприетарного бизнеса. Для проприетарной фирмы PAN — это личный PAN владельца (4-й символ 'P'), а не фирменный; подтвердить формат и держателя по публичным источникам не удалось, поэтому pan=null. Роль: определить как manufacturer или trader по реестровым данным невозможно — заявленные HS 732010 (листовые рессоры), 842123/842199 (фильтры), 848410 (прокладки) указывают на торговлю/поставку автокомпонентов, но это не реестровый факт; role=unknown. Выручка FY25/FY26: для проприетарной фирмы аудиторская отчётность в MCA не подаётся, официальных филингов нет — revenue=null (не выдумывать). Отклонять НЕЛЬЗЯ: нет доказательств несуществования/ликвидации/банкротства — отсутствие данных не является основанием для rejected. Требуется доработка: запросить у поставщика GSTIN (15 знаков) и PAN, проверить статус GST на gst.gov.in (Search Taxpayer) и, если это всё же компания/LLP, — CIN/LLPIN в MCA Master Data. state_claimed в инпуте пуст, поэтому сверку штата провести не с чем."
+}

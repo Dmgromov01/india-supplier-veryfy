@@ -1,0 +1,9 @@
+{
+ "name_input": "New India Electricals",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: DuckDuckGo/Searx backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned generic news results ignoring the quoted query terms (both for 'New India Electricals' + 'Kadir Khan' and for site-restricted searches on indiamart.com/zaubacorp.com/tofler.in), so no company-specific page could be retrieved. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is an interactive form with no GET-queryable endpoint, so a name lookup could not be executed programmatically; the page itself only confirmed the SDN list was last updated 11/23/2026. Therefore: sanctions exposure = NOT VERIFIED (not 'no hit'); Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. No claim is made in either direction. The entity appears to be a small proprietorship-style trading/electricals name ('New India Electricals', claimed proprietor MOHD KADIR KHAN) with no public corporate footprint retrievable in this session - but this is an observation about search results, not a finding. Per project rules, absence of negative findings is NOT a rejection ground and no rejection is proposed; the company stays in the database. Recommend re-running this check when the search backend is restored, specifically: (1) OFAC SDN/consolidated list name search for 'New India Electricals' and 'Kadir Khan'; (2) eCourts / NCLT / High Court party search for the proprietor name; (3) GST/credit-rating sources for any registered entity. All fields deliberately left null rather than guessed."
+}

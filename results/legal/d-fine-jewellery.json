@@ -1,0 +1,18 @@
+{
+ "name_input": "D FINE JEWELLERY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public record retrieved. The input gives the name as 'D FINE JEWELLERY' with legal_claimed 'JAYANTIBHAI NANUBHAI SAVALIYA', which is a personal name, not a company name; this pattern is typical of a sole proprietorship (proprietor: Jayantibhai Nanubhai Savaliya), which would have no CIN/LLPIN and no MCA record at all - only a GSTIN. No GSTIN was supplied in the input and none could be located: the search backend (DuckDuckGo/searx) refused connections, Bing and Google returned irrelevant results or HTTP 429, and direct registry/GST aggregator pages were blocked (Zauba 403, MastersIndia 403, Tofler 404). Therefore legal entity name, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, NOT confirmed absent. State claimed in input is empty, so no state mismatch can be assessed. Role recorded as 'unknown': the declared HS codes 710239/710491 (worked/processed diamonds, non-industrial) point to a diamond/jewellery trade, but no registry evidence establishes manufacturer vs trader status. Revenue FY25/FY26 null - a proprietorship would not file audited accounts publicly in any case. Per project rules this entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established, and absence of retrievable data is not grounds for rejection. Action needed: obtain the GSTIN (or PAN) from the supplier and re-run verification against the GST portal and, if a company exists, MCA. Note also that the industry_claimed field ('Food & FMCG') is inconsistent with the declared diamond HS codes - flag for correction, but per rule 3 this is not a rejection ground."
+}
