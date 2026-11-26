@@ -1,0 +1,19 @@
+{
+ "name_input": "BODAL CHEMICALS LIMITED",
+ "declared_hs": "320412;320416",
+ "actual_hs_list": [
+  "320412",
+  "320416",
+  "320413",
+  "320414",
+  "320419",
+  "292700",
+  "281511",
+  "280610",
+  "320411"
+ ],
+ "match_status": "partial",
+ "product_summary": "Bodal Chemicals (Gujarat, listed on BSE/NSE) is a dyes-and-dye-intermediates group. Publicly known product lines: (1) reactive dyes (vinyl sulphone and bi-functional series) and other synthetic organic dyestuffs/preparations; (2) dye intermediates — vinyl sulphone (VS) derivatives, H-acid, J-acid, para-base/ortho-base, aniline-based intermediates; (3) basic chemicals — sulphuric acid/oleum, chlorosulphonic acid, caustic soda lye/flakes, hydrochloric acid, chlorination products; (4) recently also specialty chemicals/agro-chemical intermediates via acquired units. NOTE: the company website (bodal.com) returned HTTP 307 redirects on every path attempted and search/aggregator pages were blocked (403/429) during this session, so the product list above is NOT corroborated by a page read in this run — it must be re-verified against the company's own product/catalogue pages and its annual report before being treated as confirmed.",
+ "role_hint": "manufacturer",
+ "comment": "Declared codes 320412 (acid dyes and preparations based thereon) and 320416 (reactive dyes and preparations based thereon) are plausible and consistent with the known reactive-dye line, but only 320416 is clearly the core export item; 320412 (acid dyes) is not a product line I could corroborate for Bodal — status: заявлено, не подтверждено. Partial match. Missing from the declaration: (a) dye intermediates (H-acid, J-acid, vinyl sulphone base, aniline derivatives) which are a major revenue line — these fall under 2922 (oxygen-function amino-compounds), 2921 (amine-function compounds) and 3204 subheadings for intermediate preparations; (b) basic/inorganic chemicals — sulphuric acid 2807.00, chlorosulphonic acid 2806.20, caustic soda 2815.11, hydrochloric acid 2806.10; (c) other synthetic organic colouring matter/preparations 3204.19 and 3204.11 (disperse dyes) if produced. Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification on the oil & gas half: Bodal is a dyes/intermediates/basic-chemicals manufacturer, not an upstream or oilfield supplier — the correct industry is 'Химия / красители и полупродукты'. No trader signs found in the declared data; the company is a producer (own plants at Khambhat/Bavla, Gujarat), so role = manufacturer, though this too should be confirmed from the site. Per project rule 3, the HS mismatch is not a rejection ground: company is retained, codes corrected/expanded as above, verdict accepted_hs_corrected. No customs line was available in this session, so no shipment-level corroboration of any code — all product-to-HS mappings above are заявлено, не подтверждено."
+}

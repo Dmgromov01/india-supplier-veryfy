@@ -1,0 +1,18 @@
+{
+ "name_input": "SHREE SULPHURICS PRIVATE LIMITED",
+ "legal_name": "SHREE SULPHURICS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; Bing returned only irrelevant results for the exact-name query (no company/registry hit); zaubacorp.com, thecompanycheck.com and mca.gov.in/mcafoportal all returned HTTP 403 Forbidden; instafinancials.com returned 404; tofler.in search returned 404; google.com returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown' because no registry record (main-object clause / NIC activity) could be read; the claimed industry 'oil & gas and chemicals' with declared HS 283210 (sodium sulphites) is unconfirmed. Per project rules this company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy — only absence of accessible evidence. Action required: re-run with working search/registry access (MCA master data, Zauba/Tofler/IndiaFilings, GST public search) to fill CIN, PAN, GSTIN, state and financials."
+}

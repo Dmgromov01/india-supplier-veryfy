@@ -1,0 +1,9 @@
+{
+ "name_input": "Nira Life Sciences Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (searx/DuckDuckGo) возвращал 'Connection refused' / timeout на всех запросах, Bing отдавал нерелевантные кэшированные результаты и игнорировал кавычки (по запросу \"Nira Life Sciences\" выдавал страницы про мышцы человека и NIRA Uganda/Jamaica), Google — HTTP 429. Ни одной страницы, относящейся к компании NIRA LIFE SCIENCES PRIVATE LIMITED, получить не удалось. Соответственно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не сверены; судебные дела в индийских судах (party role/status) не установлены; действия регуляторов и негативные новости не проверены; кредитный рейтинг (агентство/дата/статус) не найден; сведений о поставках в РФ/СНГ не обнаружено, но это НЕ означает их отсутствия — просто источники не открывались. Все поля оставлены null, ничего не выдумано. Требуется повторный прогон при работающем поиске (рекомендуемые источники: OFAC SDN search, UN Consolidated List, EU/UK sanctions lists, BIS Entity List, eCourts/NCLT/SCI, Zauba/Tofler/IndiaFilings, CRISIL/ICRA/CARE/India Ratings, GST-порталы). Отклонение по данному отчёту не обосновано ни в какую сторону — это пробел в данных, а не отрицательный результат."
+}

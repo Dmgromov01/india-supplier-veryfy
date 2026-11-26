@@ -1,0 +1,18 @@
+{
+ "name_input": "Uniza Lifecare Pvt Ltd | Uniza Healthcare LLP",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input itself is internally inconsistent: it names two different legal forms ('Uniza Lifecare Pvt Ltd' / 'Uniza Healthcare LLP') while legal_claimed says 'UNIZA LIFECARE LIMITED' (a public limited company) - these are three mutually exclusive entity types, so the exact legal entity cannot be pinned down from the input. Tooling failed during this run: web_search returned 'searx: Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in search returned 404; quickcompany.in timed out; Google returned HTTP 429; DuckDuckGo timed out; Bing returned irrelevant results (golf pages, Facebook, MBTI forums) for the exact-phrase queries '\"Uniza Lifecare\" CIN GST', '\"Uniza Healthcare\" LLP GST India' and '\"UNIZA LIFECARE\"'. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown' - no registry evidence of manufacturing plant, GST turnover or trade activity was obtained. NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established; per project rules rejection requires positive evidence of one of those, and absence of retrievable data is not such evidence. Also note the declared HS 300490 (pharmaceuticals) contradicts industry_claimed 'Нефтегаз и химия' (oil & gas / chemicals) - per rule 3 this is not a rejection ground; the HS code should be corrected to the actual product code once the entity and its product line are confirmed. Recommended next step: re-run with working search/registry access (MCA master data, GST portal public search) to resolve which of the three claimed names is the real registered entity."
+}

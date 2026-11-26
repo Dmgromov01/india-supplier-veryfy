@@ -1,0 +1,18 @@
+{
+ "name_input": "SIGMAK LIFESCIENCES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты, Google — HTTP 429, Bing отдал нерелевантный кэш (рецепты), MCA (search.mca.gov.in) — DNS-ошибка, mca.gov.in — 403. Агрегаторы реестров (zaubacorp, thecompanycheck, instafinancials) — 403; tofler — 404 по поисковому URL. Ни одной записи реестра получить не удалось, поэтому все поля null: CIN/PAN/GSTIN/дата регистрации/статус MCA/выручка НЕ подтверждены и НЕ выдуманы. Важно: 'RUSHIRAJ SHIVAJI SAWANT' в поле legal_claimed — это имя физлица (вероятно, проприетор/подписант), а не название юрлица; форма собственности (sole proprietorship / partnership / Pvt Ltd) не установлена. Соответственно PAN-тип (4-й символ) определить нельзя. Роль отмечена 'unknown', а не 'trader'/'manufacturer', так как деятельность не подтверждена. Вердикт: НЕ отклонять — оснований для rejection (несуществование/ликвидация/банкротство) нет, они просто не проверены; компанию следует вернуть в очередь на повторную проверку при восстановлении доступа к MCA/GST-порталам. Заявленный HS 292249/293219/293629 (производные карбоновых кислот, гетероциклы, витамины) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилам это не основание для отклонения, код подлежит уточнению по фактической декларации."
+}

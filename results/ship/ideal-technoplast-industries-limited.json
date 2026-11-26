@@ -1,0 +1,8 @@
+{
+ "name_input": "IDEAL TECHNOPLAST INDUSTRIES LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. ImportKey pages for three slug variants (ideal-technoplast-industries-limited, ideal-technoplast-industries-ltd, ideal-technoplast-industries) returned only the paywalled shell text: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible on any of the three pages (source counter: 3 pages checked, 0 rows seen). Volza, Eximpedia and Trademo returned HTTP 403; no bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender, contract or annual-report split was accessible: the DuckDuckGo/searx search backends were unreachable (connection refused / timeout) and Bing returned only unrelated cached results (Ideal Credit Union, IDEAL Electrical, dictionary entries) for every query, so no source page was read. GST turnover: null (not public in retrieved sources).",
+ "note": "Verification incomplete, not negative. No traces of supplies found in the sources actually reachable, but this is a tooling failure (paywalls, 403s, dead search backends), not evidence of absence — hence 'unknown' rather than 'none_found'. Declared HS 392390 (plastic articles for conveyance/packing) is consistent with a 'technoplast' manufacturer profile but was not checked against any shipment record. Legal existence, CIN, PAN and revenue: null, not public in retrieved sources. Re-run with working search access (Volza/Eximpedia free views, Zauba, GeM/CPPP portal) before any verdict."
+}

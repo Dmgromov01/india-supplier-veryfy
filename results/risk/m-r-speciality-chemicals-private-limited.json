@@ -1,0 +1,9 @@
+{
+ "name_input": "M R Speciality Chemicals Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS null. Research was effectively blocked: the web_search backend returned 'Connection refused' on every attempt (2 tries), so no open-web sweep was possible. Direct reads: OFAC Sanctions List Search page loaded but is a JavaScript form — no query could be executed, so no SDN/Non-SDN screening result was obtained (this is NOT a clean bill of health). Indian Kanoon searched twice for the exact name in both spellings ('M R Speciality Chemicals' and 'M.R. Speciality Chemicals') — 'No matching results' both times, i.e. no reported judgments found under this exact name; caveat: Indian Kanoon does not index all district/consumer/NCLT matters, and name variants (e.g. 'MR Speciality', 'M R Specialty') were not tested. Zauba Corp and Instafinancials returned HTTP 403; Tofler search returned 404; Google returned HTTP 429; Bing ignored the quoted phrase and returned irrelevant results. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = not verified; Indian court cases with party role/status = not verified; regulator actions and negative news with dates = not verified; credit rating with date/status = not verified (no rating agency page reached); evidence of supplies to Russia or CIS = not verified. No claim in this record is sourced, and none should be read as an absence of risk. Per project rules this is not a rejection ground and no verdict is implied — the company stays in the base; recommend re-running the sanctions and litigation screens once search access is restored, and note that the name is highly generic (initials + 'Speciality Chemicals'), so screening must be done on the exact registered name plus CIN/PAN to avoid false positives and false negatives."
+}

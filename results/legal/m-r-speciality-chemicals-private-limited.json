@@ -1,0 +1,18 @@
+{
+ "name_input": "M R Speciality Chemicals Private Limited",
+ "legal_name": "M.R. SPECIALITY CHEMICALS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. All 10 tool calls failed to yield a verifiable record: DuckDuckGo search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned 404; tofler.in search returned 404; quickcompany.in timed out; Google returned HTTP 429; Bing returned only irrelevant generic results (query terms not honoured), so no usable hit was obtained. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — NOT verified, not 'not applicable'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rejection rules the company is NOT rejected; it stays in the base with role 'unknown' pending a re-check. PAN holder type cannot be derived because no PAN is public. Revenue figures are deliberately left null rather than estimated. Recommended next step: re-run against MCA master data / GST portal when the search backend is restored, and confirm whether the entity is a manufacturer or trader of HS 382319/382499 (fatty acids / chemical preparations) — HS codes are recorded as declared only and are not a rejection ground."
+}
