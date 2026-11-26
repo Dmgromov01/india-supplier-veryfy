@@ -1,0 +1,8 @@
+{
+ "name_input": "JR Sensing",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was ever rendered. All three ImportKey slug variants (jr-sensing, jr-sensing-and-electronics-tech, jr-sensing-electronics-tech) returned only the boilerplate template: \"Shipments available for JR SENSING, refreshed daily\" — a placeholder line, not a record. Rows actually seen: 0 of 0 (no counter, no date, no destination, no HS code, no B/L number).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, so no domestic-supply source could be located or read. Rows seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось, потому что (1) ImportKey по всем трём вариантам слага отдаёт пустой шаблон без единой записи и без счётчика строк, (2) volza.com, eximpedia.app, trademo.com вернули HTTP 403, importgenius.com — JS-челлендж, (3) поисковик (searx) был недоступен на протяжении всей проверки, поэтому ни одна страница с данными о компании не была найдена. Юрлицо \"JR SENSING AND ELECTRONICS TECH\" в реестрах не проверялось (реестры вне области задачи), CIN/PAN/выручка — null, не выдумывались. Заявленный HS 902620 (приборы для измерения давления) ни подтверждён, ни опровергнут: фактических кодов в записях не видели. Статус по обоим направлениям — unknown, а не none_found, поскольку отсутствие данных здесь означает недоступность источников, а не отсутствие отгрузок. Требуется повторная проверка при работающем поиске или платном доступе к таможенным данным."
+}

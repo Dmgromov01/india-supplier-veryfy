@@ -1,0 +1,8 @@
+{
+ "name_input": "Koyna Exim LLP",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/koyna-exim-llp (and variant /koyna-exim) both returned only the paywalled template shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible, no date, destination, HS code or B/L number displayed. Source counter: 2 importkey pages fetched, 0 records seen. volza, eximpedia, trademo returned HTTP 403; importgenius returned a JavaScript challenge page. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. zaubacorp.com returned HTTP 403, so even the LLP's registration/incorporation data could not be confirmed. Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, так как все источники таможенных данных закрыты платно или блокируют доступ (403 / JS challenge), а поисковик был недоступен в этой сессии. Статус по обоим направлениям — unknown, а не none_found: отсутствие данных не равно отсутствию отгрузок. Заявленный HS 071040 (замороженная кукуруза, гл. 7) не проверен и не корректировался — оснований для HS-отклонения нет по правилу 3. Роль (manufacturer/trader) не определена. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступном источнике (ImportKey с триалом, Volza, DGFT/GST-портал) — компания остаётся в базе как непроверенная."
+}

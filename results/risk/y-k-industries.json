@@ -1,0 +1,9 @@
+{
+ "name_input": "Y K Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no data could be retrieved. Tooling failure: the web_search (DuckDuckGo/searx) backend returned 'Connection refused' on every attempt, and direct fetches of Google (HTTP 429 Too Many Requests) and DuckDuckGo HTML (timeout) failed. Bing was reachable but ignored the exact-phrase query and returned only unrelated generic results (YouTube, Wiktionary, dictionary.com), i.e. no exact-match hits for 'Y.K. Industries' were surfaced. Consequently NO verification was possible for: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role and status), regulator actions, negative news, credit rating (agency/date/status), or any evidence of supplies to Russia or the CIS. All fields are null because nothing is public/retrievable in this session — these are NOT negative findings and must not be read as 'clean'. The name 'Y.K. Industries' is a very common Indian trade name (multiple unrelated entities likely share it), so any future hit must be matched to a specific legal identity (CIN/PAN/registered address) before being attributed to this supplier. Recommended next step: re-run with a working search backend and a disambiguating identifier (CIN, GSTIN, PAN, or registered address); also check OpenSanctions, the U.S. Treasury SDN search, the BIS Entity List, e-courts/NJDG and the IBBI insolvency database directly. Per project rules, sanctions/court/criminal matters are never rejection grounds regardless of outcome."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "BAJRANG TECH CORP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты на всех запросах; Google отдал HTTP 429; Bing игнорировал кавычки и по запросам \"Bajrang Tech Corp\" (в т.ч. с site:zaubacorp.com / tofler.in / indiamart.com и с 'India company GST director') выдавал только нерелевантные результаты про 'Bajrang Baan' / 'Bajrang Dal' — ни одного упоминания искомого юрлица. Прямой доступ к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) невозможен: это JS-приложение, результаты поиска через http_get не отдаются, поэтому санкционный скрининг фактически не выполнен. По всем полям (sanctions_hit, court_cases, rating, news_risk, rf_supply) — null: данных нет, выдумывать не стал. ВАЖНО: отсутствие результатов НЕ означает отсутствия санкций/судов/связей с РФ — это означает, что проверка не проведена. Требуется повторный прогон при работающем поиске и ручной скрининг по OFAC SDN/Consolidated, UN, EU, UK OFSI, BIS Entity List, eCourts/NJDG, Zauba Corp/Tofler/MCA, а также по реестрам импорта РФ/ЕАЭС. Дополнительно: заявленный профиль ('Продукты питания и FMCG', HS 340249 — мыло/ПАВ) выглядит несогласованным, но это вне моей роли (HS не проверяю). Правило 2 соблюдено: оснований для отклонения по санкциям/судам нет и не зафиксировано."
+}
