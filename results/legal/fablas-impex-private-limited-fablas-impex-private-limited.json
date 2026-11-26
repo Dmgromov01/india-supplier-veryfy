@@ -1,0 +1,18 @@
+{
+ "name_input": "FABLAS IMPEX PRIVATE LIMITED; FABLAS IMPEX PRIVATE LIMITED",
+ "legal_name": "FABLAS IMPEX PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; Google returned HTTP 429; Bing returned only unrelated results (GTA streams, Walmart store locators, Shanghai Tower) for exact-phrase queries on the company name, i.e. no indexed registry page surfaced. Direct fetches of registry aggregators were blocked: zaubacorp.com 403, thecompanycheck.com 403, tofler.in 403, instafinancials.com 403; MCA master-data page (mca.gov.in) 403; company website fablasimpex.com failed TLS (SSL UNEXPECTED_EOF). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT verified, not 'not existing'. PAN claimed by input (AAACF8092L) is unverified: format is structurally valid (5 letters + 4 digits + 1 letter) and the 4th character 'C' would denote a COMPANY holder, but the string was not confirmed against any public record, so it is not reported as confirmed. No audited accounts or official filings were accessible, so FY25/FY26 revenue is null per rules (no invented figures). Role left 'unknown' - no evidence of manufacturing plant, GST turnover pattern or trade activity was retrievable. Per project rules this company is NOT rejected: absence of accessible data is not proof of non-existence, strike-off, liquidation or bankruptcy. Recommended action: re-run verification when search backend is restored, or query MCA V3 portal / GST public search directly by PAN AAACF8092L and by name; also confirm whether the entity is registered in Uttar Pradesh as claimed or in another state (e.g. Delhi/Noida-Gautam Buddha Nagar, which is common for 'Impex' traders). Declared HS 392490/630710 (household plastics / floor cloths-wipes) is consistent with a trading/importer profile but is not evidence of anything; HS is not a rejection ground in any case."
+}

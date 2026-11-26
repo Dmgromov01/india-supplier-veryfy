@@ -1,0 +1,9 @@
+{
+ "name_input": "Midas agro foods limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. Research could not be completed: the web_search backend returned 'Connection refused' on every attempt (searx unavailable), DuckDuckGo HTML timed out, Google returned HTTP 429, and Bing returned irrelevant/garbled results that did not contain the company name. Indian registry aggregators (zaubacorp.com, tofler.in) returned HTTP 403, so no MCA/CIN-linked record could be read. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded, but it is a JavaScript search form and no query could be executed via http_get, so no SDN/Non-SDN screening result was actually obtained — sanctions_hit is therefore null, NOT a confirmed 'no hit'. Likewise UN, EU, UK OFSI and BIS Entity List screens were not performed. No Indian court records (eCourts, NCLT, High Court) were retrieved; no credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork) was retrieved; no negative news was retrieved; no evidence of supplies to Russia or the CIS was retrieved. Per project rules, no data was invented and no rejection is proposed — the company is retained in the database. IMPORTANT: the claimed PAN 'AMNPS7760C' has a 4th character 'P', which denotes an individual (person) PAN, not a company PAN (5th character should be a letter identifying the entity type and the 4th character for a company is typically 'C'); this is a data-quality flag for the legal-identity team, not a risk finding. RECOMMENDATION: re-run this risk screen when search infrastructure is restored, and manually query OFAC SDN/Non-SDN, EU consolidated list, UK OFSI, UN Security Council list, BIS Entity List, eCourts/NCLT, and credit rating agency databases using the exact legal name 'MIDAS AGROFOODS LIMITED' and any confirmed CIN."
+}

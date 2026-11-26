@@ -1,0 +1,18 @@
+{
+ "name_input": "INDIA GLYCOLS LIMITED",
+ "legal_name": "India Glycols Limited",
+ "cin_llpin": null,
+ "pan": "AAACI7246P",
+ "pan_holder_type": "Company (4th character 'C' = company; PAN format valid: 5 letters + 4 digits + 1 letter)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Uttarakhand (registered office: A-1, Industrial Area, Bazpur Road, Kashipur, Udham Singh Nagar, Uttarakhand – 244713, per company's own contact page)",
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": 3767,
+ "revenue_fy26_cr": 4211,
+ "revenue_source": "Screener.in annual P&L (standalone, Rs crore, sourced from company's audited/BSE filings): FY2024-25 sales 3,767; FY2025-26 sales 4,211 (consolidated: 3,768 / 4,211). Not read from the audited PDF itself — figures taken from the aggregator page https://www.screener.in/company/INDIAGLYCO/",
+ "note": "Entity exists and is listed (BSE: 500201, NSE: INDIAGLYCO), so no rejection ground. PAN AAACI7246P matches the claimed value and its 4th character 'C' indicates a company holder. State mismatch: input claims Uttar Pradesh, but the company's own contact page (https://www.indiaglycols.com/contact-us/) gives the REGISTERED office as Kashipur, Udham Singh Nagar, Uttarakhand; Noida (Uttar Pradesh) is only the head office and Kolkata the corporate office — so the registered-office state is Uttarakhand, not UP. CIN, GSTIN, GST status, exact incorporation date and MCA status could NOT be verified: searx web_search was down (connection refused) and registry aggregators (zaubacorp, thecompanycheck, moneycontrol) returned HTTP 403; MCA/GST portals were not reachable. CIN therefore null (not invented); note that the widely cited CIN pattern for this company is L25199UP1983PLC005861 but this was NOT confirmed from a primary source, so it is not entered as a claim. Role: manufacturer — the company operates 3 manufacturing units (own site) producing glycols, glycol ethers, acetates, bio-polymers, natural gums, potable spirits, industrial gases. HS codes declared (130232, 290531, 290943, 291531) are consistent with its actual product mix (natural gums/mucilages, ethylene glycol, monobutyl ethers of ethylene glycol, ethyl acetate), so no HS correction is needed; industry label 'food & FMCG' is only partly accurate — core business is bio-based specialty chemicals and potable spirits, with food ingredients as one application segment. Revenue figures are standalone sales from an aggregator of official filings, not directly from the audited annual report PDF."
+}

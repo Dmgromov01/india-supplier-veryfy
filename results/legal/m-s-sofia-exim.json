@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SOFIA EXIM",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Uttar Pradesh",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Ни один реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused'; Bing по запросам \"SOFIA EXIM\" + \"MOHD ASIF\" + Uttar Pradesh выдавал только нерелевантные результаты (Sofia University, София Болгария) — совпадений по компании нет. Прямые запросы к реестрам заблокированы: zaubacorp.com — HTTP 403, tofler.in — HTTP 403, mca.gov.in — HTTP 403, masterindia.com — HTTP 401. Таким образом, ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус не подтверждены публично доступной записью. Формулировка 'M/S SOFIA EXIM' с указанием 'MOHD ASIF' в поле legal_claimed типична для ИП/проприетарного концерна (sole proprietorship) — у таких лиц CIN отсутствует по определению, а PAN имеет 4-й символ 'P' (individual). Однако это вывод из формата названия, а НЕ подтверждённый факт: PAN-строка не получена, поэтому pan_holder_type = null. Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25 и FY26 не найдена: для проприетарных фирм аудиторская отчётность в MCA не подаётся, публичных финансовых данных нет — null, не выдумывалось. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется повторная проверка при восстановлении доступа к GST-порталу (services.gst.gov.in) и MCA-поиску, либо запрос GSTIN/PAN у поставщика напрямую."
+}

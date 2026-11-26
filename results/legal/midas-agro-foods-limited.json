@@ -1,0 +1,18 @@
+{
+ "name_input": "Midas agro foods limited",
+ "legal_name": "MIDAS AGROFOODS LIMITED (as claimed in input; exact MCA-registered spelling NOT verified)",
+ "cin_llpin": null,
+ "pan": "AMNPS7760C (as claimed in input; NOT verified against any public record)",
+ "pan_holder_type": "Individual / proprietorship — 4th character 'P' in the claimed PAN denotes a PERSON, not a company. A company PAN must have 'C' as the 4th character. This is an internal inconsistency: the claimed PAN cannot belong to a limited company.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data obtained. All search tooling failed during this session: DuckDuckGo/searx backend returned 'Connection refused'; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML/lite endpoints timed out; Bing returned only generic 'Midas' (US auto-repair chain) results with query terms ignored; Marginalia returned a bot-check page. Consequently CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — NOT because they were checked and absent, but because they could not be retrieved. Do not treat nulls here as evidence of non-existence. Two red flags to resolve before acceptance: (1) PAN 4th character 'P' indicates an individual/proprietorship holder, which is incompatible with a 'LIMITED' company — either the PAN or the legal form in the input is wrong; (2) the input name 'Midas agro foods limited' vs claimed 'MIDAS AGROFOODS LIMITED' differ in spacing and must be reconciled against the MCA master data. Per project rules, no rejection is proposed: there is no evidence of strike-off, liquidation or bankruptcy, and absence of data is not a rejection ground. Recommended next step: manual lookup on the MCA master-data portal by company name, and GSTIN verification on the GST taxpayer-search portal, then re-run this record. Role cannot be classified (manufacturer vs trader) without the MCA NIC/activity code. Revenue FY25/FY26: no audited accounts or official filings located, so null per rule 4 — no figures estimated."
+}

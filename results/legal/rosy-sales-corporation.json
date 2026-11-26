@@ -1,0 +1,18 @@
+{
+ "name_input": "Rosy Sales Corporation",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": "AAFPA1505K",
+ "pan_holder_type": "P — individual (natural person). 4th character 'P' in the claimed PAN AAFPA1505K denotes an individual, which is consistent with a sole proprietorship / individual-run trading concern rather than a company. NOTE: PAN is taken from the input as claimed; it could NOT be independently verified against any public source in this session.",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Delhi",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED — no evidence of non-existence, strike-off, liquidation or bankruptcy was found; equally, no registry record was found at all. Verification was blocked by tooling: the DuckDuckGo search backend returned 'Connection refused' on every query; Bing returned only irrelevant generic results for the exact-phrase queries \"Rosy Sales Corporation\" + Delhi/GSTIN/PAN and for the PAN \"AAFPA1505K\"; Google returned HTTP 429; Zaubacorp returned HTTP 403 on both the company-search and direct-company URLs. Consequently NO public profile was retrieved, so CIN/LLPIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not because they are absent, but because they were not retrievable. Revenue FY25/FY26 are null: no audited accounts or official filings were located, and no numbers are estimated. Role is 'unknown': the claimed PAN structure (4th char 'P' = individual) points to a proprietorship, which in Indian practice is typically a trader/distributor rather than a manufacturer, but this is an inference from the PAN format only, not a verified finding. The input's 'legal_claimed' field contains a person's name (NIRMAL ARORA), not a legal entity name, which is consistent with a proprietorship — the exact legal entity name therefore cannot be stated as a company name. The declared HS 401699 (articles of vulcanised rubber, other) is also inconsistent with the claimed industry 'oil & gas and chemicals'; per project rules this is NOT a rejection ground — the company stays in the base and the HS code should be corrected to the factual one once the actual product line is established. Recommended next step: re-run verification when the search backend is restored, or obtain the GSTIN directly from the supplier and check it on the GST portal."
+}

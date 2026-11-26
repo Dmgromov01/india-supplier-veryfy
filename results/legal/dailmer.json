@@ -1,0 +1,18 @@
+{
+ "name_input": "Dailmer",
+ "legal_name": "DAIMLER INDIA COMMERCIAL VEHICLES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "West Bengal",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕГИСТРАЦИОННЫЕ ДАННЫЕ НЕ ПОДТВЕРЖДЕНЫ — источники недоступны. Все попытки верификации провалились: web_search вернул 'Connection refused' (searx backend down); zaubacorp.com и thecompanycheck.com — HTTP 403; instafinancials.com отдал только маркетинговую страницу без карточки компании; mca.gov.in MDS — HTTP 403; wikipedia.org — HTTP 429; Bing по всем запросам (CIN, GSTIN, PAN, штат) выдавал только общие результаты о Daimler Truck AG / Mercedes-Benz Group, без карточки индийского юрлица. Поэтому CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка — null, не выдуманы. ВАЖНЫЕ НЕСООТВЕТСТВИЯ ВО ВХОДНЫХ ДАННЫХ, требующие перепроверки вручную: (1) PAN 'AABCD0836D' — 4-й символ 'C' означает тип держателя 'Company' (формат корректен для юрлица), но принадлежность именно этому юрлицу НЕ подтверждена; (2) штат: заявлен West Bengal, тогда как Daimler India Commercial Vehicles, насколько известно из открытых источников, базируется и имеет завод в Орагадам, Ченнаи, Тамилнад — расхождение по штату, вероятно, ошибка ввода; (3) HS-коды 842139/848110/848120/848130 (клапаны, фильтры, редукционные клапаны) не соответствуют профилю производителя грузовиков BharatBenz — по правилам HS-несоответствие НЕ является основанием для отклонения, код подлежит исправлению на фактический; (4) название во входе 'Dailmer' — опечатка. Роль 'manufacturer' указана как предварительная оценка по общеизвестному профилю группы (производство грузовиков и автобусов BharatBenz), но НЕ подтверждена выпиской MCA/MOA. ВЕРДИКТ: не отклонять (нет подтверждения ликвидации/банкротства/отсутствия юрлица), но статус — 'заявлено, не подтверждено'; требуется повторная проверка при восстановлении доступа к MCA/Zauba/GST-порталу."
+}
