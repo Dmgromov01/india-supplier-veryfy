@@ -1,0 +1,9 @@
+{
+ "name_input": "RUCHI PETRO PLAST PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — INCOMPLETE, NOT A CLEAN BILL. Tooling failure: the web_search backend (DuckDuckGo/searx) returned 'Connection refused' on every attempt, so no open-web sweep of OFAC SDN / UN / EU / UK / BIS Entity List, negative news or credit-rating sources could be performed. Direct fetches that did work: Indian Kanoon searched for 'Ruchi Petro Plast' and for the broader string 'Ruchi Petro' — both returned 0 matching judgments (indiankanoon.org, checked today), so no Indian court case naming this entity was found in that database; this is a negative result from one database only, not proof of clean litigation history (lower courts, NCLT, DRT and arbitration are not covered by Indian Kanoon). Zauba Corp, TheCompanyCheck and Google all returned HTTP 403/429, so no registry, rating-agency or sanctions-screening page could be read. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = NOT PUBLICLY VERIFIED BY ME, not 'none found'. No evidence of supplies to Russia or the CIS was located, but absence of evidence here is an artefact of the failed search, not a finding. No credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork) could be retrieved. Per project rules this company is NOT rejected: nothing indicates non-existence, liquidation or bankruptcy, and sanctions/court matters would in any case not be rejection grounds. Recommended action: re-run this risk pass once the search backend is restored, specifically screening the exact registered name plus any CIN against OFAC SDN, EU consolidated, UK OFSI and BIS Entity List, and checking NCLT/DRT and rating-agency sites."
+}

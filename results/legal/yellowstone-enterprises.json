@@ -1,0 +1,18 @@
+{
+ "name_input": "YELLOWSTONE ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; google.com returned HTTP 429; duckduckgo.com timed out; bing.com returned only irrelevant results (Yellowstone TV series / Yellowstone National Park) for all three targeted queries, including site-restricted queries against zaubacorp/thecompanycheck/tofler. thecompanycheck.com search page loaded only its generic marketing homepage, no company record. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed from any public source. All fields set to null per rule 4 (do not invent). IMPORTANT: this is NOT a rejection - per project rules a company may only be rejected if the entity is proven non-existent, struck off, liquidated or bankrupt, and no such proof exists here. The name 'YELLOWSTONE ENTERPRISES' is a generic trade-style name with no legal suffix (no Pvt Ltd / LLP), so it is plausibly a proprietorship or partnership firm, which would have no CIN at all and would only be traceable via GSTIN/Udyam - and no GSTIN was supplied in the input (pan_claimed and state_claimed were both empty), leaving no unique identifier to search on. Role provisionally 'unknown'; declared HS 380894 (disinfectants/chemical preparations) is not evidence of manufacturing capability and is not a basis for rejection per rule 3. Recommended next step: re-run with a GSTIN or PAN, or with the registered-office state, and with a working search backend; alternatively query the MCA portal directly by name and the GST portal by GSTIN."
+}

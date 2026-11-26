@@ -1,0 +1,8 @@
+{
+ "name_input": "YELLOWSTONE ENTERPRISES",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/yellowstone-enterprises (also /yellowstone-enterprise and /yellow-stone-enterprises): page renders only the boilerplate template — 'Shipments available for YELLOWSTONE ENTERPRISES, refreshed daily' — with no shipment table, no date, no destination, no HS code and no bill-of-lading number. Rows actually seen: 0 of 0. No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. web_search returned no results (backend error: 'searx: <urlopen error [Errno 111] Connection refused>'), so no domestic-supply source could be retrieved. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Все три варианта слага на ImportKey отдали пустой шаблон (0 записей), вторичные источники (volza, eximpedia, trademo) вернули HTTP 403, поисковик был недоступен, поэтому проверка неполная: статус 'unknown', а не 'none_found' — отсутствие данных здесь означает недоступность источников, а не доказанное отсутствие отгрузок. Заявленный HS 380894 (дезинфектанты/пестициды) ничем не подтверждён и не опровергнут; по правилу 3 несоответствие HS не является основанием для отклонения. Выручка: null (не публична/не найдена). Объём экспорта: null. Юрлицо, CIN, PAN, штат — null, публично не подтверждены. Требуется повторная проверка при доступном поиске и платном доступе к таможенным данным."
+}

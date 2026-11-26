@@ -1,0 +1,18 @@
+{
+ "name_input": "ASPEN BIOPHARMA LABS PRIVATE LIMITED",
+ "legal_name": "ASPEN BIOPHARMA LABS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: the web_search backend was unavailable (connection refused) and every public registry aggregator attempted (zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials.com, google.com/search, duckduckgo html/lite) returned HTTP 403/429/timeout. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable here, and no values were guessed. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role cannot be determined from registry sources alone and is set to 'unknown'. No rejection basis established: absence of retrievable records is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, so the company is retained in the database pending re-verification. Note on input: declared HS 293399 (heterocyclic compounds) is broadly consistent with a 'biopharma labs' name, but HS is not a rejection criterion per project rules; industry_claimed 'Нефтегаз и химия' and state_claimed (empty) remain unverified. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored."
+}

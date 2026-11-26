@@ -1,0 +1,18 @@
+{
+ "name_input": "SARAF TRADING CORPORATION PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: web_search вернул 'Connection refused' (бэкенд поиска недоступен); DuckDuckGo HTML — timeout; Google — HTTP 429; Bing отдал нерелевантную выдачу (Statista, Microsoft, Wikipedia) без единого релевантного сниппета. Прямые запросы к реестровым агрегаторам заблокированы или пусты: zaubacorp.com — 403, thecompanycheck.com — 403, falconebiz.com — 403, instafinancials.com — 404, tofler.in — 404 (угаданный CIN не подтверждён), quickcompany.in — timeout, mca.gov.in (Master Data) — 403. ВАЖНО: CIN 'U51201KL1994PTC007896' в моих запросах был ГИПОТЕЗОЙ для проверки URL и НЕ подтверждён ни одним источником — в поле cin_llpin его нет, использовать его нельзя. Юрлицо с названием 'SARAF TRADING CORPORATION PRIVATE LIMITED' в открытых источниках не подтверждено и не опровергнуто; отклонять по правилу 3 нельзя (нет доказательств несуществования/ликвидации/банкротства), поэтому статус — 'не проверено', а не 'rejected'. Роль (manufacturer/trader) не установлена. PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус, выручка FY25/FY26 — null, не выдумывать. Заявленный HS 090240 (чай) и отрасль 'Продукты питания и FMCG' — со стороны заявителя, реестром не подтверждены; по правилу 3 несоответствие HS не является основанием для отклонения. Требуется повторный прогон при доступном поиске/реестре (MCA Master Data, GST-портал) либо ручная проверка по названию и штату."
+}
