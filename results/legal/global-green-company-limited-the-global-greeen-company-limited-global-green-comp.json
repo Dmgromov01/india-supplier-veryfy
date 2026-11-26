@@ -1,0 +1,18 @@
+{
+ "name_input": "GLOBAL GREEN COMPANY LIMITED; THE GLOBAL GREEEN COMPANY LIMITED; Global Green Company Ltd",
+ "legal_name": "GLOBAL GREEN COMPANY LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: no source could be read in this session. web_search returned 'searx: Connection refused' on both queries; direct fetches of zaubacorp.com (company page and search page) and thecompanycheck.com returned HTTP 403; instafinancials.com returned only its generic landing page with no company data; tofler.in returned HTTP 404 for the guessed URL; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant generic results (globle-game, globalindustrial etc.), i.e. the exact-phrase query was not honoured. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — NOT because they are non-public, but because no page could be retrieved. No CIN, PAN or GSTIN is guessed or inferred. Role left as 'unknown' (no evidence read on manufacturing vs trading). Revenue FY25/FY26 null: no audited accounts or MCA filing was accessible. Per project rules the company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy was not established; absence of data is not a rejection ground. Note on the input: the three name variants are treated as one entity; 'THE GLOBAL GREEEN COMPANY LIMITED' contains a typo (triple E) and must be confirmed against MCA before use. Declared HS 200110 (preserved vegetables/fruit, prepared or preserved by vinegar) is plausible for a food/FMCG firm but was not checked against any filing — per rules HS mismatch is not a rejection ground and the code is to be corrected to the factual one. Action required: re-run with working search/fetch access (MCA master data, GST public search) to fill CIN, PAN, GSTIN, incorporation date, state and audited revenue."
+}

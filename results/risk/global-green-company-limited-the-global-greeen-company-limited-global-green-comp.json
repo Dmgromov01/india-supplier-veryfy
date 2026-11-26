@@ -1,0 +1,9 @@
+{
+ "name_input": "GLOBAL GREEN COMPANY LIMITED; THE GLOBAL GREEEN COMPANY LIMITED; Global Green Company Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable sources obtained. The web_search tool (DuckDuckGo/searx) returned 'Connection refused' on every attempt; direct fetches of Google, Brave and DuckDuckGo HTML endpoints returned HTTP 429 / timeouts; Bing returned identical irrelevant cached results (globle-game.com, globalindustrial.com, cbp.gov Global Entry) for every query, i.e. the query was not actually executed. The OFAC Sanctions List Search page loaded but is a JavaScript form and returned no lookup results via plain HTTP GET, so no SDN/non-SDN screening was actually performed. Therefore: sanctions exposure = NOT SCREENED (null, not 'clear'); Indian court cases (party role/status) = NOT CHECKED (null); regulator actions and negative news = NOT CHECKED (null); credit rating and date = NOT CHECKED (null); evidence of supplies to Russia/CIS = NOT CHECKED (null). None of these nulls should be read as a negative finding - they mean the check could not be run. Per project rules this company is not rejected on this basis; it must be re-queued for risk screening once search access is restored. Note also that the input itself contains a spelling variant ('GREEEN') and no PAN/CIN/state, so name-based screening would in any case need the legal identity confirmed by the identity/HS researcher before a sanctions hit or court record could be attributed with confidence."
+}

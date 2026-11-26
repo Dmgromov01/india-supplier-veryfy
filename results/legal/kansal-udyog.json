@@ -1,0 +1,18 @@
+{
+ "name_input": "Kansal Udyog",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was non-functional during this run (backend connection refused), and every direct registry/profile source attempted returned an error or a gated page: zaubacorp.com (HTTP 403), instafinancials.com (HTTP 403), mca.gov.in/mcafoportal (HTTP 403), thecompanycheck.com (only a marketing landing page, no search results), gstinsearch.in (DNS resolution failure), google.com (HTTP 429), duckduckgo.com (timeout), bing.com (returned irrelevant results, no match for the company). Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be established from a public source. Nothing has been inferred or invented. Note on the input: 'PAWAN KUMAR KANSAL' is a person's name, not a legal entity name, and no state was claimed, so state_registered vs state_claimed cannot be compared. The declared HS codes 570250/570500 are textile floor coverings (carpets/rugs), which does not match the claimed industry 'food and FMCG' - per project rules this is NOT a rejection ground; the company stays in the database and the HS code should be corrected to the actual one, but the actual code cannot be confirmed without a verified product/registry record. Role is left as 'unknown' rather than guessed. Verdict: NOT rejected - rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found; the entity's existence is simply unverified in this run. Recommended action: re-run verification when the search backend is restored, or obtain the GSTIN/CIN directly from the supplier, then confirm on the MCA portal and the GST taxpayer search."
+}
