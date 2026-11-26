@@ -1,0 +1,18 @@
+{
+ "name_input": "LUNA TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "LUNA TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on both queries, and every registry/profile source attempted was inaccessible: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com and quickcompany.in returned HTTP 404, mca.gov.in returned HTTP 403, duckduckgo.com timed out, and Google/Bing returned only irrelevant results (Amazon Luna, Luna Community College, etc.) with no Indian corporate registry hit. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null — NOT because they do not exist, but because no public source could be read. No figures were estimated or invented. Role is recorded as 'unknown' (no evidence of manufacturing or trading activity obtained). state_claimed was empty in the input, so no state mismatch can be assessed. Verdict: NOT rejected — the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it simply remains unverified and requires a re-run when registry access (MCA master data / Zauba / Tofler) is available. Declared HS 848590 (machinery parts) is noted but not used as a rejection ground per project rules."
+}

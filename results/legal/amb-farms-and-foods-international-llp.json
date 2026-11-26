@@ -1,0 +1,18 @@
+{
+ "name_input": "AMB FARMS AND FOODS INTERNATIONAL LLP",
+ "legal_name": "AMB FARMS AND FOODS INTERNATIONAL LLP (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved, so nothing is asserted. Tooling failures: the web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; DuckDuckGo HTML returned 403; Google returned only a redirect/consent page; Bing ignored the quoted phrase and returned generic 'AMB' disambiguation results (Wikipedia, Axe Murder Boyz, dictionary entries) with no Indian registry hit for 'AMB FARMS AND FOODS INTERNATIONAL LLP'. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder-type test), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, not 'absent'. Revenue FY25/FY26 null: no audited accounts or official filings were located. Role left as 'unknown' rather than guessed: the 'LLP' suffix in the claimed name is a legal-form indicator, not evidence of manufacturing vs trading activity, and no MCA/GST record was read to confirm the entity even exists under this exact name. Per project rules this is NOT a rejection: rejection requires positive proof that the entity does not exist, is struck off, liquidated or bankrupt, and absence of retrievable records is not such proof. Declared HS codes 071140 / 090421 / 200570 (dried vegetables, dried chillies, preserved tomatoes) were not assessed against any verified business activity. Recommended next step: re-run against MCA Master Data / a GST search endpoint once a working search backend or an unblocked registry source is available, and confirm the exact LLPIN before any further processing."
+}

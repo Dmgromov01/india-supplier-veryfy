@@ -1,0 +1,18 @@
+{
+ "name_input": "NIAZ PROCESS PACK",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один источник не подтвердил существование юрлица. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused'; Bing по запросам \"NIAZ PROCESS PACK\", \"Niaz Process Pack\" + GST/proprietor/packaging machine выдавал только нерелевантные результаты (microsoft.com, espn.com) — совпадений по названию нет. Прямые запросы к реестрам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — только лендинг без результатов поиска, indiamart.com — HTTP 429. Входные данные указывают, что 'NIAZ PROCESS PACK' — вероятно торговое обозначение/проприетарство (в поле legal_claimed стоит имя физлица 'NIAZ MOHAMMED'), а не компания с CIN; для проприетарства CIN/LLPIN не существует, а PAN/GSTIN физлица публично не раскрываются. Все поля оставлены null — данных нет, ничего не выдумано. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования при недоступности реестров не равно доказанному отсутствию юрлица. Требуется повторная проверка при доступных MCA/GST-порталах или запрос PAN/GSTIN у поставщика. Роль 'unknown' — по HS 842230 (оборудование для наполнения/укупорки) заявлен производитель упаковочного оборудования, но это не подтверждено."
+}

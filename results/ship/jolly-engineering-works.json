@@ -1,0 +1,8 @@
+{
+ "name_input": "JOLLY ENGINEERING WORKS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/jolly-engineering-works (and slug variant .../jolly-engineering-works-rajesh-bhargava) returned only the paywalled template: \"Shipments available for JOLLY ENGINEERING WORKS, refreshed daily\" — 0 shipment rows rendered, 0 dates, 0 destinations, 0 HS codes, 0 B/L numbers. Source counter: 2 importkey pages opened, 0 records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) returned \"Connection refused\" on both queries, so no domestic-supply page could be located; volza, eximpedia, trademo returned HTTP 403 and importgenius returned a JavaScript challenge — 0 domestic records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались закрыты (importkey — платный шаблон без строк, volza/eximpedia/trademo — 403, importgenius — JS-челлендж), а поисковик был недоступен, поэтому ни экспортных записей (дата/направление/HS/B-L), ни внутренних GST/GeM-подтверждений получить не удалось. Заявления сайта/каталога фактом не считаются, поэтому статус по обоим пунктам — unknown, а не declared_only. Заявленные HS 441920/830160/830210 (строительная фурнитура/крепёж) не подтверждены ни одной таможенной строкой; вопрос соответствия HS оставлен открытым, компания не отклоняется. Юрлицо, CIN, PAN, выручка и объём экспорта — null (не публичны / не найдены), цифры не выдумывались. Требуется повторная проверка при доступном поиске или платном доступе к таможенным данным."
+}

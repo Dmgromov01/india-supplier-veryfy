@@ -1,0 +1,9 @@
+{
+ "name_input": "LUNA TECHNOLOGIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML/lite endpoints timed out; Bing returned only cached generic 'Luna' results (Amazon Luna, Wikipedia, Luna Community College) and ignored all quoted/operator query terms, so no India-specific hit was ever surfaced; Zauba Corp returned HTTP 403; Tofler search URL returned its own 404 page; MCA search host (search.mca.gov.in) did not resolve; OFAC Sanctions List Search loaded only its landing page and its query interface is JS/POST-driven, so no name screening could actually be executed. Consequently NOTHING is asserted about this company: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = null (not screened, not cleared); Indian court cases with party role and status = null (no source retrieved); regulator actions and negative news with dates = null; credit rating with date and status = null; evidence of supplies to Russia or CIS = null. Per project rules no values are invented and no negative inference is drawn from the absence of results - absence of a hit here reflects failed retrieval, not a clean record. IMPORTANT CAVEAT for the analyst: 'Luna Technologies Private Limited' is a highly generic name and multiple unrelated Indian entities plausibly share it; without a CIN/PAN or registered state (both blank in the input) any future hit cannot be attributed to this supplier with confidence. Recommend re-running this check when search access is restored, and requesting CIN/PAN/state from the supplier to disambiguate before any sanctions or litigation conclusion is recorded. No rejection ground identified and none implied."
+}

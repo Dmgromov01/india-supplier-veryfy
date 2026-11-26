@@ -1,0 +1,45 @@
+{
+ "name_input": "M/S SAVEER BIOTECH LTD; SAVEER BIOTECH LTD.; SAVEER BIOTECH LTD; SAVEER BIOTECH LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case": "ARB.P. 289/2020 — National Research Development Corporation (NRDC, Dept. of Scientific & Industrial Research, GoI) v. M/s Saveer Biotech Ltd",
+   "role": "Respondent",
+   "status": "Order dated 26.03.2021 (Justice C. Hari Shankar); director Sanjay Sudan appeared for the company",
+   "source": "https://indiankanoon.org/search/?formInput=Saveer%20Biotech%20National%20Research%20Development%20Corporation"
+  },
+  {
+   "court": "Delhi High Court",
+   "case": "OMP (ENF.) (COMM.) 268/2024 / EX.APPL.(OS) 997/2026 — NRDC & Anr. v. M/s Saveer Biotech Ltd (enforcement of award; company shown as 'Judgment Debtor')",
+   "role": "Judgment Debtor / Respondent",
+   "status": "Pending; orders dated 15.03.2024, 13.12.2024, 20.11.2025, 17.11.2026 (Justice Prateek Jalan)",
+   "source": "https://indiankanoon.org/search/?formInput=Saveer%20Biotech%20National%20Research%20Development%20Corporation"
+  },
+  {
+   "court": "Delhi High Court",
+   "case": "OMP (COMM) 36/2025 & I.As. 1533-1534/2025 — M/s Saveer Biotech Ltd v. NRDC & Anr. (company as petitioner, challenging award)",
+   "role": "Petitioner",
+   "status": "Pending; orders 20.11.2025, 20.04.2026, 29.04.2026, 22.09.2026, 17.11.2026",
+   "source": "https://indiankanoon.org/search/?formInput=Saveer%20Biotech%20National%20Research%20Development%20Corporation"
+  },
+  {
+   "court": "Patna High Court",
+   "case": "Civil Writ Jurisdiction Case No. 3660 of 2013 — M/s Saveer Biotech Limited (through Director Sudan Netr Paul) v. The State of Bihar & Ors",
+   "role": "Petitioner",
+   "status": "Order dated 02.08.2016 (Justice Vikash Jain); outcome not read",
+   "source": "https://indiankanoon.org/search/?formInput=Saveer%20Biotech"
+  },
+  {
+   "court": "Income Tax Appellate Tribunal, Delhi",
+   "case": "ITA No. 6952/Del/2017 — ACIT, Circle-22(2), New Delhi v. Saveer Biotech Ltd (A.Y. 2013-14)",
+   "role": "Respondent/assessee",
+   "status": "Order dated 23.09.2021; outcome not read",
+   "source": "https://indiankanoon.org/search/?formInput=Saveer%20Biotech"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: no confirmed hit found, but this is NOT a clean negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript application and returned only its blank search form via http_get, so no name query could actually be executed; UN, EU, UK OFSI and BIS Entity List screens were not reachable either. sanctions_hit is therefore null = 'not verified', not 'clear'. Recommend a manual re-screen of 'Saveer Biotech Ltd' / 'Saveer Biotech Limited' against OFAC SDN, UN Consolidated, EU FSF, UK OFSI and BIS EL before onboarding. Court cases: the dominant matter is a long-running commercial arbitration dispute with a Government of India body (NRDC, DSIR, Ministry of Science & Technology) — the company is simultaneously award-debtor in enforcement proceedings (OMP(ENF)(COMM) 268/2024, company described as 'Judgment Debtor') and award-challenger in OMP(COMM) 36/2025; litigation is active and continuing into Nov 2026. Per project rule 2 this is NOT a rejection ground — noted neutrally as 'есть сложности'. Also a 2013 Patna HC writ and a 2017 ITAT Delhi income-tax appeal (A.Y. 2013-14); outcomes of both were not read, so no conclusion on tax liability. Regulator actions: none found — no RBI/SEBI/DGFT/ED/CCI action located in searches performed. Negative news: none found; however the web_search tool was non-functional (searx connection refused) and Bing returned irrelevant results, so news coverage was effectively NOT screened — news_risk null means 'not verified'. Credit rating: no public rating found; the company does not appear to be rated by CRISIL/ICRA/CARE/India Ratings/Acuite in accessible sources — rating null, not public. RF/CIS supply evidence: none found. Indian Kanoon full-text search for 'Saveer Biotech Russia' returned 0 results, and searches combining the name with sanctions/OFAC/customs returned 0 results. No customs, B-L, tender or contract record evidencing supply to Russia or any CIS state was located. This is an absence of evidence, not evidence of absence — trade-data and bill-of-lading databases were not accessible in this session. IMPORTANT CAVEAT: the claimed industry ('Строительство и DIY', HS 940690 prefab buildings) does not match the company's evident profile as an agri-biotech / greenhouse / tissue-culture and agro-machinery firm (litigation counterparty is the National Research Development Corporation, a technology-transfer body); this is outside my remit (HS/legal identity are not researched here) but the discrepancy is flagged for the identity/HS reviewer. Overall: no rejection grounds identified under project rules; sanctions and news screening remain incomplete and should be re-run."
+}

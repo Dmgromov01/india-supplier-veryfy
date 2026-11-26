@@ -1,0 +1,9 @@
+{
+ "name_input": "LUNA TECHNOLOGIES PRIVATE LIMITED",
+ "declared_hs": "848590",
+ "actual_hs_list": [],
+ "match_status": "cannot_verify",
+ "product_summary": "Не удалось получить ни сайт, ни каталог, ни карточку IndiaMART: web_search (DuckDuckGo/searx) недоступен (connection refused), duckduckgo html и IndiaMART отдали timeout/429, Bing по запросам «\"Luna Technologies Private Limited\" India products» и вариациям с HS/export/manufacturer выдаёт только нерелевантные результаты (Amazon Luna, LUNA DAW, Luna Community College и т.п.). Реальный перечень продукции компании не подтверждён ни одним источником.",
+ "role_hint": "unknown",
+ "comment": "Заявленный код 848590 — «части машин и механизмов прочие, не поименованные в данной группе» (раздел XVI). Заявленная отрасль «IT и электроника» с этим кодом не стыкуется: 8485 — это механические части машин, а не ИТ/электроника; типичное несоответствие отраслевой классификации либо признак трейдера, перепродающего механические комплектующие. Продуктовая линейка не верифицирована, поэтому фактический HS-6 не определён (actual_hs_list пуст, не выдумывать). По правилу 3 несоответствие HS не является основанием для отклонения — компания сохраняется в базе, код подлежит уточнению после получения каталога/инвойсов. Все продуктовые заявления: заявлено, не подтверждено. Источники: попытки http_get https://lunatechnologies.in/ (DNS not found), https://www.indiamart.com/luna-technologies/ (HTTP 429), https://duckduckgo.com/html/ (timeout), https://www.bing.com/search (нерелевантная выдача). Требуется ручная проверка сайта/MCA-карточки и товарных инвойсов."
+}

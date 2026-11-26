@@ -1,0 +1,30 @@
+{
+ "name_input": "M/S PRAVIN MASALEWALE",
+ "declared_hs": "071320;090411;090412;090422",
+ "actual_hs_list": [
+  "090421",
+  "090422",
+  "091091",
+  "091099",
+  "091091",
+  "210390",
+  "200599",
+  "190410",
+  "190490",
+  "210690",
+  "091020",
+  "091030",
+  "091011",
+  "090611",
+  "090931",
+  "090962",
+  "120740",
+  "110630",
+  "210320",
+  "200190"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт бренда Suhana (suhana.com) — это торговая марка Pravin Masalewale (Pune, Maharashtra). Реальный ассортимент по каталогу сайта: (1) Pure Spices & Hing — чили-порошок (Ambari Chilli Powder, Byadgi Chilli Powder), куркума (Turmeric Powder), кориандр (Coriander Powder), кумин-кориандр, асафетида (Suhana Hing Powder), шафран (Saffron/Kesar Dabbi), перец/специи; (2) Special Blends / Spice Mixes — гарам масала, бирьяни масала, пав-бхаджи, чоле, чикен/мutton масала, панир тикка, шахi панир, kitchen king, kanda lasun, goda masala, misal rassa, Indo-Chinese, No Onion No Garlic; (3) Ready To Eat — Cuppa (Poha mix, meal cuppas), instant mixes; (4) Pickles, Papads & Chutneys — Pravin Pickles, Chutneys & Sauces, Thecha, Papad; (5) Ambari sub-brand (pure + blended spices); (6) Turmeric Latte / Haldi Dudh напиток, herbal tea infusions, honey. Источники: https://suhana.com/ (главная, каталог), https://suhana.com/collections/pure-spices-hing, https://suhana.com/pages/about-us, https://suhana.com/pages/exports.",
+ "role_hint": "manufacturer",
+ "comment": "Сопоставление с заявленными кодами: 090411 (перец Piper, недробленый) и 090412 (перец дробленый) — в открытом каталоге сайта перец как отдельный SKU не найден, только в составе блендов → cannot_verify / заявлено, не подтверждено. 090422 (чили дробленый/молотый) — подтверждается: Ambari Chilli Powder, Suhana Ambari Byadgi Chilli Powder (https://suhana.com/collections/pure-spices-hing) → exact. 071320 (нут сушеный, целый/лущеный) — в каталоге не найден как товарная позиция; нут может быть лишь сырьём для блендов → wrong/cannot_verify, заявлено, не подтверждено. Пропущенные в декларации, но реально продаваемые линии: 091091/091099 (смеси специй — гарам масала, бирьяни, пав-бхаджи, чикен/мutton, kitchen king, kanda lasun, goda masala, misal rassa — основная масса SKU), 090421 (чили сушеный целый), 091030 (куркума), 091020 (шафран), 090931/090962 (кумин, кориандр), 090611 (корица, в блендах), 091011 (имбирь), 210390 (соусы/чатни/тхеча), 200599/200190 (пикули, папад — консервированные овощи), 190410/190490 (ready-to-eat cuppa/instant mixes), 210690 (Turmeric Latte/Haldi Dudh, herbal infusions), 210320 (томатные соусы, если есть в линейке Pravin sauces). Отраслевая классификация «Продукты питания и FMCG» корректна, но заявленный набор HS-кодов описывает только сырьевые специи и не отражает главный экспортный/товарный блок — смеси специй (0910) и переработанные пищевые продукты (2103/2005/1904). Признаков трейдера нет: сайт описывает собственные производственные площадки с GMP/HACCP/ISO, сортировкой, помолом, смешиванием и упаковкой (https://suhana.com/pages/about-us) → manufacturer. Фактичность отгрузок по таможенным/B-L записям в рамках этой роли не проверялась; наличие раздела Exports и брошюры (https://suhana.com/pages/exports) — это заявление компании, не подтверждение отгрузок. Вердикт по правилу 3: HS-несоответствие не является основанием для отклонения — компания сохраняется, коды корректируются на фактические (accepted_hs_corrected)."
+}
