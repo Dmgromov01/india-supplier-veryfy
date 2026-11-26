@@ -1,0 +1,8 @@
+{
+ "name_input": "Atul Hose & Engg. Co",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/atul-hose-engg-co and .../atul-hose-and-engg-co both returned only the empty page template: \"Shipments available for ATUL HOSE ENGG CO, refreshed daily\" — a generic marketing string, with 0 shipment rows rendered (no date, no destination, no HS code, no B/L number). No export record seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. web_search backend was unavailable (\"searx: <urlopen error [Errno 111] Connection refused>\") on both queries, so no domestic-supply source could be located or read.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Фактичность отгрузок НЕ подтверждена ни по экспорту, ни по внутреннему рынку. ImportKey отдал две slug-вариации (atul-hose-engg-co, atul-hose-and-engg-co) — обе без единой строки данных, только шаблонная заглушка; счётчик источника заявлен как 'refreshed daily', фактически просмотрено 0 записей. volza.com, eximpedia.app и trademo.com вернули HTTP 403, importgenius.com — JS-challenge, DuckDuckGo-поиск недоступен. Заявленный HS 400911 (трубы из вулканизованной резины, без фитингов) соответствует профилю 'Atul Hose' по названию, но это не подтверждение отгрузки. Выручка и объём экспорта — null (не публичны / не получены). PAN AADPT4053H и штат Delhi не верифицированы. Требуется повторный прогон при доступном поиске либо платный доступ к таможенным данным; вердикт по правилу 5 — 'заявлено, не подтверждено', отклонение не применяется (юрлицо не проверялось на ликвидацию/банкротство)."
+}

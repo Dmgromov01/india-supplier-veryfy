@@ -1,0 +1,17 @@
+{
+ "name_input": "MARINE SOLUTIONS",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Gujarat High Court (Ahmedabad)",
+   "case": "Admiralty Suit No. 19 of 2016 — M/s Marine Solutions & Anr. v. M.V. Vicente (ex-name M.V. Kalpana Prem), IMO 9212254",
+   "role": "Plaintiff",
+   "status": "Order dated 16.04.2016 and 18.04.2016 (Bench: Abhilasha Kumari); outcome of merits not visible in the public snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Marine%20Solutions%22%20Gujarat"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a clean negative — the OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) is a JavaScript form that could not be queried programmatically, and the UN/EU/UK consolidated lists and the BIS Entity List could not be retrieved (bis.gov.in timed out). sanctions_hit is therefore null = 'not verified', not 'confirmed clear'. Court: the only public litigation trace is an admiralty claim in the Gujarat High Court (Admiralty Suit No. 19/2016) in which the entity appears as PLAINTIFF, i.e. it was pursuing a maritime claim against a vessel, not being sued; per project rules this is not a rejection ground and is noted neutrally. Identity caveat: the Indian Kanoon hit is described as 'Marine Solutions – A Partnership Firm', whereas the claimed PAN AAYFM8948D has the 'F' (firm) character in 4th position, which is consistent with a partnership, but I could not open the judgment text (the doc URL I tried resolved to an unrelated Lok Sabha record) and could not access MCA/ZaubaCorp (HTTP 403) to tie the case to this exact PAN. Rating: no credit rating from CRISIL/ICRA/CARE/India Ratings/Acuite could be located — null, not public. Regulator actions and negative news: none found, but web_search (DuckDuckGo/searx) was down for the whole session and Google/DDG HTML fallbacks failed, so absence of news is a tooling gap, not evidence of a clean record. RF/CIS supply evidence: none found; no customs, B/L, or open-source trace of supplies to Russia or CIS could be retrieved — null. Recommend re-running sanctions screening (OFAC/EU/UK/UN/BIS) and news sweep manually before any decision."
+}

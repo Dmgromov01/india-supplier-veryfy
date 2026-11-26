@@ -1,0 +1,18 @@
+{
+ "name_input": "ESDS SOFTWARE SOLUTION PRIVATE LIMITED; ESDS SOFTWARE SOLUTION PVT LTD.; ESDS Software Solution Limited",
+ "legal_name": "ESDS Software Solution Limited",
+ "cin_llpin": null,
+ "pan": "AABCE4981A",
+ "pan_holder_type": "C — company (4th character 'C' = company per PAN structure); PAN taken as claimed, not independently verified against an official record",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Madhya Pradesh",
+ "mca_status": null,
+ "role": "service_provider",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no source obtained. Tooling failed: web_search backend refused connections (searx 'Connection refused') on both attempts; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned only its generic landing page with no company data; Bing/Google HTML endpoints returned unusable/generic results; esds.co.in investor/financial-report pages returned 301 loop / 404. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public to me in this session, not because they do not exist. What IS confirmed from the company's own website (esds.co.in/about-us, fetched successfully): the entity operates as 'ESDS Software Solution Limited', states it was 'incorporated in 2005', and describes itself as an AI-enabled end-to-end IT service provider (data centre, cloud, colocation, managed services, AI infrastructure) with five Tier-III data centres in Nashik and Navi Mumbai (Maharashtra), Bengaluru (Karnataka), Mohali (Punjab) and Noida (Uttar Pradesh). This self-description points to Maharashtra as the likely registered state, which CONFLICTS with the claimed 'Madhya Pradesh' — flag for correction, but do not treat as confirmed until an MCA master-data record is read. Role assessed as service_provider (IT/cloud services), not manufacturer or trader; declared HS 997331 is a services classification, consistent with that role. No rejection ground found: no evidence of non-existence, strike-off, liquidation or bankruptcy — and equally no positive proof of active MCA status, so status must be re-verified against MCA before onboarding. Revenue FY25/FY26 left null: no audited accounts or official filings were retrievable; the site's investor section was unreachable (404/redirect loop), so no figures are asserted. Next step: re-run with working search, read MCA master data (CIN, status, registered office) and a public GST profile for GSTIN and GST status."
+}
