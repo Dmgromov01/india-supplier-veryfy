@@ -1,0 +1,18 @@
+{
+ "name_input": "Hira Ferroy Alloys Ltd",
+ "legal_name": "HIRA FERRO ALLOYS LIMITED (as claimed by input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure, not absence of the company: web_search returned 'Connection refused' (searx backend down); Bing/Google HTML fetches returned only generic 'HIRA' results (hira.org, HIRA safety acronym, HIRA Korea) with the company-specific terms ignored, so no usable hit was produced; zaubacorp.com and thecompanycheck.com returned HTTP 403; hiragroup.com did not resolve (DNS error); duckduckgo.com timed out. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited FY25/FY26 revenue are all null - NOT verified, not 'not found'. No rejection is applied: nothing indicates the entity is non-existent, struck off, liquidated or bankrupt; the claimed name is consistent with a real ferro-alloy producer in the Hira Group (Raipur, Chhattisgarh) but this is unconfirmed by a primary source in this session. Role left 'unknown' pending verification (ferro-alloy producers are typically manufacturer, but that is an inference, not a finding). Declared HS 720219/720230 (ferro-manganese / ferro-silicon-manganese) is plausible for a ferro-alloy maker and is not a rejection ground per project rules. Recommended next step: re-run with working search, then verify on MCA master data (CIN prefix would be U27101CT... if Chhattisgarh-incorporated) and on the GST portal public search for the GSTIN."
+}

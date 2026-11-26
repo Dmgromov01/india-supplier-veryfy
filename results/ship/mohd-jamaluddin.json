@@ -1,0 +1,8 @@
+{
+ "name_input": "MOHD JAMALUDDIN",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/mohd-jamaluddin (and slug variant /mohd-jamaluddin-1) returned only the page shell: 'Shipments available for MOHD JAMALUDDIN, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Source counter: 2 importkey pages fetched, 0 shipment records seen. volza.com/p/mohd-jamaluddin, eximpedia.app and trademo.com all returned HTTP 403 Forbidden, so no second-source rows could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award, contract or annual-report split could be located. web_search (DuckDuckGo/searx) was unavailable for the whole session ('urlopen error [Errno 111] Connection refused'), so no registry or tender page could be reached. Source counter: 0 domestic-supply records seen.",
+ "note": "Name is a personal name (individual/proprietorship style), not a distinctive corporate entity, so trade-data matching is inherently ambiguous — any 'MOHD JAMALUDDIN' rows found on paid platforms could belong to a different person. No export or domestic shipment evidence was obtained either way; this is a data-access failure, not proof of absence, so both statuses are 'unknown' rather than 'none_found'. Declared HS 850440 (static converters/UPS) is unverified against any actual shipment record. Revenue and export volume: null (not public / not retrieved). No CIN, PAN or GSTIN confirmed — pan_claimed was empty and none was found. Recommend re-run when search access is restored, or a paid Volza/Eximpedia lookup keyed on GSTIN."
+}

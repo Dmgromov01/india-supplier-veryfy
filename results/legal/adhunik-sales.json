@@ -1,0 +1,18 @@
+{
+ "name_input": "ADHUNIK SALES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Haryana",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused'/'timed out', а публичные реестровые агрегаторы (zaubacorp.com, instafinancials.com, thecompanycheck.com) и портал MCA (mca.gov.in) отдали HTTP 403/404. Ни одна реестровая запись не была прочитана, поэтому все поля оставлены null — данные не выдумывались. 'ADHUNIK SALES' по названию выглядит как торговое имя/проприетарная фирма (не 'Pvt Ltd'/'Limited'), т.е. вероятно не компания с CIN, а sole proprietorship/partnership с GSTIN; однако подтвердить это не удалось. Роль и штат регистрации не подтверждены. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3 — отклонять только при несуществовании/ликвидации/банкротстве). Требуется повторная проверка при доступном поиске: искать GSTIN по Haryana (код штата 06) и проверить наличие юрлица в MCA. Заявленный HS 400942/840999/841381/843290 (резина, части двигателей, насосы, части с/х машин) не проверялся — по правилу 3 несоответствие HS не является основанием для отклонения."
+}
