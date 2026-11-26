@@ -1,0 +1,18 @@
+{
+ "name_input": "Rudra International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input gives no legal entity form: 'HARSHVARDHAN MISHRA' is a personal name, which suggests a sole proprietorship (proprietorships have no CIN/LLPIN and no MCA record), but this is NOT confirmed by any source. Search tooling failed during this run: web_search returned a connection error (searx backend refused), DuckDuckGo HTML timed out, Google returned HTTP 429, Bing returned only unrelated results, and registry aggregators blocked or 404'd (zaubacorp 403, thecompanycheck 404, instafinancials 404, tofler 404). Therefore no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced. All fields set to null rather than guessed. No rejection applied: absence of a public record in this failed lookup is not evidence that the entity does not exist. Recommended next step: re-run with working search, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal and MCA master data."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "SWELL WELL MINECHEM PVT.LTD",
+ "legal_name": "SWELLWELL MINECHEM PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. All search tooling failed during this run: web_search returned a backend connection error ('searx: Connection refused') on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant generic results, so no MCA/CIN/PAN/GSTIN record was retrieved. Therefore legal_name is the claimed spelling only, and CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this run - not because they are absent. No basis to reject: the entity's existence, strike-off, liquidation or bankruptcy status is unconfirmed either way, so per the rules the company is retained rather than rejected. Role is 'unknown' - the name suggests mining/chemicals activity but no registry object clause or GST HSN filing was read, so manufacturer vs trader cannot be determined. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible, and figures are not to be estimated. HS 380290 (activated carbon / activated mineral products) is recorded as declared only and was not checked against any actual GST HSN filing. Recommended next step: re-run with working search, or verify manually on mca.gov.in (company name search) and the GST taxpayer search portal."
+}
