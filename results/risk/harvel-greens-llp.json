@@ -1,0 +1,9 @@
+{
+ "name_input": "HARVEL GREENS LLP",
+ "sanctions_hit": false,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions screening: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others), data current as of 2026-11-26, query 'Harvel Greens' — 'No matching entities were found' (https://www.opensanctions.org/search/?q=Harvel+Greens). No sanctions exposure identified on that basis. Court cases: NOT VERIFIED — Indian court record sources (eCourts, High Court portals) were not reachable during this session; no data is public to me here, so null rather than an assumption of 'no cases'. Regulator actions / negative news: NOT VERIFIED — the web_search tool returned a backend connection error ('Connection refused') for every query, and Bing/Google fallbacks returned unrelated results (baseball videos, Spectrum ISP, Forge of Empires), i.e. no usable search index. Therefore no negative-news finding can be asserted either way; null means 'not established', not 'clean'. Credit rating: null — no public rating (CRISIL/ICRA/CARE/India Ratings) found or searchable for this entity; absence of a rating is typical for an LLP of this size but is not confirmed. RF/CIS supply evidence: null — no evidence found, but also no search capability to exclude it; nothing in the OpenSanctions hit set links the entity to Russia/CIS. Per project rules, sanctions/court/criminal matters are not rejection grounds regardless of outcome; this company is retained in the base. Overall: risk profile UNASSESSED beyond a negative sanctions screen — recommend re-running court, news and rating checks once search/registry access is restored."
+}

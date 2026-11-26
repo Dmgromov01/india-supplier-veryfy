@@ -1,0 +1,8 @@
+{
+ "name_input": "Suri Products (India)",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/suri-products-india and .../suri-products both returned only the generic page shell: \"Shipments available for SURI PRODUCTS INDIA, refreshed daily\" — zero actual shipment rows rendered (0 rows seen on both slugs, no date, no destination, no HS code, no B/L number). No export record could be quoted.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Searches for domestic supply evidence returned no accessible page; zaubacorp.com and eximpedia.app returned HTTP 403, importgenius.com returned a JavaScript challenge, volza.com returned HTTP 403. 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось, потому что поисковик (DuckDuckGo/searx) был недоступен (connection refused) на всех запросах, а все платные трейд-базы (volza, eximpedia, importgenius, trademo) и реестр zaubacorp отдали 403/JS-challenge. ImportKey по двум слагам (suri-products-india, suri-products) отдал только шаблон страницы без единой строки отгрузки — счётчик источников: 2 страницы открыты, 0 строк данных. Заявленный HS 870893 (части и принадлежности моторных транспортных средств, гр. 87) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения, код оставлен как заявленный. Выручка и объём экспорта: null (не публичны / не найдены), не выдумывались. Рекомендация: повторить проверку при доступном поиске и платных базах; статус 'unknown', а не 'accepted'."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "DIGITECH MEDICARE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Причина: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо таймауты на всех попытках; агрегаторы реестров (zaubacorp.com, instafinancials.com) отдали HTTP 403, thecompanycheck.com — 404, quickcompany.in — таймаут; Bing выдавал нерелевантную выдачу (результаты не по запросу), Google — HTTP 429. Поэтому exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, дата инкорпорации, штат регистрации, MCA status и выручка FY25/FY26 остаются null — данные не выдумывались. Что можно сказать по существу: 'DIGITECH MEDICARE' по форме названия похоже на proprietorship/firm (не 'Pvt Ltd'/'Limited'), т.е. CIN может отсутствовать в принципе, а PAN/GSTIN принадлежать физлицу-проприетору — но это гипотеза по названию, не подтверждённый факт. Роль (manufacturer/trader) не установлена — null/unknown. Отклонять НЕ следует: нет подтверждения, что юрлицо не существует, ликвидировано или банкрот (правило 3) — отсутствие данных не равно отсутствию компании. Заявленный HS 901890 (медицинские/хирургические инструменты) не соответствует указанной в инпуте отрасли 'IT и электроника' — это внутреннее противоречие инпута, а не основание для отклонения; по правилу 3 код фиксируется по факту, вердикт при подтверждении — accepted_hs_corrected. Требуется повторная проверка при доступном поиске: искать по GST-порталу (gst.gov.in search taxpayer), MCA, и по вариантам написания 'Digitech Medicare', 'Digi Tech Medicare', 'Digitech Medicate' с указанием города."
+}
