@@ -1,0 +1,18 @@
+{
+ "name_input": "Intech Organics Limited",
+ "legal_name": "INTECH ORGANICS LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool was unavailable (searx connection refused on both queries), and every direct fetch of public registry aggregators was blocked or failed: zaubacorp.com (HTTP 403), thecompanycheck.com (403), instafinancials.com (returned only the site's generic marketing page, no company record), indiafilings.com (404), tofler.in (403), falconebiz.com (403), quickcompany.in (timeout), emis.com (410 Gone), gstsearch.in (404). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all reported as null rather than guessed. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role is 'unknown' because the manufacturer/trader distinction could not be established from a registry source (MOA main-object clause not retrieved). No rejection is applied: there is no evidence that the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. The declared HS code 280130 (fluorine, bromine, iodine) is a chemistry classification and is not a basis for rejection under project rules; it is left unverified here since HS/product research is outside this role. Recommended next step: re-run with working search access or MCA master-data / GST portal lookup to populate CIN, PAN, GSTIN and financials."
+}

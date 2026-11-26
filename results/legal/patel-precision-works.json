@@ -1,0 +1,18 @@
+{
+ "name_input": "PATEL PRECISION WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity NOT established. No public record could be retrieved for 'PATEL PRECISION WORKS'. Search tooling was degraded during this run: the web_search backend returned connection refused on both queries, Google returned HTTP 429, DuckDuckGo (html and lite endpoints) timed out, and Bing ignored the quoted phrase and returned only generic 'Patel' surname / New York travel pages with zero relevant hits. No CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be verified from any public source, so all such fields are null rather than guessed. The name pattern ('... WORKS') is typical of an Indian proprietorship or partnership firm, which would have NO CIN and NO MCA record at all - only a GSTIN and possibly a PAN - so absence of an MCA entry is not by itself evidence of non-existence. Per project rules, rejection is permitted only on proof that the entity does not exist, is struck off, liquidated or bankrupt; no such proof was obtained, therefore this company is NOT rejected and is left as unverified/unknown pending a re-run with working search. Role cannot be determined from registry data alone (no MCA NIC/activity code available); 'unknown' is recorded, not 'manufacturer', despite the claimed oil-and-gas/chemicals industry and HS 848110 (pressure-reducing valves). Revenue FY25/FY26 are null: no audited accounts or official filings were located, and for a proprietorship/partnership firm audited financials are generally not publicly filed at all. Recommended next step: re-verify via GSTIN search on a public GST profile site and MCA master-data lookup once search connectivity is restored."
+}

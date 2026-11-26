@@ -1,0 +1,18 @@
+{
+ "name_input": "KAZMAIN FOODS PRIVATE LIMITED",
+ "legal_name": "KAZMAIN FOODS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in returned HTTP 403; instafinancials profile URL returned 404; Google returned HTTP 429; lite.duckduckgo.com and one aggregator timed out; Bing returned only irrelevant results (no matching company page). Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not publicly confirmed from a source I could actually read - they are NOT null because the entity was found to be non-existent. Per project rules, rejection is permitted only on proof of non-existence/strike-off/liquidation/bankruptcy; no such proof was obtained, so the company is NOT rejected and remains unverified pending a re-run. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left as 'unknown' - the claimed food-processing/FMCG activity (declared HS 071220, 071290, 200811, 200819 - dried potato, other dried vegetables, and roasted/salted nuts) is a catalogue/website-level claim only and does not establish manufacturer vs trader status. Recommended next step: re-run with working search, then check MCA master data by exact name and the GST portal for the GSTIN's legal name and status."
+}

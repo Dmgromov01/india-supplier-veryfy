@@ -1,0 +1,20 @@
+{
+ "name_input": "KAZMAIN FOODS PRIVATE LIMITED",
+ "declared_hs": "071220;071290;200811;200819",
+ "actual_hs_list": [
+  "071220 - Dried onions, whole/cut/sliced/broken/powdered (dehydrated white/pink/red onion)",
+  "071290 - Other dried vegetables, mixtures (dehydrated garlic, other dehydrated vegetables)",
+  "200520 - Potato (not evidenced; no potato line on site)",
+  "200811 - Groundnuts/peanuts, otherwise prepared or preserved (peanut butter, peanuts)",
+  "200819 - Other nuts and seeds, prepared or preserved",
+  "200190 - Vegetables/fruits preserved in vinegar or acetic acid (garlic & ginger paste - most likely heading; alternative 200599)",
+  "200599 - Other vegetables preserved otherwise than by vinegar (fried onion - most likely heading; alternative 200190)",
+  "070310 - Fresh onions and shallots (fresh onion & garlic line)",
+  "070320 - Fresh garlic",
+  "0904-0910 - Spices (pepper, chilli, turmeric, cumin, coriander etc. - 'All Spices' line, exact HS-6 not determinable from site)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Site (kazmainfoods.com, homepage + product menu) lists: Dehydrated White Onion, Dehydrated Pink Onion, Dehydrated Red Onion, Dehydrated Garlic, Garlic & Ginger Paste, Fried Onion, Peanut Butter & Peanuts, Fresh Onion & Garlic, All Spices. Self-description: 'manufacturer & exporter of Dehydrated Onion, Garlic, Other Vegetables, All Spices and Fresh Onion & Garlic', 4th unit at Mahuva, Gujarat (Survey No. 129, Gundarni Road, Mahuva-364290); claims ISO 22000, BRC, HALAL, FDA. No product sub-pages could be opened (direct URLs return 404), so specifications, forms (flakes/granules/powder) and grades are not verifiable.",
+ "role_hint": "manufacturer (self-declared manufacturer & exporter with own plant at Mahuva; no trader signs found on site). Not corroborated by any customs line in this review.",
+ "comment": "HS mapping vs declared 071220/071290/200811/200819: PARTIAL. Correctly covered: dehydrated onion (071220) and dehydrated garlic/other dried vegetables (071290) - the core of the declared range; peanut butter & peanuts (200811) and other prepared nuts/seeds (200819) are plausible for the 'Peanut Butter & Peanuts' line. Missing from the declaration: (1) Garlic & Ginger Paste - a wet paste, not a dried vegetable, so 0712 is wrong for it; most likely 200190 or 200599; (2) Fried Onion - a cooked/prepared product, most likely 200599 or 200190, definitely not 0712; (3) Fresh Onion & Garlic - 070310 / 070320, a separate chapter entirely; (4) 'All Spices' - chapter 09 (0904-0910), no declared code covers it. So the declared set covers only the dehydrated-onion/garlic core and the peanut line, and omits at least three real product families (fresh produce, pastes, fried onion, spices). Industry classification 'Продукты питания и FMCG' is broadly correct but imprecise: the company is a dehydrated vegetable/ingredient processor (B2B ingredient supplier), not an FMCG brand owner - no consumer packaged brand found on site. Trader signs: none observed; site presents own manufacturing unit, so role is manufacturer, but this is self-declared only. Per project rule 3, the HS gaps are NOT grounds for rejection - company stays in the base with corrected codes and verdict accepted_hs_corrected. All product claims here are 'заявлено, не подтверждено': no customs line, B-L or GST record was checked in this review (out of scope), and no product sub-page could be loaded to confirm SKUs. Revenue, export volume, PAN, CIN, registration data: null - not researched in this role and not public on the pages read."
+}
