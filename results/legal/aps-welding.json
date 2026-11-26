@@ -1,0 +1,18 @@
+{
+ "name_input": "APS Welding",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Заявленное юрлицо 'ADVANCED POWER SOURCES LIMITED' не удалось подтвердить ни по одному публичному реестру в рамках этого сеанса: web_search (DuckDuckGo/searx) вернул ошибку соединения, Bing отдал нерелевантную выдачу (только страницы Microsoft), Google — HTTP 429, а профильные реестры (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in, falconebiz.com) вернули 403/404 или требуют JS/подписки. MCA Master Data (mca.gov.in) — 403. Следовательно: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, не выдумывались. Роль (manufacturer/trader) не установлена — 'unknown'. ВАЖНО: отсутствие подтверждения НЕ является основанием для отклонения по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что здесь не доказано и не опровергнуто). Компания остаётся в базе со статусом 'заявлено, не подтверждено' и требует повторной проверки при доступном реестре. Также не подтверждено соответствие заявленных HS-кодов 851531/851539 (оборудование для дуговой сварки) — по правилам HS-несоответствие не является основанием для отклонения, код подлежит исправлению на фактический после проверки. Требуется повторный прогон с рабочим доступом к MCA/GST-порталу."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ACCESS OFFICE SOLUTION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com returned HTTP 403 on two URL patterns; thecompanycheck.com search page returned only marketing copy with no result rows; indiamart.com returned HTTP 429; google.com/search returned HTTP 429; bing.com returned only unrelated Microsoft Access software results (query terms ignored); duckduckgo.com/html timed out. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source. Nothing is asserted or invented: all identifier and financial fields are null. Name 'ACCESS OFFICE SOLUTION' is a non-standard trade-style name with no legal suffix (no Pvt Ltd / LLP / & Sons), which is typical of a sole proprietorship or unregistered trade name - such entities have no CIN and no MCA record, so absence of a CIN is expected and is NOT grounds for rejection. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected; it is left unverified pending a re-run. Note the input is internally inconsistent: declared HS 330510 (perfumes/toilet waters, cosmetics) does not match claimed industry 'food & FMCG' - per project rules this is not a rejection ground; the HS code should be corrected to the actual product line once the catalogue is reviewed by the product team. Role cannot be classified (manufacturer vs trader) without registry or GST data, so 'unknown'. Recommended next step: re-run when search is restored, or query the GST portal / MCA by trade name and PAN to establish the entity type."
+}

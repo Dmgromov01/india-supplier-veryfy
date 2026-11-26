@@ -1,0 +1,8 @@
+{
+ "name_input": "IG Defense",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for IG TECHNOLOGIES PRIVATE LIMITED loaded but contained zero shipment rows: \"Shipments available for IG TECHNOLOGIES PRIVATE LIMITED, refreshed daily\" — a generic paywall placeholder with no date, destination, HS code or B/L number. Source counter: 1 page checked (importkey.com/countries/india/ig-technologies-private-limited), 0 shipment records actually seen. Volza, Eximpedia and Trademo returned HTTP 403; importkey slug 'ig-defense' returned HTTP 525.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved. Search engine (DuckDuckGo/searx) was unreachable (connection refused/timeout); Bing and Google returned irrelevant or rate-limited results. Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: публичные источники были недоступны (403/429/paywall), поэтому статус по обоим пунктам — unknown, а не none_found. Заявленный HS 880623 (части летательных аппаратов, группа 8806) не подтверждён ни одной таможенной записью; код не исправлялся, так как фактический код установить не удалось. Юрлицо IG TECHNOLOGIES PRIVATE LIMITED присутствует в базе ImportKey как индийская компания, но без раскрытых записей. Выручка, объём экспорта, CIN, PAN, штат — null (не публичны / не найдены). Требуется повторная проверка при доступности volza/eximpedia/importgenius или выписки GST."
+}

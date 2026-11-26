@@ -1,0 +1,9 @@
+{
+ "name_input": "PMG Engineering",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google отдал HTTP 429, DuckDuckGo HTML — таймаут. Bing по запросам «PMG Engineers» / «PMG Engineering» India, а также по связкам с санкциями, NCLT/High Court и insolvency выдавал только нерелевантные результаты (PMG — рейтинг банкнот, PMG advertising agency, Property Markets Group, Princeton Medical Group и т.п.); ни одной страницы, относящейся к индийской компании «PMG ENGINEERS» / «PMG Engineering», получить не удалось. Дополнительно: заявленное имя крайне неспецифично (аббревиатура PMG, без указания штата, CIN/PAN, города), что делает однозначную идентификацию юрлица невозможной без реквизитов. По всем полям — null, а не «чисто»: отсутствие данных здесь означает отсутствие проверки, а не отсутствие рисков. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), судебные реестры (NCLT/NCLAT, eCourts, High Court), рейтинги (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ по данной компании НЕ проверены. Требуется повторный запуск с рабочим поиском и уточнением от заказчика: полное юрлицо, CIN/PAN, город/штат, сайт, IndiaMART-профиль."
+}
