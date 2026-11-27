@@ -1,0 +1,8 @@
+{
+ "name_input": "Horizon Airtech",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record obtained. importkey.com/countries/india/horizon-airtech and .../horizon-airtech-pvt-ltd both returned only the generic paywalled template: \"Shipments available for HORIZON AIRTECH, refreshed daily\" with a \"Loading...\" placeholder and zero rendered rows — source counter: 2 pages checked, 0 shipment rows actually seen (no date, destination, HS code or B/L number visible). volza.com/p/horizon-airtech, eximpedia.app and trademo.com all returned HTTP 403.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. web_search (DuckDuckGo/searx) failed twice with \"Connection refused\" and a direct google.com/search fetch returned only a redirect interstitial, so no domestic supply evidence could be located or ruled out.",
+ "note": "Nothing could be verified either way: the search backend was down for the whole run and every trade-data source was paywalled (importkey: 0 rows rendered) or blocked (403 on volza, eximpedia, trademo). Per Rule 5, no claim from the company's own site or catalogues was used, and no shipment was invented — export_status and domestic_status are therefore 'unknown', not 'confirmed' and not 'none_found'. The declared HS 841430 (refrigeration compressors) is unverified against any customs line; it is not a rejection ground in any case (Rule 3). No CIN, PAN, GSTIN, revenue or export volume is public in what was reachable — all left null rather than estimated. Recommend re-running this company once search access is restored, or querying importkey/volza with a paid seat to obtain dated B/L rows."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Neonest Medical Systems Private Limited",
+ "legal_name": "NEONEST MEDICAL SYSTEMS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was down (searx connection refused) for the whole session, and every direct registry/aggregator endpoint returned HTTP 403/404 or timed out: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), falconebiz.com (403), tofler.in company page (404), mca.gov.in master-data (403), search.mca.gov.in (DNS failure), duckduckgo html (timeout). Google/Bing returned no relevant organic results for the exact name. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent, but because no public source was reachable. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules absence of verification is not grounds for rejection. Role left as 'unknown' (no evidence of manufacturing or trading activity). Note the input's industry_claimed 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the company name (medical systems) and with declared HS 300490 (medicaments) - flag for manual review, but per rules HS mismatch is not a rejection ground. Recommended next step: re-run with working search, or verify manually on MCA master data / GST portal by legal name."
+}

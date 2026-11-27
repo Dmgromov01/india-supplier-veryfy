@@ -1,0 +1,16 @@
+{
+ "name_input": "Ishanvi Labs Private Limited",
+ "declared_hs": "294190;300490;330590",
+ "actual_hs_list": [
+  "294190",
+  "2933xx/2934xx (API intermediates, HS-6 не указан на сайте)",
+  "300490",
+  "330590",
+  "380894 (антибактериальные/консервирующие ингредиенты — предположительно, не подтверждено)",
+  "3402xx (косметические ПАВ/ингредиенты — предположительно, не подтверждено)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт ishanvilabs.com (разделы Home/About/Products/Contact) заявляет два бизнес-сегмента: (1) Pharmaceutical Ingredients — Active Pharmaceutical Ingredients (APIs), Intermediates, Semi-Finished Formulations (Pellets/DC Grades), API Development / Contract Manufacturing, Technology Transfer for Complex APIs, Formulation Development & Contract Manufacturing; (2) Personal Care Ingredients — Hair Care Ingredients, Antibacterial Ingredients, Sun Care Ingredients, Preservative Ingredients. Конкретные наименования веществ/молекул, CAS-номера, спецификации и каталог на сайте ОТСУТСТВУЮТ — только рубрики. Адрес по контактам: 136, Sarita Vihar, New Delhi 110076 (офисный адрес, не производственная площадка).",
+ "role_hint": "trader",
+ "comment": "Проверка по продукту/HS (без реестров, выручки и таможенных объёмов). Источники: https://ishanvilabs.com/ , https://ishanvilabs.com/products/ , https://ishanvilabs.com/about/ , https://ishanvilabs.com/contact/ . Сопоставление с заявленными кодами: 294190 (прочие антибиотики) — сайт заявляет APIs и интермедиаты, но ни одного конкретного антибиотика не называет → заявлено, не подтверждено; 300490 (прочие лекарственные средства в упаковке) — сайт заявляет только API/интермедиаты и «semi-finished formulations (pellets/DC grades)», готовых ЛФ в потребительской упаковке не заявлено → частичное соответствие/заявлено, не подтверждено; 330590 (средства для волос) — сайт заявляет «Hair Care Ingredients», т.е. ИНГРЕДИЕНТЫ для производства, а не готовую парфюмерно-косметическую продукцию → код, вероятно, неверен по сути товара (ингредиент vs готовое средство), заявлено, не подтверждено. Несоответствие HS не является основанием для отклонения — компания сохраняется, код подлежит уточнению по фактической номенклатуре. Пропущенные в декларации товарные линии: антибактериальные ингредиенты, UV-фильтры/ингредиенты для санскрина, консерванты (потенциально 3808/2916/2909 и др.), а также услуги contract manufacturing/technology transfer (не товарные позиции). Признаки трейдера: самоописание «development and marketing of APIs and intermediates», «global marketing», партнёрства с фармкомпаниями, офисный адрес в Дели, отсутствие упоминания собственного завода/GMP-площадки, отсутствие каталога с номенклатурой. Отрасль «Нефтегаз и химия» указана неверно: фактически фармацевтика/API и косметические ингредиенты (chemical-pharma), не нефтегаз. Ни одна позиция не подтверждена таможенной линией в рамках этой проверки — все товарные утверждения имеют статус «заявлено, не подтверждено»."
+}

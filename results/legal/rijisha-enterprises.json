@@ -1,0 +1,18 @@
+{
+ "name_input": "Rijisha Enterprises",
+ "legal_name": "RIJISHA ENTERPRISES (as claimed; exact legal form not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The DuckDuckGo search backend returned connection refused on both attempts; Google returned only a redirect interstitial; Bing returned completely irrelevant results (supplement ads, Facebook login pages, US time zones) for every query variant tried, including quoted-name and site:-restricted queries; zaubacorp.com and instafinancials.com returned HTTP 403; indiamart.com returned HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from any public source, and no audited revenue figures were found. Nothing here is inferred or invented: all registry fields are null because they are unverified, not because they were checked and found absent. Note the input itself is internally inconsistent and should be flagged to the analyst: the declared HS code 711311 is jewellery of precious metal (silver), while the claimed industry is 'food products and FMCG' - per project rules this is NOT grounds for rejection, the company stays in the base and the HS code must be corrected to the actual one. The name pattern ('Enterprises') suggests a possible proprietorship/partnership rather than a company, in which case there would be no CIN at all and GSTIN/Udyam would be the only registry identifiers - this is a hypothesis, not a finding. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; equally there is no evidence it does exist. Status: unverified, requires re-run when search infrastructure is available."
+}

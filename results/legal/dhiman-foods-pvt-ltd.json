@@ -1,0 +1,18 @@
+{
+ "name_input": "Dhiman Foods Pvt. Ltd",
+ "legal_name": "DHIMAN FOODS PRIVATE LIMITED (unverified — name as claimed in input; no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained. All 10 tool calls failed to yield a verifiable record: web_search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in search returned a 404 page; falconebiz.com returned HTTP 403; instafinancials.com returned HTTP 403; mca.gov.in returned HTTP 403; Google returned only a redirect stub; DuckDuckGo HTML timed out; Bing returned completely irrelevant results (French company registry, Microsoft support pages, RSA Conference) — i.e. the search index is not returning usable Indian-registry hits. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are NOT PUBLICLY VERIFIED BY ME, not because they do not exist. No revenue figures found in audited accounts or official filings, so FY25 and FY26 revenue are null — not estimated. Role set to 'unknown': the 'Pvt Ltd' suffix in the claimed name suggests a private limited company, but no MCA record was read to confirm manufacturer vs trader status, and the declared HS codes (170490 sugar confectionery, 180690 chocolate preparations, 190532 waffles/wafers) do not by themselves establish manufacturing. Per project rules, this company is NOT rejected: rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found — absence of retrieved data is not evidence of non-existence. ACTION REQUIRED: re-run this company when the search backend is restored, or verify manually on the MCA master-data portal (mca.gov.in MDS / 'Check Company Name') and the GST taxpayer search (gst.gov.in 'Search Taxpayer') using the exact legal name; also confirm whether the correct entity is 'Dhiman Foods Private Limited' or a similarly named firm (e.g. a proprietorship/LLP), since the input name is unconfirmed. No shipment, court or catalogue research was performed, per role scope."
+}

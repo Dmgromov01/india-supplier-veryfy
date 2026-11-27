@@ -1,0 +1,18 @@
+{
+ "name_input": "FAINA UNIVERSAL CO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "not verified - no MCA/registry record located",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry/legal verification NOT completed: no public record found for the exact name 'FAINA UNIVERSAL CO'. Search tooling was degraded (DuckDuckGo/searx backend refused connections; Google returned a redirect interstitial; Zauba Corp, Instafinancials, FalconEbiz returned HTTP 403; Tofler search returned 404; The Company Check requires JS/auth). Bing queries for the exact quoted name returned only unrelated results, i.e. no indexed page mentions this entity. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - none of these are public for this name as far as I could reach, and none were invented. The name pattern ('... CO' with no Pvt Ltd/LLP suffix) is consistent with a proprietorship or partnership trading firm rather than a company, which would mean no CIN and no MCA record at all, but this is an inference, not a verified fact. Role left as 'unknown' - no evidence of manufacturing plant, GST registration or trade activity was retrievable. Revenue FY25/FY26 null: no audited accounts or official filings exist in the public domain for this name. Per project rules this is NOT a rejection: absence of a findable record is not proof of non-existence, and only confirmed non-existence/strike-off/liquidation/bankruptcy justifies 'rejected'. Recommended next step: obtain the GSTIN or PAN directly from the supplier, then re-run verification against the GST portal and MCA; also confirm whether the entity is a proprietorship (in which case CIN will never exist and PAN 4th character should be 'P')."
+}

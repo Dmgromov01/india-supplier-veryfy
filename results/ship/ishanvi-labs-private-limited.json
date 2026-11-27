@@ -1,0 +1,8 @@
+{
+ "name_input": "Ishanvi Labs Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'ishanvi-labs-private-limited' returned only the generic JS shell: 'Shipments available for ISHANVI LABS PRIVATE LIMITED, refreshed daily' — no dated row, no destination, no HS code, no B/L number was rendered. Second slug 'ishanvi-labs-pvt-ltd' returned the identical placeholder text. Rows actually seen: 0 of an unknown counter (page states no shipment count).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. zaubacorp.com, trademo.com, eximpedia.app and volza.com all returned HTTP 403 Forbidden; DuckDuckGo search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both queries, so no domestic-supply page was reachable.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, поэтому оба статуса 'unknown', а не 'none_found'. Причина техническая: единственный доступный источник (ImportKey) отдаёт JS-заглушку без строк, остальные (volza, eximpedia, trademo, zaubacorp) — 403, поисковик недоступен. Заявленные коды HS 294190/300490/330590 (фарма/косметика) ни одной таможенной записью не подтверждены и не опровергнуты; код не исправлялся, так как фактический установить нечем. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Трейдер/производитель — роль не определена (unknown). Требуется повторный прогон при работающем поиске или платном доступе к Volza/Eximpedia для окончательного вердикта."
+}
