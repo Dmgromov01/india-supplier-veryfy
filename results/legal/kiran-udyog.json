@@ -1,0 +1,18 @@
+{
+ "name_input": "Kiran Udyog",
+ "legal_name": "KIRAN UDYOG (as claimed; no MCA/registry record located to confirm exact legal form)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - data unavailable, not negative evidence. Tooling was degraded during this run: the web_search backend returned connection refused on all queries, zaubacorp.com and instafinancials.com returned HTTP 403, Google returned HTTP 429, DuckDuckGo HTML timed out, and Bing returned only generic 'Kiran' name/typing-tutor results with no MCA/GST profile for 'KIRAN UDYOG'. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced, so all such fields are null per the no-invention rule. PAN holder type could not be derived because no PAN was found (the 4th-character test requires an actual PAN). Role left as 'unknown' - no evidence of manufacturing plant, GST turnover or trade activity either way; the claimed HS 870899 (motor-vehicle parts) and industry 'Авиастроение и транспорт' are unverified and are not treated as evidence. NOT rejected: per project rules rejection requires positive proof that the entity does not exist / is struck off / liquidated / bankrupt, and no such proof was obtained - only an absence of retrievable records. Recommended action: re-run against MCA master data (mca.gov.in company/LLP search) and the GST taxpayer search using the exact legal name plus state, since 'Kiran Udyog' is a common proprietorship-style trade name that may exist as a sole proprietorship (Udyam/GST only, no CIN) rather than a company."
+}

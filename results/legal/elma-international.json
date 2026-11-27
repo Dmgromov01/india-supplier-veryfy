@@ -1,0 +1,18 @@
+{
+ "name_input": "ELMA INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search backend was down (searx connection refused) for the whole session, and all direct registry/profile sources were inaccessible: zaubacorp.com returned HTTP 403, thecompanycheck.com 404, instafinancials.com 403, mca.gov.in MDS 403, Google 429, DuckDuckGo timed out. Bing returned only irrelevant non-Indian results, so no page could be tied to this entity. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed - all left null rather than guessed. IMPORTANT: 'ELMA INTERNATIONAL' is a generic trade name; it may correspond to a proprietorship/partnership (no CIN, no MCA record) or to one of several similarly named private limited companies, and the input gives no PAN, GSTIN, city or state to disambiguate. No rejection is applied: absence of a verifiable record in this session is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such positive evidence. Role is recorded as 'unknown' - the declared HS codes (340250, 340290, 340540, 392490: surface-active preparations, cleaning/washing preparations, scouring pastes and powders, plastic household articles) are consistent with a cleaning-products/housewares trader or manufacturer, but this is inference from the HS list only, not a verified fact. Recommended next step: re-run with working search plus a GSTIN or PAN supplied by the counterparty, or a state/city, to identify the correct legal entity before any acceptance decision."
+}

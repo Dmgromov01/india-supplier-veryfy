@@ -1,0 +1,9 @@
+{
+ "name_input": "LOKESH MACHINES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no risk data could be verified. Tooling failure: web_search (searx) returned 'Connection refused' on all queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only unrelated results (Amazon/Pogo.com) for every query, i.e. the engine did not honour the query. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript application and returned only the empty search form via http_get, so no SDN/Non-SDN match could be confirmed or excluded. Company site lokeshmachines.com was reachable (confirms an operating Indian machine-tool/auto-component manufacturer in Hyderabad, est. 1983, listed-company style investor section), but its /investors/, /exports/ and /news-events/ subpages returned HTTP 404, so no disclosure, court, regulator or export-destination data was retrievable. NOTHING IS ASSERTED: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because they are unverified, not because they are clean. No evidence of supplies to Russia or CIS was found, but equally no search could be completed — this must NOT be read as absence of such supplies. No credit rating (CRISIL/ICRA/CARE/India Ratings) could be checked. No NCLT/HC/ITAT or regulator (SEBI, ED, DRI, Customs) records could be checked. Recommend re-running this company when search access is restored, with priority on: (1) OFAC/BIS/UN/EU/UK list screening by exact legal name and aliases, (2) SEBI and stock-exchange disclosures given the company appears listed, (3) Indian court records (eCourts/NCLT) for party role, (4) credit rating agency rationales, (5) any reporting on machine-tool exports to Russia/CIS, which is a known sensitive dual-use category for CNC equipment."
+}
