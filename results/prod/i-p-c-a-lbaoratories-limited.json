@@ -1,0 +1,18 @@
+{
+ "name_input": "I.P.C.A LBAORATORIES LIMITED",
+ "declared_hs": "291813;292219;292250;293329",
+ "actual_hs_list": [
+  "292219 (Atenolol, Metoprolol succinate/tartrate, Propranolol, Hydroxychloroquine sulphate – amino-alcohols/amino-ethers, salts & derivatives)",
+  "292250 (Losartan – amino-acid-phenol/amino-alcohol-phenol compounds)",
+  "293349 or 293359 (Chloroquine phosphate – quinoline derivative; 293349 covers other quinolines/isoquinolines)",
+  "292429 or 292421 (Chlorthalidone – amide/imide-functional; 292421 for urea/amide derivatives)",
+  "292250 or 292429 (Furosemide – sulfamoyl anthranilic acid derivative; often 292429)",
+  "293319 or 293399 (Pyrantel salts – pyrimidine derivative; 293359 pyrimidine)",
+  "30049099 (finished formulations – oral solids/liquids, dry powder for suspension, injectables)",
+  "300410/300420 (formulations containing penicillins/other antibiotics, if applicable)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Ipca Laboratories Ltd (Mumbai) is an Indian pharma manufacturer with two business lines: (1) APIs – company states 'over 80 APIs at 12 production facilities, ~25% of turnover', naming as manufacturing leaders: Atenolol, Chloroquine Phosphate, Chlorthalidone, Furosemide, Hydroxychloroquine Sulphate, Losartan, Metoprolol Succinate, Metoprolol Tartrate, Pyrantel Salts, Propranolol (source: https://ipca.com/active-pharmaceutical-ingredient-products/); (2) generic/branded formulations – oral solids, oral liquids, dry powders for suspension, small-volume injectables (dry & liquid), 100+ dossiers, 4 regulated-market plants (source: https://ipca.com/generic-drug-formulations/). Therapeutic segments named on site: cardiovascular, anti-infectives, anthelmintics, gastroenterology, ophthalmology (source: https://www.ipca.com/our-businesses/ – Russia page).",
+ "role_hint": "manufacturer (own API plants + own formulation plants; no trader signs on site – no reselling/third-party sourcing claims found)",
+ "comment": "Сверка по открытому каталогу ipca.com (страницы API и Generic Formulations, sitemap ipca.com/sitemap.xml). Заявленные коды частично совпадают с фактическим ассортиментом: 292219 и 292250 подтверждаются линейкой бета-блокаторов (Atenolol, Metoprolol, Propranolol) и Losartan; 291813 (эфиры винной кислоты) в открытом перечне продуктов не встречается – вероятно, относится к солям/производным (например, метопролола тартрат как соль винной кислоты), но отдельной товарной позицией на сайте не подтверждено → заявлено, не подтверждено. 293329 (гетероциклы с имидазольным кольцом) в открытом списке продуктов не подтверждён → заявлено, не подтверждено. Не отражены в декларации, но фактически есть: Chloroquine Phosphate (хинолин, ~293349), Chlorthalidone и Furosemide (амидные/сульфамоильные производные, ~292429/292421), Pyrantel Salts (пиримидин, ~293359), а также целый блок готовых лекарственных форм (3004) – по сайту это существенная часть бизнеса (formulations + generics, 100+ доссов, поставки в США/ЕС/UK/Австралию/ЮАР). Отраслевая классификация 'Нефтегаз и химия' некорректна: компания – фармацевтический производитель (API + ГЛФ), не нефтегаз. Признаков трейдера нет. HS-несоответствие не является основанием для отклонения – компания сохраняется, коды корректируются на фактические; объёмы и таможенные записи в рамках этой роли не проверялись (вне зоны ответственности), поэтому факт отгрузок по конкретным линиям здесь не подтверждается – только продуктовое соответствие по каталогу."
+}

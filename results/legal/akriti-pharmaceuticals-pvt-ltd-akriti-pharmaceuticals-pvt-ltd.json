@@ -1,0 +1,18 @@
+{
+ "name_input": "AKRITI PHARMACEUTICALS PVT LTD; AKRITI PHARMACEUTICALS PVT LTD",
+ "legal_name": "AKRITI PHARMACEUTICALS PRIVATE LIMITED (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connection (all web_search calls returned 'no results'); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403 Forbidden; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; Google returned HTTP 429; Bing returned irrelevant/garbage results (no usable SERP). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null because they are not publicly confirmed by any source I could actually read - they are NOT null because the company is absent. No rejection is warranted: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' - the name and declared HS 300490 suggest a pharma entity, but manufacturer vs trader cannot be established without MCA/GST records. Note also that the input's industry_claimed ('Нефтегаз и химия' / oil-gas & chemicals) is inconsistent with HS 300490 (medicaments) and with the company name; per rule 3 this is not a rejection ground - the HS code should be treated as the actual one (300490) and the industry label corrected. Recommended next step: re-run with working search/registry access (MCA master data, Zauba/Tofler via a non-blocked route, GST public search) to fill CIN, PAN, GSTIN, incorporation date, state and revenue."
+}

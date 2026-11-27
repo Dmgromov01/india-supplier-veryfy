@@ -1,0 +1,18 @@
+{
+ "name_input": "Crystal Tech",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. The input name 'Crystal Tech' is a non-unique trade name with no legal suffix (no Pvt Ltd / LLP / Ltd), no PAN, no state and no city given, so it cannot be tied to a single legal entity. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403 Forbidden; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only generic 'crystal' dictionary/mineral results for every query, including site-restricted queries, so no MCA/GST record was retrieved. Therefore legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are not public in any source I could reach - they are NOT null because the entity was found to be absent. Per project rules, rejection is permitted only on proof of non-existence/strike-off/liquidation/bankruptcy; no such proof exists here, so the company is NOT rejected and must be re-queued for verification. Role is 'unknown' (claimed IT/electronics with HS 851769 is a claim only, not evidence of manufacturing vs trading). Revenue FY25/FY26 null - no audited accounts or official filings located. Note also that declared HS 851769 (telecom/network equipment) is unverified and, per rule 3, any HS mismatch is not a rejection ground. Recommended next step: obtain the exact legal name or GSTIN from the client, then re-check on the MCA portal / GST public search."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "BROAD STEEL INDUSTRIES LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд DuckDuckGo возвращал 'Connection refused' на все запросы; Bing по точным запросам в кавычках (\"Broad Steel Industries LLP\", \"Broad Steel Industries\" + India steel, + site:indiamart.com/zaubacorp.com/tofler.in) выдавал только словарные статьи о слове 'broad' — ни одного релевантного результата, т.е. индексация/поиск не работали; Google и Brave вернули HTTP 429; один из проверенных URL оказался припаркованным доменом. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-форма, GET-запрос без параметров не даёт результатов поиска по имени, поэтому прямой скрининг по SDN/Non-SDN не подтверждён. Итог: ни по одному из обязательных пунктов (санкционные списки OFAC/UN/EU/UK/BIS, индийские судебные дела с ролью и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой, признаки поставок в РФ/СНГ) публичных данных получить не удалось. Все поля оставлены null — это означает 'не проверено / нет публичных данных', а НЕ 'чисто'. Компания не отклоняется по правилу 2 и по отсутствию данных; требуется повторный прогон при восстановлении доступа к поиску и к реестрам (MCA/ZaubaCorp/Tofler, eCourts/NJDG, OFAC/EU/UK/BIS consolidated lists, CRISIL/ICRA/CARE)."
+}

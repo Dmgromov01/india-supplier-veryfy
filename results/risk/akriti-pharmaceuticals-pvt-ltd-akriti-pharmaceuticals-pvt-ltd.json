@@ -1,0 +1,9 @@
+{
+ "name_input": "AKRITI PHARMACEUTICALS PVT LTD; AKRITI PHARMACEUTICALS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only generic Microsoft boilerplate unrelated to the query (query not honoured); ZaubaCorp and TheCompanyCheck returned HTTP 403; OFAC Sanctions List Search is a JS form and returned no query results via plain HTTP GET. Consequently NO sanctions screening (OFAC SDN/UN/EU/UK/BIS), NO Indian court-case check (e.g. eCourts/NCLT), NO regulator-action or negative-news check, NO credit-rating check and NO Russia/CIS supply-evidence check could actually be performed for 'Akriti Pharmaceuticals Private Limited'. All fields are set to null because nothing is public/verified in this session — these nulls mean 'not verified', NOT 'clean'. Do not treat this record as a cleared supplier. Per project rules this is not a rejection ground either (no evidence of non-existence, liquidation or bankruptcy was found or sought), so the company stays in the base pending re-run of the risk checks. Recommended next step: re-run with working search access and query (a) OFAC/UN/EU/UK/BIS consolidated lists, (b) eCourts and NCLT by company name, (c) CDSCO/state FDA enforcement notices, (d) CRISIL/ICRA/CARE/India Ratings, (e) Indian pharma export/trade records for Russia/CIS destinations. Note also that the claimed industry ('Нефтегаз и химия' — oil & gas and chemicals) is inconsistent with a pharmaceuticals name and declared HS 300490; that is a classification matter outside this risk role and is flagged for the identity/HS reviewer, not used as a risk finding."
+}

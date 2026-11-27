@@ -1,0 +1,18 @@
+{
+ "name_input": "F D C LIMITED",
+ "legal_name": "FDC Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": 2070.0,
+ "revenue_fy26_cr": 2126.0,
+ "revenue_source": "Screener.in standalone P&L (Sales, Mar 2025 = 2,070 Cr; Mar 2026 = 2,126 Cr), derived from company filings; consolidated FY25 sales ~2,10x Cr. Not independently verified against audited PDF.",
+ "note": "Entity exists and is listed (BSE 531599, NSE: FDC); no strike-off/liquidation/bankruptcy indication, so not rejected. Registry fields (CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status) could NOT be confirmed: search backend was down (searx connection refused) and registry aggregators (Zaubacorp, TheCompanyCheck) returned HTTP 403; Bing/Google/DuckDuckGo returned no usable results or blocked. CIN L24239MH1940PLC003164 was used only as a search query, NOT confirmed on any page, therefore left null rather than asserted. Company is a fully integrated pharmaceutical manufacturer (formulations 92%, bulk drugs 6% of FY25 revenue per Screener) — role manufacturer. Declared HS 293329 (heterocyclic compounds with nitrogen hetero-atom(s)) is a chemical/bulk-drug code; company's actual profile is formulations-led pharma, so HS may need correction to a pharma/bulk-drug code — per project rules this is not a rejection ground. State claimed in input was empty, so no state mismatch can be assessed. Revenue figures are from a secondary aggregator of filings, not read from the audited annual report itself."
+}

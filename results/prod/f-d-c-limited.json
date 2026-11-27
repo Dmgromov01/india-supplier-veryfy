@@ -1,0 +1,16 @@
+{
+ "name_input": "F D C LIMITED",
+ "declared_hs": "293329",
+ "actual_hs_list": [
+  "30049099",
+  "30049011",
+  "30049099",
+  "21069099",
+  "30021500",
+  "30042019"
+ ],
+ "match_status": "wrong",
+ "product_summary": "FDC Limited (Mumbai, listed Indian pharma company) is a finished-dosage-form manufacturer, not a bulk heterocyclic-compound producer. Known product lines (from company/public domain knowledge, NOT re-verified in this session): Electral / Enerzal ORS and electrolyte drinks (oral rehydration salts, glucose-electrolyte powders), Electral powder sachets; ophthalmic and ENT preparations (eye/ear drops, e.g. moxifloxacin, tobramycin, olopatadine lines); dermatology and topical anti-infectives; cardiac/cardiovascular and anti-diabetic oral solids; vitamins/minerals and nutraceutical supplements; some API/bulk actives at the Baddi/Rohika plants. Website www.fdclimited.com could not be read in this session (bot-verification interstitial 'One moment, please... Loader'; all guessed sub-paths /products, /about-us, /our-business, /sitemap.xml returned 404), and web_search was unavailable (searx connection refused), so the product list above is NOT corroborated by a fetched page in this run and must be treated as 'заявлено, не подтверждено' until the catalogue is re-read.",
+ "role_hint": "manufacturer",
+ "comment": "HS 293329 = 'Heterocyclic compounds containing an imidazole ring (whether or not hydrogenated), not condensed' — a bulk API/intermediate heading. FDC's declared trade is overwhelmingly finished medicaments in dosage form, which fall in 3004 (and ORS/electrolyte drinks in 2106/3004 depending on presentation), not in 2933. So the declared code is a wrong classification for the actual product mix: partial overlap only if FDC exports imidazole-ring bulk actives (e.g. an imidazole antifungal intermediate) — that specific line is not evidenced here. Recommended correction: primary 30049099 (other medicaments, retail) with 30049011 (ayurvedic/ herbal, if such lines), 21069099 (electrolyte/ORS food-type preparations) and 30021500/30042019 for any immunological/antibiotic dosage lines; keep 293329 only for a documented bulk imidazole API line. Industry field 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification — FDC is pharmaceuticals/healthcare (pharma FDF + nutraceuticals), not petrochemicals. No trader signs: own manufacturing plants (Rohika/Baddi, Waluj, Sinnar, Goa) and own brands, so role = manufacturer. Per project rule 3 this HS mismatch is NOT a rejection ground: company stays in the base with corrected codes and verdict accepted_hs_corrected. No customs line was available to me in this session, therefore no shipment-level corroboration of any HS code — all codes above are 'заявлено, не подтверждено'."
+}
