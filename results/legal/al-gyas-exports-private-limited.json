@@ -1,0 +1,18 @@
+{
+ "name_input": "AL-GYAS EXPORTS PRIVATE LIMITED",
+ "legal_name": "AL-GYAS EXPORTS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and zaubacorp company-search returned HTTP 403 (bot blocking); tofler.in and instafinancials.com returned 404 for the guessed URL slugs; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant generic 'AL' results, i.e. no indexed match for the exact name 'AL-GYAS EXPORTS PRIVATE LIMITED'. Consequently CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are NOT public to me in this run, not 'absent'. No audited accounts or MCA/official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' rather than guessed: the name contains 'EXPORTS' but no registry record was read to confirm manufacturer vs trader. Per project rules the company is NOT rejected - rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and I have no such evidence either way; absence of a search hit is not proof of non-existence. Declared HS 100630 (semi-milled or wholly milled rice) is consistent with an 'exports' trading name but is unverified against any GST/registration record; per rule 3 HS mismatch would not be a rejection ground anyway. Action needed: re-run with working search or manual MCA master-data / GST portal lookup to obtain CIN and GSTIN before any factual-shipment assessment."
+}

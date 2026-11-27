@@ -1,0 +1,18 @@
+{
+ "name_input": "ETALON INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена: ни один реестровый источник не удалось прочитать. Что пробовалось (10 вызовов): web_search (DuckDuckGo/searx) — бэкенд недоступен (Connection refused); zaubacorp.com — HTTP 403; thecompanycheck.com — HTTP 404; instafinancials.com — HTTP 403; google.com — HTTP 429; duckduckgo.com/html — таймаут; bing.com — выдаёт только нерелевантные результаты про оптические эталоны (кэш/AI-ответ), по запросам с GST/CIN/Udyam и с abrasives/grinding wheel — тот же нерелевантный набор; quickcompany.in — HTTP 404; falconebiz.com — страница требует JavaScript, поиск не отдаётся. Итог: exact legal entity name, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус — null, публично не подтверждены в рамках доступных инструментов. Роль — unknown (нет данных ни о производстве, ни о трейдинге). Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. ВАЖНО: компания НЕ отклоняется — отсутствие найденной записи не является доказательством несуществования юрлица (правило 3: rejected только при подтверждённой ликвидации/банкротстве/struck off). Заявленный HS 680422 (абразивы на связке, кроме фарфора/керамики) и отрасль «Строительство и DIY» не проверялись по существу и не являются основанием для отклонения (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или при предоставлении поставщиком CIN/GSTIN/PAN — тогда возможна точная верификация."
+}
