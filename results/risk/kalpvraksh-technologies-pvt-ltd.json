@@ -1,0 +1,9 @@
+{
+ "name_input": "Kalpvraksh Technologies PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: все поисковые каналы были недоступны в момент проверки. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; duckduckgo.com/html и lite.duckduckgo.com — timeout; google.com — редирект-заглушка без результатов; bing.com — выдал нерелевантную мусорную выдачу (запрос искажён), результатов по компании нет; zaubacorp.com и instafinancials.com — HTTP 403; tofler.in — 404 на поисковом URL. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать запрос через GET — фактического матчинга по имени не произведено, поэтому sanctions_hit = null (НЕ 'чисто'). Аналогично не проверены UN/UK/EU/BIS Entity List, индийские суды (eCourts/NCLT), рейтинги (CRISIL/ICRA/CARE) и следы поставок в РФ/СНГ. Внимание: заявленное в карточке имя 'KALPAVRIKSHA TECHNOLOGIES' и имя в запросе 'Kalpvraksh Technologies' расходятся в написании — при следующей проверке уточнить точное юридическое имя, т.к. это влияет на корректность матчинга по санкционным спискам. Все поля оставлены null согласно правилу 'не выдумывать'. Требуется повторный прогон при доступном поиске; выводов о наличии/отсутствии рисков делать нельзя."
+}

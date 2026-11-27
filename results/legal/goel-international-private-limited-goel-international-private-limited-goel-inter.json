@@ -1,0 +1,18 @@
+{
+ "name_input": "GOEL INTERNATIONAL PRIVATE LIMITED; Goel International Private Limited; GOEL INTERNATIONAL PRIVATE LIMITED; GOEL INTERNATIONAL PRIVATE LIMITED; GOEL INTERNATIONAL PVT. LTD.; GOEL INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": "GOEL INTERNATIONAL PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные не подтверждены: ни один реестровый источник не удалось прочитать. Инструмент веб-поиска возвращал ошибку соединения (searx: Connection refused) либо нерелевантную выдачу; MCA-портал (mca.gov.in) и агрегаторы реестров (zaubacorp.com, thecompanycheck.com, falconebiz.com) отдают HTTP 403, tofler.in и quickcompany.in — 404 по прямым адресам. В результате CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, статус GST, дата регистрации, штат регистрации, статус в MCA, а также выручка за FY25/FY26 (только по аудированной отчётности или официальным филингам) остаются null — публично не получены в рамках этой проверки. Роль (manufacturer/trader) не определена: без данных MCA о видах деятельности и без GST-профиля отнести компанию к категории нельзя, поэтому role = unknown (трейдеры по правилам проекта не отклоняются). Вердикт: НЕ отклонять — оснований для rejected (несуществование, struck off, ликвидация, банкротство) не установлено, но и подтверждения существования юрлица не получено; требуется повторная проверка при доступности MCA/Zauba/Tofler. Название 'GOEL INTERNATIONAL PRIVATE LIMITED' — крайне распространённое в Индии, возможны несколько разных юрлиц с таким именем в разных штатах; без CIN идентификация конкретного поставщика невозможна. Заявленный HS 100630 (рис) в этой проверке не оценивался (вне роли legal/registry)."
+}

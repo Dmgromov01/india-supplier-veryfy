@@ -1,0 +1,9 @@
+{
+ "name_input": "MAPLE BIOTECH PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable findings. Tooling failure: DuckDuckGo/searx backend refused connections on all attempts; Bing returned identical cached generic results ('Maple' software/MapleStory) for every query variant, i.e. the quoted company name was not actually searched; ZaubaCorp returned HTTP 403; Tofler could not be fetched (tool unavailable); Google returned HTTP 429. The OFAC Sanctions List Search page loaded but is a JavaScript-driven form - no query could be executed against the SDN/Non-SDN lists, so no sanctions screening result was obtained. Therefore: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because NOTHING WAS VERIFIED, not because a clean result was established. Do not read these nulls as 'no sanctions / no cases / no Russia supply'. No public record of this entity was retrieved at all - not even confirmation that 'Maple Biotech Private Limited' exists as an Indian legal entity, so the name may also be a transliteration variant of a differently-spelled registrant. Per project rules this company must NOT be rejected on the basis of missing data (rejection is reserved for non-existent/liquidated/bankrupt entities, and non-existence was not established either). Recommended next step: re-run this company in a later batch with working search, and screen the exact registered name against OFAC SDN, UN Consolidated, EU consolidated, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NCLT) and credit bureaus (CRISIL/ICRA/CARE/India Ratings). No CIN, PAN, revenue or shipment figures are asserted here as none were obtained."
+}

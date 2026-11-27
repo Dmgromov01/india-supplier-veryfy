@@ -1,0 +1,8 @@
+{
+ "name_input": "UMC MILLS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'umc-mills-pvt-ltd' returned only a paywalled shell: \"Shipments available for UMC MILLS PVT LTD, refreshed daily\" — zero shipment rows rendered (0 rows seen). Slug variant 'umc-mills-private-limited' returned the identical empty shell (0 rows seen). No bill-of-lading number, date, destination or HS code was visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, so no domestic-supply source could be located; volza, eximpedia, trademo returned HTTP 403 and importgenius returned a JavaScript challenge. 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны (ImportKey — платная заглушка без строк, volza/eximpedia/trademo — 403, importgenius — JS-челлендж, веб-поиск — Connection refused). Поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found: отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Заявленный HS 340250 (чистящие средства) и 392490 (пластмассовые изделия для дома) с названием 'Mills' не согласуются — вероятно, компания торговая либо код указан неверно; по правилу 3 это не основание для отклонения, код подлежит уточнению. Выручка: null (не публична/не найдена). Требуется повторная проверка при доступном поиске или платном доступе к таможенным данным."
+}

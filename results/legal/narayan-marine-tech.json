@@ -1,0 +1,18 @@
+{
+ "name_input": "Narayan Marine Tech",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input 'legal_claimed' value 'NILESHKUMAR MAHAVIRBHAI JOSHI' is a personal name, not a company name, which indicates this is most likely a sole proprietorship / individual GST registration rather than a company or LLP — such entities have no CIN/LLPIN and no MCA record, so cin_llpin and mca_status are structurally null. No public GSTIN profile, PAN, incorporation date or state could be retrieved: the web_search backend was down (connection refused) and direct fetches of Bing/Google returned unrelated results, while Zauba Corp and InstaFinancials returned HTTP 403. No audited accounts or official filings were found, so revenue FY25/FY26 are null (not estimated). Role left as 'unknown' — the declared HS codes (840810 marine propulsion engines, 840999 engine parts, 841290, 848310 transmission shafts) suggest marine engine/spare parts supply, but no registry evidence confirms manufacturer vs trader status. Per project rules this is NOT a rejection ground: no evidence the entity is non-existent, struck off, liquidated or bankrupt — status is simply unverified, pending a manual GST/MCA portal lookup. Note also that the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining) is inconsistent with the declared HS codes, which point to marine engines/mechanical parts; industry classification should be corrected on review."
+}

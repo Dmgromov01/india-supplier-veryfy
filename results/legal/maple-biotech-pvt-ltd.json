@@ -1,0 +1,18 @@
+{
+ "name_input": "MAPLE BIOTECH PVT LTD",
+ "legal_name": "MAPLE BIOTECH PRIVATE LIMITED (as claimed; not independently verified in MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx: connection refused) on both queries; DuckDuckGo HTML timed out; Bing returned only irrelevant generic 'Maple' results (maple.com, maplesoft, MapleStory) for every query variant tried, i.e. no India-registry hits surfaced. Direct fetches of registry aggregators were blocked: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, instafinancials.com HTTP 403, tofler.in returned 404 for the guessed slug, Google search HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT public-verified, simply not retrieved. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; equally there is no positive confirmation of its registration. Role left as 'unknown' - the declared HS codes (1108.13 starches, 1302.19/1302.20 plant saps/pectates, 2933.59 heterocyclic compounds) span food-ingredient and pharma-intermediate categories and cannot be used to infer manufacturer vs trader. Declared industry 'food & FMCG' is consistent with the starch/pectin codes but is unverified. Action required: re-run with working search/registry access (MCA master data, GST portal public search, or a paid aggregator) before this company is used in any decision."
+}

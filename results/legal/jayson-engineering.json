@@ -1,0 +1,18 @@
+{
+ "name_input": "Jayson Engineering",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing отдавал нерелевантную выдачу, а реестровые агрегаторы (zaubacorp, thecompanycheck, instafinancials, tofler) вернули 403/404. Ни одна запись реестра не подтверждена. Заявленное в input юрлицо 'JAYSON ENG AND MFG CO' не подтверждено как существующее юрлицо (это может быть торговое наименование, а не название компании по MCA). CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка — null, так как публично не получены. Роль не определена (unknown). Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при доступных реестрах (MCA master data, GST-портал)."
+}
