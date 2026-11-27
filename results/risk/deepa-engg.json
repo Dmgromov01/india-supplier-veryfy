@@ -1,0 +1,9 @@
+{
+ "name_input": "Deepa engg",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data collected. The DuckDuckGo/searx search backend returned 'Connection refused' on every attempt (2 calls). Fallback attempts: Google returned only a redirect/consent interstitial with no results; html.duckduckgo.com timed out; Bing returned an identical cached generic result set ('Deepa' as a personal name, DeepAI, IMDb, Wikipedia) for three materially different queries, i.e. it did not execute the query terms and yielded nothing about any Indian entity named 'Deepa Engg'/'Deepa Engineering'. OpenSanctions search API returned HTTP 401 (key required); one alternative host did not resolve. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all null - NOT because they were checked and found clean, but because no source could be retrieved. No CIN, PAN, rating figure, case number or shipment record is asserted, as none was verifiable. Also note the input itself is weak: 'Deepa engg' is an abbreviated trade name with no PAN, state or full legal suffix supplied, so even with working search the entity would likely be ambiguous among several Indian firms using the 'Deepa' name. Recommended next step: re-run this company once search access is restored, and request the full legal name plus PAN/CIN and state from the supplier to disambiguate. Per project rules this is not a rejection ground - the company stays in the database pending verification."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "SAHO CERAMICA LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No public record of this entity could be located. Search tooling was degraded during this run: the DuckDuckGo/searx backend returned 'Connection refused' on every query, and fallback Bing queries for the exact strings \"SAHO CERAMICA LLP\", \"SAHO CERAMIC LLP\" and \"Saho Ceramica\" returned only unrelated results (Saho people, sahovets.com veterinary clinic, the film Saaho) — no Indian company page, no MCA/Tofler/Zauba/IndiaFilings record, no news item. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its lookup is a POST form that could not be submitted with the available tooling, so no name-level screening result was obtained. Therefore: sanctions_hit = null (not screened, NOT a clean result); court_cases = null (no eCourts/NJDG/High Court record found, but absence of a searchable entity means this is unverified, not confirmed clean); rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found); news_risk = null (no negative news found, but no coverage of the entity at all was found either); rf_supply = null (no evidence of supplies to Russia or CIS found; equally no evidence of any export activity found). Per project rules this is not a rejection ground and no verdict is proposed here — the entity is simply unverified on all risk dimensions. Recommended next step: obtain the LLP's registration number/LLPIN or PAN from the supplier and re-run screening against OFAC SDN, UN, EU, UK OFSI and BIS Entity List, plus eCourts and MCA filings, once search connectivity is restored."
+}

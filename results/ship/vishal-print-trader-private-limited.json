@@ -1,0 +1,8 @@
+{
+ "name_input": "VISHAL PRINT TRADER PRIVATE LIMITED",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey India customs page (slug vishal-print-trader-private-limited) shows 3694 records, 25 trading partners, 34 ports, latest cargo 2026-02-28; all five visible rows are INBOUND imports into India, e.g. \"2026-02-24 | FLINT CPS INKS GERMANY GMBH -> VISHAL PRINT TRADER PRIVATE LIMITED | ... ULTRACURA PLAS BASE WHITE TRANSPARENT WHITE (PRINTING INK) | Hamburg, GERMANY -> NHAVA SHEVA SEA INNSA1, India | HS 32151990 | BOL 7721773\". No outbound/export row with an Indian origin port was seen. Source counter: page claims 3694 shipments; rows actually read = 5 (all imports).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split found in the sources reachable (web_search backend returned connection refused; volza.com and eximpedia.app returned HTTP 403). Domestic supply therefore not verifiable from public data in this pass.",
+ "note": "Company is an active importer/distributor of printing consumables (offset blankets, UV/water-based inks, screen-printing emulsion) at 33 Mehta Estate, M.V. Road, Chakala, Andheri (E), Mumbai. Declared HS 321519 is consistent with the observed import line HS 32151990 (printing ink), so no HS correction is needed. Role: trader/importer-distributor, not manufacturer. Export shipments: no trace found — the customs record is import-only. Domestic supply: no trace found in public sources; GST turnover and tender data are not public here, so recorded as unknown, not as confirmed. Revenue: null (not public). No export B/L with Indian origin, date and destination could be cited, so export_status is none_found rather than declared_only."
+}

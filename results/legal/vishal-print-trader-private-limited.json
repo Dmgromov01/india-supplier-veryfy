@@ -1,0 +1,18 @@
+{
+ "name_input": "VISHAL PRINT TRADER PRIVATE LIMITED",
+ "legal_name": "VISHAL PRINT TRADER PRIVATE LIMITED (as claimed; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not absent. Tooling failures: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in Master Data all returned HTTP 403 Forbidden; Google returned only a redirect interstitial; Bing returned only irrelevant results about the actor 'Vishal' / Vishal Mega Mart for every exact-name query, i.e. no indexed registry page surfaced. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null because they were not publicly retrievable in this session — they are NOT reported as non-existent. No PAN 4th-character holder type can be derived without a PAN. Role left as 'unknown': the name suffix 'TRADER' suggests a trading entity, but that is an inference from the name only, not a registry-confirmed business activity, so it is not asserted. Per project rules, rejection is NOT applied: rejection requires positive evidence that the entity does not exist, is struck off, liquidated or bankrupt, and no such evidence was found — absence of a retrieved record is not evidence of non-existence. Declared HS 321519 (printing ink / paints-varnishes segment) is not treated as a rejection ground under rule 3; note that the input industry label 'Нефтегаз и химия' (oil & gas and chemicals) is only loosely consistent with HS 321519 (inks), and the HS code should be confirmed against the actual product line once the entity is identified. Recommended next step: manual lookup on the MCA portal by exact company name, or a paid aggregator (Tofler/Instafinancials) with authenticated access, to obtain CIN and then GSTIN from the GST portal search."
+}
