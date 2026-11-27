@@ -1,0 +1,8 @@
+{
+ "name_input": "UBON India",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record retrieved. ImportKey page https://importkey.com/countries/india/ubon-india loaded as a JavaScript shell: it rendered only the boilerplate line \"Shipments available for UBON INDIA, refreshed daily\" with 0 actual shipment rows visible (source counter: page claims data exists; rows actually seen: 0). Volza (https://www.volza.com/p/ubon/export/export-from-india/) returned HTTP 403, Eximpedia returned HTTP 403, Trademo returned HTTP 403, ImportGenius returned a JavaScript challenge page. No bill-of-lading number, date, destination or HS code could be read from any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record retrieved. Search backend (DuckDuckGo/searx) was unavailable (connection refused / timeout) and Bing returned only unrelated results (The North Face, BioScan USA) for every query attempted, so no domestic supply record was located. GST turnover: null (not public in retrieved sources).",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники данных об отгрузках были недоступны (403 / JS-challenge / пустой JS-шелл), поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found. Ни одной записи B/L, даты, направления или номера отгрузки получить не удалось; ничего не выдумано. Заявления сайта/каталогов (UBON — известный индийский бренд аудио/IT-аксессуаров) фактом отгрузки не считаются. Заявленный HS 851830 (наушники/гарнитуры) не проверен по таможенным записям. Требуется повторная проверка при доступности volza/eximpedia/importkey с оплаченным доступом или через GST-портал по фактическому юрлицу (юрлицо и CIN не подтверждены — null)."
+}

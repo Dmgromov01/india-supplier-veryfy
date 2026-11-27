@@ -1,0 +1,9 @@
+{
+ "name_input": "Gland Pharma Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - tooling failure, not a clean result. The web_search backend returned 'Connection refused' on every attempt (searx unavailable), so no sanctions screening (OFAC SDN/UN/EU/UK/BIS Entity List), no court-record search (Indian Kanoon unreachable - DNS failure), no credit-rating lookup (ICRA rating-list URL returned 404; CRISIL rating-list URL returned 404) and no negative-news search could be executed. Only the company's own website (glandpharma.com) was reachable: it confirms Gland Pharma Limited is an Indian listed injectables manufacturer (NSE/BSE listed since 2020) with Shanghai Fosun Pharma as a promoter/shareholder, and it publishes investor disclosures, but a corporate website is not evidence for any risk field. All six risk fields are therefore null = NOT PUBLICLY VERIFIED IN THIS RUN, not 'no findings'. No sanctions, court, rating or Russia/CIS-supply conclusion should be drawn from this record. Per project rules, nothing here is a rejection ground; the company stays in the base. Recommended: re-run screening when search access is restored, checking OFAC SDN/EU/UK/BIS lists for 'Gland Pharma' and its Fosun Pharma parent, Indian court records, and CRISIL/ICRA rating rationales."
+}
