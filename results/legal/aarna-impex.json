@@ -1,0 +1,18 @@
+{
+ "name_input": "AARNA IMPEX",
+ "legal_name": "AARNA IMPEX (unverified — exact legal form not established)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com returned HTTP 403; thecompanycheck.com search returned HTTP 404; indiamart.com returned HTTP 429; Google search page was a JS redirect stub; Bing returned only irrelevant results (baby-name sites) for all three query variants, including site-restricted queries against zaubacorp/tofler/thecompanycheck. Consequently nothing is confirmed: exact legal entity name and legal form (proprietorship / partnership / LLP / Pvt Ltd) unknown, CIN/LLPIN null, PAN null (cannot derive 4th-character holder type), GSTIN null, GST status null, incorporation date null, registered state null, MCA status null. Role set to 'unknown' — the name suffix 'IMPEX' suggests an import/export trading operation, but this is an inference from the trade name only, not a registry finding, and is not evidence of manufacturer vs trader status. Revenue FY25 and FY26 null: no audited accounts or official filings located, and no figures are estimated. Per project rules this is NOT a rejection — the entity has not been shown to be non-existent, struck off, liquidated or bankrupt; it simply remains unverified. Declared HS 330510 (shampoo/hair preparations) is not assessed here and is not a rejection ground in any case. Recommended next step: re-run against MCA master data / GST public search with a working search backend, or obtain the GSTIN or PAN directly from the supplier, before any verdict is issued."
+}

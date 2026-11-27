@@ -1,0 +1,18 @@
+{
+ "name_input": "Khodiyar Springs",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT retrieved. The claimed legal name 'KHODIAR SPRING IND' could not be matched to any verifiable MCA/registry record: it is not a valid legal-name form (no 'Private Limited'/'LLP' suffix) and appears to be a trade/brand name rather than a registered entity name. Tooling failed during this run: the DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403/404; Google returned HTTP 429; Bing returned only irrelevant results (razors, LinkedIn profiles, Mexican tax authority) for every query variant tried, including exact-phrase searches for 'Khodiyar Spring', 'Khodiyar Springs', 'Khodiyar Spring Industries' and 'KHODIYAR SPRING IND'. Consequently CIN/LLPIN, PAN (and therefore PAN holder type from the 4th character), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT invented. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role set to 'unknown' because no registry record confirms manufacturer vs trader status; the declared HS 732020 (iron/steel coil springs) is consistent with a springs maker but HS is not evidence of legal role. Per project rules this is NOT a rejection: no evidence the entity is struck off, liquidated or bankrupt - the entity's existence is simply unverified. Recommended next step: re-run with working search access, or obtain the supplier's GSTIN/CIN directly from the supplier, then verify on the GST portal and MCA master data."
+}

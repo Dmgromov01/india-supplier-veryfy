@@ -1,0 +1,8 @@
+{
+ "name_input": "Parkash Gears",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page exists for slug 'parkash-gears' and 'parkash-gears-ludhiana', but the page body contains only the template line \"Shipments available for PARKASH GEARS, refreshed daily\" with no shipment rows, dates, destinations, HS codes or B/L numbers rendered. Source counter: 2 ImportKey pages fetched, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on all 3 queries, so no domestic-supply source could be located. 0 domestic evidence rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: данные просто не получены. ImportKey отдаёт только заглушку за пейволлом (0 строк записей), volza/eximpedia/trademo вернули HTTP 403, а поисковик был недоступен (connection refused) на всех запросах. Поэтому статус по обоим каналам — unknown, а не none_found: отсутствие данных не равно отсутствию поставок. Выручка и объём экспорта — null (не публичны / не получены), не выдумывались. Заявленный HS 848390 (части зубчатых передач) не проверен по фактическим записям; несоответствие HS основанием для отклонения не является. Юрлицо не проверялось по MCA — вне области задачи. Требуется повторный прогон при доступном поиске или платном доступе к таможенным записям."
+}

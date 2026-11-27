@@ -1,0 +1,9 @@
+{
+ "name_input": "DG Propulsion",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the DuckDuckGo/searx web_search backend returned 'Connection refused' on every attempt; Google and DuckDuckGo HTML endpoints were blocked or timed out; Bing returned only irrelevant cached results for the token 'DG' (Dollar General, Dolce&Gabbana) and ignored the quoted phrase 'DG Propulsion Private Limited' across three different query formulations; zaubacorp.com returned HTTP 403; the maritime registry host did not resolve. Therefore NO check was possible against OFAC SDN, UN, EU, UK or BIS Entity List, no Indian court records (eCourts/NCLT/HC) were retrieved, no credit rating lookup was performed, no negative-news sweep was done, and no evidence regarding supplies to Russia or the CIS was found or ruled out. All fields are null because nothing is public to me in this session - this is an absence of research, NOT a clean result. Do not read null here as 'no sanctions' or 'no court cases'. Per project rules this company must NOT be rejected on this basis (no evidence of non-existence, liquidation or bankruptcy was obtained either). Recommended action: re-run this company once the search backend is restored, or verify manually via MCA master data, the OFAC SDN search UI, the BIS Entity List, eCourts/NCLT and CRISIL/ICRA/CARE rating pages. Note also that the declared industry ('Металлургия и горнодобыча' / metallurgy and mining) and declared HS 841111 (turbojets/turbopropellers) are inconsistent with a name suggesting propulsion equipment - flagged for the HS/identity researcher, not a risk finding and not a rejection ground."
+}

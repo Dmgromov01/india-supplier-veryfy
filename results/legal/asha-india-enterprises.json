@@ -1,0 +1,18 @@
+{
+ "name_input": "ASHA INDIA ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить юрлицо. 'ASHA INDIA ENTERPRISES' — типовое имя индийской proprietorship/partnership, не являющейся компанией по Companies Act 2013, поэтому CIN/LLPIN и MCA-статус для неё в принципе отсутствуют (это не признак несуществования). Входное поле legal_claimed = 'NIRMAL PRAFULL PAREKH' выглядит как имя физлица-собственника (proprietor/partner), а не как название юрлица; подтверждения связи этого имени с 'ASHA INDIA ENTERPRISES' найти не удалось. PAN/GSTIN/дата регистрации/штат не найдены: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Bing по запросам с кавычками выдавал только нерелевантные результаты про American Speech-Language-Hearing Association, а агрегаторы реестров (zaubacorp, instafinancials) вернули HTTP 403, tofler — 404. Выручка FY25/FY26 отсутствует в публичном доступе (для proprietorship аудированной отчётности в MCA нет) — null, не выдумано. Роль не определена: manufacturer/trader установить нельзя. НЕ отклонено: нет доказательств, что юрлицо не существует, ликвидировано или банкрот; отсутствие данных — не основание для rejected. Требуется ручная проверка: GST-профиль по имени собственника на gst.gov.in / подтверждение PAN и штата регистрации от поставщика."
+}

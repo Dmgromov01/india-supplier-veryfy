@@ -1,0 +1,8 @@
+{
+ "name_input": "MSM REACH OUT WORL WIDE",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/msm-reach-out-world-wide and .../msm-reach-out-world-wide-private-limited both returned only the generic page shell: \"Shipments available for MSM REACH OUT WORLD WIDE PRIVATE LIMITED, refreshed daily\" with the shipment table left empty (\"Loading...\"). Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was displayed on either page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search backend (DuckDuckGo/searx) returned \"Connection refused\" / timeout on every query, so no domestic-supply record was located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и опровергнуть нельзя: проверка не состоялась по техническим причинам, а не потому, что записей нет. ImportKey по двум вариантам слага (msm-reach-out-world-wide и msm-reach-out-world-wide-private-limited) отдал пустой шаблон без строк отгрузок; volza, eximpedia, trademo — HTTP 403; importgenius — JS-challenge; веб-поиск недоступен (searx: Connection refused). Заявленный HS 950691 (товары для спорта/игр) не соответствует заявленной отрасли «Продукты питания и FMCG» — это несоответствие зафиксировано, но по правилу 3 основанием для отклонения не является; фактический код не установлен, поэтому не исправлялся. Выручка и объём экспорта: null (не публичны / не получены). Юрлицо не подтверждено и не опровергнуто — CIN/PAN не найдены, реестры (zaubacorp) недоступны (403). Требуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}
