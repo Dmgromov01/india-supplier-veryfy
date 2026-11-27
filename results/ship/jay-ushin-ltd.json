@@ -1,0 +1,8 @@
+{
+ "name_input": "Jay Ushin Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/jay-ushin-ltd returned only a JavaScript shell: \"Shipments available for JAY USHIN LTD, refreshed daily\" — no shipment rows, no dates, no destinations, no B/L numbers rendered. Rows actually seen: 0. volza.com/p/jay-ushin/ → HTTP 403; eximpedia.app → HTTP 403; trademo.com → HTTP 403; importgenius.com → JS challenge page. No export record with date/destination/HS/B-L could be retrieved from any free source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Company website jayushin.com did not resolve (DNS error); screener.in/company/JAYUSHIN/ → HTTP 404; BSE page returned only a generic page shell with no financial content. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено в доступных источниках — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что отгрузок нет: все четыре платных агрегатора (Volza, Eximpedia, Trademo, ImportGenius) закрыты 403/JS-челленджем, а ImportKey отдаёт пустую JS-оболочку без строк. Заявленный HS 830120 (замки/фурнитура для транспортных средств) не проверен по фактическим записям — HS не подтверждён и не опровергнут. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Требуется платный доступ к таможенным данным или годовой отчёт с BSE для закрытия вопроса."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Jay Ushin Ltd",
+ "legal_name": "JAY USHIN LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": 868.83,
+ "revenue_fy26_cr": 983.07,
+ "revenue_source": "Tickertape financials page for BSE-listed Jay Ushin Ltd (JAYUSH), FY2025 and FY2026 total revenue in INR crore (https://www.tickertape.in/stocks/jay-ushin-JAYU); figures are aggregator-reported from company filings, not independently verified against the audited annual report",
+ "note": "Entity exists and is listed on BSE (scrip code 520066, symbol JAYUSH); Tickertape profile describes it as engaged in manufacturing and sale of automotive lock and key sets, combination switches, heater control panels and door latches, hence role=manufacturer. CIN, PAN, GSTIN, incorporation date, registered-office state and MCA status could NOT be confirmed: web_search backend was down (connection refused) and registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials, QuickCompany) returned 403/404 or only landing pages, so these fields are null rather than guessed. Declared HS 830120 (padlocks/locks and key parts of base metal) is broadly consistent with its lock-and-key-set product line, but HS is not a rejection criterion per project rules. No rejection grounds found (no evidence of strike-off, liquidation or bankruptcy). Revenue figures are aggregator-sourced, not audited-account-verified; treat as indicative."
+}

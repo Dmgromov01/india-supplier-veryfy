@@ -1,0 +1,17 @@
+{
+ "name_input": "SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SURE WORKS INFOTECH; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED; SUREWORKS INFOTECH PRIVATE LIMITED",
+ "declared_hs": "847150",
+ "actual_hs_list": [
+  "847150",
+  "847170",
+  "851762",
+  "847130",
+  "847330",
+  "852351",
+  "847180"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт sureworks.in (главная, /sales/, /rentals/): основана в 2009, Бангалор, 16 филиалов + 1 зарубежный. Реальные товарные линии по разделу Sales: 'Enterprise-grade servers (rack, tower, blade) from leading OEMs and recertified units' -> 847150 (процессорные блоки обработки данных); 'High-performance storage systems, SAN, NAS, JBOD, data arrays' -> 847170 (запоминающие устройства); 'Networking equipment, workstations, and end-user devices' -> 851762 (маршрутизаторы/коммутаторы), 847130 (портативные ПК/ноутбуки, в т.ч. Chromebook — упомянуты в услуге C.A.T.), 847180; 'Hard-to-find or end-of-life hardware for legacy environments' (recertified/EOL) -> 847330 (части и принадлежности машин 8471). Дополнительно: tape drives / StorageTek, Overland-Tandberg -> 852351/847170 (носители и ленточные библиотеки); ITAD, data sanitization, degaussing, refurbish — услуги, не товар. Основной профиль по сайту — сервис/поддержка (third-party maintenance Dell EMC, IBM, HPE, Lenovo, Hitachi, Huawei, Fujitsu, NetApp, Cisco, Sun/Oracle, Arista, Brocade, Juniper), аренда оборудования и managed services.",
+ "role_hint": "trader",
+ "comment": "Заявленный 847150 подтверждается лишь частично: серверы — да, но это одна из нескольких линий. Сайт прямо описывает себя как 'IT solutions provider' с продажей 'from leading OEMs and recertified units', т.е. перепродажа/рефарб, а не собственное производство — признак трейдера (role_hint=trader; возможен manufacturer_trader только при наличии собственной сборки, чего на сайте не заявлено). Пропущены в декларации: 847170 (SAN/NAS/JBOD/ленточные библиотеки), 851762 (сетевое оборудование), 847130 (ноутбуки/Chromebook), 847330 (запчасти, EOL-компоненты), 852351 (носители). Отраслевая классификация 'IT и электроника' корректна, но по факту компания ближе к 'IT services / hardware resale & refurbishment', а не к производству вычислительной техники. Все товарные позиции — заявлено на сайте, не подтверждено: таможенных/B-L записей в рамках этой проверки не смотрели (по правилам роли объёмы и таможня не исследуются), поэтому статус каждой линии — 'заявлено, не подтверждено'. HS-несоответствие не является основанием для отклонения (правило 3): компания сохраняется, код расширяется до фактической номенклатуры. Источники: https://www.sureworks.in/ , https://www.sureworks.in/sales/ , https://www.sureworks.in/rentals/ ."
+}

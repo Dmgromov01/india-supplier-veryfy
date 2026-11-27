@@ -1,0 +1,9 @@
+{
+ "name_input": "The New Ball Bearing Co.LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый слой в этой сессии неработоспособен. web_search возвращал ошибку соединения (searx: Connection refused), DuckDuckGo html-эндпоинт — таймаут, а Bing на все запросы (в т.ч. в кавычках: \"The New Ball Bearing Co\", \"New Ball Bearing Co\" LLP, + sanctions/court/NCLT) отдавал нерелевантную общую выдачу (словарные статьи про артикль 'the', новостные сайты) — то есть совпадений по компании не найдено, но и подтвердить отсутствие записей нельзя. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, результат по имени через http_get не извлекается; SDN List last updated 11/23/2026, Non-SDN 11/4/2026 — сверка по имени не произведена. Итог: по всем полям null, а не 'чисто'. Санкционная экспозиция (OFAC SDN/UN/EU/UK/BIS Entity List), индийские суды (party role/status), действия регуляторов, негативные новости с датами, кредитный рейтинг с датой и статусом, а также признаки поставок в РФ/СНГ — НЕ проверены, публичных данных не получено. Отклонять по этим основаниям нельзя (правило 2); статус риска — 'не проверено, требуется повторный прогон при восстановлении доступа к поиску/реестрам (MCA, NCLT, eCourts, OFAC/EU/UK consolidated lists)'."
+}

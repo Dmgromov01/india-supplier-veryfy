@@ -1,0 +1,58 @@
+{
+ "name_input": "TATA CONSULTANCY SERVICE; M/S TATA CONSULTANCY SERVICES LTD; TCSL; TATA CONSULTANACY SERVICES LIMITED; M/S TATA CONSULTANCY SERVICES LIMITED; TATA CONSULTANCY SERVICE LTD.; TATA CONSULTANCY SERVICE LIMITED; TATA CONSULTANCY SERVICES LTD.; TATA CONSULTANCY SERVICES LTD.; TATA CONSULTANCY SERVICES LTD; M/S TATA CONSULTANCY SERVICES LTD.; Tata Consultancy Services Limited",
+ "sanctions_hit": false,
+ "court_cases": {
+  "verified_records": null,
+  "known_matters": [
+   {
+    "matter": "US class action lawsuits (contested wage/employment claims in the US)",
+    "party_role": "defendant",
+    "status": "not verified in this pass - section heading only, details not retrievable",
+    "source": "https://en.wikipedia.org/wiki/Tata_Consultancy_Services (Controversies > US class action lawsuits)"
+   },
+   {
+    "matter": "Trade secret lawsuits (US litigation)",
+    "party_role": "defendant",
+    "status": "not verified in this pass - section heading only",
+    "source": "https://en.wikipedia.org/wiki/Tata_Consultancy_Services (Controversies > Trade secret lawsuits)"
+   },
+   {
+    "matter": "2026 Nashik BPO workplace harassment case",
+    "party_role": "employer/respondent (reported)",
+    "status": "not verified in this pass - section heading only",
+    "source": "https://en.wikipedia.org/wiki/Tata_Consultancy_Services (Controversies > 2026 Nashik BPO workplace harassment case)"
+   }
+  ],
+  "indian_court_records": "not retrieved - search backend unavailable (searx connection refused); no NCLT/HC/SC docket confirmed",
+  "note": "Per project rule 2, litigation is not a rejection ground; recorded neutrally."
+ },
+ "rating": {
+  "agency": null,
+  "rating": null,
+  "date": null,
+  "status": "not verified - CRISIL/ICRA/CARE pages not retrievable in this pass (CRISIL rating-list URL returned 404)",
+  "note": "TCS is a listed large-cap (BSE:532540, NSE:TCS) per Wikipedia infobox; no credit rating figure asserted without a source."
+ },
+ "news_risk": {
+  "level": "low-moderate",
+  "items": [
+   {
+    "item": "Market capitalisation reported to have fallen below US$100bn in June 2026 (from US$200bn in Sept 2021)",
+    "date": "June 2026",
+    "source": "https://en.wikipedia.org/wiki/Tata_Consultancy_Services"
+   },
+   {
+    "item": "Workplace harassment case reported at Nashik BPO facility",
+    "date": "2026 (exact date not verified)",
+    "source": "https://en.wikipedia.org/wiki/Tata_Consultancy_Services (section heading)"
+   }
+  ],
+  "regulator_actions": "none confirmed in this pass; not verified against SEBI/NSE/BSE disclosure pages"
+ },
+ "rf_supply": {
+  "evidence_found": false,
+  "detail": "No evidence of supplies to Russia or CIS located. Note: TCS is an IT services firm, not a goods exporter; the declared HS 847340 (parts of office/accounting machines) does not match its business, but HS is out of scope for this role. Russian-market presence/exit status could not be verified because the search backend was unavailable.",
+  "source": null
+ },
+ "note": "Sanctions: no OFAC SDN/Non-SDN hit found for the name; OFAC Sanctions List Search tool loaded (SDN list last updated 11/23/2026) but the interactive lookup could not be executed via http_get, so this is a negative screen on available evidence, not a certified clearance. UN/EU/UK/BIS Entity List not independently checked - search backend down (searx: connection refused). Court cases: Wikipedia lists US class actions, trade-secret suits and a 2026 Nashik harassment case, but the section body was truncated/rate-limited (HTTP 429 on raw wikitext), so party roles and statuses are unverified; Indian court records not retrieved. Credit rating: null - no agency page retrievable. Russia/CIS supply: no evidence found, null rather than assumed. All gaps are tooling limitations, not clean results."
+}
