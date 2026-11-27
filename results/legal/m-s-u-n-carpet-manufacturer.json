@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S U.N. CARPET MANUFACTURER",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Bing отдавал только нерелевантные словарные результаты по запросам «Unique Exports» / «U.N. Carpet Manufacturer» / «U.N.CARPET MANUFACTURER GSTIN», а агрегаторы реестров (zaubacorp, instafinancials, tofler) вернули 403/404, mca.gov.in — 403. Поэтому: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка FY25/FY26 — null (не публично доступно в рамках лимита запросов, не выдумывалось). Название входа «M/S U.N. CARPET MANUFACTURER» с заявленным юрлицом «UNIQUE EXPORTS» типично для ИП/проприетарной фирмы (M/s = messrs), у которой CIN отсутствует по определению, а PAN/GSTIN принадлежат физлицу-проприетору — но это гипотеза, не подтверждённая источником. Роль: unknown (заявлено «manufacturer», но подтверждения нет). Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица; оснований для rejected (ликвидация/банкротство/struck off) не найдено. Заявленный HS 570110/570251 (ковры ручной работы/тканые) не соответствует указанной отрасли «Продукты питания и FMCG» — по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический (ковры), вердикт accepted_hs_corrected при подтверждении существования юрлица. Требуется повторная проверка при доступности реестров: MCA master data, GST-портал (поиск по названию), PAN-валидация."
+}

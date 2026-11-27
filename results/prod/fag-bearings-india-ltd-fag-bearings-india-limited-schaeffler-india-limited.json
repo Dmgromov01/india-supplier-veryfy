@@ -1,0 +1,25 @@
+{
+ "name_input": "FAG BEARINGS INDIA LTD.; FAG BEARINGS INDIA LIMITED; Schaeffler India Limited",
+ "declared_hs": "848220",
+ "actual_hs_list": [
+  "848210",
+  "848220",
+  "848230",
+  "848240",
+  "848250",
+  "848280",
+  "848291",
+  "848299",
+  "848320",
+  "848330",
+  "848340",
+  "848350",
+  "848360",
+  "870893",
+  "848790"
+ ],
+ "match_status": "partial",
+ "product_summary": "Schaeffler India Limited (formerly FAG Bearings India Ltd, renamed after merger with INA Bearings India and LuK India) is a bearings and precision-components manufacturer. Product lines per company/group disclosures: (1) FAG brand — rolling bearings: deep groove ball bearings, angular contact and four-point bearings, cylindrical / spherical / tapered roller bearings, needle roller bearings, housed and split plummer block units, bearing housings and accessories; (2) INA brand — needle roller bearings and cage assemblies, linear motion technology (linear guides, ball bushings, linear actuators), precision components for engines and transmissions; (3) LuK brand — clutch systems, clutch release bearings, dual-mass flywheels, torque converters and transmission components for automotive; (4) industrial aftermarket services (mounting, alignment, condition monitoring). Declared code 848220 covers only tapered roller bearings, i.e. one sub-line of the FAG range.",
+ "role_hint": "manufacturer",
+ "comment": "Сверка с сайтом/каталогом: сайт schaeffler.co.in и группа schaeffler.com отдали HTTP 403 при попытке чтения (проверено 3 попытки, включая прокси r.jina.ai), поэтому перечень продуктов взят из общеизвестного брендового портфеля FAG/INA/LuK и названия юрлица; постраничная ссылка на конкретный каталог не зафиксирована — статус «заявлено, не подтверждено» для позиций, не покрытых таможенной строкой. Заявленный HS 848220 (подшипники роликовые конические, включая конические роликовые сборки) — ЧАСТИЧНОЕ соответствие: он верен для одной товарной линии, но не покрывает основную массу номенклатуры. Фактические коды, которые следует добавить: 848210 (шарикоподшипники), 848230 (сферические роликовые), 848240 (игольчатые роликовые), 848250 (цилиндрические роликовые), 848280 (прочие роликовые), 848291/848299 (шарики, ролики, прочие части подшипников), 848320/848330 (корпусные подшипники, подшипники скольжения), 848340/848350/848360 (передачи, маховики/шкивы, муфты и устройства для соединения валов), 870893 (сцепления и их части — линия LuK), 848790 (прочие части машин без электрических соединений). Отраслевая классификация «Металлургия и горнодобыча» — ОШИБОЧНА: компания относится к машиностроению / производству подшипников и компонентов трансмиссии (машиностроение, автокомпоненты), горнодобыча и металлургия — лишь конечные отрасли потребления. Признаков трейдера нет: это производитель с собственными заводами (Ваднагар/Гуджарат — FAG, Хосур/Тамилнад — INA, Пуна — LuK), т.е. role = manufacturer. По правилу 3 несоответствие HS не является основанием для отклонения: компания сохраняется в базе, вердикт accepted_hs_corrected — код 848220 оставить как один из фактических, дополнить перечнем выше. Позиции, не подтверждённые таможенной строкой (все, кроме 848220), помечены «заявлено, не подтверждено». Выручка, объём экспорта, CIN/PAN и таможенные записи в рамках этой роли не исследовались — null."
+}

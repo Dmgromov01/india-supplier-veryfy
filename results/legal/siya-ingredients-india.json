@@ -1,0 +1,18 @@
+{
+ "name_input": "siya ingredients india",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один источник не подтвердил существование юрлица с названием 'Siya Ingredients India'. Инструмент web_search (DuckDuckGo/searx) был недоступен (connection refused / timeout), Bing и Google через http_get возвращали нерелевантную выдачу, а реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдают HTTP 403. Входные данные противоречивы: в поле legal_claimed указано физлицо 'ROHAN AJAY DESHMUKH' (вероятно, проприетор/директор), а не название компании; PAN, GSTIN и штат в запросе отсутствуют, поэтому сверить нечего. CIN/PAN/GSTIN/дата регистрации/статус MCA/выручка — null, так как публично не получены; цифры не выдумывались. Роль — unknown (по заявленным HS 071021/071290/293930/350400 это может быть переработка пищевых продуктов, но подтверждения нет). ВАЖНО: отклонение (rejected) НЕ применяется — отсутствие подтверждения в доступных источниках не равно доказательству несуществования юрлица; статус — 'не проверено, требуется повторный запрос к MCA/GST-порталу при восстановлении доступа к поиску'. Рекомендуется запросить у поставщика точное юрлицо, CIN/GSTIN и PAN."
+}
