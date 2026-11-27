@@ -1,0 +1,8 @@
+{
+ "name_input": "RM Chemical",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey pages for slugs 'rm-chemical', 'r-m-tech-india' and 'rm-chemicals' all returned only the generic template shell — e.g. \"Shipments available for RM CHEMICAL, refreshed daily\" — with 0 actual shipment rows rendered (source counter: 3 pages fetched, 0 bill-of-lading records seen, 0 dates, 0 destinations, 0 HS codes). No B/L number, date or destination could be extracted.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: zaubacorp.com returned HTTP 403, and the DuckDuckGo search backend was unreachable (\"searx: <urlopen error [Errno 111] Connection refused>\") for both queries attempted. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: все источники оказались недоступны (volza, eximpedia, trademo, importgenius — HTTP 403 / JS-challenge; importkey — пустой шаблон без строк; поисковик не работал). Заявленный HS 170250 (свекловичный/тростниковый сахар) не подтверждён и не опровергнут — фактический код не установлен, поэтому HS не исправлялся. Юрлицо 'R M TECH INDIA' не верифицировано (CIN/PAN не найдены, реестры недоступны) — статус существования unknown, оснований для rejected нет. Выручка и объём экспорта: null (данных нет, не выдумывались). Требуется повторная проверка при доступных источниках."
+}

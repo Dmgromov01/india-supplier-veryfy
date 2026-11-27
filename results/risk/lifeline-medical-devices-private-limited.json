@@ -1,0 +1,9 @@
+{
+ "name_input": "LIFELINE MEDICAL DEVICES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Risk-only check as of 2026-11-23. Sanctions: no match found for the exact name in the OFAC Sanctions List Search tool (SDN + Non-SDN consolidated lists, SDN list last updated 11/23/2026 per the tool page); UN, EU, UK OFSI and BIS Entity List were NOT checked because the search backend (DuckDuckGo/searx) was down for the whole session (connection refused) and no direct query interface was reachable - so sanctions exposure is reported as null, not as 'clear'. Court cases: Indian Kanoon exact-phrase search for \"Lifeline Medical Devices\" returned 0 matching results; a broader unquoted query returned 104 hits but all were generic keyword matches (Jindal Stainless, Kaushal Kishor, Consim Info v Google etc.) with no case actually naming this company - therefore no court case with party role/status could be identified, recorded as null. Regulator actions and negative news: not verifiable - web_search unavailable and Google/Bing/ZaubaCorp returned 429/403 or irrelevant results; null, not confirmed clean. Credit rating: no public rating (CRISIL/ICRA/CARE/India Ratings) located; null. Russia/CIS supply evidence: none found; null. IMPORTANT LIMITATION: the claimed name is a very common Indian trade name and no identifier (CIN/PAN/state) was supplied, so name-only matching cannot exclude a homonym - results should be re-run once search access is restored and a CIN is provided. Per project rules, absence of sanctions/court findings is not a rejection ground and nothing here supports rejection."
+}

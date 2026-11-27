@@ -1,0 +1,18 @@
+{
+ "name_input": "PRUTHVI INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибки соединения либо нерелевантную выдачу; агрегаторы реестров (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдают HTTP 403 при автоматическом доступе; Google — HTTP 429. Ни одной подтверждённой записи (CIN, PAN, GSTIN, дата регистрации, MCA-статус) не найдено, поэтому все поля null — цифры и идентификаторы не выдумывались. Название 'PRUTHVI INDUSTRIES' без организационно-правовой формы (Private Limited / LLP / sole proprietorship) неоднозначно: под ним в Индии могут существовать несколько разных субъектов, включая ИП без CIN. Отклонять НЕЛЬЗЯ: отсутствие данных не равно отсутствию юрлица (правило 3). Роль оставлена unknown — по названию и заявленному HS 200811 (фруктовые/ореховые консервы) определить manufacturer vs trader невозможно. Требуется ручная проверка на mca.gov.in (поиск по имени) и в GST-портале (search by trade name) либо уточнение у поставщика полного юрлица, CIN/GSTIN и PAN."
+}

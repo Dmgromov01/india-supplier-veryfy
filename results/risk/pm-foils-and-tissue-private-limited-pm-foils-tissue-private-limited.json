@@ -1,0 +1,9 @@
+{
+ "name_input": "PM FOILS AND TISSUE PRIVATE LIMITED; PM FOILS & TISSUE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. No verifiable public record found for this entity, so all risk fields are null — this is an absence of accessible data, NOT a clean bill of health. Tooling problems during this run: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only generic 'PM' disambiguation results and ignored the quoted company name, so no relevant hits were surfaced. Registry/aggregator pages could not be read: zaubacorp.com returned HTTP 403 (both the direct company URL and the company-search URL), tofler.in returned HTTP 404 for the guessed slug, instafinancials.com returned HTTP 404 for the guessed slug. Consequently nothing could be confirmed on: (a) sanctions exposure — no OFAC SDN, UN, EU, UK or BIS Entity List screening result obtained; (b) Indian court cases (party role/status) — not checked against eCourts/NCLT/High Court records; (c) regulator actions or negative news with dates — none found, but coverage was effectively zero; (d) credit rating (agency, date, status) — no CRISIL/ICRA/CARE/India Ratings/Acuite action located; (e) evidence of supplies to Russia or the CIS — none found, and none disproven. Per project rules, sanctions/court/criminal matters would in any case not be rejection grounds and would be recorded neutrally as 'есть сложности'. No CIN, PAN, GSTIN, rating figure or case number is asserted here because none was verified — do not populate these fields from this report. Recommended next step: re-run with a working search backend and read the MCA master-data page plus eCourts/NCLT by CIN, and screen the exact legal name against the OFAC SDN, EU consolidated, UK OFSI and BIS lists before any decision."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ESTER INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить реестровые данные не удались по техническим причинам: DuckDuckGo-поиск возвращал 'Connection refused' (бэкенд недоступен); прямые запросы к thecompanycheck.com, zaubacorp.com, instafinancials.com вернули HTTP 403; Google — HTTP 429; DuckDuckGo HTML — timeout; Bing по трём разным запросам ('Ester India' CIN GSTIN, site:-ограничение на zaubacorp/thecompanycheck/tofler, 'Ester India' chemicals manufacturer GST number) выдал один и тот же закэшированный набор результатов про химические эфиры (Wikipedia/Britannica/LibreTexts) — то есть поисковик не отработал запрос по компании. Никаких сведений о юрлице 'ESTER INDIA' (CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, MCA-статус, выручка) получить не удалось, поэтому все поля null, а не выдуманы. ВАЖНО: 'Ester India' — это также название химической продукции/рода деятельности, поэтому входное имя может быть не юридическим наименованием, а торговой маркой или описанием; требуется уточнение от заказчика (полное юрлицо, город/штат, GSTIN или сайт). Отклонять НЕЛЬЗЯ: отсутствие данных не равно отсутствию юрлица (правило 3 — rejected только при несуществовании/ликвидации/банкротстве, что не установлено). Роль оставлена 'unknown'. Заявленный HS 293321 (гидантоин и его производные) не проверялся по существу — по правилу 3 несоответствие HS не является основанием для отклонения. Рекомендуется повторная проверка при восстановлении доступа к реестрам (MCA21, GST-портал) или после уточнения идентифицирующих данных."
+}

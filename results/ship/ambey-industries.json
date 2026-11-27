@@ -1,0 +1,8 @@
+{
+ "name_input": "AMBEY INDUSTRIES",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page for AMBEY INDUSTRIES (G.T. Road, Dharam Mill Road; contact 919216589828) shows only inbound import lanes: \"2026-01-20 AL QARYAN INTERNATIONAL -> AMBEY INDUSTRIES HEAVY MELTING STEEL SCRAP AS PER ISRI 200-206 ... ICD PLIL Ghungrana INGPL6, India 72044900 7002182\" — all 5 visible rows are imports into India (origin New Zealand/Kuwait/Chile/Aden), no outbound export row with an Indian origin port was seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was found in the sources reachable in this pass; the only public trace is the customs-importer profile (274 records, 5 counterparties, 14 port lanes) which evidences purchases, not domestic sales.",
+ "note": "Counter check: ImportKey header states \"Total Shipments 274 Records detected\" but the free view exposes only 5 shipment rows (all imports of steel scrap HS 72044900, latest 2026-01-20, B/L nos. 7002182, 6236719, 6064620, 6022707, 4260584) — so 5 of 274 rows actually seen. Declared HS 841391 (pump parts) does not match the observed trade: the company appears as an importer of ferrous scrap (HS 72044900) at Ludhiana/Kilaraipur/Adani ICDs, i.e. a scrap trader/consumer, not a pump-parts exporter. No export shipments found; no domestic supply evidence found — следов поставок (экспортных) не найдено. Revenue and export volume: null (not public). Slug variants tried: /ambey-industries (hit), /ambey-industries-ludhiana (empty shell, no records). volza and eximpedia returned HTTP 403; web_search backend was down (connection refused), so no additional second source could be checked."
+}
