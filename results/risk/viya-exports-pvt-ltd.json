@@ -1,0 +1,9 @@
+{
+ "name_input": "Viya exports pvt ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Bing отдавал только нерелевантные результаты (Viya Telecom USVI, SAS Viya, viya.ae и т.п.) без каких-либо упоминаний индийской компании 'Viya Exports Private Limited'; zaubacorp.com, tofler.in, instafinancials.com вернули HTTP 403. OFAC Sanctions List Search открылся, но его форма не позволяет выполнить запрос через http_get — прямой скрин имени по SDN/Non-SDN не получен, поэтому sanctions_hit = null (НЕ подтверждённое отсутствие, а отсутствие данных). Судебные дела (eCourts/NCLT), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия и негативные новости, а также признаки поставок в РФ/СНГ — публично не проверены, данных нет. Ничего не выдумываю: все поля null. Требуется повторный прогон при доступном поиске и/или проверка по MCA-выписке и eCourts по точному CIN/названию. По правилам проекта компания не отклоняется; трейдерская/производственная роль и HS-коды вне рамок данной проверки."
+}

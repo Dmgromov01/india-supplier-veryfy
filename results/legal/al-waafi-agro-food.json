@@ -1,0 +1,18 @@
+{
+ "name_input": "AL WAAFI AGRO FOOD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый источник не удалось прочитать. DuckDuckGo/searx вернул 'Connection refused', Bing по запросу в кавычках выдал нерелевантную выдачу (Alabama/Aluminium) — совпадений по названию нет; zaubacorp.com, tofler.in, mca.gov.in и search.mca.gov.in отдали 403/404/DNS-ошибку. Входные данные указывают на ИП/единоличное предприятие (legal_claimed = 'MOHAMMED SHOAIB QURESHI SHAIKH WAZIR QURESHI' — имя физлица, не название компании), поэтому CIN/LLPIN и MCA-статус могут отсутствовать в принципе; для таких лиц нужны GSTIN и PAN, которых в запросе нет (pan_claimed пусто). Никаких данных о юрлице, PAN, GSTIN, дате регистрации, штате, роли и выручке не подтверждено — все поля null, цифры не выдумывались. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица при недоступных реестрах не равно доказанному отсутствию юрлица (правило 3). Требуется повторный прогон при доступных реестрах либо GSTIN/PAN от поставщика. Заявленный HS 020230 (мясо КРС, замороженное) не проверялся — по правилу 3 несоответствие HS не является основанием для отклонения."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "Yuksom Breweries Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company pages exist for both slug variants (https://importkey.com/countries/india/yuksom-breweries-ltd and .../yuksom-breweries) but the shipment table is gated: the page renders only 'Loading...' and 'Join ImportKey to view the import and export data records of companies all over the world.' Zero shipment rows visible; no date, destination, HS code or B/L number could be read. No counter value displayed (shipment count hidden behind paywall).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved. ZaubaCorp, TheCompanyCheck, Eximpedia, Volza, Trademo all returned HTTP 403; ImportGenius returned a JavaScript challenge page. DuckDuckGo search backend was unavailable ('Connection refused') for all queries, so no secondary source could be located.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни одной фактической записи об отгрузке (экспортной или внутренней) получить не удалось. Причина техническая, а не содержательная: поисковый бэкенд не работал, а все торговые базы (ImportKey, Volza, Eximpedia, ImportGenius, Trademo) закрывают строки отгрузок платно или блокируют доступ. Заявление о производстве пива (HS 220300) ничем не подтверждено — статус 'заявлено, не подтверждено'. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Юрлицо не проверено по MCA (реестры вне области задачи, доступ к ним заблокирован) — оснований для отклонения нет, но и подтверждения существования нет. Требуется повторный прогон при работающем поиске или платный доступ к Volza/ImportKey для получения конкретных B/L записей."
+}

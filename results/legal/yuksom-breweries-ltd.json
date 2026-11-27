@@ -1,0 +1,18 @@
+{
+ "name_input": "Yuksom Breweries Ltd",
+ "legal_name": "Yuksom Breweries Ltd (name as claimed; exact MCA-registered spelling NOT verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the search backend returned connection refused / timeouts for every query, and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403, while mca.gov.in returned HTTP 403 and Google/Bing/DuckDuckGo HTML endpoints returned no usable results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — NOT because they are absent, but because no public source could be read in this session. No identifiers were guessed or constructed. Role is 'unknown' (no verified evidence of manufacturing vs trading). Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established, and absence of data is not grounds for rejection. HS 220300 (beer) is consistent with the claimed name 'Breweries' but was not independently confirmed against any filing. Recommended action: re-run verification when registry access is restored (MCA master data, GST public search by trade name, and audited FY25/FY26 accounts)."
+}

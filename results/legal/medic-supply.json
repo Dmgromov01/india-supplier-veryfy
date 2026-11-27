@@ -1,0 +1,18 @@
+{
+ "name_input": "Medic Supply",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена. Входные данные содержат только торговое имя 'MEDIC SUPPLY' без PAN, CIN, GSTIN и штата — этого недостаточно для однозначной привязки к записи в реестре. Инструменты поиска были недоступны: web_search возвращал 'searx: Connection refused' на всех запросах; DuckDuckGo HTML — таймаут; Bing по запросам в кавычках ('\"Medic Supply\" GSTIN', '\"MEDIC SUPPLY\" \"Private Limited\" OR \"LLP\"', site:zaubacorp/tofler/indiamart) выдавал только нерелевантные общие результаты (словарные статьи 'medic', mymedic.com и т.п.), т.е. релевантных страниц не найдено; zaubacorp.com — HTTP 403; indiamart.com — HTTP 429. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус публично не подтверждены — все поля null, ничего не выдумано. Выручка FY25/FY26 не найдена (аудиторской отчётности или официальных филингов нет в доступе) — null. Роль (manufacturer/trader) не определена — unknown. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно доказанному отсутствию/ликвидации/банкротству (правило 3). Заявленный HS 851840 (электроакустические усилители) не соответствует названию 'Medic Supply' (медицинское снабжение) — по правилу 3 это НЕ основание для отклонения; HS требует уточнения у поставщика, вердикт по HS не выносится. Требуется повторная проверка при восстановлении доступа к реестрам (MCA/zaubacorp/tofler) или при получении от поставщика PAN/GSTIN/CIN."
+}

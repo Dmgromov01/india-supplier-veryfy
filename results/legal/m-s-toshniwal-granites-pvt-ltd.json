@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S TOSHNIWAL GRANITES PVT LTD",
+ "legal_name": "TOSHNIWAL GRANITES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: DuckDuckGo search returned 'Connection refused' on both queries; Bing returned only unrelated results (Air Zoo, Microsoft pages) for the exact-name queries; direct fetches of zaubacorp.com, thecompanycheck.com, tofler.in and instafinancials.com all returned HTTP 403 Forbidden; Google search returned only a redirect/consent page. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null because they are not publicly retrievable with the available tools - NOT because they were checked and found absent. No state was claimed in the input, so state_claimed is null and no registered-vs-claimed state comparison is possible. Role cannot be determined from registry data alone; left as 'unknown' rather than inferred from the trade name 'Granites' (which would be a guess, not a source). Per project rules, rejection is only permitted for non-existent/struck-off/liquidated/bankrupt entities - none of that is established here, so this company is NOT rejected; it is simply unverified and must be re-queued for manual MCA/GST portal lookup. Declared HS 680293 (worked monumental/building granite, further worked) is plausible for a granite processor but is not a basis for any verdict under the 23.11.2026 rule. No revenue figures were invented."
+}
