@@ -1,0 +1,18 @@
+{
+ "name_input": "Ahirkar International",
+ "legal_name": "AHIRKAR INTERNATIONAL (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not a negative finding. Tooling failed during this run: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; tofler.in search returned 404; gstinsearch.in failed DNS resolution; Google/Bing/DuckDuckGo HTML endpoints returned irrelevant or empty result pages, so no page containing the company name could be read. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced, and all such fields are null rather than guessed. Name form 'Ahirkar International' is consistent with a sole proprietorship or partnership trading style (Ahirkar is a Maharashtra surname), which would mean no CIN and no MCA record at all — but this is an inference, NOT verified. No basis for rejection: the entity was not shown to be non-existent, struck off, liquidated or bankrupt; absence of retrieved records is a tooling gap, not evidence of non-existence. Role left as 'unknown' — no evidence of manufacturing plant or of trading activity was obtained. Revenue FY25/FY26 null: no audited accounts or official filings located. Declared HS 091099 (spices/seasonings) is not assessed here per role scope. Recommended next step: re-run with working search, checking MCA master data for any 'Ahirkar' entity in Maharashtra and the GST public taxpayer search for the trade name, plus Udyam/Shop & Establishment registration if it is a proprietorship."
+}

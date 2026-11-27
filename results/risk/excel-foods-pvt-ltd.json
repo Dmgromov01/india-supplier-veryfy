@@ -1,0 +1,9 @@
+{
+ "name_input": "EXCEL FOODS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend refused connections (Errno 111); Google returned HTTP 429; DuckDuckGo HTML and Brave timed out/429; Bing ignored the quoted phrase and returned only Microsoft Excel software results for every query variant tried ('\"Excel Foods Private Limited\" India', '\"Excel Foods Pvt Ltd\" India company', '\"Excel Foods\" India sanctions/court/Russia', '\"Excel Foods\" Zauba OR Tofler OR IndiaMART'). OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form whose query results cannot be retrieved via plain HTTP GET, so no SDN screening result was actually obtained. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia or CIS = NOT VERIFIED. Nothing here should be read as a negative finding — it is an absence of research, not an absence of risk. Note also that 'Excel Foods' is a highly generic name with likely multiple unrelated Indian entities (e.g. food-processing/pickle/spice businesses), so any future hit must be tied to a specific CIN/PAN before attribution. Per project rules this company is NOT rejected: no evidence of non-existence, liquidation or bankruptcy was found, and none of the above categories would be rejection grounds anyway. Recommend re-running this company in a later batch when search backends are available, and screening the exact registered name against OFAC/EU/UK/BIS lists plus Indian court and credit-rating sources at that time."
+}

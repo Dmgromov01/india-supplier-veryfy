@@ -1,0 +1,18 @@
+{
+ "name_input": "Bhansali Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the web_search backend returned connection errors ('searx: Connection refused') for all queries, and direct fetches of public registry aggregators failed (zaubacorp.com 403 Forbidden, thecompanycheck.com 404, instafinancials.com 403, Google 429, DuckDuckGo timeout). Bing returned only unrelated cached pages (horizon-metal.com), i.e. no usable results. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures were found. All fields set to null rather than guessed. Note on the input: the claimed name 'BHANSALI ENTERPRISE' is a non-corporate-style name and is most likely a proprietorship/partnership trade name, which would have no CIN and no MCA record at all - in that case only a GSTIN/Udyam registration would exist. No rejection is applied: absence of a verifiable record in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' - the declared HS codes (722211/722220/722230 stainless steel bars/rods/sections, 740729 copper alloy bars) suggest a metals trader or stockist rather than a manufacturer, but this is an inference from HS codes only, not a verified fact. Recommend re-running with a working search backend and checking the GST portal / Udyam registry for the trade name, plus asking the supplier for its GSTIN and PAN directly."
+}

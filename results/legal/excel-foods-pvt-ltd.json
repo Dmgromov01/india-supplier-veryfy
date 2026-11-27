@@ -1,0 +1,18 @@
+{
+ "name_input": "EXCEL FOODS PVT LTD",
+ "legal_name": "EXCEL FOODS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' for both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403 (bot-blocked); instafinancials.com returned HTTP 404 for the guessed slug; Google returned HTTP 429; Bing returned only irrelevant Microsoft Excel software results and ignored the quoted company name, so no MCA/CIN/GST page was reachable. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null - NOT verified, not 'absent'. No rejection applied: there is no evidence the entity does not exist, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Legal name 'EXCEL FOODS PRIVATE LIMITED' is carried over from the input claim only, unconfirmed against MCA. Note that 'Excel Foods' is a common Indian trade name (multiple unrelated entities exist in Kerala, Tamil Nadu, Maharashtra and elsewhere), so the exact entity cannot be pinned down without a CIN or GSTIN; the input provides neither, and state_claimed is empty, so registered-state vs claimed-state comparison is not possible. Role left as 'unknown' - no registry evidence of manufacturing plant, factory licence or trader classification. HS 200799 (jams/fruit preparations) is not assessed here per role scope. Recommended next step: re-run with a working search backend or supply the CIN/GSTIN, then verify on mca.gov.in and the GST taxpayer search."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "LLOYD LABORATORIES PRIVATE LIMITED",
+ "legal_name": "LLOYD LABORATORIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', затем Bing отдавал нерелевантную выдачу (игнорировал кавычки и операторы, подставлял певца Lloyd / бренд Lloyd), а публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) и портал MCA (mca.gov.in) вернули HTTP 403/404. Ни один реестровый факт (CIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка) не подтверждён источником, поэтому все поля оставлены null — цифры и идентификаторы не выдумывались. Роль определена как 'unknown': заявленный HS 293359/293399 (гетероциклические соединения) и отрасль 'Нефтегаз и химия' не позволяют отнести компанию к производителю или трейдеру без реестровых данных. ВАЖНО: отклонять компанию НЕЛЬЗЯ — отсутствие данных не является основанием для rejected (правило 3: отклонение только при несуществовании/ликвидации/банкротстве, что не установлено). Требуется повторный прогон с рабочим поиском или ручная проверка по MCA Master Data / GST-порталу по названию и штату."
+}

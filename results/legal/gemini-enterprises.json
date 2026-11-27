@@ -1,0 +1,18 @@
+{
+ "name_input": "GEMINI ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'GEMINI ENTERPRISES' — не уникальное наименование: под ним в Индии существует множество несвязанных организаций (в основном sole proprietorship / partnership без CIN, а также несколько private limited с похожими названиями). Входные данные не содержат ни штата, ни PAN, ни GSTIN, ни адреса, поэтому привязка к конкретному юрлицу невозможна. Попытки проверки: web_search вернул ошибку бэкенда (connection refused); zaubacorp.com и thecompanycheck.com отдали HTTP 403; Bing/Google по запросам с 'GEMINI ENTERPRISES' + GSTIN/IndiaMART/420310 выдали только результаты про Google Gemini (бренд-шум), релевантных записей нет. Никаких CIN/PAN/GSTIN/даты инкорпорации/выручки не подтверждено — все поля null, ничего не выдумано. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3). Роль не определена (unknown). Для завершения проверки нужны: штат/город, PAN или GSTIN, либо полное название с указанием организационно-правовой формы (Pvt Ltd / LLP / proprietorship) — тогда возможна проверка по MCA/GST-профилю. Заявленный HS 420310 (изделия из кожи) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилу 3 это не основание для отклонения, но требует уточнения у поставщика."
+}
