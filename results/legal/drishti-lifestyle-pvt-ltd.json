@@ -1,0 +1,18 @@
+{
+ "name_input": "Drishti Lifestyle pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены. Все попытки получить первоисточник не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; zaubacorp.com, thecompanycheck.com, falconebiz.com и mca.gov.in (MDS) отдали HTTP 403; tofler.in — 404 по предполагаемому слагу; instafinancials.com — 404; Google/Bing выдача по запросу о CIN/GSTIN вернула нерелевантные результаты (кэш/AI-выдача), пригодных ссылок нет. Поэтому exact legal entity name, CIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null: не публичны в доступных мне источниках либо не найдены. ВАЖНО: null здесь означает 'не проверено', а НЕ 'юрлица не существует' — оснований для rejected нет, компания остаётся в базе как непроверенная (role: unknown). Требуется повторная проверка при восстановлении доступа к MCA Master Data / GST-порталу. Отдельно: заявленный HS 411310 (кожи) и 420231 (изделия из кожи) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилам проекта это НЕ основание для отклонения; при подтверждении деятельности код исправляется на фактический с вердиктом accepted_hs_corrected. Фактичность отгрузок (экспорт/внутренний рынок) в рамках данной роли не исследовалась — следов поставок не проверено, статус: заявлено, не подтверждено."
+}

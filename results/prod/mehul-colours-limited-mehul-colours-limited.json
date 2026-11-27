@@ -1,0 +1,21 @@
+{
+ "name_input": "MEHUL COLOURS LIMITED; MEHUL COLOURS LIMITED",
+ "declared_hs": "320649",
+ "actual_hs_list": [
+  "320649 (pigments/dyeing matter dispersed in plastics — colour masterbatch, incl. white/black/colour/special-effect/transparent MB)",
+  "320619 (white masterbatch based on TiO2, pigment content <80% — Puretone line)",
+  "320611 (TiO2-based preparations, pigment content >=80% — if any high-load white MB)",
+  "320417 (synthetic organic colouring matter / pigment preparations — Chromabatch colour MB)",
+  "320500 (colour lakes) — not confirmed, omit unless catalogue shows lakes",
+  "320419 (other colouring matter incl. preparations — conventional/universal MB)",
+  "390190 / 390210 / 390120 (polymer compounds — Polyedge line, PE/PP based compounds)",
+  "382499 (chemical preparations n.e.s. — Addmax additive masterbatches: UV, FR, antistat, conductive, slip, antiblock)",
+  "390760 / 390799 (PET-based masterbatch/compounds — MicroPET, PurePET, PET transparent MB)",
+  "390410 / 390422 (PVC compounds/masterbatch — rigid & plasticized PVC MB)",
+  "320649 also covers filler masterbatch UltraFill only if pigment-bearing; pure CaCO3 filler would be 283650 / 382499"
+ ],
+ "match_status": "partial",
+ "product_summary": "Mehul Colours Ltd (formerly Mehul Colours & Masterbatches Pvt Ltd), Malad West, Mumbai + Sativali/Vasai East (Palghar) plant; est. 1975, incorporated 1995; ISO 9001:2015; claims ~20 KT/yr colour masterbatch capacity. Real product lines per own website (mehulcolours.com/products): Colour Masterbatches (Chromabatch), White Masterbatches (Puretone), Black Masterbatches (Carbonx, Pianobatch), Special Effect Masterbatches (Specialfx — pearl, metallic, fluorescent, mosaic, wood, sparkle, cloudy), Universal Masterbatches (Omnibatch), Conventional Masterbatches (Technoblend), PET Masterbatches (MicroPET, PurePET), PVC Masterbatches (rigid & plasticized), Transparent Masterbatches (MicroGLAS, TechnoGLAS, PolyGLAS), Additive Masterbatches (Addmax — UV, FR, antistat, conductive, slip, antiblock), Polymer Compounds (Polyedge), Filler Masterbatches (UltraFill), Mono Concentrates. Applications: injection/blow/roto moulding, extrusion, PET and PVC processing. Also offers pre-coloured engineering plastics (PC, ABS, PA, PMMA) per June 2025 news item.",
+ "role_hint": "manufacturer (own multi-locational compounding plants, in-house QC/R&D labs, own brand names; site self-describes as 'manufacturer and exporter' — export activity itself not verified here)",
+ "comment": "HS 320649 is the correct core heading for colour/black/special-effect masterbatch (pigment dispersed in plastics), so the declared code is broadly right for the main line — status partial, not wrong. Gaps in the declaration: (1) white masterbatch (Puretone) is TiO2-based and normally classifies under 320611/320619, not 320649; (2) additive masterbatches (Addmax: UV, FR, antistat, conductive, slip, antiblock) are functional preparations and typically fall in 382499, not 320649; (3) polymer compounds (Polyedge) and pre-coloured engineering plastics are Chapter 39 goods (3901/3902/3904/3907), a separate product family entirely absent from the declared code; (4) PET- and PVC-based masterbatches may be declared as Chapter 39 compounds depending on pigment load; (5) filler masterbatch (UltraFill) may be 283650/382499 if non-pigmented. Industry label 'Нефтегаз и химия' is a coarse bucket — the company is a plastics-additive/pigment masterbatch compounder (petrochemical downstream), not oil & gas; no trader signs found (own plants, own brands, own labs), so no reclassification to trader. All product data is from the company's own website catalogue only — no customs line, B/L or GST record was checked in this task, therefore the entire product range is 'заявлено, не подтверждено' at shipment level. Per project rule 3, the HS mismatch is not a rejection ground: company retained, code corrected/expanded as above. Revenue, export volumes, CIN/PAN and registry data deliberately not researched here (out of scope for this role) — null."
+}

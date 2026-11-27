@@ -1,0 +1,18 @@
+{
+ "name_input": "MEHUL COLOURS LIMITED; MEHUL COLOURS LIMITED",
+ "legal_name": "MEHUL COLOURS LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on all queries, and direct fetches of public registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in and quickcompany.in returned 404 for the guessed slugs, instafinancials.com returned 404, and Bing/Google/DDG HTML endpoints returned irrelevant or empty results. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - none of these are public to me in this session and none are invented. No basis to reject: absence of a retrievable record is not proof of non-existence, so the entity is NOT marked rejected/struck off. Role is 'unknown' - the claimed name 'Limited' and declared HS 320649 (pigments/colourants) suggest a chemicals manufacturer, but that is a claim, not a verified fact. Recommended follow-up: re-run against MCA master data (mca.gov.in / MCA-21 company search) and the GST taxpayer search portal using the exact legal name, and confirm whether the entity is 'Mehul Colours Limited' or a similarly named private limited company, since the input duplicates the name and gives no state or PAN to disambiguate."
+}
