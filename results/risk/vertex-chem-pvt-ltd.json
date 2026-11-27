@@ -1,0 +1,9 @@
+{
+ "name_input": "VERTEX CHEM PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google — HTTP 429, DuckDuckGo HTML — timeout. Bing отдавал только нерелевантную выдачу по 'Vertex' (Vertex Pharmaceuticals, Vertex Inc., Vertex42) — ни одного результата, относящегося к индийской 'Vertex Chem Private Limited'. Tofler по URL поиска вернул 404, ZaubaCorp — HTTP 403. OFAC Sanctions List Search открылся, но это JS-форма без возможности передать параметры через http_get, поэтому фактический матчинг по имени не проводился. Итог: санкционная экспозиция (OFAC SDN/UN/EU/UK/BIS), судебные дела в Индии, действия регуляторов, негативные новости, кредитный рейтинг и признаки поставок в РФ/СНГ — все поля null, данных нет; это отсутствие проверки, а НЕ подтверждённое отсутствие рисков. Не выдумывать: CIN/PAN/номера дел не установлены. Рекомендация: повторить проверку при восстановлении доступа к поиску и проверить имя в OFAC/EU/UK/BIS консолидированных списках вручную, а также в eCourts/NCLT по точному юрлицу."
+}

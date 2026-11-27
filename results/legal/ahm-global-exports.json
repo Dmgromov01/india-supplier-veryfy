@@ -1,0 +1,18 @@
+{
+ "name_input": "AHM Global Exports",
+ "legal_name": "AHM GLOBAL EXPORTS (as claimed; no MCA/registry record located — exact legal form unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data found, not a negative finding. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, instafinancials.com and thecompanycheck.com search returned HTTP 403 (paywall/bot-block); Google returned HTTP 429; DuckDuckGo HTML endpoint timed out. Bing returned only generic 'AHM' brand results (ahmcorp.com, ahm.com.au, ahm-hotels.com etc.) and did not surface any Indian entity matching the exact phrase 'AHM Global Exports', so no CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be sourced. No audited accounts or official filings were located, therefore revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the name suffix 'Exports' and the declared HS codes (040900, 080300, 080610, 081090 — honey, bananas, grapes, other fresh fruit) suggest a trading/export house rather than a manufacturer, but this is inference from the name and HS list only, not evidence. Per project rules the company is NOT rejected: absence of a public record in this session is not proof of non-existence, and HS mismatch is not a rejection ground. Recommended next step: re-run against MCA master data / GST portal search (GSTIN lookup by trade name) and, if the supplier supplies a GSTIN or IEC, verify directly — the IEC (DGFT) would also confirm exporter status. No shipment, court or catalogue research was performed, per role scope."
+}

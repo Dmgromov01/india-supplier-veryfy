@@ -1,0 +1,8 @@
+{
+ "name_input": "NOVELIC INDIA PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No export record found. ImportKey pages for both slug variants ('novelic-india-private-limited' and 'novelic-india-pvt-ltd') returned only the empty template: 'Shipments available for NOVELIC INDIA PVT LTD, refreshed daily' — a boilerplate placeholder, not a shipment row. Rows actually seen: 0 (no date, destination, HS code or B/L number displayed). Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Search backend (DuckDuckGo/searx) was unavailable during this run ('Connection refused'), so no GST/tender pages could be located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это результат отсутствия доступа к данным, а не доказательство отсутствия отгрузок: ImportKey отдал пустой шаблон без единой записи, остальные трейд-агрегаторы заблокировали доступ (403 / JS-challenge), а поисковик был недоступен. Заявленный HS 852610 (радары/навигационное оборудование) не подтверждён и не опровергнут — фактический код не установлен, поэтому HS-корректировка не производится. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторный прогон при работающем поиске и доступе к Volza/Eximpedia."
+}

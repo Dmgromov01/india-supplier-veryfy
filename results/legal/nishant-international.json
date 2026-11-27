@@ -1,0 +1,18 @@
+{
+ "name_input": "NISHANT INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All 10 tool calls failed to yield a usable source: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search returned a 404 page; Google returned HTTP 429; Bing returned completely irrelevant results (unrelated 'game development' / 'eTrade' pages), i.e. the query was not actually executed. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source. IMPORTANT: 'NISHANT INTERNATIONAL' is a very common Indian trade name (multiple proprietorships, partnerships and private limited companies across states, notably in ceramics/tiles in Morbi, Gujarat, but also in textiles, chemicals and trading). Without a GSTIN, PAN, city or CIN in the input it is impossible to disambiguate which entity is meant, and I will not guess. Per project rules, rejection is NOT warranted here: absence of retrievable records is not proof of non-existence, liquidation or bankruptcy, so the company is retained with role 'unknown'. Revenue FY25/FY26 are null because no audited accounts or official filings were accessible - not estimated. Declared HS 690721 (ceramic tiles, >=0.5% water absorption) is plausible for a Morbi-area tile trader/exporter but is unverified; per rule 3, HS mismatch is not a rejection ground in any case. RECOMMENDATION: re-run verification when search infrastructure is restored, and request from the supplier its GSTIN and PAN so the correct legal entity can be pinned down; also request audited FY25/FY26 financials since Indian proprietorships/partnerships do not file public accounts."
+}

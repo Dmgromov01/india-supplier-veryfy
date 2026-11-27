@@ -1,0 +1,21 @@
+{
+ "name_input": "VERTEX CHEM PVT LTD",
+ "declared_hs": "391190",
+ "actual_hs_list": [
+  "380992",
+  "380910",
+  "340290",
+  "340490",
+  "390920",
+  "382499",
+  "291816",
+  "283699",
+  "152000",
+  "340391",
+  "380991"
+ ],
+ "match_status": "partial",
+ "product_summary": "По каталогу IndiaMART (vertexchem.in, GST 27AABCV0773H1ZA, Калян, Тхане, Махараштра; заявлено «Manufacturer, Importer, Exporter», осн. 1994): бумажная химия — Verpap-DI / Paper Deinking Agent (₹250/кг), Verpap-SA 30 Smoothness Agent (₹150/кг), Verfin-SF-300 Gloss Agent (₹140/кг), Verbond-DSR Paper Dry Strength Resin (₹70/кг), Paper Surface Sizing Agent (₹125/кг), Water Repellent Chemical for Paper (₹200/кг), Paper Ammonium Zirconium Carbonate (₹250/кг), Paper Potassium Zirconium Carbonate, Size Press Chemicals, Paper Coating Chemical, Felt Cleaning Agents, Wetting Agent; текстильная химия; водоочистка/ЭТП — Waste Water Treatment Chemicals, Industrial Defoamers; прочее — Calcium Stearate, Polyethylene Wax, Carnauba Wax, Coating Chemical, Melamine Resins, Refined Glycerine, Sodium Salt. Фасовка HDPE carboys/drums. Клиенты (заявлено): TNPL, Rainbow Papers, Cheema Papers, Saraswati Udyog, Balkrishna Industries; экспорт заявлен в Непал, Шри-Ланку, Саудовскую Аравию; импорт части химии из Китая.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Заявленный HS 391190 («прочие полимеры стирола/винилтолуола и пр. продукты полимеризации») подтверждается лишь частично: в каталоге есть полимерные продукты, которые могут попадать в 3911/3909 — Verbond-DSR (катионная полиакриламидная смола сухого упрочнения, вероятнее 3906.90), Melamine Resins (3909.20), Polyethylene Wax (3404.90, не 3911). Основная же масса ассортимента — это НЕ 3911: деинкинг-агенты и смачиватели на ПАВ (3402.90 / 3809.92), surface sizing agent и water repellent для бумаги (3809.92 / 3824.99), ammonium/potassium zirconium carbonate (2836.99 / 2918.16 — соли циркония-аммония), calcium stearate (2915.70), carnauba wax (1520.00 / 3404.90), refined glycerine (1520.00 / 2905.45), industrial defoamers (3824.99), felt cleaning agents (3402.90). Итог: HS 391190 — частичное совпадение, покрывает только смоляную часть линии; декларация не отражает главный профиль компании (бумажная/водоподготовительная химия на ПАВ и неорганике). Согласно правилу 3 — компания сохраняется в базе, код корректируется на фактический по каждой товарной позиции (accepted_hs_corrected), отклонения по HS нет. Признаки трейдера: одновременно заявлены Manufacturer + Importer + Exporter, часть химии импортируется из Китая, продажа через IndiaMART с прайсами за кг — вероятна перепродажа части позиций (calcium stearate, carnauba wax, glycerine, PE wax) наряду с собственным производством. Отраслевая классификация «Нефтегаз и химия» неточна: фактически это specialty chemicals для целлюлозно-бумажной промышленности, текстиля и водоочистки, не нефтегаз. Все перечисленные продукты — «заявлено, не подтверждено»: таможенных/экспортных записей по конкретным линиям в рамках этой проверки не сверялось (по правилам роли объёмы и таможню не исследую), сайт и каталог IndiaMART фактом отгрузки не являются. Данные о выручке/экспорте не проверялись — null."
+}

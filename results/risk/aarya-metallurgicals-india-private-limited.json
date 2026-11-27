@@ -1,0 +1,9 @@
+{
+ "name_input": "Aarya Metallurgicals (India) Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING VERIFIED. Search infrastructure failed during this run: the DuckDuckGo/searx backend returned 'Connection refused' on both queries, Google returned HTTP 429, DuckDuckGo HTML timed out, and Bing returned only irrelevant results (the 'Aarya' TV series, an actor, a US jewellery brand) for every query variant tried — exact legal name in quotes, name + 'private limited MCA directors', name + 'sponge iron/billet/export', name + Raipur/Rourkela/Jharsuguda/Chhattisgarh, and site-restricted queries against zaubacorp.com / tofler.in / thecompanycheck.com. Zaubacorp direct fetch returned HTTP 403. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its search is a JS form that cannot be queried via plain HTTP GET, so no name-level screening was actually executed. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = no data found, not 'none'; credit rating = null, no rating agency page located; regulator actions / negative news = no data found; evidence of supplies to Russia or CIS = no data found. Per project rules I am not inventing values and I am not treating absence of search results as a clean record. This company should be re-queued for a risk pass once web search is restored, and screened by name against OFAC SDN, UN Consolidated, EU consolidated, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NCLT) and CRISIL/ICRA/CARE/India Ratings. No rejection ground is established here either way — this is an unverified record, not a cleared one."
+}
