@@ -1,24 +1,24 @@
 {
  "shard": 1,
  "shards": 20,
- "picked": 374,
- "roles_submitted": 1496,
- "failures": 1041,
+ "picked": 259,
+ "roles_submitted": 1036,
+ "failures": 765,
  "api_key_present": true,
  "api_key_len": 35,
  "model": "deepseek-chat",
  "search": "duckduckgo",
  "preflight": "ok",
- "elapsed_s": 3177,
+ "elapsed_s": 1812,
  "errors": [
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests",
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests",
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests",
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests",
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests",
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests",
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests",
-  "urllib.error.HTTPError: HTTP Error 429: Too Many Requests"
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
+  "urllib.error.HTTPError: HTTP Error 402: Payment Required"
  ],
  "worker": "github"
 }
