@@ -1,0 +1,31 @@
+{
+ "name_input": "CHEMGEMS INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "forum": "ITAT Kolkata (Income Tax Appellate Tribunal)",
+   "case": "DCIT, Circle-6(1), Kolkata vs M/s Chemgems (India) Pvt. Ltd., ITA No.625/Kol/2017, order dated 03.06.2019 (AY 2012-13)",
+   "role": "Respondent / assessee (taxpayer)",
+   "status": "Income-tax appeal decided by ITAT; nature of outcome not verified in full text",
+   "source": "https://indiankanoon.org/search/?formInput=%22Chemgems%20India%22"
+  },
+  {
+   "forum": "ITAT Kolkata",
+   "case": "JCIT (OSD), Cir-6(1), Kolkata vs M/s Chemgems India (P) Ltd., ITA No.1306/Kol/2016, order dated 18.07.2018 (AY 2011-12)",
+   "role": "Respondent / assessee (taxpayer)",
+   "status": "Income-tax appeal decided by ITAT; judgment text references premises 'simultaneously used by the Sister Concern ... namely, Milan Tannery'",
+   "source": "https://indiankanoon.org/search/?formInput=%22Chemgems%20India%22"
+  },
+  {
+   "forum": "ITAT Kolkata",
+   "case": "ITO, WD-29(1), Kolkata vs M/s Special Leather Industries, order dated 24.01.2018 — Chemgems (India) Pvt. Ltd mentioned as a party at 47 South Tangra Road / North Tangra, Rajarhat, Kolkata-39",
+   "role": "Third party mentioned in the record (not a litigant)",
+   "status": "Not applicable — mentioned only as an address/party reference",
+   "source": "https://indiankanoon.org/search/?formInput=%22Chemgems%20India%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: no confirmed hit found, but this is NOT a clean negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript form that returned no queryable results via HTTP GET, and the DuckDuckGo search backend was down for the entire session ('Connection refused'), so OFAC SDN, UN, EU, UK OFSI and BIS Entity List could not be screened by name. sanctions_hit is therefore null = not verified, not 'clear'. Recommend re-screening against the OFAC consolidated SDN CSV and the EU/UK consolidated lists before onboarding. Court cases: three ITAT Kolkata income-tax matters found on Indian Kanoon (2018 and 2019 orders, AYs 2011-12 and 2012-13). These are routine tax-assessment appeals, not criminal or sanctions matters; per project rule 2 they are noted neutrally and are not rejection grounds. Note the entity appears in leather/tannery-adjacent records (sister concern 'Milan Tannery', Kolkata Tangra/Rajarhat addresses), which is consistent with a chemicals-for-leather trade rather than the declared food/FMCG industry — flagged for the industry/HS reviewer, not a risk rejection. Credit rating: no rating found; CRISIL/ICRA/CARE/India Ratings pages could not be reached (ZaubaCorp and TheCompanyCheck both returned HTTP 403), so rating = null, not public/not verified. Negative news: none found, but search coverage was effectively zero this session, so null means 'not verified', not 'no adverse media'. Russia/CIS supply evidence: none found; no export, customs or B/L record linking this entity to Russia or CIS was located, and no such evidence should be inferred from the absence of search results. Overall: no rejection grounds under project rules; verification is INCOMPLETE due to tooling failure and should be re-run."
+}

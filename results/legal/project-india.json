@@ -1,0 +1,18 @@
+{
+ "name_input": "Project India",
+ "legal_name": "PROJECT INDIA SHIPPING & CHARTERING PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no public record could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connection (all web_search calls returned 'no results' due to connection error); zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and tofler.in search returned HTTP 404; Google returned HTTP 429; Bing returned only irrelevant non-Indian results (no matching entity surfaced). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the name suggests a shipping/chartering services business rather than a manufacturer, but this is inference from the name only, not evidence. IMPORTANT: per project rules, rejection is permitted only on proof that the entity does not exist, is struck off, liquidated or bankrupt - no such proof was obtained, so this company is NOT rejected; it is unverified and requires a re-run of registry checks (MCA master data / GST public search) when search access is restored. Note also that declared HS 890120 (ships/ vessels) is a goods code, which is inconsistent with a chartering-services entity name; per rules this is not a rejection ground - the HS code should be corrected to the actual traded/declared goods code and the verdict recorded as accepted_hs_corrected once the entity is confirmed. No shipment, court or catalogue research was performed, per role scope."
+}

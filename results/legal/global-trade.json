@@ -1,0 +1,18 @@
+{
+ "name_input": "Global Trade",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна: 'Global Trade' — родовое название без указания организационно-правовой формы, города или штата; в инпуте нет PAN, GSTIN, CIN и штата, поэтому сопоставить с конкретным юрлицом нельзя. Технические ограничения: DuckDuckGo-бэкенд web_search недоступен (connection refused), zaubacorp.com и instafinancials.com отдают 403, mca.gov.in — 403, Google — 429, Bing возвращает нерелевантную выдачу (Global Credit Union и т.п.). Ни один реестровый источник не открылся, поэтому CIN/PAN/GSTIN/дата регистрации/статус MCA/выручка — null, а не 'не существует'. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3). Роль не определена (unknown) — нет данных ни о производстве, ни о торговле. HS 382290/392190 (химия/полимеры) — заявленный код, фактичность не проверялась, т.к. это вне роли legal/registry. Требуется от заказчика: точное юрлицо, город/штат, PAN или GSTIN — после этого проверку можно завершить."
+}
