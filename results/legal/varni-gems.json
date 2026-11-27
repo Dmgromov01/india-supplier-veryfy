@@ -1,0 +1,18 @@
+{
+ "name_input": "Varni Gems",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a connection error (searx: Connection refused) on both queries; direct fetches of registry/profile sources failed: zaubacorp.com and instafinancials.com returned HTTP 403, thecompanycheck.com and tofler.in returned only landing/404 pages with no entity record, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only unrelated spam results (no 'Varni Gems' hit). No public record of a legal entity named 'Varni Gems' was obtained, therefore legal name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT because they were checked and found absent, but because no source could be read. Role left as 'unknown': the input gives no legal form (no 'Pvt Ltd'/'LLP' suffix), and 'Varni Gems' is a name pattern commonly used by proprietorships/partnerships in the Jaipur gems trade, which would have no CIN and no MCA record at all - this is a hypothesis, not a finding. Revenue FY25/FY26 null: no audited accounts or official filings were accessible; nothing invented. Per project rules the company is NOT rejected - non-existence was not established, only unverified. Note also the input inconsistency: declared HS 710239 (diamonds, non-industrial, cut/polished) contradicts the claimed industry 'Food products and FMCG'; per rule 3 this is not a rejection ground - the HS code should be corrected to the actual activity once the entity is identified. Recommended next step: manual lookup on the GST portal (search by trade name) and MCA/UDYAM, or request the supplier's GSTIN/PAN directly from the client."
+}

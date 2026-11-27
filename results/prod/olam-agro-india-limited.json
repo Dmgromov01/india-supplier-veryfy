@@ -1,0 +1,28 @@
+{
+ "name_input": "OLAM AGRO INDIA LIMITED",
+ "declared_hs": "080132;080212;080221;080261",
+ "actual_hs_list": [
+  "0801.32 — Cashew kernels, fresh or dried (соответствует заявленному 080132)",
+  "0802.12 — Almonds, shelled (соответствует заявленному 080212)",
+  "0802.21 — Hazelnuts/filberts, in shell (соответствует заявленному 080221)",
+  "0802.61 — Walnuts, in shell (соответствует заявленному 080261)",
+  "1801.00 — Cocoa beans, whole or broken, raw or roasted (не заявлено; ofi: cocoa)",
+  "1803.10 / 1805.00 — Cocoa paste/butter, cocoa powder (не заявлено; ofi: cocoa ingredients)",
+  "0901.11 / 0901.21 — Coffee, not roasted / roasted (не заявлено; ofi: coffee)",
+  "0902.10 / 0902.30 — Tea, green/black in packings ≤3 kg (не заявлено; ofi: spices & tea-adjacent lines)",
+  "0904.11 / 0904.21 — Pepper, neither crushed nor ground / crushed or ground (не заявлено; ofi: spices)",
+  "0906.11 / 0908.31 / 0910.11 — Cinnamon, cardamoms, ginger (не заявлено; ofi: spices)",
+  "0402.10 / 0402.21 — Milk powder, fat content ≤1.5% / >1.5% (не заявлено; ofi: dairy)",
+  "1001.99 / 1005.90 / 1201.90 / 1206.00 — Wheat, maize, soybeans, sunflower seed (не заявлено; Olam Agri: grains & oilseeds)",
+  "1006.30 — Milled/semi-milled rice (не заявлено; Olam Agri: rice)",
+  "1511.90 / 1513.19 / 1507.90 — Palm oil, coconut/palm kernel oil, soybean oil (не заявлено; Olam Agri: edible oils)",
+  "2304.00 / 2306.30 — Soybean meal, oilcake (не заявлено; Olam Agri: animal feed & protein)",
+  "5201.00 — Cotton, not carded or combed (не заявлено; Olam Agri: cotton)",
+  "4001.22 / 4001.29 — Natural rubber, technically specified / other (не заявлено; Olam Agri: rubber)",
+  "4407.11 / 4407.99 — Wood sawn or chipped (не заявлено; Olam Agri: wood products)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Заявленные 4 кода (080132 кешью-ядро, 080212 миндаль очищенный, 080221 фундук в скорлупе, 080261 грецкий орех в скорлупе) — это узкая ореховая линейка ofi (Olam Food Ingredients). По сайтам группы подтверждаются: ofi (ofi.com, раздел Ingredients) — Cocoa, Coffee, Dairy, Nuts, Spices плюс платформа Food & Beverage Solutions (bakery, beverages, confectionery, snacking, dairy & desserts, plant-based, savory & culinary, clean label, private label); Olam Agri (olamagri.com, раздел Products & Services) — Grains & Oilseeds (пшеница, кукуруза, ячмень, рожь, рапс, подсолнечник, соя и соевый шрот, лён, сорго, нут), Edible Oils, Rice, Wheat Milling & Pasta, Animal Feed & Protein, Cotton, Rubber, Wood Products, Risk Management Solutions, Ocean Freight. То есть заявленный набор покрывает только ореховую часть, а кофе, какао, специи, молочные ингредиенты, зерновые, масла, рис, корма, хлопок, каучук и лес в декларации отсутствуют. Ореховые коды заявлены корректно по товарной логике (кешью-ядро 0801.32, миндаль 0802.12, фундук 0802.21, грецкий орех 0802.61), но ни одна позиция не подтверждена таможенной линией — по правилу проекта всё это «заявлено, не подтверждено».",
+ "role_hint": "trader / manufacturer_trader (глобальный агро-трейдер и переработчик; ofi заявляет 110+ производственных площадок и 19 инновационных центров, Olam Agri — 70 manufacturing & processing facilities, но это данные группы, не подтверждение конкретных отгрузок индийской компании)",
+ "comment": "Проверка только по товарной/HS-части (реестры, выручка и таможенные объёмы не исследовались по условию задачи). Источники: https://www.olamgroup.com/our-businesses.html (структура: ofi — cocoa, coffee, dairy, nuts, spices + F&B solutions; OGH — palm, rubber, packaged foods, dairy/grains farming), https://www.ofi.com/ (Ingredients: Cocoa, Coffee, Dairy, Nuts, Spices; категории применения), https://www.olamagri.com/ и https://www.olamagri.com/products-services/grains-and-oilseeds (Grains & Oilseeds: wheat, maize, barley, rye, rapeseed, sunflower, soybeans, flaxseed, sorghum, chickpeas; плюс Edible Oils, Rice, Wheat Milling & Pasta, Animal Feed & Protein, Cotton, Rubber, Wood Products). Расхождение в наименовании: заявлено «OLAM AGRO INDIA LIMITED», в поле legal_claimed указано «OLAM FOOD INGREDIENTS INDIA PRIVATE LIMITED» — это два разных юрлица/бренда группы (Olam Agri vs ofi), и по какому именно из них сделана декларация HS, из открытых страниц установить нельзя; это не HS-ошибка, но требует уточнения у поставщика. Отраслевая классификация «Продукты питания и FMCG» неточна: фактически это агро-сырьё и пищевые ингредиенты B2B (трейдинг + переработка), а не FMCG-производитель; в линейке также непищевые позиции — хлопок, натуральный каучук, лесоматериалы, что в заявленную отрасль не укладывается. Коды 080132/080212/080221/080261 по товарной логике корректны (частичное совпадение с фактическим ассортиментом), но ни одна позиция не подтверждена таможенной линией — статус «заявлено, не подтверждено». По правилу 3 HS-несоответствие не является основанием для отклонения: компания сохраняется, вердикт accepted_hs_corrected — рекомендуется дополнить декларацию кодами 1801/1803/1805 (какао), 0901 (кофе), 0904/0906/0908/0910 (специи), 0402 (сухое молоко), 1001/1005/1201/1206/1006 (зерновые и рис), 1511/1513/1507 (масла), 2304/2306 (шрот), 5201 (хлопок), 4001 (каучук), 4407 (лесоматериалы) — при условии, что эти линии реально отгружаются индийским юрлицом. Данные о фактических отгрузках (экспорт/внутренний рынок) в рамках этой задачи не проверялись — null."
+}

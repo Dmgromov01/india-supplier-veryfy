@@ -1,0 +1,14 @@
+{
+ "name_input": "V.T. FOODS PVT.LTD",
+ "declared_hs": "071220;071290;091099;200819",
+ "actual_hs_list": [
+  "071220",
+  "071290",
+  "070310",
+  "091099"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (vtfoods.in, homepage only — sub-pages /products, /about-us, /contact-us return 404) states: dehydrated red onion in all forms, dehydrated white onion, dehydrated garlic, dehydrated vegetables, and fresh white onion. Company describes itself as 'leading Manufacturer and Exporter' with its own onion dehydration plant and garlic dehydration plant at Mahuva, Gujarat; claims ISO 22000:2005, APEDA, FSSAI, Kosher, FDA and Spice Board registration. No product catalogue, spec sheets, packing list or shipment record is publicly readable — all product claims are 'заявлено, не подтверждено'.",
+ "role_hint": "manufacturer (self-declared, own dehydration plants at Mahuva) — not independently corroborated; no trader signs found on the site",
+ "comment": "HS mapping vs declared codes: 071220 (dried onions, whole/cut/sliced/powdered) — EXACT match, this is the core product line and is correctly declared. 071290 (other dried vegetables, mixtures) — PARTIAL: plausible for 'dehydrated vegetables' but the site names no specific vegetable besides onion/garlic, so the line is generic and unverified. 091099 (other spices, incl. spice mixtures) — PARTIAL/weak: only a 'Spice Board Certificate' claim supports it; no named spice product (no pepper, cumin, coriander, turmeric, chilli) appears on the site, so this line looks like a certificate-driven addition rather than a real product line. 200819 (preserved/prepared nuts and other seeds, prepared or preserved) — WRONG: nothing on the site relates to nuts, seeds or prepared/preserved fruit-nut products; the company's only non-dehydrated item is FRESH white onion, which belongs to 070310 (onions, fresh or chilled), not chapter 20. Missing from the declaration: 070310 (fresh white onion) — a real, explicitly advertised product line that has no declared code. Industry classification 'Продукты питания и FMCG' is broadly correct but imprecise: the actual profile is dehydrated onion/garlic/vegetable processing (agro-processing, spice/vegetable dehydration), not general FMCG. Per project rule 3, the HS mismatch is NOT a rejection ground: company is retained, code corrected — 200819 should be replaced by 070310, and 091099 should be kept only if a spice line is evidenced. All product statements are 'заявлено, не подтверждено' — no customs line, invoice or B-L was available to me (registry/customs research out of scope for this role)."
+}

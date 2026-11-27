@@ -1,0 +1,9 @@
+{
+ "name_input": "Latambarcem Brewer Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковый бэкенд (DuckDuckGo/searx) был недоступен на протяжении всей сессии ('Connection refused'), альтернативные движки вернули таймауты, HTTP 429/403 или нерелевантный спам (Bing по запросу 'Latambarcem Brewers' выдал 1 результат — спам-домен sattamatka.org; по запросу с 'Goa brewery news' — форум о Pittsburgh Steelers). Zaubacorp вернул 403. Официальный сайт бренда makadi.in отдаёт только заглушку 'Coming Soon / under construction', т.е. корпоративной информации не содержит. Инструмент OFAC Sanctions List Search — JS-форма, GET-запросом результаты не отдаются, поэтому прямой скрининг по SDN/Non-SDN не проведён. Итог: ни по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), ни по индийским судам (NCLT/High Court/eCourts), ни по действиям регуляторов (FSSAI, Excise/Commissioner of State Tax Goa), ни по кредитному рейтингу (CRISIL/ICRA/CARE/Brickwork), ни по поставкам в РФ/СНГ подтверждённых данных получить не удалось — все поля null, а не 'чисто'. Отсутствие данных здесь НЕ является подтверждением отсутствия риска. Рекомендуется повторить проверку при восстановлении доступа к поиску и провести ручной скрининг по OFAC/EU/UK consolidated lists, eCourts (Гоа), NCLT Panaji/Ahmedabad bench и реестру FSSAI по фактическому CIN/адресу завода. Примечание по правилу 2: любые найденные в будущем санкции/суды/уголовные дела владельцев не являются основанием для отклонения — только нейтральная фиксация."
+}

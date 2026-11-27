@@ -1,0 +1,18 @@
+{
+ "name_input": "OLAM AGRO INDIA LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО — технический сбой инструментов, а не отсутствие компании. Все попытки получить первичные данные не удались: web_search вернул 'searx: Connection refused' (бэкенд DuckDuckGo недоступен); http_get на zaubacorp.com, thecompanycheck.com и mca.gov.in — HTTP 403 Forbidden; instafinancials.com отдал только маркетинговую заглушку без карточки компании; tofler.in — 404; google.com — 429 Too Many Requests; duckduckgo.com — timeout; bing.com вернул нерелевантную выдачу (Instagram-аккаунты 'Olam'), т.е. поиск по точным фразам в кавычках не сработал. В результате НИ ОДНО поле реестра не подтверждено источником: CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA — null. Обращаю внимание на расхождение в исходных данных: name_input 'OLAM AGRO INDIA LIMITED' (публичное АО, суффикс LIMITED) против legal_claimed 'OLAM FOOD INGREDIENTS INDIA PRIVATE LIMITED' (частное АО) — это два разных типа юрлица, и какое из них реально существует/действует, установить не удалось. Также не проверено, не было ли переименования (Olam Agro India Ltd исторически связана с группой Olam / ofi). Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26 — null: аудиторская отчётность и официальные филинги не получены, цифры не выдумывались. ВАЖНО: отклонять компанию НЕЛЬЗЯ — нет ни одного подтверждения, что юрлицо не существует, ликвидировано, struck off или банкрот; отсутствие данных по причине сбоя инструментов не является основанием для rejected. Требуется повторная проверка при восстановлении доступа к MCA Master Data / Zauba / Tofler. HS-коды из входа (080132, 080212, 080221, 080261 — орехи/фрукты) в рамках роли legal/registry не оценивались."
+}
