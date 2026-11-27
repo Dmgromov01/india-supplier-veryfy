@@ -1,0 +1,18 @@
+{
+ "name_input": "METABRASS INDUSTRIES; SURAJ BRASS INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: all sources were unreachable or blocked during this run (DuckDuckGo backend connection refused; Google HTTP 429; Bing returned only irrelevant spam results; Zauba Corp, InstaFinancials, IndiaMART and MCA returned 403; Tofler search returned 404). No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed, so all such fields are null rather than guessed. The input itself is internally inconsistent: the 'legal_claimed' field contains a personal name (SUJIT BHIMJIBHAI BHANDERI), which is typical of a sole proprietorship, while two different trade names are listed (Metabrass Industries and Suraj Brass Industries) - it is unconfirmed whether these are one proprietorship, two separate proprietorships, or a partnership firm. Proprietorships and partnership firms have no CIN and no MCA record, so absence of a CIN would not by itself mean the entity does not exist. The declared HS 741220 (copper alloy fittings) contradicts the claimed industry 'IT and electronics' - per project rules this is NOT a rejection ground; the actual code should be treated as 741220 (brass/copper alloy tube fittings, consistent with the Jamnagar brass-parts cluster) and the industry label corrected. Role is left as 'unknown' pending verification. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found - the entity simply could not be verified with the tools available. Recommend re-run with working search access or manual check of the GST portal (search by trade name) and the Udyam/proprietorship records."
+}

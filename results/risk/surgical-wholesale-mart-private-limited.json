@@ -1,0 +1,9 @@
+{
+ "name_input": "SURGICAL WHOLESALE MART PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ОГРАНИЧЕНИЕ ДОСТУПА К ДАННЫМ: поисковый бэкенд (DuckDuckGo/searx) на момент проверки возвращал ошибку соединения (Connection refused) по всем запросам, поэтому полноценный поиск по санкционным спискам, судам, регуляторам и негативным новостям выполнить не удалось. Проверено напрямую: (1) Indian Kanoon — поиск по точным строкам \"Surgical Wholesale Mart\" и \"Surgical Wholesale Mart Private Limited\" дал 0 результатов (https://indiankanoon.org/search/?formInput=%22Surgical+Wholesale+Mart+Private+Limited%22), т.е. публичных судебных решений с участием компании в этой базе не найдено; (2) реестры Zauba Corp и TheCompanyCheck вернули HTTP 403 (закрыты для автоматического доступа) — данные о регистрации, статусе и рейтингах не получены; (3) OFAC Sanctions List Search — форма на JS, прямой GET-запрос не даёт результатов поиска, проверка по имени не выполнена. ВНИМАНИЕ: отсутствие результатов НЕ равно отсутствию рисков — это отсутствие данных. sanctions_hit=null (не проверено по OFAC SDN/UN/EU/UK/BIS), court_cases=null (в Indian Kanoon совпадений нет, но проверка по eCourts/NCLT не выполнена), rating=null (кредитный рейтинг в публичных источниках не найден; отсутствие данных), news_risk=null (не проверено из-за недоступности поиска), rf_supply=null (следов поставок в РФ/СНГ не найдено, но и целевой поиск не выполнен). Требуется повторный прогон при восстановлении доступа к поиску и к реестрам (MCA/eCourts/NCLT/IBBI, OFAC/OpenSanctions). Правило 2 соблюдено: оснований для отклонения нет, компания сохраняется в базе."
+}

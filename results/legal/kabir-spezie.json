@@ -1,0 +1,18 @@
+{
+ "name_input": "KABIR SPEZIE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — сбой инструментов, а не отсутствие компании. За сессию поисковый бэкенд (DuckDuckGo/searx) отдавал 'Connection refused', Google — HTTP 429, Zaubacorp — HTTP 403, thecompanycheck — 404; Bing по точной строке \"KABIR SPEZIE\" (в т.ч. с операторами site:, LLP, PRIVATE LIMITED, GSTIN, udyam) возвращал только общие результаты про поэта Кабира, ни одной реестровой страницы, GST-профиля или листинга IndiaMART. Точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — все поля null, ничего не додумано. Роль (manufacturer/trader) не определена: 'SPEZIE' похоже на торговое/брендовое имя (вероятно, от итал. spezie — специи), что чаще указывает на трейдера/фасовщика, но это догадка, а не факт. ВАЖНО: отклонять НЕЛЬЗЯ — нет доказательств несуществования, ликвидации, страйк-оффа или банкротства; отсутствие результатов вызвано недоступностью поиска. Требуется повторный прогон: проверить MCA-поиск по названию (варианты написания: Kabir Spezie, Kabir Spazie, Kabir Spezies), GST-портал по торговому имени, Udyam-регистрацию, а также уточнить у поставщика точное юрлицо и GSTIN. HS-коды 090412/090421/090831/090921 (перец, имбирь, кардамон и пр.) не подтверждены и не опровергнуты; по правилам проекта несоответствие HS не является основанием для отклонения."
+}

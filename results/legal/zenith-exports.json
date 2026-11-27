@@ -1,0 +1,18 @@
+{
+ "name_input": "Zenith Exports",
+ "legal_name": "ZENITH EXPORTS (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. 'Zenith Exports' is a highly generic Indian trade name used by multiple unrelated entities (proprietorships, partnerships and companies across states), and the input gives no CIN, PAN, GSTIN, city or state to disambiguate. Tooling failed: DuckDuckGo search backend returned connection refused; zaubacorp.com and thecompanycheck.com returned HTTP 403; Google returned HTTP 429; Bing returned only generic non-Indian results (Zenith watches, Zenith Electronics, Zenith Bank) with no MCA/GST profile for an Indian 'Zenith Exports'. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced, and all such fields are set to null rather than guessed. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way — the entity is simply unverified. Action required: obtain at least one of CIN / PAN / GSTIN / full registered address from the requester, then re-run against MCA master data and the GST public search. Note also that the declared HS 847890 does not correspond to the claimed industry (metallurgy & mining) — 8478.90 is machinery for preparing tobacco — but per the 23.11.2026 rule this is not a rejection ground; the code should be corrected to the actual one once the entity is identified. No claims about shipments, courts or catalogues were researched per role scope."
+}

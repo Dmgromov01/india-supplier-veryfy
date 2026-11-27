@@ -1,0 +1,18 @@
+{
+ "name_input": "KLJ PLASTICIZERS LIMITED",
+ "legal_name": "KLJ Plasticizers Limited (name as claimed; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT confirmed in this session. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404; kljindia.com timed out on TLS handshake; Google returned HTTP 429; Bing returned only generic KLJ Group / KLJ Engineering (US) results with no CIN, PAN, GSTIN or financials. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all left null rather than guessed. No audited FY25/FY26 accounts were retrieved, so revenue is null for both years. Role 'manufacturer' is a provisional classification only from the group website snippet ('KLJ is the Largest Manufacturer and the Market Leader in Plasticizers & Polymer Compounds in South Asia') - this is a self-description, not a registry fact, and should be re-checked against the MCA principal-business-object clause. Declared HS codes 291712/291719/291733/291734 (phthalic anhydride, adipic acid/esters, phthalate plasticizers) are consistent with a plasticizer manufacturer, but per project rules HS mismatch is not a rejection ground in any case. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found - the entity simply could not be verified with the available tools. Action required: re-run verification with working search/registry access (MCA master data, Zauba/Tofler, GST portal public search) before this record is used."
+}
