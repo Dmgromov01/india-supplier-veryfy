@@ -1,0 +1,31 @@
+{
+ "name_input": "SINHAL HERBS",
+ "declared_hs": "080620;090240;091099;100630",
+ "actual_hs_list": [
+  "080620 — Grapes, dried (raisins): NOT found in the published catalogue (no raisin/sultana line on sinhalherbs.com product pages)",
+  "090240 — Black tea, fermented, in bulk: NOT found; the site lists 'Herbal Teas' as a category but no Camellia sinensis / black tea line is shown on the product pages read",
+  "091099 — Spices, n.e.s. (mixtures/other): CONFIRMED as a broad bucket — Trachyspermum ammi (carom), Nigella sativa, Trigonella foenum-graecum (fenugreek), Murraya koenigii (curry leaf), Thymus vulgaris, Apium graveolens, Petroselinum crispum, Cinnamomum tamala, Foeniculum vulgare, Laurus-type leaf spices",
+  "100630 — Semi-milled/wholly milled rice: NOT found; the 'Pulses, Grains & Agro' page lists only Hordeum vulgare (barley) and Triticum aestivum (wheat) — no rice line",
+  "090230/090210 — Tea, packaged (if herbal teas are actually Camellia-based): cannot_verify",
+  "090611/090619 — Cinnamon (Cinnamomum verum, C. tamala): declared only under 091099, arguably should be split out",
+  "090411/090412 — Pepper, Piper nigrum: declared only under 091099",
+  "090421/090422 — Capsicum/chilli: not seen in catalogue",
+  "090831/090832 — Cardamom (Elettaria cardamomum): declared only under 091099",
+  "090921/090922 — Coriander (Coriandrum sativum): declared only under 091099",
+  "091011/091012 — Ginger (Zingiber officinale): declared only under 091099",
+  "091030 — Turmeric (Curcuma longa): declared only under 091099",
+  "070320 — Garlic, fresh/dried (Allium sativum): declared only under 091099",
+  "090931/090932 — Cumin (Cuminum cyminum): declared only under 091099",
+  "250100 — Salt / halite (Sodium chloride): listed as a 'spice' on the site; NOT in the declaration",
+  "120400 — Linseed (Linum usitatissimum): listed under Super Foods; NOT in the declaration",
+  "120799 — Other oil seeds n.e.s. (Cucurbita pepo, Brassica nigra, Sinapis alba, Eruca vesicaria, Sesamum indicum, Glycine max, Helianthus annuus, Ricinus communis, Azadirachta indica, Jatropha curcas, Schleichera oleosa, Hydnocarpus wightianus): NOT in the declaration",
+  "100890/100390/100199 — Chia (Salvia hispanica), Quinoa (Chenopodium quinoa), Barley (Hordeum vulgare), Wheat (Triticum aestivum): NOT in the declaration",
+  "120799/1207 — Hemp seeds: NOT in the declaration",
+  "121190 — Herbs and botanical powders (dried herbs, herbal powders) — the site's largest category: NOT in the declaration",
+  "1515/1517 or 3301 — Natural oils / essential oils category: NOT in the declaration; exact code cannot_verify without product-level detail"
+ ],
+ "match_status": "partial",
+ "product_summary": "Sinhal Herbs (self-described as part of Sinhal Industries, est. 1991) presents itself as a processor/exporter of herbs, spices, superfoods, oil seeds, natural oils, pulses/grains, herbal teas and bird feeds. Published catalogue pages read: Spices — Elettaria cardamomum (cardamom), Apium graveolens, Trachyspermum ammi (carom), Piper nigrum (pepper), Murraya koenigii (curry leaf), Cinnamomum verum, Coriandrum sativum, Allium sativum (garlic), Zingiber officinale (ginger), Curcuma longa (turmeric), Cuminum cyminum (cumin), Nigella sativa, Trigonella foenum-graecum, Petroselinum crispum, Halite (sodium chloride), Foeniculum vulgare, Cinnamomum tamala, Thymus vulgaris. Super Foods — chia seeds, quinoa, linseed, hemp seeds. Oil Seeds — pumpkin (Cucurbita pepo), Brassica nigra, castor (Ricinus communis), Schleichera oleosa, neem (Azadirachta indica), Jatropha curcas, sesame, soybean, sunflower, Eruca vesicaria, Sinapis alba, Hydnocarpus wightianus. Pulses, Grains & Agro — barley, wheat. Plus separate Herbs, Botanical Powders, Ground Spices, Natural Oils and Herbal Teas categories (pages not read in this pass). Site claims 650+ products to 68 countries, 5 manufacturing facilities, 3 colour-sorting units, quinoa processing.",
+ "role_hint": "manufacturer_trader — the site claims own processing/manufacturing facilities (5 units, colour sorters, quinoa processing) but the catalogue is a very wide multi-commodity trading-style range (jatropha, neem, castor, Hydnocarpus, halite, bird feeds) typical of an aggregator/exporter rather than a single-line producer. No customs line was available to this researcher, so the manufacturer claim is 'заявлено, не подтверждено'.",
+ "comment": "HS-6 mapping vs declaration: PARTIAL. Of the four declared codes only 091099 is corroborated by the catalogue, and only as an umbrella bucket — the site actually lists cardamom, pepper, cumin, coriander, turmeric, ginger, garlic, cinnamon and carom individually, which in HS terms belong to 0908/0909/0910/0703, not to 091099. Declared 080620 (raisins), 090240 (bulk black tea) and 100630 (rice) have NO corresponding product line on any catalogue page read — these look like codes carried over from a different supplier profile or from a generic spice-exporter template; they are 'заявлено, не подтверждено' and should be dropped or replaced. Conversely, the bulk of the actual business is MISSING from the declaration: the entire Herbs / Botanical Powders range (121190), oil seeds (1207xx incl. 120400 linseed, 120799 others), superfoods (chia 120799, quinoa 1008xx, hemp seeds), cereals (barley 1003, wheat 1001), salt (2501) and natural/essential oils (1515/3301). Industry label 'Продукты питания и FMCG' is directionally right but too narrow — this is an agro-commodity / botanical raw-material exporter, not an FMCG brand; there is no branded consumer packaging evidence on the site. Trader signs: extremely broad unrelated commodity list (jatropha, neem, castor, Hydnocarpus, halite, bird feeds) alongside herbs, which is a classic multi-commodity exporter pattern; the 'manufacturer' claim rests on the company's own website only. Per project rule 3 this is NOT a rejection ground — company is kept, HS list corrected to the actual catalogue. Recommended corrected declaration: 091099 (residual spices) + 0908xx/0909xx/0910xx (individual spices) + 121190 (herbs/botanical powders) + 1207xx (oil seeds) + 1001/1003/1008 (cereals/quinoa) + 250100 (salt) + 1515/3301 (oils) — each to be confirmed against a customs line before being treated as fact. No registry, revenue or shipment research was performed in this task; no CIN/PAN/IEC is asserted."
+}

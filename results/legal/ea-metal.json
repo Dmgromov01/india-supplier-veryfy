@@ -1,0 +1,18 @@
+{
+ "name_input": "EA Metal",
+ "legal_name": "EANDA ENGG SOLUTIONS PVT LTD (as claimed; unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved, so nothing is asserted and nothing is rejected. Tooling failures: DuckDuckGo/searx backend refused connection on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and falconebiz.com returned HTTP 403; tofler.in search returned 404; search.mca.gov.in did not resolve (DNS); Google returned a redirect interstitial; Bing returned only unrelated results (no hit for the quoted name 'EANDA ENGG SOLUTIONS'), i.e. no public page confirming this exact legal name was found. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, not 'absent'. Role cannot be determined from registry data, so 'unknown'. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. IMPORTANT for the analyst: the input is internally inconsistent and needs a human check — (1) the trade name 'EA Metal' does not match the claimed legal entity 'EANDA ENGG SOLUTIONS PVT LTD'; (2) declared HS 010121 is live horses/equines (HS chapter 01), which contradicts the claimed industry 'food & FMCG' — per project rules this is NOT a rejection ground, the company stays in the base and the HS code must be corrected to the actual product line once the real entity and product are confirmed; (3) no state was claimed, so no state cross-check is possible. Recommended next step: obtain the CIN or GSTIN from the supplier directly, then re-run against MCA master data and the GST public taxpayer search. Verdict: unverified, retained in base, no rejection."
+}

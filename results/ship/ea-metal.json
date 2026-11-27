@@ -1,0 +1,8 @@
+{
+ "name_input": "EA Metal",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/ea-metal (and slug variants /eanda-engg-solutions-pvt-ltd, /eanda-engineering-solutions-pvt-ltd): page renders only the generic template text 'Shipments available for EA METAL, refreshed daily' with an empty 'Number of shipments by month' chart — 0 shipment rows actually displayed, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. No export record found on any accessible source.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend (DuckDuckGo/searx) returned 'Connection refused' for every query, so no domestic-supply page could be retrieved; volza, eximpedia and trademo returned HTTP 403. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Все три варианта слага на importkey отдают пустой шаблон (счётчик источников: 3 страницы проверено, 0 строк отгрузок увидено). Заявленный HS 010121 (живые лошади) не соответствует ни названию 'EA Metal', ни заявленной отрасли 'Продукты питания и FMCG' — это несоответствие HS, а не основание для отклонения: компания сохраняется в базе, фактический код не установлен (null), т.к. ни одной товарной позиции в записях не видно. Юрлицо 'EANDA ENGG SOLUTIONS PVT LTD' в реестрах не проверялось (реестры вне области задачи); CIN/PAN/выручка — null, публично не подтверждены. Поисковый бэкенд был недоступен, поэтому охват проверки ограничен — статус 'none_found', а не 'unknown', только по фактически просмотренным страницам."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "TESNA TECH PVT LTD; Tesna Tech Private Limited",
+ "legal_name": "TESNA TECH PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no source found. Tooling failures during this run: web_search returned 'searx: Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; Google returned only a redirect stub; Bing returned entirely irrelevant results (LinkedIn profiles, Tumblr help pages) for the exact-phrase queries \"TESNA TECH PRIVATE LIMITED\" CIN / GST and \"Tesna Tech\" private limited India company. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not publicly confirmed by any source I could read - they are NOT null because the company was found to be non-existent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role is 'unknown' (no registry record read; the input's 'food/FMCG' industry claim and HS 630532 - which is actually a woven sack/bag HS heading, not a food heading - are unverified and, per project rules, an HS mismatch is not a rejection ground). Per the rules, rejection is only for non-existent/struck-off/liquidated/bankrupt entities; since existence could not be checked either way, this record must be treated as UNVERIFIED and re-queued for a run with working search/registry access, not rejected. No numbers, CINs, PANs or GSTINs were invented."
+}

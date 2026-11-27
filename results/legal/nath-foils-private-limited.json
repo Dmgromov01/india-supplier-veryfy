@@ -1,0 +1,18 @@
+{
+ "name_input": "NATH FOILS PRIVATE LIMITED",
+ "legal_name": "NATH FOILS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: the web_search backend returned 'Connection refused' on every query; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in search returned 404; quickcompany.in returned 404; instafinancials.com returned 404; DuckDuckGo HTML timed out; Bing returned only irrelevant results (Nath hypnotherapists, Nathan's Famous, nose-jewel articles) for the exact-phrase query \"NATH FOILS PRIVATE LIMITED\". Consequently CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all null because they are not public in any source I could reach - they are NOT null because the company was found to be non-existent. No rejection is applied: per project rules rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and absence of retrievable data is not such evidence. Role left as 'unknown' - the claimed activity (aluminium foil, HS 760711/760720) is unverified; no manufacturer/trader determination possible without MCA NIC code or GST records. Revenue FY25/FY26: no audited accounts or official filings accessible, so null per rule 4. Recommended action: re-run this company when the search backend is restored, or verify manually on the MCA portal (mca.gov.in) by company name, then cross-check GSTIN on the GST taxpayer search portal."
+}
