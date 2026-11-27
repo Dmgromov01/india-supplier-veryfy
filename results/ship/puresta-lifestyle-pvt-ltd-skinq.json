@@ -1,0 +1,8 @@
+{
+ "name_input": "Puresta Lifestyle Pvt Ltd. (SkinQ)",
+ "export_status": "unknown",
+ "export_evidence": null,
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни одной записи об отгрузке получить не удалось. ImportKey (https://importkey.com/countries/india/puresta-lifestyle-pvt-ltd) отдал только шаблон страницы: 'Shipments available for PURESTA LIFESTYLE PVT LTD, refreshed daily' — это заглушка каталога, а не запись об отгрузке; фактически видно 0 строк данных (счётчик источников: 1 страница ImportKey, 0 записей). Вторые источники недоступны: volza.com, eximpedia.app, trademo.com, thecompanycheck.com, zaubacorp.com — HTTP 403; сайт skinq.in не резолвится (DNS). Поиск (DuckDuckGo через searx — connection refused; Bing — нерелевантная выдача) не дал ни одного B/L, ни даты, ни направления, ни номера документа. Поэтому export_status и domestic_status = unknown, а не none_found: отсутствие доступа к данным не равно отсутствию отгрузок. Заявленные HS 330300/330710 (парфюмерия/косметика) — из карточки, не подтверждены ни одной таможенной записью; по правилу 3 несоответствие HS не является основанием для отклонения. Выручка, GST-оборот, экспортный объём: null — публично не получено. Роль (manufacturer/trader) не установлена. Требуется повторная проверка при доступе к платному срезу Volza/Eximpedia или к выписке GST/MCA."
+}

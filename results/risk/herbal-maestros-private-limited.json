@@ -1,0 +1,9 @@
+{
+ "name_input": "Herbal Maestros Private limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK (legal identity, HS codes and shipment volumes deliberately not researched). Sanctions: OpenSanctions consolidated dataset (OFAC SDN/non-SDN, UN, EU, UK, BIS and others; data current as of 2026-11-27) returned 'No matching entities were found' for 'Herbal Maestros' — no sanctions or export-control listing identified. Direct OFAC Sanctions List Search could not be queried programmatically (JS-only form), so the OFAC leg rests on the OpenSanctions mirror rather than a primary OFAC query. Court cases: Indian Kanoon search for 'Herbal Maestros' returned 0 exact matches; a broader token search returned 5 unrelated matters (Torrent Pharmaceuticals v. N.U. Indian Herbal Research Laboratory, Commissioner of Customs v. Welkin Foods, Jhonson Lifts v. Commissioner of Customs, Dharti Agro Chemicals, J.L. Purohit) — none involve this entity. No court case with party role/status found; null means not found in public sources, not confirmed clean. Regulator actions / negative news: none found; DuckDuckGo search backend was unavailable (connection refused) throughout and Google returned HTTP 429, so news coverage could not be swept systematically — this is a coverage gap, not a clean bill of health. Credit rating: no public rating (CRISIL/ICRA/CARE/India Ratings) located; null. Russia/CIS supply evidence: none found — no customs, B/L, or trade-record trace of supplies to Russia or CIS states; null. Overall: no adverse risk findings, but the negative-news and credit-rating legs are unverified due to tool failures and should be re-run before reliance. Per project rules, no rejection grounds here regardless."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Puresta Lifestyle Pvt Ltd. (SkinQ)",
+ "legal_name": "PURESTA LIFESTYLE PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on every attempt, and direct fetches of registry sources failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404 for the guessed slug, falconebiz.com returned HTTP 403, mca.gov.in MDS returned HTTP 403, Google returned HTTP 429, DuckDuckGo HTML/lite timed out, and Bing returned only irrelevant results. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public via the channels available, and NOT invented. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a tooling limitation, not a negative finding. Role left as 'unknown' - the input describes a skincare/cosmetics brand (SkinQ) with declared HS 3303/3307, which is consistent with a manufacturer or brand-owner/trader, but no registry record was obtained to classify it. Note also that the input industry field says 'Food & FMCG' while the declared HS codes are cosmetics/perfumery - a mismatch to be resolved once the actual GST/registry record is pulled. Recommended next step: re-run with working search access, or query MCA master data / GST portal directly by the exact legal name 'PURESTA LIFESTYLE PRIVATE LIMITED'."
+}

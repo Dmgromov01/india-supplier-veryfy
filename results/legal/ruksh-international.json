@@ -1,0 +1,18 @@
+{
+ "name_input": "RUKSH INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry/profile sources were blocked or empty: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, thecompanycheck.com search returned 404, tofler.in search returned 404, google.com returned HTTP 429, duckduckgo.com timed out, and bing.com returned only irrelevant results (no matching Indian entity). No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, so all such fields are null rather than guessed. The name 'RUKSH INTERNATIONAL' is a generic trade style that may well be a proprietorship/partnership (no CIN would exist in that case) or a firm not indexed publicly - this is unconfirmed, not a finding. No rejection is proposed: non-existence, strike-off, liquidation or bankruptcy could NOT be established, and per the project rules rejection requires positive evidence of one of those. Role left as 'unknown' (no evidence of manufacturing or trading activity). Note also the input inconsistency: declared HS 640399 (footwear, uppers of leather) does not match the claimed industry 'food & FMCG'; per the rules this is not a rejection ground - the HS code should be corrected to the actual product line once the entity and its goods are identified. Recommended next step: re-run with a working search backend and check the MCA master data / GST public search directly using the firm's GSTIN or the proprietor's name, plus any IEC on the DGFT site."
+}
