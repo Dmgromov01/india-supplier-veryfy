@@ -1,0 +1,18 @@
+{
+ "name_input": "AMINES & PLASTICIZERS LIMITED",
+ "legal_name": "Amines & Plasticizers Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: web_search backend was down (searx connection refused) and all registry/profile sources returned HTTP 403 or timeouts (zaubacorp.com, thecompanycheck.com, moneycontrol.com, nseindia.com). BSE page for scrip 500012 loaded but that scrip is Andhra Petrochemicals Ltd, not this company, so it was NOT used. Screener.in peer table for Andhra Petrochemicals shows a peer row 'Amines & Plast.' (CMP Rs 147.08, market cap Rs 809.23 Cr, Qtr sales Rs 149.84 Cr, ROCE 16.73%) — this is an aggregator peer listing, not an audited filing, so revenue FY25/FY26 are left null per rules. CIN, PAN, GSTIN, incorporation date, registered state and MCA status are all unverified — null, not invented. Role 'manufacturer' is inferred only from the company name/industry context and is not confirmed by a registry document; treat as provisional. No rejection grounds found (no evidence of non-existence, strike-off, liquidation or bankruptcy), so the company is retained in the base. HS codes 292211/292215/292217/292219 (mono/di/tri-ethanolamine and other acyclic monoamines/oxygen-function amino-compounds) are consistent with an ethanolamines/plasticizers producer, but HS was not the object of this check. Recommend re-run when search access is restored to capture CIN (likely L24100MH1973PLC... series, unconfirmed) and GSTIN from a public GST profile."
+}
