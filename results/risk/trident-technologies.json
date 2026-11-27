@@ -1,0 +1,9 @@
+{
+ "name_input": "Trident Technologies",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint returned HTTP 403; Bing returned byte-identical generic results (tridentcare.com, trident.edu, tridentseafoods.com etc.) for three materially different queries, indicating the search was not actually executed; the OFAC Sanctions List Search is a JavaScript form and returns no queryable results via plain HTTP GET. Consequently no source could be read for this entity, and per project rules no value is invented: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because they are unverified, NOT because they were checked and found clean. Identity caveat: 'Trident Technologies' is an extremely common trade name in India and the only identifying data supplied is a claimed proprietor name 'SUNU BABU' and state Karnataka, with no CIN, PAN or registered address - so even with working search, disambiguation from unrelated Indian firms of the same name would be unreliable. Recommended next step: re-run this company in a batch with functioning search, and supply CIN/PAN or registered address to pin the correct legal entity before any sanctions, litigation, regulator, credit-rating or Russia/CIS-supply screening is attempted. No adverse finding is asserted and no clearance is asserted."
+}

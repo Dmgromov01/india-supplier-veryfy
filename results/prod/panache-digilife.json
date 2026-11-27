@@ -1,0 +1,21 @@
+{
+ "name_input": "Panache Digilife",
+ "declared_hs": "847130;847330",
+ "actual_hs_list": [
+  "847130 (portable automatic data-processing machines: AI laptops, rugged/industrial laptops, EdTech tablets — if tablet is a full PC; Android tablets may fall to 8471 30 or 8517 62 depending on config)",
+  "847141 / 847149 / 847150 (All-in-One PCs, Mini PCs & Tower PCs, OPS modules, industrial & panel PCs, thin clients, AI servers — desktop/other ADP units and processing units)",
+  "847330 (parts & accessories of ADP machines — only if spare parts/boards are actually shipped)",
+  "851762 (routers & switches, 4G/5G Wi-Fi access points, CPE, SD-WAN appliances, AI IoT gateways)",
+  "852871 / 852872 (set-top boxes — 8528 71 for non-display STB, 8528 72 if with screen)",
+  "852589 / 852581 (AI CCTV cameras, video cameras)",
+  "852190 (AI network video recorders / video recording apparatus)",
+  "852859 / 852852 (signage & video walls, commercial touch displays, open-frame monitors)",
+  "847141 or 847160 (interactive flat panels with built-in PC — depends on whether supplied as complete ADP unit or as display)",
+  "9018 / 9027 / 8543 70 (medical smart devices, medical recorders — classification depends on device type; cannot be fixed at HS-6 without model data)",
+  "847330 / 854442 (healthcare kiosks — kiosk as ADP-based terminal, or 9403 for furniture-type kiosks; ambiguous)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (panachedigilife.com, homepage and /portfolio page) lists six portfolios: (1) Smart & Secure Compute — AI laptops, All-in-One PCs, Mini PCs & Tower PCs, OPS modules, industrial & panel PCs, thin clients/cloud endpoints, AI servers; (2) Telecom & Networking — routers & switches, 4G/5G Wi-Fi devices, SD-WAN & firewalls, set-top boxes, plus SNOC/data-centre projects; (3) AV & Display — signage & video walls, touch displays; (4) Digital Surveillance — AI CCTV cameras, AI NVRs, smart surveillance towers; (5) EdTech — AI interactive flat panels 65\"–86\", rugged EdTech tablets, rugged & industrial laptops, multi-user desktops; (6) Medical — medical smart devices, healthcare kiosks, AI IoT gateways, medical recorders. Company positions itself as design-led OEM/ODM/white-label manufacturer with a 50,000+ sq ft facility in Maharashtra, ISO 9001/14001, BIS, MeitY PLI, Make in India, NSE: PANACHE.",
+ "role_hint": "manufacturer (OEM/ODM/white-label producer; also states it runs supply chain/procurement for client-owned designs, which can look like a trader/import channel for some SKUs — not verifiable from public pages)",
+ "comment": "Declared HS 847130 + 847330 covers only the laptop/PC segment and ADP parts. That is correct but incomplete: the site's own portfolio shows at least five additional product families outside 8471 — telecom/networking (8517 62), set-top boxes (8528 71/72), CCTV cameras and NVRs (8525 89 / 8521 90), displays and video walls (8528 52/59), and medical devices (9018/9027/8543). So the declaration is partial, not wrong: 8471 30 is corroborated by the AI laptop / rugged laptop / EdTech tablet lines, and 8473 30 only if spare parts are actually exported. Industry label 'IT и электроника' is broadly right but understates the telecom, surveillance and medical-device lines — a mild misclassification if the company is filed as pure IT hardware. Trader signs: the site explicitly offers 'client model — design by client, supply chain by Panache', i.e. procurement and manufacturing for third-party brands, which is a manufacturing-service/OEM model rather than pure trading; no evidence of pure resale found. Product lines missing from the declaration: routers/switches, 4G/5G CPE, SD-WAN/firewall appliances, set-top boxes, CCTV cameras, NVRs, signage/video walls, touch displays, interactive flat panels, medical devices, healthcare kiosks, IoT gateways. All of the above is 'заявлено, не подтверждено' — no customs line, invoice or shipment record was checked in this task (registry/customs research out of scope), so none of these product lines is corroborated by a shipment record. No model-level datasheets were opened, so HS-6 for medical devices and kiosks cannot be fixed and is left as a range. Per project rule 3, the HS gap is not a rejection ground: company is kept, codes corrected/expanded to the actual portfolio."
+}

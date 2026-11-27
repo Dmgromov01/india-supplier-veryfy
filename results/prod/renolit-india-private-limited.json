@@ -1,0 +1,25 @@
+{
+ "name_input": "RENOLIT INDIA PRIVATE LIMITED",
+ "declared_hs": "392190",
+ "actual_hs_list": [
+  "392190",
+  "391990",
+  "392010",
+  "392043",
+  "392049",
+  "392062",
+  "392069",
+  "392112",
+  "392113",
+  "392321",
+  "392329",
+  "392510",
+  "392590",
+  "391721",
+  "392690"
+ ],
+ "match_status": "partial",
+ "product_summary": "RENOLIT India Private Limited is listed on the RENOLIT SE corporate site (renolit.com/en/company/locations) as one of the group's Asia locations, alongside APPL GOR India Plastics Pvt. Ltd. and RENOLIT Healthcare Beijing. The group's own product description (renolit.com/en/products and renolit.in, which redirects to the RENOLIT SE site): 'plastic films and other plastic products' — calendered PVC films, decorative/design films for furniture, doors, ceilings and white goods (RENOLIT EXOFOL for window profiles, interior surfaces, 3D PET thermolaminates, R-PET laminates), self-adhesive base films for sign & graphics / visual communication (digital printing films, plotter films, glass decoration films, vehicle wrapping films, overlaminates, protection films, fluorescent and reflective films), automotive interior films (dashboard inserts, door panels, pillar trim, seat back covers, load floor), healthcare films and granules (dialysis barrier film, secondary packaging, blood bags, urine bags, IV applications), roofing and waterproofing membranes (RENOLIT ALKORPLAN), geomembranes for civil engineering, swimming-pool liners, and lightweight composites (RENOLIT GORCELL, CORK-STOCK, WOOD-STOCK, ALKORCELL). The India entity's own plant-level product list is not published on the pages reachable here (the dedicated India location page returned HTTP 404), so the exact India-manufactured vs. imported/stocked split is not public.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Declared HS 392190 ('other plates, sheets, film, foil and strip of plastics, non-cellular, reinforced/laminated/supported or similarly combined') is a plausible but narrow fit. It correctly covers the group's core calendered PVC and laminated/thermolaminated decorative films (3921.90), and is the single most representative code. However it is only PARTIAL: (1) the group's self-adhesive sign & graphics base films, wrapping and protection films with adhesive layer belong in 3919.90, not 3921.90; (2) plain non-reinforced PVC film under 1 mm would fall in 3920.10/3920.43/3920.49; (3) PET film in 3920.62/3920.69; (4) cellular/composite lightweight products (GORCELL, ALKORCELL) in 3921.12/3921.13; (5) roofing/waterproofing and geomembranes in 3921.90 but often also 3925.90/3925.10 as builders' ware; (6) healthcare barrier film and bags in 3923.21/3923.29; (7) polymer granules for healthcare in Chapter 3901-3920 (granules, not film). Industry classification 'Нефтегаз и химия' (oil & gas and chemicals) is a MISCLASSIFICATION: the company is a plastics-film converter (polymer processing / plastics products), not an oil & gas or basic-chemicals supplier. No customs line was available to this researcher, therefore every product line above is 'заявлено, не подтверждено' — the product range is documented on the manufacturer's own corporate website, but no shipment record corroborates which of these lines the Indian entity actually ships. Per project rule 3, the HS mismatch is not a rejection ground: company is retained, declared code 392190 kept as the primary code with the additional codes above to be added to the profile."
+}

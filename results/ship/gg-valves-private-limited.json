@@ -1,0 +1,8 @@
+{
+ "name_input": "GG VALVES PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable shipment record retrieved. ImportKey page https://importkey.com/countries/india/gg-valves-private-limited returned only a generic template shell — the only substantive line was \"Shipments available for GG VALVES PRIVATE LIMITED, refreshed daily\" with zero rows rendered (0 rows seen / 0 rows claimed as data). Volza (403), Eximpedia (403), Trademo (403), ImportGenius (JS challenge) and Google/DDG search (timeout/redirect) all failed to return any bill-of-lading, date, destination or HS line.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split retrieved. Company registry pages (thecompanycheck, zaubacorp) returned HTTP 403, so no financial or turnover figure could be read. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что поставок не было: все источники данных об отгрузках были недоступны (403 / JS-challenge / таймаут) в рамках лимита вызовов. Заявленный HS 848180;848190 (клапаны) не подтверждён и не опровергнут фактическими записями. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка с платным доступом к Volza/Eximpedia или ручной запрос GST-оборота; вердикт по правилу 5 — статус unknown, не accepted."
+}

@@ -1,0 +1,20 @@
+{
+ "name_input": "PNEUCON Heavy Projects Pvt. Ltd",
+ "declared_hs": "842240;842839",
+ "actual_hs_list": [
+  "8422.40",
+  "8428.39",
+  "8428.32",
+  "8428.33",
+  "8428.20",
+  "8474.39",
+  "8479.82",
+  "8479.89",
+  "7309.00",
+  "3926.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт pneuconheavyprojects.com (sitemap.xml, раздел /products) показывает 5 товарных линеек: (1) Storage Tanks & Silos — bolted/folding silo, vertical silo, SS storage silo tank, big storage silo, plastic granule/PP silo, aluminium storage silo, silo storage system, hot air dryer; (2) Mixer — high-speed mixer для пластиковых гранул, ribbon blender, pneumatic blender; (3) Conveying Systems — dense-phase pneumatic conveying, pneumatic vacuum conveying, powder conveying, lean-phase pneumatic conveying, central conveying system, SS screw conveyor, dual-paddle screw conveyor, day bin; (4) Auto Bagging Machines — automatic bag slitting machine, automatic depelletising/bag emptying machine, automatic bag palletizer, jumbo bag unloading system; (5) Other Material Handling — automatic batching & weighing system, hopper loader. Это производитель оборудования для сыпучих материалов (silos, пневмотранспорт, смесители, фасовка), а не пищевой/FMCG-производитель.",
+ "role_hint": "manufacturer",
+ "comment": "HS-коды заявлены частично верно. 8422.40 (машины для наполнения/укупорки мешков) корректно покрывает линейку Auto Bagging Machines (bag slitting, bag emptying, bag palletizer, jumbo bag unloading) — совпадение точное по товарной группе, но факт отгрузки по этой линии не подтверждён таможенной записью: заявлено, не подтверждено. 8428.39 (прочие конвейеры непрерывного действия) покрывает только часть линейки Conveying Systems: screw conveyors (SS screw conveyor, dual-paddle screw conveyor) и, возможно, day bin/hopper loader; однако основной продукт компании — пневматические транспортные системы (dense-phase, lean-phase, vacuum, powder, central conveying), которые по ТН ВЭД относятся к 8428.20 (пневматические конвейеры и элеваторы) и в декларации отсутствуют. Также полностью отсутствуют в декларации: силосы и резервуары (7309.00 — резервуары/цистерны/баки из чёрных металлов, для силосов большой ёмкости; для мелких SS-ёмкостей возможны 7309.00/3925.10/3926.90), смесители и блендеры (8479.82 — смешивающие машины; ribbon blender, high-speed mixer, pneumatic blender), автоматические весовые/дозирующие системы (8423.30 — весовое дозирующее оборудование), обвязка/загрузчики (8428.32/8428.33 — ленточные/ковшовые элеваторы и конвейеры, если применимо). Итог: заявленные коды не ошибочны, но неполны — покрывают примерно 2 из 5 товарных линеек; требуется расширение до 8428.20, 8479.82, 8423.30, 7309.00. Отраслевая классификация в заявке («Продукты питания и FMCG») неверна: компания — производитель промышленного оборудования для обработки сыпучих материалов (silo, пневмотранспорт, смесители, фасовочно-паллетировочные машины). Пищевая/FMCG-отрасль — лишь одна из отраслей-потребителей её оборудования (раздел /industries), а не собственное производство. Признаков трейдера не выявлено: сайт позиционирует собственные линейки продукции, разделы /infrastructure, /installation, /quality, /certification — характерно для производителя. Все товарные позиции взяты из sitemap.xml и структуры каталога сайта; ни одна позиция не подтверждена таможенной записью — статус «заявлено, не подтверждено». Контент страниц отдаётся только через JS, поэтому текстовые описания продуктов прочитать не удалось; выводы построены на URL-таксономии каталога. По правилу 3 HS-несоответствие не является основанием для отклонения — компания сохраняется, код корректируется."
+}

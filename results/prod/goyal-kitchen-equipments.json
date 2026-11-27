@@ -1,0 +1,22 @@
+{
+ "name_input": "Goyal Kitchen Equipments",
+ "declared_hs": "732189",
+ "actual_hs_list": [
+  "732111",
+  "732119",
+  "732393",
+  "732410",
+  "841850",
+  "841981",
+  "843810",
+  "843880",
+  "841869",
+  "940320",
+  "851660",
+  "841990"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт goykitchenequipments.in (Lucknow, UP, B-36 Ramswaroop Agarwal Marg, Nirala Nagar; тел. +91-9161171118; info@goyalkitchenequipments.in): «Commercial Kitchen Equipment Manufacturer in Lucknow», заявлено основание в 2007 г., 3.5 lakh sq.ft., 1000+ сотрудников, 100+ проектов в 16+ штатах, клиенты Ramada, Radisson Blu, Taj, Bikanerwala. Реальный перечень продукции с сайта: cooking range (плиты/диапазоны), refrigeration equipment (холодильные шкафы/столы), imported equipment, food preparation equipment, display counter, bar equipment, bakery equipment, storage equipment, dish washing equipment, canteen equipment, chapati making machine, service section, pantry equipment, catering equipment, SS counter, sink unit, work table, water cooler, tandoor, wall shelf, SS rack, bain marie, overhead shelves, potato peeler, dough kneader, weighing scale. Материал — нержавеющая сталь («fabricate our equipment using top-grade stainless steel»), т.е. изделия из коррозионностойкой стали, а не из чёрных металлов.",
+ "role_hint": "manufacturer_trader — сайт прямо заявляет собственное производство/фабрикацию («manufacturing, service, and installation», «Largest Commercial Kitchen Factory in India»), но в ассортименте отдельной строкой идёт «Imported Equipment» и «Our Partners / Shop by Brand», что указывает на торговую составляющую по части позиций. Фактичность производства и отгрузок по сайту не подтверждается — заявлено, не подтверждено.",
+ "comment": "Заявленный код 732189 («прочие бытовые изделия из чёрных металлов, прочие») не соответствует ассортименту: (1) материал — нержавеющая сталь, а не чёрные металлы; (2) это не бытовые, а профессиональные (commercial/HoReCa) изделия; (3) 7321 — это нагревательные приборы для приготовления/обогрева, тогда как большая часть номенклатуры (холодильное, мойки, столы, стеллажи, тестомес, картофелечистка) к 7321 не относится. Правильное распределение по HS-6: 732111/732119 — cooking range, tandoor, bain marie на газе/топливе (если с горелками); 732393 — изделия из нерж. стали для кухни (SS counter, sink unit, work table, wall shelf, SS rack, overhead shelves, storage); 732410 — мойки и умывальники из нерж. стали; 841850 — холодильные витрины/шкафы/прилавки (refrigeration, display counter); 841869 — прочее холодильное оборудование; 841981 — оборудование для приготовления пищи/нагрева (электрические плиты, фритюрницы, мармиты); 843810 — оборудование для хлебопекарни/макарон (bakery, dough kneader); 843880 — прочее оборудование для пищевой промышленности (potato peeler, chapati making machine); 940320 — мебель металлическая (стеллажи/столы как мебель — альтернативная классификация); 851660 — электронагревательные приборы для приготовления пищи; 841990 — части оборудования. Позиция «weighing scale» — 8423, «water cooler» — 8418/8479 в зависимости от типа. Отрасль «Строительство и DIY» указана неверно: фактическая отрасль — HoReCa / commercial kitchen equipment (профессиональное кухонное и холодильное оборудование), не стройматериалы. Признаки трейдера: раздел «Imported Equipment», «Our Partners / Shop by Brand», «Kitchen Setup & Installation», «Kitchen Layout & Design» — т.е. помимо производства есть импорт и услуги проектирования/монтажа. Строки декларации, подтверждающей конкретные коды, нет — все коды, кроме 732189, являются предложенной корректировкой на основе каталога сайта и помечены как «заявлено, не подтверждено»; таможенных записей не проверял (вне рамок задачи). Компания сохраняется в базе, код исправляется (accepted_hs_corrected), отклонения нет."
+}
