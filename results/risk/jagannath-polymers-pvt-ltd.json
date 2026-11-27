@@ -1,0 +1,9 @@
+{
+ "name_input": "JAGANNATH POLYMERS PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data retrieved. Tooling failure: web_search returned 'searx: Connection refused' on both queries; http_get to Google returned HTTP 429; DuckDuckGo (html and lite endpoints) timed out; Bing returned unrelated cached result sets (Puri temple/Wikipedia pages for the company query, COVID-19 symptom pages for the exact-name query 'Jagannath Polymers Private Limited'), i.e. the engine ignored the query string. Therefore NO source could be read for this entity. sanctions_hit=null: not checked against OFAC SDN/UN/EU/UK/BIS lists — absence of a hit is NOT established, do not read null as 'clean'. court_cases=null: no Indian court/party-role/status record retrieved (no eCourts/NCLT/HC lookup possible). rating=null: no CRISIL/ICRA/CARE/India Ratings/Brickwork action found or checked. news_risk=null: no regulator action or negative news retrieved. rf_supply=null: no evidence either way of supplies to Russia or CIS; nothing found, nothing ruled out. Per project rules this company must NOT be rejected on this basis — rejection grounds (non-existence, liquidation, bankruptcy) were also not verifiable, so status is 'unverified, re-run required', not 'rejected'. Note also that the claimed name is generic and ambiguous (multiple Indian entities use 'Jagannath' + 'Polymers'), so even a successful search would need CIN/PAN or state to disambiguate; none was supplied (pan_claimed and state_claimed both empty). Recommend re-running this company once search access is restored, with CIN or registered state provided."
+}

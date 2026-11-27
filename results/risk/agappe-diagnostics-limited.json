@@ -1,0 +1,9 @@
+{
+ "name_input": "AGAPPE DIAGNOSTICS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. Research could not be completed: the web_search backend returned connection errors (searx 'Connection refused') on every attempt, Google returned HTTP 429, DuckDuckGo lite/html timed out, and ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript-driven tool that cannot be queried via plain HTTP GET, so no name match was actually executed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — this means 'not established', NOT 'clean'. No negative finding should be inferred from these nulls. Company website (agappe.com) is a JS-rendered storefront and yielded no readable corporate/risk content. Agappe Diagnostics is a Kerala-based in-vitro diagnostics manufacturer (per general knowledge, not verified in this session) — no sanctions, litigation, regulator action, credit rating or Russia/CIS supply evidence was retrieved or confirmed. Per project rules, sanctions/court/criminal matters are never rejection grounds regardless of outcome. RECOMMENDATION: re-run this risk check when search infrastructure is restored, specifically against OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, Indian eCourts/NCLT, SEBI/RBI/state pollution and drug-controller actions, and CRISIL/ICRA/CARE/India Ratings. No data was invented."
+}

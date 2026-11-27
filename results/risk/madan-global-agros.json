@@ -1,0 +1,9 @@
+{
+ "name_input": "MADAN GLOBAL AGROS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не дал результатов по компании. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на всех запросах (connection refused / timeout); Google вернул HTTP 429; Bing по всем трём запросам (в т.ч. с кавычками, 'India exporter', site:tofler.in/zaubacorp.com/thecompanycheck.com) выдал только нерелевантную выдачу про 'Madan' (madanplus.com, YouTube, Wikipedia, Madan Law PLLC, Madan CPA) — ни одного упоминания 'Madan Global Agros'. Прямой запрос к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) невозможен: инструмент представляет собой JS-форму без GET-параметров, поэтому проверка по SDN/Non-SDN фактически не проведена — null здесь означает 'не проверено', а не 'чисто'. Аналогично не проверены UN/UK/EU/BIS Entity List, индийские судебные реестры (eCourts, NCLT), действия регуляторов, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ. Название в заявке ('Agros') может быть неточной транслитерацией/опечаткой (возможны варианты 'Agro', 'Agros'), что дополнительно снижает достоверность любого поиска. Рекомендация: повторить проверку при восстановлении доступа к поиску и к санкционным реестрам; до этого компанию не отклонять (правило 2) и не подтверждать — статус 'заявлено, не подтверждено', следов поставок не установлено."
+}

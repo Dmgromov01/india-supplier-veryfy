@@ -1,0 +1,18 @@
+{
+ "name_input": "NICHEM SOLUTIONS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search returned connection refused (searx backend down); DuckDuckGo lite timed out; Bing returned only irrelevant unrelated results (sports pages) for every query variant tried; Google returned HTTP 429; Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source. The input gives no PAN and no state, so even the PAN 4th-character holder-type test cannot be applied. Name 'NICHEM SOLUTIONS' is a bare trade name with no legal suffix (no Pvt Ltd / LLP / Ltd), which is consistent with a proprietorship or partnership firm - such entities have no CIN and no MCA record, only a GSTIN - but this is an inference, NOT a verified fact. No rejection is applied: per project rules rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and absence of data is not such proof. Status: unverified, requires re-run with working search access or a GSTIN supplied by the counterparty. All fields null rather than guessed."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Medndrug Pharma LLP",
+ "legal_name": "MEDNDRUG PHARMA LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) for the whole session; direct fetches of registry aggregators were blocked or empty: zaubacorp.com returned HTTP 403, thecompanycheck.com returned HTTP 404 for the search path, instafinancials.com returned HTTP 403, mca.gov.in Master Data returned HTTP 403. Google returned HTTP 429. Bing was reachable but returned only irrelevant results for the exact-phrase queries \"MEDNDRUG PHARMA LLP\" and \"Medndrug\" pharma (no matching company page in the top 8), i.e. no public profile surfaced. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable with the available tools, not 'absent'. Revenue FY25/FY26 are null: no audited accounts or official filings were located. Role is 'unknown' — the name contains 'LLP' and 'Pharma', but no MCA/registry record was read to confirm manufacturer vs trader, so no role is asserted. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity simply could not be confirmed either way. Recommended next step: manual lookup on the MCA Master Data portal by LLPIN/name and on the GST portal by legal name, since automated access is blocked. Note also that the claimed HS codes (210690 food preparations, 294200 other organic compounds, 300490 medicaments) span three unrelated chapters, which is a classification question for the HS reviewer, not a rejection ground."
+}

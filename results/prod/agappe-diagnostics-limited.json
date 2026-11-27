@@ -1,0 +1,19 @@
+{
+ "name_input": "AGAPPE DIAGNOSTICS LIMITED",
+ "declared_hs": "300212;382219",
+ "actual_hs_list": [
+  "3822.19",
+  "3002.12",
+  "3002.15",
+  "3002.51",
+  "3822.13",
+  "9027.89",
+  "9027.80",
+  "3821.00",
+  "9018.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "In vitro diagnostic (IVD) manufacturer, Kakkanad/Kochi, Kerala. Product lines confirmed by the site's own sitemap (https://www.agappe.com/sitemap.xml, fetched 2026): (1) clinical chemistry reagents and biochemistry analysers (semi-auto Mispa Plus, Mispa Nano Plus, Mispa CXL Pro Plus, Biolis 30i, TBA-2000FR, TBA-120FR Pearl, dry-chemistry ChemDX); (2) haematology analysers / cell counters (Mispa Count X Plus 3-part, HX50/HX58 5-part, HX80/HX88 6-part, Hb meter Mispa HBX); (3) immunoturbidimetry / specific-protein reagents and protein analysers; (4) immunoassay analysers — CLIA (Mispa i60, i121, i180, i200), immunofluorescence (Mispa Revo, Revo Plus); (5) rapid test kits and serology test kits (dedicated pages /rapid-test-kits.html, /serology-test-list.html); (6) coagulation analysers and reagents (Mispa Clog, Q3 Plus); (7) molecular diagnostics — real-time isothermal LAMP analyser Mispa Lume, PCR reagents; (8) electrolyte analysers, urine analysers (Mispa Uriskan 100 Plus), faeces analysis, HPLC machines, pre-analytical lab equipment, point-of-care devices, veterinary diagnostics, breast-milk analyser Creamatocrit Plus, vein detector. Declared 3002.12 (antisera/other blood fractions) and 3822.19 (composite diagnostic/laboratory reagents) cover the reagent side well.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: 3822.19 — correct for the bulk of the business (clinical chemistry, haematology, immunoturbidimetry, coagulation, electrolyte, urine and faeces reagents, calibrators/controls) — exact match. 3002.12 — plausible for antisera/blood-grouping and serology reagents, but the site does not publish a per-SKU list (product pages are JS-rendered and returned only titles), so this line is 'заявлено, не подтверждено' at SKU level. Missing from the declaration: 3002.15 (immunological products/ kits — CLIA and rapid-test kits, a major declared product line), 3002.51 (cell-culture/IVD cell products — not evidenced), 3822.13 (diagnostic reagents with a biological/botanical active principle — possible for some serology kits, unverified), and above all the instrument side: 9027.89 / 9027.80 (analysers, photometers, cell counters, coagulometers, HPLC), 9018.90 (point-of-care/medical devices, vein detector), 3821.00 (prepared culture media, if sold). Industry claim 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification: the company is medical/IVD diagnostics and laboratory equipment; only the reagent part touches chapter 38. No trader signs found — the site presents own-brand 'Mispa' instruments and own reagents, consistent with manufacturer role; however, some analysers appear to be OEM/partner-supplied (e.g. TBA series, Biolis, Fujirebio-related page), which would be re-sale of third-party instruments — not corroborated by any customs line, so marked 'заявлено, не подтверждено'. No customs/B-L records were checked in this task (out of scope), therefore no HS line is confirmed by a customs entry."
+}
