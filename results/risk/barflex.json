@@ -1,0 +1,9 @@
+{
+ "name_input": "Barflex",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: в ходе сессии поисковый бэкенд (DuckDuckGo/searx) отдавал 'Connection refused', сайт barflexpolyfilms.com не резолвился (DNS), Google вернул HTTP 429, DuckDuckGo HTML — timeout. Bing отдавал нерелевантные результаты (кэш по другим запросам), BSE — только JS-оболочку. Инструмент OFAC Sanctions List Search доступен лишь как интерактивная форма, прямой запрос по имени через http_get невозможен. Следовательно: санкционные списки (OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List), индийские судебные дела (NCLT/NCLAT/HC/eCourts), рейтинговые действия (CRISIL/ICRA/CARE/India Ratings), негативные новости и признаки поставок в РФ/СНГ по компании BARFLEX POLYFILMS LIMITED НЕ ПРОВЕРЯЛЯЛИСЬ. Все поля оставлены null — это означает 'нет данных', а НЕ 'чисто'. Не является основанием для отклонения (правило 2), но требует повторного прогона при восстановлении доступа к сети. Примечание: компания, предположительно, недавний эмитент IPO на NSE Emerge — это НЕ подтверждено источником и в отчёт не включено."
+}

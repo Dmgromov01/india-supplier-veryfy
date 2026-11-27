@@ -1,0 +1,18 @@
+{
+ "name_input": "AVM SALES PRIVATE LIMITED; AVM SALES PRIVATE LIMITED",
+ "legal_name": "AVM SALES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) returned connection errors for every query, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Google returned HTTP 429 and Bing returned only irrelevant results (medical 'AVM' pages), so no MCA/GST page for this entity was reached. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public in any source I could open, and not invented. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role cannot be determined from registry data alone; recorded as 'unknown' (the claimed HS 2825.20 — lithium oxide/hydroxide — is a chemical product line, but that is a product claim, not a registry fact, and per project rules HS mismatch is not a rejection ground). NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a research limitation, not a negative finding. Recommended follow-up: manual lookup on mca.gov.in (company/LLP master data) and the GST taxpayer search using the exact legal name, plus a check of the GSTIN state code against the claimed state (state_claimed was empty in the input, so no state comparison was possible)."
+}

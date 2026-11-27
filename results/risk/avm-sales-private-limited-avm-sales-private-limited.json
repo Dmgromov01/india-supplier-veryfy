@@ -1,0 +1,42 @@
+{
+ "name_input": "AVM SALES PRIVATE LIMITED; AVM SALES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Calcutta High Court",
+   "case": "HMP Sugars Ltd vs Avm Sales Pvt. Ltd",
+   "date": "2020-01-17",
+   "role": "respondent/defendant",
+   "status": "order passed (Original Side)",
+   "source": "https://indiankanoon.org/search/?formInput=%22AVM%20Sales%20Pvt.%20Ltd.%22"
+  },
+  {
+   "court": "Calcutta High Court",
+   "case": "Re: GKW Limited vs Avm Sales Pvt. Ltd, CP No.93 of 2001",
+   "date": "2014-03-31",
+   "role": "respondent",
+   "status": "company-petition matter, order passed",
+   "source": "https://indiankanoon.org/search/?formInput=%22AVM%20Sales%20Pvt.%20Ltd.%22"
+  },
+  {
+   "court": "ITAT Kolkata",
+   "case": "Stoll Berg India Pvt. Ltd. vs Department of Income Tax (AVM Sales Pvt. Ltd. named as a party in the assessee's transaction ledger)",
+   "date": "2016-10-19",
+   "role": "third party / counterparty in third-party tax appeal, not a party to the appeal",
+   "status": "decided",
+   "source": "https://indiankanoon.org/search/?formInput=%22AVM%20Sales%20Pvt.%20Ltd.%22"
+  },
+  {
+   "court": "Calcutta High Court / Madhya Pradesh HC",
+   "case": "M/s Avm Sales Corporation vs Madhya Pradesh State Electricity Board (ARBA-5-2008); Gontermann Peipers India vs Avm Sales Corporation",
+   "date": "2014-2018",
+   "role": "n/a",
+   "status": "NOT ATTRIBUTABLE - these concern 'AVM Sales Corporation', a different entity name; listed only to avoid conflation",
+   "source": "https://indiankanoon.org/search/?formInput=%22AVM%20Sales%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "LIMITED VERIFICATION - tooling degraded during this run: the DuckDuckGo/searx backend returned 'Connection refused' on every attempt, Google returned HTTP 429, Zauba Corp returned HTTP 403, and Bing results were unusable (dominated by medical 'arteriovenous malformation' pages), so no sanctions-list, regulator, credit-rating or Russia/CIS-supply search could actually be executed. Absence of a hit below therefore means NOT CHECKED, not 'clean'. SANCTIONS: null - no OFAC SDN / UN / EU / UK / BIS Entity List screening could be completed; no sanctions designation for this name was observed in any source I could open. COURTS: only Indian Kanoon was reachable. It shows 'AVM Sales Pvt. Ltd.' (Calcutta) as a litigant in two Calcutta High Court matters (HMP Sugars Ltd, 17.01.2020; Re: GKW Limited, CP No.93 of 2001, order 31.03.2014) and as a counterparty named in a third-party ITAT Kolkata tax appeal (Stoll Berg India, 19.10.2016). These are ordinary commercial/company-petition and tax-context matters; per project rule 2 they are noted neutrally and are not rejection grounds. IMPORTANT CAVEAT: 'AVM Sales Pvt. Ltd.' (Calcutta) and 'AVM Sales Corporation' (Madhya Pradesh, litigating against MP State Electricity Board) appear to be DIFFERENT entities - I did not merge them, and the MP matters are flagged as not attributable. I also could not confirm that the Calcutta 'AVM Sales Pvt. Ltd.' is the same legal person as the supplier under review, since legal-identity research is outside this role and the registry was inaccessible. RATING: null - no CRISIL/ICRA/CARE/India Ratings/Brickwork action found or searchable; not public in sources reachable. NEWS/RISK: null - no negative news, regulator action (RBI/SEBI/DGFT/ED/IT) or adverse media could be retrieved; this is a research gap, not a clean bill. RF/CIS SUPPLY: null - no evidence of supplies to Russia or CIS found, and no evidence of absence either; nothing in the reachable sources links this name to Russian/CIS counterparties. RECOMMENDATION: re-run sanctions (OFAC SDN, UN, EU, UK, BIS), MCA/registry, credit-rating and adverse-media checks once search connectivity is restored before relying on this record; treat all nulls as unverified."
+}

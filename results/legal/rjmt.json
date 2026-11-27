@@ -1,0 +1,18 @@
+{
+ "name_input": "RJMT",
+ "legal_name": "RAMESHWAR EQUIPMENT PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on both attempts; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404, and Bing/Google/DuckDuckGo fallbacks returned irrelevant or rate-limited results, so no page containing the company's CIN, PAN, GSTIN, incorporation date or MCA status was actually read. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT because they are absent, but because they were not publicly retrievable with the tools available. Legal name is carried over from the input claim only and is unconfirmed against MCA. Role is 'unknown': no evidence was obtained on whether the entity manufactures or trades. Revenue FY25/FY26 are null - no audited accounts or official filings were accessed; no figures are estimated. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established, and absence of data is not grounds for rejection. Recommended follow-up: re-run verification when the search backend is restored, checking MCA master data by CIN and the GST portal for the GSTIN, and confirming whether the declared HS 842959 (earth-moving/ excavating machinery parts) matches the entity's actual business activity."
+}

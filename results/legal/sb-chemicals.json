@@ -1,0 +1,18 @@
+{
+ "name_input": "SB Chemicals",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена. Входные данные содержат только торговое имя 'SB Chemicals' и строку 'SHYAMLAL RAJDEV YADAV' в поле legal_claimed — это похоже на имя индивидуального предпринимателя/проприетора, а не на зарегистрированное юрлицо; CIN/PAN/GSTIN во входных данных отсутствуют. Поиск не дал результатов: основной поисковый бэкенд (searx/DuckDuckGo) возвращал 'Connection refused' и таймауты, Bing по запросам '\"Shyamlal Rajdev Yadav\"', '\"SB Chemicals\" Yadav GST' выдавал нерелевантную выдачу (FedEx, Dell, StackOverflow, словарные статьи), реестровые источники недоступны — zaubacorp.com 403, instafinancials.com 403, tofler.in/search 404, mca.gov.in 403. Ни одна запись о регистрации, PAN, GSTIN, дате инкорпорации, статусе MCA или выручке не подтверждена публичным источником, поэтому все поля null — цифры не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица при недоступных реестрах не равно доказанному отсутствию/ликвидации/банкротству. Роль оставлена 'unknown' (по заявленному HS 282690 — прочие соли неорганических кислот — возможен трейдер/мелкий производитель, но это не подтверждено). Требуется повторная проверка при восстановлении доступа к реестрам: запросить у поставщика GSTIN и PAN, затем сверить на mca.gov.in / GST-портале; при наличии только проприеторского GST — фиксировать как sole proprietorship без CIN."
+}

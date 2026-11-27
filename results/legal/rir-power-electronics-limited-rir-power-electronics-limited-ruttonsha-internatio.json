@@ -1,0 +1,18 @@
+{
+ "name_input": "RIR POWER ELECTRONICS LIMITED; RIR POWER ELECTRONICS LIMITED; RUTTONSHA INTERNATIONAL RECTIFIER LIMITED; RIR POWER ELECTRONICS LIMITED",
+ "legal_name": "RIR Power Electronics Limited (formerly Ruttonsha International Rectifier Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: web_search backend was down (connection refused) and all registry/aggregator pages attempted returned 403/404/410 or empty bodies (zaubacorp, thecompanycheck, moneycontrol, screener, ripower.com, BSE page returned only a generic shell). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable here, and nothing is invented. What is supported by the input itself and by the BSE listing path used (scrip code 517035, symbol RIRPOWER): the company is listed on BSE and the name 'Ruttonsha International Rectifier Limited' is the former name of RIR Power Electronics Limited, i.e. the same legal entity, not two suppliers - the batch input lists one company under several name variants. Declared HS 850490 (parts of electrical transformers/converters/static converters) is consistent with a power-semiconductor/power-electronics manufacturer, so role is recorded as manufacturer (product-based inference, not a registry filing). No rejection grounds found: no evidence of non-existence, strike-off, liquidation or bankruptcy; absence of data is not a rejection ground. Revenue FY25/FY26 left null - audited accounts were not accessible in this run; must be taken from the company's BSE/annual-report filings. Recommend re-run with working search to fill CIN, PAN, GSTIN and revenue."
+}
