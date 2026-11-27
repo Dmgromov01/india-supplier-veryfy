@@ -1,0 +1,18 @@
+{
+ "name_input": "ASADEEP FURNISHING PRIVATE LIMITED",
+ "legal_name": "ASADEEP FURNISHING PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. All tool calls failed: DuckDuckGo/searx backend refused connection; Bing returned unrelated results (query mangled); Zauba Corp, Tofler, TheCompanyCheck, FalconEBiz returned HTTP 403; QuickCompany and InstaFinancials returned HTTP 404; MCA master-data portal returned HTTP 403. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT verified, not absent. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the entity simply could not be checked. Role left as 'unknown' (name suggests a furnishing/textile firm, which would be consistent with declared HS 540752/580110, but this is inference only, not a verified fact). The claimed industry 'Продукты питания и FMCG' (food/FMCG) is inconsistent with the declared HS codes (woven polyester fabrics / narrow woven fabrics) and with the company name; per project rules this is NOT grounds for rejection — the HS code should be corrected to the actual product line once verified. Requires re-run with working search/registry access (MCA21 master data, GST portal search by trade name, or paid aggregator) before any verdict."
+}

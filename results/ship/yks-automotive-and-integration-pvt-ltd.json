@@ -1,0 +1,8 @@
+{
+ "name_input": "YKS Automotive and Integration Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/yks-automotive-and-integration-pvt-ltd (and variant .../yks-automotive-integration-pvt-ltd) returned only the generic page shell: \"Shipments available for YKS AUTOMOTIVE AND INTEGRATION PVT LTD, refreshed daily\" — zero actual shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Source counter: 2 importkey pages fetched, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. thecompanycheck.com, zaubacorp.com, volza.com, eximpedia.app, trademo.com all returned HTTP 403; importgenius.com returned a JavaScript challenge page. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок обнаружить не удалось, но и обратное не доказано: все коммерческие базы (ImportKey, Volza, Eximpedia, Trademo, ImportGenius, ZaubaCorp, TheCompanyCheck) отдали либо пустой шаблон, либо 403/JS-challenge, а поисковый бэкенд (DuckDuckGo/searx) был недоступен на протяжении всей проверки (\"Connection refused\"), поэтому веб-поиск по названию компании выполнить не удалось. Заявленные коды ТН ВЭД 847130/847170/847330/852351 (компьютеры, носители данных) не подтверждены ни одной таможенной записью; фактический HS-код установить невозможно. Выручка и объём экспорта — null (не публичны / не получены). Юрлицо не проверено по MCA, поэтому оснований для отклонения нет; статус — unknown, требуется повторная проверка при доступности реестров и таможенных данных."
+}

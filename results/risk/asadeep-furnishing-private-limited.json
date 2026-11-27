@@ -1,0 +1,9 @@
+{
+ "name_input": "ASADEEP FURNISHING PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public risk data could be retrieved for this entity as of today. Tooling was largely unavailable: the DuckDuckGo search backend returned connection refused; zaubacorp.com and tofler.in returned HTTP 403; mca.gov.in returned HTTP 403; ecourts.gov.in failed TLS certificate verification; Google returned HTTP 429. Bing was reachable but returned only irrelevant/unrelated results for the exact-name queries \"ASADEEP FURNISHING PRIVATE LIMITED\" and \"ASADEEP FURNISHING\", i.e. no indexed page mentioning this company was surfaced. OFAC Sanctions List Search page loaded (SDN list last updated 11/23/2026) but its search is a JS form that could not be queried via plain HTTP GET, so no name screening was actually executed - sanctions_hit is therefore null (NOT screened), not a negative result. Same for UN, EU, UK OFSI and BIS Entity List: not screened. No Indian court records (eCourts/NJDG), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or negative news could be checked. No evidence of supplies to Russia or CIS was found, but absence here reflects failed retrieval, not a verified clean result. IMPORTANT: the claimed industry 'Продукты питания и FMCG' (food/FMCG) is inconsistent with the declared HS codes 540752 (woven fabric of synthetic filament yarn, dyed) and 580110 (woven pile fabrics of wool) - this is a textile/furnishing manufacturer or trader profile, not food. Per project rules this is not a rejection ground and is outside my risk-only remit; flagging for the HS/legal-identity researcher. Recommend re-running sanctions screening (OFAC/EU/UK/UN/BIS) and eCourts lookup manually before any decision; no adverse information is asserted, and none is cleared."
+}

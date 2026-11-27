@@ -1,0 +1,18 @@
+{
+ "name_input": "KEN AGRI TECH PRIVATE LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Ни один реестровый факт получить не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо нерелевантную выдачу без учёта кавычек и операторов; zaubacorp.com отдаёт HTTP 403; mca.gov.in — HTTP 403; thecompanycheck — 404; search.mca.gov.in не резолвится (DNS). Следовательно exact legal entity name, CIN, PAN, GSTIN, GST status, дата инкорпорации, штат регистрации, MCA status и выручка FY25/FY26 — null, а не 'не существует'. Важно: наименование в инпуте ('KEN AGRI TECH PRIVATE LTD') и в legal_claimed ('KEN AGRITECH PRIVATE LIMITED') различаются написанием (AGRI TECH vs AGRITECH) — это разные варианты имени, и без реестровой проверки нельзя установить, какое из них соответствует реальному юрлицу; возможно также, что подразумевается 'KEN AGRI TECH' как бренд/трейдер без отдельного Pvt Ltd. Роль оставлена unknown: заявленный профиль (продукты питания/FMCG, HS 071140, 200110, 200190, 200570 — консервированные овощи/грибы, томаты, джемы) не даёт оснований приписывать manufacturer или trader. Отклонять НЕЛЬЗЯ: отсутствие данных о ликвидации/банкротстве/страйк-офф не доказано, а по правилам проекта rejected допустим только при подтверждённом несуществовании/ликвидации/банкротстве. Требуется повторная проверка при восстановлении доступа к MCA/zaubacorp/tofler или при предоставлении поставщиком CIN/GSTIN/PAN — тогда верификация займёт один запрос. HS-коды не проверялись и не корректировались (вне роли registry specialist)."
+}

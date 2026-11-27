@@ -1,0 +1,9 @@
+{
+ "name_input": "Axcel Gases",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable findings. Tooling failed across the board on this run: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); Bing returned only unrelated retail results (Home Depot, Tractor Supply) for every query variant, i.e. the query was not actually executed; zaubacorp.com returned HTTP 403; indiankanoon.org DNS resolution failed; the company site axcelgases.com served only a bot-verification interstitial ('One moment, please...'); OFAC Sanctions List Search loaded as a JS form and returned no lookup results, so a negative SDN hit is NOT confirmed. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = not verified, null; Indian court cases (party role/status) = not verified, null; regulator actions and negative news with dates = not verified, null; credit rating with date/status = not verified, null; evidence of supplies to Russia or CIS = not verified, null. Nothing here should be read as a clean bill of health — all fields are null because nothing was publicly retrievable, not because checks came back negative. Per project rules this is not a rejection ground and no adverse inference is drawn; company remains in the database. Recommended re-run of sanctions (OFAC/UN/EU/UK/BIS), Indian court (eCourts, Indian Kanoon), and credit-rating (CRISIL/ICRA/CARE/India Ratings) checks when search infrastructure is restored. Note also that the claimed industry ('Строительство и DIY' / construction & DIY) and declared HS 731100 (iron/steel containers for compressed or liquefied gas) are outside my remit and were not assessed."
+}

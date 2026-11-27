@@ -1,0 +1,18 @@
+{
+ "name_input": "S A ASSOCIATES LLP",
+ "legal_name": "S A ASSOCIATES LLP (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in master-data page returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results (letter 'S' pages), i.e. no usable hits for the exact name. Consequently LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session - they are NOT null because the entity is absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown': the name 'LLP' plus the claimed IT/electronics profile gives no evidence of manufacturing vs trading, and no registry record was read. Per project rules the company is NOT rejected - rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Also note: the claimed HS 902789 is a measuring-instrument heading, not an IT/electronics code, and the input supplied no PAN and no state, so no cross-check of claimed vs registered state was possible. Recommended next step: re-run against MCA master data / GST portal with a working search backend before any sourcing decision."
+}
