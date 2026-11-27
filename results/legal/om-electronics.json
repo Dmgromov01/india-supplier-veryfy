@@ -1,0 +1,18 @@
+{
+ "name_input": "Om Electronics",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no data obtained. The input gives no legal entity name, only a person's name ('SACHIN BAPURAO KHARAT'), which is consistent with a sole proprietorship trading as 'Om Electronics', but this is not confirmed by any source. Research failed for technical reasons: the web_search tool returned 'Connection refused' on every query; direct fetches of Google (HTTP 429), Zauba Corp (403), InstaFinancials (403) and Tofler (404 on search URL) were blocked; Bing returned only irrelevant results for all three query variants. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' - the declared HS 854159 (electronic integrated circuits/parts) and the trade name suggest electronics, but no registry evidence of manufacturing vs trading exists. Per project rules this entity is NOT rejected: there is no evidence that it does not exist, is struck off, liquidated or bankrupt - the absence of data is a research limitation, not a negative finding. Recommended action: re-run verification when search/registry access is restored, using the GST portal 'Search Taxpayer' on the trade name plus state, and MCA/Proprietor lookup on the individual's name; also request the GSTIN directly from the supplier."
+}

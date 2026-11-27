@@ -1,0 +1,19 @@
+{
+ "name_input": "MICAPLY",
+ "declared_hs": "701919;854610",
+ "actual_hs_list": [
+  "7019.19 — glass fibre mats/boards (glass-fibre non-woven/laminate reinforcement) — partial fit only",
+  "7019.90 — other glass fibre articles (glass-fibre laminates/composites) — likely better fit than 7019.19",
+  "8546.10 — glass-fibre reinforced plastic insulators / electrical insulating parts of glass-fibre — plausible for insulation components",
+  "8547.90 — insulating fittings of plastics/ceramics (fabricated insulation parts) — plausible",
+  "3921.90 — other plates/sheets of plastics (epoxy/polyester/phenolic/polyimide laminates) — main gap in declaration",
+  "8544.11 / 8544.19 — insulated copper/aluminium winding wire (round & flat) — declared code missing entirely",
+  "6814.10 / 6814.90 — worked mica and mica articles (mica insulation tapes) — declared code missing entirely",
+  "6815.99 — articles of stone/other mineral substances (mica-based composites) — alternative for mica parts",
+  "6813.81 / 6813.89 — friction material & articles thereof, in sheets (if any friction grades) — cannot_verify"
+ ],
+ "match_status": "partial",
+ "product_summary": "Per micaply.com (homepage, read 2026): manufacturer of (1) thermoset composite laminates — epoxy, polyester, phenolic and polyimide laminates, 12 material families / 55+ grades, incl. glass-epoxy structural laminates; (2) electrical insulation tapes, tubes/rods, incl. mica insulation tapes; (3) insulated round and flat copper & aluminium winding wire; (4) CNC-machined/fabricated insulation components to drawing; (5) custom carbon-fibre composite components under brand CARBONPLY (Y-mounts, rail assemblies, pivot joints, structural profiles). Plant: Mandideep, Bhopal (MP); corporate office Mumbai; sales offices Munich, Springfield NJ, Duiven NL.",
+ "role_hint": "manufacturer",
+ "comment": "HS-код НЕ является основанием для отклонения — компания сохраняется, коды корректируются (правило 3). Сверка: заявленные 701919 (стекловолокно) и 854610 (стеклопластиковые изоляторы) покрывают только часть ассортимента — стеклотекстолитовые ламинаты и часть изоляционных деталей. Основные продуктовые линии в декларации отсутствуют: (а) слюдяные изоляционные ленты/трубки/стержни — 6814.10/6814.90 (или 6815.99), (б) эмалированный/изолированный медный и алюминиевый обмоточный провод круглого и прямоугольного сечения — 8544.11/8544.19, (в) слоистые пластики на эпокси/полиэфир/фенол/полиимидной основе — 3921.90, (г) углепластиковые детали CARBONPLY — 6815.99/3921.90/7019.90. Отрасль «Строительство и DIY» указана неверно: фактически это электроизоляционные материалы и композиты для электромашиностроения (двигатели, генераторы, трансформаторы, ж/д) — отрасль «Электротехника / энергетика», не стройка. Признаков трейдера нет: сайт описывает собственное производство и фабрикацию в Мандидипе, есть TDS на грейды — роль manufacturer (заявлено, не подтверждено документально). Все продуктовые утверждения взяты с сайта micaply.com и являются «заявлено, не подтверждено» — таможенных/B-L строк в рамках этой задачи не проверялось (по правилам роли). Внутренние страницы каталога (/products/, /about/, /markets/, sitemap) вернули 404, поэтому детализация по 12 семействам и 55+ грейдам не подтверждена постранично; web_search был недоступен (connection refused). Выручка/объём экспорта — null, не исследовались."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "INDIAN MACHINE TOOLS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search — бэкенд недоступен (connection refused); (2) zaubacorp.com/company-search и zaubacorp.com/company/INDIAN-MACHINE-TOOLS — HTTP 403; (3) thecompanycheck.com и instafinancials.com — HTTP 404; (4) google.com/search — HTTP 429; (5) duckduckgo.com/html и lite.duckduckgo.com — timeout; (6) bing.com по трём запросам — выдал только нерелевантные результаты про Indian Motorcycle/India, ни одного реестрового профиля; (7) mca.gov.in/mcafoportal/companyLLPLookup.do — HTTP 403; (8) marginalia — антибот-заглушка. Название «INDIAN MACHINE TOOLS» — это, судя по форме, торговое наименование/вывеска, а не полное наименование юрлица (нет суффикса Pvt Ltd / LLP / Partnership). Без доступа к MCA/Zauba невозможно установить, идёт ли речь о компании, LLPs, товариществе или ИП, поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и статус MCA остаются null — выдумывать их запрещено. Роль (manufacturer/trader) по реестровым данным не определена, поставлена unknown. Выручка FY25/FY26 недоступна: аудиторская отчётность не найдена, поля null. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не равно несуществованию юрлица (правило 3: rejected только при ликвидации/банкротстве/несуществовании, что здесь не установлено). Требуется повторная проверка при восстановлении доступа к MCA (mcafoportal) или Zauba/Tofler; также нужен уточнённый полный юридический адрес/штат от заказчика, так как в исходных данных state_claimed пуст."
+}
