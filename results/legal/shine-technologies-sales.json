@@ -1,0 +1,18 @@
+{
+ "name_input": "SHINE TECHNOLOGIES & SALES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failure during this run: web_search backend returned 'Connection refused' (searx unavailable); direct fetches of registry aggregators returned HTTP 403 (zaubacorp.com, instafinancials.com, falconebiz.com) or 404 (thecompanycheck search endpoint); Google returned HTTP 429; Bing returned only unrelated results for the exact-phrase queries '\"SHINE TECHNOLOGIES AND SALES\" CIN' and '\"Shine Technologies & Sales\" IndiaMART GST'. No public page confirming an exact legal entity name, CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status was retrieved, therefore all registry fields are null and role is 'unknown'. No revenue figures are asserted: no audited accounts or official filings were located, so FY25/FY26 revenue = null. IMPORTANT per project rules: this is NOT a rejection. Absence of a verified registry record in this run is a data gap, not proof of non-existence; the entity must be re-checked against MCA master data (mca.gov.in / MCA V3 company search) and the GST portal before any verdict. Note also that the claimed legal name 'SHINE TECHNOLOGIES AND SALES' may correspond to a partnership/proprietorship (no CIN by design) rather than a company, which would explain the absence of an MCA record - this could not be determined. Declared HS 732690 (iron/steel articles) is not a rejection ground and was not assessed here. No state was claimed in the input, so state_claimed is null."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Hexacarb Engineers Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) for all queries, and every registry/profile source attempted was inaccessible: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 403), falconebiz.com (HTTP 403), tofler.in (404 - no such company slug), Google (HTTP 429), DuckDuckGo HTML (timeout). Bing returned only irrelevant, non-company results, so no page confirming the existence of 'Hexacarb Engineers Private Limited' was retrieved. Therefore legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they were found to be absent, but because no authoritative source could be read. No rejection is proposed: per project rules an entity may only be rejected if it is proven non-existent/struck off/liquidated/bankrupt, and non-existence was NOT proven here. Role left as 'unknown' (no evidence of manufacturing or trading activity obtained). Note also that the input 'legal_claimed' field contains a person's name (MILIND BHAGWANTRAO SONAWANE), not a legal entity name - this appears to be a director/promoter name, which should be re-checked against MCA director records once registry access is restored. Declared HS 381190 (chemical preparations) was not assessed, as HS verification is outside this role's scope. Recommend re-queueing this company for a run with working search/registry access."
+}

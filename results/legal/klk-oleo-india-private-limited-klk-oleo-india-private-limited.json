@@ -1,0 +1,18 @@
+{
+ "name_input": "KLK OLEO INDIA PRIVATE LIMITED; KLK OLEO INDIA PRIVATE LIMITED",
+ "legal_name": "KLK OLEO INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failed: DuckDuckGo/searx search returned 'Connection refused'; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic 'KLK' results (KLK Berhad, KLK OLEO global site) with no Indian registry record; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; instafinancials.com returned 404; klkoleo.com is behind a bot-verification interstitial. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all left null rather than guessed. No rejection is applied: there is no evidence the entity does not exist, and absence of accessible records is not grounds for rejection under the project rules. Role 'manufacturer' is a provisional classification only, based on the parent group's public self-description as a global oleochemical producer (klkoleo.com) and the declared HS 340290 (surface-active agents/oleochemical derivatives) - it is NOT confirmed by an Indian MCA/GST record and should be re-checked. Legal name is taken as claimed; the exact MCA spelling (including whether the entity is 'KLK OLEO INDIA PRIVATE LIMITED' vs a differently spelled Indian subsidiary) is unconfirmed. ACTION REQUIRED: re-run against MCA master data / GST public search when network access to registry sources is restored."
+}

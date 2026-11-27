@@ -1,0 +1,20 @@
+{
+ "name_input": "KLK OLEO INDIA PRIVATE LIMITED; KLK OLEO INDIA PRIVATE LIMITED",
+ "declared_hs": "340290",
+ "actual_hs_list": [
+  "3823 (industrial monocarboxylic fatty acids / acid oils from refining)",
+  "2915.70 (palmitic acid, stearic acid and their salts/esters)",
+  "2915.90 (other saturated acyclic monocarboxylic acids)",
+  "2905.17 (dodecan-1-ol / lauryl alcohol, saturated monohydric alcohols)",
+  "1520.00 (glycerol, crude; glycerol waters and lyes)",
+  "2905.45 (glycerol)",
+  "3401 (soap; organic surface-active products for toilet use)",
+  "3402.90 (other surface-active agents / washing preparations)",
+  "1516.20 / 1517 (hydrogenated, interesterified fats and oils; edible fat preparations)",
+  "3824 (prepared binders, chemical preparations n.e.s.)"
+ ],
+ "match_status": "partial",
+ "product_summary": "KLK OLEO is the oleochemical arm of Kuala Lumpur Kepong Berhad; the Indian entity (KLK OLEO India Pvt Ltd) is a manufacturer of oleochemicals derived from palm kernel and palm oil: fatty acids (lauric, myristic, palmitic, stearic, oleic), fatty alcohols (lauryl/myristyl/cetyl/stearyl), refined glycerine, soap noodles/soap base, methyl esters and fatty acid derivatives, plus specialty surfactants and personal-care/nutrition intermediates. NOTE ON EVIDENCE: the corporate site www.klkoleo.com returned only a bot-verification interstitial on every attempt (home, /products/, /about-us/, /india/, /products/oleochemicals/), klkoleoindia.com does not resolve, and IndiaMART returned HTTP 429. Web search was unavailable (searx connection refused). Therefore the product list above reflects the well-known KLK OLEO group oleochemical portfolio and is NOT corroborated by a page I could actually read in this session — treat it as 'заявлено, не подтверждено' pending a manual read of the catalogue.",
+ "role_hint": "manufacturer (group-level oleochemical producer with own plants; no trader signs observed, but the Indian entity's own plant/catalogue page could not be opened to confirm manufacturing vs. distribution for the Indian site)",
+ "comment": "HS 340290 (other surface-active agents/washing preparations) is only a partial fit. It can cover part of the surfactant/specialty line, but the core oleochemical output of this company sits in Chapter 38 (3823 fatty acids), Chapter 29 (2915.70 stearic/palmitic acid, 2905.17 lauryl alcohol, 2905.45 glycerol) and Chapter 15 (1520 crude glycerol, 1516/1517 processed fats). So the declared single code 340290 understates and partly misplaces the range: status = partial, not wrong. Per project rule 3 this is NOT a rejection ground — company stays in the base and the code should be corrected/expanded to the actual lines. Industry label 'Нефтегаз и химия' (oil & gas + chemicals) is a misclassification on the 'oil & gas' half: this is oleochemicals/palm-oil downstream chemistry, not petroleum. No customs line was available to me in this session, so no HS code here is confirmed by a shipment record — all codes are 'заявлено, не подтверждено'. Product lines likely missing from the declaration: fatty acids (3823/2915), fatty alcohols (2905.17), glycerine (1520/2905.45), soap noodles (3401), methyl esters. No registry, revenue or customs-volume research was performed per role scope."
+}
