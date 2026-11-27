@@ -1,0 +1,8 @@
+{
+ "name_input": "ADARSH BEARINGS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/adarsh-bearings-private-limited and .../adarsh-bearings-pvt-ltd both returned only the paywalled template shell: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows visible (0 of 0). No bill-of-lading number, date, destination or HS code could be read. volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic-supply source could be read: thecompanycheck.com returned HTTP 403; web_search backend was unavailable for the whole session ('searx: <urlopen error [Errno 111] Connection refused>'), so no GeM/CPPP tender, GST turnover band or annual-report split could be retrieved. GST turnover: null (not public in any source reached).",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, поскольку все источники отгрузочных данных оказались платными или заблокированными (ImportKey — только заглушка без строк, Volza/Eximpedia/Trademo — 403, ImportGenius — JS-челлендж), а поисковик был недоступен. Статус по обоим каналам — unknown, не none_found: отсутствие доступа к данным не равно отсутствию отгрузок. Выручка и объём экспорта: null (не выдумывались). Заявленный HS 848220 (подшипники конические роликовые) не проверен по фактическим записям — код не подтверждён и не опровергнут. Требуется повторный прогон при работающем поиске или платном доступе к таможенным данным."
+}

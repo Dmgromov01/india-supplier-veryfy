@@ -1,0 +1,9 @@
+{
+ "name_input": "ADARSH BEARINGS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты не дали результатов. web_search (DuckDuckGo/searx) возвращал ошибку соединения (Connection refused) на всех запросах; http_get к zaubacorp.com — HTTP 403; к google.com — HTTP 429; duckduckgo.com/html — таймаут. Bing отдавал деградированную выдачу: на все запросы, включая точные фразы в кавычках (\"Adarsh Bearings Private Limited\", \"Adarsh Bearings\" + manufacturer India, site:zaubacorp.com/tofler.in/thecompanycheck.com, + CIN), возвращались нерелевантные результаты (YouTube-каналы, Wikipedia про актёра Adarsh Gourav, Adarsh Developers, Aadarsh printing) — ни одного упоминания компании. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-приложение, через http_get отдаёт только интерфейс без результатов поиска, поэтому прямой скрининг по SDN/Non-SDN не подтверждён. Итог: ни по одному из направлений (санкции OFAC/UN/EU/UK/BIS, индийские суды с ролью стороны и статусом, действия регуляторов, негативные новости с датами, кредитный рейтинг с датой и статусом, поставки в РФ/СНГ) публичных данных получить не удалось. Все поля оставлены null — это означает 'не проверено / нет публичных данных', а НЕ 'чисто'. Ложное 'sanctions_hit: false' или 'court_cases: none' здесь было бы выдумкой. Требуется повторный прогон при доступном поиске: минимум проверить CIN в MCA, e-courts/NJDG, IBBI, сайты OFAC/UK/EU/BIS consolidated list, CRISIL/ICRA/CARE, и открытые таможенные записи по экспорту в РФ. Отклонять компанию по правилу 3 нельзя: признаков несуществования/ликвидации/банкротства не установлено (и не опровергнуто) — статус проверки незавершённый, не rejected."
+}
