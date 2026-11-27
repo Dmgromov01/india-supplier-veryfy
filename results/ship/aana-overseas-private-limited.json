@@ -1,0 +1,8 @@
+{
+ "name_input": "AANA OVERSEAS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was ever rendered. ImportKey page https://importkey.com/countries/india/aana-overseas-private-limited returned only the paywalled shell: 'Shipments available for AANA OVERSEAS PRIVATE LIMITED, refreshed daily' — a marketing placeholder, not a record. Rows actually seen: 0 (zero dates, zero destinations, zero HS codes, zero B/L numbers).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrieved. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: доступ к данным не получен. Source counter: 6 URLs attempted (importkey, volza, eximpedia, trademo, importgenius, zaubacorp), 0 usable record rows returned. importkey = paywall shell; volza/eximpedia/trademo/zaubacorp = HTTP 403; importgenius = JS challenge; DuckDuckGo search backend refused connection (searx: Connection refused), so no alternative sources could be located. Declared HS 441900;442090;940320;940360 (wooden articles/furniture) is unverified against any customs line — no HS correction is possible without a record, and per project rules HS mismatch is not a rejection ground anyway. No CIN, PAN, GSTIN, revenue or export volume is asserted: all null, not public in retrieved material. Verdict: insufficient data — needs a paid trade-data pull or manual MCA/GST lookup before any shipment claim is made."
+}

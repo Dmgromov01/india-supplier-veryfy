@@ -1,0 +1,9 @@
+{
+ "name_input": "TMV NATURAL OILS & EXTRACTS P LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "РИСК-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных, все поля null. Причина: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), а Bing по запросам в кавычках «TMV Natural Oils & Extracts» / «TMV Natural Oils and Extracts» возвращал только нерелевантные результаты про tobacco mosaic virus, TMV-клапан, ETF TMV, Tilak Maharashtra Vidyapeeth — ни одного упоминания компании. Прямой доступ к реестрам закрыт: zaubacorp.com отдал HTTP 403; tofler.in и e-courts не проверялись. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-интерфейс без серверного результата по имени — фактического скрининга SDN/Non-SDN по строке «TMV Natural Oils» не получено, поэтому sanctions_hit = null, а НЕ «чисто». Аналогично не проверены: UN Consolidated List, EU consolidated list, UK OFSI, BIS Entity List; индийские суды (e-courts, NCLT, High Court Madras — вероятный штат по названию не подтверждён); действия регуляторов (FSSAI, RBI, ED, GST); кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings/Acuite) — публичных записей не найдено; признаки поставок в РФ/СНГ — следов не найдено, но это результат отсутствия доступа к данным, а не подтверждённое отсутствие. ВАЖНО: отсутствие находок здесь не является отрицательным результатом скрининга. Требуется повторный прогон при доступном поиске и реестрах (Zauba/Tofler/MCA, e-courts, OFAC CSV-выгрузка sdn.csv + alt.csv, UN/EU/UK списки). Санкционных, судебных или регуляторных оснований для отклонения по правилу 2 в любом случае не зафиксировано — компания сохраняется в базе."
+}
