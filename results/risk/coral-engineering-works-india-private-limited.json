@@ -1,0 +1,9 @@
+{
+ "name_input": "CORAL ENGINEERING WORKS INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research blocked by tooling failures: DuckDuckGo/searx backend refused connections on all attempts; Zauba Corp and TheCompanyCheck returned HTTP 403; Google returned HTTP 429; Bing ignored exact-phrase quoting and returned only generic 'coral' results (no company-specific hits). OFAC Sanctions List Search is a JS form and returned no queryable results via plain GET, so no SDN/UN/EU/UK/BIS screening could be completed - sanctions_hit is null (NOT screened), not a negative finding. Indian Kanoon exact-phrase search for 'Coral Engineering Works' returned only 2 judgments, both from the Calcutta High Court in 1928 (Amulya Charan Sur vs Coral Engineering Works Ltd., 27.11.1928, AIR1929CAL155) concerning a different, long-defunct entity of similar name - not attributable to the company under review, so court_cases is null. No credit rating, regulator action, negative news or evidence of supplies to Russia/CIS could be located or verified; all such fields are null because nothing public was retrievable, not because the company is clean. Per project rules this is not a rejection ground and no adverse inference should be drawn; recommend re-running the check when search access is restored, using MCA master data, the IBBI/NCLT insolvency portal, and a proper sanctions-screening API."
+}

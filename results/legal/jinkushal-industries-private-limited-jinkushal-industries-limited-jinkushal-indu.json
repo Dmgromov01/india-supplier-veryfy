@@ -1,0 +1,18 @@
+{
+ "name_input": "JINKUSHAL INDUSTRIES PRIVATE LIMITED; JINKUSHAL INDUSTRIES LIMITED; JINKUSHAL INDUSTRIES LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool was unavailable (searx connection refused) and all direct registry/aggregator sources returned blocks or errors: zaubacorp.com and thecompanycheck.com -> HTTP 403; falconebiz.com -> HTTP 403; tofler.in -> 404 (no such company slug); instafinancials.com -> 404; Google -> HTTP 429; DuckDuckGo -> timeout; Bing returned only irrelevant results (no matching company page). Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT invented. Note the input itself is internally inconsistent: it lists both 'JINKUSHAL INDUSTRIES PRIVATE LIMITED' and 'JINKUSHAL INDUSTRIES LIMITED' as candidate names, which are two different legal forms (private limited vs public limited) and would carry different CINs; the correct entity must be confirmed from MCA before any record is created. No audited accounts or official filings were retrievable, so revenue FY25 and FY26 are null. Role is 'unknown' - the declared HS codes (842911, 842952 - earthmoving/bulldozer machinery; 870410 - dumpers; 870899 - motor vehicle parts) suggest construction/earthmoving equipment activity, but per project rules catalogue/HS claims are not evidence of role and were not used. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research limitation, not a negative finding. Recommended next step: re-run with working search access and confirm the exact MCA name and CIN on mca.gov.in / a GST public profile before accepting into the database."
+}

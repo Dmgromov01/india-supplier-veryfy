@@ -1,0 +1,9 @@
+{
+ "name_input": "JAYSHRI PROPACK PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned unrelated/cached results (crypto-bridge pages) that did not honour the query, so no page about this company could be retrieved. ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search is a JavaScript form and cannot be queried by plain GET, so no SDN/consolidated-list screen was actually performed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because nothing was verified - NOT because a negative result was established. Do not read these nulls as 'clean'. No claim in this record is sourced, and no CIN, PAN, case number, rating or shipment record has been invented. Recommended next step: re-run this company once the search backend is restored, screening (a) OFAC SDN/consolidated list and BIS Entity List for 'Jayshri Propack', (b) eCourts/NCLT/High Court records for the exact registered entity name, (c) CRISIL/ICRA/CARE/Brickwork rating actions, and (d) Indian trade-press and customs-derived reporting for any Russia/CIS-bound shipments. Note per project rules: any sanctions, court or criminal findings that do emerge are to be recorded neutrally as 'есть сложности' and are not grounds for rejection."
+}

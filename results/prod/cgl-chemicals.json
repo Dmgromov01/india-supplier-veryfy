@@ -1,0 +1,21 @@
+{
+ "name_input": "CGL Chemicals",
+ "declared_hs": "340239;340290;390690",
+ "actual_hs_list": [
+  "340231 (SLS/SLES/AOS anionic surfactants - acyclic sulfonated/sulfated organic surface-active agents)",
+  "340249 (CAPB, cocamidopropyl hydroxysultaine, amine oxides, amphoteric/other non-ionic surface-active agents)",
+  "340242 (polysorbate 20/60/80, alkoxylated non-ionic surfactants)",
+  "340250 (retail-packed surfactant preparations, if sold in retail packs)",
+  "340290 (surface-active preparations/washing preparations - residual catch-all)",
+  "292390 (quaternary ammonium salts: CTAC, esterquats, Fentamine 301 U / alkyl dimethyl benzyl ammonium chloride)",
+  "340241 (cationic surface-active agents - CTAC/esterquats if classified as cationic surfactant)",
+  "390690 (acrylic polymers: Rheomer 33 acrylates copolymer, acid thickeners)",
+  "390799 / 39079900 (polyester soil-release polymers: Mirapol Surf S-900, Repel-O-Tex)",
+  "340213 (non-ionic: ethoxylated/propoxylated, if applicable)",
+  "340220 (washing/cleaning preparations put up for retail sale - only if blended formulations are sold)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (cglchemicals.com, live) shows CGL CHEMICALS as an AUTHORISED DISTRIBUTOR of home & personal care surfactants, with operations in Delhi NCR, Mumbai and UAE. Named products on the Home Care page: SLES 70%, SLES 28%, SLS powder/needle, ALS liquid/powder, AOS (liquid/powder/paste/needle) and AOS sodium C14-16 olefin sulfonate, CAPB, cocamidopropyl hydroxysultaine, Miranol Ultra C32/C2M amphodiacetates, Rhodafac H 66 phosphate ester, amine oxides, polysorbate 20/60/80, CTAC, esterquats, Fentamine 301 U, acid thickeners, Rheomer 33 acrylates copolymer, Mirapol Surf S-900, Repel-O-Tex soil-release polymer. Applications: laundry detergents, dishwash, household cleaners, fabric care, disinfection, industrial cleaning/degreasing/vehicle care. The generic /products/ page deliberately lists no product names ('available on request').",
+ "role_hint": "trader",
+ "comment": "HS mapping: declared 340239/340290/390690 is PARTIALLY correct but incomplete and partly mis-aimed. (1) 340239 is the 'other' residual subheading for anionic/non-ionic surfactant preparations; the actual core line - SLES, SLS, ALS, AOS - is sulfated/sulfonated acyclic surfactant, i.e. HS 3402.31, so the primary code should be 340231, not 340239. (2) 340290 is acceptable as a catch-all for surfactant/washing preparations but is not the specific line for the named products. (3) 390690 fits only the acrylic thickeners (Rheomer 33, acid thickeners); the polyester soil-release polymers (Mirapol Surf S-900, Repel-O-Tex) belong to polyester/polymer lines (3907.99), and the quaternary ammonium conditioning/disinfectant agents (CTAC, esterquats, Fentamine 301 U) are missing entirely from the declaration - they map to 2923.90 / 3402.41. (4) Polysorbates 20/60/80 (3402.42) are also absent from the declaration. So: product lines missing from declaration = cationic quaternary ammonium compounds, polysorbates/ethoxylated non-ionics, polyester soil-release polymers. Industry claim 'Нефтегаз и химия' (oil & gas and chemicals) is a MISCLASSIFICATION: the company is a home/personal-care and industrial-cleaning surfactant distributor, with no oilfield or petrochemical product line visible on the site. Role: trader/distributor - the site repeatedly self-describes as 'authorised distributor' of third-party brands (Miranol, Rhodafac, Rheomer, Mirapol, Repel-O-Tex are supplier trademarks), with no manufacturing claim, so role_hint = trader. Per project rule 3, the HS mismatch is NOT grounds for rejection: company is retained and the code is corrected to the factual surfactant lines above. All product names above are taken from the company's own website only - no customs line or B/L was checked in this task, therefore the entire product range is 'заявлено, не подтверждено'. Note also that the site's product page withholds specific grades and the testimonials are unattributed, which is a weak-evidence signal; the named-product table on the Home Care page is the only concrete product evidence found."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MS ENGINEERING AND SPARES INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All search/registry channels failed during this run: DuckDuckGo/searx backend refused connections ('Connection refused'), lite.duckduckgo.com timed out, Google returned HTTP 429, Bing ignored the quoted phrase and returned unrelated results (multiple sclerosis / letter 'M'), Marginalia returned only a bot-check page. Direct registry pages were blocked: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, instafinancials.com HTTP 403, mca.gov.in/mcafoportal HTTP 403, quickcompany.in HTTP 404. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures were found. IMPORTANT: the input field 'legal_claimed' contains 'KAMAL SHARMA', which is a person's name, not a legal entity name - the actual legal entity (e.g. a 'Private Limited' or a proprietorship/firm) is unconfirmed. The name as given ('MS ENGINEERING AND SPARES INDIA') may be a trade name or an unregistered style name; it is also possible the entity is a sole proprietorship or partnership with no CIN at all, which cannot be distinguished without registry access. Per project rules, rejection is NOT applied here: absence of retrievable records in this run is not proof of non-existence, so the company is retained with nulls rather than rejected. Role is set to 'unknown' - the declared HS codes 841490 (parts of air/vacuum pumps and compressors) and 848180 (taps, cocks, valves and similar appliances) are consistent with a trader or stockist of oil-and-gas/chemical flow-control spares, but this is inference from HS codes only, not evidence of manufacturing capability. No revenue figures are estimated; FY25 and FY26 are null because no audited accounts or official filings were accessible. Recommended next step: re-run verification when registry access is available, using the MCA company-name search and the GST taxpayer search on the confirmed legal name, and request the GSTIN directly from the supplier."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "JAYSHRI PROPACK PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for slug 'jayshri-propack-pvt-ltd' loaded but contained zero shipment rows — only boilerplate: \"Shipments available for JAYSHRI PROPACK PVT LTD, refreshed daily\" with no date, destination, HS code or bill-of-lading number rendered in the free view. Source counter: 1 ImportKey page fetched, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record retrieved. Attempts blocked: eximpedia.app and volza.com returned HTTP 403; thecompanycheck.com and zaubacorp.com returned HTTP 403; DuckDuckGo search backend refused connection; Bing returned only unrelated results (biochemistry textbooks) for the exact-phrase query \"JAYSHRI PROPACK\". Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что поставок не было: все доступные источники отгрузок (ImportKey free view, Volza, Eximpedia, реестры) оказались либо пустыми, либо закрыты (403), либо поисковики не работали. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Заявленный HS 392010/392020/392062/392119 (плёнки/листы из полимеров) не подтверждён и не опровергнут — фактический код не установлен, поэтому вердикт по HS не выносится. Роль (manufacturer/trader) не определена. Требуется повторная проверка при доступе к платным таможенным базам (Volza/Eximpedia/ImportGenius) или к GST-порталу; до этого статус остаётся unknown, а не accepted."
+}

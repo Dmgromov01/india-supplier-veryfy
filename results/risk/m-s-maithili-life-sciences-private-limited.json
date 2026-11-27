@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S MAITHILI LIFE SCIENCES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT CONFIRMED EITHER WAY. Research could not be completed: the web_search backend returned connection errors ('searx: Connection refused') for all queries, and fallback fetches (Bing, DuckDuckGo HTML, Google) returned either HTTP 429/timeouts or completely irrelevant results (the engine ignored the quoted company name and returned unrelated pages about Pastebin, PlayStation and minimalist phones). Zaubacorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is an interactive form and returned no lookup results for the name, so no SDN/Non-SDN match can be asserted or excluded. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = null / not verified; Indian court cases (party role, status) = null / not verified; regulator actions and negative news with dates = null / not verified; credit rating with date and status = null / not verified (no public rating found, and none could be searched); evidence of supplies to Russia or CIS = null / no evidence found, but this is an absence of search coverage, not a verified negative. No claim in this record is sourced, because no source could be retrieved. Per project rules, no rejection is proposed on this basis — the company stays in the database with an open verification status. Recommended next step: re-run with a working search backend and check MCA master data, the OFAC/EU/UK consolidated lists by exact name, and Indian court dockets (e.g. eCourts/NJDG) before any risk conclusion is drawn."
+}
