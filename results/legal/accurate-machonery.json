@@ -1,0 +1,18 @@
+{
+ "name_input": "Accurate Machonery",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо не удалось. Входные данные противоречивы: в поле 'legal_claimed' указано не название компании, а имя физлица (SANTOSH KUMAR GUPTA), при этом название 'Accurate Machonery' выглядит как искажённое написание (вероятно 'Accurate Machinery'). Точного совпадения по названию не найдено. Технические ограничения: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Bing игнорировал кавычки и выдавал только словарные статьи; zaubacorp.com и tofler.in отдали HTTP 403; Google — HTTP 429. Таким образом, ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус не подтверждены ни одним публичным источником — все поля null, ничего не выдумано. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования при недоступных реестрах не равно доказанному отсутствию юрлица (правило 3). Роль — unknown, т.к. нет данных ни о производстве, ни о торговле. Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. Требуется уточнение от заказчика: точное юридическое название (напр. 'Accurate Machinery Pvt Ltd' / 'Accurate Machineries'), город/штат и GSTIN или PAN — после этого проверку по MCA/GST можно завершить."
+}

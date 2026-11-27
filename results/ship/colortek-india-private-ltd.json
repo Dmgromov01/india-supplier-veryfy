@@ -1,0 +1,8 @@
+{
+ "name_input": "COLORTEK (INDIA) PRIVATE LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was ever displayed. ImportKey page https://importkey.com/countries/india/colortek-india-private-ltd returned only a paywalled shell: 'Shipments available for COLORTEK INDIA PRIVATE LTD, refreshed daily' — a marketing placeholder, not a record. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Searches for the company returned unrelated results (search backend malfunction: DuckDuckGo/searx refused connections; Bing returned off-topic pages such as 'Atractus ronnie' and 'Comenity Bank credit cards'). Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных, ни внутренних записей получить не удалось, поэтому статус 'unknown', а не 'none_found'. Источники: importkey — страница-заглушка без данных (0 строк); volza.com/p/colortek-india — HTTP 403; eximpedia.app — HTTP 403; trademo.com — HTTP 403; importgenius — JS-челлендж, контент не отдан; Google — HTTP 429; DuckDuckGo/searx — соединение отклонено; Bing — нерелевантная выдача. Заявленный HS 320710/321519/390469 (пигментные препараты, печатные краски, полимеры) не подтверждён и не опровергнут фактическими отгрузками. Выручка: null (не публична в доступных источниках). Требуется повторная проверка при восстановлении доступа к таможенным базам (Volza/Eximpedia/ImportKey с подпиской) и к GST-порталу; до этого компанию нельзя ни принять по факту отгрузок, ни отклонить."
+}

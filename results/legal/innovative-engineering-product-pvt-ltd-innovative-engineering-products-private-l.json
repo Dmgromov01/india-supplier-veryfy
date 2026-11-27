@@ -1,0 +1,18 @@
+{
+ "name_input": "INNOVATIVE ENGINEERING PRODUCT PVT.LTD.; INNOVATIVE ENGINEERING PRODUCTS PRIVATE LIMITED",
+ "legal_name": "INNOVATIVE ENGINEERING PRODUCTS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend returned 'Connection refused' on all queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only generic dictionary results and ignored the quoted company name, so no company-specific page was surfaced. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are NOT public-verified and must not be treated as absent, only as unretrieved. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left 'unknown' - the input name suggests a manufacturing entity ('Engineering Products'), but no MCA business-activity code or GST HSN filing was obtained to confirm manufacturer vs trader. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Declared HS 820900 (interchangeable tools for hand tools / tool plates, tips and cutters) is not assessed here per role scope; note that the claimed industry 'Metallurgy and mining' is a poor fit for HS 8209, which is tooling, so the HS code should be re-checked against actual product lines in a later pass. Recommended next step: re-run against MCA master data and a GST public-profile lookup (e.g. KnowYourGST / GSTZen) once network access to those domains is available, and confirm the exact legal name - the input contains two variants ('INNOVATIVE ENGINEERING PRODUCT PVT.LTD.' and 'INNOVATIVE ENGINEERING PRODUCTS PRIVATE LIMITED') which may be the same entity or two distinct companies."
+}

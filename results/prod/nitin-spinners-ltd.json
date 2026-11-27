@@ -1,0 +1,16 @@
+{
+ "name_input": "NITIN SPINNERS LTD",
+ "declared_hs": "511290;520513;520514;520526",
+ "actual_hs_list": [
+  "5205 (cotton yarn, single, >85% cotton, not retail — 5205.13/5205.14/5205.26 subheadings plausible for combed/carded single yarn)",
+  "5205.22 / 5205.23 / 5205.32 / 5205.33 (multi-fold/plied cotton yarn — likely also produced, not confirmed by name)",
+  "5208 / 5209 (woven cotton fabrics, dyed/printed — 'Finished & Printed Woven Fabrics' line)",
+  "6006 / 6005 (knitted fabrics, greige/dyed — 'Knitted Fabrics' line)",
+  "5112 (woven fabrics of combed wool/wool-blend — only if wool blends are actually offered; NOT corroborated)",
+  "5206 (cotton yarn <85% cotton, blends — only if blends are spun; NOT corroborated)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Company website (nitinspinners.com) lists exactly three product lines: (1) Yarns — 'spun yarns', positioned as an industry leader in spun yarn manufacturing; (2) Finished & Printed Fabrics — 'complete range of Dyed and Printed Fabrics made out of 100% Cotton and Blends for Fashion, Apparel and Wovens'; (3) Knitted Fabrics — greige knitted fabrics produced from in-house yarn. Company brief: established 1993, textile manufacturer. No food, FMCG, or non-textile products appear anywhere on the site.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: declared 5205.13/5205.14/5205.26 are cotton single yarn subheadings and are consistent with the 'Yarns / spun yarns' line — plausible but the site does not publish yarn counts, so exact subheading split (carded vs combed, single vs plied) is 'заявлено, не подтверждено' and cannot be verified without a customs line. Declared 511290 is woven fabric of combed wool/wool blends: the site's fabric line is explicitly '100% Cotton and Blends' with no wool mentioned anywhere — this code is unsupported by the catalogue and should be treated as wrong/unverified unless a customs record shows wool-blend fabric. Conversely, the declaration omits the two lines the site does confirm: woven cotton fabrics (5208/5209) and knitted fabrics (6005/6006), which are a material share of the product range — product lines missing from the declaration. INDUSTRY MISCLASSIFICATION: declared industry 'Продукты питания и FMCG' (food & FMCG) is wrong — this is a textile spinner/weaver (yarn, woven and knitted fabric), not food or FMCG; industry field must be corrected to textiles. No trader signs: own manufacturing units, own spinning/weaving/knitting infrastructure, listed company with investor-relations section — manufacturer, not trader. Per project rule 3, the HS mismatch is not a rejection ground: company is retained, declared codes corrected to the actual textile range (5205 yarn, 5208/5209 woven cotton fabric, 6005/6006 knitted fabric), with 5112 flagged as unverified. All product facts sourced from nitinspinners.com product pages (Yarns, Finished & Printed Fabrics, Knitted Fabrics) and Company Brief; no customs/B-L line was available to me in this task, so no shipment-level corroboration is asserted."
+}

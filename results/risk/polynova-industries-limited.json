@@ -1,0 +1,9 @@
+{
+ "name_input": "POLYNOVA INDUSTRIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Verification could not be completed: the search backend (DuckDuckGo/searx) returned 'Connection refused' on all attempts, Bing returned only irrelevant results for the exact-name query, and Indian registry mirrors (zaubacorp, thecompanycheck) plus mca.gov.in returned HTTP 403. The OFAC Sanctions List Search page loaded but is an interactive form and cannot be queried via plain HTTP GET, so no name screening result was obtained. Therefore: sanctions exposure = NOT VERIFIED (not a negative finding); Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. No public data was retrievable, so all fields are null by rule (no invented data). No adverse information was found, but absence of findings here reflects tool failure, not a clean record. Recommend re-running screening when search access is restored, and manual checks on: OFAC SDN/consolidated list, UN/UK/EU/BIS Entity List, NCLT/NCLAT and eCourts, IBBI, and CRISIL/ICRA/CARE/India Ratings. Note also that the declared industry ('Продукты питания и FMCG') and declared HS 590310 (coated textile fabrics) are inconsistent, but HS/legal-identity checks are outside this role's scope and are flagged for the identity/HS researcher only."
+}

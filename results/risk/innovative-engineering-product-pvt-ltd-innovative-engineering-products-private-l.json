@@ -1,0 +1,9 @@
+{
+ "name_input": "INNOVATIVE ENGINEERING PRODUCT PVT.LTD.; INNOVATIVE ENGINEERING PRODUCTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет ни одного подтверждающего источника. Что пробовал: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused' на всех запросах; (2) zaubacorp.com и thecompanycheck.com — HTTP 403; (3) mca.gov.in (MCA master data) — HTTP 403; (4) sanctionssearch.ofac.treas.gov — отдаёт только JS-форму, результаты поиска по имени через http_get не возвращаются, поэтому проверка по SDN фактически не проведена; (5) google.com — HTTP 429; (6) html.duckduckgo.com — таймаут; (7) bing.com по трём разным запросам ('Innovative Engineering Products Pvt Ltd', 'Innovative Engg Products', + Russia/CIS/export) — выдал только словарные статьи про слово 'innovative', ни одного релевантного результата, т.е. поиск по точной фразе не сработал. Итог: по компании не найдено ни санкционных записей, ни судебных дел, ни рейтингов, ни негативных новостей, ни следов поставок в РФ/СНГ — но это НЕ означает отсутствие рисков, это означает отсутствие данных. Все поля null, а не 'чисто'. ВАЖНО: название в высшей степени генерик ('Innovative Engineering Products'), в Индии под таким именем могут существовать несколько юрлиц в разных штатах; без CIN/PAN/штата (в заявке пусто) однозначная идентификация невозможна, и любой найденный судебный/санкционный кейс нельзя привязать к этому поставщику без риска ложного срабатывания. Рекомендация: повторить проверку при восстановлении поиска, запросить у поставщика CIN/PAN и штат регистрации, затем прогнать по OFAC SDN/UN/EU/UK/BIS consolidated list, e-courts/NCLT и CRISIL/ICRA/CARE. Отклонять по правилу 3 оснований нет (нет данных о ликвидации/банкротстве), но и принимать на основании этой проверки нельзя."
+}
