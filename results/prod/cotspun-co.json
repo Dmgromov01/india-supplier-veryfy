@@ -1,0 +1,17 @@
+{
+ "name_input": "COTSPUN CO",
+ "declared_hs": "610342;610442;610510;610711",
+ "actual_hs_list": [
+  "610510 - Men's/boy's shirts, knitted or crocheted, of cotton",
+  "610910 - T-shirts, singlets and other vests, knitted, of cotton (probable, not itemised on site)",
+  "610342 - Men's/boy's trousers, bib & brace overalls, breeches and shorts, knitted, of cotton",
+  "610442 - Women's/girls' dresses, knitted, of cotton",
+  "610462 - Women's/girls' trousers, bib & brace overalls, breeches and shorts, knitted, of cotton (probable)",
+  "611120 - Babies' garments and clothing accessories, knitted, of cotton",
+  "630260 - Toilet/kitchen linen of terry towelling, of cotton (home textiles line)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Tirupur (Tamil Nadu) knitwear garment maker, est. 2003, stated capacity 2,00,000 pieces/month. Website (cotspun.com, homepage) lists product lines: Men's Wear, Women's Wear, Boys' Wear, Girls' Wear, Baby Wear, Home Textiles. No itemised SKUs, fabric composition or HS references are published; sub-pages (/products/, /mens-wear/, /home-textiles/) returned 403/404 at time of check, so only the category list is verifiable.",
+ "role_hint": "manufacturer",
+ "comment": "Industry misclassification in the declaration: the claimed industry is 'Продукты питания и FMCG' (food/FMCG), but the company is a knitwear garment manufacturer in Tirupur — textile/apparel (HS Section XI), not food. The declared HS codes themselves are all knitted cotton apparel (6103/6104/6105/6107) and are consistent with the site's Men's/Women's/Boys'/Girls' wear lines, so the codes are broadly right even though the industry label is wrong. Match = partial: 610510 (men's knitted cotton shirts) and 610342 (men's knitted cotton trousers/shorts) and 610442 (women's knitted cotton dresses) are plausible for the stated lines, but the site gives no fabric composition, so 'of cotton' is assumed from the company name/branding, not confirmed; 610711 (men's knitted cotton underpants) is not evidenced by any product line on the site — заявлено, не подтверждено. Product lines missing from the declaration: Baby Wear (would be 6111) and Home Textiles (would be 6302/6301) are advertised on the site but have no declared code. No customs line, shipping bill or B-L was reviewed in this task (out of scope), so all product-to-HS mapping is 'заявлено, не подтверждено' at the shipment level. No trader signs found: own address, own production capacity and machinery claims point to a manufacturer, though this is a self-declaration on the website. Per Rule 3, no rejection on HS grounds; the industry field should be corrected from food/FMCG to textiles/apparel and the code list extended to cover baby wear and home textiles."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SRF LIMITED",
+ "legal_name": "SRF Limited",
+ "cin_llpin": "L21012HR1970PLC005197 (reported CIN for SRF Ltd; could not be re-verified on an MCA/registry mirror in this session — zaubacorp/thecompanycheck returned HTTP 403, quickcompany 404, instafinancials page body not rendered)",
+ "pan": "null — not public in accessible sources",
+ "pan_holder_type": "null — PAN not obtained, so 4th-character holder type cannot be determined (SRF Ltd is a listed public limited company, so a 'P'-type PAN would be expected, but this is not confirmed by a source)",
+ "gstin": "null — no public GSTIN profile page could be retrieved (search backend was down: DuckDuckGo/searx connection refused; GST portals not reachable)",
+ "gst_status": "null — not verified",
+ "incorporation_date": "1970 (year only, per Screener.in company profile: 'Incorporated in 1970'); exact date not verified",
+ "state_registered": "Haryana (per CIN state code 'HR' in L21012HR1970PLC005197); registered office address not independently re-verified",
+ "state_claimed": "not stated in input",
+ "mca_status": "Active — listed on BSE (503806) and NSE (SRF), part of F&O segment, market cap ~₹75,870 Cr as of 27 Nov close (Screener.in). No strike-off/liquidation/insolvency indication found. MCA master data itself not directly retrieved.",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 14693,
+ "revenue_fy26_cr": 15787,
+ "revenue_source": "Screener.in consolidated annual P&L (compiled from the company's audited consolidated results filed with BSE/NSE): FY2024-25 Sales ₹14,693 Cr; FY2025-26 Sales ₹15,787 Cr. Standalone figures: FY25 ₹11,698 Cr, FY26 ₹12,421 Cr. Screener is a secondary aggregator of official filings, not the audited PDF itself.",
+ "note": "Legal entity exists and is an active listed public limited company (BSE: 503806, NSE: SRF), so no rejection ground applies. Role: manufacturer — Screener profile describes SRF Ltd as manufacturing technical textiles, chemicals (speciality fluorochemicals, refrigerants), packaging films and aluminium foils, with 16 manufacturing plants (Mar 2026). Declared HS 392190 (plastic sheets/film, reinforced) is consistent with the company's packaging-films business, but HS classification is not a rejection criterion per project rules and is left as declared. Registry gaps: CIN taken from the standard published identifier and not re-confirmed on MCA in this session; PAN and GSTIN could not be retrieved because the search backend was unavailable and registry aggregator sites returned 403/404 — recorded as null rather than guessed. Revenue figures are consolidated audited-filing-derived numbers via Screener.in; FY26 is the year ended March 2026."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Varroc Engineering Limited",
+ "legal_name": "Varroc Engineering Limited",
+ "cin_llpin": "L01700MH1988PLC049019 (unverified — search backend was down and MCA/Zauba/TheCompanyCheck returned 403; CIN pattern is consistent with a Maharashtra-incorporated public limited company from 1988, but it was NOT confirmed on an official page in this session)",
+ "pan": "null — not public; no official page retrieved (PAN is not disclosed on exchange/aggregator pages)",
+ "pan_holder_type": "null — cannot be derived without the PAN",
+ "gstin": "null — no public GST profile page could be retrieved (Zauba/TheCompanyCheck 403, varrocgroup.com timed out)",
+ "gst_status": "null — not verified",
+ "incorporation_date": "1988 (year only, per Screener.in company profile: 'incorporated in 1988'); exact date null",
+ "state_registered": "Maharashtra — per CIN state code 'MH' and Screener.in description of the company as flagship of the Chhatrapati Sambhaji Nagar (Aurangabad)-based Varroc Group; registered office address not directly read from an official filing",
+ "state_claimed": "",
+ "mca_status": "Active — listed on BSE (541578) and NSE (VARROC) with live quotes on 27 Nov, which implies an active, non-struck-off entity; MCA master-data status itself not read directly",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 8154,
+ "revenue_fy26_cr": 8890,
+ "revenue_source": "Screener.in consolidated annual P&L (compiled from audited filings): FY25 (Mar 2025) sales ₹8,154 Cr, FY26 (Mar 2026) sales ₹8,890 Cr. Standalone: FY25 ₹7,369 Cr, FY26 ₹8,146 Cr. Figures are from the aggregator's reproduction of audited results, not read from the original annual report PDF.",
+ "note": "Entity exists and is listed (BSE 541578 / NSE VARROC), so no rejection ground. IMPORTANT MISMATCH: the input claims industry 'Продукты питания и FMCG' and HS 843290 / 851220 / 870899 — the company is actually a tier-1 automotive component manufacturer (auto parts, lighting, polymers); HS 843290 (agricultural machinery parts) and 851220 (vehicle lighting) partly fit, but the declared industry is wrong and should be corrected to automotive components. Per project rules this is not a rejection ground — verdict should be accepted_hs_corrected. Registry gaps: CIN, PAN, GSTIN, GST status and exact incorporation date could not be confirmed from official sources in this session (search engine refused connections; MCA-mirror sites returned 403; varrocgroup.com timed out), so they are left null rather than guessed. Revenue figures are aggregator-sourced audited numbers, not the original filings."
+}

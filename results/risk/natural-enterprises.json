@@ -1,0 +1,9 @@
+{
+ "name_input": "Natural Enterprises",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. The primary web_search backend returned 'Connection refused' on all attempts; fallback engines (Bing, DuckDuckGo HTML/lite, Google) either returned generic dictionary results that ignored the quoted entity name, returned HTTP 429, or timed out. No page containing the entity 'Natural Enterprises' with proprietor 'Jitendra Kundanmal Mehta' was retrieved, so nothing can be asserted about sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List), Indian court cases, regulator actions, credit rating, or supplies to Russia/CIS. All fields set to null deliberately - these are NOT negative findings, they are unverified. Note also that the claimed 'legal_claimed' value is a personal name, not a company name, and no CIN/PAN/state was supplied, which makes disambiguation of this very common trade name ('Natural Enterprises' is a frequent Indian proprietorship name) impossible without a registry lookup. Recommended next step: re-run once search access is restored, using MCA/company registry lookup plus Zauba/ImportGenius/Volza trade records and Indian court databases (eCourts, NCLT) with the proprietor name as the primary key. Per project rules, absence of sanctions/court data is in any case not a rejection ground."
+}

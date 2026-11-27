@@ -1,0 +1,18 @@
+{
+ "name_input": "SAMAN TEA PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool was unavailable (searx connection refused on both queries), and direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404. Bing and Google HTML endpoints returned only generic, irrelevant 'Saman' results (Canadian varnish brand, Wikipedia disambiguation, YouTube) with no Indian company record, so no CIN, PAN, GSTIN, incorporation date, state or MCA status could be confirmed for either 'SAMAN TEA PRIVATE LIMITED' or the claimed 'SAMAN GLOBAL PRIVATE LIMITED'. No audited accounts or official filings were located, therefore revenue FY25 and FY26 are null (not estimated). Role is 'unknown' because no MCA business-activity classification was retrievable. Per project rules the company is NOT rejected: absence of retrievable public records is not evidence of non-existence, strike-off, liquidation or bankruptcy. Action required: re-run verification when the search backend is restored, or supply the CIN/GSTIN from the supplier's documents so the MCA master data and GST public profile can be checked directly. Note also that the input name and the claimed legal name differ ('SAMAN TEA' vs 'SAMAN GLOBAL'), which must be resolved against the MCA register before any HS code (090220/090230/090240 - green/black tea, >3kg packing) is treated as factual."
+}

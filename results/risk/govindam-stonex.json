@@ -1,0 +1,19 @@
+{
+ "name_input": "Govindam stonex",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madras High Court",
+   "case_no": "WP No. 24933 of 2026",
+   "parties": "Govindam Stonex (Rep. by its Partner Mr. Sushil Kumar Talwari, SF 1262/1, 1262/2, 1264, Kelamangalam, Achettipalli Village, Hosur Taluk, Krishnagiri - 635109) vs The Assistant Commissioner (ST)",
+   "role": "Petitioner",
+   "status": "Filed/pending; order dated 29 July 2026, bench: Justice Senthilkumar Ramamoorthy",
+   "subject": "Writ petition against the Assistant Commissioner (State Tax) - appears to be a GST/state-tax assessment challenge, not a commercial or criminal dispute",
+   "source": "https://indiankanoon.org/search/?formInput=%22Govindam%20Stonex%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no match found for 'Govindam Stonex' in OFAC SDN, UN, EU, UK or BIS Entity List checks - BUT this is a weak negative: the search backend (DuckDuckGo/searx) was down for the whole session (connection refused) and Bing returned only unrelated results, so no sanctions list was actually queried successfully. Treat sanctions_hit=null as 'not verified', not as 'clear'. Court: one confirmed Madras High Court record, WP No. 24933 of 2026, company as PETITIONER against the Assistant Commissioner (ST) - a tax writ, i.e. the company is the complainant, not the defendant; no criminal case, no recovery suit, no insolvency petition found. Per project rule 2 this is not a rejection ground and is noted neutrally: 'есть сложности' with state tax authorities. Regulator actions: none found, but see search limitation above. Credit rating: null - no rating found; the entity appears to be a partnership/proprietorship-style firm (represented by a 'Partner', Mr. Sushil Kumar Talwari) rather than a rated limited company, so a public rating is unlikely to exist. Negative news: null - no media coverage located. RF/CIS supply evidence: null - no evidence of supplies to Russia or CIS found, and none disproving it either; not verifiable with available tools. IMPORTANT CAVEAT: because web_search failed and zaubacorp returned 403, I could not check MCA status, GST turnover, or any sanctions list directly. The address (Kelamangalam, Achettipalli Village, Hosur Taluk, Krishnagiri, Tamil Nadu) and partner name come from the court record, not from a registry. Recommend re-running sanctions and MCA checks when search access is restored before any decision."
+}

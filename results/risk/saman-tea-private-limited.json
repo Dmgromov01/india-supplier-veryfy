@@ -1,0 +1,9 @@
+{
+ "name_input": "SAMAN TEA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS null. Research was effectively blocked: (1) DuckDuckGo/searx backend returned 'Connection refused' on both queries; (2) Bing exact-phrase searches for 'Saman Tea Private Limited' and 'Saman Global Private Limited' tea returned only unrelated generic 'Saman' hits (saman.ca wood finishes, Tari Saman dance, Saman Chikan, etc.) — no Indian tea entity surfaced; (3) zaubacorp.com returned HTTP 403 for both name variants; (4) tofler.in company page returned 404; (5) indiankanoon.org full-text search for '\"Saman Tea\"' and '\"Saman Global\"' returned 0 matching judgments. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) — not verified, null, NOT a clearance; Indian court cases — no hits found in Indian Kanoon, but coverage is not exhaustive (NCLT/District/HC filings not indexed there), so null rather than 'none'; regulator actions / negative news — no data retrievable, null; credit rating (CRISIL/ICRA/CARE/India Ratings/Acuite) — no public rating located, null; evidence of supplies to Russia or CIS — no data, null. Also note the record itself is internally inconsistent: name_input 'SAMAN TEA PRIVATE LIMITED' vs legal_claimed 'SAMAN GLOBAL PRIVATE LIMITED' — the two names could not be reconciled or matched to any MCA record with the tools available, so it is unknown whether either entity exists. Per project rules this is NOT a rejection ground and no negative inference is drawn; the company stays in the base pending a re-run with working search (recommend MCA master-data lookup, Zauba/Tofler via a non-blocked route, and a paid sanctions-screening API). No CIN, PAN, rating figure or shipment record was invented."
+}
