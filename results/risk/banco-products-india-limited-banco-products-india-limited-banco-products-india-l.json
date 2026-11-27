@@ -1,0 +1,9 @@
+{
+ "name_input": "BANCO PRODUCTS (INDIA) LIMITED; BANCO PRODUCTS (INDIA) LIMITED; BANCO PRODUCTS (INDIA) LIMITED; BANCO PRODUCTS INDIA LIMITED; BANCO PRODUCTS (INDIA) LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ТЕХНИЧЕСКИЙ СБОЙ ИССЛЕДОВАНИЯ: ни один источник не удалось открыть в этой сессии. web_search возвращал 'searx: Connection refused' на всех запросах (санкции/OFAC/BIS, суды NCLT/SEBI, рейтинги CRISIL/ICRA, негативные новости, экспорт в Россию). http_get: bancoproducts.in — DNS Name or service not known; crisilratings.com — SSL handshake timeout; duckduckgo.com/html — timeout; google.com/search — HTTP 429; bseindia.com — вернулась только JS-оболочка без содержимого. Поэтому все поля null: это НЕ подтверждение отсутствия санкций, судов, рейтинга или поставок в РФ/СНГ, а отсутствие проверяемых данных. Ничего не выдумано: ни номеров дел, ни дат рейтингов, ни записей об отгрузках. Компания публичная (листинг BSE/NSE, код 500039 по адресу страницы BSE — сам факт листинга не проверен по содержимому). Требуется повторный прогон при восстановлении доступа к поиску и к сайтам регуляторов (OFAC SDN, UN/EU/UK consolidated, BIS Entity List, NCLT/NCLAT, SEBI, IBBI, CRISIL/ICRA/CARE/India Ratings). Правило 2 соблюдено: санкции/суды/уголовные дела в любом случае не являются основанием для отклонения — только нейтральная пометка «есть сложности»."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ARORA TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "ARORA TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕЗУЛЬТАТ НЕПОЛНЫЙ — ТЕХНИЧЕСКАЯ НЕВОЗМОЖНОСТЬ ПРОВЕРКИ. Ни один реестровый факт не подтверждён и не опровергнут. Что произошло: (1) web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; (2) прямые запросы к реестровым агрегаторам zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403/404 (блокировка ботов); (3) mca.gov.in Master Data — HTTP 403; (4) Bing через http_get игнорирует операторы запроса и выдаёт один и тот же нерелевантный набор (arora-health.com, aroragroup.com и т.п., все — США), т.е. поиск фактически не работал. Следствие: CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, потому что данные не получены из публичного источника, а не потому что их нет. ВАЖНО: наименование 'ARORA TECHNOLOGIES PRIVATE LIMITED' крайне неспецифично; в Индии под схожими именами (Arora Technologies, Arora Tech, Arora Technologies India Pvt Ltd и др.) могут существовать разные юрлица, и без CIN/PAN идентификация невозможна — риск слить в один профиль разные компании. Отклонять НЕЛЬЗЯ: нет ни одного подтверждения, что юрлицо не существует, ликвидировано, struck off или банкрот (правило 3). Роль оставлена 'unknown' — по наименованию и заявленному HS 853710/853949 (щиты/пульты управления, электроосветительное оборудование) нельзя отличить производителя от трейдера без данных MCA (поле 'Industrial Classification'/'Main division') и GST-профиля. Заявленный штат в инпуте не указан, поэтому сверять state_registered не с чем. Требуется повторный прогон при работающем поиске или ручная проверка по MCA Master Data / GST-порталу по CIN или PAN."
+}

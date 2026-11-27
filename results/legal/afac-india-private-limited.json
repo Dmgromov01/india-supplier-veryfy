@@ -1,0 +1,18 @@
+{
+ "name_input": "AFAC INDIA PRIVATE LIMITED",
+ "legal_name": "AFAC INDIA PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' (no results); zaubacorp.com, thecompanycheck.com and mca.gov.in/mcafoportal all returned HTTP 403 Forbidden; tofler.in search returned 404; Google returned HTTP 429; Bing returned only irrelevant results (Collier County Sheriff pages), i.e. no usable hit for 'AFAC INDIA PRIVATE LIMITED'. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; per project rules rejection requires such evidence, so the record stays open pending verification. Role left as 'unknown' — no registry document (MOA objects / NIC activity code) was readable to distinguish manufacturer vs trader. Revenue FY25/FY26 null: no audited accounts or official filings accessible. Declared HS 870899 (motor-vehicle parts) is not treated as a rejection ground per rule 3; if the actual activity code later shows a different line, the code should be corrected and the verdict set to accepted_hs_corrected. Recommended next step: manual lookup of the exact name on MCA 'Check Company Name' / MCA master data and on the GST portal 'Search Taxpayer' by legal name, plus a GSTIN check on the state GST portal, to fill CIN, PAN, GSTIN, incorporation date and registered state."
+}

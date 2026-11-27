@@ -1,0 +1,15 @@
+{
+ "name_input": "PHEROMONE CHEMICALS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": {
+  "indian_court_cases_found": 0,
+  "source": "Indian Kanoon full-text search for exact phrase \"Pheromone Chemicals\" — https://indiankanoon.org/search/?formInput=%22Pheromone%20Chemicals%22 — returned \"No matching results\" (checked 23.11.2026)",
+  "party_role": null,
+  "status": null,
+  "note": "Zero indexed judgments under the exact company name. This is a negative search result, not proof of clean litigation history: Indian Kanoon does not index all lower courts, tribunal orders (NCLT/DRT/ITAT) or arbitration, and a differently-spelled or abbreviated party name would not match."
+ },
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — most checks could not be executed. Tooling failures: the DuckDuckGo search backend refused connections (searx: Connection refused) on both attempts; Google returned HTTP 429; Bing silently ignored the quoted phrase and returned only generic dictionary/health pages about 'pheromones', so no company-specific page was ever surfaced; zaubacorp.com, thecompanycheck.com and opencorporates.com all returned HTTP 403 to direct fetches. Consequently the following are null because NOT PUBLICLY VERIFIED BY ME, not because they were checked and found empty: (1) sanctions exposure — OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) is a JavaScript application that returns no query results over plain HTTP GET, so no name match could be run; UN, EU, UK OFSI and BIS Entity List were not queried at all. (2) Court cases — only the Indian Kanoon exact-phrase search succeeded (0 results, see court_cases); no NCLT, DRT, High Court or Supreme Court docket check was possible. (3) Regulator actions and negative news — no source retrieved, so no dated adverse item can be asserted or ruled out. (4) Credit rating — no CRISIL/ICRA/CARE/India Ratings/Acuite page retrieved; status unknown. (5) Evidence of supplies to Russia or the CIS — no trade, customs or B-L source retrieved; nothing found either way, and the absence of a hit here must NOT be read as evidence of no such supplies. Per project rules this company is not rejected: no evidence of non-existence, liquidation or bankruptcy was found, and sanctions/court matters would not be rejection grounds in any case. Recommended next step: re-run the sanctions screen against the OFAC/EU/UK consolidated lists and a paid registry (Tofler/Probe) once the search backend is restored, and confirm the exact registered name before any further screening."
+}

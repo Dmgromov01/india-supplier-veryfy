@@ -1,0 +1,18 @@
+{
+ "name_input": "MUKUL ENGINEERING WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. 'MUKUL ENGINEERING WORKS' is a proprietorship-style trade name, not a company name; the input's 'legal_claimed' field contains a person's name (NIYAZ AHMED SIDDIQUI), which is consistent with a sole proprietorship, so no CIN/LLPIN is expected to exist and MCA status is not applicable (null, not 'not found'). No GSTIN, PAN, incorporation date or registered state could be confirmed: the DuckDuckGo search backend returned 'Connection refused' on all queries, Bing returned only unrelated results for every exact-phrase query, and direct fetches of zaubacorp.com (403), thecompanycheck.com (404) and indiamart.com (429) failed. Therefore GSTIN, GST status, PAN, incorporation date and registered state are all null - not public/not retrievable in this session, NOT evidence of non-existence. Revenue FY25/FY26 null: no audited accounts or official filings exist or were found for a proprietorship of this name. Role recorded as 'unknown' rather than 'manufacturer' because the trade name alone is not evidence; note that declared HS 841950 (heat-exchange machinery) is inconsistent with the input's claimed industry 'IT и электроника' - per project rules this is NOT a rejection ground; the company stays in the base and the HS code should be corrected to the factual one. No rejection applied: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Recommended next step: manual GST-portal / Udyam / GeM lookup by proprietor name to obtain the GSTIN and confirm the entity."
+}
