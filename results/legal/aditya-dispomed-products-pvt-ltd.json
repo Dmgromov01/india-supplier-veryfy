@@ -1,0 +1,18 @@
+{
+ "name_input": "ADITYA DISPOMED PRODUCTS PVT LTD",
+ "legal_name": "ADITYA DISPOMED PRODUCTS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: no public record retrieved. Search backend (DuckDuckGo/searx) returned connection refused; Bing returned only irrelevant results for the exact-name and 'DISPOMED' queries; MCA master-data page, Zauba Corp, Tofler, TheCompanyCheck and Instafinancials all returned HTTP 403/404 to automated fetches. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null - not public/not retrievable in this session, and nothing has been invented. No rejection applied: absence of retrievable records is NOT evidence of non-existence, so the entity is kept as 'unknown' pending manual MCA/GST portal lookup. Note on input quality: declared HS 901890 (surgical/medical instruments) is inconsistent with the claimed industry 'IT и электроника'; per project rules this is not a rejection ground - the HS code should be corrected to the actual product code (likely 9018xx, medical/disposable products) and the industry field corrected to medical devices. Role cannot be assigned without registry/company data; the name pattern ('Dispomed' = disposable medical) suggests a manufacturer, but this is unconfirmed. Recommend re-run with working search or manual check of MCA master data and GST portal."
+}

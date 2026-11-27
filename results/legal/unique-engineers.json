@@ -1,0 +1,18 @@
+{
+ "name_input": "Unique Engineers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один источник не подтвердил существование юрлица с таким названием. 'Unique Engineers' — типовое имя небольшой индийской фирмы, встречается у множества несвязанных proprietorship/partnership; привязки к лицу 'ATTURU BHASKAR REDDY' (указано в поле legal_claimed как ФИО, а не как юрлицо) подтвердить не удалось. Технические причины: поисковый бэкенд (searx) недоступен — connection refused; Google вернул HTTP 429; DuckDuckGo — timeout; Bing игнорировал запрос и выдал нерелевантные результаты (словарные статьи 'unique'); Zauba Corp, TheCompanyCheck, InstaFinancials — HTTP 403/404; портал MCA — HTTP 403. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, MCA-статус и выручка за FY25/FY26 не установлены — null, не выдуманы. Роль (manufacturer/trader) не определена. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3 — отклонять только при ликвидации/банкротстве/несуществовании, что здесь не доказано). Требуется повторная проверка при доступном поиске: искать GSTIN по имени владельца в GST-портале (search by name/ PAN), проверить возможные варианты 'Unique Engineers' в Andhra Pradesh/Telangana (Atturu — телужская фамилия, вероятный штат — AP/TS, но это гипотеза, не факт). Заявленный HS 843860/843880 (оборудование для сортировки/промывки руды, металлургия/горнодобыча) не проверялся — по правилу 3 несоответствие HS не является основанием для отклонения."
+}

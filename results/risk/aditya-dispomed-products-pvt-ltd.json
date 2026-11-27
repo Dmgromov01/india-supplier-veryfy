@@ -1,0 +1,9 @@
+{
+ "name_input": "ADITYA DISPOMED PRODUCTS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал Connection refused, Google — HTTP 429, DuckDuckGo HTML — timeout. Bing отдавал только нерелевантные результаты по слову 'Aditya' (Aditya Birla, имя Aditya и т.п.), релевантных страниц по компании не найдено; thecompanycheck.com — HTTP 403. Единственное, что удалось увидеть: сниппет Bing по LinkedIn-странице 'Aditya Dispomed Products Pvt Ltd' с описанием 'A leader in the manufacturing of surgical blades, disposable scalpels' (in.linkedin.com/company/aditya-dispomed-products) — это профиль компании, не факт поставок и не риск-факт. OFAC Sanctions List Search открылся, но это JS-форма без возможности передать запрос через http_get — прямой скрин имени не выполнен, поэтому sanctions_hit = null (НЕ подтверждённое отсутствие, а отсутствие проверки). Санкции (OFAC SDN/UN/EU/UK/BIS), суды Индии (роль и статус), действия регуляторов, негативные новости с датами, кредитный рейтинг с датой и статусом, признаки поставок в РФ/СНГ — по всем пунктам данных не получено, значения null, ничего не домысливалось. Требуется повторный прогон при доступном поиске: eCourts/NCLT, OFAC/UK/EU/BIS списки, CRISIL/ICRA/CARE, таможенные и B-L записи по РФ/СНГ."
+}

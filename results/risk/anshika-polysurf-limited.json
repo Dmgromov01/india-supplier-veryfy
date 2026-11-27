@@ -1,0 +1,9 @@
+{
+ "name_input": "ANSHIKA POLYSURF LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. No public risk data could be retrieved for this entity. (1) Sanctions: no match found for 'ANSHIKA POLYSURF LIMITED' in any indexed source; OFAC SDN/UN/EU/UK/BIS lists could not be queried directly (sanctionslist.search.ofac.treas.gov and similar endpoints not reachable in this session), so absence of a hit is NOT a verified clean result — status: not verified, null. (2) Indian courts: no case records found; eCourts/NJDG and High Court portals were not accessible (search backend returned connection refused; zaubacorp returned HTTP 403; Google 429). court_cases = null, not 'no cases'. (3) Regulator actions / negative news: nothing found; Bing exact-phrase queries for 'ANSHIKA POLYSURF LIMITED', 'Anshika Polysurf' and 'Anshika Poly Surf' returned only unrelated name-meaning and fashion pages, i.e. zero indexed mentions of the company itself. news_risk = null. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; rating = null, not public. (5) Russia/CIS supply evidence: none found; rf_supply = null. IMPORTANT CAVEAT: the complete absence of any indexed web presence for a company claiming 'LIMITED' status is itself a data-quality flag — it may indicate a very small/private entity, a recently incorporated company, or a name variant/spelling mismatch. Recommend re-running this check with a working search backend and the company's CIN/PAN before relying on these nulls. Per project rules, no rejection is proposed on this basis; nothing here constitutes a sanctions, court or criminal finding."
+}

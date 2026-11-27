@@ -1,0 +1,8 @@
+{
+ "name_input": "Rishigyan Medtech Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'rishigyan-medtech-private-limited' (and variant 'rishigyan-medtech-pvt-ltd') returned only the empty template shell: 'Loading... Get email alerts when this company has new activities.' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Source counter: 2 ImportKey slug variants tried, 0 shipment rows actually seen in either.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record could be retrieved. Search backends failed: DuckDuckGo/searx returned 'Connection refused' / timeout; Bing returned corrupted, unrelated results (AnyDesk/porn pages) for the query 'Rishigyan Medtech Private Limited GeM tender export'; Google returned HTTP 429. Volza, Eximpedia, Trademo and ImportGenius free views all blocked (HTTP 403 / JS challenge). Source counter: 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, поэтому статус 'unknown', а не 'none_found'. Причина — техническая: все торговые базы (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) отдали пустой шаблон или блокировку, а поисковые движки были недоступны или выдавали мусор. Заявленный HS 901890 (медицинские инструменты) не проверен по фактическим записям; отрасль 'IT и электроника' в заявке не соответствует HS 901890 — расхождение зафиксировано, но по правилу 3 основанием для отклонения не является. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступных источниках таможенных данных."
+}

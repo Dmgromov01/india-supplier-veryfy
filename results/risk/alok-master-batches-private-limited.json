@@ -1,0 +1,9 @@
+{
+ "name_input": "ALOK MASTER BATCHES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА в полном объёме — технический сбой инструментов. DuckDuckGo/searx вернул 'Connection refused' на всех запросах; Bing отдавал кэшированную нерелевантную выдачу (результаты про бразильского DJ Alok) независимо от формулировки запроса; Google — HTTP 429; Zaubacorp, TheCompanyCheck, OpenCorporates — HTTP 403; sanctionssearch.ofac.treas.gov — только JS-форма без возможности передать запрос через http_get. По этой компании НЕ подтверждено и НЕ опровергнуто ничего: (1) санкции — OFAC SDN/UN/EU/UK/BIS Entity List не проверены по существу, ставить 'нет попадания' оснований нет; (2) судебные дела в индийских инстансах (NCLT/NCLAT, High Court, district courts, consumer fora) — не проверены; (3) действия регуляторов (SEBI/RBI/GST/EPCH/полиция) и негативные новости — не проверены; (4) кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings/Acuite) — не найден и не подтверждён, null; (5) признаки поставок в РФ/СНГ — не проверены, null. Все поля оставлены null намеренно: выдумывать данные запрещено правилами проекта. Требуется повторный прогон при восстановлении поискового бэкенда и доступе к реестрам (MCA, e-courts/NJDG, OFAC CSV, сайты рейтинговых агентств). Отклонение по данному отчёту не обосновано — это отсутствие данных, а не отсутствие рисков."
+}

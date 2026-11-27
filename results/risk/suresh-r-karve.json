@@ -1,0 +1,9 @@
+{
+ "name_input": "Suresh R Karve",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK. Subject is an individual name ('SURESH RAGHUNATH KARVE'), not a legal entity — no CIN/PAN/registered address supplied, so no entity-level screening was possible. SANCTIONS: OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov) was reachable but is a JS-driven form that returns no results to a plain HTTP fetch; no query result could be obtained, therefore sanctions_hit = null (NOT a clearance — simply unverified). No UN/EU/UK/BIS list page could be retrieved. COURT CASES: indiankanoon.org returned HTTP 403 to automated fetch; eCourts/NJDG and NCLT could not be queried. No court record found or confirmed either way — null. REGULATOR ACTIONS / NEGATIVE NEWS: none found; searches for the exact full name returned zero relevant hits (only unrelated persons named 'Suresh'). null, not a clean bill of health. CREDIT RATING: no CRISIL/ICRA/CARE/India Ratings/Brickwork record is public for an individual/proprietorship of this name — null. RF/CIS SUPPLY EVIDENCE: no customs, B/L, contract or media trace linking this name to Russia or CIS — null. TOOLING CAVEAT: the DuckDuckGo search backend was down ('Connection refused') for the whole session and Google returned HTTP 429; only Bing HTML was usable and it produced no exact-name match. This is a thin-evidence result, not a negative finding. Per project rules this is not a rejection ground; recommend obtaining the actual legal entity name, CIN/PAN and IEC before any further screening."
+}
