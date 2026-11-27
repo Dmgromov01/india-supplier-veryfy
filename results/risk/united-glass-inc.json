@@ -1,0 +1,9 @@
+{
+ "name_input": "United Glass Inc",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты поиска были недоступны. web_search (DuckDuckGo/Searx) возвращал 'Connection refused' / timeout на всех запросах; Bing через http_get на запросы '\"United Glass Inc\" India', '\"United Glass\" glass company India Pvt Ltd', '\"United Glass\" India court case OR sanctions', '\"United Glass Inc\" IndiaMART' выдавал только нерелевантную выдачу про United Airlines / United Bank (поисковик игнорировал кавычки и операторы). Ни одна страница с профилем компании не открыта. Соответственно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не сверены — null, а не 'чисто'; судебные дела в индийских инстансах (eCourts/NCLT/HC) не проверены — null; рейтинги (CRISIL/ICRA/CARE/India Ratings) не найдены — null; негативные новости не проверены — null; следов поставок в РФ/СНГ не искали результативно — null. Дополнительно: заявленное имя 'UNITED GLASS INC' не является типичной формой индийского юрлица (Pvt Ltd/Ltd/LLP), что может указывать на иностранную или неточно указанную организацию — это вопрос к проверке юрлица, вне моей роли. Требуется повторный прогон при работающем поиске; выводов о наличии или отсутствии рисков делать нельзя."
+}

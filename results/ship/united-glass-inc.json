@@ -1,0 +1,8 @@
+{
+ "name_input": "United Glass Inc",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'united-glass-inc' returned only a paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — zero shipment rows rendered (0 rows seen; page counter not exposed). Second-source attempts failed: volza.com/p/united-glass-inc → HTTP 403; eximpedia.app → HTTP 403; trademo.com → HTTP 403; importgenius.com → JavaScript challenge page. No bill-of-lading number, date, destination or HS code could be read from any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrievable. Web search backend was unavailable during this run (searx connection refused), so no domestic-supply record could be located or ruled out.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных были недоступны (403/JS-challenge/paywall), поиск не работал. Статус по экспорту и внутреннему рынку — unknown, не declared_only и не confirmed: заявлений сайта я тоже не читал, поэтому формулировка 'заявлено, не подтверждено' здесь неприменима. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумываю). Юрлицо не проверялось по MCA — вне роли. HS 700991 (неармированное листовое стекло) не подтверждён и не опровергнут; оснований для отклонения нет. Требуется повторный прогон при доступном поиске и платном доступе к Volza/Eximpedia."
+}

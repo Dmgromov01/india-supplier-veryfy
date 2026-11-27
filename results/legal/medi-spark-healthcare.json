@@ -1,0 +1,18 @@
+{
+ "name_input": "Medi spark healthcare",
+ "legal_name": "MEDISPARK HEALTHCARE LLP (as claimed; not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Tooling failed during this run: DuckDuckGo/searx search backend refused connections ('Connection refused'), Bing returned only irrelevant results for the exact quoted query, and all registry/profile sources (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com, quickcompany.in) returned HTTP 403/404 to direct fetches. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from an official filing. Nothing is asserted or invented: all fields are null. Per project rules the entity is NOT rejected - absence of retrievable public data is not proof of non-existence, and rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Role left as 'unknown' (no evidence of manufacturing or trading activity). Note also that the input's industry_claimed ('Нефтегаз и химия' - oil & gas / chemicals) is inconsistent with the claimed HS 300490 (medicaments) and with the 'healthcare' name; per rule 3 this is not a rejection ground - the HS code should be corrected to the actual product code once the entity is identified. REQUIRES MANUAL RE-CHECK: MCA master data (LLPIN/PAN/state/status) and GST portal lookup on the GSTIN, plus FY25/FY26 audited accounts, when registry access is restored."
+}

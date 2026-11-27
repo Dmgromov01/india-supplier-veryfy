@@ -1,0 +1,18 @@
+{
+ "name_input": "Grano 69 Beverages",
+ "legal_name": "GRANO69 BEVERAGES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. All research tools failed during this run: web_search returned a backend connection error ('searx: Connection refused') on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; quickcompany.in returned 404; Google returned only a redirect stub; Bing ignored the quoted query and returned unrelated results; DuckDuckGo (html and lite endpoints) timed out. Consequently no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Per project rules nothing is invented: every field that could not be sourced from an official filing or public registry profile is null. No rejection is applied - the entity is NOT shown to be non-existent, struck off, liquidated or bankrupt; the correct status is 'unconfirmed, needs re-check', not 'rejected'. Role left as 'unknown' because manufacturer vs trader could not be established from registry objects (no NIC/principal-business-activity record retrieved). Declared HS 220300 (beer of malt) is not assessed here - HS is outside this role's scope and, per rule 3, is never a rejection ground. ACTION REQUIRED: re-run this company in a later batch when search/registry access is restored, or supply the CIN so the MCA master-data record can be pulled directly."
+}

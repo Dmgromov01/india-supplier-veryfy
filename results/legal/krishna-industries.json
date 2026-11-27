@@ -1,0 +1,18 @@
+{
+ "name_input": "Krishna Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no verifiable record obtained. The input gives no CIN and no PAN; the only identifier is the name 'Krishna Industries' plus the person 'GABHRUBHAI VIRJIBHAI PATEL', which is a very common Gujarati name and 'Krishna Industries' is one of the most duplicated trade names in India, so no unique entity can be pinned down. Tooling failed: web_search returned connection refused (searx backend down); Google returned only a redirect stub; Bing returned completely unrelated results (Chrome help, PowerPoint, Krishna mythology) for every exact-phrase query, including site-restricted queries; zaubacorp.com returned HTTP 403; thecompanycheck.com search returned HTTP 404; duckduckgo html endpoint timed out. Therefore legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are not publicly confirmed by any source I could read - not because they were checked and found absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role is 'unknown': the name pattern and the absence of a CIN hint at a proprietorship or partnership rather than a company, but this is unverified inference and must not be treated as a finding. Per project rules this is NOT a rejection: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt - it is simply unverified. Recommended next step: obtain the GSTIN or PAN from the supplier directly (or a GST invoice / IEC), then re-run verification against the GST portal and MCA. Declared HS 382499 (chemical preparations) is not a basis for any verdict and was not assessed here."
+}

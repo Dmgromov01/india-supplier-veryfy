@@ -1,0 +1,28 @@
+{
+ "name_input": "M/S HPL ELECTRIC AND POWER LIMITED; HPL ELECTRIC & POWER PRIVATE LIMITEDTHCPL SD(JV); HPL Electric & Power Ltd.; HPL Electric & Power Pvt. Ltd. Unit-I; HPL Electric & Power Pvt. Ltd. Unit No 7; HPL ELECTRIC AND POWER PRIVATE LIMITED; HPL Electric And Power Pvt. Ltd.; HPL ELECTRIC & POWER PVT. LTD.; HPL ELECTRIC & POWER LIMITED",
+ "declared_hs": "853225;853620",
+ "actual_hs_list": [
+  "853620",
+  "853225",
+  "853210",
+  "853650",
+  "853669",
+  "853710",
+  "853890",
+  "902830",
+  "902890",
+  "854449",
+  "854442",
+  "940541",
+  "940511",
+  "841451",
+  "850440",
+  "850431",
+  "853540",
+  "853661"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт hplindia.com (главная, /meters/, /switchgear/, /switchgear/domestic-product/) подтверждает 6 вертикалей: (1) Metering Solutions — однофазные/трёхфазные smart energy meters, HTCT/LTCT, ABT-метр, DT-метр, prepaid (keypad, RS-485), net meter, DIN-rail meter, panel meters, multifunction meters, load managers, power quality meters, Neeram Pulse water meter; (2) Switchgear — MCB, RCCB, RCBO, изоляторы (isolator), MCB changeover, ACCL, 1-фазные distribution boards, AC SPD, ATS/AV ATS, power factor controller; (3) Wire & Cables — domestic/industrial wire, data networking & transmission cable, special/control & instrumentation cable, specialty cable; (4) LED Lighting — consumer, commercial, industrial, outdoor; (5) Modular switches (серия EDENO, SMARTS) и аксессуары; (6) Solar — solar inverters, solar lighting, solar switchgear/wire; плюс вентиляторы (ceiling/portable/ventilation/farrata). Позиционирование: «multi-product electric equipment manufacturer», 7 производственных площадок, заявляет ISI/CE/KEMA.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленные коды 853225 (конденсаторы с диэлектриком из бумаги/пластика) и 853620 (автоматические выключатели на напряжение ≤1000 В) — частичное совпадение. 853620 подтверждается линейкой MCB/RCCB/RCBO/изоляторов (hplindia.com/switchgear/domestic-product/). 853225 (силовые конденсаторы) в открытом каталоге на сайте НЕ найден — ни в switchgear, ни в meters, ни в прочих разделах; вероятно, речь о компонентах для power factor controller/ACCL, но отдельной конденсаторной линейки каталог не показывает → статус «заявлено, не подтверждено». Существенные пробелы декларации: (а) счётчики электроэнергии — 902830 (energy meters) и 902890 (части/аксессуары), это крупнейшая и исторически флагманская линейка (заявлена наибольшая доля рынка электронных счётчиков в Индии в FY2015 по данным сайта); (б) прочая коммутационная/защитная аппаратура — 853650 (переключатели/changeover), 853669 (разъёмы/розетки modular), 853710 (панели управления, ATS, EMS), 853890 (части для аппаратуры 8535/8536/8537), 853540 (разрядники/SPD); (в) провода и кабели — 854449/854442; (г) LED-светильники — 940541/940511; (д) вентиляторы — 841451; (е) инверторы — 850440; (ж) трансформаторы/измерительные — 850431. Отраслевая классификация «IT и электроника» некорректна: компания — электротехнический производитель (electrical equipment / switchgear / metering), а не IT/электроника; корректнее «Электротехника / электрооборудование». Признаков трейдера нет: собственные 7 заводов, R&D, tool room, бренд HPL, сертификации ISI/CE/KEMA — роль manufacturer. Все перечисленные линейки взяты из каталога сайта; привязка к конкретным таможенным строкам в рамках этой задачи (HS-специалист) не проверялась, поэтому фактический экспорт по каждому коду — «заявлено, не подтверждено». Компания сохраняется в базе, вердикт по правилу 3 — accepted_hs_corrected: код 853225 требует подтверждения либо замены на фактически отгружаемый (наиболее вероятно 902830 для счётчиков и 853620 для аппаратуры защиты)."
+}
