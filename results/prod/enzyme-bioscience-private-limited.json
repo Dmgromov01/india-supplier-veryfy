@@ -1,0 +1,17 @@
+{
+ "name_input": "ENZYME BIOSCIENCE PRIVATE LIMITED",
+ "declared_hs": "350790",
+ "actual_hs_list": [
+  "350790",
+  "350400",
+  "350790 (papain/bromelain/pancreatin/pepsin — enzyme preparations, includes pharma-grade IP/BP/USP)",
+  "210690 (probiotic dietary supplements / nutraceutical blends, if sold as food supplements)",
+  "230990 (feed enzyme premixes / feed additives)",
+  "350790 (bakery, textile, detergent, leather enzymes — industrial enzyme preparations)",
+  "382499 / 340290 (detergent enzyme blends sold as cleaning auxiliaries — possible, not confirmed)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт enzymebio.com (основной) и enzymebioscience.com (второй сайт той же компании, Surat, Gujarat, 394110): 143 продукта в 8 линейках — Pharmaceutical Enzymes (Bromelain, Serratiopeptidase IP, Trypsin Chymotrypsin 6:1, Trypsin USP/BP, Pancreatin IP/BP/USP/EP, Pepsin IP/USP, Fungal Diastase IP, Papain IP/USP, Alpha Amylase IP); Food Enzymes (30 позиций: амилазы, протеазы, целлюлазы, липаза, лактаза, пектиназа, фитаза, ксиланаза, трансглутаминаза, реннет, каталаза, глюкозооксидаза, лизоцим, наттокиназа и др.); Feed Enzymes (30 позиций: фитаза, ксиланаза, мульти-энзимные премиксы); Probiotics (52 штамма, human & animal); Bakery Enzymes (Bakezyme, 8); Textile Enzymes (4); Detergent Enzymes (Detzyme, 6); Leather Enzymes (4); плюс custom blends (ENZYVIVE). На enzymebioscience.com дополнительно: Ox bile extract, Azithromycin, Vitamin C nutraceutical supplement, animal health & nutrient premixes, meat tenderize powder.",
+ "role_hint": "manufacturer (заявлено: собственные ферментационные цеха в Сурате, 15 ферментеров, 2 QC-лаборатории, GMP/ISO/FSSC/HACCP; признаки трейдера: часть позиций — фармацевтические API и нутрицевтики (Azithromycin, Vitamin C), которые не являются ферментами собственного производства, вероятно перепродажа)",
+ "comment": "HS 350790 — «ферменты; ферментные препараты прочие» — подтверждается каталогом по существу: основная масса линеек (pharma-, food-, feed-, bakery-, textile-, detergent-, leather-энзимы) действительно ферментные препараты, поэтому код в целом верный. Статус partial, а не exact, по трём причинам: (1) Probiotics (52 штамма) — это не ферменты, а микроорганизмы/диетические добавки: при поставке как пищевые добавки корректнее 210690, при кормовых — 230990; (2) Feed Enzymes и animal health premixes — кормовые добавки, часто классифицируются 230990, а не 350790; (3) на втором сайте заявлены Azithromycin (антибиотик, HS 2941/3004) и Vitamin C (2936) — это не ферменты и в декларации 350790 не отражены. Также заявлены реннет (сычужный фермент, 3507), лизоцим (3507), желатин-подобных позиций нет. Отрасль «Продукты питания и FMCG» — частично неверная классификация: компания в первую очередь биотех/фарма-энзимы и промышленные ферменты (текстиль, кожа, детергенты), FMCG-сегмент — лишь нутрицевтика/пробиотики. Все перечисленные продукты — заявлено на сайтах компании, не подтверждено: ни одна позиция не сверена с таможенной декларацией или B/L в рамках этой проверки (таможенные данные не исследовались по условию задачи). Данные о выручке/объёмах не проверялись. Юрлицо не отклоняется: HS-несоответствие не является основанием для отклонения (правило 3)."
+}
