@@ -1,0 +1,18 @@
+{
+ "name_input": "PRICE PUMPS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: the web_search backend returned 'Connection refused' for every query; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic dictionary/commercial results for the word 'price' and no Indian company record. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be sourced from a public registry, and no audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). No evidence either way on existence, strike-off, liquidation or bankruptcy was obtained, therefore the company is NOT rejected under the rules - it is left unverified pending a re-run with working registry access. Role is recorded as 'unknown' rather than inferred from the name 'Pumps' or the claimed HS 848180 (valves), since the name alone is not evidence of manufacturing. state_claimed was empty in the input, so no state mismatch can be assessed. Recommended next step: re-check on MCA master data / GST public search once search access is restored."
+}

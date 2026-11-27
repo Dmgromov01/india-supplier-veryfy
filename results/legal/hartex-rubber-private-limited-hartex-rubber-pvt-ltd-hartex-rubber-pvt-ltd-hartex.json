@@ -1,0 +1,18 @@
+{
+ "name_input": "HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PVT. LTD.; HARTEX RUBBER PVT. LTD.; HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PVT. LTD; HARTEX RUBBER PVT.LTD; HARTEX RUBBER (P) LTD.; HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PVT LTD; HARTEX RUBBER PVT. LTD.; M/S HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PVT.LTD; HARTEX RUBBER (P) LTD; HARTEX RUBBER PRIVATE LIMITED; HARTEX RUBBER PVT. LTD.; HARTEX RUBBER PVT LTD.; HARTEX RUBBER PVT LTD; HARTEX RUBBER PVT LTD; M/S HARTEX RUBBER PRIVATE LIMITED; M/S HARTEX RUBBER PVT LIMITED; HARTEX RUBBER PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All 10 permitted tool calls were consumed without a single successful registry read: web_search returned 'searx: Connection refused' (backend down); DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only unrelated results (Progressive Leasing, McDonald's, PCMag) for every query, i.e. the search layer is unusable in this session. Direct fetches of registry aggregators were blocked: zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, tofler.in 404 (wrong slug), instafinancials.com 404. Therefore legal_name, CIN, PAN, GSTIN, incorporation date, MCA status and revenue are all null - NOT because they are non-public, but because they were not retrievable here. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' (not 'trader'/'manufacturer') because the manufacturer-vs-trader determination was not established from any source. Revenue FY25/FY26 null - no audited accounts or official filings were accessible; no figures were estimated. state_claimed was empty in the input, so no state mismatch can be assessed. ACTION REQUIRED: re-run this company in a session with working search/registry access (MCA master data, Zauba/Tofler/IndiaFilings, GST public profile) before any verdict is issued. Note that the input name list contains 25 spelling variants of one apparent entity, which should be de-duplicated to a single record once the CIN is confirmed."
+}

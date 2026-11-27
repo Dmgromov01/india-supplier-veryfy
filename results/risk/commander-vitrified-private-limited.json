@@ -1,0 +1,9 @@
+{
+ "name_input": "COMMANDER VITRIFIED PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не удалось прочитать. Инструмент web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; прямые запросы к реестрам и агрегаторам (zaubacorp.com, thecompanycheck.com, opencorporates.com) вернули HTTP 403, Google — HTTP 429, DuckDuckGo — таймаут. Bing по запросам в кавычках «Commander Vitrified Private Limited» / «Commander Vitrified» выдавал нерелевантную выдачу (Washington Commanders, Total Commander, коронавирус), то есть релевантных страниц по компании не найдено. Следовательно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены — null, а не «чисто»; судебные дела в индийских судах (party role/status) не проверены — null; регуляторные действия и негативные новости не проверены — null; кредитный рейтинг (агентство, дата, статус) не найден — null; свидетельств поставок в Россию/СНГ не найдено, но это результат отсутствия доступа к источникам, а не подтверждённое отсутствие — null. Отсутствие данных НЕ является негативным сигналом и НЕ основание для отклонения (правило 2 и 3). Требуется повторный прогон при доступном поиске: минимальный набор — MCA-карточка компании, судебные базы (eCourts/NJDG, High Court Gujarat), санкционные скринеры, кредитные агентства (CRISIL/CARE/ICRA/Acuite), таможенные записи по экспорту в РФ/СНГ."
+}
