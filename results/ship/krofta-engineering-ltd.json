@@ -1,0 +1,8 @@
+{
+ "name_input": "KROFTA ENGINEERING LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/krofta-engineering-ltd returned only a paywalled shell: \"Shipments available for KROFTA ENGINEERING LTD, refreshed daily\" — no bill-of-lading rows, dates, destinations or HS codes were rendered. Rows actually seen: 0. Counter: page advertises an India customs dataset back to 2008, but 0 records were visible without a paid trial.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report domestic split could be retrieved. thecompanycheck.com, volza.com, eximpedia.app, trademo.com all returned HTTP 403; importgenius.com returned a JavaScript challenge. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались закрыты (403 / JS-challenge / платный доступ), а веб-поиск в этой сессии не работал (DuckDuckGo connection refused, Bing выдал нерелевантную выдачу про voice changer). Поэтому статус по экспорту и по внутреннему рынку — unknown, а не none_found: отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Заявленный HS 842121 (оборудование для фильтрации/очистки жидкостей) не проверен по фактическим записям и не корректировался. Выручка и объём экспорта: null — публичных данных получить не удалось, цифры не выдумывались. Требуется повторная проверка с доступом к платным/незаблокированным источникам (ImportKey trial, Volza, DGFT/GeM) либо через закупочную документацию."
+}

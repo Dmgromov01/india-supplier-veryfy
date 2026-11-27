@@ -1,0 +1,18 @@
+{
+ "name_input": "EUROPEM INDIA PRIVATE LIMITED",
+ "legal_name": "EUROPEM INDIA PRIVATE LIMITED (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: web_search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403 (bot-blocked); tofler.in and instafinancials.com returned 404 for the guessed URL slugs; Google returned only a redirect/consent page; Bing returned completely irrelevant results (retail store locators) for both quoted queries, i.e. the search layer is unusable. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - NOT because they are absent, but because they could not be read from a public source in this session. No identifiers or figures were inferred or fabricated. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established, and absence of retrievable data is not grounds for rejection. Role left as 'unknown' - the claimed HS codes (730890 structural steelwork, 848180 valves, 853710 control panels, 854449 insulated cable) are consistent with a supplier/trader of industrial and MEP construction materials, but no registry evidence (e.g. MCA business activity, factory licence, GST turnover) was obtained to classify manufacturer vs trader. Recommended next step: re-run against MCA master data / GST portal with a working search backend, or query by exact legal name on a paid registry API."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "NUTRANO FOODS LLP",
+ "legal_name": "NUTRANO FOODS LLP (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned 'Connection refused' on all queries, DuckDuckGo HTML/lite endpoints timed out, and registry aggregators (zaubacorp.com, thecompanycheck.com) plus mca.gov.in Master Data returned HTTP 403 Forbidden to automated fetches. Therefore no LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public/official source. All such fields are set to null rather than guessed. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the entity is NOT rejected under the project rules - it remains unverified pending a manual check of the MCA Master Data / GST portal. Role is left as 'unknown' because the LLP name alone does not establish manufacturer vs trader status. Declared HS codes 180310/180400/180500/210690 (cocoa paste/butter/powder, food preparations) are plausible for a foods LLP but are not a basis for rejection or acceptance under the rules. Recommended manual follow-up: search 'NUTRANO FOODS LLP' on mca.gov.in Master Data by name, then confirm GSTIN and GST status on the GST taxpayer search, and pull FY25/FY26 revenue only from filed financial statements."
+}

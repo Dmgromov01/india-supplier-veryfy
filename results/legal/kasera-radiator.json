@@ -1,0 +1,18 @@
+{
+ "name_input": "Kasera Radiator",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Поисковый бэкенд (DuckDuckGo/searx) был недоступен в ходе проверки; Bing по запросам \"Kasera Radiator\", \"Kasera Radiator India GST\" и \"Om Kasera radiator\" выдал только нерелевантные результаты (хосписы, налоговые калькуляторы, статьи про мантру \"Om\") — ни одного профиля компании. Реестровые агрегаторы недоступны: zaubacorp.com и instafinancials.com вернули HTTP 403, tofler.in — 404 на поисковый запрос. MCA/GST-порталы напрямую не отдают данные без капчи/логина. Входные данные противоречивы: название бренда \"Kasera Radiator\" (радиаторы, вероятно HS 7322 — радиаторы центрального отопления), а legal_claimed указан как \"OM KASERA\" — это может быть имя физлица/проприетора, а не юрлицо; PAN не заявлен, штат не заявлен. Юрлицо с таким названием в публичных источниках не найдено, но отсутствие находки НЕ равно отсутствию юрлица — отклонять по правилу 3 нельзя, статус остаётся непроверенным (role=unknown). Требуется повторная проверка при работающем поиске и доступе к MCA/GST: установить точное юрлицо (Pvt Ltd / LLP / проприетор), CIN/LLPIN, PAN (4-й символ: P — физлицо, C — компания, F — фирма/LLP), GSTIN и статус, дату инкорпорации, штат регистрации, а также выручку FY25/FY26 из аудированной отчётности (иначе null)."
+}

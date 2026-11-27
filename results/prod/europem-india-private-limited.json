@@ -1,0 +1,22 @@
+{
+ "name_input": "EUROPEM INDIA PRIVATE LIMITED",
+ "declared_hs": "730890;848180;853710;854449",
+ "actual_hs_list": [
+  "841780 (industrial furnaces/incinerators, non-electric)",
+  "841790 (parts of furnaces/incinerators)",
+  "841620 / 841610 (burners for furnaces)",
+  "841950 / 841989 (heat exchangers, evaporative coolers, thermal-oxidation equipment)",
+  "842139 (gas/liquid filtering or purifying apparatus — baghouse, ceramic, metal-fibre, catalytic filters)",
+  "842820 / 842833 (pneumatic conveyors, belt conveyors for ash handling)",
+  "842230 / 842240 (dosing/filling/bagging machinery — reagent dosing, big-bag loading)",
+  "841360 / 841381 (hydraulic ram feeder pumps)",
+  "847989 (mechanical handling appliances — waste feeding systems, bin lifts)",
+  "853710 (control panels/BMS — plausible, only as part of EPC scope)",
+  "730900 / 731010 (silos, tanks, big-bag frames — steel structures, not 730890)",
+  "841780/841710 (grate incinerators, rotary kilns, fluidised bed furnaces)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт europemindia.com (Nav Mumbai, Mahape): инжиниринговая/EPC-компания по сжиганию и термоокислению отходов. Реальные товарные линии по каталогу /equipments/: промышленные горелки (SRU, Tail Gas, TV², VFH, multifuel, lean gas), статические/карусельные/кипящего слоя печи и rotary kilns, нагреватели (fired, bath, hot air), инсинераторы (grate, standard, static), thermal oxidisers, ground flares, SRU (Advanced Sulphur Recovery), фильтры (baghouse, ceramic, metal fibre, catalytic deNOx), мокрые скрубберы (venturi, packed column, spray tower), испарительные кулеры, теплообменники/air preheaters/thermal-oil coolers, системы обработки твёрдых отходов и золы (bin lifts, ram feeders, wet ash/submerged chain/metal belt conveyors, pneumatic fly-ash transport), системы дозирования реагентов (известь, сода, активированный уголь) с силосами и big-bag рамами. Услуги: FEED, EPC, монтаж, пусконаладка, O&M.",
+ "role_hint": "manufacturer_trader — собственное проектирование + «fabrication and supply partnerships across Europe and Asia» (сборочное производство/поставка чужого оборудования), плюс EPC-подрядчик. Признаки трейдера: закупка оборудования у партнёров в Европе и Азии, головной офис — офисное помещение в бизнес-парке.",
+ "comment": "Заявленные коды 730890 (прочие металлоконструкции), 848180 (арматура), 853710 (панели управления), 854449 (провода/кабели) не отражают фактический профиль. Реальная продукция — теплотехническое и газоочистное оборудование: печи, инсинераторы, горелки, скрубберы, фильтры, теплообменники, конвейеры золы, дозирование реагентов. Правильные группы: 8417 (печи/инсинераторы), 8416 (горелки), 8421 (фильтры/газоочистка), 8419 (теплообменники/кулеры), 8428 (конвейеры), 8479 (механическое оборудование), 7309 (силосы/ёмкости). 853710 может быть частично оправдан (BMS/панели в составе EPC), но как основная линия не подтверждён. 730890/848180/854449 — несоответствие: 730890 мог бы покрывать лишь металлоконструкции опор/рам, 848180 и 854449 в каталоге отсутствуют. Отрасль «Строительство и DIY» указана неверно — фактически environmental/energy engineering, EPC для нефтегаза, нефтехимии и hazardous waste. Ни одна позиция не подтверждена таможенной линией — всё «заявлено, не подтверждено» (проверка ограничена сайтом и каталогом; реестры, выручка и объёмы не исследовались по условиям задачи). Вердикт по правилу 3: компания сохраняется, код исправляется на фактический — accepted_hs_corrected."
+}
