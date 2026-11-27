@@ -1,0 +1,8 @@
+{
+ "name_input": "KUBERNESIS SECURITY PRIVATE LIMITED",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/kubernesis-security-private-limited and .../kubernesis-security-pvt-ltd both returned only the generic page shell: \"Shipments available for KUBERNESIS SECURITY PRIVATE LIMITED, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no bill-of-lading numbers rendered. Source counter: 2 ImportKey slug variants tried, 0 shipment rows actually seen. volza.com/p/kubernesis-security/, eximpedia.app and trademo.com all returned HTTP 403 (blocked), so no second-source confirmation was possible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award, contract or annual-report split could be retrieved: zaubacorp.com returned HTTP 403 and the DuckDuckGo search backend was unavailable (\"searx: Connection refused\") for every query, so no domestic supply record was located. This is a retrieval failure, not a negative finding.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки с датой, направлением, HS-кодом или номером B/L не обнаружено; по внутреннему рынку данных получить не удалось (источники недоступны, 403 / поисковик не работал). Заявленные HS 847130;847150 (ноутбуки/ПК и их части) ничем не подтверждены — статус «заявлено, не подтверждено». Выручка и объём экспорта: null (не публичны, не выдумывались). CIN/PAN не подтверждены. Компания не отклоняется: юрлицо не признано несуществующим/ликвидированным; требуется повторная проверка при доступности volza/eximpedia/registry-источников."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Springfeilds Distilleries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первичные регистрационные данные не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused' на обоих запросах; Bing отдал нерелевантную выдачу (запрос искажался, результаты не по теме); Google — HTTP 429; zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403; duckduckgo.com/html — таймаут; search.mca.gov.in — DNS не разрешается; quickcompany.in — 404; tofler.in — 404. Ни одного подтверждённого реестрового документа (MCA master data, GST-профиль, аудиторская отчётность) прочитать не удалось. ВАЖНО: заявленное в input юрлицо 'SPRINGFIELDS (INDIA) DISTILLERIES' не подтверждено; также не подтверждено и обратное — что такого юрлица не существует. Поэтому вердикт rejected НЕ ставится (нет оснований по правилу 3: ликвидация/страйк-офф/банкротство не установлены). CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус, роль и выручка за FY25/FY26 — null, так как не подтверждены публичным источником; выдумывать идентификаторы недопустимо. Роль предварительно 'unknown' (не manufacturer/trader) — по названию ('Distilleries') можно лишь предположить производителя алкоголя, но это заявление, а не факт. HS-коды 220830/220840/220850 (спиртные напитки) не проверялись по существу и по правилу 3 отклонением не являются. Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или к zaubacorp/thecompanycheck; также полезно уточнить у заказчика точное написание (Springfeilds vs Springfields) и город/штат."
+}
