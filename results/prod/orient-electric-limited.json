@@ -1,0 +1,26 @@
+{
+ "name_input": "ORIENT ELECTRIC LIMITED",
+ "declared_hs": "841451",
+ "actual_hs_list": [
+  "841451",
+  "841459",
+  "853952",
+  "853950",
+  "851679",
+  "851640",
+  "850940",
+  "851660",
+  "853620",
+  "853650",
+  "853669",
+  "854442",
+  "851610",
+  "847960",
+  "940510",
+  "940540"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official site orientelectric.com (CKA Birla Group) lists: ceiling/wall/stand/table/exhaust/personal fans incl. BLDC and silent fans; LED bulbs, COB spot lights, panel lights, downlighters, ceiling/wall/outdoor/decorative lights, desk lamps; storage/instant/immersion/heat-pump water heaters; mixer grinders, juicer-mixer-grinders, irons, coffee machines, kitchen machines, induction cooktops, electric kettles, room heaters; desert/window/personal/tower/industrial air coolers; MCBs, RCCBs, isolators, distribution boards, switches, sockets, plug tops, multi plugs, extension boards, door bells, smart plugs, lamp holders; FR/FR-LSH/HFFR wires, communication cables, multicore/flat/submersible cables.",
+ "role_hint": "manufacturer",
+ "comment": "Declared HS 841451 (ceiling fans, self-contained motor <=125W) is CORRECT but covers only one of many lines. Fans are a genuine core line (dedicated ceiling-fan collection page, BLDC/silent/exhaust/table/wall/stand fans), so 841451 is exact for that line; other fan types fall under 841459. Declaration is materially incomplete: lighting (853952 LED lamps, 853950 LED luminaires, 940510/940540 luminaires), water heaters (851610), small appliances (850940 mixer grinders, 851640 irons, 851660 induction cooktops/room heaters, 851679 kettles/coffee machines), air coolers (847960 evaporative coolers), switchgear (853620 MCB, 853650 switches, 853669 plugs/sockets), wires and cables (854442) are all absent from the declared code. Industry label 'IT и электроника' is a misclassification: this is electrical consumer durables / fans / lighting / switchgear / wires, not IT or electronics. No trader signs found - own brand, own catalogue, own product brochures, manufacturer positioning. Per Rule 3, HS mismatch is not a rejection ground: company retained, code corrected/expanded to the actual range. All product lines above are taken from the company's own website catalogue and are therefore 'заявлено, не подтверждено' - no customs line was checked in this task (out of scope), so no line is corroborated by a shipment record here."
+}
