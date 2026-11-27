@@ -1,0 +1,18 @@
+{
+ "name_input": "ANEETA PLAST PACK LLP (Parent Company Girnar Group)",
+ "legal_name": "ANEETA PLASTPACK LLP (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was non-functional (searx connection refused) and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, falconebiz.com) returned HTTP 403/404; Bing/Google fallbacks returned irrelevant results or HTTP 429. Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT verified, not absent. No audited accounts or official filings were accessible, so revenue FY25/FY26 are null. Role left as 'unknown': the input describes it as an LLP and as a 'parent company' of Girnar Group, but no MCA/registry record was read to confirm whether it manufactures (blow-moulded/preform PET containers under HS 392330) or trades. No rejection applied - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the entity simply remains unverified. Recommend re-running with a working search backend or MCA master-data access."
+}

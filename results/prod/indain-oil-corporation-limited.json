@@ -1,0 +1,21 @@
+{
+ "name_input": "INDAIN OIL CORPORATION LIMITED",
+ "declared_hs": "382499",
+ "actual_hs_list": [
+  "271019 (petroleum products: diesel/HSD, petrol/MS, kerosene/ATF, fuel oil, base oils)",
+  "271111 / 271112 / 271113 (LNG / LPG – propane, butane; Indane brand)",
+  "271320 (bitumen/asphalt)",
+  "271210 / 340319 (lubricating greases, SERVO lubes)",
+  "290531 (monoethylene glycol – MEG)",
+  "291736 (purified terephthalic acid – PTA)",
+  "390210 / 390230 (polypropylene homo/co-polymer)",
+  "390110 / 390120 (polyethylene, LDPE/HDPE)",
+  "290511 (methanol)",
+  "381121 / 381190 (lubricating oil additives, prepared additives)",
+  "382499 (other chemical products and preparations n.e.s. – only a residual line)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Indian Oil Corporation Limited (IOCL, trade name IndianOil) is India's largest state-owned refiner-marketer. Publicly documented product lines (Wikipedia infobox and services list, citing iocl.com: 'LNG, Lubricants, Natural gas, Petrochemicals, Petroleum'; SERVO lubes & greases page; Indane LPG brand page; subsidiary CPCL product list 'Diesel, Kerosene, LPG, Petrochemicals, Petrol'): (1) refined fuels – MS/petrol, HSD/diesel, ATF/kerosene, fuel oil, bitumen; (2) LPG in bulk and in cylinders under the Indane brand (91 bottling plants, 12,500+ distributors); (3) LNG and natural gas marketing; (4) lubricants and greases under SERVO; (5) petrochemicals – MEG, PTA, polypropylene, polyethylene, methanol and downstream polymers; (6) crude oil E&P. Declared HS 382499 ('other chemical products and preparations, n.e.s.') is only a residual catch-all and does not describe the company's core trade: fuels (ch. 27), polymers (ch. 39) and bulk petrochemicals (chs. 29/39) are the dominant lines. HS 382499 could at best cover minor specialty/additive preparations, not the main business.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: PARTIAL / effectively wrong as a primary code. Declared 382499 is a residual 'n.e.s.' heading; the real product mix is dominated by HS 27 (fuels, LPG, bitumen), HS 39 (PP, PE) and HS 29 (MEG, PTA, methanol), plus HS 3403/3811 for lubes and additives. Per project rule 3 the company is NOT rejected on HS grounds – the code must be corrected to the actual shipment line (likely 271019, 271113, 390210 or 290531 depending on the specific consignment). Industry classification 'Нефтегаз и химия' (oil & gas and chemicals) is broadly correct but understates the refining/marketing core; a more precise label would be 'refining, marketing of petroleum products, petrochemicals'. No trader signs: IOCL is a producer/refiner with own refineries and bottling plants (manufacturer). Product lines missing from the declaration: all fuels and LPG (ch. 27), all polymers (ch. 39), bulk petrochemicals (chs. 29/39), lubricants and greases (3403), bitumen (2713), LNG (271111). Note on the name: the input name is misspelled 'INDAIN OIL CORPORATION LIMITED'; the legal entity is INDIAN OIL CORPORATION LIMITED (BSE 530965, NSE IOC, ISIN INE242A01010 per Wikipedia) – a spelling error, not a different company. Evidence status: product lines are corroborated by public corporate/brand documentation (Wikipedia IOCL article citing iocl.com; Indane LPG page; CPCL page), but no customs line was available in this session (iocl.com returned HTTP 307 redirects, web search backend was down), therefore the specific HS-6 codes above are 'заявлено, не подтверждено' at the shipment level – they reflect the documented product range, not a verified customs record. No revenue, export volume, CIN/PAN or shipment data researched per role scope; those fields are null."
+}

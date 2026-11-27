@@ -1,0 +1,8 @@
+{
+ "name_input": "ANEETA PLAST PACK LLP (Parent Company Girnar Group)",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/aneeta-plast-pack-llp returned only the generic page shell: \"Shipments available for ANEETA PLAST PACK LLP, refreshed daily\" — 0 actual shipment rows rendered (0 of 0 rows seen; no date, destination, HS code or B/L number). volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; no free view obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backends failed: web_search returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries; DuckDuckGo HTML endpoint timed out; Bing returned only unrelated microsoft.com results (0 relevant rows of 83 claimed).",
+ "note": "Следов поставок не найдено — ни экспортных записей, ни подтверждений внутренних поставок. Это НЕ означает, что поставок не было: проверить не удалось, потому что (а) страница ImportKey по слагу отдаёт пустую оболочку без строк отгрузок, (б) volza/eximpedia/trademo закрыты 403, (в) поисковый бэкенд проекта недоступен (connection refused / timeout). Статусы выставлены unknown, а не none_found, строго из-за недоступности источников, а не из-за отрицательного результата. Заявленный HS 392330 (пластиковая тара/бутыли) не подтверждён и не опровергнут — по правилу 3 HS не является основанием для отклонения. Юрлицо ANEETA PLASTPACK LLP и связь с Girnar Group не верифицированы (реестры вне области задачи). Выручка и объём экспорта: null — публичных данных не получено, не выдумывались. Рекомендуется повторный прогон при восстановлении поиска и платного доступа к таможенным данным."
+}

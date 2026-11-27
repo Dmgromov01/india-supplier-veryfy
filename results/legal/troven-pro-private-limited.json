@@ -1,0 +1,18 @@
+{
+ "name_input": "Troven pro Private Limited",
+ "legal_name": "TROVEN PRO PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: the web_search backend was down ('Connection refused' on all queries); direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, quickcompany.in) returned HTTP 403/404; mca.gov.in returned HTTP 403; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant results (no matching company page). Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - they are NOT public-verified and must not be treated as absent facts, only as unretrieved. Role is 'unknown' (no evidence either way on manufacturer vs trader). No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be looked up with the available tools. HS codes 090230/090240 (black tea, packaged/bulk) were not assessed as this role covers legal/registry data only. Recommended next step: re-run against MCA master data / GST portal with working access, or obtain the CIN or GSTIN directly from the supplier, before any verdict is issued."
+}
