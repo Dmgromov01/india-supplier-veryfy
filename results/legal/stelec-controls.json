@@ -1,0 +1,18 @@
+{
+ "name_input": "Stelec Controls",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search backend was unavailable (connection refused), and direct fetches of public registry sources failed: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), mca.gov.in MDS (403), tofler.in search (404). Bing/Google fallbacks returned only irrelevant or spam results, so no page confirming the legal entity name, CIN, PAN, GSTIN, incorporation date or MCA status was actually read. The input field 'legal_claimed' contains a person's name ('ARUN KOHLI'), not a legal entity name, so the exact legal entity form (e.g. 'Stelec Controls Private Limited' vs a proprietorship/partnership) is unconfirmed. No CIN, PAN, GSTIN, incorporation date, MCA status or revenue figures are asserted here because none were observed on a source; all such fields are null rather than guessed. Per the rules, the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established either - the entity's status is simply unverified. Role is recorded as 'unknown' pending registry confirmation. Revenue FY25/FY26: no audited accounts or official filings were accessible, so null. Recommended next step: re-run verification when search is restored, or check MCA master data directly by company name to obtain CIN and registered office state."
+}

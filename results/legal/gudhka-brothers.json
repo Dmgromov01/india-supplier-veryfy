@@ -1,0 +1,18 @@
+{
+ "name_input": "GUDHKA BROTHERS",
+ "legal_name": "GUDHKA BROTHERS (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed. The web_search tool was non-functional (searx connection refused) for the whole session; direct fetches of registry/profile sources failed: zaubacorp.com 403, instafinancials.com 403, mca.gov.in 403, thecompanycheck.com returned only its marketing landing page with no search results, google.com 429, duckduckgo timed out, and bing.com returned completely unrelated results (massage-gun pages) for the exact-phrase queries \"GUDHKA BROTHERS\" GSTIN CIN and \"GUDHKA BROTHERS\" proprietor India. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source. Nothing is asserted or inferred: all fields are null per the no-invention rule. IMPORTANT: the absence of a retrieved record is NOT evidence of non-existence — no rejection is proposed, since rejection is permitted only on positive proof that the entity does not exist, is struck off, liquidated or bankrupt, and no such proof was obtained. Note also that the name pattern 'GUDHKA BROTHERS' is typical of a proprietorship/partnership trading firm rather than a company, in which case there would be no CIN at all and only a GSTIN would exist — this is a hypothesis, not a finding, and must be checked against the GST portal. Also flag: input declares HS 300490 (pharmaceuticals) while industry_claimed is 'Нефтегаз и химия' (oil & gas / chemicals) — an internal inconsistency in the input, not a basis for rejection; per project rules HS mismatch is never a rejection ground and the code is simply corrected to the actual one. state_claimed was empty in the input, so no state comparison was possible. Recommended next step: manual lookup of the GSTIN on the GST portal and of the firm name on the Udyam/Shop & Establishment or MCA registers before any verdict."
+}
