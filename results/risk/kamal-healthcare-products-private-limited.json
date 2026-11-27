@@ -1,0 +1,9 @@
+{
+ "name_input": "KAMAL HEALTHCARE PRODUCTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Coverage is INCOMPLETE — treat all fields as unverified, not as clean. (1) Sanctions: no OFAC SDN / UN / EU / UK / BIS Entity List screening could be completed. The DuckDuckGo search backend returned 'Connection refused' on every query, so no sanctions list or aggregator page was reachable; no hit was found, but absence of a hit here is NOT evidence of absence. (2) Indian courts: Indian Kanoon searched for the exact strings 'Kamal Healthcare Products' and 'Kamal Healthcare Products Private Limited' — both returned 'No matching results' (https://indiankanoon.org/search/?formInput=%22Kamal+Healthcare+Products+Private+Limited%22). This is a genuine negative result for reported judgments/orders, but Indian Kanoon does not index all district courts, NCLT/DRT matters or unlisted cases, so court_cases is left null rather than 'none'. (3) Regulator actions / negative news: not established. Bing and Google returned only unrelated results (Kamal Haasan, kamal-deploy.org, etc.) and ignored the quoted company name; no news, SEBI/RBI/CDSCO/consumer-forum or GST action page was located. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; null — not public or not rated, cannot distinguish. (5) Russia/CIS supply evidence: none found; no customs, B/L, tender or contract record surfaced. Note the declared HS 961900 (sanitary ware/napkins) and 'food & FMCG' industry label are outside my remit and were not checked. Zaubacorp and Tofler both failed (403 / 404), so no registry-side risk data (charges, defaults, strike-off) was obtained. RECOMMENDATION: re-run sanctions and court screening once search access is restored before any decision; do not read this record as a clearance."
+}

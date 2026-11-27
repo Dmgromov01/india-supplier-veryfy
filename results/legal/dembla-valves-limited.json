@@ -1,0 +1,18 @@
+{
+ "name_input": "DEMBLA VALVES LIMITED",
+ "legal_name": "DEMBLA VALVES LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. The web_search tool returned 'Connection refused' (searx backend down) for both queries; direct fetches of registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned HTTP 403, falconebiz.com and bing.com returned JS-only/irrelevant pages, duckduckgo html endpoint timed out, and demblavalves.com did not resolve. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be read from a primary or reliable secondary source, so all such fields are null rather than guessed. Note that the input itself supplies no PAN and no state, so there is nothing to cross-check the registered-office state against. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established either way - the entity's status is simply unverified. Role left as 'unknown' (no evidence of own manufacturing plant vs trading could be checked). Recommended next step: re-run with a working search backend and query the MCA master data / GST public search directly for the exact legal name 'DEMBLA VALVES LIMITED' to obtain CIN (likely a Maharashtra/U-prefix series given the valves industry, but this is an assumption and is NOT recorded as fact), then pull GSTIN from the GST portal public search and revenue from the MCA AOC-4 filings."
+}

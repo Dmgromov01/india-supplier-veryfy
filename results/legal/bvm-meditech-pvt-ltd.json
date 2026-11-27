@@ -1,0 +1,18 @@
+{
+ "name_input": "BVM MEDITECH PVT LTD",
+ "legal_name": "BVM MEDITECH PVT LTD (exact registered form not verified — could not be confirmed from a public registry source)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: web_search returned 'Connection refused' (searx backend down) on both queries; direct fetches of registry aggregator profiles (zaubacorp.com, thecompanycheck.com) returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; falconebiz.com returned a JavaScript-only shell with no company data; Google/Bing/DDG HTML endpoints returned redirects, 403 or irrelevant results. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left as 'unknown' — the name suffix 'MEDITECH' and declared HS 382290 (diagnostic/laboratory reagents) suggest a medical-technology supplier, but that is an inference from the name only, not a verified activity classification. No rejection applied: nothing indicates the entity does not exist, is struck off, liquidated or bankrupt — the entity's existence is simply unverified in this session. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by exact legal name 'BVM MEDITECH PRIVATE LIMITED' to obtain CIN and GSTIN before any verdict."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ITOLI GRANITO LLP",
+ "legal_name": "ITOLI GRANITO LLP (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the search backend returned connection errors (searx: Connection refused) for all queries, and direct fetches of public registry aggregators failed — zaubacorp.com HTTP 403, instafinancials.com HTTP 403, tofler.in HTTP 404 for the guessed slug, mca.gov.in HTTP 403, Google/Bing/DuckDuckGo returned no usable results for the exact name. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrieved, NOT evidence of absence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown': the 'LLP' suffix indicates a limited liability partnership, but whether it manufactures (HS 690721 ceramic tiles) or trades cannot be established from registry data alone. Per project rules the company is NOT rejected — rejection requires proof that the entity does not exist, is struck off, liquidated or bankrupt, and no such proof was obtained. Recommended action: re-run verification when the search backend is restored, checking the MCA master-data portal for the exact LLPIN and the GST portal for the GSTIN, and confirming the registered state against the input (input state field was empty)."
+}

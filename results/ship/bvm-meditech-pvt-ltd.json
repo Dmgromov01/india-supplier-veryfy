@@ -1,0 +1,8 @@
+{
+ "name_input": "BVM MEDITECH PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was visible on any accessible source. ImportKey page for slug 'bvm-meditech-pvt-ltd' returned only the paywall shell: 'Join ImportKey to view the import and export data records of companies all over the world.' Rows actually seen: 0. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Search backend (DuckDuckGo/searx) returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both queries, so no domestic-supply page could be located. Rows actually seen: 0.",
+ "note": "Evidence could not be gathered, not evidence of absence. Source counter: ImportKey (2 slug variants: 'bvm-meditech-pvt-ltd', 'bvm-meditech-pvt-ltd-') = 0 shipment rows visible, both paywall shells; volza.com/p/bvm-meditech = HTTP 403; eximpedia.app = HTTP 403; trademo.com = HTTP 403; importgenius.com = JavaScript challenge page; importkey 'bvm-meditech-private-limited' = HTTP 525. web_search failed twice with connection refused, so no independent page discovery was possible. Declared HS 382290 (diagnostic/lab reagents) is consistent with a 'Meditech' name but is unverified against any customs line. No export or domestic supply record was found, but this is a tooling failure rather than a confirmed 'none_found' — status left as unknown and must be re-run when trade-data access or search is restored. Revenue and export volume: null (not public in accessible sources). No CIN/PAN asserted."
+}
