@@ -1,0 +1,9 @@
+{
+ "name_input": "TECHWIN INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google — HTTP 429, Bing выдавал нерелевантную выдачу (автозапчасти Honda), Zauba Corp — HTTP 403, Tofler — 404 по запросу. Санкционный скрининг: интерфейс OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыт и доступен (SDN-лист обновлён 23.11.2026), но форма поиска требует POST/JS-отправки, которую инструмент http_get не выполняет — фактический запрос по имени 'TECHWIN INTERNATIONAL' и по 'ATUL KUMAR CHATURVEDI' НЕ выполнен. Поэтому sanctions_hit = null (не проверено), а НЕ 'чисто'. Аналогично: судебные дела (eCourts/NJDG), рейтинги (CRISIL/ICRA/CARE/India Ratings), негативные новости и признаки поставок в РФ/СНГ — данных не собрано, все поля null. Заявленное имя 'ATUL KUMAR CHATURVEDI' в открытых источниках подтвердить не удалось. Рекомендация: повторить проверку при восстановлении доступа к поиску и к API санкционных списков (OFAC/OpenSanctions/EU/UK/BIS); до этого компанию нельзя считать проверенной. Отклонение по правилам проекта не предлагается — оснований (ликвидация/банкротство/отсутствие юрлица) не установлено, но и не опровергнуто."
+}

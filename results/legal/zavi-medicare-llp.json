@@ -1,0 +1,18 @@
+{
+ "name_input": "ZAVI MEDICARE LLP",
+ "legal_name": "ZAVI MEDICARE LLP (as claimed; not verified in any public registry)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record found. Tooling failures: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; ZaubaCorp returned HTTP 403; TheCompanyCheck search returned HTTP 404; InstaFinancials search returned HTTP 404; Google returned HTTP 429; DuckDuckGo HTML timed out. Bing was reachable but for the exact-phrase queries \"ZAVI MEDICARE LLP\", \"ZAVI MEDICARE\" + LLPIN/GST and \"ZAVI MEDICARE\" + Zauba it returned only unrelated foreign 'Zavi'/'Zavvi' brands (zavvi.com, zavihq.com, shop-zavi.com, zaviagent.com) - zero Indian corporate hits. Therefore LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null: not public/not retrieved, NOT invented. No evidence of non-existence was obtained either, so per rules the entity is NOT rejected - it stays in the database pending manual MCA/LLP master-data lookup. Note the input itself is internally inconsistent: declared HS 901839 is medical/surgical instruments while industry_claimed is 'Продукты питания и FMCG' (food/FMCG); per rule 3 this is not a rejection ground - the HS code should be corrected to the actual one once the entity is confirmed. Role cannot be classified (manufacturer/trader) without registry or filing data. Revenue FY25/FY26: no audited accounts or official filings located, hence null. Recommended next step: manual check on mca.gov.in LLP master data and GST portal search by legal name."
+}

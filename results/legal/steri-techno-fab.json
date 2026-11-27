@@ -1,0 +1,18 @@
+{
+ "name_input": "STERI TECHNO FAB",
+ "legal_name": "STERI TECHNO FAB (exact legal entity name not verified — no MCA/registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "not verified — no MCA record found for this name",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. The web_search tool was unavailable (searx connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403, Google returned HTTP 429, and DuckDuckGo timed out. Bing queries for the exact strings \"STERI TECHNO FAB\", \"STERI TECHNOFAB\" and \"Steri Techno Fab\" + India/GST/CIN/IndiaMART returned only unrelated foreign 'steri*' brands (Stericycle, Steris, Steri Technologies, Steri-Pharma) — no Indian company, GSTIN, CIN or PAN record for this name. Therefore legal_name, CIN/LLPIN, PAN, PAN holder type, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null: not public/not found, not invented. No rejection applied — absence of a found record is not proof of non-existence, so the entity is not marked rejected; status is unverified. Note also that the declared HS 841920 (medical/surgical sterilizers) does not match the claimed industry 'IT и электроника'; per project rules this is not a rejection ground — the actual code should be corrected to 841920 (sterilizers) and the industry label fixed. Role cannot be determined without registry data (name suggests a fabricator/manufacturer, but that is inference only, not a verified fact). Recommend re-running with a working search backend or paid registry access (MCA/Tofler/Zauba) before any decision."
+}
