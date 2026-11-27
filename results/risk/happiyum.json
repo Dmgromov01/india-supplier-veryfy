@@ -1,0 +1,9 @@
+{
+ "name_input": "HAPPIYUM",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Claimed legal entity 'RATANI GLOBAL PRIVATE LIMITED' could not be researched: the web_search tool returned a backend error (searx connection refused) on both attempts, and fallback direct fetches of search engines (Google, Bing, DuckDuckGo HTML) returned either redirect stubs, timeouts, or entirely irrelevant results (adult content, CSK cricket pages, NerveCalm supplement reviews) — i.e. no usable hit for the company name. Registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JS-driven form that cannot be queried via plain HTTP GET, so no SDN/Non-SDN screening result was actually obtained. Therefore: sanctions exposure = NOT SCREENED (null, not 'clear'); Indian court cases (party role/status) = no data, not public via accessible sources in this session; regulator actions and negative news = no data; credit rating (agency, date, status) = no data; evidence of supplies to Russia/CIS = no data. Nothing here should be read as a clean bill of health — all fields are null because the sources were unreachable, not because they were checked and found empty. Recommend re-running this company once search/registry access is restored, and manually screening the exact legal name against OFAC SDN, UN Consolidated, EU consolidated, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NJDG) and IBBI/insolvency records. Per project rules, no rejection is proposed on any ground; this is a data-gap flag only."
+}

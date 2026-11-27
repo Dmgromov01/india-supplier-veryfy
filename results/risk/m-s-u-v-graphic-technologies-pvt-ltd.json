@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S U V GRAPHIC TECHNOLOGIES PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "РИСК-ПРОВЕРКА НЕ ВЫПОЛНЕНА — данных нет, все поля null. Причина техническая, а не отсутствие рисков: (1) поисковый бэкенд DuckDuckGo/searx возвращал 'Connection refused' на всех запросах; (2) резервные Bing/Google по запросам '\"U.V. Graphic Technologies\" Private Limited', '\"UV Graphic Technologies\" India company', '\"Graphic Technologies Private Limited\" \"U.V\" director MCA' выдали только нерелевантную общую выдачу (страницы про ультрафиолет, букву U, Canva) — ни одного упоминания компании; (3) реестры zaubacorp.com и instafinancials.com вернули HTTP 403, tofler.in — 404 на поисковый URL; (4) sanctionssearch.ofac.treas.gov доступен только как JS-форма, прямой GET-запрос по имени невозможен. Итог: ни подтверждений, ни опровержений по санкционным спискам (OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List), индийским судам, действиям регуляторов, негативным новостям, кредитному рейтингу и поставкам в РФ/СНГ не получено. Отсутствие находок НЕ означает отсутствие риска — это пробел в данных. Рекомендация: повторить проверку при восстановлении поиска, минимум по MCA-мастер-данным (для точного юрлица/директоров), e-courts/NJDG, OFAC Sanctions List Search вручную, а также по открытым таможенным базам на предмет направлений Россия/СНГ. Согласно правилам проекта компания не отклоняется по этим основаниям; вердикт по риску — 'не проверено', не 'чисто'."
+}

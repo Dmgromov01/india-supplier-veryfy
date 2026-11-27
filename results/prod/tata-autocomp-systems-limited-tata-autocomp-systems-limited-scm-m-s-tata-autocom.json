@@ -1,0 +1,33 @@
+{
+ "name_input": "TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED-SCM; M/S TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LTD; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED - Interiors and Plastics Division; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED - Composites Division; TATA AUTOCOMP SYSTEMS LTD; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; M/S TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED; TATA AUTOCOMP SYSTEMS LIMITED INTERIORS AND PLASTICS DIVN.; TATA AUTO COMP SYSTEMS LTD",
+ "declared_hs": "843120;870850",
+ "actual_hs_list": [
+  "8708.10",
+  "8708.29",
+  "8708.30",
+  "8708.40",
+  "8708.50",
+  "8708.80",
+  "8708.91",
+  "8708.92",
+  "8708.93",
+  "8708.99",
+  "8703.80/8703.90 (EV component sets, indirect)",
+  "8507.60",
+  "8501.31/8501.32",
+  "8537.10",
+  "8544.42",
+  "3926.30",
+  "3926.90",
+  "6813.20",
+  "8415.20",
+  "8414.59",
+  "8483.40",
+  "7320.10",
+  "4016.99"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт tataautocomp.com (Products & Services, About Us): конгломерат автокомпонентов Tata Group, 21-22 бизнес-единиц. Реальные продуктовые линии: (1) Electricals & EV — тяговые батареи/батарейные пакеты (Tata AutoComp Gotion, Tata Green Batteries), силовая электроника, BMS, шины-басбары, зарядные устройства, электронные компрессоры (TACO Prestolite Electric); (2) Interior & Exterior — пластиковые интерьерные/экстерьерные детали (панели приборов, облицовки, бамперы) для авто, off-road и ж/д (Interiors and Plastics Division), композиты (Composites Division), сиденья (TM Automotive Seating), зеркала/механизмы (Tata Ficosa), Nanjing Tata AutoComp; (3) Thermal, Emission & Powertrain — выхлопные системы и нейтрализаторы (Tata AutoComp Katcon), радиаторы и теплообменники (Tata Toyo Radiator), системы охлаждения (TitanX, TACO Air International), трансмиссии (TACO Punch Powertrain); (4) Body & Suspension — металлические штамповки и узлы кузова (Automotive Stampings & Assemblies Ltd), подвеска (Tata AutoComp Hendrickson Suspensions); (5) сервисы — aftermarket, supply chain, инжиниринг.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленные коды: 8431.20 (части машин/погрузчиков, вкл. вилочные) и 8708.50 (ведущие мосты с дифференциалом). Фактически: 8708.50 — частично подтверждается (мосты/подвеска через Tata AutoComp Hendrickson Suspensions, JV с Hendrickson — коммерческие подвески/оси), но это лишь малая доля портфеля. 8431.20 — не подтверждён: на сайте нет ни вилочных погрузчиков, ни частей машин товарной позиции 8425-8430; вероятно, ошибка декларанта либо узкая позиция одного из JV (не подтверждено). Основная масса продукции — 8708.xx (части и принадлежности моторных ТС: 8708.10 бамперы и их части, 8708.29 прочие кузовные части, 8708.30 тормоза, 8708.40 КПП, 8708.50 мосты, 8708.80 подвеска, 8708.91 радиаторы, 8708.92 глушители/выхлоп, 8708.93 сцепления, 8708.99 прочее), плюс 8507.60 (литий-ионные батареи), 8501 (электродвигатели), 8537.10 (панели управления/BMS), 8544.42 (кабельные сборки/басбары), 3926.30/3926.90 (пластиковые изделия для ТС), 6813.20 (фрикционные накладки), 8415.20 (автокондиционеры), 7320.10 (пружины подвески), 4016.99 (резинотехнические изделия). Отрасль в декларации «Металлургия и горнодобыча» — ошибочная классификация: компания относится к автомобильной промышленности (производство автокомпонентов), не к металлургии/горнодобыче. Признаков трейдера нет — это производитель (11 собственных заводов + 11 JV, 74+ площадок). Продуктовые линии, отсутствующие в декларации: EV/батареи, силовая электроника, пластиковые интерьер/экстерьер, композиты, сиденья, выхлопные системы, радиаторы, трансмиссии, aftermarket. Все перечисленные коды — заявлено по данным сайта, не подтверждено таможенными записями (в рамках этой проверки таможенные линии не исследовались). Вердикт по правилу 3: HS-несоответствие не является основанием для отклонения — компания сохраняется, код корректируется на фактический (accepted_hs_corrected)."
+}
