@@ -1,0 +1,18 @@
+{
+ "name_input": "L T FOODS LIMITED",
+ "legal_name": "L T Foods Limited (listed as 'L T Foods Ltd'; input spelling 'LT Foods Limited' is a spacing variant of the same entity)",
+ "cin_llpin": "L15201DL1990PLC040452 — NOT independently verified in this session (MCA/Zauba/TheCompanyCheck/InstaFinancials all returned 403/404 or paywalled shells; search backend was down). Treat as unconfirmed.",
+ "pan": "null — not public in any accessible source; PAN not disclosed on exchange filings or public profiles. PAN holder type therefore not determinable.",
+ "pan_holder_type": "null",
+ "gstin": "null — no public GSTIN profile could be retrieved (GST portal/aggregator pages blocked or not reachable). Not invented.",
+ "gst_status": "null — not verified",
+ "incorporation_date": "null — not verified from MCA; the '1990' embedded in the CIN string is unconfirmed. Company describes 'over 70 years' of rice business (brand/group history, not incorporation date).",
+ "state_registered": "Delhi (per CIN state code 'DL' in the commonly cited CIN) — unverified against MCA master data",
+ "state_claimed": "",
+ "mca_status": "null — MCA status not directly retrieved. Indirect evidence of active status: shares actively trading on BSE (532783) and NSE (LTFOODS) with live quote on 27 Nov, market cap ~INR 14,708 Cr, and FY26 annual results published. No evidence of strike-off, liquidation or insolvency.",
+ "role": "manufacturer_trader — branded basmati/specialty rice processor with own milling capacity (~800,000 MT p.a. per company disclosure) plus large export and domestic distribution; also trades/sources rice. Not a pure trader.",
+ "revenue_fy25_cr": 8681,
+ "revenue_fy26_cr": 10946,
+ "revenue_source": "Screener.in consolidated annual P&L (sourced from the company's audited consolidated results filed with BSE/NSE): FY2024-25 Sales INR 8,681 Cr; FY2025-26 Sales INR 10,946 Cr. Standalone: FY25 4,085 Cr, FY26 4,040 Cr. Figures are exchange-filed audited consolidated revenue, not an independent audit read.",
+ "note": "Identity is clear and the entity exists and is listed (BSE 532783 / NSE LTFOODS), so no rejection ground applies. Registry-level fields (CIN, PAN, GSTIN, incorporation date, MCA status) could NOT be confirmed from primary sources in this session: MCA-adjacent sites (Zauba, TheCompanyCheck, InstaFinancials) returned 403/404 or paywalled shells and the web_search backend was unavailable, so those fields are left null rather than guessed. Revenue is taken from audited consolidated filings as republished by Screener.in. HS 100630 (semi-milled/wholly milled rice) is consistent with the company's actual business (basmati and specialty rice), so no HS correction is needed. Per project rules, shipment/customs verification is out of scope for this role and is not assessed here."
+}

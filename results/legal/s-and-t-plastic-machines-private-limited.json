@@ -1,0 +1,18 @@
+{
+ "name_input": "S AND T PLASTIC MACHINES PRIVATE LIMITED",
+ "legal_name": "S AND T PLASTIC MACHINES PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic 'letter S' results with no relevant hits for the exact company name; MCA master-data portal returned HTTP 403; Zaubacorp and TheCompanyCheck returned HTTP 403; Tofler and QuickCompany returned HTTP 404 for the guessed URL slugs (slug guesses are not evidence of non-existence). Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left as 'unknown': the name and declared HS codes (845710 machining centres, 846023 machine tools for deburring/polishing) suggest machine-tool/plastic-machinery activity, but no registry record confirms manufacturer vs trader status. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established, and absence of retrievable data is not grounds for rejection. Also note the declared HS codes do not match the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining) - HS 8457/8460 are machine tools, so the industry label appears mis-set; per rule 3 this is not a rejection ground and would be handled as accepted_hs_corrected once the actual entity is confirmed. Recommended next step: manual lookup on the MCA portal by company name and on the GST taxpayer search by legal name/trade name, plus a paid registry aggregator, before any verdict is issued."
+}

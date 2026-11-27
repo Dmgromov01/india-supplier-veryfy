@@ -1,0 +1,18 @@
+{
+ "name_input": "Innovix Plast Industries Private Limited",
+ "legal_name": "INNOVIX PLAST INDUSTRIES PRIVATE LIMITED (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) was unreachable ('Connection refused') for all queries, and direct fetches of registry aggregators returned 403/404 or unusable results: zaubacorp.com (403 Forbidden), thecompanycheck.com (403 Forbidden), instafinancials.com (404), tofler.in (404 - no such company page), quickcompany.in (404), falconebiz.com (only a generic search landing page, no company record), Google (429 rate-limited), Bing (returned irrelevant results, no matching company). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT verified, not 'not existing'. No conclusion on existence can be drawn: absence of a hit on aggregator URLs is not proof of non-existence, so the entity is NOT rejected under the rules (rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy). Role left as 'unknown' because no evidence of manufacturing vs trading activity was obtained. Declared HS 392390 (plastic articles for conveyance/packing) is plausible for a 'Plast Industries' name but is unverified and, per project rules, HS mismatch is not a rejection ground anyway. State claimed in input was empty, so no state comparison possible. Recommended next step: re-run against MCA master data / GST portal when the search backend is restored, or query by CIN prefix if the buyer supplies one."
+}

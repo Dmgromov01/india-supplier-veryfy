@@ -1,0 +1,8 @@
+{
+ "name_input": "SAM COMPOSITES (INDIA) PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'sam-composites-india-private-limited' renders only the paywalled template: \"Shipments available for SAM COMPOSITES INDIA PRIVATE LIMITED, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers displayed. Source counter: 2 ImportKey slug variants tried (sam-composites-india-private-limited, sam-composites-india-pvt-ltd), rows actually seen: 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on all queries; volza, eximpedia and trademo returned HTTP 403. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: данные не получены, а не отсутствуют. ImportKey отдал только заглушку без записей (0 строк при 2 попытках slug), вторичные источники (volza/eximpedia/trademo) заблокированы 403, поисковик недоступен. Экспортных записей с датой, направлением, HS и номером B/L не найдено; внутренних подтверждений (GST-оборот, GeM/CPPP, контракты) не найдено. Заявленный HS 390290;392099 не проверен по фактическим отгрузкам. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступном поиске."
+}

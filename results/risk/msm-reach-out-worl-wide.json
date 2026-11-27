@@ -1,0 +1,9 @@
+{
+ "name_input": "MSM REACH OUT WORL WIDE",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: инструмент web_search (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; Google отдал HTTP 429, ZaubaCorp — HTTP 403, Tofler — 404, DuckDuckGo HTML — таймаут. Bing по запросам в кавычках «MSM Reach Out World Wide Private Limited», «MSM Reach Out World Wide», «Reach Out World Wide» + India/IndiaMART/Zauba/Tofler возвращал только нерелевантную выдачу (MSM-добавки, REACH-регламент ЕС) — ни одного упоминания компании найдено не было. Следствие: (1) санкции — совпадений не найдено, но это НЕ подтверждённый negative: проверка по OFAC SDN/Non-SDN Search (страница открыта, поиск по имени не выполнен из-за отсутствия программного доступа к форме), UN Consolidated, EU FSF, UK OFSI, BIS Entity List фактически не проведена — статус null; (2) судебные дела в Индии (eCourts, NCLT, High Court) — не проверялись, null; (3) рейтинги (CRISIL/ICRA/CARE/India Ratings) — публичных записей не найдено, null; (4) негативные новости и действия регуляторов (SEBI, RBI, GST, FSSAI — с учётом заявленного FMCG-профиля) — не найдено, null; (5) поставки в РФ/СНГ — следов не найдено, но и подтверждений отсутствия нет, null. Отсутствие данных НЕ является основанием для отклонения по правилам проекта (правило 3): компания сохраняется в базе. Рекомендуется повторная проверка при восстановлении доступа к поиску и к реестрам MCA/eCourts. Все поля оставлены null — цифры и идентификаторы не выдумывались."
+}
