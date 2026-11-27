@@ -1,0 +1,18 @@
+{
+ "name_input": "JUNEJA FORGINGS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT possible in this run: the web_search tool returned a backend error ('searx: Connection refused') on both queries, and direct fetches of registry/profile sources failed — zaubacorp.com and instafinancials.com returned HTTP 403, thecompanycheck.com search returned HTTP 404, google.com returned HTTP 429, duckduckgo.com timed out, and bing.com returned completely unrelated results (Facebook/StackOverflow/Kaskus pages) with no usable snippets. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. All such fields are set to null rather than guessed. Note that 'Juneja Forgings' as supplied may be a trade/proprietorship name rather than a registered company; this could not be checked. No rejection is applied — the entity is not shown to be non-existent, struck off, liquidated or bankrupt; status is simply unverified. Role left as 'unknown' (no evidence of manufacturing vs trading). Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Recommend re-running with working search access or manual MCA/GST portal lookup before any decision."
+}

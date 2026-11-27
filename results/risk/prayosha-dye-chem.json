@@ -1,0 +1,9 @@
+{
+ "name_input": "PRAYOSHA DYE CHEM",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the search backend (searx) was down ('Connection refused') and all general web-search fallbacks failed (DuckDuckGo/Brave/Mojeek timeouts or 429/403; Bing returned only irrelevant Microsoft pages; Marginalia index returned 0 results for the exact name; indiankanoon.org DNS resolution failed; zaubacorp.com returned 403). OFAC Sanctions List Search is JS-driven and returned no query results; the OFAC SDN CSV export was truncated by the fetch tool at the alphabetically early 'F' entries, so absence of the name from the SDN list could NOT be verified. Therefore sanctions exposure, Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all null — not because they were checked and found clean, but because no source could be retrieved. No claims are made and nothing is inferred from the company's own name, website or catalogue. Recommend re-running this company once search access is restored, specifically against: OFAC SDN/consolidated list, EU/UK consolidated lists, BIS Entity List, indiankanoon/eCourts, SEBI/RBI/ED/GST enforcement news, and credit-rating agency records. Per project rules, no rejection is proposed on this basis — the company stays in the database with unverified risk fields."
+}
