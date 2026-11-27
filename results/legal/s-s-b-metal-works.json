@@ -1,0 +1,18 @@
+{
+ "name_input": "S S B METAL WORKS",
+ "legal_name": "S S B METAL WORKS (exact legal form not verified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not negative. Tooling failure: web_search backend returned 'Connection refused' on both queries; Bing HTML fallback returned only generic 'letter S' results for every quoted query variant ('S S B METAL WORKS' GSTIN, 'SSB METAL WORKS' IndiaMART, 'S.S.B. METAL WORKS' proprietorship); zaubacorp.com returned HTTP 403; indiamart.com returned HTTP 429; thecompanycheck.com and quickcompany.in returned 404. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be retrieved, so all such fields are null per rules (no invented identifiers or figures). Name pattern ('METAL WORKS', no Pvt Ltd/LLP suffix) suggests a proprietorship or partnership, which would have no CIN and no MCA record — but this is an inference, not a verified fact. Note also an internal inconsistency in the input: declared HS 960810/960840 (ball-point pens / pencils and crayons) does not match the claimed industry 'Food & FMCG'; per project rules this is NOT a rejection ground — the company stays in the base and the HS code should be corrected to the actual product line once the entity is identified. No rejection applied: entity existence/struck-off/bankruptcy status is unverified, not disproven. Recommended next step: re-run with a working search backend, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal."
+}
