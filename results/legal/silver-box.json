@@ -1,0 +1,18 @@
+{
+ "name_input": "SILVER BOX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. Входные данные содержат только торговое наименование 'SILVER BOX' без организационно-правовой формы, CIN, PAN, GSTIN, адреса и штата — это не уникальный идентификатор юрлица. Попытки проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, ошибка соединения; (2) zaubacorp.com — HTTP 403 (блокировка); (3) thecompanycheck.com — HTTP 404; (4) mca.gov.in Master Data — HTTP 403; (5) Google/Bing по запросам '\"SILVER BOX\" GSTIN India company CIN', '\"Silver Box\" \"Private Limited\" OR \"LLP\" India company registration', '\"SILVER BOX\" site:zaubacorp.com OR site:thecompanycheck.com OR site:tofler.in' — релевантных результатов по индийскому юрлицу не выдано (только цены на серебро). Никаких данных о CIN/LLPIN, PAN, GSTIN, дате регистрации, статусе MCA и выручке получить не удалось, поэтому все поля null — цифры не выдумывались. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие подтверждения существования юрлица при недоступности реестров не является доказательством его несуществования (правило 3: rejected только при документально подтверждённой ликвидации/банкротстве/struck off). Рекомендация: запросить у поставщика точное юрлицо (полное название с 'Private Limited'/'LLP'), CIN/GSTIN и PAN, после чего проверить на mca.gov.in и в GST-профиле. Заявленный HS 841989 (оборудование для обработки материалов, не 'нефтегаз и химия' в узком смысле) и отрасль 'Нефтегаз и химия' не подтверждены и не проверялись — по правилу 3 несоответствие HS не является основанием для отклонения."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "UNOMAX STATIONERY PRIVATE LIMITED",
+ "legal_name": "UNOMAX STATIONERY PRIVATE LIMITED (name as claimed; existence in MCA register NOT verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries, and all direct registry aggregator fetches failed: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, tofler.in 404 (wrong slug guess), instafinancials.com 404, indiafilings.com 404, duckduckgo.com/html timed out, google.com/search returned only a redirect interstitial. Bing results for the exact quoted name returned only brand/e-commerce pages for the 'Unomax' pen brand (unomaxpens.com, Amazon, Flipkart) and no MCA/registry profile, so no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Per project rules nothing is invented: all registry fields are null and revenue FY25/FY26 are null (no audited accounts or official filings located). NOT rejected - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a research limitation, not a negative finding. Role left as 'unknown' (the Unomax brand is associated with writing instruments/pens manufacturing and marketing, but the legal entity's own manufacturer-vs-trader status is unverified). Note on input mismatch: declared HS 960810 (ball point pens) is consistent with the Unomax brand's product line, while industry_claimed 'Продукты питания и FMCG' (food/FMCG) does not match - HS 960810 is stationery/writing instruments, not food. Per rule 3 this is not a rejection ground; the HS code should be treated as the factual one and the industry label corrected to stationery/writing instruments. Recommended next step: re-run with a working search backend or fetch the MCA master data / GST public profile directly (e.g. via a paid registry API) to fill CIN, PAN, GSTIN, incorporation date, state and revenue."
+}

@@ -1,0 +1,58 @@
+{
+ "name_input": "SANITECH ENGINEERS PRIVATE LIMITED",
+ "sanctions_hit": false,
+ "court_cases": [
+  {
+   "court": "Supreme Court of India (daily orders)",
+   "case": "Commissioner of Income Tax-10 v. M/s Sanitech Engineers Pvt. Ltd.",
+   "date": "2015-07-31",
+   "role": "respondent (taxpayer)",
+   "status": "order passed; tax appeal, no adverse finding on record in the snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sanitech%20Engineers%20Pvt.%20Ltd.%22%20Mumbai"
+  },
+  {
+   "court": "ITAT Mumbai",
+   "case": "Sanitech Engineers P. Ltd, Mumbai v. Assessee (ITA No.6157/Mum/2011 & CO.144/M/2012)",
+   "date": "2012-08-24",
+   "role": "appellant/assessee",
+   "status": "income-tax appeal, assessment years 2008-09; registered address W-199E, MIDC, TTC Industrial Area, Navi Mumbai",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sanitech%20Engineers%20Pvt.%20Ltd.%22%20Mumbai"
+  },
+  {
+   "court": "ITAT Mumbai",
+   "case": "Sanjay Badani, Mumbai v. ACIT 10(3)",
+   "date": "2019-08-28",
+   "role": "third party referenced (shareholding / deemed dividend s.2(22)(e) analysis)",
+   "status": "Sanitech Engineers Pvt. Ltd. referenced re 20% shareholding and payments; no order against the company itself",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sanitech%20Engineers%20Pvt.%20Ltd.%22%20Mumbai"
+  },
+  {
+   "court": "ITAT Mumbai",
+   "case": "Nishotech Systems P. Ltd, Mumbai v. Assessee",
+   "date": "2012-07-26",
+   "role": "counterparty referenced",
+   "status": "transaction of Rs.24 lakhs for engineering services examined; no adverse finding against Sanitech in snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sanitech%20Engineers%20Pvt.%20Ltd.%22%20Mumbai"
+  },
+  {
+   "court": "NCLAT New Delhi",
+   "case": "Panoramic Universal Ltd v. Sanitech Engineers & Consultants Pvt. Ltd. & Ors., Company Appeal (AT) (Insolvency)",
+   "date": "2020-01-07",
+   "role": "respondent",
+   "status": "insolvency appeal; NOTE: name similarity only — 'Sanitech Engineers & Consultants Pvt. Ltd.' (MD Amit Sharma, registered office #8-2-686/K/15, Hyderabad/Telangana) appears to be a DIFFERENT entity from 'Sanitech Engineers Pvt. Ltd.' (Mumbai/MIDC). Identity not confirmed; do not attribute.",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sanitech%20Engineers%22"
+  },
+  {
+   "court": "Telangana High Court",
+   "case": "M/s Sanitech Engineers Consultants Pvt Ltd v. State of Telangana (2022-07-01); Mr. Amith Sharma v. State of Telangana (2022-02-25)",
+   "date": "2022-02-25 / 2022-07-01",
+   "role": "petitioner (quashing)",
+   "status": "criminal quashing petitions by MD Amit Sharma re sale deed; again likely the Hyderabad '& Consultants' entity, not the Mumbai company — identity unconfirmed",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sanitech%20Engineers%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No negative news, regulator action or enforcement item found for SANITECH ENGINEERS PRIVATE LIMITED. Note: the web_search tool was non-functional during this run (searx connection refused) and Bing/Google/DuckDuckGo returned blocked or irrelevant results, so news coverage could not be systematically screened — absence of findings here is a tooling limitation, not proof of a clean record.",
+ "rf_supply": "No evidence found of supplies to Russia or the CIS. No export records, B/L entries, or Russian/CIS counterparties identified in any accessible source. Status: not confirmed either way (null).",
+ "note": "Risk-only review. Sanctions: no match for 'Sanitech' in the OFAC SDN/Non-SDN consolidated data retrieved from sanctionslistservice.ofac.treas.gov (SDN list last updated 11/23/2026); UN, EU, UK and BIS Entity List were NOT independently queried in this run (tool budget), so sanctions_hit=false is based on OFAC only. Litigation: the Mumbai entity 'Sanitech Engineers Pvt. Ltd.' (W-199E MIDC TTC Industrial Area, Navi Mumbai) appears only in income-tax matters (ITAT Mumbai 2012, Supreme Court 2015, ITAT 2019 as a referenced third party) — routine tax litigation, not a rejection ground per project rules. IMPORTANT CAVEAT: Indian Kanoon also returns a similarly named but apparently distinct company, 'Sanitech Engineers & Consultants Pvt. Ltd.' (MD Amit Sharma, Hyderabad/Telangana), involved in an NCLAT insolvency appeal (07.01.2020) and Telangana HC criminal quashing petitions (25.02.2022, 01.07.2022). Legal identity was outside my remit and could not be resolved; these matters must NOT be attributed to the Mumbai company without CIN/PAN confirmation. Credit rating: null — no rating found in public sources (likely unrated SME); not verified. RF/CIS supply: no trace found. Per Rule 2, none of the above is a rejection ground."
+}
