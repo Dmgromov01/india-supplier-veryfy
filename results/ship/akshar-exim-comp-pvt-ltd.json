@@ -1,0 +1,8 @@
+{
+ "name_input": "AKSHAR EXIM COMP PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/akshar-exim-comp-pvt-ltd returned only a paywalled shell: \"Shipments available for AKSHAR EXIM COMP PVT LTD, refreshed daily\" — 0 actual shipment rows visible (no date, destination, HS code or B/L number). No second source could be read: volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant results (Astragalus plant pages, Visit Seattle pages) for the exact-name queries.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. zaubacorp.com returned HTTP 403 Forbidden, so even the corporate record could not be read. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это не подтверждение отсутствия отгрузок, а отсутствие доступа к данным: все платные трейд-агрегаторы (volza, eximpedia, trademo) и реестр zaubacorp закрыты 403, поисковые движки недоступны или выдают нерелевантную выдачу. ImportKey показал только заглушку без единой строки отгрузки, поэтому счётчик источника = 0 видимых записей. Заявленный HS 291229 (ароматические альдегиды/кетоны, группа 29) не проверен по фактическим записям — код не подтверждён и не опровергнут. Выручка и объём экспорта: null (не публичны, не выдумываю). Роль (manufacturer/trader) не установлена. Компания не отклоняется — оснований для rejected нет; статус остаётся unknown до получения доступа к таможенным записям или GST-данным."
+}

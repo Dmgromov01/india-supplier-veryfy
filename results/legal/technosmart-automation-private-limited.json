@@ -1,0 +1,18 @@
+{
+ "name_input": "TECHNOSMART AUTOMATION PRIVATE LIMITED",
+ "legal_name": "TECHNOSMART AUTOMATION PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; Bing HTML endpoint returned only unrelated Microsoft boilerplate (no usable SERP); direct fetches of registry aggregators were blocked with HTTP 403 (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, falconebiz.com) and Google returned HTTP 429. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they could not be read from a public source within the call budget. No number here is inferred or fabricated. PAN holder type therefore also null (the 4th-character rule could not be applied without an actual PAN). Role left as 'unknown': the name and declared HS codes (842240 packing/wrapping machinery, 843420 dairy machinery) suggest an industrial-equipment supplier rather than an FMCG producer, which conflicts with the claimed industry 'Продукты питания и FMCG' - but this is an inference from the name/HS only, not a verified activity classification, so it is not asserted. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Per project rules this company is NOT rejected - non-existence, strike-off, liquidation or bankruptcy was not established; the correct status is 'verification pending / data unavailable'. Recommended next step: re-run with working search access, or supply the CIN or GSTIN from the supplier directly, then confirm on MCA master data and the GST public search portal. Note also that the declared HS codes do not match the claimed FMCG industry; per rule 3 this is not a rejection ground - the code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected once the entity is confirmed."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "RITE EQUIPMENTS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все 10 попыток доступа не дали результата: web_search вернул 'searx: Connection refused' (бэкенд поиска недоступен); DuckDuckGo (html и lite) — timeout; Google — HTTP 429; Bing отдал нерелевантную выдачу (толкования слова 'rite', Rite Aid) без единого индийского реестрового профиля; zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in — HTTP 403 Forbidden; quickcompany.in — 404. Таким образом НИ ОДНО поле не подтверждено источником: точное юрлицо, CIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 остаются null. Обращаю внимание на расхождение в самом входе: name_input 'RITE EQUIPMENTS PVT LTD' vs legal_claimed 'RITE EQUIPMENT PRIVATE LIMITED' (EQUIPMENTS мн.ч. против EQUIPMENT ед.ч.) — это могут быть два разных юрлица, и без реестровой выписки выбрать одно невозможно. Также заявленный HS 841850/841981/843810 (холодильные/тепловые витрины, пекарное оборудование) не соответствует заявленной отрасли 'IT и электроника' — по правилам проекта это НЕ основание для отклонения, код просто фиксируется как фактический при подтверждении. Роль оставлена 'unknown', а не 'manufacturer', т.к. нет ни одного подтверждения. ВЕРДИКТ: не отклонять и не принимать — отправить на повторную проверку, когда восстановится доступ к реестру (нужен CIN из MCA master data или GSTIN из публичного профиля)."
+}
