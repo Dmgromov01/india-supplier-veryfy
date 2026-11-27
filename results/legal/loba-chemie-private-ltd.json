@@ -1,0 +1,18 @@
+{
+ "name_input": "LOBA CHEMIE PRIVATE LTD",
+ "legal_name": "LOBA CHEMIE PVT. LTD. (as used on the company's own website footer; exact MCA-registered form 'LOBA CHEMIE PRIVATE LIMITED' not independently confirmed in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the web_search backend was unavailable (connection refused) for the whole session, and all registry aggregators attempted returned blocks or errors — zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned HTTP 404 for the guessed CIN URL, instafinancials.com returned only a generic landing page (no company record), gstsearch.in returned 404. No CIN, PAN, GSTIN, incorporation date, MCA status or revenue figure is therefore reported — all set to null rather than guessed. The guessed CIN U24100MH1975PTC017789 was NOT confirmed by any source and must not be used. What IS confirmed from a primary source: the company's own website (lobachemie.com, fetched successfully) states 'Loba Chemie manufactures widest range of high purity laboratory chemicals and industrial chemicals ... for over 50 years', describes an integrated manufacturing system, ISO certification and a NABL-accredited testing lab, and lists a Mumbai telephone number (+91-22-6663 6663) — this supports role = manufacturer and points to Maharashtra as the operating location, but a phone prefix is not proof of the registered-office state, so state_registered is left null. No audited accounts or official filings were reachable, so FY25/FY26 revenue are null. Per project rules the company is NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the entity clearly exists and operates (live corporate website). Declared HS 320490/382490 (dyes/pigments and chemical preparations) is broadly consistent with laboratory reagents and fine chemicals, but HS verification is outside this role's scope and no HS-based rejection is applied. Recommended next step: re-run with a working search backend and pull the MCA master data / GST public profile to fill CIN, PAN, GSTIN, incorporation date and MCA status."
+}

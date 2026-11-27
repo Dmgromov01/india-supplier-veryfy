@@ -1,0 +1,15 @@
+{
+ "name_input": "EMSON TOOLS MFG CORP LTD",
+ "declared_hs": "732690",
+ "actual_hs_list": [
+  "732619 (forged steel components, not further worked — crank shafts, cam shafts, S-cam shafts, stub axles, connecting rods, gears/shafts blanks, hydraulic lift arms, hay/bale spears)",
+  "732690 (other articles of iron/steel — only as a residual code for finished non-machined steel articles)",
+  "860729 / 860791 (railway rolling-stock parts: screw couplings, gear assembly, hangers, block hangers for bogie brake, LHB coach components — chapter 86 parts)",
+  "843290 / 843390 (agricultural/farm-equipment and tractor components, conveyor parts — if supplied as parts of machinery)",
+  "870899 (other motor-vehicle parts, if supplied as automotive OEM components)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (emsontools.com, homepage) lists: forging components and machining components; railway components — screw couplings, gear assembly, hangers, block hangers for bogie brake, components for LHB coaches; automobile components; tractor components; farm-equipment components; conveyor parts. Named best-selling items: engine crank shafts, hydraulic lift arms, S-cam shafts, gears, shafts, cam shafts, stub axles, connecting rods, connector & U-links, hay spears / bale spears. Company describes itself as 'one of the leading forging producers in North India', 35+ years in metal forming, approved source on RDSO panel for railway items; address D-2, Focal Point, Dhandari Kalan, Ludhiana 141010.",
+ "role_hint": "manufacturer (in-house forging + machining; no trader signs found on the site — no 'we are trading house', no third-party brand resale). RDSO approval and OEM supply language point to a genuine producer.",
+ "comment": "HS 732690 is only partially right. The declared code is a residual 'other articles of iron or steel' bucket, while the actual product mix is dominated by (a) forged steel parts that belong in 7326 19 (forgings not further worked) and (b) railway rolling-stock parts of chapter 86 (screw couplings, bogie-brake hangers, LHB coach components) and (c) machinery/vehicle parts (8432/8433, 8708). Industry claim 'Металлургия и горнодобыча' (metallurgy & mining) is a misclassification: the company is a forging/machining supplier to automotive, railway, tractor and farm-equipment OEMs — metallurgy only as a process, no mining products at all. Product lines missing from the declaration: railway components (chapter 86), tractor/farm-equipment parts, conveyor parts, complete forged shafts/axles. Per project rule 3 the HS mismatch is NOT a rejection ground — company is kept, code to be corrected to the actual mix (primary 732619 + 8607xx for railway items). All product data above is from the company's own website only: no customs line, invoice or B-L was reviewed in this task, therefore the entire product range and any export activity are 'заявлено, не подтверждено'. Sub-pages (products/forging/railway/about) returned HTTP 404, so no deeper catalogue or HS references could be read; revenue, export volumes, PAN/CIN and shipment records were deliberately not researched (out of scope)."
+}

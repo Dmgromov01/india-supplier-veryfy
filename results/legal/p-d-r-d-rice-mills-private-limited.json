@@ -1,0 +1,18 @@
+{
+ "name_input": "P D R D RICE MILLS PRIVATE LIMITED",
+ "legal_name": "P D R D RICE MILLS PRIVATE LIMITED (as given in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant tokenized results (letter 'P' pages, Seattle concerts) for both the full-name and 'PDRD RICE MILLS' queries; zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403; instafinancials.com returned HTTP 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the name suffix 'RICE MILLS' suggests a milling/manufacturing operation, but this is an inference from the name only and is not evidence. IMPORTANT DISCREPANCY for the analyst: the input's 'legal_claimed' field says 'TRIMAX INTERNATIONAL', which does not match the entity name 'P D R D RICE MILLS PRIVATE LIMITED' - the claimed legal name and the searched name are different entities, and no link between them was established. Also note declared HS 100630 (semi-milled or wholly milled rice) is consistent with a rice mill by name only; per project rules HS mismatch is not a rejection ground and no HS verdict is issued here. Per rules, rejection is NOT applied: non-existence/struck-off/liquidation/bankruptcy could not be established either way, so the company is retained with unverified status pending a re-run when registry access is available."
+}

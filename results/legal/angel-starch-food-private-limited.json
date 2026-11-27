@@ -1,0 +1,18 @@
+{
+ "name_input": "ANGEL STARCH & FOOD PRIVATE.LIMITED",
+ "legal_name": "ANGEL STARCH AND FOOD PRIVATE LIMITED (as claimed in input; NOT independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All 10 tool calls failed: DuckDuckGo/searx search backend returned 'Connection refused' (no results at all); Google returned HTTP 429; Bing returned only generic 'angel' results with no Indian company match; zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com and mca.gov.in all returned HTTP 403; tofler.in search returned a 404 page; duckduckgo.com/html timed out; marcia.com timed out. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT because they are confirmed absent, but because they could not be read from a public source in this session. No number, CIN, PAN or GSTIN has been invented. Per project rules the entity is NOT rejected: rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was obtained. Role left as 'unknown' - the declared HS codes (110812, 110814 = maize/corn starch; 350510 = dextrins and other modified starches) are consistent with a starch manufacturer, but product/HS inference is not a registry fact and was not researched per role scope. Recommended next step: re-run against MCA master data / GST portal once the search backend and 403-blocked aggregators are reachable, or supply the CIN directly."
+}

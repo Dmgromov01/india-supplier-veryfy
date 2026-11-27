@@ -1,0 +1,8 @@
+{
+ "name_input": "P D R D RICE MILLS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'p-d-r-d-rice-mills-private-limited' renders only the shell text: \"Shipments available for P D R D RICE MILLS PRIVATE LIMITED, refreshed daily\" — no shipment row, no date, no destination, no HS code, no B/L number was displayed. Second slug 'pdr-dr-rice-mills-private-limited' returned the identical empty shell. Rows actually seen: 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches returned no relevant pages; volza, eximpedia and trademo returned HTTP 403, so no domestic supply record could be read. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: все четыре источника данных об отгрузках (ImportKey — пустая оболочка без строк, volza/eximpedia/trademo — 403 Forbidden) не отдали ни одной записи, поэтому статус именно 'unknown', а не 'none_found'. Заявленное юрлицо 'TRIMAX INTERNATIONAL' не подтверждено ни одной записью об отгрузке и не связано с проверяемым именем ни одним найденным источником — это заявление, не факт. HS 100630 (рис) не проверен по фактической отгрузке, так как отгрузок в открытых данных не видно; HS не является основанием для отклонения. Выручка: null (не публична, не выдумывалась). Объём экспорта: null. CIN/PAN: null — не найдены в открытых источниках. Компания сохраняется в базе; требуется платный доступ к таможенным данным (ImportKey/Volza) или запрос GST-выписки для подтверждения фактичности отгрузок."
+}
