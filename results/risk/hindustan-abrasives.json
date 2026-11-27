@@ -1,0 +1,9 @@
+{
+ "name_input": "HINDUSTAN ABRASIVES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failures: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic 'Hindustan' results (Hindustan Times, Hindustan Motors, LiveHindustan) and ignored the quoted phrase 'Hindustan Abrasives', so no company-specific page was surfaced; zaubacorp.com returned HTTP 403; maritime-database host did not resolve. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and returned only the empty search page via http_get, so no SDN/Non-SDN screening result could be captured. Indian Kanoon was reachable and searched for 'Hindustan Abrasives': the 348 hits are keyword matches only (Hindustan Unilever, Hindustan Lever, De Beers Abrasive, Carborundum Universal etc.) — no judgment was found in which 'Hindustan Abrasives' appears as a party, so court_cases is left null rather than asserted as 'none'. No credit rating, regulator action, negative news, or Russia/CIS supply evidence could be located or ruled out. All fields null = NOT PUBLICLY VERIFIED IN THIS RUN, not 'clean'. Recommend re-run when search backend is restored, and note that the name is generic and may correspond to multiple entities (several Indian firms use 'Hindustan Abrasives'-type names), so screening must be tied to a confirmed legal entity/CIN before any sanctions or litigation conclusion is drawn. Per project rules, nothing here is a rejection ground."
+}

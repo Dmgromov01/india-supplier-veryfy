@@ -1,0 +1,18 @@
+{
+ "name_input": "Qualisurge Surgicals (Qualisurge Surgicals Private Limited) located in Pune, Maharashtra, India, is 27AAACQ0803E1ZZ.Company Details",
+ "legal_name": "QUALISURGE SURGICALS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra (Pune) — as stated in input",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. Все попытки получить первоисточник в этом сеансе провалились: web_search (DuckDuckGo/searx) вернул 'Connection refused'; http_get на zaubacorp.com, thecompanycheck.com, mca.gov.in — HTTP 403; instafinancials — 404; google.com — 429; duckduckgo lite и bing — таймаут/нерелевантная выдача (поисковый бэкенд деградировал, по запросу '27AAACQ0803E1ZZ' выдавались страницы Home Depot). Поэтому CIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка остаются null. ВАЖНО по входным данным: строка '27AAACQ0803E1ZZ' — это НЕ PAN и не GSTIN в чистом виде. PAN физлица/компании имеет 10 знаков (формат AAACQ0803E); '27' — код штата Махараштра, 'ZZ' — суффикс, т.е. это похоже на GSTIN-подобную строку, но у GSTIN после PAN идут 4 знака (1 цифра entity + 1 буква + 1 цифра + контрольный символ), а здесь '1ZZ' — 3 знака, что формату GSTIN не соответствует. Строку следует перепроверить у поставщика; как GSTIN она не подтверждена. По 4-му символу PAN 'C' (AAACQ0803E) holder type был бы 'company' (не HUF/индивидуал), но сам PAN не подтверждён публичным источником. Роль (manufacturer/trader) не установлена: заявленный HS 901890 (медицинские/хирургические инструменты) противоречит заявленной отрасли 'IT и электроника' — это несоответствие входных данных, а не основание для отклонения; по правилам Дмитрия компания сохраняется в базе, HS подлежит исправлению на фактический. Отклонение НЕ применяется: сведений о ликвидации/банкротстве/отсутствии юрлица нет, но и подтверждения существования юрлица получить не удалось. Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP/TOFLER."
+}

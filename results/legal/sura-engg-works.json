@@ -1,0 +1,18 @@
+{
+ "name_input": "SURA ENGG.WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - registry data could not be retrieved. The input name 'SURA ENGG.WORKS' with 'legal_claimed' = 'GURDIAL SINGH' looks like a sole proprietorship (proprietor name given instead of a company name), which would mean no CIN/LLPIN and no MCA record exists by definition; PAN 4th-character holder type therefore cannot be determined. No public GSTIN profile, GST status, incorporation date or registered state could be located. Tooling failure: web_search returned 'searx: Connection refused' on both queries; Bing via http_get returned only unrelated 'SURA' insurance/education results for every query variant; zaubacorp.com and mca.gov.in returned HTTP 403. No audited accounts or official filings found, so revenue FY25/FY26 left null rather than estimated. Role left 'unknown' - the declared HS codes (732591 grinding media/balls for mills, 843390 parts of harvesting/threshing machinery) suggest a metal-casting/engineering workshop, but that is an inference from the HS codes, not a verified fact. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be checked. Recommend re-running verification when search access is restored, and requesting the GSTIN directly from the supplier."
+}
