@@ -1,0 +1,18 @@
+{
+ "name_input": "RHYTHM KNIT INDIA PRIVATE LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Проверка не удалась по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / timeout, Bing по запросам в кавычках '\"RHYTHM KNIT INDIA PRIVATE LIMITED\" CIN GST' и '\"Rhythm Knit India\" Tirupur OR Ludhiana OR Surat company' выдал только нерелевантные результаты (американские энергокомпании, игры, словарные статьи) — ни одного индийского реестрового профиля; zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in вернули 403/404, Google — 429. Таким образом exact legal entity name, CIN, PAN (и тип держателя по 4-му знаку), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null — публично подтвердить их не удалось, выдумывать значения нельзя. Роль (manufacturer/trader) не определена: без GST-профиля и MCA-данных оснований для классификации нет, поэтому 'unknown'. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию/ликвидации/банкротству (правило 3). Заявленный в input HS 610342/610442/610510/610910 (трикотажные изделия, гл. 61) противоречит заявленной отрасли 'Продукты питания и FMCG' — по правилу 3 это НЕ основание для отклонения; при подтверждении реестровых данных код следует исправить на фактический и присвоить вердикт accepted_hs_corrected. Требуется повторная проверка при доступных источниках (MCA master data по CIN, GST-профиль на public-агрегаторе, аудированная отчётность)."
+}

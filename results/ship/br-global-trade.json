@@ -1,0 +1,8 @@
+{
+ "name_input": "Br global trade",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/br-global-trade and .../br-global-trade-llp both returned only the empty template shell: \"Shipments available for BR GLOBAL TRADE, refreshed daily\" — 0 shipment rows actually rendered, no date, destination, HS code or B/L number visible. volza, eximpedia, trademo returned HTTP 403; importgenius returned a JavaScript challenge. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search engine (DuckDuckGo/searx) was unavailable during this run (connection refused / timeout), so no domestic-supply source could be located or read.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, все источники были недоступны или пусты. Статус по обоим пунктам unknown, а не declared_only, поскольку заявлений сайта/каталога о поставках тоже не прочитано. Юрлицо с названием 'BR GLOBAL TRADE' в реестрах не проверялось (реестры вне рамок задачи); CIN/PAN/выручка — null, публично не подтверждены. Заявленный HS 071080;081190 (замороженные овощи / прочие замороженные фрукты) ничем не подтверждён и не опровергнут. Требуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}

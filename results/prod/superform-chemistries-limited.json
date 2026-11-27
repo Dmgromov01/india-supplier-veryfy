@@ -1,0 +1,21 @@
+{
+ "name_input": "SUPERFORM CHEMISTRIES LIMITED",
+ "declared_hs": "380850",
+ "actual_hs_list": [
+  "281210",
+  "292090",
+  "292010",
+  "283525",
+  "292121",
+  "292249",
+  "380893",
+  "380892",
+  "283090",
+  "292320",
+  "382499"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт superformchemistries.com (бывшая UPL Specialty Chemicals, бренд SUPERFORM; 12 производственных площадок, в т.ч. Dahej и Jhagadia) показывает портфель specialty-химии, сгруппированный по категориям: PHOSPHORUS DERIVATIVES (13 продуктов), PHOSGENE DERIVATIVES (6), SULPHUR CHEMISTRY (4), CYANATION CHEMISTRY (10), ZINC DERIVATIVES (1), OTHERS (11). Конкретные продукты, названные на страницах: Phosphorus Trichloride (CAS 7719-12-2), Phosphorus Oxychloride (CAS 10025-87-3), Trimethyl Phosphite (CAS 121-45-9), Triethyl Phosphite (CAS 122-52-1), Triphenyl Phosphite (CAS 101-02-0), Phenyl Chloroformate, Microencapsulated Red Phosphorus, Sodium Sulphide, DVACL/CMAC (CAS 52314-67-7), EDTA Acid (CAS 60-00-4), EDTA Disodium (CAS 139-33-3), EDTA Tetrasodium (CAS 64-02-8), Diuron (CAS 330-54-1), Carbendazim (CAS 10605-21-7), Denatonium Benzoate (CAS 3734-33-6). Отрасли применения по сайту: Agriculture, Dyes/Textiles/OBAs, Flame Retardants, Food & Beverage, Home & Personal Care, Lubricants, Mining, Oil & Gas, Paints & Biocides, Pharmaceuticals, Water treatment.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 380850 (дезинфицирующие средства, розничная упаковка) не соответствует фактическому профилю: компания — производитель химических полупродуктов (intermediates) и custom synthesis, а не готовых дезинфицирующих препаратов в розничной упаковке. Скорее всего произошёл сдвиг на уровне главы 38 из-за наличия биоцидных продуктов (Diuron, Carbendazim — это пестициды/фунгициды, а не дезинфектанты). Правильное отображение по фактическим продуктам: PCl3 и POCl3 — 2812.10 (фосфора галогениды/оксигалогениды); Trimethyl/Triethyl/Triphenyl phosphite — 2920.90 (прочие эфиры фосфорной и фосфористой кислот); Phenyl chloroformate — 2920.90; Microencapsulated Red Phosphorus — 2804.70 (фосфор) либо 3824.99 как препарат-антипирен, требует уточнения по составу; Sodium Sulphide — 2830.90; EDTA acid и соли — 2922.49 (кислота) / 2922.49 или 3824.99 для солей; DVACL/CMAC — 2920.90; Diuron — 2924.21 (амиды карбоновых кислот, пестицидный активный ингредиент) либо 3808.93 как готовый гербицид; Carbendazim — 2933.99/2924.29 либо 3808.92 как фунгицид; Denatonium Benzoate — 2923.90/2924.29. Итог: частичное совпадение — глава 38 применима только к части биоцидной/антипиреновой продукции и то как к действующим веществам, а не к товарной позиции 3808.50; основной оборот — главы 28 и 29. Отраслевая классификация «Нефтегаз и химия» частично верна (есть Oil & Gas и Mining применения), но компания ближе к specialty chemicals / agrochemical intermediates. Признаков трейдера нет: сайт заявляет собственные 12 заводов, обратную/прямую интеграцию и CDMO/custom synthesis. Все перечисленные продукты — заявлено, не подтверждено: таможенных деклараций и B/L в рамках этой проверки не смотрел (по правилам роли не исследую объёмы и реестры), поэтому привязка кода к конкретной отгрузке не верифицирована. Вердикт по правилу 3: компания сохраняется, код исправляется на фактический (2812.10 / 2920.90 как основные), статус accepted_hs_corrected."
+}

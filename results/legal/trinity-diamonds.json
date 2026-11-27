@@ -1,0 +1,18 @@
+{
+ "name_input": "Trinity Diamonds",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам 'Trinity Diamonds CIN/GSTIN' выдавал только нерелевантные результаты (Trinity Health, Wikipedia и т.п.), т.е. ни одного индийского реестрового профиля найдено не было. Прямые обращения к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули HTTP 403 Forbidden, Google — 429. Таким образом, точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 не подтверждены — все поля null, цифры не выдумывались. Название 'Trinity Diamonds' не является уникальным и может соответствовать нескольким юрлицам (в т.ч. LLP, partnership или sole proprietorship без CIN), поэтому идентификация невозможна без дополнительных данных от заказчика (город, штат, GSTIN, PAN или контактные данные). Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3). Роль оставлена 'unknown'. Отмечаю расхождение во входных данных: заявленный HS 711319 (изделия из драгметаллов/бриллианты) не соответствует заявленной отрасли 'Продукты питания и FMCG' — по правилу 3 это не основание для отклонения, но требует уточнения у заказчика. Требуется повторная проверка при доступности реестровых источников."
+}
