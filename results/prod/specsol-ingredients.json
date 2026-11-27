@@ -1,0 +1,20 @@
+{
+ "name_input": "specsol ingredients",
+ "declared_hs": "290532",
+ "actual_hs_list": [
+  "130232",
+  "130239",
+  "350400",
+  "350790",
+  "110819",
+  "180500",
+  "130219",
+  "210111",
+  "040390",
+  "382499"
+ ],
+ "match_status": "wrong",
+ "product_summary": "SpecSol Ingredients LLP (specsol.in) describes itself as 'a value-added speciality ingredients and solutions partner for the Indian food & nutrition industry'. Its published ingredient portfolio (https://www.specsol.in/products) has seven lines: (1) Hydrocolloids & Gums — thickening/gelling/stabilising systems for dairy, sauces, beverages, bakery; (2) Modified Starches — texture/viscosity for soups, sauces, dairy, confectionery; (3) Plant Proteins — fortification/structure for beverages, nutrition, dairy alternatives, meat analogues; (4) Enzymes — baking, dairy, brewing, juice; (5) Cultures — yoghurt, cheese, fermented drinks, probiotics; (6) Coffee & Cocoa Substitutes — chicory and cereal-based alternatives for blends/RTD; (7) Plant Extracts — botanicals for flavour, colour, functionality, clean label. Locations: head office Chembur Mumbai, office+application lab Ahmedabad, warehouse Bhiwandi (https://www.specsol.in/contact). No petrochemical, glycol or glycol-ether product is listed anywhere on the site.",
+ "role_hint": "trader",
+ "comment": "HS 290532 = propylene glycol (1,2-propanediol), a petrochemical/glycol product. Nothing on the company's own site corroborates it: the entire published portfolio is food & nutrition ingredients (hydrocolloids, modified starches, plant proteins, enzymes, cultures, coffee/cocoa substitutes, plant extracts). Industry claim 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification — the actual industry is speciality food ingredients distribution. Per Rule 3 this is NOT a rejection ground: company stays in the base, code is corrected to the factual food-ingredient range. Indicative HS-6 mapping of the real lines: hydrocolloids/gums 130232 (guar gum), 130239 (other mucilages, e.g. locust bean, xanthan is actually 391390), plant extracts 130219, plant proteins 350400 (peptones/protein substances) or 210610 for protein concentrates, enzymes 350790, modified starches 350510, cultures 040390 / 210500-adjacent, coffee & cocoa substitutes 210111 (coffee extracts/preparations) and 180500 (cocoa powder) — chicory-based blends often 210130. These are indicative only: the site gives no product-level spec sheets, no CAS numbers and no brand/SKU list, so no single HS-6 can be pinned to an actual traded item. Role: trader/distributor — the site explicitly calls itself a 'distributor' and offers samples, spec sheets and sourcing, with a warehouse but no manufacturing plant mentioned; no trader signs beyond that (no manufacturer claim found). No customs line, B-L or GST record was checked in this task (out of scope), therefore every product line above is 'заявлено, не подтверждено' — the only evidence is the company's own website. Note: the declared 290532 may belong to a different entity or to an unlisted product line; it cannot be verified from public product information, so it is recorded as wrong rather than cannot_verify because the declared industry and the declared code are both contradicted by the company's own published portfolio."
+}

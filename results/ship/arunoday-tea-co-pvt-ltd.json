@@ -1,0 +1,8 @@
+{
+ "name_input": "ARUNODAY TEA CO PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/arunoday-tea-co-pvt-ltd and .../arunoday-tea-company-private-limited both returned only the page template: 'Shipments available for ARUNODAY TEA CO PVT LTD, refreshed daily' with 'Number of shipments by month: Loading...' — 0 shipment rows actually rendered (source counter: 0 rows seen). No bill-of-lading number, date, destination or HS code visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved: web_search backend was down ('no results (searx: <urlopen error [Errno 111] Connection refused>)') for the queries '\"Arunoday Tea\" export shipment bill of lading India' and '\"Arunoday Tea Company Private Limited\" Kolkata tea exporter'; volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных были недоступны (403 / JS-challenge / пустой шаблон ImportKey), поисковик не работал. Статус по экспорту и внутреннему рынку — unknown, а не none_found, поскольку отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Заявленный HS 090210/090220/090230/090240 (чай, неферментированный/ферментированный, в упаковках ≤3 кг и более) соответствует профилю чайного трейдера/производителя, но фактичность отгрузок не подтверждена ни одной записью. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при восстановлении доступа к volza/eximpedia или к таможенным выгрузкам."
+}

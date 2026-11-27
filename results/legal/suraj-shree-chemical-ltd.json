@@ -1,0 +1,18 @@
+{
+ "name_input": "Suraj shree chemical ltd",
+ "legal_name": "SURAJSHREE CHEMICALS LIMITED (as claimed by input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failure: web_search (DuckDuckGo/searx) returned connection refused or completely irrelevant results (unrelated US personal-name pages), and every public registry aggregator attempted returned HTTP 403/404 (zaubacorp.com, thecompanycheck.com, instafinancials.com, quickcompany.in, falconebiz.com, tofler.in). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrievable in this session, and nothing has been inferred or invented. No conclusion on existence, strike-off, liquidation or bankruptcy can be drawn, so the entity is NOT rejected under the project rules (rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy). Role left as 'unknown' - the claimed name contains 'Chemicals' while the declared HS 230990 is animal-feed preparations, but per the rules an HS mismatch is not a rejection ground and the role cannot be classified without registry data. Recommended next step: manual MCA master-data lookup by CIN/name and GST portal search for the legal name, plus the company's own audited filings for revenue."
+}
