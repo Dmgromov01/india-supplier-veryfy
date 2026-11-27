@@ -1,0 +1,18 @@
+{
+ "name_input": "STAR INTERNATIONAL PRODUCTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного реквизита. Поиск (DuckDuckGo/searx) был недоступен (connection refused), Bing возвращал нерелевантную общую выдачу по слову 'star' без учёта запроса; MCA master data, ZaubaCorp, Tofler и MastersIndia отдали 403/404. Входные данные противоречивы: 'legal_claimed' = 'RANGAN KARUPPUSAMY' — это имя физлица, а не название юрлица, что указывает на возможную форму sole proprietorship (тогда CIN отсутствует по определению, а PAN — личный PAN физлица, 4-й символ 'P'). Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации публично не найдены — все поля null, ничего не выдумано. Штат в запросе не заявлен (state_claimed пусто), поэтому сверку 'штат регистрации vs заявленный' провести невозможно. Роль определить нельзя: нет ни регистрационных данных, ни подтверждённого профиля GST, различающего manufacturer/trader. Выручка FY25/FY26 недоступна: для proprietorship аудиторская отчётность в открытом доступе не публикуется, официальных filings нет — null. ВАЖНО: отклонять НЕ следует — отсутствие данных в открытых источниках не равно несуществованию юрлица; оснований для rejected (ликвидация/банкротство/struck off) не найдено, статус — 'не проверено, данных нет'. Требуется первичный документ от поставщика: GST-сертификат (REG-06) или выписка с портала GST, PAN-карта, и для proprietorship — Udyam/Aadhaar-linked подтверждение имени владельца. HS 391610 (профили из полимеров) не проверялся по правилам проекта и основанием для отклонения не является."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "BHARAT BEAMS PRIVATE LIMITED",
+ "legal_name": "BHARAT BEAMS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified. All attempts to reach primary/secondary registry sources failed: MCA21 company master data (mca.gov.in) returned HTTP 403; Zauba Corp, TheCompanyCheck, FalconEBiz returned HTTP 403; InstaFinancials returned 404; DuckDuckGo search tool was down (connection refused) and Bing/Google returned only irrelevant results (Bollywood film 'Bharat'), so no CIN/PAN/GSTIN/incorporation record could be located. Therefore CIN, PAN, PAN holder type, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public/not retrievable in this session, and deliberately not guessed. No rejection applied: absence of retrievable records is not proof of non-existence, so the entity is kept with role 'unknown' pending manual MCA lookup. Note on input: declared HS 871639 (trailers/semi-trailers) does not match the claimed industry 'Авиастроение и транспорт' (aerospace) — per project rules this is not a rejection ground; HS should be corrected to the actual code once the company's real activity is confirmed. Also note the name 'Bharat Beams' suggests steel beams/structural products (HS 72xx/73xx) rather than trailers, so the declared HS is likely wrong and must be re-checked against actual invoices. Recommended next step: manual MCA master-data search by name and GST portal search by legal name to obtain CIN and GSTIN."
+}

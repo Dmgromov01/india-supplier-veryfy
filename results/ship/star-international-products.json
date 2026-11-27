@@ -1,0 +1,8 @@
+{
+ "name_input": "STAR INTERNATIONAL PRODUCTS",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey company page (https://importkey.com/countries/india/star-international-products) returned only a paywalled shell: \"Shipments available for STAR INTERNATIONAL PRODUCTS, refreshed daily\" — a marketing placeholder, not a record. Rows actually seen: 0 (no date, destination, HS code or B/L number displayed). Volza, Eximpedia, Trademo, ImportGenius and Seair all returned HTTP 403 / JS-challenge / 404 with 0 rows visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) was unavailable during this run (\"Connection refused\"), so no domestic-supply source could be located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники данных об отгрузках были недоступны (403/JS-challenge/paywall), поиск не работал. Поэтому статус unknown, а не none_found. Никаких дат, направлений, HS-кодов или номеров B/L не зафиксировано; выручка и объём экспорта — null (не публичны/не получены). Заявленный HS 391610 (профили из полимеров) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения. Компания сохраняется в базе; требуется повторная проверка при доступности importkey/volza/eximpedia."
+}
