@@ -1,0 +1,18 @@
+{
+ "name_input": "Green Lab Diamond",
+ "legal_name": "GREENLAB DIAMONDS LLP (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant cached results (Microsoft/CivicX pages) for the exact-name and LLPIN/GST queries. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT because they are absent, but because no public source could be read. No revenue figures found from audited accounts or official filings, so FY25/FY26 revenue = null (not estimated). Role left as 'unknown' - the claimed name contains 'LLP' and the declared HS 710491 (lab-grown diamonds) contradicts the input industry claim 'Food & FMCG'; per project rules this HS/industry mismatch is NOT a rejection ground and the company is retained in the database with the HS code to be corrected to the factual one. No rejection applied: no evidence of non-existence, strike-off, liquidation or bankruptcy was obtained either way. Recommended action: re-run verification when search/registry access is restored, checking MCA master data for the exact LLPIN of 'GREENLAB DIAMONDS LLP' and the GSTIN on the GST portal."
+}

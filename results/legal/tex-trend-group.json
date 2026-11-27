@@ -1,0 +1,18 @@
+{
+ "name_input": "Tex Trend Group",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. The input name 'Tex Trend Group' is a trade/brand style name, not a confirmed legal entity name; the input field 'legal_claimed' contains a person's name ('PARVIN BATRA'), which is a proprietor/partner/director name, not a company name, so no CIN/LLPIN can be matched. Search tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Google returned HTTP 429; Bing returned only irrelevant TeX/LaTeX results for both queries ('Tex Trend Group' India GST and 'Tex Trend' Parvin Batra), i.e. no matching Indian company surfaced; Zauba Corp and InstaFinancials returned HTTP 403; Tofler search returned 404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, not because they were checked and found absent. Revenue FY25/FY26 null: no audited accounts or official filings located. Role set to 'unknown' (cannot be classified as manufacturer/trader without a registry record; note that declared HS 630221 - bed/table/toilet/kitchen linen - is textiles, which contradicts the input industry claim 'Food & FMCG'; per project rules this is NOT a rejection ground, only a data-quality flag for the HS correction step). Per rules 1 and 3, this company is NOT rejected: non-existence was not established - the entity simply could not be confirmed either way. Recommended action: re-run with a working search backend and a confirmed legal name (e.g. 'Tex Trend', 'Tex Trend Exports', 'Tex Trend Pvt Ltd') or the proprietor's GSTIN/PAN, and check MCA master data directly."
+}

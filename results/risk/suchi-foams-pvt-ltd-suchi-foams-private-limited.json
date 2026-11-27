@@ -1,0 +1,9 @@
+{
+ "name_input": "SUCHI FOAMS PVT. LTD.; SUCHI FOAMS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: не удалось получить ни одного подтверждающего источника. Инструмент web_search возвращал ошибку бэкенда (searx: Connection refused) на всех запросах; прямые запросы к Google (HTTP 429), DuckDuckGo (timeout) и Bing давали нерелевантную выдачу (нормализация запроса ломалась — вместо 'Suchi Foams' выдавался 'sushi'). Реестровые агрегаторы закрыты: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, tofler.in — 404 по предполагаемому слагу (корректный слаг не установлен). Страница поиска OFAC Sanctions List Search открылась, но это только интерфейс без выполнения запроса — фактического скрининга по SDN/Non-SDN не проведено, поэтому sanctions_hit = null, а НЕ 'нет совпадений'. По судам (eCourts/NJDG), действиям регуляторов, кредитному рейтингу (CRISIL/ICRA/CARE/India Ratings) и связям с РФ/СНГ данных не собрано. Все поля оставлены null согласно правилу 'не выдумывать'. Требуется повторный прогон при доступном поиске; выводов о наличии или отсутствии рисков по данной компании делать нельзя."
+}

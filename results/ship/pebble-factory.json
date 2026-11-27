@@ -1,0 +1,8 @@
+{
+ "name_input": "PEBBLE FACTORY",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/pebble-factory and .../pebble-factory-pvt-ltd both returned only the generic template text: \"Shipments available for PEBBLE FACTORY, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no B/L numbers rendered. Rows actually seen: 0 of 0. volza.com/p/pebble-factory/ and eximpedia.app/companies/pebble-factory returned HTTP 403 (blocked), so no second-source rows could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend was down (\"searx: Connection refused\") on both attempts, DuckDuckGo HTML timed out, Google returned HTTP 429. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось из-за недоступности поиска и платных баз (volza/eximpedia 403, importkey — пустой шаблон без записей). Название «PEBBLE FACTORY» не является полным юрлицом (нет суффикса Pvt Ltd/LLP), CIN/PAN не заявлены — идентифицировать конкретное юрлицо по открытым источникам не удалось. Выручка: null (нет данных). Объём экспорта: null (нет данных). HS 251710 (галька, гравий, щебень) не проверялся по фактическим отгрузкам, так как записей нет; HS-несоответствие основанием для отклонения не является. Трейдер/производитель — роль не определена (unknown). Требуется повторная проверка при восстановлении доступа к поиску и таможенным базам."
+}

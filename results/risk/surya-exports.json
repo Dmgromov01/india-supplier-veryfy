@@ -1,0 +1,9 @@
+{
+ "name_input": "Surya Exports",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Google — HTTP 429, Bing по запросам «\"Surya Exports\" \"Suresh Pahwa\"», «\"Surya Exports\" India exporter \"Pahwa\"» и «\"Surya Exports\" India court case OR sanctions OR Russia» выдал только нерелевантные результаты о брендах Surya (surya.com, suryaliving.com, surya.co.in) — ни одного совпадения с заявленным названием/лицом. Идентификация юрлица невозможна: PAN, CIN, штат и адрес не заявлены, название «Surya Exports» крайне неспецифично и в Индии используется множеством мелких экспортёров. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), индийские судебные реестры (eCourts/NCLT), реестры регуляторов (RBI, SEBI, DGFT), кредитные рейтинги (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ по данному субъекту НЕ проверены — все поля null, а не «отрицательный результат». Требуется уточнение от заказчика: полное юрлицо, CIN/PAN, город/штат, IEC — без этого проверку рисков провести нельзя. Правило 2 соблюдено: оснований для отклонения нет, компания сохраняется в базе."
+}
