@@ -1,0 +1,18 @@
+{
+ "name_input": "PUJA'S PHARMACARE LLP",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поисковый бэкенд (searx/DuckDuckGo) был недоступен (connection refused / timeout), Bing по точным фразам \"PUJA'S PHARMACARE LLP\" и \"Puja's Pharmacare\" выдавал только нерелевантные результаты (индуистская пуджа, американские аптечные сети) — ни одного индийского реестрового профиля найдено не было. Прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули HTTP 403 Forbidden, Google — редирект-заглушку. Следовательно: точное юрлицо, LLPIN/CIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, публично не получены в рамках этой проверки. Отклонять НЕЛЬЗЯ: отсутствие подтверждения в открытых источниках не равно несуществованию юрлица (правило 3). Роль не определена (unknown) — данных о производственной деятельности нет. Расхождение в названии: заявлено 'PUJA S PHARMACARE LLP' против входного \"PUJA'S PHARMACARE LLP\" — не разрешено, требует сверки по MCA. Заявленный HS 390690 (акриловые полимеры) с названием 'Pharmacare' (фармацевтика) не согласуется — по правилу 3 это не основание для отклонения, но код требует проверки по фактической номенклатуре. Рекомендация: повторить проверку при доступности реестровых источников (MCA master data, GST-портал) или запросить у поставщика LLPIN/GSTIN напрямую."
+}

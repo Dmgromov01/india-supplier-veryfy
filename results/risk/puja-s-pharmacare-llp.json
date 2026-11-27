@@ -1,0 +1,9 @@
+{
+ "name_input": "PUJA'S PHARMACARE LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NO VERIFIABLE PUBLIC RECORD FOUND. Research date: 2026-11-23 (per project ruleset). Tools available were degraded: the DuckDuckGo/searx web_search backend returned 'Connection refused' on every attempt; Google returned HTTP 429; Bing ignored exact-phrase operators and returned only generic 'puja' (Hindu ritual) and US 'PharmaCare' pharmacy results, i.e. no relevant hits. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no name-level SDN/Non-SDN screen could be executed. Consequently: sanctions_hit = null (NOT screened — not a negative result); court_cases = null (no eCourts/NJDG/High Court record retrieved); rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found or searched successfully); news_risk = null (no negative news retrieved); rf_supply = null (no evidence of supplies to Russia or CIS found, and none could be searched). IMPORTANT: nulls here mean 'not public / not retrievable with available tools', NOT 'clean'. Also note the claimed legal name 'PUJA S PHARMACARE LLP' differs from the input name 'PUJA'S PHARMACARE LLP' — identity/legal-name verification is outside this role's scope and was not performed, but the discrepancy means any future sanctions screen must be run against both spellings plus variants (Pooja, Pharmacare/Pharma Care). Recommended next step before any decision: re-run an OFAC/EU/UK/BIS screen and an eCourts lookup manually once search access is restored. Per project rules, absence of sanctions or court data is never a rejection ground; this company should be carried as 'unverified' rather than rejected."
+}

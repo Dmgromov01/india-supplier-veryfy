@@ -1,0 +1,8 @@
+{
+ "name_input": "G.D. TOOLS & FORGINGS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/g-d-tools-forgings (and slug variant /gd-tools-forgings) returned only the generic paywall template: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows visible, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes rendered. Source counter: 2 importkey pages fetched, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches returned no results (search backend error: 'searx: <urlopen error [Errno 111] Connection refused>'); volza.com, eximpedia.app, trademo.com and zaubacorp.com all returned HTTP 403 Forbidden. Source counter: 4 sources attempted, 0 records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники были недоступны (поисковик не работал, торговые базы отдали 403 или пустой paywall-шаблон). Ни экспортных B/L записей, ни внутренних GST/тендерных подтверждений получить не удалось, поэтому оба статуса — unknown, а не none_found. Выручка и объём экспорта: null (не публичны/не получены), цифры не выдумывались. Заявленный HS 420292 (сумки/футляры) не соответствует профилю кузнечно-инструментального производителя (820330/820411/820412 — клещи, гаечные ключи); по правилу 3 это НЕ основание для отклонения — компания сохраняется в базе, фактический код подлежит уточнению при получении таможенных записей. Роль (manufacturer/trader) не установлена. Требуется повторная проверка при доступности volza/eximpedia/importkey с оплаченным доступом."
+}

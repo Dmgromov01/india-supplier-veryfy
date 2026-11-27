@@ -1,0 +1,18 @@
+{
+ "name_input": "Mittal Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. DuckDuckGo-бэкенд вернул 'Connection refused' на все запросы; zaubacorp.com и instafinancials.com отдали HTTP 403; thecompanycheck.com — 404; tofler.in — 404 на поисковый URL; Google — 429; Bing выдавал только нерелевантную выдачу про ArcelorMittal/Lakshmi Mittal (кэш без учёта кавычек и операторов). Входные данные неполные: legal_claimed='SURENDRA MITTAL' — это имя физлица, а не название юрлица; PAN и штат не заявлены. 'Mittal Industries' — крайне распространённое имя (проприетарные фирмы и Pvt Ltd в нескольких штатах), поэтому без PAN/GSTIN/штата однозначная привязка невозможна, а угадывать CIN/PAN/GSTIN запрещено правилами. Юрлицо НЕ отклонено: отсутствие подтверждения существования не равно доказательству несуществования (правило 3 — отклонение только при подтверждённой ликвидации/банкротстве/struck off). Роль оставлена unknown: по названию и HS 720529 (плоский прокат из железа/стали, горячекатаный, в рулонах) нельзя отличить производителя от трейдера. Выручка FY25/FY26 — null, аудированной отчётности не найдено. Требуется от поставщика: точное название юрлица, PAN, GSTIN или штат регистрации — после этого проверку можно завершить."
+}

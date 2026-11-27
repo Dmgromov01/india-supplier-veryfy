@@ -1,0 +1,18 @@
+{
+ "name_input": "G.D. TOOLS & FORGINGS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search backend returned connection errors ('Connection refused') for all queries, and direct fetches of public registry aggregators were blocked: zaubacorp.com returned HTTP 403, indiamart.com returned HTTP 429, Google returned HTTP 429, and Bing returned only irrelevant results (query terms were not honoured). Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited financials could be confirmed from a public source. Nothing is asserted here: all fields are null because they are unverified, not because the entity was found to be non-existent. Per project rules, rejection is NOT applied - absence of retrievable records is not evidence of non-existence, strike-off, liquidation or bankruptcy. The input itself is internally inconsistent and should be re-checked by the requester: 'legal_claimed' contains a personal name ('BASANT SINGH MOKHA'), which is a proprietor/partner name rather than a registered company name, suggesting this may be a sole proprietorship or partnership firm (which would have no CIN and possibly no MCA record, only a GSTIN and PAN). The declared HS codes (420292 leather goods/bags; 820330, 820411, 820412 hand tools - spanners, wrenches, files) are inconsistent with the claimed industry 'Food products and FMCG'; per rules this is NOT grounds for rejection - the company stays in the database and the HS code should be corrected to the actual one (hand tools / leather goods) with verdict accepted_hs_corrected. Role left as 'unknown' pending verification. Recommended next step: re-run with a working search backend, or supply the GSTIN or PAN directly so the legal entity, GST status and turnover can be confirmed from official filings."
+}

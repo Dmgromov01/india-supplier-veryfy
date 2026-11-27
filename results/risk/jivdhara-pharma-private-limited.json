@@ -1,0 +1,9 @@
+{
+ "name_input": "JIVDHARA PHARMA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: the primary web_search backend (searx) returned 'Connection refused' on all attempts; fallback fetches were blocked or returned irrelevant content (zaubacorp.com HTTP 403; google.com HTTP 429; duckduckgo.com timeout; bing.com returned unrelated pages about Target/MapQuest, i.e. no usable results for the query). The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded but is a JavaScript form and could not be queried via http_get, so no SDN/Non-SDN name match was actually executed — sanctions_hit is therefore null (NOT a negative/clear result). No UN, EU, UK OFSI or BIS Entity List screening was performed. No Indian court records (eCourts/NJDG/High Court), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or negative news could be retrieved. No evidence of supplies to Russia or CIS was found, but absence of evidence here reflects failed retrieval, not a confirmed absence. IMPORTANT DATA-QUALITY FLAG for the analyst: the record's legal_claimed field ('LUPIN MANUFACTURING SOLUTIONS LIMITED') does not match the name_input ('JIVDHARA PHARMA PRIVATE LIMITED') — these appear to be two different entities, so any risk data gathered for one may not apply to the other; this must be resolved before relying on this row. Per project rules, no rejection is proposed on this basis and no sanctions/court findings are treated as rejection grounds. Recommend re-running this company once search tooling is restored."
+}
