@@ -1,0 +1,18 @@
+{
+ "name_input": "Ergo Handlers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровая идентификация не выполнена: публичных подтверждений не найдено. Проверено 10 попыток доступа: web_search (DuckDuckGo/searx) недоступен (connection refused); Bing по запросам \"Ergo Handlers\" + GSTIN/CIN/IndiaMART выдаёт только нерелевантные результаты (ERGO Group AG, словарное 'ergo', Ergo Grips) — ни одной индийской записи с этим наименованием; zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com — HTTP 403; quickcompany.in — 404; mca.gov.in MDS — 403; Google — 429. Следовательно: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, GST-статус, дата инкорпорации, штат регистрации и MCA-статус — null (не публично доступны через доступные источники на момент проверки). Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. Роль — unknown: наименование 'Handlers' и HS 842691 (краны/подъёмные устройства, монтируемые на транспортные средства) намекают на торговлю/поставку техники, но подтверждения нет. ВАЖНО: отклонение НЕ применяется — нет данных о несуществовании, ликвидации, банкротстве или strike-off; отсутствие данных ≠ отсутствие компании. Требуется ручная проверка в MCA Master Data (поиск по 'ERGO HANDLERS' / 'ERGO HANDLER') и на GST-портале (search GSTIN by trade name) либо запрос CIN/GSTIN у поставщика. Также обратить внимание: заявленный HS 842691 относится к подъёмному оборудованию, а заявленная отрасль 'Металлургия и горнодобыча' — вероятно, отрасль потребления, а не производства; при подтверждении юрлица код и отрасль подлежат уточнению (правило: HS-несоответствие не является основанием для отклонения)."
+}

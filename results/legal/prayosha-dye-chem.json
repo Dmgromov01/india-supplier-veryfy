@@ -1,0 +1,18 @@
+{
+ "name_input": "PRAYOSHA DYE CHEM",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реквизита. Поисковая инфраструктура в этой сессии нерабочая: DuckDuckGo (searx) вернул 'Connection refused', Bing выдавал нерелевантные результаты (не по теме запроса), Google — HTTP 429, zaubacorp.com и instafinancials.com — HTTP 403, tofler.in — 404 на поисковый URL. Поэтому exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, дата инкорпорации, штат регистрации, MCA status и выручка FY25/FY26 остаются null — данные не публичны в доступных источниках либо не были получены. Важно: 'SHAMBHUBHAI MOHANBHAI DUDHAT' в поле legal_claimed — это имя физлица (формат 'Имя Отчество Фамилия', типично для proprietorship в Гуджарате), а не название юрлица; вероятно, речь о sole proprietorship, у которой нет CIN (только GSTIN/PAN), но подтвердить это не удалось. Роль оставлена 'unknown' (не подтверждено, производитель или трейдер). Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что тоже не установлено). Требуется повторная проверка при работающем поиске: искать GSTIN по имени проприетора в GST-реестре (gst.gov.in search taxpayer) и в профилях типа mastersindia/cleartax/gstsearch, а также проверить наличие товарного знака/фирменного наименования 'Prayosha Dye Chem' в реестре IP India. HS 320416 (синтетические органические красящие вещества) не проверялся — вне роли."
+}

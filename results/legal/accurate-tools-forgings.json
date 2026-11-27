@@ -1,0 +1,18 @@
+{
+ "name_input": "ACCURATE TOOLS & FORGINGS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input is internally inconsistent: the trade name given is 'ACCURATE TOOLS & FORGINGS' but the legal entity claimed is 'THE GLOBAL MERCHANTS' - no link between the two could be established. Tooling failures during this run: web_search backend returned 'Connection refused' (searx) for both queries; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com search returned HTTP 404; google.com returned HTTP 429; duckduckgo.com timed out; bing.com returned only generic dictionary/irrelevant results for both exact-phrase queries. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced from a public profile or official filing. Per project rules, nothing was invented: all unverifiable fields are null. No rejection is proposed - absence of verifiable data is not evidence of non-existence, and the entity was not found to be struck off, liquidated or bankrupt. Role left as 'unknown' (no evidence of manufacturing plant or trading activity). HS 820570 (hand tools: vices, clamps) was not assessed as this role covers legal/registry only. Recommended next step: re-run with working search access, or obtain the CIN/GSTIN directly from the supplier, then verify on mca.gov.in and the GST portal."
+}

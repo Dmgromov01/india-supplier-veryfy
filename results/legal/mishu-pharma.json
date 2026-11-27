@@ -1,0 +1,18 @@
+{
+ "name_input": "MISHU PHARMA",
+ "legal_name": "MISHU PHARMA (unverified; claimed proprietor name: MUKESH BHANWARSINGH TANWAR)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search backend returned connection errors and then unrelated results (searx/DDG/Bing all unusable), and direct fetches of registry/profile sources were blocked: zaubacorp.com 403, instafinancials.com 403, mca.gov.in 403, gstincheck.co.in 404, Google 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. The input gives no state, so state_claimed is null and no registered-vs-claimed state comparison is possible. The claimed 'legal entity' string 'MUKESH BHANWARSINGH TANWAR' is a personal name, which suggests a sole proprietorship rather than a company; a proprietorship has no CIN and its PAN would be an individual PAN (4th character 'P'), but this is an inference from the name format only and is NOT confirmed by any source. No audited accounts or official filings were found, so revenue FY25/FY26 are null. Per project rules, no rejection is made: non-existence/struck-off/liquidation/bankruptcy is unproven, and the entity is retained with role 'unknown'. Recommended follow-up: re-run against MCA master data and a GSTIN lookup once search/registry access is restored, and confirm whether the supplier is a proprietorship (PAN-based) or a registered company."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "PRIMO AUTOMATION SYSTEMS PRIVATE LIMITED",
+ "legal_name": "PRIMO AUTOMATION SYSTEMS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Google returned HTTP 429; Bing returned only irrelevant US consumer-brand results (Primo Water/Primo Brands) and ignored the quoted company name, so no Indian registry hit was produced. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, falconebiz.com HTTP 403, instafinancials.com HTTP 404, tofler.in HTTP 404 (no company page at the guessed slug). Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings were located, and no figures are estimated. Role recorded as 'unknown' because manufacturer vs trader status cannot be established from registry data alone. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity simply could not be checked. Note also that the declared HS code '845921' is not a valid 6-digit HS heading as written (HS 8459 covers boring-milling machines; 8459.21 is a valid subheading for numerically controlled boring-milling machines), but per the 23.11.2026 rule HS mismatch is not a rejection ground and the code should be corrected to the factual one. Recommended action: re-run verification against MCA master data / GST portal with working search access before any verdict."
+}
