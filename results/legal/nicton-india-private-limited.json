@@ -1,0 +1,18 @@
+{
+ "name_input": "NICTON INDIA PRIVATE LIMITED",
+ "legal_name": "NICTON INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Все попытки получить данные провалились по техническим причинам: web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; Bing и Google через http_get отдали нерелевантную выдачу (калькуляторы, Google Translate) — то есть поиск по названию фактически не выполнился; профильные реестровые источники закрыты: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, mca.gov.in (Master Data) — HTTP 403, instafinancials.com — HTTP 404, tofler.in — HTTP 404, search.marcia.com — таймаут. Таким образом CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 остаются null — данные не публичны в доступных источниках либо недоступны из-за блокировок. Роль определена как 'unknown': по названию и заявленному HS 240412 (изделия, содержащие табак/никотин) отнести компанию к manufacturer или trader без подтверждения нельзя. ВАЖНО: отклонять компанию НЕЛЬЗЯ — отсутствие данных не является основанием для rejected (правило 3: отклонение только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP или к поисковому бэкенду."
+}

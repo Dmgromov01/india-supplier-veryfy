@@ -1,0 +1,8 @@
+{
+ "name_input": "INDER SINGH AND SONS",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/inder-singh-and-sons (and slug variant /inder-singh-sons) returned only the generic page shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — zero shipment rows rendered, no date, destination, HS code or bill-of-lading number visible. Source counter: 2 importkey pages fetched, 0 shipment records seen.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Searches for \"INDER SINGH AND SONS\" India exporter and \"Inder Singh and Sons\" GST turnover returned no results (search backend error: \"searx: <urlopen error [Errno 111] Connection refused>\"), so no domestic supply record was retrieved. Source counter: 2 search queries attempted, 0 usable results.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Проверено: 2 варианта слага importkey (пустая оболочка без строк отгрузок), volza/eximpedia/trademo вернули HTTP 403, поисковый бэкенд недоступен (connection refused), прямой запрос к Google — редирект без результатов. Заявленный HS 848310 (валы трансмиссионные, подшипниковые корпуса) ничем не подтверждён и не опровергнут — HS не проверялся по фактическим записям, поэтому не корректируется. Выручка и объём экспорта: null (данных нет, не выдумывались). Юрлицо не отклоняется: отсутствие публичных данных об отгрузках не является основанием для rejected по правилам проекта; статус — 'заявлено, не подтверждено' по факту отгрузок, требуется повторная проверка при доступности таможенных источников."
+}

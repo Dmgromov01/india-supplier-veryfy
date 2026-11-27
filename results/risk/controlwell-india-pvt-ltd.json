@@ -1,0 +1,9 @@
+{
+ "name_input": "CONTROLWELL INDIA PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, сайт controlwellindia.com не резолвится (DNS), zaubacorp.com отдал 403, Bing по запросу \"Controlwell India\" Private Limited выдал только нерелевантную выдачу (квизы ProProfs/Reddit) — то есть релевантных страниц о компании не найдено. OFAC Sanctions List Search открылся, но это интерактивная форма без возможности передать параметры через GET, поэтому фактический скрининг по SDN/Non-SDN не выполнен — статус по санкциям остаётся НЕПРОВЕРЕННЫМ, а не 'чисто'. По судам (NCLT/NCLAT/High Court/eCourts), действиям регуляторов, кредитному рейтингу (CRISIL/ICRA/CARE/India Ratings) и поставкам в РФ/СНГ публичных данных получить не удалось. Все поля null — данные не выдумывались. Требуется повторный прогон при восстановлении доступа к поиску; приоритетные источники: OFAC SDN/Consolidated list (полный XML-дамп), BIS Entity List, EU/UK consolidated lists, eCourts/NCLT, сайт и IndiaMART-профиль компании. Отклонять компанию по этим данным нельзя (правило 3) — статус 'не проверено', не 'rejected'."
+}
