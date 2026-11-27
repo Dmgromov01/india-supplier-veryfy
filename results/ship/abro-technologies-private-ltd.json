@@ -1,0 +1,8 @@
+{
+ "name_input": "ABRO TECHNOLOGIES PRIVATE LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/abro-technologies-private-ltd returned only a generic template shell: 'Shipments available for ABRO TECHNOLOGIES PRIVATE LTD, refreshed daily' — zero actual shipment rows rendered (0 rows seen vs. a claimed 'Shipments available' counter). No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Bing queries for '\"ABRO TECHNOLOGIES PRIVATE LIMITED\" export shipment OR GST OR tender' and '\"ABRO TECHNOLOGIES\" \"PRIVATE LIMITED\" India company Zauba OR Tofler OR GeM' returned only unrelated ABRO-brand pages (abro.com, abro.de, abro-usa.com, Wikipedia ABRO/Abro tribe) — 0 relevant rows.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. ImportKey отдал пустой шаблон без записей; volza, eximpedia, trademo и importgenius вернули HTTP 403 / JS-challenge, DuckDuckGo-эндпоинт недоступен (timeout / connection refused), поэтому проверить вторые источники не удалось. Статус 'unknown', а не 'none_found', только потому, что платные базы были недоступны — это не подтверждение отсутствия отгрузок. Заявленный HS 903110 (весы/измерительные приборы) ничем не подтверждён: ни одной таможенной записи с этим кодом не видно. Выручка и объём экспорта: null (не публичны / не найдены). Юрлицо, CIN, PAN и штат не подтверждены — реестры вне области проверки. Трейдер не отклоняется; для окончательного вердикта нужен платный доступ к таможенным данным или документы от поставщика (B/L, shipping bill, GST-декларации)."
+}

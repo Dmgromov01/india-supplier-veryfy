@@ -1,0 +1,18 @@
+{
+ "name_input": "IMB BEARINGS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google — HTTP 429, Bing игнорировал условия запроса и выдавал нерелевантные результаты (IMDb, IBM, IMB Bank). Агрегаторы реестров недоступны: zaubacorp.com — HTTP 403, tofler.in — 404 на поиске, instafinancials.com — 404. Никаких данных о юрлице, CIN, PAN, GSTIN, дате регистрации, штате и выручке получить не удалось, поэтому все поля null — цифры и идентификаторы не выдумывались. ВАЖНО: 'MANJIT SINGH SURI' в поле legal_claimed — это имя физлица (вероятного владельца/проприетора), а не название юрлица; 'IMB BEARINGS' может быть незарегистрированным торговым наименованием или proprietorship (тогда CIN отсутствует по определению, а PAN — личный PAN физлица, 4-й символ 'P'). HS 848320 (корпусы подшипников) не проверялся — по правилам проекта несоответствие HS не является основанием для отклонения. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию/ликвидации. Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам."
+}

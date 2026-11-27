@@ -1,0 +1,18 @@
+{
+ "name_input": "HINDUSTAN INOX LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: инструменты поиска в этой сессии неработоспособны. web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; http_get к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдал HTTP 403 Forbidden; google.com — HTTP 429; duckduckgo.com/html — timeout; bing.com возвращал нерелевантную выдачу (игнорировал поисковые операторы, подставлял посторонние результаты), поэтому использовать его как источник нельзя. Вследствие этого НЕ подтверждено: точное юр. наименование (заявлено 'HINDUSTAN INOX LIMITED'), CIN/LLPIN, PAN и тип держателя по 4-му знаку, GSTIN и статус GST, дата инкорпорации, штат регистрации, статус в MCA, роль (manufacturer/trader/...), выручка FY25 и FY26. Все поля оставлены null — данные не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица из-за сбоя инструментов не равно доказанному отсутствию/ликвидации/банкротству. Компания сохраняется в базе со статусом 'не проверено, требуется повторный прогон'. Заявленный HS (722211;722220;722300;730640 — сортовой и трубный прокат нерж. стали) по правилам проекта не является основанием для отклонения; код подлежит сверке с фактическим при следующей проверке. Рекомендация: повторить проверку при доступных реестрах (MCA master data, GST-портал) — минимум 3 источника на поле."
+}

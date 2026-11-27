@@ -1,0 +1,18 @@
+{
+ "name_input": "Bolas Agro Private Limited",
+ "legal_name": "BOLAS AGRO PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified. Tooling failed during this run: DuckDuckGo/searx backend refused connections, zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials 403, Google 429, Bing returned only generic 'bolas' (weapon) results with no company-registry hit. Only public trace found: brand website bolas.co.in (dry fruits, nuts, dates, seeds, oils, sweets; claims own processing factory and sourcing from 25+ countries) - a brand site, not a registry record, so it does not establish legal entity, CIN, PAN, GSTIN, incorporation date, state of registered office, MCA status or revenue. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures are asserted here because none could be read from an official/public filing; all such fields set to null per rules (do not invent). No basis for rejection: entity existence/struck-off/liquidation status is UNKNOWN, not disproven - do not reject on absence of data. Role left 'unknown' (site language suggests processing/manufacturing plus trading, but unverified). Declared HS 090111/090210/090220 (coffee, unroasted; tea, green/black in retail packs) does not match the observed dry-fruit/nut/seed product range - flag for HS correction review only, not a rejection ground. Recommended next step: manual MCA master-data lookup by exact name and GST portal search by legal name to obtain CIN, PAN, GSTIN, incorporation date and state, plus FY25/FY26 audited revenue."
+}

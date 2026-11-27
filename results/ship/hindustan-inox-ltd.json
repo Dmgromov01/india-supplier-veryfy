@@ -1,0 +1,8 @@
+{
+ "name_input": "HINDUSTAN INOX LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. ImportKey page https://importkey.com/countries/india/hindustan-inox-ltd rendered only a JS shell: 'Shipments available for HINDUSTAN INOX LTD, refreshed daily' — 0 actual shipment rows visible (source counter: page claims data exists, rows actually seen: 0). Volza, Eximpedia, Trademo, ImportGenius, ZaubaCorp and TheCompanyCheck all returned HTTP 403 / JS challenge; DuckDuckGo search backend was down (connection refused) and Bing returned only generic 'Hindustan' news results with no bill-of-lading, date, destination or HS line for this company.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split retrieved. No accessible public record was read for this company; nothing to quote.",
+ "note": "Следов поставок не найдено в доступных источниках — но это результат недоступности источников, а не доказательство отсутствия отгрузок, поэтому статус unknown, а не none_found. Ни одной записи с датой, направлением, HS-кодом и номером B/L получить не удалось; выручка и объём экспорта — null (не выдумывать). Заявленные HS 722211;722220;722300;730640 (плоский прокат нерж. стали, сварные трубы) не подтверждены и не опровергнуты. Требуется платный доступ к India customs export data (ImportKey/Volza/Eximpedia) или проверка по DGFT/IEC и GST-порталу для закрытия пробела."
+}

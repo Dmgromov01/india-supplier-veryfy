@@ -1,0 +1,19 @@
+{
+ "name_input": "M/S BIKANERVALA FOODS PRIVATE LIMITED; M/S BIKANERVALA FOODS P.LTD.; BIKANERVALA FOOD PRIVATE LIMITED; BIKANERVALA FOODS PVT . LTD; BIKANERVALA FOODS PRIVATE LIMITED",
+ "declared_hs": "040310;190540;190590;210690",
+ "actual_hs_list": [
+  "170490 (sugar confectionery incl. mithai/khoya burfi/kaju katli/soan papdi — not declared)",
+  "190590 (rusk, matthi, cookies, cake rusk, papad-adjacent baked goods)",
+  "190540 (rusk/toasted bread products — partially covered by 190590 line)",
+  "210690 (food preparations NEC: ready-to-eat gravies/rice/paneer, namkeen mixtures, dragees)",
+  "200819 / 0802 (roasted nuts, bhujia-sev dals, dried fruits — not declared)",
+  "190410 / 190420 (extruded/expanded snacks, chips, khakhra — not declared)",
+  "180690 (chocolates, chocolate drinks — not declared)",
+  "220299 (beverages: badam/chocolate/thandai drinks — not declared)",
+  "040310 (yoghurt-based — no such product found on site)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official sites bikanervala.com and bikano.com (Bikano is the packaged-FMCG brand of Bikanervala Foods Pvt. Ltd., head office A-28 Lawrence Road Industrial Area, New Delhi 110035 — stated on bikano.com footer) list: fresh and packed mithai (Kaju Katli, Badam Burfi, Khoya Burfi, Dhoda Burfi, Besan Burfi, Mysore Pak, Karachi Halwa, Sohan Halwa, Patisa, Kheer Kadam, Kaju Paan, Rasogolla, Soan Papdi, Soan Cake); namkeen (Bikaneri Bhujia, Aloo Bhujia, Bhujia & Sev, Nuts & Dals, Mixture, Boondi); bakery (cookies, cake rusk, rusk, matthi); ready-to-eat (gravies, rice, paneer); papad (Amritsari, Kali Mirch, Punjabi); khakhra; chips/extruded snacks (Crunchy Munchy, Chatax, Sticks); beverages (Badam Drink, Chocolate Drink, Thandai); chocolates and dragees; dried fruits (strawberry, kiwi, blueberry); gajjak/gur rewri; gift hampers. Also restaurant/catering operations (Bikanervala restaurants in India, Nepal, UAE, USA, UK, Singapore, Qatar, Canada, Bahrain, Australia) — a services line outside HS scope.",
+ "role_hint": "manufacturer_trader — own manufacturing/brand (Bikano, Bikanervala) plus retail/restaurant and gifting/trading activity; no trader-only signs such as third-party brand resale dominance.",
+ "comment": "Сверка с сайтом: declared 040310/190540/190590/210690 покрывают лишь часть ассортимента. 190590 подтверждён (руск, маттхи, печенье, соан папди как печёное/кондитерское). 210690 подтверждён частично (RTE-блюда, миксы, драже). 190540 — избыточен/дублирует 190590, отдельной линии «сухари/тосты» как самостоятельного продукта не выделено. 040310 (йогурт) — на сайте продукта не найдено, вероятно ошибочный код. Крупные пропуски в декларации: 170490 (основная масса митхая — каджу катли, бурфи, халва, патиса, соан папди в сахарной группе), 200819/0802 (наmкин, жареные орехи, сухофрукты), 190410/190420 (чипсы, экструдированные снеки, кхакхра), 180690 (шоколад, шоколадные напитки), 220299 (напитки). Отраслевая классификация «Продукты питания и FMCG» корректна. Все перечисленные товары — заявлено по каталогу сайта, не подтверждено таможенной линией: статус «заявлено, не подтверждено». HS-несоответствие не является основанием для отклонения — компания сохраняется, коды корректируются на фактические (accepted_hs_corrected)."
+}

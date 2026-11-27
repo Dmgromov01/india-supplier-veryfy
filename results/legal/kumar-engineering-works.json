@@ -1,0 +1,18 @@
+{
+ "name_input": "Kumar Engineering Works",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing отдавал нерелевантную выдачу (игнорировал кавычки и операторы site:), а реестровые агрегаторы (zaubacorp.com, instafinancials.com) отвечали HTTP 403, thecompanycheck — 404. Никаких CIN/LLPIN, PAN, GSTIN, даты инкорпорации, статуса MCA и выручки подтвердить не удалось — все поля null, цифры не выдумывались. Название 'Kumar Engineering Works' типично для proprietorship/partnership без CIN, но это предположение, а не факт. Отклонять НЕЛЬЗЯ: отсутствие данных не равно отсутствию юрлица (правило 3). Роль — unknown (заявленные HS 6912/7323 не проверялись по каталогам согласно роли). Требуется повторная проверка при доступном реестре (MCA master data, GST-портал по названию/состоянию)."
+}
