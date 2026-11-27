@@ -1,0 +1,18 @@
+{
+ "name_input": "DECCAN NUTRACEUTICALS PRIVATE LIMITED",
+ "legal_name": "DECCAN NUTRACEUTICALS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on both queries, and direct fetches of public registry/profile pages were blocked: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 403), mca.gov.in Master Data (HTTP 403). Bing/Google/DuckDuckGo fallbacks returned irrelevant or rate-limited results (HTTP 429 / timeout), so no page confirming the CIN, PAN, GSTIN, incorporation date or registered-office state was actually read. Per project rules, nothing is inferred or invented: CIN, PAN, GSTIN, incorporation date, MCA status and revenue are all null because no official filing or audited account was retrieved. No rejection is proposed - absence of retrievable data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, and the rejection criteria are not met on the available record. Role left as 'unknown' (no evidence of manufacturing plant, GST turnover or trading activity). Declared HS 293329 (heterocyclic compounds containing an unfused pyrazole ring - a pharmaceutical/chemical intermediate code) is noted as claimed only; per the 23.11.2026 rule, HS mismatch is not a rejection ground and no correction can be made without a verified actual code. Recommended next step: re-run against MCA Master Data / GST public search with a working search backend, or supply the CIN or GSTIN from the supplier directly."
+}

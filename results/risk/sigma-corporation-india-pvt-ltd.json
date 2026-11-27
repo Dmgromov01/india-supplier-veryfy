@@ -1,0 +1,9 @@
+{
+ "name_input": "Sigma Corporation (India) Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no findings, not a clean bill of health. Tooling failure: primary search backend (DuckDuckGo/searx) returned 'Connection refused' on all attempts; Google returned HTTP 429; Bing returned only generic 'Sigma' brand results (Sigma-Aldrich, Sigma camera lenses, Sigma Computing, SigmaCare) and ignored exact-phrase operators, so no page referencing an Indian entity named 'Sigma Corporation (India) Private Limited' was ever retrieved. Consequently: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = NOT VERIFIED, not 'no hit'; Indian court cases (party role, status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency, date, status) = NOT VERIFIED; evidence of supplies to Russia or CIS = NOT VERIFIED. All fields set to null per rule 4 (do not invent data). No CIN, PAN, rating figure, case number or shipment record is asserted anywhere in this record. Recommended next step: re-run with a working search backend and check MCA master data, NCLT/NCLAT and e-courts by CIN, plus OFAC SDN, EU consolidated, UK OFSI and BIS Entity List name searches, before any risk conclusion is drawn. Per rule 2, any sanctions/court/criminal findings that do surface are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}
