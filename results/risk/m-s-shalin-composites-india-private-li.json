@@ -1,0 +1,9 @@
+{
+ "name_input": "M/s SHALIN COMPOSITES (INDIA) PRIVATE LI",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Google returned HTTP 429; Bing returned only irrelevant results (recipe/Reddit pages) for both quoted queries, i.e. no genuine index hits surfaced; ZaubaCorp and InstaFinancials returned HTTP 403. What WAS checked: (1) OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov) loaded successfully — SDN list last updated 11/23/2026, Non-SDN 11/4/2026 — but the tool is a JS form and no query could be submitted via http_get, so NO name match was actually performed; sanctions_hit is therefore null, NOT a clean result. (2) Indian Kanoon exact-phrase search for \"Shalin Composites\" returned 'No matching results' — a genuine negative for indexed judgments/tribunals under that exact name. (3) Indian Kanoon loose search 'Shalin Composites India' returned 71 hits but all were false positives on the separate tokens 'Shalin Mehta' (senior advocate) and 'Gujarat Composite Limited' — none involve the subject company. No credit rating (CRISIL/ICRA/CARE/India Ratings) found; no regulator action or negative news found; no evidence of supplies to Russia or CIS found — but absence here reflects search failure, not verified absence. Per project rules this company is NOT rejected: no evidence of non-existence, liquidation or bankruptcy was found, and sanctions/court matters would not be rejection grounds in any case. Recommend re-run when search backend is restored, with manual OFAC/UN/EU/UK/BIS entity-list lookups and a paid registry pull (MCA/Zauba) for the exact registered name, since the input name is truncated ('PRIVATE LI') and the legal identity was out of scope for this role."
+}

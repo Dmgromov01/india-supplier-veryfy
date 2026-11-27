@@ -1,0 +1,9 @@
+{
+ "name_input": "DHARA LIFESCIENCE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure during this run: the web_search backend returned 'Connection refused' on all attempts; Bing HTML results were corrupted/irrelevant (returned Google Docs and Meijer retail pages instead of the queried entity); ZaubaCorp returned HTTP 403; the OFAC Sanctions List Search page loaded but is an interactive form that cannot be queried via plain HTTP GET, so no name match was actually executed. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all reported as null - NOT as 'clean'. Absence of a hit here must not be read as absence of risk. Recommended follow-up: (1) query OFAC Sanctions List Search and the consolidated non-SDN list by name, plus UN Consolidated, EU FSF and UK OFSI lists; (2) search eCourts/NJDG and the National Company Law Tribunal by company name for civil, criminal and insolvency matters; (3) check SEBI/RBI/state pollution board and customs enforcement actions; (4) check CRISIL/ICRA/CARE/India Ratings for any rated instrument; (5) check trade-data and customs sources for Russia/CIS destinations. Note per project rules: sanctions, court cases and criminal matters are never rejection grounds - they are recorded neutrally only."
+}

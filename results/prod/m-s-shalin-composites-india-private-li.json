@@ -1,0 +1,16 @@
+{
+ "name_input": "M/s SHALIN COMPOSITES (INDIA) PRIVATE LI",
+ "declared_hs": "842121",
+ "actual_hs_list": [
+  "842121",
+  "39269099",
+  "39251000",
+  "84219900",
+  "84145900",
+  "84198999"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт shalincomposites.com (главная страница, раздел Products) перечисляет реальный ассортимент: FRP pressure vessels (стандартные и custom-made), polisher vessels, PP-FRP pressure vessels, PVDF-FRP pressure vessels, dual laminate pressure vessels, non-regenerative mixed bed vessels, FRP MB vessels (mixed bed), Y/T/basket strainers, self-cleaning filters & strainers, FRP sand media filter for drip irrigation, cartridge filters и FRP cartridge filter housings, vessels for ultrapure water, FRP chemical tanks, FRP centrifugal blowers, static mixers, degassing systems, FRP pulsation dampers. Профиль — производитель композитного (FRP/GRP) оборудования для водоподготовки, опреснения и химии; заявлен опыт 25+ лет, родительская компания D.M. Engineering Co. (с 2002). Адрес по сайту: Plot No. 8-11, Survey No. 32, Village Vevoor, Ganesh Nagar, Palghar East, Mumbai 401404, Maharashtra.",
+ "role_hint": "manufacturer (собственное производство FRP-оборудования; признаков трейдера на сайте нет)",
+ "comment": "HS 842121 («оборудование для фильтрования/очистки воды») подтверждается частично: он корректно покрывает cartridge filter housings, sand media filters, self-cleaning filters, strainers и, с оговоркой, корпуса мембранных установок/сосуды под давлением для водоподготовки — это ядро ассортимента, поэтому код оставляем как основной. Однако декларация неполна: (1) FRP chemical tanks и FRP vessels общего/химического назначения ближе к 3925 10 00 (резервуары из пластмасс) либо 3926 90 99 для прочих изделий из пластмасс; (2) FRP centrifugal blowers — 8414 59 00; (3) static mixers, degassing systems, FRP pulsation dampers — 8419 89 99 / 8479 89 99 (в зависимости от исполнения); (4) запасные части/элементы (мембраны, картриджи, насадки) — 8421 99 00. Отраслевая классификация «Нефтегаз и химия» неточна: фактическое ядро — водоподготовка/опреснение (water & desalination), химия — вторичный сегмент (chemical tanks, PVDF/PP-FRP vessels). Признаков трейдера не выявлено. Все перечисленные позиции — заявлено на сайте, не подтверждено таможенными/экспортными записями (в рамках этой роли таможенные данные не проверялись): статус «заявлено, не подтверждено». Внутренние страницы каталога (products/*, about-us) отдают HTTP 302 redirect loop, поэтому детальные спецификации (рабочее давление, DN, материалы) не верифицированы — null. Коды HS-6 выше — экспертное отображение по типу изделия, не подтверждённые декларации. Отклонение по HS не применяется (правило 3): компания сохраняется, вердикт accepted_hs_corrected с расширением номенклатуры."
+}

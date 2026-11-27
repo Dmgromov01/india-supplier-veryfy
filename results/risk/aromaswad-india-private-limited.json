@@ -1,0 +1,9 @@
+{
+ "name_input": "AROMASWAD INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Coverage was severely limited: the web_search backend returned connection errors on every attempt (searx: Connection refused), so no open-web news sweep was possible. Direct checks performed: (1) Indian Kanoon full-text search for \"Aromaswad\" and \"Aromaswad India\" — 'No matching results' in both cases (https://indiankanoon.org/search/?formInput=%22Aromaswad%22 and .../%22Aromaswad%20India%22), i.e. no reported judgments/orders naming the company found; this is NOT proof of zero litigation, only absence in that database. (2) OFAC Sanctions List Search page loaded (SDN list last updated 11/23/2026) but it is a JavaScript form and cannot be queried via plain HTTP GET, so no name match was actually executed — sanctions_hit is therefore null, NOT a cleared status; UN/EU/UK consolidated lists and the BIS Entity List were not queried at all. (3) Zauba Corp returned HTTP 403, MCA master-data portal returned HTTP 403, Tofler search returned a 404 page, and Google returned HTTP 429 — so no registry, credit-rating (CRISIL/ICRA/CARE/India Ratings) or negative-news record could be retrieved. No credit rating found or verifiable: null. No evidence of supplies to Russia or the CIS found, but this reflects zero search coverage rather than a negative finding: null. Per project rules, nothing here is a rejection ground; the company is retained. Recommended follow-up before any decision: re-run OFAC/UN/EU/UK/BIS name screening manually, and check MCA/e-courts/NCLT by CIN once the legal-identity step supplies it. All fields left null because nothing public was retrievable — no values were inferred or invented."
+}

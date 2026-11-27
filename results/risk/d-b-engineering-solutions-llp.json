@@ -1,0 +1,9 @@
+{
+ "name_input": "D.B.ENGINEERING SOLUTIONS LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google — HTTP 429, DuckDuckGo HTML — timeout; Bing и Brave игнорировали запрос/блокировали (429), реестры Tofler и ZaubaCorp — HTTP 403. Единственный успешно открытый источник — страница поиска OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/), но это только интерфейс без результатов: фактический запрос по имени 'D.B. Engineering Solutions LLP' выполнить не удалось, поэтому sanctions_hit = null (не подтверждено отсутствие, и не подтверждено наличие). Никаких данных о судебных делах (Indian Kanoon / eCourts), рейтингах (CRISIL/ICRA/CARE/India Ratings), регуляторных действиях, негативных новостях или поставках в РФ/СНГ получить не удалось — все поля null, а не 'отсутствует'. Отсутствие данных НЕ является основанием для отклонения (правило 2 и 3): компания сохраняется в базе, вердикт по рискам — 'не проверено, требуется повторный прогон'. Рекомендация: повторить проверку при доступном поиске, минимум по (1) OFAC SDN/SSI, UN Consolidated, EU FSF, UK OFSI, BIS Entity List по точному имени и вариантам 'DB Engineering Solutions', (2) Indian Kanoon и eCourts по названию LLP и именам партнёров (имена партнёров не установлены — нужен MCA-профиль), (3) сайт MCA для состава партнёров и статуса LLP. Никакие CIN/PAN/номера дел не выдумывались."
+}

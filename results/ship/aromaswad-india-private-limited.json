@@ -1,0 +1,8 @@
+{
+ "name_input": "AROMASWAD INDIA PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/aromaswad-india-private-limited returned only a paywalled shell: \"Shipments available for AROMASWAD INDIA PRIVATE LIMITED, refreshed daily\" — no rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Source counter: 0 shipment rows actually seen (page advertises data but displays none).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Searches for the entity returned no relevant hits (DuckDuckGo/searx backend refused connections; Bing returned only unrelated OpenAI pages, i.e. zero matches for the company name).",
+ "note": "Следов поставок не найдено — ни экспортных записей, ни внутренних поставок подтвердить не удалось. Все четыре источника данных о фактических отгрузках оказались недоступны для чтения: importkey — платная заглушка без строк (0 записей), volza.com и eximpedia.app — HTTP 403, trademo — HTTP 403, importgenius — JS-челлендж. Поисковые системы не работали (searx connection refused, DuckDuckGo timeout) либо не дали совпадений. Поэтому статус по обоим направлениям — unknown, а не none_found: отсутствие доступа к данным не равно отсутствию отгрузок. Выручка и объём экспорта — null (не публичны, не выдумывались). Заявленный HS 210690 (продукты питания) не проверен по таможенным записям; оснований для отклонения нет — юрлицо не проверялось на ликвидацию/банкротство в рамках этой роли. Требуется повторная проверка при восстановлении доступа к volza/eximpedia или при получении выгрузки таможенных записей."
+}

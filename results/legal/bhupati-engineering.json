@@ -1,0 +1,18 @@
+{
+ "name_input": "Bhupati Engineering",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый факт не подтверждён. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing отдавал нерелевантную выдачу (Google Translate, инвалидные кресла) — то есть фактически поиск не работал. Прямые запросы к реестровым агрегаторам заблокированы или пусты: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, thecompanycheck.com — HTTP 404, tofler.in — HTTP 404 (страница поиска не существует по этому URL). MCA-портал (mca.gov.in) и GST-портал в рамках лимита инструментов проверить не удалось. ВАЖНО: 'KAPIL AGGARWAL' в поле legal_claimed — это имя физлица (вероятно, проприетор/партнёр/директор), а не название юрлица; форма организации (sole proprietorship / partnership / Pvt Ltd) не установлена. PAN, CIN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус, выручка FY25/FY26 — null, публично не подтверждены в рамках этой проверки. Роль (manufacturer/trader) не определена — null/unknown. HS 730900 (резервуары, цистерны, баки из чёрных металлов) заявлен, но фактический код не сверен. Отклонять НЕ следует: отсутствие данных — не основание для rejected по правилам проекта; статус — 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к MCA/GST-порталам."
+}
