@@ -1,0 +1,9 @@
+{
+ "name_input": "WHITE N WHITE MINERALS PRIVATE LIMITED; WHITE N WHITE MINERALS PRIVATE LIMITED; WHITE N WHITE MINERALS PRIVATE LIMITED; WHITE N WHITE MINERALS PRIVATE LIMITED; WHITE N WHITE MINERALS PRIVATE LIMITED; WHITE N WHITE MINERALS PRIVATE LIMITED; WHITE N WHITE MINERALS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED - no data obtained, all fields null. Tooling failure: the web_search backend returned 'Connection refused' on every call; DuckDuckGo HTML endpoint returned HTTP 403; Google returned a redirect/consent interstitial with no results; Bing silently dropped the quoted company name and returned only generic 'white' colour pages (Wikipedia, whitescreen.online, Merriam-Webster) for all three query variants, i.e. zero relevant hits. Company-data aggregators blocked with HTTP 403: zaubacorp.com (company page and search-results page) and thecompanycheck.com. Consequently NOTHING could be verified for this entity: no OFAC SDN / UN / EU / UK / BIS Entity List screening result, no Indian court or tribunal (NCLT/NCLAT/HC) party records, no regulator action, no credit rating, and no evidence of supplies to Russia or the CIS. Absence of a hit here must NOT be read as a clean result - it is an absence of research. Note also that the input name is a single name repeated 7 times, and the claimed legal form 'WHITE N WHITE MINERALS PVT LTD' could not be matched to any public record in this session, so even the existence of the entity is unconfirmed (that check is outside my remit but blocks any risk conclusion). Recommended next step: re-run with a working search backend and direct access to MCA master data, eCFR/BIS CSL consolidated screening list, OFAC SDN XML, and Indian court databases (eCourts, NCLT)."
+}

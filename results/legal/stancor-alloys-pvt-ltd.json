@@ -1,0 +1,18 @@
+{
+ "name_input": "STANCOR ALLOYS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search backend returned connection refused on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; Bing returned only irrelevant results (no usable SERP). Therefore no CIN, PAN, GSTIN, incorporation date, MCA status or revenue figure is asserted - all set to null rather than guessed. The claimed legal name 'STANCOR ALLOYS PRIVATE LIMITED' is plausible but unconfirmed; the input gave no PAN and no state, so state_claimed is empty and no state mismatch can be assessed. Role left as 'unknown' (no registry evidence of manufacturing vs trading activity was retrievable). Per project rules, no rejection is applied: non-existence/strike-off/liquidation/bankruptcy was NOT established - the entity simply remains unverified. Recommended next step: re-run with a working search backend or MCA21 master-data lookup by name to obtain CIN, then derive PAN 4th-character holder type and GSTIN from a public GST profile."
+}

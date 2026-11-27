@@ -1,0 +1,18 @@
+{
+ "name_input": "SERENA PHARMA PRIVATE LIMITED",
+ "legal_name": "SERENA PHARMA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. web_search backend returned connection errors (searx: Connection refused); Bing/Google/DuckDuckGo HTML endpoints returned either 403 or generic unrelated results with the query terms ignored, so no MCA/CIN record was retrieved. Direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, not invented. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role is 'unknown': the claimed HS codes 300390/300420/300439/300450 are pharmaceutical (medicaments), which conflicts with the input industry label 'Нефтегаз и химия' (oil & gas and chemicals) — this is an HS/industry mismatch to be corrected on the actual code, not a ground for rejection. Per project rules the company is NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found either way; the entity's existence itself remains unconfirmed and requires a manual MCA master-data lookup (e.g. mca.gov.in / MCA V3 company search) before any acceptance decision."
+}

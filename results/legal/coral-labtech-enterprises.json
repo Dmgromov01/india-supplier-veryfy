@@ -1,0 +1,18 @@
+{
+ "name_input": "CORAL LABTECH ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be verified. The name 'CORAL LABTECH ENTERPRISES' has the form of a proprietorship/partnership trade name rather than a company, so no CIN/LLPIN is expected; the input's 'legal_claimed' field contains a person's name (KALYAN ASHISH DUTTA), which is consistent with a proprietorship but is not itself proof of registration. Tooling failed: the DuckDuckGo search backend returned connection refused on both queries; Bing returned only generic 'coral' results for all three query variants (no India/GST/proprietor hits); zaubacorp.com returned HTTP 403; thecompanycheck.com and instafinancials.com search paths returned HTTP 404; mca.gov.in Master Data returned HTTP 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, not invented. No state was claimed in the input, so state_registered vs state_claimed cannot be compared. Role cannot be determined from registry data alone; left as 'unknown' rather than guessed. Revenue FY25/FY26 null: no audited accounts or official filings were located, and a proprietorship would not file MCA financials in any case. Per project rules this entity is NOT rejected — non-existence/strike-off/liquidation/bankruptcy could not be established either way, and absence of a verifiable record is not grounds for rejection. Recommended next step: manual check on the GST portal 'Search Taxpayer' by trade name and on the Udyam/Shop & Establishment registers, plus a request to the supplier for its GSTIN and PAN to confirm the legal name behind the trade name."
+}
