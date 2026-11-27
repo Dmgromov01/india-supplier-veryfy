@@ -1,0 +1,18 @@
+{
+ "name_input": "CDS PHARMA TECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реквизита. Поисковая инфраструктура в этой сессии была недоступна: инструмент web_search возвращал ошибку соединения (searx: Connection refused), DuckDuckGo HTML — таймаут, Google — редирект без результатов, Bing по запросам \"CDS PHARMA TECH\" / \"CDS Pharma Tech\" / \"Sonal Panchal\" + GST выдавал только нерелевантную выдачу (банковские CD, маникюр и т.п.), т.е. совпадений по компании не найдено. Реестровые агрегаторы (zaubacorp.com, instafinancials.com) вернули HTTP 403. В input поле legal_claimed = \"SONAL JEETENDRA PANCHAL\" — это имя физлица, а не название юрлица; вероятно, речь об индивидуальном предпринимателе (proprietorship) или о проприетарном знаке, у которого нет CIN/LLPIN и нет MCA-статуса, а PAN/GSTIN принадлежат физлицу. Проверить это не удалось. CIN, PAN, GSTIN, дата регистрации, штат, MCA-статус, выручка FY25/FY26 — null: не найдены в публичных источниках, выдумывать не стал. Роль (manufacturer/trader) не определена — null/unknown. Отклонение НЕ применялось: отсутствие данных не является основанием для rejected (правило 3), а существование юрлица не опровергнуто. Требуется повторная проверка при работающем поиске: искать по GSTIN-профилям (knowyourgst, gstincheck), по имени \"Sonal Jeetendra Panchal\" в реестре ИП/Shop Act и по возможному названию фирмы \"CDS Pharma Tech\" в Maharashtra/Gujarat. Заявленный HS 847990 (части оборудования) с отраслью \"нефтегаз и химия\" не согласуется с названием \"Pharma Tech\" — код подлежит уточнению по фактической декларации, но это не основание для отклонения."
+}

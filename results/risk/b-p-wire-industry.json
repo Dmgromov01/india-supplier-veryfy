@@ -1,0 +1,9 @@
+{
+ "name_input": "B P WIRE INDUSTRY",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx unavailable), DuckDuckGo HTML endpoint closed the connection, Google returned only a redirect/consent interstitial, and Bing silently degraded all queries to single-token matches (returning results about the letter 'B', BP plc, blood pressure, Gujarat Titans) - i.e. no genuine results for the entity. Consequently nothing could be verified for: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role, status), regulator actions, negative news, credit rating, or any evidence of supplies to Russia/CIS. All fields set to null per instruction not to invent data - this is an absence of research, NOT a finding of 'clean'. The claimed proprietor name 'Prabhakar Gupta' is an extremely common Indian name and cannot be disambiguated without a working search; no PAN, CIN, GSTIN or registered address was supplied, which makes sanctions/court screening effectively impossible even with working tools. Recommended next step: re-run this company when search is restored, and obtain the legal entity name (Pvt Ltd / LLP / proprietorship), CIN/GSTIN and registered state from the supplier before screening. Per project rules, no rejection is proposed on this basis - the company stays in the database with risk fields unverified."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "B P WIRE INDUSTRY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The primary web_search tool returned a backend connection error (searx: Connection refused) on every query. Fallback attempts also failed: Google and DuckDuckGo HTML endpoints returned HTTP 403; Bing returned only generic unrelated results for the quoted phrase 'B P Wire Industry' (no matching Indian entity surfaced); Zaubacorp returned HTTP 403; MCA master-data portal returned HTTP 403; TheCompanyCheck search page returned only its marketing landing page with no result rows. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from any public source. IMPORTANT: the input field 'legal_claimed' contains 'PRABHAKAR GUPTA', which is a person's name, not a legal entity name - this suggests the supplier may be a sole proprietorship / individual trader rather than a registered company, in which case no CIN and no MCA record would exist and the PAN 4th character would indicate an individual (P) holder type. This is an inference from the input only, NOT verified. No rejection is applied: absence of retrievable records is not evidence of non-existence, strike-off, liquidation or bankruptcy, and per project rules rejection requires positive proof of those conditions. Role left as 'unknown' - the declared HS codes 820790 (interchangeable tools) and 830241 (base metal mountings/fittings for buildings) point to a hardware/fabricated-metal trading or manufacturing profile, but this is not confirmed by any registry filing. Revenue FY25 and FY26 set to null as no audited accounts or official filings were accessible. Recommend re-running this entity once the search backend is restored, and requesting the supplier's GSTIN and PAN directly, since a proprietorship's details are typically only obtainable from its GST registration certificate or the GST public search portal."
+}

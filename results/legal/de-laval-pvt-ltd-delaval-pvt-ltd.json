@@ -1,0 +1,18 @@
+{
+ "name_input": "DE-LAVAL PVT.LTD.; DELAVAL PVT LTD",
+ "legal_name": "DELAVAL PVT LTD (as claimed; exact MCA-registered spelling not verified — could not be confirmed from a public registry record in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on all queries; Google returned only a redirect/consent page; Bing returned only generic DeLaval corporate/brand pages (delaval.com, Wikipedia, LinkedIn) with no Indian registry record; zaubacorp.com, thecompanycheck.com and instafinancials.com company pages returned HTTP 403 Forbidden to automated fetches. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT invented. No basis to reject: absence of a retrievable record is not evidence of non-existence, strike-off, liquidation or bankruptcy. Role left 'unknown' — the input claims 'IT и электроника' with HS 851769, but the DeLaval group (Tetra Laval, Sweden) is a dairy-farming/milking-equipment manufacturer, so the declared HS/industry looks inconsistent with the brand's actual business; per project rules this is NOT a rejection ground and would be handled as an HS correction if the entity is confirmed. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Recommended next step: manual lookup on the MCA portal (mca.gov.in 'Check Company Name / View Company Master Data') and the GST portal search by trade name 'DELAVAL', plus a paid registry aggregator, to obtain CIN, PAN, GSTIN and financials."
+}
