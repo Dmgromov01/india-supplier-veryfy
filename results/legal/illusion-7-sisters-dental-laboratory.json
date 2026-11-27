@@ -1,0 +1,18 @@
+{
+ "name_input": "ILLUSION 7 SISTERS DENTAL LABORATORY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. The DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant generic results (Microsoft/Google Translate pages), i.e. no usable SERP. Therefore no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source. IMPORTANT DATA-QUALITY FLAGS for the analyst: (1) The input is internally inconsistent - the name 'ILLUSION 7 SISTERS DENTAL LABORATORY' reads as a proprietorship/partnership trade name, not a limited company, while legal_claimed is 'LAXMI DENTAL LIMITED'; no evidence was found that these are the same entity, so the claimed legal name is UNVERIFIED and must not be assumed. (2) The declared HS code 901849 (dental instruments/appliances) is inconsistent with industry_claimed 'Нефтегаз и химия' (oil & gas / chemicals) - per project rules this is NOT a rejection ground; the HS code should be corrected to the actual dental-equipment code and the industry label fixed. (3) No state was claimed in the input, so state comparison is not possible. (4) No PAN was claimed, so no 4th-character holder-type check was possible. Per project rules the company is NOT rejected: rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found - the entity status is simply unverified. Recommend re-running with a working search backend or manual MCA master-data lookup before any acceptance decision. Revenue FY25/FY26 left null because no audited accounts or official filings were accessible - not estimated."
+}

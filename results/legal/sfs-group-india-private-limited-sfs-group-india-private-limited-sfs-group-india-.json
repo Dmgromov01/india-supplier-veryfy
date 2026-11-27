@@ -1,0 +1,18 @@
+{
+ "name_input": "SFS Group India Private Limited; SFS Group India Private Limited; SFS Group India Private Limited; SFS GROUP INDIA PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. All registry sources attempted were inaccessible: DuckDuckGo search backend returned 'Connection refused' / timeout; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned 404; Google returned HTTP 429; Bing returned only irrelevant generic results (SFS USA, Spaceflight Simulator, etc.) with no Indian registry hit. Therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all null — not public/not retrievable here, and deliberately not guessed. IMPORTANT DATA-QUALITY FLAG: the input record is internally inconsistent — the 'name' field says 'SFS Group India Private Limited' (the Indian arm of the Swiss SFS Group, fastening/precision components), while 'legal_claimed' says 'INDO SCHOTTLE AUTO PARTS PVT LTD'. These appear to be two different legal entities; the record must be resolved before verification. Note also that SFS Group India is a known Indian subsidiary of SFS Group AG (Heerbrugg, Switzerland) and Indo Schottle Auto Parts is a Pune-based auto-components maker, so a name/entity mismatch is likely. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation, not a negative finding. Role left as 'unknown' pending registry confirmation (cannot be classified as manufacturer/trader without MCA/records). Declared HS 870870 (road wheels and parts) is plausible for an auto-parts entity but is not a basis for any verdict here. Recommended next step: re-run with working access to MCA master data / a GST public profile to obtain CIN, PAN (4th-character holder type), GSTIN and status, and to reconcile which of the two names is the actual supplier."
+}

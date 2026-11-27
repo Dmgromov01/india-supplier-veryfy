@@ -1,0 +1,24 @@
+{
+ "name_input": "SFS Group India Private Limited; SFS Group India Private Limited; SFS Group India Private Limited; SFS GROUP INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bombay High Court",
+   "case": "Writ Petition No. 10151 of 2026 — SFS Group India Pvt. Ltd. (Petitioner) vs SFS Group India Employees Union (Respondent)",
+   "role": "Petitioner",
+   "status": "Pending / listed (order dated 21 August 2026 per Indian Kanoon record)",
+   "source": "https://indiankanoon.org/search/?formInput=%22SFS%20Group%20India%20Pvt.%20Ltd.%22"
+  },
+  {
+   "court": "Karnataka High Court",
+   "case": "M/s Yenkays Engineering Pvt Ltd vs The Panchayat Development Officer, order dated 27 March 2026 — SFS Group India Pvt. Ltd. appears as a party/respondent in the array of parties (represented by Shri Prashant Kore)",
+   "role": "Party in the array of parties (role not fully determinable from snippet)",
+   "status": "Ordered 27 March 2026; procedural",
+   "source": "https://indiankanoon.org/search/?formInput=%22SFS%20Group%20India%20Pvt.%20Ltd.%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No adverse regulatory action or negative news identified. Searches for sanctions/regulator/negative-news coverage returned only unrelated entities (SFS Group Switzerland/US, NY State SFS, Spaceflight Simulator) — no India-specific adverse item found. Note: search backend (DuckDuckGo/searx) was returning connection errors during this check, so absence of negative news is NOT a verified clean bill; it is an unverified gap.",
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no confirmed hit, but OFAC SDN/UN/EU/UK/BIS screening could not be executed — the OFAC Sanctions List Search tool is JavaScript-driven and returned no queryable result, and the search backend was down. sanctions_hit is therefore null = NOT SCREENED, not 'clear'. Recommend re-running consolidated-list screening (OFAC SDN + SSI, UN, EU, UK OFSI, BIS Entity List) on the exact legal name and on the Swiss parent SFS Group AG before onboarding. Court cases: two Indian matters found, both civil/procedural — a 2026 Bombay HC writ petition by the company against its employees' union (labour dispute) and an appearance in a Karnataka HC matter. Neither is a criminal matter and, per project rules, neither is a rejection ground. Credit rating: no public rating found (null) — the Indian entity appears to be an unrated private subsidiary; do not infer a rating from the parent. RF/CIS supply: no evidence found either way (null) — no public record of supplies to Russia or CIS located; this is an absence of evidence, not evidence of absence. Legal identity, HS code and shipment volumes deliberately not researched per role scope. Overall: no rejection grounds under the project rules; residual risk is unverified sanctions screening and unverified RF/CIS exposure."
+}
