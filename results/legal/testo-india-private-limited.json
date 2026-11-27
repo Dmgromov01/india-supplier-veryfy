@@ -1,0 +1,18 @@
+{
+ "name_input": "TESTO INDIA PRIVATE LIMITED",
+ "legal_name": "TESTO INDIA PRIVATE LIMITED (name as claimed; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search backend (searx) returned 'Connection refused' on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; google.com returned HTTP 429; duckduckgo.com timed out; bing.com returned only generic Testo brand pages (testo.com, Wikipedia, baidu) with no CIN/GSTIN/registry snippet; indiafilings.com search URL returned 404; testo.com/en-IN pages returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - not public/not retrievable here, and NOT invented. No basis for rejection: nothing indicates the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not evidence of non-existence. Role left 'unknown': the group parent Testo SE & Co. KGaA (Germany) is a manufacturer of measuring instruments, but whether the Indian entity manufactures locally or only imports/distributes (trader) is unverified. Declared HS 851762 (transmission apparatus for data/telecom) does not match Testo's core product line (temperature/humidity/pressure measuring instruments, typically HS 9025/9026/9027) - flag for HS correction per rule 3, but this is NOT a rejection ground; company stays in the base with the code to be corrected to the actual one. Recommended next step: re-run with working search, or query MCA master data / GST portal directly for the exact legal name."
+}

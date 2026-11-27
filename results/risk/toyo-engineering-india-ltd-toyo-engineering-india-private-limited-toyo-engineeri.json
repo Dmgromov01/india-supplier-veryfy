@@ -1,0 +1,24 @@
+{
+ "name_input": "TOYO ENGINEERING INDIA LTD; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA LTD; TOYO ENGINEERING INDIA LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED; TOYO ENGINEERING INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "party_role": "respondent / appellant (tax and customs litigation)",
+   "status": "reported decisions, no evidence of criminal or insolvency proceedings",
+   "examples": [
+    "Commissioner of Customs, Mumbai vs M/s. Toyo Engineering India Limited, Supreme Court of India, judgment 31.08.2006",
+    "Toyo Engineering India Ltd. vs Collector of Customs, CESTAT Delhi, 28.05.1993",
+    "Toyo Engg. India Ltd. vs Jt. CIT, ITAT Mumbai, 13.09.2005",
+    "Toyo Engineering India Ltd vs Addl CIT Rg 10(3), ITAT Mumbai, 04.04.2018",
+    "Commissioner of CGST and Central Excise vs Toyo Engineering India Ltd, Bombay High Court, 08.02.2019 and 18.06.2019",
+    "M/s Toyo Engineering India Ltd vs Commissioner of Customs (Import), CESTAT West Zonal Bench, 07.01.2014",
+    "M/s. Toyo Engineering India Ltd vs Sales Tax Officer, Orissa High Court, 06.09.2011"
+   ],
+   "source": "https://indiankanoon.org/search/?formInput=Toyo%20Engineering%20India (849 documents total, first 10 reviewed)"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "SANCTIONS: no hit found. OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) was reachable but is a JavaScript form and returned no queryable results via plain HTTP GET; UN/EU/UK consolidated lists and the BIS Entity List were not checked because the search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused') and the 10-call budget was exhausted. So sanctions_hit is null = NOT VERIFIED, not a clean bill of health. No adverse sanctions reference to Toyo Engineering India appeared in any page actually read. COURT: only tax/customs/service-tax and sales-tax litigation found on Indian Kanoon, company acting as appellant or respondent; these are ordinary revenue disputes, not criminal matters, and per project rules are not rejection grounds. No NCLT/insolvency or criminal case surfaced in the reviewed results. RATING: null - CRISIL rating-list page returned a 404 and no other agency page (ICRA, CARE, India Ratings, Acuite) could be reached; no rating, date or outlook is public in what was retrieved, so nothing is asserted. NEWS_RISK: null - no negative-news search could be executed; the only news retrieved was the company's own press page (https://www.toyo-eng.com/in/en/) listing order wins: FEED contract for M11 Sustainable Aviation Fuel project (06.08.2026), GDOC IT operations centre established (03.04.2026), Ammonium Nitrate-II melt plant order at GNFC Bharuch (13.01.2026), EPCC contract for Polypropylene unit at BPCL Kochi refinery (05.01.2026), commissioning of HPCL LNG Chhara regasification terminal (04.02.2025). These are company self-reported order announcements, not independently verified contract records. RF_SUPPLY: null - no evidence of supplies to Russia or the CIS was found in any source read; equally, no source was checked that would positively exclude it (no trade-data or customs-record lookup was possible). Absence of evidence here is not evidence of absence. CONTEXT: the company presents itself as Toyo Engineering India Private Limited, an engineering consultancy and contracting firm, part of the Japanese TOYO group (https://www.toyo-eng.com/in/en/company/); the input list mixes 'Ltd' and 'Private Limited' spellings of what appears to be the same entity - legal-identity resolution is outside this role's scope and was not performed. RECOMMENDATION: keep the company; re-run sanctions screening (OFAC/UN/EU/UK/BIS) and credit-rating lookup once search connectivity is restored, since both are currently unverified rather than negative."
+}

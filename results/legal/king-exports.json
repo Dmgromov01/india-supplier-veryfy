@@ -1,0 +1,18 @@
+{
+ "name_input": "KING EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. 'KING EXPORTS' is a generic trade name used by multiple unrelated Indian proprietorships/partnerships and companies; no unique legal entity can be identified from the input (no CIN, PAN, GSTIN, city or state supplied). Tooling failed during this session: DuckDuckGo search backend returned connection refused, zaubacorp.com returned HTTP 403, thecompanycheck/instafinancials search endpoints returned 404, Google returned HTTP 429, and Bing returned only irrelevant generic 'King' results with query terms ignored. Therefore legal name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrievable in this session, not invented. No rejection applied: absence of verifiable data is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' (cannot distinguish manufacturer vs trader without registry/GST records). Declared HS codes 732690 / 843680 / 870899 (steel articles, agricultural/forestry machinery parts, motor-vehicle parts) are noted but not assessed here as this role covers legal/registry only. Recommended next step: obtain the supplier's GSTIN or PAN from the counterparty, then re-run verification against MCA/GST portals."
+}
