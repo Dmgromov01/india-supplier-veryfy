@@ -1,0 +1,18 @@
+{
+ "name_input": "ARABIAN PETROLEUM LIMITED",
+ "legal_name": "ARABIAN PETROLEUM LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no field confirmed from a primary source. The web_search tool was unavailable (searx connection refused) for the whole session, and every direct fetch of registry/aggregator pages failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, screener.in returned HTTP 404 for both ARABIANPETRO and ARABIANPETRO/consolidated, moneycontrol returned HTTP 403, nseindia timed out, google returned HTTP 429, duckduckgo timed out. BSE page 543743 loaded only a generic shell with no company data. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all left null rather than guessed. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be checked. Role left as 'unknown' (no evidence of manufacturing vs trading). Declared HS 271019 (petroleum oils) is not a rejection ground per project rules and is not assessed here. Action required: re-run this company when the search backend is restored, or supply the CIN so MCA/GST portals can be queried directly."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "Vadicure Wellness",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/vadicure-wellness (and slug variants 'vadicure-wellness-private-limited', 'vadicure'): page renders only the generic template text 'Shipments available for VADICURE WELLNESS, refreshed daily' with an empty 'Number of shipments by month' chart — 0 shipment rows actually visible on the page. No bill-of-lading number, date, destination or HS code was displayed.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend returned 'Connection refused', DuckDuckGo lite/html endpoints timed out, Google returned HTTP 429, and volza/eximpedia/trademo/importgenius returned HTTP 403. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники оказались недоступны. ImportKey по трём вариантам слага отдал пустой шаблон (0 строк отгрузок), вторичные источники (volza, eximpedia, trademo, importgenius) — 403, поисковики — отказ/таймаут. Ни экспортных записей (дата, направление, HS, B/L), ни внутренних поставок (GST-оборот, GeM/CPPP, контракты) не подтверждено. Заявленный HS 121190 (растительное сырьё/травы) не проверен по фактическим записям — код не подтверждён и не опровергнут. Юрлицо 'VADICURE WELLNESS PRIVATE LIMITED' как таковое в реестрах не проверялось (реестры вне области задачи). Выручка и объём экспорта: null — публичных данных нет, не выдумывались. Требуется повторная проверка при доступном поиске/таможенных данных."
+}

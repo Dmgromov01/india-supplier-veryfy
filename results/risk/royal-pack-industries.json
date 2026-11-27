@@ -1,0 +1,9 @@
+{
+ "name_input": "Royal Pack Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx unavailable); DuckDuckGo HTML endpoints timed out; Google returned HTTP 429; Bing returned the same cached generic 'royal' results (Royal Caribbean, royal.uk, Merriam-Webster) for three different exact-phrase queries, i.e. it did not actually execute the queries. No page containing the string 'Royal Pack Industries' was ever retrieved, so nothing could be checked against OFAC SDN, UN, EU, UK or BIS lists, Indian court records (eCourts/NCLT), regulator actions, credit ratings, or any Russia/CIS supply evidence. All fields are null because they are unverified, NOT because they were confirmed negative - absence of a hit here must not be read as a clean result. Additional caveat for the analyst: the batch record is internally inconsistent and may be a mis-identified entity - the declared HS code 842240 is packing/wrapping machinery, while the claimed industry is 'Food products and FMCG'; the 'legal_claimed' value 'SHARAD MARUTRAO PATIL' is a person's name, not a company name, and no PAN, CIN or state was supplied. No PAN, CIN, GSTIN, court case number or rating figure has been invented. Recommended next step: re-run this company once search access is restored, using the proprietor name plus state, and confirm the correct legal entity before any risk conclusion is drawn."
+}

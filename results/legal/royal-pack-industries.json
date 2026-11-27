@@ -1,0 +1,18 @@
+{
+ "name_input": "Royal Pack Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input itself is internally inconsistent: 'legal_claimed' contains a personal name (SHARAD MARUTRAO PATIL), not a legal entity name, so the exact legal entity behind 'Royal Pack Industries' is unidentified. Tooling failures during this run: the web_search backend returned 'Connection refused' on every query; zaubacorp.com and instafinancials.com returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant generic 'royal' results with no matching Indian entity. Consequently no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be sourced from a public profile or official filing, and no audited FY25/FY26 accounts were located. All such fields are null rather than guessed. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of data is not grounds for rejection. Role recorded as 'unknown' pending identification of the legal entity. Note also that declared HS 842240 (packing/wrapping machinery) does not match the claimed industry 'food and FMCG'; per rule 3 this is not a rejection ground - if the entity is later identified, the HS code should be corrected to the factual one and the verdict set to accepted_hs_corrected. Recommended next step: re-run with a working search backend or obtain the GSTIN/PAN directly from the supplier, then verify on the MCA master data and the GST taxpayer profile."
+}

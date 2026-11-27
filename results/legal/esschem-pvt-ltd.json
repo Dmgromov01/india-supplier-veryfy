@@ -1,0 +1,18 @@
+{
+ "name_input": "Esschem (Pvt) Ltd",
+ "legal_name": "ESSCHEM PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend returned connection refused (searx) on both queries; Bing HTML fallback returned only irrelevant results (ESPN, Kate Spade) for the exact-phrase queries '\"ESSCHEM PRIVATE LIMITED\" CIN GSTIN' and 'Esschem Private Limited India company registration CIN U24100'; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed slugs; Google returned HTTP 429; DuckDuckGo timed out. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session - NOT because the entity is absent. No rejection is applied: per project rules rejection requires positive evidence that the entity does not exist / is struck off / liquidated / bankrupt, and no such evidence was found either way. Revenue FY25/FY26 null - no audited accounts or official filings were accessible. Role left as 'unknown' (no evidence of manufacturing plant or trading activity). Declared HS 382200 (diagnostic/laboratory reagents) is not assessed here and is not a rejection ground. Recommended next step: re-run with working search, or verify manually on MCA master data (mca.gov.in) and the GST taxpayer search portal using the exact legal name; note that 'Esschem' also appears in other jurisdictions (e.g. Esschem Inc., USA), so name collisions are a real risk and the Indian entity must be confirmed by CIN before any further work."
+}

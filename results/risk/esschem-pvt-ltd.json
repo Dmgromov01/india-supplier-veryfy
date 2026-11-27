@@ -1,0 +1,9 @@
+{
+ "name_input": "Esschem (Pvt) Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковая инфраструктура недоступна. web_search (DuckDuckGo/searx) возвращал ошибку 'Connection refused' на всех запросах; резервные попытки через Bing/Google/DuckDuckGo HTML выдавали нерелевантную выдачу (Olive Garden, Mayo Clinic, Consumer Reports) либо HTTP 429/timeout. Tofler по прямому URL поиска отдал 404. OFAC Sanctions List Search открылся, но это JS-форма без возможности передать параметры через http_get — фактический матчинг по имени 'Esschem' не произведён, поэтому sanctions_hit = null (не 'нет совпадений'). Никаких данных по судам (eCourts/NCLT), регуляторным действиям, кредитному рейтингу (CRISIL/ICRA/CARE/India Ratings) и поставкам в РФ/СНГ получить не удалось. Все поля оставлены null; выдумывать значения недопустимо. Дополнительно: заявленное имя 'Esschem (Pvt) Ltd' / 'ESSCHEM PRIVATE LIMITED' не подтверждено ни одним публичным источником в рамках этой сессии — вопрос тождественности юрлица (в т.ч. возможное смешение с неиндийскими 'Esschem' — например, Esschem Inc. (США) или Esschem Europe) остаётся открытым и требует перепроверки при восстановлении доступа к поиску. Рекомендация: повторить риск-скрин вручную (OFAC SDN/consolidated list, BIS Entity List, EU/UK consolidated, eCourts, NCLT, Tofler/Zauba) до принятия решения."
+}

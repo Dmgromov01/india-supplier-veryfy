@@ -1,0 +1,9 @@
+{
+ "name_input": "Baneet International",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public record of this entity could be retrieved. Search tooling was largely unavailable during this run (DuckDuckGo/searx backend refused connections; Google returned HTTP 429; Bing returned only generic filler pages with no genuine matches for 'Baneet International' or 'Baneet' + 'Swinder Singh'). OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form whose query results cannot be read via plain HTTP fetch, so no name was actually screened against the SDN/Non-SDN lists - sanctions_hit is therefore null (NOT screened), not a negative result. UN, EU, UK OFSI and BIS Entity List were not queried. Indian court records (eCourts/NJDG), regulator actions, credit ratings (CRISIL/ICRA/CARE/India Ratings) and any Russia/CIS supply evidence were not retrievable. Nothing here should be read as clearance: all fields are null because they are unverified, not because they were checked and found clean. Recommend re-running the sanctions screen (OFAC/EU/UK/BIS) and eCourts lookup manually before any onboarding decision. Per project rules, absence of sanctions/court data is not a rejection ground; no rejection is proposed on risk grounds."
+}
