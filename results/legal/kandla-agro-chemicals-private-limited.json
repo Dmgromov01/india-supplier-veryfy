@@ -1,0 +1,18 @@
+{
+ "name_input": "KANDLA AGRO & CHEMICALS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was unreachable ('Connection refused') for the whole session, and Bing returned only generic 'Kandla' port/tourism results for every exact-phrase query, i.e. it ignored the quoted company names. Direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) all returned HTTP 403 Forbidden, and Google returned only a redirect/consent page. Therefore no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, and nothing is invented here - all such fields are null. IMPORTANT NAME DISCREPANCY: the input name 'KANDLA AGRO & CHEMICALS PRIVATE LIMITED' does not match the claimed legal name 'KANDLA AGRO & METAL PRIVATE LIMITED' (CHEMICALS vs METAL). Neither variant could be confirmed to exist as an MCA-registered entity in this session, so the mismatch is unresolved and must be re-checked against MCA master data before any decision. Per project rules this is NOT a rejection ground: no evidence of non-existence, strike-off, liquidation or bankruptcy was found either way, so the company is retained with role 'unknown' and verdict pending verification. Declared HS 382319 (residual chemical/fatty-acid products) is not assessed here as HS is out of scope for this role and is not a rejection ground. Revenue FY25/FY26: null - no audited accounts or official filings were retrievable. Recommended next step: re-run with a working search backend and query MCA/GeM/GST public profile by exact name and by the two name variants."
+}

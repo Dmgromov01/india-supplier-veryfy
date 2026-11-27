@@ -1,0 +1,18 @@
+{
+ "name_input": "VIAONE INDIA PRIVATE LIMITED",
+ "legal_name": "VIAONE INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) вернул ошибку соединения — поиск недоступен; (2) zaubacorp.com и thecompanycheck.com — HTTP 403; (3) instafinancials.com и quickcompany.in — HTTP 404 по слагу компании; (4) falconebiz.com — отдал только шаблон/меню без карточки компании; (5) mca.gov.in (Master Data) — HTTP 403; (6) Google/Bing по запросам «VIAONE INDIA PRIVATE LIMITED» + CIN/GSTIN выдают только нерелевантные результаты (Sedgwick viaOne, viaonecre.com, viaoneservices.com — не индийские юрлица). Итог: CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата регистрации, штат регистрации, статус MCA и выручка FY25/FY26 — null, публично не получены доступными инструментами. Отсутствие юрлица НЕ установлено, поэтому отклонение (rejected) не применяется — компания остаётся в базе со статусом «данные не подтверждены, требуется повторная проверка через MCA Master Data / GST-портал вручную». Роль (manufacturer/trader) не определена — null/unknown. Заявленные HS 847130 и 851712 (ноутбуки и мобильные телефоны) в базе не корректировались, так как фактический код без реестровых данных не устанавливается. Выручка не выдумывалась: аудиторской отчётности в открытом доступе не найдено."
+}

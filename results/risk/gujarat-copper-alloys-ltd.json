@@ -1,0 +1,31 @@
+{
+ "name_input": "Gujarat Copper Alloys Ltd",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bombay High Court",
+   "case": "Commercial Arbitration Application (L) No. 16409 of 2023 — Gujarat Copper Alloys Ltd v. M/s Morning Star Shipping & Trading Pvt Ltd",
+   "role": "Applicant/Petitioner",
+   "status": "Order dated 14.07.2023 (Bench: Bharati Dangre); further order 09.08.2023",
+   "source": "https://indiankanoon.org/search/?formInput=%22Gujarat%20Copper%20Alloys%22%20doctypes%3Ajudgments"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Commercial Execution Application (L) No. 15919 of 2025 — Gujarat Copper Alloys Ltd v. Morning Star Shipping and Trading Pvt Ltd",
+   "role": "Applicant/Decree-holder",
+   "status": "Pending; orders 13.10.2025, 03.11.2025, 15.12.2025 (Bench: Abhay Ahuja)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Gujarat%20Copper%20Alloys%22%20doctypes%3Ajudgments"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Commercial Execution Application No. 216 of 2025 — Gujarat Copper Alloys Ltd v. Morning Star Shipping and Trading Pvt Ltd",
+   "role": "Applicant/Decree-holder",
+   "status": "Pending; order 04.05.2026 (Bench: Abhay Ahuja)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Gujarat%20Copper%20Alloys%22%20doctypes%3Ajudgments"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified clean result — the web_search backend (DuckDuckGo/searx) was down for the whole session (connection refused) and Bing/Google returned only generic 'Gujarat' tourism pages, ignoring the quoted company name. OFAC SDN, UN, EU, UK and BIS Entity List were therefore not actually screened; sanctions_hit is null = not verified, not 'clear'. Recommend re-screening by exact legal name and CIN once search is restored. Court cases: 7 Bombay High Court judgment records on Indian Kanoon, all one commercial dispute where the company is the CLAIMANT (applicant/decree-holder) against a shipping & trading counterparty — arbitration (2023) followed by execution proceedings (2025-2026). The company is the pursuing party, not the defendant; no insolvency, winding-up or criminal matter surfaced in the searched records. Per project rules these are not rejection grounds and are noted neutrally. Rating: no public credit rating found (CRISIL/ICRA/CARE/India Ratings not checked due to search outage) — null. News/regulator actions: not verified, search unavailable — null. RF/CIS supply evidence: none found; not verified — null. Note the declared HS 847990 (machinery parts) and industry 'oil & gas / chemicals' are outside my scope and were not assessed; the company name indicates copper alloys, which the HS/legal-identity researcher should reconcile."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Gujarat Copper Alloys Ltd",
+ "legal_name": "GUJARAT COPPER ALLOYS LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections on both web_search calls; zaubacorp.com, thecompanycheck.com and mca.gov.in/mcafoportal returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; Bing returned only generic 'Gujarat' tourism pages with no match for the entity name. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - not public/not retrieved, NOT invented. No basis to reject: absence of retrieved records is not proof of non-existence, so the entity is NOT marked rejected/struck off. Role left as 'unknown' - the name suggests a metals/copper-alloy producer, but no registry or filing evidence was obtained to classify it as manufacturer vs trader. Note also that declared HS 847990 (parts of machinery of ch.84) is inconsistent with a copper-alloy producer profile; per project rules this is not a rejection ground - the HS code should be corrected to the actual product code once the product line is confirmed. Action required: re-run with working search/registry access (MCA master data by name, GST public search, or paid registry API) to fill CIN, PAN, GSTIN, incorporation date, state and revenue."
+}
