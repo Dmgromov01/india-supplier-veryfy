@@ -1,0 +1,8 @@
+{
+ "name_input": "Daffodils beverages",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/daffodils-beverages (and variant /daffodils-beverage) returned only the generic template: 'Shipments available for DAFFODILS BEVERAGES, refreshed daily' — a boilerplate sentence with no shipment row, no date, no destination, no HS code and no bill-of-lading number. Rows actually seen: 0 of 0. No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches returned no results (search backend unreachable: 'searx: <urlopen error [Errno 111] Connection refused>'); zaubacorp.com returned HTTP 403, volza/eximpedia/trademo returned HTTP 403, importgenius returned a JavaScript challenge page. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ вывод об отсутствии отгрузок, а отсутствие доступа к данным: все торговые базы (volza, eximpedia, trademo, importgenius) заблокировали запрос (403 / JS-challenge), поисковик был недоступен, importkey отдал пустой шаблон без единой записи. Заявленный HS 220210 (безалкогольные напитки) не подтверждён и не опровергнут. Юрлицо 'NEEL KANTILAL GUDHKA' как название компании не является — это имя физлица/проприетора, поэтому CIN/PAN не найдены (null). Выручка: null (не публична/не найдена). Объём экспорта: null. Требуется повторная проверка при доступных источниках; статус 'unknown', не 'none_found', поскольку фактичность отгрузок не проверяема по доступным каналам."
+}

@@ -1,0 +1,23 @@
+{
+ "name_input": "EPIGRAL LIMITED",
+ "declared_hs": "290312;291030;381220",
+ "actual_hs_list": [
+  "281511 (sodium hydroxide, solid) / 281512 (sodium hydroxide in aqueous solution — caustic soda lye) — caustic soda, 400 KTPA installed capacity",
+  "280610 (hydrogen chloride) / 280700 (sulphuric acid) — chlorine/HCl chain, by-products of chlor-alkali (inferred from chlor-alkali process; not itemised on accessible pages)",
+  "290312 (dichloromethane / MDC) — confirmed product",
+  "290313 (chloroform) — confirmed product",
+  "290314 (carbon tetrachloride / CTC) — confirmed product",
+  "290319 (other saturated chlorinated acyclic hydrocarbons — e.g. perchloroethylene, if produced)",
+  "284700 (hydrogen peroxide, whether or not solidified with urea) — confirmed product, 5th largest Indian producer",
+  "291030 (1-chloro-2,3-epoxypropane / epichlorohydrin) — confirmed product",
+  "390410 (PVC, not mixed with other substances) — CPVC resin base polymer (note: CPVC resin itself is a chlorinated PVC, classified in 3904.10/3904.90 family; post-chlorinated grades often declared 3904.90)",
+  "390440 / 390490 (other vinyl chloride copolymers / other polymers of vinyl chloride) — CPVC resin and CPVC compound",
+  "290399 / 290369 (chlorotoluenes — o-/p-chlorotoluene, chlorotoluene value chain) — confirmed product line",
+  "291439 / 291429 (other ketones without other oxygen function — e.g. by-products of chlorotoluene chain, if any)",
+  "381220 (compound plasticisers for rubber or plastics) — plausible for CPVC compound/plastics additives, but not explicitly listed as a product on accessible sources"
+ ],
+ "match_status": "partial",
+ "product_summary": "Integrated chlor-alkali + derivatives manufacturer (formerly Meghmani Finechem Ltd). Product lines per company profile: (1) Chloro-alkali: caustic soda (400 KTPA installed capacity, Mar 2026), chlorine, hydrogen, HCl; (2) Chloromethanes (CMS, 50 KTPA): MDC/dichloromethane, chloroform, CTC — 6th largest Indian producer; (3) Hydrogen peroxide — 5th largest Indian producer; (4) Specialty chemicals: CPVC resin, CPVC compound, epichlorohydrin, chlorotoluenes value chain. Derivatives & Speciality Chemicals segment = 52% of FY26 revenue vs 25% in FY22. Source: Screener.in company profile for Epigral Ltd (BSE 543332 / NSE EPIGRAL), citing company disclosures — https://www.screener.in/company/EPIGRAL/consolidated/ . Company website epigral.com returned a bot-verification interstitial on every attempt, so the official product catalogue could not be read directly.",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: declared 290312 (MDC) — EXACT, confirmed product. Declared 291030 (epichlorohydrin) — EXACT, confirmed product. Declared 381220 (compound plasticisers) — PARTIAL/uncertain: the company makes CPVC compound, which is more correctly 3904.40/3904.90 (polymer of vinyl chloride) than 3812.20 (plasticiser compounds); 3812.20 is not corroborated as a distinct product line on accessible sources, so treat as 'заявлено, не подтверждено'. MAJOR GAPS in the declaration: the two largest product families are missing entirely — (a) caustic soda / chlor-alkali (2815.11/2815.12, 400 KTPA capacity) and (b) chloromethanes chloroform 2903.13 and CTC 2903.14 (50 KTPA capacity), plus hydrogen peroxide 2847.00 and chlorotoluenes 2903.99/2903.69. The declared 3 codes cover only a small slice of the actual portfolio. Industry classification 'Нефтегаз и химия' (oil & gas and chemicals) is imprecise: this is a chlor-alkali / specialty chemicals manufacturer with no upstream oil & gas activity — correct classification is basic inorganic chemicals + chlorinated organics + specialty polymers. No trader signs: own manufacturing plants, own installed capacities, listed on NSE/BSE. Per project rule 3, the HS mismatch is NOT grounds for rejection — company retained, codes corrected to the actual portfolio above. Note: no customs/B-L line was available to me in this task (product/HS scope only), so all product lines above are marked 'заявлено, не подтверждено' at the shipment level; corroboration here is limited to the company's own published capacity/product disclosures as reproduced by Screener.in."
+}

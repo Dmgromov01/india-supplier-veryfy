@@ -1,0 +1,9 @@
+{
+ "name_input": "KERONE ENGINEERING SOLUTIONS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. Tooling failure: the web_search backend was unavailable for the entire session (repeated 'searx: Connection refused'), and fallback fetches to Google, Bing and DuckDuckGo returned either bot-block pages or wholly unrelated results (gift baskets, Wells Fargo logins) that contained no reference to this company. Direct fetches of the company website (kerone.com) and ZaubaCorp both returned HTTP 403. Consequently NO sanctions screening (OFAC SDN, UN, EU, UK, BIS Entity List), NO Indian court-record check (party role/status), NO regulator-action or negative-news review, NO credit-rating lookup and NO evidence review of supplies to Russia/CIS could be performed. All fields are null because nothing is public to me in this session - these are NOT findings of 'clean'. Per project rules, absence of a sanctions hit must not be inferred from a failed search, and no numbers, case numbers, ratings or shipment records have been invented. Recommended next step: re-run this company once search connectivity is restored, checking (1) OFAC SDN/consolidated and EU/UK/BIS lists by exact legal name and known aliases, (2) eCourts/NCLT/High Court by party name, (3) rating agencies (CRISIL/ICRA/CARE/India Ratings) and (4) customs/import-export mirror data for Russia/CIS destinations. Note also that the declared industry ('IT и электроника') and declared HS codes (841931, 841940 - steam/vapour generating boilers and heat-exchange/distillation plant) appear inconsistent with each other; that is outside my risk remit but should be flagged to the HS/legal-identity researcher."
+}

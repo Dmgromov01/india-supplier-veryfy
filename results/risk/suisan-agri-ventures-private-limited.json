@@ -1,0 +1,9 @@
+{
+ "name_input": "SUISAN AGRI VENTURES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Tooling limitation: the web_search backend was unavailable for the entire session (every query returned 'searx: Connection refused'), so no keyword sweep of OFAC SDN / UN / EU / UK / BIS Entity List, no news sweep and no credit-rating lookup could be performed. Only direct page fetches were possible. Verified: Indian Kanoon (indiankanoon.org) searches for \"Suisan Agri Ventures\" and for \"Suisan Agri\" both returned 0 matching results — i.e. no reported judgments/orders naming the company were found in that database (absence of indexed litigation, not proof of no litigation; district-level and tribunal records are not covered). Zauba Corp returned HTTP 403 (blocked) and Tofler search returned HTTP 404, so no registry, director or charge data could be read. Therefore: sanctions_hit = null (NOT verified clean — simply not checked against the lists), court_cases = null (only Indian Kanoon checked, zero hits), rating = null (no rating found/checked; not public in any source reached), news_risk = null (no negative-news search possible), rf_supply = null (no evidence of supplies to Russia or CIS found, but no search was possible — this is 'not established', not 'none'). Per project rules, none of the above is a rejection ground; the company stays in the base. Recommend re-running the sanctions/news/rating sweep once the search backend is restored, and separately confirming the legal entity exists (that is outside this role's scope)."
+}

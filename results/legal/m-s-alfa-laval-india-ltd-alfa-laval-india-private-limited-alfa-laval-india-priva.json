@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S. ALFA LAVAL (INDIA) LTD.; ALFA LAVAL INDIA PRIVATE LIMITED; ALFA LAVAL INDIA PRIVATE LTD; ALFA LAVAL (INDIA) LTD; ALFA LAVAL (I) LTD; ALPHA LEVEL INDIA LTD.; ALFA LAVAL INDIA LTD; ALFA LAVAL (INDIA) LIMITED",
+ "legal_name": "Alfa Laval India Private Limited (per input claim; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified: search backend (searx) returned 'Connection refused' for all queries; zaubacorp.com, thecompanycheck.com and tofler.in returned HTTP 403/404; Google/Bing returned only generic 'Alfa' results with no registry hit. alfalaval.in pages (about-us, contact-us, investors) loaded but are corporate marketing pages with no CIN/PAN/GSTIN/registered-office disclosure, and /legal-notice returned 404. Therefore CIN, PAN, PAN holder type, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public in what I could reach, not invented. No rejection basis found: the Alfa Laval India entity is an operating subsidiary of the Swedish Alfa Laval group (alfalaval.in is live and states India is among its largest employee bases), so no evidence of non-existence, strike-off, liquidation or bankruptcy. Role assessed as manufacturer_trader on the basis of the group's stated 42 production units plus sales organisations, but this is a group-level statement, not an entity-level MCA classification — treat as provisional. Note the input name list mixes several variants including 'ALPHA LEVEL INDIA LTD.' which is likely a transliteration/OCR artefact of the same company, not a separate legal entity; the claimed HS codes 842191/848230 (centrifuges / bearing housings) fit Alfa Laval's separation and rotating-equipment lines, so the claimed industry 'IT и электроника' is a misclassification of the input, not a reason to reject. Revenue FY25/FY26: null — no audited accounts or MCA filing accessible; Alfa Laval India figures are consolidated inside the Swedish parent's reporting and were not retrievable here. Recommend re-run when search backend is restored, targeting MCA master data and a GST public-profile lookup."
+}
