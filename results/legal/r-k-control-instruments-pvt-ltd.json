@@ -1,0 +1,18 @@
+{
+ "name_input": "R K CONTROL INSTRUMENTS PVT LTD",
+ "legal_name": "R K CONTROL INSTRUMENTS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure: web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing ignored quoted queries and returned only generic 'R' results (r-project.org, Reddit, etc.), i.e. no relevant hits. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com and tofler.in returned HTTP 404 for the guessed URL slug. Consequently no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figure could be confirmed from a primary or public source, so all such fields are null rather than estimated. NOT rejected: absence of retrievable records is a research/tooling limitation, not evidence that the entity does not exist; per project rules rejection requires positive proof of non-existence, strike-off, liquidation or bankruptcy, which was not obtained. Role left as 'unknown' - the declared HS codes (732690 iron/steel articles, 848180/848190 valves and parts) are consistent with a manufacturer or manufacturer-trader of control instruments/valves, but this is inference from the HS declaration only and is not a verified registry fact. Declared industry 'Металлургия и горнодобыча' (metallurgy & mining) does not match the declared HS codes (valves/instrumentation) and should be re-checked against the actual business activity once the MCA record is obtained. Recommended next step: manual lookup on the MCA21 portal by company name, and GST portal search by legal name, to obtain CIN, PAN, GSTIN and status; revenue only from filed AOC-4 audited accounts."
+}

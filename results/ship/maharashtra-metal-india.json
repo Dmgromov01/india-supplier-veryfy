@@ -1,0 +1,8 @@
+{
+ "name_input": "MAHARASHTRA METAL (INDIA)",
+ "export_status": "unknown",
+ "export_evidence": "No export record obtained. ImportKey pages for three slug variants (maharashtra-metal-india, maharashtra-metal, maharashtra-metal-india-pvt-ltd) returned only paywall boilerplate — the sole shipment-related line visible was the generic template text \"Shipments available for MAHARASHTRA METAL INDIA, refreshed daily\" with no date, destination, HS code or bill-of-lading number. Rows actually seen: 0 of 0 (counter shows no record count at all). Second sources volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; web_search backend returned connection refused on both attempts.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence obtained. No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrievable: search backend (searx) was down with 'Connection refused' on two queries, and DuckDuckGo HTML/lite endpoints timed out. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это не подтверждение отсутствия отгрузок, а отсутствие доступа к данным: все источники отгрузочных записей (importkey, volza, eximpedia, trademo) были либо paywall-заглушкой без строк, либо HTTP 403, а поисковый бэкенд не работал. Заявленный HS 760611 (алюминиевые плиты/листы) не проверен по фактическим записям. Выручка: null (не публична/не получена). Объём экспорта: null. Юрлицо, CIN и PAN не подтверждены — реестры вне области задачи. Рекомендуется повторный прогон при доступном поиске; отклонение не предлагается, так как отсутствие данных не является основанием (правила 1 и 3)."
+}

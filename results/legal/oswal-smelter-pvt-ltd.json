@@ -1,0 +1,18 @@
+{
+ "name_input": "Oswal Smelter Pvt Ltd",
+ "legal_name": "OSWAL SMELTERS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials.com returned 404; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned irrelevant results (HBO Max pages) with no usable snippet. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null and must be treated as 'not public / not retrieved', NOT as absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null - not estimated. Role left as 'unknown': the claimed name contains 'Smelters' and the declared HS codes 720211/720229/720230 are ferro-manganese (a smelting product), which is consistent with a manufacturer, but this is inference from the name and HS codes only, not evidence. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and HS mismatch is not a rejection ground. Recommended next step: re-run with a working search backend and check MCA master data directly (mca.gov.in company/LLP master data search) plus a GST public profile, and confirm whether the correct legal name is 'Oswal Smelters Private Limited' or a variant (e.g. Oswal Smelter Pvt Ltd) before any further use."
+}

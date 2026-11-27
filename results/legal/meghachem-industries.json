@@ -1,0 +1,18 @@
+{
+ "name_input": "Meghachem Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused'; (2) zaubacorp.com и thecompanycheck.com — HTTP 403 Forbidden; (3) google.com/search — HTTP 429; (4) duckduckgo.com/html — таймаут; (5) bing.com — выдал нерелевантные результаты (поиск искажает запрос, возвращает страницы про обувь и мемориалы ветеранов США), по компании ничего; (6) instafinancials.com — 403; (7) mca.gov.in (Master Data) — 403; (8) tofler.in — 404 на странице поиска. Итог: точное юрлицо, CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — все поля null, ничего не выдумано. ВАЖНО: 'Meghachem Industries' в заявленном виде не является однозначным юрлицом — это может быть товарный знак/бренд, торговая марка или подразделение иного лица (в Индии известны структуры с именем 'Meghachem'/'Megha...'), поэтому отождествлять его с конкретной компанией без реестровой записи нельзя. Роль определить невозможно: заявленные HS 282550/282739/282741/283699 (оксиды/хлориды/фториды/карбонаты металлов) указывают на химическое производство или торговлю химией, но это не подтверждает ни manufacturer, ни trader — поэтому role=unknown. Отклонение (rejected) НЕ применяется: нет доказательств, что юрлицо не существует, ликвидировано или банкрот — отсутствие данных не является основанием для отклонения по правилам проекта. Требуется доработка: подтвердить точное название юрлица (напр. 'Meghachem Industries Private Limited' / 'LLP' / проприетарное дело), затем проверить CIN на mca.gov.in и GSTIN на gst.gov.in; выручку брать только из аудированной отчётности или официальных filings, иначе null."
+}

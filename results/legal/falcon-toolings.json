@@ -1,0 +1,18 @@
+{
+ "name_input": "FALCON TOOLINGS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity NOT established. Search infrastructure failed during this run: the DuckDuckGo/searx backend returned 'Connection refused' on both queries, Google returned HTTP 429, DuckDuckGo HTML timed out, and Bing returned identical cached generic 'falcon (bird)' results for every query including exact-phrase and site:-restricted variants, so no relevant hit was ever surfaced. Direct registry/profile lookups were blocked or empty: zaubacorp.com returned HTTP 403 on both the company-search and direct-company URL patterns; thecompanycheck.com search rendered only marketing copy with no result rows; instafinancials.com returned HTTP 403; tofler.in search returned a 404 page. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be read from any public source, and no audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role is recorded as 'unknown' rather than 'manufacturer' because the only basis for a manufacturing role would be the claimed HS codes 820411/820740/820750/820760 (hand tools, interchangeable tools for hand tools, drills, milling cutters, tool bits) and the claimed industry 'Строительство и DIY' — these are importer-side claims, not evidence of the supplier's own legal activity, and per project rules catalogue/website claims do not constitute fact. IMPORTANT — this is NOT a rejection: per the rules a company may be rejected only if the legal entity does not exist, is struck off, liquidated or bankrupt, and absence of a verifiable record in this failed search run is not proof of non-existence. The entity may well exist as a sole proprietorship or partnership firm (which would have no CIN at all, only a GSTIN) — 'Falcon Toolings' is a plausible trade name for such a firm, and unregistered-firm names are largely invisible to MCA-based aggregators. Recommended next step: re-run with working search, and query the GST portal's public 'Search Taxpayer' by trade name, plus MCA name search for 'FALCON TOOLINGS' variants (Falcon Toolings Pvt Ltd / LLP / Industries), before any verdict is assigned. Verdict pending verification, not rejected."
+}
