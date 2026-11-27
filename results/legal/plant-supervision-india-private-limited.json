@@ -1,0 +1,18 @@
+{
+ "name_input": "PLANT SUPERVISION INDIA PRIVATE LIMITED",
+ "legal_name": "PLANT SUPERVISION INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The search backend (DuckDuckGo/searx) was unreachable, Bing returned only generic dictionary results for the query terms, and the primary registry aggregators were inaccessible: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, and mca.gov.in returned HTTP 403. No CIN, PAN, GSTIN, incorporation date, registered state or MCA status could therefore be confirmed from a public source, so all such fields are null rather than inferred. The legal name is recorded only as claimed in the input; it has NOT been confirmed against MCA. PAN holder type cannot be derived because no PAN was obtained (the 4th character of an Indian PAN encodes holder type: P=individual, C=company, F=firm, etc.). Role is set to 'unknown' — the declared HS 995412 (business services / trade-fair and similar services) suggests a service provider rather than a manufacturer, but this is an inference from the HS code alone, not a verified fact. Revenue for FY25 and FY26 is null: no audited accounts or official filings were retrievable. No rejection is applied, since non-existence, strike-off, liquidation or bankruptcy could not be established either — the entity's status is simply unverified. Recommended next step: re-run with working search access and check the MCA master-data portal directly by company name, plus a GSTIN lookup on a public GST profile page."
+}

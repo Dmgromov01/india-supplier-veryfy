@@ -1,0 +1,18 @@
+{
+ "name_input": "UNITED INC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be verified. The input gives 'UNITED INC' as the trade name and 'ROHITKUMAR MANSUKHBHAI THUMAR' as the legal name, which is a personal name, not a company name — this pattern indicates a sole proprietorship / individual trader, which has no CIN/LLPIN and no MCA record; only a GSTIN and PAN would exist. No public profile (GST, Udyam, IndiaMART, MCA) could be retrieved: DuckDuckGo search backend returned connection refused, Google returned HTTP 429, Zauba Corp and InstaFinancials returned HTTP 403, and Bing returned only irrelevant United Airlines results for every query variant tried (name, proprietor name, GSTIN/Udyam). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable, not invented. State claimed in input was empty, so state_registered vs state_claimed cannot be compared. Role set to 'unknown': the declared HS codes (080620 dried grapes/raisins, 091099 spices, 120242 ground-nut kernels, 120740 sesame seeds) suggest an agricultural-commodity trader, but no registry evidence of manufacturing or trading activity was found, so no role is asserted. Revenue FY25/FY26 null — no audited accounts or official filings located; a proprietorship of this type typically files no public financials. NOT rejected: absence of a verifiable record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy, none of which was established. Recommended action: obtain the GSTIN directly from the supplier and re-verify on the GST portal, and confirm the exact registered trade name on the Udyam/MSME certificate."
+}

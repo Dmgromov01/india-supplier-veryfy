@@ -1,0 +1,18 @@
+{
+ "name_input": "UNITED ENGINEERING (EASTERN) CORPORATION LLP",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data retrieved. Tooling failure during this run: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; Bing HTML fallback returned only irrelevant United Airlines results (query terms effectively ignored); direct fetches of registry aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) all returned HTTP 403 Forbidden; Google returned HTTP 429. Therefore the exact legal entity name, LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could NOT be confirmed from any public source. No revenue figures for FY25/FY26 are available from audited accounts or official filings, so both are null rather than estimated. Role left as 'unknown' - the 'LLP' suffix in the claimed name suggests a limited liability partnership, but this is unconfirmed. Per project rules, rejection is NOT applied: absence of verifiable data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Action required: re-run verification when search/registry access is restored, checking MCA LLP master data (LLPIN, state of registration, status) and a GST public profile for the GSTIN and filing status. Note also that the input's legal_claimed ('UNITED ENGINEERING EASTERN CORPORATION LLP', without parentheses) differs from name_input ('UNITED ENGINEERING (EASTERN) CORPORATION LLP'); the exact registered form must be resolved from MCA records. Declared HS codes 847920/847990/848310 (parts of machinery for food/beverage processing, machine parts, transmission shafts/cranks) are inconsistent with the claimed industry 'Metallurgy and mining' - per rules this is not a rejection ground; the HS code should be corrected to the actual code once the company's real activity is established."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "VARANOUS LABS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не завершена по техническим причинам: ни один реестровый источник не удалось прочитать. DuckDuckGo/search-бэкенд отдавал 'Connection refused' и таймауты; Bing по обоим запросам вернул нерелевантную выдачу (без единого упоминания компании); zaubacorp.com и thecompanycheck.com — HTTP 403; tofler.in, instafinancials.com, quickcompany.in — HTTP 404 по предполагаемому слагу (что НЕ доказывает отсутствие компании: слаг мог быть иным); falconebiz.com — 403; Google — 429. Итог: НИ ОДНОГО подтверждённого реестрового факта нет — CIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка остаются null, а не выдуманы. Роль классифицирована как 'unknown' (не 'trader' и не 'manufacturer'), поскольку деятельность по реестру не подтверждена. ВАЖНО: компания НЕ отклоняется — по правилам проекта отклонение возможно только при доказанном отсутствии/ликвидации/банкротстве юрлица, а отсутствие данных из-за блокировок источников таким доказательством не является. Заявленный HS 382290 (прочие химические продукты) не проверялся и не является основанием для отклонения. Требуется повторный прогон с доступом к MCA-выгрузке (например, data.gov.in / MCA master data) или к платному реестру для установления CIN и GSTIN; также нужен официальный сайт/IndiaMART-профиль для сверки написания юрлица (возможна опечатка в названии, напр. 'VARANOUS' vs 'VARANUS')."
+}

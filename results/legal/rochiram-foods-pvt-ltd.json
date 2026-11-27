@@ -1,0 +1,18 @@
+{
+ "name_input": "Rochiram Foods Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — нет доступа к источникам. В ходе сессии поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а Bing отдавал нерелевантную выдачу (результаты про bubble sort, stuffing, Facebook) даже по точному запросу в кавычках \"ROCHIRAM FOODS PRIVATE LIMITED\". Прямые запросы к реестровым агрегаторам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, instafinancials.com — HTTP 404, tofler.in — HTTP 404 (страница компании не найдена), mca.gov.in — HTTP 403. Таким образом ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни штат регистрации, ни MCA-статус не подтверждены ни одним публичным источником. Юрлицо с названием 'ROCHIRAM FOODS PRIVATE LIMITED' в проверенных источниках не подтверждено и не опровергнуто — оснований для rejected нет (правило 3: отклонение только при доказанном отсутствии/ликвидации/банкротстве), поэтому статус — 'не проверено', а не 'принято'. Роль (manufacturer/trader) не установлена: заявленные HS 180631/180632/180690 (какао-продукты, шоколад) и 210690 (пищевые препараты) относятся к пищевому производству, но это лишь заявка, не подтверждение. Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги не получены (Tofler/InstaFinancials недоступны). Требуется повторный прогон при работающем поиске либо ручная выгрузка из MCA Master Data / GST-портала."
+}
