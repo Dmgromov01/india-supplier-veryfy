@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S INSEL RECTIFIRES INDIA PVT.LTD.; INSEL RECTIFIERS (INDIA) PVT. LTD",
+ "legal_name": "INSEL RECTIFIERS (INDIA) PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned no results); zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in and quickcompany.in returned 404 for the guessed URL slugs; indiamart.com returned HTTP 429; Google and Bing HTML fetches returned unusable/irrelevant result pages. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all unverified and left null per the no-invention rule. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be checked. Note the input itself contains a spelling variant ('RECTIFIRES' vs 'RECTIFIERS'), so the exact legal name must be confirmed against MCA before use. Role cannot be determined from registry data alone; the declared HS 854110 (diodes/semiconductor devices) is consistent with an electronics manufacturer but is not evidence of manufacturing status. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored."
+}

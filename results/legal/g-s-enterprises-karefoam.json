@@ -1,0 +1,18 @@
+{
+ "name_input": "G S Enterprises (KareFoam)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend connection error (searx: Connection refused) for all queries, and direct fetches of registry/profile sources failed: zaubacorp.com and instafinancials.com returned HTTP 403, tofler.in search returned a 404 page, mca.gov.in returned HTTP 403, and Google/Bing/DuckDuckGo fallbacks returned no relevant results (Bing returned unrelated furniture-retail pages). Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. 'GS Enterprises' is a very common Indian trade name and 'KareFoam' appears to be a brand/trade name rather than a registered company name; without a state, GSTIN or PAN in the input, the specific legal entity cannot be uniquely identified. No revenue figures are stated because none were found in audited accounts or official filings (null, not estimated). Role recorded as 'unknown' — the input gives no evidence of manufacturing vs trading, and catalogue/site claims are not treated as fact per project rules. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a research limitation, not a negative finding. Recommended next step: re-run with a GSTIN, PAN, CIN or registered state, or retry once the search backend is restored."
+}

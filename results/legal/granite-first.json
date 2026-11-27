@@ -1,0 +1,18 @@
+{
+ "name_input": "GRANITE FIRST",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Инструменты поиска были недоступны (DuckDuckGo/searx — connection refused; Google — редирект/блок), Bing игнорировал кавычки и выдавал нерелевантные американские сайты по граниту; ZaubaCorp вернул HTTP 403, Tofler — 404. Входные данные неполные: 'legal_claimed' = 'NAGESH DAVANAM NARAYANA SHETTY' — это имя физлица, а не название юрлица, что указывает на возможного ИП/проприетора (тогда CIN отсутствует по определению, а PAN — это PAN физлица, 4-й символ 'P'). Однако подтвердить это нечем: ни PAN, ни GSTIN, ни адрес, ни штат в запросе не переданы, а 'GRANITE FIRST' может быть торговым наименованием, не совпадающим с реестровым. Юрлицо НЕ отклонено: оснований для rejected (несуществование/ликвидация/банкротство) не установлено — просто нет данных. Все поля null, ничего не выдумано. Требуется повторная проверка при работающем поиске, желательно с GSTIN или PAN на входе; также нужен штат для сверки state_registered vs state_claimed. Роль 'unknown' — по названию и HS 6802 (обработанный камень) вероятен производитель или трейдер, но это предположение, а не факт."
+}
