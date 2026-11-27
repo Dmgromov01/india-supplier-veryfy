@@ -1,0 +1,18 @@
+{
+ "name_input": "GT Pack Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry data could be retrieved. The input itself is internally inconsistent: 'legal_claimed' is given as 'GAGAN DHIMAN', which is a personal name, not a legal entity name — this suggests the supplier is a proprietorship/individual trading as 'GT Pack Industries' rather than a company, so no CIN/LLPIN would exist. No public profile (GSTIN, MCA, ZaubaCorp, IndiaMART, TheCompanyCheck, MasterIndia) could be opened: DuckDuckGo search backend returned 'Connection refused' on all attempts, Google returned HTTP 429, ZaubaCorp returned HTTP 403, MasterIndia returned HTTP 401, TheCompanyCheck returned 404, and Bing/Marginalia returned only irrelevant generic results for 'GT'. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — NOT verified, not absent. Revenue FY25/FY26 null: no audited accounts or official filings located. Role set to 'unknown' (packaging/paperboard HS 481910 is consistent with a converter/trader, but nothing is confirmed). Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Recommended next step: obtain the GSTIN or PAN directly from the supplier and re-run verification against the GST portal and MCA; also confirm whether the entity is a proprietorship (in which case only GST/PAN apply, no CIN)."
+}

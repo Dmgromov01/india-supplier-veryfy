@@ -1,0 +1,18 @@
+{
+ "name_input": "GLOBAL CALCIUM PVT LTD; Global Calcium Private Limited; GLOBAL CALCIUM PRIVATE LIMITED; GLOBAL CALCIUM PRIVATE LIMITED",
+ "legal_name": "GLOBAL CALCIUM PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: web_search backend returned 'Connection refused' for all queries, and every registry aggregator attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404; Bing returned only irrelevant generic results; MCA master-data portal returned HTTP 403; company website globalcalcium.com served a bot-verification interstitial. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role left 'unknown' because manufacturer/trader status was not confirmed from a registry or filing source. No rejection basis established: nothing found indicating non-existence, strike-off, liquidation or bankruptcy — the entity is simply unverified in this run. Note on input: declared HS 130219 (vegetable saps/extracts) and 291815 (citrate salts) are consistent with a botanical-extract/citrate manufacturer profile, but HS mismatch is not a rejection ground per project rules; the actual code should be confirmed against the firm's IEC/GST registration. Recommended next step: re-run with working search access and pull MCA master data by name plus GSTIN from the GST taxpayer search portal."
+}

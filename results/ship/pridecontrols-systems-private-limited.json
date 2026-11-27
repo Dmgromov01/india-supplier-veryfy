@@ -1,0 +1,8 @@
+{
+ "name_input": "PRIDECONTROLS & SYSTEMS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'pricecontrols-systems-private-limited' (and variants 'pricecontrols-and-systems-private-limited', 'pricecontrols-systems-pvt-ltd') returned only the generic template: \"Shipments available for PRICECONTROLS SYSTEMS PVT LTD, refreshed daily\" with a \"Loading...\" placeholder and zero shipment rows rendered. No bill-of-lading number, date, destination or HS code was visible. Source counter: 3 ImportKey pages fetched, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved. web_search returned no results (searx: <urlopen error [Errno 111] Connection refused>) on both attempts; volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden. Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что поставок не было: инструменты проверки были недоступны (поиск лежал, платные базы отдали 403, ImportKey отдал пустой шаблон без строк). Статус по обоим каналам — unknown, а не none_found, поскольку отсутствие данных не подтверждено. Внимание: в базе ImportKey компания индексируется как 'PRICECONTROLS' (без 'DE'), тогда как заявленное имя — 'PRIDECONTROLS'; это может быть как опечатка в заявке, так и другое юрлицо — требует сверки по CIN/MCA. Заявленный HS 902890 (части и принадлежности приборов для измерения расхода/уровня/давления) не проверен по фактическим отгрузкам. Выручка и объём экспорта: null (не публичны / не получены). Рекомендуется повторный прогон при доступном поиске и сверка имени по реестру MCA."
+}

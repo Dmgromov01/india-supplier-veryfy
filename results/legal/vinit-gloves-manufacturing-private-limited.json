@@ -1,0 +1,18 @@
+{
+ "name_input": "VINIT GLOVES MANUFACTURING PRIVATE LIMITED",
+ "legal_name": "VINIT GLOVES MANUFACTURING PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: the web_search backend returned connection errors (searx: Connection refused), and direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404, while Google returned HTTP 429 and Bing returned irrelevant results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable here, not invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected; it remains unverified pending a re-check against MCA/GST portals. Role cannot be determined from registry data alone (name suggests gloves manufacturing, but that is a name inference, not a verified fact). Revenue FY25/FY26: no audited accounts or official filings accessible — null. Note: declared HS codes 420329/611610 (leather/work gloves, impregnated textile gloves) do not match the claimed industry 'Food & FMCG'; per project rules this is not a rejection ground — the HS code should be corrected to the actual product code and the verdict recorded as accepted_hs_corrected once the entity is confirmed. state_claimed was empty in the input, so no state mismatch can be assessed."
+}

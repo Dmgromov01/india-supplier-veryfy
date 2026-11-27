@@ -1,0 +1,9 @@
+{
+ "name_input": "BTPL Distribution PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: all search backends failed during this run. web_search returned 'Connection refused' (searx backend down) on both queries; Google returned HTTP 429; DuckDuckGo (html and lite) timed out; Bing returned only irrelevant results (no genuine hits for either 'BTPL Distribution' or 'Moonberry International'); ZaubaCorp and Tofler returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form and cannot be queried via plain HTTP GET, so no sanctions screening result was obtained. No court-case, regulator, credit-rating or Russia/CIS-supply evidence was retrieved. All fields are therefore null because nothing is public/verifiable in this session, NOT because a negative check was performed. Also note the identity discrepancy in the input: name_input is 'BTPL Distribution PVT LTD' while legal_claimed is 'MOONBERRY INTERNATIONAL PRIVATE LMMITED' (also misspelled) - these are two different names and it is unclear which entity is being screened; this should be resolved before any risk conclusion. Recommend re-running the sanctions/court/rating checks when search connectivity is restored."
+}
