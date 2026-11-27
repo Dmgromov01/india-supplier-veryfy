@@ -1,0 +1,18 @@
+{
+ "name_input": "INDAID ENGINEERS PVT. LTD",
+ "legal_name": "INDAID ENGINEERS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a connection error (searx: Connection refused) on both queries, and follow-up fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) all returned HTTP 403/404. Bing/Google result pages returned only unrelated content, so no MCA/CIN, PAN, GSTIN, incorporation date or state of registered office could be confirmed from a public source. Per the rules, nothing is invented: all registry fields are null. No rejection is applied - absence of a verifiable record in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt; the company must be re-checked against MCA master data (and GST portal for GSTIN/status) in a session with working search access. Note also that the claimed industry 'IT and electronics' is inconsistent with declared HS 841710 (furnaces/ovens, i.e. industrial equipment), which suggests the industry label is unreliable - but per the rules HS mismatch is not a rejection ground and the code is simply to be corrected to the factual one. Role left as 'unknown' pending verification of the company's actual activity. Revenue FY25/FY26: null - no audited accounts or official filings were retrievable."
+}

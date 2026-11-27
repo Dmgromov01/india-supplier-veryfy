@@ -1,0 +1,18 @@
+{
+ "name_input": "Tatva Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо не удалось. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout); Bing по запросам \"Tatva Enterprises\" + GSTIN/CIN/PAN/ferro alloy/polymer выдал только нерелевантные бренды (Tattva, The Tatva, Tatva Health & Wellness, рестораны) — ни одной записи о компании с таким названием. Реестровые источники (zaubacorp, instafinancials, mca.gov.in) вернули 403/404, поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка не подтверждены — везде null, не выдуманы. Название \"Tatva Enterprises\" типично для proprietorship/partnership без CIN, но это предположение, а не факт. Отклонять НЕЛЬЗЯ: отсутствие публичной записи в доступных источниках не равно несуществованию юрлица (правило 3). Требуется повторная проверка при работающем поиске и доступе к MCA/GST-порталу, а также уточнение у поставщика PAN/GSTIN/адреса. Роль (manufacturer/trader) не определена — unknown. Заявленный HS 390690 (акриловые полимеры) и 7202 19/21/23 (ферросплавы: ферросилиций, феррохром и др.) — несоответствие HS не является основанием для отклонения; код подлежит исправлению на фактический после идентификации компании."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "INOTEK TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо нерелевантную выдачу, а все реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) и портал MCA (mca.gov.in) отдали HTTP 403 Forbidden. Ни один реестровый факт не подтверждён, поэтому все поля оставлены null — данные не выдумывались. Дополнительно зафиксировано расхождение во входных данных: name_input = 'INOTEK TECHNOLOGIES PRIVATE LIMITED', а legal_claimed = 'INTELLIGENT CITYAIR INDIA PVT LTD' — это два разных наименования, и не установлено, какое из них является действующим юрлицом-поставщиком; до выяснения вопрос о тождестве компании открыт. Роль (manufacturer/trader) не определена. Выручка FY25/FY26 не найдена (аудиторская отчётность не получена). Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществующем/ликвидированном/обанкроченном юрлице, что не установлено). Требуется повторный прогон при доступных реестровых источниках (MCA master data, GST-портал) и уточнение у заказчика, какое наименование считать целевым."
+}

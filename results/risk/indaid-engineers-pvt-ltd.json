@@ -1,0 +1,9 @@
+{
+ "name_input": "INDAID ENGINEERS PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public record of this entity could be retrieved. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Bing returned only irrelevant results (Gisou cosmetics, ChatGPT pages) for the exact-name queries '\"Indaid Engineers\" Private Limited' and '\"INDAID ENGINEERS\" IndiaMART OR Zauba OR Tofler'; Google served only a redirect/consent page. Direct fetches of Zauba Corp, Tofler and Indian Kanoon all returned HTTP 403 (bot blocking), so no MCA/registry, litigation or credit-rating page could be read. The OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and cannot be queried by GET, so no automated SDN/Non-SDN name match was performed; UN, EU, UK OFSI and BIS Entity List screens were likewise not executable with the available tools. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null - this means NOT VERIFIED, not 'clean'. No sanctions designation, no court case, no regulator action, no credit rating and no Russia/CIS supply evidence was found, but equally none could be excluded. Per project rules this is not a rejection ground and the company stays in the base; the risk fields must be re-run manually (OFAC/UN/EU/UK/BIS name screens, Indian Kanoon and eCourts party search, MCA/Tofler credit data) before any risk conclusion is drawn. Note also that the claimed industry 'IT and electronics' is inconsistent with declared HS 841710 (furnaces/ovens) - flagged for the HS/identity researcher, not a rejection ground here."
+}

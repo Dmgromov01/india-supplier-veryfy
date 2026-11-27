@@ -1,0 +1,18 @@
+{
+ "name_input": "KOHLER INDIA CORPORATION (P) LTD",
+ "legal_name": "Kohler India Corporation Private Limited (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. Tooling failure: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results (searx: urlopen error [Errno 111] Connection refused)'); Google returned only a redirect stub; Bing returned only generic Kohler brand pages (kohler.com, kohlercompany.com, kohler.co.in, Wikipedia Kohler Co.) with no registry hits. Direct fetches of public registry aggregators were blocked: zaubacorp.com 403, thecompanycheck.com 403, tofler.in 403, instafinancials.com returned only a generic landing page with no company data, quickcompany.in 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public in any source I could actually read, and I will not fabricate them. No rejection applied: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt - absence of data is not evidence of non-existence. Role left as 'unknown' (no MCA/NIC activity code or GST-based evidence obtained). Note on the input: the declared HS 848180 (valves/faucets) is consistent with the Kohler group's sanitaryware/faucet business, but the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) does not match that profile - per project rules this is NOT a rejection ground; the HS code should be corrected to the actual code once the entity's filings are read. Also note the claimed name uses '(P) LTD' while the legal_claimed field gives 'PRIVATE LIMITED' - the exact MCA-registered spelling must be confirmed from the MCA master data. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by legal name to obtain CIN, PAN, GSTIN, incorporation date, state and status, then pull audited FY25/FY26 accounts for revenue."
+}

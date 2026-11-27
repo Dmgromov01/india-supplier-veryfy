@@ -1,0 +1,8 @@
+{
+ "name_input": "KOHLER INDIA CORPORATION (P) LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. importkey.com/countries/india/kohler-india-corporation-pvt-ltd returned only a paywalled shell: \"Shipments available for KOHLER INDIA CORPORATION PVT LTD, refreshed daily\" — zero rows, zero dates, zero B/L numbers, zero destinations visible. volza.com, eximpedia.app, trademo.com and zaubacorp.com all returned HTTP 403; importgenius.com returned a JavaScript challenge page. No export record with date/destination/HS/B-L could be read, so nothing is asserted either way.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. thecompanycheck.com returned HTTP 403; zaubacorp.com returned HTTP 403. No domestic supply record seen.",
+ "note": "Registry and catalogue sources were out of scope and the free shipment aggregators were all blocked or paywalled, so neither export nor domestic supply could be evidenced. Per Rule 5 this is recorded as unknown, NOT as 'conditionally accepted' — no trace of shipments was found, but the absence is a tooling limitation, not a verified negative. Declared HS 848180 (valves/taps) is consistent with Kohler's sanitaryware/faucet business, but HS was not verified against any customs line and is not a rejection ground in any case (Rule 3). Revenue and export volume: null — not public in any source reached, not estimated. Recommended next step: re-run against a paid Volza/Eximpedia view or DGFT/ICEGATE export data before any verdict."
+}
