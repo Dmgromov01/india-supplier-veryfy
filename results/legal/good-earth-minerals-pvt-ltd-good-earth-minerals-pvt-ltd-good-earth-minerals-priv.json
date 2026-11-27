@@ -1,0 +1,18 @@
+{
+ "name_input": "GOOD EARTH MINERALS PVT LTD; GOOD EARTH MINERALS PVT.LTD.; GOOD EARTH MINERALS PRIVATE LIMITED; GOOD EARTH MINERALS PVT. LTD",
+ "legal_name": "GOOD EARTH MINERALS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no registry data obtained. Tooling failure: DuckDuckGo search backend refused connections (searx urlopen Connection refused) on both queries; Bing returned only unrelated generic dictionary results for all three quoted-name queries (no company hits); direct fetches of zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403 Forbidden; instafinancials.com returned 404 for the guessed slug; Google returned HTTP 429. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not publicly retrievable with the available tools - NOT because the entity was found to be non-existent. Per project rules, rejection is only permitted when the entity is proven non-existent/struck off/liquidated/bankrupt; no such proof exists here, so the company is NOT rejected and must be re-queued for registry verification. Role cannot be determined without MCA NIC activity codes or GST/audited disclosures; declared HS 282090 (other chlorides/oxide chlorides etc.) is not evidence of manufacturing vs trading, and per rules HS mismatch is not a rejection ground in any case. Revenue FY25/FY26 null - no audited accounts or official filings accessible; not estimated. No shipment, court or catalogue research was performed, per role scope. Recommended next step: retry with working search/registry access (MCA master data, Zauba/Tofler/CompanyCheck, GST portal search by legal name) to obtain CIN, PAN, GSTIN and state before any verdict."
+}

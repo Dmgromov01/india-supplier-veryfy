@@ -1,0 +1,9 @@
+{
+ "name_input": "FARMACHEM PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковая инфраструктура была недоступна в момент проверки. web_search (DuckDuckGo/searx) возвращал 'Connection refused'; DuckDuckGo HTML и Brave — таймаут/HTTP 429; Bing отдавал нерелевантную выдачу (WhatsApp, StackOverflow) вместо результатов по запросу; zaubacorp.com — HTTP 403; tofler.in — 404 на странице поиска. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, программный запрос по имени через http_get невозможен — результат скрининга по SDN/Non-SDN не получен. Соответственно: санкционная экспозиция (OFAC SDN, UN, EU, UK, BIS Entity List) — null, НЕ подтверждено отсутствие; судебные дела в индийских судах (роль стороны, статус) — null; регуляторные действия и негативные новости — null; кредитный рейтинг (агентство, дата, статус) — null; свидетельства поставок в РФ/СНГ — null. Никаких утверждений о наличии или отсутствии рисков не делаю: отсутствие данных не равно отсутствию риска. Требуется повторный прогон при работающем поиске и/или платном доступе (Zauba/Tofler/CRISIL/ICRA, коммерческий sanctions-screening). Отклонение по данному отчёту недопустимо — оснований нет ни за, ни против."
+}

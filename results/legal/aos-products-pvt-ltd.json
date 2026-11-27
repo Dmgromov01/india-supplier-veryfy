@@ -1,0 +1,18 @@
+{
+ "name_input": "AOS PRODUCTS PVT LTD",
+ "legal_name": "AOS PRODUCTS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of registry/profile pages failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404. Bing HTML search returned only generic 'AOS' results (ASOS, American Orchid Society, A.O. Smith) with no Indian registry hit, and Google returned HTTP 429. Company website aosproducts.com timed out. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrievable in this session, and nothing has been invented. No basis to reject: the entity's non-existence, strike-off, liquidation or bankruptcy is NOT established either way; status is simply unverified. Role left as 'unknown' (no registry evidence of manufacturing vs trading). Declared HS 300490 (pharma) conflicts with the claimed industry 'oil & gas and chemicals' - per project rules this is not a rejection ground; the HS code should be corrected to the actual product code once the product line is confirmed. Recommended next step: manual MCA master-data lookup by exact name and GST portal search, since automated access is blocked."
+}

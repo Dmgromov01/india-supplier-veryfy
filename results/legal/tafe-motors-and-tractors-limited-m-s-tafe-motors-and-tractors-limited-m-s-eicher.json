@@ -1,0 +1,18 @@
+{
+ "name_input": "TAFE MOTORS AND TRACTORS LIMITED ; M/S TAFE MOTORS AND TRACTORS LIMITED; M/S EICHER TRACTORS (UNIT OF TAFE MOTORS & TRACTOR LTD.) (MA; TAFE MOTORS AND TRACTORS LTD24; TAFE MOTORS & TRACTORS LTD; TAFE MOTORS & TRACTORS LIMITED; TAFE MOTORS AND TRACTORS LTD.; TAFE MOTORS AND TRACTORS LIMITED; M/S TAFE MOTORS AND TRACTORS LTD.; TAFE MOTORS AND TRACTORS LIMITED; TAFE MOTORS AND TRACTORS LTD",
+ "legal_name": "TAFE Motors and Tractors Limited (TMTL) — wholly owned subsidiary of Tractors and Farm Equipment Limited (TAFE), Amalgamations Group",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Tamil Nadu (Chennai) — per group HQ/registered office at 77 Nungambakkam High Road, Chennai 600 034; entity-level RoC record not retrieved",
+ "state_claimed": null,
+ "mca_status": "Active — no evidence of strike-off, liquidation or bankruptcy found; MCA master record not directly retrieved (registry aggregators returned 403/404)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Not found. Only group-level unaudited claim on tafe.com ('annual turnover in excess of INR 16,000 crores') and Wikipedia (~INR 13,700 cr) — these are TAFE group figures, not TMTL audited FY25/FY26 accounts. No audited TMTL filings retrieved, so null per rules.",
+ "note": "Entity existence confirmed indirectly and reliably: Wikipedia (Tractors and Farm Equipment Limited) states TMTL is a wholly owned subsidiary through which TAFE acquired Eicher's tractors, gears/transmission and engines business in 2005; tafe.com lists 'TMTL Farm Equipment Division' and Eicher-branded products (Eicher Tractors, TMTL-Eicher engines/gensets), and the input alias 'M/S EICHER TRACTORS (UNIT OF TAFE MOTORS & TRACTOR LTD.)' matches this structure. Role = manufacturer (own tractor/engine/gear plants), not a trader. CIN, PAN, GSTIN, incorporation date and GST status could NOT be verified: searx web_search was down (connection refused), zaubacorp/thecompanycheck returned HTTP 403, tofler 404, instafinancials served only a generic landing page, Google returned 429 and Bing/DuckDuckGo returned irrelevant or timed-out results. Therefore all registry identifiers are null rather than guessed — do not treat any CIN/PAN/GSTIN as known. State: input declared no state; group registered office is Chennai, Tamil Nadu. HS codes declared (8701.90/8701.91 tractors, 8708.99 parts) are consistent with the actual product line (tractors, engines, transmission components) — no HS correction needed. No rejection grounds: entity exists and is active."
+}

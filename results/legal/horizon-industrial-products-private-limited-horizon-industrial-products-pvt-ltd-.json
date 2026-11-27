@@ -1,0 +1,18 @@
+{
+ "name_input": "HORIZON INDUSTRIAL PRODUCTS PRIVATE LIMITED; HORIZON INDUSTRIAL PRODUCTS PVT. LTD.; HORIZON INDUSTRIAL PRODUCTS PVT LTD; HORIZON INDUSTRIAL PRODUCTS PVT. LTD",
+ "legal_name": "HORIZON INDUSTRIAL PRODUCTS PRIVATE LIMITED (unverified - name as claimed in input only)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: web_search backend refused connections (searx: Connection refused); DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only generic 'Horizon' brand results with the quoted company name ignored, so no MCA/registry hit was produced. Direct fetches of registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited revenue figures for FY25/FY26 were located. Per project rules nothing is invented: all such fields are null. NOT rejected - absence of a verified record in this run is not evidence that the entity does not exist, is struck off, liquidated or bankrupt; rejection requires positive proof of one of those conditions, which was not obtained. Role left as 'unknown' because manufacturer vs trader status cannot be established without filings. Declared HS 870899 (motor-vehicle parts) and industry 'Авиастроение и транспорт' are unverified against any registry record; per rules an HS mismatch would not be a rejection ground in any case. Recommended follow-up: re-run with working search, or query MCA master data / GST portal directly by exact legal name and by state to resolve the correct entity, since 'Horizon Industrial Products' is a common trade name and multiple similarly named entities may exist."
+}

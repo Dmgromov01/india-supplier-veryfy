@@ -1,0 +1,9 @@
+{
+ "name_input": "GOOD EARTH MINERALS PVT LTD; GOOD EARTH MINERALS PVT.LTD.; GOOD EARTH MINERALS PRIVATE LIMITED; GOOD EARTH MINERALS PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Bing returned only generic dictionary/retail results and did not honour the quoted company-name query; Google returned HTTP 429; Zaubacorp returned HTTP 403; Tofler returned 404 for the guessed slug. The OFAC Sanctions List Search page loaded but is a JS-driven form that cannot be queried via plain HTTP GET, so no name screening was actually executed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because nothing was checked - NOT because they were checked and found clean. Do not read these nulls as a clean bill of health. Name ambiguity is severe: 'Good Earth' is a well-known Indian home-decor/luxury retail brand (goodearth.in) and there are unrelated 'Good Earth Tea' and 'GoodEarth Products' entities abroad, so any future search must be anchored on the exact legal name 'GOODEARTH MINERALS PRIVATE LIMITED' plus a CIN/MCA lookup, which was not possible here. No sanctions, court, regulatory, credit-rating or Russia/CIS supply evidence was found or ruled out. Recommend re-running this company once the search backend is restored, with MCA master-data, e-courts/NCLT, OFAC/EU/UK/BIS list screening and credit-rating agency checks. Per project rules, no rejection is proposed: nothing here is a rejection ground, and the absence of data is not a negative finding."
+}
