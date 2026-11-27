@@ -1,0 +1,8 @@
+{
+ "name_input": "Maruti Air",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/marut-air-systems — page renders only the paywalled shell: \"Shipments available for MARUT AIR SYSTEMS, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no B/L numbers visible. Rows actually seen: 0. Second source (volza.com/p/marut-air-systems, eximpedia, trademo) returned HTTP 403; web_search backend returned connection errors on all attempts.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: web_search failed with 'searx: Connection refused' on every query, and no public procurement record was reachable. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что поставок не было: все источники были недоступны (importkey — только заглушка без строк, volza/eximpedia/trademo — 403, поисковик — отказ соединения), поэтому статус честно 'unknown', а не 'none_found'. Заявленный HS 841459 (вентиляторы) не подтверждён и не опровергнут — фактический код не установлен, HS не корректировался. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Юрлицо MARUT AIR SYSTEMS PRIVATE LIMITED в реестрах не проверялось (реестры вне области задачи); оснований для отклонения нет. Требуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}

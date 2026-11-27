@@ -1,0 +1,9 @@
+{
+ "name_input": "ALCHEM INTERNATIONAL LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Research as of today was severely limited: the DuckDuckGo/searx search backend returned connection refused, and Google returned HTTP 429; only Bing HTML results were retrievable, and those returned generic corporate homepage listings (alchem.com, aalchem.com, alcheminternational.com, alchemcorp.com, alchemglobal.com) with no sanctions, litigation, regulatory or Russia/CIS-related hits. No sanctions exposure found in the sources actually reachable (OFAC SDN, UN, EU, UK, BIS Entity List were NOT directly queried — search backend unavailable), therefore sanctions_hit = null (not verified, not a clearance). No Indian court cases (NCLT/HC/SC) identified with party role or status — court_cases = null, not public in retrieved sources. No credit rating (CRISIL/ICRA/CARE/India Ratings) found — rating = null. No regulator actions or negative news with dates found — news_risk = null. No evidence of supplies to Russia or CIS found; company website (alcheminternational.com, fetched) presents itself as a phytochemical/pharma-actives exporter with USFDA inspections listed, but no destination-level shipment evidence was retrievable — rf_supply = null, 'следов поставок в РФ/СНГ не найдено' in accessible sources, which is an absence of evidence, not evidence of absence. Per project rules, sanctions/court/criminal matters are not rejection grounds; nothing here warrants rejection. Recommend re-run of sanctions screening (OFAC/UN/EU/UK/BIS) and Indian court/credit-rating checks when search infrastructure is restored."
+}

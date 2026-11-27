@@ -1,0 +1,8 @@
+{
+ "name_input": "Vedmira Herbals",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/vedmira-herbals (and slug variant /vedmira-herbals-private-limited) returned only the generic page shell: \"Shipments available for VEDMIRA HERBALS, refreshed daily\" — 0 shipment rows actually rendered, no date, destination, HS code or B/L number visible. Source counter: 2 importkey pages opened, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. DuckDuckGo search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, so no domestic-supply page could be located; volza, eximpedia, trademo returned HTTP 403 and importgenius returned a JavaScript challenge page. Source counter: 0 domestic records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось, потому что поисковый бэкенд был недоступен (connection refused), а платные базы (volza, eximpedia, trademo, importgenius) закрыты 403/JS-challenge. ImportKey отдал только шаблон страницы без единой записи — ни даты, ни направления, ни HS, ни номера B/L. Заявленный HS 330510/330590/340111 (шампуни, средства для волос, мыло) не подтверждён и не опровергнут фактическими отгрузками; по правилу 3 несоответствие HS не является основанием для отклонения. Юрлицо не проверялось по MCA в рамках этой роли. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Требуется повторный прогон при работающем поиске или платном доступе к таможенным записям."
+}

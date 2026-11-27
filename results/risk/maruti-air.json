@@ -1,0 +1,9 @@
+{
+ "name_input": "Maruti Air",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research blocked: the web_search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and Bing returned only cached/irrelevant results (D&D 'Marut', HAL HF-24 Marut) regardless of query, so no reliable open-source screening could be completed. What was actually checked: (1) Indian Kanoon — exact-phrase search for 'Marut Air Systems' returned 0 matching results; a looser query returned 11 unrelated judgments (Maharishi Mahesh Yogi, Alim v. State of Uttarakhand, Skoda Auto, etc.) with no party named Marut Air Systems, so no Indian court case against this entity was found, but this is a negative result from one database only and is NOT proof of clean litigation history. (2) Zaubacorp company page returned HTTP 403 (blocked), Tofler search returned 404 — no registry data retrieved. (3) OFAC SDN, UN, EU, UK and BIS Entity List were NOT directly queried (sanctions search tools unreachable); sanctions_hit is therefore null = not verified, not 'clear'. (4) No credit rating (CRISIL/ICRA/CARE/India Ratings) found or checked — null. (5) No negative news, regulator action or RF/CIS supply evidence could be retrieved — null, not confirmed absent. Note the name discrepancy: input 'Maruti Air' vs claimed legal name 'MARUT AIR SYSTEMS PRIVATE LIMITED' — legal identity was out of scope for this role and was not verified. Recommend re-running this company when search connectivity is restored; do not treat nulls here as a clean bill of health."
+}
