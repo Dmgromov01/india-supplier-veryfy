@@ -1,0 +1,18 @@
+{
+ "name_input": "Sunanda foods",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — технический сбой инструментов. Все каналы недоступны: web_search вернул 'Connection refused' (searx), Bing отдавал один и тот же кэшированный нерелевантный набор (певица Sunanda Sharma) на любые запросы, а zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in вернули HTTP 403 Forbidden. Ни одна регистрационная запись не прочитана. Юрлицо с названием 'SUNANDA FOODS' не подтверждено и не опровергнуто: в Индии возможны варианты 'Sunanda Foods', 'Sunanda Foods Pvt Ltd', 'Sunanda Foods LLP', а также ИП/незарегистрированное предприятие — какой именно субъект имеется в виду, из входных данных не следует (PAN, CIN, GSTIN и штат в запросе не указаны). CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA — null, так как не публично доступны через доступные инструменты, а не потому что отсутствуют. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26 — null: аудиторская отчётность и официальные филинги не получены. ВАЖНО: отклонять НЕЛЬЗЯ — оснований для rejected нет, поскольку несуществование/ликвидация/банкротство не установлены; отсутствие данных не равно отсутствию компании. Требуется повторный прогон с рабочим поиском или ручная проверка на mca.gov.in (Master Data) и на портале GST по названию/штату. HS 091099 (специи/семена) не проверялся — по правилам проекта несоответствие HS не является основанием для отклонения."
+}

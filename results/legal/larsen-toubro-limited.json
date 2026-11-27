@@ -1,0 +1,18 @@
+{
+ "name_input": "Larsen & Toubro Limited",
+ "legal_name": "Larsen & Toubro Limited",
+ "cin_llpin": "L99999MH1946PLC004768",
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1946-02-07",
+ "state_registered": "Maharashtra",
+ "state_claimed": null,
+ "mca_status": "Active (listed public limited company; CIN prefix L99999MH1946PLC004768 shown on company's own corporate site)",
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": 290860,
+ "revenue_source": "FY26 consolidated revenue INR 2,90,860 crore per Wikipedia infobox citing L&T consolidated P&L filed on BSE (bseindia.com XML filing, accessed 8 May 2026). FY25 figure not retrieved within tool budget - null, not estimated.",
+ "note": "IMPORTANT DISCREPANCY: the input's legal_claimed field says 'L&T HYDROCARBON ENGINEERING LIMITED', but the name_input is 'Larsen & Toubro Limited'. These are two different legal entities. I verified the parent: Larsen & Toubro Limited, CIN L99999MH1946PLC004768, registered office L&T House, N.M. Marg, Ballard Estate, Mumbai, Maharashtra 400001 - confirmed on the company's own corporate site (larsentoubro.com/corporate/about-lt-group/), which prints the CIN in the footer. Incorporated 7 February 1946 in Bombay (Wikipedia, citing indiankanoon.org/doc/162206794/). L&T Hydrocarbon Engineering Ltd (LTHE) is a separate subsidiary of L&T; I could NOT verify its CIN, incorporation date or GSTIN because zaubacorp.com, thecompanycheck.com and moneycontrol.com all returned HTTP 403 and Wikipedia returned HTTP 429 on the LTHE article. So LTHE's registry data is null here, not absent - it needs a separate lookup. PAN and GSTIN for L&T itself were not retrievable from any public page I could open (all registry aggregators blocked); left null rather than guessed. PAN holder type therefore also null - cannot be derived without the actual PAN. Role: L&T is a diversified EPC + hi-tech manufacturing conglomerate (own manufacturing footprint in 8 countries plus India, per its site), so manufacturer_trader is the closest fit; it is not a pure trader. Declared HS 847989 (machinery with individual functions) is plausible for parts of its portfolio but L&T is not an HS-specific supplier - per project rules this is not a rejection ground and no HS verdict is issued here. No rejection: entity exists, is active and listed. Revenue FY26 is consolidated group revenue, NOT LTHE's or a segment figure - do not use it as an LTHE number."
+}

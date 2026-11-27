@@ -1,0 +1,33 @@
+{
+ "name_input": "M/S RAYCHEM RPG PRIVATE LIMITED; RAYCHEM RPG PVT. LTD. (UNIT-2); M/S RAYCHEM R.P.G. PVT. LIMITED; RAYCHEM RPG PRIVATE LIMITED",
+ "declared_hs": "850421",
+ "actual_hs_list": [
+  "850421",
+  "850422",
+  "850431",
+  "850440",
+  "853590",
+  "853690",
+  "853540",
+  "853620",
+  "854460",
+  "854449",
+  "854690",
+  "854420",
+  "392690",
+  "401519",
+  "853890",
+  "853669",
+  "853661",
+  "853540",
+  "853630",
+  "854470",
+  "761699",
+  "732690",
+  "853810"
+ ],
+ "match_status": "partial",
+ "product_summary": "Raychem RPG (P) Ltd., incorporated 1989, 50:50 JV (Raychem/TE Connectivity + RPG Group). Product lines per own website navigation (raychemrpg.com, accessed via http_get): (1) Power Cable Accessories — LV/MV/HV/EHV joints & terminations, other accessories; (2) Surge arresters (LV/MV/HV/transmission line) and polymeric insulators; (3) Electrical safety & personnel protection — insulating gloves, insulating mats, insulating blankets, arc suits, insulation enhancement systems; (4) Earthing & lightning protection — lightning protection, earthing/termination systems, exothermic welding; (5) Cable management — connectors/lugs & ferrules, clamping, cable glands; (6) Transformers — oil transformers, dry transformers, compact substations; (7) Solar products — SOLARLOK PV4-S split-type junction box; (8) Connectors & fittings — AB cable accessories, C-wedge connectors; (9) Engineered solutions — busbar, build-to-print, railway overhead solutions, enclosures (industrial, ATEX, fire-rated). Manufacturing facilities named on site: Vasai, Chakan, Halol.",
+ "role_hint": "manufacturer",
+ "comment": "HS 8504.21 (liquid-dielectric transformers, power handling capacity ≤650 kVA) is CORROBORATED as one real line: the site lists 'Oil Transformers' and 'Dry Transformers' plus 'Compact Substation' under Transformers (raychemrpg.com product navigation). So the declared code is not wrong — it is simply one narrow slice of a much wider portfolio. Match = partial. Missing from the declaration (all evidenced by the site's own product tree, none corroborated by a customs line in this review, therefore 'заявлено, не подтверждено'): dry-type transformers are NOT 8504.21 — they fall under 8504.31/8504.32/8504.33/8504.34 depending on rating, so a separate code is needed if dry transformers are shipped; compact substations/prefabricated substations → 8537.20 or 8504.23 depending on configuration; cable joints/terminations and connection kits (heat-shrink, cold-shrink) → 8535.90 / 8536.90 / 8544.60-family accessories; surge arresters → 8535.40; polymeric insulators → 8546.90 (or 8546.20 if glass); insulating gloves/mats/blankets/arc suits → 4015.19 (gloves), 3926.90 / 4008/4016 for mats and blankets, arc-flash suits → 6210.40/6211.20 (textile-based) — a completely different chapter from the declared 85; earthing and exothermic welding kits → 8311.30 / 8311.90 (welding powders/wires) and 8535.90; lugs, ferrules, C-wedge and AB cable connectors → 8536.90 / 8536.69 / 8536.61; cable glands → 8536.90 or 3926.90 (plastic); busbar → 7407.10 (copper) / 7616.99 (aluminium) / 8538.90 if busbar systems; enclosures (industrial, ATEX, fire-rated) → 8538.10 / 8538.90; SOLARLOK PV junction box → 8536.90 or 8541.40-adjacent; railway overhead line equipment → 8535.90 / 8607.99. Industry label 'Энергетика' is broadly correct but understates the scope: the company also serves infrastructure, defence & aerospace, EV and metro/railways (site 'Industries & Applications'), i.e. it is an electrical-infrastructure and engineered-solutions manufacturer, not a pure power-sector supplier. Trader signs: none found — the site presents own manufacturing plants (Vasai, Chakan, Halol) and own product catalogues/certificates, consistent with manufacturer role; however the Raychem/TE-Connectivity brand heritage means some SKUs may be licensed/imported rather than made in India — not verifiable from public pages, so null. No customs/B-L line was available in this review, so no shipment-level corroboration of any code: all product-to-HS mappings above are 'заявлено, не подтверждено'. Per project rule 3, the HS mismatch is NOT a rejection ground: company is retained, declared 8504.21 kept as valid for the oil-transformer line, and the code list should be expanded to the actual portfolio."
+}

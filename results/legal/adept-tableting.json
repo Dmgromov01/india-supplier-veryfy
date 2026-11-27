@@ -1,0 +1,18 @@
+{
+ "name_input": "Adept Tableting",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No legal entity could be verified. The primary search backend (DuckDuckGo/searx) was down (connection refused) for the whole session; fallback Bing queries for the exact phrase \"Adept Tableting\" returned only generic dictionary/brand results (Merriam-Webster, Adept Corp, Adept Fluidyne, ADEPT architects) and no Indian company, GST profile, MCA record or IndiaMART page. Registry aggregators were inaccessible: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, thecompanycheck.com HTTP 404, Google HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings found. Role left 'unknown' rather than guessed. Note on the input: the 'legal_claimed' field contains a person's name (MANOJ BABULAL SINGHANIA), not a company name, so no legal entity name was supplied to match against; 'Adept Tableting' may be a trade name, a proprietorship or a partnership firm, which would have no CIN at all. Per project rules the company is NOT rejected - non-existence was not established, only non-verifiability. Declared HS 848299 (ball/roller bearings, other) is inconsistent with a tableting/press-equipment name and with the claimed industry 'metallurgy and mining'; per rule 3 this is not a rejection ground - the HS code should be corrected to the actual product code once the entity and its product line are identified. Recommended next step: re-run with a working search backend and a confirmed legal name or GSTIN, and check the Udyam/proprietorship register if it is an unincorporated firm."
+}
