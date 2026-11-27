@@ -1,0 +1,18 @@
+{
+ "name_input": "N R GLOBAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'N R GLOBAL' — не уникальное наименование: под него подходят десятки юрлиц и proprietorship-фирм (N R Global, N.R. Global Traders, N R Global Exports и т.п.), а входные данные не содержат ни PAN, ни штата, ни CIN, ни города — привязать запись к конкретному юрлицу нельзя. Проверенные попытки: DuckDuckGo (searx) — бэкенд недоступен (connection refused); zaubacorp.com — HTTP 403; thecompanycheck.com — 404 по поисковому URL; instafinancials.com — 403; mca.gov.in — 403; indiamart.com — 429; cleartax GST-поиск — 'No details found' (поиск работает только по 15-значному GSTIN, которого нет). Bing/Google выдали нерелевантную выдачу. Итог: exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, дата инкорпорации, MCA status и выручка FY25/FY26 — null, публично не подтверждены в рамках этой проверки. Роль — unknown (заявленный профиль «продукты питания и FMCG» + HS 071040/071140/200110 указывает на торговлю/переработку пищевой продукции, но это заявление, не подтверждённое реестром). ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не равно отсутствию юрлица; статус 'не идентифицировано', требуется от поставщика GSTIN или CIN для однозначной привязки. HS-коды не проверялись на соответствие (по правилам проекта HS не является основанием для отклонения)."
+}

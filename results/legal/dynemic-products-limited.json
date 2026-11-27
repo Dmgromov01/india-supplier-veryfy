@@ -1,0 +1,18 @@
+{
+ "name_input": "DYNEMIC PRODUCTS LIMITED",
+ "legal_name": "Dynemic Products Limited",
+ "cin_llpin": "L24230GJ1989PLC012802 (unverified — MCA/Zauba/TheCompanyCheck returned HTTP 403; CIN pattern is consistent with a 1989 Gujarat public limited company but could not be read from an official page in this session)",
+ "pan": "null — not found on any accessible public page; PAN cannot be derived from CIN, so not invented",
+ "pan_holder_type": "null — PAN unknown, therefore 4th-character holder type cannot be determined",
+ "gstin": "null — no public GST profile page could be retrieved (search backend refused connections; aggregator pages 403)",
+ "gst_status": "null — not verified",
+ "incorporation_date": "1990 (per Screener.in company profile: 'Incorporated in 1990'); exact date not verified against MCA",
+ "state_registered": "Gujarat (Ahmedabad/Dholka area) — inferred from the CIN state code 'GJ' and Screener listing; registered-office address not read from an official MCA page",
+ "state_claimed": "",
+ "mca_status": "null — MCA master data not retrievable (403 on registry aggregators). No evidence of strike-off, liquidation or bankruptcy found; company is actively listed and filing (BSE: 532707, NSE: DYNPRO)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 368,
+ "revenue_fy26_cr": 379,
+ "revenue_source": "Screener.in consolidated annual P&L (BSE/NSE filings): FY2025 (Mar-2025) sales Rs 368 cr, FY2026 (Mar-2026) sales Rs 379 cr; standalone FY25 367 cr / FY26 378 cr. Figures are exchange-filed annual results as compiled by Screener, not the audited PDF itself (BSE PDF endpoint returned an empty page).",
+ "note": "Legal entity exists and is an actively listed public limited company (BSE 532707 / NSE DYNPRO), manufacturer of food colours, lake colours and dye intermediates — consistent with declared HS 3204/3205 (synthetic organic colouring matter). No rejection grounds: no evidence of non-existence, strike-off, liquidation or bankruptcy. Registry identifiers (CIN, PAN, GSTIN, exact incorporation date, MCA status) could NOT be confirmed from official sources in this session: web_search backend was down (connection refused) and Zauba/TheCompanyCheck/InstaFinancials returned 403 or only boilerplate. CIN shown is a pattern-based candidate and must be re-verified on MCA before use; PAN and GSTIN are left null rather than guessed. Revenue figures come from exchange-filed annual results via Screener.in, not from the audited statements themselves — treat as provisional pending the FY25/FY26 annual report PDFs."
+}

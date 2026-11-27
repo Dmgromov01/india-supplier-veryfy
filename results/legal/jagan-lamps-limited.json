@@ -1,0 +1,18 @@
+{
+ "name_input": "Jagan Lamps Limited",
+ "legal_name": "Jagan Lamps Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Haryana",
+ "state_claimed": "",
+ "mca_status": "Active (listed on BSE, code 530711; no strike-off/liquidation/insolvency indication found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 49.8,
+ "revenue_fy26_cr": 42.04,
+ "revenue_source": "Screener.in company page for BSE:530711 (Jagan Lamps Ltd), Profit & Loss table, standalone, figures in Rs crore: Mar 2025 Sales 49.80, Mar 2026 Sales 42.04; derived from the company's published audited/limited-reviewed results filed with BSE (jaganlamps.com/investors lists annual reports and quarterly results).",
+ "note": "Entity existence confirmed: listed public limited company, BSE scrip 530711, own website jaganlamps.com with SEBI LODR Reg.46 investor section (annual reports FY2016-17 to FY2025-26, 34th AGM notice for FY2025-26 => incorporation approx. 1991-92, exact date not verified). Registered/operating address per company website: Narela Piao Manihari Road, Distt Kundli, Sonipat, Haryana 131028; manufacturing at Kundli (built 2017) and Noida SEZ, plus offices in Warwickshire UK and Texas USA. State registered = Haryana (per company's own published address); input state_claimed was empty, so no mismatch to assess. Role = manufacturer (own plants, 2 manufacturing facilities per Screener key insights; automotive bulbs/lamps). NOT VERIFIED / null: CIN (zaubacorp, thecompanycheck, instafinancials all returned HTTP 403 or no data; guessed CIN patterns were deliberately not used), PAN (not public in accessible sources; holder-type therefore null), GSTIN and GST status (no public profile page retrievable; search backend was down - searx connection refused), exact date of incorporation, MCA status from MCA master data (inferred only from active BSE listing and continuous filings). Revenue figures are Screener's transcription of the company's filed results, not read directly from the audited PDF; treat as filing-based but second-hand. Declared HS 851220/853921/870899 is consistent with automotive lighting products, but HS verification is outside this role's scope and no HS-based rejection applies."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "PARAMOUNT AROMACHEM PRIVATE LIMITED",
+ "legal_name": "PARAMOUNT AROMACHEM PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool failed on every attempt (searx: connection refused), and direct fetches of registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in and instafinancials.com returned HTTP 404 for the guessed URL slugs, falconebiz.com returned HTTP 403. Bing HTML search returned only unrelated Paramount media/streaming results, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed. No CIN/PAN/GSTIN was invented. Per project rules, rejection is NOT applied: absence of retrievable public records in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' (no evidence of manufacturing vs trading). Revenue FY25/FY26 set to null because no audited accounts or official filings were accessible. Recommended follow-up: re-run with a working search backend and query MCA master data (mca.gov.in / MCA-21 'Check Company Name'), the GST taxpayer search portal (gst.gov.in search by PAN/name), and the Udyam/GeM registries; also confirm whether the correct legal name is 'PARAMOUNT AROMACHEM' or the commonly seen variant 'PARAMOUNT AROMACHEMS PRIVATE LIMITED' before locking the CIN. Declared HS 291429 (cyclanic/cyclenic/cycloterpenic ketones) is consistent with an aroma-chemicals business but was not used as a rejection ground per rules."
+}

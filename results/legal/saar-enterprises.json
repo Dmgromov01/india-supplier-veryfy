@@ -1,0 +1,18 @@
+{
+ "name_input": "Saar Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один публичный реестровый источник не подтвердил существование компании с названием 'Saar Enterprises' в Индии. Ход проверки: (1) web_search (DuckDuckGo/searx) недоступен — 'Connection refused'; (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — HTTP 404; (4) instafinancials.com — HTTP 404; (5) tofler.in/search — HTTP 404; (6) mca.gov.in — HTTP 403; (7) Google/Bing/DuckDuckGo HTML-выдача по запросам '\"SAAR ENTERPRISES\" GSTIN', '\"Saar Enterprises\" India company registration rice OR food', '\"SAAR ENTERPRISES\" site:zaubacorp.com OR site:tofler.in OR site:thecompanycheck.com' вернула только нерелевантные результаты (Saarland, DD Form 2875 SAAR, мем 'saar') — то есть ни одного индийского корпоративного профиля найдено не было. Следствие: CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 — null, публично не подтверждены в рамках доступных источников. Название 'Saar Enterprises' типично для sole proprietorship / partnership (не LLP/Private Limited), у таких форм CIN отсутствует по определению, а GSTIN публикуется только на коммерческих агрегаторах, которые были недоступны. ВАЖНО: отсутствие подтверждения НЕ является основанием для отклонения по правилам проекта — компания НЕ отклоняется, статус 'unknown', требуется доуточнение (GSTIN или PAN от поставщика, либо скрин профиля GST). HS-коды 100630/100640 (рис) в заявке не проверялись по существу и не являются основанием для отклонения. Роль (manufacturer/trader) не определена — нет данных о деятельности. Фактичность отгрузок в рамках данной роли не исследовалась (вне скоупа legal/registry specialist)."
+}

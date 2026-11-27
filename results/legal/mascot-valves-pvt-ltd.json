@@ -1,0 +1,18 @@
+{
+ "name_input": "MASCOT VALVES PVT LTD",
+ "legal_name": "MASCOT VALVES PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. All 10 tool calls were used: web_search backend was down (searx connection refused); Bing/Google/DuckDuckGo returned only irrelevant 'mascot' dictionary/workwear results and no company pages; ZaubaCorp, TheCompanyCheck and MCA master-data returned HTTP 403; Tofler search returned 404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue are all null — NOT verified, not absent. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules absence of data is not grounds for rejection. Role left as 'unknown' (no evidence of manufacturing vs trading). HS codes 848180/848190 (valves) are plausible for a valve company but were not checked against any filing; per rules HS mismatch is not a rejection ground anyway. Recommended next step: manual lookup on MCA V3 portal / GST public search using the exact legal name, or obtain the company's GSTIN/PAN directly from the supplier, then re-run this record."
+}
