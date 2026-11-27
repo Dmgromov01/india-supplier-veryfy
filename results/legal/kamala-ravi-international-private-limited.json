@@ -1,0 +1,18 @@
+{
+ "name_input": "Kamala Ravi International Private Limited",
+ "legal_name": "KAMALARAVI INTERNATIONAL PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (connection refused) on both queries, and direct reads of registry/aggregator pages failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in and instafinancials.com returned 404 for the slug, falconebiz.com served only its landing page (JS-gated search). Google and Bing result pages returned unrelated content (no matching entity), so no CIN, PAN, GSTIN, incorporation date, registered state or MCA status could be confirmed from a public source. Per project rules, no identifiers or figures are invented: all such fields are null. Revenue FY25/FY26 null - no audited accounts or official filings located. Role left as 'unknown' - no registry evidence of manufacturing plant, trade licence or service activity. NOT rejected: absence of verifiable data is not proof of non-existence; the entity may well exist under this or a slightly different spelling (e.g. 'Kamala Ravi International Pvt Ltd'). Recommended next step: manual MCA master-data lookup by name and by director DIN, plus GST portal search on the legal name, before any verdict. Declared HS 294200/300490 (organic chemicals / medicaments) is inconsistent with the claimed industry 'oil & gas and chemistry' - if the entity is confirmed, the HS code should be corrected to the actual product line and the verdict set to accepted_hs_corrected rather than rejected."
+}

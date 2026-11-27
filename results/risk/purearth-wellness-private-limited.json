@@ -1,0 +1,9 @@
+{
+ "name_input": "Purearth Wellness Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable findings. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML/lite endpoints timed out; Bing returned only irrelevant, non-matching results (unrelated ADP/StackExchange/X.com pages) with no hit for 'Purearth Wellness'; zaubacorp.com and thecompanycheck.com returned HTTP 403; the OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) is JavaScript-driven and cannot be queried by plain HTTP GET, so no SDN/consolidated-list screening result was obtained. Therefore: sanctions exposure = NOT SCREENED (null, not 'clear'); Indian court cases (party role/status) = not retrieved (null); regulator actions and negative news = not retrieved (null); credit rating with date/status = not retrieved (null); evidence of supplies to Russia/CIS = not retrieved (null). No claim in this record is sourced, and nothing here should be read as a clean bill of health. Per project rules this is not a rejection ground - the company stays in the database; the risk fields must be re-run once search access is restored. Recommended next steps for the re-run: (1) OFAC SDN + consolidated non-SDN name screen via the official search tool or the downloadable SDN CSV; (2) UN Consolidated, EU consolidated, UK OFSI consolidated and BIS Entity List screens; (3) eCourts / NCLT / High Court party-name search for 'Purearth Wellness'; (4) CRISIL/ICRA/CARE/India Ratings/Brickwork rating lookup; (5) Russian/CIS import records (e.g. customs and B-L aggregators) for shipments to RU/BY/KZ/AM/KG."
+}

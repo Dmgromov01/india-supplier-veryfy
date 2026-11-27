@@ -1,0 +1,18 @@
+{
+ "name_input": "Lotus jewels",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification not possible in this run: the search backend returned connection refused for all queries, and every registry/profile source attempted was blocked or unavailable (zaubacorp.com 403, thecompanycheck.com 404, instafinancials.com 403, mca.gov.in 403, google.com 429, duckduckgo.com timeout). No exact legal entity name, CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, so all such fields are null and NOT invented. 'Lotus jewels' is a generic trade name with many possible Indian entities (jewellery retail/wholesale); without a state, city, PAN or GSTIN in the input it cannot be uniquely matched to a legal entity. Note the input is internally inconsistent: declared HS 711319 (jewellery/precious metal) vs industry_claimed 'Продукты питания и FMCG' (food/FMCG) - per project rules this is not a rejection ground; the HS code should be treated as the factual one (jewellery) and the industry label corrected. Role recorded as 'unknown' (no evidence of manufacturing vs trading). No rejection applied: absence of verifiable data is not proof of non-existence, and no evidence of strike-off/liquidation/bankruptcy was found either. Recommend re-run with a state/city, GSTIN or PAN, or a website/IndiaMART profile URL to disambiguate."
+}

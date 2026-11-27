@@ -1,0 +1,38 @@
+{
+ "name_input": "KANDLA AGRO & CHEMICALS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Income Tax Appellate Tribunal, Rajkot Bench",
+   "case": "ITA No. 48/Rjt/2021 (A.Y. 2015-16) — M/s Kandla Agro & Chemicals Pvt. Ltd. vs ACIT, Gandhidham Circle",
+   "role": "appellant / assessee",
+   "status": "decided 27.09.2023 (reported on Indian Kanoon)",
+   "source": "https://indiankanoon.org/search/?formInput=Kandla+Agro"
+  },
+  {
+   "court": "Gujarat High Court (Ahmedabad)",
+   "case": "R/PETN. under Arbitration Act No. 108 of 2025 — Kandla Agro and Chemicals Pvt. Ltd. vs Reliance General Insurance Co. Ltd.",
+   "role": "petitioner",
+   "status": "order dated 01.08.2025 (Justice Sunita Agarwal)",
+   "source": "https://indiankanoon.org/search/?formInput=Kandla+Agro"
+  },
+  {
+   "court": "Delhi High Court",
+   "case": "Merino Industries Limited vs Shri Mayank Bansal (07.02.2022) — company mentioned only as prospective employer of a defendant employee, not a party",
+   "role": "third-party mention, not a party",
+   "status": "n/a",
+   "source": "https://indiankanoon.org/search/?formInput=Kandla+Agro"
+  },
+  {
+   "court": "ITAT Rajkot (related group matters)",
+   "case": "Gautam Freight Pvt. Ltd. / Kandla Export / Kutch Salt & Allied Industries (orders 17.03.2025 and 28.02.2025) — company cited as a comparable/related party for interest-free-funds argument",
+   "role": "cited comparable, not a party",
+   "status": "n/a",
+   "source": "https://indiankanoon.org/search/?formInput=Kandla+Agro"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: NOT VERIFIED — the OFAC SDN/Non-SDN search tool is a JS form that returns no results via plain HTTP GET, and the web_search backend (DuckDuckGo/searx) was down for the entire session ('Connection refused'), so OFAC, UN, EU, UK and BIS Entity List screening could not be completed. sanctions_hit is null because the check was not performed, NOT because the company is confirmed clean; re-run screening before onboarding. Court cases: only Indian Kanoon was reachable (indiankanoon.org). Found a tax appeal (ITAT Rajkot ITA 48/Rjt/2021, decided 27.09.2023) and a Gujarat HC arbitration petition against Reliance General Insurance (Petn. 108/2025, 01.08.2025) — both ordinary commercial/tax litigation, no criminal matter, no sanctions/export-control prosecution surfaced. Per project rules these are not rejection grounds and are noted neutrally. Rating: null — no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; credit-rating agency sites were not reachable and search was unavailable, so absence is not evidence of a clean rating. News/regulator actions: null — could not be researched (search backend down); no adverse regulatory action found in the sources actually reachable. RF/CIS supply: null — Indian Kanoon full-text search for 'Kandla Agro & Chemicals' combined with 'Russia' returned no matching results, which is a null/negative on court-record evidence only, not proof of absence of trade; no customs, B/L or open-source trade data could be checked. Note the name discrepancy: the batch record claims 'KANDLA AGRO & METAL PRIVATE LIMITED' while all court records and the claimed HS 382319 context point to 'KANDLA AGRO & CHEMICALS PRIVATE LIMITED' — legal-identity verification is outside my scope, flagging for the identity researcher. No CIN, PAN, revenue or shipment figures asserted here."
+}

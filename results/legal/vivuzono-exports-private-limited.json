@@ -1,0 +1,18 @@
+{
+ "name_input": "Vivuzono Exports private limited",
+ "legal_name": "VIVUZONO EXPORTS PRIVATE LIMITED (as claimed in input; not independently confirmed in any accessible registry source)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - data unavailable, not a rejection. Tooling failures: web_search backend returned connection refused (searx) on both queries; Bing/Google/DuckDuckGo HTML endpoints returned irrelevant results, 429 or timeouts; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in, instafinancials.com and quickcompany.in returned 404 for the guessed slug; falconebiz.com served only a generic search shell (JS-gated, no company record); mca.gov.in Master Data returned 403. No CIN, PAN, GSTIN, incorporation date, registered state, MCA status or revenue figures could be read from any official filing or public profile, so all such fields are null rather than inferred. PAN holder type cannot be derived because no PAN is available. Role left as 'unknown' - the 'Exports' suffix in the name is not evidence of manufacturer vs trader status. Revenue FY25/FY26: no audited accounts or MCA filings located, hence null. Per project rules the company is NOT rejected: absence of accessible records is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found either. Recommended next step: re-run with a working search backend, or query MCA Master Data / GST portal directly by legal name to obtain CIN and GSTIN before any sourcing decision. Declared HS 851712 (mobile phones) is unverified against actual business activity and should not be treated as confirmed."
+}
