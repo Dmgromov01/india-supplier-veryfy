@@ -1,0 +1,9 @@
+{
+ "name_input": "GSE Support India Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing по точным фразам \"GSE Support India Private Limited\" / \"GSE SUPPORT INDIA\" выдавал только нерелевантные результаты про 'GSE' (Gestore dei Servizi Energetici, GSE Group, government-sponsored enterprises) — ни одного совпадения с индийской компанией. Zauba Corp вернул HTTP 403, Tofler/IndiaMART не открывались. OFAC Sanctions List Search — JS-форма, прямой GET-запрос не даёт результатов поиска, поэтому санкционный скрининг фактически НЕ выполнен. По всем полям null: это означает 'не найдено/не проверено', а НЕ 'чисто'. Никаких утверждений о санкциях, судах, рейтинге, негативных новостях или поставках в РФ/СНГ не подтверждено источниками, поэтому они не заявляются. Требуется повторный прогон при доступном поиске и ручной скрининг по OFAC SDN, UN, EU, UK OFSI, BIS Entity List, а также по eCourts/NCLT и реестру MCA. Отклонение по правилу 3 не применяется — оснований (ликвидация/банкротство) не установлено."
+}
