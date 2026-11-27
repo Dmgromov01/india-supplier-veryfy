@@ -1,0 +1,18 @@
+{
+ "name_input": "Anagh Foods (Anaghaya)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни одна реестровая запись не найдена и не подтверждена. Причина техническая — поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; zaubacorp.com, instafinancials.com и thecompanycheck.com отдали 403/404; tofler.in — 404; Google — 429; Bing возвращал нерелевантную выдачу (Amazon, Jersey Mike's), т.е. фильтрация запроса не сработала. По названию 'Anagh Foods' / 'Anaghaya' и имени 'DEEPANSHU AGARWAL' НИ ОДНОЙ публичной записи (CIN/LLPIN, PAN, GSTIN, MCA-статус, дата инкорпорации, штат) получить не удалось. Важно: 'DEEPANSHU AGARWAL' в поле legal_claimed — это имя физлица (вероятно, проприетор/директор), а не название юрлица; юрлицо может быть proprietorship/partnership без CIN, что дополнительно требует проверки по GST-профилю, который недоступен. Все поля оставлены null — цифры не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие данных не равно несуществованию юрлица (правило 3). Роль оставлена 'unknown' — заявленные HS 200819/200989/210690 (фруктовые/овощные консервы, соки, пищевые препараты) указывают на пищевое производство или трейдинг, но фактический характер деятельности не подтверждён. Требуется повторный прогон при доступных источниках: MCA-поиск по имени директора, GST-поиск по PAN/торговому названию, либо запрос GSTIN у поставщика напрямую."
+}

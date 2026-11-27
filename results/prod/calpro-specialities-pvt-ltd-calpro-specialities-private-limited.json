@@ -1,0 +1,31 @@
+{
+ "name_input": "CALPRO SPECIALITIES PVT LTD.; CALPRO SPECIALITIES PRIVATE LIMITED",
+ "declared_hs": "180500;210690",
+ "actual_hs_list": [
+  "180500",
+  "040210",
+  "040221",
+  "040490",
+  "040630",
+  "040690",
+  "350110",
+  "350220",
+  "350400",
+  "210690",
+  "170490",
+  "130239",
+  "382499",
+  "350510",
+  "350400",
+  "210610",
+  "230990",
+  "040299",
+  "040390",
+  "210112",
+  "180690"
+ ],
+ "match_status": "partial",
+ "product_summary": "По собственному сайту (calprospecialities.com, прочитано 23.11.2026) компания заявляет себя как «technology-driven manufacturer of high-performance dairy and food ingredients» с производственной площадкой в Kosi Kalan (Mathura, UP) и R&D/application-центром в Gurugram. Реальные товарные линии, перечисленные на сайте: (1) Cocoa Powder — прямо указано, что это НЕ своё производство, а импортируемые порошки Cargill/Gerkens (Gerkens NF, DL62, DL70, GB78, GD81, BL80) — натуральные и алкализованные; (2) Dairy Ingredients — сухие молочные порошки, в т.ч. Fat Filled Milk Powder, Cheese Powder, Fat Powders, Non Dairy Creamer, Beverage Whitener, Whipping Agent; (3) Proteins — WPC 80 (functional/instant/sugarfree), WPI, Sodium Caseinate, Calcium Caseinate, MPC 80, витальный пшеничный глютен, pea protein concentrate, soya protein isolate (ISP), Pro2O Protein Bar Premix 85%; (4) Hydrocolloids & Stabilizers — каррагинан, пектин, гуаровая камедь и кастомные пектиновые бленды; (5) Bakery improvers — Cake Improver, Spark Cookie Improver, Probake-HG; (6) Nutraceutical & other ingredients, preservatives, emulsifiers, fibres. Итог: заявленный HS 180500 (какао-порошок без добавок сахара) подтверждается товарной линией, но это импортный перепродажный товар (Cargill/Gerkens), а не собственный продукт. HS 210690 — это лишь «прочее пищевое сырьё» и не покрывает основную массу портфеля: молочные порошки (0402), казеинаты/молочные белки (3501), WPC/WPI/изоляты (3502/3504), гидроколлоиды (1302/3824), глютен (1109/3504), improvers (2106/3824). То есть декларация описывает примерно 1 из 6 товарных линий.",
+ "role_hint": "manufacturer_trader — сайт подчёркивает «manufacturing-first approach (not just trading)» и наличие завода в Kosi Kalan, но по факту значительная часть портфеля — импортируемые и перепродаваемые ингредиенты (какао Cargill/Gerkens — прямо «exclusive partners for Cargill Cocoa»; молочные порошки и белки «sourced from our global partners»). Признаки трейдера: импорт брендового товара, «curated portfolio through global sourcing», дистрибуция гидроколлоидов и белков. Признаки производителя: собственная площадка, R&D, заявление о производстве milk powders / dairy proteins / fat systems. Смешанная модель.",
+ "comment": "Сверка HS по товарному каталогу сайта. 180500 — точное попадание в товарную линию (какао-порошок без добавок сахара, натуральный и алкализованный), но это импорт Cargill/Gerkens, т.е. перепродажа, а не выпуск. 210690 — частичное: подходит только для «прочих пищевых ингредиентов/смесей» (nutraceutical, premix, improvers), но не для основной выручки. Основные линии НЕ задекларированы: сухие молочные порошки и Fat Filled Milk Powder (0402.10/0402.21/0402.29), Cheese Powder (0406.30/0406.90), Non Dairy Creamer / Beverage Whitener / Whipping Agent (обычно 2106.90 либо 0401/0403-based — требует уточнения состава), казеинаты натрия/кальция (3501.10/3501.90), WPC/WPI (3502.20/3502.20/3504), MPC (0404.90), витальный пшеничный глютен (1109.00 или 3504.00), pea protein / soya protein isolate (3504.00 / 2106.10), гидроколлоиды — каррагинан (1302.39), пектин (1302.20), гуаровая камедь (1302.32), бленды стабилизаторов (3824.99), cake/cookie improvers (2106.90 или 3824.99). Отраслевая классификация «Продукты питания и FMCG» неточна: компания — B2B-поставщик пищевых ингредиентов и функциональных систем для промышленных производителей (dairy, bakery, confectionery, nutrition), а не FMCG-бренд. Все перечисленные товары — «заявлено, не подтверждено»: ни одна позиция не подтверждена таможенной строкой в рамках этой проверки (объёмы и таможенные записи не исследовались по условиям роли). Вердикт по правилу 3: HS-несоответствие НЕ является основанием для отклонения — компания сохраняется в базе, код расширяется до фактического ассортимента, вердикт accepted_hs_corrected с оговоркой о неполной декларации. Источники: https://calprospecialities.com/ (главная, About/Company Overview), https://calprospecialities.com/cocoa-powder, https://calprospecialities.com/proteins. Страница dairy-ingredients по прямому URL вернула 404 — состав молочной линии взят из навигации и главной страницы, детальный перечень по ней не подтверждён."
+}

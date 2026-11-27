@@ -1,0 +1,26 @@
+{
+ "name_input": "Anagh Foods (Anaghaya)",
+ "declared_hs": "200819;200989;210690",
+ "actual_hs_list": [
+  "0904 (pepper, dried chillies, spices)",
+  "0910 (spice mixtures, masalas)",
+  "1006 (rice)",
+  "1101-1104 (cereal flours/grouts)",
+  "0701-0810 (fresh fruit & vegetables)",
+  "0902 (tea)",
+  "0901 (coffee)",
+  "2101 (chicory/coffee-tea preparations)",
+  "1904/1905 (cereal-based snacks, breakfast cereals)",
+  "2005/2008 (prepared/preserved vegetables, fruit, nuts)",
+  "2106 (food preparations, superfood powders)",
+  "1507-1515 (fats, oils, emulsions)",
+  "1704 (sugar confectionery, Indian sweets)",
+  "2009 (fruit juices)",
+  "2008 (roasted/processed nuts)",
+  "0713/0712 (dried legumes, dried vegetables)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website anaghfoods.com (accessed via http_get) describes the company as a 'specialized Indian food sourcing and export company' offering B2B bulk food supply, white label/private label manufacturing and branded Indian food products. Declared product categories on the site: (1) Premium Spices & Condiments; (2) Cereal & Cereal Products (rice & grains); (3) Fresh Fruit and Vegetables; (4) Exquisite Tea, Coffee & Chicory; (5) Snacks, Sweets & Savouries; (6) Wellness Superfoods; (7) Fats, Oils & Emulsions; (8) Processed & Agri Food Products. Brands represented per site: Bikaram Chandmal (Bikaner, sweets/snacks), Punjab Agri Export Corporation Ltd (PAGREXCO), Five Rivers (organic), VLS Foods (ready-to-eat breakfast cereals, energy bars, snacks, functional foods). Contact page: Unit 1107, Floor 11, Emaar Palm Square, Sector 66, Gurugram, Haryana; phone +91 9810974274. No product-level specification, no HS codes and no catalogue with item names was published on the pages read; the /products page returned only a title with no content.",
+ "role_hint": "trader",
+ "comment": "Declared codes 200819 (prepared nuts), 200989 (other fruit juices) and 210690 (other food preparations) cover only a narrow slice of the declared range. The site's own category list is dominated by products that fall outside these headings: spices and condiments (HS 0904-0910), rice and cereals (1006, 1101-1104), fresh fruit and vegetables (ch. 07-08), tea/coffee/chicory (0901-0902, 2101), cereal snacks and breakfast cereals (1904/1905), fats and oils (ch. 15), Indian sweets (1704). So the declaration is PARTIAL: 210690 is a plausible catch-all for superfood/functional preparations and 200819 for processed nuts, but the bulk of the declared business lines (spices, grains, fresh produce, tea/coffee, oils) is missing from the declaration. Per project rule 3 this is NOT a rejection ground - the company stays in the base and the code set should be corrected/extended to the actual range above. Industry classification 'Продукты питания и FMCG' is broadly correct but imprecise: the company is a sourcing/export trader and brand representative, not a manufacturer - role_hint trader (site: 'sourcing and export company', 'exclusive brand representation agreements', 'white label & private label manufacturing' done by partners). Trader signs: no own plant, no manufacturing address, portfolio built entirely from third-party brands (Bikaram Chandmal, PAGREXCO, Five Rivers, VLS Foods). Everything above is taken from the company's own website only - no customs line, invoice or shipment record was available in this task, therefore the entire product range is 'заявлено, не подтверждено'. No product-level HS evidence could be verified; the /products page was empty, so even the category list is unconfirmed at item level. Note: the name variant 'Anaghaya' could not be corroborated on the site - the site brands itself only as 'Anagh Foods'; the link between the two names is unverified. No registry, revenue or customs data was researched per task scope."
+}

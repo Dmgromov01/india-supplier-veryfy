@@ -1,0 +1,18 @@
+{
+ "name_input": "Conic Automotive Pvt. Ltd",
+ "legal_name": "CONIC AUTOMOTIVE PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: DuckDuckGo search backend refused connections (Errno 111) on both queries; Bing returned only irrelevant 'conic section' mathematics results for three different exact-name queries; zaubacorp.com, thecompanycheck.com and mca.gov.in/mcafoportal all returned HTTP 403; instafinancials.com returned 404; tofler.in search returned 404; Google returned HTTP 429. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this run, NOT evidence of non-existence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role is 'unknown': the input gives no evidence of own manufacturing vs trading, and product catalogues/IndiaMART-type claims are explicitly out of scope for this role. Per project rules the company is NOT rejected: absence of retrievable registry data is not proof that the entity does not exist, is struck off, liquidated or bankrupt. HS 870899 (motor-vehicle parts) is retained as declared; no HS correction is proposed since no actual product/export data was examined. Recommended next step: manual MCA master-data lookup by exact name, or re-run once search/registry access is restored."
+}
