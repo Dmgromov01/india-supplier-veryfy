@@ -1,0 +1,18 @@
+{
+ "name_input": "NIS Marketing Pvt Ltd",
+ "legal_name": "NIS MARKETING PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error ('searx: Connection refused') on both queries, and direct fetches of registry/profile sources were blocked or unusable: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned HTTP 403, instafinancials.com returned HTTP 404, mca.gov.in returned HTTP 403, and Bing/Google/DuckDuckGo result pages returned only irrelevant generic 'NIS' hits (Niš, national insurance schemes) or timed out. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue for FY25/FY26 are all null — not public/not retrievable here, and no values are invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected; it is left unverified pending a working registry lookup (MCA master data by name, or GST portal search by trade name). Role is 'unknown' because the claimed activity (HS 270750/271012/271019 naphtha/light oils, 381121 lubricating-oil additives) does not by itself establish manufacturer vs trader status. Note also that the input contains no PAN and no state, so no cross-check of registered office state against a claimed state was possible."
+}

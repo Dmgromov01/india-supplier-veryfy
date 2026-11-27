@@ -1,0 +1,8 @@
+{
+ "name_input": "Eco-Orro Chemicals",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/eco-orro-chemicals (and slug variant .../eco-orro-chemical) returned only the generic template shell: 'Shipments available for ECO ORRO CHEMICALS, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Rows actually seen: 0. volza.com/p/eco-orro-chemicals, eximpedia.app and trademo.com all returned HTTP 403; DuckDuckGo search backend returned 'Connection refused' / timeout, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search tool was non-functional (searx connection refused) and no registry/catalogue source was in scope. Rows actually seen: 0.",
+ "note": "No shipment evidence found either way — this is an absence of accessible data, not proof of absence of trade. The declared HS 760521 (aluminium alloy rectangular plate/sheet, thickness >0.2 mm) is inconsistent with the claimed name 'Eco-Orro Chemicals' and with the claimed industry 'Металлургия и горнодобыча' only partially; per project rules HS mismatch is NOT a rejection ground — the code should be corrected to the factual one once a real shipment record is obtained. Claimed proprietor 'SANJIV KUMAR RATHORE' could not be verified against any public source in this session; PAN and state are null (not public / not supplied). Revenue and export volume: null — no data, not estimated. Recommended next step: re-run with a working search backend and paid/free-tier Volza or ImportGenius India export view to obtain dated B/L records before assigning any confirmed status."
+}

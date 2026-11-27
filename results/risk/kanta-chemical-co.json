@@ -1,0 +1,9 @@
+{
+ "name_input": "KANTA CHEMICAL CO",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data collected. The web_search tool returned 'searx: Connection refused' on every attempt (3 calls). Fallback attempts via http_get to Google, DuckDuckGo HTML and Bing all failed to return query-relevant results: Google served a redirect/consent interstitial, DuckDuckGo timed out, and Bing returned an identical cached generic result set (kanta.fr, kanta.fi, kanta.ai, Kanta Pilipinas, etc.) for three completely different queries, i.e. the query terms were ignored. A direct registry-style lookup also failed (domain parked). Consequently NOTHING could be verified for 'KANTA CHEMICAL CO': no sanctions screening against OFAC SDN / UN / EU / UK / BIS Entity List, no Indian court records (NCLT, High Court, eCourts), no regulator actions, no credit rating, and no evidence of supplies to Russia or the CIS. All fields are set to null because no public source was retrieved - these are NOT negative findings and must not be read as 'clean'. The name is also highly generic and the claimed legal form 'KANTA CHEMICALCO' appears to be a spacing artefact, so entity disambiguation would be required even with working search. Recommend re-running this company once search connectivity is restored, and in the meantime treating risk status as UNKNOWN / unverified rather than low-risk. Per project rules, no rejection is proposed on this basis."
+}
