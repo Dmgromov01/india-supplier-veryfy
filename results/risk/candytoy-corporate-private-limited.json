@@ -1,0 +1,9 @@
+{
+ "name_input": "Candytoy Corporate Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка 23.11.2026 не дала подтверждённых данных ни по одному из пунктов. Что реально проверено: (1) Indian Kanoon (indiankanoon.org/search/?formInput=Candytoy) — 'No matching results', т.е. публичных судебных актов с упоминанием 'Candytoy' в базе не найдено; это отсутствие записей, а не подтверждённое отсутствие споров — по малым компаниям многие дела в базу не попадают. (2) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — форма доступна, но поиск выполняется через JS-интерфейс, результат по имени получить не удалось; совпадений не подтверждено и не опровергнуто. (3) UN/UK/EU/BIS Entity List — проверить не удалось. (4) Zaubacorp — HTTP 403, Tofler — 404, поисковые движки (DuckDuckGo-бэкенд) недоступны (connection refused), Bing выдавал нерелевантную выдачу. Итог: sanctions_hit, court_cases, rating, news_risk, rf_supply — null, данные не публичны/недоступны на момент проверки, НЕ выдумывать. Отсутствие данных не является основанием для отклонения (правило 2); компания сохраняется в базе. Требуется повторный прогон при восстановлении доступа к поиску и к реестрам (MCA, Zaubacorp/Tofler, OFAC CSV, Indian Kanoon по вариантам написания 'Candy Toy')."
+}

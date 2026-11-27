@@ -1,0 +1,8 @@
+{
+ "name_input": "CHORARIA INDUSTRIES PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. importkey.com/countries/india/choraria-industries-pvt-ltd returned only a paywalled shell: 'Shipments available for CHORARIA INDUSTRIES PVT LTD, refreshed daily' — zero actual rows rendered (0 rows seen vs. a claimed 'hundreds of millions of shipment records' in the source counter). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Attempts: zaubacorp.com and thecompanycheck.com company pages returned HTTP 403; eximpedia.app and trademo.com returned HTTP 403; volza.com returned HTTP 403. Search backend (DuckDuckGo/searx) was unreachable ('Connection refused'), so no alternative pages could be located.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок и GST-данных были недоступны (403 / поиск не работал), поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found. Заявленный HS 732690 (изделия из чёрных металлов) не проверен по фактическим записям. Выручка: null (не публична в доступных источниках). Юрлицо не проверено по MCA — нет данных, не выдумывать. Требуется повторный прогон при доступном поиске/таможенных базах."
+}

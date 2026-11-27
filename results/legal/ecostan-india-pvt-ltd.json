@@ -1,0 +1,18 @@
+{
+ "name_input": "ECOSTAN INDIA PVT LTD",
+ "legal_name": "ECOSTAN INDIA PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries, and all subsequent attempts to reach public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, and Bing/Google/Ecosia returned either irrelevant results (weather/robocopy pages) or HTTP 429/403. No MCA master-data page, GST public profile, or audited filing was read, therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all null rather than guessed. PAN holder type cannot be derived without the PAN itself. Role is 'unknown' - the input industry claim ('oil & gas and chemicals') is unverified and the declared HS 847989 is not a basis for a role determination. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research-access failure, not a negative finding. Recommend re-running this company once search/registry access is restored, checking the MCA portal directly by company name and the GST portal by legal name."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "PARAS WIRES (P) LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/paras-wires-pvt-ltd returned only a paywalled shell: \"Shipments available for PARAS WIRES PVT LTD, refreshed daily\" — zero shipment rows rendered (0 rows seen; no date, destination, HS code or B/L number visible). volza.com/p/paras-wires/ → HTTP 403; eximpedia.app → HTTP 403; trademo.com → HTTP 403; importgenius.com → JavaScript challenge page. No export record with date/destination/HS/B-L could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: web_search backend failed on every query (\"searx: <urlopen error [Errno 111] Connection refused>\"), and zaubacorp.com returned HTTP 403. 0 domestic supply rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) отдали 403/JS-challenge/платную заглушку, поисковик был недоступен, поэтому ни экспортных, ни внутренних записей прочитать не удалось. Статус по обоим пунктам — unknown, а не none_found: отсутствие данных здесь означает недоступность источников, а не отсутствие отгрузок. Заявленный HS 731414 (скрученная проволока/тросы из чёрных металлов, раздел 7314) не подтверждён и не опровергнут — фактический код не установлен, исправлять не на что. Выручка: null (не публична в доступных источниках). Юрлицо PARAS WIRES PRIVATE LIMITED по существу не проверено (реестр MCA недоступен, 403) — оснований для rejected нет, но и подтверждения существования нет. Требуется повторный прогон при доступных источниках (ImportKey с триалом, MCA/Tofler, GeM)."
+}
