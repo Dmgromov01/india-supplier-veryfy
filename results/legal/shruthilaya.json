@@ -1,0 +1,18 @@
+{
+ "name_input": "Shruthilaya",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. The input gives only a trade name 'Shruthilaya' plus a person name 'LAKSHMANA GOSWAMI'; no CIN, PAN, GSTIN or state was supplied, so there is no unique key to match against MCA/GST registries. Search tooling failed during this session: web_search returned a connection error (searx backend refused), DuckDuckGo HTML timed out, Google returned HTTP 429, and Bing returned only irrelevant retail results (Reddit/Old Navy/Macy's) for every query, i.e. no usable hits. Zaubacorp and InstaFinancials returned HTTP 403. Consequently: exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null because they are not public/not retrievable here - none of these values were guessed or constructed. 'Shruthilaya' appears to be a trade name or a sole-proprietorship style name rather than a confirmed company name, so it may not have a CIN at all; that cannot be confirmed without a registry lookup. Role set to 'unknown' (no evidence of manufacturing or trading activity). Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of data is not grounds for rejection. Declared HS 920110 (musical instruments) is inconsistent with the claimed industry 'IT and electronics', but per rule 3 an HS mismatch is not a rejection ground - the code should be corrected to the factual one once the entity's actual activity is verified. ACTION REQUIRED: re-run with a working search backend, or supply PAN/GSTIN/CIN or the registered state so the entity can be matched in MCA and GST portals."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Lithium Energy Power Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Google returned 429 and Bing returned generic 'lithium' results with the company name ignored, so no MCA/CIN/GST record was retrieved. No legal entity, CIN, PAN, GSTIN, incorporation date, state or MCA status can be confirmed from a public source, therefore all fields are null rather than guessed. Note the input itself is internally inconsistent: the name field says 'Lithium Energy Power Private Limited' while legal_claimed says 'LITHIUM POWER ENERGY PRIVATE LIMITED' - the exact legal name must be resolved against MCA before any verification. Per project rules, absence of verifiable data is NOT grounds for rejection, so the company is not rejected; role is left as 'unknown' and revenue null (no audited accounts or official filings located). Declared HS 851712/852859 (phones/telecom + displays) is unverified and, per rule 3, is not a rejection basis in any case. Recommend re-running with a working search backend or MCA/GST portal access."
+}
