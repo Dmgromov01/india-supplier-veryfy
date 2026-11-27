@@ -1,0 +1,18 @@
+{
+ "name_input": "Akhilesh Exports",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не подтверждена. Входные данные противоречивы: в поле legal_claimed указано имя физлица 'AKHILESH KUMAR', а не название компании, что типично для ИП/проприеторшипа (sole proprietorship) — у таких субъектов нет CIN и нет обязательной отчётности в MCA, поэтому выручка по аудированной отчётности публично недоступна (null). Проверка источников не удалась по техническим причинам: web_search (DuckDuckGo/searx) вернул ошибку соединения; Bing по запросам \"Akhilesh Exports\" + GSTIN/CIN/zaubacorp/tofler выдавал только нерелевантные результаты про политика Ахилеша Ядава; zaubacorp.com, instafinancials.com и mca.gov.in отдали HTTP 403; thecompanycheck.com и quickcompany.in — 404. Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации не найдены и НЕ выдумываются. MCA-статус неизвестен. Роль (manufacturer/trader) не установлена — заявленные коды HS 100630 (рис) и 610910 (трикотажные футболки) относятся к разным, не связанным товарным группам, что само по себе не позволяет отнести компанию к производителю. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (нет подтверждения ликвидации/банкротства/несуществования). Требуется ручная проверка: полное юридическое название, GSTIN из счёта/инвойса или GST-профиля, PAN, штат регистрации."
+}

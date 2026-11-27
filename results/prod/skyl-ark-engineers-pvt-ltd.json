@@ -1,0 +1,18 @@
+{
+ "name_input": "Skyl;ark engineers pvt ltd",
+ "declared_hs": "842111",
+ "actual_hs_list": [
+  "7308.90",
+  "7309.00",
+  "7310.10",
+  "8419.89",
+  "8421.39",
+  "7305.90",
+  "7326.90",
+  "9954 (services - erection/installation, not a goods code)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Website skylarkengineers.com (Ahmedabad, Gujarat - 234 Shubh Industrial Estate, Singarva-Kathwada Road, B/h Kathwada GIDC, 382430) describes the company as an 'Engineering Contractors Company in India' with 19 years of experience. The 'Our Product' page lists: SS fabrication; MS fabrication (structural frameworks, industrial sheds, heavy-duty platforms, custom metal components); erection work (structural steel, equipment installation); pipelines (design, supply, installation); chimneys (design, fabrication, erection); tanks, vessels & ducting. The 'Our Services' page lists electrical contracting, mechanical contracting, civil contracting, interior contracting and waterproofing. Sectors served: power, oil & gas, pharma, steel, chemical, cement, textile, mining, edible oil, railway, food & beverage, water treatment, real estate, construction, paper & pulp, boiler. No centrifugal machines, cream separators, dairy or sugar plant equipment appear anywhere on the site.",
+ "role_hint": "trader",
+ "comment": "HS 8421.11 (cream separators / centrifugal cream separators) is NOT corroborated by any product on the company's own website. The declared code belongs to the dairy-machinery family (centrifuges, including cream separators), while the actual catalogue is structural steel fabrication, tanks/vessels, ducting, chimneys, pipelines and erection/contracting services. Per project rule 3 the company is NOT rejected for the HS mismatch - the code is corrected to the factual product lines. Corrected mapping: fabricated steel structures/frames/platforms -> 7308.90; industrial sheds/structures -> 7308.90; tanks and vessels (non-pressure/process) -> 7309.00 or 7310.10 depending on capacity; pressure vessels -> 7311.00 (not confirmed which type is built); industrial ducting -> 7309.00/7326.90 (or 8414.59 if supplied with fans - not stated); chimneys -> 7308.90/7305.90 (large welded steel stacks); pipelines and piping spools -> 7304/7305/7306 depending on seamless/welded and diameter (site does not specify); erection, insulation, electrical, civil, interior and waterproofing work -> services, not classifiable in HS 84/73 (would fall under Chapter 99 service codes, e.g. 9954 construction/installation services). Industry label 'Металлургия и горнодобыча' (metallurgy & mining) is a MISCLASSIFICATION: the site lists steel manufacturing and mining only as CLIENT sectors served, not as the company's own industry; the company itself is an engineering/fabrication contractor. Trader signs: the site is service/contracting oriented ('Get A Quote', 'turnkey contracting', 'we design, supply and install'), with no manufacturing plant, no product specifications, no model numbers, no capacity data and no catalogue of standard goods - consistent with a contractor/trader role rather than a goods manufacturer. Product lines entirely missing from the declaration: structural steel fabrication, tanks/vessels, ducting, chimneys, pipelines, and all contracting services. All product claims are 'заявлено, не подтверждено' - no customs line, invoice or shipment record was reviewed in this task (out of scope), and no HS line on the site corroborates 8421.11. Note: the site does not state 'Pvt Ltd' anywhere (it presents itself as 'Skylark Engineers'); the legal-form suffix in the input could not be verified from the website, and no CIN/PAN is published on the site (null)."
+}

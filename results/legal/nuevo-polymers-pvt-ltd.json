@@ -1,0 +1,18 @@
+{
+ "name_input": "NUEVO POLYMERS PVT. LTD",
+ "legal_name": "NUEVO POLYMERS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404, and mca.gov.in returned 403. Bing/Google/DDG HTML endpoints returned only irrelevant or blocked results, so no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Nothing is invented: all registry fields are null. Per project rules the company is NOT rejected - non-existence/strike-off/liquidation is not established, only unverified. Role left 'unknown' (no evidence of manufacturing vs trading). Note also that declared HS 130232 (vegetable saps/gums/pectates) is inconsistent with the claimed 'food & FMCG' industry label, but HS mismatch is not a rejection ground; the code should be corrected to the factual one once the actual product line is confirmed. Recommended next step: re-run verification when search access is restored, or obtain the company's CIN/GSTIN directly from the supplier (GST certificate + MCA master data extract)."
+}

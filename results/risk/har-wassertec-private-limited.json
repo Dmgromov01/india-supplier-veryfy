@@ -1,0 +1,9 @@
+{
+ "name_input": "HAR WASSERTEC PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Google — HTTP 429; Bing по точному запросу \"HAR WASSERTEC PRIVATE LIMITED\" выдал только нерелевантные результаты (har.com, техасская недвижимость) — то есть признаков существования такой записи в индексе не найдено, но это НЕ доказательство отсутствия компании. Реестры: ZaubaCorp — 403, Tofler — 404 по угаданному URL (не подтверждает отсутствие), InstaFinancials — 403. OFAC Sanctions List Search — только JS-форма, GET-запрос без результатов; OpenSanctions API — 401 (требуется ключ). Итог: санкционная экспозиция (OFAC SDN/UN/EU/UK/BIS), судебные дела в индийских судах, действия регуляторов, негативные новости, кредитный рейтинг и признаки поставок в РФ/СНГ — все поля null, публично не проверено в рамках этого прогона. Никаких данных не выдумывал. Рекомендация: повторить проверку при восстановлении доступа к поиску и реестрам (MCA master data, ZaubaCorp/Tofler, eCourts/NJDG, NCLT, IBBI, CRISIL/ICRA/CARE, OFAC/EU/UK/BIS списки). Отклонение по правилу 3 не применимо — статус юрлица не установлен, но и оснований для rejected нет."
+}

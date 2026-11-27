@@ -1,0 +1,18 @@
+{
+ "name_input": "NESSA VITRIFIED LLP",
+ "legal_name": "NESSA VITRIFIED LLP (as claimed; not verified in any public registry)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: web_search backend refused connections (searx: Connection refused); Bing returned only irrelevant results for every query variant ('NESSA VITRIFIED LLP', 'Nessa Vitrified' + Morbi/GST/LLPIN/zaubacorp); zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search returned 404; DuckDuckGo timed out. Therefore no LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced, and all such fields are set to null rather than guessed. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules the company is NOT rejected - it stays in the database with role 'unknown' and unverified registry fields. Note the name pattern ('... VITRIFIED LLP', declared HS 690721 = ceramic tiles) is consistent with a Morbi (Gujarat) vitrified-tile cluster entity, but this is an inference only, not a sourced fact; state_claimed in the input was empty, so no state mismatch can be assessed. Action required: re-run verification when search/registry access is restored (MCA master data, GST public search, LLPIN lookup) to fill CIN/LLPIN, PAN, GSTIN, incorporation date, state and FY25/FY26 revenue from audited filings."
+}
