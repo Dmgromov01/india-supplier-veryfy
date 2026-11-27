@@ -1,0 +1,18 @@
+{
+ "name_input": "Vidhi Petro",
+ "legal_name": "VIJAYNEHA POLYMERS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; html.duckduckgo.com timed out; Google returned only a redirect interstitial; Bing returned entirely irrelevant results (knife forums, adult sites) with no occurrence of 'Vijayneha Polymers', i.e. no indexed match surfaced. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - NOT because they were checked and found absent, but because no source was readable. No rejection is applied: per project rules rejection requires positive evidence that the entity does not exist / is struck off / liquidated / bankrupt, and absence of a readable source is not such evidence. Role left as 'unknown' - the claimed HS codes (390110 LDPE, 390591, 391990, 392010 polyethylene film/sheet) are consistent with a polymer trading/processing profile, but that is an inference from the input, not a verified fact. Also note the input name mismatch: the trading name 'Vidhi Petro' does not resemble the claimed legal entity 'VIJAYNEHA POLYMERS PRIVATE LIMITED', which needs clarification before re-check. ACTION REQUIRED: re-run this company when search access is restored, or supply the CIN/GSTIN directly so the MCA master data and GST public profile can be pulled."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Sudarshan Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — нет доступа к источникам. Все 10 попыток обращения к публичным реестрам и поисковикам не дали результата: DuckDuckGo-бэкенд вернул 'Connection refused' / timeout, Google и Bing отдали нерелевантную выдачу (запросы искажены), Zauba Corp, InstaFinancials и MastersIndia вернули HTTP 403. Ни один идентификатор не подтверждён, поэтому CIN/GSTIN/PAN/дата регистрации/обороты оставлены null — выдумывать их запрещено правилами. ВАЖНО по входным данным: в поле legal_claimed указано 'SHANTA PANDURANG MANE' — это имя физлица (вероятно, проприетор/solo proprietor), а не название юрлица; у такой формы собственности нет CIN, есть только GSTIN и PAN физлица. Название 'Sudarshan Enterprises' — типовое и крайне распространённое в Индии (сотни совпадений), поэтому без GSTIN или штата однозначная идентификация невозможна. Штат в заявке не указан (state_claimed пусто) — сверить registered-office state не с чем. HS 680223 (изделия из гранита/камня, полированные) с ролью 'Строительство и DIY' не противоречит, но по правилам проекта несоответствие HS не является основанием для отклонения. ВЕРДИКТ: НЕ ОТКЛОНЕНО (нет оснований — существование юрлица не опровергнуто, но и не подтверждено). Требуется повторная проверка при восстановлении доступа к источникам, желательно с GSTIN или штатом от поставщика. Роль предварительно 'unknown'."
+}

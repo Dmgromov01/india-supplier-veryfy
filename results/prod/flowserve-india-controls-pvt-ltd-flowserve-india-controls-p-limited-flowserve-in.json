@@ -1,0 +1,19 @@
+{
+ "name_input": "FLOWSERVE INDIA CONTROLS PVT. LTD.; FLOWSERVE INDIA CONTROLS (P) LIMITED; FLOWSERVE INDIA CONTROLS PRIVATE LIMITED; FLOWSERVE INDIA CONTROLS PVT LIMITED; FLOWSERVE INDIA CONTROLS PVT LTD",
+ "declared_hs": "847130",
+ "actual_hs_list": [
+  "848180",
+  "841350",
+  "841370",
+  "841381",
+  "848190",
+  "841229",
+  "903281",
+  "848420",
+  "841490"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Flowserve India Controls Pvt Ltd is the Indian manufacturing/sales arm of the US Flowserve group. The group's own product portfolio page (flowserve.com/en/products/, fetched) lists: Pumps (centrifugal, positive displacement, special purpose pumps and systems), Seals & Systems, Valves (custom flow-control valves), Actuators & Instrumentation (positioners, switches, actuators), Energy Recovery Devices, plus hydraulic decoking systems. Brands listed on the same page: Argus, Automax, Byron Jackson, Durco, Edward, IDP, INNOMAG, Kammer, Limitorque, MOGAS, McCANNA, Nordstrom, PacSeal, SIHI, Valtek, Worcester, Worthington. Nothing on the group portfolio page is a computer, laptop or ADP machine. No India-specific product page or catalogue for the Indian entity could be opened in this session (flowserve.com India/company-overview/sales-locator URLs returned 404; DuckDuckGo search backend was down), so the exact India plant product mix is not independently corroborated here.",
+ "role_hint": "manufacturer (Indian subsidiary of a global OEM; group-level manufacturing and service of pumps, valves, seals, actuators). Trader signs not established from public pages; no evidence of IT/electronics trading.",
+ "comment": "HS 847130 (portable ADP machines / laptops) is wrong for this company. Declared industry 'IT и электроника' is an industry misclassification: Flowserve is an industrial flow-control OEM (pumps, valves, seals, actuators, instrumentation), not IT/electronics. Correct HS-6 mapping per the group portfolio: valves and valve bodies/parts — 848180 (other taps, cocks, valves) and 848190 (parts); pumps — 841350 (positive displacement), 841370/841381 (centrifugal/other pumps), 841490 (parts of pumps/compressors); mechanical seals — 848420; actuators/positioners and instrumentation — 848190 / 903281 (pneumatic/hydraulic regulating or controlling instruments) and 841229 (hydraulic power engines/motors) where applicable. Per project rule 3 the company is NOT rejected for the HS mismatch: keep it in the base, correct the code to the actual flow-control lines, verdict accepted_hs_corrected. Product lines missing from the declaration: pumps, seals, actuators/positioners, energy recovery devices, decoking systems — none of these appear under 847130. All product statements above are from the group website only and are 'заявлено, не подтверждено' — no customs line was checked in this task (out of scope), so no shipment-level corroboration of any HS code is asserted. No CIN/PAN/revenue data researched or invented."
+}
