@@ -1,0 +1,18 @@
+{
+ "name_input": "R & D Center; S KANT HEALTHCARE LTD; S KANT HELTH CARE LTD",
+ "legal_name": "S KANT HEALTHCARE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; http_get to zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com and mca.gov.in all returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com/search returned only irrelevant generic results for the letter 'S' (query terms not honoured). Company website skanthealthcare.com did not resolve (DNS error). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent, but because they could not be publicly retrieved within the tool budget. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' (input name variants 'S KANT HEALTHCARE LTD' / 'S KANT HELTH CARE LTD' suggest a single legal entity with spelling variants, but this is unconfirmed). HS 293399 (heterocyclic compounds) is not assessed here per role scope; note that the claimed industry 'oil & gas and chemicals' is inconsistent with a pharma/API-type HS heading and should be re-checked by the product/HS specialist. Recommended next step: re-run verification against MCA V3 master data / GST public search when registry portals are reachable."
+}

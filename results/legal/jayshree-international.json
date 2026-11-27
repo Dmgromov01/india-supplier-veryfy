@@ -1,0 +1,18 @@
+{
+ "name_input": "JAYSHREE INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session: the web_search backend returned connection errors, and every registry/aggregator source attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, mca.gov.in MDS) returned HTTP 403 Forbidden; Google returned 429 and DuckDuckGo timed out. Bing returned only irrelevant results. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status can be asserted — all left null rather than guessed. 'JAYSHREE INTERNATIONAL' is a very common Indian trade name (multiple proprietorships/partnerships and at least one private limited company are known to use it), so the exact legal entity cannot be pinned down without a CIN or GSTIN from the client. Note also that the declared HS codes (520839, 520852, 521120, 540761 — cotton and synthetic woven fabrics) do not match the claimed industry 'food products and FMCG'; per project rules this is NOT a rejection ground — the company stays in the database and the HS code should be corrected to the actual one, verdict accepted_hs_corrected. Role cannot be determined (unknown) without registry/GST evidence. Revenue FY25/FY26: null — no audited accounts or official filings were accessible. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the entity status is simply unverified. Recommend re-run with a working search backend or with the client supplying CIN/GSTIN/PAN."
+}

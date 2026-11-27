@@ -1,0 +1,9 @@
+{
+ "name_input": "SULZER PUMPS INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — verification failed, all fields null. Tooling status during this run: web_search backend returned 'Connection refused' on every attempt (searx down); OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded but is a JavaScript-driven tool, so no query result could be retrieved via http_get (page confirmed SDN list last updated 11/23/2026, but no name match was actually executed); indiankanoon.org returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned unrelated results (obituary/KTOO pages) for both queries, i.e. no usable hits. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) — NOT VERIFIED, not a negative finding; Indian court cases (party role/status) — NOT VERIFIED; regulator actions and negative news with dates — NOT VERIFIED; credit rating with date/status — NOT VERIFIED (no public rating located); evidence of supplies to Russia or CIS — NOT VERIFIED. Context only, not a risk finding: the company is the Indian subsidiary/entity of Swiss-listed Sulzer Ltd (pumps and rotating equipment, HS 8481/8413 area), and Sulzer AG is a Western-headquartered group subject to Swiss/EU/US export-control compliance, which is a reason to expect screening controls but is NOT evidence of any sanctions hit or of Russia/CIS supplies. Per project rules, no rejection is implied and nothing here should be read as a sanctions or court finding. Recommend re-running this company once search tooling is restored, checking: OFAC SDN + consolidated non-SDN, EU consolidated list, UK OFSI, BIS Entity List, indiankanoon / e-courts / NCLT by exact legal name, and MCA/credit-rating sources for rating status."
+}

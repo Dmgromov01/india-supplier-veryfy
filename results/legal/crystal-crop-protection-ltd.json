@@ -1,0 +1,18 @@
+{
+ "name_input": "Crystal Crop Protection Ltd",
+ "legal_name": "CRYSTAL CROP PROTECTION LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕЕСТРОВАЯ ПРОВЕРКА НЕ ЗАВЕРШЕНА — данных из первоисточников получить не удалось. Что произошло: (1) web_search вернул 'no results (searx: Connection refused)' — поисковый бэкенд недоступен; (2) DuckDuckGo HTML — timeout; (3) Google — HTTP 429; (4) Bing отдал нерелевантную выдачу (общие статьи про 'crystal', без совпадений по компании) на трёх разных запросах; (5) агрегаторы реестров (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) — HTTP 403 Forbidden; (6) mca.gov.in MDS — HTTP 403; (7) сайт crystalcrop.com — DNS не разрешается (Name or service not known). Следовательно CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 НЕ подтверждены и оставлены null — выдумывать их запрещено правилами. Юрлицо с названием 'Crystal Crop Protection Limited' в открытых источниках широко упоминается как действующий индийский производитель СЗР (агрохимия), что согласуется с заявленными HS 3808/2933/3105, однако формального подтверждения через MCA/реестр в этой сессии получить не удалось, поэтому mca_status = null, а не 'Active'. Оснований для rejected НЕТ: нет ни одного подтверждённого признака несуществования, strike-off, ликвидации или банкротства — по правилу 3 отклонение недопустимо. Роль 'manufacturer_trader' указана как предварительная оценка по характеру заявленной деятельности (производитель с торговым/дистрибуционным контуром) и требует подтверждения по MCA-классификации и GST-оборотам. Выручка FY25/FY26: null — аудированная отчётность не получена; для FY26 (финансовый год, заканчивающийся 31.03.2026) публичные аудированные данные на момент проверки, как правило, ещё не раскрыты. Рекомендация: повторить проверку при доступности MCA Master Data / GST-портала и агрегаторов; до этого компанию держать в базе со статусом 'заявлено, не подтверждено' по реестровым полям."
+}

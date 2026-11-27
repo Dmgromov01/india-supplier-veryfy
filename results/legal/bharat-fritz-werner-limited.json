@@ -1,0 +1,18 @@
+{
+ "name_input": "BHARAT FRITZ WERNER LIMITED",
+ "legal_name": "Bharat Fritz Werner Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - tooling failure, not a negative finding. web_search returned 'Connection refused' (searx backend down) on both attempts; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in returned HTTP 403; indiamart.com and google.com returned HTTP 429; duckduckgo.com timed out; bfw.co.in refused connection; bfw.in is a parked domain for sale; Wikipedia article does not exist. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they could not be read from a public source in this session - they are NOT null because they are absent. No rejection: no evidence of non-existence, strike-off, liquidation or bankruptcy was obtained, and the entity is widely known as an operating Indian machine-tool maker (BFW, Bengaluru, Karnataka) - however that is background knowledge, not a sourced registry record, so state_registered is left null rather than asserted. Role 'manufacturer' is likewise an unverified working assumption (machine tools, HS 8458/8207 are consistent with a machine-tool manufacturer), not a registry-confirmed classification. Revenue FY25/FY26 null: no audited accounts or official filing was reachable; no figures invented. Declared HS 820750/845819 is plausible for this company's product line and is not treated as a discrepancy. ACTION REQUIRED: re-run this company when search/registry access is restored, and pull CIN + GSTIN from MCA master data and the GST portal before any commercial use."
+}

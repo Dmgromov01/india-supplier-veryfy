@@ -1,0 +1,18 @@
+{
+ "name_input": "BTL BIOTECHNO LABS PRIVATE LIMITED",
+ "legal_name": "BTL BIOTECHNO LABS PRIVATE LIMITED (as claimed in input; existence not independently confirmed)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results'), Google returned HTTP 429, DuckDuckGo HTML timed out, Bing returned only generic 'BTL Industries / BTL Aesthetics' results with no match for 'BTL Biotechno Labs', and the direct registry aggregators (zaubacorp.com, thecompanycheck.com) plus mca.gov.in returned HTTP 403 Forbidden. Company website guess btlbiotechno.com did not resolve. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null - not public in any source I could reach, and I will not invent them. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Role left as 'unknown' (name suggests a laboratory/biotech entity, but no registry evidence of manufacturing vs trading activity). Declared HS 300259 (pharma/biotecchnological goods) is not a rejection ground per project rules; HS correctness not assessed here. ACTION REQUIRED: re-run against MCA master data / GST portal (or a paid registry API) to obtain CIN, PAN, GSTIN, incorporation date, state and filed financials before any verdict."
+}

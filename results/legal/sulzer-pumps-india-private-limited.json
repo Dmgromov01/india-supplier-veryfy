@@ -1,0 +1,18 @@
+{
+ "name_input": "SULZER PUMPS INDIA PRIVATE LIMITED",
+ "legal_name": "SULZER PUMPS INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failure: DuckDuckGo/searx backend refused connections, Bing returned irrelevant AI-generated results, Google returned HTTP 429, and all public registry aggregators attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com company page, quickcompany.in, indiafilings.com) returned HTTP 403/404; mca.gov.in MDS portal returned HTTP 403. Therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and audited revenue are all null - not public/not retrievable with available tools, NOT invented. No rejection basis established: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt, so it is retained in the database. Role 'manufacturer' is a provisional classification based on the company's known position as a pump manufacturing subsidiary of Sulzer AG (India operations), and must be re-confirmed against the MCA master data / MOA main-object clause before use. Declared HS 848110 (pressure-reducing valves) is a valve code, whereas a pump manufacturer would normally sit under 8413 (pumps) - per project rules this is NOT a rejection ground; flag for HS correction to the actual code once the product line is confirmed. State claimed in input was empty, so no state mismatch can be assessed. ACTION REQUIRED: re-run verification against MCA master data and a GST public profile when the search backend is restored."
+}
