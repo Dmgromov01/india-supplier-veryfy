@@ -1,0 +1,9 @@
+{
+ "name_input": "DOLLAR INDUSTRIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, not a clean result. The DuckDuckGo search tool returned 'Connection refused' on both queries; direct fetches of the company site (dollarindustries.com) failed with DNS resolution error; Google returned HTTP 429; IndianKanoon returned HTTP 403; CRISIL rating-list URL returned 404. Bing was reachable but ignored the quoted company name and returned only generic 'US dollar' currency pages, so no company-specific source could be read. The OFAC Sanctions List Search page loaded but is a JavaScript form whose lookup results cannot be retrieved via a plain GET, so no SDN/Non-SDN query was actually executed. Consequently sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because NOTHING WAS VERIFIED - these nulls must not be read as 'no sanctions', 'no court cases' or 'no Russia/CIS supply'. No source was obtained for any field, so no claim is made. Context only (not verified in this session, no source retrieved): Dollar Industries Limited is a listed Indian knitwear/hosiery manufacturer based in Kolkata, which is consistent with the declared HS 610910 (cotton T-shirts/knit garments) rather than the claimed industry label 'food and FMCG' - that industry mismatch should be flagged to the identity/HS researcher, as it is outside this role's scope. Recommended action: re-run this company once web_search is restored, specifically checking (a) OFAC SDN/Non-SDN, UN, EU, UK OFSI and BIS Entity List for 'Dollar Industries' and group entities, (b) Indian court records (NCLT/High Court/IndianKanoon) with party role and status, (c) SEBI/exchange disclosures and any regulator action, (d) latest CRISIL/ICRA/Acuité rating action with date and outlook, (e) any disclosed exports to Russia or CIS in annual reports or customs records."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Libra Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research NOT completed — no verifiable data obtained. All web_search calls failed (search backend returned 'Connection refused' on every attempt). Fallback engines: Google returned HTTP 429; DuckDuckGo HTML and lite endpoints timed out; Bing returned only irrelevant astrology/'stern.de' results for both queries ('Libra Industries' + 'Kanjibhai Devshibhai Patel', and the proprietor name alone), i.e. no genuine match surfaced. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form and cannot be queried via plain HTTP GET, so no SDN/Non-SDN screening result was actually obtained. Therefore: sanctions exposure = NOT VERIFIED (not 'clear'); Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. Nothing here should be read as a clean bill of health. Per project rules, absence of found data is not a rejection ground and no negative inference is drawn — the company stays in the base with these fields null pending re-run. Note also that the claimed 'legal_claimed' value is a personal name (Kanjibhai Devshibhai Patel), suggesting a proprietorship/firm rather than a company, which limits the availability of public court/rating records; legal-identity confirmation is outside this role's scope. Recommend re-running this company once search connectivity is restored, and screening the name against OFAC SDN, UN, EU, UK OFSI and BIS Entity List via their downloadable consolidated lists rather than the JS search UI."
+}

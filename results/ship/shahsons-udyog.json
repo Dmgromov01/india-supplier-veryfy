@@ -1,0 +1,8 @@
+{
+ "name_input": "SHAHSONS UDYOG",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/shahsons-udyog (also /shahson-udyog, /shahsons-udyogs): page renders only the boilerplate line \"Shipments available for SHAHSONS UDYOG, refreshed daily\" with an empty \"Number of shipments by month\" chart. Rows actually seen: 0. No bill-of-lading number, no date, no destination, no HS code visible on any of the three slug variants. volza.com/p/shahsons-udyog, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. No customs/B-L record obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. The web_search tool was non-functional for the whole session (searx: <urlopen error [Errno 111] Connection refused>), so no domestic-side page could be located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что отгрузок не было: все источники таможенных данных были недоступны (403 / JS-challenge), а поисковик не работал, поэтому статус по обоим направлениям — unknown, а не none_found. Заявленный HS (732690;820740;820750;820770 — прочие изделия из чёрных металлов и инструмент для нарезания/сверления/фрезерования) выглядит правдоподобно для металлообработки, но фактичность отгрузок не подтверждена ни одной записью. Выручка и объём экспорта: null — публичных данных не найдено, цифры не выдумывались. Юрлицо не проверялось по MCA (вне роли). Рекомендация: повторить проверку при доступном поиске и платном доступе к Volza/Eximpedia; до этого — статус 'заявлено, не подтверждено'."
+}
