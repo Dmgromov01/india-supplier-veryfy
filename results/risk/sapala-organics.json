@@ -1,0 +1,9 @@
+{
+ "name_input": "SAPALA ORGANICS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on both queries; direct fetches of Google, Bing, DuckDuckGo (html/lite), ZaubaCorp and TheCompanyCheck returned either irrelevant generic results (Bing/Google served unrelated news and retail pages, i.e. the query was not actually executed) or HTTP 403 / timeouts. The OFAC Sanctions List Search page was reachable but is a JS-driven form that cannot be queried via plain HTTP GET, so no name screening result was produced. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT SCREENED (null, not 'clear'); Indian court cases (party role/status) = null, not public/not retrieved; regulator actions and negative news = null, none retrieved; credit rating (agency, date, status) = null, not retrieved; evidence of supplies to Russia/CIS = null, none found in the material actually read (which was nil). No claim in this record is sourced, and nothing here should be read as a clean bill of health. Per project rules this is NOT a rejection ground and no adverse inference is drawn — the company stays in the base; the record simply needs a re-run when search access is restored. Recommended re-check: OFAC/UN/EU/UK consolidated list name search, BIS Entity List, eCourts/NCLT by legal name 'Sapala Organics Private Limited', and Indian trade-press/credit-rating agency coverage."
+}

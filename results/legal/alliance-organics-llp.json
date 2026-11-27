@@ -1,0 +1,18 @@
+{
+ "name_input": "ALLIANCE ORGANICS LLP",
+ "legal_name": "ALLIANCE ORGANICS LLP (as claimed in input; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; zaubacorp.com and mca.gov.in returned HTTP 403; thecompanycheck.com returned 404; tofler.in search returned 404; Google returned a redirect/consent interstitial; Bing returned only irrelevant generic 'Alliance' results (credit union, bank, RV maker) with no Indian LLP hit. Consequently LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT because they are absent, but because they were not publicly retrievable within this session. No number has been guessed or inferred. Input inconsistency flagged: 'legal_claimed' field says 'ABS CORP' while the company name is 'ALLIANCE ORGANICS LLP' - these are different names and the true legal entity is unresolved; this must be clarified with the requester before any acceptance. Declared HS codes 320412/320419 (synthetic organic colouring matter, acid and other dyes) and 330210 (odoriferous mixtures for food/drink industries) are consistent with an 'organics/dyes' trading or manufacturing profile, but HS mismatch is not a rejection ground per project rules. Role set to 'unknown' - no evidence of manufacturing plant or trading activity obtained. Per rules, rejection is NOT applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; equally there is no evidence it does exist. Status: unverified, requires re-run with working search/registry access (MCA master data, GST portal public search, or a paid aggregator)."
+}

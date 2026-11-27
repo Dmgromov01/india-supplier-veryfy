@@ -1,0 +1,18 @@
+{
+ "name_input": "KMC ELECTRONICS PRIVATE LIMITED",
+ "legal_name": "KMC ELECTRONICS PRIVATE LIMITED (as claimed; unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on both queries, and Bing/Google HTML fallbacks returned only irrelevant US 'KMC' entities (KMC Controls, KMC Wheels, KMC University) with no Indian private limited company match. Direct fetches of registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, falconebiz.com returned HTTP 403, instafinancials.com returned HTTP 404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown': no registry record (MOA main-object clause / NIC activity code) was obtained to distinguish manufacturer from trader. Per project rules, the entity is NOT rejected — rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found; absence of retrievable data is not proof. Recommended next step: re-run verification against MCA21 master data / GST portal search with the exact legal name, or obtain the CIN or GSTIN from the supplier directly, since the name 'KMC Electronics Private Limited' is generic and may match multiple Indian entities. Declared HS 847130 (portable ADP machines/laptops) is unverified against any actual business activity; per rule 3, HS mismatch is not a rejection ground in any case."
+}

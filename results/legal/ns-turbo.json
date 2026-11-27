@@ -1,0 +1,18 @@
+{
+ "name_input": "NS Turbo",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Юрлицо НЕ подтверждено и НЕ опровергнуто: ни одного публичного реестрового следа по названию 'N S TERBO PRIVATE LIMITED' / 'NS Turbo' найти не удалось. Инструменты были недоступны или заблокированы: web_search (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; zaubacorp.com, thecompanycheck.com, mca.gov.in — HTTP 403; tofler.in и quickcompany.in — 404 по прямым URL; instafinancials — 404; Bing по точной фразе в кавычках выдал только нерелевантную выдачу (Netflix, Wikipedia, TurboTax, terbo.ai, Terbo Construction US) — то есть точного совпадения по индийской компании поисковик не нашёл. CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA — null, так как не публичны/не найдены; выдумывать запрещено. Штат в инпуте не заявлен (state_claimed пусто), поэтому сверять state_registered не с чем. Роль определить нельзя: нет данных ни о деятельности в реестре, ни о GST-оборотах — 'unknown'. Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. ВАЖНО: отклонять (rejected) НЕЛЬЗЯ — по правилам проекта отклонение допустимо только при доказанном отсутствии юрлица/ликвидации/банкротстве, а у нас нет доказательств ни существования, ни отсутствия. Требуется ручная проверка: (1) точное написание названия в MCA (возможны варианты 'N S Terbo Pvt Ltd', 'NS Terbo', 'N.S. Terbo'), (2) поиск по PAN/GSTIN или по адресу из инвойса, (3) проверка GST-портала по торговой марке 'NS Turbo'. HS 840610 (паровые турбины) в инпуте — заявленный код, фактический не подтверждён; по правилам HS не является основанием для отклонения."
+}

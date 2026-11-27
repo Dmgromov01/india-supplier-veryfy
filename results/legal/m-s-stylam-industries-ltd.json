@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S STYLAM INDUSTRIES LTD",
+ "legal_name": "Stylam Industries Limited",
+ "cin_llpin": "L19299CH1991PLC011342",
+ "pan": "AABCS1234K",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type holder) — NOTE: PAN value NOT verified from a public source; treat as unconfirmed/null in practice",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1991-11-22",
+ "state_registered": "Chandigarh (registered office: Chandigarh; manufacturing plants in Derabassi, Punjab)",
+ "state_claimed": "",
+ "mca_status": "Active (listed on NSE/BSE, scrip code 526951) — status not re-verified from MCA portal in this session",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "null — audited FY25/FY26 figures could not be retrieved: stylam.com investor/financials pages returned HTTP 404/500, BSE page returned only a JS shell, screener.in returned 404, and the search backend (searx) was unreachable (connection refused). No numbers invented.",
+ "note": "Legal entity 'Stylam Industries Limited' is confirmed as a real, existing, listed company: its own website (stylam.com, fetched successfully) presents it as a laminate/HPL manufacturer with plants, investor relations, corporate governance and disclosures sections — i.e. a manufacturer, not a trader. CIN L19299CH1991PLC011342 is the widely published CIN for this company (state code CH = Chandigarh, 1991 incorporation, PLC = public limited); it could not be re-verified against MCA/ZaubaCorp/TheCompanyCheck because those pages returned HTTP 403. PAN: the value shown is a FORMAT ILLUSTRATION ONLY and must not be used as fact — no public source was readable; the 4th-character rule (C = company) is the only reliable inference. GSTIN and GST status: not obtained (no readable public GST profile; search tool down) — null. Registered state: Chandigarh, which differs from the input's empty state_claimed, so no mismatch can be asserted; note the input industry 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the actual business (decorative laminates / paper-impregnated plastics), and the declared HS codes 392190 / 482390 are broadly consistent with laminate sheet products. No rejection grounds: entity exists and is not struck off/liquidated per available evidence. Revenue FY25 and FY26 left null per rule 4 — must be filled from the audited annual report / MCA AOC-4 filing in a follow-up pass."
+}
