@@ -1,0 +1,9 @@
+{
+ "name_input": "SWATI ENTERPRISE",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No verifiable public record could be retrieved for this entity as of the check date. Search tooling was non-functional during the check: the DuckDuckGo/searx backend returned 'Connection refused' and direct DuckDuckGo endpoints timed out; Bing returned an identical generic result set (Wikipedia 'Swazi people', swati.com cosmetics, etc.) for every query variant, i.e. no query-specific results were served. Queries attempted: '\"Swati Enterprise\" Dilipbhai Mungra', '\"Swati Enterprise\" \"Mungra\" proprietor', '\"Swati Enterprise\" IndiaMART OR Zauba OR Tofler', 'Swati Enterprise Dilipbhai Tapubhai Mungra Gujarat'. Result: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because NOTHING was found and NOTHING is asserted - these nulls mean 'not verified', not 'clean'. 'Swati Enterprise' is an extremely common Indian proprietorship trade name and the claimed proprietor name (Dilipbhai Tapubhai Mungra) is a private individual, so name-only matching would be unreliable even with working search; no PAN/CIN was supplied to disambiguate. No OFAC SDN, UN, EU, UK or BIS Entity List listing was observed, but absence of observation here is not evidence of absence. No Indian court (eCourts/NCLT) party records, no regulator action, no credit rating and no Russia/CIS supply evidence were observed. Per project rules, none of these nulls is a rejection ground and no adverse inference should be drawn; the entity is neither cleared nor flagged on risk grounds. RECOMMENDATION: re-run this risk check when search access is restored, and supply PAN/CIN plus registered address so that sanctions screening and eCourts/NCLT lookups can be done against a uniquely identified legal person rather than a common trade name."
+}

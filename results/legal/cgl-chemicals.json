@@ -1,0 +1,18 @@
+{
+ "name_input": "CGL Chemicals",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного реквизита. Причина: инструмент web_search вернул ошибку соединения (searx: Connection refused), а прямые запросы к публичным реестрам/агрегаторам заблокированы или недоступны — zaubacorp.com и instafinancials.com отдали HTTP 403, thecompanycheck.com отдал только маркетинговую заглушку без результатов поиска, google.com — HTTP 429, duckduckgo.com — таймаут, bing.com вернул полностью нерелевантную выдачу (Oregon Ducks, petagram, Ulta Beauty), т.е. поиск фактически не работает. Поэтому exact legal entity name, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST status, дата инкорпорации, штат регистрации, MCA status и выручка FY25/FY26 остаются null — данные не публичны в доступных источниках и не выдумывались. Название 'CGL Chemicals' не является подтверждённым полным юрлицом (возможны варианты 'CGL Chemicals Private Limited', 'CGL Chemicals LLP' или торговое имя/бренд); связь с заявленными HS-кодами 340239/340290/390690 (ПАВ, стиральные/чистящие средства, акриловые полимеры) не проверена. Роль определена как unknown. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица — компания сохраняется в базе как непроверенная, требуется повторный прогон при восстановлении доступа к MCA/GST-порталам."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "UNISTEEL PRIVATE LIMITED",
+ "legal_name": "UNISTEEL PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google — HTTP 429, Bing — нерелевантную выдачу (результаты не по запросу). Прямые обращения к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials, tofler.in) дали HTTP 403/404; mca.gov.in — HTTP 403. Ни один реестровый факт (CIN, PAN, GSTIN, дата регистрации, штат, статус MCA) не подтверждён публичным источником, поэтому все поля null — данные не выдумывались. Юрлицо НЕ отклонено: оснований для rejected (несуществование/ликвидация/банкротство) не установлено, статус — 'не проверено'. Роль (manufacturer/trader) не определена. Выручка FY25/FY26 не найдена в аудированной отчётности/официальных филингах — null. Требуется повторный прогон при доступном поиске либо ручная проверка по MCA Master Data / GST-порталу по точному CIN. Примечание: наименование 'UNISTEEL PRIVATE LIMITED' неоднозначно — в Индии под этим именем могут существовать несколько юрлиц в разных штатах; входные данные не содержат PAN/CIN/штата для однозначной идентификации."
+}

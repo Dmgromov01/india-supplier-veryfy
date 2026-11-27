@@ -1,0 +1,18 @@
+{
+ "name_input": "SUN CORPORATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. 'SUN CORPORATION' is a highly generic name with no distinguishing identifiers supplied (no CIN, no PAN, no GSTIN, no state, no city), so it cannot be tied to a single legal entity. Tooling failed: DuckDuckGo/searx backend returned connection refused; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in returned HTTP 403; Google returned HTTP 429; Bing returned only generic 'Sun' (star) results, ignoring the quoted company query. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures were obtained from any official filing, so all such fields are null rather than guessed. Per project rules the company is NOT rejected: non-existence is not established, only non-verifiability. Role left as 'unknown' — no registry evidence of manufacturing plant or trading activity. HS 690721 (ceramic tiles) is unverified against any actual business record; no HS-based rejection is applied. Action needed: obtain the supplier's CIN or GSTIN (or registered-office state/city) from the source, then re-run verification against MCA and GST portals."
+}

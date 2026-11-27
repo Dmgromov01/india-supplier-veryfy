@@ -1,0 +1,9 @@
+{
+ "name_input": "CRAFTLINK MEDICAL DEVICE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data collected. The web_search tool returned 'searx: Connection refused' on all attempts; direct fetches of Google (HTTP 429), DuckDuckGo (timeout) and ZaubaCorp (HTTP 403) failed; Bing returned only irrelevant results (LinkedIn profiles, Wish.com, Google Translate) for every query, i.e. the query was not actually executed. Therefore NO source could be read for this company and every field is null by rule ('if something is not public, use null'). Explicitly: this is NOT a clean bill of health - sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all UNVERIFIED, not absent. No claim about this entity should be treated as checked. Note also that the batch record is internally inconsistent (declared HS 901832 = needles/syringes/catheters, while industry_claimed is 'food and FMCG'); per project rules this is not a rejection ground and is outside my remit (no HS/legal-identity research), but it flags that the record may be mis-keyed, which raises the risk that any future search on the wrong name will silently return nothing. Recommend re-running this company once search access is restored, and confirming the exact registered name before re-query."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "SOHAM ENTERPRISE",
+ "legal_name": "SOHAM ENTERPRISE (proprietorship name as claimed; unverified — no registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "not applicable / not found — no LLPIN or CIN record located for this name; consistent with a sole proprietorship, which has no MCA registration",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT achieved. The input gives only a trade name 'SOHAM ENTERPRISE' plus a proprietor name 'JIGARKUMAR JAYMEENBHAI DAVE'; no PAN, no GSTIN, no state, no address were supplied, so there is no unique identifier to match against MCA/GST records. Tooling problems: the web_search backend was down (connection refused) for the whole session, Google returned HTTP 429, ZaubaCorp returned HTTP 403, DuckDuckGo timed out; only Bing HTML was reachable, and exact-phrase queries for 'JIGARKUMAR JAYMEENBHAI DAVE' and for 'Soham Enterprise' + 'Jigarkumar' returned zero relevant results (only an unrelated Mumbai courier firm, Soham Freight Service Pvt Ltd, which is a different entity and must not be conflated). Consequently: legal entity name, CIN/LLPIN, PAN (and therefore the 4th-character holder-type test), GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not located, not invented. Revenue FY25 and FY26 are null: no audited accounts or official filings exist for a proprietorship and none were found. Role is 'unknown': the declared HS 680800 (articles of cement/concrete/plaster, i.e. construction & DIY) is consistent with a trader or small manufacturer, but nothing in the registry record confirms manufacturing capability, so no role is asserted. Per project rules this is NOT a rejection: absence of a found record is not proof of non-existence, and the entity was not shown to be struck off, liquidated or bankrupt. Action needed from the requester: supply the GSTIN (15-digit) or PAN, or the registered address/city and state, to allow a definitive match. Until then the company stays in the database with status 'unverified — identifiers missing'."
+}
