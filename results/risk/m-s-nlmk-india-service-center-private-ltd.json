@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S. NLMK INDIA SERVICE CENTER PRIVATE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты недоступны. web_search вернул 'searx: Connection refused' на всех запросах; http_get к duckduckgo/html и html.duckduckgo.com — timeout; Bing и Google выдавали нерелевантную выдачу (Bihar ration card, Bass Pro, Skype) либо HTTP 429; zaubacorp.com — 403; nlmk.com/en/about/geography и /press-releases — 404; OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) отдаёт только форму без результатов (JS-интерфейс, запрос через http_get невозможен). Поэтому по всем полям null — это НЕ подтверждение отсутствия рисков, а отсутствие данных. Контекст (не проверено в этой сессии, требует перепроверки): наименование указывает на структуру группы НЛМК (ПАО 'Новолипецкий металлургический комбинат', РФ) — материнская группа находится под санкциями ЕС/США/Великобритании; статус дочернего индийского юрлица в списках OFAC SDN / EU / UK / BIS Entity List отдельно не установлен. Согласно правилу 2 проекта, санкционная экспозиция материнской группы не является основанием для отклонения — фиксируется нейтрально как 'есть сложности'. Рекомендация: повторить проверку при восстановлении доступа к поиску и к реестрам (MCA/Zauba/Tofler, eCourts/NJDG, CIBIL/CRISIL/ICRA, OFAC/EU/UK консолидированные списки)."
+}
