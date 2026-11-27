@@ -1,0 +1,18 @@
+{
+ "name_input": "Dynamic Transmission Ltd",
+ "legal_name": "DYNAMIC TRANSMISSION LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (searx connection refused) and direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Bing/Google/DDG fallbacks returned generic unrelated results or 429/timeouts. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, not invented. No basis to reject: absence of retrievable records is NOT proof of non-existence, so the entity is not marked rejected. Role left 'unknown' (no verified evidence of manufacturing vs trading). Revenue FY25/FY26 null - no audited accounts or official filings accessed. State claimed in input was empty, so no state mismatch can be assessed. HS 848340 (gears/gearboxes) is plausible for a 'Transmission' company but is not a rejection ground per project rules. Recommended next step: manual MCA master-data lookup by exact name and GST portal search to confirm legal entity, CIN, PAN 4th-character holder type and GSTIN before any commercial use."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Hans Raj Om Prakash",
+ "legal_name": "Hans Raj Om Prakash (unverified — appears to be a sole-proprietorship / partnership trade name, not a company; no registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. The name 'Hans Raj Om Prakash' is a classic Indian family trade name (typically a proprietorship or partnership firm, e.g. 'Hans Raj Om Prakash'), which would have NO CIN/LLPIN and NO MCA record at all; such firms are registered only under GST/Shop & Establishment. The input's 'legal_claimed' field contains a person's name (RAKESH SINGAL), suggesting a proprietorship, but this could not be confirmed. Tooling failure: DuckDuckGo search backend returned 'Connection refused' on all queries; Google returned HTTP 429; Bing returned only generic unrelated results (query terms not honoured); ZaubaCorp and mca.gov.in returned HTTP 403; thecompanycheck returned 404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrieved, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings found (proprietorships/partnerships do not file with MCA and rarely publish accounts). Role left 'unknown' — the declared HS 820600 (interchangeable spanner/wrench and hand-tool sets) is inconsistent with the claimed industry 'Авиастроение и транспорт' (aviation & transport), but per project rules HS mismatch is not a rejection ground and no role can be inferred without evidence. NOT rejected: no evidence the entity does not exist; absence of a registry hit is a tooling limitation, not proof of non-existence. Recommended next step: manual GST-portal 'Search Taxpayer' lookup by trade name, and a check of the Delhi/Punjab/Haryana GST jurisdiction lists, before any verdict."
+}

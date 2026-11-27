@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S. SUPREME SALES AGENCY; SUPREME SALES AGENCY",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public risk data could be retrieved for this entity as of today. Search tooling failed: the DuckDuckGo/SearX backend returned 'Connection refused' / timeouts on every attempt, and Bing (used as fallback) returned only generic results for the streetwear brand 'Supreme', ignoring the quoted entity name 'Supreme Sales Agency' — so no relevant page was ever opened. Consequently: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = not verified, null; Indian court cases (party role, status) = not verified, null; regulator actions and negative news = not verified, null; credit rating (agency, date, status) = not public / not found, null; evidence of supplies to Russia or CIS = not found, null. IMPORTANT: these nulls mean 'not researched', NOT 'clean'. The claimed counterparty name is a generic trading-firm style name ('Supreme Sales Agency') with a common Indian proprietor name ('Manish Agarwal'), which is highly ambiguous and cannot be matched to a specific legal entity without a CIN/PAN/GSTIN or registered address — none of which were supplied (PAN field empty, state field empty). Per project rules, no rejection is proposed and no sanctions/court findings are asserted, since nothing was confirmed either way. Recommended next step: re-run with a working search backend and with at least one hard identifier (CIN, PAN, GSTIN or registered address) so that sanctions screening and e-court/IBBI checks can be performed against a uniquely identified entity."
+}
