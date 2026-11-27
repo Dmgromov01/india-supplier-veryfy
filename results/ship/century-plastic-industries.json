@@ -1,0 +1,8 @@
+{
+ "name_input": "Century Plastic Industries",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/century-plastic-industries (and slug variant .../century-plastics-industries): page renders only the boilerplate shell — \"Shipments available for CENTURY PLASTIC INDUSTRIES, refreshed daily\" — with 0 shipment rows, 0 dates, 0 destinations, 0 HS codes and 0 B/L numbers actually displayed. No record seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, so no domestic-supply page could be retrieved.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: проверить не удалось. Источники: importkey — 2 варианта слага, оба отдали пустой шаблон (0 строк записей); volza, eximpedia, trademo — HTTP 403 Forbidden; importgenius — JS-челлендж, контент не отдаётся; web_search — бэкенд недоступен (connection refused), 0 результатов. Ни одной записи с датой, направлением, HS-кодом или номером B/L не получено. Выручка и объём экспорта: null (не публичны / не получены). Заявленные HS 392310, 392350, 392410 (тара, крышки, посуда из пластмасс) не подтверждены и не опровергнуты — фактический код не установлен, поэтому HS-корректировка не применяется. Роль (manufacturer/trader) не определена. Вердикт по правилу 5: статус unknown по обоим каналам, требуется повторная проверка при доступности платных баз или восстановлении поиска."
+}

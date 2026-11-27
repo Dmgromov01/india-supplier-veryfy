@@ -1,0 +1,18 @@
+{
+ "name_input": "SATYAM ACRYLIC PLASTICS PVT LTD",
+ "legal_name": "SATYAM ACRYLIC PLASTICS PRIVATE LIMITED (unverified — name as claimed; no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved, so nothing is asserted. Tooling failures: the web_search backend returned 'Connection refused' on both queries; ZaubaCorp, TheCompanyCheck and MCA master-data pages returned HTTP 403; Tofler returned 404 for the guessed slug; Instafinancials returned 404; Google returned 429; DuckDuckGo lite timed out; Bing and Marginalia returned irrelevant/unusable results. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not because they are absent, but because they were not publicly retrievable within the tool budget. Revenue FY25/FY26 are null: no audited accounts or official filings were accessed, and figures are not to be estimated. Role is 'unknown' — the 'PVT LTD' suffix indicates a private limited company, but whether it manufactures acrylic/plastic sheet (plausible for declared HS 391990) or trades could not be established from any registry or filing source. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established, and absence of retrieved data is not grounds for rejection. Recommended next step: re-run against MCA V3 portal / a paid registry API (Zauba/Tofler/Probe) with a working search backend, and confirm the exact registered name — 'Satyam Acrylic Plastics' may be registered under a variant spelling or in a different state, which the failed searches could not rule out."
+}
