@@ -1,0 +1,18 @@
+{
+ "name_input": "AGSON INDUSTRIES PRIVATE LIMITED; AGSON INDUSTRIES PVT. LTD",
+ "legal_name": "AGSON INDUSTRIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены — все поля null. Причина: в этой сессии поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а прямые запросы к публичным реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) отдали 403/404; Bing и Google выдавали нерелевантную выдачу (не по теме запроса). Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус не получены из первоисточника, поэтому не заполнялись и не домысливались. Название 'AGSON INDUSTRIES PRIVATE LIMITED' взято из входных данных как заявленное, а не как подтверждённое MCA. Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25/FY26: аудиторская отчётность или официальные филинги не найдены, поэтому null (не выдумывать). Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при доступном поиске: MCA master data по названию, GST-профиль (первые 2 цифры GSTIN = код штата), затем сверка штата регистрации с заявленным. HS 850760 (литиевые аккумуляторы) — не проверялся, т.к. вне роли legal/registry."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "SPAK ORGOCHEM (INDIA) LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, not a clean bill of health. All five risk dimensions are null because no source could be retrieved, NOT because checks came back negative. Search infrastructure was unavailable during this run: the DuckDuckGo/searx backend returned 'Connection refused' on every query, html.duckduckgo.com timed out, an alternative engine timed out, and Bing returned degraded results that ignored the quoted company name entirely (returning generic 'SPAK' hits: Albanian SPAK prosecutor's office, Merriam-Webster, Spak Brothers Pizza, Apache Spark, spaak.ai). No page mentioning 'Spak Orgochem' was ever surfaced, so no sanctions list, court docket, rating agency page, news item or customs/trade record could be read. Specifically unverified: (1) OFAC SDN / UN / EU / UK / BIS Entity List exposure - no list screened; (2) Indian court cases and party role - no docket (e.g. eCourts/NCLT) queried successfully; (3) credit rating and date - no CRISIL/ICRA/CARE/India Ratings page retrieved; (4) regulator actions and dated negative news - none found, but absence here reflects zero retrieval, not zero risk; (5) evidence of supplies to Russia or the CIS - no trade or customs data retrieved. Per project rules, no rejection is implied and no adverse inference should be drawn: the company remains in the database with unknown risk status. Recommend re-running this company once search access is restored, and screening the exact legal name against OFAC SDN, the BIS Entity List, eCourts/NCLT and the four Indian rating agencies before any risk conclusion is recorded. Do not treat these nulls as 'no sanctions, no cases, no news'."
+}

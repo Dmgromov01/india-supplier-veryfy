@@ -1,0 +1,18 @@
+{
+ "name_input": "GRV Chemicals",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The input name 'GRV Chemicals' is a trade/brand name; the claimed legal entity 'KUTCH CHEMICAL INDUSTRIES LIMITED' could not be confirmed as an existing MCA-registered company. Tooling failures: DuckDuckGo search backend returned connection refused on all queries; Google returned only a redirect stub; Bing returned generic 'Kutch tourism' results for every query (including exact-phrase queries for the company name, CIN patterns and turnover), i.e. no usable SERP data. Direct fetches of registry/profile pages were blocked: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, instafinancials.com returned only its marketing homepage (no company record), tofler.in HTTP 404 for the guessed CIN, indiamart.com HTTP 429. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures were obtained from any official source, therefore all such fields are null rather than inferred. IMPORTANT: the CIN U24117GJ1992PLC017784 used in one URL attempt was a guess and is NOT verified - it must not be recorded. Per project rules, rejection is not warranted on this evidence (absence of retrieved data is not proof of non-existence), so the record is left unverified with role 'unknown'. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored, and confirm whether the supplier trades as 'GRV Chemicals' under a different legal entity than the claimed 'Kutch Chemical Industries Limited'. Declared HS codes 271220 (paraffin wax), 280511 (sodium), 281217 and 281511 (caustic soda) are chlor-alkali/soda-ash type products; HS consistency was not assessed as it is out of scope for this role and is not a rejection ground."
+}

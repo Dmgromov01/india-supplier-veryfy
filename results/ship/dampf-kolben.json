@@ -1,0 +1,8 @@
+{
+ "name_input": "Dampf kolben",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/dampf-kolben-engg-corp and .../dampf-kolben both render only the boilerplate template: \"Shipments available for DAMPF KOLBEN ENGG CORP, refreshed daily\" with the shipment table left empty (\"Loading...\"). Rows actually seen: 0 of 0 — no bill-of-lading number, no date, no destination, no HS code visible. volza.com, eximpedia.app and trademo.com returned HTTP 403 Forbidden; DuckDuckGo search backend returned 'Connection refused' on all three attempts, so no independent corroboration was possible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search tooling was non-functional (searx connection refused) and no registry/catalogue source was consulted per scope. Rows seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: единственный доступный источник (ImportKey) отдал пустой шаблон без единой записи, а платные базы (Volza, Eximpedia, Trademo) заблокировали доступ (403), поисковик не работал. Фактичность отгрузок не установлена ни в одну сторону. Заявленный HS 841391 (части насосов) не проверен по таможенным записям — код не подтверждён и не опровергнут. Выручка и объём экспорта: null (не публичны / не найдены), цифры не выдумывались. Юрлицо не проверялось по MCA — вне роли. Требуется повторный прогон при работающем поиске или платном доступе к таможенным данным."
+}

@@ -1,0 +1,16 @@
+{
+ "name_input": "CONTROL SEAL PRIVATE LIMITED",
+ "declared_hs": "848190",
+ "actual_hs_list": [
+  "848180",
+  "848190",
+  "848140",
+  "848130",
+  "848120",
+  "841360"
+ ],
+ "match_status": "partial",
+ "product_summary": "По открытому сайту valve-производителя Control Seal (controlseal.com, разделы /valves/ и /about-us/1-company-profile.html) реальный продуктовый ряд — промышленная трубопроводная арматура, а не «части клапанов»: HELIXSTEM Rising Stem Ball Valve (RSBV), HELIXTRUNNION dual-expanding Double Block and Bleed plug Valve (DBBV), Axial Flow Valve (AFV: on/off, control, surge relief, choke), Four Way Diverter Valve (4WDV), Axial Check Valve (ACV), Angle Choke Valve (ACHV: needle, plug&cage, multi-stage), Spreading Wedge Gate Valve (SWGV), SwirlValve (JT-клапан), Sampling and Drain valves (piston sampling, tank bottom drain, ram type drain, flush bottom), Pig Launcher/Receiver plug Valve (PLRV), Rotary Star Valve, а также «commodity valves» — ball, gate, check, safety, plug, butterfly, globe. Плюс actuators и сервис (overhaul, spare parts, commissioning). Заявленные применения: refineries, molecular sieves, metering skids, tank farms, airports, pipelines, oil&gas — то есть отрасль «Нефтегаз и химия» по назначению продукции подтверждается, но по товарной номенклатуре это готовые клапаны HS 8481.80, а не части клапанов 8481.90.",
+ "role_hint": "manufacturer_trader — сайт прямо заявляет собственное производство (3D CAD, 3D CNC, in-house fire safe/cryogenic test lab) по RSBV, DBBV, AFV, 4WDV, ACHV, PLRV, и одновременно «over 30 years history of valves trading» с поставкой commodity valves (ball/gate/check/butterfly/globe) по запросу клиента. Признаки трейдера: раздел «Commodity valves» и закупка стандартной арматуры под запрос.",
+ "comment": "HS 848190 (части клапанов и аналогичных устройств) соответствует лишь частично: он покрывает только позиции «spare parts» и trim/внутренние детали (interchangeable trim для ACHV, soft seals/slips, parts для обслуживания), которые компания действительно предлагает. Основной оборот — готовые клапаны: 848180 (RSBV, DBBV, 4WDV, SWGV, PLRV, swirl, sampling/drain, commodity valves), 848130 (Axial Check Valve), 848140 (surge relief / safety valves), 848120 (пневматические/гидравлические клапаны управления, если actuators и control AFV поставляются в сборе), 841360/8413 — только если идут насосные/спец. узлы, по сайту не подтверждено. Рекомендация: сохранить компанию, исправить декларацию на 848180 как основной код с добавлением 848130/848140/848190; вердикт accepted_hs_corrected. Оговорки: (1) сайт controlseal.com — это группа Control Seal (контакты NL +31, UAE +971, India +91 741 823 84 32), отдельной страницы именно индийской «Control Seal Private Limited» с реквизитами и каталогом на сайте нет — тождество индийского юрлица с этим сайтом НЕ подтверждено, поэтому весь продуктовый ряд помечаю как «заявлено, не подтверждено»; (2) ни одна товарная линия не сверена с таможенной записью — доступа к декларациям/Б-Л не было, поэтому фактичность отгрузок по HS не верифицирована; (3) сайт не даёт HS-кодов, маппинг выполнен по описанию продукции; (4) отраслевая классификация «Нефтегаз и химия» не ошибочна, но неполна — продукция идёт также в авиатопливные системы, метринг-скиды, танк-фармы и трубопроводы."
+}

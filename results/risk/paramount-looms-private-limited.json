@@ -1,0 +1,9 @@
+{
+ "name_input": "PARAMOUNT LOOMS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: инструмент web_search (DuckDuckGo/searx) был недоступен на протяжении всей сессии (connection refused / timeout), а резервные каналы (Bing, Google, DuckDuckGo HTML) возвращали нерелевантную выдачу — по запросу «Paramount Looms» поисковики подставляли Paramount Pictures/Paramount+, ни одного релевантного результата по индийской компании получить не удалось. Реестры (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдали HTTP 403. Санкционный поиск OFAC (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, прямой GET-запрос к списку SDN невозможен — совпадений не проверено, поэтому sanctions_hit = null (НЕ означает «чисто»). Судебные дела (eCourts/NJDG), действия регуляторов, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверены — все поля null. Никаких данных не выдумывал. Требуется повторный прогон при работающем поиске; до этого компанию нельзя считать проверенной по риск-профилю. Примечание: заявленный профиль (HS 844610 — ткацкие станки, «Металлургия и горнодобыча») выглядит внутренне противоречивым, но это вне моей роли (HS не проверяю)."
+}

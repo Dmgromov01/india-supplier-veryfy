@@ -1,0 +1,18 @@
+{
+ "name_input": "WADPACK PRIVATE LIMITED",
+ "legal_name": "WADPACK PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on all queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, falconebiz.com) returned HTTP 403/404 or JavaScript-only shells with no company record. Bing/Google fallbacks returned unrelated results, so no page confirming the CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status was actually read. Per project rules, no CIN, PAN, GSTIN or revenue figure is invented: all such fields are null. NOT rejected - the absence of a readable public record in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt; rejection requires positive proof of one of those conditions, which was not obtained. Role left as 'unknown' (no evidence of manufacturing vs trading activity was reviewed; product catalogues were out of scope for this role). Revenue FY25/FY26 null - no audited accounts or official filings were accessible. Recommended action: re-run verification when the search backend is restored, or query MCA master data / GST portal directly by legal name 'WADPACK PRIVATE LIMITED'."
+}

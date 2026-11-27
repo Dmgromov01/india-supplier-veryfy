@@ -1,0 +1,18 @@
+{
+ "name_input": "SPAK ORGOCHEM (INDIA) LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены — инструменты недоступны. Ход проверки: web_search вернул ошибку бэкенда (searx: Connection refused) на всех запросах; прямые обращения к реестровым агрегаторам заблокированы — zaubacorp.com (HTTP 403 на карточку компании и на поиск), thecompanycheck.com (403), instafinancials.com (403), tofler.in (404 по угаданному URL); сайт spakorgochem.com не открылся (SSL UNEXPECTED_EOF). Поиск через Bing по точным фразам «SPAK ORGOCHEM» / «Spak Orgochem» + CIN/GST выдавал только нерелевантную выдачу (албанский SPAK, Hulk Hogan и т.п.), т.е. ни одной страницы с CIN, PAN, GSTIN, датой регистрации или финансовой отчётностью найти не удалось. Следствие: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN и его статус, дата инкорпорации, штат регистрации, статус в MCA — null, публично не подтверждено в рамках этой сессии. Роль — unknown (по названию «Orgochem» и заявленным HS 340242/340290/382319/382490 можно предполагать химическое производство ПАВ, но это не подтверждено ни одним реестровым источником). Выручка FY25 и FY26 — null: аудированной отчётности или официальных филингов не найдено, цифры не выдумывались. Штат ввода не заявлен (state_claimed пусто), поэтому сверять нечего. ВАЖНО: отклонять компанию НЕ следует — отсутствие данных в этой сессии не равно несуществованию юрлица; для вердикта требуется повторная проверка на MCA-портале (mca.gov.in / MCA Master Data) и GST-портале по названию, а также уточнение точного суффикса (Limited / Private Limited) у поставщика."
+}

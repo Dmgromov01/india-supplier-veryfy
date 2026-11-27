@@ -1,0 +1,8 @@
+{
+ "name_input": "SPAK ORGOCHEM (INDIA) LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. importkey.com/countries/india/spak-orgochem-india-limited returned only a paywalled shell: \"Shipments available for SPAK ORGOCHEM INDIA LIMITED, refreshed daily\" — zero shipment rows, zero dates, zero destinations, zero HS codes, zero B/L numbers visible. Source counter: 1 page opened, 0 rows seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Search backends failed (searx connection refused; DuckDuckGo HTML timed out; Bing returned only unrelated 'SPAK' entities — Albanian prosecutor's office, Spak Brothers Pizza, Apache Spark). Source counter: 4 search/registry attempts, 0 relevant rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: данные недоступны, а не отсутствуют. Все источники отгрузок закрыты: importkey отдал пустую заглушку без строк, volza/eximpedia/trademo — HTTP 403, importgenius — JS-челлендж, поисковые бэкенды не работали. Поэтому статус unknown, а не none_found: различие принципиальное, нельзя писать «следов поставок не найдено», если источники не открылись. Ни одной записи с датой, направлением, HS-кодом или номером B/L не получено; выручка и объём экспорта — null, не выдумывались. Заявленный HS (340242;340290;382319;382490 — ПАВ, жирные кислоты, химическая продукция) не подтверждён и не опровергнут; по правилу 3 несоответствие HS основанием для отклонения не является. Рекомендация: повторить проверку при доступном платном срезе (Volza/Eximpedia) или запросить у поставщика экспортные декларации и GST-выписку."
+}

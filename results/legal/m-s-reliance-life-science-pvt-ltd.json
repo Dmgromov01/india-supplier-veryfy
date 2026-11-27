@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S RELIANCE LIFE SCIENCE PVT.LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. Все 10 попыток доступа провалились: web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) — HTTP 403/404; mca.gov.in MDS — HTTP 403; Google — редирект-заглушка; Bing по 4 разным формулировкам выдавал только брендовые результаты Reliance Industries/Reliance Inc/Reliance Digital, ни одного реестрового профиля. Следствие: точное юрлицо, CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null. Обращаю внимание: заявленное в input название 'RELIANCE LIFE SCIENCES PRIVATE LIMITED' и фактическое 'M/S RELIANCE LIFE SCIENCE PVT.LTD' расходятся (Life Science vs Life Sciences), тождество юрлиц НЕ подтверждено — это может быть как опечатка, так и разные компании. Также не подтверждено, что это не структура группы Reliance Industries (крупный конгломерат с похожими названиями дочерних обществ) — при таком совпадении имени нужна отдельная сверка по CIN. Роль (manufacturer/trader) не определена. Заявленный HS 294190/300212/300215/382219 (фармсубстанции, сыворотки/вакцины, реагенты) не проверялся по правилам проекта — HS не является основанием для отклонения. Вердикт: НЕ отклонять (нет оснований — существование юрлица не опровергнуто), статус 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к реестру (MCA master data / GST-портал по GSTIN из инвойса)."
+}

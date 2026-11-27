@@ -1,0 +1,18 @@
+{
+ "name_input": "ADANI WILMAR LTD",
+ "legal_name": "AWL Agri Business Limited (formerly Adani Wilmar Limited)",
+ "cin_llpin": "L15100GJ1999PLC035320",
+ "pan": "Not verified from a public source in this session — null",
+ "pan_holder_type": "null (PAN not confirmed; if the CIN/PAN linkage holds, 4th character of a company PAN would be 'C' = company, but this is unverified and not asserted)",
+ "gstin": "null — no public GST profile page could be retrieved (registry aggregator pages returned HTTP 403)",
+ "gst_status": "null — not verified",
+ "incorporation_date": "1999 (year only, per Screener company profile 'Incorporated in 1999'); exact date not verified — null",
+ "state_registered": "Gujarat (per CIN state code 'GJ' and L15100GJ prefix)",
+ "state_claimed": "not stated in input",
+ "mca_status": "Active — listed company, BSE: 543458 / NSE: AWL, current market price quoted 27 Nov (Screener.in); no strike-off/liquidation/winding-up found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 63672,
+ "revenue_fy26_cr": 74731,
+ "revenue_source": "Screener.in consolidated P&L (sourced from the company's audited annual results filed with BSE/NSE): FY25 (Mar 2025) sales Rs 63,672 Cr; FY26 (Mar 2026) sales Rs 74,731 Cr. Standalone: FY25 Rs 61,677 Cr, FY26 Rs 72,308 Cr. https://www.screener.in/company/AWL/consolidated/",
+ "note": "Legal entity confirmed as existing and active: AWL Agri Business Limited, formerly Adani Wilmar Limited (renamed after Adani exited the JV in FY24; new name adopted via shareholder e-voting). CIN L15100GJ1999PLC035320 is the company's own CIN as carried in public listings; registered office state Gujarat per CIN prefix. Input name 'ADANI WILMAR LTD' is the former name of the same entity — not a different legal person. Declared HS codes (151530, 151620, 151710, 151790 — castor oil, vegetable fats/oils fractions, margarine) are consistent with an edible-oil/FMCG manufacturer, so no HS correction is needed. Revenue figures are consolidated audited-filing figures from Screener.in; FY26 column is the year ended March 2026 as reported. PAN and GSTIN could not be verified: zaubacorp and thecompanycheck returned HTTP 403, Wikipedia 429, moneycontrol 410, and web_search (DuckDuckGo/searx) was unavailable (connection refused) throughout the session — so PAN, GSTIN and GST status are left null rather than guessed. No rejection grounds: entity exists, is listed and trading."
+}

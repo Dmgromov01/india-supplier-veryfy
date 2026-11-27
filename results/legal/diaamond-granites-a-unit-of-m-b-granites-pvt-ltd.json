@@ -1,0 +1,18 @@
+{
+ "name_input": "DIAAMOND GRANITES (A UNIT OF M B GRANITES PVT LTD)",
+ "legal_name": "M B GRANITES PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down); Google returned only a redirect/consent page; DuckDuckGo timed out; Bing returned irrelevant results for both queries ('M B GRANITES PRIVATE LIMITED CIN' and 'DIAAMOND GRANITES GSTIN'), so no registry page was ever surfaced. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404, tofler.in 404 (wrong slug, no search access), mca.gov.in 403. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are non-public in principle, but because no source could be read in this session. No revenue figures are asserted: FY25/FY26 audited accounts were not accessible, so both are null rather than estimated. Role is 'unknown': the input describes 'DIAAMOND GRANITES' as 'a unit of' M B GRANITES PVT LTD, which is a trade/brand-unit naming pattern typical of a processor/trader of granite (declared HS 680293 = worked granite, polished/cut slabs), but this is inference from the name only, not verified. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of retrievable data is not grounds for rejection. Action needed: re-run with working search, or supply the CIN/GSTIN so the MCA master data and GST public profile can be checked directly. Note also that the input's declared HS 680293 is consistent with granite slabs and is not treated as a rejection ground under the 23.11.2026 rule."
+}
