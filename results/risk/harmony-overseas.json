@@ -1,0 +1,9 @@
+{
+ "name_input": "Harmony Overseas",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена: ни один источник не дал данных по этой компании. Что пробовалось (23.11.2026): (1) DuckDuckGo/searx — бэкенд недоступен (connection refused) на всех запросах; (2) Bing по запросам «\"Harmony Overseas\" Morbi tiles Kundaliya», «\"Harmony Overseas\" ceramic India exporter Russia», «\"Harmony Overseas\" India company Zauba OR Tofler OR IndiaMART» — поисковик игнорировал кавычки и вернул только нерелевантные общие результаты (Logitech Harmony, eharmony и т.п.), ни одного индийского юрлица; (3) ZaubaCorp — HTTP 403; (4) OFAC Sanctions List Search — открылась только форма, API-запрос по имени выполнить не удалось; (5) eCFR/BIS-подобный поиск по строке \"Harmony Overseas\" — 0 результатов (это не полноценная проверка Entity List, только отрицательный результат по одному индексу). Итог: санкционная экспозиция, суды, действия регуляторов, негативные новости, кредитный рейтинг и признаки поставок в РФ/СНГ — НЕ УСТАНОВЛЕНЫ, все поля null. Это отсутствие данных, а не подтверждённое отсутствие рисков. Отдельно: заявленное «юрлицо» KUNDALIYA HARDIK MANSUKHBHAI выглядит как имя физлица/проприетора, а не название компании — принадлежность бренда «Harmony Overseas» этому лицу не подтверждена ни одним источником. Требуется повторный прогон при работающем поиске (предпочтительно: Tofler/ZaubaCorp по CIN, e-courts по имени стороны, OFAC/UN/EU/UK/BIS по названию и по имени проприетора, GST-портал)."
+}

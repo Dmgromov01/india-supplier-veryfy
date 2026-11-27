@@ -1,0 +1,18 @@
+{
+ "name_input": "Harmony Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО НИ ОДНИМ ИСТОЧНИКОМ. Заявленное в инпуте 'KUNDALIYA HARDIK MANSUKHBHAI' — это имя физлица (формат индийского ФИО), а не название юрлица; вероятнее всего речь о проприетарном концерне (sole proprietorship), у которого по определению нет CIN/LLPIN и нет MCA-записи — только GSTIN и PAN физлица. Проверить это не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', затем Bing отдавал нерелевантную выдачу без учёта кавычек и операторов; агрегаторы реестров (zaubacorp, thecompanycheck, instafinancials) и портал MCA (mca.gov.in) вернули HTTP 403/404. Ни CIN, ни PAN, ни GSTIN, ни даты регистрации, ни штата, ни оборота получить не удалось — все поля null, ничего не выдумано. Штат в инпуте не заявлен (пусто), поэтому state_claimed = null. Роль не определена: HS 690721 (керамогранит/плитка) и 691010 (санитарная керамика) указывают на керамический кластер (вероятно Морби, Гуджарат), но это предположение, а не факт — роль оставлена 'unknown'. Отклонять НЕЛЬЗЯ: нет доказательств, что юрлица не существует, ликвидировано или обанкрочено; отсутствие данных — не основание для rejected. Требуется повторная проверка при восстановлении доступа к поиску: искать GSTIN по имени 'Kundaliya Hardik Mansukhbhai' в GST-справочниках (GSTZen, ClearTax, KnowYourGST) и по торговому имени 'Harmony Overseas' в связке с Морби/Гуджарат."
+}
