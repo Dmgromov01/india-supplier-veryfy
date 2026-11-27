@@ -1,0 +1,9 @@
+{
+ "name_input": "ASHTAVINAYAKA TECHNO PROCESS ENGINEERING PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам — данные отсутствуют, а не подтверждены как чистые. Что произошло: (1) web_search вернул ошибку бэкенда (searx: Connection refused) на обоих запросах; (2) zaubacorp.com и thecompanycheck.com отдали HTTP 403; (3) google.com — HTTP 429; (4) duckduckgo.com/html — таймаут; (5) bing.com вернул нерелевантную мусорную выдачу (результаты не по компании, использовать нельзя); (6) sanctionssearch.ofac.treas.gov доступен только как JS-форма, результат запроса по имени через http_get не извлекается. Следствие: санкционный скрининг (OFAC SDN, UN, EU, UK, BIS Entity List) по имени 'Ashtavinayaka Techno Process Engineering' фактически не проведён; судебные дела (NCLT/NCLAT, eCourts, High Court) не проверены; рейтинги (CRISIL/ICRA/CARE/India Ratings) не проверены; негативные новости не проверены; признаков поставок в РФ/СНГ не искалось. Все поля оставлены null — выдумывать нельзя. Отдельно: по правилу 2 санкции/суды/уголовные дела владельцев не являются основанием для отклонения, поэтому отсутствие данных не должно трактоваться как риск-сигнал или как 'чисто'. Требуется повторный прогон при работающем поиске; приоритетные источники для повтора: OFAC Sanctions List Search (ручной ввод имени), eCourts Services / NCLT, сайты CRISIL/ICRA/CARE, IBBI, а также индийский MCA. Юрлицо, HS-код и объёмы отгрузок в рамках этой роли не исследовались."
+}

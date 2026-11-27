@@ -1,0 +1,18 @@
+{
+ "name_input": "SEVEN SEAS ENTERPRISE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no verifiable record obtained. Tooling failure: DuckDuckGo search backend refused connections; Bing returned only irrelevant generic results for every query variant ('Seven Seas Enterprise' + Jyotindra Ramniklal Shah / GSTIN / Ramniklal proprietor); Zauba Corp returned HTTP 403; Tofler search returned 404. No public page was retrieved that confirms the existence, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status of this entity. The input gives no CIN, PAN or GSTIN to anchor a lookup, and the name 'SEVEN SEAS ENTERPRISE' is a generic trade name that in India is most commonly a sole proprietorship (in which case there would be no CIN/LLPIN and no MCA record at all, only a GSTIN) - this is a hypothesis, NOT a finding. The 'legal_claimed' field contains a person's name (Jyotindra Ramniklal Shah), which is consistent with a proprietorship or a partner/proprietor of a partnership firm, but this is unverified. Per project rules, rejection is only permitted when the entity is proven non-existent, struck off, liquidated or bankrupt - none of that is proven here, so the company is NOT rejected; it is left unverified. Revenue FY25/FY26 set to null: no audited accounts or official filings were located, and figures must not be invented. Declared HS 610910 (knitted cotton T-shirts) is inconsistent with the claimed industry 'food products and FMCG'; per the 23.11.2026 rule this is NOT a rejection ground - the HS code should be corrected to the actual product code once the real business is established, and the record kept. Role left 'unknown' rather than guessed. RECOMMENDATION: re-run verification when search access is restored, or request the GSTIN / PAN directly from the supplier; a GSTIN alone would resolve GST status, registered state and the PAN holder-type character (4th character of PAN: P=individual, F=firm, C=company, etc.)."
+}

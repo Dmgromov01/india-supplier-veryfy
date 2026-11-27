@@ -1,0 +1,9 @@
+{
+ "name_input": "MULTIMETALS LIMITED",
+ "sanctions_hit": false,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, INCOMPLETE — research tools largely failed. Sanctions: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and other lists; data current as of 2026-11-27) returned 'No matching entities were found' for 'Multimetals' (https://www.opensanctions.org/search/?q=Multimetals). A variant search 'Multi Metals' returned only one unrelated entity — Halkbank (Türkiye, Iran UANI Business Registry) — which is NOT this Indian company and is not a match. So: no sanctions exposure identified, but this is a name-only screen, not a verified CIN/PAN-level match, because legal identity was out of scope for this role. Court cases: NOT RESEARCHED — could not be established. Indian court/NCLT/NCLAT records (e.g. eCourts, NCLT cause lists) were not reachable: the web_search tool was down (searx connection refused) and Bing/Google returned unrelated or rate-limited results. Value null, not 'no cases'. Regulator actions / negative news: NOT RESEARCHED — same tool failure; null, not 'none found'. Credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork) with date and status: NOT FOUND / NOT RESEARCHED — null. Evidence of supplies to Russia or CIS: NOT FOUND — no customs, B-L or trade-record evidence located; null, not a confirmation of absence. Per project rules, none of the above (even if later found) would be grounds for rejection; sanctions/court/criminal matters are to be recorded neutrally as 'есть сложности'. RECOMMENDATION: re-run this risk screen when search access is restored, and match on CIN/PAN rather than name alone before relying on the sanctions result. Note also that the declared industry ('IT и электроника') is inconsistent with the declared HS 741121 (copper alloy tube fittings) — flagged for the HS/identity team, not a risk finding and not a rejection ground."
+}

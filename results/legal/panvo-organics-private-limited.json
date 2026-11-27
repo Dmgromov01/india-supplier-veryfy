@@ -1,0 +1,18 @@
+{
+ "name_input": "Panvo Organics Private Limited",
+ "legal_name": "PANVO ORGANICS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failed: DuckDuckGo search backend returned 'Connection refused' (no results at all), Bing/Google HTML endpoints returned irrelevant or rate-limited (HTTP 429) pages, and the registry aggregators that would carry CIN/PAN/GSTIN/MCA status (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, falconebiz.com) returned HTTP 403/404 or empty JS-only shells. Therefore CIN/LLPIN, PAN, PAN holder type (4th character), GSTIN, GST status, incorporation date, registered-office state and MCA status are all reported as null — NOT because they do not exist, but because no public source could be read. The claimed domain panvo.in now resolves to an unrelated Vietnamese gambling site, so it is not usable as a company source. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' — no registry document (MOA/objects, factory licence) was readable to distinguish manufacturer from trader. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established, and absence of readable data is not grounds for rejection. Recommended follow-up: re-run with working search plus MCA master-data lookup (e.g. mca.gov.in / a paid CIN API) and a GSTIN verification API to fill the null fields."
+}

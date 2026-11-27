@@ -1,0 +1,9 @@
+{
+ "name_input": "Central Tyres Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Research could not be completed: the primary web_search tool returned a backend error ('searx: Connection refused') on both queries, and fallback engines were unusable — Google returned HTTP 429, DuckDuckGo timed out, Bing returned only generic cached results about US credit unions/banks unrelated to the query (no India tyre entity surfaced), and registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no name screening result could be obtained. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. No public data was found or confirmed for the claimed proprietor name 'KESHAVDAS VASUDEV' in connection with 'Central Tyres Pvt. Ltd'. Per project rules, absence of verification is recorded as null rather than as a negative finding, and no rejection is implied — sanctions/court matters are never rejection grounds anyway. Recommend re-running this company once the search backend is restored, with a name-variant screen ('Central Tyres', 'Central Tyre', 'Central Tyres Private Limited') against OFAC SDN, EU consolidated, UK OFSI, UN and BIS Entity List, plus Indian court trackers (eCourts/NJDG, NCLT) and CRISIL/CARE/ICRA/India Ratings/Brickwork rating actions."
+}

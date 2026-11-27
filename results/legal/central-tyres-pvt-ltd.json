@@ -1,0 +1,18 @@
+{
+ "name_input": "Central Tyres Pvt. Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) returned connection errors, and direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404 or unrelated results; Bing returned only US banking/credit-union pages, no Indian company match. Therefore no exact legal entity name, CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be verified from a public source. Nothing is asserted or invented: all fields null. NOT rejected - absence of retrievable data is not proof of non-existence; the entity may well exist under a slightly different legal name (e.g. 'Central Tyres Private Limited' in a specific state). Input also contains an inconsistency: legal_claimed field holds 'KESHAVDAS VASUDEV' (a person/proprietor name), not a company name, while the name field says 'Central Tyres Pvt. Ltd' - this needs clarification from the requester. Declared HS 401120/401290 (tyres/retreads) is consistent with the claimed transport industry, but HS is not a rejection criterion per project rules. Role left as 'unknown' pending registry confirmation. Recommended next step: manual MCA master-data lookup by name and state, or re-run once search access is restored."
+}
