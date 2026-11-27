@@ -1,0 +1,9 @@
+{
+ "name_input": "SUPARNA CHEMICALS LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend (DuckDuckGo/searx) returned 'Connection refused' on every attempt; Bing returned an identical cached result set for all three distinct queries (all results about Suparna Airlines, a Chinese carrier, unrelated to this entity), so it could not be used as evidence. Direct fetches of company-registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; Google returned a redirect/consent page. The OFAC Sanctions List Search page loaded but is an interactive form that cannot be queried via plain HTTP GET, so no name screening was actually executed. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT SCREENED, not 'clear'. Indian court cases (party role/status) = not checked. Regulator actions and negative news = not checked. Credit rating (agency/date/status) = not checked. Evidence of supplies to Russia or CIS = not checked. All fields set to null per the no-invention rule; null here means 'unknown/unverified', NOT 'no risk found'. No CIN, PAN, case number, rating or shipment record is asserted. Recommended action: re-run this company once the search backend is restored, or screen manually against OFAC SDN, EU consolidated, UK OFSI, BIS Entity List, and Indian court records (eCourts/NCLT) before any decision. Per project rules, absence of findings must not be read as clearance, and no rejection is proposed on this basis."
+}

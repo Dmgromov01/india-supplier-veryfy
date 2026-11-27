@@ -1,0 +1,9 @@
+{
+ "name_input": "Allied Medical LImited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу — данных нет, все поля null. Технические причины: (1) поисковый бэкенд DuckDuckGo/Searx возвращал 'Connection refused' / 403 на всех запросах; (2) Bing отдавал только кэшированные общие результаты (Allied Universal, Allied Benefit, фильм 'Allied'), игнорируя кавычки и операторы site:, т.е. релевантных страниц по 'Allied Medical Limited' (Rajasthan) не найдено; (3) zaubacorp.com — HTTP 403; (4) sanctionssearch.ofac.treas.gov — JS-форма, GET-запрос не возвращает результатов поиска; (5) indiankanoon.org через Bing — результатов нет. Никаких утверждений о санкциях, судах, рейтинге, негативных новостях или поставках в РФ/СНГ не подтверждено и не опровергнуто. ВАЖНО: отсутствие результата здесь НЕ означает отсутствие риска — это отсутствие проверки. Требуется повторный прогон при работающем поиске, а также ручная сверка по OFAC SDN/Consolidated (скачиваемые CSV), UN Consolidated, EU FSF, UK OFSI, BIS Entity List, eCourts/NJDG и Indian Kanoon по точному наименованию и PAN AADCA0301J (PAN заявлен клиентом, не проверен). Отдельно: заявленный отраслевой профиль 'IT и электроника' при HS 901890/901920 (медицинские приборы) выглядит несогласованным — это вопрос к профилированию, не к риск-вердикту."
+}

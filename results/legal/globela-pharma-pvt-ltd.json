@@ -1,0 +1,18 @@
+{
+ "name_input": "GLOBELA PHARMA PVT. LTD",
+ "legal_name": "GLOBELA PHARMA PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Gujarat",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' or unrelated results; Bing and Google returned irrelevant SERPs; all registry aggregator pages attempted (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com, instafinancials.com) returned HTTP 403 Forbidden. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue could not be confirmed from any public source. PAN claimed in input (AACCG5247N) is NOT validated: its 4th character 'C' would indicate a company-type holder, which is consistent with a private limited company, but the PAN itself could not be matched to this entity in any public record, so it is reported as null rather than confirmed. No rejection applied - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / data not public or not retrievable', not 'rejected'. Revenue FY25/FY26 set to null per rule 4 (no audited accounts or official filings accessible). Role left as 'unknown' - no registry evidence of manufacturing plant, GST turnover or trade activity was obtainable. Also note the input's industry_claimed ('Нефтегаз и химия' - oil & gas / chemicals) is inconsistent with the company name and declared HS 300490 (pharmaceuticals); this is a data-quality flag for the input record, not a rejection ground. Recommend re-run with working search access or manual MCA master-data lookup before any decision."
+}

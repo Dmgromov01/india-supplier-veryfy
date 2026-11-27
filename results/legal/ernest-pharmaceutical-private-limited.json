@@ -1,0 +1,18 @@
+{
+ "name_input": "Ernest pharmaceutical private limited",
+ "legal_name": "ERNEST PHARMACEUTICAL PRIVATE LIMITED (as claimed; unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public source could be read. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on all queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned HTTP 404; Bing returned only unrelated generic results (singer 'Ernest', earnest.com) for every query, i.e. no usable SERP. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT verified, not 'absent'. PAN claimed in input (AAECE0011G) was NOT validated: 4th character 'C' would denote a company holder, but the string itself is unconfirmed against any public record and may be fabricated; treat as unverified. No rejection applied: per rules an entity may only be rejected if it is proven non-existent/struck off/liquidated/bankrupt, and non-existence could not be proven either way. Role left 'unknown' - the name suggests pharma, while the declared HS 250100 (salt) and claimed industry 'food/FMCG' conflict with each other; HS mismatch is not a rejection ground and the code should be corrected to the actual product once verified. Revenue FY25/FY26: null - no audited accounts or official filings accessible. Recommended action: re-run with working search/registry access (MCA master data, GST public search) before any commercial decision."
+}

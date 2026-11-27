@@ -1,0 +1,18 @@
+{
+ "name_input": "Allied Medical LImited",
+ "legal_name": "ALLIED MEDICAL LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": "AADCA0301J (claimed by input; format-valid: 4th character 'C' = company/body corporate holder type; not verified against any public record)",
+ "pan_holder_type": "company (inferred from 4th character 'C' of the claimed PAN; unverified)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Rajasthan",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend was down (connection refused) for all queries, and every direct registry source attempted returned HTTP 403/404 or non-honoring results — zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (404), falconebiz.com (403), mca.gov.in MDS (403), and Bing/Google/DuckDuckGo returned only generic unrelated 'Allied' US results. Therefore CIN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrieved, NOT invented. No rejection basis established: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt, so it is not rejected. Two flags for the desk: (1) the input industry 'IT и электроника' is inconsistent with the declared HS codes 901890/901920 (medical/surgical and oxygen-therapy/breathing apparatus) — per project rules this is not a rejection ground, only a data-quality note; (2) the claimed PAN AADCA0301J is format-valid for a company but unverified. Recommend re-running against MCA master data / GST portal when search access is restored."
+}

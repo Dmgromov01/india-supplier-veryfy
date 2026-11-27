@@ -1,0 +1,8 @@
+{
+ "name_input": "Rosinka Worldwide",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/rosinka-worldwide (and slug variant /rosinka-worldwide-llp) returned only the generic template shell: \"Shipments available for ROSINKA WORLDWIDE, refreshed daily\" with zero shipment rows, zero dates, zero destinations, zero HS codes and zero B/L numbers rendered; source counter = 2 pages fetched, rows actually seen = 0. Bing exact-phrase query \"Rosinka Worldwide\" Kerala returned no matching company result (only unrelated translation sites).",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, no GeM/CPPP tender, no contract and no annual-report split found. Search backends unavailable: DuckDuckGo (searx) returned 'Connection refused' on two queries, lite.duckduckgo.com and html.duckduckgo.com timed out; volza.com, eximpedia.app and trademo.com returned HTTP 403. Rows actually seen = 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Единственное, что удалось получить, — пустая страница-шаблон ImportKey, которая генерируется для любого слага и не содержит ни одной записи об отгрузке; это не подтверждение. Заявленный HS 870899 (части автомобилей) и отрасль «Авиастроение и транспорт» ничем не подтверждены. PAN AAJCR1876R и штат Kerala не проверены: реестры вне области задачи, а поисковые бэкенды были недоступны, поэтому юрлицо, выручка и объём экспорта — null (не выдумываю). Компания не отклоняется: оснований для rejected (несуществующее/ликвидированное/банкрот) не установлено, статус — 'заявлено, не подтверждено' по факту отгрузок. Рекомендуется повторный прогон при доступных volza/eximpedia/importgenius и GST-портале."
+}

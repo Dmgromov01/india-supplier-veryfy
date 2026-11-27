@@ -1,0 +1,18 @@
+{
+ "name_input": "SUPARNA CHEMICALS LTD",
+ "legal_name": "SUPARNA CHEMICALS LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Maharashtra",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling was effectively unavailable during this run: web_search returned 'Connection refused' (searx backend down); zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in returned HTTP 403; duckduckgo (html/lite) timed out; Bing returned only irrelevant results about Suparna Airlines (China) for every query variant tried ('Suparna Chemicals Limited' + CIN / GSTIN / Mumbai / Maharashtra / site:zaubacorp.com etc.). Therefore no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures could be sourced, and all such fields are left null rather than guessed. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected under the rules (rejection requires proof of non-existence/struck-off/liquidation/bankruptcy). Role cannot be determined from registry data (no MCA NIC/object clause retrieved) - set to unknown. State of registered office unverified; Maharashtra is only the claimed state. Declared HS 290519 (cyclopentane/cyclohexane-type cyclic hydrocarbons) is not assessed here per role scope. Recommended follow-up: re-run with working search/MCA access and query MCA company master data by name, plus GST portal 'Search Taxpayer' for the GSTIN once the legal name is confirmed."
+}

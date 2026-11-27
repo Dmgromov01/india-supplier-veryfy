@@ -1,0 +1,9 @@
+{
+ "name_input": "REVERA ENTERPRISE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам, все поля null — это НЕ подтверждение отсутствия рисков. Факты: (1) поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) резервный поиск через Bing по точному названию 'REVERA ENTERPRISE PRIVATE LIMITED', по варианту 'Revera Enterprise(s)' + India/Maharashtra/director и по заявленному PAN 'AAKCR5308P' не дал ни одного индийского юрлица — выдавались только нерелевантные зарубежные 'Revera' (reverainc.com — Канада/США, revera.fr, revera.legal, revera.energy и т.п.); (3) реестровые агрегаторы (zaubacorp.com, tofler.in) отдали HTTP 403, Google — заглушку без результатов. (4) OFAC Sanctions List Search открылся (SDN-лист обновлён 23.11.2026), но поиск по имени выполнить не удалось — форма требует POST/JS, поэтому санкционный скрининг фактически не проведён; по названию компании совпадений в открытых источниках не встречено. (5) Судебные дела (eCourts/NCLT), действия регуляторов (SEBI/RBI/GST), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — не проверены, публичных упоминаний не найдено. Рекомендация: повторить скрининг при доступном поиске и доступе к MCA/eCourts; до этого считать риск-профиль непроверенным, а не чистым. Оснований для отклонения по правилу 2 нет и не зафиксировано."
+}

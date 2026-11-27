@@ -1,0 +1,9 @@
+{
+ "name_input": "GOODWAY CHEMICAL PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ выполнена по существу: инструменты недоступны. web_search возвращал ошибку бэкенда (searx: Connection refused) либо нерелевантную выдачу (Bing по запросу 'Goodway Chemicals Pvt Ltd' вернул результаты про песню Hotel California — поисковый индекс явно не отработал запрос). Прямые запросы к реестрам и базам: zaubacorp.com — HTTP 403; indiankanoon.org — HTTP 403; thecompanycheck.com — не удалось (инструмент недоступен); html.duckduckgo.com — таймаут. Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылась, но это JS-форма без выполнения запроса — фактического поиска по SDN/Non-SDN не произведено, поэтому отсутствие совпадения НЕ подтверждено. Итог: по всем полям null — данных нет, выдумывать нельзя. Санкционных, судебных, рейтинговых и новостных сведений не получено; наличие/отсутствие поставок в РФ/СНГ не установлено. Требуется повторный прогон при работающем поиске (проверить: OFAC SDN + consolidated non-SDN, BIS Entity List, EU/UK consolidated, indiankanoon/MCA NCLT, CRISIL/ICRA/CARE, экспортные B-L записи). Отклонять по этим данным нельзя — нет оснований (правило 3), статус проверки: не завершена."
+}
