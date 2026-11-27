@@ -1,0 +1,9 @@
+{
+ "name_input": "DORSAL EXPOVENTURE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public risk data could be retrieved for this entity. (1) Sanctions: no match found, but this is NOT a clean bill of health — the OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov) is a JavaScript form that cannot be queried via plain HTTP GET, so no actual SDN/Non-SDN name query was executed; UN, EU, UK OFSI and BIS Entity List screens were likewise not run. sanctions_hit=null means 'not verified', not 'clear'. (2) Indian courts: no records located; eCourts/NCLT/High Court dockets were not reachable within the tool budget, so court_cases=null (not public / not checked). (3) Regulator actions and negative news: none found — but note the search backend (DuckDuckGo/searx) was returning connection-refused errors for the whole session, and Bing returned only generic dictionary results for the exact-phrase queries \"Dorsal Expoventure\" and \"DORSAL EXPOVENTURE PRIVATE LIMITED\", i.e. zero indexed web presence surfaced. Absence of hits under a degraded search channel is not evidence of absence. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; rating=null, not public. (5) Russia/CIS supply evidence: none found; rf_supply=null. Per project rules, none of the above is a rejection ground — the company is retained in the base. Recommend re-running the sanctions screen (OFAC/UN/EU/UK/BIS) and an eCourts + MCA-docket check once the search backend is restored, before any reliance on this record."
+}
