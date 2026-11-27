@@ -1,0 +1,9 @@
+{
+ "name_input": "Horizon Associates",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Bing отдавал только общие результаты по слову 'Horizon' и игнорировал кавычки/операторы (запросы по 'Horizon Associates' + 'Bangera', 'Avinash Ganesh Bangera', site:indiamart.com не дали ни одного релевантного совпадения), Google — HTTP 429. Никаких данных по санкциям (OFAC SDN/UN/EU/UK/BIS), индийским судам, действиям регуляторов, негативным новостям, кредитному рейтингу и поставкам в РФ/СНГ получить не удалось — все поля null, а не 'чисто'. Название 'Horizon Associates' крайне неспецифично (совпадает с Horizon Credit Union, Horizon Hobby и др.), поэтому без доступа к MCA/CIN и судебным базам (eCourts, NCLT) идентификация невозможна. Требуется повторный прогон при работающем поиске; отказ (rejected) по правилу 3 не предлагается — нет оснований, данных просто нет."
+}

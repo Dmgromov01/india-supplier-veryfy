@@ -1,0 +1,18 @@
+{
+ "name_input": "JP IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Vaishali (Bihar) — as stated in input; not verified",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо полностью нерелевантные результаты (J.P. Morgan, jpcycles и т.п.); DuckDuckGo HTML — таймаут; Bing по запросам с кавычками и GSTIN/CIN выдавал мусор. Реестровые агрегаторы закрыты: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, thecompanycheck.com — HTTP 404, tofler.in — HTTP 404, mca.gov.in (Master Data) — HTTP 403. В результате НЕ подтверждены: точное юрлицо (ООО/LLP/единоличное предприятие), CIN/LLPIN, PAN и тип держателя по 4-му символу, GSTIN и статус GST, дата инкорпорации, штат регистрации, статус MCA, роль (производитель/трейдер), выручка FY25/FY26. Название «JP IMPEX» крайне неспецифично (сотни совпадений по Индии), поэтому привязка к Вайшали без GSTIN/CIN была бы догадкой — этого не делаю. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3). Требуется от заказчика GSTIN или CIN/LLPIN либо ссылка на профиль IndiaMART/GST-портал для однозначной идентификации; после этого проверка выполняется по существу. Заявленный HS 080610 (виноград свежий) и 110813 (крахмал картофельный) не проверялся — по правилам HS не является основанием для отклонения."
+}

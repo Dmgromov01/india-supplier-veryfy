@@ -1,0 +1,9 @@
+{
+ "name_input": "AGROTIS TECH LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковая инфраструктура недоступна в момент проверки. DuckDuckGo (html.duckduckgo.com) — connection refused/timeout; Google — HTTP 429; Bing — возвращал нерелевантную выдачу (страницы Microsoft) на все запросы, включая точное совпадение в кавычках \"AGROTIS TECH LLP\" и \"Agrotis Tech\" LLP India. Прямой запрос к Tofler (tofler.in/search?q=agrotis) — 404. Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыта, но это JS-форма без возможности выполнить запрос через http_get, поэтому фактического сопоставления имени с SDN/Non-SDN не произведено. Итог: ни одного подтверждённого факта по санкциям (OFAC SDN, UN, EU, UK, BIS Entity List), судам, действиям регуляторов, негативным новостям, кредитному рейтингу и поставкам в РФ/СНГ получить не удалось. Все поля оставлены null — это означает 'нет публичных данных в рамках доступных источников', а НЕ 'чисто'. Санкционных хитов не выявлено, но и проверка не завершена: требуется повторный прогон при работающем поиске (рекомендуемые источники: OFAC SDN/Consolidated XML, UK OFSI consolidated list, EU consolidated list, BIS Entity List, eCourts/NJDG, Zauba Corp/MCA, Tofler, кредитные агентства CRISIL/ICRA/CARE). Отклонять по правилу 3 нет оснований (нет данных о ликвидации/банкротстве), но и принимать без повторной проверки нельзя."
+}
