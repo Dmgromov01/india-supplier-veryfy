@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S T.V.S.MOTOR COMPANY LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, NOT COMPLETED — tooling failure. DuckDuckGo/searx backend returned 'Connection refused' on every web_search call; Bing HTML fetch returned only generic, query-irrelevant results (TV sets, a US school, retail pages) and Wikipedia returned HTTP 429. No sanctions, court, rating or Russia/CIS-supply source could be read, so all risk fields are null rather than guessed. What WAS verified from a primary source: the company's own website (https://www.tvsmotor.com/) presents it as an Indian two-wheeler manufacturer (motorcycles, scooters, mopeds, three-wheelers, iQube EVs) headquartered in Chennai — i.e. the claimed industry 'IT и электроника' and declared HS 847160 (computer input/output units) do not match the company's actual business; per project rules this is NOT a rejection ground and is flagged for the HS/identity researcher, not decided here. The site's country selector lists 'Middle East and CIS' markets including Armenia, Azerbaijan, Georgia and Mongolia, but a market selector on a website is a claim, not evidence of actual shipments — no customs, B/L or contract record of supplies to Russia or CIS was found or verified, so rf_supply = null ('заявлено, не подтверждено'). No sanctions listing, court case, regulator action, credit rating or negative news item was confirmed or refuted; absence here means 'not checked', not 'clean'. Recommend re-running this company once search access is restored, checking OFAC SDN/UN/EU/UK/BIS lists, Indian court records (e.g. eCourts/NCLT) and CRISIL/ICRA/CARE rating rationales."
+}

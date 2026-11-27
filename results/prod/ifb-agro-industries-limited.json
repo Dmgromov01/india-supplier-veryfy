@@ -1,0 +1,19 @@
+{
+ "name_input": "IFB AGRO INDUSTRIES LIMITED",
+ "declared_hs": "030617",
+ "actual_hs_list": [
+  "030617 (frozen shrimps/prawns, other than cold-water) — confirmed product line",
+  "0304 (fish fillets/portions, frozen — basa fillets, basa portions)",
+  "1604 (prepared/preserved fish: fish fingers, ready-to-cook/ready-to-fry marinated prawn & fish products)",
+  "1605 (ready-to-fry snack/party-pack items, if breaded/battered preparations — product line exists, exact composition not verified)",
+  "2309 (preparations of a kind used in animal feeding — aqua feed, fish/cattle feed supplements, Nutrafeed/Nutrisigma/Nutrashakti)",
+  "2207 / 2208 (ENA — extra neutral alcohol; bottled IMFL/IML spirits under 'Alcohol & Bottling')",
+  "3824 or 2207-adjacent (DDGS — distillers dried grains, feed by-product; code depends on protein/fat spec)",
+  "2811 (carbon dioxide)",
+  "— dry ice (HS 3824/2811 subheading depends on form; declared as 'Polarice' dry ice + dry ice blasting service)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Multi-division company, not a pure seafood exporter. (1) Marine: frozen shrimps/prawns (IQF, cleaned/deshelled/deveined), frozen basa fish fillets and portions, fish fingers, ready-to-cook and ready-to-fry marinated/seasoned prawn and fish products, party packs — sold B2C via ifbfreshcatch.com and exported (site lists Japan, Korea, Vietnam, China, Singapore, Canada, USA, EU, UK, Russia, Gulf, CIS). (2) Aqua/animal nutrition: aqua feed, formulated feed, fish and shrimp feed supplements (Nutrafeed, Nutrisigma, Nutrashakti), cattle therapeutics and feed supplements. (3) Alcohol & bottling: distillery, ENA, DDGS, carbon dioxide, dry ice ('Polarice'), dry ice blasting, IML/bottling services. Registered office Plot No. Ind-5, Sector-1 East Kolkata Township, Kolkata 700107, West Bengal; CIN L01409WB1982PLC034590 (as printed on own site).",
+ "role_hint": "manufacturer (own distillery, feed plant and seafood processing/branding; also runs a B2C retail storefront — no trader signs found)",
+ "comment": "Declared HS 030617 covers only the frozen-shrimp line, which is genuinely present (prawns medium, IQF, on ifbfreshcatch.com and the marine-export page), so the code is correct but narrow: partial match. The declaration omits the majority of the company's actual product lines — frozen fish fillets/portions (0304), prepared/preserved fish and ready-to-cook/fry products (1604/1605), aqua and cattle feed plus supplements (2309), ENA and bottled spirits (2207/2208), DDGS, carbon dioxide (2811) and dry ice. Industry label 'Продукты питания и FMCG' is only partly right: the company is a diversified agro-processing/alcohol-distillation group, and the alcohol/bottling and feed divisions are not FMCG food. Per project rule 3 the HS mismatch is not a rejection ground — company is kept, code corrected/expanded to the actual range above. All product lines are taken from the company's own website (ifbagro.in homepage division list) and its own retail store (ifbfreshcatch.com); no customs line was available to me in this task, so every code above is 'заявлено, не подтверждено' at the shipment level. Sub-pages of ifbagro.in (marine-export, business-divisions, sitemap) returned HTTP 404 and web search was unavailable, so division-level detail beyond the homepage menu and the FreshCatch catalogue could not be read; exact HS-6 for DDGS, dry ice and the ready-to-fry range needs confirmation against the actual export/ARE-1 documents. No revenue, volume, registry or PAN data researched per role scope."
+}

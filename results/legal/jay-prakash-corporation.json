@@ -1,0 +1,18 @@
+{
+ "name_input": "JAY PRAKASH CORPORATION",
+ "legal_name": "JAY PRAKASH CORPORATION (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data obtained, not a rejection. Tooling failures: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in search returned 404; gstinsearch.in DNS failure; Bing returned only irrelevant generic 'Jay' results (no India company hits), so no CIN/PAN/GSTIN could be confirmed. The name 'JAY PRAKASH CORPORATION' is a non-standard form for an Indian company (no 'Private Limited'/'LLP' suffix) and may be a proprietorship/partnership trade name, which would have no CIN at all — this is a hypothesis, not a finding. PAN, PAN holder type (4th character), GSTIN, GST status, incorporation date, registered state and MCA status are all null because nothing public was retrievable; they must not be inferred. Revenue FY25/FY26 null — no audited accounts or official filings accessed. Role set to 'unknown' (declared HS 850163 = steam/other-vapour turbines, energy sector) — no evidence of manufacturing vs trading. Per project rules this is NOT grounds for rejection: entity existence/struck-off/liquidation status is unconfirmed, so the record stays open pending a retry with working registry access (MCA master data, Zauba/Tofler via a non-blocked route, or GST portal search by trade name)."
+}
