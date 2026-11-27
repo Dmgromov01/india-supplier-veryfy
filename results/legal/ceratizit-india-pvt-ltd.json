@@ -1,0 +1,18 @@
+{
+ "name_input": "CERATIZIT INDIA PVT LTD",
+ "legal_name": "CERATIZIT INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО НИ ОДНОГО РЕКВИЗИТА. Все попытки получить первичные данные не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused' / таймаут; Bing и Google выдали нерелевантную выдачу без профилей компании; zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials.com (карточка компании), mca.gov.in (MDS) и сайт ceratizit.com (imprint/legal notice) — все отдали HTTP 403/404. Таким образом CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены и оставлены null — цифры не выдумывались. Юрлицо 'CERATIZIT INDIA PRIVATE LIMITED' как название правдоподобно (индийское подразделение австрийской группы CERATIZIT, производитель твердосплавного и режущего инструмента), но это НЕ подтверждено официальным реестром, поэтому роль оставлена 'unknown', а не 'manufacturer'. Оснований для отклонения (rejected) НЕТ: отсутствие подтверждения существования юрлица из-за недоступности источников — не доказательство его несуществования; компания сохраняется в базе как непроверенная. Заявленный HS 820320 (ручные инструменты: клещи, плоскогубцы, пинцеты и аналогичные) не соответствует профилю CERATIZIT (металлорежущий/твердосплавный инструмент, вероятнее 8207/8209/8466) — по правилам проекта это НЕ основание для отклонения: код подлежит исправлению на фактический после проверки номенклатуры, вердикт при подтверждении — accepted_hs_corrected. Заявленная отрасль 'Строительство и DIY' также сомнительна. Требуется повторная проверка при доступности MCA/GST-порталов или коммерческих реестров (Tofler, Zauba, IndiaFilings) — вручную, вне лимита инструментов."
+}

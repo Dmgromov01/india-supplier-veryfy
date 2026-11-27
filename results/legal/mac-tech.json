@@ -1,0 +1,18 @@
+{
+ "name_input": "MAC TECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no data obtained. The claimed legal entity 'ABSOLUTE TOOLING SOLUTIONS' could not be confirmed in any public registry during this run. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; Bing and Google returned generic dictionary results for the word 'absolute' with the quoted company name ignored, so no relevant hits; zaubacorp.com and mca.gov.in returned HTTP 403 (blocked); thecompanycheck.com and instafinancials.com returned HTTP 404 on the attempted search URLs. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrieved, and deliberately not guessed. No rejection is proposed: non-existence, strike-off, liquidation or bankruptcy was NOT established either - the entity is simply unverified. Note also that the input is internally inconsistent: the trade name 'MAC TECH' does not match the claimed legal name, no state was claimed, and the declared HS 903180 (measuring/checking instruments) sits oddly with the claimed industry 'IT and electronics' - HS mismatch is not a rejection ground under project rules, but the actual code should be re-confirmed once the entity is identified. Role left as 'unknown' (no evidence of manufacturing or trading activity). Recommended next step: re-run with working search, or obtain the GSTIN/CIN directly from the supplier, then verify on the GST portal and MCA master data."
+}

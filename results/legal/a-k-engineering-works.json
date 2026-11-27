@@ -1,0 +1,18 @@
+{
+ "name_input": "A.K. ENGINEERING WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не завершена — данных недостаточно, вердикт НЕ rejected. Что проверено: (1) поиск по MCA-зеркалу QuickCompany по строке 'A.K. ENGINEERING WORKS' — 0 результатов (https://www.quickcompany.in/search?q=A.K.+ENGINEERING+WORKS); (2) поиск по имени 'CHIRAG ARJUN KHAROTE' в том же реестре (компании, директора, товарные знаки, патенты) — 0 результатов (https://www.quickcompany.in/search?q=CHIRAG+ARJUN+KHAROTE); (3) поиск по фамилии 'KHAROTE' — 6 записей, ни одна не связана с 'A.K. Engineering Works' и ни одна не содержит директора/владельца Chirag Arjun Kharote (https://www.quickcompany.in/search?q=KHAROTE). Вывод по реестру: компания с таким названием в MCA не найдена, что согласуется с формой единоличного предприятия (proprietorship) — такие юрлица в MCA не регистрируются, у них нет CIN и нет директоров, только GSTIN и PAN физлица. Именно поэтому CIN/LLPIN, дата инкорпорации и MCA-статус отсутствуют объективно, а не из-за сокрытия данных. PAN и GSTIN не подтверждены: PAN в исходных данных не заявлен (пустое поле), GSTIN в открытых профилях не найден; веб-поиск (DuckDuckGo/Searx) в ходе сессии был недоступен (connection refused), Google/Bing отдавали нерелевантную выдачу, zaubacorp и instafinancials — HTTP 403, портал mca.gov.in — HTTP 403. Поэтому PAN, GSTIN, GST-статус, штат регистрации оставлены null — не выдумывались. Роль: 'unknown' — по названию 'Engineering Works' можно предполагать производителя, но это не подтверждено ни одним реестровым документом; трейдерская деятельность также не исключена. Выручка FY25/FY26: null — для proprietorship аудиторская отчётность в открытом доступе отсутствует, официальных filings нет. HS 851511 (паяльники и паяльные аппараты, электромеханические) с заявленной отраслью 'Авиастроение и транспорт' не стыкуется, но по правилам проекта несоответствие HS не является основанием для отклонения — код подлежит исправлению на фактический при наличии подтверждённых отгрузок. Следов поставок не проверял (вне роли legal/registry specialist). Рекомендация: запросить у поставщика GSTIN и PAN для однозначной идентификации, после чего повторить проверку GST-профиля и статуса."
+}
