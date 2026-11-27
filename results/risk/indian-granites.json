@@ -1,0 +1,9 @@
+{
+ "name_input": "INDIAN GRANITES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable data obtained. Tooling failed during this run: the web_search backend returned 'Connection refused' on every attempt; DuckDuckGo HTML/lite endpoints timed out; Google returned HTTP 429; Bing silently ignored all quoted operators and returned only generic 'India'/'Indian Motorcycle' results, i.e. no relevant hits. OFAC screening: the sanctionssearch.ofac.treas.gov UI is a JavaScript form and cannot be queried via plain GET; the SDN.CSV export I retrieved was a legacy/partial Cuba-focused file truncated at 6000 chars, so it is NOT a valid full-list screen and I do not treat it as a negative result. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = NOT PUBLICLY VERIFIED BY ME, not 'clean'. No claim is made that the company is unsanctioned, litigation-free or free of Russia/CIS ties. Identity caveat: 'INDIAN GRANITES' is a highly generic trade name used by many unrelated Indian granite firms (multiple states, multiple proprietors); the only identifier supplied is the person 'RITESH KUMAR GOYAL' with no PAN, CIN, GSTIN, city or state, so any record found could not be reliably attributed to this specific supplier. Per project rules, absence of negative findings is not a rejection ground and no rejection is proposed; the company stays in the base. Recommended next step: re-run with a working search backend plus a full OFAC/UN/EU/UK/BIS consolidated-list screen and e-courts/NCLT lookup once a PAN/CIN or registered address is obtained. No numbers, CINs, PANs or case references are invented here."
+}

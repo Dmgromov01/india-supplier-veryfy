@@ -1,0 +1,9 @@
+{
+ "name_input": "REMEDIUM ENTERPRISES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-27. Sanctions: OpenSanctions consolidated screening (aggregates OFAC SDN, UN, EU, UK, BIS Entity List and others; data current as of 2026-11-27) returned 'No matching entities were found' for 'Remedium Enterprises' — no sanctions exposure identified. OFAC's own Sanctions List Search is a JS form and could not be queried directly; the OpenSanctions aggregate is the substitute source. Court cases: Indian Kanoon exact-phrase query for 'Remedium Enterprises' returned 0 matching results; a broader unquoted query returned 225 hits but none of the listed judgments name this company as a party (generic keyword noise), so no Indian court case with this entity as party was found — recorded as null, not as 'clean'. Rating: no credit rating found in public sources (CRISIL/ICRA/CARE/India Ratings not checked individually due to tool-call budget) — null, not public. News/regulator actions: no negative news or regulator action found; web_search backend was unavailable (connection refused) throughout this session and Google returned HTTP 429, so news coverage could NOT be systematically searched — this is a coverage gap, not a clean bill of health. RF/CIS supply: no evidence of supplies to Russia or the CIS found in any source consulted — null. IMPORTANT LIMITATION: the company's legal identity, CIN and registry status could not be verified (ZaubaCorp HTTP 403, Tofler 404, InstaFinancials HTTP 403), so it is possible this entity is not indexed in public databases at all; absence of sanctions/court hits may therefore reflect low public footprint rather than confirmed absence of risk. Per project rules, no rejection is proposed on any of these grounds."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Kisha Telelinks Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточники не удались: DuckDuckGo-поиск вернул ошибку соединения (searx: connection refused), Bing по запросам \"Kisha Telelinks Private Limited\" и \"KGR Enterprises Private Limited\" выдал нерелевантную выдачу (американские автосервисы, бренды зонтов, личные страницы) — ни одного индийского реестрового профиля; zaubacorp.com и thecompanycheck.com отдали HTTP 403; instafinancials.com — 404; quickcompany.in — 404; mca.gov.in (MDS) — 403; search.gst.gov.in — DNS не разрешается. Следовательно: точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, публично не получены в рамках этой проверки. ВАЖНОЕ РАСХОЖДЕНИЕ ВО ВХОДНЫХ ДАННЫХ: name = \"Kisha Telelinks Private Limited\", а legal_claimed = \"KGR ENTERPRISES PRIVATE LIMITED\" — это два разных наименования; какое из них является фактическим контрагентом, не установлено. Ни одно из двух названий не подтверждено как существующее юрлицо, но и обратное (что оно не существует) не доказано — поэтому отклонение (rejected) НЕ применяется: оснований для rejected по правилу 3 нет, статус остаётся непроверенным. Роль — unknown (нет данных о деятельности; HS 851712 «телефоны сотовой связи» заявлен, но фактический код и характер деятельности не подтверждены). Требуется повторная проверка с доступом к MCA Master Data / GST-порталу или выпиской от поставщика (CIN, PAN, GSTIN, свидетельство о регистрации)."
+}

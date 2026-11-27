@@ -1,0 +1,26 @@
+{
+ "name_input": "KAPRI CORP",
+ "declared_hs": "854370",
+ "actual_hs_list": [
+  "902219",
+  "902230",
+  "854370",
+  "853080",
+  "852589",
+  "852610",
+  "902780",
+  "903010",
+  "854390",
+  "930690",
+  "621040",
+  "852550",
+  "852691",
+  "870590",
+  "902750"
+ ],
+ "match_status": "partial",
+ "product_summary": "Mumbai (9-C, Laxmi Industrial Estate, Andheri W) supplier of homeland-security / counter-terror equipment, self-described as active since 2005. Real product lines taken from the site's own product tree and sitemap (kapricorp.com/sitemap-pages.xml, ~60 product pages): (1) X-ray baggage & cargo inspection — baggage X-ray scanners, CT baggage scanners for airport terminals, cargo/vehicle high-energy mobile X-ray scanners, portable X-ray for bomb disposal units, vehicle underbody inspection; (2) metal detection & entry screening — walk-through metal detectors (DFMD) for railway gates/corporate offices, hand-held metal detectors (HHMD), full-body scanners, deep-search metal detectors; (3) explosive & contraband detection — explosive trace detectors (ETD), explosive vapour detectors (EVD), explosive liquid detectors, non-linear junction detectors (NLJD), narcotics/chemical analysers; (4) radiation detection — radiation portal monitors, radiation survey meters; (5) EOD/IEDD — bomb suits, bomb suppression blankets, water-jet disruptors, EOD hook-and-line kits, render-safe procedure kits; (6) surveillance — thermal imagers, night vision, through-wall radar, surveillance radar for border monitoring, tactical robots, RF bug detectors; (7) anti-UAV — anti-drone guns, RF jammers, radar-based drone detection; (8) rental/leasing of X-ray and DFMD/HHMD units. Site also states global technology partnerships (Turkey, Russia, Germany, Sweden, Taiwan, USA, UK) plus in-house assembly/calibration/testing.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 854370 ('electrical machines and apparatus with individual functions, nes') is only partially right. It legitimately covers a slice of the portfolio — non-linear junction detectors, RF bug detectors / counter-surveillance receivers, and possibly RF jamming heads — but it is not the core of the business. The dominant declared product lines sit in other headings: X-ray/CT baggage and cargo inspection systems -> 9022.19 (X-ray apparatus) and 9022.30 (CT apparatus); walk-through/hand-held metal detectors and deep-search detectors -> 8543.70 is arguable but 8530.80 (electrical signalling/safety equipment for transport infrastructure) or 8543.70 depending on configuration; explosive trace/vapour/liquid detectors and chemical analysers -> 9027.80 / 9027.10; radiation portal monitors and survey meters -> 9030.10; thermal imagers and night-vision -> 8525.89; surveillance/through-wall radar -> 8526.10; bomb suits and EOD protective gear -> 6210.40 (garments of fabrics coated with plastics/rubber) or 9306.90 for EOD tooling; anti-drone RF jammers -> 8525.50/8526.91; mobile cargo X-ray trucks -> 8705.90. So the declaration is a single generic residual code for a multi-heading defence/security catalogue: partial match, code must be corrected/expanded to the actual lines, not used to reject. Industry label 'IT и электроника' is a misclassification — this is security/defence screening and detection equipment (HS ch. 90 optics/measuring, ch. 85 electrical, ch. 93 arms/ordnance, ch. 62 protective garments), not IT hardware. Trader signs are explicit and strong: the company names foreign technology partners in Turkey, Russia, Germany, Sweden, Taiwan, USA and the UK, describes 'technology transfer', 'system integration' and 'strategic sourcing', and offers rental/leasing of the same equipment — i.e. it is at minimum an importer/integrator/reseller, with only claimed in-house assembly, calibration and testing. No product-level customs line, bill of lading or shipping bill was found or checked in this pass (out of scope for this role), therefore every product line above is 'заявлено, не подтверждено' — the website catalogue and the 'Security Equipment Exporter from India' page (which itself only offers 'HS code classification support' as a service, not a code list) are marketing statements, not shipment evidence. Note also that the site's own export page lists no HS codes at all, so the declared 854370 cannot be corroborated from the supplier's own documentation. No PAN, CIN or registration data was researched per role scope; null.",
+ "note": "Sources: https://kapricorp.com (home, product menu, contact address), https://kapricorp.com/about-us/ (core expertise list, 2005 founding, foreign partners), https://kapricorp.com/security-equipment-exporter-from-india (export product categories), https://kapricorp.com/sitemap-pages.xml (full product page inventory). No customs/B-L records consulted in this role."
+}
