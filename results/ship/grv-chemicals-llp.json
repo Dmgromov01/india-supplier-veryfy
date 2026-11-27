@@ -1,0 +1,8 @@
+{
+ "name_input": "GRV CHEMICALS LLP",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/grv-chemicals-llp — page rendered only the generic template shell: \"Shipments available for GRV CHEMICALS LLP, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes, no B/L numbers. Rows actually seen: 0. Slug variant grv-chemicals-llp-0 returned the same empty shell (0 rows). volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. web_search backend was unavailable (searx connection refused); Bing search for \"GRV CHEMICALS LLP\" returned only unrelated GRV acronym hits (grvonline.com, grv.network, grv.org.au) — 0 relevant rows. GSTIN/PAN not supplied (pan_claimed empty), so no GST portal lookup was possible.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ основание для отклонения: компания остаётся в базе, статус по правилу 5 — 'заявлено, не подтверждено' / данных нет. Причина — не отсутствие компании, а недоступность источников: все торговые базы (volza, eximpedia, trademo, importgenius) закрыты 403/JS-заглушкой, importkey отдал пустой шаблон без записей, поисковый бэкенд лежал. Выручка и объём экспорта: null (не выдумывать). Заявленные HS 130232;281511;290391;290519 не проверены по фактическим отгрузкам — HS-несоответствие по правилу 3 не является основанием для отклонения. Рекомендуется повторный прогон при доступных источниках и с указанием GSTIN/CIN."
+}

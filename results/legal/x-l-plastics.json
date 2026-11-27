@@ -1,0 +1,18 @@
+{
+ "name_input": "X L Plastics",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) DuckDuckGo-поиск через инструмент web_search вернул ошибку бэкенда (connection refused) на обоих запросах; (2) прямые страницы реестров ZaubaCorp (zaubacorp.com/company/X-L-PLASTICS и поиск по названию) и TheCompanyCheck отдали HTTP 403; (3) Google — HTTP 429; (4) DuckDuckGo HTML — таймаут; (5) Bing по запросам \"X L Plastics\" CIN GST, \"XL Plastics\" Private Limited CIN, \"X L PLASTICS\" GSTIN и site:-ограниченному запросу выдал только нерелевантную выдачу (токенизация «X L» как соцсети X / XL как размера одежды) — ни одной карточки компании. Итог: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не подтверждены — все поля null, ничего не домысливалось. Название «X L Plastics» без организационно-правовой формы (LLP / Pvt Ltd / проприетарная фирма) неоднозначно: возможны варианты «X L Plastics», «XL Plastics», «X L Plastics Private Limited». Роль определить нельзя — нет данных ни о производственных мощностях, ни о торговой деятельности в реестре. Отклонять НЕ следует: отсутствие данных о существовании юрлица не равно его отсутствию (правило 3 — rejected только при подтверждённой несуществующей/ликвидированной/банкротной организации). Требуется повторная проверка при доступных реестрах (MCA master data, GST-портал) или уточнение у поставщика полного юрлица, CIN и GSTIN. HS 847780 (оборудование для обработки резины/пластмасс) в реестре не проверялся и на вердикт не влияет."
+}

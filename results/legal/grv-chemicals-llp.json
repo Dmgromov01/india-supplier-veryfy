@@ -1,0 +1,18 @@
+{
+ "name_input": "GRV CHEMICALS LLP",
+ "legal_name": "GRV CHEMICALS LLP (as claimed; not independently verified in MCA records during this check)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The DuckDuckGo search tool returned a connection error (searx: Connection refused) on both queries, and fallback attempts failed: zaubacorp.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, google.com/search returned HTTP 429, duckduckgo.com/html timed out, and bing.com returned only irrelevant results about 'GRV' (Great Resort Vacations, greyhound racing, etc.) with no Indian LLP record. Therefore LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrieved, and deliberately not guessed. No rejection is applied: absence of retrieved records is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' - the declared HS codes (130232, 281511, 290391, 290519: guar gum, caustic soda, chlorobenzenes/nitrobenzene derivatives, acyclic alcohols) suggest chemical trading/manufacturing rather than the claimed 'food & FMCG' industry, but this is an inference from HS codes only, not a verified activity. Recommended next step: manual MCA master-data lookup by exact LLP name and GST portal search to obtain LLPIN/GSTIN before any acceptance decision."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Four Seasons Luxury Resorts (India) Private Limited",
+ "legal_name": "FOUR SEASONS LUXURY RESORTS (INDIA) PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. В ходе сессии поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), агрегаторы реестров (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдали HTTP 403, портал MCA (mca.gov.in) — HTTP 403, Bing по точной фразе в кавычках вернул только нерелевантные результаты про «four» (BNPL-сервис, Википедия), т.е. индексируемой записи по данному юрлицу не обнаружено. Поэтому CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не подтверждены и оставлены null — цифры не выдумывались. Отклонять НЕЛЬЗЯ: отсутствие публичной записи в этой сессии не равно несуществованию юрлица (правило 3 — rejected только при подтверждённой ликвидации/банкротстве/struck off). Роль оставлена unknown: наименование «Luxury Resorts» указывает на гостиничный/девелоперский профиль, а не на производство, что не соответствует заявленной отрасли «Строительство и DIY» и HS 701331 (стеклянная тара/посуда) — несоответствие HS не является основанием для отклонения, код подлежит исправлению на фактический при подтверждении деятельности. Требуется повторная проверка при доступном MCA/GST-портале: получить CIN по названию в MCA Master Data, затем PAN (4-й символ = тип держателя: P — физлицо, C — компания, F — фирма, H — HUF, A — AOP, T — траст) и GSTIN из публичного профиля."
+}
