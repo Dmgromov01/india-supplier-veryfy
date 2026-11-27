@@ -1,0 +1,18 @@
+{
+ "name_input": "poppy seeds;khaskhas;couscous",
+ "legal_name": "AMBE NS AGRO PRODUCTS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The DuckDuckGo search tool returned a connection error (searx: Connection refused) on both queries, and direct fetches of public registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, tofler.in search returned a 404 page, mca.gov.in returned HTTP 403, and Google returned HTTP 429. Bing (HTML and RSS) ignored the quoted company name and returned only unrelated 'Ambe' entities (AMBE Engineering, Ahkwesahsne Mohawk Board of Education, ambe-group.com), so no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced. Per project rules, nothing is inferred or invented: all registry fields are null and role is 'unknown'. No rejection is applied - the entity is NOT confirmed non-existent, struck off, liquidated or bankrupt; verification is simply incomplete. Note also that the input carries no claimed state and no claimed PAN, so state_claimed is empty and no state mismatch can be assessed. Recommended next step: re-run with a working search backend or an MCA master-data / GST portal lookup to obtain CIN, PAN (4th-character holder type) and GSTIN before any verdict."
+}

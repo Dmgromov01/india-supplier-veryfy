@@ -1,0 +1,8 @@
+{
+ "name_input": "Goind Overseas",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable shipment row obtained. ImportKey company pages exist for both slug variants tried — https://importkey.com/countries/india/goind-overseas and https://importkey.com/countries/india/goind-overseas-1 — but both render only the generic template text: \"Join ImportKey to view the import and export data records of companies all over the world.\" Rows actually seen: 0 shipment records (no date, no destination, no HS code, no B/L number). Volza (https://www.volza.com/p/goind-overseas/) and Eximpedia (https://www.eximpedia.app/companies/goind-overseas) both returned HTTP 403 Forbidden. Source counter: 4 sources attempted, 0 shipment rows retrieved.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for \"GOIND OVERSEAS\" returned no relevant hits (DuckDuckGo/searx backend refused connection; Bing returned unrelated results; Google returned HTTP 429). Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: таможенные агрегаторы (ImportKey) отдают только заглушку без строк, Volza/Eximpedia закрыты 403, поисковые движки в этой сессии недоступны. Заявленный HS 071220/080300/080390/080610 (сушёные овощи, бананы, финики, виноград) не подтверждён ни одной записью — код не проверен и не исправлен. Выручка: null (не публична, не выдумывалась). PAN/CIN: null. Юрлицо не проверялось по MCA в этой сессии. Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

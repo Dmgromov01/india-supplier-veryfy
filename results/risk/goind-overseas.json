@@ -1,0 +1,9 @@
+{
+ "name_input": "Goind Overseas",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: поисковая инфраструктура была недоступна в момент проверки. DuckDuckGo/searx вернул 'Connection refused' на всех запросах, Google — HTTP 429, Bing — нерелевантную выдачу (результаты не по запросу), ZaubaCorp — HTTP 403, Tofler — 404 на странице поиска. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без серверного результата: ни подтверждённого совпадения, ни чистого результата получить не удалось. Следовательно: sanctions_hit = null (не проверено, НЕ 'чисто'), court_cases = null (источники eCourts/NJDG/Indian Kanoon не опрошены), rating = null (CRISIL/ICRA/CARE/India Ratings не проверялись), news_risk = null, rf_supply = null (следов поставок в РФ/СНГ не искали — не найдено и не опровергнуто). Никаких данных о санкциях, судах, рейтингах или негативных новостях не выдумываю. ВАЖНО: отсутствие результата здесь — это отсутствие проверки, а не отсутствие риска. Компания 'Goind Overseas' в открытых источниках по доступным каналам не идентифицирована (юрлицо/торговое имя не подтверждено), поэтому привязка любых судебных или санкционных записей была бы ненадёжной. Требуется повторный прогон при работающем поиске; приоритетные источники: OFAC SDN + consolidated non-SDN, UN Consolidated, EU consolidated, UK OFSI, BIS Entity List, eCourts/NJDG, Indian Kanoon, CRISIL/ICRA/CARE, Volza/ImportGenius для направлений отгрузок. Согласно правилу 2, любые найденные санкции/суды/уголовные дела владельцев не являются основанием для отклонения — только нейтральная пометка 'есть сложности'."
+}
