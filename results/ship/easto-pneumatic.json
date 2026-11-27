@@ -1,0 +1,8 @@
+{
+ "name_input": "Easto Pneumatic",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/easto-pneumatic and .../easto-pneumatic-private-limited both returned only the generic template: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows rendered on either page (source counter: 2 pages fetched, 0 rows seen). No bill-of-lading number, date, destination or HS code was visible anywhere.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Search backend (DuckDuckGo/searx) returned \"Connection refused\" on both attempts, so no domestic-supply source could be located.",
+ "note": "Следов поставок не подтверждено и не опровергнуто — данных нет. Все четыре источника отгрузок оказались недоступны: importkey отдаёт только заглушку с приглашением в платный триал (0 строк в обоих вариантах слага), volza/eximpedia/trademo — HTTP 403, importgenius — JS-challenge, поисковик не работал. Поэтому статус по экспорту и по внутреннему рынку — unknown, а не none_found: отсутствие строк в платной заглушке не является доказательством отсутствия отгрузок. Заявленный HS 732020 (пружины из чёрных металлов) не проверен по фактическим записям; несоответствие HS основанием для отклонения не является. Выручка и объём экспорта — null (не публичны / не получены). Требуется повторный прогон при доступном поиске или платном доступе к таможенным записям."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "MEDSUN BIOMEDICAL TECHNOLOGIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты поиска были недоступны в этой сессии. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; http_get к zaubacorp.com — HTTP 403; Google — HTTP 429; DuckDuckGo HTML — timeout; Bing отдавал нерелевантные кэшированные страницы (Home Depot, Microsoft), т.е. результатов по компании не получено. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, GET-запрос без параметров не даёт результатов по имени — скрининга по SDN/Non-SDN фактически не было. Итог: по санкционному воздействию (OFAC SDN, UN, EU, UK, BIS Entity List), индийским судебным делам (роль стороны, статус), действиям регуляторов и негативным новостям с датами, кредитному рейтингу (агентство/дата/статус) и признакам поставок в Россию/СНГ — публичных данных не собрано, поэтому все поля null. Это НЕ означает отсутствие рисков: это означает отсутствие проверки. ВАЖНО: null в полях sanctions_hit/court_cases не является подтверждением 'чисто'. Требуется повторный прогон при работающем поиске (рекомендуемые источники: OFAC SDN/Consolidated list CSV, EU consolidated list, UK OFSI list, BIS Entity List, eCourts/NJDG и судебные порталы, MCA-реестр, CRISIL/ICRA/CARE/India Ratings, Google News). Отклонять по правилу 3 нельзя: данных о ликвидации/банкротстве/несуществовании юрлица нет, а отсутствие данных не является основанием для rejected. Компания сохраняется в базе со статусом 'риск-профиль не установлен'."
+}

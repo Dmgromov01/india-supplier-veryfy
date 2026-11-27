@@ -1,0 +1,18 @@
+{
+ "name_input": "ENERPAC INDIA PRIVATE LIMITED",
+ "legal_name": "ENERPAC INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка реестра НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо нерелевантную выдачу, а публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) и портал MCA (mca.gov.in) отдали HTTP 403/404. Корпоративный сайт enerpac.com по проверенным путям (/en-in, /en-in/about-us, /en-in/contact-us, /en-in/distributors) отдал 404. В результате НИ ОДИН реестровый факт не подтверждён источником: CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации и MCA-статус — null, а не «не найдено в реестре». Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги не получены. Роль (manufacturer/trader) не установлена — null/unknown. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3), компания остаётся в базе как непроверенная. Требуется повторный прогон с рабочим доступом к MCA V3 / GST-порталу / ZaubaCorp. Заявленный HS 848190 (части клапанов/арматуры) и отрасль «нефтегаз и химия» в этой проверке не оценивались — по правилам проекта HS не является основанием для отклонения."
+}

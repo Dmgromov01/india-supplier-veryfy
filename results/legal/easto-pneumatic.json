@@ -1,0 +1,18 @@
+{
+ "name_input": "Easto Pneumatic",
+ "legal_name": "EASTO PNEUMATIC PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool failed with a backend connection error ('searx: Connection refused') on both queries, and direct fetches of public registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, tofler.in search returned a 404 page, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only unrelated/generic results with no company record. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue figures could be confirmed from an official filing or public profile. All such fields are set to null rather than guessed. No rejection is applied: the entity is NOT shown to be non-existent, struck off, liquidated or bankrupt - the absence of data is a research limitation, not evidence of non-existence. Role is left as 'unknown' because manufacturer vs trader status cannot be established from registry data alone. Revenue FY25/FY26: not public in any source reached, hence null. Recommended next step: re-run with a working search backend and query the MCA master data / GST public search directly for the exact legal name 'EASTO PNEUMATIC PRIVATE LIMITED'."
+}

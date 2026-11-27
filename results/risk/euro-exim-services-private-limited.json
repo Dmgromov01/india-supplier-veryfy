@@ -1,0 +1,9 @@
+{
+ "name_input": "EURO EXIM SERVICES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Данные не собраны: ни один источник не удалось прочитать. web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; прямые запросы к zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403; tofler.in — 404; Google — HTTP 429; DuckDuckGo HTML — timeout; Bing выдавал нерелевантную выдачу (посторонние лица, не связанные с компанией), т.е. результаты поиска недостоверны и не могут быть использованы как источник. OFAC Sanctions List Search открылся только как форма без выполнения запроса — фактическая проверка по SDN/Non-SDN не выполнена, поэтому sanctions_hit=null, а НЕ 'нет совпадений'. Аналогично не проверены UN/UK/EU/BIS Entity List, индийские судебные реестры (eCourts, NCLT), рейтинговые агентства (CRISIL/ICRA/CARE/Acuite) и любые следы поставок в РФ/СНГ. Все поля null означает 'не установлено', а не 'отрицательный результат'. Требуется повторный запуск с работающим поисковым бэкендом и доступом к реестрам (MCA21/eCourts) либо ручная проверка. Правило 2 соблюдено: оснований для отклонения не зафиксировано, компания сохраняется в базе."
+}
