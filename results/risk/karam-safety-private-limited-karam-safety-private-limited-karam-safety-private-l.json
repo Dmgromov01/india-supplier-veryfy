@@ -1,0 +1,10 @@
+{
+ "name_input": "KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных, а не отсутствие рисков. Технические причины: (1) web_search вернул ошибку бэкенда (searx: Connection refused) на всех запросах; (2) karam.in отдал антибот-заглушку ('One moment, please... Loader'); (3) google.com/search — редирект-заглушка без результатов; (4) html.duckduckgo.com и lite.duckduckgo.com — таймаут; (5) bing.com вернул нерелевантную выдачу (amtrak.com, speedtest.net, microsoft.com) — вероятно, искажение запросов на прокси, результатам доверять нельзя. Поэтому по всем пяти обязательным полям (санкции OFAC SDN/UN/EU/UK/BIS Entity List, индийские суды с ролью стороны и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой и статусом, признаки поставок в РФ/СНГ) выставлен null — публичных данных получить не удалось, выдумывать источники и записи недопустимо. Никаких выводов о наличии или отсутствии санкционной экспозиции, судебных дел, рейтинга или поставок в РФ по данной компании делать нельзя. Требуется повторный прогон при доступном поиске; целевые источники для проверки: OFAC SDN List (sanctionssearch.ofac.treas.gov), UN Consolidated List, EU Consolidated Financial Sanctions List, UK OFSI Consolidated List, BIS Entity List (bis.doc.gov), eCourts/NJDG (ecourts.gov.in), NCLT (nclt.gov.in), IBBI, сайты CRISIL/ICRA/CARE/India Ratings/Acuite, а также реестры импорта РФ/ЕАЭС для проверки поставок. Примечание по правилам проекта: даже при последующем обнаружении санкций, судов или уголовных дел владельцев компания НЕ отклоняется — фиксируется нейтрально как 'есть сложности'; отклонение возможно только при отсутствии/ликвидации/банкротстве юрлица.",
+ "_status": "research_incomplete_no_data"
+}

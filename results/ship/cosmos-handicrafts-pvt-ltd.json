@@ -1,0 +1,8 @@
+{
+ "name_input": "COSMOS HANDICRAFTS PVT.LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/cosmos-handicrafts-pvt-ltd returned only the generic template text 'Shipments available for COSMOS HANDICRAFTS PVT LTD, refreshed daily' with no shipment rows, no dates, no destinations, no HS codes and no B/L numbers; source counter: 0 shipment records actually seen. volza.com, eximpedia.app, importgenius.com and trademo.com all returned HTTP 403 / JavaScript challenge, so no free-view rows could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: thecompanycheck.com and zaubacorp.com returned HTTP 403 and the web_search backend was unavailable ('searx: Connection refused'), so no domestic supply record was seen.",
+ "note": "Следов поставок не найдено в доступных источниках — но это результат недоступности источников, а не доказательство отсутствия отгрузок, поэтому статусы выставлены unknown, а не none_found. Ни одной записи об экспортной отгрузке (дата, направление, HS, B/L) и ни одного подтверждения внутренних поставок (GST-оборот, тендер, контракт) получить не удалось. Заявленный HS 940171 (мебель с металлическим каркасом) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). Юрлицо не проверено на ликвидацию/банкротство из-за блокировки реестров — требуется повторная проверка при доступности MCA/zaubacorp. Роль (manufacturer/trader) не установлена."
+}

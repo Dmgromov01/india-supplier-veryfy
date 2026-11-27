@@ -1,0 +1,18 @@
+{
+ "name_input": "Reliable Engg House",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity NOT established. Search infrastructure failed during this run: DuckDuckGo/SearX backend refused connections, Google returned HTTP 429, Bing ignored the quoted entity name and returned only generic dictionary results for the word 'reliable', and the two registry aggregators attempted (zaubacorp.com company search, instafinancials.com search) both returned HTTP 403 Forbidden. No MCA/CIN, PAN, GSTIN, incorporation date, registered-office state or audited financials could be retrieved from any public source, so every such field is null rather than guessed. The claimed legal name 'RELIABLE ENGINEERING HOUSE' is a trading-style name that may correspond to a proprietorship/partnership (no CIN by definition) or to a differently worded private limited company; this cannot be resolved without a working registry lookup. NOT rejected: per project rules rejection requires positive proof that the entity does not exist, is struck off, liquidated or bankrupt, and no such proof was obtained - the failure here is a data-access failure, not a negative finding. Role left as 'unknown' (no evidence of manufacturing plant, GST manufacturing registration or trading activity). Revenue FY25/FY26 null: no audited accounts or MCA filings accessible. The declared HS 848210 (ball bearings) and the claimed industry 'metallurgy and mining' are inconsistent with each other, but per the 23.11.2026 rule HS mismatch is not a rejection ground and no HS verdict is issued here. RECOMMENDED NEXT STEP: re-run with working search, or obtain the GSTIN directly from the supplier's invoice/IndiaMART profile, then verify on the GST portal and MCA master data."
+}

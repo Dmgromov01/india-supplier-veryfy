@@ -1,0 +1,18 @@
+{
+ "name_input": "KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED; KARAM SAFETY PRIVATE LIMITED",
+ "legal_name": "KARAM SAFETY PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: the web_search backend was unavailable (connection refused) and every public registry aggregator attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com company page) returned HTTP 403 or only a generic marketing landing page with no company master data. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all left null rather than guessed. No rejection is applied: there is no evidence that the entity does not exist, is struck off, liquidated or bankrupt - the entity name is a well-known Indian PPE/safety-equipment brand, but that is not a registry confirmation and is not treated as one. Role left as 'unknown' pending MCA NIC/object-clause verification. Declared HS 392690 (plastics articles) is not a rejection ground per project rules; the actual product line (industrial safety/PPE) would normally map to HS 6307/6506/6116/3926 depending on item, to be corrected at classification stage. State claimed in input is empty, so no state mismatch can be assessed. Action required: re-run with working search/registry access (MCA master data, GST public profile) to populate all null fields."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ES Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The name 'E S Enterprises' is a generic trade name that does not resolve to a single identifiable legal entity: no CIN/LLPIN, PAN or GSTIN could be located in any public source during this check. Search backend (DuckDuckGo/searx) was down (connection refused) and registry aggregators (ZaubaCorp, Tofler, InstaFinancials) returned HTTP 403; Bing/Google returned only irrelevant generic results, so no page confirming an MCA registration was obtained. Per project rules the entity is NOT rejected: absence of a confirmed record in this session is not proof of non-existence, and the input itself supplies no PAN, no state and no GSTIN to anchor the lookup. All fields left null rather than guessed. Role recorded as 'unknown' - the claimed HS 843149 (parts of machinery of headings 8425-8430, i.e. mining/lifting/earthmoving equipment parts) and the claimed industry 'metallurgy and mining' are unverified and are not evidence of manufacturing status; no audited accounts or official filings were found, so revenue FY25/FY26 are null. Action needed: obtain the supplier's PAN or GSTIN (or the exact registered name with state) from the counterparty, then re-run the MCA/GST check - the name alone is insufficient to disambiguate among the many Indian firms trading as 'E S/ES Enterprises'."
+}
