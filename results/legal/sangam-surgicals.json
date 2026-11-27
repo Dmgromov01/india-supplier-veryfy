@@ -1,0 +1,18 @@
+{
+ "name_input": "SANGAM SURGICALS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record could be retrieved. Search backend (DuckDuckGo/searx) returned connection refused on all queries; zaubacorp.com and instafinancials.com returned HTTP 403; Google returned a redirect/consent wall; Bing returned only irrelevant results for the generic word 'Sangam' (matrimonial site, 1964 film, Tamil Sangam) with no hit for 'Sangam Surgicals'. No CIN, LLPIN, PAN, GSTIN, incorporation date, MCA status or financials could be confirmed from any official or public registry source, so all such fields are null rather than inferred. The input itself is internally inconsistent: 'legal_claimed' is given as the personal name 'RAJKUMAR' (suggesting a sole proprietorship, which has no CIN/LLPIN and no MCA record), while the declared HS codes 901819/901890 are surgical/medical instruments, contradicting the claimed industry 'Нефтегаз и химия' (oil & gas and chemicals). Per project rules, HS mismatch is not a rejection ground and no rejection is made here - the entity is simply unverified, not shown to be non-existent. Role left as 'unknown': a proprietorship trading in surgical instruments would most likely be a trader, but there is no evidence either way. Revenue FY25/FY26 null - no audited accounts or official filings located. Recommended next step: re-run with working search, or obtain the GSTIN/PAN directly from the supplier, then verify on the GST portal and MCA."
+}
