@@ -1,0 +1,26 @@
+{
+ "name_input": "AMTEX DYE CHEM INDUSTRIES",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Income Tax Appellate Tribunal, Ahmedabad Bench 'D'",
+   "case": "M/s Amtex Dye Chem Industries, Plot No.281-282, Phase-II, GIDC Estate, Vatva, Ahmedabad vs. ACIT, Circle-6 (and cross-appeal by ACIT)",
+   "role": "appellant / respondent (assessee)",
+   "subject": "Income tax assessment, A.Y. 2005-06 and A.Y. 2006-07",
+   "status": "decided by ITAT; one order dated 11 July 2014 (ITA No. 3372/Ahd/2010, A.Y. 2005-06)",
+   "source": "https://indiankanoon.org/search/?formInput=Amtex%20Dye%20Chem"
+  },
+  {
+   "court": "Income Tax Appellate Tribunal, Ahmedabad",
+   "case": "Gopal Fabrics, Ahmedabad vs. Department of Income Tax (29 October 2013)",
+   "role": "third party / counterparty mentioned in the reasons (interest received from Amtex Dye Chem Industries)",
+   "subject": "Income tax assessment of a different assessee",
+   "status": "decided; Amtex is not a party",
+   "source": "https://indiankanoon.org/search/?formInput=Amtex%20Dye%20Chem"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no confirmed hit, but NOT a verified clean result — the OFAC SDN consolidated file (https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) was retrieved only partially (truncated at ~6000 chars, alphabetical coverage ending around 'F'), and the OFAC Sanctions List Search tool is a JavaScript application that returned no query results via plain HTTP. UN, EU, UK OFSI and BIS Entity List were not checked because the web_search backend was down (searx connection refused) and Bing returned unusable/irrelevant results for every query. Therefore sanctions_hit = null (not public / not verifiable with available tools), NOT 'no hit'. Court cases: two ITAT Ahmedabad income-tax matters found on Indian Kanoon, both routine tax-assessment appeals, assessee is the appellant; one order dated 11 July 2014. Per project rule 2 these are noted neutrally and are not rejection grounds. No criminal cases, no regulator actions and no negative news found — but this reflects search-tool failure, not a confirmed absence. Credit rating: null, no public rating found (company appears to be an unrated small/mid GIDC-unit entity; not verified). RF/CIS supply evidence: null — no evidence found, and no evidence of absence could be established given the search outage. Address on record: Plot No. 281-282, Phase-II, GIDC Estate, Vatva, Ahmedabad, Gujarat. Recommend re-running sanctions screening (OFAC/UN/EU/UK/BIS) and news search once the search backend is restored before any decision."
+}

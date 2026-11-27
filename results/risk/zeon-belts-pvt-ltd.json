@@ -1,0 +1,9 @@
+{
+ "name_input": "ZEON BELTS PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — INCOMPLETE DUE TO TOOL FAILURE. Search infrastructure was unavailable during this run: web_search returned 'Connection refused' on every query; DuckDuckGo HTML timed out; Google returned HTTP 429; ZaubaCorp and Tofler returned 403/404; Bing returned only irrelevant/spam results and did not honour the query. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form — no query could be executed, so no SDN/UN/EU/UK/BIS screening result was actually obtained. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null: NOT because they were checked and found clean, but because they could not be checked. Do not read null as 'no risk'. Only verified fact: the company's own website zeonbelts.com (fetched successfully) presents 'Zeon Belts Private Limited' as a manufacturer and exporter of flat power transmission belts and roller coverings, ISO 9001:2008 certified, holder of Export House status from the Government of India, with contact details in Ludhiana, Punjab (+91-181 landline) and an exhibition listing in Milan, Italy. Per project rules this is a self-declaration only — 'заявлено, не подтверждено' — and is not evidence of any shipment, sanction, litigation or rating. No Indian court records (eCourts/NCLT), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator action and no Russia/CIS supply evidence could be retrieved. Recommend re-running this company once search access is restored; no rejection grounds identified, and per Rule 2 sanctions/court matters would not be rejection grounds in any case."
+}

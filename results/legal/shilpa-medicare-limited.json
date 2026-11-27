@@ -1,0 +1,18 @@
+{
+ "name_input": "SHILPA MEDICARE LIMITED",
+ "legal_name": "Shilpa Medicare Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1987 (year only, per Screener.in company profile; exact date not verified)",
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "Listed and actively trading (BSE: 530549, NSE: SHILPAMED) — no strike-off/liquidation/insolvency indication found; MCA status field not directly verified",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Screener.in (https://www.screener.in/company/SHILPAMED/ and /consolidated/) — consolidated quarterly sales sum to ~1,287 Cr for FY25 (Mar-2025) and ~1,862 Cr for FY26 (Mar-2026); standalone annual sales 476 Cr (FY25) and 596 Cr (FY26). These are aggregator figures from reported results, not read from the audited annual report PDF, so revenue fields left null per rule 4.",
+ "note": "Registry verification incomplete: web_search was unavailable (connection refused) and registry aggregators (ZaubaCorp, TheCompanyCheck) returned HTTP 403, Moneycontrol 410, Wikipedia 429. Therefore CIN, PAN, GSTIN, GST status, exact incorporation date and registered-office state could NOT be confirmed from a public registry page and are set to null rather than guessed. What IS confirmed from a public source: Screener.in lists the company as 'Shilpa Medicare Ltd', incorporated 1987, BSE 530549 / NSE SHILPAMED, website vbshilpa.com, described as manufacturing niche APIs, intermediates and formulations plus CRAMS — so role = manufacturer (not a trader). The claimed industry 'Нефтегаз и химия' (oil & gas and chemicals) is a mismatch in sector labelling: the company is a pharmaceutical API/formulation manufacturer; its declared HS codes 2933/2942/3004 are pharma codes and are consistent with its actual business, so no HS correction is needed — the industry label in the input is what is wrong. No basis for rejection: the entity exists and is listed/active. Revenue: aggregator-derived figures suggest roughly 1,287 Cr (FY25) and 1,862 Cr (FY26) consolidated, but these were not taken from audited accounts, so null per rule 4; recommend re-checking CIN/PAN/GSTIN on MCA/gst.gov.in when search access is restored."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "healthy harvest foods pvt ltd;BHAGWATI INDUSTRIAL GROUP LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/healthy-harvest-foods-pvt-ltd returned only the page shell: 'Shipments available for HEALTHY HARVEST FOODS PVT LTD, refreshed daily' — 0 shipment rows rendered, no date, destination, HS code or B/L number visible. Same for /bhagwati-industrial-group-limited and /bhagwati-agrochem-private-limited. Volza, Eximpedia and Trademo free views all returned HTTP 403 Forbidden, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. web_search backend was down for the whole session ('searx: <urlopen error [Errno 111] Connection refused>'), so no domestic-supply source could be located or read.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: инструменты не дали ни одной записи. Три разных юрлица в одной строке (Healthy Harvest Foods Pvt Ltd, Bhagwati Industrial Group Limited, заявленный как legal BHAGWATI AGROCHEM PRIVATE LIMITED) — связь между ними не подтверждена ничем. Заявленный HS 100630 (рис) не подтверждён ни одной отгрузочной записью; Bhagwati Agrochem по названию относится к агрохимии, а не к рису, что усиливает сомнение в корректности кода. Выручка и объём экспорта: null (не публичны / не получены). Статус 'unknown', не 'accepted': фактичность отгрузок не проверена, а не проверена она потому, что все источники либо отдали пустой шаблон, либо заблокировали доступ. Требуется повторный прогон при работающем поиске и платном доступе к Volza/Eximpedia."
+}

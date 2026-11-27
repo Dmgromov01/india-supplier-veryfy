@@ -1,0 +1,9 @@
+{
+ "name_input": "healthy harvest foods pvt ltd;BHAGWATI INDUSTRIAL GROUP LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure during this run: the web_search backend returned 'Connection refused' on all attempts; direct DuckDuckGo HTML endpoint timed out twice; Bing returned results unrelated to the query (query not honoured, generic Microsoft/LinkedIn pages), so no usable hits. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form and returned no query results via plain HTTP fetch, so no SDN/consolidated-list screening could be completed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null - NOT because they were checked and found clean, but because nothing could be checked. No claim in this record should be read as a negative clearance. Additional data-quality flag for the desk: the batch entry is internally inconsistent - the name field concatenates two different entities ('healthy harvest foods pvt ltd' and 'BHAGWATI INDUSTRIAL GROUP LIMITED') while legal_claimed names a third ('BHAGWATI AGROCHEM PRIVATE LIMITED'). It is unclear which legal person is actually being verified, and risk screening cannot be attributed to a specific entity until this is resolved. Recommend re-running this company once search access is restored, and confirming the correct legal entity name first. Per project rules, no rejection is proposed on the basis of this empty result."
+}

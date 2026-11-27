@@ -1,0 +1,18 @@
+{
+ "name_input": "healthy harvest foods pvt ltd;BHAGWATI INDUSTRIAL GROUP LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Входные данные противоречивы: в поле name указаны два разных названия ('healthy harvest foods pvt ltd' и 'BHAGWATI INDUSTRIAL GROUP LIMITED'), а в legal_claimed — третье ('BHAGWATI AGROCHEM PRIVATE LIMITED'). Ни одно из трёх не удалось подтвердить по реестру: web_search вернул ошибку бэкенда (connection refused), zaubacorp.com и thecompanycheck.com отдали HTTP 403, Google — HTTP 429, DuckDuckGo — timeout, Bing выдал нерелевантную выдачу (без результатов по компаниям). Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, статус MCA и выручка — null: не публично доступны в рамках этой сессии, не выдуманы. Роль не определена. Вердикт по правилам проекта: НЕ отклонять (нет подтверждения, что юрлицо не существует/ликвидировано) — требуется повторная проверка при восстановлении доступа к MCA/реестрам. Дополнительно: заявленный HS 100630 (рис) не соответствует названию 'Agrochem' (агрохимия) — при подтверждении юрлица код нужно сверить с фактическим ассортиментом; несоответствие HS основанием для отклонения не является."
+}

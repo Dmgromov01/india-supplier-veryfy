@@ -1,0 +1,9 @@
+{
+ "name_input": "SHILPA MEDICARE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (4 tries), so no sanctions-list, court, regulator, rating or news search could be executed. Direct fetches: shilpamedicare.com returned an HTTP 301 redirect loop (unreachable); Wikipedia blocked with HTTP 429; BSE page returned only a JS shell with no content. Only one substantive source was readable: Screener.in company page (https://www.screener.in/company/SHILPAMED/consolidated/), which confirms the entity is a listed Indian pharma company (BSE: 530549, NSE: SHILPAMED, incorporated 1987, market cap ~Rs 16,495 Cr, 6 manufacturing sites, revenue mix US/NA 5.2%, Europe/EMEA 14.4% as of Mar 2026). That page contains no sanctions, litigation, regulator-action, credit-rating or Russia/CIS information. Therefore: sanctions_hit = null (NOT verified as clean - simply not checked against OFAC SDN/UN/EU/UK/BIS lists); court_cases = null (no NCLT/SEBI/High Court records retrieved); rating = null (no CRISIL/ICRA/CARE/India Ratings action retrieved, no date available); news_risk = null (no negative-news search possible); rf_supply = null (no evidence found of supplies to Russia or CIS, and no evidence of absence - unverified). Per project rules, absence of verification is not a rejection ground and no adverse inference is drawn; the company is retained. RECOMMENDATION: re-run this risk check when the search backend is restored, specifically against OFAC SDN/consolidated, UN, EU, UK OFSI, BIS Entity List, NCLT/SEBI/e-courts, and CRISIL/ICRA rating rationales. No numbers, CINs, PANs or case references have been invented."
+}

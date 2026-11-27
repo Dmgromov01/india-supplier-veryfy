@@ -1,0 +1,18 @@
+{
+ "name_input": "Neelkanth Polymers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация НЕ выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо нерелевантную выдачу; все реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) и портал MCA (mca.gov.in) отдали HTTP 403 Forbidden; Google — HTTP 429. Ни одного первоисточника (MCA master data, GST-профиль, аудиторская отчётность) прочитать не удалось. Поэтому все реестровые поля — null, а не 'не существует': юрлицо НЕ отклоняется, вердикт по компании не выносится, требуется повторный прогон с доступом к реестру. Отдельно: во входных данных в поле legal_claimed указано 'SURENDER SHARMA' — это имя физлица, а не наименование юрлица; фактическое юридическое наименование (например, 'Neelkanth Polymers Pvt Ltd' / LLP / sole proprietorship) не установлено. PAN и GSTIN не подтверждены, тип держателя PAN (4-й символ) определить невозможно. Заявленный штат во входных данных отсутствует (state_claimed пусто), поэтому сопоставление 'штат регистрации vs заявленный' невозможно. Роль (manufacturer/trader) не определена — по правилам проекта трейдеры не отклоняются, категория остаётся unknown до получения данных. HS-коды 130190/130232 (гуаровая камедь, шеллак/смолы растительного происхождения) не проверялись и основанием для отклонения не являются. Выручка FY25/FY26 — null: аудиторская отчётность не найдена, цифры не выдумывались. Фактичность отгрузок (экспорт/внутренний рынок) в рамках данной роли не исследовалась."
+}
