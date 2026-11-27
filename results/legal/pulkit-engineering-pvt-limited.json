@@ -1,0 +1,18 @@
+{
+ "name_input": "PULKIT ENGINEERING PVT LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Ни один реестровый факт получить не удалось: поисковый бэкенд (searx/DuckDuckGo) возвращал connection refused/timeout, Google и Bing выдавали нерелевантную гео-мусорную выдачу (US-результаты), а публичные агрегаторы реестра (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) и портал MCA (mca.gov.in) отдали HTTP 403/404. Поэтому exact legal entity name, CIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null — цифры и идентификаторы не выдумывались. Роль определена как unknown: заявленные HS-коды (680422 — абразивные круги/камни; 721391, 721710, 721790 — горячекатаный пруток, стальная проволока, прочий сортовой прокат) указывают на металлообработку/производство, но это не подтверждает ни статус производителя, ни трейдера. Отклонять НЕ следует: оснований для rejected (несуществование, struck off, ликвидация, банкротство) нет — они просто не проверены, а не опровергнуты. Требуется повторная проверка при доступном доступе к MCA21 / GST-порталу / zaubacorp; до этого статус — 'заявлено, не подтверждено', следов поставок не проверялось (вне рамок роли)."
+}

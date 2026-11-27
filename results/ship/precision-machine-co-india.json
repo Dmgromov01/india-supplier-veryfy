@@ -1,0 +1,8 @@
+{
+ "name_input": "PRECISION MACHINE CO. (INDIA)",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/precision-machine-co-india (and slugs .../precision-machine-co, .../precision-machine-company-india): page renders only the boilerplate line \"Shipments available for PRECISION MACHINE CO INDIA, refreshed daily\" with an empty \"Number of shipments by month\" chart — 0 shipment rows actually visible, no date, destination, HS code or B/L number.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge; web_search backend was unavailable (\"searx: <urlopen error [Errno 111] Connection refused>\") for all queries, so no domestic-supply source could be opened.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны. ImportKey по трём вариантам слага отдал только шаблонную заглушку (0 строк записей), вторичные источники (volza, eximpedia, trademo, importgenius) заблокированы, поисковик не работал. Ни одной записи об экспорте (дата/направление/HS/B-L) и ни одного подтверждения внутренних поставок (GST-оборот, GeM/CPPP, контракт) получить не удалось. Заявленный HS 846320 (станки для шлифования/заточки) и владелец NIPUN SHARMA не проверены — PAN и штат не заявлены, публичных данных нет (null). Выручка и объём экспорта: null, не выдумывались. Требуется повторная проверка при доступных источниках; вердикт по фактичности отгрузок не выносится."
+}

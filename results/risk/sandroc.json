@@ -1,0 +1,9 @@
+{
+ "name_input": "Sandroc",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no data collected, all values null. Reason: every search channel failed during this session. web_search (DuckDuckGo/searx) returned 'Connection refused' on all attempts; html.duckduckgo.com and lite.duckduckgo.com timed out; search.brave.com returned HTTP 429; bing.com returned unrelated cached pages (auto-parts and telecom-forum content) instead of results for the query, so its output was unusable and was not treated as evidence. The OFAC Sanctions List Search page (https://sanctionssearch.ofac.treas.gov/) was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no actual name match against the SDN/Non-SDN lists was performed — sanctions_hit is therefore null (NOT a confirmed negative). No Indian court records (eCourts/NCLT), regulator actions, credit-rating records or Russia/CIS shipment evidence could be retrieved. Nothing about 'Sandroc' / 'M/S SANDROC' was verified in any direction; the name is short and generic, which also makes unqualified negative conclusions unsafe. Per project rules no figures, CINs, PANs, case numbers or shipment records were invented. Recommended action: re-run this company once search connectivity is restored, checking OFAC SDN/Non-SDN, UN Consolidated, EU consolidated, UK OFSI, BIS Entity List, eCourts/NCLT by party name, and Indian credit-rating agency records. No rejection is implied by this null result."
+}

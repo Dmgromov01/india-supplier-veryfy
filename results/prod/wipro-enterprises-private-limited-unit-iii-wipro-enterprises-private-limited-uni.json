@@ -1,0 +1,23 @@
+{
+ "name_input": "WIPRO ENTERPRISES PRIVATE LIMITED (UNIT III); WIPRO ENTERPRISES PRIVATE LIMITED (UNIT-I); WIPRO ENTERPRISES PRIVATE LIMITED (UNIT-II); WIPRO ENTERPRISES (P) LIMITED; WIPRO ENTERPRISES PVT LTD; WIPRO ENTERPRISES LIMITED; WIPRO ENTERPRISES PRIVATE LIMITED; WIPRO ENTERPRISES PRIVATE LIMITED",
+ "declared_hs": "820730;841391;848190",
+ "actual_hs_list": [
+  "841221 (hydraulic cylinders / linear acting hydraulic power engines - main Wipro Hydraulics line)",
+  "841229 (other hydraulic power engines and motors)",
+  "841391 (parts of pumps - plausible for hydraulic pump components, declared)",
+  "848190 (parts of taps, cocks, valves - plausible for valve/hydraulic component parts, declared)",
+  "820730 (interchangeable tools for pressing, stamping or punching - NOT corroborated by any product line found)",
+  "340111 / 340130 (soap and organic surface-active washing preparations - Wipro Consumer Care personal care)",
+  "330499 / 330590 (cosmetics, hair care - Wipro Consumer Care brands)",
+  "340220 (surface-active washing/cleaning preparations, retail - home care)",
+  "9405 (lamps and lighting fittings - Wipro Consumer Care & Lighting)",
+  "8536 (switches, electrical apparatus <=1000V - switches line)",
+  "9403 (office furniture - declared business line on parent site)",
+  "741021 / 741011 (copper clad laminate / copper foil backed - Wipro Electronic Materials, new division)",
+  "8807 / 8483 (aerospace precision components, actuators - Wipro Aerospace)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Wipro Enterprises is a holding company with two operating verticals, per its own site (wiproenterprises.com): (1) Wipro Consumer Care & Lighting - FMCG in Personal Care, Home Care, Lighting & Switches and Office Furniture; (2) Wipro Infrastructure Engineering (wiproinfra.com) - Hydraulics (custom-built hydraulic cylinders, pumps, systems and components for construction/earthmoving, material & cargo handling, forestry, farm & agriculture, mining, truck tipping), Water Treatment, Aerospace (actuators, landing gear and aero-structure precision components), Additive Manufacturing (Wipro 3D), Automation Solutions (Wipro PARI) and Electronic Materials (Copper Clad Laminates and Prepreg, Bengaluru). The declared codes 841391 (pump parts) and 848190 (valve parts) are consistent with the hydraulics components business. Code 820730 (interchangeable tools for pressing/stamping/punching) is not corroborated by any product line on either site - no tooling/die product is listed. The declaration omits the entire FMCG/consumer, lighting, switch, furniture, aerospace, CCL and automation product lines, which are the larger part of the group's product range.",
+ "role_hint": "manufacturer (multi-unit manufacturer group; the 'Unit I/II/III' suffixes indicate separate factory registrations of the same legal entity, not separate companies). No trader signs found on the official sites - both verticals describe own manufacturing facilities (40+ plants across four continents per wiproinfra.com).",
+ "comment": "HS mapping: 841391 and 848190 = partial match (plausible for hydraulic pump/valve components, but no customs line was available to corroborate a specific shipment - therefore 'заявлено, не подтверждено' at line level). 820730 = wrong / not corroborated: no pressing, stamping or punching tool product appears anywhere in the Wipro Enterprises or Wipro Infrastructure Engineering catalogues; likely a mis-keyed code for a machined hydraulic component. Per project rule 3 this is NOT a rejection ground - company retained, code to be corrected to the factual hydraulic cylinder/component codes (841221/841229/841391/848190). Industry classification 'Металлургия и горнодобыча' (metallurgy & mining) is a MISCLASSIFICATION: Wipro Enterprises is a diversified FMCG + industrial engineering group; mining is only one end-use application of its hydraulic cylinders, not its industry. Correct classification: diversified manufacturing / industrial engineering + FMCG. Trader signs: none observed. Product lines missing from the declaration: consumer care (soaps, cosmetics, hair care, home care), lighting and switches, office furniture, aerospace components, copper clad laminates, automation solutions. Note: the eight name variants in the input are the same legal entity (CIN U15141KA2010PTC054808 shown in the site footer) with different unit suffixes - they should be consolidated under one record, not treated as eight suppliers. Sources: https://www.wiproenterprises.com/ and https://www.wiproinfra.com/ (both read directly). No customs/B-L records were consulted per role scope, so no shipment-level corroboration is asserted."
+}

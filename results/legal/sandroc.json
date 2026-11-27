@@ -1,0 +1,18 @@
+{
+ "name_input": "Sandroc",
+ "legal_name": "M/S SANDROC (as claimed in input; exact registered legal entity name NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. All 10 permitted tool calls were used, but no authoritative source could be read: the DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned only irrelevant results (medical pages, Microsoft pages) for queries on 'Sandroc' + GSTIN/CIN/Udyam; Zauba Corp returned HTTP 403; Tofler search returned 404; TheCompanyCheck search page returned only its marketing homepage with no result rows; DuckDuckGo HTML endpoint timed out. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed. Nothing is asserted or inferred: all identifier and financial fields are null rather than guessed. The name 'Sandroc' / 'M/S SANDROC' is a short trade-style name with no legal suffix (no Pvt Ltd / LLP / Ltd), which is typical of a proprietorship or partnership firm - such entities have no CIN and no MCA record at all, only a GSTIN and/or Udyam registration, so absence of an MCA record would not by itself prove non-existence. Per project rules, rejection is permitted only on proof that the entity does not exist, is struck off, liquidated or bankrupt; no such proof was obtained, therefore the company is NOT rejected and remains in the database with role 'unknown'. The declared HS code 843149 (parts of machinery of headings 8425-8430, i.e. construction/mining/earthmoving equipment parts) is consistent with the claimed industry 'metallurgy and mining' only loosely and was not assessed against any product catalogue, as that is outside this role's scope. Recommended next step: re-run verification when the search backend is restored, or obtain the GSTIN directly from the supplier's invoice/letterhead, then query the GST portal for legal name, registration date, constitution (Proprietorship/Partnership/Pvt Ltd) and status, and check Udyam registration for the enterprise type. Revenue FY25/FY26 will remain null unless audited accounts or an official filing is located - for a proprietorship/partnership firm these are generally not public."
+}
