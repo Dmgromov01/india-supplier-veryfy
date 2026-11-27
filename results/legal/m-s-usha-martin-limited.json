@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S USHA MARTIN LIMITED",
+ "legal_name": "Usha Martin Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE - tooling failure, not a negative finding. The DuckDuckGo search backend returned 'Connection refused' on both queries, so no registry/profile page (MCA, Zauba, Tofler, GST portal) could be located or read; ZaubaCorp returned HTTP 403 and Moneycontrol HTTP 410. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT verified, not absent. The only page successfully read was the company's own website (ushamartin.com), which self-describes as a wire-rope / LRPC strand / wire manufacturer with plants in India, South East Asia, Europe, Middle East, Australia and USA - this supports role=manufacturer on a self-declared basis only, and is not a registry source. Revenue FY25/FY26 could not be obtained: the investor-relations sub-pages tried (financial-information, historical-financials, results-presentations-and-analyst-call, annual-reports) all returned HTTP 404, BSE page returned only a shell, and Screener.in served a stale 'Usha Martin Industries Ltd (Merged)' stub with no figures. Revenue left null per rule 4 - not estimated. No rejection basis exists (no evidence of non-existence, strike-off, liquidation or bankruptcy); the entity is a well-known listed company but that is not asserted here as a sourced registry fact. Recommend re-running this company once the search backend is restored, targeting MCA master data and the FY25/FY26 annual report. HS 731210 (stranded wire rope) is consistent with the declared product line, but per rule 3 HS is not a rejection criterion in any case."
+}

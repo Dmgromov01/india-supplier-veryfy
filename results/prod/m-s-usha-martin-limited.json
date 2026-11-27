@@ -1,0 +1,15 @@
+{
+ "name_input": "M/S USHA MARTIN LIMITED",
+ "declared_hs": "731210",
+ "actual_hs_list": [
+  "731210",
+  "731200 (subheading context: stranded wire, ropes, cables of iron/steel, not electrically insulated)",
+  "721710 / 721720 (wire of iron/non-alloy steel, not plated / plated with zinc — for the 'Wire' product line, HS-6 to be confirmed per grade)",
+  "731290 (other stranded wire/slings — OCEANFIBRE HMPE slings are synthetic, likely 5607/5609, cannot_verify)",
+  "847910 / 847989 (prestressing machinery — cannot_verify, no product spec page read)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт ushamartin.com (главная и раздел Products & Solutions, прочитаны 2 страницы) перечисляет реальные продуктовые линии: Wire Rope (крановые, шахтные, лифтовые, нефтегаз/offshore, рыболовные, общего машиностроения, канатных дорог, строительные/structural, лесозаготовительные), Conveyor Cord, Wire, LRPC Strand, Prestressing (материалы и услуги ISMAL), Machinery, а также слинг-продукцию (OCEANFIBRE HMPE slings — упоминание в новости о проекте Baltica 2). Форма запроса на сайте содержит категории: Wire, Wire Rope, LRPC, Sling, Project & Service, ISMAL Prestressing Material, ISMAL Prestressing Service, Conveyor Cord. Заявленный код 731210 (стропы/тросы/канаты из чёрных металлов без электроизоляции) точно покрывает основную линию Wire Rope и, вероятно, Conveyor Cord (стальной корд) — это ядро бизнеса и подтверждается описанием продукции. Однако декларация неполна: линии Wire (стальная проволока — 7217/7229), LRPC Strand (пряди для предварительного напряжения — обычно 7312 10), Prestressing-материалы и Prestressing Machinery, а также синтетические слинг-продукты (не 7312) в заявленном единственном коде не отражены.",
+ "role_hint": "manufacturer",
+ "comment": "Несоответствие HS не является основанием для отклонения (правило 3): компания сохраняется в базе, вердикт accepted_hs_corrected. Код 731210 признан корректным для основной продукции (стальные канаты/тросы), статус — partial, так как декларация покрывает только одну из нескольких реальных линий. Требуется расширение списка кодов: проволока стальная (7217/7229 — точный HS-6 по марке не подтверждён, cannot_verify), LRPC strand (7312 10), оборудование для предварительного напряжения (84 гл. — cannot_verify), синтетические стропы HMPE (56 гл. — cannot_verify). Отраслевая классификация «Металлургия и горнодобыча» в целом соответствует (металлургия — производство канатов и проволоки; горнодобыча — лишь конечное применение шахтных канатов, собственной добычи на прочитанных страницах не заявлено). Признаков трейдера нет: сайт описывает собственные заводы (Индия, Юго-Восточная Азия, Европа, Ближний Восток, Австралия, США), сертификаты Lloyd's, DNV-GL, ABS, NK, CCS, ACRS, ISO 9001/14001 и собственный R&D-центр — это manufacturer. Все продуктовые утверждения взяты с сайта компании и не сверены с таможенными записями: фактичность отгрузок по конкретным кодам — заявлено, не подтверждено (проверка таможни/объёмов вне рамок данной роли)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "GRB Dairy Foods Pvt Ltd",
+ "legal_name": "GRB DAIRY FOODS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; Bing and Google returned only irrelevant results (US federal 'GRB Platform' benefits software) or HTTP 429; registry aggregators zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned 404 for the guessed slug; company website domains tried (grbdairy.com, grbdairyfoods.com) did not resolve / failed TLS. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — NOT because they do not exist, but because no public source was reachable. No rejection is warranted: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' (dairy products manufacturer is plausible from the trade name but unverified). Revenue FY25/FY26 null — no audited accounts or official filings were accessible; not estimated. HS 091091 (mixed spices/condiments) is inconsistent with a dairy product line, but per project rules HS mismatch is not a rejection ground — the code should be corrected to the actual product code at verification stage. Recommended next step: re-run with working search access and query MCA master data by exact name, plus GST portal / a GSTIN lookup aggregator, to capture CIN, PAN (4th-character holder type), GSTIN and state."
+}

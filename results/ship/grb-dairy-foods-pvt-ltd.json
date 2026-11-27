@@ -1,0 +1,8 @@
+{
+ "name_input": "GRB Dairy Foods Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable shipment row obtained. ImportKey page https://importkey.com/countries/india/grb-dairy-foods-pvt-ltd returned only a paywalled shell: \"Shipments available for GRB DAIRY FOODS PVT LTD, refreshed daily\" — 0 concrete rows visible (no date, destination, HS code or B/L number). Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. Company website grbdairyfoods.com failed to load (SSL error) and grbdairy.com did not resolve; ZaubaCorp returned HTTP 403. No domestic supply record seen.",
+ "note": "Следов поставок не подтверждено: ни экспортных записей (дата/направление/HS/B-L), ни внутренних поставок получить не удалось — все источники отгрузочных данных закрыты (403/JS-challenge/paywall), поисковый бэкенд был недоступен (searx connection refused). Статус по обоим пунктам — unknown, а не declared_only, поскольку даже заявлений сайта прочитать не удалось. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). Заявленный HS 091091 (смеси пряностей) не проверен по фактическим записям; несоответствие HS основанием для отклонения не является. Юрлицо не проверено по MCA — сведений о ликвидации/банкротстве нет, поэтому rejected не применяется. Требуется повторная проверка при восстановлении доступа к Volza/ImportKey/Eximpedia или к MCA-выписке."
+}
