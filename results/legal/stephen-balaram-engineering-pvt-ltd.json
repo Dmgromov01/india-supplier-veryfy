@@ -1,0 +1,18 @@
+{
+ "name_input": "Stephen Balaram Engineering Pvt Ltd",
+ "legal_name": "STEPHEN BALARAM ENGG PVT LTD (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, quickcompany.in) all returned HTTP 403/404. Bing/Google/DuckDuckGo fallbacks returned irrelevant results or 429/timeouts, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Nothing is asserted here: all fields are null because they are not publicly confirmed by a source I could actually read, not because they were checked and found absent. Per project rules, rejection is NOT applied - non-existence/strike-off/liquidation/bankruptcy is unproven, and absence of accessible data is not evidence of non-existence. Role left as 'unknown' (no evidence of manufacturing vs trading activity was reviewed; product catalogues and customs records were out of scope for this role). Declared HS 730900 (iron/steel reservoirs, tanks, vats) was not assessed and is not a rejection ground. Recommended action: re-run with working search access or manual MCA master-data lookup by company name to obtain CIN, then derive PAN (4th character holder type) and GSTIN from the GST portal public search."
+}

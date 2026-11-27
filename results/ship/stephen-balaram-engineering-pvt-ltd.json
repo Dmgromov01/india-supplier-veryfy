@@ -1,0 +1,8 @@
+{
+ "name_input": "Stephen Balaram Engineering Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/stephen-balaram-engineering-pvt-ltd and .../stephen-balaram-engg-pvt-ltd both returned only the generic template line 'Shipments available for STEPHEN BALARAM ENGG PVT LTD, refreshed daily' — 0 actual shipment rows rendered (no date, no destination, no HS code, no B/L number). No export record seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend returned 'searx: Connection refused' on all queries; thecompanycheck.com, volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. 0 domestic supply rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: источники были недоступны (поисковик не работал, все трейд-агрегаторы заблокировали доступ), поэтому статус по обоим пунктам — unknown, а не none_found. Заявленный HS 730900 (резервуары/цистерны из чёрных металлов) не проверен по фактическим записям; оснований для отклонения нет — юрлицо не проверялось на ликвидацию/банкротство, и по правилу 3 HS-несоответствие отклонением не является. Выручка и объём экспорта: null (не публичны/не получены). Требуется повторная проверка при доступных источниках (DGFT/IEC, GST-портал, GeM, таможенные B/L)."
+}
