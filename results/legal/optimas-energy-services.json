@@ -1,0 +1,18 @@
+{
+ "name_input": "Optimas Energy & Services",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403 Forbidden. Google/Bing/DuckDuckGo HTML endpoints returned either a redirect stub, 403, or completely irrelevant results (Microsoft 365, WebP image questions), so no page containing the entity could be read. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue figures can be asserted. Nothing is inferred or invented. Per the project rules, rejection is NOT applied: absence of verifiable data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' (trader/manufacturer distinction cannot be established without MCA/GST records). Revenue FY25 and FY26 left null as no audited accounts or official filings were accessible. Note also that the declared HS codes (840510, 840999, 848180, 850212 - boilers/gas generators, engine parts, valves, diesel generating sets) are mechanical/electrical capital goods, which does not match the claimed industry 'IT и электроника'; per rule 3 this is not a ground for rejection, only a flag for HS correction once the entity is identified. Recommended next step: re-run verification when search access is restored, or obtain the GSTIN/CIN directly from the supplier's invoice or GST certificate, then confirm on the GST portal (gst.gov.in search by GSTIN) and MCA master data."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KARPASA EXPORTS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на все запросы; Bing по запросам \"Karpasa Exports\", \"Karpasa Exports India company\", \"Karpasa exports India sesame/groundnut/agro\" выдавал полностью нерелевантные результаты (Sam's Club, n-tv.de, Google Translate) — то есть ни одного релевантного документа по компании получить не удалось. Google и html.duckduckgo.com недоступны (редирект/таймаут). Веб-интерфейс OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-приложение, через http_get результаты поиска не отдаёт; проверка по SDN/Non-SDN фактически не произведена. Никаких утверждений о санкциях, судах, рейтинге, негативных новостях или поставках в РФ/СНГ не делаю: все поля null, а не 'отрицательный результат'. ВАЖНО: null здесь означает 'не проверено', а не 'чисто'. Требуется повторный запуск при работающем поиске (или ручная проверка по e-courts/NCLT, OFAC SDN CSV, EU/UK consolidated list, BIS Entity List, CRISIL/ICRA/CARE, IndiaMART-профиль и таможенные записи). Также напоминаю: PAN/CIN/юрлицо и объёмы отгрузок вне моего мандата — их должен закрыть другой исследователь; без идентификатора (CIN/PAN) риск-проверку одноимённых трейдеров невозможно отделить от омонимов."
+}

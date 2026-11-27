@@ -1,0 +1,18 @@
+{
+ "name_input": "FLAX LABORATORIES PRIVATE LIMITED",
+ "legal_name": "FLAX LABORATORIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: DuckDuckGo-поиск недоступен (connection refused), Google вернул только редирект-заглушку, Bing по запросам с точным названием выдавал нерелевантную выдачу (статьи про растение лён, реклама БАДов) — точное название в кавычках не отрабатывалось; агрегаторы реестров (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдали HTTP 403/404, falconebiz.com — только страницу-заглушку без данных. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 остаются null — не выдумывались. Юрлицо НЕ отклоняется: оснований для rejected (несуществование, struck off, ликвидация, банкротство) не установлено, но и существование документально не подтверждено — требуется повторная проверка через MCA-портал (mca.gov.in / MCA master data) и GST-портал по названию. Роль (manufacturer/trader) не определена: заявленные коды HS 292429, 293329, 293349, 293399 (гетероциклические соединения, фармацевтические интермедиаты) соответствуют химическому профилю, но это не подтверждает ни производство, ни факт отгрузок. Заявленный штат в исходных данных отсутствует (state_claimed пусто), поэтому сопоставление «штат регистрации vs заявленный» невозможно."
+}

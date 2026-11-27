@@ -1,0 +1,70 @@
+{
+ "name_input": "ADITYA BIRLA GLOBAL TRADING (INDIA) PRIVATE LIMITED",
+ "declared_hs": "071333;090230;090240;100630",
+ "actual_hs_list": [
+  {
+   "hs": "071333",
+   "product": "Kidney beans / rajma, dried shelled (pulses)",
+   "basis": "Group trading page: 'top 2 exporters of pulses from Myanmar', 30+ commodities incl. agri products — https://www.adityabirla.com/businesses/sectors/trading",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "090230",
+   "product": "Black tea, fermented, in packings <=3 kg",
+   "basis": "No product page or catalogue of the Indian entity found; tea not mentioned on the group trading page",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "090240",
+   "product": "Black tea, fermented, other (bulk >3 kg)",
+   "basis": "Same as above — no corroboration",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "100630",
+   "product": "Semi-milled or wholly milled rice",
+   "basis": "Rice not named on the group trading page (only 'agri products' generically)",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "120190",
+   "product": "Soya beans, other",
+   "basis": "Group page lists agri products/agri-inputs generically; no line-item confirmation",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "170199",
+   "product": "Cane sugar, other",
+   "basis": "Group page lists agri products generically; no line-item confirmation",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "090111",
+   "product": "Coffee, not roasted, not decaffeinated",
+   "basis": "Group page lists agri products generically; no line-item confirmation",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "310000/3102-3105",
+   "product": "Agri-inputs (fertilisers)",
+   "basis": "Group page explicitly names 'agri-inputs' as a traded vertical — https://www.adityabirla.com/businesses/sectors/trading",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "2701/2702/2711",
+   "product": "Energy: coal, thermal coal, LNG",
+   "basis": "Group page explicitly names 'energy' as a traded vertical",
+   "status": "заявлено, не подтверждено"
+  },
+  {
+   "hs": "7403/7601/2601",
+   "product": "Metals: copper, aluminium, iron ore",
+   "basis": "Group page explicitly names 'metals' as a traded vertical",
+   "status": "заявлено, не подтверждено"
+  }
+ ],
+ "match_status": "cannot_verify",
+ "product_summary": "No dedicated website or catalogue for the Indian entity ADITYA BIRLA GLOBAL TRADING (INDIA) PRIVATE LIMITED was reachable. The only public product description is the Aditya Birla Group trading-sector page for Aditya Birla Global Trading (formerly Swiss Singapore Overseas Enterprises Pte Ltd, HQ 65 Chulia Street, Singapore): '30+ different commodities across agri products, agri-inputs, energy, and metals', 27 MMT/yr, 80+ sourcing countries, 'top 2 exporters of pulses from Myanmar'. That page names pulses, agri-inputs, energy and metals — it does NOT name tea (090230/090240) or rice (100630) at all, and it does not describe the Indian subsidiary's own product list. Declared codes 071333 (kidney beans) and 100630 (rice) are plausible for a pulses/agri trader; 090230/090240 (black tea) have no corroboration anywhere in the public material found. Conversely, the declared list omits the group's stated energy (coal/LNG) and metals lines and agri-inputs (fertilisers), which are the bulk of the 27 MMT volume.",
+ "role_hint": "trader",
+ "comment": "Проверка только по товарной части (HS). Сайт/каталог именно индийского юрлица найти не удалось (adityabirla.com/businesses/companies/aditya-birla-global-trading-india-private-limited — пустая страница; abgt.com — домен продаётся, не принадлежит компании). Единственный публичный источник — страница группы https://www.adityabirla.com/businesses/sectors/trading и https://www.adityabirla.com/businesses/companies/aditya-birla-global-trading: '30+ commodities across agri products, agri-inputs, energy, and metals', 'top 2 exporters of pulses from Myanmar'. Вывод по кодам: 071333 — частично соответствует (пульсы подтверждены на уровне группы, конкретно rajma/kidney beans — нет); 100630 — частично (рис не назван, только 'agri products'); 090230 и 090240 — не подтверждены ничем, чай в публичных материалах не упоминается (возможна ошибка декларации или отдельная товарная линия индийской дочки, публично не раскрытая). Статус cannot_verify, а не wrong, потому что каталог индийского юрлица публично недоступен. Пропущенные в декларации линии: агро-инпуты/удобрения (3102–3105), энергетика (уголь 2701/2702, СПГ 2711), металлы (7403, 7601, 2601) — по заявлению группы это основные объёмы. Признаки трейдера: явные — компания позиционируется как 'one of the most diversified commodities traders in the world', 80+ стран закупки, 95 стран сбыта, собственная переработка/производство не заявлены. Все товарные позиции имеют статус 'заявлено, не подтверждено': ни одна не подтверждена таможенной строкой в рамках этой проверки (таможенные записи не исследовались по условиям роли). Код HS не является основанием для отклонения — компания сохраняется в базе, коды 090230/090240 требуют подтверждения либо замены на фактически отгружаемые позиции."
+}

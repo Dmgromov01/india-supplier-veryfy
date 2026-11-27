@@ -1,0 +1,8 @@
+{
+ "name_input": "PANTAGONN INDIA",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page for slug 'pantagonn-india' (and variant 'pantagonn-india-') renders only the template shell: 'Shipments available for PANTAGONN INDIA, refreshed daily' with zero shipment rows, zero dates, zero destinations, zero B/L numbers visible; source counter: 0 shipment records seen out of 0 rows displayed. No customs/B-L record with date, destination, HS code or B/L number found on any accessible source (volza, eximpedia, trademo returned HTTP 403; importkey JS-gated).",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Web search backends unavailable (searx connection refused) and Bing query \"Pantagonn\" India returned only unrelated news results (0 relevant hits out of 8 results shown). No public trace of domestic supply activity.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Название 'PANTAGONN INDIA' не подтверждается ни одним публичным источником: поиск не дал ни одного релевантного результата, страница ImportKey содержит только шаблон без записей об отгрузках. Заявленный HS 841290 (части двигателей/силовых установок) не подтверждён и не опровергнут — фактических данных нет. Выручка и объём экспорта: null (не публичны / не найдены). Юрлицо (CIN/PAN) не установлено — не выдумывалось. Возможна опечатка в названии (например, Pantagon / Pentagone / Pantagonn Engineering) — требуется уточнение написания от заказчика для повторной проверки. Отклонение не применяется: отсутствие данных об отгрузках не является основанием для rejected по правилам проекта."
+}
