@@ -1,0 +1,18 @@
+{
+ "name_input": "UMA CHEM PHARMA MACHINERIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить юридическую идентичность. Поиск (DuckDuckGo-бэкенд) возвращал ошибку соединения; Bing по запросу в кавычках выдавал только нерелевантные результаты (University of Maine at Augusta и т.п.), т.е. точного совпадения по названию в индексе не найдено. Zauba Corp отдал 403, The Company Check — только лендинг без профиля (данные за пейволом). Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус публично не подтверждены — все поля null, ничего не выдумано. Важно: 'HARI PRASAD VISHWAKARMA' в поле legal_claimed — это имя физлица (вероятно, проприетор/партнёр), а не название юрлица; 'UMA CHEM PHARMA MACHINERIES' по форме похоже на proprietorship/firm, у которого может не быть CIN (только GSTIN/UDYAM). Штат в инпуте не заявлен, поэтому сверять state_registered не с чем. Роль не определена (unknown) — по названию предположительно торговля/поставка насосно-арматурной продукции (HS 7307/8481), но это не подтверждено. НЕ отклонять: отсутствие данных о существовании юрлица не равно его отсутствию; оснований для rejected (ликвидация/банкротство/struck off) нет. Требуется ручная проверка по GST-порталу (поиск по имени проприетора) и MCA/UDYAM."
+}

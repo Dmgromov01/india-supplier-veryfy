@@ -1,0 +1,18 @@
+{
+ "name_input": "GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILIZERS COMPANY LTD.; GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILIZERS AND CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LIMITED; Gujarat Narmada Valley Fertilizers & Chemicals Ltd; GUJARAT NARMADA VALLEY FERTILISERS & CHEMICALS LTD; GUJARAT NARMADA VALLEY FERTILEZERS AND CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILISERS & CHEMICALS LTD; GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LIMITED; GUJARAT NARMADA VALLEY FERTILIZERS COMPANY LTD.,; GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LTD; M/S GUJRAT NARMADA VALLEY FERTILIZERS & CHEMICALS LTD",
+ "declared_hs": "291511;291521",
+ "actual_hs_list": [
+  "291521 (acetic acid - confirmed product line, plant named in company disclosures)",
+  "291511 (formic acid - declared, product line not corroborated in the sources I could open)",
+  "291531 (ethyl acetate - named as a GNFC plant/product line)",
+  "292910 (TDI - toluene diisocyanate, named as a GNFC plant/product line)",
+  "310210 (urea - NARMADA brand, core product)",
+  "3105xx / 310280 (ANP - ammonium nitro phosphate, NARMADA brand)",
+  "290511 (methanol - named as a GNFC plant/product line)",
+  "310230 / 3102xx (ammonium nitrate / nitro-phosphate fertilizer grades - product family, code level not verified)"
+ ],
+ "match_status": "partial",
+ "product_summary": "GNFC is a Gujarat state-promoted fertilizer-and-chemicals producer (NSE/BSE listed, ticker GNFC). Verified product lines from the sources I could open: (1) fertilizers under the NARMADA brand - urea and ammonium nitro phosphate (ANP) - per Tickertape company profile; (2) industrial chemicals named in the Q1 FY27 earnings summary: acetic acid, ethyl acetate, TDI (toluene diisocyanate), methanol, with a Dahej coal-based project supplying steam for TDI. The declared codes 291511 (formic acid) and 291521 (acetic acid) cover only the acetic-acid part of the chemical basket; the bulk of the company's output (fertilizers, TDI, ethyl acetate, methanol) is outside the declared HS pair.",
+ "role_hint": "manufacturer",
+ "comment": "Сверка с заявленными кодами: 291521 (уксусная кислота) — подтверждено как реальная продуктовая линия (упоминание завода acetic acid в раскрытии менеджмента, Tickertape summary Q1 FY27); 291511 (муравьиная кислота) — заявлено, не подтверждено: ни на одной доступной мне странице продуктовая линия formic acid не подтверждена, сайт gnfc.in не открылся (SSL CERTIFICATE_VERIFY_FAILED на всех попытках, включая /products, /business, /about-us), поиск (searx) недоступен, Wikipedia/IndiaMART/zaubacorp отдали 429/403. Фактический профиль шире декларации: удобрения (карбамид 310210, ANP), TDI (292910), этилацетат (291531), метанол (290511) — этих линий в декларации нет. Отраслевая классификация «Нефтегаз и химия» неполна: компания в первую очередь производитель удобрений (в отраслевых базах числится в Fertilizers & Agro Chemicals), химия — вторая половина бизнеса; это несоответствие отраслевой метки, а не основание для отклонения. Признаков трейдера нет: собственные производственные площадки (Бхаруч, Даhej), собственные бренды NARMADA — роль manufacturer. Коды в базе следует расширить фактическим ассортиментом (291521, 291531, 292910, 290511, 310210, ANP), 291511 оставить с пометкой «заявлено, не подтверждено» до проверки по таможенной линии. Реестры, выручку и объёмы отгрузок в рамках этой роли не проверял — данных нет (null)."
+}

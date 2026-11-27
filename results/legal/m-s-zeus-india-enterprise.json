@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S. ZEUS INDIA ENTERPRISE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The search backend (DuckDuckGo/searx) was down ('Connection refused'), DuckDuckGo HTML/lite endpoints timed out, and MCA aggregators (zaubacorp.com, tofler.in, instafinancials.com) returned HTTP 403. Bing returned only irrelevant results (the query terms were ignored, results were about the streamer/game 'Zeus'), so no page mentioning 'Zeus India Enterprise' was ever read. Consequently: no CIN/LLPIN, no PAN, no GSTIN, no GST status, no incorporation date, no registered-office state and no MCA status could be confirmed from a public source. IMPORTANT: the input field 'legal_claimed' contains a person's name ('BALAKRISHNAN MOHAN KUMAR'), not a company name - this strongly suggests the entity is a sole proprietorship / individual trading name ('M/s' prefix is typical of proprietorships), which would have NO CIN and NO MCA record at all; a proprietorship's PAN would be an individual PAN (4th character 'P') and its GSTIN would be state-PAN-based, but neither could be verified here, so both are left null rather than guessed. No state was claimed in the input, so state_registered vs state_claimed cannot be compared. Role left as 'unknown' - the declared HS 2007 (prepared/preserved fruit, jams, jellies) and the 'food & FMCG' industry claim are unverified and, per project rules, catalogue/website claims are not evidence. Revenue FY25/FY26: null - no audited accounts or official filings found (proprietorships do not file MCA financials anyway). NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research limitation, not a negative finding. Recommended next step: re-run with a working search backend, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal (services.gst.gov.in) and the Udyam registry."
+}
