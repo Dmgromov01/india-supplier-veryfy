@@ -1,0 +1,18 @@
+{
+ "name_input": "Lotus Hitech",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена. Входные данные противоречивы: в поле legal_claimed указано имя физлица 'PRAVEEN SUTHAR', а не юрлицо, что указывает на возможную проприетарную фирму (proprietorship) — у таких нет CIN/LLPIN, только GSTIN и PAN физлица. Поиск по 'Lotus Hitech' + 'Praveen Suthar'/'Suthar' не дал ни одного релевантного результата: поисковый бэкенд (DuckDuckGo/searx) был недоступен, Bing возвращал только нерелевантную выдачу (Lotus Cars, Lotus's и т.п.), а реестровые агрегаторы (zaubacorp, instafinancials, thecompanycheck) отдали 403/404. Ни CIN, ни GSTIN, ни PAN, ни дата регистрации, ни MCA-статус не подтверждены публичным источником — все поля null, ничего не выдумано. Отклонение НЕ применяется: отсутствие подтверждения существования при недоступных источниках не равно доказанному отсутствию юрлица (правило 3). Требуется повторная проверка при работающем поиске и уточнение от заказчика: точное юридическое написание, штат, GSTIN или PAN. HS 730840 (строительные леса/опалубка) не проверялся — вне роли."
+}

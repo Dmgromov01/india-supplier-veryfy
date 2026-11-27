@@ -1,0 +1,18 @@
+{
+ "name_input": "Synbiotics Limited",
+ "legal_name": "SYNBIOTICS LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend returned connection refused (searx) on all queries; DuckDuckGo HTML endpoint timed out; Bing returned only generic 'synbiotics' health-supplement results with no Indian company registry hits; direct fetches of public registry aggregators were blocked - zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, falconebiz.com HTTP 403, instafinancials.com HTTP 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public via accessible sources in this session, and NOT invented. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, so per the rules it must not be rejected on absence of data. Role left as 'unknown' - the claimed industry ('Нефтегаз и химия') and declared HS 294200 (which is actually a pharma/organic-chemical heading, not a petroleum heading) cannot be reconciled without registry data; HS mismatch is explicitly not a rejection ground and would be handled as accepted_hs_corrected once the actual product line is confirmed. State claimed in input was empty, so no state comparison was possible. ACTION REQUIRED: re-run this company when search/registry access is restored, or supply the CIN so the MCA master data and GST public profile can be pulled directly."
+}

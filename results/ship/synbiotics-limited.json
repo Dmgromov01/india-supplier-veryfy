@@ -1,0 +1,8 @@
+{
+ "name_input": "Synbiotics Limited",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/synbiotics-limited and .../synbiotics-ltd both returned only the page template: 'Shipments available for SYNBIOTICS LIMITED, refreshed daily' — the shipment table is JS-rendered and 0 rows were visible; no bill-of-lading number, date, destination or HS code could be read. volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; web_search backend was down (searx connection refused), so no second source could be opened.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved: search backend unavailable (searx: connection refused) and no accessible page listing domestic supply records was found. Nothing to quote.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок были недоступны (ImportKey отдал пустой шаблон, 0 строк; volza/eximpedia/trademo/importgenius — 403; поиск не работал). Поэтому статус unknown, а не none_found. Заявленный HS 294200 (прочие органические соединения) не проверен по фактическим записям — код не подтверждён и не исправлен, так как фактический HS из документов не получен. Выручка: null (не публична в доступных источниках). Юрлицо не проверялось по реестрам (вне области задачи); оснований для отклонения нет. Требуется повторный прогон при доступном источнике таможенных данных."
+}
