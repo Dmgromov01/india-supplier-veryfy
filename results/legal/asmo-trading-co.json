@@ -1,0 +1,18 @@
+{
+ "name_input": "Asmo Trading Co",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не подтверждена. Входные данные содержат только торговое имя 'Asmo Trading Co' и имя 'DEEPAK BANSAL' (указано в поле legal_claimed, т.е. это физлицо/проприетор, а не юрлицо с CIN). Поиск (DuckDuckGo/searx недоступен — connection refused; Bing выдаёт только нерелевантные результаты: ASMO Saudi Arabia, ASMO Olympiad, ASMO/DENSO) не дал ни одного индийского профиля с таким названием. Реестровые агрегаторы (zaubacorp.com — HTTP 403, thecompanycheck.com — 404, instafinancials.com — 403) недоступны для чтения, поэтому CIN/PAN/GSTIN/дата регистрации/MCA-статус не получены — null, не выдуманы. Если это проприеторское предприятие (sole proprietorship), CIN отсутствует по определению, а PAN/GSTIN проверяются только по 4-му символу PAN (P = individual) — подтвердить нечем. Выручка FY25/FY26: для проприеторства аудиторская отчётность в публичных источниках обычно отсутствует — null. Роль: unknown (заявленная отрасль 'авиастроение и транспорт' и HS 870899 — автозапчасти — не подтверждены ни одним источником; HS-несоответствие по правилам проекта не является основанием для отклонения). НЕ отклонено: оснований для rejected (несуществование/ликвидация/банкротство) не установлено, но и существование не подтверждено — требуется повторная проверка при восстановлении доступа к реестру MCA/GST-порталу."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Nickel Steel & Alloys",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не подтвердил существование юрлица с таким названием. Что проверено и что получено: (1) DuckDuckGo-поиск через инструмент недоступен (ошибка соединения searx, 'Connection refused') — два запроса вернули пустой результат; (2) Bing по запросам '\"Nickel Steel & Alloys\" Sanghvi', '\"Nickel Steel and Alloys\" GSTIN India proprietor', '\"Nickel Steel & Alloys\" Mumbai OR Maharashtra OR Ahmedabad steel trader', '\"NICKEL STEEL AND ALLOYS\" site:zaubacorp.com OR site:indiamart.com OR site:thecompanycheck.com' выдал только нерелевантную выдачу про химический элемент никель и монету в 5 центов — ни одного индийского юрлица с таким названием не найдено; (3) Bing по '\"Bhavesh Dhawalchand Sanghvi\"' — 4 результата, все нерелевантные (itactsolutions.com, страницы веб-почты MailEnable), совпадений с ФИО нет; (4) zaubacorp.com отдал HTTP 403, tofler.in по поисковому URL — 404, Google — HTTP 429. Вывод по существу: в поле legal_claimed указано не название компании, а ФИО физлица (Bhavesh Dhawalchand Sanghvi), что типично для проприеторшипа/партнёрства, а не для компании с CIN. Для таких форм CIN/LLPIN не существует по определению, PAN и GSTIN проприетора публично в открытых реестрах не индексируются без доступа к GST-порталу/MCA, поэтому все реестровые поля оставлены null — выдумывать CIN/PAN/GSTIN недопустимо. Роль оставлена 'unknown': подтверждений производства (завод, мощности, сертификаты) не найдено, но и признаков трейдерства нет — данных недостаточно. Выручка FY25/FY26 null: аудиторской отчётности или официальных филингов не найдено (для проприеторшипа аудиторская отчётность в публичном доступе обычно отсутствует). ВАЖНО: отклонять НЕ следует — отсутствие данных в открытых источниках не равно несуществованию юрлица; по правилу 3 оснований для rejected (ликвидация/банкротство/struck off) не установлено, статус — 'не подтверждено, требуется выписка'. Рекомендация: запросить у поставщика GST-сертификат (REG-06) и PAN-карту, либо проверить GSTIN напрямую на gst.gov.in / MCA-портале при наличии номера. HS 722090 (плоский прокат из нерж. стали шириной менее 600 мм) не проверялся — вне роли."
+}
