@@ -1,0 +1,18 @@
+{
+ "name_input": "VORTEX FLEX PRIVATE LIMITED",
+ "legal_name": "VORTEX FLEX PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results (searx: urlopen error [Errno 111] Connection refused)'); zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; Google returned HTTP 429; Bing returned only generic 'Vortex' brand results (Vortex Optics, Nexus Mods Vortex, etc.) with no Indian corporate-registry hit for 'VORTEX FLEX PRIVATE LIMITED'. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures were found in any accessible public source, so all such fields are null rather than inferred. PAN holder type cannot be derived without a PAN. Registered-office state cannot be compared to the claimed state because the input itself left state_claimed empty. Role is 'unknown' - no evidence of manufacturing or trading activity was retrievable. Per project rules, the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established, only that verification was impossible with the available tools. Recommended follow-up: manual lookup on the MCA portal (mca.gov.in / MCA21 company master data) by exact name, and on the GST portal 'Search Taxpayer' by legal name, to obtain CIN, PAN, GSTIN and status. Note also the input inconsistency: declared HS 590320 (textile laminated/coated fabrics) does not match industry_claimed 'Food & FMCG'; per rules this is not a rejection ground and the HS code should be corrected to the actual product if the company is confirmed."
+}
