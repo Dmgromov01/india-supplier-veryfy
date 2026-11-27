@@ -1,0 +1,8 @@
+{
+ "name_input": "RESTOLANE PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'restolane-private-limited' loaded but contained no shipment rows — only the boilerplate line: \"Shipments available for RESTOLANE PRIVATE LIMITED, refreshed daily\" with a 'Loading...' placeholder and a paywall prompt (\"Sign up for a free trial today\"). Source counter: 0 shipment records actually rendered vs. 0 rows seen. No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved. thecompanycheck.com, eximpedia.app, trademo.com and volza.com all returned HTTP 403 Forbidden; restolane.com returned HTTP 522; the web_search backend was unavailable (connection refused) for every query attempted, so no domestic-supply page could be located.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных оказались недоступны (403/522) либо пусты (ImportKey — только заглушка без строк). Заявленный HS 841981 (оборудование для приготовления/подогрева пищи) не подтверждён и не опровергнут фактическими записями; по правилу 3 несоответствие HS не является основанием для отклонения, поэтому компания сохраняется в базе. Выручка и объём экспорта — null (не публичны / не получены), не выдумывались. Трейдер/производитель — не определено. Рекомендуется повторная проверка при восстановлении доступа к volza/eximpedia/importgenius и к поисковому бэкенду."
+}

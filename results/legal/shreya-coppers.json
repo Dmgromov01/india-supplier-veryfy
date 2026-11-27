@@ -1,0 +1,18 @@
+{
+ "name_input": "Shreya Coppers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "None",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. Search tooling failed during this run: DuckDuckGo/searx returned connection refused or timed out on every attempt; Bing returned only unrelated results (TV listings, RIDGID tool boxes) for the exact-phrase queries \"Shreya Coppers\" GSTIN and \"Shreya Coppers\" copper; Zauba Corp and Tofler both returned HTTP 403; InstaFinancials search URL returned 404. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, and all such fields are left null rather than guessed. IMPORTANT DISCREPANCIES IN THE INPUT: (1) legal_claimed is given as \"RITESH MOTILAL CHOWATIA\", which is a personal name format, not a company legal name - it is likely a proprietor or partner name, so the entity may be a proprietorship/partnership with no CIN at all; this cannot be confirmed without a registry lookup. (2) declared_hs 741110 is copper tubes/pipes of refined copper, which contradicts industry_claimed \"IT и электроника\" (IT and electronics) - the name \"Coppers\" is consistent with the HS code, not with the claimed industry; per project rules this is NOT grounds for rejection, the HS code should be treated as the factual one and the industry label corrected. (3) state_claimed is \"None\" - no state asserted, so no registered-office mismatch can be assessed. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, so no rejection basis exists. Status: unverified, requires re-run of registry lookup (MCA master data / GST public search) when search tooling is available."
+}

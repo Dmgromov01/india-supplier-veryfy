@@ -1,0 +1,9 @@
+{
+ "name_input": "BANSWARA GARMENTS (A UNIT OF BANSWARA SYNTEX LIMITED)",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY PASS — NOT VERIFIED. Research could not be completed: the web_search tool returned a backend connection error ('searx: Connection refused') on every query, and fallback attempts via direct HTTP (banswara.com homepage and /about-us, /investors; BSE scrip page 500045; CRISIL ratings list; India Ratings entity search; CARE Ratings company page; Google, Bing and DuckDuckGo result pages) returned empty bodies, 404s, JS-only shells or completely irrelevant results (Wordle / Topper Argentina), i.e. no usable content. Therefore NO finding is asserted in either direction: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = null (not checked, not cleared); Indian court cases with party role and status = null (not checked); regulator actions and negative news with dates = null (not checked); credit rating with date and status = null (not checked); evidence of supplies to Russia or CIS = null (not checked). Per project rules, nulls are used rather than invented data — no CIN, PAN, case numbers, rating symbols or shipment records are fabricated here. IMPORTANT SCOPE CAVEAT for the reviewer: the entity as named is a UNIT/division of Banswara Syntex Ltd (a listed Indian textile company, BSE scrip 500045), so any sanctions/court/rating record would most likely sit at the listed parent level, not at the unit; that parent-level check also could not be executed. Also note the declared industry ('Food & FMCG') and declared HS codes (5112/5208 — woven wool and cotton fabrics) are inconsistent with each other, which is outside this risk-only remit but should be flagged to the HS/identity researcher. ACTION REQUIRED: re-run this company once web_search connectivity is restored; do not treat this record as a clean or a flagged result."
+}

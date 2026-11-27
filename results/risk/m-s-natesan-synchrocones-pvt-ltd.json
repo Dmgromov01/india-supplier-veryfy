@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S NATESAN SYNCHROCONES PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Research could NOT be completed: the web_search backend was unavailable (searx connection refused on all attempts), DuckDuckGo HTML endpoint timed out, and Bing returned only irrelevant results for every query variant tried ('Natesan Synchrocones', with 'Private Limited', with 'Uttarakhand', with 'OFAC sanctions court case'). Company-registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. The OFAC Sanctions List Search page was reachable but is a JS-driven form that cannot be queried via plain HTTP GET, so no name match could be executed. Therefore: sanctions_hit = null (NOT verified against OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List - no negative finding is implied, this is simply unverified); court_cases = null (no Indian court records retrieved; party role and status unknown); rating = null (no credit rating found or verifiable); news_risk = null (no negative news retrieved); rf_supply = null (no evidence of supplies to Russia or CIS found, but also no search coverage - absence of evidence here is not evidence of absence). No numbers, CINs, PANs, case numbers or shipment records were invented. Per project rules, nothing here constitutes a rejection ground: sanctions/court/criminal matters are never rejection grounds, and no legal-entity, HS-code or shipment-volume research was performed (out of scope for this role). RECOMMENDATION: re-run this company's risk check when the search backend is restored, specifically querying OFAC SDN/Non-SDN, EU consolidated list, UK OFSI, BIS Entity List, eCourts/NCLT/NCLAT by company name, and Indian regulator (RBI/SEBI/DGFT) action databases."
+}

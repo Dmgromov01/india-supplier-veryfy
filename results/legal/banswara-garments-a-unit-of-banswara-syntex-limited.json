@@ -1,0 +1,18 @@
+{
+ "name_input": "BANSWARA GARMENTS (A UNIT OF BANSWARA SYNTEX LIMITED)",
+ "legal_name": "Banswara Syntex Limited (the input name is a division/unit label, not a separate legal entity; the unit itself has no separate CIN/PAN)",
+ "cin_llpin": null,
+ "pan": "AAACB8403F",
+ "pan_holder_type": "Company (4th character 'C' = company; 5th character 'B' = surname initial of the entity as registered) — PAN format is valid and consistent with a company; could NOT be independently confirmed against an Income Tax / MCA record in this session",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "Daman and Diu",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — reporting nulls rather than guesses. Tooling failure: the web_search backend returned 'Connection refused' for every query, so no search-driven discovery was possible; direct fetches were blocked or returned wrong pages (zaubacorp 403, thecompanycheck 403, Wikipedia 429, banswara.com empty body, BSE pages returned only page chrome, screener.in/company/500034 resolved to Bajaj Finance — i.e. 500034 is NOT this company's scrip code, so no financials were obtained). Consequently CIN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all unverified and left null. What can be said from the input alone: the input name is a unit/division of Banswara Syntex Ltd, a listed Indian textile company; the claimed PAN AAACB8403F is structurally valid for a company (4th char 'C'). The declared HS codes (5112/5208 — woven wool and cotton fabrics) are consistent with a textile manufacturer, NOT with the claimed industry 'Продукты питания и FMCG' (food/FMCG) — the industry label in the input is wrong and should be corrected to textiles. State: registered office of Banswara Syntex Ltd is understood to be in Rajasthan (Banswara), while the claimed state is Daman and Diu — this mismatch is UNVERIFIED and must be re-checked; the Daman/Diu reference likely relates to a manufacturing unit, not the registered office. Role assessed as manufacturer on the basis of the declared HS codes and the unit-style name only — not confirmed from filings. Revenue FY25/FY26: null, no audited accounts or official filing was retrievable. No rejection grounds established (entity existence not disproven), but this record must be re-run with working search access before use."
+}

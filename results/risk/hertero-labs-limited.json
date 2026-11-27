@@ -1,0 +1,9 @@
+{
+ "name_input": "HERTERO LABS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data verified. All search backends failed during this run: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo HTML/lite endpoints timed out; Google returned only a redirect interstitial; Bing returned an identical cached generic result set for every query (dictionary definitions of 'hetero', Wikipedia 'Hetero Drugs', hetero.com homepage) regardless of query terms, i.e. the query was not actually executed. Direct fetches of en.wikipedia.org (HTTP 429 bot block) and hetero.com (JS bot-verification wall) also failed. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all UNVERIFIED - reported as null, not as 'none found'. Do NOT read these nulls as a clean bill of health. Note on identity (for the researcher, not a legal-identity finding): the batch lists 'HERTERO LABS LIMITED' with legal_claimed 'HETERO LABS LIMITED', PAN AAACH5506R and state Tamil Nadu; the entity surfaced incidentally in search snippets is Hetero Drugs / Hetero Labs, a Hyderabad (Telangana) pharmaceutical group - the state and the pharma-vs-chemicals industry claim look inconsistent and should be reconciled by the identity/HS researcher. Also note the declared HS codes (282110, 283529, 284390, 290410 - inorganic/industrial chemicals) do not match a pharma manufacturer profile; per project rules this is not a rejection ground, only a correction flag. Recommend re-running this company once search access is restored."
+}
