@@ -1,0 +1,9 @@
+{
+ "name_input": "SESHAASAI BUSINESS FORMS PRIVATE LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI BUSINESS FORMS PRIVATE LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI TECHNOLOGIES LIMITED; SESHAASAI TECHNOLOGIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all web_search calls; Bing and Google via http_get returned results completely unrelated to the query (query terms ignored, e.g. YouTube/Paramount+/horse-tack pages), so no usable hits could be read. Zaubacorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form whose lookup results cannot be retrieved via plain GET, so no SDN/non-SDN screening result was actually obtained. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null - NOT a negative finding, simply unverified. Nothing here should be read as 'clean'. Note also the input record is internally inconsistent: the name field concatenates 11 variants of two different entities (Seshasai Business Forms Private Limited and Seshasai Technologies Limited), while legal_claimed lists only 'SESHASAI BUSINESS FORMS PVT LTD'; the correct legal entity/entities must be confirmed before any screening. Per project rules, no rejection is proposed on any ground; sanctions/court matters would in any case not be rejection grounds. Recommended next step: re-run screening with working search access against OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, plus Indian court records (eCourts/NCLT) and credit-rating agency pages, for each distinct legal entity separately."
+}

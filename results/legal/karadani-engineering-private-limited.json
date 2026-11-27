@@ -1,0 +1,18 @@
+{
+ "name_input": "KARADANI ENGINEERING PRIVATE LIMITED",
+ "legal_name": "KARADANI ENGINEERING PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in all returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant results (speed tests, Walmart, NBA draft) for every query, i.e. no usable hits. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all null - NOT because they are absent, but because they were not publicly retrievable within this session. No identifier or figure has been guessed or inferred. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established, and absence of evidence is not evidence of absence. Role left as 'unknown' - the claimed industry ('IT and electronics') is inconsistent with declared HS 841920 (laundry/dry-cleaning type machinery), but HS mismatch is explicitly not a rejection ground and the actual code should be corrected on the record; the claimed industry label itself is unverified. Action required: re-run against MCA master data / GST portal with working access, or obtain the company's CIN or GSTIN from the supplier directly, before any verdict is issued."
+}
