@@ -1,0 +1,8 @@
+{
+ "name_input": "UNITED AGRICARE INDIA PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. ImportKey pages for slugs 'united-agricare-india-private-limited', 'united-agricare-india-pvt-ltd' and 'united-agricare-india-private-ltd' all returned the same empty template: 'Shipments available for UNITED AGRICARE INDIA PRIVATE LIMITED, refreshed daily' — a boilerplate sentence with no date, destination, HS code or bill-of-lading number. Rows actually seen: 0 of 0. Volza, Eximpedia, Trademo and Zauba returned HTTP 403; ImportGenius returned a JavaScript challenge; DuckDuckGo search backend was unreachable ('Connection refused').",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend unavailable and registry pages (Zauba) blocked with HTTP 403, so no domestic supply record could be read. Rows actually seen: 0.",
+ "note": "Evidence could not be gathered, not evidence of absence. No export record (date/destination/HS/B-L) and no domestic supply record was retrievable, so both statuses are 'unknown' rather than 'none_found' — the tools failed, which is different from a checked-and-empty result. Declared HS 854370 (IT and electronics) is inconsistent with the company name 'Agricare', but per project rules HS mismatch is not a rejection ground; the code should be corrected to the factual one once a real shipment record is obtained. Revenue and export volume: null (not public in any source reached). No CIN/PAN confirmed. Recommended next step: re-run against a working search backend and a paid Volza/Eximpedia view, or check DGFT/IEC and GST portal directly, before assigning any shipment verdict."
+}

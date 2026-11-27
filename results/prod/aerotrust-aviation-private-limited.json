@@ -1,0 +1,18 @@
+{
+ "name_input": "AEROTRUST AVIATION PRIVATE LIMITED",
+ "declared_hs": "320890;321410;391910;392350",
+ "actual_hs_list": [
+  "2710.19 (turbine/aviation oils, lubricants — per site product lines)",
+  "3403.19 / 3403.99 (lubricating preparations, greases)",
+  "3819.00 (hydraulic fluids, aviation)",
+  "3214.10 (sealants/mastics — matches declared)",
+  "3506.91 / 3506.99 (adhesives — likely, not itemised)",
+  "3402.90 / 3402.20 (aircraft cleaning solutions/compounds)",
+  "8807.30 / 8803.30 (aircraft parts, tyres, spares — main declared business, NOT in HS list)",
+  "8421.23 / 8421.29 (filters, if supplied — not confirmed)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website aerotrustaviation.com (read 2026): established October 2021, New Delhi (No. 104, Amberhai Village, Dwarka Sector 19, New Delhi 110075). Stated business: charter services, procurement and supply of aircraft spare parts, aircraft tyres and commercial aviation products; services to operators, MROs and suppliers. Menu product categories: Aircraft Consumables, Oil & Lubricants, Sealants, Cleaners, Adhesives, Aerosol Cans, Aircraft Spares, Charter Services. Homepage also lists 'Turbine Oil', 'Hydraulic Fluids', 'Oil And Greases', 'Aerospace Fluids', 'Ground Support Equipment', 'Aircraft Cleaning Solution'. Individual product/category pages returned HTTP 404 (sealants, adhesives, aircraft-consumables, products, sitemap) — no itemised SKU list, no brand names, no technical data sheets could be read.",
+ "role_hint": "trader",
+ "comment": "Industry misclassification: declared industry 'Строительство и DIY' (construction/DIY) is wrong — the company is an aviation aftermarket distributor/charter operator (MRO consumables, aircraft spares, tyres, lubricants). HS mapping: only 3214.10 (sealants/mastics) is directly corroborated by the site's 'Sealants' category; 320890 (paints/varnishes in non-aqueous medium) is plausible only via generic 'aircraft consumables/coatings' and is not itemised; 391910 (self-adhesive plastic tape) and 392350 (plastic stoppers/caps/lids) have NO visible support on the site — likely aerosol-can caps or masking tape, but nothing on the pages read confirms it. Conversely, the company's core declared business — aircraft spare parts and aircraft tyres — has no HS line in the declaration at all (would be Ch. 88 / 4011). Recommended correction: keep 3214.10, add 2710.19/3403/3819.00 for oils and hydraulic fluids, add 8807/8803 and 4011 for spares and tyres, and treat 391910/392350 as unverified. All product claims are 'заявлено, не подтверждено' — no customs line, invoice or shipment record was checked in this task (out of scope), and the site itself provides no itemised catalogue. Trader signs: no manufacturing facility, no plant/equipment, no own brand mentioned; positioning is procurement/distribution plus charter brokerage — consistent with trader, not manufacturer. No registry, revenue or volume data researched per task scope."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Microtex Energy Pvt Ltd",
+ "legal_name": "MICROTEX ENERGY PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool returned a connection error (searx: Connection refused) for every query, and all public registry aggregators attempted were blocked or unavailable: zaubacorp.com (HTTP 403), thecompanycheck.com (403), falconebiz.com (403), tofler.in (404 on the guessed URL), instafinancials.com (404 on guessed URL / only landing page returned), bing.com (returned unrelated Microsoft results, no usable SERP), google.com (redirect/consent wall), duckduckgo.com (timeout), indiamart.com (HTTP 429). The CIN U40104KA1983PTC005698 used in URL guesses was NOT confirmed by any source and is therefore reported as null - it must not be treated as verified. Consequently legal entity name is only the claimed name, and CIN/LLPIN, PAN, PAN holder type (4th character), GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null because nothing was publicly retrievable. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Role left as 'unknown' (no registry evidence of manufacturing vs trading activity). Declared HS 853890 (parts for electrical apparatus) is not assessed here per role scope. Recommended next step: re-run with working search access and verify on MCA master data / GST portal before any decision."
+}
