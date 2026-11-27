@@ -1,0 +1,9 @@
+{
+ "name_input": "Rigmacven Trading Corp",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а Bing/Google на запросы \"Rigmacven\", \"Rigmacven Trading Corp\", \"Rigmacven Trading Corp India\", \"Rigmacven sanctions/court/IndiaMART/Zauba\" выдали полностью нерелевантные результаты (Simmons Bank, Best Buy, Punjab Kings и т.п.) — совпадений по названию не найдено ни одного. Следовательно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены; судебные дела в индийских реестрах (eCourts/NCLT) не проверены; рейтинги (CRISIL/ICRA/CARE/India Ratings) не проверены; негативные новости не проверены; признаков поставок в РФ/СНГ не проверено. Все поля оставлены null — данных нет, выдумывать нельзя. Дополнительно: заявленное название \"Rigmacven Trading Corp\" не выглядит типичным индийским корпоративным наименованием (нет Pvt Ltd/Ltd/LLP), PAN и штат не указаны — идентификация юрлица невозможна без CIN/PAN. Требуется повторный запуск проверки при работающем поиске и с указанием CIN/PAN; до этого считать риск-профиль неопределённым (не нулевым)."
+}

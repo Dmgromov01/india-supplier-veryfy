@@ -1,0 +1,8 @@
+{
+ "name_input": "Rigmacven Trading Corp",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page for slug 'rigmacven-trading-corp' returned only the generic template shell: \"Shipments available for RIGMACVEN TRADING CORP, refreshed daily\" — no dated shipment row, no destination, no HS code, no bill-of-lading number was rendered. Second slug 'rigmacven-trading-corporation' returned the identical empty template. Rows actually seen: 0 of 0. volza.com, eximpedia.app and trademo.com returned HTTP 403 (paywalled/blocked), so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. DuckDuckGo search backend was down for the whole session (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no domestic-supply source was reachable. Nothing found either way — recorded as unknown, not as absent.",
+ "note": "Следов поставок не найдено: ни одной экспортной записи с датой, направлением, HS-кодом или номером B/L не обнаружено; страницы ImportKey по двум вариантам слага — пустые шаблоны (0 строк), платные базы (Volza, Eximpedia, Trademo) отдали 403, поисковик не работал. Заявленный HS 640359 (обувь) не подтверждён и не опровергнут — фактический код установить не удалось, поэтому HS не корректировался. Выручка: null (не публична, не выдумывалась). Объём экспорта: null. Юрлицо не отклоняется: сведений о ликвидации/банкротстве нет, но и подтверждения существования деятельности по торговым записям нет. Рекомендуется повторный прогон при доступном поиске и платных базах."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "Prime commerce",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'prime-commerce' (https://importkey.com/countries/india/prime-commerce) and variant 'prime-commerce-pvt-ltd' both returned only the generic template shell: 'Shipments available for PRIME COMMERCE, refreshed daily' — a boilerplate placeholder, not a shipment row. Rows actually seen: 0 (no date, no destination, no HS code, no bill-of-lading number). Source counter: 2 ImportKey pages opened, 0 shipment records rendered.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, so no domestic-supply record was located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: проверить не удалось. ImportKey отдаёт только шаблон без строк (0 записей), volza/eximpedia/trademo вернули HTTP 403, поисковик был недоступен (connection refused). Заявленные HS 847130/851712/851830/852580 (ноутбуки, телефоны, наушники, камеры) ничем не подтверждены — статус 'заявлено, не подтверждено'. Выручка: null (не публична, не выдумываю). Объём экспорта: null. Юрлицо 'PRIME COMMERCE' — имя крайне неспецифичное, возможны совпадения с одноимёнными фирмами в других странах; CIN/PAN не заявлены и не найдены, поэтому отождествление с конкретным индийским юрлицом не выполнено. Требуется повторная проверка при доступном источнике таможенных данных или запрос CIN/GSTIN у поставщика."
+}

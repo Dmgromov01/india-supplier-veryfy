@@ -1,0 +1,9 @@
+{
+ "name_input": "INSPAIR PNEUMATIC INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing и Google выдавали нерелевантную выдачу (спортивные новости) вместо результатов по названию компании; ZaubaCorp, TheCompanyCheck и InstaFinancials отдали HTTP 403; Tofler — 404. Санкционный скрининг: интерфейс OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыт, но является JS-формой и не позволяет выполнить запрос через http_get — совпадение по имени НЕ проверено фактически, поэтому sanctions_hit=null, а не 'нет'. Аналогично не проверены списки UN/EU/UK/BIS. Судебные дела (eCourts, NCLT, High Court), рейтинги (CRISIL/ICRA/CARE/India Ratings) и негативные новости не проверены — данных нет, null. Следов поставок в РФ/СНГ не выявлено, но это следствие отсутствия доступа к источникам, а не подтверждённый отрицательный результат. Требуется повторный прогон при доступном поиске. Отклонять по этим данным нельзя (правило 3): нет подтверждения ликвидации/банкротства, нет подтверждения санкций."
+}
