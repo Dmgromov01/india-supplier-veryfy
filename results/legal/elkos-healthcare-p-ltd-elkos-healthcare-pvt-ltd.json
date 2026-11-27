@@ -1,0 +1,18 @@
+{
+ "name_input": "ELKOS HEALTHCARE (P) LTD; ELKOS HEALTHCARE PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕЗУЛЬТАТ НЕПОЛНЫЙ — ТЕХНИЧЕСКИЙ СБОЙ ИНСТРУМЕНТОВ, НЕ ОТКАЗ. Проверку выполнить не удалось: web_search вернул 'searx: Connection refused' на всех запросах; DuckDuckGo timed out; Google вернул HTTP 429; Bing выдал нерелевантную выдачу (LinkedIn/Pinterest, ничего по компании); реестровые зеркала zaubacorp.com, thecompanycheck.com, falconebiz.com вернули HTTP 403, instafinancials — 404. Ни один реестровый источник (MCA master data, GST-профиль) прочитать не удалось. Поэтому CIN, PAN, GSTIN, дата регистрации, штат регистрации, MCA-статус и выручка за FY25/FY26 остаются null — цифры и идентификаторы НЕ выдумывались. Юрлицо НЕ отклоняется: оснований для rejected (несуществование/ликвидация/банкротство) не установлено, статус — 'не проверено'. Роль предварительно unknown: заявленные коды HS 300410/300420/300431/300432 — фармпрепараты, что не соответствует указанной отрасли 'Нефтегаз и химия' во входных данных (вероятна ошибка классификации во входных данных, а не в компании); фактический профиль деятельности по реестру не подтверждён. Требуется повторный прогон при доступных инструментах: проверить MCA master data по точному наименованию 'ELKOS HEALTHCARE PRIVATE LIMITED' и GST-профиль на gst.gov.in / подтверждённом агрегаторе."
+}

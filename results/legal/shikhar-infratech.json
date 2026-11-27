@@ -1,0 +1,18 @@
+{
+ "name_input": "SHIKHAR INFRATECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по имеющимся данным. Во входе в поле legal_claimed указано ФИЗИЧЕСКОЕ ЛИЦО — 'DHARMIT KIRTI SHAH', а не юрлицо; название 'SHIKHAR INFRATECH' не является полным зарегистрированным наименованием (нет формы: Private Limited / LLP / Prop.), поэтому однозначно сопоставить его с записью MCA нельзя. Состояние (state) во входе не заявлено, PAN не заявлен. Попытки проверки: web_search вернул ошибку бэкенда (connection refused); DuckDuckGo/Google — таймаут и HTTP 429; Bing по запросам '\"SHIKHAR INFRATECH\" \"DHARMIT KIRTI SHAH\"', '\"SHIKHAR INFRATECH PRIVATE LIMITED\"', '\"Dharmit Kirti Shah\" director' выдал полностью нерелевантные результаты (сбой выдачи), пригодных ссылок нет; zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403; mca.gov.in MDS — HTTP 403. Ни один реестровый источник не был прочитан, поэтому CIN/PAN/GSTIN/дата регистрации/статус MCA/выручка остаются null — данные не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования при недоступности реестров не равно доказанному отсутствию юрлица (правило 3). Требуется уточнение от заказчика: полное юрлицо (например 'SHIKHAR INFRATECH PRIVATE LIMITED'), CIN или GSTIN, либо подтверждение, что поставщик — ИП/физлицо (тогда PAN обязателен, а CIN отсутствует по определению). Роль предварительно unknown; HS 842199 (части фильтровального оборудования) с заявленной отраслью 'нефтегаз и химия' не противоречит, но фактичность отгрузок в рамках этой задачи не проверялась."
+}

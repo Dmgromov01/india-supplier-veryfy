@@ -1,0 +1,18 @@
+{
+ "name_input": "TRANSWORLD SHOES PVT. LTD.; M/S TRANSWORLD SHOES PVT LTD",
+ "legal_name": "TRANSWORLD SHOES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404, and Bing/Google/DDG HTML fetches returned only generic 'Transworld' results (Transworld Business Advisors, Transworld shipping/logistics, Transworld Systems) or HTTP 429/timeout - no Indian MCA record for 'Transworld Shoes Private Limited' was surfaced. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null: not public/not retrievable in this session, NOT evidence of non-existence. No audited accounts or official filings were found, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' - the declared HS codes 640419/640420 are footwear (footwear with outer soles of rubber/plastics and uppers of textile materials), which is inconsistent with the input's claimed industry 'Food products and FMCG'; per project rules this is NOT a rejection ground - the company stays in the base and the HS code should be corrected to the actual footwear codes. No rejection applied: there is no evidence the entity is struck off, liquidated or bankrupt, only absence of accessible data. Recommended next step: re-run against MCA master data / GST portal when the search backend is restored, and confirm whether the correct legal name is 'Transworld Shoes Private Limited' or a similarly named entity (e.g. a partnership/proprietorship trading as 'M/s Transworld Shoes')."
+}

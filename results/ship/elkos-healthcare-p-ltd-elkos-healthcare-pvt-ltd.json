@@ -1,0 +1,8 @@
+{
+ "name_input": "ELKOS HEALTHCARE (P) LTD; ELKOS HEALTHCARE PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record obtained. importkey.com/countries/india/elkos-healthcare-pvt-ltd and .../elkos-healthcare-private-limited both returned only the generic template shell: \"Shipments available for ELKOS HEALTHCARE PVT LTD, refreshed daily\" with 0 rows rendered and no bill-of-lading, date, destination or HS code visible. Source counter: 2 ImportKey pages opened, 0 shipment rows actually seen. volza.com, eximpedia.app, trademo.com and importgenius returned HTTP 403; DuckDuckGo search backend returned 'Connection refused' for every query, so no second source could be reached.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split obtained. thecompanycheck.com and zaubacorp.com returned HTTP 403; indiamart.com returned HTTP 429. Source counter: 3 registry/aggregator pages attempted, 0 usable rows seen. No domestic supply record was read.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных B/L записей, ни внутренних GST/тендерных подтверждений получить не удалось, все источники закрыты (403/429) либо отдают пустой шаблон без строк. Статус по обоим каналам — unknown, не 'accepted'. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумываю). Заявленный HS 300410/300420/300431/300432 (медикаменты) не проверен по фактическим отгрузкам. Сайт/каталог IndiaMART фактом не считаю. Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

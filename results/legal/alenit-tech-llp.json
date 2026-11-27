@@ -1,0 +1,18 @@
+{
+ "name_input": "ALENIT TECH LLP",
+ "legal_name": "ALENIT TECH LLP (as claimed; unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results' due to connection error); zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in search returned 404; Google returned HTTP 429; Bing returned only irrelevant results with no match for the exact string 'ALENIT TECH LLP' or 'ALENIT' + LLP/LLPIN/GST. Therefore LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null - not public/not retrievable in this session, and nothing has been invented. No basis to reject: absence of a retrievable record in this session is NOT proof of non-existence, so the entity is not marked rejected; it is flagged as unverified pending a manual MCA master-data / GST portal lookup. Role cannot be determined from registry data alone (no NIC/activity code retrieved) - set to unknown. Note on input: declared HS 340239 (anionic/non-ionic organic surface-active agents, chapter 34) is inconsistent with the claimed industry 'oil & gas and chemicals' framing only in the sense that HS 3402 is surfactants, not a petroleum product; per project rules this is NOT a rejection ground - if the entity is confirmed, the HS code should be corrected to the actual product line and the verdict recorded as accepted_hs_corrected. No PAN was claimed in the input, so no PAN holder-type character could be checked. Recommended next step: manual lookup of the exact LLP name on mca.gov.in (LLP master data) and on the GST taxpayer search, plus a paid registry aggregator, before any commercial decision."
+}
