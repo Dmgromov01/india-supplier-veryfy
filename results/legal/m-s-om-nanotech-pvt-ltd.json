@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S OM NANOTECH PVT.LTD",
+ "legal_name": "OM NANOTECH PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries; direct fetches of registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, and mca.gov.in/mcafoportal returned HTTP 403. Google and Bing result pages returned only generic 'Om' dictionary/religious results, i.e. no relevant hit for the company name, so no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced. Nothing is asserted or inferred: all registry fields are null rather than guessed. Per project rules this is NOT a rejection - the entity is not shown to be non-existent, struck off, liquidated or bankrupt; the correct verdict is 'unverified / data not public via available tools', requiring a manual MCA master-data lookup by exact name before any decision. Role is left 'unknown' because no evidence of manufacturing vs trading activity was obtained (product catalogues and IndiaMART were out of scope for this role). Declared HS 847130 (portable automatic data processing machines) is noted but not assessed here; per rule 3 an HS mismatch would not be grounds for rejection in any case."
+}

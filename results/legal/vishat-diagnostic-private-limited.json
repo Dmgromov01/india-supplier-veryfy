@@ -1,0 +1,18 @@
+{
+ "name_input": "VISHAT DIAGNOSTIC PRIVATE LIMITED",
+ "legal_name": "VISHAT DIAGNOSTIC PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕГИСТРОВЫЕ ДАННЫЕ НЕ ПОДТВЕРЖДЕНЫ — не отклонять, требуется повторная проверка. В ходе сессии поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), а все публичные реестровые профили (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) вернули HTTP 403; tofler.in — 404 по поисковому URL. Bing/Google выдали нерелевантную выдачу без единого упоминания компании. В результате НЕ удалось получить: точное юрлицо по MCA, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN и статус GST, дату инкорпорации, штат регистрации, статус MCA. Все поля оставлены null — цифры не выдумывались. Оснований для rejected НЕТ: отсутствие подтверждения существования юрлица в рамках этой сессии не равно доказательству его несуществования (правило 3). Роль: unknown — по названию 'DIAGNOSTIC' профиль выглядит как диагностические услуги/медицинское оборудование, что не соответствует заявленному HS 860900 (контейнеры) и отрасли 'Авиастроение и транспорт'; это НЕ основание для отклонения (правило 3) — при подтверждении юрлица код исправляется на фактический, вердикт accepted_hs_corrected. Выручка FY25/FY26: null — аудиторская отчётность не найдена, публичных филингов нет. Рекомендация: повторить проверку при доступном поиске, целевой запрос — MCA master data по точному имени + GST-профиль (например, knowyourgst / gst.gov.in search taxpayer)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "DENIM VISTARA GLOBAL PRIVATE LIMITED",
+ "legal_name": "DENIM VISTARA GLOBAL PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries; direct fetches of registry/profile pages (zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in MDS) returned HTTP 403/404, and Bing/Google/DDG HTML endpoints returned only generic 'denim' results with the exact-phrase query ignored. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue (FY25/FY26) are all null - not public/not retrievable in this session, and nothing was invented. No basis to reject: absence of retrievable records is not proof of non-existence, so the entity is NOT marked rejected. Note also that the declared HS codes 620342/620462 (men's/boy's and women's/girls' cotton trousers, i.e. denim apparel) are inconsistent with the claimed industry 'Food products and FMCG'; per project rules this is not a rejection ground - the company stays in the base and the HS code should be corrected to the actual one (apparel, Ch. 62) with verdict accepted_hs_corrected. Role cannot be determined without MCA/GST data; 'unknown' pending verification. Recommend re-run when search backend and registry access are restored."
+}
