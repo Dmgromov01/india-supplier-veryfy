@@ -1,0 +1,22 @@
+{
+ "name_input": "RADHANI IMPEX PRIVATE LIMITED",
+ "declared_hs": "071220;071290",
+ "actual_hs_list": [
+  "090210/090220/090230/090240 (tea - not evidenced)",
+  "090411/090412 (pepper, uncrushed/crushed)",
+  "090611/090619 (cinnamon)",
+  "090721/090722 (cloves)",
+  "090811/090812 (nutmeg, mace)",
+  "090831/090832 (cardamom)",
+  "091020/091030 (saffron, turmeric)",
+  "091091 (mixtures of spices)",
+  "071220 (onions, dried)",
+  "071290 (other dried vegetables)",
+  "2516/6802 (granite blocks/slabs, worked stone)",
+  "6907/6908 (ceramic/glazed tiles)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website radhaniimpex.com (accessed via http_get) lists two product blocks: (1) 'Organic Indian Spices' with named items Saffron, Nutmeg, Cumin Seeds, Cardamom, plus FAQ text on black pepper and garlic; (2) 'Granite Countertop & Backsplash' and a 'Spice Tiles' menu section with 'Latest Tiles Products'. Contact page: Office-901, 9th Floor, Ansal Bhawan, 16 KG Marg, Barakhamba, New Delhi 110001; Director Dr. Dharmendra Kumar; phones +91-9311412277 / +91-9870330433; info@radhaniimpex.com. No product-level HS codes, no packing/spec sheets, no B/L or customs references published.",
+ "role_hint": "trader",
+ "comment": "СООТВЕТСТВИЕ HS: partial. Заявленные 071220 (лук сушёный) и 071290 (прочие сушёные овощи) на сайте НЕ подтверждены — ни одного упоминания сушёных овощей/лука в каталоге нет. Фактически заявленный ассортимент — специи и пряности (шафран 091020, мускатный орех 090811, тмин 090931, кардамон 090831, чёрный перец 090411, чеснок сушёный 071290 как возможная частичная привязка) и камень/плитка (гранит 2516/6802, керамическая плитка 6907/6908). То есть код 071290 может частично покрывать сушёный чеснок, но 071220 (лук) не подтверждён вообще. Рекомендация: сохранить компанию (правило 3 — HS-несоответствие не основание для отклонения), исправить/расширить декларацию на фактические группы 09 (специи) и 25/68/69 (гранит, плитка), вердикт accepted_hs_corrected. ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявлено «Продукты питания и FMCG», но сайт на равных правах продвигает гранитные столешницы и плитку — это строительные/отделочные материалы, в декларации не отражены. ПРИЗНАКИ ТРЕЙДЕРА: нет ни одного упоминания производственных мощностей, завода, сертификатов (раздел 'Certificates' отдаёт 404), нет спецификаций и фасовки; сайт — шаблонный (текст Lorem Ipsum в разделе About, заглушка 'Here are the biggest enterprise technology acquisitions of 2024' в блоке продуктов), что говорит о незрелости/недоказанности реальной товарной линейки. Всё вышеперечисленное — ЗАЯВЛЕНО, НЕ ПОДТВЕРЖДЕНО: ни одной таможенной строки, B/L или иной записи об отгрузке в открытых источниках мной не найдено; следов поставок не найдено. Данные о выручке, объёме экспорта, PAN/CIN не проверялись (вне роли) — null."
+}

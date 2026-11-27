@@ -1,0 +1,18 @@
+{
+ "name_input": "Preet Machine",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Bing returned completely irrelevant results (US property appraisers, funeral home obituaries) for queries on 'Preet Machine' GSTIN/CIN/Udyam; zaubacorp.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; thecompanycheck.com search path returned 404. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed from any public source. 'Preet Machine' is a trade/brand-style name, not a verified legal entity name - it may correspond to a proprietorship, partnership, LLP or Pvt Ltd with a different registered name, and no match could be established. Per project rules, rejection is NOT warranted: absence of accessible registry data is not proof of non-existence, so the company is retained with role 'unknown' and all registry fields null rather than guessed. Revenue FY25/FY26 left null - no audited accounts or official filings were retrievable; figures must not be invented. Note also that declared HS 846232 (parts/accessories for metal-rolling mills) is a product code and is not a basis for rejection under the 23.11.2026 rule; HS correctness is out of scope for this legal/registry pass. RECOMMENDATION: re-run this company when search/registry access is restored, or obtain the GSTIN or CIN directly from the supplier's invoice/IndiaMART profile, since a GSTIN alone would resolve legal name, state and registration status in one step."
+}

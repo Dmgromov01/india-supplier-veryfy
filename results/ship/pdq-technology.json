@@ -1,0 +1,8 @@
+{
+ "name_input": "PDQ technology",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'pdq-technology' rendered only the template shell: \"Shipments available for PDQ TECHNOLOGY, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no B/L numbers. Second slug variant 'pdq-technologies' returned the identical empty template (\"Join ImportKey to view the import and export data records of companies all over the world\"). Source counter: 2 ImportKey pages fetched, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GST turnover band, GeM/CPPP tender participation and annual-report splits could not be checked: web_search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both queries, and volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden. 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: доступ к данным был технически заблокирован, поэтому статус 'unknown', а не 'none_found'. Никаких записей об экспортных отгрузках (дата, направление, HS, B/L) получить не удалось; внутренние поставки (GST-оборот, GeM/CPPP, контракты) не проверены. Заявленный HS 848180 (арматура) и отрасль 'нефтегаз и химия' остаются заявленными, не подтверждёнными. Выручка и объём экспорта: null — публичных данных не найдено, цифры не выдумывались. Юрлицо 'PDQ TECHNOLOGIES' по названию однозначно не идентифицировано (нет CIN/PAN/штата), возможна путаница с одноимёнными фирмами. Рекомендуется повторная проверка при восстановлении доступа к поиску и таможенным базам."
+}

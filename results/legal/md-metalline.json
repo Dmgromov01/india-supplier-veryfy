@@ -1,0 +1,18 @@
+{
+ "name_input": "MD Metalline",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо не удалось. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на момент проверки (connection refused), Bing по запросам «MD Metalline» / «MD Metalline GSTIN OR CIN OR Private Limited» выдал только нерелевантные результаты (Maryland Lottery, WebMD и т.п.) — ни одного индийского корпоративного профиля не найдено. Прямые попытки получить данные из реестровых агрегаторов не удались: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, thecompanycheck.com — HTTP 404, quickcompany.in — HTTP 404, mca.gov.in (Master Data) — HTTP 403. Таким образом, точное юридическое наименование, CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не подтверждены ни одним публичным источником и оставлены null — не выдуманы. Роль (manufacturer/trader) не определена: заявленная отрасль «Нефтегаз и химия» и HS 847989 (машины/механические устройства с индивидуальными функциями) не согласуются между собой, что дополнительно указывает на возможное неточное или неполное название в исходных данных. ВАЖНО: отклонение (rejected) НЕ применяется — отсутствие данных в реестрах при недоступности инструментов не является доказательством несуществования юрлица (правило 3). Компания сохраняется в базе со статусом «не проверено / требуется повторная проверка реестра». Рекомендация: повторить проверку при доступности MCA Master Data / GST-портала, уточнить у поставщика полное юридическое наименование (возможны варианты написания: 'M D Metalline', 'MD Metalline Pvt Ltd', 'MD Metalline LLP') и PAN/GSTIN для однозначной идентификации."
+}

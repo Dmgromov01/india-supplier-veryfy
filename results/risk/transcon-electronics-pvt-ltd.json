@@ -1,0 +1,9 @@
+{
+ "name_input": "TRANSCON ELECTRONICS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; резервные попытки через Bing/Google/DuckDuckGo HTML по запросам '\"Transcon Electronics\" Pvt Ltd', 'India company director', 'Россия экспорт' и site:-ограничениям (indiamart/tofler/thecompanycheck) вернули только нерелевантные одноимённые структуры (Transcon Shipping, Transcon Company, Transcon Conveyor, Transcon Livestock, TransCon/Ascendis Pharma) — ни одного индийского юрлица 'Transcon Electronics Pvt Ltd' в выдаче не найдено. Zaubacorp отдал HTTP 403. Форма OFAC Sanctions List Search загружена (SDN-лист обновлён 23.11.2026), но это JS-интерфейс — выполнить запрос по имени через http_get невозможно, поэтому санкционный скрининг фактически НЕ проведён. По всем полям ставлю null: данных нет, выдумывать не буду. Санкционных, судебных, регуляторных, рейтинговых и новостных записей не подтверждено; сведений о поставках в РФ/СНГ не найдено — но это означает 'не проверено', а не 'отсутствует'. Требуется повторный прогон при работающем поиске: проверить OFAC SDN/SSI, UN, EU, UK OFSI, BIS Entity List по точному имени и CIN; eCourts/NJDG и High Court по названию компании и директорам; MCA-статус (активна/ликвидирована) — это единственное основание для rejected по правилу 3; рейтинги CRISIL/ICRA/CARE/India Ratings; новости и таможенные записи по экспорту в РФ/СНГ. Отклонять по данному прогону нельзя — нет ни одного подтверждённого основания."
+}
