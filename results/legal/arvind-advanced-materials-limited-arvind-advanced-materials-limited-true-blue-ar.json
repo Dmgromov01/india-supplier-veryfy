@@ -1,0 +1,18 @@
+{
+ "name_input": "ARVIND ADVANCED MATERIALS LIMITED; ARVIND ADVANCED MATERIALS LIMITED; True Blue; ARVIND ADVANCED MATERIALS LIMITED; ARVIND ADVANCED MATERIALS LIMITED; ARVIND ADVANCED MATERIALS LIMITED; ARVIND ADVANCED MATERIALS LIMITED; ARVIND ADVANCED MATERIALS LIMITED; ARVIND ADVANCED MATERIALS LIMITED; ARVIND ADVANCED MATERIALS LIMITED",
+ "legal_name": "ARVIND ADVANCED MATERIALS LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned HTTP 404 for the slug; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out. Bing returned only generic 'Arvind Limited' (Lalbhai Group, arvind.com) results and no page for an entity named 'Arvind Advanced Materials Limited', so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be sourced. Per project rules, no CIN/PAN/GSTIN/revenue figures are invented - all such fields are null. NOT rejected: absence of a retrieved record is not proof of non-existence, and rejection is permitted only on confirmed non-existence/strike-off/liquidation/bankruptcy, none of which was established. Two flags for the next pass: (1) the input name is repeated 10 times with the stray token 'True Blue' - likely a duplicate/merge artefact in the source list, needs de-duplication; (2) declared HS 591190 (textile/industrial textile articles - gaskets, packings, reinforced fabric) is inconsistent with the claimed industry 'Продукты питания и FMCG' (food & FMCG); per rule 3 this is NOT a rejection ground - the company stays in the base and the HS code should be corrected to the actual one once the product line is confirmed. Recommended next step: manual lookup on the MCA portal by company name, plus a GSTIN search on the GST portal, to fill CIN, PAN (4th character gives holder type: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust), GSTIN and status, and to pull FY25/FY26 audited revenue from the filed financial statements."
+}

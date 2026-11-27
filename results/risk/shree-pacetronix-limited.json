@@ -1,0 +1,9 @@
+{
+ "name_input": "SHREE PACETRONIX LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failed during this run: DuckDuckGo/searx backend refused connections ('Connection refused') on all web_search attempts; Bing and Google HTML endpoints returned unrelated results (fashion, poultry, bedding, Bovespa index) with no usable hits for 'Shree Pacetronix'; OFAC Sanctions List Search is a JS-driven form and returned no query results via plain GET; BSE India pages returned only a JS shell; screener.in returned HTTP 404 for the guessed ticker path. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = NOT VERIFIED (null, not a negative finding); Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news with dates = NOT VERIFIED; credit rating with date/status = NOT VERIFIED; evidence of supplies to Russia/CIS = NOT VERIFIED. No claim in this record is sourced, and no numbers, CINs, PANs or shipment records were invented. Per project rules, absence of verification is not a rejection ground and no adverse inference is drawn; the company is retained. Recommended follow-up: re-run with a working search backend and check (a) OFAC SDN consolidated CSV text search for 'Pacetronix', (b) EU/UK consolidated sanctions lists, (c) BIS Entity List supplement, (d) eCourts/NCLT/SCI party-name search, (e) CRISIL/CARE/ICRA/Acuite rating rationales, (f) Indian trade/import-export press for CIS destinations. Note only: the company name and declared HS 902190 are consistent with a medical-device (pacemaker) manufacturer, but this was not independently confirmed in this run."
+}
