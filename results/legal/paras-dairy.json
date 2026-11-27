@@ -1,0 +1,18 @@
+{
+ "name_input": "Paras Dairy",
+ "legal_name": "VRS Foods Limited (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) returned connection errors for every query, and all registry aggregator pages attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com company page, tofler.in) returned HTTP 403/404 or only site-navigation boilerplate; Bing/Google HTML endpoints returned irrelevant or redirect-only results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null — NOT verified, not 'not existing'. No rejection is warranted: there is no evidence the entity is struck off, liquidated or bankrupt; the absence of data is a tooling failure, not a negative finding. Role 'manufacturer' is a provisional classification based on the claimed legal name and declared dairy HS codes (040210/040221/350110 — milk powder, casein), not on verified MCA NIC code. Recommended next step: re-run against MCA master data / GST public search for 'VRS Foods Limited' (Paras brand, Delhi/NCR) once search access is restored."
+}

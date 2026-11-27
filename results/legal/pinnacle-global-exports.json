@@ -1,0 +1,18 @@
+{
+ "name_input": "PINNACLE GLOBAL EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Research was blocked by tooling: the DuckDuckGo/searx search backend returned 'Connection refused' on every attempt; Bing returned only generic US 'Pinnacle' brand results and ignored the quoted phrase; Google returned HTTP 429; thecompanycheck.com search requires authentication. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a citable source. Nothing is asserted or inferred. Two points for the analyst: (1) the input field 'legal_claimed' contains a person's name ('INDERJEET SINGH'), not a legal entity name, which is consistent with a sole proprietorship - a proprietorship has no CIN and no MCA status, only a GSTIN and PAN (PAN 4th character 'P' = individual/proprietorship); this could not be confirmed. (2) The declared HS codes (620342, 620419, 620442, 620520) are woven apparel (men's/boy's and women's/girl's trousers, suits, dresses, shirts) - i.e. textiles/garments, which contradicts the claimed industry 'Food products and FMCG'. Per project rules this is NOT a ground for rejection; the company stays in the database and the HS code should be corrected to the actual one. Verdict: not rejected (entity existence neither confirmed nor disproved), status 'declared, not confirmed' - no trace of supplies found in the sources reachable. Recommend re-running with a working search backend or a paid registry API (MCA21 / GST portal / Tofler) before any commercial decision."
+}

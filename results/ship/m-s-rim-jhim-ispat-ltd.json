@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S RIM JHIM ISPAT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No export record retrieved. importkey.com/countries/india/rimjhim-ispat-ltd returned only a JS shell: 'Shipments available for RIMJHIM ISPAT LTD, refreshed daily' with 0 rows rendered (source counter: page claims shipment data exists; rows actually seen: 0). volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; no bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply record retrieved. No GST turnover band, GeM/CPPP tender award or annual-report split was accessible: thecompanycheck.com and zaubacorp.com returned HTTP 403, and web_search (DuckDuckGo/searx) failed with 'Connection refused'; Bing and Google returned unrelated results. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, все источники отгрузочных данных (importkey, volza, eximpedia, trademo, importgenius) закрыты 403/JS, поисковики недоступны. Статус по обоим каналам — unknown, не 'accepted'. Заявленные коды HS 720839/721420/721921/721933 (плоский и сортовой прокат) не проверены по фактическим записям, поэтому не подтверждены и не исправлены. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумываю). CIN/PAN не подтверждены — null. Требуется повторная проверка при доступе к платным таможенным выгрузкам или к GeM/CPPP."
+}

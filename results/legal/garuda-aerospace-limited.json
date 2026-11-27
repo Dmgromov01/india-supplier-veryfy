@@ -1,0 +1,18 @@
+{
+ "name_input": "GARUDA AEROSPACE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session: the web_search backend was unavailable (connection refused on all queries) and every public registry aggregator attempted returned HTTP 403/404 (zaubacorp.com, thecompanycheck.com, tofler.in, quickcompany.in, falconebiz.com, indiafilings.com); instafinancials.com returned only site boilerplate with no company master data. Therefore legal entity name, CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all reported as null rather than guessed. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the data is simply not public/accessible here. Note on the input: the claimed name ends in 'LIMITED', which in MCA nomenclature denotes a public limited company; the well-known Indian drone maker of this name is widely referred to as a private limited company, so the exact legal form must be confirmed against the MCA master data before use. Role left as 'unknown' pending registry confirmation of the objects clause (manufacturing vs trading). Declared HS 850760 (lithium-ion accumulators) and 880623 (UAV/drones) are not assessed here per role scope. Revenue FY25/FY26: no audited accounts or official filings were retrievable, so null - not estimated."
+}

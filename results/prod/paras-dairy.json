@@ -1,0 +1,27 @@
+{
+ "name_input": "Paras Dairy",
+ "declared_hs": "040210;040221;350110",
+ "actual_hs_list": [
+  "0401.10 — Milk and cream, not concentrated, not sweetened, fat content <=1% (toned/double-toned/skimmed liquid milk, UHT milk)",
+  "0401.20 — Milk and cream, not concentrated, not sweetened, fat content >1% but <=6% (full cream milk, tea special milk, flavoured milk base)",
+  "0401.40 / 0401.50 — Milk and cream, fat content >6% / >10% (cooking cream, whipping cream, dairy cream)",
+  "0402.10 — Milk and cream in powder, fat <=1.5% (SMP / skimmed milk powder)",
+  "0402.21 — Milk and cream in powder, fat >1.5%, unsweetened (WMP / whole milk powder, dairy whitener)",
+  "0402.29 — Milk and cream in powder, sweetened",
+  "0403.10 — Yogurt / dahi (cup and pouch), chaach (buttermilk)",
+  "0405.10 — Butter (white unsalted butter)",
+  "0405.90 — Ghee / desi ghee / cow ghee, butter oil",
+  "0406.10 — Fresh cheese (paneer), whey",
+  "0406.30 — Processed cheese (if any)",
+  "0404.10 — Whey powder, whey protein concentrate",
+  "1702.19 / 1702.11 — Lactose (milk sugar) — note: lactose is 1702.11/1702.19, not 3501",
+  "3501.10 — Casein",
+  "3501.90 — Caseinates / other casein derivatives",
+  "3502.20 — Milk albumin (if traded)",
+  "0402.99 / 2106.90 — Milk protein concentrate (MPC), milk shake / flavoured dairy preparations, chhena kheer (sweetened dairy dessert)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Paras Dairy (operated by VRS Foods Limited, per the company's own About page: 'Our first unit was established in 1987 under company's name VRS Foods Limited') is a full-line dairy processor. Domestic range per parasdairy.com: full cream / toned / double toned / skimmed / tea special / pasteurised / UHT milk, flavoured milk, dahi (cup & pouch), desi ghee, cow ghee, paneer, chaach, chhena kheer, dairy whitener, milk shake, dairy cooking cream, whipping cream, white butter. Export range per the site's Export menu: skimmed milk powder (SMP), whole milk powder (WMP), acid & rennet casein, white unsalted butter, whey powder, whey protein, milk protein concentrate (MPC), lactose, UHT milk, ghee. The site also states it sells over 250,000 litres of milk per day in Delhi Metro and invites buyers at Gulfood 2020 (stand E2-10, Hall 2, Dairy Section) with contact exports@parasdairy.com.",
+ "role_hint": "manufacturer (own processing units; 'Ved Ram & Sons' partnership from 1986, first unit 1987 as VRS Foods Limited). No trader signs found on the site — no third-party brands, no 'supplier of' catalogue language.",
+ "comment": "Declared codes 040210 (SMP), 040221 (WMP unsweetened) and 350110 (casein) are all genuinely in the export line-up per the site's Export section — so the declaration is correct but INCOMPLETE, not wrong. Match = partial. Missing from the declaration: 0405.90 (ghee/butter oil) and 0405.10 (white unsalted butter) — both explicitly listed as export items; 0404.10 (whey powder) and whey protein; 1702.11/1702.19 (lactose — note the declared 3501.10 is casein, lactose is NOT 3501, so if the declaration intended lactose under 3501 that would be a mis-map); 0401.10/0401.20/0401.40/0401.50 (UHT milk and creams, listed as export items); 0406.10 (paneer) and 0403.10 (dahi/chaach) for the domestic line; 0402.99/2106.90 for MPC and milk shake. Industry classification 'Продукты питания и FMCG' is broadly correct but imprecise — this is a dairy processor (HS ch. 04 + 17 + 35), not general FMCG. Per project rule 3, no rejection on HS grounds: company is kept, code list corrected/expanded to the actual range. IMPORTANT: all product data above is from the company's own website (parasdairy.com) — no customs line, B/L or shipping bill was checked in this task, therefore the export items (SMP, WMP, casein, whey, lactose, MPC, butter, ghee, UHT) are status 'заявлено, не подтверждено'. Domestic sales volume (250,000 L/day Delhi Metro) is likewise a company claim, not verified here. Revenue, export volumes, CIN/PAN and registry status were out of scope for this task and are null."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Smith Export",
+ "legal_name": "SMITH EXPORTS (unverified — no registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) was down ('Connection refused') for the whole session; Bing returned only irrelevant generic 'Smith' brand results for every query variant (including site:zaubacorp.com / tofler.in / thecompanycheck.com and CIN/GSTIN/U51909 filters); zaubacorp.com and mca.gov.in returned HTTP 403, thecompanycheck and instafinancials returned 404. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Nothing is invented: all fields null. 'SMITH EXPORTS' is a very common Indian trade name (many proprietorships/partnerships and several private limited companies share it), so without a CIN, PAN, GSTIN or state from the input it cannot be uniquely identified — the input itself has empty PAN and empty state. NOT rejected: absence of a found record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left 'unknown' — the declared HS codes (8421 filters/separators, 8481 valves) suggest flow-control equipment for oil/gas/chemical use, but that is a product claim, not evidence of manufacturing vs trading. Action needed: obtain CIN or GSTIN (or at least state + PAN) from the supplier, then re-run registry verification on MCA/zaubacorp/GST portal. Revenue FY25/FY26: null — no audited accounts or official filings accessible."
+}

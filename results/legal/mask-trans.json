@@ -1,0 +1,18 @@
+{
+ "name_input": "MASK TRANS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The claimed legal entity 'ARYAN AVIATION AND AIR PART' does not appear as a registered Indian company name in any accessible source: exact-phrase searches on Bing returned zero matching results (only generic 'Aryan' articles), and the name is also grammatically incomplete for an Indian legal entity (no 'Pvt Ltd'/'LLP'/'Limited' suffix, 'AIR PART' appears truncated). The trade name 'MASK TRANS' likewise returned no Indian company/GST profile. Registry sources were inaccessible: zaubacorp.com returned HTTP 403, mca.gov.in returned HTTP 403, tofler.in search returned 404, DuckDuckGo timed out, Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings located. Role set to 'unknown' (no evidence of manufacturing or trading activity). IMPORTANT: per project rules, rejection requires proof that the entity does not exist / is struck off / liquidated / bankrupt - that proof was NOT obtained, so this record is NOT rejected; it is unverified and requires manual MCA master-data lookup by the claimed legal name and by the trade name 'MASK TRANS' before any decision. Also note the input is internally inconsistent: declared HS codes (392350, 392390 - plastic caps/closures and plastic articles; 401610 - vulcanised rubber articles; 731815 - iron/steel screws and bolts) point to plastics/rubber/fasteners, while the claimed industry is 'Oil & gas and chemicals'; and the claimed legal name suggests aviation parts. Per rules, HS mismatch is not a rejection ground - the HS code should be corrected to the actual activity once the entity is identified. No PAN was claimed in the input, so no PAN 4th-character holder-type analysis was possible."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S RIM JHIM ISPAT LTD",
+ "legal_name": "RIMJHIM ISPAT LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. The web_search tool returned no results (backend connection refused) and every subsequent attempt to reach public registry sources failed: zaubacorp.com (HTTP 403), thecompanycheck.com (403), tofler.in (404 on the guessed URL), instafinancials.com (404), mca.gov.in MDS (403), and Bing/Google/DuckDuckGo HTML endpoints returned either irrelevant results or timed out. No CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be read from any authoritative or public-profile page, so all such fields are left null rather than guessed. IMPORTANT: the CIN U27101UP1995PLC018234 used in attempted URLs was a hypothesis only and is NOT confirmed - do not treat it as data. No basis for rejection exists under the project rules: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt; the failure is a data-access failure, not evidence of non-existence. Role is recorded as 'unknown' pending registry confirmation of whether the entity manufactures (declared HS 720839/721420/721921/721933 are flat/hot-rolled and rebar steel products, consistent with a steel producer, but this is inference from the HS codes supplied in the input, not a verified fact). Recommended next step: re-run with working search access or manual MCA master-data lookup by company name to obtain CIN, then derive PAN 4th-character holder type and GSTIN from the GST portal public search."
+}
