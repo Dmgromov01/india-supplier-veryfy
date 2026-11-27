@@ -1,0 +1,9 @@
+{
+ "name_input": "SAK ENGINEERING",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) был недоступен на протяжении всей сессии (connection refused / timeout), Bing отдавал нерелевантную кэшированную выдачу по запросам «SAK Engineering» + «Shaik Abdul Rehman» (только бренды The Sak / Saks Fifth Avenue), прямые запросы к Google — HTTP 429. Форма поиска OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) загружена, но это JS-интерфейс, результат по имени через GET не получен; SDN List last updated 11/23/2026. Никаких публичных записей о санкциях, судебных делах, рейтингах, негативных новостях или поставках в РФ/СНГ по данной компании найти не удалось — это НЕ подтверждение отсутствия рисков, а отсутствие данных. Все поля оставлены null, ничего не выдумано. Требуется повторный прогон при работающем поиске: проверить имя «Shaik Abdul Rehman» / «SAK Engineering» в OFAC SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List, а также в eCourts / NCLT / VAHAN-реестрах и на IndiaMART/Zauba. Отклонять по правилу 3 нельзя: сведений о ликвидации/банкротстве нет, но и подтверждения существования юрлица в рамках этой роли не собиралось."
+}

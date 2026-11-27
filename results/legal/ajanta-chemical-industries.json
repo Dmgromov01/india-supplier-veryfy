@@ -1,0 +1,18 @@
+{
+ "name_input": "Ajanta Chemical Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained - all fields null, not verified. Tooling failure, not a negative finding: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Bing (used as fallback) ignored quoted phrases and returned only unrelated 'Ajanta' hits (Ajanta Pharma, Ajanta Caves, Ajanta Shoes); zaubacorp.com and thecompanycheck.com both returned HTTP 403 Forbidden on direct company and company-search URLs; ajantachemical.com did not resolve (DNS). Therefore exact legal entity name, CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all unconfirmed and left null rather than guessed. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the name pattern 'Ajanta Chemical Industries' is consistent with either a partnership/proprietorship trading or manufacturing concern, and no MCA record was retrieved to distinguish manufacturer vs trader. IMPORTANT for the reviewer: the declared HS codes (170290 - glucose/glucose syrup; 320412 and 320419 - synthetic organic acid and other colouring matter) point to food colours / dye intermediates, which does not match the claimed industry 'Продукты питания и FMCG' (food & FMCG) as a finished-goods category - the company appears to be a colour/dye chemical supplier rather than a food producer. Per project rule 3 this is NOT grounds for rejection; the company should be retained and the HS/industry classification corrected on the next pass. No rejection applied: entity existence was neither confirmed nor disproved, and rule 3 permits rejection only on confirmed non-existence/strike-off/liquidation/bankruptcy. Recommended action: re-run verification when search and registry access are restored, using MCA master data plus a GST public profile to capture CIN, PAN, GSTIN and state."
+}

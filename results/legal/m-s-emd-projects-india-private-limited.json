@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S EMD PROJECTS INDIA PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: DuckDuckGo/searx вернул 'connection refused', Google — HTTP 429, Bing по запросам с точным названием выдал только нерелевантные результаты про Electro-Motive Diesel/EMD Group (то есть точного совпадения по названию в индексе не найдено), zaubacorp.com и thecompanycheck.com — HTTP 403, instafinancials — 404, tofler.in — 404, портал MCA (mca.gov.in) — HTTP 403. Следовательно: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 — null. Выручка не выдумывалась. Роль (manufacturer/trader) по реестровым данным не установлена — 'unknown'. ВАЖНО: отсутствие подтверждения НЕ является основанием для отклонения по правилам проекта — компания НЕ отклонена, статус 'не проверено, требуется повторный запрос к MCA/GST-порталу'. Заявленный штат в инпуте не указан, поэтому сверка 'state_registered vs state_claimed' невозможна. Заявленные HS 730840/730890/731819 (металлоконструкции/крепёж) в рамках роли legal/registry не оценивались. Рекомендация: повторить проверку при доступе к MCA Master Data / GST-порталу или к платным реестрам (Tofler, Zauba, Probe42)."
+}
