@@ -1,0 +1,8 @@
+{
+ "name_input": "HALDIA PETROCHEMICALS LTD",
+ "export_status": "unknown",
+ "export_evidence": null,
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "No shipment record could be read. importkey.com/countries/india/haldia-petrochemicals-ltd returned only a paywalled shell: the page states 'Shipments available for HALDIA PETROCHEMICALS LTD, refreshed daily' but rendered 0 actual rows (source counter: page claims India customs records back to 2008; rows actually seen: 0). volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge; haldiapetrochemicals.com returned a bot-verification interstitial; zaubacorp.com and thecompanycheck.com returned HTTP 403; en.wikipedia.org returned HTTP 429. The DuckDuckGo search backend was down for the whole session ('searx: Connection refused'), so no second-source search was possible. Therefore neither (a) export B/L records with date/destination/HS/B-L number, nor (b) domestic supply evidence (GST turnover band, GeM/CPPP tenders, annual-report splits) could be verified. Per Rule 5, no shipment fact is asserted and no 'conditionally accepted' wording is used: this is an evidence gap, not a finding of absence. HS 390210 (polypropylene) is plausible for this producer but was NOT verified against any shipment record, so no HS correction is proposed. Revenue and export volume: null (not public in any source reachable here). No CIN/PAN asserted. Recommend re-run with a working search backend and a paid/JS-capable trade-data view before any verdict."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MARIA DECOR",
+ "legal_name": "MARIA DECOR (proprietorship name as claimed; proprietor claimed: IMRAN KAIZER PATANWALA) — not verified in any public registry",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "not applicable / not found — appears to be a sole proprietorship, not an LLP or company; no MCA record located",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification could not be completed: the web_search tool returned a connection error (searx: Connection refused) for every query, and the fallback search engine (Bing via http_get) ignored the query terms and returned only generic 'Maria' name/encyclopedia results, so no India-specific hit was obtainable. Direct registry/profile sources were blocked or unavailable: zaubacorp.com returned HTTP 403, mca.gov.in returned HTTP 403, tofler.in search returned a 404 page, Google returned HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or audited revenue could be confirmed from a public source, and all such fields are left null rather than guessed. What can be said: the input gives a personal name (IMRAN KAIZER PATANWALA) as the 'legal entity', which is consistent with a sole proprietorship trading as MARIA DECOR — proprietorships have no CIN/LLPIN and no MCA filing, so absence of an MCA record is not evidence of non-existence. Per project rules the entity is NOT rejected: there is no evidence it is struck off, liquidated or bankrupt, and non-existence could not be established either way. Role is recorded as 'unknown' (no public evidence of manufacturing plant or of trading activity was retrievable). Declared HS 391810 (wall/ceiling coverings of plastics) is noted but not assessed here, as product/HS research is outside this role. Revenue FY25/FY26: null — no audited accounts or official filings are public for a proprietorship of this size. Recommended next step: re-run with a working search backend, or obtain the GSTIN directly from the supplier and validate it on the GST portal, which would also confirm the legal name, constitution (Proprietor) and registered state."
+}

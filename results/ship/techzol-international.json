@@ -1,0 +1,8 @@
+{
+ "name_input": "Techzol International",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'techzol-international' exists but contains zero shipment rows: \"Shipments available for TECHZOL INTERNATIONAL, refreshed daily\" — a generic paywall placeholder, no date, no destination, no HS code, no bill-of-lading number visible. Second slug 'techzol-international-ashok-kumar-gupta' returned the same empty placeholder. Source counter: 2 ImportKey pages opened, 0 shipment records actually seen. Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page — no free-view rows obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend (DuckDuckGo/searx) was unreachable for the whole session (connection refused), and a Bing fallback for \"Techzol International\" export India returned only unrelated results (geiconsultants.com pages). Source counter: 2 search attempts, 0 relevant hits.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок с датой/направлением/HS/B-L, ни внутренних поставок (GST-оборот, тендеры, контракты) подтвердить не удалось. Это НЕ означает, что поставок не было: платные базы (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) закрыты, а поисковый бэкенд в этой сессии не работал, поэтому статус по обоим пунктам — unknown, а не none_found. Заявленный HS 847130 (портативные компьютеры) и заявленное лицо ASHOK KUMAR GUPTA ничем не подтверждены; PAN, CIN, выручка и объём экспорта — null (не публичны / не найдены). Роль (manufacturer/trader) не установлена. Требуется повторная проверка при доступном поиске и платной таможенной выписке."
+}

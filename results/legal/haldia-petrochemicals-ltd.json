@@ -1,0 +1,18 @@
+{
+ "name_input": "HALDIA PETROCHEMICALS LTD",
+ "legal_name": "Haldia Petrochemicals Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: all registry sources were unreachable in this session. DuckDuckGo search backend returned 'Connection refused' (no results at all); zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in returned HTTP 403; instafinancials.com returned only its generic marketing homepage with no company data; haldiapetrochemicals.com is behind a bot-verification interstitial ('One moment, please...'); Wikipedia returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they do not exist, but because they could not be read from a public source in this run. The legal name 'Haldia Petrochemicals Limited' is the name used in the input's legal_claimed field and is consistent with the company's own domain (haldiapetrochemicals.com), but I could not open a page confirming the exact MCA spelling, so treat it as unconfirmed. Role 'manufacturer' is inferred from the claimed industry (petrochemicals) and the declared HS 390210 (polypropylene, a product this company is publicly known to produce) - this is an inference, not a registry fact, and should be re-checked. No rejection grounds were established: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt - the absence of such evidence here is due to source inaccessibility, not to a clean check. Revenue FY25/FY26: null - no audited accounts or official filings could be retrieved; no figures were estimated. Per project rules, HS code 390210 is not a basis for rejection regardless of outcome. RECOMMENDATION: re-run this company when the search backend is restored and MCA/registry aggregators are reachable, to fill CIN, PAN, GSTIN, incorporation date, state and revenue."
+}
