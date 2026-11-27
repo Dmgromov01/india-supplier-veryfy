@@ -1,0 +1,9 @@
+{
+ "name_input": "LUXGRES CERAMICA LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NO VERIFIABLE DATA RETRIEVED. As of today, none of the risk dimensions could be confirmed or excluded for 'LUXGRES CERAMICA LLP'. Tooling failure: the web_search backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant results (no matching entity surfaced); Zaubacorp and InstaFinancials returned HTTP 403; Tofler returned 404 for the guessed slug; IndiaMART returned HTTP 429. Consequently: (1) Sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) — NOT VERIFIED, null, not a negative finding; (2) Indian court cases (party role/status) — NOT VERIFIED, null; (3) Regulator actions / negative news with dates — NOT VERIFIED, null; (4) Credit rating with date and status — NOT VERIFIED, null (no rating agency page located); (5) Evidence of supplies to Russia or CIS — NOT VERIFIED, null; no shipment, customs or B-L record was located, but absence of a record here reflects search failure, not confirmed absence of trade. Per project rules, none of these nulls is a rejection ground; the company is retained in the database. No CIN, PAN, LLPIN, revenue figure, rating or shipment record has been invented — all such fields are deliberately null. RECOMMENDATION: re-run this risk check when the search backend is restored, using MCA master data for the exact LLPIN, the OFAC/UN/EU/UK/BIS consolidated lists by exact legal name and known aliases, eCourts/NJDG and High Court (Gujarat) party search, and rating agency coverage; until then the risk profile must be treated as UNKNOWN, not clean."
+}

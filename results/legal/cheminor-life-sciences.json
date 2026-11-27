@@ -1,0 +1,18 @@
+{
+ "name_input": "CHEMINOR LIFE SCIENCES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404 or a 404 search page. Bing/Google/DuckDuckGo fallbacks returned only irrelevant results (unrelated 'Chubb' and 'Denver Broncos' pages) or HTTP 429/timeout, so no page containing the exact legal entity name was ever read. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because the entity was found to be non-existent, but because no authoritative source was reachable. Per project rules, no identifiers or figures are invented. Role is set to 'unknown' (no evidence of manufacturing vs trading activity was obtained; the claimed industry 'oil & gas and chemicals' with declared HS 300490 is unverified and, per rule 3, is not a rejection ground). Revenue FY25/FY26 are null: no audited accounts or official filings were accessible. IMPORTANT: this company must NOT be treated as rejected - rejection requires positive evidence of non-existence, strike-off, liquidation or bankruptcy, and no such evidence was found. Recommend re-running this record when the search backend is restored, or verifying manually on the MCA master-data portal and the GST taxpayer search using the exact name 'CHEMINOR LIFE SCIENCES' (note: 'Cheminor' is historically associated with the erstwhile Cheminor Drugs / Dr. Reddy's group, so name-similarity checks are advisable before confirming the exact legal entity)."
+}

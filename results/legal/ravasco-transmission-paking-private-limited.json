@@ -1,0 +1,18 @@
+{
+ "name_input": "RAVASCO TRANSMISSION & PAKING PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. All search tooling failed in this session: web_search returned connection refused (searx backend down); Bing/Google/DuckDuckGo fetches returned either HTTP 429/timeouts or completely irrelevant results (Arknights, Roblox, Temu, Wells Fargo) — i.e. no usable SERP; zaubacorp.com, thecompanycheck.com and instafinancials.com all returned HTTP 403 Forbidden. No MCA master-data page, CIN, PAN, GSTIN, incorporation date or audited financials could be retrieved from any public source, so every registry field is null rather than guessed. Note the input itself is internally inconsistent: the name field spells 'PAKING' while legal_claimed spells 'PACKAGING' — the exact legal entity name is unconfirmed and must be resolved against MCA before any further work. Per project rules the company is NOT rejected: non-existence/struck-off/liquidation is not established, only unverified. Role left as 'unknown' — the declared HS 400821 (vulcanised rubber plates/sheets/strip) and the 'oil & gas / chemicals' industry claim are unconfirmed and, per rule 3, HS mismatch would in any case not be a rejection ground. Revenue FY25/FY26 null: no audited accounts or official filings located. Recommended next step: manual lookup on MCA V3 portal / Tofler / Zauba with a working session, plus GST portal search on the legal name to obtain GSTIN and status."
+}

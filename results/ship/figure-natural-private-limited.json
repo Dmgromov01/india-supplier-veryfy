@@ -1,0 +1,8 @@
+{
+ "name_input": "FIGURE NATURAL PRIVATE LIMITED",
+ "export_status": "confirmed",
+ "export_evidence": "ImportKey India customs page (slug figure-natural-private-limited): \"Total Shipments 4 Records detected ... 2025-03-25 FIGURE NATURAL PRIVATE LIMITED WEST LINE LLC INDIAN 1121 BASMATI SELLA RICE EXTRA LONG IN PACKING 5 KG (5KG X4PCS) Sonepat ICD, India Novorossiysk, RUSSIA 10063020 9329042\". Rows actually seen: 4 shipment rows (all dated 2025-03-25, buyer WEST LINE LLC, origin Sonepat ICD India, destination Novorossiysk Russia, HS 10063020, B/L numbers 9329042, 9333708, 9329032, 9329042 — note B/L 9329042 appears twice in the free view). Source counter: page states \"Total Shipments 4 Records detected\"; rows seen = 4, consistent.",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Export side is factually confirmed: four customs export records dated 2025-03-25, HS 10063020 (basmati rice, matching declared HS 100630), destination Novorossiysk, Russia, buyer WEST LINE LLC, port of loading Sonepat ICD (Haryana). Domestic supply evidence (GST turnover band, GeM/CPPP tenders, contracts, annual-report splits) could not be retrieved: web_search backend returned connection errors on all attempts, and zaubacorp/thecompanycheck/volza returned HTTP 403. Therefore domestic_status = unknown, not 'none_found' — absence of retrieved data is not proof of absence of domestic supplies. Revenue and export volume figures are not public in the free views: null, not estimated. Second slug variant 'figure-natural-pvt-ltd' returned an empty record set (no rows), so the legal name as claimed ('FIGURE NATURAL PRIVATE LIMITED') is the one carrying the shipment records. No CIN/PAN verified — registries out of scope for this role."
+}
