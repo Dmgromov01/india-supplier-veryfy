@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S UNICEL CORPORATION; UNICEL CORPORATION",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing отдавал нерелевантную выдачу (кэш/AI-выдача), Google — HTTP 429, zaubacorp.com — HTTP 403. Прямой доступ к sanctionssearch.ofac.treas.gov открылся, но инструмент работает только через JS-форму, поэтому запрос по имени 'Unicel Corporation' выполнить не удалось — результат по санкциям НЕ подтверждён ни в одну сторону. Никаких данных по судам, рейтингам, негативным новостям и поставкам в РФ/СНГ получить не удалось; все поля null, а не отрицательный результат. Отдельно: наименование 'M/S UNICEL CORPORATION' — типичная форма индийского экспортёра, но юрлицо/регистрация не подтверждены (вне моей роли). Требуется повторный прогон при доступных источниках: OFAC SDN/Consolidated, UN/UK/EU/BIS, eCourts/NCLT, CRISIL/ICRA/CARE, таможенные и B-L записи."
+}

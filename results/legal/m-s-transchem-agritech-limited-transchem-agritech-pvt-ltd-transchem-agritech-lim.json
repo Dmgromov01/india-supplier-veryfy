@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S TRANSCHEM AGRITECH LIMITED; TRANSCHEM AGRITECH PVT LTD; Transchem Agritech Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены. Все попытки получить первоисточник не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused'; Bing и Google выдавали нерелевантную выдачу либо 429; агрегаторы реестра (zaubacorp.com, thecompanycheck.com, tofler.in, quickcompany.in, instafinancials.com) отдали 403/404; IndiaMART — 429. Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус публично не получены в рамках этой проверки — поля оставлены null, значения не выдумывались. Важно: во входных данных три разных наименования ('M/S TRANSCHEM AGRITECH LIMITED', 'TRANSCHEM AGRITECH PVT LTD', 'Transchem Agritech Limited'), при этом legal_claimed указан как PRIVATE LIMITED, а остальные варианты — как LIMITED. Это взаимоисключающие организационно-правовые формы (публичное/частное АО vs. частная компания с ограниченной ответственностью), т.е. как минимум два из трёх наименований не могут относиться к одному действующему юрлицу. До сверки по MCA (портал mca.gov.in / Master Data) невозможно установить, какое именно юрлицо имеется в виду и существует ли оно. Отклонение (rejected) НЕ применяется: отсутствие данных — не основание для отклонения, а основание для статуса 'не проверено'. Роль (manufacturer/trader) не определена — нет данных о видах деятельности по MCA. Выручка FY25/FY26: null, аудиторская отчётность не найдена. Рекомендация: повторить проверку при доступном MCA-портале и уточнить у заказчика точное наименование и, если есть, CIN/GSTIN."
+}

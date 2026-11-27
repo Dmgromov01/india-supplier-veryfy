@@ -1,0 +1,20 @@
+{
+ "name_input": "Marichin Resources Private Limited",
+ "declared_hs": "090111;120210;391810;680223",
+ "actual_hs_list": [
+  "680221",
+  "680223",
+  "251512",
+  "090111",
+  "090112",
+  "120210",
+  "071340",
+  "071331",
+  "120190",
+  "090121"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website marichinresources.com (sitemap: home, about.html, products.html, contact.html) declares exactly two core categories: (1) Natural Stone — raw blocks, cut slabs, cut-to-size project material, staircases/lattices/finished pieces; marble and granite explicitly named; family background via Chitrang Marbles (est. 1992). (2) Green Coffee — green (unroasted) coffee beans, multi-origin sourcing (India, Vietnam, Indonesia, Rwanda, Uganda, Laos, Brazil), specified by grade/screen/moisture/processing/crop year. A third, weaker category 'Agri Commodities / Lentils & Agri' appears on the home page and footer ('Selected agricultural staples', 'Lentils & Agri') with no product detail, no grades, no specs. No FMCG, no packaged foods, no retail products, no polymers/flooring anywhere on the site.",
+ "role_hint": "trader",
+ "comment": "Сверка с заявленными кодами. 090111 (кофе нежареный, не декофеинизированный) — ПОДТВЕРЖДЁН каталогом: зелёный кофе заявлен как отдельная товарная линия с параметрами grade/screen/moisture/crop year (products.html). 680223 (гранит обработанный) — ЧАСТИЧНО: гранит и мрамор заявлены, но сайт не разделяет блоки/плиты/готовые изделия по кодам; блоки сырые шли бы 2515 12, плиты мрамора 6802 21, гранит 6802 23 — фактический набор шире одного 680223. 120210 (арахис нежареный) — НЕ ПОДТВЕРЖДЁН: арахис на сайте не упоминается ни в одной категории; заявленная агро-линия описана только как 'lentils & agri commodities' без номенклатуры. 391810 (покрытия ПВХ для полов) — НЕ ПОДТВЕРЖДЁН и выглядит чужеродно: ни полимеров, ни напольных покрытий, ни строительной химии на сайте нет; вероятна ошибка декларации или перенос кода из другой карточки. Пропущено в декларации: чечевица/бобовые (0713 40, 0713 31) — заявлены в футере как отдельная линия, но без спецификации, поэтому только как вероятный код, не подтверждено. Отмечу несоответствие отрасли: заявлено 'Продукты питания и FMCG' — фактически это трейдер сырья (зелёный кофе + камень), FMCG-признаков (бренды, упаковка, розница) нет. Признаки трейдера явные: 'we trade', 'sourcing partner', 'coordinate with established producers and suppliers', 'source-led', нет собственного производства, нет фабрики/завода, каталоги выложены на Google Drive, контакты — два физлица (Sanjay Sharma, Rishabh Sharma) и личный Instagram. Все товарные линии — заявлено, не подтверждено: ни одной таможенной строки, ни одного B/L, ни одной GST-записи в открытых источниках я не нашёл (поисковик был недоступен, проверял только сайт и его sitemap). HS-несоответствие по правилу 3 не является основанием для отклонения — компания сохраняется, коды корректируются на фактические: 090111 (кофе) и 6802 21/6802 23/2515 12 (камень) как основные, 0713 40/0713 31 (бобовые) как заявленная, но неспецифицированная линия; 120210 и 391810 из декларации убрать как не подтверждённые сайтом."
+}

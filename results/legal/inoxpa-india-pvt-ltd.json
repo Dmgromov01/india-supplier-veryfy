@@ -1,0 +1,18 @@
+{
+ "name_input": "INOXPA INDIA PVT LTD",
+ "legal_name": "INOXPA INDIA PRIVATE LIMITED (as claimed; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (searx) returned 'Connection refused' on all queries, and every public registry aggregator attempted (zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials.com company page) returned HTTP 403/404 or only a generic landing page with no company record. Bing/Google HTML endpoints returned only the Spanish parent group's marketing pages (inoxpa.com) with no Indian entity record, and Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they do not exist, but because no public source was retrievable in this session. No rejection is warranted: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the INOXPA group is a real Spanish stainless-steel fluid-handling manufacturer and an Indian subsidiary is plausible, but this is unconfirmed. Role left as 'unknown' rather than 'manufacturer' because the Indian entity's own activity (manufacturing vs. import/trading of the parent's pumps and valves) is not documented in any source read. Revenue FY25/FY26 null — no audited accounts or MCA filings were accessible. Note on HS: declared codes 842199/848180/848190 (filter parts, valves, valve parts) are consistent with the group's fluid-handling product range, but per project rules HS mismatch is not a rejection ground in any case. Recommended action: re-run verification when search access is restored, or obtain CIN/GSTIN directly from the supplier's invoice or GST portal lookup."
+}

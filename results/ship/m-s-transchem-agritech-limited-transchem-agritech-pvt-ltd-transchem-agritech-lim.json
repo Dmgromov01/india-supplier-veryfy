@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S TRANSCHEM AGRITECH LIMITED; TRANSCHEM AGRITECH PVT LTD; Transchem Agritech Limited",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'transchem-agritech-limited' returned only the generic shell: \"Shipments available for TRANSCHEM AGRITECH LIMITED, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered in the free view (0 rows actually seen). Same result for slug 'transchem-agritech-pvt-ltd'. Volza (https://www.volza.com/p/transchem-agritech/) returned HTTP 403; eximpedia returned HTTP 403; web_search (DuckDuckGo/searx) was down (connection refused) and Bing returned only irrelevant results, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award, contract or annual-report split could be retrieved: search engines were unavailable (searx connection refused; Bing returned unrelated results) and no company-specific page was reachable within the tool budget. GSTIN and turnover: null (not public in the sources actually read).",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных записей (дата/направление/HS/B-L), ни внутренних поставок подтвердить не удалось, все источники данных об отгрузках были недоступны (ImportKey — только заглушка без строк, Volza/Eximpedia — 403, поисковики — сбой). Статус по обоим направлениям: unknown, а не declared_only, поскольку заявлений сайта/каталога также не читалось. Заявленный HS 290219 (циклические углеводороды) не проверен по фактическим записям; вопрос HS к этой компании не применялся, отклонение не предлагается. Требуется повторный прогон при доступных Volza/Eximpedia/ImportGenius или выгрузке таможенных данных."
+}

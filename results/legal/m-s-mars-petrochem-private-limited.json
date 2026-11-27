@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S MARS PETROCHEM PRIVATE LIMITED",
+ "legal_name": "MARS PETROCHEM PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified - no source obtained. Tooling failure during this run: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Bing returned only irrelevant generic 'Mars (planet)' results and ignored the quoted company name; direct fetches of Zauba Corp, TheCompanyCheck, InstaFinancials and the MCA master-data portal returned HTTP 403/404. Therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all left null rather than guessed. Legal name is taken from the input claim only and is unconfirmed. Role cannot be classified without registry/GST evidence, so 'unknown'. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research gap, not a negative finding. Recommended next step: re-run with a working search backend or paid registry access (MCA V3 / Tofler / Zauba) to confirm CIN, GSTIN and FY25/FY26 audited revenue."
+}
