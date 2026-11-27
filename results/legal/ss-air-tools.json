@@ -1,0 +1,18 @@
+{
+ "name_input": "SS AIR TOOLS",
+ "legal_name": "SS AIR TOOLS (proprietorship — legal entity name not verifiable; claimed proprietor: Thaiparamban Asokan Rajesh)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "not applicable / not verifiable — no LLPIN or CIN found; appears to be a sole proprietorship, which has no MCA registration",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not absent. Tooling failure: the web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML timed out; Google returned HTTP 429; Zauba Corp and Instafinancials returned HTTP 403; Bing returned only irrelevant results (SS/NASA/streaming pages) for every query, including exact-phrase searches for 'SS AIR TOOLS' and 'Thaiparamban Asokan Rajesh'. Consequently no public source was obtained for: exact legal entity name, CIN/LLPIN, PAN (and therefore no 4th-character holder-type determination), GSTIN, GST status, date of incorporation, registered-office state, MCA status, or audited revenue for FY25/FY26. All such fields are set to null per the rule 'no data — null, do not invent'. The input itself gives no PAN and no state, so there is nothing to cross-check the registered state against. Role is 'unknown': the name pattern and the claimed proprietor name (a personal name, not a company name) suggest a sole proprietorship trading/manufacturing in air tools under HS 846711, but this is inference only, not a sourced finding. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of findings is a research gap, not a negative finding. Recommended action: re-run verification when search/registry access is restored, checking the GST portal public search for the trade name in Tamil Nadu and the Udyam/GeM/IndiaMART public profile for the GSTIN, then confirm PAN 4th character and turnover. Per project rules, HS code 846711 is not a basis for rejection; if the actual code differs it should be corrected with verdict accepted_hs_corrected. No shipment, court or catalogue research was performed (out of scope for this role)."
+}

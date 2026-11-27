@@ -1,0 +1,18 @@
+{
+ "name_input": "PONNI FAB KARUR PRIVATE LIMITED",
+ "legal_name": "PONNI FAB KARUR PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Search tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' on all queries; Google returned HTTP 429; Bing returned only generic cached results for 'Ponni' (TV series, rice brand, ponniindia.com knitwear) with no exact match for the legal name 'PONNI FAB KARUR PRIVATE LIMITED'; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue FY25/FY26 are all null - not public/not retrieved, NOT invented. No rejection is applied: absence of a retrievable record in this run is not proof of non-existence, so the entity is left as unverified rather than rejected. Note the input is internally inconsistent: declared HS 630231 is 'bed linen of cotton' (home textiles, Karur is a textile cluster), while industry_claimed is 'Продукты питания и FMCG' (food/FMCG) - per project rules this is NOT a rejection ground; the HS code should be corrected to the actual product line once the company's real activity is confirmed. Role set to 'unknown' because no MCA/NIC activity code or GST turnover evidence was obtained. Recommended next step: manual lookup on the MCA portal (mca.gov.in company/LLP master data) or a paid aggregator with API access, using the exact name, to obtain CIN, incorporation date, status and registered state before any acceptance decision."
+}

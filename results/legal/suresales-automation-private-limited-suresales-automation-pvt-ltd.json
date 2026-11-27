@@ -1,0 +1,18 @@
+{
+ "name_input": "SURESALES AUTOMATION PRIVATE LIMITED; Suresales Automation Pvt. Ltd",
+ "legal_name": "SURESALES AUTOMATION PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) and direct fetches of public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404. Bing/Google fallback queries returned only irrelevant results (weather maps, Home Depot) or HTTP 429, so no CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source. Per project rules nothing is invented: all registry fields are null. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected - it remains unverified pending a working search channel or an MCA master-data lookup. Role cannot be determined from registry data alone (declared HS 841239 covers steam/hot-water boilers and parts, which is inconsistent with the claimed 'metallurgy and mining' industry label, but HS mismatch is not a rejection ground and the code should be corrected to the actual one). Revenue FY25/FY26: no audited accounts or official filings accessible, hence null. Recommended next step: re-run with a functioning search tool or query MCA/company master data by exact name."
+}

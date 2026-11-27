@@ -1,0 +1,18 @@
+{
+ "name_input": "SK ENSURE MACHINERY PRIVATE LIMITED",
+ "legal_name": "SK ENSURE MACHINERY PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: поисковый бэкенд возвращал connection refused, агрегаторы (ZaubaCorp, TheCompanyCheck) — HTTP 403, Tofler/InstaFinancials — 404, Bing по точной строке названия выдал только нерелевантные результаты про 'SK' (SK Group, SK Tools) без совпадения с искомым юрлицом. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 публично не получены — оставлены null, не выдумывались. Признаков того, что юрлицо не существует, ликвидировано, struck off или банкрот, не найдено, поэтому отклонение (rejected) не применяется: компания сохраняется в базе со статусом 'заявлено, не подтверждено'. Роль (manufacturer/trader) не определена — нет ни реестровых, ни фактических данных. Заявленный HS 844319 (оборудование для печати/полиграфии) не соответствует заявленной отрасли 'IT и электроника' — по правилам это НЕ основание для отклонения; HS требует уточнения по фактической номенклатуре (вердикт accepted_hs_corrected при подтверждении). Требуется повторная проверка при доступности MCA/GST-порталов."
+}
