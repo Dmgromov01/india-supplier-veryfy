@@ -1,0 +1,18 @@
+{
+ "name_input": "AIRVENT PRIVATE LIMITED",
+ "legal_name": "AIRVENT PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on every query, and all direct registry/aggregator pages attempted were inaccessible: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in and quickcompany.in returned 404 for the guessed slug, instafinancials.com returned 404, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only irrelevant results (no usable SERP). Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Nothing is inferred or invented: all such fields are null. Note that the input itself supplied no PAN and no state, so there is no claimed state to compare against a registered state. No rejection is warranted - the absence of retrievable public records here is a tooling limitation, not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role is left as 'unknown' because no MCA business-activity classification (manufacturer vs trader) could be read; the claimed industry 'oil & gas / chemicals' with declared HS 842139 (machinery for filtering/purifying gases) is unverified and, per project rules, HS mismatch would not be a rejection ground in any case. Recommended follow-up: re-run with a working search backend and query MCA master data by exact name 'AIRVENT PRIVATE LIMITED' (note there may be multiple similarly named entities in different states, e.g. Maharashtra and Gujarat, which must be disambiguated before any CIN is assigned)."
+}

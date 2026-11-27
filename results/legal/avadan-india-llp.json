@@ -1,0 +1,18 @@
+{
+ "name_input": "AVADAN INDIA LLP",
+ "legal_name": "AVADAN INDIA LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in and falconebiz.com returned HTTP 403; tofler.in search and guessed LLP URLs returned 404; quickcompany.in returned 404; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant/unrelated results (insurance and Black Friday pages), i.e. no genuine hit for 'AVADAN INDIA LLP'. Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, NOT evidence of non-existence. Per project rules, rejection is only allowed if the entity does not exist, is struck off, liquidated or bankrupt; absence of retrievable records here is a tooling limitation, so the company is NOT rejected and remains unverified. Role cannot be determined from registry data (no MCA/NIC activity code obtained); left as 'unknown' rather than guessed. Revenue FY25/FY26 null - no audited accounts or official filings accessible; no figures invented. Declared HS 330190 (essential oils/aroma chemicals) is not a rejection ground per rules and is not assessed here. State claimed in input was empty, so no state mismatch can be evaluated. Recommended action: re-run verification when MCA21/LLP master data or a GST public-profile source is reachable, or obtain the LLPIN/GSTIN directly from the supplier."
+}

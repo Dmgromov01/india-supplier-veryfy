@@ -1,0 +1,8 @@
+{
+ "name_input": "SADASHIVA PSYLLIUM PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/sadashiva-psyllium-private-limited (and slug variant .../sadashiva-psyllium-pvt-ltd): page renders only the generic template line 'Shipments available for SADASHIVA PSYLLIUM PRIVATE LIMITED, refreshed daily' — no bill-of-lading number, no date, no destination, no HS code, no row count. Source counter: 0 shipment rows actually seen on both slug variants. volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page; DuckDuckGo search backend was unreachable ('Connection refused') for the whole session.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: thecompanycheck.com returned HTTP 403 and the search tool was down, so no domestic supply record was seen. Nothing to quote — no rows observed.",
+ "note": "Следов поставок не найдено — но и обратного не доказано: все источники отгрузочных данных были недоступны (403 / JS-challenge / поиск не работал), поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found. Заявления сайта/каталогов фактом не считаются и здесь не использовались. Выручка и объём экспорта: null (не публично / не получено). HS 121190 (psyllium husk) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения; юрлицо не проверялось на ликвидацию/банкротство в этом проходе. Рекомендуется повторный проход при доступном поиске и платном доступе к Volza/ImportKey для получения конкретных B-L записей."
+}

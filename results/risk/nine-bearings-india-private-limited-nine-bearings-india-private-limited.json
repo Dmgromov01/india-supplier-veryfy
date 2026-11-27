@@ -1,0 +1,9 @@
+{
+ "name_input": "NINE BEARINGS (INDIA) PRIVATE LIMITED; NINE BEARINGS (INDIA) PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Bing по точным запросам «Nine Bearings India» Private Limited и «Nine Bearings» India bearings manufacturer выдал только нерелевантные результаты про число «девять» — ни одного упоминания компании. Реестры (zaubacorp.com, thecompanycheck.com) отдали HTTP 403, Google — HTTP 429. Инструмент OFAC Sanctions List Search доступен только как JS-форма, результат запроса через http_get получить нельзя, поэтому санкционный скриннинг фактически НЕ выполнен. По всем полям (sanctions_hit, court_cases, rating, news_risk, rf_supply) данных нет — null, а не «отрицательный результат»: отсутствие публичных следов в этом прогоне не равно подтверждённому отсутствию санкций, судов и поставок в РФ/СНГ. Требуется повторный прогон при работающем поиске и доступ к реестрам (MCA, eCourts/NJDG, OFAC/UN/EU/UK/BIS списки) — до этого компанию нельзя считать проверенной по риск-профилю. Юрлицо, HS-код и объёмы отгрузок в рамках этой роли не исследовались."
+}

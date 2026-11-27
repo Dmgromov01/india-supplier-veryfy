@@ -1,0 +1,18 @@
+{
+ "name_input": "DEFSPACE TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "DEFSPACE TECHNOLOGIES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no public registry record could be retrieved. Tooling failures during this run: web_search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in MDS returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed slug; Google returned HTTP 429; DuckDuckGo (html and lite) timed out; Bing returned only irrelevant results (no matching company page). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null because they are not publicly confirmed in this session - NOT because they were checked and found absent. No rejection applied: absence of a retrievable record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left 'unknown' (name suggests a technology firm, but no evidence of manufacturing vs trading vs services). Declared HS 690721 (ceramic tiles) is unverified and, per rules, is not a rejection ground in any case. Recommended next step: manual MCA master-data lookup by exact name and GST portal search on the legal name to obtain CIN, PAN and GSTIN before any decision."
+}

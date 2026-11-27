@@ -1,0 +1,18 @@
+{
+ "name_input": "ANAND FILTERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточники не удались: DuckDuckGo-бэкенд инструмента web_search возвращал 'Connection refused' на всех запросах; zaubacorp.com и instafinancials.com — HTTP 403; mca.gov.in/mcafoportal — HTTP 403; thecompanycheck.com отдал только маркетинговую заглушку без профиля; Google — HTTP 429; Bing по всем трём запросам ('\"Anand Filters\" Mahendrabhai Laherchand Shah', '\"ANAND FILTERS\" GSTIN proprietor filter', '\"Anand Filters\" air filter manufacturer India GST number') вернул один и тот же нерелевантный набор (фильм «Anand», Anand Gujarat, AnandTech), т.е. совпадений по компании не найдено. Входные данные неполные: legal_claimed = 'MAHENDRABHAI LAHERCHAND SHAH' — это имя физлица, а не название юрлица; похоже на проприетарную фирму (sole proprietorship), у которой по определению нет CIN и нет аудиторской отчётности в MCA — тогда CIN/LLPIN, MCA-статус и выручка FY25/FY26 останутся null в принципе, а PAN/GSTIN можно установить только из GST-профиля, который получить не удалось. state_claimed пуст, поэтому сопоставление штата регистрации со заявленным невозможно. Роль (manufacturer/trader) не установлена — каталоги и IndiaMART по правилам проекта фактом не считаются. Отклонять НЕЛЬЗЯ: нет ни одного подтверждения, что юрлицо не существует, ликвидировано или банкрот — отсутствие данных не является основанием для rejected. Требуется повторный прогон при доступном поиске/реестре (проверить GST-профиль по имени проприетора и названию 'Anand Filters', а также наличие одноимённой Pvt Ltd в MCA)."
+}
