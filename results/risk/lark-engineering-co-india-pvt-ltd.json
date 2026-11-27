@@ -1,0 +1,9 @@
+{
+ "name_input": "Lark Engineering Co. (India) Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data obtained, all fields null. Tooling failure, not a clean bill of health. (1) Primary search backend returned 'Connection refused' on every query. (2) DuckDuckGo HTML endpoint timed out. (3) Bing ignored quoted operators and returned only unrelated 'Lark' results (Lark Suite/ByteDance software, Lark Health, bird species) - zero results referencing 'Lark Engineering Co. (India) Pvt. Ltd'. (4) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and cannot be queried via plain HTTP GET, so no SDN/Non-SDN name match was actually executed. (5) No UN, EU, UK OFSI or BIS Entity List lookup was performed. (6) No Indian court records (eCourts, NCLT, High Court), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or Russia/CIS supply evidence could be retrieved. IMPORTANT: absence of a hit here is NOT evidence of absence - sanctions_hit, court_cases, rating, news_risk and rf_supply must all be treated as UNVERIFIED, not as negative findings. Recommend re-running this company once search connectivity is restored, with direct queries against: OFAC SDN/Consolidated list downloads, BIS Entity List, EU consolidated list, UK OFSI list, eCourts/NCLT by company name, and CRISIL/ICRA/CARE rating directories. Per project rules, no rejection is proposed: nothing indicates the legal entity is non-existent, liquidated or bankrupt, and sanctions/court matters would in any case not be rejection grounds."
+}

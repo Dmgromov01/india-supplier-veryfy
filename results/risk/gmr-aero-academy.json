@@ -1,0 +1,38 @@
+{
+ "name_input": "GMR Aero Academy",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "case": "Mihan India Ltd. vs GMR Airports Ltd.",
+   "court": "Supreme Court of India (also Bombay High Court, Nagpur Bench, WP 1723/2020)",
+   "role": "Respondent (defendant)",
+   "status": "Decided by Supreme Court on 09.05.2022 (Vineet Saran, J.K. Maheshwari); related Bombay HC proceedings 2021",
+   "source": "https://indiankanoon.org/search/?formInput=GMR%20Airports%20Limited"
+  },
+  {
+   "case": "Airport Authority of India vs GMR Airports Ltd.",
+   "court": "Supreme Court of India (Civil Appeal 3701/2022; Curative Petition 198/2022)",
+   "role": "Respondent",
+   "status": "Curative petition listed/heard 27.09.2024; earlier order 09.02.2024",
+   "source": "https://indiankanoon.org/search/?formInput=GMR%20Airports%20Limited"
+  },
+  {
+   "case": "GMR Airports Ltd vs Assistant Director of Income-Tax (WP 773/2022, WP 860/2022); GMR Airports Ltd vs Deputy Commissioner of Income Tax (WP 17362/2023)",
+   "court": "Karnataka High Court",
+   "role": "Petitioner",
+   "status": "Writ petitions; orders 09.02.2022 and 05.02.2024",
+   "source": "https://indiankanoon.org/search/?formInput=GMR%20Airports%20Limited"
+  },
+  {
+   "case": "Unimarine Agencies P Ltd vs Commissioner of Customs (reference to GMR Airport Infrastructure Ltd.)",
+   "court": "CESTAT",
+   "role": "Third party / cited respondent in related SLP (C) 5392/2025",
+   "status": "Stay granted by Supreme Court on 02.05.2025 on proceedings",
+   "source": "https://indiankanoon.org/search/?formInput=GMR%20Airports%20Russia"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No negative news or regulator action identified in this pass. Note: web_search backend was unavailable (connection refused) for the entire session, so negative-news and regulator-action coverage is incomplete, not confirmed clean.",
+ "rf_supply": "No evidence found of supplies to Russia or CIS. Indian Kanoon full-text search for 'GMR Airports Russia' returned 5 documents, none indicating Russia/CIS supply activity (results were unrelated customs, CCI and parliamentary records). Absence of evidence only — not a verified negative.",
+ "note": "RISK-ONLY SCOPE. Sanctions screening NOT completed: OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) is a form-driven tool that returned no lookup results via direct GET, and the web_search backend was down (searx connection refused) for all attempts, so UN/EU/UK/BIS lists could not be queried either. sanctions_hit is therefore null = NOT SCREENED, not 'clear'. Credit rating null: ICRA rating-list query URLs returned HTTP 404 / error pages, so no rating could be retrieved; other agencies (CRISIL, CARE, India Ratings) not reachable without search. Court record is substantial but entirely commercial/regulatory in nature (airport concession dispute with Mihan India, AAI concession litigation, income-tax writs, a customs matter) — per project rule 2 these are noted neutrally and are not rejection grounds. Note the entity checked is the parent GMR Airports Limited as claimed; 'GMR Aero Academy' appears to be a training/academy unit and no separate risk record for that unit was located. Recommend re-running sanctions and rating checks once search connectivity is restored."
+}

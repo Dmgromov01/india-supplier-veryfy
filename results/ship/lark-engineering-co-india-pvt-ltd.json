@@ -1,0 +1,8 @@
+{
+ "name_input": "Lark Engineering Co. (India) Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/lark-engineering-co-india-pvt-ltd returned only a paywalled shell: \"Shipments available for LARK ENGINEERING CO INDIA PVT LTD, refreshed daily\" — 0 actual shipment rows visible (no date, destination, HS code or B/L number). volza.com/p/lark-engineering/ → HTTP 403; eximpedia.app → HTTP 403; trademo.com → HTTP 403; importgenius.com → JavaScript challenge. Rows actually seen: 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. zaubacorp.com company page → HTTP 403; web_search backend unavailable (\"searx: Connection refused\") on both queries, so no domestic supply record could be located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) и реестры (ZaubaCorp) отдали 403/JS-challenge, а поисковый бэкенд был недоступен, поэтому ни экспортных записей, ни внутренних поставок получить не удалось. Статусы выставлены unknown, а не none_found, чтобы не утверждать отсутствие отгрузок без проверки. Заявленный HS 843610 (машины для подготовки кормов для животных) не соответствует отрасли «Продукты питания и FMCG» — по правилу 3 это НЕ основание для отклонения; код следует исправить на фактический после проверки реальной номенклатуры. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступных источниках."
+}
