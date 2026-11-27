@@ -1,0 +1,9 @@
+{
+ "name_input": "Jaya Impex",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no data collected. All research channels failed during this run: the web_search tool returned 'searx: Connection refused' on every attempt; direct fetches to duckduckgo.com/html, lite.duckduckgo.com and search.marcia.cc timed out; zaubacorp.com returned HTTP 403; bing.com returned HTTP 200 but ignored the query terms and served identical generic results (Wikipedia 'Jaya (singer)', jaya.com, Jaya Bachchan, Jaya Grocer) for three different queries including site-restricted ones, so those results are unusable as evidence. Consequently NOTHING is asserted about this company: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) not checked, Indian court cases not checked, regulator actions and negative news not checked, credit rating not checked, and no evidence either way on supplies to Russia/CIS. All fields are null because they are not public in this run, NOT because a negative finding was made — do not read null as 'clean'. Also note the name 'Jaya Impex' is highly generic and no distinguishing identifiers were supplied (no CIN, PAN, city or state), so even with working search the entity would likely be ambiguous and require disambiguation before any risk conclusion. Per project rules this is not a rejection ground and no verdict is implied; the company must be re-queued for a fresh risk pass once search connectivity is restored."
+}

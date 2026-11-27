@@ -1,0 +1,30 @@
+{
+ "name_input": "Jayem Automotives Pvt Ltd",
+ "declared_hs": "840991",
+ "actual_hs_list": [
+  "840991",
+  "840820",
+  "840734",
+  "840790",
+  "870840",
+  "870850",
+  "870830",
+  "870899",
+  "732599",
+  "761699",
+  "850760",
+  "870380",
+  "870919",
+  "842952",
+  "847490",
+  "848340",
+  "870829",
+  "870810",
+  "870894",
+  "840999"
+ ],
+ "match_status": "partial",
+ "product_summary": "По собственному сайту (jayemauto.com, раздел Manufacturing → Components Manufacturing, прочитан 2026): литейно-механическое производство полного цикла — cylinder heads и blocks, head covers, camshaft carriers, intake manifolds, clutch и transmission housings, valve bodies, timing covers, thermostat housings, crankshafts для 1–4-цилиндровых двигателей, axle housings, brake drums и discs; для EV — motor housings, front/rear covers, battery enclosures, two-wheeler frames, bridge frames, pivot housings; performance/defence — suspension parts, exhaust manifolds, space-frame chassis для формульных/гоночных машин, armoured turrets и defence hardware; industrial/heavy — mining wear parts (track pads, grate bars, tooth inserts), valve bodies/coupler plates/sleeves для oil&gas, swivel joints и suspension для earthmovers, gearbox components, pulleys, grates для textile/steel plant machinery. Отдельные направления: Battery Pack Manufacturing (EV/energy storage), Special Vehicles Manufacturing (EV, defence, performance, industrial mobility), Engine Remanufacturing, а также собственные продукты Electric Screen Plant и Electric Wheel Loader (Minerock Horizontal Screen). Технологии: sand/gravity die/low-pressure/high-pressure die casting (Al и чугун/сталь, 100 г – 196 кг), CNC-механообработка, fabrication/sheet metal, FRP (bumpers, dashboards, wheel arches), paint, tooling. Wikipedia (en.wikipedia.org/wiki/Jayem_Automotives, rev. 26.11.2026): automotive R&D и manufacturing, Coimbatore, осн. 1969 Б. Джаячандран, JV с Mahindra (1999–2005), партнёрство с Tata Motors, инвестиция Ратана Таты (2017), JV JTP.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 840991 (части двигателей внутреннего сгорания, искровое зажигание) — подтверждается лишь частично: cylinder heads/blocks, head covers, intake manifolds, timing covers, thermostat housings действительно попадают в 8409 (подпозиция 840991/840999 зависит от типа двигателя — дизельные части идут в 840999, что в декларации не отражено). Статус: partial. Основная часть реальной номенклатуры в 840991 не входит и в декларации отсутствует: корпуса КПП и clutch housings → 870840; axle housings → 870850; brake drums/discs → 870830; crankshafts как готовые изделия → 848310 (а не 8409); EV motor housings/covers → 8503/8708; battery enclosures и battery packs (литий-ионные) → 850760; two-wheeler frames, bridge frames, suspension parts, space-frame chassis → 8708 (870899/870829/870880); armoured turrets и defence hardware → 8710/9305/7326; mining wear parts (track pads, grate bars, tooth inserts) → 843149/847490/7325; valve bodies, coupler plates, sleeves, swivel joints для oil&gas → 848190/7307/8481; gearbox components, pulleys → 848340/848390; grates для steel/textile machinery → 7325/8451; FRP bumpers/dashboards/wheel arches → 870810/870829; Electric Screen Plant (Minerock Horizontal Screen) → 8474; Electric Wheel Loader → 842952; Special Vehicles (EV/defence/performance) → 870380/8704/870919; Engine Remanufacturing (восстановленные двигатели) → 8407/8408. Отрасль в заявке («Металлургия и горнодобыча») указана неверно: компания — automotive R&D и компонентный производитель (литейно-механическое производство), горнодобыча присутствует только как сегмент потребителей (mining wear parts, screen plant, wheel loader). Признаков трейдера нет: собственные литейные, механообработка, FRP, покраска, сборка, ISO 9001:2015, адрес производства в Coimbatore (No 2, Ondipudur Road, Singanallur). Ни одна позиция не подтверждена таможенной линией в рамках этой проверки (таможенные записи не исследовались по условию задачи) — фактический экспортный/внутренний оборот: null, «заявлено, не подтверждено». HS-несоответствие не является основанием для отклонения: компания сохраняется, код корректируется на фактическую номенклатуру (840991 → набор 8409/8708/8483/8507/8431/8474/8429 и др.)."
+}

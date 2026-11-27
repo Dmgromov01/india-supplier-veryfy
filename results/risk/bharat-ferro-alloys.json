@@ -1,0 +1,9 @@
+{
+ "name_input": "Bharat Ferro Alloys",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all web_search calls; direct fetches to google.com (HTTP 429), duckduckgo.com and html.duckduckgo.com (timeouts), zaubacorp.com (HTTP 403) all failed. Bing returned identical cached generic results ('Bharat' the film / country-name articles) for every query variant, i.e. the quoted phrase 'Bharat Ferro Alloys' was not actually searched - those results are not evidence of anything and were discarded. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) NOT verified; Indian court cases NOT verified; regulator actions and negative news NOT verified; credit rating NOT verified; evidence of supplies to Russia/CIS NOT verified. All fields set to null because nothing is public to me in this session - these nulls mean 'not checked', NOT 'clean'. Additional identity caveat for the next researcher: the input is internally inconsistent - company name 'Bharat Ferro Alloys' with legal_claimed 'BHARAT KUMAR' (a personal name, not a company name), no PAN, no state. 'Bharat Ferro Alloys' may be confused with the historically listed 'Ferro Alloys Corporation' (FACOR) or with unrelated 'Bharat' branded ferro-alloy traders; the entity must be pinned down (CIN/PAN/GSTIN) before any sanctions or litigation screening is meaningful, since name-only screening on a generic string like this produces false positives and false negatives alike. Per project rules this is not a rejection ground - the company stays in the base pending re-run of risk screening once search tooling is restored. Recommend re-running this record when web_search is functional."
+}

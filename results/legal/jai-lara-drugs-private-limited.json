@@ -1,0 +1,18 @@
+{
+ "name_input": "JAI LARA DRUGS PRIVATE LIMITED",
+ "legal_name": "JAI LARA DRUGS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search backend was unavailable (connection refused) and all direct attempts to reach public registry sources failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, mca.gov.in returned 403, and Bing/Google/DuckDuckGo returned either irrelevant results (generic 'Jai' pages) or HTTP 429/timeouts. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures could be confirmed from any public source, so all such fields are set to null rather than guessed. Per project rules, the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way - the absence of data is a research limitation, not evidence of non-existence. Role is recorded as 'unknown' because the claimed activity (pharma/chemical intermediates under HS 293399 and 300390) is only a declaration in the input, not a verified fact. Recommended next step: re-run verification when search access is restored, or query the MCA master-data portal directly by company name to obtain CIN, then derive PAN (4th character = holder type: 'P' individual, 'C' company, 'F' firm, 'H' HUF, 'A' AOP, 'T' trust) and GSTIN from the GST portal public search. No revenue figures are reported because no audited accounts or official filings were accessible."
+}

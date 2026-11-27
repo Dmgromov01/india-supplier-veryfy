@@ -1,0 +1,18 @@
+{
+ "name_input": "vico coir mill",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be verified. Search tooling was degraded during this run: DuckDuckGo (web_search) returned connection refused, Bing returned only generic unrelated results for the exact queries \"Vico Coir Mill\", \"Vico Coir\", and \"Chacko Velimparambil Joseph\", and registry aggregators (zaubacorp.com, instafinancials.com) returned HTTP 403, Google returned HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced. The input 'legal_claimed' value 'CHACKO VELIMPARAMBIL JOSEPH' is a personal name, not a company name, which suggests a sole proprietorship / individual enterprise rather than a company registered with MCA - such entities have no CIN and are not listed on MCA, so absence of an MCA record is NOT evidence of non-existence and is NOT grounds for rejection. No rejection applied: entity existence could not be disproven, and per project rules rejection requires proof of non-existence, strike-off, liquidation or bankruptcy. Role left as 'unknown' (coir-mill naming and HS 570220 coir mats suggest a possible manufacturer, but this is unverified). Revenue FY25/FY26 set to null - no audited accounts or official filings found. Note also that the input industry_claimed ('Продукты питания и FMCG' / food & FMCG) is inconsistent with declared HS 570220 (coir mats/carpets); per rules this is not a rejection ground, only an HS/industry correction to be recorded. Recommend re-running with working search access or a direct GSTIN/MCA lookup before any verdict."
+}
