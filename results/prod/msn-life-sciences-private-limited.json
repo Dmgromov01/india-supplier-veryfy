@@ -1,0 +1,18 @@
+{
+ "name_input": "MSN LIFE SCIENCES PRIVATE LIMITED",
+ "declared_hs": "292239;293349;293499;293790",
+ "actual_hs_list": [
+  "293499",
+  "293349",
+  "293359",
+  "294190",
+  "292249",
+  "300214",
+  "300212",
+  "293399"
+ ],
+ "match_status": "partial",
+ "product_summary": "MSN Life Sciences Pvt. Ltd. is the API-manufacturing arm of the MSN Group (MSN Laboratories, Hyderabad, founded 2003 by Dr. M. Satyanarayana Reddy). Per msnlabs.com/contact-us, MSN Life Sciences Pvt. Ltd. operates API Units I–V in Telangana (Mambapur/Gummadidala, Chandampet/Shankarampet, Bhiknoor, Jagdevpur, Ramakrishnapur). The group's API page (msnlabs.com/api) states a portfolio of 600+ APIs across oncology, endocrinology, cardiology, respiratory, CNS, anti-inflammatory, urology, pain management, GI and hematology, with 570+ US DMFs, 110+ oncology APIs, 50+ complex APIs, and stated expertise in oligonucleotides, heterocyclic chemistry, carbohydrates, peptides, iron complexes. The Biotech page adds fermentation-based small-molecule APIs (recombinant peptides, proteins, enzymes, secondary metabolites) and monoclonal antibodies/protein therapeutics. No product-level catalogue with CAS numbers is published on the public site — only therapeutic-area level claims.",
+ "role_hint": "manufacturer",
+ "comment": "Проверка по открытым страницам msnlabs.com (главная, /api, /biotech, /about-us, /contact-us). Фактические товарные линии: активные фармацевтические субстанции (API) — гетероциклические соединения, онкологические API, пептиды, углеводы, комплексы железа, олигонуклеотиды; плюс ферментационные API и биопрепараты (моноклональные антитела). Сопоставление с заявленными кодами: 293499 (прочие гетероциклические соединения) и 293349 (гетероциклические соединения, содержащие пиримидиновое/пиперазиновое кольцо) — подтверждаются на уровне товарной линии (гетероциклическая химия, онкология, CNS), но конкретные вещества не названы, поэтому статус «частично». 292239 (аминокислоты/сложные эфиры, содержащие кислородную функцию) — правдоподобно для аминокислотных/пептидных API, но публично не подтверждено ни одним наименованием. 293790 (гормоны, прочие) — публично не подтверждено: гормональные API в перечне терапевтических областей MSN не заявлены (эндокринология заявлена, но это не равно гормонам по 2937). Пропущенные в декларации линии: 293359 (прочие соединения с пиримидиновым кольцом), 293399 (прочие гетероциклические), 294190 (антибиотики прочие — ферментационные API), 292249 (аминокислоты), 300214/300212 (биопрепараты: моноклональные антитела, кровь/иммунологические продукты) — биотех-направление в декларации HS вообще не отражено. Отраслевая классификация «Нефтегаз и химия» — формально неверна по существу: компания фармацевтическая (API/биопрепараты), корректнее «Химия/фармацевтика». Признаков трейдера нет: собственные производственные площадки (5 API-юнитов), R&D, DMF-портфель — роль manufacturer. Все товарные позиции имеют статус «заявлено, не подтверждено» — ни одна не подтверждена таможенной строкой в рамках этой проверки (таможенные записи не исследовались по условию задания). Код HS не является основанием для отклонения; компания сохраняется в базе, декларацию рекомендуется расширить кодами 293359, 293399, 294190, 300214."
+}

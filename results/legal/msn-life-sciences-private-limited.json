@@ -1,0 +1,18 @@
+{
+ "name_input": "MSN LIFE SCIENCES PRIVATE LIMITED",
+ "legal_name": "MSN LIFE SCIENCES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "РЕЕСТРОВЫЕ ДАННЫЕ НЕ ПОДТВЕРЖДЕНЫ — источники недоступны. Ход проверки: (1) web_search (DuckDuckGo/searx) вернул ошибку соединения 'Connection refused' на обоих запросах — поисковый бэкенд недоступен; (2) прямые запросы к реестровым агрегаторам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, instafinancials.com — отдал только шаблон/лендинг без карточки компании, tofler.in — HTTP 404 на предполагаемом URL и 404 на странице поиска, quickcompany.in — HTTP 404; (3) Google — HTTP 429 (rate limit), DuckDuckGo HTML — timeout, Bing — выдал нерелевантную выдачу про msn.com, поиск по названию компании не дал результатов. Итог: ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни статус MCA, ни выручка не получены из публичного источника. Все поля оставлены null — цифры и идентификаторы НЕ выдумывались. Юрлицо НЕ отклонено: оснований для rejected (несуществование/ликвидация/банкротство) не установлено, отсутствие данных не является основанием для отклонения. Роль 'unknown' — по названию и заявленному HS 292239/293349/293499/293790 (прочие органические соединения, гетероциклы, нуклеиновые кислоты/соли) компания выглядит как производитель фарм-субстанций (группа MSN Labs, Хайдарабад, Телангана), но это ГИПОТЕЗА, не подтверждённая реестровой записью; штат в инпуте не заявлен, поэтому state_claimed пуст. Требуется повторный прогон при доступных источниках: MCA master data (CIN/статус/дата инкорпорации/адрес), GST-портал (GSTIN и статус), аудиторская отчётность FY25/FY26 для выручки. Выручка FY25 и FY26 — null, данных нет."
+}
