@@ -1,0 +1,9 @@
+{
+ "name_input": "Berry Alloys Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковая инфраструктура недоступна. DuckDuckGo/SearX вернули 'Connection refused'/'timed out', Bing по всем запросам ('\"Berry Alloys\" Limited India', '\"Berry Alloys Ltd\" ferro alloys India company', '\"Berry Alloys\" OR \"Berry Alloy\" India ferro/manganese/chrome', '\"Berry Alloys\" site:zaubacorp.com OR tofler.in OR indiamart.com') выдавал только общие результаты про ягоды (Wikipedia 'Berry', Merriam-Webster, Amcor/Berry Global) — то есть ни одного релевантного документа по компании найдено не было. OpenCorporates отдал HTTP 403. Google вернул только заглушку редиректа. Итог: ни одного подтверждённого источника по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), судебным делам, рейтингам, негативным новостям или поставкам в РФ/СНГ получить не удалось. Все поля null — это НЕ означает отсутствие рисков, это означает отсутствие данных. Отсутствие результатов поиска также не подтверждает и не опровергает существование юрлица: по названию 'Berry Alloys Ltd' публичных следов не найдено, но из-за сбоя поиска вывод о несуществовании делать нельзя. Требуется повторный прогон при работающем поиске (рекомендуемые источники: zaubacorp/tofler/instafinancials по названию, eCourts/NJDG, OFAC SDN CSV, EU/UK consolidated lists, BIS Entity List, CRISIL/ICRA/CARE/India Ratings)."
+}
