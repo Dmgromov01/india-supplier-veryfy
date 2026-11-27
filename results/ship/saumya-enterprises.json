@@ -1,0 +1,8 @@
+{
+ "name_input": "Saumya Enterprises",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/saumya-enterprises and .../saumya-enterprise both returned only the empty page template: 'Shipments available for SAUMYA ENTERPRISES, refreshed daily' — a boilerplate line with no shipment table, no date, no destination, no HS code and no bill-of-lading number. Rows actually seen: 0 of 0. volza.com/p/saumya-enterprises, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. No customs/B-L record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Web search backend was unavailable (searx connection refused / timeout) for the whole session, so no domestic-supply source was reachable. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных, ни внутренних записей получить не удалось, все источники либо пустой шаблон, либо 403/JS-challenge, либо поисковик недоступен. Статус 'unknown', а не 'none_found', потому что отсутствие данных здесь означает недоступность источников, а не проверенный ноль. Заявленный HS 830130 (замки/фурнитура для мебели и дверей) ничем не подтверждён и не опровергнут — код не менялся. Юрлицо 'BIRJU MANOJBHAI PATEL' выглядит как имя ИП/проприетора, а не название компании; CIN/PAN/штат не публичны в доступных источниках — null. Требуется повторная проверка при работающем поиске и платном доступе к таможенным данным (Volza/Eximpedia/Trademo)."
+}

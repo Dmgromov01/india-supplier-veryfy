@@ -1,0 +1,18 @@
+{
+ "name_input": "Grace Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: no public record was retrievable for this entity. The input gives no CIN, no PAN and no state, and the only identifying string is the person name 'FRANCIS SANTAN SEQUEIRA', which is typical of a sole proprietorship / individual GST registration rather than a company, so no CIN/LLPIN is expected to exist. Tooling failed during this run: DuckDuckGo search returned 'connection refused', Bing returned only irrelevant dictionary results for every query variant ('Grace Enterprises' + Sequeira / GSTIN / proprietor), and direct registry pages were blocked with HTTP 403 (zaubacorp.com, instafinancials.com, mca.gov.in); tofler.in search returned a 404 page. Therefore legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT verified, not absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role left as 'unknown' (cannot distinguish manufacturer from trader without a GST/registry profile). Per project rules this is NOT a rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity is simply unverified. Recommended next step: obtain the GSTIN or PAN from the supplier directly, then re-check on the GST portal and MCA master data. Declared HS 830160/830260 (padlocks, locks and mountings/base metal fittings) is consistent with a hardware/trader profile but is unconfirmed and, per rules, is not a basis for rejection."
+}
