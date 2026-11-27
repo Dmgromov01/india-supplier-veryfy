@@ -1,0 +1,18 @@
+{
+ "name_input": "TRICON ENTERPRISES PVT LTD",
+ "legal_name": "TRICON ENTERPRISES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant non-Indian 'Tricon' entities (Tricon Residential, Tricon Energy, Tricon Chemical) with no MCA/GST profile for an Indian 'Tricon Enterprises Private Limited'. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public in any source I could reach, and NOT invented. Role left as 'unknown': no evidence obtained to classify as manufacturer, trader or manufacturer_trader. No state was claimed in the input, so no state mismatch can be assessed. Per project rules the company is NOT rejected: absence of retrievable registry data is not proof of non-existence, strike-off, liquidation or bankruptcy. Action required: re-run verification when search/registry access is restored, or obtain the CIN/GSTIN directly from the supplier; the declared HS codes (130219, 292429, 293379, 293723 - botanical extracts and heterocyclic/amide organic chemicals) do not match the claimed 'food & FMCG' industry, which should be flagged for HS correction to the actual code once the entity is identified, without rejecting the supplier."
+}
