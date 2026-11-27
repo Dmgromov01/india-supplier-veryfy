@@ -1,0 +1,18 @@
+{
+ "name_input": "TROIKA EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not obtained. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic non-Indian 'Troika' results (Wikipedia, troika.de, Merriam-Webster) with no Indian entity, GSTIN or CIN. No public record of an Indian legal entity named exactly 'TROIKA EXPORTS' was located, so legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not verified, not invented. PAN holder type cannot be derived without a PAN. Role left 'unknown': no evidence of manufacturing plant or trading registration either way. Revenue FY25/FY26 null - no audited accounts or MCA filings found. State claimed in input was empty, so no state mismatch can be assessed. Per project rules this is NOT a rejection: absence of a found record is not proof of non-existence (many Indian exporters operate as proprietorships/partnerships with only a GSTIN and no CIN). Recommended next step: manual lookup on the GST portal (gst.gov.in search by trade name) and MCA master data, or request the supplier's GSTIN/PAN directly, before any verdict."
+}

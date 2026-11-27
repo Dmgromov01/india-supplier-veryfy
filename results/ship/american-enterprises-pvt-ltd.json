@@ -1,0 +1,8 @@
+{
+ "name_input": "AMERICAN ENTERPRISES PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/american-enterprises-pvt-ltd returned only a JavaScript shell: 'Shipments available for AMERICAN ENTERPRISES PVT LTD, refreshed daily' — a generic template string with zero shipment rows rendered (0 rows seen of an unstated counter; the page states no record count). No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrieved. ZaubaCorp (zaubacorp.com/company/AMERICAN-ENTERPRISES-PVT-LTD) returned HTTP 403; no domestic supply record was read.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных, ни внутренних записей получить не удалось. ImportKey отдал пустую JS-оболочку (0 строк), Volza/Eximpedia/Trademo — HTTP 403, ImportGenius — JS-челлендж, ZaubaCorp — 403, DuckDuckGo-поиск недоступен (connection refused), Bing по запросам с кавычками выдал нерелевантную выдачу про American Airlines/American Express (0 релевантных результатов из 8). Статус 'unknown', а не 'none_found', потому что ни один источник с фактическими записями не был реально прочитан. Заявленный HS 291529/292144/292159/292219 (ациклические амины/спирты) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения. Выручка: null (не публична в прочитанных источниках). Требуется платный доступ к таможенным данным (ImportKey/Volza/Eximpedia) либо проверка по GSTIN в GST-портале для закрытия вопроса."
+}

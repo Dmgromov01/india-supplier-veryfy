@@ -1,0 +1,18 @@
+{
+ "name_input": "Active Carbon India Pvt. Ltd",
+ "legal_name": "ACTIVE CARBON INDIA PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused') on both search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned 404; mca.gov.in MDS portal returned 403; Google returned HTTP 429; Bing returned only generic/irrelevant results with query terms ignored (no company-specific hits). Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue could not be sourced from any public record. Per project rules, nothing is inferred or invented: all such fields are null. No rejection is applied - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the entity simply remains unverified. Role left as 'unknown' (no MCA business-activity/NIC evidence retrieved; the claimed 'activated carbon / HS 380210' profile is a product claim only and was not used to assign manufacturer vs trader). Revenue FY25/FY26 null - no audited accounts or official filings accessed. Recommended next step: re-run with working search backend and query MCA master data by exact name, plus a GST public-profile lookup (e.g. GST portal 'Search Taxpayer') to capture GSTIN and status."
+}
