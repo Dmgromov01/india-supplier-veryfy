@@ -1,0 +1,18 @@
+{
+ "name_input": "Natural Aroma Products Pvt Ltd",
+ "legal_name": "NATURAL AROMA PRODUCTS PRIVATE LIMITED (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures: web_search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com, thecompanycheck.com and zaubacorp company-list returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed slugs; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant generic results (query terms effectively ignored), so no CIN/PAN/GSTIN/incorporation record was obtained. Per project rules, nothing is invented: CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null because no public/official filing was readable. No rejection is applied - absence of retrievable data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt; the entity is therefore kept in the database with role 'unknown' pending a re-check. Note on PAN: not available, so the 4th-character holder-type test could not be performed. Note on HS 330129 (essential oils, declared) vs claimed industry 'oil & gas / chemicals': per rule 3 this is not a rejection ground; if the entity is confirmed, the HS code should be recorded as declared and the industry label corrected to the actual activity (aroma/essential-oil chemicals) at the next verification pass. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored."
+}

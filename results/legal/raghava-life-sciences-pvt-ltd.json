@@ -1,0 +1,18 @@
+{
+ "name_input": "RAGHAVA LIFE SCIENCES PVT LTD",
+ "legal_name": "RAGHAVA LIFE SCIENCES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error (searx: Connection refused) on both queries, and direct fetches of registry aggregator pages failed: zaubacorp.com returned HTTP 403, thecompanycheck.com returned HTTP 403, tofler.in returned HTTP 404 (no such company slug), instafinancials.com returned HTTP 404, indiamart.com returned HTTP 429. Bing/Google HTML fallbacks returned only unrelated results (search-result pollution), so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any source. Per project rules, nothing is invented: all registry fields are null and revenue is null (no audited accounts or official filings located). No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected - it is left unverified pending a working registry lookup (MCA master data / GST portal). Role cannot be determined without the MCA main-object clause or GST turnover data; the claimed industry ('oil & gas and chemicals') and declared HS 293399 (heterocyclic compounds, a pharma/fine-chemical chapter) are not a basis for rejection under the rules. State claimed in input was empty, so no state mismatch can be assessed."
+}
