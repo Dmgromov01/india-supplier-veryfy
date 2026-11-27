@@ -1,0 +1,25 @@
+{
+ "name_input": "M/S MITSUBISHI ELECTRIC INDIA PVT LTD; MITSUBISHI ELECTRIC INDIA PRIVATE LTD; MITSUBISHI ELECTRIC INDIA PVT. LTD.; MITSUBISHI ELECTRIC INDIA PVT LTD; MITSUBISHI ELECTRIC INDIA PVT LTD ; MITSUBISHI ELECTRIC INDIA PRIVATE LIMITED; MITSUBISHI ELECTRIC INDIA PVT LTD",
+ "declared_hs": "850440",
+ "actual_hs_list": [
+  "850440 — static converters (FREQROL inverters, VVVF converter-inverter sets, auxiliary power supply units) — corroborated by product line",
+  "850431 / 850432 / 850433 / 850434 — transformers / static converters, other (auxiliary power supply, traction converters) — plausible, not itemised",
+  "853710 — boards/panels with apparatus for electric control (MELSEC PLC, PAC, GOC PLC+HMI, TCMS control cabinets)",
+  "853890 — parts for apparatus of 8535/8536/8537",
+  "853620 / 853650 / 853649 — low-voltage circuit breakers, contactors and motor starters",
+  "853710 / 902830 — power management meters (metering) — code depends on function",
+  "850151 / 850152 — AC servo motors (MELSERVO), geared motors",
+  "847950 — industrial robots (MELFA, ASSISTA collaborative robot)",
+  "847150 / 847130 — industrial computers / controllers",
+  "854231 / 854129 / 854110 / 854140 — power modules, driver ICs, high-power devices, sensors, optical devices (semiconductors & devices)",
+  "853120 / 852859 — colour TFT-LCD display modules",
+  "841510 / 841581 / 841583 / 841590 — split air conditioners, City Multi VRF, ceiling cassette/concealed, floor standing, parts",
+  "841459 / 847989 — Lossnay ventilation units, air curtains",
+  "851633 / 851679 — Jet Towel hand dryers (electric hand-drying apparatus)",
+  "860791 / 850120 — traction motors and parts for railway rolling stock"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official site (mitsubishielectric.in, home page and /fa Factory Automation page) lists five business lines: (1) Air Conditioning Systems — split ACs, City Multi VRF, Lossnay & ventilation, air curtains, ceiling cassette, ceiling concealed, floor standing; (2) Factory Automation — MELSEC programmable controllers (iQ-R, iQ-F, Q, L, F, QS/WS, A series), programmable automation controllers, simple application controllers, motion controllers, CNCs, FA sensors, MELSERVO AC servos, FREQROL inverters, geared motors, HMIs, MELFA industrial robots and ASSISTA collaborative robot, low-voltage circuit breakers, contactors and motor starters, power management meters, medium-voltage distribution products, modular I/O, GOC 43/35 PLC-with-HMI; (3) Semiconductors & Devices — power modules, high-power devices, driver ICs, sensors, high-frequency devices, optical devices, colour TFT-LCD; (4) Transportation Systems — traction motor, converter-inverter & VVVF system, auxiliary power supply system, TCMS; (5) Jet Towel hand dryers. Declared code 850440 (static converters) matches only the FREQROL inverter / VVVF converter-inverter / auxiliary power supply portion — a small slice of a very broad multi-line portfolio.",
+ "role_hint": "manufacturer_trader — the company states it is engaged in 'manufacture, marketing and sales of electrical and electronic equipment' and has inaugurated its own factory automation manufacturing plant in Maharashtra (Pune) and a further facility in Tamil Nadu (site news, 11.12.2023 and 06.02.2026); it also imports and distributes the parent's global range, so both manufacturing and trading roles are present.",
+ "comment": "HS 850440 is only partially correct: it covers the FREQROL inverter and VVVF converter-inverter lines but leaves out the bulk of the declared business — air conditioning (8415), PLC/control panels (8537), switchgear (8536), servos (8501), robots (8479), semiconductors (8541), LCD (8531) and hand dryers (8516). Per project rule 3 this is NOT a rejection ground: the company stays in the base and the code is corrected to the actual product mix (verdict accepted_hs_corrected). Industry label 'Энергетика' (power/energy) is a misclassification — the real profile is electrical & electronic equipment manufacturing plus HVAC and factory automation; power electronics is only one segment. Trader signs: multi-brand-principal distribution of the Japanese parent's catalogue, e-commerce 'Add to Cart / Connect To Store' functions on the site, and a very wide unrelated product spread (ACs to train TCMS) — typical of a national sales subsidiary rather than a single-product plant. Product lines entirely missing from the declaration: air conditioning and VRF, ventilation, PLC/CNC/HMI, robots, low-voltage and medium-voltage switchgear, semiconductors and TFT-LCD, transportation systems, hand dryers. All product listings above are taken from the company's own website and are therefore 'заявлено, не подтверждено' — no customs line was available in this task to corroborate any specific code, and per instructions registries, revenue and shipment volumes were not researched. No PAN, CIN or registration data verified here (null)."
+}

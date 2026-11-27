@@ -1,0 +1,9 @@
+{
+ "name_input": "Kiran Udyog",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data collected, all fields null. Reason: every search channel failed during this run. DuckDuckGo/searx backend returned 'Connection refused' on all queries; html.duckduckgo.com, lite.duckduckgo.com and search.marcia.cc timed out; google.com/search returned HTTP 429; bing.com returned an identical cached result set for three different queries (typing tutors, Wikipedia 'Kiran', Kiran Gems) with zero relevant hits, i.e. the exact-phrase query 'Kiran Udyog' was not actually executed. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form and returns no results without an interactive query, so no SDN/Non-SDN screening was performed. Therefore: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = NOT VERIFIED, not 'clear'. Indian court cases (party role/status) = NOT VERIFIED. Regulator actions and negative news = NOT VERIFIED. Credit rating = NOT VERIFIED. Evidence of supplies to Russia/CIS = NOT VERIFIED. No claim in this record should be read as a negative finding about the company - the absence of results reflects tool failure, not absence of risk. Also note the name itself is unconfirmed: 'Kiran Udyog' is a common Indian trade name and no source was retrieved to tie it to a specific legal entity, so any future screening must first pin the exact registered name/state before matching against sanctions and court databases. Recommend re-running this company in a later batch when search is available."
+}

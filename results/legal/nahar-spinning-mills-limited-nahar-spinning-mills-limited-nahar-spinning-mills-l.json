@@ -1,0 +1,18 @@
+{
+ "name_input": "NAHAR SPINNING MILLS LIMITED; NAHAR SPINNING MILLS LIMITED; NAHAR SPINNING MILLS LIMITED; NAHAR SPINNING MILLS LTD",
+ "legal_name": "Nahar Spinning Mills Limited",
+ "cin_llpin": "L17115PB1980PLC004241 (unverified — MCA/ZaubaCorp blocked with HTTP 403; CIN pattern consistent with a 1980 Punjab-incorporated listed company, but not confirmed from a primary registry page in this session)",
+ "pan": "null — not public; no primary source retrieved (PAN is not disclosed on exchange or company pages)",
+ "pan_holder_type": "null — cannot be derived without the PAN; note that as a listed public limited company the 4th character would be expected to be 'C' (company), but this is an inference, not a verified fact",
+ "gstin": "null — no public GST profile page could be retrieved (ZaubaCorp/TheCompanyCheck/Moneycontrol all returned HTTP 403)",
+ "gst_status": "null — not verified",
+ "incorporation_date": "1980 (year only, per Screener.in company profile: 'Incorporated in 1980'); exact date not verified from MCA",
+ "state_registered": "Punjab (per CIN state code 'PB' in the reported CIN and group HQ in Ludhiana) — not confirmed from a primary registry page",
+ "state_claimed": "",
+ "mca_status": "null — MCA portal not reachable in this session; company is actively listed on BSE (500296) and NSE (NAHARSPING) with quarterly filings through Sep 2026, which implies active status",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 3285,
+ "revenue_fy26_cr": 3218,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/NAHARSPING/consolidated/) — Profit & Loss table, standalone figures: Sales Mar 2025 = 3,285 Cr, Mar 2026 = 3,218 Cr. These are exchange-filed annual results aggregated by Screener; the underlying audited annual report PDF was not opened in this session, so treat as filing-derived, not directly audited-statement-verified.",
+ "note": "Registry verification was severely constrained: web_search was down (connection refused) and all registry aggregators (ZaubaCorp, TheCompanyCheck, Moneycontrol) returned HTTP 403, so CIN, PAN, GSTIN, GST status, exact incorporation date and MCA status could NOT be confirmed from primary sources and are left null/unverified rather than guessed. What IS confirmed: the entity exists and is active as a listed company — BSE scrip 500296 and NSE symbol NAHARSPING both resolve, and Screener.in shows continuous quarterly results through Sep 2026 and annual P&L from FY2015 to FY2026. Business: cotton/blended yarn and hosiery knitwear manufacturer, flagship of the Nahar group (Ludhiana, Punjab) — role = manufacturer, not trader. IMPORTANT MISMATCH IN INPUT: industry_claimed is 'Продукты питания и FMCG' (food & FMCG), which is wrong — the company is a textile/yarn and knitwear manufacturer. The declared HS codes 520513/520514 (cotton yarn, single, uncombed, under 232.56 dtex) DO match the actual business, so the HS codes are correct and the industry label in the input is the error. Per project rules this is not a rejection ground; the company is retained with the industry classification corrected to textiles. No rejection: entity exists, is listed and trading, no evidence of strike-off, liquidation or bankruptcy. Revenue figures are standalone (consolidated not shown on the retrieved page); FY26 figure covers the year ended March 2026."
+}

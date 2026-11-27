@@ -1,0 +1,9 @@
+{
+ "name_input": "TATA SIKORSKY AEROSPACE LIMITED; TATA SIKORSKY AEROSPACE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет доступа к источникам. В ходе сессии поисковый бэкенд (DuckDuckGo/searx) отдавал 'Connection refused', Google — HTTP 429, zaubacorp — HTTP 403, tatasikorsky.com — DNS failure; Bing возвращал нерелевантную выдачу (страницы Microsoft 365), т.е. поиск фактически не работал. OFAC Sanctions List Search — JS-форма, результаты через http_get не извлекаются; скачиваемый sdn.csv обрезан на 6000 символов (раздел Cuba), поэтому полный поиск по имени невозможен. Следствие: sanctions_hit, court_cases, rating, news_risk, rf_supply = null — это НЕ подтверждение отсутствия рисков, а отсутствие данных. Никаких утверждений о санкциях, судах, рейтинге или поставках в РФ/СНГ не делаю, чтобы не выдумывать факты. Что известно из открытых общих сведений (не проверено в этой сессии, требует подтверждения): Tata Sikorsky Aerospace Ltd — совместное предприятие Tata Advanced Systems (Индия) и Sikorsky Aircraft (США, Lockheed Martin) по производству компонентов вертолётов S-92 в Хайдарабаде; связь с американским оборонным подрядчиком — фактор, который следует отдельно проверить на предмет экспортного контроля США (ITAR/EAR) и BIS Entity List при любых поставках в РФ/СНГ. Рекомендация: повторить проверку при восстановлении доступа к сети — OFAC SDN/SSI, UN Consolidated, EU/UK sanctions lists, BIS Entity List, eCourts/NJDG (party role/status), рейтинги CRISIL/ICRA/CARE, новости. Правило 2 соблюдено: санкции/суды/уголовные дела в любом случае не являются основанием для отклонения."
+}
