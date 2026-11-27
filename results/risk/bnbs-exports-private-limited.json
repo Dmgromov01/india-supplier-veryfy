@@ -1,0 +1,26 @@
+{
+ "name_input": "BNBS EXPORTS Private LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madras High Court",
+   "case": "M/s. BNBS Exports Private Limited vs The Superintendent of GST and Central Excise (and connected matter)",
+   "date": "2025-07-16",
+   "role": "petitioner",
+   "status": "order passed 16.07.2025 (bench: Krishnan Ramasamy); writ proceedings against GST/central excise authority — company is the complainant/petitioner, not the accused",
+   "source": "https://indiankanoon.org/search/?formInput=%22BNBS+Exports%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "Crl.O.P.No.29932 of 2019 — M/s. BNBS Exports Private Limited vs The Inspector of Police",
+   "date": "2020-09-08",
+   "role": "petitioner (quashing petition, filed by Director Banumathi)",
+   "status": "criminal original petition seeking quashing decided 08.09.2020 (bench: T. Ravindran); company is the petitioner seeking relief, no conviction recorded in the public record",
+   "source": "https://indiankanoon.org/search/?formInput=%22BNBS+Exports%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No adverse media, regulator penalty or negative news found in accessible sources. The only public traces are the two Madras High Court matters above, both initiated by the company itself (GST dispute and a police quashing petition). Search engine backend (searx) was unreachable during this check, so news coverage cannot be excluded — treat as unverified rather than clean.",
+ "rf_supply": null,
+ "note": "Sanctions: no hit found. OFAC SDN/Non-SDN search tool was reachable but is a JS form that cannot be queried via GET, and the searx search backend refused connections, so no name-level screening against OFAC/UN/EU/UK/BIS could be completed — sanctions_hit is null for lack of a completed screen, NOT a confirmed negative. Court cases: two Madras High Court records confirmed via Indian Kanoon (16.07.2025 GST writ; Crl.O.P. 29932/2019 quashing petition, order 08.09.2020). Per project rules these are not rejection grounds; noted neutrally — the company appears as petitioner in both, i.e. it is pursuing remedies, not defending a conviction. Registered address appearing in the judgments: 36/68 (also cited as 38/68) H-Block, Sahithya Apartments, Panchali Amman Kovil Street, Arumbakkam, Chennai (Madras HC jurisdiction); officers named in filings: Mohammad Arshad (Manager–Accounts & Finance), Banumathi (Director). Credit rating: no rating found in public sources — null, not public. Russia/CIS supply evidence: none found; no export or shipment records to Russia or CIS located, and no public statement of such trade. Note that shipment/export verification is outside this role's scope and was not performed. Overall: no rejection grounds identified under project rules; risk profile is 'есть сложности' only in the sense of an open GST dispute, which is routine."
+}

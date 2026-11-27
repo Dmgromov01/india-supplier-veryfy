@@ -1,0 +1,18 @@
+{
+ "name_input": "ROBIN PRECISION PRODUCTS PVT.LTD",
+ "legal_name": "ROBIN PRECISION PRODUCTS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The DuckDuckGo search backend returned connection errors ('searx: Connection refused') on both queries, and direct fetches of public registry aggregators were blocked or empty: zaubacorp.com company page and company-search page -> HTTP 403; thecompanycheck.com -> HTTP 403; tofler.in -> HTTP 404 (no such slug); instafinancials.com -> HTTP 404; mca.gov.in mcafoportal -> HTTP 403. Bing/Google HTML endpoints returned only generic, irrelevant results (US 'Robin' brand pages) with no Indian company record, so no CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be sourced. Per project rules, no identifiers or figures are invented: all such fields are null. No rejection is proposed - the absence of public data in this session is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, and rejection requires positive evidence of one of those conditions. Role is left 'unknown' because no MCA business-activity classification or GST/plant evidence was retrievable; the claimed HS 820900 (plates/tips for tools) and the claimed industry 'metallurgy and mining' are unverified and, per rules, HS mismatch is not a rejection ground in any case. Revenue FY25/FY26: null - no audited accounts or official filings were accessible. Recommended next step: re-run with a working search backend and query MCA master data / GST public search by legal name, or obtain the CIN or GSTIN from the supplier directly, then re-verify."
+}

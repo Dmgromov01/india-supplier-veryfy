@@ -1,0 +1,18 @@
+{
+ "name_input": "BNBS EXPORTS Private LIMITED",
+ "legal_name": "BNBS EXPORTS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. All search tooling failed: web_search returned connection refused (searx backend down); DuckDuckGo HTML timed out; Google returned a redirect/consent page; Bing returned only irrelevant results for every query variant tried (exact-name + CIN, + GSTIN, + zaubacorp/tofler/indiafilings). Direct fetches of registry aggregators were blocked: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 403, tofler.in search 404, mca.gov.in MDS 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public via accessible sources in this session, not because they do not exist. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role is 'unknown': the 'EXPORTS' suffix in the name is not evidence of manufacturer vs trader status, and no MCA business-activity code (NIC) was obtained. Per project rules the company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy was not established; the correct verdict here is 'unverified / data unavailable', and the record should be re-queued for a session with working search and MCA/GST portal access. Declared HS 680223 (worked monumental/building stone and articles thereof) is not assessed here as HS mismatch is not a rejection ground; it should be corrected to the actual code once the entity's filings are read. No shipment, court or catalogue research was performed, per role scope."
+}

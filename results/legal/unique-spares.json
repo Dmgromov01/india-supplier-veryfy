@@ -1,0 +1,18 @@
+{
+ "name_input": "Unique Spares",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No public registry trace found. The input gives 'SAKINA TAHER PATRAWALLA' as the legal name, which is a personal name, not a company name - it is most likely the proprietor of a sole proprietorship trading as 'Unique Spares'. A proprietorship has no CIN/LLPIN and no MCA record, so cin_llpin and mca_status are null by nature of the entity type, not because of a failed lookup. Searches for 'Sakina Taher Patrawalla', 'Patrawalla' + 'Unique Spares' and 'Unique Spares' + HS 854390 returned no relevant Indian business, GST, IndiaMART or MCA pages (search backend was partly unavailable; Bing returned only unrelated homonym results). Consequently PAN, GSTIN, GST status, incorporation date and registered state could not be verified from any public profile and are left null - not inferred. PAN holder type cannot be determined without the PAN itself (4th character rule not applicable). State claimed in input was empty, so no state mismatch can be assessed. Role left as 'unknown': no evidence of manufacturing plant, no evidence of trading activity; nothing in the public record confirms either. Revenue FY25/FY26 null - no audited accounts or official filings located. Per project rules this is NOT a rejection: the entity is not shown to be non-existent, struck off, liquidated or bankrupt - it is simply unverifiable from public sources. Recommended next step: obtain the GSTIN or PAN directly from the supplier, then re-run verification against the GST portal and MCA/proprietorship records."
+}
