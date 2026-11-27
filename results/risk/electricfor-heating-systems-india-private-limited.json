@@ -1,0 +1,9 @@
+{
+ "name_input": "ELECTRICFOR HEATING SYSTEMS INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research largely inconclusive due to tooling failures: the DuckDuckGo search backend returned 'Connection refused' on both queries, Google returned HTTP 429, ZaubaCorp/TheCompanyCheck returned HTTP 403, InstaFinancials returned 404, and Bing returned only irrelevant results. What was actually checked: (1) Indian Kanoon full-text search for \"Electricfor Heating Systems\" — 0 matching results, i.e. no public Indian court judgment found under that name (this is a negative search result, not proof of absence of litigation; district court / NCLT / DRT filings are not covered by Indian Kanoon). (2) OFAC Sanctions List Search page was reachable but is a JavaScript application that does not return query results via plain HTTP GET, so no name was actually screened against the SDN/Non-SDN lists; UN, EU, UK OFSI and BIS Entity List were not screened at all. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — NOT because they were verified as clean, but because they could not be verified with the tools available. No credit rating agency coverage (CRISIL/ICRA/CARE/India Ratings) could be located. No evidence of supplies to Russia or the CIS was found, but equally no shipment or customs data could be retrieved, so this must be read as 'not found', not 'confirmed absent'. The company name suggests an Indian subsidiary/affiliate of the Spanish heating-element manufacturer Electricfor S.A., which would be a relevant ownership link to check, but this is an inference from the name only and is unverified. Recommended follow-up: MCA master-data and charge/legal-status lookup, NCLT and eCourts name search, and a proper sanctions screening run against OFAC/UN/EU/UK/BIS with the exact registered name and any aliases."
+}

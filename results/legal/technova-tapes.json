@@ -1,0 +1,18 @@
+{
+ "name_input": "Technova Tapes",
+ "legal_name": "TECHNOVA TAPES (INDIA) PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. Tooling failure, not a negative finding: web_search returned 'Connection refused' (searx backend down) for both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in/mcafoportal all returned HTTP 403; tofler.in search returned a 404 page; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only unrelated results (anthem.com, skype.com, dollhouse furniture) with no hit for 'Technova Tapes'. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT confirmed absent, simply not retrieved. Legal name is carried over from the input claim and is unverified. Role set to 'unknown': the claimed name contains 'TAPES' and declared HS 391990 (self-adhesive plastic sheets/film), which is consistent with a tape converter/manufacturer, but no MCA business-object clause or factory record was read, so manufacturer vs trader cannot be determined. Revenue FY25/FY26 null: no audited accounts or MCA filings were accessible; no figures invented. Per project rules the company is NOT rejected — no evidence of non-existence, strike-off, liquidation or bankruptcy was found, and HS mismatch is not a rejection ground in any case. Recommended next step: re-run against MCA master data / GST public search with a working search backend before any verdict is issued."
+}

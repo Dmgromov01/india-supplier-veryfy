@@ -1,0 +1,18 @@
+{
+ "name_input": "ISCON BALAJI FOODS PRIVATE LIMITED",
+ "legal_name": "ISCON BALAJI FOODS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. The web_search tool returned a backend error (searx connection refused) on every query, and all direct registry sources were blocked or unavailable: zaubacorp.com returned HTTP 403, thecompanycheck.com HTTP 403, falconebiz.com HTTP 403, instafinancials.com HTTP 404, tofler.in HTTP 404, mca.gov.in HTTP 403. Bing/Google fallbacks returned irrelevant results or HTTP 429. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role is 'unknown' because the manufacturer/trader distinction could not be established from registry data (product catalogues were out of scope per instructions). Per project rules the company is NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Declared HS 200410 (food preparations) was not assessed and is not a rejection ground. Recommended action: re-run verification when search/registry access is restored, checking MCA master data for the exact CIN and the GST portal for the GSTIN."
+}
