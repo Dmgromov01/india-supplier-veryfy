@@ -1,0 +1,18 @@
+{
+ "name_input": "ARTLIFE WELLNESS PRODUCTS PRIVATE LIMITED",
+ "legal_name": "ARTLIFE WELLNESS PRODUCTS PRIVATE LIMITED (unverified — name as claimed in input; no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained — all registry fields left null rather than guessed. Tooling failed during this run: web_search returned 'searx: Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in search returned a 404 page; Google returned only a redirect interstitial; Bing returned irrelevant results (square-root and unrelated pages) for the exact-phrase queries, i.e. no usable SERP. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could not be verified from any public source. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role cannot be classified without registry/records evidence — set to 'unknown' rather than inferred from the claimed FMCG industry or the declared HS codes (081340; 282300; 283650; 330113), which are inconsistent with each other (dried fruit/nuts vs. titanium/magnesium oxides vs. calcium carbonate vs. citrus essential oil) and are not evidence of manufacturing. Per project rules, no rejection is applied: absence of retrievable data is not proof of non-existence, strike-off, liquidation or bankruptcy, and HS mismatch is not a rejection ground. ACTION REQUIRED: re-run this company when search/registry access is restored, checking MCA master data (CIN, incorporation date, status, registered state), the GST public taxpayer profile (GSTIN + status), and audited FY25/FY26 filings for revenue."
+}

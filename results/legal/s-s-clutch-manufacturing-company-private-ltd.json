@@ -1,0 +1,18 @@
+{
+ "name_input": "S.S. CLUTCH MANUFACTURING COMPANY PRIVATE LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все поисковые запросы в этом сеансе не дали результатов: web_search вернул ошибку бэкенда (searx: connection refused), DuckDuckGo lite — таймаут, Bing/Google — нерелевантная выдача (только статьи про букву 'S'), Marginalia — антибот-заглушка. Прямые запросы к реестровым агрегаторам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, instafinancials.com — HTTP 404, tofler.in — HTTP 404, mca.gov.in (Master Data) — HTTP 403. Таким образом ни точное юрлицо, ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации, ни статус MCA не установлены — все поля null, ничего не выдумано. Признаков несуществования/ликвидации/банкротства также не получено, поэтому компания НЕ отклоняется: вердикт — 'требует повторной проверки в реестре' (pending verification), а не rejected. Роль не определена (unknown): заявленный характер деятельности (производство сцеплений, HS 840991 — части двигателей) не подтверждён ни одним реестровым документом. Заявленная отрасль во входных данных ('Металлургия и горнодобыча') не соответствует HS 840991 (части двигателей внутреннего сгорания) — при подтверждении деятельности код и отрасль следует исправить на фактический (accepted_hs_corrected), но это не основание для отклонения. Выручка FY25/FY26: аудиторская отчётность не найдена, значения null. Рекомендация: повторить проверку при доступности MCA Master Data / GST-портала, запросив у поставщика CIN, PAN и GSTIN напрямую."
+}

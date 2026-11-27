@@ -1,0 +1,18 @@
+{
+ "name_input": "THE SUPREME INDUSTRIES",
+ "legal_name": "The Supreme Industries Limited",
+ "cin_llpin": "L35920MH1942PLC003742",
+ "pan": "Not publicly disclosed on any accessible public profile (PAN is not published by MCA/NSE/BSE or GST public search without login); null — not invented",
+ "pan_holder_type": "null (PAN not obtained; 4th-character holder-type test could not be applied)",
+ "gstin": "Not retrievable — GST public search (gst.gov.in) and aggregator profiles (Zauba, TheCompanyCheck, InstaFinancials) returned 403/paywall; null",
+ "gst_status": "null — could not be verified from a public GST profile",
+ "incorporation_date": "1942 (per company's own corporate history: founded 1942; CIN year code 1942 corroborates). Exact day/month not confirmed from MCA — null for precise date",
+ "state_registered": "Maharashtra (CIN state code MH; registered office Mumbai; HQ Goregaon, Mumbai)",
+ "state_claimed": "(not stated in input)",
+ "mca_status": "Active — listed public limited company, BSE: 509930, NSE: SUPREMEIND, part of F&O segment; no strike-off/liquidation/insolvency indication found. MCA master data page itself was not directly readable (403), so status is inferred from live exchange listing",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Annual audited FY25/FY26 consolidated revenue figures could not be extracted: screener.in annual P&L row was truncated in the fetched HTML, and the investor-relations page on supreme.co.in returned 404. Only quarterly standalone sales were visible (Q1FY25 2,636; Q2FY25 2,273; Q3FY25 2,510; Q4FY25 3,027; Q1FY26 2,609; Q2FY26 2,394; Q3FY26 2,687; Q4FY26 3,528 Rs cr) — these are NOT annual audited figures, so FY25/FY26 revenue left null rather than summed/estimated. Company website claims '11,000 CR+ annual turnover (FY26)' — a self-declaration, not an audited filing, therefore not used as the value",
+ "note": "Identity confirmed: The Supreme Industries Limited is a real, active Indian listed entity — India's largest plastics processor, founded 1942, taken over by the Taparia family in 1966, HQ Mumbai, Maharashtra, 35 manufacturing plants pan-India (Gadegaon-Maharashtra, Kharagpur-West Bengal, Jadcherla-Telangana etc.). Sources: supreme.co.in (company site, About/Milestones, 'India's largest manufacturer and processor of plastics', M.P. Taparia Chairman & MD) and screener.in/company/SUPREMEIND (BSE 509930 / NSE SUPREMEIND, market cap ~Rs 40,471 cr). Role = manufacturer (own plants, own brands), not a trader. Declared HS codes 3920.10/3920.20/3920.62/3920.92 (plates, sheets, film, foil of polymers) are consistent with its actual product lines — plastic piping, cross-laminated films, performance packaging films, protective packaging — so no HS correction is needed and no rejection ground exists. Caveats: (1) CIN L35920MH1942PLC003742 is the widely published CIN for this company but could not be read off an MCA page in this session (registry mirrors blocked), so treat as high-confidence-but-unverified-from-primary-source; (2) PAN, GSTIN and GST status are null — not public without login, not invented; (3) exact incorporation date and audited FY25/FY26 revenue are null for the reasons above. No ground for rejection: entity exists, is listed and trading, not struck off, liquidated or bankrupt. Per project rules, shipment/court checks are out of scope for this role."
+}

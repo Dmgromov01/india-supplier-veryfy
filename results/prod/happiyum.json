@@ -1,0 +1,15 @@
+{
+ "name_input": "HAPPIYUM",
+ "declared_hs": "680223;680293",
+ "actual_hs_list": [
+  "2004.10 — Potatoes, prepared or preserved otherwise than by vinegar/acetic acid, frozen (french fries, crinkle cut, straight cut, coated fries, potato wedges, hash brown, potato smilies, potato nuggets)",
+  "2005.20 — Potatoes, prepared or preserved otherwise than by vinegar/acetic acid, not frozen (possible for potato flakes/powder lines — to be confirmed per SKU)",
+  "1105.20 — Potato starch (declared product line 'Potato Starch')",
+  "1105.10 — Potato flour / meal / flakes (declared product line 'Potato Flakes')",
+  "2008.19 / 2106.90 — possible for burger patty / tikki (mixed vegetable/potato preparations) — cannot_verify without ingredient/process data"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Frozen potato snacks manufacturer. Website happiyum.com lists: French Fries, Coated Fries, Crinkle Cut, Straight Cut, Potato Flakes, Potato Starch, Hash Brown, Potato Smilies, Potato Nuggets, Burger Patty, Potato Wedges. Factory: Plot No 35/D, Kamla Amrut Industrial Park, Kadi Chhatral Highway, Kadi, Indrad, Mehsana, Gujarat 384440. Head office: 301, Shefali Center, Paldi Cross Road, Paldi, Ahmedabad 380007. Site self-describes as 'Top manufacturer & exporter of premium quality frozen snacks in India', claims exports to Far East (Indonesia, Thailand, Malaysia) — заявлено, не подтверждено (no customs/B-L line reviewed in this task).",
+ "role_hint": "manufacturer (own factory address in Mehsana, Gujarat; site claims own manufacturing plant). Trader signs: none observed on site. No export shipment records verified here.",
+ "comment": "HS mismatch is total, not partial: declared 6802.23 / 6802.93 are worked monumental/building stone (granite, sandstone, etc.) — a construction/DIY category. The company actually produces frozen prepared potato food. Industry classification 'Строительство и DIY' is therefore also wrong; correct industry is food processing / frozen foods (FMCG-HoReCa). Per project rule 3 the company is NOT rejected — it is kept in the base and the code is corrected to the actual food codes above; verdict accepted_hs_corrected. Recommended primary code: 2004.10 (frozen prepared potatoes), with 1105.20 / 1105.10 for starch and flakes lines. All product lines above are taken from the company's own website catalogue only — no customs line was corroborated in this task, so every code is 'заявлено, не подтверждено' pending a shipment record. Product lines missing from the declaration: the entire frozen snack range (fries, wedges, hash brown, smilies, nuggets, patty) and potato flakes/starch. Note: 'Potato Starch' and 'Potato Flakes' may be traded-in or by-products of the same potato line — cannot_verify from public pages. Revenue, export volumes, CIN/PAN and registry data were deliberately not researched (out of scope for this role) — null."
+}

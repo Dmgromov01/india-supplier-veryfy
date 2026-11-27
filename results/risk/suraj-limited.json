@@ -1,0 +1,9 @@
+{
+ "name_input": "Suraj Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, not a clean result. The web_search tool returned 'no results (searx: urlopen error [Errno 111] Connection refused)' on all 3 attempts, i.e. the search backend was down. Fallback attempts via http_get: DuckDuckGo HTML endpoint returned HTTP 403; Bing returned the identical irrelevant result set (Instagram profiles of individuals named 'Suraj') for four different targeted queries, so no usable search results were obtained. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript-driven tool that returns no query results over plain GET, so no name screening could be executed. ZaubaCorp returned HTTP 403. Consequently NO verification was possible for any of the five required fields: sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases with party role and status, regulator actions and negative news with dates, credit rating with date and status, and evidence of supplies to Russia/CIS. All fields are set to null because nothing is public to me in this session - these nulls must NOT be read as 'no sanctions', 'no court cases' or 'no Russia supplies'. Per project rules, no rejection is proposed and no adverse inference is drawn; the company is simply unverified. Recommended action: re-run this company in a later batch once search is restored, screening at minimum the OFAC SDN/consolidated list, the BIS Entity List, UN/EU/UK consolidated lists, eCourts/NCLT by exact legal name 'SURAJ LIMITED', and CRISIL/ICRA/CARE rating directories. Note also that 'Suraj Limited' is a common Indian name and may match multiple distinct legal entities, so exact-identifier confirmation is needed before any hit is attributed to this supplier."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Suraj Limited",
+ "legal_name": "Suraj Limited (listed public limited company; BSE: 531638, NSE: SURAJLTD)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1994 (year only; exact date not verified)",
+ "state_registered": "Gujarat (Ahmedabad) — inferred from listing/registered office references, not confirmed from MCA master data",
+ "state_claimed": "",
+ "mca_status": "Active — company is listed and filing (BSE/NSE listed, quarterly results published through Sep 2026); MCA master data page not retrievable (zaubacorp/thecompanycheck returned HTTP 403)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 234,
+ "revenue_fy26_cr": 206,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/SURAJLTD/), Profit & Loss table, standalone figures in Rs crore: FY Mar-2025 Sales 234, FY Mar-2026 Sales 206 (consolidated: 234 / 206 as well). These are figures from the company's published BSE/NSE filings as aggregated by Screener; the underlying audited annual report PDF was not opened directly.",
+ "note": "Registry identifiers (CIN, PAN, GSTIN, GST status, exact incorporation date) could NOT be verified: the search backend was unavailable (searx connection refused) and registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403, moneycontrol 410, wikipedia 429. Per instructions these are left null rather than guessed — the CIN must be pulled from the MCA master data / the company's annual report before onboarding. What IS verified: the entity exists and is active as a listed public company (BSE 531638, NSE SURAJLTD), incorporated 1994, part of Suraj Group, and manufactures stainless steel seamless pipes, tubes, U-tubes, flanges and fittings (Screener.in company profile, citing company disclosures; 98% of revenue from SS pipes/tubes, installed capacity 5,000 MT as of Mar 2026). This is consistent with the declared HS codes 7304.41 / 7307.21 / 7308.90 (steel tubes/pipes, flanges, structures) — no HS correction needed. Role: manufacturer (own plant, own capacity), not a trader. Revenue figures are sales/turnover from filings, not independently audited-account-verified by me. No rejection grounds: entity exists, is not struck off, liquidated or bankrupt."
+}

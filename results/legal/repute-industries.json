@@ -1,0 +1,18 @@
+{
+ "name_input": "Repute Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google отдавал заглушку, Bing возвращал нерелевантную кэшированную выдачу (только словарные статьи 'repute'), а агрегаторы реестров (zaubacorp, instafinancials, thecompanycheck) и mca.gov.in отдали 403/404. Ни один публичный источник по 'Repute Industries' / 'Bhanjibhai Valjibhai Valambhiya' прочитать не удалось. ВАЖНО: в поле legal_claimed указано имя физлица, а не юрлица — вероятно, это проприеторская фирма (proprietorship) или имя партнёра, что требует уточнения у заказчика. CIN/LLPIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка НЕ подтверждены и оставлены null — не выдумывались. Отклонять НЕЛЬЗЯ: отсутствие данных не является доказательством несуществования юрлица (правило 3). Требуется повторный прогон при восстановлении доступа к реестрам (MCA master data, GST-портал, Zauba/Tofler)."
+}

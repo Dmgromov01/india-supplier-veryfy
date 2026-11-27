@@ -1,0 +1,9 @@
+{
+ "name_input": "United By Cycling Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No public record of this entity could be retrieved. Search tooling was degraded during this run: the DuckDuckGo/searx backend returned 'Connection refused' for every query, Bing returned only irrelevant United Airlines results for the exact-name queries, and the primary Indian registry aggregators were inaccessible (zaubacorp.com HTTP 403, tofler.in search 404, instafinancials 404). OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its lookup is a JS form that cannot be submitted via plain HTTP GET, so no name query was actually executed - therefore sanctions_hit is null (NOT verified clean, simply unqueried). No court case, regulator action, credit rating or news item could be located or ruled out. No evidence of supplies to Russia or the CIS was found, but absence of evidence here reflects failed retrieval, not a negative finding. All fields null because nothing is public/retrievable in this session; nothing was inferred or invented. Recommend re-running this company once search connectivity is restored, and querying OFAC SDN, BIS Entity List, EU/UK consolidated lists, e-courts/NCLT by CIN, and CRISIL/ICRA/CARE/Brickwork ratings directly."
+}

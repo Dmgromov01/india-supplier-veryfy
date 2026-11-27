@@ -1,0 +1,9 @@
+{
+ "name_input": "Repute Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search tool (DuckDuckGo/searx backend) returned 'Connection refused' on every attempt, and fallback engines were unusable — Google served a redirect/consent page, DuckDuckGo HTML returned HTTP 403, and Bing (HTML and RSS) ignored the quoted search terms and returned only generic dictionary definitions of the word 'repute', i.e. no index hits for the entity. No source was retrieved, therefore every field is null rather than inferred. Specifically: (1) sanctions exposure — NOT checked against OFAC SDN, UN, EU, UK or BIS Entity List; absence of a hit is NOT established, this is an unverified gap, not a clean result. (2) Indian court cases — not checked (no eCourts/NCLT/High Court lookup performed), party role and status unknown. (3) Regulator actions and negative news — not checked, no dates available. (4) Credit rating — no rating found or verified; status unknown. (5) Evidence of supplies to Russia or CIS — not checked. Note on the input record itself: the 'legal_claimed' value 'BHANJIBHAI VALJIBHAI VALAMBHIYA' is a personal name, not a company name, so it appears to be a proprietor/partner of a proprietorship or partnership rather than a registered company; this also means there is no CIN to anchor a registry lookup. Per project rules this is not a rejection ground and no verdict is implied here — the company stays in the database. Recommended follow-up when search access is restored: MCA/ZaubaCorp/Tofler lookup on the proprietor name, eCourts and NCLT searches, and OFAC/EU/UK/BIS list screening. Do not treat the nulls above as a negative clearance."
+}
