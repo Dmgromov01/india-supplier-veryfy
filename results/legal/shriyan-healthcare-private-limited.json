@@ -1,0 +1,18 @@
+{
+ "name_input": "Shriyan Healthcare Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) вернул ошибку соединения — 'Connection refused', поиск недоступен; (2) zaubacorp.com — HTTP 403 Forbidden; (3) thecompanycheck.com — HTTP 403; (4) instafinancials.com — HTTP 404 (страница с таким слагом отсутствует); (5) quickcompany.in — HTTP 404; (6) mca.gov.in (Company/LLP Master Data) — HTTP 403; (7) Google и Bing по запросу \"SHRIYAN HEALTHCARE PRIVATE LIMITED\" CIN GST выдали нерелевантную выдачу (результаты про магазины и Reddit), т.е. совпадений по названию в индексе не найдено. Итог: точное юрлицо, CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, публично не подтверждено в рамках доступных инструментов. НЕ отклонять: отсутствие подтверждения из-за недоступности реестров не является доказательством несуществования юрлица (правило 3 — отклонение только при документально подтверждённой ликвидации/банкротстве/отсутствии юрлица). Роль оставлена 'unknown' — по названию ('Healthcare') и заявленным HS 210690/300510/382499/391400 (БАДы/пищевые продукты, перевязочные материалы, химическая продукция, ионообменные смолы) определить manufacturer vs trader невозможно без данных о деятельности. Заявленный штат в инпуте не указан (state_claimed пусто), поэтому сверять state_registered не с чем. Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP или при получении GSTIN/CIN от поставщика."
+}

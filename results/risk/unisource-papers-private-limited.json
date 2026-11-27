@@ -1,0 +1,9 @@
+{
+ "name_input": "Unisource Papers Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no adverse findings, but also no verification. Tooling failed: the DuckDuckGo/searx backend returned 'Connection refused' on every attempt; Google and DuckDuckGo HTML endpoints were blocked/timed out; Bing ignored the quoted query and returned only unrelated US entities (UniSource Energy Services, Unisource Worldwide/Veritiv, Unisource Manufacturing, Unisource Insurance) - no Indian company named 'Unisource Papers Private Limited' surfaced. What WAS checked: (1) Indian Kanoon full-text search for \"Unisource Papers\" - 0 matching judgments (https://indiankanoon.org/search/?formInput=%22Unisource%20Papers%22), so no reported court cases found, though absence in Indian Kanoon is not proof of no litigation (lower courts, DRT, NCLT and arbitration are not fully covered). (2) OFAC Sanctions List Search page loaded but is a JavaScript form that returns no results to a plain HTTP fetch, so no SDN/Non-SDN screening was actually performed - sanctions_hit is null, NOT a clean result. NOT checked at all: UN Consolidated List, EU consolidated list, UK OFSI list, BIS Entity List, NCLT/DRT/NCLAT filings, IBBI insolvency records, MCA/ROC filings, RBI/SEBI/EPCH/regulator actions, credit ratings (CRISIL/ICRA/CARE/India Ratings/Acuité), and any Russian/CIS customs or trade-data evidence. All fields set to null per instruction not to invent data. RECOMMENDATION: re-run this company when the search backend is restored, and screen the exact registered name against OFAC/EU/UK/UN lists plus NCLT and IBBI directly. No rejection grounds identified, and per project rules sanctions/court matters would not be rejection grounds in any case."
+}

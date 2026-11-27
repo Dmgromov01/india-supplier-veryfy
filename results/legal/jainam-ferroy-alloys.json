@@ -1,0 +1,18 @@
+{
+ "name_input": "Jainam Ferroy Alloys",
+ "legal_name": "JAINAM FERRO ALLOYS (I) LIMITED (as claimed by input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx: connection refused) on both queries, and all direct attempts to read public registry aggregators failed: zaubacorp.com company page and company search -> HTTP 403 Forbidden; thecompanycheck.com -> HTTP 403; tofler.in -> HTTP 404; instafinancials.com -> HTTP 404. Bing/Google HTML endpoints returned only unrelated or empty results, so no CIN, PAN, GSTIN, incorporation date, state of registered office, MCA status or audited revenue figures could be sourced. Per project rules, nothing was invented: all identifiers and revenue fields are null. No rejection is warranted - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / data not public via available tools'. Role cannot be determined from registry data alone (no NIC/principal-activity code obtained), so it is recorded as 'unknown' rather than guessed as manufacturer or trader. HS code 720211 (ferro-manganese, C>2%) is consistent with the claimed name and industry, but HS is not a rejection criterion and no correction is proposed. Recommended next step: re-run against MCA master data / GST portal once search access is restored, or obtain the CIN or GSTIN directly from the supplier."
+}

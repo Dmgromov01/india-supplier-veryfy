@@ -1,0 +1,9 @@
+{
+ "name_input": "EPIGRAL LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no findings either way. All search backends failed during this run: DuckDuckGo/searx returned 'Connection refused' and timeouts, Bing and Google returned unrelated/blocked result pages, Wikipedia returned HTTP 429 (automated-request block), epigral.com returned a bot-verification interstitial, the CRISIL rationale query URL returned 404, and the BSE page returned only a JS shell with no content. Consequently NO source could be read for this company and every field is null because nothing is public-verified in this session - not because a negative check was performed. Do NOT read these nulls as 'clean'. What is known without a source (flagged as unverified background, not a finding): Epigral Limited is the renamed Meghmani Finechem Limited, a listed Indian chlor-alkali/specialty chemical producer in Gujarat; the declared HS codes (290312 = dichloromethane, 291030 = epichlorohydrin, 381220 = plasticiser compounds) are consistent with that profile. No sanctions, court, regulator, rating or Russia/CIS-supply determination was made. Per project rules, sanctions/court/criminal matters would not be rejection grounds in any case; this company is neither rejected nor cleared on risk grounds - it is UNASSESSED. Recommended next step: re-run with working search access, checking (a) OFAC SDN/UN/EU/UK consolidated lists and the BIS Entity List for 'Epigral' and the legacy name 'Meghmani Finechem', (b) eCourts/NCLT/SEBI/BSE-NSE disclosure filings for court and regulator matters, (c) CRISIL/ICRA/CARE/India Ratings press releases for the current rating and its date, and (d) Indian trade-data and open-source reporting for any Russia/CIS shipments."
+}

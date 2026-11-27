@@ -1,0 +1,18 @@
+{
+ "name_input": "Paul International",
+ "legal_name": "PAUL INTERNATIONAL (as claimed; exact registered legal form not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com) returned HTTP 403, and Bing/Google/DDG fallbacks returned irrelevant results with the query terms dropped. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Nothing is invented: all fields are null. The claimed name 'PAUL INTERNATIONAL' is a very common Indian trade name (multiple proprietorships/partnerships/LLPs across states), so without a CIN or GSTIN the specific entity cannot be disambiguated. No rejection applied - absence of retrievable data is not evidence of non-existence, strike-off, liquidation or bankruptcy. Role left as 'unknown' (no registry evidence of manufacturing plant or trading activity). Declared HS 845230 (machine-tool parts) is not a rejection ground per project rules and was not assessed. Recommended next step: re-run with working search access, or obtain the supplier's GSTIN/CIN or IEC from the client to resolve the entity."
+}
