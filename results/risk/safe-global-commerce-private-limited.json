@@ -1,0 +1,9 @@
+{
+ "name_input": "SAFE GLOBAL COMMERCE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Google — HTTP 429; DuckDuckGo HTML — timeout; Bing по точной фразе в кавычках выдал только нерелевантную выдачу (SAFe framework, сейфы, credit unions) — ни одного упоминания компании. Zauba отдал 403. Инструмент OFAC Sanctions List Search доступен только как JS-форма, программный запрос по имени через http_get не выполняется, поэтому санкционный скрининг по SDN/Non-SDN фактически НЕ проведён — sanctions_hit=null означает 'не проверено', а не 'чисто'. Аналогично не проверены: UN/UK/EU/BIS Entity List, индийские судебные реестры (eCourts/NCLT), действия регуляторов, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings), признаки поставок в РФ/СНГ. Ни одна из этих категорий не подтверждена и не опровергнута; выдумывать данные не стал. Рекомендация: повторить скрининг вручную — прямая проверка по OFAC SDN XML/CSV, UK OFSI consolidated list, EU consolidated list, BIS Entity List, eCourts по названию компании, а также по домену/сайту компании и IndiaMART-профилю. Примечание по правилам проекта: даже при обнаружении санкций/судов/уголовных дел владельцев компания не отклоняется — фиксируется нейтрально как 'есть сложности'."
+}

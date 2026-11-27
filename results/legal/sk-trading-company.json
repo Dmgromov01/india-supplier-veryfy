@@ -1,0 +1,18 @@
+{
+ "name_input": "SK Trading Company",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'SK Trading Company' — крайне неспецифичное имя (инициалы + родовое 'Trading Company'); в Индии под таким наименованием может существовать множество проприетарных фирм, товариществ и компаний, поэтому привязка к конкретному юрлицу без CIN/GSTIN/адреса была бы выдумкой. Попытки проверки: web_search вернул ошибку бэкенда (searx: connection refused); DuckDuckGo HTML — таймаут; Bing по запросам \"SK TRADING COMPANY\" GSTIN/CIN и site:zaubacorp.com/tofler.in/indiafilings.com выдал только нерелевантные результаты (SK Group, SK Tools, Саскачеван) — целевых страниц реестра не найдено; прямые запросы к zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in вернули HTTP 403 Forbidden. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус, ни выручка не подтверждены — все поля null, ничего не додумано. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не равно отсутствию юрлица (правило 3: rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Роль оставлена 'unknown' (не 'trader'), т.к. наименование 'Trading Company' — заявление, а не подтверждённый факт. Заявленные HS 691200 (керамическая посуда/плитка) и 741819 (медные изделия прочее) не проверялись и не являются основанием для отклонения (правило 3). Требуется от поставщика: точное юрлицо, CIN/GSTIN, адрес регистрации — после чего проверку можно завершить."
+}

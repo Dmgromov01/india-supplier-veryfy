@@ -1,0 +1,24 @@
+{
+ "name_input": "Moveit Infra Services Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "forum": "State Consumer Disputes Redressal Commission (appeal before NCDRC)",
+   "case": "M/s Ashok Leyland Limited vs Mukesh Tomer, 26.04.2023",
+   "party_role": "Moveit Infra Services named via its Director Sh. Manish Srineth (House No. 30, Vivekanand Gram, Near Jogiwala, Dehradun) as a party/respondent-side entity in a consumer dispute concerning a vehicle (Doosan Infracore / Ashok Leyland matter)",
+   "status": "decided 26.04.2023 by the State Commission; no further proceedings found",
+   "source": "https://indiankanoon.org/search/?formInput=%22Moveit%20Infra%20Services%22"
+  },
+  {
+   "forum": "State Consumer Disputes Redressal Commission",
+   "case": "Doosan Infracore & Another vs Mukesh Tomer, 26.04.2023",
+   "party_role": "same entity referenced through Director Manish Srineth",
+   "status": "decided 26.04.2023",
+   "source": "https://indiankanoon.org/search/?formInput=%22Moveit%20Infra%20Services%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no match found for 'Moveit Infra Services' in OFAC SDN, UN, EU, UK or BIS Entity List checks — but note the search backend (DuckDuckGo/searx) was returning connection errors for the whole session, so this is a negative result from limited coverage, not a verified clean screen; treat sanctions_hit as unverified (null), not as 'clear'. Court cases: two consumer-forum matters dated 26.04.2023 found on Indian Kanoon, where the company appears through its Director Manish Srineth; these are consumer/product disputes, not criminal or fraud matters, and per project rules are not a rejection ground — noted neutrally as 'есть сложности'. No NCLT/insolvency, DRT, SEBI, ED, CBI or GST enforcement action found. Rating: no credit rating is public for this entity (typical for a small private infra services firm) — null, not invented. News risk: no negative press located; Google search was rate-limited (HTTP 429) and ZaubaCorp/TheCompanyCheck returned HTTP 403, so corporate-registry and news coverage could not be read. RF/CIS supply: no evidence of any supplies to Russia or the CIS found in any accessible source — null. Overall: no rejection grounds identified under the project rules; the risk picture is simply very thin on public data, and the sanctions screen should be re-run once the search backend is available."
+}

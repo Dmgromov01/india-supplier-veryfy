@@ -1,0 +1,8 @@
+{
+ "name_input": "Atharva Cranes Hoist LLP",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for ATHARVA CRANES HOIST LLP (https://importkey.com/countries/india/atharva-cranes-hoist-llp) and the variant ATHARVA CRANES AND HOISTS LLP (https://importkey.com/countries/india/atharva-cranes-and-hoists-llp) both render only the paywalled shell: \"Shipments available for ATHARVA CRANES HOIST LLP, refreshed daily\" — rows actually seen: 0. No bill-of-lading number, date, destination or HS code was visible on any accessible page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record was retrievable. Search backend (DuckDuckGo/searx) returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on all three queries; Google returned HTTP 429; volza, eximpedia, trademo returned HTTP 403; importgenius returned a JavaScript challenge. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, поскольку все источники отгрузочных данных были недоступны (403/429/paywall) в момент проверки. Статус по обоим направлениям — unknown, а не none_found: отсутствие доступа к данным не равно отсутствию отгрузок. Заявления сайта/каталога фактом не считались и не использовались. Выручка: null (не публична, не выдумывалась). Объём экспорта: null. Заявленный HS 842691 (краны/подъёмники) не подтверждён ни одной таможенной записью — исправлять код не на чем, фактический HS неизвестен. Юрлицо не проверялось по MCA (вне роли); оснований для rejected нет. Рекомендация: повторить проверку при доступности платного среза ImportKey/Volza или при появлении номера B/L либо GSTIN."
+}
