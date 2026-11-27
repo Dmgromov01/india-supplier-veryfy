@@ -1,0 +1,8 @@
+{
+ "name_input": "MASPACK LIMITED; MAS PACK LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/mas-pack-limited and .../mas-pack-ltd both returned only the paywalled template shell: \"Shipments available for MAS PACK LIMITED, refreshed daily\" — no bill-of-lading row, no date, no destination, no HS code was rendered. Source counter: 2 ImportKey pages opened, 0 shipment rows actually seen. Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS challenge; DuckDuckGo search backend was unreachable (connection refused) for all queries.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Zaubacorp returned HTTP 403; no accessible public procurement or GST record was found within the tool budget. Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что отгрузок не было: все источники таможенных данных закрыты пейволом или блокировкой (403), а поисковая система была недоступна, поэтому проверка фактичности не выполнена. Статус по обоим направлениям — unknown, а не none_found, чтобы не утверждать отсутствие отгрузок без проверки. Заявленный HS 844140 (оборудование для литья/формования изделий из бумажной массы) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения; вердикт по HS не выносится. Юрлицо MAS PACK LIMITED не проверено на существование/ликвидацию (реестры вне области задачи и были недоступны). Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Рекомендуется повторная проверка при доступном поиске и платном срезе таможенных данных."
+}

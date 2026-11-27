@@ -1,0 +1,8 @@
+{
+ "name_input": "Roopam Steel Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'roopam-steel-pvt-ltd' (https://importkey.com/countries/india/roopam-steel-pvt-ltd) returned only the gated template: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible (0 of an unknown total). Second slug 'roopam-steel-pvt-limited' returned the identical template, also 0 rows. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved. Search backend (DuckDuckGo/searx) returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on every query, so no domestic-supply record was located. 0 rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники фактических отгрузок оказались недоступны. ImportKey отдал только заглушку без единой строки данных (проверены два варианта слага), volza/eximpedia/trademo вернули HTTP 403, importgenius — JS-challenge, веб-поиск полностью не работал (connection refused). Поэтому статус по экспорту и по внутреннему рынку — unknown, а не none_found: отсутствие данных здесь означает недоступность инструментов, а не отсутствие отгрузок. Заявленные коды HS (720839; 720851; 721911; 722540 — плоский прокат и нержавеющая сталь) ни подтвердить, ни опровергнуть не удалось. Выручка и объём экспорта: null (не публичны / не получены). Рекомендация: повторить проверку при доступном поиске и платном срезе таможенных данных, либо запросить у поставщика экспортные B/L и GST-декларации напрямую."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "VARINDRA TOOLS PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search returned 'searx: Connection refused' on both queries; direct http_get to zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in returned HTTP 403; Bing/Google fallbacks returned unrelated results (weather, DuckDuckGo marketing pages), so no usable registry page was reached. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public-verified, simply unverified. The claimed legal name 'VARINDERA TOOLS PRIVATE LIMITED' differs from the input spelling 'VARINDRA TOOLS PVT. LTD' (Varindera vs Varindra); this discrepancy is unresolved and must be checked against MCA before any record is created. No state was claimed in the input, so state match cannot be assessed. Role left as 'unknown' - the '-Tools' name and the declared HS codes (8204 hand-operated spanners/wrenches, 8205 hand tools incl. 8205.30) are consistent with a hand-tool maker, but that is inference from the name and HS codes only, not evidence of manufacturing. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity may well exist, it simply could not be verified with the available tools. Recommend re-queue for a retry when search/registry access is restored, and confirm the exact spelling of the legal name at that time."
+}
