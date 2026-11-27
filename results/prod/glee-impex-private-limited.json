@@ -1,0 +1,31 @@
+{
+ "name_input": "GLEE IMPEX PRIVATE LIMITED",
+ "declared_hs": "200799",
+ "actual_hs_list": [
+  "200799",
+  "200290",
+  "200799 (banana/tomato/onion powders — fruit/vegetable purée & powder, cooked, whether or not with added sugar)",
+  "110630",
+  "110620",
+  "071290",
+  "071231",
+  "080132",
+  "040891",
+  "040899",
+  "330129",
+  "330190",
+  "091099",
+  "090421",
+  "100630",
+  "100590",
+  "200799 (mango pulp — fruit pulp, prepared/preserved)",
+  "481810",
+  "481890",
+  "250840",
+  "300490 (ayurvedic cough syrup — see note)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website gleeimpex.com (sitemap + products.php, read 2026) lists: white & red onion powder, tomato powder, banana powder, egg powder, mushrooms, makhana (fox nuts), mango pulp, essential oils, grains, spices (incl. red chilli), tissue paper, multani mitti (Fuller's earth), ayurvedic cough syrups, 'healthy snacks', 'super food'. Declared HS 2007.99 (jams/fruit-vegetable purées & pastes, cooked) covers only the powder/pulp segment (onion, tomato, banana powders, mango pulp) — i.e. one of ~10 declared product lines. Not covered by 2007.99: makhana (roasted fox nuts — 2008.19/0712.90 depending on processing), egg powder (0408.91/0408.99), essential oils (3301.29/3301.90), spices & red chilli (0904.21, 0910.99), grains (1006.30, 1005.90), tissue paper (4818.10/4818.90), multani mitti (2508.40), ayurvedic cough syrup (3004.90 — a pharma line, not food at all).",
+ "role_hint": "trader",
+ "comment": "HS 2007.99 is only partially corroborated: it fits the fruit/vegetable powder & pulp lines (onion, tomato, banana powder, mango pulp) but the catalogue is far broader — egg powder, makhana, spices/chilli, grains, essential oils, tissue paper, multani mitti and ayurvedic cough syrup all fall outside 2007.99. Per rule 3 this is NOT a rejection ground: company stays in the base, code corrected/expanded to the actual range above, verdict accepted_hs_corrected. Industry label 'Продукты питания и FMCG' is only partly right — the range also includes non-food (tissue paper, Fuller's earth) and a pharma line (cough syrup), so the industry field should be widened to agro-commodities + non-food trading. Trader signs: site self-describes as 'exporter company in India' sourcing and processing goods, no plant/processing capacity, no factory address (footer only 'Noida, (UP) India - 201301', gmail contact, 'Glee Impexx is a trade name of Glee Impex Private Limited') — consistent with merchant-exporter/trader, not manufacturer. Product lines missing from the declaration: egg powder, makhana, mushrooms, spices/red chilli, grains, essential oils, tissue paper, multani mitti, ayurvedic cough syrup, healthy snacks/superfood. All product claims are website-only: no customs line, invoice or B-L was checked in this pass, so every line above is 'заявлено, не подтверждено'. Note also the site's own testimonials are internally inconsistent (calls the firm 'an outstanding exporter based in Germany'), which weakens the marketing content as evidence. No registry, revenue or shipment-volume research done per role scope."
+}

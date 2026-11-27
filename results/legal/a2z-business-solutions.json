@@ -1,0 +1,18 @@
+{
+ "name_input": "A2Z Business solutions",
+ "legal_name": "A2Z BUSINESS SOLUTION'S (as claimed; no registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT achieved. Tooling failed: web_search backend returned 'Connection refused' (searx) on both queries; zaubacorp.com, instafinancials.com and mca.gov.in returned HTTP 403; thecompanycheck.com search returned 404; DuckDuckGo HTML timed out; Bing returned only generic unrelated 'A2Z' results (Amazon A to Z, A2Z EV, A2Z Clothing) with no Indian registry hit, i.e. the quoted name was not matched. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source. Nothing is invented: all fields null. The claimed name 'A2Z BUSINESS SOLUTION'S' with an apostrophe is typical of a sole-proprietorship GST trade name rather than a company name, so a CIN may legitimately not exist - but this is an inference, not a verified fact. Per project rules the company is NOT rejected (no evidence of non-existence, strike-off, liquidation or bankruptcy was found; absence of a record in an unsearchable index is not proof of non-existence). Role left as 'unknown'. Declared HS 500790 (silk fabrics) is inconsistent with the claimed industry 'food & FMCG', but per rule 3 this is not a rejection ground - HS should be corrected to the actual code at the next verification stage. ACTION REQUIRED: re-run with working search/registry access (MCA master data, GST portal public search, Zauba/Tofler) to obtain CIN/GSTIN, state of registration and FY25/FY26 audited revenue before any acceptance decision."
+}

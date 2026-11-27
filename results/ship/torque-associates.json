@@ -1,0 +1,8 @@
+{
+ "name_input": "TORQUE ASSOCIATES",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/torque-associates (and slug variant /torque-associate) returned only the paywalled shell: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows visible, no date, no destination, no HS code, no bill-of-lading number. Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS challenge; Bing and DuckDuckGo returned only generic 'torque' physics pages, no company-specific trade records.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for '\"Torque Associates\" GST India supplier' returned no company-specific result (0 relevant rows out of 8 results shown, all generic physics/automotive-parts pages).",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что компания не поставляет: все четыре коммерческих трейд-базы (Volza, Eximpedia, Trademo, ImportGenius) заблокировали доступ (403/JS), а ImportKey отдаёт только заглушку без строк — то есть факт отгрузок проверить не удалось, статус именно unknown, а не none_found. Заявленный HS 841290 (части турбин/двигателей) ничем не подтверждён и не опровергнут; по правилу 3 несоответствие HS не является основанием для отклонения, поэтому компания сохраняется в базе. Выручка и объём экспорта — null (не публичны, не выдумывались). Рекомендация: повторить проверку через платный доступ к Volza/Eximpedia или запросить у поставщика GSTIN и IEC для прямой сверки."
+}

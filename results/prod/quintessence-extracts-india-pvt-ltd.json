@@ -1,0 +1,16 @@
+{
+ "name_input": "QUINTESSENCE EXTRACTS INDIA PVT LTD",
+ "declared_hs": "130219;130231;130232;320300",
+ "actual_hs_list": [
+  "130219",
+  "130219 (oleoresins, CO2/SCFE extracted)",
+  "330190 (essential oils/absolutes obtained by CO2 extraction - essential-oil type concentrates)",
+  "330210 (flavour compounds for food & beverage use)",
+  "130232 (only if guar/gum-type raw material is actually processed - not evidenced)",
+  "320300 (only if colouring matter of vegetable origin is actually produced - not evidenced)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (quintessenceextracts.com, homepage read 2026) states the company manufactures CO2 / supercritical-fluid (SCFE) extracted: (1) Oleoresins, (2) Essential Oils, (3) Absolutes, (4) Flavours, plus 'Oleoresins Oils'. Raw materials described only generically as 'exotic raw materials from across the Indian sub continent'; no named botanical species, no product list with CAS/INCI, no catalogue PDF. Applications claimed: pharmaceutical, nutraceutical, food & beverage, flavour & fragrance, spa/aromatherapy. Plant located Jakkur, Bangalore 560 092. Product sub-pages (co2-extracted-oleoresins.html, co2-extracted-essential-oils.html, products.html) return HTTP 404, so the itemised range could not be read - only the navigation labels and homepage text are verifiable.",
+ "role_hint": "manufacturer (own SCFE/CO2 extraction plant claimed; no trader signs found on site - no 'we are a trading house', no third-party brand resale). Manufacturing capability is claimed, not independently corroborated in this HS-only review.",
+ "comment": "HS mapping: declared 130219 (vegetable saps/extracts, pectinates, agar-agar & other mucilages - residual subheading) is the correct basket for oleoresins and CO2 extracts -> exact/consistent with the declared line. Declared 130231 (agar-agar) and 130232 (mucilages & thickeners from guar seeds/locust beans) are NOT corroborated by anything on the website: no agar, no guar gum, no locust bean gum, no hydrocolloid line is mentioned -> 'заявлено, не подтверждено'. Declared 320300 (colouring matter of vegetable/animal origin) is likewise not corroborated - no natural colour/annatto/carotenoid product is listed -> 'заявлено, не подтверждено'. Conversely, the site's two other core lines are MISSING from the declaration: CO2-extracted essential oils and absolutes (typically 3301.90 / 3301.2x) and CO2-extracted flavours (typically 3302.10) - these should be added to the actual HS list. Industry classification 'Продукты питания и FMCG' is only partly right: the company is a botanical-extract / flavour & fragrance ingredient manufacturer (B2B, pharma/nutraceutical/cosmetics end-uses), not an FMCG producer - industry misclassification, better described as 'химия/экстракты, ингредиенты'. No customs line, no shipment record and no invoice was available in this review, so every product claim above is 'заявлено, не подтверждено' - the only verified fact is the company's own website content. Per project rule 3, the partial HS match is not a rejection ground: company is kept, code list corrected to 130219 + 330190 + 330210, with 130231/130232/320300 retained only as declared-but-unconfirmed. No registry, revenue or customs-volume research was performed in this task."
+}
