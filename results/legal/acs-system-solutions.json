@@ -1,0 +1,18 @@
+{
+ "name_input": "ACS system solutions",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be located. The input itself is internally inconsistent: 'legal_claimed' = 'SANTOSH KUMAR' is a person's name, not a legal entity name, and no state was claimed. Searches for 'ACS System Solutions' returned only unrelated results (American Chemical Society etc.); registry aggregators (Zauba, InstaFinancials, TheCompanyCheck) returned 403/404 and the search backend was unavailable, so no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified. Nothing is asserted as fact here — all fields null. NOT rejected: absence of a found record is not proof of non-existence; the entity may exist under a different exact legal name (e.g. 'ACS Systems Solutions Pvt Ltd' / LLP) or as a proprietorship/partnership with no CIN. Role cannot be determined without a registry or GST profile. Next step: obtain the exact legal name, PAN or GSTIN from the supplier and re-run verification against MCA/GST portals."
+}

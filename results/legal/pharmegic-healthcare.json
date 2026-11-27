@@ -1,0 +1,18 @@
+{
+ "name_input": "pharmegic healthcare",
+ "legal_name": "PHARMEGIC HEALTHCARE PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) and all direct registry/profile sources returned errors: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 403, mca.gov.in returned HTTP 403, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only irrelevant results (no matching company page). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, not invented. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role cannot be determined from registry data, so recorded as 'unknown'. Per project rules, no rejection is applied: absence of retrievable data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Note also that the input's industry_claimed ('Нефтегаз и химия' — oil & gas / chemicals) is inconsistent with the declared HS 300490 (pharmaceutical medicaments) and with the company name 'Pharmegic Healthcare'; per rule 3 this is NOT a ground for rejection — the company stays in the database and the HS code should be corrected to the actual one (likely a Chapter 30 pharmaceutical code) with verdict accepted_hs_corrected. Recommended next step: manual MCA master-data lookup by name and GST portal search to fill CIN, PAN, GSTIN and incorporation details."
+}

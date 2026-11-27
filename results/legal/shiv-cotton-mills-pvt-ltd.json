@@ -1,0 +1,18 @@
+{
+ "name_input": "Shiv Cotton mills pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. Все попытки доступа к реестрам не удались: web_search вернул 'Connection refused' (searx), DuckDuckGo HTML — таймаут, Bing по запросам '\"Shiv Cotton Mills Private Limited\" CIN', '\"SHIV COTTON MILLS\" private limited zaubacorp OR tofler OR indiafilings', '\"Shiv Cotton Mills\" CIN U17111' выдал только нерелевантные результаты про слово 'shiv' (оружие, Шива, игра Deadlock) — ни одной страницы реестра; zaubacorp.com, thecompanycheck.com и mca.gov.in вернули HTTP 403, Google — 429. Следовательно: точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 — null. Роль — unknown (по названию 'Cotton Mills' и HS 520811 предположительно производитель тканей, но это не подтверждено документом). Отклонять НЕЛЬЗЯ: нет доказательств, что юрлицо не существует, ликвидировано или банкрот — отсутствие данных не основание для rejected. Требуется повторная проверка при доступном реестре (MCA master data / Zauba / Tofler) по точному названию. Отдельно для Дмитрия: заявленный HS 520811 (ткань хлопчатобумажная) не соответствует указанной отрасли 'Продукты питания и FMCG' — по правилам это не основание для отклонения, код подлежит исправлению на фактический после подтверждения деятельности; отрасль в карточке следует привести в соответствие с HS (текстиль), а не FMCG."
+}

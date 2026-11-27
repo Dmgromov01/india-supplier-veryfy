@@ -1,0 +1,18 @@
+{
+ "name_input": "Stainless India",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена. Входные данные противоречивы: 'legal_claimed' = 'VINAY PRAKASHCHANDRA SHAH' — это имя физлица (вероятно, проприетор/директор), а не название компании; 'Stainless India' — неполное/торговое наименование без организационно-правовой формы, поэтому однозначно сопоставить с записью MCA невозможно. Заявленный HS 730411 (трубы из нержавеющей стали) противоречит заявленной отрасли 'IT и электроника' — вероятно, ошибка ввода отрасли; по правилам HS не является основанием для отклонения, код подлежит исправлению на фактический (трубы/изделия из нерж. стали). Проверка источников: web_search (DuckDuckGo/searx) недоступен (connection refused); zaubacorp.com — HTTP 403; mca.gov.in MDS — HTTP 403; thecompanycheck/instafinancials/tofler — 404; Google — 429; Bing по запросам 'Stainless India' + 'Vinay Prakashchandra Shah' и 'Stainless India GST CIN' вернул только общие статьи о нержавеющей стали, релевантных реестровых записей нет. Итог: CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка FY25/FY26 — null (не публично/не найдено), цифры не выдумывались. Роль — unknown (нет данных о производственных мощностях или торговой деятельности). ВЕРДИКТ: не отклонять — отсутствие подтверждения существования юрлица по названию не равно доказательству несуществования; требуется от поставщика точное юрлицо, CIN/GSTIN и PAN для повторной проверки. Следов поставок по реестровым данным не установлено (в рамках роли реестрового специалиста отгрузки не проверялись)."
+}
