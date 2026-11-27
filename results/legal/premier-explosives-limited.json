@@ -1,0 +1,18 @@
+{
+ "name_input": "Premier Explosives Limited",
+ "legal_name": "PREMIER EXPLOSIVES LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Telangana",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": 417,
+ "revenue_fy26_cr": 388,
+ "revenue_source": "Screener.in consolidated annual P&L (Mar 2025: Sales 417 Cr; Mar 2026: Sales 388 Cr), derived from the company's BSE/NSE filings (BSE: 526247, NSE: PREMEXPLN); not independently verified against the audited PDF annual report",
+ "note": "Entity exists and is listed (BSE 526247, NSE PREMEXPLN); no rejection grounds. Legal name confirmed as 'PREMIER EXPLOSIVES LIMITED' from the company's own website footer (pelgel.com), which also gives the registered office as 'Premier House', 11, Ishaq Colony, near AOC Centre, Secunderabad, Telangana 500015 — so the registered state is Telangana (input state was blank, no mismatch). Website states the company was established in 1980 and manufactures solid propellants, chaffs/flares, commercial explosives and detonators, i.e. role = manufacturer (HS 3602/3603 matches the actual product line, no HS correction needed). CIN, PAN, GSTIN, GST status, exact date of incorporation and MCA status could NOT be retrieved: the search backend was unavailable (connection refused) and all registry/profile sources tried returned 403/404/429 (ZaubaCorp, TheCompanyCheck, MoneyControl, Wikipedia, BSE page rendered empty, pelgel.com subpages 404). These fields are left null rather than guessed — the CIN format L05092TG1980PLC002878 is widely cited but was NOT confirmed from a public source in this session, so it is not asserted. Revenue figures are consolidated sales from an aggregator of official filings; FY26 (year ended Mar 2026) is treated as the latest reported year. No customs, court or catalogue research performed per role scope."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "VJ Minerals & Chemicals",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни одного публичного реестрового следа не найдено. Что проверено и чем: (1) DuckDuckGo-поиск через инструмент web_search — бэкенд недоступен (connection refused), результатов нет; (2) Bing по запросам \"VJ Minerals & Chemicals\", \"VJ Minerals\" Chemicals GSTIN India, \"VJ MINERALS AND CHEMICALS\" private limited, \"VJ Minerals & Chemicals\" proprietorship GST — движок игнорирует кавычки и выдаёт нерелевантную выдачу про «video jockey»/Vinod Cookware, ни одного профиля компании; (3) Google — HTTP 429; (4) zaubacorp.com — HTTP 403; (5) instafinancials.com — HTTP 403; (6) thecompanycheck.com — открылась только главная страница без результатов поиска (поиск за логином). ВАЖНО по входным данным: в поле legal_claimed указано \"VINOD KUMAR JAISWAR\" — это имя физлица, а не наименование юрлица; вероятно, речь о proprietorship/ИП, у которого нет CIN и нет MCA-статуса, только GSTIN. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты регистрации, ни штата подтвердить не удалось — все поля null, ничего не выдумано. Выручка FY25/FY26: для proprietorship аудиторская отчётность в открытом доступе отсутствует, поэтому null. Роль: unknown (заявленная отрасль «нефтегаз и химия» и HS 382490 — только заявление, не подтверждение). Вердикт: НЕ отклонять — отсутствие найденных записей не равно несуществованию юрлица (правило 3); статус — требуется дополнительная идентификация: запросить у поставщика GSTIN (15 знаков) и/или PAN, после чего проверить на GST-портале и в MCA. Примечание: HS 382490 — товарная позиция «прочие химические продукты», для торговца минералами/химией правдоподобна, но фактический код подлежит уточнению по инвойсу (правило 3: HS не является основанием для отклонения)."
+}

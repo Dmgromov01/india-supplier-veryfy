@@ -1,0 +1,8 @@
+{
+ "name_input": "GODFRAY PHILLIPS INDIA LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row could be read. ImportKey page https://importkey.com/countries/india/godfrey-phillips-india-ltd returned only a paywalled shell: \"Shipments available for GODFREY PHILLIPS INDIA LTD, refreshed daily\" — 0 concrete rows visible (no date, no destination, no HS code, no B/L number). Volza, Eximpedia, Trademo and ImportGenius free views all returned HTTP 403 / JavaScript challenge; web_search backend was down (\"Connection refused\"), so no second source could be opened.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved: godfreyphillips.com failed with SSL CERTIFICATE_VERIFY_FAILED and ZaubaCorp returned HTTP 403. No domestic supply record seen.",
+ "note": "Evidence gap, not a negative finding: no export or domestic shipment record was actually observed, but the sources were unreachable rather than empty, so status is 'unknown' and not 'none_found'. Nothing is asserted about shipments. Declared HS 240110/240120/240130 (unmanufactured tobacco) is consistent with a cigarette manufacturer, but the claimed industry 'Строительство и DIY' (construction/DIY) is clearly wrong and should be corrected to tobacco/FMCG. Legal name in the request is misspelled: 'GODFRAY PHILLIPS' vs claimed 'GODFREY PHILLIPS INDIA LIMITED' — the claimed spelling is the one that appears in the ImportKey record title. Revenue and export volume: null (not public in any source reachable here). Re-run required with a working search backend and a trade-data subscription before any verdict on actual shipments."
+}
