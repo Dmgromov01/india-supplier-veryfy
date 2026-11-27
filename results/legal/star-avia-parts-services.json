@@ -1,0 +1,18 @@
+{
+ "name_input": "Star Avia Parts & Services",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточники не удались: поисковый бэкенд (DuckDuckGo/searx) вернул 'Connection refused', затем таймаут; Google — HTTP 429; Bing игнорировал поисковые операторы и выдавал нерелевантную выдачу про 'star' (астрономия, Starfall и т.п.) на все варианты запроса, включая точную фразу в кавычках; Zauba Corp, The Company Check, InstaFinancials, FalconEbiz — HTTP 403 (закрыты для автоматического доступа). Ни одного подтверждённого идентификатора получить не удалось. ВАЖНО: в поле legal_claimed указано 'RAJENDRAKUMAR MAHENDRAKUMAR AGARWAL' — это имя физлица, а не наименование юрлица; вероятно, речь о proprietorship/individual GST-регистрации, у которой по определению нет CIN и нет MCA-статуса (только GSTIN и PAN физлица). PAN и GSTIN не найдены и НЕ выдуманы. PAN-holder type определить невозможно (нет PAN). Роль (manufacturer/trader) не установлена — по названию ('Parts & Services') предположительно трейдер/сервис, но это догадка, а не факт, поэтому 'unknown'. Выручка FY25/FY26: null — аудированной отчётности или официальных филингов не найдено; для proprietorship публичной отчётности обычно не существует. Вердикт: НЕ отклонять (нет оснований — существование юрлица не опровергнуто, а отсутствие данных не является основанием для rejected по правилам проекта). Статус: 'заявлено, не подтверждено' / требует ручной проверки через GST-портал (search GSTIN по имени) и MCA-портал. HS 852910 (антенны и их части) не проверялся — вне моей роли; несоответствие HS не является основанием для отклонения."
+}

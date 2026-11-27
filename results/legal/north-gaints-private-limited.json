@@ -1,0 +1,18 @@
+{
+ "name_input": "NORTH GAINTS PRIVATE LIMITED",
+ "legal_name": "NORTH GAINTS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT REJECTED - identity unverified, not disproven. No public registry record could be retrieved for this exact name. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in MDS returned HTTP 403; Google returned HTTP 429; Bing returned only generic 'North' dictionary/brand results and did not honour the quoted phrase, i.e. no exact-name hit. Consequence: CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue (FY25/FY26) are all null because nothing was publicly retrievable - none of these values were inferred or invented. PAN holder type cannot be derived without the PAN itself. Role set to 'unknown': the claimed industry (IT/electronics, HS 852349/852351 - recorded/solid-state media) gives no evidence of manufacturing vs trading, and no GST/plant/audited-account evidence was found. State claimed in input was empty, so no state mismatch can be assessed. Note the name is unusual ('GAINTS' rather than 'GIANTS') and may be a transliteration/typo of a differently spelled entity - recommend re-checking the exact spelling against the MCA name search and the GST portal before any decision. Per project rules, non-existence must be established from the registry itself (struck off / liquidated / bankrupt), not from failed web searches, so this company stays in the database pending manual MCA verification. HS codes are not a rejection ground in any case."
+}

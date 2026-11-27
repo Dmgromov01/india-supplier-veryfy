@@ -1,0 +1,8 @@
+{
+ "name_input": "Brahma Tejas",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/brahma-tejas (also -private-limited, -pvt-ltd): page renders only the boilerplate line \"Shipments available for BRAHMA TEJAS, refreshed daily\" with an empty \"Number of shipments by month\" chart — 0 shipment rows actually displayed, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. Source counter: 3 slug variants tried, 3 pages returned, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: DuckDuckGo search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, and volza.com, eximpedia.app and trademo.com free views all returned HTTP 403 Forbidden. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это не подтверждение отсутствия отгрузок, а отсутствие доступа к данным: поисковый бэкенд был недоступен (connection refused), а все три торговых источника (volza, eximpedia, trademo) отдали 403; importkey по трём вариантам слага показал только шаблонную заглушку без единой строки отгрузки. Выручка и объём экспорта: null (не публичны, не выдумывались). Юрлицо не проверено по MCA — реестры вне области задачи, поэтому оснований для rejected нет; статус unknown, требуется повторный прогон при работающем поиске. Отдельно: заявленный industry_claimed «Продукты питания и FMCG» не соответствует declared_hs 610510/620630 (трикотажные рубашки и женские блузки/платья, текстиль) — по правилу 3 это не основание для отклонения, код подлежит исправлению на фактический после получения реальных записей отгрузок."
+}

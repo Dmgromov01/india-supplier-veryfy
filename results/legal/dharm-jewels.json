@@ -1,0 +1,18 @@
+{
+ "name_input": "Dharm jewels",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; ZaubaCorp, InstaFinancials and FalconEbiz returned HTTP 403; QuickCompany search returned HTTP 404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant results (wrestler 'Austin Aries'), i.e. no match for the query. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public/official source. All such fields are set to null rather than guessed. NOT rejected: absence of a found record is not proof of non-existence, and per project rules rejection requires positive evidence that the entity does not exist / is struck off / liquidated / bankrupt - none obtained. Role left as 'unknown' (no evidence of manufacturing or trading activity). Note also that the input is internally inconsistent: declared HS 710421 is a chapter 71 heading (pearls/precious or semi-precious stones - jewellery), while industry_claimed is 'Food & FMCG'; per rules this is not a rejection ground - the HS code should be corrected to the actual activity once the entity is identified. Recommended next step: re-run with working search, or supply the GSTIN/CIN or the exact registered name (e.g. 'Dharm Jewels Pvt Ltd', 'Dharm Jewels LLP') plus city, then verify on MCA master data and the GST taxpayer profile."
+}

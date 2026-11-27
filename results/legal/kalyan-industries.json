@@ -1,0 +1,18 @@
+{
+ "name_input": "KALYAN INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'Kalyan Industries' — не уникальное наименование: под ним в Индии фигурируют множество мелких фирм, проприеторств и товарных знаков в разных штатах, поэтому без CIN/GSTIN/адреса привязка к конкретному юрлицу была бы выдумкой. Входные данные не содержали ни PAN, ни штата, ни адреса — сверять нечего. Попытки проверки: поисковый бэкенд (DuckDuckGo/searx) недоступен (connection refused / timeout); zaubacorp.com, instafinancials.com, mca.gov.in — HTTP 403; thecompanycheck.com и razorpay GST-search — HTTP 404 по прямому URL; Bing выдал только нерелевантную выдачу (Kalyan Jewellers, город Кальян, матka-сайты) без реестровых карточек. Итог: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус, а также выручка FY25/FY26 — null, данные не публичны/не найдены. Роль (manufacturer/trader) не определена — unknown. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется от заказчика уточнение: GSTIN или PAN или полный адрес/штат — тогда проверку можно завершить."
+}

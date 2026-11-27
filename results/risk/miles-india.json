@@ -1,0 +1,9 @@
+{
+ "name_input": "MILES INDIA",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам — данных нет, ничего не выдумано. Что произошло: (1) web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) http_get к duckduckgo.com/html — timeout; (3) http_get к google.com/search — HTTP 429; (4) http_get к bing.com/search по трём разным запросам ('\"Miles India\" Manpreet Singh Kohli', '\"Miles India\" \"Manpreet Singh\" company India', '\"Miles India\" sanctions OR court OR zauba OR tofler') возвращал ОДИН И ТОТ ЖЕ кэшированный набор результатов про мили, American Airlines, Miles College — поисковые операторы игнорировались, выдача непригодна; (5) tofler.in/search — 404. Итог: ни по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), ни по индийским судам (eCourts/NJDG), ни по регуляторам, ни по кредитному рейтингу, ни по поставкам в РФ/СНГ проверить не удалось. Все поля null = 'не проверено / нет публичных данных в доступных источниках', а НЕ 'чисто'. Дополнительно: заявленное имя 'MANPREET SINGH KOHLI' похоже на имя физлица, а не юрлица — вероятно, требуется уточнение, что именно является поставщиком (проприетарное дело / partnership / Pvt Ltd), иначе санкционный и судебный скрининг по имени физлица без привязки к юрлицу даст ложные срабатывания. Рекомендация: повторить проверку при восстановлении поискового бэкенда; компанию НЕ отклонять (правило 2 — санкции/суды не основание для отклонения), статус риска — 'не оценён'. Никаких CIN/PAN/номеров дел не приводится, так как они не подтверждены."
+}

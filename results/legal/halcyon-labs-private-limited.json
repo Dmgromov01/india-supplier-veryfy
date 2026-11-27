@@ -1,0 +1,18 @@
+{
+ "name_input": "HALCYON LABS PRIVATE LIMITED",
+ "legal_name": "HALCYON LABS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; instafinancials.com returned HTTP 404; Google returned HTTP 429; Bing returned only generic 'Halcyon' brand results (halcyon.ai, halcyon.io, halcyon.net) with no Indian MCA/registry hit, including with site: filters for zaubacorp/tofler/thecompanycheck. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public in anything I could reach, and NOT invented. Role cannot be determined from registry data, so 'unknown'. NOT rejected: the entity was not shown to be non-existent, struck off, liquidated or bankrupt - the record simply could not be retrieved. Action required: re-run against MCA master data / GST portal (or a paid registry API) before any verdict. Note also that the declared HS 293329 (heterocyclic compounds containing an unfused imidazole ring - a pharma/fine-chemical intermediate) is inconsistent with the claimed industry 'oil & gas and chemicals'; per project rules this is NOT grounds for rejection - the code should be corrected to the actual product and the verdict set to accepted_hs_corrected once the legal entity is confirmed."
+}
