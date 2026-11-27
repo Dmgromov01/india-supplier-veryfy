@@ -1,0 +1,18 @@
+{
+ "name_input": "Tatva Chintan Chemicals Chem pharma private limited",
+ "legal_name": "Tatva Chintan Pharma Chem Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1996 (exact date not confirmed from a primary registry page in this session)",
+ "state_registered": "Gujarat",
+ "state_claimed": "",
+ "mca_status": "Active (listed company, BSE: 543321 / NSE: TATVA; no strike-off/liquidation/insolvency found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 366,
+ "revenue_fy26_cr": 496,
+ "revenue_source": "Screener.in company page for Tatva Chintan Pharma Chem Ltd (BSE: 543321 / NSE: TATVA), Standalone Profit & Loss table, rows Mar 2025 = 366 and Mar 2026 = 496 (Rs crore); consolidated figures also shown (FY25 ~382, FY26 ~649). Screener aggregates figures from the company's audited annual results/BSE filings; the audited PDF itself was not opened in this session.",
+ "note": "Имя во входных данных искажено: 'Tatva Chintan Chemicals Chem pharma private limited' — фактическое юрлицо ООО-эквивалент отсутствует, это ПУБЛИЧНАЯ компания: Tatva Chintan Pharma Chem Limited (listed, BSE 543321, NSE TATVA), incorporated 1996, Gujarat. 'PINAKINBHAI VAKHARIA' — не название юрлица, а имя промоутера/директора (Pinakin Vakharia), т.е. поле legal_claimed заполнено неверно. Роль: manufacturer (собственные производственные площадки в Анклешваре/Даге, Гуджарат; сайт tatvachintan.com подтверждает 2 производственных объекта, 150+ продуктов). CIN, PAN и GSTIN в этой сессии подтвердить не удалось: поисковый бэкенд был недоступен (searx connection refused), а zaubacorp/thecompanycheck отдали HTTP 403, IndiaMART — 429. Поэтому CIN/PAN/GSTIN/GST-статус = null, не выдуманы. PAN-тип определить невозможно без самого номера. Штат регистрации (Гуджарат) соответствует химическому производству; state_claimed во входных данных пуст. HS 300490 (лекарства) не соответствует фактическому профилю — компания выпускает специальные химикаты, ПАВ/катализаторы, электролитные соли, промежуточные продукты для фармы и агрохимии (не готовые лекарственные формы). Согласно правилам проекта HS-несоответствие НЕ является основанием для отклонения: компания сохраняется, фактический код должен быть исправлен (вердикт accepted_hs_corrected). Отклонения нет: юрлицо существует, действует, не ликвидировано и не банкрот. Выручка: FY25 366 крор INR, FY26 496 крор INR (standalone, по данным Screener.in из аудированной отчётности)."
+}

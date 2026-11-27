@@ -1,0 +1,9 @@
+{
+ "name_input": "UTTAM BLASTECH PRIVATE LIMITED; UTTAM BLASTECH PRIVATE LTD; UTTAM BLASTECH PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' / таймауты на всех запросах; Bing отдавал нерелевантную мусорную выдачу (результаты не по запросу); zaubacorp.com и thecompanycheck.com вернули HTTP 403; страница поиска OFAC Sanctions List Search отдала только интерфейс без результатов (поиск требует POST/JS, недоступен через http_get). Ни один риск-фактор не подтверждён и не опровергнут. Все поля оставлены null — данные не выдумывались. Требуется повторный прогон при доступном поиске: проверить OFAC SDN/SSI, UN, EU, UK OFSI, BIS Entity List по вариантам написания 'Uttam Blastech'; eCourts/NCLT/High Court по юрлицу и директорам; рейтинги CRISIL/ICRA/CARE/India Ratings; негативные новости; следы поставок в РФ/СНГ (в т.ч. по HS 3603 — взрывчатые вещества, что повышает приоритет проверки на реэкспорт). Отклонение по правилам проекта не предлагается: оснований (ликвидация/банкротство) не установлено, статус — 'не проверено'."
+}

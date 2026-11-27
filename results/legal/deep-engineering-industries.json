@@ -1,0 +1,18 @@
+{
+ "name_input": "DEEP ENGINEERING INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый источник не удалось прочитать. Инструмент web_search возвращал 'Connection refused' (searx недоступен); Bing/Google по запросам 'DEEP ENGINEERING INDUSTRIES' + 'Amandeep Singh Khinda' и 'Deep Engineering Industries Ludhiana/Punjab GST proprietor' выдали нерелевантную выдачу (healthline.com, microsoft.com) — признак того, что релевантных публичных страниц по этому названию не найдено; zaubacorp.com и instafinancials.com — HTTP 403; search.mca.gov.in — DNS не разрешается; duckduckgo html/lite — timeout; tofler.in/search — 404. В input указано 'legal_claimed: AMANDEEP SINGH KHINDA', что похоже на имя физлица/проприетора, а не на юрлицо, поэтому CIN может отсутствовать в принципе (форма proprietorship), но подтвердить это нечем. PAN, GSTIN, дата регистрации, статус MCA, выручка FY25/FY26 — null, публично не подтверждено в рамках доступных источников. Роль — unknown (по заявленным HS 841582/852351/903180 и названию 'Industries' можно предполагать производство, но это не подтверждено). НЕ отклонять: отсутствие данных о существовании юрлица не равно его отсутствию; требуется повторная проверка при восстановлении доступа к реестрам (MCA master data, GST-портал по GSTIN, Zauba/Tofler)."
+}

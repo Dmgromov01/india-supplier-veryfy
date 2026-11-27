@@ -1,0 +1,18 @@
+{
+ "name_input": "Devine Meditech Private Limited",
+ "legal_name": "DEVINE MEDITECH PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. The web_search tool returned a backend error (searx: connection refused) on both attempts, and direct fetches of registry/profile sources (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com, mca.gov.in) all returned HTTP 403 Forbidden. Bing/Google HTML fallbacks returned only irrelevant generic results for the word 'devine' and no company record. Therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and financials are all null because they are not publicly retrievable with the available tools - NOT because they were checked and found absent. No rejection is proposed: non-existence/strike-off/liquidation could not be established either way. Role left as 'unknown' (name suggests medical devices, consistent with HS 901850, but no registry evidence of manufacturing vs trading activity was obtained). Revenue FY25/FY26: no audited accounts or official filings accessible, so null. Recommend re-running this company when search access is restored, or manual check on the MCA master-data portal by exact name."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "GRIL",
+ "legal_name": "GANTI RADIO ISOTOPE LABORATORIES (as claimed in input; exact MCA-registered legal form — e.g. whether it is a Private Limited company, LLP or a partnership/proprietorship — could NOT be verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; tofler.in search returned a 404 page; Google returned only a redirect/consent interstitial; Bing returned completely unrelated results (Samsung phones, acid-reflux recipes), i.e. the query was not honoured. Consequently NO CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Per project rules, nothing is invented: all such fields are null. PAN holder type cannot be derived because no PAN was obtained (the 4th-character rule requires an actual PAN string). Role left as 'unknown' — the name suggests a manufacturer of radioisotope/radiopharmaceutical products (plausibly relevant to HS 2844.43), but that is an inference from the name only, not a verified fact. NOT rejected: absence of retrievable public data is not evidence of non-existence, strike-off, liquidation or bankruptcy, and the rules forbid rejection on any other ground. Recommended next step: re-run verification when search/registry access is restored, checking MCA master data for the exact entity name (likely Andhra Pradesh/Telangana registration given the 'Ganti' name), then GST portal for GSTIN and status, then audited FY25/FY26 filings for revenue. Also note the declared HS 284443 (radioactive elements/isotopes, medical use) is a product-code question outside this legal/registry scope and is not a rejection ground in any case."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "UTTAM BLASTECH PRIVATE LIMITED; UTTAM BLASTECH PRIVATE LTD; UTTAM BLASTECH PRIVATE LIMITED",
+ "legal_name": "UTTAM BLASTECH PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - data unavailable, not absent. Tooling failed during this run: web_search backend refused connections (searx: Connection refused) on both queries; direct fetches to zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials.com, tofler.in and mca.gov.in all returned HTTP 403/404; Bing/Google HTML endpoints returned irrelevant or blocked results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) could not be sourced and are recorded as null per the no-invention rule. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply could not be checked. Role left as 'unknown' (no registry/NIC evidence of manufacturing vs trading; the declared HS 3603 (matches/fuses, explosives articles) and the 'oil & gas / chemicals' industry claim are unverified and are not a basis for rejection per project rules). Action required: re-run verification against MCA master data / GST public search when registry access is restored."
+}
