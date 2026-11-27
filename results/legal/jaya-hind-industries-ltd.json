@@ -1,0 +1,18 @@
+{
+ "name_input": "Jaya Hind Industries Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Регистрационные данные НЕ подтверждены: в этом прогоне ни один источник не открылся. web_search (DuckDuckGo/searx) вернул 'Connection refused'; Bing и Google отдали либо 429, либо полностью нерелевантную выдачу (певица Jaya, Jaya Grocer и т.п.) — то есть поиск по названию фактически не выполнялся. Прямые запросы к реестровым агрегаторам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, instafinancials.com — отдал только маркетинговую заглушку без карточки компании, tofler.in по предполагаемому URL — HTTP 404, mca.gov.in (MCA Master Data) — HTTP 403. Поэтому CIN/LLPIN, PAN (и его 4-й символ — тип держателя), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null: выдумывать их запрещено правилами. Обращаю внимание: в claimed-названии 'JAYA HIND INDUSTRIES PRIVATE LIMITED', а в name_input — 'Ltd'; расхождение формы (Private Limited vs Ltd) не проверено, тождество юрлица не установлено. Роль (manufacturer/trader) не определена — по каталогам и сайтам её в рамках этой роли не выясняем. Отклонять НЕЛЬЗЯ: несуществование, struck off, ликвидация или банкротство не подтверждены (и не опровергнуты) — нет данных. Требуется повторный прогон при доступном MCA/GST-портале или загрузка выписки MCA (Company Master Data) вручную. Заявленный HS 840991 (части двигателей) с заявленной отраслью 'Металлургия и горнодобыча' не согласуются, но по правилам проекта HS — не основание для отклонения; код фиксируется по факту после проверки."
+}

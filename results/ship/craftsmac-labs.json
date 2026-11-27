@@ -1,0 +1,8 @@
+{
+ "name_input": "CRAFTSMAC LABS",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'craftsmac-labs' returned only the generic template line: 'Shipments available for CRAFTSMAC LABS, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were rendered. Slug variant 'craftsmac-laboratories-pvt-ltd' returned the same empty template ('Join ImportKey to view the import and export data records of companies all over the world'). Source counter: 2 ImportKey pages fetched, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrieved. ZaubaCorp company page returned HTTP 403; no public procurement record was located. Source counter: 1 registry page attempted, 0 rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: данные просто не получены. ImportKey отдал только заглушку без записей; volza, eximpedia, trademo и zaubacorp вернули HTTP 403; веб-поиск (DuckDuckGo/searx) был недоступен на всех запросах ('Connection refused'), поэтому найти альтернативные страницы не удалось. Заявленный HS 847950 (промышленные роботы) не проверен и не подтверждён ни одной таможенной записью; отрасль 'Металлургия и горнодобыча' также не подтверждена. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Юрлицо 'Craftsmac Laboratories Pvt Ltd' в реестрах не верифицировано — CIN/PAN не найдены, поэтому оснований для rejected нет (нет доказательств ликвидации/банкротства), но и статус accepted не обоснован. Требуется повторная проверка при доступном поиске или платном доступе к таможенным данным."
+}

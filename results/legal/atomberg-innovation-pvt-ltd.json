@@ -1,0 +1,18 @@
+{
+ "name_input": "Atomberg Innovation Pvt Ltd",
+ "legal_name": "ATOMBERG INNOVATION PRIVATE LIMITED (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on every query; direct fetches of public registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned only site navigation with no company record (404 on the direct company URL), tofler.in returned 404 for the guessed CIN URL, quickcompany.in returned 404, mca.gov.in returned HTTP 403, google.com returned HTTP 429, duckduckgo.com timed out, and bing.com returned unrelated results. No CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue figures could be sourced, so all such fields are null rather than inferred. Note that the CIN U31900MH2015PTC267431 used in attempted URLs was a guess and is NOT confirmed - it must not be treated as data. No basis for rejection: the entity was not shown to be non-existent, struck off, liquidated or bankrupt; status is simply unverified. Also flag for the desk: the declared HS 880710 (aircraft parts) does not match the known business profile of the Atomberg group (ceiling fans, BLDC motors, appliances), so the HS code likely needs correction to the actual product code - per project rules this is not a rejection ground. Recommend re-running verification when search access is restored, or manual MCA/GST portal lookup."
+}

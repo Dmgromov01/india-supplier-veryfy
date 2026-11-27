@@ -1,0 +1,9 @@
+{
+ "name_input": "JALARAM AGRIEXPORTS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search tool returned 'Connection refused' (searx backend down) on both queries; http_get to zaubacorp.com returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned completely unrelated results (query not honoured — results about an unrelated US grocery chain and a US pastor), so no Bing snippet can be attributed to this company. The OFAC Sanctions List Search page was reachable but is an interactive form and returned no lookup results for the name, so it does NOT constitute a negative sanctions screening — sanctions_hit is therefore null, not 'no hit'. No Indian court records (eCourts/NCLT), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator actions and no Russia/CIS supply evidence could be retrieved or checked. Nothing in this record is a finding; all fields are null because the data is not public/not retrieved, not because the company is clean. Recommend re-running this company once the search backend is restored, and manually screening the exact registered name against OFAC SDN, UN, EU, UK OFSI and BIS Entity List, plus eCourts/NCLT by CIN. Per project rules, absence of sanctions/court data is not a rejection ground and no adverse inference should be drawn."
+}

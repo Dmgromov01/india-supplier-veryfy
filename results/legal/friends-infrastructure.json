@@ -1,0 +1,18 @@
+{
+ "name_input": "FRIENDS INFRASTRUCTURE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена: ни один источник не подтвердил существование компании с точным наименованием 'FRIENDS INFRASTRUCTURE'. Инструменты были недоступны/заблокированы: web_search (DuckDuckGo/searx — connection refused), zaubacorp.com и instafinancials.com — HTTP 403, thecompanycheck.com и quickcompany.in — HTTP 404 на поисковых URL, tofler.in — 404, google.com — HTTP 429, duckduckgo.com/html — timeout. Bing возвращал нерелевантную выдачу (сериал 'Friends'), т.е. поиск по точной фразе не сработал. Входные данные не содержали ни PAN, ни штата, ни адреса, ни сайта — только заявленный HS 842959;847990 и отрасль 'Строительство и DIY', что для идентификации юрлица недостаточно. CIN/LLPIN, PAN, GSTIN, дата регистрации, MCA-статус, выручка FY25/FY26 — null, так как не подтверждены публичным источником; цифры не выдумывались. Роль — unknown (по наименованию 'Infrastructure' и HS 8429/8479 можно лишь предположить строительную технику/оборудование, но это не подтверждает ни производство, ни трейдерство). ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие подтверждения существования в рамках лимита инструментов не равно доказательству несуществования юрлица (правило 3: rejected только при документально подтверждённой ликвидации/банкротстве/отсутствии юрлица). Требуется повторная проверка с доступом к MCA-порталу / GST-поиску и уточнением от поставщика: полное юрлицо (Pvt Ltd / LLP / проприетарщик), PAN, GSTIN, адрес регистрации."
+}

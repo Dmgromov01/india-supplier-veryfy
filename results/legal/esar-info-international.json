@@ -1,0 +1,18 @@
+{
+ "name_input": "ESAR info international",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни в одном публичном источнике не найдено юрлица с наименованием 'ESAR info international'. Поисковый бэкенд (DuckDuckGo/searx) был недоступен в ходе проверки; прямые запросы к реестровым агрегаторам (zaubacorp.com, instafinancials.com) вернули HTTP 403, thecompanycheck.com — только заглушку без результатов поиска, Google — HTTP 429, Bing по трём различным запросам ('ESAR info international', 'ESAR' + 'Rakhi Saxena' + GST, 'ESAR Info International'/'ESAR Infotech'/'ESAR International' + GSTIN) вернул полностью нерелевантную выдачу без единого упоминания компании. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не подтверждены и оставлены null — не выдумывались. Заявленное в инпуте 'RAKHI SAXENA' — это, судя по формату, имя физлица (проприетор/директор), а не наименование юрлица; связь этого лица с какой-либо зарегистрированной компанией или proprietorship с названием 'ESAR info international' публично не подтверждена. Штат в инпуте не заявлен (пусто), поэтому сопоставление 'штат регистрации vs заявленный' невозможно. Роль (manufacturer/trader) не определена — отнесена к unknown. ВАЖНО по правилам проекта: отклонение (rejected) НЕ применяется, так как отсутствие публичных следов не равно доказательству несуществования юрлица (возможны proprietorship/partnership без MCA-записи, либо иное написание наименования). Требуется уточнение от поставщика: точное юридическое наименование, CIN/LLPIN либо PAN/GSTIN, штат и адрес регистрации — после чего проверку можно завершить. HS-коды (847141; 847150; 852580; 854190) в рамках данной роли не оценивались."
+}
