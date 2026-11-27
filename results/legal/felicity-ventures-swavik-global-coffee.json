@@ -1,0 +1,18 @@
+{
+ "name_input": "Felicity Ventures - (SWAVIK Global Coffee)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record could be retrieved. The input gives a trade/brand label ('Felicity Ventures - (SWAVIK Global Coffee)') and a person name ('SWETA KUNAL SARAIYA'), not a confirmed legal entity name, so no CIN/LLPIN could be matched. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com search returned HTTP 404; google.com returned HTTP 429; duckduckgo.com/html timed out; Bing returned only irrelevant results (TV series 'Felicity', unrelated Facebook/StackOverflow pages) and zero hits for the exact string 'SWETA KUNAL SARAIYA' as a director. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder-type test), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null - not public/not retrieved, NOT invented. No rejection is applied: per project rules an entity may be rejected only if it is proven non-existent, struck off, liquidated or bankrupt, and no such proof exists here - the absence of records is a verification gap, not evidence of non-existence. Role left as 'unknown' (no evidence of manufacturing or trading activity). Declared HS 090121 (coffee, not roasted, not decaffeinated) is noted but not assessed here, as HS is outside this role's scope and is not a rejection ground. Recommended next step: re-run against MCA master data / GST portal with the exact legal name or the promoter's PAN once search tooling is restored."
+}
