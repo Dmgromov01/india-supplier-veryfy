@@ -1,0 +1,9 @@
+{
+ "name_input": "Ninety One Cycles (AlphaVector India Pvt. Ltd.)",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML endpoint timed out; Bing returned only unrelated generic results (app lists, Premier League scores) for all three query formulations, i.e. no usable SERP. Direct fetches: ninetyonecycles.com failed DNS resolution ('Name or service not known'); zaubacorp.com returned HTTP 403; OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and returned only the empty search page - the SDN/Non-SDN list headers loaded (SDN list last updated 11/23/2026) but no name query could be executed, so NO sanctions screening result was actually obtained. Consequently: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because nothing is public/retrievable in this session, NOT because a negative check was performed. Do not read these nulls as 'clean'. No claim in this record is sourced; nothing was invented. Recommended follow-up with working search: (1) OFAC SDN + consolidated non-SDN name query for 'AlphaVector' and 'Alpha Vector India'; (2) UN Consolidated, EU consolidated, UK OFSI consolidated, and BIS Entity List screens; (3) Indian court records - eCourts/National Judicial Data Grid and Supreme Court/High Court party search for 'AlphaVector (India) Private Limited'; (4) NCLT/IBC insolvency and MCA strike-off status; (5) CRISIL/ICRA/CARE/India Ratings/Brickwork rating actions; (6) Indian media and regulatory (CCI, consumer commissions, BIS/quality) coverage; (7) any customs/export evidence of shipments to Russia or CIS. Per project rule 2, any sanctions/court/criminal findings that later surface are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Corel Pharma",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The search backend (DuckDuckGo/searx) was down ('Connection refused'), Bing returned only irrelevant Corel software results for every query variant, and the public registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 Forbidden to direct fetches. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a primary or public source, so all identifier and financial fields are left null rather than guessed. The input itself is weak: legal name given only as 'Corel pharma' (no suffix such as Pvt Ltd / LLP), no PAN, no state claimed, so the exact legal entity cannot be pinned down - 'Corel Pharma Chem' (a Gujarat-based excipient/pharma-auxiliary supplier) is a plausible candidate but this is an unverified assumption, not a finding. Declared HS 390690 (acrylic polymers, primary form) is consistent with a pharma-excipient/specialty-chemical supplier profile, but HS is not a rejection ground per project rules and is not used here. Role is recorded as 'unknown' because manufacturer vs trader status could not be established from any filing. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research limitation, not a negative finding. Recommended next step: re-run with a working search backend and MCA/GST portal access, or obtain the GSTIN or CIN directly from the supplier's invoice or quotation, then re-verify."
+}

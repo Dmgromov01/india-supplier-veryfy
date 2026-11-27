@@ -1,0 +1,9 @@
+{
+ "name_input": "JD Engineering",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, INCOMPLETE. The name 'J D ENGINEERING' is a very common Indian SME trade name and no distinguishing identifiers were supplied (no PAN, no state, no city, no CIN). Research could not be completed: the primary search backend (DuckDuckGo/searx) returned connection errors on all attempts, and fallback engines (Bing, Google) returned only generic/irrelevant results (JD Sports, JD.com, John Deere) with no exact-match page for this company. The OFAC Sanctions List Search tool is a JavaScript application and cannot be queried via plain HTTP GET, so no name screening result could be obtained; the SDN list page itself was reachable and last updated 23.11.2026, but no query was executed against it. Therefore: sanctions exposure = NOT VERIFIED (null, not 'clear'); Indian court cases (party role/status) = NOT VERIFIED (null); regulator actions and negative news = NOT VERIFIED (null); credit rating = NOT VERIFIED (null); evidence of supplies to Russia/CIS = NOT VERIFIED (null). Nothing here should be read as a clean bill of health - all fields are null because nothing public could be retrieved, not because checks came back negative. Per project rules this is not a rejection ground and no adverse inference is drawn. To complete the check, please supply at minimum: full legal name as on MCA, CIN or PAN, and registered state/city, so that MCA, e-courts/NJDG, IBBI and rating-agency records can be screened against a unique entity."
+}

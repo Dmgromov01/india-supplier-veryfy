@@ -1,0 +1,18 @@
+{
+ "name_input": "Jupiter Exim",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый источник не удалось прочитать. DuckDuckGo-бэкенд возвращал 'Connection refused' / timeout; zaubacorp.com и mca.gov.in — HTTP 403; thecompanycheck.com, instafinancials.com, quickcompany.in, tofler.in — HTTP 404; Bing по запросам с 'CIN'/'GSTIN' выдал нерелевантную выдачу (планета Юпитер, jupitered.com и т.п.). Точное юрлицо не установлено: 'Jupiter Exim' — это торговое/фасадное имя, под которым в Индии могут существовать разные лица (Jupiter Exim Pvt Ltd, Jupiter Exim LLP, ИП/проприеторство), и без реестровой записи выбрать одно нельзя. CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус, выручка FY25/FY26 — null (не публичны в доступных источниках / не подтверждены). Роль — unknown: заявленный профиль (HS 710239/710391/710491 — обработанные бриллианты и изделия из них) прямо противоречит заявленной отрасли 'Продукты питания и FMCG'; это несоответствие нужно снять с поставщиком, но по правилам проекта оно НЕ является основанием для отклонения. ВАЖНО: отклонение не применялось — отсутствие данных не равно отсутствию юрлица; статус 'не проверено', требуется повторный прогон при доступном реестре (MCA master data / GST-портал по конкретному GSTIN). Заявленных отгрузок не подтверждал и не опровергал — это вне моей роли (legal/registry only)."
+}
