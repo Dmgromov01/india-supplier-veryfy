@@ -1,0 +1,18 @@
+{
+ "name_input": "Aditi enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный источник не подтвердил существование юрлица с таким названием. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам \"Aditi Enterprises\" GSTIN/CIN выдавал только нерелевантные результаты (Aditi Consulting, Aditi Rao Hydari и т.п.); zaubacorp.com и mca.gov.in отдают HTTP 403, thecompanycheck.com и quickcompany.in — 404 по прямым путям. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, MCA-статус и выручка — null, так как не публичны/не найдены; выдумывать не стал. Заявленное в input юрлицо 'AMRITA' не совпадает с названием 'Aditi enterprises' и не подтверждено ни одним источником — вероятно, речь о proprietorship/partnership без CIN, но это не доказано. Роль — unknown. НЕ отклоняю: отсутствие данных не равно отсутствию юрлица (правило 3); статус — 'заявлено, не подтверждено', требуется повторная проверка при доступном реестре (MCA master data / GST-портал по названию и штату)."
+}

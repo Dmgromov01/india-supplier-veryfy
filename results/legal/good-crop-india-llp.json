@@ -1,0 +1,18 @@
+{
+ "name_input": "GOOD CROP INDIA LLP",
+ "legal_name": "GOOD CROP INDIA LLP (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Bing returned only generic dictionary results and ignored the quoted phrase; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search returned a 404 page; Google returned HTTP 429. Consequently LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session - they are NOT null because they were checked and found absent. Revenue FY25/FY26 null: no audited accounts or MCA filings were accessible. Role left as 'unknown': the 'LLP' suffix indicates a limited liability partnership, which under Indian law is a body corporate and cannot be a 'proprietorship', but whether it manufactures or trades (HS 071140/200110/200190 - prepared/preserved vegetables and fruit juices) is unverified. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found; the gap is a research/tooling failure, not a negative finding. Recommended action: re-run against MCA master data (LLPIN lookup) and the GST taxpayer search before any commercial decision; treat all fields as unconfirmed."
+}

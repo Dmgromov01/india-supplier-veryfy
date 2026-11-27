@@ -1,0 +1,18 @@
+{
+ "name_input": "MURTHY & CO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No verifiable Indian legal entity could be identified for the name 'MURTHY & CO'. Search tooling was largely unavailable (DuckDuckGo/searx backend refused connections; zaubacorp, tofler search, instafinancials returned 403/404; Google returned 429), and Bing results for the exact name were dominated by the unrelated US 'Murthy Law Firm' (murthy.com) with no Indian MCA/GST record. 'Murthy & Co' is a very common Indian proprietorship/firm style name (often a CA practice or small trading house), so without a CIN/GSTIN/PAN or city from the input it cannot be pinned to a single entity. Therefore: legal_name, CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not identified, not invented. Role recorded as 'unknown' (no registry evidence of manufacturing or trading activity). Revenue FY25/FY26 null: no audited accounts or official filings located. Per project rules this is NOT a rejection — the entity is unverified, not proven non-existent; it should be re-checked once a GSTIN, PAN, CIN or registered city is supplied. Note also that the declared HS codes 845710 / 845811 (machining centres / horizontal lathes) do not match the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining) — HS would need correction to the actual goods if the company is confirmed, but HS mismatch is not a ground for rejection."
+}

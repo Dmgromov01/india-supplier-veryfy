@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S UPPER INDIA TANNING INDUSTRIES",
+ "legal_name": "UPPER INDIA TANNING INDUSTRIES (as claimed; exact registered legal form not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - registry lookup failed, not a rejection. Tooling failure: DuckDuckGo search backend returned 'Connection refused' for both queries; Bing returned only generic dictionary/AR-15 results for the quoted phrase 'UPPER INDIA TANNING INDUSTRIES' (phrase matching ignored), so no company page was surfaced; zaubacorp.com, instafinancials.com and mca.gov.in Master Data all returned HTTP 403/404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could not be read from any public source and are left null rather than guessed. No evidence found that the entity does not exist, is struck off, liquidated or bankrupt, so it is NOT rejected - status is 'unverified, pending registry check'. Name form 'M/S ...' suggests a proprietorship/partnership trade name rather than a company, which would mean no CIN exists at all (only GSTIN/PAN); this is a hypothesis, not a finding. Role cannot be assigned: tanning of leather (HS 6403/6406 are footwear and footwear parts) is consistent with a manufacturer, but nothing was confirmed. Revenue FY25/FY26: null - no audited accounts or official filings accessible. Data-quality flags for the input record: (1) declared HS 640391/640399/640610 are finished footwear and footwear parts, whereas a tanning unit would normally ship HS 4104/4107/4113 (tanned hides) - HS code should be corrected to the actual product, and per project rules this is NOT a rejection ground; (2) industry_claimed 'Продукты питания и FMCG' (food/FMCG) contradicts both the company name (tanning/leather) and the declared footwear HS codes - industry field needs correction; (3) no state claimed, so no state mismatch can be assessed. Recommend re-running this company when search/registry access is restored, or obtaining the GSTIN directly from the supplier and validating it on the GST portal."
+}
