@@ -1,0 +1,18 @@
+{
+ "name_input": "Gurmeet Machine",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. 'Gurmeet Machine' — это, судя по названию, торговое обозначение / проприетарное имя (возможно, ИП — sole proprietorship), а не компания с CIN; в поле legal_claimed указано физлицо 'JASWANT SINGH', что согласуется с версией ИП, но подтвердить это не удалось. Поиск: DuckDuckGo-бэкенд недоступен (connection refused), Bing по запросам 'Gurmeet Machine GSTIN' и 'Gurmeet Machine Jaswant Singh' выдал полностью нерелевантную выдачу (спортивные радиостанции, купоны), Google — HTTP 429, MCA master-data — HTTP 403, ZaubaCorp — HTTP 403, InstaFinancials — HTTP 403, Tofler — 404. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус, ни выручка FY25/FY26 публично не получены — везде null, цифры не выдумывались. Роль определить нельзя (unknown): по заявленному HS 845819 (токарные/отрезные станки, снятие металла) это может быть и производитель, и трейдер станками, но подтверждения нет. НЕ отклонено: оснований для rejected (несуществование/ликвидация/банкротство) не установлено — отсутствие данных не равно отсутствию юрлица. Требуется ручная проверка: GSTIN из инвойса/КП поставщика, затем сверка на gst.gov.in и в MCA master data."
+}

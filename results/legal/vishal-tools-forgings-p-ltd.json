@@ -1,0 +1,18 @@
+{
+ "name_input": "Vishal Tools & Forgings (P) Ltd",
+ "legal_name": "VISHAL TOOLS AND FORGINGS PVT LTD (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error (searx: connection refused) on both queries; direct fetches of registry aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, and Bing/Google/DuckDuckGo fallbacks returned either HTTP 429/timeouts or completely irrelevant results (the engine ignored the quoted company name and returned pages about the actor 'Vishal' and Vishal Mega Mart). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent from public sources, but because no source could be read in this session. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / needs re-check'. Role cannot be determined from registry data alone; the claimed name ('Tools & Forgings') suggests a manufacturer, but this is an inference from the name only, not a verified fact, hence 'unknown'. Declared HS 820600 (interchangeable tools for hand tools) is not a rejection ground per project rules and was not assessed here. Recommended next step: re-run against MCA master data / a GST public search with a working search backend, or obtain the CIN or GSTIN from the supplier directly."
+}

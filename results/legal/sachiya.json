@@ -1,0 +1,18 @@
+{
+ "name_input": "Sachiya",
+ "legal_name": "SACHIYA STEEL INTERNATIONAL",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: no source was reachable. The web_search tool returned a backend connection error (searx: Connection refused) on both attempts; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403, tofler.in search endpoints returned 404, Google returned HTTP 429, DuckDuckGo timed out, Bing returned irrelevant results (Applebee's) and Marginalia returned only a bot-check page. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they were not publicly retrievable in this session. No revenue figures were found in audited accounts or official filings, so FY25 and FY26 revenue are null; nothing was estimated. Role is 'unknown': the name contains 'STEEL INTERNATIONAL', which is consistent with a trading/export house, but no MCA business-object or GST activity record was obtained to classify it as manufacturer, trader or manufacturer_trader. Per project rules the company is NOT rejected - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of retrievable data is not a rejection ground. The declared HS 730721 (stainless steel flanges/tube-or-pipe fittings) was not assessed against any verified business object, so no HS correction is recorded. Recommended next step: re-run verification when the search backend is restored, or query the MCA master-data portal and the GST taxpayer search directly by legal name."
+}

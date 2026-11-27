@@ -1,0 +1,27 @@
+{
+ "name_input": "Packtech Materials Private Limited",
+ "declared_hs": "391910",
+ "actual_hs_list": [
+  "391910 (self-adhesive plates/sheets/film/foil/tape of plastics, rolls ≤20 cm — BOPP/PVC/masking/double-sided/floor-marking/electrical insulation tapes)",
+  "391990 (other self-adhesive plastic sheets/film — surface protection film, sublimation heat transfer paper if plastic-coated, inkjet matte film)",
+  "392321 (sacks and bags of polymers of ethylene — PE packaging bags)",
+  "392329 (sacks and bags of other plastics — PP/PE bags)",
+  "392310 (boxes, cases, crates of plastics — PP corrugated boxes, PP boxes, EPE foam boxes, honeycomb boxes)",
+  "392390 (other articles for conveyance/packing of plastics — EPE foam fitments, corner protectors, edge protectors, plastic pallet covers, composite containers)",
+  "392020 / 392010 (plates/sheets/film of polymers of propylene / ethylene, non-cellular, not reinforced — PP sheet, PE film)",
+  "392112 / 392119 (cellular PVC / cellular other plastics sheets — EPE/EVA foam sheets, thermocol sheet, PVC insulation)",
+  "392690 (other articles of plastics — plastic components, foam fitments, misc.)",
+  "481910 (cartons, boxes, cases of corrugated paper/board — corrugated boxes, carton boxes)",
+  "482290 (other paper/board bobbins, spools, cops, cones, cores — paper cores, spiral paper cores, paper tubes, paper core tubes)",
+  "482390 (other articles of paper pulp/paper/board — honeycomb boards, paper bubble wrap, plotter/CAD paper rolls, die-cut paper)",
+  "391721/391731 (tubes, pipes and hoses of plastics — packaging rope/tube items, if plastic)",
+  "392062 / 392069 (other plates/sheets/film of plastics — PET/shrink film, polyolefin shrink film)",
+  "392329 or 630533 (polypropylene straps / PET strap — plastic strapping; note PET strap may fall under 3920/3921 depending on form)",
+  "482110 (printed paper/board labels — barcode labels, adhesive sticker paper)",
+  "961210 (typewriter/printer ribbons — barcode ribbon)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Catalogue (own IndiaMART-hosted site, packtechmaterials.in) lists a broad packaging-materials range: self-adhesive tapes (BOPP/printed/masking/double-sided/floor-marking/electrical insulation/PVC insulation/seam sealing/cloth tape), surface protection film, polyolefin shrink film, packaging films, PE/PP packaging bags, PP corrugated boxes, PP boxes, EPE foam sheets/rolls/boxes/fitments/corner protectors, EVA foam, thermocol sheet, honeycomb boards and boxes, corrugated/carton boxes, paper cores, spiral paper cores, paper tubes, paper core tubes, paper bubble wrap, edge protectors, plastic pallet covers, composite containers/composit cans, polypropylene and PET straps, barcode labels and ribbon, plotter/CAD paper rolls, sublimation heat transfer paper, inkjet matte film, adhesive sticker paper, packaging rope. Self-described as 'Trader - Retailer' in the IndiaMART profile header while the profile text claims 'manufacturers and suppliers' and mentions an in-house manufacturing unit — contradictory self-description. Profile also states it imports from China, Malaysia, Taiwan and Korea and serves clients 'across the globe especially Africa'.",
+ "role_hint": "trader (IndiaMART 'Nature of Business: Trader - Retailer'; profile narrative claims manufacturing of PP corrugated boxes and EPE foam fitments — likely manufacturer_trader, but the trader designation is the one stated in the structured field)",
+ "comment": "Declared HS 391910 is only one narrow slice of the actual range: self-adhesive plastic tape in rolls ≤20 cm. It is correct for the BOPP/printed/masking/double-sided/electrical/floor-marking tape lines, hence 'partial' rather than 'wrong'. The bulk of the catalogue sits outside 391910: plastic boxes/crates (3923), foam sheets and fitments (3921/3926), non-adhesive films (3920), paper cores and tubes (4822), corrugated cartons (4819), labels and ribbons (4821/9612), straps (3923/3920). Industry claim 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification — this is a packaging-materials converter/trader, i.e. plastics and paper packaging, not oil & gas or bulk chemicals. Recommended correction: keep 391910 as one line and add 3919/3920/3921/3923/3926/4819/4822/4821 as the actual export lines. Trader signs: structured 'Trader - Retailer' status, explicit statement of importing from China/Malaysia/Taiwan/Korea, and a catalogue spanning many unrelated material families (tape, foam, paper cores, barcode ribbon, plotter paper) which is typical of a reseller rather than a single-process converter. Product lines missing from the declaration: everything except adhesive tape. Per project rule 3, the HS mismatch is not a rejection ground — company is retained with corrected codes. Note on evidence: all product data above comes from the company's own catalogue/profile page (packtechmaterials.in, IndiaMART-hosted) and is therefore 'заявлено, не подтверждено' — no customs line, B/L or shipping bill was checked or found in this pass, and no shipment records are asserted here. Search tooling was largely unavailable during this check (search backend refused connections, several directories returned 429/403), so no independent third-party corroboration of the product list was obtained; the GST number, IEC, CIN and turnover figures visible on the profile page are reproduced only as page content and were not verified against any registry."
+}
