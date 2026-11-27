@@ -1,0 +1,18 @@
+{
+ "name_input": "BIO RAD MEDISYS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены. Причина: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), а публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдают HTTP 403 на прямой запрос; Bing/Google по запросам с точным названием и CIN-префиксом возвращали только страницы американской Bio-Rad Laboratories, Inc. — совпадений по индийской компании не найдено. Поэтому exact legal entity name, CIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, не выдуманы. Отклонять НЕЛЬЗЯ: отсутствие подтверждения существования юрлица в рамках лимита вызовов не равно доказательству несуществования (правило 3). Роль оставлена unknown: заявленный профиль (медизделия, HS 9018/9021) не соответствует заявленной отрасли «Продукты питания и FMCG» — вероятна ошибка ввода отрасли, а не в HS; HS-несоответствие по правилу 3 не является основанием для отклонения. Требуется повторная проверка при доступном MCA/GST-портале (mca.gov.in, gst.gov.in) или платном реестре."
+}

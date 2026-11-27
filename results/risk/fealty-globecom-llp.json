@@ -1,0 +1,9 @@
+{
+ "name_input": "Fealty Globecom LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Sanctions: no match found for 'Fealty Globecom LLP' / 'Fealty Globecom' in any sanctions source I could actually query. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded but is a JS form and returned no query results to me; UN/UK/EU/BIS consolidated lists were NOT successfully queried (search backend refused connections, DuckDuckGo timed out, Google returned HTTP 429). So sanctions_hit = null means 'not verified', NOT 'confirmed clean'. Court cases: Indian Kanoon searched twice (indiankanoon.org, queries '\"Fealty Globecom\"' and 'Fealty Globecom LLP') - 0 matching results both times; no party role/status to report. This is a single-database check only; eCourts/NCLT/consumer forums not queried. Regulator actions / negative news: none found; Bing queries for the exact name returned only dictionary definitions of the word 'fealty' (merriam-webster, wikipedia, cambridge, britannica) and no company page, news item, IndiaMART listing or website - i.e. no public footprint at all, which is itself a diligence flag (no verifiable corporate web presence). Credit rating: null - no CRISIL/ICRA/CARE/India Ratings/Acuite action found; not public. Russia/CIS supply evidence: null - no export, customs, B-L or counterparty record found linking this entity to Russia or CIS; nothing to report either way. IMPORTANT CAVEAT: the entity name could not be corroborated in any public source, so all nulls above reflect absence of accessible public data, not absence of risk. Recommend re-running sanctions screening (OFAC/EU/UK/BIS) and MCA LLPIN lookup manually before onboarding. Per project rules, no rejection is proposed on this basis."
+}

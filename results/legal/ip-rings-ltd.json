@@ -1,0 +1,18 @@
+{
+ "name_input": "IP RINGS LTD",
+ "legal_name": "IP Rings Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1991 (year of establishment per company website; exact date of incorporation not verified from MCA)",
+ "state_registered": "Tamil Nadu",
+ "state_claimed": "",
+ "mca_status": "Active (listed public limited company; no strike-off/liquidation/winding-up found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Not retrieved: company site hosts FY2024-25 and FY2025-26 annual reports (iprings.com/annual-reports) but the PDFs were not opened within the tool budget; aggregator pages (Screener, Moneycontrol, Zauba, TheCompanyCheck) returned 403/404. Revenue left null rather than estimated.",
+ "note": "Legal entity confirmed as IP Rings Limited, a public limited company and part of the Amalgamations Group (JV of India Pistons Ltd, Simpson & Company Ltd, Tractor & Farm Equipment Ltd, Amalgamations Pvt Ltd), established 1991. Registered/factory address per official site: D 11/12, Industrial Estate, Maraimalai Nagar, Kanchipuram District, Tamil Nadu — so registered state is Tamil Nadu (input state was blank, no mismatch to flag). Role: manufacturer — own piston-ring and precision-forging (OCF) plants, ISO/TS 16949 accredited, supplies Tier-1/Tier-2 OEMs; not a trader. CIN, PAN and GSTIN could not be read from a public profile because registry aggregators (Zauba, TheCompanyCheck) blocked access (HTTP 403) and the search backend was unavailable (connection refused) — these fields are null, not invented. No basis for rejection: entity exists and is operating (current investor/financials pages live, FY2025-26 annual report published). Declared HS 870899 (motor-vehicle parts) is broadly consistent with its automotive-components manufacturing, though piston rings are typically 8409/8483 — HS not corrected here as product-level classification was out of scope for this registry-only pass."
+}

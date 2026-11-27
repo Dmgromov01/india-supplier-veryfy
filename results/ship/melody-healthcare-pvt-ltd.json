@@ -1,0 +1,8 @@
+{
+ "name_input": "MELODY HEALTHCARE PVT.LTD",
+ "export_status": "unknown",
+ "export_evidence": "No verifiable shipment row obtained. ImportKey page https://importkey.com/countries/india/melody-healthcare-pvt-ltd returned only a JavaScript shell: 'Shipments available for MELODY HEALTHCARE PVT LTD, refreshed daily' — zero data rows rendered, no B/L number, no date, no destination, no HS code. Volza, Eximpedia, Trademo, ImportGenius and TheCompanyCheck all returned HTTP 403 / JS challenge.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. No public source was readable in this session; nothing to quote.",
+ "note": "Evidence could not be collected: the web_search backend was down for the whole session ('searx: <urlopen error [Errno 111] Connection refused>') and every shipment-data provider blocked automated access (403 / JS challenge). Source counter: 6 URLs attempted (importkey, volza x2, eximpedia, trademo, importgenius, zaubacorp, thecompanycheck), 0 pages with actual shipment rows. Therefore export_status and domestic_status are 'unknown', NOT 'none_found' — absence of evidence here is a tooling failure, not proof of no shipments. No B/L, date, destination or HS code can be reported; nothing invented. Separately flagged for the desk: the record is internally inconsistent — name_input is 'MELODY HEALTHCARE PVT.LTD' while legal_claimed is 'OM OVERSEAS', and declared HS 282759 / 293399 (inorganic/heterocyclic chemicals) does not match a healthcare-named entity; per project rules this is not a rejection ground, only a data-quality note to resolve. Re-run required with working search access before any verdict."
+}

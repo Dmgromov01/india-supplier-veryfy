@@ -1,0 +1,8 @@
+{
+ "name_input": "IP RINGS LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'ip-rings-ltd' loaded but returned only a paywalled shell: \"Shipments available for IP RINGS LTD, refreshed daily\" — 0 shipment rows actually visible (counter present, rows seen = 0). No bill-of-lading number, date, destination or HS code could be read. Volza (403), Eximpedia (403), Trademo (403) and ImportGenius (JS challenge) all blocked; web_search backend returned 'Connection refused' on every query, so no second source could be reached.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. Company site iprings.in and www.iprings.in both failed (connection reset); BSE page returned only a page shell with no financial content; screener.in returned 404 for both /company/IPRINGS/ and /company/IPRINGS/consolidated/. Nothing to quote.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных записей (B/L), ни данных по внутреннему рынку получить не удалось — все источники либо платные, либо заблокировали доступ, либо поисковый бэкенд был недоступен. Статус 'unknown', а не 'declared_only', поскольку заявлений сайта прочитать тоже не удалось. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумываю). HS 870899 не проверен по фактическим записям — оснований для accepted_hs_corrected нет, код остаётся заявленным. Требуется повторный прогон при работающем web_search или платном доступе к Volza/ImportKey."
+}

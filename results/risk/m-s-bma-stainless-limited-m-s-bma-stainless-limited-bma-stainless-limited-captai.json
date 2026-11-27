@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S BMA STAINLESS LIMITED; M/S.BMA STAINLESS LIMITED.; BMA STAINLESS LIMITED; CAPTAIN STEEL INDIA LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No verifiable public record found for any of the four name variants (BMA Stainless Limited / Captain Steel India Limited). Sanctions: OFAC Sanctions List Search tool (sanctionssearch.ofac.treas.gov, SDN list last updated 11/23/2026) was opened but is a JS form and returned no lookup results for these names; no UN/EU/UK/BIS Entity List entry could be located via open search. This is NOT a clean bill of health - it means no match was retrievable, so sanctions_hit is left null rather than false. Court cases: no Indian court/registry record (eCourts, NCLT, High Court) could be retrieved; party role and status unknown -> null. Regulator actions / negative news: none found, but the web search backend was degraded during this check (quoted-phrase queries were ignored and only unrelated US 'BMA' entities were returned), so absence of news is not evidence of absence -> null. Credit rating: no CRISIL/ICRA/CARE/India Ratings/Brickwork action found -> null. Russia/CIS supply evidence: no customs, B/L, or contract record found -> null. RECOMMENDATION per project rules: do not reject on this basis; company stays in the database. Risk status is 'unverified / insufficient public data', not 'cleared'. Re-run sanctions screening (OFAC/EU/UK/BIS) and eCourts/NCLT lookup manually before any transaction, and note that the name string mixes at least two distinct legal entities (BMA Stainless Ltd and Captain Steel India Ltd) which must be screened separately."
+}
