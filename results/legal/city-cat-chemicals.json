@@ -1,0 +1,18 @@
+{
+ "name_input": "CITY CAT CHEMICALS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input gives 'SWATI ABHILASH WALAVALKAR' as the legal name, which is a personal name, not a company name — this strongly suggests a sole proprietorship / individual GST registration rather than a company, so no CIN/LLPIN would exist (proprietorships are not registered with MCA). This is an inference from the name format only, NOT confirmed. All verification attempts failed: the web_search tool returned a backend connection error ('searx: Connection refused') on both queries; Google returned HTTP 429; Zaubacorp and TheCompanyCheck returned HTTP 403; IndiaMART returned HTTP 429; DuckDuckGo HTML/lite timed out; Bing returned only irrelevant generic 'City of ...' US municipal results with the query terms ignored. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public/not retrievable in this session, and not invented. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of retrievable records is not grounds for rejection under the project rules. Role left as 'unknown' — no evidence of manufacturing plant, GST turnover or filings was obtained, so manufacturer vs trader cannot be determined. Declared HS 320417 (synthetic organic colouring matter/pigments) is plausible for a chemicals trading name but is unverified; per rules an HS mismatch would not be a rejection ground anyway. Recommended next step: manual lookup of the GSTIN on the GST portal / a paid registry (Tofler, Probe42) using the proprietor name 'Swati Abhilash Walavalkar' (Maharashtra-sounding name, likely Mumbai/Thane region — unconfirmed) to establish GSTIN, registration date and turnover."
+}

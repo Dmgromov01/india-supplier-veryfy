@@ -1,0 +1,8 @@
+{
+ "name_input": "Nova Pure Healthcare",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'nova-pure-healthcare' returned only a paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible (source counter: page states 'Shipments available for NOVA PURE HEALTHCARE, refreshed daily', but rows actually seen = 0). Second slug 'nova-pure-healthcare-pvt-ltd' identical: 0 rows. No bill-of-lading number, date, destination or HS code was visible on any accessible page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search engines returned only unrelated 'NOVA' results (Northern Virginia Community College, Nova Southeastern University, PBS NOVA, Fashion Nova) — 0 relevant hits for the company name. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ основание для отклонения: компания сохраняется в базе, статусы выставлены как unknown, а не none_found, поскольку проверить фактические записи не удалось — ImportKey отдаёт только заглушку без строк, volza.com и eximpedia.app вернули HTTP 403, DuckDuckGo-поиск недоступен (connection refused), Google — HTTP 429, Bing выдал нерелевантную выдачу. Заявленные HS 293399/293590/300390 (гетероциклические соединения, сульфонамиды, фармпрепараты) ни одной таможенной записью не подтверждены и не опровергнуты. Выручка и объём экспорта: null — публичных данных нет, не выдумывались. Роль (manufacturer/trader) не определена. Требуется платный доступ к таможенным данным (ImportKey/Volza/Eximpedia) или GST-портал для окончательной верификации."
+}
