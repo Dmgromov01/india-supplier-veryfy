@@ -1,0 +1,18 @@
+{
+ "name_input": "PROCESS CHEMICAL CO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified. Search tooling failed: web_search returned connection refused (searx backend down); Bing/Google/DDG queries for '\"Process Chemicals\" CIN / GSTIN / zaubacorp' returned only generic dictionary results for the word 'process', no company pages. Direct registry lookups blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in search returned 404; instafinancials.com search returned 404. Therefore exact legal entity name, CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue FY25/FY26 are all null — not public/not retrievable with available tools, not invented. Input name 'PROCESS CHEMICAL CO' vs claimed legal 'PROCESS CHEMICALS CO' could not be reconciled against MCA; the entity may be a proprietorship/partnership (no CIN) or a name variant — unresolved. state_claimed was empty in input, so no state mismatch can be assessed. Role set to 'unknown' (no registry evidence of manufacturing plant or trading activity). NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — absence of retrievable records is not proof of non-existence. Recommended next step: manual MCA21 master-data / GST portal lookup by the exact trade name and the declared HS 293339 (heterocyclic compounds) before any verdict."
+}

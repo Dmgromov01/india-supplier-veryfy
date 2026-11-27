@@ -1,0 +1,52 @@
+{
+ "name_input": "S. L .N COFFEE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Karnataka High Court",
+   "case": "P F Pinto vs SLN Coffee Pvt Ltd, CP No.295/2018, order 25.10.2018",
+   "role": "respondent (defendant)",
+   "status": "company petition (CP) filed before Karnataka HC; outcome not established from snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22SLN%20Coffee%22"
+  },
+  {
+   "court": "Karnataka High Court",
+   "case": "Errol Pinto vs SLN Coffee Pvt Ltd, CP No.296/2018, order 25.10.2018",
+   "role": "respondent",
+   "status": "company petition; outcome not established",
+   "source": "https://indiankanoon.org/search/?formInput=%22SLN%20Coffee%22"
+  },
+  {
+   "court": "Karnataka High Court",
+   "case": "Trevor Pinto vs SLN Coffee Pvt Ltd, CP No.297/2018, order 25.10.2018",
+   "role": "respondent",
+   "status": "company petition; outcome not established",
+   "source": "https://indiankanoon.org/search/?formInput=%22SLN%20Coffee%22"
+  },
+  {
+   "court": "Karnataka High Court",
+   "case": "Sln Coffee (P) Ltd vs The Executive Officer, WP No.18067/2012 (LB-RES), order 15.01.2013",
+   "role": "petitioner",
+   "status": "writ petition re local-body/labour matter; outcome not established",
+   "source": "https://indiankanoon.org/search/?formInput=%22SLN%20Coffee%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "Thiru.Ramanathan Murugappan vs The Deputy Commissioner Of Income Tax, order 02.01.2025",
+   "role": "third party / referenced (director of SLN Coffee Pvt. Ltd. named for cross-examination)",
+   "status": "income-tax matter involving a former director; company itself not the assessed party",
+   "source": "https://indiankanoon.org/search/?formInput=%22SLN%20Coffee%22"
+  },
+  {
+   "court": "Karnataka High Court / ITAT Bangalore",
+   "case": "Pr Commissioner Of Income Tax vs Sln Coffee Curing Works, order 30.09.2024 (and related ITAT-Bangalore matters)",
+   "role": "respondent",
+   "status": "tax appeal; note: 'SLN Coffee Curing Works' is a distinct entity (partnership, Kudlur/Kushalnagar, Kodagu) — not confirmed to be the same legal person as S.L.N. Coffee Private Limited",
+   "source": "https://indiankanoon.org/search/?formInput=%22SLN%20Coffee%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others; data current as of 2026-11-27) returned 'No matching entities were found' for 'SLN Coffee' — no sanctions or PEP exposure identified. Source: https://www.opensanctions.org/search/?q=SLN+Coffee. Caveat: the name is short and generic, so a nil result is weak evidence; no PAN/CIN was supplied to run an exact-identifier screen, and I did not research legal identity per role scope. Court cases: 18 Indian Kanoon hits for 'SLN Coffee'; the material ones are three 2018 company petitions (CP 295/296/297 of 2018) against SLN Coffee Pvt. Ltd. before the Karnataka High Court, plus a 2012 writ petition filed by the company. Per project rule 2 these are noted neutrally and are NOT rejection grounds — 'есть сложности'. Important disambiguation caveat: Indian Kanoon results mix at least two similarly named businesses — 'SLN Coffee Pvt. Ltd.' (instant coffee division, KIADB Industrial Area, Kudlur, Kushalnagar) and 'SLN Coffee Curing Works' (a partnership represented by managing partner N. Vishwanathan). I could not confirm from public snippets which of these corresponds to the exact registered name 'S.L.N. COFFEE PRIVATE LIMITED', so the court-case list may over-include. Rating: null — no credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork) found in public sources; not public / not verified. News risk: null — no negative news (regulatory action, fraud, product recall, environmental penalty) surfaced; note that the search backend (DuckDuckGo/searx) was down for the whole session and Bing returned only generic 'SLN' noise, so absence of negative news here is a tooling limitation, not a clean bill of health. RF/CIS supply: null — no evidence found of supplies to Russia or CIS; not confirmed either way. Recommend re-running with a working search backend and an exact PAN/CIN before relying on the nil findings."
+}

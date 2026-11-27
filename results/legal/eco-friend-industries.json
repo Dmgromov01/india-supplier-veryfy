@@ -1,0 +1,18 @@
+{
+ "name_input": "Eco friend Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The input gives two conflicting names: trade name 'Eco friend Industries' and legal_claimed 'AMRUTA INDUSTRIES'; no CIN, PAN, GSTIN or state was supplied, so neither name could be tied to a specific legal entity. Tooling failed: DuckDuckGo search returned 'Connection refused' on both queries; Google and DuckDuckGo HTML endpoints were blocked/timed out; Bing returned only irrelevant results for both name queries; zaubacorp.com returned HTTP 403; thecompanycheck.com and instafinancials.com search URLs returned 404; mca.gov.in MCA master-data portal returned HTTP 403. Consequently exact legal entity name, CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - none are public in the sources reachable here, and none were invented. Role recorded as 'unknown' (no evidence of manufacturing or trading activity). Per project rules this is NOT a rejection: rejection requires proof the entity does not exist / is struck off / liquidated / bankrupt, and no such proof was found - the entity simply could not be located in accessible registries. HS codes 290514/290519/290532/293010 (butanol/butanol isomers, amyl alcohols, sodium/potassium dichromate, dithiocarbamates) are not assessed here per role scope. RECOMMENDATION: re-run with a working search backend and the company's GSTIN or CIN, or obtain the GST certificate / MCA master-data extract directly from the supplier."
+}

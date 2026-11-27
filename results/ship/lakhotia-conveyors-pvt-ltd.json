@@ -1,0 +1,8 @@
+{
+ "name_input": "LAKHOTIA CONVEYORS PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/lakhotia-conveyors-pvt-ltd and .../lakhotia-conveyors both returned only the generic template: 'Shipments available for LAKHOTIA CONVEYORS PVT LTD, refreshed daily' with the shipment-count fields and monthly bar chart left empty ('Loading...'). Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was displayed on either page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: volza.com, eximpedia.app and trademo.com all returned HTTP 403, and both web_search (searx backend 'Connection refused') and direct DuckDuckGo HTML queries (timeout) failed. Rows actually seen: 0.",
+ "note": "Evidence gap, not a negative finding. The only page that loaded (importkey, two slug variants) is a paywalled shell that renders no shipment records to anonymous visitors, so neither export nor domestic supply can be confirmed or ruled out. Declared HS 843139 (conveyor parts) is plausible for a conveyor manufacturer but was not cross-checked against any customs line. No revenue or export-volume figure is public in what was reachable — left null rather than estimated. Per Rule 5 this is recorded as 'unknown / not verified', NOT as 'declared, not confirmed' and NOT as 'no supply traces found', because the sources were unreachable rather than empty. Recommend re-run when search backend is restored, or a paid Volza/Eximpedia lookup for the exact IEC."
+}

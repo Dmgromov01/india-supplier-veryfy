@@ -1,0 +1,18 @@
+{
+ "name_input": "STEEL INOX PRIVATE LIMITED",
+ "legal_name": "STEEL INOX PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool was unavailable (searx connection refused) and all direct fetches of public registry aggregators failed: zaubacorp.com returned HTTP 403, thecompanycheck.com returned HTTP 403, tofler.in returned HTTP 404 for the guessed slug, instafinancials.com returned HTTP 404. Bing/Google result pages returned only generic 'steel' dictionary/retail results with no company-specific hits, so no CIN, PAN, GSTIN, incorporation date or MCA status could be confirmed from a primary or aggregator source. Per the rules, nothing is invented: all registry fields are null. No rejection is applied - absence of a verified record in this session is not evidence that the entity does not exist; the name 'STEEL INOX PRIVATE LIMITED' is a common Indian private-limited name and may correspond to more than one CIN, so the exact entity must be disambiguated (state of registered office / CIN) before any registry lookup. Role left as 'unknown' because no MCA business-object classification was retrievable. Revenue FY25/FY26 null - no audited accounts or official filings were accessible. Recommended next step: re-run with a working search backend and query MCA master data by exact name plus state, then confirm GSTIN via the GST portal public search."
+}
