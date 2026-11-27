@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S LAKSHMI MOTER COMPANY; Lakshmi Motor Co; LAKSHMI MOTOR COMPANY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один публичный источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing по запросам с точным названием выдавал нерелевантную выдачу (страницы про богиню Лакшми), т.е. точное совпадение по названию не найдено; zaubacorp.com — HTTP 403, thecompanycheck/instafinancials — 404, tofler — 404, indiamart — HTTP 429. Следовательно: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка FY25/FY26 — null (не публично доступно в рамках этой проверки / не подтверждено). Название в трёх вариантах ('M/S LAKSHMI MOTER COMPANY', 'Lakshmi Motor Co', 'LAKSHMI MOTOR COMPANY') с орфографической ошибкой 'MOTER' типично для proprietorship/partnership без CIN — вероятно не компания по Companies Act, но это НЕ подтверждено, поэтому role = unknown. Отклонять НЕЛЬЗЯ: нет доказательств, что юрлицо не существует, ликвидировано или банкрот (правило 3). Заявленный HS (270119; 321410; 401693; 741521) — смешанная группа (уголь/битум, шпатлёвки, резиновые прокладки, медные крепления), что не соответствует названию 'Motor Company'; фактический код не установлен, компания сохраняется в базе без HS-отклонения. Требуется повторная проверка при восстановлении доступа к реестру (MCA master data, GST-портал) или запрос документов у поставщика (GST-сертификат, PAN, устав/регистрация)."
+}

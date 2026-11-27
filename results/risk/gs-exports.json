@@ -1,0 +1,9 @@
+{
+ "name_input": "GS Exports",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no findings, nothing verified. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx), DuckDuckGo HTML/lite endpoints timed out, and Bing/Google returned only generic unrelated results (Goldman Sachs, US 'GS' pay scale) - quoted query terms were ignored, so no page about this company was ever retrieved. OFAC: the Sanctions List Search UI is a JS form and returns no results via GET; the SDN.CSV export was truncated at 6000 chars (only the Cuba program section was visible), so absence of a match could NOT be confirmed. No Indian court records (eCourts/NJDG), regulator actions, credit rating or Russia/CIS supply evidence could be checked. All fields are null because nothing is public to me in this session - these are NOT negative findings and must not be read as 'clean'. Name 'G S Exports' / 'GS Exports' is highly generic and ambiguous in India (multiple unrelated firms plausibly share it), so any future match must be tied to a CIN/PAN/address before being attributed to this supplier. Recommend re-running this batch when search access is restored, and requesting the CIN/PAN from the supplier to disambiguate. Per project rules, no rejection is proposed on this basis."
+}

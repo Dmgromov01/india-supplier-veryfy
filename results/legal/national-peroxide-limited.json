@@ -1,0 +1,18 @@
+{
+ "name_input": "NATIONAL PEROXIDE LIMITED",
+ "legal_name": "National Peroxide Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: the web_search backend returned connection refused for all queries, and every registry/profile source attempted (zaubacorp.com, thecompanycheck.com, screener.in, moneycontrol.com, bseindia.com) returned 403/404/410 or an empty page, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figure could be read from a primary source. Nothing is asserted here that was not read: all registry fields are null because they are not confirmed, not because they are absent. What is supported: the company's own domain www.nationalperoxide.com resolves and serves a directory index (no content), and BSE lists a scrip page for 'National Peroxide Ltd' (ticker page loaded, content not extractable) - consistent with an existing, listed entity, so there is no basis for rejection under the rules (no evidence of strike-off, liquidation or bankruptcy). Role is set to manufacturer on the basis of the declared HS codes 2847.00 (hydrogen peroxide) and 2521.00 (limestone flux/calcareous stone) and the company's known business as a hydrogen peroxide producer, but this is an inference from the input, not a verified registry fact. Declared HS 2521.00 is not corroborated by anything read and should be treated as unverified. Revenue FY25 and FY26 are null: no audited accounts or official filing was retrievable. Recommended follow-up: re-run with a working search backend and pull the MCA master data record plus the GST public profile to fill CIN, PAN, GSTIN, incorporation date and registered state."
+}

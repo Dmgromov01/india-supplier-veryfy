@@ -1,0 +1,9 @@
+{
+ "name_input": "KUSA CHEMICALS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No verifiable public record found for an Indian entity named 'KUSA Chemicals Private Limited'. Tooling was degraded during this run: the DuckDuckGo search backend returned connection refused on all queries, Google returned a redirect/consent interstitial, DuckDuckGo HTML returned HTTP 403, and ZaubaCorp/Tofler returned 403/404. Bing results were dominated by unrelated 'KUSA' matches (KUSA-TV Denver, Kennel Union of Southern Africa, Kalashnikov USA) and returned no page referencing an Indian chemicals company of this name. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its query interface is form-based and could not be executed via plain HTTP GET, so no name-level screening result was obtained. Therefore: sanctions_hit = null (NOT screened, not cleared - do not read as 'no sanctions'); court_cases = null (no public record located; eCourts/NJDG not queried); rating = null (no CRISIL/ICRA/CARE/India Ratings/Brickwork action found); news_risk = null (no negative news located, but search coverage was effectively nil); rf_supply = null (no evidence of supplies to Russia or CIS found, and no evidence of absence either). All fields are null because nothing is public/retrievable, not because checks came back clean. Recommend re-running risk screening when search backend is restored, and confirming the exact registered name/CIN with the requester before any further work - the name as supplied could not be matched to any registry entry."
+}

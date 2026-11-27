@@ -1,0 +1,9 @@
+{
+ "name_input": "NATIONAL PEROXIDE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend returned 'Connection refused' on every attempt (searx unavailable), and direct fetches of search engines (Google, DuckDuckGo HTML/lite) were blocked, JS-gated or timed out. The OFAC Sanctions List Search page loaded but is a JavaScript form and returns no query results via plain HTTP GET, so no name match could be executed. nationalperoxide.com resolved but returned an empty directory index / 404 on subpages, yielding no usable content. Therefore NO sanctions exposure, court case, regulator action, credit rating or RF/CIS supply evidence could be verified from a primary source. All fields are set to null rather than guessed. Per project rules this is NOT a rejection ground and no adverse inference should be drawn - the company remains in the database pending a re-run of this risk check when search access is restored. Recommended next steps for the re-run: (1) OFAC SDN/consolidated list CSV name match; (2) UN Consolidated and EU/UK OFSI consolidated lists; (3) BIS Entity List; (4) eCourts / NCLT / High Court party search for 'National Peroxide'; (5) CRISIL/ICRA/CARE/India Ratings press releases; (6) SEBI/BSE/NSE filings if listed, for related-party and export disclosures."
+}
