@@ -1,0 +1,18 @@
+{
+ "name_input": "SERENE SHOE COMPANY",
+ "legal_name": "SERENE SHOE COMPANY (unverified — exact legal form not confirmed; name as given in input, no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no public record could be retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all queries; Zauba Corp and InstaFinancials returned HTTP 403; TheCompanyCheck search URL returned 404; Google returned HTTP 429; Bing returned only generic dictionary/brand results for 'serene' with no exact-name match for 'SERENE SHOE COMPANY' (two separate exact-phrase queries, incl. site-restricted to zaubacorp/thecompanycheck/tofler, yielded zero relevant hits). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null — not public/not retrieved, NOT invented. No rejection applied: absence of a retrieved record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left 'unknown' — the name suggests a footwear entity but no filing confirms manufacturer vs trader. Note the input's industry_claimed ('Продукты питания и FMCG' / food & FMCG) is inconsistent with the declared HS 640610 (footwear uppers of leather) and with the company name; per rules this is not a rejection ground — HS should be corrected to the factual footwear code once the entity is confirmed. Recommended next step: manual lookup on MCA21 / GST portal by trade name, or obtain the supplier's GSTIN/PAN directly from the counterparty, then re-run verification."
+}

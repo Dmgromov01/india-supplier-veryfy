@@ -1,0 +1,18 @@
+{
+ "name_input": "MAXWELL TOOLS CO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра не получены. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Bing по запросам \"Maxwell Tools Co\", \"Maxwell Tools\" + \"Kusum Gupta\", \"Maxwell Tools\" GST India выдавал только нерелевантные результаты (музыкант Maxwell, Maxwell Technologies и т.п.) — ни одного индийского реестрового профиля найдено не было. Прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули 403/404, mca.gov.in — 403. Никаких CIN/PAN/GSTIN/даты инкорпорации/оборота подтвердить не удалось, поэтому все поля null — не выдуманы. Признаков того, что юрлицо не существует, ликвидировано или банкрот, также не получено, поэтому отклонение (rejected) не применяется: компания остаётся в базе со статусом 'не проверено'. Название \"MAXWELL TOOLS CO\" с указанием физлица (Kusum Gupta) в поле legal_claimed типично для проприетарного предприятия / неформального трейдера, у которого может не быть CIN и которое может не публиковать отчётность — тогда выручка FY25/FY26 останется null по определению. Требуется повторная проверка при восстановлении доступа к GST-порталу (gst.gov.in search taxpayer) и MCA master data; также нужен GSTIN от поставщика для верификации. Роль (manufacturer/trader) не установлена — HS 820713 (буры с рабочей частью из кермета) заявлен, но фактический профиль деятельности не подтверждён."
+}

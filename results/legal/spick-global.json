@@ -1,0 +1,18 @@
+{
+ "name_input": "SPICK GLOBAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (searx/DuckDuckGo) возвращал connection refused/timeout; Bing по запросам «Spick Global» + CIN/GSTIN/Sumit Sarin/IndiaMART выдавал только нерелевантные словарные результаты (токен 'spick' интерпретируется как оскорбление), релевантных страниц о компании не найдено. ZaubaCorp отдал HTTP 403, TheCompanyCheck — только лендинг без результатов поиска, Google — HTTP 429. Входные данные противоречивы: в поле legal_claimed указано физлицо «SUMIT SARIN», а не юрлицо, поэтому точное наименование юрлица (возможные варианты: 'Spick Global', 'Spick Global Pvt Ltd', 'Spick Global LLP') не подтверждено. CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус — null, публично не подтверждены в рамках доступных источников. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26 — null: аудиторская отчётность или официальные филинги не найдены. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3); статус — 'не проверено, требуется повторный запрос к MCA/GST-порталам'. Рекомендация: повторить проверку при доступном поиске, запросить у поставщика CIN/GSTIN/PAN напрямую, а также уточнить, является ли 'SUMIT SARIN' проприетором (sole proprietorship) — в этом случае юрлица как такового нет и GSTIN будет по PAN физлица (4-й символ PAN = 'P')."
+}

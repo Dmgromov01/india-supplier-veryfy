@@ -1,0 +1,18 @@
+{
+ "name_input": "Concord Printing",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена. Причина: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Google вернул 429, DuckDuckGo HTML — timeout; Bing по запросам «\"Concord Printing\" GSTIN India», «\"Concord Printing\" India private limited CIN», «\"Concord Printing\" IndiaMART boxes» выдал только нерелевантные результаты о Concord University / Concord Coach Lines / Concord (game) — ни одного индийского юрлица с таким названием не найдено. Реестровые агрегаторы Zauba Corp и InstaFinancials отдали HTTP 403, thecompanycheck — только лендинг без результатов поиска. Следовательно CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 не подтверждены ни одним публичным источником — везде null, цифры не выдумывались. Название «Concord Printing» без указания организационно-правовой формы (Pvt Ltd / LLP / проприеторшип) неоднозначно: под него могут подходить несколько разных GST-регистраций в разных штатах, поэтому привязка к конкретному юрлицу без дополнительных данных (штат, PAN, GSTIN, город из входных данных) невозможна. Роль (manufacturer/trader) не определена — null/unknown. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию юрлица (правило 3 — rejected только при доказанной неликвидности/страйк-офф). Требуется повторная проверка при доступных реестрах (MCA master data, GST-портал) и уточнение от заказчика: полное юрлицо, штат/город, GSTIN или PAN. Заявленный HS 481910 (коробки из гофрокартона) не проверялся по существу и не является основанием для отклонения (правило 3)."
+}
