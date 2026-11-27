@@ -1,0 +1,18 @@
+{
+ "name_input": "GLASS CREATIONS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена. Входные данные содержат только торговое имя 'GLASS CREATIONS' и имя физлица 'RAJENDRA GUPTA' — это не юридическое наименование и не подтверждённый proprietor/директор. Ни CIN/LLPIN, ни PAN, ни GSTIN во входных данных не переданы, поэтому привязка к конкретному юрлицу невозможна. Попытки проверки: web_search вернул ошибку бэкенда (connection refused) на всех запросах; zaubacorp.com — HTTP 403; mca.gov.in (MCA Master Data) — HTTP 403; thecompanycheck.com и instafinancials.com — HTTP 404 по прямым путям поиска; duckduckgo.com — HTTP 403; bing.com отдал только нерелевантную общую выдачу по слову 'glass' (кавычки и site:-операторы не соблюдены), knowyourgst.com — только страница-форма без результатов. Итог: публичных подтверждений существования именно этого юрлица получить не удалось. ВАЖНО: отсутствие подтверждения НЕ является основанием для отклонения — компания не отклонена, статус 'unknown', данные null. Для завершения проверки нужны: точное юрлицо (Pvt Ltd / LLP / proprietorship), GSTIN или PAN, штат регистрации. Выручка FY25/FY26 — null: аудиторской отчётности или официальных filings не найдено, цифры не выдумывались. Роль (manufacturer/trader) не определена: заявленный HS 702000 (прочее стекло) не подтверждён ни одним источником, а по правилам проекта несоответствие HS не является основанием для отклонения."
+}

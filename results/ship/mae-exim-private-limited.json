@@ -1,0 +1,8 @@
+{
+ "name_input": "MAE EXIM PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/mae-exim-private-limited (and slug variant /mae-exim-pvt-ltd) returned only the generic paywalled template: \"Shipments available for MAE EXIM PRIVATE LIMITED, refreshed daily\" — zero shipment rows rendered, no date, no destination, no HS code, no bill-of-lading number. Source counter: 2 importkey pages opened, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com and zaubacorp.com both returned HTTP 403 Forbidden; no public domestic-supply record was read. Source counter: 2 registry pages attempted, 0 rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: все проверенные источники (importkey — только заглушка без строк, volza/eximpedia/trademo/thecompanycheck/zaubacorp — HTTP 403) не отдали ни одной записи. Заявленный HS 847150;854231 (компьютеры/процессоры) ничем не подтверждён и не опровергнут; по правилу 3 HS-несоответствие не является основанием для отклонения, поэтому код оставлен как заявленный до фактической проверки. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Роль (manufacturer/trader) не определена — по названию «EXIM» вероятен трейдер, но это не подтверждено. Требуется платный доступ к таможенным данным или выписка GST для закрытия вопроса."
+}

@@ -1,0 +1,24 @@
+{
+ "name_input": "OXFORD LABORATORIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case": "Dr. Reddys Laboratories Limited vs Oxford Laboratories Private Limited",
+   "role": "Defendant",
+   "status": "Orders dated 23.12.2021, 04.01.2022, 05.01.2022 and 23.05.2022 (trademark/IP suit filed by Dr. Reddy's Laboratories; interim proceedings)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Oxford%20Laboratories%22"
+  },
+  {
+   "court": "Andhra Pradesh High Court (Amaravati)",
+   "case": "The State Of Andhra Pradesh vs M/S. Oxford Laboratories",
+   "role": "Respondent/party (per cause title)",
+   "status": "Order dated 22.07.2024; nature of matter not established from available snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Oxford%20Laboratories%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no confirmed hit found, but this is NOT a clean negative — the OFAC SDN CSV was retrieved only as a partial/truncated page and the OFAC Sanctions List Search tool is a JS form that could not be queried by GET, so a full name screen against OFAC SDN, UN, EU, UK and BIS Entity List was NOT completed. sanctions_hit is therefore null (not screened), not 'no hit'. Court cases: two distinct Indian matters found via Indian Kanoon — (1) a Delhi High Court trademark/IP suit brought by Dr. Reddy's Laboratories against Oxford Laboratories Private Limited, in which the company is the DEFENDANT, with orders on 23.12.2021, 04.01.2022, 05.01.2022 and 23.05.2022; (2) an Andhra Pradesh High Court (Amaravati) matter 'State of Andhra Pradesh vs M/s. Oxford Laboratories', order dated 22.07.2024, where the company appears as the respondent — the subject matter (likely tax/excise/regulatory) could not be read because the full document page returned 'Act/Judgment not found'. Per project rules these are noted neutrally and are NOT rejection grounds. Rating: no credit rating found; null — not public in the sources reachable. News/regulator actions: none found; null. RF/CIS supply evidence: none found; null. IMPORTANT METHOD LIMITATION: the web_search backend was down for the entire session (searx connection refused), DuckDuckGo returned 403, Google returned a redirect/consent page, and Bing returned identical generic 'Oxford'-university results for every query regardless of operators — so news, regulator-action and credit-rating coverage is effectively unverified rather than verified-absent. Recommend re-running the sanctions screen and news/rating checks when search is restored before relying on these nulls."
+}

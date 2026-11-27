@@ -1,0 +1,18 @@
+{
+ "name_input": "ORBIT LIFESCIENCE PVT LTD; ORBIT LIFE SCIENCE PVT LTD; ORBIT LIFESCIENCE PRIVATE LIMITED",
+ "legal_name": "ORBIT LIFESCIENCE PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. web_search backend was down (searx connection refused) and all fallback routes failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com HTTP 403, mojeek HTTP 403, brave HTTP 429, duckduckgo/lite timed out, startpage blocked by JS challenge, and Bing returned only generic unrelated 'ORBIT' results (query terms effectively ignored), so no MCA/CIN/GST page was ever read. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null - not public via any source I could open, and I will not guess them. No rejection basis established: nothing found indicating the entity does not exist, is struck off, liquidated or bankrupt, so it is NOT rejected - status is unverified pending a working registry lookup (MCA master data / Zauba / Tofler). Role left as 'unknown' rather than inferred from the claimed pharma-intermediate HS codes (293349/293359/293399/293590), since catalogue or HS claims are not evidence of manufacturer vs trader status. Note also that the input gives no state, so no state mismatch can be assessed. Recommended next step: re-run with a functioning search backend and read the MCA company master data page plus a GST public profile for the exact legal name."
+}
