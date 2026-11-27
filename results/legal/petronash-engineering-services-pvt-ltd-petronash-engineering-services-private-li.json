@@ -1,0 +1,18 @@
+{
+ "name_input": "PETRONASH ENGINEERING SERVICES PVT LTD; PETRONASH ENGINEERING SERVICES PRIVATE LIMITED; PETRONASH ENGINEERING SERVICES PRIVATE LIMITED",
+ "legal_name": "PETRONASH ENGINEERING SERVICES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Tamil Nadu (per company's own published office addresses; not confirmed against MCA master data)",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Legal entity name confirmed from the group's own website (petronash.com/contact-us), which lists two Indian establishments: 'PETRONASH ENGINEERING SERVICES PVT LTD (Unit I)' at Featherlite The Address, Block B, 6th Floor, Survey No 203/10B, 200 Feet MMRD Road, Zamin Pallavaram, Chennai 600 044, and 'PETRONASH MANUFACTURING FACILITY (Unit II)' at F (46-47), Bible College Road, SIPCOT Industrial Park, Irungattukottai, Sriperumbudur 602 105, Tamil Nadu; a third Chennai address (Olympia National Tower, Guindy Industrial Estate, Chennai 600 032) is also listed. So the registered/operating state is Tamil Nadu, not the empty state in the input. Role: the site shows both an engineering/manufacturing facility (Unit II) and field service / LSTK / rental-repair-commissioning services plus oilfield equipment and spare parts supply, hence manufacturer_trader (with a service component). NOT VERIFIED / NULL: CIN, PAN, GSTIN, GST status, date of incorporation, MCA status and revenue for FY25/FY26 could not be retrieved. Reason: the web_search tool was down (connection refused) and every registry aggregator attempted (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com, instafinancials.com) returned HTTP 403/404, while Bing/Google/DuckDuckGo returned irrelevant or rate-limited results. No audited accounts or MCA filings were accessible, so revenue is null rather than estimated. No PAN was claimed in the input and none was found, so pan_holder_type cannot be derived. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy - the entity is clearly active (current corporate website with live Indian offices). Declared HS 730900 (reservoirs, tanks, vats of iron/steel) is plausible for this supplier's separation/process packages but was not assessed here (out of scope for this role). Recommended next step: pull the CIN and GSTIN from the MCA master data / GST portal by legal name to complete the record."
+}

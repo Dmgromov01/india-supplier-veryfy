@@ -1,0 +1,18 @@
+{
+ "name_input": "Scilab Exports",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить существование юрлица по публичным источникам. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Bing отдавал нерелевантную выдачу, а реестровые профили (zaubacorp, instafinancials, mca.gov.in) вернули 403/429 — прочитать страницу с CIN/GSTIN не удалось. Входные данные противоречивы: в поле legal_claimed указано физлицо 'KHUSHBU JAIN' (вероятно проприетор/партнёр), а не название компании; заявленный HS 901890 (медицинские/хирургические инструменты) не соответствует заявленной отрасли 'IT и электроника'. Никаких данных о CIN, PAN, GSTIN, дате регистрации, статусе MCA и выручке получить не удалось — все поля null, цифры не выдумывались. Отклонение НЕ применяется: отсутствие подтверждения в реестре при недоступности реестра не равно доказанному отсутствию юрлица (правило 3). Требуется повторная проверка при доступе к MCA/GST-порталам; вероятная форма — proprietorship (тогда CIN отсутствует по определению, а PAN/GSTIN нужно брать из GST-профиля)."
+}
