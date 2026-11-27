@@ -1,0 +1,18 @@
+{
+ "name_input": "COLOROBBIA CHEMICALS INDIA PVT LTD",
+ "legal_name": "Colorobbia Chemicals India Pvt. Ltd. (as listed on parent group's affiliates page; exact MCA-registered legal name not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - identifiers deliberately left null rather than guessed. What IS confirmed: the entity exists as an operating affiliate of the Italian Colorobbia Group - it is listed by name ('Colorobbia Chemicals India PVT. LTD') on the parent's official affiliates page, https://www.colorobbia.com/en/affiliates, alongside Colorobbia Italia SPA, Colorobbia China, Colorobbia Mexico etc. That confirms existence and group affiliation, but NOT Indian registry data. Not confirmed: CIN, PAN (and therefore PAN holder type from the 4th character), GSTIN, GST status, date of incorporation, registered-office state, MCA status, revenue FY25/FY26. Reason: the web_search tool returned a connection error ('searx: Connection refused') for every query, and the registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 Forbidden to direct fetches. Bing fallback returned only generic Colorobbia group/retail pages with no Indian MCA or GST profile. No audited accounts or MCA filings were reachable, so revenue is null per rule 4 (do not invent). Role left 'unknown': the group describes itself as producing and distributing ceramic/glass raw materials and semi-finished products, which suggests manufacturer and/or trader, but the Indian entity's own activity (manufacturing plant vs. sales/distribution arm) is not evidenced by any registry or filing document I could open. NOT rejected - no evidence of non-existence, strike-off, liquidation or bankruptcy; the entity is affirmatively listed by its parent. Declared HS 320740 (glass frit/enamel) is consistent with the group's ceramics/glass materials business, but HS is not a rejection criterion per rule 3 and no correction is asserted here. Action needed: re-run once search/registry access is restored, or obtain the CIN from the supplier's own GST invoice/COI, to fill CIN, PAN, GSTIN, incorporation date, state and revenue."
+}

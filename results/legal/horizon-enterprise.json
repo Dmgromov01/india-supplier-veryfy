@@ -1,0 +1,18 @@
+{
+ "name_input": "Horizon Enterprise",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; агрегаторы реестров (zaubacorp.com, instafinancials.com, thecompanycheck.com, quickcompany.in, indiafilings.com, gstsearch.in) отдали 403/404, портал MCA (mca.gov.in) — 403. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты инкорпорации, ни статуса MCA подтвердить не удалось. Название 'Horizon Enterprise' — типовое, встречается у множества индийских proprietorship/partnership-фирм и мелких Pvt Ltd; без PAN/GSTIN/штата из входных данных однозначная привязка к конкретному юрлицу невозможна. ВАЖНО: 'Horizon Enterprise' как форма 'Enterprise' в подавляющем большинстве случаев — незарегистрированная фирма (proprietorship), у которой нет CIN и нет аудиторской отчётности; выручка FY25/FY26 публично не раскрывается — оставлено null, не выдумано. Роль определить нельзя: заявленный HS 870333 (легковые автомобили с двигателем >2500cc, б/у) не подтверждает ни производства, ни торговли. Отклонять НЕ следует: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется от заказчика PAN или GSTIN либо точный штат/адрес для повторной проверки."
+}

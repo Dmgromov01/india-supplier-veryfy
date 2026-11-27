@@ -1,0 +1,18 @@
+{
+ "name_input": "PEGO HARDWARE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки доступа к реестрам и поисковикам не удались: DuckDuckGo (searx) вернул 'Connection refused', Google — HTTP 429, Bing игнорирует кавычки и выдаёт нерелевантную выдачу (Wikipedia 'Shah', shahshalalfood.com и т.п.), Zauba Corp — HTTP 403. Ни одна запись реестра (MCA/CIN, GST-профиль, PAN) не была получена и прочитана. Соответственно: точное юрлицо, CIN/LLPIN, PAN и тип держателя (4-й символ), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA — null, не выдуманы. Заявленное в input юрлицо 'SHAH HARDWARE MART' не подтверждено и не опровергнуто; по названию это, вероятно, проприеторство/партнёрство (тогда CIN отсутствует по природе, а PAN — физического лица, 4-й символ 'P'), но это ГИПОТЕЗА, а не факт. Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25 и FY26: null, аудированной отчётности или официальных филингов не найдено. ВАЖНО: отклонять НЕЛЬЗЯ — нет доказательств, что юрлицо не существует, ликвидировано или банкрот; отсутствие данных не является основанием для rejected. Требуется повторная проверка при работающем поиске/доступе к MCA и GST-порталу."
+}
