@@ -1,0 +1,18 @@
+{
+ "name_input": "Vanesa Cosmetics Pvt. Ltd.; VANESA COSMETICS PRIVATE LIMITED",
+ "legal_name": "VANESA COSMETICS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on every query, and all direct registry sources were inaccessible: zaubacorp.com and thecompanycheck.com returned HTTP 403, mca.gov.in returned HTTP 403, tofler.in returned 404 for the guessed slug, Google returned HTTP 429, DuckDuckGo lite timed out, and Bing returned only irrelevant results (no usable hits for the company name). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrieved, NOT zero and NOT estimated. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a tooling limitation, not a negative finding. Role left as 'unknown' because manufacturer vs trader status cannot be established from registry data alone. Note on the input: declared HS codes 330290/330300/330499/330510 are cosmetics/perfumery/toiletries (Chapter 33), which does not match the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) - per project rules this is NOT a ground for rejection; the HS code should simply be recorded as the factual one (Chapter 33 cosmetics) and the industry label corrected. Recommended next step: re-run verification when search/registry access is restored, checking MCA master data for the exact CIN, then GST portal public search for GSTIN and status, then audited FY25/FY26 filings for revenue."
+}

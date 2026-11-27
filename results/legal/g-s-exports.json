@@ -1,0 +1,18 @@
+{
+ "name_input": "G S EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: поисковый бэкенд (DuckDuckGo/searx) недоступен (connection refused), Google вернул 429, Bing отдал нерелевантную выдачу без учёта кавычек, а реестровые источники (zaubacorp.com, instafinancials.com, thecompanycheck.com, mca.gov.in) заблокировали прямой доступ (HTTP 403/404). Название 'G S EXPORTS' — это торговое/краткое имя без организационно-правовой формы; в Индии под ним могут существовать десятки разных юрлиц (G S Exports Pvt Ltd, G.S. Exports, проприетарные фирмы и партнёрства) в разных штатах, поэтому привязывать CIN/PAN/GSTIN наугад нельзя — это было бы выдумыванием данных. PAN, CIN, GSTIN, дата регистрации, штат, статус MCA, выручка FY25/FY26 — null (не подтверждены публичным источником). Роль — unknown. Вердикт: НЕ отклонять (нет доказательств несуществования/ликвидации/банкротства), но и не принимать — требуется уточнение от поставщика: полное юрлицо, CIN/GSTIN, штат регистрации, затем повторная проверка в MCA V3 / GST-портале. HS 120242 (семена подсолнечника, дроблённые) — не основание для отклонения; при подтверждении фактического кода исправить на фактический (accepted_hs_corrected)."
+}

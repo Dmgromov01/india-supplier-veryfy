@@ -1,0 +1,9 @@
+{
+ "name_input": "LNSK GREEN HOUSE AGRO PRODUCTS LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: инструменты поиска были недоступны/деградированы в ходе сессии. web_search (DuckDuckGo/searx) возвращал ошибку соединения (Connection refused) на всех запросах; http_get к google.com — HTTP 429; duckduckgo.com/html — timeout; bing.com возвращал нерелевантную выдачу без единого совпадения по точному названию; tofler.in — 404 на странице поиска; zaubacorp.com — HTTP 403. Форма поиска OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) загружена, но является JS-формой и не отдаёт результаты через GET-запрос, поэтому фактическая сверка по SDN/Non-SDN не произведена. Сверка по UN Consolidated List, EU Consolidated List, UK OFSI Consolidated List и BIS Entity List не проводилась. Судебные дела (eCourts, NCLT, High Court, Supreme Court), действия регуляторов (FSSAI, DGFT, ED, SEBI), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверены. Все поля оставлены null — данные не выдумывались. ВАЖНО: отсутствие результата здесь НЕ означает отсутствие рисков; требуется повторный прогон при восстановлении доступа к поиску. Дополнительно: заявленное название в брифе (LNSK GREEN HOUSE AGRO PRODUCTS LLP) и legal_claimed (LNSK GREENHOUSE AGRO PRODUCTS LLP) различаются написанием — это вне моей роли (идентификация юрлица), но передаю как флаг для верификатора. По правилу 2 любые найденные при повторной проверке санкции/суды/уголовные дела владельцев не являются основанием для отклонения — только нейтральная пометка «есть сложности»."
+}

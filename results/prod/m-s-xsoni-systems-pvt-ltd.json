@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S XSONI SYSTEMS PVT LTD",
+ "declared_hs": "845020",
+ "actual_hs_list": [
+  "845020",
+  "845110",
+  "845129",
+  "845130",
+  "845140",
+  "842112",
+  "840219",
+  "845190"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт xsonisystems.com (главная и /about/): «manufacturer, supplier & exporter of laundry machineries and garment finishing equipment», с 1985 г. Реальные товарные линии по каталогу сайта: (1) Washer Extractors / Washer Extractor & Dryer / Barrier Washer Extractor — промышленные стирально-отжимные машины; (2) Industrial Dryer Tumbler — сушильные барабаны; (3) Flat Linen Ironing Machine / Flatwork Ironer — гладильные каландры для прямого белья; (4) Dry Cleaning Machine — машины химчистки; (5) Hydro Extractors — центрифуги/отжимные машины; (6) Steam Generator — парогенераторы; (7) Vacuum Finishing Table, Apparel Processing Machines, Supporting Equipment & Accessories — вакуумные гладильные столы и отделочное оборудование. Дополнительно — импорт/дистрибуция брендов: SIDI (ironing), IPSO (washing & wet cleaning), Italclean (dry cleaning), LG Commercial, Haier (washer/dryer stackable). Адрес: G-256 Sector-63 Noida; произв. площадка K-240 UPSIDC Surajpur, Greater Noida.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Заявленный код 845020 (машины для химчистки) — частичное совпадение: химчистка действительно есть в каталоге (Dry Cleaning Machine), но это лишь одна из 7+ линий. Основной оборот — стирально-отжимные машины (8451 40 / 8450 20 по классификации стиральных машин), сушильные барабаны (8451 29), гладильные каландры и прессы (8451 30), центрифуги (8421 12), парогенераторы (8402 19), части оборудования (8451 90). Отрасль в декларации указана как «IT и электроника» — это ОШИБКА КЛАССИФИКАЦИИ: компания относится к текстильному/прачечному машиностроению (HS глава 84, товарная позиция 8450/8451), а не к ИТ/электронике. Признаки трейдера: официально заявлено партнёрство и продажа оборудования SIDI, IPSO, Italclean, LG Commercial, Haier — то есть импорт/дистрибуция наряду с собственным производством (роль manufacturer_trader). Все товарные линии подтверждены только страницами сайта — фактических таможенных строк в рамках этой проверки не сверялось, поэтому ассортимент в части экспорта помечается «заявлено, не подтверждено». HS-несоответствие НЕ является основанием для отклонения: компания сохраняется в базе, код корректируется на фактический (8451 40 / 8451 29 / 8451 30 как основные), вердикт accepted_hs_corrected."
+}

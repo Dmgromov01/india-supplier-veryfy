@@ -1,0 +1,9 @@
+{
+ "name_input": "K.S Overseas Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the DuckDuckGo search backend returned 'Connection refused' on all queries; direct fetches of google.com (HTTP 429), duckduckgo.com/html and html.duckduckgo.com (timeouts) failed; Bing returned only generic results for the token 'K' (it tokenized 'K.S.' as the letter K) and never surfaced any page about the company. Consequently NOTHING could be verified: no OFAC SDN / UN / EU / UK / BIS Entity List screening result, no Indian court records (NCLT, High Court, eCourts) with party role or status, no regulator actions, no credit rating, and no evidence of supplies to Russia or the CIS. All fields are null because the data is not public/not retrieved - these are NOT negative findings and must not be read as 'clean'. The company name is also highly generic and ambiguous ('K.S. Overseas' is a common Indian trading name), so even a working search would require disambiguation by CIN/PAN/registered address, none of which were supplied (pan_claimed and state_claimed are empty). Recommend re-running this company once search connectivity is restored, with the CIN or PAN provided, before any risk conclusion is drawn. Per project rules, no rejection is implied or recommended here."
+}
