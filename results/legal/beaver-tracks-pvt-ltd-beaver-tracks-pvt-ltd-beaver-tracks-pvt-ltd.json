@@ -1,0 +1,18 @@
+{
+ "name_input": "BEAVER TRACKS PVT LTD; BEAVER TRACKS PVT LTD; BEAVER TRACKS PVT LTD",
+ "legal_name": "BEAVER TRACKS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in MDS page returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com returned only unrelated results (generic 'beaver' animal/tool pages, Roblox game pages) with no Indian company match for 'Beaver Tracks'. Therefore CIN, PAN, GSTIN, incorporation date, registered state and MCA status are all null - NOT verified, not 'not existing'. Per project rules, rejection is only permitted when the entity is proven non-existent/struck off/liquidated/bankrupt; absence of a retrievable record due to blocked sources is NOT proof of non-existence, so this company is NOT rejected and must be re-queued for manual MCA master-data lookup. No revenue figures found in audited accounts or official filings, so FY25/FY26 revenue left null rather than estimated. Role cannot be determined without registry data (declared HS 870899 = motor-vehicle parts, which is consistent with either a manufacturer or a trader; no evidence either way). Note also that the input name was triplicated and state_claimed and pan_claimed were empty, so no state cross-check was possible. Recommended next step: manual search of MCA master data by company name, then GST portal public search by GSTIN."
+}

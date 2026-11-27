@@ -1,0 +1,18 @@
+{
+ "name_input": "Gajjar Die Cast & Engineers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные не подтверждены: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused'; Bing отдавал нерелевантную выдачу (спикеры JBL, Macy's и т.п.) — совпадений по названию компании не найдено; zaubacorp.com и instafinancials.com вернули 403, thecompanycheck.com — 404. ВАЖНО по вводным данным: в поле legal_claimed указано 'BHAVESH JAGJIVANBHAI TALSANIA' — это имя физлица, а не наименование юрлица. Для Индии это означает, что вероятная форма — sole proprietorship (ИП) или partnership, у которой НЕТ CIN/LLPIN и нет данных в MCA; регистрация таких субъектов в MCA не отражается. Соответственно CIN, MCA-статус, дата инкорпорации и аудированная выручка по таким субъектам публично не раскрываются — оставлены null, не выдуманы. GSTIN и PAN не подтверждены ни одним публичным профилем, поэтому null (формат PAN по 4-му символу определить невозможно без самого номера). Штат регистрации не подтверждён; в вводных штат не заявлен (пусто). Роль (manufacturer/trader) по реестровым данным не определяется — 'unknown'. Выручка FY25/FY26: null, аудированной отчётности или официальных филингов не найдено. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица; оснований для rejected (ликвидация/банкротство/struck off) нет. Требуется повторная проверка при доступности GST-портала/реестра (например, по GSTIN из инвойса или по PAN владельца)."
+}
