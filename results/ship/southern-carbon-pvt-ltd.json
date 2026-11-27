@@ -1,0 +1,8 @@
+{
+ "name_input": "Southern Carbon Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row obtained. importkey.com/countries/india/southern-carbon-pvt-ltd and .../southern-carbon-private-limited both returned only the generic paywalled template: 'Join ImportKey to view the import and export data records of companies all over the world.' Rows actually seen: 0 of 0 (no table rendered, no B/L number, no date, no destination, no HS code). volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. web_search backend failed on all three queries ('searx: <urlopen error [Errno 111> Connection refused'), so no domestic-supply page could be reached. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — и по экспорту, и по внутреннему рынку. Это НЕ означает, что поставок не было: означает, что проверить их не удалось. Все четыре источника данных по отгрузкам оказались недоступны (403 / JS-challenge / платный шаблон без строк), а поисковик не отвечал, поэтому ни одной записи об отгрузке с датой, направлением, HS-кодом и номером B/L получить не удалось. Заявления сайта/каталога фактом не считаются, поэтому статусы выставлены unknown, а не declared_only. Выручка: null (не публична, не выдумывалась). Объём экспорта: null. HS 380210 (активированный уголь) не подтверждён и не опровергнут — оснований для отклонения нет, компания остаётся в базе. Требуется повторная проверка при восстановлении доступа к volza/eximpedia/importgenius или к поисковому бэкенду."
+}

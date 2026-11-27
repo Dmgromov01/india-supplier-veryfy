@@ -1,0 +1,9 @@
+{
+ "name_input": "RADIANCE INTERNATIONALS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не дала результатов: поисковый бэкенд (searx/DuckDuckGo) был недоступен (connection refused / timeout), а Bing по запросам в кавычках \"Radiance Internationals\", \"RADIANCE INTERNATIONALS PVT LTD\", \"Radiance International\" + India/zauba/tofler/indiamart/sanctions возвращал только нерелевантные общие результаты про слово 'Radiance' (radiancetech.com, Wikipedia, Minecraft-мод и т.п.) — ни одной страницы, относящейся к индийской компании с таким названием, найдено не было. Прямой запрос к OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) невозможен через GET — инструмент работает как JS-форма, поэтому санкционный скрининг по OFAC SDN фактически не выполнен; списки UN/EU/UK/BIS также не проверены. Судебные дела (eCourts, NCLT, High Court), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — данных нет, все поля null. Отсутствие данных НЕ означает отсутствия рисков: это 'не проверено', а не 'чисто'. Дополнительно: заявленный профиль ('Нефтегаз и химия') не соответствует заявленному HS 300410 (медикаменты) — это вопрос к верификации профиля, но по правилам проекта не является основанием для отклонения. Рекомендуется повторный прогон при доступном поиске и ручной скрининг в OFAC/EU/UK/BIS консолях, а также в eCourts по точному наименованию и штату (штат не указан — null)."
+}

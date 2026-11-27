@@ -1,0 +1,9 @@
+{
+ "name_input": "SUN TEKNOVATION PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on all web_search calls; Bing and Google HTML endpoints returned only generic 'Sun' (star) results unrelated to the query, i.e. the query was not actually executed; zaubacorp.com and instafinancials.com returned HTTP 403; search.mca.gov.in did not resolve (DNS failure). Therefore NO source could be read for this company. All fields set to null per rule 4 (do not invent data). Specifically NOT established: (a) sanctions exposure - no check against OFAC SDN, UN, EU, UK or BIS Entity List could be performed; (b) Indian court cases - no check of eCourts/NCLT/High Court records; (c) credit rating - no CRISIL/ICRA/CARE/India Ratings/Brickwork lookup; (d) negative news / regulator actions - no news search executed; (e) evidence of supplies to Russia or CIS - nothing found, but this is absence of research, not absence of evidence. Note also that the claimed legal name 'SUN TEKNOVATION PRIVATE LIMITED' could not be matched to any registry record, so even the existence of the entity is unconfirmed at this stage (out of scope for this role, flagged for the legal-identity researcher). RECOMMENDATION: re-run this company once search connectivity is restored; do not treat the nulls as a clean result. Per rule 2, nothing here constitutes a rejection ground."
+}

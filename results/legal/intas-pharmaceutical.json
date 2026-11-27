@@ -1,0 +1,18 @@
+{
+ "name_input": "INTAS PHARMACEUTICAL",
+ "legal_name": "Intas Pharmaceuticals Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this run: DuckDuckGo/searx backend refused connections, Google returned HTTP 429, Bing returned irrelevant results, and MCA (mca.gov.in), ZaubaCorp, TheCompanyCheck and Tofler all returned HTTP 403/404 to automated fetches. Therefore CIN, PAN, GSTIN, GST status, incorporation date, MCA status and audited FY25/FY26 revenue are all null — not public via accessible sources here, not invented. What IS confirmed from the company's own website (intaspharma.com/contact-us): the operating entity presents itself as 'Intas Pharmaceuticals Ltd.' with corporate office at Corporate House, Near Sola Bridge, S.G. Highway, Thaltej, Ahmedabad 380054, Gujarat — so the registered/operating state is Gujarat, consistent with the Gujarat-series CIN prefix (L24230GJ...) commonly cited for this company, but that CIN was NOT independently confirmed on an MCA/registry page in this run and is left null. Role: manufacturer (own manufacturing sites for pharmaceuticals/biologics/plasma fractionation per company site). Note on the input: industry_claimed 'oil & gas and chemicals' is wrong — the company is a pharmaceutical formulator/manufacturer; declared HS 300490 (medicaments, retail pack) is consistent with its actual business, so no HS correction is needed. Revenue: the site's Financials page only publishes US$ Mn figures up to FY2019 (revenue from operations US$1,884 Mn for FY2019) — no FY25/FY26 INR crore audited figures were retrievable, so both are null. Entity exists and is active per its own live corporate site; no basis for rejection. Recommend re-run of registry lookup (MCA master data / GST portal) when search access is restored."
+}
