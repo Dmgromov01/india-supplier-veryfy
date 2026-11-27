@@ -1,0 +1,18 @@
+{
+ "name_input": "RAJTILAK METAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no data could be retrieved. The claimed legal name 'VIKASHKUMAR SAMRATHMAL JAIN' is a personal name, not a company name, which indicates this is likely a sole proprietorship (proprietor name used as the legal entity). A proprietorship has no CIN/LLPIN and no MCA record, so cin_llpin and mca_status are structurally null rather than merely unfound. No PAN, GSTIN, GST status, incorporation date, registered state or revenue figures could be confirmed: the web_search backend returned a connection error on every query, Bing returned only irrelevant results, and the public registry/profile sources attempted (zaubacorp.com, instafinancials.com, tofler.in) returned HTTP 403/404 or no matching record. Per project rules, nothing was invented and no revenue was estimated. IMPORTANT: this is NOT a rejection - rejection is only permitted for non-existent, struck-off, liquidated or bankrupt entities, and non-existence was not established here; the entity may well exist as an unregistered proprietorship with no public footprint. Role left as 'unknown' because manufacturer vs trader cannot be determined from registry data alone. Declared HS 730723 (butt-welding tube fittings of steel) is plausible for a metal trading/fabrication business but is not evidence of anything. Recommended next step: obtain the GSTIN directly from the supplier (a proprietorship GSTIN's 4th character would also confirm the PAN holder type as individual/'P'), then re-check GST status on the GST portal and confirm the trade name as registered."
+}

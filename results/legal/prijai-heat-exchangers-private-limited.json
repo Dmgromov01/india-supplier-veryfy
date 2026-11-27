@@ -1,0 +1,18 @@
+{
+ "name_input": "PRIJAI HEAT EXCHANGERS PRIVATE LIMITED",
+ "legal_name": "PRIJAI HEAT EXCHANGERS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failure: web_search backend refused connections (searx: Connection refused) on both queries; direct fetches of public registry aggregators returned HTTP 403 (zaubacorp.com, thecompanycheck.com, mca.gov.in), HTTP 404 (tofler.in, instafinancials.com), HTTP 429 (google.com), and timeouts (duckduckgo.com). Bing returned only irrelevant results, so no page containing the company's CIN/GSTIN could be read. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT invented. No basis to reject: absence of retrieved records is not evidence of non-existence, strike-off, liquidation or bankruptcy, so the entity is treated as unverified rather than rejected. Role left as 'unknown' because no registry/legal document confirming manufacturing vs trading activity was read (product catalogues and IndiaMART were out of scope per instructions). Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Note on input: declared HS codes 741980 (copper articles) and 841590 (heat-exchanger parts) are consistent with the name, but HS is not a rejection criterion per project rules and no correction is proposed without evidence. State claimed in input was empty, so no state mismatch can be assessed. Recommended action: re-run with working search access, or verify manually on MCA master data / GST portal using the exact legal name."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Bekaert Industries Private Limited",
+ "legal_name": "BEKAERT INDUSTRIES PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) on every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404. Bing HTML fallback returned only generic global Bekaert corporate pages (bekaert.com, Wikipedia) with no Indian entity record. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT because they are absent, but because no public source could be read. No CIN, PAN, GSTIN or revenue figure has been guessed or inferred. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a tooling limitation, not a negative finding. Note for the analyst: 'Bekaert Industries Private Limited' is plausibly an Indian subsidiary of the Belgian Bekaert group (steel wire transformation and coatings), which would make the claimed industry 'Энергетика' and declared HS 853650 (electrical switches for <=1000V) questionable — Bekaert's Indian operations are typically classified under wire/steel products, not electrical switching apparatus. This is an unverified observation only and must be re-checked against MCA/GST records. Recommended action: re-run verification when search access is restored, or obtain CIN/GSTIN directly from the supplier's invoice or GST certificate."
+}

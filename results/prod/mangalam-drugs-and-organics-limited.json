@@ -1,0 +1,19 @@
+{
+ "name_input": "MANGALAM DRUGS AND ORGANICS LIMITED",
+ "declared_hs": "293499;293590",
+ "actual_hs_list": [
+  "29334900 (chloroquine/amodiaquine/4,7-dichloroquinoline - quinoline derivatives, not further fused)",
+  "29349990 (other heterocyclic compounds: acyclovir, etodolac, furosemide, DCMP, DBA, phthalazine-1,4-dione)",
+  "29329900 (artemether, artesunate, dihydroartemisinin - artemisinin derivatives with only oxygen hetero-atoms)",
+  "29335990 (4,6-dichloro-5-methoxypyrimidine; pyrimidine derivatives)",
+  "29339990 (efavirenz, dolutegravir sodium, bisoprolol fumarate, emtricitabine, tenofovir alafenamide/disoproxil bases)",
+  "29359090 (ortho-phenoxy methane sulfonanilide - sulphonamide)",
+  "29062990 / 29094900 (L(+)-menthol, 4-cyanoethyl-2-methyl phenol - specialty chemicals)",
+  "29420090 (other organic compounds, residual)",
+  "30049099 (only if finished formulations - not evidenced on site)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт mangalamdrugs.com (разделы API, Intermediates, Specialty Chemicals) перечисляет реальный ассортимент: API — Acyclovir (CAS 59277-89-3), Amodiaquine HCl (6398-98-7), Artemether (71963-77-4), Artesunate (88495-63-0), Dihydroartemisinin (71939-50-9), Chloroquine Phosphate (50-63-5), Bisoprolol Fumarate (104344-23-2), Dolutegravir Sodium (1051375-19-9), Efavirenz (154598-52-4), Emtricitabine (143491-57-0), Etodolac (41340-25-4), Furosemide (54-31-9); интермедиаты — 2-Dibutylamino-1-(2,7-dichloro-9H-fluoren-4-yl)-ethanol [DBA] (69759-61-1), 4,6-Dichloro-5-methoxy pyrimidine (5018-38-2), 4,7-Dichloroquinoline (86-98-6), Ortho Phenoxy Methane Sulfonanilide (51765-51-6), Tenofovir Alafenamide Base (379270-37-8), Tenofovir Disoproxil Base (201341-05-1); specialty chemicals — L(+)-Menthol (2216-51-5), Phthalazine-1,4-dione (20116-64-7), 4-Cyanoethyl-2-methyl phenol (22516-99-0). Профиль — производитель API и интермедиатов (антималярийные, антиретровирусные), WHO-GMP/EDQM, DSIR-одобренная R&D.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленные коды 293499 и 293590 покрывают лишь часть ассортимента. 293499 (прочие гетероциклические соединения) подтверждается частично: под него попадают acyclovir, etodolac, furosemide, DCMP, DBA, phthalazine-1,4-dione — но не хинолины и не артемизинины. 293590 (сульфонамиды) подтверждается только одним продуктом — ortho-phenoxy methane sulfonanilide (интермедиат для нимесулида); при этом сам сульфадоксин в перечне отсутствует, есть лишь его прекурсор DCMP. Основная масса продукции (хинолиновые антималярийные: chloroquine, amodiaquine, 4,7-dichloroquinoline) должна идти по 2933 49, а артемизинины (artemether, artesunate, dihydroartemisinin) — по 2932 99, эти позиции в декларации отсутствуют. Также не заявлены 2933 59 (пиримидины), 2933 99 (антиретровирусные: efavirenz, dolutegravir, emtricitabine, tenofovir-интермедиаты, bisoprolol) и specialty chemicals (ментол 2906, фенол 2909). Отраслевая метка «Нефтегаз и химия» — некорректна по профилю: компания фармацевтический производитель API (химия/фарма), не нефтегаз. Признаков трейдера нет: собственные площадки, R&D, DMF/CEP, GMP-сертификация — роль manufacturer. Все перечисленные продукты — заявлено на сайте, не подтверждено: конкретных таможенных строк/экспортных деклараций в рамках этой проверки не сверялось (по правилам роли объёмы и таможенные записи не исследуются), поэтому статус каждого кода — «заявлено, не подтверждено». HS-несоответствие не является основанием для отклонения: компания сохраняется, коды корректируются на фактические (2933 49, 2932 99, 2933 59, 2933 99, 2935 90, 2906/2909)."
+}

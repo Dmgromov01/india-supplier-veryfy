@@ -1,0 +1,18 @@
+{
+ "name_input": "ALEX PHARMACHEM PRIVATE LIMITED",
+ "legal_name": "ALEX PHARMACHEM PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend returned connection errors (searx refused connections) and direct fetches of registry aggregators (zaubacorp, thecompanycheck, instafinancials, falconebiz, tofler) returned HTTP 403/404, while the MCA master-data portal returned HTTP 403. No public page confirming CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue was retrieved, so all such fields are null rather than inferred. PAN 4th-character holder type cannot be determined without a PAN. Role is left 'unknown' - the name suggests a pharma/chemicals entity but no registry record was read to confirm manufacturer vs trader status. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Recommend re-running with working search access or manual MCA lookup before any decision."
+}

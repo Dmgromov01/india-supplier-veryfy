@@ -1,0 +1,9 @@
+{
+ "name_input": "Vishwa Automation",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING VERIFIED. Search infrastructure failed during this run: the DuckDuckGo/searx backend returned 'Connection refused' on every query, and the fallback HTML endpoints (duckduckgo.com/html, html.duckduckgo.com) timed out. Bing was reachable but ignored the quoted entity name and returned only generic 'Vishwa' results (Sampath Vishwa bank, Vishwa GATE coaching, Vishwa Kannada film, vishwalab.com) — none of which relate to an Indian automation/electronics supplier. No page about 'Vishwa Automation' (or the claimed brand 'NETCONN') was retrieved, so no primary source exists for any of the five risk fields. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = null, NOT 'clear'; Indian court cases (party role/status) = null; regulator actions and negative news = null; credit rating (agency/date/status) = null; evidence of supplies to Russia or CIS = null. Absence of a hit here is an artefact of failed retrieval, not a negative finding, and must not be read as 'no sanctions, no cases'. Also note the entity itself is weakly identified: the input gives no CIN, PAN, state or registered address, and 'NETCONN' is a brand/trade name rather than a legal name, so even a successful search could not be reliably attributed to one legal person. Recommended next step: re-run once search is restored, using the legal name from MCA/ZaubaCorp plus the NETCONN brand, and check OpenSanctions, the BIS Entity List, e-courts/NCLT and CRISIL/ICRA/CARE/India Ratings directly. Per project rules, no rejection is proposed on this basis — the company stays in the database with all risk fields null pending verification."
+}
