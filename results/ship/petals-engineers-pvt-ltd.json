@@ -1,0 +1,8 @@
+{
+ "name_input": "PETALS ENGINEERS PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/petals-engineers-pvt-ltd loaded only a paywall shell: \"Join ImportKey to view the import and export data records of companies all over the world\" — 0 shipment rows visible (source counter: page claims shipment data exists, rows actually seen: 0). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrievable. ZaubaCorp, TheCompanyCheck, Trademo, Volza, Eximpedia all returned HTTP 403; ImportGenius returned a JavaScript challenge. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники таможенных/B-L данных закрыты (ImportKey — платный шлюз без строк, Volza/Eximpedia/Trademo — 403, ImportGenius — JS-челлендж). Веб-поиск (searx) был недоступен, Bing по запросу \"Petals Engineers\" Private Limited export shipment выдал только нерелевантные результаты про цветы (petals.com, Wikipedia «Petal»). Ни одной фактической отгрузки — ни экспортной, ни внутренней — подтвердить не удалось; статусы оставлены unknown, а не declared_only, поскольку заявлений сайта/каталога в этом проходе тоже не читалось. Выручка: null (не публична в доступных источниках). Объём экспорта: null. HS 842230 (оборудование для розлива/упаковки) не проверялся по фактическим записям — нет данных. Требуется повторная проверка при доступе к платным тарифам ImportKey/Volza или к GST-порталу."
+}

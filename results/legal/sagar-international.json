@@ -1,0 +1,18 @@
+{
+ "name_input": "SAGAR INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'SAGAR INTERNATIONAL' — не уникальное наименование: под ним в Индии существуют десятки несвязанных юрлиц (частные компании, LLP и ИП-проприеторы), поэтому без CIN/GSTIN/адреса привязка к конкретному поставщику была бы выдумкой. Входные данные не содержали ни PAN, ни штата, ни адреса — единственный якорь (HS 120740, семена кунжута) не является идентификатором юрлица. Попытки проверки: DuckDuckGo (web_search) — сервис недоступен (connection refused); zaubacorp.com и thecompanycheck.com — HTTP 403; instafinancials — 404; mca.gov.in (MCA Master Data) — HTTP 403; cleartax GST-поиск — 'No details found' (поиск по названию там не работает, требуется 15-значный GSTIN); Bing по запросам с CIN/GSTIN вернул только нерелевантную выдачу (Sagar, MP; Sager Electronics и т.п.). Итог: exact legal entity name, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус, роль и выручка FY25/FY26 — null, публично не подтверждено в рамках доступных инструментов. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется от поставщика/заказчика: полное юрлицо с организационно-правовой формой, CIN или GSTIN, адрес регистрации — после этого проверка выполнима. Роль предварительно unknown (по названию и HS 120740 нельзя отличить производителя от трейдера). Выручка: аудиторская отчётность не найдена, значения null, не оценены."
+}
