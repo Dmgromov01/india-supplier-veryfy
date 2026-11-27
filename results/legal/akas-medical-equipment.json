@@ -1,0 +1,18 @@
+{
+ "name_input": "Akas medical equipment",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: the web_search backend returned 'Connection refused' for every query, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) and mca.gov.in returned HTTP 403; Google returned HTTP 429 and DuckDuckGo timed out. Bing returned only irrelevant cached results (Alpha Kappa Alpha, Akas Tex, Akasa Air) for all four query variants, i.e. no page confirming an Indian legal entity named 'AKAS MEDICAL EQUIPMENT' was retrieved. Therefore exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null - not public/not retrieved, nothing inferred or invented. No rejection is applied: absence of a retrieved record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' (no registry evidence of manufacturing vs trading; the claimed industry 'IT и электроника' also conflicts with declared HS 901890, which is medical/surgical instruments - HS mismatch is not a rejection ground and the code should be corrected to the factual one once the entity is identified). Action needed: re-run with a working search backend or MCA master-data / GST portal access, and confirm the exact legal suffix (e.g. 'Akas Medical Equipment Pvt Ltd' vs a proprietorship/partnership) before any further verification."
+}

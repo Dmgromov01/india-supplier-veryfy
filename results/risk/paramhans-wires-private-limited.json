@@ -1,0 +1,9 @@
+{
+ "name_input": "PARAMHANS WIRES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных. Технические причины: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты на всех запросах; Google — HTTP 429; Bing отдавал нерелевантную выдачу (ни одного результата по названию компании); zaubacorp.com, thecompanycheck.com — HTTP 403; tofler.in и instafinancials.com — 404 по предполагаемому URL (слаг не подтверждён). Санкционные списки: страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыта, но это JS-форма без возможности передать запрос через http_get — фактический поиск по SDN/Non-SDN НЕ произведён. Аналогично не проверены UN Consolidated List, EU Consolidated List, UK OFSI, BIS Entity List. Судебные дела (eCourts, NCLT, High Court), рейтинги (CRISIL/ICRA/CARE/India Ratings) и негативные новости — не проверены. Следов поставок в РФ/СНГ не искали. ВАЖНО: null здесь означает 'не проверено', а НЕ 'чисто'. Компания НЕ должна получать вердикт accepted на основании этого отчёта. Требуется повторный запуск при работающем поиске либо ручная проверка по MCA-мастер-данным (для подтверждения существования юрлица и CIN), затем по каждому из пяти направлений. Никаких CIN, PAN, номеров дел и сумм не приводится, так как они не были получены из публичных источников."
+}

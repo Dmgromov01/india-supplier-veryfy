@@ -1,0 +1,18 @@
+{
+ "name_input": "YAMUNA MACHINE WORKS LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. Все попытки получить первичные регистрационные данные не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused'; Bing и Google выдали нерелевантную выдачу или HTTP 429; агрегаторы реестров (zaubacorp.com, thecompanycheck.com, instafinancials.com) и портал MCA (mca.gov.in) отдали HTTP 403 Forbidden; lite.duckduckgo.com — таймаут. В результате НЕ подтверждены: точное юр. наименование, CIN, PAN (и тип держателя по 4-му символу), GSTIN и его статус, дата инкорпорации, штат регистрации, статус в MCA. Заявленное в инпуте наименование 'YAMUNA MACHINE WORKS LIMITED' и форма 'LTD' не верифицированы. Роль (manufacturer/trader) не определена — по правилам проекта трейдеры не отклоняются, поэтому роль оставлена 'unknown', а не угадана. Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги не получены. ВАЖНО: отклонение (rejected) НЕ применяется — нет доказательств того, что юрлицо не существует, ликвидировано или обанкрочено; отсутствие данных не является основанием для отклонения. Требуется повторная проверка при восстановлении доступа к реестрам (MCA Master Data / Zauba / Tofler) либо ручная выгрузка MCA-выписки. Отдельно: заявленный HS 845129 и отрасль 'IT и электроника' не проверялись (вне роли legal/registry), но по коду 8451 это оборудование для обработки текстиля/стирки, а не электроника — вероятно расхождение, которое следует зафиксировать при следующей проверке."
+}

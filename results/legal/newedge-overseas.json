@@ -1,0 +1,18 @@
+{
+ "name_input": "Newedge Overseas",
+ "legal_name": "Newedge Overseas (unverified — likely a proprietorship/partnership trading name, not an MCA-registered company; exact legal entity could not be confirmed)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The input gives only a person's name (CHETANKUMAR BHAGAVANBHAI SAVALIYA) as the 'legal_claimed' field, which suggests a proprietorship or partnership firm rather than a company limited by shares — such entities have no CIN and no MCA filing, so CIN, incorporation date and MCA status are legitimately null. No PAN, GSTIN, GST status, registered state or audited revenue figures could be confirmed from any public source. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in search returned 404; Google returned HTTP 429; Bing returned only irrelevant results about US financial firms (NewEdge Wealth/Advisors) and no Indian entity matching 'Newedge Overseas' or the named proprietor. Per project rules, absence of public data is NOT grounds for rejection — the entity is not shown to be non-existent, struck off, liquidated or bankrupt, so it is retained with nulls rather than rejected. Role cannot be determined: no evidence of manufacturing plant, no evidence of trading activity, no GST registration found. Revenue FY25/FY26: null — no audited accounts or official filings located; not estimated. Declared HS 291570 (palmitic/stearic acid and salts) is consistent with a chemicals trader profile but is unverified and, per rules, HS mismatch would not be a rejection ground anyway. RECOMMENDATION: re-run verification when search/registry access is restored, and request the firm's GSTIN and PAN directly from the supplier to resolve identity."
+}
