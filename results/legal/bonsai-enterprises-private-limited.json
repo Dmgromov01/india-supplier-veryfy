@@ -1,0 +1,18 @@
+{
+ "name_input": "BONSAI ENTERPRISES PRIVATE LIMITED",
+ "legal_name": "BONSAI ENTERPRISES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. Tooling failed: DuckDuckGo/searx backend refused connections; Bing returned only generic 'bonsai tree' results with no Indian company match; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed slug; Google returned HTTP 429. No CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be confirmed from a public source, so all such fields are null rather than guessed. PAN holder type cannot be derived without a PAN. Revenue FY25/FY26 null: no audited accounts or official filings located. Role left 'unknown' - the claimed industry (IT/electronics, HS 847130 laptops/portables) is unverified and no registry activity description was retrieved. Per project rules this is NOT a rejection: absence of a found record is not proof of non-existence, and HS mismatch is not a rejection ground. Recommended action: re-run with a working search backend or a paid registry API (MCA master data / GST portal search) before any verdict; if the entity is confirmed to exist, correct HS to the actual product line and set verdict accordingly."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "BONSAI ENTERPRISES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена: ни один риск-источник не дал результата. (1) DuckDuckGo/searx вернул 'Connection refused' на всех запросах; (2) Bing по запросам '\"Bonsai Enterprises Private Limited\"', '\"Bonsai Enterprises\" India company CIN', '\"Bonsai Enterprises\" sanctions OR court OR Russia' выдал только общие статьи про искусство бонсай и интернет-магазины растений — ни одного совпадения с индийской компанией; (3) zaubacorp.com отдал HTTP 403; (4) sanctionssearch.ofac.treas.gov — JS-форма, через http_get не запрашивается, прямой скрининг по SDN/Non-SDN не выполнен. По всем полям ставлю null: публичных данных не получено, выдумывать нельзя. Отдельно фиксирую: отсутствие результата в поиске НЕ является подтверждением отсутствия санкций, судов или поставок в РФ/СНГ — это просто непроверенное состояние. Требуется повторный прогон при работающем поиске + ручной скрининг по OFAC SDN/Non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List, а также по eCourts/NJDG и реестру MCA (по CIN, который в заявке отсутствует — PAN и штат тоже не указаны, что затрудняет однозначную идентификацию: имя крайне неспецифичное). Рекомендация: не принимать риск-решение по этой компании до завершения скрининга."
+}

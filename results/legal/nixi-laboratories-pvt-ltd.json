@@ -1,0 +1,18 @@
+{
+ "name_input": "Nixi Laboratories Pvt. Ltd",
+ "legal_name": "NIXI LABORATORIES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (searx connection refused) for the whole session, and every direct attempt to reach public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, Google returned HTTP 429, DuckDuckGo timed out, Bing returned only irrelevant results, and Marginalia returned no matches. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role is 'unknown': the name suggests a laboratory/pharma-chemical entity consistent with declared HS 293319 (heterocyclic compounds), but no registry evidence of manufacturing vs trading activity was obtained. Per project rules this is NOT a rejection ground — the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it simply remains unverified and must be re-checked when registry access is restored. Recommended next step: query MCA master data by exact name 'NIXI LABORATORIES PRIVATE LIMITED' and pull GSTIN from the GST taxpayer search / a public profile page."
+}
