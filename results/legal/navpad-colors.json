@@ -1,0 +1,18 @@
+{
+ "name_input": "NAVPAD COLORS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. В этом прогоне поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а Bing/Google выдавали нерелевантную выдачу; профильные реестровые источники (zaubacorp.com, thecompanycheck.com, instafinancials.com) отдали HTTP 403. Ни точное юр. наименование, ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации, ни статус MCA не установлены — все поля null, ничего не додумано. Выручка FY25/FY26 не найдена (аудиторская отчётность не получена) — null. Роль (manufacturer/trader) не определена — unknown. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию/ликвидации/банкротству. Требуется повторная проверка при доступном поиске (рекомендуемые источники: MCA master data, GST-портал по GSTIN, Zauba Corp/The Company Check)."
+}

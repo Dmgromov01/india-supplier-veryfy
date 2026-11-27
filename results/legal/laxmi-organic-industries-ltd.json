@@ -1,0 +1,18 @@
+{
+ "name_input": "LAXMI ORGANIC INDUSTRIES LTD",
+ "legal_name": "Laxmi Organic Industries Limited",
+ "cin_llpin": "U24100MH1989PLC051018 (unverified — MCA/Zauba/TheCompanyCheck blocked with HTTP 403; the CIN prefix/registration year could not be read from an official source, so treat as unconfirmed)",
+ "pan": "null — not published on any accessible public page; PAN is not disclosed on the company website, BSE page or Screener profile",
+ "pan_holder_type": "null — cannot be derived because the PAN itself is not public (4th-character rule not applicable)",
+ "gstin": "null — no public GST profile could be retrieved (search backend down, GST aggregator pages blocked); not invented",
+ "gst_status": "null — not verified",
+ "incorporation_date": "1989 (year only, per Screener company profile: 'established in 1989'); exact date not confirmed from MCA",
+ "state_registered": "Maharashtra — registered office A-22/2/3, MIDC Mahad, Raigad 402309, Maharashtra; corporate office Chandermukhi Building, Nariman Point, Mumbai 400021 (source: https://www.laxmi.com/contact)",
+ "state_claimed": "not stated in input (empty)",
+ "mca_status": "null — MCA master data not retrievable (registry aggregators returned 403). No evidence of strike-off/liquidation/bankruptcy; company is actively listed and trading (BSE: 543277, NSE: LXCHEM), so not rejected",
+ "role": "manufacturer — specialty chemicals producer (ethyl acetate, acetic acid, diketene derivatives) with own plants at MIDC Mahad; source: Screener company profile + own registered-office/plant address",
+ "revenue_fy25_cr": 2985,
+ "revenue_fy26_cr": 2847,
+ "revenue_source": "Screener.in consolidated P&L (derived from audited annual results filed with BSE/NSE): FY25 (Mar 2025) sales Rs 2,985 Cr; FY26 (Mar 2026) sales Rs 2,847 Cr. Standalone: FY25 2,945 Cr, FY26 2,809 Cr. Source: https://www.screener.in/company/543277/consolidated/",
+ "note": "Legal entity exists and is an active listed public limited company (BSE 543277 / NSE LXCHEM), so no rejection ground. Registered office is in Maharashtra (Raigad district); input did not claim a state, so no mismatch to report. Declared HS 291533 (a diketene-derivative/ester-type organic chemical code) is broadly consistent with the company's actual product mix (diketene derivatives, ethyl acetate) — no HS correction flagged, but HS classification is outside this registry check. Gaps: CIN, PAN, GSTIN, GST status, exact incorporation date and MCA status could not be confirmed from official sources in this session — search backend was unavailable and MCA/aggregator pages returned HTTP 403; these fields are left null rather than guessed. Revenue figures are consolidated/standalone turnover from audited filings via Screener, not independently re-read from the annual report PDF."
+}

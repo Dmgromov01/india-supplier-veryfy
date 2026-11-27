@@ -1,0 +1,18 @@
+{
+ "name_input": "Sourcing Hub",
+ "legal_name": "SOURCING HUB WIRELESS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; Bing and Google returned only irrelevant cached results (UK biomass company) for the exact-name queries; MCA master-data portal returned HTTP 403; Zauba Corp, TheCompanyCheck, Falconebiz returned HTTP 403; Tofler, InstaFinancials and QuickCompany returned HTTP 404 for the slug. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT evidence of non-existence. No rejection applied: per project rules rejection requires positive proof the entity does not exist, is struck off, liquidated or bankrupt, and no such proof was obtained. Revenue FY25/FY26 null - no audited accounts or official filings were accessible. Role left 'unknown' (no registry evidence of manufacturing plant, GST turnover pattern or trade activity). Note the mismatch to be resolved manually: declared HS codes (842139 filters, 847141 computers/ADP machines, 851631 hair dryers, 950450 video game consoles) are electronics/consumer-goods codes and do not match the claimed industry 'oil & gas and chemicals' - per rules this is NOT a rejection ground; the company stays in the base and the HS code should be corrected to the factual one once the actual product line is confirmed. Recommended next step: manual MCA/company master-data lookup by exact name and GST portal search on the legal name to obtain CIN, PAN, GSTIN and incorporation date."
+}

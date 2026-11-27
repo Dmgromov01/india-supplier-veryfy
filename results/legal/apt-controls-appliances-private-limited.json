@@ -1,0 +1,18 @@
+{
+ "name_input": "APT CONTROLS & APPLIANCES PRIVATE LIMITED",
+ "legal_name": "APT CONTROLS AND APPLIANCES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. Tooling failures: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in returned 404 for the slug; instafinancials.com returned 404; Bing/Google HTML endpoints returned generic/unrelated results and did not honour the quoted company name. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null because they are not publicly confirmed in this session - NOT because they were checked and found absent. No basis for rejection: entity existence/struck-off/liquidation status is unverified, so per project rules the company must not be rejected on this evidence. Role left as 'unknown' (no registry or filing evidence of manufacturing vs trading activity). Declared HS 903210 (thermostats) is not a rejection ground per rules; HS not assessed here as out of scope for this role. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored."
+}

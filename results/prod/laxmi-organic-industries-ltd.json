@@ -1,0 +1,17 @@
+{
+ "name_input": "LAXMI ORGANIC INDUSTRIES LTD",
+ "declared_hs": "291533",
+ "actual_hs_list": [
+  "2915.21 (acetic acid, glacial)",
+  "2915.31 (ethyl acetate)",
+  "2915.90 (other saturated acyclic monoacids and derivatives)",
+  "2914.11/2914.19 (acetone / other acyclic ketones - ketene-diketene chemistry)",
+  "2924.19 / 2924.29 (amides, arylides - carboxylic acid amide derivatives)",
+  "2918.99 (other carboxylic acids with oxygen function - e.g. diketene-derived esters)",
+  "2909.xx / 2903.xx (fluorination / fluorospecialty products - exact code not public)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Public website (laxmi.com, Business Units page, read 2026) describes two segments: (1) Essentials - 'Esterification' and 'Acetylation' platforms producing 'bulk solvents and Aldehydes', explicitly 'a leading producer of essential products' with acetyl products used in pharma formulations, printing inks, adhesives, coatings; (2) Specialties - 'Ketene / Diketene' and 'Fluorination' platforms, with 'Ketene & Diketene derivatives including Esters, Amides and Arylides' plus fluorospecialty chemicals. Applications pages: Life Sciences, Crop Sciences, Paints/Coatings/Inks, Industrial Specialities, Solvent Applications. Manufacturing at Mahad, Satara, Kolhapur; offices Mumbai, Pune, UAE, Netherlands, China. The site does NOT publish a line-by-line product/catalogue list with CAS numbers or HS codes on the pages reachable (product sub-pages returned 404 / not in sitemap), so individual product names beyond the segment descriptions above are not publicly enumerated.",
+ "role_hint": "manufacturer",
+ "comment": "Declared HS 291533 = ethyl acetate (acetic acid esters, HS-6 2915.33). This is a real, core product line of the company (Essentials/Esterification + Acetylation, bulk solvents), so the declared code is plausible and consistent with the declared industry 'Нефтегаз и химия' (oil-gas & chemicals) - no industry misclassification. However the declaration covers only ONE of many product lines: the company is primarily an acetyl intermediates / ketene-diketene derivatives producer, so the actual range spans at least 2915.21 (acetic acid), 2915.90, ketone/amide/arylide derivatives (2914, 2924, 2918) and fluorospecialties (2903/2909). Status = partial: 2915.33 is correct for ethyl acetate but the declared single code understates the product mix. Per project rule 3, an HS mismatch is NOT grounds for rejection - company is kept and the code set is corrected/expanded to the actual range. All product information above is from the company's own website = 'заявлено, не подтверждено' - no customs line, B/L or shipment record was checked in this task (out of scope), so no product is corroborated by a customs entry. Note: the site's product-level catalogue pages were not accessible (403/404), so a full CAS-level HS mapping could not be verified; null where not public. No registry, revenue or volume data researched per role scope."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "APT CONTROLS & APPLIANCES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable public data obtained. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on all 4 search attempts; Google returned only a redirect interstitial; ZaubaCorp, TheCompanyCheck and InstaFinancials returned HTTP 403 (bot-blocked). OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded only its JS search form — no query could be executed, so no SDN/non-SDN screening result was actually obtained; sanctions_hit is therefore null (NOT screened), not a negative finding. Indian Kanoon was reachable: exact-phrase search for \"APT Controls and Appliances\" returned 0 matching judgments; a broader \"APT Controls\" search returned 2 unrelated matters (Shiv Kalpesh Tandel v. State of Maharashtra, Bombay HC, 26.06.2024 — concerns a person named Ashish Apte, not this company; and Gonela Subrahmanyam v. Somu Kesava Ramam, AP HC, 21.07.2022) — neither involves this entity, so court_cases is null with no confirmed litigation found, but coverage is limited to reported judgments and does not include district courts, NCLT, DRT or consumer fora. Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action located — null, not public or not found. Negative news: no search engine available, so null — this is an absence of research, not an absence of risk. RF/CIS supply evidence: null, unverified. RECOMMENDATION: re-run this company when the search backend is restored and a working sanctions-screening endpoint (e.g. OFAC SLS API, EU/UK consolidated lists, BIS Entity List CSV) is available; do not treat the nulls above as clearance. Per project rules, no rejection is proposed on this basis."
+}

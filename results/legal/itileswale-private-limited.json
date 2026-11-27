@@ -1,0 +1,18 @@
+{
+ "name_input": "ITILESWALE PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Технический сбой инструментов: web_search (DuckDuckGo/searx) вернул 'Connection refused' и таймауты; прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) — HTTP 403; mca.gov.in Master Data — HTTP 403; Google/Bing выдали нерелевантную выдачу (кэш/AI-страницы), поиск по точному названию не дал результатов. Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус не подтверждены ни одним публичным источником. ВАЖНОЕ РАСХОЖДЕНИЕ ВО ВХОДНЫХ ДАННЫХ: name = 'ITILESWALE PRIVATE LIMITED' (PVT LTD, т.е. компания по Companies Act 2013), а legal_claimed = 'NAVRATAN SPECIALTY CHEMICALS LLP' (LLP по LLP Act 2008) — это два разных типа юрлица и, судя по названиям, два разных субъекта; ни один из них не подтверждён. Также заявленный HS 391810/690721/690722 (ПВХ-плитка/керамогранит) не соответствует названию 'Specialty Chemicals' у legal_claimed — вероятно, ошибка маппинга в исходной базе. Роль определить невозможно (нет данных о деятельности). Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги не найдены/недоступны. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица из-за сбоя инструментов — не основание для отклонения по правилам проекта; статус — 'требует повторной проверки' (pending re-verification). Рекомендация: повторить запрос к MCA Master Data / ZaubaCorp вручную и уточнить у поставщика, какое именно юрлицо (ITILESWALE PVT LTD или NAVRATAN SPECIALTY CHEMICALS LLP) является контрагентом."
+}

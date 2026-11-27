@@ -1,0 +1,18 @@
+{
+ "name_input": "SST IMPEX PRIVATE LIMITED",
+ "legal_name": "SST IMPEX PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (searx) returned 'Connection refused' on all queries, and every registry/aggregator page attempted was blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, mca.gov.in MDS returned HTTP 403, duckduckgo returned 403, and Bing/Google returned only generic unrelated 'SST' results (Silicon Storage Technology, SST Ltd, etc.) with no Indian company record. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable with the available tools, and NOT invented. No audited accounts or official filings were found, so revenue FY25 and FY26 are null. Role cannot be determined from registry data alone; left as 'unknown' rather than guessed. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way - the absence of results here is a tooling/access limitation, not evidence of non-existence. Recommended follow-up: re-run with working search, or query MCA master data / GST portal directly by CIN or GSTIN once the identifier is obtained from the client's documents. Note also that the declared HS code 846719 (other pneumatic hand tools) does not match the claimed industry 'metallurgy and mining'; per rule 3 this is not a rejection ground - the code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected if the entity is confirmed to exist."
+}
