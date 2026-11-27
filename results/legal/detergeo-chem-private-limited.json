@@ -1,0 +1,18 @@
+{
+ "name_input": "DETERGEO CHEM PRIVATE LIMITED",
+ "legal_name": "DETERGEO CHEM PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: все попытки доступа к источникам не удались. web_search вернул ошибку бэкенда (searx: Connection refused) на обоих запросах; прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) — HTTP 403/404; mca.gov.in Master Data — HTTP 403; Google — HTTP 429; DuckDuckGo — timeout; Bing отдал нерелевантную выдачу без упоминаний компании. Таким образом, ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни штат регистрации, ни статус MCA публично не получены — везде null, значения не выдумывались. Оснований для отклонения (rejected) нет: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию/ликвидации/банкротству, поэтому компания сохраняется в базе со статусом 'не проверено'. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26: аудиторская отчётность и официальные филинги недоступны, значения null. HS-коды 291570 (стеариновая кислота и её соли/эфиры), 340211/340213/340219 (анионные, неионогенные и прочие органические ПАВ) по профилю соответствуют производству/торговле ПАВ и жирных кислот, но это лишь отраслевое предположение, не подтверждённое реестром; несоответствие HS основанием для отклонения не является. Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам."
+}

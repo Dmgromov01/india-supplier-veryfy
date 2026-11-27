@@ -1,0 +1,18 @@
+{
+ "name_input": "SEABERT CHEMICALS PRIVATE LIMITED",
+ "legal_name": "SEABERT CHEMICALS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; Bing and Google returned irrelevant or rate-limited (HTTP 429) results; all registry aggregators attempted returned HTTP 403 (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com) or 404 (instafinancials.com, quickcompany.in); MCA master-data portal returned HTTP 403 and search.mca.gov.in did not resolve. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT because they are absent, but because they were not retrievable in this session. No number in this record is estimated or inferred. Per project rules, the entity is NOT rejected: non-existence/strike-off/liquidation/bankruptcy could not be established either way, and absence of evidence from failed lookups is not evidence of non-existence. Role left as 'unknown' - the declared HS codes (281511 caustic soda, 283620 soda ash, 284700 hydrogen peroxide, 340231 anionic surfactants) are consistent with a chemicals trader or manufacturer_trader, but the input gives no basis to choose, and product/HS reasoning is outside this role's scope. State claimed in input is empty, so no state mismatch can be assessed. ACTION REQUIRED: re-run this company in a session with working search/registry access (MCA master data by name, GST public search by legal name, and audited FY25/FY26 filings) before any verdict is assigned."
+}

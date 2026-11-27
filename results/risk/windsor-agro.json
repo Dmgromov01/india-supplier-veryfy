@@ -1,0 +1,9 @@
+{
+ "name_input": "Windsor Agro",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; http_get к duckduckgo/html — timeout; google.com — HTTP 429; bing.com отдавал нерелевантную выдачу (NFL, myapplications.microsoft.com) вместо результатов по запросу, т.е. фактически поиск не работал. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, результаты по имени через простой GET не отдаются — прямой скрининг по SDN/Non-SDN не проведён. Дополнительно: заявленное юрлицо 'WINDSOR EXPORTS' не совпадает с названием в поле name ('Windsor Agro'), что без доступа к реестрам (MCA/ZAUBACORP) не позволяет однозначно идентифицировать проверяемое лицо — риск ложного скрининга чужой компании. Все поля оставлены null: данных нет, выдумывать источники и записи нельзя. Санкций, судов, рейтингов, негативных новостей и свидетельств поставок в РФ/СНГ НЕ подтверждено и НЕ опровергнуто — это отсутствие данных, а не отсутствие риска. Требуется повторный прогон при работающем поиске: (1) скрининг OFAC SDN/Non-SDN, UN, EU, UK OFSI, BIS Entity List по обоим вариантам названия; (2) eCourts/NJDG и High Court по 'Windsor Exports'/'Windsor Agro' с ролью стороны; (3) рейтинги CRISIL/ICRA/CARE/India Ratings; (4) новостной поиск по санкциям/регуляторам; (5) следы поставок в РФ/СНГ (таможенные записи, B/L, импортные реестры РФ)."
+}

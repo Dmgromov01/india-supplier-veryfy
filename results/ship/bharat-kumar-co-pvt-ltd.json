@@ -1,0 +1,8 @@
+{
+ "name_input": "BHARAT KUMAR & CO PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record obtained. ImportKey pages for both slug variants (bharat-kumar-co-pvt-ltd and bharat-kumar-and-co-pvt-ltd) returned only the paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows actually visible on either page (source counter: 2 pages fetched, 0 rows seen). Volza, Eximpedia and Trademo returned HTTP 403; DuckDuckGo search backend was unreachable (connection refused), so no second-source B/L could be retrieved. No bill-of-lading number, date, destination or HS code could be verified.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com returned HTTP 403; no public procurement or GST record was reachable within the tool budget (0 rows seen).",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузочных данных оказались либо платными заглушками, либо заблокированы (403), поисковик недоступен. Ни экспортных записей, ни внутренних поставок подтвердить не удалось; выручка и объём экспорта — null, не выдумывались. Заявленный HS 480256/481019 (бумага/картон) не проверен по фактическим записям, поэтому не корректировался. Компания НЕ отклоняется: отсутствие данных не является основанием для rejected. Требуется повторная проверка при доступе к Volza/Eximpedia или к реестру GST/MCA."
+}

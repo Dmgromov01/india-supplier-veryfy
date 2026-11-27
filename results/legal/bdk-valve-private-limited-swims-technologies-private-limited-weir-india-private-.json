@@ -1,0 +1,18 @@
+{
+ "name_input": "BDK VALVE PRIVATE LIMITED; SWIMS TECHNOLOGIES PRIVATE LIMITED; WEIR INDIA PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved, so nothing is asserted. The input row is malformed: it bundles three distinct legal entities (BDK VALVE PRIVATE LIMITED, SWIMS TECHNOLOGIES PRIVATE LIMITED, WEIR INDIA PRIVATE LIMITED) into one record with a single legal_claimed value, and the declared HS codes (730610, 842489, 848180 - pipes/tubes fittings, mechanical appliances, valves) contradict the claimed industry 'IT и электроника'. This needs to be split into three separate records before verification. Tooling failures: web_search returned 'Connection refused' (searx backend down) on all 3 queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in MDS returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com returned only irrelevant results (BDK Parfums, Weir plc corporate site, Gillick competence pages) with no Indian registry hits. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null - not public via the channels available, not verified. No rejection is proposed: absence of retrievable data is not evidence that any of the three entities does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' - the HS codes suggest valve/engineering goods (manufacturer or trader) rather than IT, but this is unconfirmed. Recommended next step: re-run with working search, or verify each entity individually on MCA master data / GST portal by CIN or GSTIN."
+}

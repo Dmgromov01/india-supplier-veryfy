@@ -1,0 +1,9 @@
+{
+ "name_input": "IPSA Business India Pvt Ltd; IPSA BUSINESS INDIA PVT. LTD.; IPSA BUSINESS INDIA P LTD; IPSA BUSINESS (INDIA) PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No risk data could be verified for this entity. Tooling failure: the web_search backend returned 'Connection refused' on every query; direct fetches of Google (HTTP 429), DuckDuckGo HTML (timeout) and ZaubaCorp (HTTP 403) failed; Bing returned only generic 'IPSA' results (IPSA.org political science association, IPSA aeronautics school, IPSA Japan cosmetics, IPPS-A US Army payroll) with no hit for any Indian legal entity named 'IPSA Business (India) Private Limited'. OFAC Sanctions List Search page was reachable but is a JS form and cannot be queried via plain HTTP GET, so no name screening was actually performed - sanctions_hit is therefore null (NOT screened), not a negative result. No Indian court records (eCourts/NJDG), no regulator actions, no credit rating (CRISIL/ICRA/CARE/India Ratings) and no trade/CIS evidence could be retrieved. Nothing here should be read as clearance: all fields are unverified, not clean. Recommend re-running screening once search access is restored, using the exact MCA-registered name and CIN, and screening the directors' names individually against OFAC SDN/SSI, UN, EU, UK OFSI and BIS Entity List, plus eCourts by party name. Per project rules, sanctions/court/criminal findings would in any case not be rejection grounds - only neutral notation."
+}
