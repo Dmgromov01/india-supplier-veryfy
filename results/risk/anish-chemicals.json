@@ -1,0 +1,9 @@
+{
+ "name_input": "Anish Chemicals",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no data obtained. All search tooling failed during this session: web_search (DuckDuckGo/searx) returned 'Connection refused' on every attempt; duckduckgo.com/html and lite.duckduckgo.com timed out; google.com/search returned HTTP 429; bing.com/search returned only irrelevant cached results (Instagram profiles of unrelated individuals named 'Anish') for three different query formulations, i.e. the engine did not actually process the query. No primary source (OFAC SDN list, UN/EU/UK consolidated lists, BIS Entity List, eCourts/NCLT, SEBI/RBI/state pollution board actions, CRISIL/ICRA/CARE/India Ratings, customs or B-L records) could be opened. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — this means 'not verified', NOT 'clean'. No claim is made in either direction. Also note the identity itself is unconfirmed: the name 'Anish Chemicals' as supplied is a bare trade name with no legal suffix, no PAN, no state and no CIN, so even a successful search would have carried a high risk of matching the wrong entity; the declared HS set (210690 food preparations, 282739 other chlorides, 340249 organic surface-active agents, 380894 disinfectants) spans four unrelated product families, which is itself a flag that the entity may be a trader rather than a single-line manufacturer — but per project rules this is not a rejection ground and is recorded only as an observation. RECOMMENDATION: re-run this company in a later batch when search connectivity is restored, and first obtain the legal name with suffix, CIN/PAN and state from the client so the sanctions and litigation checks can be run against a specific legal person. Do not treat this record as cleared for onboarding."
+}

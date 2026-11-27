@@ -1,0 +1,18 @@
+{
+ "name_input": "Splenor Starches",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Ход проверки: (1) web_search — бэкенд поиска недоступен (connection refused), результатов нет; (2) zaubacorp.com и thecompanycheck.com — HTTP 403; (3) instafinancials.com — HTTP 403; (4) tofler.in — страница поиска отдаёт 404; (5) mca.gov.in — HTTP 403; (6) google.com/search — HTTP 429; (7) duckduckgo.com/html — таймаут; (8) bing.com/search — вернул нерелевантную выдачу (обзоры наушников), по компании ничего. Итог: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 — null, публично не подтверждено в рамках доступных инструментов. Выручка null: аудированной отчётности или официальных филингов получить не удалось, цифры не выдумывались. Роль — unknown: характер деятельности (производитель/трейдер) по реестровым данным не установлен; заявленный HS 350510 (модифицированные крахмалы/декстрины) с названием 'Starches' согласуется, но это не реестровый факт. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица; оснований для rejected (не существует / ликвидировано / банкрот) нет. Требуется повторная проверка при восстановлении доступа к MCA/агрегаторам."
+}

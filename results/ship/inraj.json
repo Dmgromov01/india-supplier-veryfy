@@ -1,0 +1,8 @@
+{
+ "name_input": "INRAJ",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/inraj (and variants /inraj-, /inraj-rashmi-bhalchandra-yeole) returned only the generic page shell: \"Shipments available for INRAJ, refreshed daily\" — a boilerplate sentence, not a record. Rows actually seen: 0. No bill-of-lading number, no date, no destination, no HS code rendered on any of the three variants.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. volza.com/p/inraj/, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; DuckDuckGo search backend returned \"Connection refused\" on every query, so no domestic-supply page could be located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но это результат недоступности источников, а не доказательство отсутствия отгрузок. Все три варианта слага importkey отдали пустой шаблон (0 строк записей), volza/eximpedia/trademo заблокированы (403), поисковик недоступен (connection refused). Поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found: отсутствие данных не равно отсутствию отгрузок. Выручка и объём экспорта: null (не публичны / не получены), не выдумывались. HS 847989 (машины и механические устройства) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения; вердикт по компании не выносится, требуется повторный прогон при доступных источниках. Заявленное имя владельца/проприетора «RASHMI BHALCHANDRA YEOLE» в открытых источниках не верифицировано (поиск недоступен); CIN/PAN не найдены — null."
+}
