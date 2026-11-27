@@ -1,0 +1,18 @@
+{
+ "name_input": "TEX INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'TEX INDIA' — не уникальное наименование: под него подходят десятки юрлиц/ИП/торговых марок (напр. Tex India, Tex-India Exports, Tex India Pvt Ltd и т.п.), а входные данные не содержат ни PAN, ни штата, ни города, ни CIN — привязать запись к конкретному юрлицу нельзя. Проверка 23.11.2026: web_search (DuckDuckGo/searx) недоступен (connection refused), Google вернул 429, zaubacorp/instafinancials — 403, thecompanycheck — 404, Bing игнорирует кавычки и выдаёт результаты про TeX/LaTeX, т.е. релевантных выдача нет. MCA/GST-порталы (mca.gov.in, gst.gov.in) требуют капчу/авторизацию и публично не отдают карточку по названию. Итог: exact legal entity name, CIN, PAN, GSTIN, дата регистрации, штат, MCA-статус, роль и выручка FY25/FY26 — null (не публично / не идентифицировано). НЕ отклоняю: отсутствие данных о юрлице не равно доказательству его несуществования (правило 3). Требуется уточнение от заказчика: полное юрлицо, город/штат, GSTIN или PAN, либо ссылка на профиль поставщика. HS-коды 391810/570331/630140 (ПВХ-плинтус/профили, ковролин, текстильные покрытия) не являются основанием для отклонения — при подтверждении юрлица код фиксируется по факту."
+}

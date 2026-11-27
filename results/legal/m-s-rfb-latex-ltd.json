@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S RFB LATEX LTD",
+ "legal_name": "RFB LATEX LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no field could be confirmed from a public source. Tooling failures during this run: web_search returned 'searx: Connection refused' on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in and instafinancials.com returned HTTP 404 for the guessed slugs; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com returned irrelevant results. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the name suffix 'LATEX LTD' and the declared HS codes (401512 - articles of vulcanised rubber; 611610 - impregnated/coated knitted gloves) suggest rubber/latex glove manufacturing, but this is inference from the input, not verified evidence, so it is not asserted. Note the input's industry_claimed ('food products and FMCG') is inconsistent with both the company name and the declared HS codes - flag for correction, but per project rules an HS/industry mismatch is NOT grounds for rejection. No rejection applied: there is no evidence the entity does not exist, and no evidence of strike-off, liquidation or bankruptcy; status is simply unverified. Recommended next step: re-run against MCA master data / a working GST search once the search backend is restored."
+}

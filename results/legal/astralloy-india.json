@@ -1,0 +1,18 @@
+{
+ "name_input": "ASTRALLOY INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down) on both queries; direct fetches of registry aggregators were blocked or empty (zaubacorp.com 403, thecompanycheck.com 404, instafinancials.com 403, falconebiz.com 403, tofler.in search 404, mca.gov.in 403); Google returned 429, DuckDuckGo lite timed out, Bing returned unrelated results (WhatsApp/coin pages) and Marginalia served a bot-check page. Consequently no exact legal entity name, CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be confirmed from a public source. Nothing is asserted or guessed: all fields are null per the no-invention rule. IMPORTANT: the input name 'ASTRALLOY INDIA' is not a verified legal entity name - it may correspond to a private limited company, an LLP, a partnership/proprietorship, or a brand/trade name of a distributor, and no match was confirmed. Per project rules this is NOT grounds for rejection (entity existence was neither confirmed nor disproved); status should be treated as unverified/pending re-check, not rejected. Role left as 'unknown' - no evidence of manufacturing plant, GST registration or trade activity was obtained. Revenue FY25/FY26 null: no audited accounts or official filings located. Declared HS codes 721922/721923/722211/730449 (flat-rolled stainless/alloy steel, tubes) are plausible for a steel trader or stockholder but were not checked against any actual registration or licence, and per rules HS mismatch is not a rejection ground in any case. Recommended next step: re-run with working search, or query MCA Master Data / GST portal directly for 'ASTRALLOY' variants (e.g. Astralley India Pvt Ltd, Astralley Steels, Astralley India LLP) and confirm the state of registered office before any verdict."
+}
