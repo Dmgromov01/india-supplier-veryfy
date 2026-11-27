@@ -1,0 +1,18 @@
+{
+ "name_input": "FUGEN STONE PRIVATE LIMITED",
+ "legal_name": "FUGEN STONE PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a connection error (searx backend refused connection) for all queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404 or unrelated content; mca.gov.in MDS returned HTTP 403 and Google returned HTTP 429. Bing fallback returned only irrelevant results, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Per project rules, nothing is invented: all fields are null and role is 'unknown'. No rejection is applied - absence of a public record in this session is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, which are the only permitted rejection grounds. Action required: re-run with a working search backend or MCA/GST portal access to confirm legal name, CIN, PAN (4th-character holder type), GSTIN and GST status, incorporation date, registered state, MCA status, and FY25/FY26 revenue from audited filings. Declared HS 680293 (worked monumental/building stone articles) is not a rejection ground under the rules; if the entity is confirmed, the actual HS code should be recorded and the verdict set to accepted_hs_corrected where applicable."
+}

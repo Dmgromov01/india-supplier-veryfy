@@ -1,0 +1,18 @@
+{
+ "name_input": "LOFTY LABORATORIES PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один публичный источник не удалось прочитать. Инструмент web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) вернули HTTP 403/404, mca.gov.in — HTTP 403, DuckDuckGo — таймаут. Bing по запросам в кавычках «LOFTY LABORATORIES PRIVATE LIMITED», «LOFTY LABORATORIES PVT LTD», «Lofty Laboratories» + India/GSTIN/CIN выдавал только нерелевантные результаты (американские CRM-сервисы Lofty, словарные статьи) — ни одной страницы с индийским юрлицом, CIN, GSTIN или адресом рег.офиса. Следовательно: существование юрлица «LOFTY LABORATORIES PRIVATE LIMITED» в индийском реестре НЕ подтверждено и НЕ опровергнуто — оснований для rejected по правилу 3 нет (нет доказательств ликвидации/страйк-офф/банкротства), но и подтвердить регистрацию нечем. CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат рег.офиса, MCA-статус — null (не публично доступно в рамках доступных инструментов / не найдено). state_claimed в исходных данных пустой, поэтому сопоставление штата невозможно. Роль: unknown — заявленный профиль (HS 293399, «Нефтегаз и химия») не подтверждён ни реестровой записью, ни производственной лицензией; отнесение к manufacturer/trader без документов было бы домыслом. Выручка FY25 и FY26 — null: аудиторская отчётность и официальные филинги не найдены (для частных индийских компаний выручка публично раскрывается только через платные реестры MCA/Tofler). Рекомендация: повторить проверку при восстановлении доступа к реестру MCA V3 / Zauba / Tofler и запросить у поставщика CIN, PAN и GST-сертификат напрямую; до этого статус — «заявлено, не подтверждено»."
+}

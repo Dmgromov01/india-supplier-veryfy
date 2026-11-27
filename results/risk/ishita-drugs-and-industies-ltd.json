@@ -1,0 +1,9 @@
+{
+ "name_input": "ISHITA DRUGS AND INDUSTIES LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по существу: поисковый бэкенд (DuckDuckGo/searx) был недоступен на протяжении всей сессии, Google вернул HTTP 429, Bing выдавал нерелевантную гео-выдачу. Подтверждено только существование действующего корпоративного сайта ishitadrugs.com (открывается, содержит разделы Investors/Regulation 46, контакты: завод Vasna-Iyava, Sanand, Dist. Ahmedabad, Gujarat; корпоративный офис 401, 3rd Eye II, C.G. Road, Ahmedabad 380006; экспортный отдел exports@ishitadrugs.com; на сайте указан тикер BSE). Это подтверждает, что компания — публичная фармацевтическая (API/интермедиаты) компания из Гуджарата, но НЕ является проверкой санкций, судов или рейтинга. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) проверить не удалось: инструмент OFAC Sanctions List Search работает только через JS и по прямому HTTP-запросу возвращает ошибку, поэтому sanctions_hit = null (не 'нет попадания', а 'не проверено'). Судебные дела (eCourts/NCLT/High Court), действия регуляторов (SEBI, GPCB, CDSCO, GST), кредитный рейтинг (CRISIL/ICRA/CARE/Brickwork) и негативные новости — не проверены, все поля null. Сведений о поставках в Россию/СНГ не найдено, но и целевой поиск по этому вопросу не выполнен — rf_supply = null. ВАЖНО: null во всех полях означает отсутствие проверки, а не отсутствие риска. Требуется повторный прогон при восстановлении доступа к поиску; приоритетные запросы: 'Ishita Drugs and Industries' + SEBI order, + NCLT, + credit rating, + Russia/CIS export."
+}

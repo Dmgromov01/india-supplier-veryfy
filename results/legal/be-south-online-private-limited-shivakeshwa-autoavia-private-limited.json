@@ -1,0 +1,18 @@
+{
+ "name_input": "BE SOUTH ONLINE PRIVATE LIMITED; Shivakeshwa Autoavia Private Limited",
+ "legal_name": "SHIVAKESHWA AUTOAVIA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public source could be read. The batch input is internally inconsistent: it lists two different names ('BE SOUTH ONLINE PRIVATE LIMITED' and 'Shivakeshwa Autoavia Private Limited') for one record, so the exact legal entity is ambiguous and must be clarified by the requester before any registry check. Research attempts: DuckDuckGo search backend returned 'Connection refused' (no results); zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in Master Data returned HTTP 403; Bing/Google returned irrelevant results or HTTP 429, so no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed. Nothing is invented: all registry fields are null. Per project rules the company is NOT rejected - non-existence/strike-off/liquidation/bankruptcy could not be established either way, so the record stays in the database pending a manual MCA Master Data lookup. Role is 'unknown' because the claimed industry ('IT и электроника') contradicts the declared HS codes (8415 air-conditioning units, 8709 works trucks/tractors, 8716 trailers/semi-trailers), which point to automotive/refrigeration equipment trading or manufacturing rather than IT; HS mismatch is not a rejection ground and the code should be corrected to the actual one once the entity is identified. Revenue FY25/FY26: null - no audited accounts or official filings accessible. Recommended next step: confirm the single correct legal name, then verify CIN/PAN/GSTIN directly on MCA Master Data and the GST portal."
+}

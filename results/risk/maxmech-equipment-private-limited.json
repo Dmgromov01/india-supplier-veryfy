@@ -1,0 +1,9 @@
+{
+ "name_input": "MAXMECH EQUIPMENT PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'searx: Connection refused' on all 3 attempts; Google returned HTTP 429 (rate limited); DuckDuckGo HTML timed out; Bing returned irrelevant/degraded results (unrelated church and cricket pages) for every query, so no usable hits. Direct fetches also failed: maxmech.in did not resolve (DNS error) and zaubacorp.com returned HTTP 403. Consequently sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all UNVERIFIED - recorded as null, not as 'none found'. Note the name discrepancy in the input: 'MAXMECH EQUIPMENT PRIVATE LIMITED' vs legal_claimed 'MAXMECH EQUIPMENTS PRIVATE LIMITED' (singular vs plural) - this must be resolved before any screening, since a name mismatch can produce both false negatives and false positives in sanctions lists. Recommended next step: re-run screening when search is restored, checking OFAC SDN/consolidated list, UN Consolidated, EU consolidated, UK OFSI, BIS Entity List, plus eCourts/NCLT and credit bureaus (CRISIL/ICRA/CARE/India Ratings) under the exact registered name. No sanctions, court or criminal finding is treated as a rejection ground per project rule 2; this record is simply incomplete."
+}

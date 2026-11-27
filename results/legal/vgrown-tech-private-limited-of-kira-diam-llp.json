@@ -1,0 +1,18 @@
+{
+ "name_input": "VGROWN TECH PRIVATE LIMITED( of Kira Diam LLP)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Реестровых данных получить не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал Connection refused, Google — HTTP 429, Bing по запросам в кавычках '\"KIRA DIAM TECH PRIVATE LIMITED\"', '\"KIRA DIAM TECH\"', '\"VGROWN TECH PRIVATE LIMITED\"' выдал только нерелевантные результаты (kira.art, kira-learning.com и т.п.) — ни одного упоминания компании в реестрах. Реестровые агрегаторы (zaubacorp, thecompanycheck, instafinancials, falconebiz) отдали HTTP 403, портал MCA (mca.gov.in) — HTTP 403. Следовательно CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — все поля null, цифры не выдумывались. ВАЖНО: входные данные внутренне противоречивы — в name_input указано 'VGROWN TECH PRIVATE LIMITED (of Kira Diam LLP)', а в legal_claimed — 'KIRA DIAM TECH PRIVATE LIMITED'; это два разных наименования, и ни одно из них не подтверждено как существующее юрлицо. Также заявленный HS 710491 (изделия из синтетических/природных камней — бриллианты) не соответствует заявленной отрасли 'Продукты питания и FMCG'; по правилам проекта HS-несоответствие не является основанием для отклонения — код подлежит исправлению на фактический после подтверждения деятельности. Роль (manufacturer/trader) не определена — unknown. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица при недоступности реестров — это пробел данных, а не доказательство несуществования. Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP и уточнение у поставщика точного наименования юрлица (VGROWN TECH PVT LTD или KIRA DIAM TECH PVT LTD) и его CIN."
+}

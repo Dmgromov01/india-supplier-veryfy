@@ -1,0 +1,18 @@
+{
+ "name_input": "ISHITA DRUGS AND INDUSTIES LTD",
+ "legal_name": "Ishita Drugs and Industries Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat",
+ "state_claimed": "",
+ "mca_status": "Active (listed company, BSE scrip 524400; no strike-off/liquidation/insolvency found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 15.0,
+ "revenue_fy26_cr": 14.66,
+ "revenue_source": "Screener.in P&L (BSE-sourced annual results, Rs crore): FY Mar-2025 Sales 15.00; FY Mar-2026 Sales 14.66 (https://www.screener.in/company/524400/). Not cross-checked against the audited annual report PDF itself.",
+ "note": "Entity exists and is publicly listed on BSE (scrip code 524400), so no rejection ground applies. Legal name confirmed as 'Ishita Drugs and Industries Limited' from the company's own website (ishitadrugs.com) and Screener.in; the input spelling 'INDUSTIES' is a typo. Registered office: 401, 3rd Eye II, Opp Parimal Garden, C.G. Road, Ahmedabad 380006, Gujarat; plant at Survey No 179/1, Vasna-Iyava, Nr. Sanand Toll Plaza, Sarkhej-Viramgam Highway, Tal. Sanand, Dist. Ahmedabad, Gujarat (source: https://www.ishitadrugs.com/contact-us/). State claimed in input was empty, so no mismatch to report; registered state = Gujarat. Role: manufacturer of APIs, drug intermediates, fine chemicals and excipients (own plant, own website product/plant pages) - not a trader. CIN, PAN, GSTIN, GST status and exact date of incorporation could NOT be verified: MCA/registry aggregators (ZaubaCorp, TheCompanyCheck, QuickCompany) returned HTTP 403/404, IndiaMART returned 429, and the web_search backend was unavailable (connection refused), so no public GST profile could be read. Screener.in states 'Incorporated in 1992' but that is a secondary aggregator statement, not an MCA filing, so incorporation_date is left null rather than guessed. PAN holder type therefore also null (cannot derive 4th character without the PAN). Revenue figures are annual sales from Screener.in's BSE-derived P&L; FY26 figure is the Mar-2026 full-year column as displayed. Declared HS 293590 (other sulphonamides / heterocyclic compounds) is consistent with an API/intermediate manufacturer, but HS was not the object of this check and no correction is proposed."
+}
