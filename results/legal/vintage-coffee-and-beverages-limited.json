@@ -1,0 +1,18 @@
+{
+ "name_input": "VINTAGE COFFEE AND BEVERAGES LIMITED",
+ "legal_name": "Vintage Coffee and Beverages Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": "listed and actively trading (BSE: 538920, NSE: VINCOFE) — no strike-off/liquidation/insolvency indication found; exact MCA status string not retrieved",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 309.0,
+ "revenue_fy26_cr": 553.0,
+ "revenue_source": "Screener.in consolidated annual P&L (BSE 538920), Mar 2025 sales Rs 309 Cr, Mar 2026 sales Rs 553 Cr, derived from the company's audited/filed results; standalone figures Rs 113 Cr (FY25) and Rs 317 Cr (FY26)",
+ "note": "Entity exists and is a listed public limited company; not rejected. Screener.in profile (BSE 538920 / NSE VINCOFE) confirms the exact name 'Vintage Coffee & Beverages Ltd' and describes it as a manufacturer and exporter of instant coffee, instant chicory and value-added beverages with 11,000 MT/yr installed instant coffee capacity — hence role = manufacturer (no evidence of pure trading). Declared HS codes 0901 (coffee) and 2101 (coffee extracts/preparations) are consistent with the stated product line, so no HS correction is needed. NOT PUBLIC / NOT RETRIEVED: CIN, PAN, GSTIN, GST status, exact date of incorporation and registered-office state — ZaubaCorp, TheCompanyCheck, Moneycontrol and InstaFinancials all returned 403/404, and the search backend (searx) was down, so these fields are left null rather than guessed. Screener states 'Incorporated in 1980', but this is a secondary aggregator statement and the exact date is not verified, so incorporation_date is null. Registered state therefore also null; the input did not claim a state, so no state mismatch can be assessed. Revenue figures are consolidated group sales from filed results, not independently audited-document-verified line items; treat as filing-derived. Per project rules, no customs/shipment or court research was performed in this role."
+}

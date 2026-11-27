@@ -1,0 +1,9 @@
+{
+ "name_input": "VINTAGE COFFEE AND BEVERAGES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on all attempts (searx unavailable); Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned generic 'vintage clothing' results ignoring the query terms, so no relevant hits could be read; ZaubaCorp and TheCompanyCheck both returned HTTP 403. Consequently nothing could be checked for: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role and status), regulator actions, negative news with dates, credit rating (agency, date, status), or any evidence of supplies to Russia/CIS. All fields set to null rather than guessed — no sanctions status, rating, case number or shipment evidence is asserted. Per project rules, absence of data is NOT a rejection ground and NOT a sanctions hit; this company must be re-queued for a fresh risk pass once search access is restored. Suggested next sources when available: OFAC SDN search + EU/UK consolidated lists + BIS Entity List, NCLT/NCLAT and eCourts party search, SEBI/BSE/NSE filings (the entity appears to be a listed Indian coffee processor, so exchange disclosures would be the primary source for litigation, regulator action and credit rating), and CRISIL/ICRA/CARE/Brickwork rating rationales. No legal-identity, HS-code or shipment-volume work performed, per role scope."
+}

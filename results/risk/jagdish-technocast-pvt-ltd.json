@@ -1,0 +1,9 @@
+{
+ "name_input": "JAGDISH TECHNOCAST PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; Bing returned only unrelated cached results (Black Friday / Joe Biden pages) for the exact-phrase queries, i.e. no usable hits; Google returned HTTP 429; DuckDuckGo HTML endpoints timed out; company registries (zaubacorp.com, thecompanycheck.com) returned HTTP 403; IndiaMART returned HTTP 429. OFAC Sanctions List Search page was reachable but its lookup is a form POST, so no name match could be executed via GET — therefore sanctions_hit is null (NOT a clean bill of health). No court records (eCourts/NCLT), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator actions, and no evidence of supplies to Russia/CIS could be retrieved. Nothing here should be read as absence of risk: all fields are null because they are unverified, not because they were checked and found empty. Recommend re-running this company when search infrastructure is restored, with checks against: OFAC SDN/consolidated list, UN/UK/EU/BIS Entity List, eCourts and NCLT Ahmedabad/Rajkot filings, and rating agency databases. Per project rules, sanctions/court/criminal matters are never rejection grounds regardless of outcome."
+}

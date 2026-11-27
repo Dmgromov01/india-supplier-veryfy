@@ -1,0 +1,9 @@
+{
+ "name_input": "ENZYME BIOSCIENCE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no company-specific source could be retrieved. Tooling failure, not a negative finding: (1) web_search backend returned 'Connection refused' on every attempt; (2) direct fetches of Google (HTTP 429), DuckDuckGo (timeout) and Bing failed - Bing served an identical cached generic 'enzyme definition' results page for all three different queries, so it was unusable; (3) zaubacorp.com returned HTTP 403; (4) the OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded but is a JavaScript form that returns no results via plain HTTP GET, so no SDN/non-SDN name match could be executed. Therefore sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List), Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all UNVERIFIED - reported as null, not as 'clean'. No CIN, PAN, rating figure, case number or shipment record is asserted because none was observed in any source. Recommended action: re-run this company once the search backend is restored, checking (a) OFAC/UN/EU/UK/BIS consolidated lists by exact legal name, (b) NCLT/NCLAT and eCourts by legal name, (c) CRISIL/ICRA/CARE/India Ratings, (d) Indian trade and customs press for Russia/CIS flows. Per project rules, absence of sanctions or court findings would in any case not be a rejection ground; this note records only that verification is outstanding."
+}
