@@ -1,42 +1,43 @@
 # Supplier verification summary
 
-Companies in results: **1395**, fully covered (4/4 roles): **1159**
+Companies in results: **3364**, fully covered (4/4 roles): **3026**
 
 | Role files | count |
 |---|---|
-| legal | 1297 |
-| ship | 1366 |
-| prod | 1239 |
-| risk | 1215 |
-| failed (quarantined) | 28 |
+| legal | 3243 |
+| ship | 3331 |
+| prod | 3143 |
+| risk | 3127 |
+| failed (quarantined) | 80 |
 
 ## Export evidence
 
 | status | companies |
 |---|---|
-| confirmed | 867 |
-| unknown | 331 |
-| none_found | 164 |
-| declared_only | 33 |
+| confirmed | 2163 |
+| unknown | 744 |
+| none_found | 382 |
+| declared_only | 75 |
 
 ## HS match
 
 | status | companies |
 |---|---|
-| cannot_verify | 755 |
-| partial | 385 |
-| unknown | 156 |
-| wrong | 91 |
-| exact | 8 |
+| cannot_verify | 1960 |
+| partial | 922 |
+| wrong | 234 |
+| unknown | 221 |
+| exact | 27 |
 
 ## Company role
 
 | role | companies |
 |---|---|
-| unknown | 1218 |
-| manufacturer | 140 |
-| manufacturer_trader | 20 |
-| trader | 9 |
-| service_provider | 6 |
+| unknown | 2978 |
+| manufacturer | 304 |
+| manufacturer_trader | 50 |
+| trader | 17 |
+| service_provider | 12 |
 | service_provider (EPC infrastructure engineering & construction contractor — bridges, metros, tunnels, marine, highways). Not a trader; not a manufacturer of the declared HS goods | 1 |
 | unknown — CIN class U32909 (other manufacturing) suggests manufacturer, but no verified activity evidence; the claimed legal name "J D INDUSTRIES" is a generic trade name with no matching registered entity, so the actual operating role cannot be established. | 1 |
+| manufacturer (tannery — leather processing; consistent with declared HS 4113/6406, but role not confirmed from registry documents) | 1 |
