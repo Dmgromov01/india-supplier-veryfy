@@ -1,0 +1,8 @@
+{
+ "name_input": "Uniseven Engineering & Infrastructure Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'uniseven-engineering-infrastructure-pvt-ltd' loaded but rendered only placeholder text: 'Shipments available for UNISEVEN ENGINEERING INFRASTRUCTURE PVT LTD, refreshed daily' — zero actual shipment rows visible (0 rows seen; page is JS-rendered behind a free-trial wall). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record was retrievable. Searches for 'Uniseven Engineering' + GeM/tender returned no results (search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)'), and Google returned HTTP 429. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных, ни внутренних записей получить не удалось. Все источники отгрузок оказались недоступны: volza.com, eximpedia.app, trademo.com и importgenius.com вернули HTTP 403 / JS-challenge, Google — HTTP 429, DuckDuckGo — таймаут, поисковый бэкенд — connection refused. ImportKey отдал страницу без единой строки данных (0 rows). Поэтому статус по обоим каналам — unknown, а не none_found: отсутствие доступа к данным не равно отсутствию отгрузок. Заявленный HS 732510 (изделия литые из чёрных металлов) не подтверждён и не опровергнут — фактический код установить не удалось. Выручка, объём экспорта, PAN, CIN, штат — null, публично не получены; не выдумывались. Рекомендация: повторить проверку с платным доступом к Volza/Eximpedia либо запросить у поставщика экспортные B/L и GST-декларации напрямую."
+}

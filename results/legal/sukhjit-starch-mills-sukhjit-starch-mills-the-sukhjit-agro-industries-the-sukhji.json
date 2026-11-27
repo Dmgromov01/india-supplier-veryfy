@@ -1,0 +1,18 @@
+{
+ "name_input": "SUKHJIT STARCH MILLS; SUKHJIT STARCH MILLS; THE SUKHJIT AGRO INDUSTRIES; THE SUKHJIT AGRO IND.; THE SUKHJIT STARCH AND CHEMICALS LTD; SUKHJIT CORN PRODUCTS ( A UNIT OF THE SUKHJIT STARCH AND CHEMICALS LIMITED); SUKHJIT STARCH MILLS; SUKHJIT STARCH INDUSTRIES",
+ "legal_name": "The Sukhjit Starch & Chemicals Ltd. (as spelled on the company's own website; the input variant 'THE SUKHJIT STARCH AND CHEMICALS LIMITED' is the same entity)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Punjab",
+ "state_claimed": "",
+ "mca_status": "Active (inferred only: the company is a live listed entity publishing SEBI LODR disclosures and audited results on its own site; MCA master data itself could not be opened)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Entity existence is confirmed from the primary source: sukhjitgroup.com (official site) shows 'The Sukhjit Starch & Chemicals Ltd.', Rehana Jattan, Teh. Phagwara, Distt. Kapurthala - 144407, Punjab, with a full Investors Relations section (SEBI LODR Reg. 46 disclosures, corporate governance, audited financial results, annual reports, IEPF/registrar pages) — i.e. a listed company. Role is manufacturer, not trader: the site lists four own production units — Sukhjit Corn Products (Rehana Jattan, Phagwara, Punjab), Sukhjit Starch Mills (Nizamabad, Telangana), Sukhjit Starch Industries (Malda, West Bengal), Sukhjit Agro Industries (Gurplah, Distt. Una, Himachal Pradesh) — and a corn wet-milling product range (maize starch, dextrose, sorbitol, liquid glucose, HMFCS, malto dextrin, modified starch, gluten, germ, maize oil, bran). The many names in the input are therefore not separate legal entities but the parent plus its unit/brand names; only one legal entity should be kept in the base. NOT VERIFIED / NULL: CIN, PAN, GSTIN, GST status, exact date of incorporation and audited FY25/FY26 revenue. Reason: the DuckDuckGo search backend returned 'Connection refused' on every query, and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com) returned HTTP 403, screener.in returned 404, and the BSE page returned only a JS shell with no data. No number was invented. Per project rules the company is NOT rejected: the entity exists and is operating. Follow-up needed with working search/registry access: pull CIN (Punjab-registered, listed on BSE — scrip code 507442 per BSE URL pattern, unconfirmed), PAN holder type from the 4th character, GSTIN and GST status from a public GST profile, and FY25/FY26 revenue from the audited annual results published in the Investors section of sukhjitgroup.com. Declared HS 110812 (maize/corn starch) and 290544 (sorbitol) are consistent with the manufacturer's actual product line, so no HS correction is indicated."
+}

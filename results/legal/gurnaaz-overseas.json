@@ -1,0 +1,18 @@
+{
+ "name_input": "Gurnaaz Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реквизита. Попытки (8 вызовов): web_search — бэкенд DuckDuckGo недоступен (connection refused); Bing по запросам \"Gurnaaz Overseas\" GSTIN и \"Gurnaaz Overseas\" Ludhiana/Punjab/Amritsar вернул только нерелевантную выдачу (Samsung Galaxy A57, thrillzparks) — совпадений по компании нет; zaubacorp.com, instafinancials.com, mca.gov.in — HTTP 403; gstinsearch.in — DNS failure; google.com — HTTP 429. Итог: публичного реестрового профиля (CIN/LLPIN, PAN, GSTIN, дата регистрации, MCA-статус) получить не удалось. Заявленное в input 'SUKHBIR SINGH' — это имя лица, а не название юрлица; вероятнее всего это ИП (proprietorship) или партнёрство, у которых CIN отсутствует по определению, но подтвердить форму и наличие GST-регистрации нечем. PAN и GSTIN не выводятся и не угадываются. Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов в открытом доступе не найдено (для ИП такие данные, как правило, не публикуются). Роль — unknown: ни производственных мощностей, ни торговой деятельности по реестровым данным не подтверждено. HS 845221 (металлообрабатывающие станки) с заявленной отраслью 'Металлургия и горнодобыча' не согласуется, но по правилам проекта несоответствие HS не является основанием для отклонения. ВЕРДИКТ: НЕ отклонять — отсутствие данных не равно несуществованию юрлица; статус 'заявлено, не подтверждено', требуется запрос у поставщика: GSTIN-сертификат, PAN карточки, Udyam/регистрация, банковские реквизиты. Следов поставок по реестровым источникам не проверялось (вне рамок роли)."
+}

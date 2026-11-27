@@ -1,0 +1,18 @@
+{
+ "name_input": "UNI TRITECH PRIVATE LIMITED; UNI-VTL Precision Pvt. Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки верификации в этом прогоне не удались по техническим причинам: DuckDuckGo/searx вернул 'Connection refused' (поиск недоступен), Bing отдал нерелевантную выдачу (только uni.edu, UniUni, United Airlines — совпадений по названию нет), Google вернул HTTP 429, а реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) и портал MCA (mca.gov.in) — HTTP 403/404. Поэтому ни точное юрлицо, ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни штат регистрации, ни MCA-статус не подтверждены и оставлены null — не выдуманы. Дополнительная проблема входных данных: в поле name указаны ДВА разных названия ('UNI TRITECH PRIVATE LIMITED' и 'UNI-VTL Precision Pvt. Ltd'), причём второе похоже на совместное предприятие/переименование; какое из них является действующим юрлицом — не установлено. PAN и штат в заявке не указаны (пустые), поэтому сверять state_claimed не с чем. Роль (manufacturer/trader) не определена: без реестровых данных и без проверки каталогов (что вне моей роли) отнести к категории нельзя — 'unknown'. Выручка FY25/FY26: аудированной отчётности или официальных филингов получить не удалось, поэтому null, а не оценка. ВАЖНО: отклонять НЕЛЬЗЯ — нет ни одного подтверждения, что юрлицо не существует, ликвидировано или обанкрочено; отсутствие данных о регистрации не является основанием для rejected. Требуется повторный прогон при доступном поиске/реестре (MCA master data, GST-портал) либо ручная проверка по CIN."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "Divideep Engineers",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/divideep-engineers and .../divideep-engineers-private-limited both returned only the generic template shell: \"Shipments available for DIVIDEEP ENGINEERS, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Source counter: 2 importkey pages fetched, 0 shipment rows actually seen. volza.com, eximpedia.app and trademo.com returned HTTP 403 Forbidden; DuckDuckGo search backend was unreachable (connection refused), so no second source could be checked.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com returned HTTP 403 Forbidden. No public domestic supply record was seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это результат отсутствия доступа к данным, а не доказательство отсутствия отгрузок: importkey отдал пустой шаблон (0 строк при 2 запросах), остальные трейдерские базы (volza, eximpedia, trademo) и реестровый агрегатор закрыты 403, поисковик недоступен. Выручка и объём экспорта — null, публичных данных нет. HS 820900 (плиты/пластины/наконечники для инструментов) заявлен, фактический код по таможенным записям не подтверждён и не опровергнут — оснований для HS-корректировки нет. Юрлицо не проверено на ликвидацию/банкротство (реестр недоступен), поэтому вердикт не rejected. Требуется повторная проверка при доступе к платным базам или MCA."
+}
