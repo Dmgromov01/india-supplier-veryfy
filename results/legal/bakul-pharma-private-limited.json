@@ -1,0 +1,18 @@
+{
+ "name_input": "BAKUL PHARMA PRIVATE LIMITED",
+ "legal_name": "BAKUL PHARMA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved in this run, so no identifiers are asserted. The DuckDuckGo search backend returned 'Connection refused' on both queries; direct reads of ZaubaCorp and TheCompanyCheck returned HTTP 403, Tofler and QuickCompany returned 404 for the guessed slugs, InstaFinancials returned 404, Falcon eBiz served only a JS shell with no company record, and Bing/Google returned irrelevant results or HTTP 429. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null — not public via accessible sources in this session, not 'not existing'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected; it is retained with status unverified pending a re-run against MCA/GST portals. Role cannot be classified from registry data alone (no NIC/activity code retrieved), hence 'unknown'. Note on the input: declared HS 293090/293359 are organo-sulphur/heterocyclic chemical intermediates, consistent with the claimed 'oil & gas and chemicals' industry, but HS codes are not a registry attribute and were not used for any verdict. Recommended next step: re-query MCA master data by exact name and GST portal by legal name to fill CIN, PAN, GSTIN and financials."
+}

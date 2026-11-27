@@ -1,0 +1,9 @@
+{
+ "name_input": "JAVI SYSTEMS INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; html.duckduckgo.com и lite.duckduckgo.com — таймаут; google.com — HTTP 429; bing.com отдавал нерелевантную выдачу (запрос не соблюдался, результаты про CNN/Best Buy); zaubacorp.com — HTTP 403; search.mca.gov.in — DNS не разрешается. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать запрос через GET — фактического скрининга по SDN/Non-SDN не произведено. Следовательно: sanctions_hit, court_cases, rating, news_risk, rf_supply = null, и это НЕ означает отсутствие рисков — данные просто не проверены. Никаких утверждений о санкциях, судах, рейтингах или поставках в РФ/СНГ по данной компании не делаю, чтобы не выдумывать факты. Требуется повторный запуск при работающем поиске; минимальный план: (1) скрининг OFAC SDN/Non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List по точному имени и вариантам 'Javi Systems'; (2) eCourts/NJDG и High Court по 'Javi Systems India'; (3) реестр MCA (CIN, статус, директора) — для судебных/регуляторных связей; (4) кредитный рейтинг CRISIL/ICRA/CARE/India Ratings; (5) новостной поиск по экспорту в РФ/СНГ и по негативу с датами. Примечание по правилам проекта: санкции/суды/уголовные дела владельцев не являются основанием для отклонения — только нейтральная фиксация."
+}

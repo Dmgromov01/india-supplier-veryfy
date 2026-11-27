@@ -1,0 +1,18 @@
+{
+ "name_input": "AAKASH INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: все каналы недоступны. web_search (DuckDuckGo/searx) вернул 'Connection refused'; DuckDuckGo HTML — timeout; Bing выдал нерелевантную/мусорную выдачу (0 совпадений по 'Gagandas Somani'); zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in — HTTP 403 Forbidden. Ни один реестровый факт (точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, MCA-статус, выручка) публично не подтверждён, поэтому все поля null — цифры не выдумывались. Входные данные противоречивы: 'legal_claimed' = 'GAGANDAS SOMANI' — это имя физлица (вероятно, проприетор/партнёр), а не название юрлица; 'AAKASH INDUSTRIES' — вероятно торговая вывеска. Форма собственности (проприеторство / partnership / Pvt Ltd) не установлена, следовательно CIN может отсутствовать в принципе, а PAN/GSTIN привязаны к физлицу. Штат в заявке не указан (state_claimed пусто), сверять нечего. HS 100630/100640 (рис полуобрушенный/обрушенный) — вопрос продуктовый, к реестровой проверке не относится и по правилам проекта основанием для отклонения не является. Роль оставлена 'unknown' (не manufacturer и не trader) — нет ни реестровых, ни фактических данных. ВЕРДИКТ: не отклонять — нет доказательств несуществования/ликвидации/банкротства; статус 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к MCA/GST-порталам."
+}

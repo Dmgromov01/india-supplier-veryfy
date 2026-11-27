@@ -1,0 +1,18 @@
+{
+ "name_input": "ORTUS GLOBAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Bing по запросам \"ORTUS GLOBAL\" + \"SYED SAJID ASFI\" и \"Ortus Global\" GST CIN выдал полностью нерелевантную выдачу (zhihu.com, nhl.com) — совпадений по названию нет. Zaubacorp, Instafinancials, MCA master-data отдали HTTP 403; TheCompanyCheck — 404; Tofler — 404. ВАЖНО: 'SYED SAJID ASFI' в поле legal_claimed — это имя физлица (вероятного проприетарного владельца/ИП), а не название юрлица; 'ORTUS GLOBAL' — вероятно торговое обозначение. Такая конструкция типична для sole proprietorship (ИП), у которого нет CIN и нет аудиторской отчётности в MCA; в этом случае подтверждаемыми полями могут быть только GSTIN (по публичному GST-профилю) и PAN (по формату, 4-й символ 'P' = individual). Ни один из них не подтверждён — все поля null, ничего не выдумано. CIN/PAN/GSTIN/дата регистрации/статус MCA/выручка FY25-FY26 — null, публично не подтверждено в рамках доступных источников. Роль: unknown (признаки торгового дома/посредника по названию 'Global' — не доказательство). Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица (правило 3). Заявленный HS 300490 (фармпрепараты) не соответствует заявленной отрасли 'Нефтегаз и химия' — это внутреннее противоречие входных данных, требует уточнения у заказчика; HS-несоответствие по правилу 3 основанием для отклонения не является. Требуется повторная проверка при восстановлении доступа к реестрам (MCA V3 portal, GST search по GSTIN, Zaubacorp) либо запрос GSTIN/CIN у поставщика напрямую."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ORTUS GLOBAL",
+ "sanctions_hit": null,
+ "court_cases": "Indian Kanoon full-text search for \"Ortus Global\" returned 0 matching judgments (checked 23.11.2026, https://indiankanoon.org/search/?formInput=%22Ortus%20Global%22). No other court records located. Status: no public litigation found; absence of records is not proof of no litigation.",
+ "rating": null,
+ "news_risk": "No negative news, regulator action or enforcement item found. Search tooling was degraded during this check (DuckDuckGo backend refused connections; Bing returned unrelated results for every query), so this is a coverage gap, not a clean bill of health.",
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: OFAC SDN/Non-SDN, UN, EU, UK and BIS Entity List could not be queried programmatically - the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is JavaScript-driven and returns no results to a plain HTTP fetch, and the search backend was down. sanctions_hit is therefore null = NOT CHECKED, not 'no hit'. Court: only Indian Kanoon was reachable; 0 results for the name. Credit rating: no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; null. RF/CIS supply evidence: none found, null. Identity caveat for the record (not researched per scope): the entity name 'ORTUS GLOBAL' with claimed proprietor 'SYED SAJID ASFI' could not be matched to any public Indian corporate/LLP record - ZaubaCorp returned HTTP 403 and no registry page surfaced. The claimed industry ('Нефтегаз и химия' - oil & gas and chemicals) is also inconsistent with declared HS 300490 (medicaments), which is a data-quality flag for the HS/identity team, not a rejection ground. Per project rules no rejection is proposed: nothing indicates the legal entity is non-existent, struck off or insolvent - it simply could not be verified with the tools available. Recommend re-run of sanctions screening (OFAC/EU/UK/BIS) and MCA lookup when search access is restored."
+}
