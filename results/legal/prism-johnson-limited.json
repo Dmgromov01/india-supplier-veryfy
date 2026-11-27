@@ -1,0 +1,18 @@
+{
+ "name_input": "PRISM JOHNSON LIMITED",
+ "legal_name": "Prism Johnson Limited",
+ "cin_llpin": "L26900MH1992PLC069414",
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra",
+ "state_claimed": "",
+ "mca_status": "Active (listed public limited company; no strike-off/liquidation/winding-up found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Not retrieved. Audited results ARE published on the company's own investor pages (Q4 AFR – March 31, 2025 and Q4 AFR – March 31, 2026, https://www.prismjohnson.in/investors/quarterly-results/), but the PDF figures could not be opened within the tool budget, so no number is asserted here.",
+ "note": "Entity existence confirmed from the company's own official website (prismjohnson.in), which identifies it as 'Prism Johnson Limited' with divisions Prism Cement, H&R Johnson (tiles/ceramics) and Prism RMC, and publishes audited FY26 (year ended 31.03.2026) and FY25 (year ended 31.03.2025) financial results plus annual reports 2024-25 and 2025-26 — so the company is live and filing. CIN L26900MH1992PLC069414 is the widely published CIN for this company (state code MH = Maharashtra, 1992 incorporation, PLC = public limited); it could NOT be re-verified against the MCA master data in this session because zaubacorp/thecompanycheck returned HTTP 403 and the search backend (DuckDuckGo/searx) was down ('Connection refused'), so treat the CIN and incorporation date as unconfirmed-by-primary-source. PAN, GSTIN and GST status: not obtained — no public GST profile page was reachable, so left null rather than guessed (PAN 4th-character holder type therefore also null). Registered office state Maharashtra is inferred from the CIN state code and Mumbai-based company-secretary/registrar contacts on the site; the input claimed no state, so no mismatch can be assessed. Role: manufacturer — the company operates its own cement plants and tile/ceramic plants (Prism Cement, H&R Johnson), not a trading intermediary. HS 690721 (ceramic tiles, >=0.5% water absorption) matches the H&R Johnson ceramic tile business, so no HS correction is needed. Revenue FY25/FY26 deliberately left null: figures exist in the published audited filings but were not read, and per project rules numbers must not be invented. No grounds for rejection: the entity exists and is not struck off, liquidated or bankrupt."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Spark Electronics",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — tooling failure, not a clean bill of health. All 8 tool calls failed to return usable evidence: web_search (DuckDuckGo/searx) returned 'Connection refused' on every attempt; direct http_get to google.com returned HTTP 429; duckduckgo.com/html timed out; bing.com returned the same generic, query-independent result set (Apache Spark, Walmart Spark Driver, Spark mail app, National Geographic Spark) for three different targeted queries, i.e. the engine ignored the query and served a cached page. No page about an Indian entity named 'Spark Electronics' was ever retrieved. Consequently: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) — NOT VERIFIED, null; Indian court cases (party role, status) — NOT VERIFIED, null; regulator actions and negative news with dates — NOT VERIFIED, null; credit rating with date and status — NOT VERIFIED, null; evidence of supplies to Russia or CIS — NOT VERIFIED, null. No claim in this record is sourced, because no source could be read. Important caveat for the analyst: 'Spark Electronics' is a very common trade name in India and the batch record supplies no PAN, no state, no CIN and no city, so even with working search the name alone is likely ambiguous across multiple distinct legal entities — a disambiguating identifier is required before any risk conclusion can be attached to a specific supplier. Per project rules this is NOT a rejection ground and no verdict is implied; the company stays in the base with risk fields null pending re-run of this check when search access is restored. Do not treat nulls here as 'no sanctions, no cases' — they mean 'not checked'."
+}

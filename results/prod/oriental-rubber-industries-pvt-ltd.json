@@ -1,0 +1,16 @@
+{
+ "name_input": "Oriental Rubber Industries Pvt Ltd",
+ "declared_hs": "400821;401012;591000",
+ "actual_hs_list": [
+  "401012 — conveyor belts of vulcanised rubber, reinforced only with textile materials (fabric conveyor belts: general purpose, fire retardant, heat resistant, oil resistant, energy saving, anti-stick, Maxx range)",
+  "401011 — conveyor belts reinforced only with metal (steel cord conveyor belts, explicitly stated on About Us page)",
+  "401019 — conveyor belts of vulcanised rubber, other (mixed/other reinforcement, if applicable)",
+  "400821 — plates/sheets/strip of non-cellular vulcanised rubber (rubber sheets, skirt rubber, impact bars, wear-protection sheets)",
+  "401699 — other articles of vulcanised rubber, other (pulley lagging, rubber-to-metal bonded products, custom moulded rubber parts)",
+  "591000 — transmission/conveyor belting of textile material (only if textile-based belting is actually supplied; not corroborated by the site's product range)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Manufacturer of heavy-duty rubber conveyor belts and allied conveyor-system rubber products. Site (orientalrubber.com, Products + About Us, accessed via http_get) lists: steel cord and fabric conveyor belts; Maxx range; covers, carcass, profiles; general purpose, fire retardant, heat resistant, oil resistant, energy saving and anti-stick belts; rubber sheets, ceramic and rubber pulley lagging, impact bars, skirt rubber, wear-protection products; custom rubber and rubber-to-metal bonded products for static and dynamic applications. Plants: Koregaon Bhima and Karandi (Pune, India) plus Boksburg (South Africa).",
+ "role_hint": "manufacturer",
+ "comment": "Declared 400821 (rubber sheets/plates) is CORRECT and corroborated by the site's 'Rubber Sheets' / wear-protection line. Declared 401012 (textile-reinforced conveyor belts) is CORRECT for the fabric belt range. Declared 591000 (textile belting) is only partially plausible — the site describes rubber conveyor belts, not textile transmission belting; treat as 'заявлено, не подтверждено' unless a customs line shows it. MISSING from the declaration: HS 401011 (steel cord conveyor belts) — a core, explicitly advertised product line, and 401699 (pulley lagging, rubber-to-metal bonded and moulded rubber parts). Industry classification 'Нефтегаз и химия' (oil & gas / chemicals) is a MISCLASSIFICATION: the company is a rubber/conveyor-belt manufacturer serving mining, steel, cement, thermal, ports, aggregates, agriculture — i.e. mechanical/rubber goods (HS ch. 40/59), not petrochemicals. No trader signs: own plants in India and South Africa, own NABL-accredited R&D lab, 800+ employees, family-owned manufacturer. Per project rule 3, the HS discrepancies are not grounds for rejection — company retained, codes corrected to 401011/401012/400821/401699 with 591000 flagged as unconfirmed. All product facts are from the company's own website; no customs line was available to me in this task, so shipment-level corroboration is out of scope here and product claims remain 'заявлено, не подтверждено' at the customs-record level."
+}

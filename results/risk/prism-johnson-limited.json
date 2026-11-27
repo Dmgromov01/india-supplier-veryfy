@@ -1,0 +1,9 @@
+{
+ "name_input": "PRISM JOHNSON LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — tooling failure. The web_search tool returned 'Connection refused' on every attempt, and fallback fetches to Bing/DuckDuckGo returned generic, query-irrelevant results (pages about GraphPad Prism, PrismHR, Prism Launcher etc.), so no targeted search could be executed. Only two sources were reachable: (1) the company's own website prismjohnson.in, which confirms it is an Indian listed building-materials group (cement, RMC, tiles/sanitaryware via H&R Johnson; MD Vijay Aggarwal; FY26 consolidated revenue stated as ~INR 7,404 crore; BSE/NSE listed) — this is company self-description, NOT a risk source; (2) the OFAC Sanctions List Search landing page, which loaded only as an interactive form with no query executed, so it yields NO verified negative screening result. Therefore: sanctions_hit = null (NOT screened — do not read as 'clear'); court_cases = null (no NCLT/CCI/SEBI/High Court records retrieved); rating = null (no CRISIL/ICRA/CARE/India Ratings action retrieved, no date available); news_risk = null (no negative-news search possible); rf_supply = null (no evidence found either way regarding supplies to Russia or CIS — absence of evidence here is a tooling artefact, not a finding). No claim in this record is sourced beyond the company website. Recommend re-running this company once search connectivity is restored, prioritising: OFAC SDN/UN/EU/UK/BIS screening by exact legal name, Indian court and regulator dockets (NCLT, CCI, SEBI, NCLAT), latest credit rating rationale with date, and any Russia/CIS shipment or counterparty evidence. Per project rules, nothing here constitutes a rejection ground; the company remains in the database pending verification."
+}
