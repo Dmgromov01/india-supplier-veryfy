@@ -1,0 +1,18 @@
+{
+ "name_input": "ANIS EXPORT",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity NOT established. Search tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused', Google returned HTTP 429, DuckDuckGo HTML timed out, and Bing returned only generic 'Anise/Anis' dictionary and restaurant results with no Indian entity match. Direct registry aggregator lookups were blocked: zaubacorp.com returned HTTP 403 on both the company-search and 'ANIS' search URLs; thecompanycheck.com search URL returned HTTP 404. No public record of a legal entity named exactly 'ANIS EXPORT' was retrieved, so legal name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all left null rather than guessed. Note that 'ANIS EXPORT' is a bare trade-style name with no suffix (no Pvt Ltd / LLP / & Co), which is typical of a sole proprietorship or unregistered trade name - such entities have no CIN and no MCA record at all, only a GSTIN, which could not be verified here. Per project rules, absence of a verifiable record is NOT grounds for rejection (rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, none of which was found); the entity is therefore retained with role 'unknown' and all registry fields null. Revenue FY25/FY26 null - no audited accounts or official filings located. No customs, court or catalogue research was performed per role scope. Recommended next step: re-run with a working search backend and query the GST portal / MCA master data by trade name and by the declared HS 300490 (pharma) activity, since the input industry label 'Нефтегаз и химия' (oil & gas / chemicals) conflicts with the declared HS 300490 (medicaments) - this discrepancy is unresolved and should be flagged to the analyst."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "W360 SOPHISTICATED SOLUTIONS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'w360-sophisticated-solutions-private-limited' (and variant 'w360-sophisticated-solutions-pvt-ltd') returned only the generic template: 'Shipments available for W360 SOPHISTICATED SOLUTIONS PRIVATE LIMITED, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were rendered. Source counter: 2 ImportKey pages opened, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Attempts: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404; eximpedia.app returned HTTP 403. Source counter: 4 registry/aggregator URLs attempted, 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних — но и отсутствие записей не доказано: все источники были недоступны (403/404) либо отдавали пустой шаблон без строк. web_search (DuckDuckGo/searx) был недоступен (connection refused), Bing вернул нерелевантную выдачу, поэтому подтвердить существование юрлица, CIN/PAN, выручку и объёмы экспорта не удалось — все эти поля null, не выдуманы. Заявленные HS 842389 и 902789 (краны/подъёмное оборудование и измерительные приборы) не подтверждены ни одной таможенной записью; соответствие HS не проверено. Компания не отклоняется: оснований для rejected (ликвидация/банкротство/отсутствие юрлица) нет, но и accepted не обоснован — требуется повторная проверка при доступности importkey/volza/eximpedia и реестра MCA."
+}

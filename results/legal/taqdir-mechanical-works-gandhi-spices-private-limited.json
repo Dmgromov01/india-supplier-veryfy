@@ -1,0 +1,18 @@
+{
+ "name_input": "TAQDIR MECHANICAL WORKS; GANDHI SPICES PRIVATE LIMITED",
+ "legal_name": "GANDHI SPICES PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search backend (searx) returned 'Connection refused'; Bing/Google/DDG fallbacks returned either HTTP 429/timeouts or completely irrelevant results (generic Mahatma Gandhi biography pages) regardless of query, so no company-specific page could be located. Direct registry/profile fetches all failed: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404, tofler.in 404 (both search and company-slug URLs), mca.gov.in 403. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT because they are absent, but because they could not be retrieved. No revenue figures available from audited accounts or official filings; FY25/FY26 left null per rules (no invented numbers). Role left 'unknown': the input bundles two different names ('TAQDIR MECHANICAL WORKS' - a proprietorship-style trade name, and 'GANDHI SPICES PRIVATE LIMITED' - a private limited company), and it is unclear which is the actual supplier; the two cannot be the same legal entity. Declared HS 071290 (dried vegetables) is consistent with a spices/food business but is unverified and, per project rules, HS mismatch is not a rejection ground anyway. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found - absence of data is not evidence of absence. Recommended action: re-run verification when search/registry access is restored, and clarify with the requester which of the two names is the contracting party."
+}

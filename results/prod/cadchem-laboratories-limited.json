@@ -1,0 +1,20 @@
+{
+ "name_input": "CADCHEM LABORATORIES LIMITED",
+ "declared_hs": "293299;293329;293339;293359",
+ "actual_hs_list": [
+  "29334900 (Clopidogrel Bisulphate — antiplatelet, tetrahydrothienopyridine; quinoline-type heterocycle, not a pyrimidine/purine) — заявлено, не подтверждено",
+  "29337900 (Levetiracetam, Brivaracetam — pyrrolidinone/acetamide derivatives; not covered by 2933.29/2933.39/2933.59) — заявлено, не подтверждено",
+  "29334900 (Rosuvastatin Calcium, Pitavastatin — fluorophenyl/quinoline-pyrimidine statins; pyrimidine ring present, so 2933.59 is arguable for the pyrimidine moiety, but the marketed salts are usually classified 2933.49/2933.59 depending on structure) — заявлено, не подтверждено",
+  "29334900 / 29335900 (Rifaximin — rifamycin antibiotic, naphthoquinone/imidazole-type macrocycle; not a 2933.29/2933.39 compound) — заявлено, не подтверждено",
+  "29309099 (Strontium Ranelate — organo-sulphur compound, thiophene-carboxylate; sulphur-function organic, not hetero-nitrogen) — заявлено, не подтверждено",
+  "29335900 (Citicoline Sodium — pyrimidine nucleotide derivative; pyrimidine ring → 2933.59 plausible) — заявлено, не подтверждено",
+  "29350000 / 29359090 (Gliclazide — sulphonamide, N-containing sulphonylurea; Chapter 29 sulphonamides) — заявлено, не подтверждено",
+  "29362900 / 29369000 (Benfotiamine — vitamin B1 (thiamine) derivative, S-acyl thiamine; vitamin derivative heading 2936, not 2933) — заявлено, не подтверждено",
+  "29334900 (Ticagrelor, Apixaban, Rivaroxaban — under development; triazolo-pyrimidine / oxazolidinone / thiophene-carboxamide structures) — заявлено, не подтверждено",
+  "29335900 (Empagliflozin, Dapagliflozin — gliflozin C-glycosides; usually classified 2932/2933 depending on structure) — заявлено, не подтверждено"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт cadchem.com (раздел «Api», https://www.cadchem.com/api/) перечисляет реальный ассортимент: Regular API — Clopidogrel Bisulphate (антиагрегант), Levetiracetam и Brivaracetam (антиконвульсанты), Rosuvastatin Calcium (гиполипидемик), Rifaximin (антибиотик), Strontium Ranelate (остеопороз), Citicoline Sodium (психотроп), Gliclazide (антидиабет), Benfotiamine (диабетическая нейропатия). Under development — Ticagrelor, Rivaroxaban, Apixaban, Pitavastatin, Empagliflozin, Dapagliflozin. Профиль: «pure play API manufacturer» с 1995 г., площадка ~200 KL, cGMP, DMF/CEP по части продуктов (https://www.cadchem.com/manufacturing/). Все позиции — фармацевтические активные субстанции и интермедиаты, ни одной позиции из заявленных групп 2932.99 (прочие кислородсодержащие гетероциклы) в открытом каталоге не найдено.",
+ "role_hint": "manufacturer",
+ "comment": "Вердикт по HS: partial (несоответствие — НЕ основание для отклонения, компания сохраняется, коды корректируются). Заявленный набор 2932.99/2933.29/2933.39/2933.59 покрывает лишь часть реального ассортимента. Подтверждаемые по структуре: Citicoline Sodium (пиримидиновый нуклеотид → 2933.59), частично Rosuvastatin/Pitavastatin и Apixaban/Ticagrelor (пиримидиновое кольцо → 2933.59). Не покрываются заявленными кодами: Gliclazide (сульфонилурея, сульфонамиды → 2935), Benfotiamine (производное витамина B1 → 2936.29/2936.90), Strontium Ranelate (серосодержащее органическое → 2930.90), Levetiracetam/Brivaracetam (пирролидиноны → 2933.79), Clopidogrel (тиенопиридин → 2933.49), Rifaximin (рифампициновый макроцикл, обычно 2941/2933.49). Группа 2932.99 в каталоге не подтверждена ничем. Отраслевая классификация «Нефтегаз и химия» — мисс-классификация: компания фармацевтический производитель API, корректнее «Химия/фармацевтика (API)». Признаков трейдера нет: собственное производство, R&D, DMF/CEP, EHS-раздел. Все коды помечены «заявлено, не подтверждено», так как таможенные линии в рамках этой задачи не проверялись (по правилам роли — не исследовались). Данные о выручке/объёмах не проверялись и не приводятся."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "CADCHEM LABORATORIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковые системы (DuckDuckGo/searx, Bing, Brave) были недоступны или отдавали нерелевантные/429-ответы в течение всей сессии; OFAC Sanctions List Search — JS-форма без серверного результата. Прямая выгрузка OFAC SDN CSV (sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) получена, но в прочитанном фрагменте (алфавитно ранние записи, ~6000 симв.) совпадений по 'CADCHEM' нет — это НЕ является полнотекстовой проверкой, поэтому sanctions_hit оставлен null, а не false. Судебные дела (eCourts/High Court), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия (CDSCO, GPCB, EPCH) и признаки поставок в РФ/СНГ не проверены — данных нет, значения null, не выдуманы. Требуется повторный прогон при доступном поиске. По правилу 2 любые найденные санкции/суды/уголовные дела в дальнейшем не являются основанием для отклонения — только нейтральная пометка."
+}

@@ -1,0 +1,13 @@
+{
+ "name_input": "Kirloskar Chillars Private Limited",
+ "declared_hs": "903290",
+ "actual_hs_list": [
+  "841869 (refrigeration/chilling equipment, incl. water chillers — primary)",
+  "841861 (compression-type units with heat exchanger, heat pumps)",
+  "841459 / 841490 (fans, compressor parts — components, secondary)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Manufacturer of HVAC&R chillers: air-cooled Scroll chillers 11–44 TR (HFC-410A), Screw chillers, oil-free magnetic-bearing Centrifugal chillers (TURBOLEV KCM, TURBOLEV KSM/KDM, TURBOTEK), Data Center chillers, Heat Pumps; plus services, spares and rental chillers. Own plant at Rajewadi, Shirwal near Pune (100,000 sq ft, ISO 9001/14001/45001, AHRI 550/590 & 551/591 certified test bed). Sources: kirloskarchillers.com home page, /products/scroll, /products/centrifugal, /about/manufacturing-facilities.",
+ "role_hint": "manufacturer",
+ "comment": "HS 903290 (parts/accessories of automatic regulating or controlling instruments, Ch.90) is wrong: the company's declared product line is refrigeration/chilling machinery, not instruments. Correct HS-6: 841869 as the main code (water/air chillers), 841861 for heat pumps/compression units with heat exchanger. Industry claim 'IT и электроника' is a misclassification — the site lists IT only as an end-use industry (data centre cooling), not as the product category; actual industry is HVAC&R / industrial refrigeration engineering. No customs line was available to me (registry/customs research out of scope), so the mapping is based on the published catalogue only and is 'заявлено, не подтверждено' at shipment level. Per rule 3 the company is kept in the base with the code corrected; verdict accepted_hs_corrected. Trader signs: none found — own manufacturing facility and in-house compressor/heat-exchanger assembly indicate manufacturer; note the site also offers rental chillers and spares (service revenue line, not a trading role)."
+}

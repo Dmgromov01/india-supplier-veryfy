@@ -1,0 +1,9 @@
+{
+ "name_input": "TURBOVENT INDUSTRIES PVT LTD; TURBOVENT INDUSTRIES PRIVATE LIMITED; TURBOVENT INDUSTRIES PRIVATE LIMITED; TURBOVENT INDUSTRIES PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "РИСК-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных, а не «чисто». Технические обстоятельства: основной поисковый инструмент (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; резервные попытки через Bing отдавали нерелевантный закэшированный контент (результаты про Олимпиаду/Denver Broncos/Hulu), т.е. выдача непригодна; Google — HTTP 429; zaubacorp.com — HTTP 403. Инструмент поиска OFAC SDN (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, GET-запрос с именем не даёт результатов, поэтому проверка по SDN фактически не проведена. Итог: ни по одному из пунктов (санкции OFAC/UN/EU/UK/BIS, индийские суды, действия регуляторов и негативные новости, кредитный рейтинг, поставки в РФ/СНГ) подтверждающих или опровергающих источников получить не удалось. Все поля оставлены null намеренно — выдумывать данные запрещено. ВАЖНО: null здесь означает 'не проверено', а НЕ 'нарушений не найдено'; компанию нельзя считать проверенной и нельзя отклонять по этим данным (правило 2 и 3 — нет оснований для rejected). Требуется повторный прогон при работающем поиске, минимум по: OFAC SDN/consolidated list, BIS Entity List, EU/UK consolidated lists, eCourts/NCLT, Tofler/Zauba, кредитные агентства (CRISIL/ICRA/CARE), новостной поиск. Дополнительно: в исходной записи название дублируется 4 раза с вариациями (Pvt Ltd / Private Limited) — вероятно, артефакт дедупликации; фактическое юрлицо не подтверждено (это вне моего мандата)."
+}

@@ -1,0 +1,26 @@
+{
+ "name_input": "TAQDIR MECHANICAL WORKS; GANDHI SPICES PRIVATE LIMITED",
+ "declared_hs": "071290",
+ "actual_hs_list": [
+  "09109100",
+  "09042110",
+  "09042211",
+  "09042221",
+  "09109919",
+  "09109990",
+  "09103020",
+  "09101120",
+  "09083120",
+  "09096139",
+  "07122000",
+  "07129090",
+  "11063090",
+  "12079999",
+  "20019000",
+  "21039090"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт gandhispices.com (бренд Hathi Masala) прямо указывает юрлицо «Gandhi Spices Pvt Ltd», corporate office Rajkot, Gujarat 360110, завод «Hathi Masala Factory», Jamnagar–Rajkot Hwy, Rajkot, Gujarat 360110, тел. +91 9428211521, info@gandhispices.com. Реальный ассортимент по каталогу сайта: молотые специи — Red Chilli Powder (Lal Mirch), Kashmiri Chilli Powder, Resham Patti Chilli Powder, Rajapuri Turmeric Powder, Coriander Cumin Powder (Dhana Jeera); категории каталога — Everyday Masala (Chili Powder, Turmeric Powder, Coriander Cumin Powder), Whole Spices, Blended & Cooking (Blended Spices, Vegetable Masala, Non-veg Masala), Seasoning, Pickle Masala, Salts, Health & Others (Immunity Masala, Fasting Flour, Super Seeds, Pulses and Dal); отдельно в меню — Dry Ginger Powder, Garlic Powder, Tea Masala, Chole Masala, Chaat Masala. Позиционирование: «India's #1 Cryogenic Spice Brand | Ground at −150°C», PAN-India delivery, розничные точки (Rajkot, Jamnagar, Ahmedabad) + bulk inquiry. Основная масса продукции — молотые/смешанные специи (гл. 09), а не сушёные овощи.",
+ "role_hint": "manufacturer (переработчик/фасовщик специй, собственный завод в Раджкоте; признаков чистого трейдера нет, но есть розничная сеть и bulk-направление)",
+ "comment": "Заявленный код 071290 («прочие сушёные овощи, целые/резаные/дроблёные/порошок, но не подвергнутые дальнейшей обработке») подтверждается лишь частично и в основном не соответствует фактическому ассортименту. Реальные продукты — молотые и смешанные специи: перец чили молотый → 0904.21/0904.22; куркума молотый → 0910.30; кориандр/кумин молотые → 0909.21/0909.31 (смесь Dhana Jeera — 0910.91); сушёный имбирь молотый (Dry Ginger Powder) → 0910.12; чеснок сушёный молотый (Garlic Powder) → 0712.90 (единственная позиция, реально попадающая в 0712); смеси масала (Chaat, Chole, Tea, Vegetable, Non-veg, Pickle Masala) → 0910.91 (смеси специй) либо 2103.90 при наличии соли/приправ; соль → 2501.00; семена (Super Seeds) → 1207/1209; бобовые/дал → 0713; мука для поста (Fasting Flour, Singhara/rajgira и т.п.) → 1106.30/1102.90. Итог: 071290 как основной код неверен — он покрывает только сушёный молотый чеснок/овощные порошки, которых в каталоге меньшинство; корректная база — 0904/0909/0910 (специи) с 0910.91 для смесей. HS-несоответствие НЕ является основанием для отклонения: компания сохраняется в базе, код исправляется на фактический, вердикт accepted_hs_corrected. Оговорка: соответствие конкретных партий таможенным строкам не проверялось (вне рамок роли) — весь ассортимент по сайту имеет статус «заявлено, не подтверждено». Второе имя в записи — «TAQDIR MECHANICAL WORKS» — по открытым источникам не связано с Gandhi Spices (механические работы vs пищевое производство); вероятна склейка двух разных контрагентов в одной записи, требует разделения. Отраслевая классификация «Продукты питания и FMCG» корректна. Признаки трейдера: розничная сеть, кафе Hathi Masala, bulk inquiry — но при наличии собственного завода роль manufacturer."
+}
