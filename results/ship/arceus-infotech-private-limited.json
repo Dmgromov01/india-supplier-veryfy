@@ -1,0 +1,8 @@
+{
+ "name_input": "Arceus Infotech Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'arceus-infotech-private-limited' returned only the generic template shell: \"Shipments available for ARCEUS INFOTECH PRIVATE LIMITED, refreshed daily\" — zero actual shipment rows rendered (0 rows seen, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes). Second slug variant 'arceus-infotech-pvt-ltd' returned the identical boilerplate with 0 rows. No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search backend (DuckDuckGo/searx) was unavailable during this run (connection refused), and volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что отгрузок не было: источники были недоступны (ImportKey отдаёт только заглушку без строк, volza/eximpedia/trademo — 403, поисковик не работал). Статус по обоим направлениям — unknown, а не none_found, поскольку проверка фактически не состоялась. Заявленный HS 844332;847150 (принтеры/МФУ и блоки обработки данных) ничем не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}

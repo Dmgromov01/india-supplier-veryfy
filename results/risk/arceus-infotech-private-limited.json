@@ -1,0 +1,9 @@
+{
+ "name_input": "Arceus Infotech Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing отдавал только нерелевантные закэшированные результаты (Pokémon 'Arceus') независимо от формулировки запроса; Google — HTTP 429; агрегаторы (zaubacorp.com, thecompanycheck.com) — HTTP 403; интерактивный поиск OFAC SDN (sanctionssearch.ofac.treas.gov) через http_get недоступен (страница отдаёт 'An error has occured', поиск требует POST/JS). Никаких данных по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), индийским судам, действиям регуляторов, негативным новостям, кредитному рейтингу и поставкам в РФ/СНГ получить не удалось. Все поля оставлены null — это означает 'не проверено / нет публичных данных в доступных источниках', а НЕ 'чисто'. Ложных утверждений об отсутствии санкций или судов не делаю. Требуется повторный прогон при работающем поиске, либо проверка вручную по: OFAC SDN/Consolidated List, EU Consolidated List, UK OFSI, BIS Entity List, eCourts/NCLT/IBBI, Zauba Corp/Tofler, CRISIL/ICRA/CARE, таможенным данным об экспорте в РФ/СНГ. Юрлицо, HS-коды и объёмы отгрузок в рамках этой роли не исследовались."
+}
