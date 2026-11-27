@@ -1,0 +1,9 @@
+{
+ "name_input": "Weltech Exports",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: открытых данных не найдено. Поиск по точной фразе \"Weltech Exports\" в Bing (cc=IN, en) вернул явное \"There are no results for \"Weltech Exports\"\" (https://www.bing.com/search?q=%22Weltech+Exports%22&setlang=en&cc=IN). Вариант запроса \"Weltech\" exports India company дал только нерелевантную выдачу (Punjab Kings и т.п.), т.е. совпадений по компании нет. Внутренний поисковый бэкенд (searx) был недоступен на протяжении всей сессии (Connection refused), DuckDuckGo/Google/Brave отдали таймауты и 429, ZaubaCorp — 403. Поэтому проверить санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), индийские судебные дела (eCourts/NCLT), действия регуляторов, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ по конкретным записям не удалось. Все поля оставлены null — данных нет, ничего не выдумываю. Отсутствие результатов поиска НЕ является доказательством отсутствия санкций, судов или поставок; это лишь означает, что публичных следов по данному написанию названия не обнаружено. Рекомендация: запросить у поставщика точное юрлицо (CIN/PAN/GSTIN) и проверить повторно по нему — возможны иные написания (Weltech Export, Welltech Exports, Weltech International). Санкционных, судебных или криминальных оснований для отклонения не установлено; по правилу 2 такие основания в любом случае не являются причиной отклонения."
+}
