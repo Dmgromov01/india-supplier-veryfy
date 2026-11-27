@@ -1,0 +1,9 @@
+{
+ "name_input": "VIRAJ PROFILES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verified findings, all fields null. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only irrelevant/spam results (Amazon, supplement ads) for all three query variants, so no usable search layer existed. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form — the fetched page contains only the empty search UI and no lookup results, so no name match could be executed or confirmed. Only substantive source retrieved: company website viraj.com, which self-describes as a stainless steel long-products manufacturer/exporter (wire rods, wires, fasteners, bright bars, profiles, flanges), 90+ countries, ~1,300 customers, claimed turnover USD 1.5 bn. Per project rule 5 this is a company self-declaration only — 'заявлено, не подтверждено' — and it says nothing about sanctions, litigation, regulator action, credit rating or RF/CIS supply. No evidence of supplies to Russia or the CIS was found, but absence here reflects failed search, not a cleared check. No court records (NCLT/High Court), regulator actions, negative news, or credit rating (CRISIL/ICRA/CARE) could be retrieved; these are NOT confirmed clean — they are unverified. Recommend re-running this company when the search backend is restored, with direct checks of OFAC SDN/consolidated list, BIS Entity List, UN/UK/EU lists, NCLT and eCourts, and CRISIL/ICRA/CARE rating pages. Per rule 2, any sanctions/court/criminal findings that later surface are to be noted neutrally as 'есть сложности' and are not rejection grounds."
+}

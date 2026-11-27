@@ -1,0 +1,18 @@
+{
+ "name_input": "R V GLOBAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни одна публичная запись не подтверждена. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; агрегаторы реестров ZaubaCorp, InstaFinancials — HTTP 403, Tofler — 404 на поисковых URL, MCA master-data — 403; Bing по запросам '\"R V GLOBAL\" \"ROHINI VERMA\"' и '\"R V Global\" GSTIN India' выдал нерелевантную выдачу (R-project, Roblox), т.е. совпадений не найдено. Входные данные противоречивы: в поле name указано 'R V GLOBAL', в поле legal_claimed — 'ROHINI VERMA' (похоже на имя физлица/проприетора, а не на юрлицо), PAN и штат не заявлены. Возможные варианты: (а) проприетарное дело / partnership под торговой маркой 'R V Global' — тогда CIN отсутствует по определению, а PAN/GSTIN принадлежат физлицу и в открытых источниках не найдены; (б) ООО с названием 'R V Global Private Limited', которое не удалось верифицировать. Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус не подтверждены — все поля оставлены null, ничего не выдумано. Выручка FY25/FY26 недоступна (нет подтверждённой сущности и аудиторской отчётности). Роль не определена (unknown). Отклонение НЕ применяется: отсутствие подтверждения существования в доступных источниках не равно доказанному отсутствию юрлица (правило 3). Требуется от заказчика точное юрлицо (полное название с суффиксом Private Limited/LLP), CIN или GSTIN, либо повторная проверка при восстановлении доступа к реестрам."
+}

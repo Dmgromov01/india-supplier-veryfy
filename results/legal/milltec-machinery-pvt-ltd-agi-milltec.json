@@ -1,0 +1,18 @@
+{
+ "name_input": "Milltec Machinery Pvt. Ltd. (AGI Milltec)",
+ "legal_name": "Milltec Machinery Private Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Entity existence confirmed indirectly: milltec.in (AGI corporate site) presents 'AGI Milltec' as an AGI (Ag Growth International) commercial brand manufacturing rice/pulses/maize processing equipment, so the operating company exists and is a manufacturer, not a trader. However, no registry data could be retrieved: web_search backend was down (connection refused) and all registry aggregators attempted (zaubacorp, thecompanycheck, tofler, falconebiz, instafinancials) returned 403/404, while Bing/Google/DuckDuckGo returned irrelevant results or rate-limit errors. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public via accessible sources in this session, not invented. No rejection grounds found (no evidence of strike-off, liquidation or bankruptcy), so the company is retained. Revenue FY25/FY26 null: no audited accounts or MCA filings accessible; AGI reports consolidated group figures only, which cannot be attributed to this Indian subsidiary. State claimed in input was empty, so no state mismatch can be assessed. HS 843610 (machinery for animal feed preparation) does not match the actual product line (rice/grain milling and processing machinery, more consistent with 8437); per project rules this is not a rejection ground - flag for HS correction to the factual code."
+}
