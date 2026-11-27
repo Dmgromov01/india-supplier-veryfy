@@ -1,0 +1,8 @@
+{
+ "name_input": "INDO GERMAN CARBONS LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company pages for both slug variants (indo-german-carbons-ltd and indo-german-carbons-private-limited) render only the generic template text: \"Shipments available for INDO GERMAN CARBONS LTD, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were visible. Rows actually seen: 0. Counter: page claims data exists, but 0 records displayed.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. IndiaMART page returned HTTP 429, Trademo and Eximpedia returned HTTP 403, and web_search (DuckDuckGo/searx) was down for the whole session; Bing returned only unrelated spam results. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных записей (нет ни одной строки с датой, направлением, HS и номером B/L), ни подтверждений внутренних поставок (GST-оборот, тендеры GeM/CPPP, контракты). Всё, что есть, — это шаблонная фраза ImportKey о наличии данных, то есть заявлено, не подтверждено. Заявленный HS 380210 (активированный уголь) не проверен по фактическим отгрузкам; несоответствие HS по правилам проекта не является основанием для отклонения. Юрлицо не проверялось на ликвидацию/банкротство в рамках этой роли (реестры вне области). Выручка и объём экспорта: null — публичных данных получить не удалось, цифры не выдумывались. Требуется повторный прогон при доступных источниках (Volza/Eximpedia/Trademo free view, GST-портал, GeM)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "KIRPAL EXPORT OVERSEAS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд DuckDuckGo возвращал 'Connection refused', Bing отдавал нерелевантную выдачу (Home Depot, NHL, vClock) вместо результатов по запросу, Google — HTTP 429, Zaubacorp/Instafinancials — HTTP 403, TheCompanyCheck — HTTP 404, портал MCA (search.mca.gov.in) не резолвится. Ни одного подтверждённого реестрового документа (CIN/LLPIN, PAN, GSTIN, дата регистрации, MCA-статус) не найдено, поэтому все поля оставлены null — данные не выдумывались. Название 'KIRPAL EXPORT OVERSEAS' по форме не похоже на имя компании с суффиксом Private Limited/Limited/LLP: вероятно, это торговое наименование индивидуального предприятия (proprietorship) или партнёрства, у которого CIN отсутствует по определению, а PAN/GSTIN не публикуются в открытых реестрах. Роль определить невозможно — 'unknown'. Отклонение НЕ применяется: отсутствие публичных данных не является доказательством несуществования юрлица (правило 3 — отклонять только при подтверждённой ликвидации/банкротстве/отсутствии юрлица). Требуется доработка: получить от поставщика GSTIN и PAN-карту, либо повторить проверку при доступном поиске/реестре. Выручка FY25/FY26 — null, аудированной отчётности в открытом доступе не найдено."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Kuvera Minerals & Chemicals Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research largely inconclusive due to tool failures: DuckDuckGo/searx backend refused connections on all attempts; Bing returned unrelated results (query not honoured); ZaubaCorp returned HTTP 403; OpenSanctions API returned HTTP 401 (no key). What was actually verified: (1) IndianKanoon full-text search for the exact string \"Kuvera Minerals and Chemicals\" returned 'No matching results' (https://indiankanoon.org/search/?formInput=%22Kuvera%20Minerals%20and%20Chemicals%22, checked today) — i.e. no reported judgment naming the company as a party was found, which is NOT proof of absence of litigation, only absence in that database. (2) A looser IndianKanoon search for 'Kuvera Minerals' returned 3 unrelated matters (Sangharsh Sewa Samiti v. State of Rajasthan, Rajasthan HC Jodhpur, 29.09.2021; Jindal Saw Ltd v. M/s Balaji Cargo, Rajasthan HC Jodhpur, 17.07.2026; Shiv Lal Salvi v. Union of India, NGT, 28.04.2023) — none of these name the company as a party, so they are not attributed to it. (3) No sanctions screening could be completed: OFAC SDN, UN, EU, UK and BIS Entity List were not queried successfully, so sanctions_hit is null = NOT SCREENED, not 'clear'. (4) No credit rating found; no rating agency page located. (5) No negative news found, but news search was non-functional, so this is not a clean bill of health. (6) No evidence of supplies to Russia or CIS found — nothing public surfaced, but coverage was too thin to conclude absence. Per project rules this is a trader/manufacturer-agnostic risk note only; nothing here is a rejection ground. Recommend re-running sanctions screening (OFAC/UN/EU/UK/BIS) and a registry/court check manually before any decision."
+}

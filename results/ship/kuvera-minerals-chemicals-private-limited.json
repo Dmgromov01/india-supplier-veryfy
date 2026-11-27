@@ -1,0 +1,8 @@
+{
+ "name_input": "Kuvera Minerals & Chemicals Private Limited",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/kuvera-minerals-and-chemicals-private-limited returned only a generic page shell: \"Shipments available for KUVERA MINERALS AND CHEMICALS PRIVATE LIMITED, refreshed daily\" — zero actual shipment rows rendered (0 rows seen; no date, destination, HS code or B/L number). No other source returned a record.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was retrieved. thecompanycheck.com, eximpedia.app, volza.com, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; DuckDuckGo search backend returned connection refused and lite.duckduckgo.com timed out. 0 domestic evidence rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники таможенных данных (ImportKey, Volza, Eximpedia, ImportGenius, Trademo) оказались недоступны или отдали пустую оболочку без строк, а поисковый бэкенд не работал. Поэтому статус по экспорту и по внутреннему рынку — unknown, а не none_found: отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Ни одной записи с датой, направлением, HS-кодом или номером B/L не получено; выручка и объём экспорта — null, не выдумывались. Заявленный HS 320740 (стеклянная эмаль/глазурь, фритта) не подтверждён и не опровергнут. Требуется повторная проверка при доступном источнике таможенных записей."
+}
