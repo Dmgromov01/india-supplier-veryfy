@@ -1,0 +1,18 @@
+{
+ "name_input": "DIVINE AURA HANDICRAFTS",
+ "legal_name": "DIVINE AURA HANDICRAFTS (unverified; input suggests a sole proprietorship of POOJA MAHESH PARAB — no registry record found)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "not applicable / not found — no LLPIN or CIN located, so no MCA record could be checked",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry research could not be completed: the web_search backend returned connection errors ('searx: Connection refused') for every query, and direct fetches of Google (HTTP 429), DuckDuckGo (timeout), Bing (returned only generic dictionary results for 'divine', no entity hits), Zauba Corp (HTTP 403), InstaFinancials (HTTP 403) and Tofler (404 on search URL) produced no usable record. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source. Nothing is inferred or invented: all registry fields are null. Note on structure: the input pairs a trade name ('DIVINE AURA HANDICRAFTS') with a personal name ('POOJA MAHESH PARAB'), which is the typical pattern of a proprietorship or a small partnership firm rather than a company — such entities have no CIN/LLPIN and no MCA filing, and their PAN 4th character would be 'P' (individual) or 'F' (firm); this is a format-level observation only, NOT a verified PAN. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way — the record is simply unverified. Recommended next step: re-run with a working search backend, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal (gst.gov.in search taxpayer) and, if a firm/company, on MCA. Also flag for the data team: declared HS 732393 (stainless-steel kitchen/household articles) contradicts the claimed industry 'Продукты питания и FMCG' (food/FMCG) — per rule 3 this is not a rejection ground; the code should be corrected to the actual product and the verdict recorded as accepted_hs_corrected once the entity itself is verified."
+}

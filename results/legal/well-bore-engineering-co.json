@@ -1,0 +1,18 @@
+{
+ "name_input": "WELL BORE ENGINEERING CO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; direct fetches of registry aggregators blocked (zaubacorp.com 403, instafinancials.com 403, thecompanycheck.com search gated behind login); Google returned HTTP 429; Bing returned only irrelevant generic results ('well' dictionary/Wells Fargo) for both quoted queries. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. All fields set to null per rules - nothing invented. NOT rejected: absence of verifiable data is not proof of non-existence, and rejection is permitted only for non-existent/struck-off/liquidated/bankrupt entities. Role left 'unknown' (name suggests engineering/wellbore services, but this is inference, not a registry fact). Declared HS 841199 (gas turbine parts) is not assessed here - out of scope for this role and not a rejection ground per project rules. Action required: re-run with working search access, or obtain the company's CIN/GSTIN/PAN from the supplier directly, then verify on MCA/GST portal."
+}

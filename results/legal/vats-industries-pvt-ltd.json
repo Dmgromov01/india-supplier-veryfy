@@ -1,0 +1,18 @@
+{
+ "name_input": "Vats Industries Pvt ltd",
+ "legal_name": "VATS INDUSTRIES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; Bing returned only irrelevant cached results (medical 'VATS' surgery pages) for all three query variants; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; tofler.in and instafinancials.com returned 404 for the guessed URL slugs. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures were obtained from any official or public source, so all such fields are null rather than inferred. The name 'Vats Industries Pvt Ltd' is a very common Indian trade name and there are likely multiple similarly named entities; without a CIN or GSTIN from the input it is not possible to disambiguate which legal entity is meant. NOT rejected: absence of retrievable records is not evidence of non-existence, and per project rules rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' - no evidence of manufacturing plant, GST turnover or trade activity was found either way. Note also that declared HS 300610 (pharmaceutical/wound-care goods, e.g. sterile sutures, dental cements) is inconsistent with the claimed industry 'food & FMCG'; per rules this is not a rejection ground - the HS code should be corrected to the actual product line once the entity is identified. Recommended next step: re-run with a CIN, GSTIN or PAN supplied by the client, or with working search access, to confirm the exact legal entity, registered state and FY25/FY26 audited revenue."
+}

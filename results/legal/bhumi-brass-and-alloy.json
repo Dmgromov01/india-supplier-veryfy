@@ -1,0 +1,18 @@
+{
+ "name_input": "BHUMI BRASS AND ALLOY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни одного подтверждённого реестрового следа не найдено. Проверка 23.11.2026: поисковый бэкенд (searx/DuckDuckGo) недоступен (connection refused / timeout), Google вернул 429, Bing по запросам \"BHUMI BRASS AND ALLOY\", \"Bhumi Brass & Alloy\", \"Tushar Premchand Khimasia\", \"Khimasia brass Jamnagar\" выдал только нерелевантные результаты (bhumi.atrbpn.go.id, bhumi.ngo, bhumiorganic.com и т.п.) — совпадений с искомым названием нет. Zaubacorp отдаёт 403, Tofler по поиску — 404, IndiaMART — 429. Входные данные противоречивы: в поле legal_claimed указано физлицо (TUSHAR PREMCHAND KHIMASIA), а не юрлицо, что типично для единоличного предприятия (proprietorship) или партнёрства — у таких образований нет CIN и нет аудиторской отчётности в MCA, поэтому CIN, MCA-статус, дата регистрации и выручка FY25/FY26 принципиально не публичны (null, не выдуманы). PAN и GSTIN не подтверждены ни одним публичным профилем; 4-й символ PAN (тип держателя) определить невозможно, так как сам PAN не найден. Штат регистрации не установлен, state_claimed в исходных данных пуст. Роль (manufacturer/trader) не определена — каталоги и сайты по правилам проекта фактом не считаются. HS 853890 (части электрической аппаратуры) с названием 'Brass and Alloy' согласуется по смыслу (латунные детали), но фактический код не подтверждён — HS-несоответствие основанием для отклонения не является. ВЕРДИКТ: НЕ отклонять — отсутствие публичных данных не равно несуществованию юрлица; отклонение допустимо только при подтверждённой ликвидации/банкротстве/struck off, чего здесь нет. Статус: требует дополнительной проверки через платный реестр (MCA Master Data / GST-портал по PAN физлица) или запроса документов у поставщика (GST-сертификат, PAN, Udyam). Следов поставок не проверял — вне рамок роли (legal/registry only)."
+}
