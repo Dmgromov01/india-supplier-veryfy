@@ -1,0 +1,18 @@
+{
+ "name_input": "Jayshree Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input gives no legal entity name (the 'legal_claimed' field contains a personal name, 'BANSHINATH BHIMNATH SWAMI', which is a proprietor/partner name, not a company name), no PAN and no state, so there is no reliable key to match against MCA/GST records. Searches for 'Jayshree Industries' together with 'Banshinath Bhimnath Swami' returned no relevant hits (DuckDuckGo backend was down; Bing returned unrelated results), and the registry aggregators attempted (zaubacorp.com, instafinancials.com, tofler.in) returned HTTP 403/404 or no matching profile. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not found, not invented. Role left as 'unknown': the name pattern and the presence of a personal name suggest a proprietorship or small partnership rather than a registered company, but this is unconfirmed. Revenue FY25/FY26 null - no audited accounts or official filings located. NOT rejected: absence of a verifiable record in this session is not proof of non-existence; the entity may be an unregistered proprietorship (which would have no CIN at all). Recommended next step: obtain the GSTIN or the exact trade name/address from the supplier and re-run against the GST portal and MCA. HS codes 071040 (sweet corn, frozen) and 200110 (cucumbers/gherkins preserved by vinegar) are plausible for a food-processing unit but were not assessed here per role scope."
+}
