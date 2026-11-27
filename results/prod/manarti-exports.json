@@ -1,0 +1,26 @@
+{
+ "name_input": "Manarti Exports",
+ "declared_hs": "660200;902110;902511",
+ "actual_hs_list": [
+  "9018.90",
+  "9018.31",
+  "9018.32",
+  "9021.10",
+  "9021.29",
+  "9402.90",
+  "3005.90",
+  "3005.10",
+  "3006.10",
+  "9018.39",
+  "9018.19",
+  "9022.14",
+  "9018.11",
+  "9018.12",
+  "9402.10",
+  "9401.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт manartiexports.com (главная страница, прочитана 1 раз): компания позиционирует себя как «India's Most Trusted Medical Equipment & Devices Manufacturer» и «specialized medical disposables, devices, systems, and hospital equipment supplier». Реальные товарные линии по каталогу на главной: Surgical Equipments / Surgical Instruments; Medical Sutures; Hollowware; Sterilizers; Medical Disposables; Urology, Gastroenterology, Oncology, Gynecology, Anesthesia, Transfusion, General Surgery, Pathology Lab; Hospital Dressings, Bandages, Medical Swabs, Medical Cotton, Dressing Tape, Wound Dressings; Uniforms and Linen; Rehab & Physio (abdominal supports, cervical aids, fracture aids, knee & ankle support, physiotherapy products); Hospital Furniture (ICU beds, Fowler & Semi-Fowler beds, ward beds, examination couch, bedside lockers, over-bed tables, stretcher trolleys); Operation Theatre equipment; Suction Machine; Laboratory and Reagents, Rapid Test Kits, Lab consumables; ICU & NICU care equipment; Diagnostics; Cardiology; Radiology; Patient Monitoring; OPD; Pulmonology; Emergency Care, First Aid Kits. Заявлены ISO 9001:2015, ISO 13485:2016, CE marking, FDA approvals для части устройств и катетеров — всё это заявлено, не подтверждено (сертификаты на сайте не открывались, подстраницы /about, /contact, /products/* возвращают 404).",
+ "role_hint": "trader",
+ "comment": "СООТВЕТСТВИЕ HS: частичное. Из трёх заявленных кодов подтверждается только один. (1) 9021.10 (orthopaedic appliances / fracture aids) — подтверждён: в каталоге есть «Fracture Aids», «Cervical Aids», «Abdominal Supports», «Knee & Ankle Support» — это ортопедические изделия, HS 9021.10 корректно. (2) 9025.11 (thermometers, liquid-filled) — НЕ подтверждён: термометров в каталоге на главной нет; есть «Diagnostics» и «Patient Monitoring», но конкретика не раскрыта — заявлено, не подтверждено. (3) 6602.00 (walking sticks, whips, riding-crops) — НЕ подтверждён и выглядит ошибочным: трости/ходунки в разделе Rehab & Physio прямо не названы (перечислены только supports/aids и physiotherapy products); вероятно, код взят по аналогии с «rehab aids», но фактически не подтверждён — заявлено, не подтверждено. ОСНОВНАЯ ПРОБЛЕМА: заявленная тройка кодов покрывает лишь узкую периферию ассортимента. Ядро бизнеса — хирургические инструменты и оборудование (9018.90, 9018.31/32 шприцы и иглы), медицинские расходники и перевязочные материалы (3005.90, 3005.10, 3006.10), шовный материал (3006.10), мебель и кровати (9402.90, 9402.10), рентген/визуализация (9022.14) — в декларации отсутствует полностью. ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявленная отрасль «Строительство и DIY» не соответствует действительности — компания медицинская (медизделия, расходники, больничная мебель). Код 6602.00 (трости/хлысты) — типичный артефакт неверной отраслевой привязки. ПРИЗНАКИ ТРЕЙДЕРА: сайт называет себя и «manufacturer», и «supplier»/«export specialists», товары «manufactured at state-of-the-art production facilities» без указания адресов заводов; каталог крайне широкий (от шовного материала до больничных коек и рентгена) — типично для трейдера/сборщика заказов с OEM. Роль: trader (возможно manufacturer_trader, но производственные площадки не подтверждены). ВЕРДИКТ: компания сохраняется, HS-коды корректируются на фактические; отклонения по HS нет (правило 3). Все товарные линии — заявлено, не подтверждено: таможенных деклараций и B/L в рамках этой проверки не исследовалось (по заданию)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S. MEHTA HYDRAULICS & HOSES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The name pattern 'M/S. ...' plus a personal name in the legal_claimed field ('KUNAL PRAFULCHANDRA MEHTA') indicates a sole proprietorship, not a company: proprietorships have no CIN/LLPIN and no MCA status, so those fields are structurally null rather than merely unpublished. No PAN, GSTIN, GST status, incorporation date or registered state could be retrieved: the DuckDuckGo search backend returned connection errors on both queries, Google returned HTTP 429, Zaubacorp returned HTTP 403, Tofler returned a 404 for the search path, and Bing returned only unrelated geo-mismatched results (Polish news portals, CNN, BBC) with no hit for the entity. KnowYourGST's name-search page loaded but is an interactive form that cannot be queried via plain HTTP GET, so no GSTIN was obtained. No audited accounts or official filings were located, therefore revenue FY25 and FY26 are null and were not estimated. Role left as 'unknown' because no evidence of manufacturing facility or trading activity was retrievable from a registry source. Per project rules this entity is NOT rejected: absence of public data is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found. Recommended next step: obtain the GSTIN or PAN directly from the supplier, then re-verify on the GST portal and, if a PAN is supplied, check the 4th character to confirm holder type (P = individual/proprietor, consistent with the claimed personal name)."
+}

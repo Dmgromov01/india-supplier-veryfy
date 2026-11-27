@@ -1,0 +1,9 @@
+{
+ "name_input": "SATYAM IMPEX",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search tool (DuckDuckGo/searx) returned 'Connection refused' on every attempt, and fallback fetches to Google (HTTP 429), DuckDuckGo HTML (timeouts) and Bing (returned unrelated results, query terms apparently stripped) produced no usable pages. The OFAC Sanctions List Search page was reachable but is a JavaScript application, so no name lookup result could be obtained via plain HTTP. Therefore NO verification was performed for this company and every field is null — this is an absence of data, not a clean result. Do not read the nulls as 'no sanctions', 'no court cases' or 'no Russia/CIS supply'; they are simply unverified. Nothing is known publicly about a firm trading as 'Satyam Impex' associated with Hardik Jayantibhai Sanchaniya (claimed Morbi/Gujarat ceramic-tile context per declared HS 690721); no sanctions listing, court record, regulator action, credit rating or Russia/CIS shipment evidence was found or ruled out. Recommend re-running this company once the search backend is restored, checking: OFAC SDN/consolidated list, UN and EU consolidated lists, UK OFSI, BIS Entity List, Indian eCourts/NCLT by party name, and Indian credit-rating agency sites (CRISIL/ICRA/CARE/Acuite) — noting that a small proprietorship/partnership of this type typically has no public credit rating, in which case rating should remain null with that explanation."
+}
