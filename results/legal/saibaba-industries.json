@@ -1,0 +1,18 @@
+{
+ "name_input": "SAIBABA INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry identity NOT established. The input gives no CIN, PAN, GSTIN or state; the only identifying element is the proprietor name 'GIRDHARI LAL BADHHWANI', which appears to be a sole-proprietorship style name rather than a company. Searches for 'SAIBABA INDUSTRIES' + 'Badhhwani' / 'Girdhari Lal' returned only unrelated results (Shirdi Sai Baba trust sites, Rajasthan Girdawari portals, a cricketer, a US court case) - no MCA/ROC record, no GST public profile, no Udyam/company page. ZaubaCorp and InstaFinancials blocked (HTTP 403); DuckDuckGo backend refused connections; Google returned HTTP 429. Therefore legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null - not public / not found, NOT invented. PAN holder type cannot be derived because no PAN was found (4th-character rule not applicable). Role left 'unknown': no evidence of manufacturing plant, no evidence of trading activity, no registry filing. Per project rules this is NOT a rejection ground (entity existence unconfirmed, not proven non-existent or struck off), so the record is kept with nulls pending a CIN/GSTIN or state from the requester. Declared HS 120740 (sesame seeds) is not a rejection ground and is not verified here. Revenue: no audited accounts or official filings located, so null per rule 4."
+}

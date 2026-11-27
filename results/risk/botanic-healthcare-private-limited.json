@@ -1,0 +1,18 @@
+{
+ "name_input": "BOTANIC HEALTHCARE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Himachal Pradesh High Court",
+   "case": "Court On Its Own Motion vs. Union of India",
+   "date": "2025-12-17",
+   "party_role": "named company in a suo motu (court-initiated) matter; company is listed among companies referenced in the order, not shown as a defendant/accused",
+   "status": "pending / order dated 17.12.2025; nature of the underlying issue not established from the available snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Botanic%20Healthcare%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) was reachable only as a search form and returned no query results, and the web_search backend (searx) was down for the whole session ('Connection refused'), so UN, EU, UK and BIS Entity List screens could not be run. Treat sanctions_hit as 'not checked', not 'clear'. Court: one record found on Indian Kanoon — Himachal Pradesh High Court, 'Court On Its Own Motion vs. Union of India', order dated 17.12.2025, in which 'M/s Botanic Healthcare Pvt. Ltd. Bilaspur' is named alongside other companies. This is a court-initiated matter, not a suit against the company; role and outcome are unconfirmed because the full order text was not retrieved. Per project rules this is not a rejection ground and is noted neutrally. Rating: no credit rating found; CRISIL/ICRA/CARE/India Ratings searches could not be executed (search backend down) — null, not public/not found. News/regulator: no negative news or regulator action found; searches returned only unrelated 'botanic' results (gardens, retail brands), so absence of findings here is a tooling limitation, not evidence of a clean record. RF/CIS supply: no evidence found of supplies to Russia or the CIS; the company's own site (https://www.botanichealthcare.com/) lists India | USA | New Zealand | Australia | Germany | South Korea presence and trade-show participation in India, USA, Spain, China, Korea, Malaysia — no Russia/CIS mention. This is a website claim, not a shipment record, so it is 'declared, not confirmed'. Identity note only (not researched per role): site gives address TSIIC Industrial Development Area, Plot 16/1/12 & 13, Nacharam (V), Uppal (M), Hyderabad, Telangana 500076; the court record refers to a Bilaspur (Himachal Pradesh) entity of the same name — whether these are the same legal person was not verified and should be resolved by the legal-identity researcher. Overall: no rejection grounds identified, but sanctions, rating and news checks are incomplete due to tool failure and must be re-run."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "SSSA INDUSTRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибки соединения; Bing по точным запросам \"SSSA Industries Private Limited\", \"SSSA Industries\" India company director и \"SSSA Industries\" Russia export sanctions выдал только нерелевантную выдачу (India TV, Walmart, Gardener's Supply) — то есть совпадений по названию не найдено, но это НЕ доказательство отсутствия санкций/судов, а признак недоступности релевантных источников. Zauba Corp отдал HTTP 403, Google — HTTP 429. Поэтому все поля null: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не сверены, судебные дела (eCourts/NCLT/HC) не проверены, рейтинг (CRISIL/ICRA/CARE/India Ratings) не найден, негативные новости не проверены, признаков поставок в РФ/СНГ не искали в доступных источниках. Никаких данных не выдумываю. Требуется повторный прогон при работающем поиске и доступе к реестрам (MCA, eCourts, NCLT, OFAC/EU/UK консолидированные списки). Отклонение по правилу 2 не применяется и не предлагается."
+}

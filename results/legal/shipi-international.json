@@ -1,0 +1,18 @@
+{
+ "name_input": "SHIPI INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: ни один реестровый источник не открылся. web_search (DuckDuckGo/Searx) вернул 'Connection refused'; Bing отдал нерелевантную выдачу; zaubacorp.com — HTTP 403; thecompanycheck.com — 404; instafinancials.com — 404; gstinsearch.in — DNS failure; mca.gov.in и search.mca.gov.in — 403 / DNS failure. Следовательно, точное юр. наименование, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA, роль и выручка FY25/FY26 — null: не подтверждено публичными источниками, цифры не выдумывались. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не является основанием для rejected (правило 3: отклонение только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Также нет оснований для accepted_hs_corrected: HS 848280 (подшипники качения) не проверялся по факту деятельности, т.к. каталоги/отгрузки вне моей роли. Требуется повторный прогон при доступных реестрах (MCA master data, GST-портал) — статус: не проверено, данные отсутствуют."
+}
