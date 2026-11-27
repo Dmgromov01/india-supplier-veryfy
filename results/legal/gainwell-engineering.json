@@ -1,0 +1,18 @@
+{
+ "name_input": "Gainwell Engineering",
+ "legal_name": "GAINWELL ENGINEERING PRIVATE LIMITED (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search returned 'searx: Connection refused' on both queries; subsequent Bing/Google/DuckDuckGo fetches returned HTTP 429/timeouts or completely irrelevant results (unrelated Seattle-events and dog-food pages), i.e. the search backend was malfunctioning. Direct fetches of registry aggregators all blocked: zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, instafinancials.com 404 (wrong slug, cannot confirm correct slug without search), tofler.in 404, mca.gov.in MDS 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings were accessible; no figures invented. Role left 'unknown' - the claimed HS codes 842911/842959/843149 (bulldozer/earth-moving machinery parts) suggest a manufacturer or manufacturer-trader of construction-equipment components, but this is inference from the input only, not verified from any registry or filing. No rejection applied: there is no evidence the entity is non-existent, struck off, liquidated or bankrupt - the record is simply unverified. Recommended action: re-run with a working search backend or manual MCA master-data lookup by company name to obtain CIN, then confirm GSTIN via the GST portal public search."
+}

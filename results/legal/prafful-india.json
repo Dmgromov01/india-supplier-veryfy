@@ -1,0 +1,18 @@
+{
+ "name_input": "Prafful India",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input itself is internally inconsistent: 'legal_claimed' = 'PRAFFUL LALWANI' is a personal name, not a legal entity name, so no exact legal entity could be matched to 'Prafful India'. Tooling failures: DuckDuckGo search backend returned connection refused; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant results (query mangled). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. Per project rules, rejection is only permitted when the entity is proven non-existent, struck off, liquidated or bankrupt; no such proof exists, so the company is NOT rejected. Role set to 'unknown' (no registry evidence of manufacturing vs trading). Revenue FY25/FY26 null — no audited accounts or official filings were accessible; no figures invented. Declared HS codes 340250 / 392490 / 630710 (soaps/detergents, plastic household articles, textile cleaning cloths) are inconsistent with the claimed industry 'Food & FMCG' — flagged for HS correction only, which is not a rejection ground. Recommended next step: manual MCA master-data lookup by exact legal name and by director name 'Prafful Lalwani' to establish the entity, then GST portal check."
+}
