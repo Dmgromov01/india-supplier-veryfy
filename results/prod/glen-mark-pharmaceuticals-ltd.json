@@ -1,0 +1,24 @@
+{
+ "name_input": "GLEN MARK PHARMACEUTICALS LTD",
+ "declared_hs": "292250;292429;293339;293399",
+ "actual_hs_list": [
+  "30049099",
+  "30043910",
+  "30044900",
+  "30043200",
+  "30042019",
+  "30041019",
+  "30049011",
+  "30021500",
+  "30021200",
+  "30024100",
+  "30024200",
+  "33049990",
+  "34013000",
+  "30039000"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Glenmark Pharmaceuticals Ltd — research-led Indian pharma company (glenmarkpharma.com). Real product lines per own site: (1) Branded formulations — Ryaltris (olopatadine+mometasone nasal spray), Ascoril, Alex, Combiwave, MISDAPRE, Nebzmart, Glenmark Airz, Dirnelid (respiratory); Candid, Klenzit, Momate, Tacroz, Supirocin, Keto Plus, Scalpe, Episoft, Deriva (dermatology topicals/shampoos); Telma (cardiovascular); LIRAFIT (diabetes); Akynzeo, TEVIMBRA, Brukinsa, Abirapro (oncology). (2) Innovative/specialty — Ryaltris nasal spray, Winlevi topical cream. (3) Generics for US/Canada/Europe — oral solids, semi-solids, liquids, nasal sprays, injectables. Manufacturing sites (own page): CSN/Aurangabad (MDI inhalers, nasal spray, topical foam, oral solids), Goa, Indore, Baddi, Nalagarh (ointments/creams/cosmetics), Nashik (lotion, ointment, shampoo, powder), Sikkim, Monroe USA (sterile injectables), Pilar Argentina (injections), Vysoke Myto Czech (oral solids). No API/bulk-drug plant or API catalogue is listed on the company site — the declared codes are all bulk API intermediates, not the finished dosage forms Glenmark actually sells.",
+ "role_hint": "manufacturer",
+ "comment": "HS-код в декларации не соответствует фактическому ассортименту (правило 3: компания сохраняется, код исправляется, вердикт accepted_hs_corrected). Заявленные 292250 (аминокислоты/фенолы с кислородной функцией), 292429 (амиды), 293339 и 293399 (гетероциклы) — это коды активных фармсубстанций/промежуточных продуктов. По сайту glenmarkpharma.com (разделы Products/Portfolio, Top Products, Manufacturing) компания продаёт готовые лекарственные формы: таблетки/капсулы, мази и кремы, шампуни, назальные спреи, MDI-ингаляторы, растворы и инъекции. Им соответствуют позиции 3004 (лекарственные средства в дозированном виде), 3002 (иммунологические/биологические — TEVIMBRA, Brukinsa как in-licensed биопрепараты), 3304/3401 (дерматологические и моющие средства — Scalpe, Candid при наружном применении). Никакого подтверждения торговли API (2922/2924/2933/2939) на сайте нет — эти коды «заявлено, не подтверждено»; таможенных строк в рамках этой задачи не проверял (вне роли). Отраслевая классификация «Нефтегаз и химия» — ошибочна: это фармацевтика (фармацевтические препараты, готовые формы), не нефтегаз и не базовая химия. Признаков трейдера нет: собственные 11 заводов, R&D-центры, бренды — роль manufacturer. Продуктовые линии, отсутствующие в декларации: готовые лекарственные формы (3004), биологические/иммунологические препараты (3002), дерматологическая косметика и шампуни (3304/3401), медицинские изделия/устройства доставки (ингаляторы, назальные спреи) — при поставке отдельно от препарата могут идти по 9018/9019. Рекомендация: заменить декларируемые коды на 3004xx (основной), при наличии биопрепаратов добавить 3002, при наружных средствах — 3304/3401; фактические коды подтверждать по конкретным таможенным записям, которых в открытых источниках компании нет."
+}

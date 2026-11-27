@@ -1,0 +1,18 @@
+{
+ "name_input": "GAJANAND FOODS PVT LTD.; GAJANAND FOODS PVT LTD; GAJANAND FOODS PVT LTD; GAJANAND FOODS PVT LTD",
+ "legal_name": "GAJANAND FOODS PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403 (bot-blocked); tofler.in returned 404 for the guessed slug; instafinancials.com returned 404; Google returned HTTP 429; DuckDuckGo (html and lite endpoints) timed out; Bing returned only irrelevant results (no usable SERP). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all null - NOT because they are absent, but because they were not publicly retrievable with the available tools. No identifier has been guessed or constructed. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established, and absence of data is not grounds for rejection. Role left as 'unknown' - the 'PVT LTD' suffix and the claimed food/FMCG industry with declared HS 100630 (semi-milled or wholly milled rice) suggest a rice/pulses trading or processing entity, but manufacturer vs trader status cannot be determined without MCA NIC codes or GST records. HS 100630 is plausible for a foods company and is not treated as a mismatch. Action required: re-run verification when MCA/registry access is available (MCA master data search, Zauba/Tofler/CompanyCheck, GST portal 'Search Taxpayer'), and obtain FY25/FY26 revenue only from audited financials filed with MCA/ROC - do not substitute website or IndiaMART claims."
+}

@@ -1,0 +1,15 @@
+{
+ "name_input": "M/S MICROLIT",
+ "declared_hs": "392390;902789",
+ "actual_hs_list": [
+  "9027.89",
+  "3926.90",
+  "8413.19",
+  "3926.90 (pipette tips / ProTip consumables)",
+  "8479.89 (possible for E-Burette / E-Dispenser motorised units — alternative classification, cannot_verify)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Microlit (629 Pakramau, Kursi Road, Lucknow 226026, microlit.com) is a manufacturer of laboratory liquid-handling instruments, not a construction/DIY supplier. Confirmed product lines from its own catalogue pages: micropipettes (RAMBO single/multi-channel, NERO single/multi-channel fixed and variable volume, AQUA electronic single- and multi-channel, Lilpet Pro fixed-volume miniature pipette), bottle top dispensers (ULTIMUS, BEATUS, LENTUS for HF, SCITUS), E-BURETTE motor-operated burette with 21 CFR Part 11 software, E-DISPENSER, EASYAID electronic pipette filler, KENO PRO / KENO MINI vacuum aspirators, Clever Flow / Intelligent Dispensing / Speed Variable peristaltic pumps (ABS and 304 SS housings), Mini Stirrer, FAVEO carousel pipette stand, and ProTip pipette tips (consumable). Sources: https://www.microlit.com/ , https://microlit.com/products/ , https://microlit.com/product-category/micropipettes/ , https://microlit.com/product-category/bottle-top-dispensers/ , https://microlit.com/product-category/peristaltic-pump/ .",
+ "role_hint": "manufacturer",
+ "comment": "HS mapping: declared 902789 is a partial match — the core line (micropipettes, bottle top dispensers, E-Burette, E-Dispenser, vacuum aspirators) falls under HS 9027.89 (other instruments for physical/chemical analysis, measuring or checking). Declared 392390 is a partial match only for the plastic consumables/parts side: ProTip pipette tips, plastic housings, carousel stand parts — but the site presents these as accessories, not the main line, so 3923.90 as a primary code overstates the plastics share. Missing from the declaration: peristaltic pumps (HS 8413.19 — pumps with measuring device / other pumps; alternative 8413.60), Mini Stirrer (likely 8479.82), and the pipette stand (3926.90 or 9027.90 parts). Industry classification 'Строительство и DIY' is wrong: this is laboratory/analytical instrumentation (pharma, biotech, diagnostics, chemical analysis per the site's own industry list). No trader signs — the company states in-house product design engineering and manufacturing at the Lucknow address, and runs OEM Solutions; but manufacturing is self-declared on the website only. All product lines above are 'заявлено, не подтверждено' — no customs line was available in this task to corroborate any specific shipment or HS line. Per project rule 3, the HS mismatch is not a rejection ground: company retained, codes corrected to 9027.89 (primary) + 3926.90/3923.90 (consumables) + 8413.19 (pumps)."
+}

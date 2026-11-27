@@ -1,0 +1,18 @@
+{
+ "name_input": "Scottish Chemical Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) and all fallback attempts failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, instafinancials.com returned 404, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only generic 'Scotland' results with no Indian company match. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source, so all such fields are null rather than guessed. No rejection is proposed: absence of accessible records is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' - the claimed name suggests a chemical manufacturer, but the declared HS 760521 (aluminium alloy wire) does not match a chemical profile, and neither the legal entity nor its activity could be confirmed. Recommend re-running with working search access or a paid registry source (MCA master data, Tofler/Zauba by exact CIN) before any verdict."
+}
