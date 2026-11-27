@@ -1,0 +1,18 @@
+{
+ "name_input": "VA Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be verified. The DuckDuckGo search backend was down (connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, Google returned HTTP 429, and Bing returned only irrelevant results for the queries 'V A OVERSEAS CIN GSTIN' and 'VA Overseas IndiaMART exporter' (US Department of Veterans Affairs, BTS singer 'V', etc.). Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue (FY25/FY26) could be confirmed from a public source. All fields set to null rather than guessed. Note the input itself is internally inconsistent: declared HS 842240 is packaging/weighing machinery, while the claimed industry is 'food products and FMCG' - this is an HS/industry mismatch to be corrected at data-entry stage, not a ground for rejection. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy could not be established either way, so the correct status is 'unverified - registry data not retrievable', pending re-check when MCA/GST portals are reachable. Role left as 'unknown' (no evidence of manufacturing or trading activity). No revenue figures invented."
+}

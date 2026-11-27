@@ -1,0 +1,18 @@
+{
+ "name_input": "JAINAM ENGINEERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Все попытки доступа к источникам в этой сессии завершились ошибкой: web_search (DuckDuckGo/searx) — соединение отклонено; zaubacorp.com — 403; tofler.in — 403; thecompanycheck.com — 404; indiamart.com — 429; mca.gov.in (MDS) — 403; duckduckgo.com/html — таймаут; google.com/search — 429; bing.com вернул нерелевантную выдачу (запрос не обработан). Поэтому exact legal entity name, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null: не публично доступны в рамках этой сессии, а не отсутствуют у компании. ВНИМАНИЕ по входным данным: поле legal_claimed = 'NILA DILIP SHAH' — это имя физлица, а не юрлица; 'JAINAM ENGINEERS' по форме названия выглядит как проприетарное предприятие / партнёрство (не Pvt Ltd / LLP), т.е. CIN может отсутствовать в принципе, а PAN/GSTIN принадлежать физлицу-проприетору — требуется уточнение у заказчика. Штат в запросе не указан (state_claimed пусто), сверять не с чем. Роль определена как unknown: отрасль 'Энергетика' и HS 850490 (части трансформаторов/индукторов) заявлены, но фактический характер деятельности (manufacturer / trader) по реестру не проверен. Отклонение НЕ применяется: нет оснований считать, что юрлицо не существует, ликвидировано или банкрот — просто нет данных. Требуется повторная проверка при доступных источниках (MCA MDS, GST-портал, аудиторская отчётность)."
+}

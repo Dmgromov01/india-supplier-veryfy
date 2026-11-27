@@ -1,0 +1,18 @@
+{
+ "name_input": "ANNEXE CHEM PVT.LTD",
+ "legal_name": "ANNEXE CHEM PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: the search backend was unavailable (connection refused on all queries) and every public registry aggregator attempted returned an access error (Zauba Corp 403, TheCompanyCheck 403, Tofler 403, Falconebiz 403, QuickCompany 404, InstaFinancials 404, IndiaMART 429). Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, date of incorporation, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrieved, and deliberately not guessed. Only the company's own website (annexechem.com/contact-us) was readable: it presents 'Annexe Chem' as an 'FDA-GMP Certified Manufacturing Facility' with a factory at Plot No. 1116, Lamdapura Road, Manjusar, Tal. Savli, Dist. Vadodara, Gujarat 391775 and a corporate office at Orchid Plaza, Sama Savli Road, Vadodara, Gujarat 390024, selling pharmaceutical/food-grade inorganic chemicals (citrates, phosphates, sulphates, gluconates, magnesium/calcium salts). This is self-declared, so role is recorded as manufacturer on the basis of the stated own plant, but the registered-office state could not be confirmed against MCA records (state_registered left null; the site indicates Gujarat). No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity's existence is only indicated by its operating website, not by a registry record. Declared HS codes (210690; 282739; 283522; 283524) are broadly consistent with the chemical product range shown on the site, but HS conformity is not a rejection ground per project rules. Recommended follow-up: re-run CIN/PAN/GSTIN lookup when MCA/GST portals or search are reachable."
+}
