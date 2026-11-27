@@ -1,0 +1,18 @@
+{
+ "name_input": "TIRTH AGRO TECHNOLOGY PRIVATE LIMITED",
+ "legal_name": "TIRTH AGRO TECHNOLOGY PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра НЕ подтверждены. Все попытки получить первоисточники в этом прогоне не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused'; Google — редирект-заглушку; Bing — нерелевантную выдачу (форумы, мобильные прошивки) по обоим запросам; zaubacorp.com и thecompanycheck.com — HTTP 403; instafinancials.com, indiafilings.com, quickcompany.in — HTTP 404 по угаданным URL; tofler.in — 404. CIN, PAN, GSTIN, дата инкорпорации, статус MCA и выручка НЕ найдены и НЕ выдуманы — везде null. Важно: в ходе работы я сформировал предполагаемый CIN вида 'U29219GJ2009PTC056789' как гипотезу для поиска URL — это НЕ подтверждённые данные, в результат не включён и использовать его нельзя. Название 'Tirth Agro Technology Private Limited' как юрлицо выглядит правдоподобно (известный бренд сельхозтехники 'Shaktiman'), но по правилам проекта это лишь заявление, не подтверждение. Оснований для rejected НЕТ: сведений о ликвидации/банкротстве/отсутствии юрлица не получено, поэтому вердикт — не отклонять, а дозапросить реестр (MCA master data, GST-портал) в следующем прогоне. Роль (manufacturer/trader) не определена — null/unknown. Заявленный HS 843280/843290/843311/843320 (сельхозтехника) не проверялся: по правилам проекта несоответствие HS не является основанием для отклонения. Заявленная отрасль во входных данных ('Металлургия и горнодобыча') с этими HS-кодами не согласуется — вероятно, ошибка классификации во входных данных, требует уточнения."
+}

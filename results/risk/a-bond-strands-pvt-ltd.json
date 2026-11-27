@@ -1,0 +1,9 @@
+{
+ "name_input": "A-BOND STRANDS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Google/DDG HTML — 403, Bing по запросу в кавычках выдавал нерелевантную выдачу (токенизация до буквы 'A'), ZaubaCorp — 403, Tofler — 404. Прямой запрос к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, результат поиска по имени через GET не получен. Никаких данных по санкционным спискам (OFAC SDN, UN, EU, UK, BIS Entity List), судебным делам, рейтингам, негативным новостям и поставкам в РФ/СНГ публично не подтверждено и не опровергнуто — все поля null. Отсутствие данных НЕ означает отсутствие риска. Требуется повторная проверка при восстановлении доступа к реестрам (MCA/Zauba/Tofler, eCourts, NCLT, OFAC/EU/UK consolidated lists). Правило 2 соблюдено: оснований для отклонения нет, компания сохраняется в базе."
+}
