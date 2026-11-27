@@ -1,0 +1,17 @@
+{
+ "name_input": "MOLECULES BIO LABS PRIVATE LIMITED",
+ "declared_hs": "130219",
+ "actual_hs_list": [
+  "293979 (berberine alkaloid / berberine salts — BerbiQ; berberine is a vegetable alkaloid, not a saps-and-extracts item)",
+  "293890 (quercetin / rutin / hesperidin glycosides — TYQUC)",
+  "292429 (palmitoylethanolamide, PEA — an acyclic amide; PEA.IN, PEA.IN MAX)",
+  "293627 (ascorbic acid and its derivatives — GalaxC; ascorbyl palmitate)",
+  "210690 (food preparations / nutraceutical premixes, powder blends, gummies, protein bars — if sold as finished food supplements)",
+  "300490 (if supplied as formulated dosage-form nutraceutical/medicament capsules-tablets-syrups)",
+  "130219 (only for the genuine plant-extract input line, e.g. Acerola cherry extract / full-spectrum botanical extract sold as extract)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website moleculesbiolabs.com (Kerala, India; contact 0480-3104600, info@moleculesbiolabs.com) lists six branded nutraceutical ingredient lines: BerbiQ (full-spectrum berberine with coconut-milk protein/lipid complex, OMICS technology), GalaxC (ascorbic acid + acerola cherry extract + ascorbyl palmitate), Miron (multi-iron-salt complex, SELGM technology), PEA.IN and PEA.IN MAX (palmitoylethanolamide complexed with coconut lipids/protein), TYQUC (quercetin complexed with rutin and hesperidin). Delivery formats offered: capsules, tablets, gummies, powder blends, protein bars, syrups. Positioning: B2B supplier of 'nutraceutical ingredients' to brands, with in-house technologies (Metazome liposomal, OMICS, SELGM).",
+ "role_hint": "manufacturer_trader — describes own formulation/technology platforms and 'manufacturing' of branded ingredients, but the site shows no plant, no GMP/FSSAI certificate numbers and no product spec sheets; likely formulator/blender of bought-in actives (berberine, PEA, quercetin, ascorbic acid) plus a trading element. Cannot be confirmed from public pages.",
+ "comment": "HS 130219 ('saps and extracts of other plants') is only partially right: it fits the botanical-extract input line (acerola extract in GalaxC, full-spectrum berberine extract) but does not cover the declared product portfolio. The core actives are chemically defined isolates — berberine (2939), quercetin/rutin/hesperidin (2938), palmitoylethanolamide (2924), ascorbic acid/ascorbyl palmitate (2936) — and the finished formats (capsules, tablets, gummies, powder blends, protein bars, syrups) fall under 2106/3004. Industry claim 'Продукты питания и FMCG' is a misclassification: the company is a nutraceutical/botanical-ingredient and dietary-supplement supplier (B2B ingredient house), not FMCG food. Trader signs: 'empowering brands to grow', ingredient-supply mission, no manufacturing address or plant disclosed, no FSSAI/GMP certificate numbers on the certifications page — consistent with a formulator/trader rather than a primary extractor. Product lines missing from the declaration: iron salts complex (Miron), vitamin C line (GalaxC), PEA line, quercetin line, and all finished dosage formats. Per project rule 3 the HS mismatch is NOT a rejection ground: company is retained, code corrected to the actual mix above, verdict accepted_hs_corrected. All product data here is from the company's own website only — no customs line, B-L or GST record was checked in this task, therefore every product/HS mapping is 'заявлено, не подтверждено'. No registry, revenue or shipment data researched (out of scope)."
+}

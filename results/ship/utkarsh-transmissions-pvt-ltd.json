@@ -1,0 +1,8 @@
+{
+ "name_input": "UTKARSH TRANSMISSIONS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/utkarsh-transmissions-pvt-ltd (and slug variant .../utkarsh-transmission-pvt-ltd) returned only the page shell: 'Shipments available for UTKARSH TRANSMISSIONS PVT LTD, refreshed daily' — 0 shipment rows actually rendered, no date, destination, HS code or B/L number visible. No export record found.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. thecompanycheck.com returned HTTP 403; web_search backend (searx) returned 'Connection refused' on all queries, so no domestic-supply source could be read.",
+ "note": "Evidence could not be gathered: search backend was down for the whole session and volza/eximpedia/trademo/thecompanycheck all returned HTTP 403. ImportKey free view showed a company page for both slug variants but zero actual shipment rows, so no export shipment can be confirmed or denied. Per Rule 5, nothing here is confirmed — status is 'unknown', NOT 'declared_only' and NOT 'accepted'. No traces of supply found in the sources that were reachable, but that is a tooling failure, not a negative finding; re-run required. Also note the claimed legal entity 'KRISH ENTPS' does not match the queried name and could not be verified. Declared HS 848390 (gears/gearing parts) is plausible for a 'Transmissions' company but unverified against any actual shipment line. Revenue and export volume: null (not public in accessible sources)."
+}

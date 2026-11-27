@@ -1,0 +1,29 @@
+{
+ "name_input": "I T C LIMITED",
+ "declared_hs": "040310;090111;090121;090422",
+ "actual_hs_list": [
+  "040510 (butter/ghee — Aashirvaad Pure Cow Ghee)",
+  "040310 (yoghurt/curd — declared; not corroborated on the pages read)",
+  "090111 (coffee, not roasted, not decaffeinated — Sunbean instant/filter coffee)",
+  "090121 (coffee, roasted, not decaffeinated — Sunbean roasted/ground)",
+  "090422 (chillies, dried, crushed/ground — Aashirvaad spices)",
+  "190230 (pasta/vermicelli — Sunfeast YiPPee!)",
+  "190410 / 190420 (extruded/expanded cereal snacks — Bingo!, Sunfeast)",
+  "190590 (baked goods/biscuits-rusk — Sunfeast biscuits, Fabelle chocolates adjacent)",
+  "180690 (chocolate & cocoa food preparations — Fabelle)",
+  "200990 / 220299 (fruit-based beverages, coconut water drinks — B Natural)",
+  "210690 (food preparations NEC — protein/fibre nutrition mixes)",
+  "100630 (semi-milled/wholly milled rice — Aashirvaad staples, agri)",
+  "110100 (wheat flour — Aashirvaad Atta)",
+  "091091 / 091099 (spice mixtures — Aashirvaad spices)",
+  "330741 (agarbatti — Mangaldeep)",
+  "340111 / 340130 (soap, skin wash — Savlon, Fiama, Vivel)",
+  "482010 / 482090 (notebooks/stationery — Classmate, Paperkraft)",
+  "240220 (cigarettes — Gold Flake, Wills Navy Cut)",
+  "4804xx / 4810xx (paperboard & specialty paper — ITC PSPD)"
+ ],
+ "match_status": "partial",
+ "product_summary": "ITC Limited (Kolkata) is a diversified conglomerate, not a pure food trader. Verified product lines from itcportal.com homepage and Wikipedia infobox: FMCG Foods — Aashirvaad (atta/flour, spices, salt, staples, ghee, frozen), Sunfeast (biscuits, pasta YiPPee!, snacks), Bingo! (extruded snacks, churros), Fabelle (chocolates), B Natural (juices, coconut water/cola), Sunbean (instant and filter coffee), protein/fibre nutrition mixes; Personal Care — Savlon, Fiama, Vivel, Engage; Education & Stationery — Classmate, Paperkraft; Agarbatti — Mangaldeep; Safety Matches; Cigarettes — Gold Flake, Wills Navy Cut; Paperboards & Specialty Papers; Packaging; Agri-business — ITC Spices, ILTD (leaf tobacco/tobacco products), ITCMAARS, ITC Mission Millets; IT services via ITC Infotech.",
+ "role_hint": "manufacturer (own brands, own plants) + large agri-commodity aggregator/exporter; not a pure trader",
+ "comment": "Сверка с заявленными кодами: 090111 и 090121 — подтверждены продуктовой линейкой Sunbean (кофе), соответствие точное по товарной группе, но конкретная таможенная линия не проверялась → 'заявлено, не подтверждено'. 090422 (перец чили дробленый/молотый) — частично: Aashirvaad spices включает чили, но ассортимент шире (смеси 091091/091099, куркума 091030), т.е. декларация неполная. 040310 (йогурт/кисломолочные) — на прочитанных страницах не подтверждён; фактически подтверждён 040510 (Aashirvaad Pure Cow Ghee, прямо указан на главной странице itcportal.com) — вероятна подмена кода внутри группы 04. Пропущены в декларации целые товарные направления: мучные кондитерские изделия и макароны (19), шоколад (1806), напитки (2009/2202), специи-смеси (0910), чай (0902), рис (1006), пшеничная мука (1101), агрбитти (3307), мыло/косметика (33/34), бумага и картон (48), сигареты (2402), табак-сырьё (2401). Отраслевая классификация 'Продукты питания и FMCG' — неполная: ITC также табачный производитель, производитель бумаги/упаковки и IT-услуг, т.е. конгломерат. Признаков трейдера нет — собственные бренды и производство. HS-несоответствие не является основанием для отклонения (правило 3): компания сохраняется, коды корректируются на фактические. Ограничение: web_search был недоступен (connection refused), внутренние страницы itcportal.com (/businesses/...) отдавали 404, поэтому ассортимент подтверждён только главной страницей itcportal.com и Wikipedia; детальные каталоги и таможенные линии не проверены — все коды, кроме прямо упомянутых на главной (Ghee, Sunbean coffee, Aashirvaad spices, Bingo!, B Natural, Fabelle), помечены как 'заявлено, не подтверждено'."
+}

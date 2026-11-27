@@ -1,0 +1,18 @@
+{
+ "name_input": "GumaTech Marine Services",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не подтверждено. Все попытки поиска в этом прогоне технически не удались: DuckDuckGo/searx вернул 'Connection refused' на всех запросах; Google — HTTP 429; DuckDuckGo HTML и lite — timeout; ZaubaCorp, InstaFinancials, TheCompanyCheck — HTTP 403 (TheCompanyCheck отдал только JS-оболочку без результатов поиска); Bing отдавал нерелевантные кэшированные выдачи (Wyndham Hotels, StackOverflow), т.е. запрос не исполнялся. Ни одной страницы с реквизитами компании получить не удалось. Следовательно: точное юр. наименование, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA — null, не выдуманы. Заявленный штат в инпуте отсутствует, сравнивать не с чем. Роль определить невозможно: по названию ('Marine Services') это может быть сервисная компания, трейдер или производитель — но это догадка, поэтому role=unknown. Выручка FY25/FY26 — null: аудиторской отчётности или официальных филингов не найдено. ВАЖНО: компания НЕ отклоняется — оснований для rejected нет, т.к. отсутствие данных не равно несуществованию юрлица (правило 3). Требуется повторный прогон при работающем поиске, либо проверка вручную по MCA Master Data / GST-порталу по названию. Также стоит уточнить у заказчика точное написание (варианты: 'GumaTech', 'Guma Tech', 'Gumatech') и город/штат — без этого поиск по реестру малоэффективен."
+}
