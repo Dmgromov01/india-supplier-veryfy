@@ -1,0 +1,8 @@
+{
+ "name_input": "FAITH INTER TRADE",
+ "export_status": "confirmed",
+ "export_evidence": "ImportKey (slug faith-intertrade, address '701, SHAPATH-I, OPP- RAJPATH CLUB S. G. HIGHWAY, BODAKDEV', India customs records): 'Total Shipments 34 Records detected'; row seen: '2026-02-10 | FAITH INTERTRADE | TO THE ORDER OF, Compound Stabilizers for Rubber or Plastics (Polystab Q 151C)(AS PER INV) | MUNDRA SEA INMUN1, India -> Novorossiysk, RUSSIA | HS 38123990 | BOL 9531809'. Further rows seen: 2026-02-09 Novorossiysk BOL 9513117; 2025-12-16 Novomoskovsk BOL 7926086; 2025-11-20 Novorossiysk BOL 1026716; 2025-10-14 St Petersburg BOL 7424182 — all HS 38123990, all Mundra Sea -> Russia. Source counter: 34 shipments claimed; 5 rows actually visible on the free page (ports table: MUNDRA SEA 4, Novomoskovsk 3, Novorossiysk 3, MUNDRA SEA INMUN1 2).",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Export side is factually confirmed: dated India customs export records, Mundra Sea -> Russian ports (Novorossiysk, Novomoskovsk, St Petersburg), HS 38123990, with bill-of-lading numbers, latest 2026-02-10. Declared HS 381239 matches the actual recorded code 38123990 (rubber/plastics compound stabilizers, e.g. Polystab Q 151C) — no HS correction needed. Role appears to be exporter/trader (consignee shown as 'TO THE ORDER OF'), not a manufacturer. Domestic supply evidence (GST turnover band, GeM/CPPP tenders, contracts) could not be retrieved: DuckDuckGo tool was unreachable and Bing/Google returned only generic 'faith' dictionary results, so domestic_status is unknown, not none_found. Revenue and export volume in value terms: null (not public on free views). No PAN/CIN found in sources read; not invented."
+}

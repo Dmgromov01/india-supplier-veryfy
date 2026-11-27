@@ -1,0 +1,8 @@
+{
+ "name_input": "MINAR SPINNERS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. importkey.com/countries/india/minar-spinners-private-limited returned only a JavaScript shell: 'Shipments available for MINAR SPINNERS PRIVATE LIMITED, refreshed daily' — 0 actual rows visible (counter claims data exists, rows seen = 0). volza.com/p/minar-spinners/ → HTTP 403; eximpedia.app → HTTP 403; trademo.com → HTTP 403; importgenius.com → JS challenge page. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backends failed: DuckDuckGo/searx returned 'Connection refused' / timeout; Bing returned unrelated dictionary results for an unrelated query; zaubacorp.com → HTTP 403. No domestic supply line could be quoted.",
+ "note": "Nothing confirmed and nothing refuted — the trade-data sources were technically inaccessible (403 / JS-only / search backend down), so per Rule 5 this is recorded as unknown, NOT as 'no shipments found' and NOT as 'declared, unconfirmed'. No export or domestic shipment evidence was seen, but absence of access is not absence of shipments. Declared HS 510720 (wool yarn, not food) contradicts the claimed industry 'Продукты питания и FMCG' — per Rule 3 this is not a rejection ground; the HS code should be corrected to the factual one once a shipment record is readable. Revenue and export volume: null (not public in any source reached). Recommended next step: re-run against a paid Volza/Eximpedia view or the DGFT/IEC-linked customs extract before any verdict."
+}

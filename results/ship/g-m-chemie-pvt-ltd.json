@@ -1,0 +1,8 @@
+{
+ "name_input": "G M CHEMIE PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'g-m-chemie-pvt-ltd' returned only the boilerplate template line: \"Shipments available for G M CHEMIE PVT LTD, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Second slug variant 'gm-chemie-pvt-ltd' returned the identical empty template (\"Shipments available for GM CHEMIE PVT LTD, refreshed daily\"). Source counter: 2 ImportKey company pages fetched, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GeM/CPPP tender search and GST turnover lookup could not be executed: the web_search backend returned 'searx: <urlopen error [Errno 111] Connection refused>' on all three queries attempted, and volza.com, eximpedia.app and trademo.com free views all returned 'HTTP Error 403: Forbidden'. No GST band, contract or annual-report split was observed.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: это результат недоступности источников, а не отрицательный факт. ImportKey отдал только шаблонные страницы без единой строки отгрузки (0 записей из 2 попыток slug), поэтому ни экспорт, ни внутренние поставки подтвердить нельзя. Заявленный HS 391290 (прочие целлюлозные эфиры/производные целлюлозы) не проверен по фактическим записям — код не подтверждён и не опровергнут. Выручка: null (не публична, не найдена). Объём экспорта: null. Юрлицо не проверялось по MCA — вне роли. Рекомендация: повторить проверку при доступном поиске (DuckDuckGo/Volza/Eximpedia) до принятия решения; статус 'unknown' не является основанием для отклонения по правилам проекта."
+}

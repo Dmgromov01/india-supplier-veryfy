@@ -1,0 +1,18 @@
+{
+ "name_input": "G M CHEMIE PVT LTD",
+ "legal_name": "G. M. CHEMIE PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned HTTP 429; Bing returned only generic unrelated results (no company hits); zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in returned HTTP 404 for the guessed URL; mca.gov.in MDS returned HTTP 403. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures were obtained, so all such fields are null rather than guessed. Legal name is carried over from the input claim only and is NOT verified. No rejection applied: absence of retrievable records is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' - the declared HS 391290 (cellulose and its chemical derivatives, not elsewhere specified) is consistent with a chemicals manufacturer/trader but this is not evidence of role. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored, and confirm whether the correct legal name is 'G. M. Chemie Private Limited' or a variant (e.g. 'G M Chemie Pvt Ltd'), since name variants materially change the lookup."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Auto Firex LLP",
+ "legal_name": "AUTO FIREX LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no public record retrieved. Tooling failures during this run: DuckDuckGo/searx backend refused connections ('Connection refused') on both queries; Google returned HTTP 429; Bing returned only unrelated US auto-parts results for the exact-phrase query (geo-mangled, no India registry hits); Zaubacorp, Instafinancials and Falconebiz returned HTTP 403; TheCompanyCheck and Tofler search endpoints returned 404. Consequently no LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be confirmed from a primary or reputable secondary source. Per project rules, nothing was inferred or fabricated: all identifier and financial fields are null. Revenue FY25/FY26 null - no audited accounts or MCA filings located. Role left 'unknown' - the claimed HS 848110 (pressure-reducing valves) and industry 'oil & gas / chemicals' are input claims only and are not evidence of manufacturing vs trading. NOT rejected: absence of a retrieved record is a research gap, not proof of non-existence, and rejection is permitted only for non-existent/struck-off/liquidated/bankrupt entities. Recommended action: re-run against MCA21 LLP master data and the GST taxpayer search using the exact name 'AUTO FIREX LLP' before any verdict."
+}

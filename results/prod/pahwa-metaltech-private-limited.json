@@ -1,0 +1,20 @@
+{
+ "name_input": "Pahwa Metaltech Private limited",
+ "declared_hs": "820411",
+ "actual_hs_list": [
+  "820411",
+  "820412",
+  "820520",
+  "820559",
+  "820570",
+  "820411/820412 (wrenches & spanners, non-sparking Cu-Ti / Al-bronze)",
+  "8207 (interchangeable tools - partial, not corroborated)",
+  "7325 / 7616 / 7419 (investment castings in Cu, Al, SS - cast articles)",
+  "8515 (resistance welding electrodes/products - declared line on site)",
+  "8112/8108? no - HVOF nozzle barrels (spray equipment parts, likely 8424/8479) - cannot_verify"
+ ],
+ "match_status": "partial",
+ "product_summary": "Pahwa MetalTech Pvt. Ltd., Chakan MIDC, Pune (Maharashtra) — precision investment casting (lost-wax) foundry plus a large non-sparking tool line. Confirmed product families from the company's own website (pahwametaltech.com, homepage + /non-sparking-tools page): (1) Non-sparking safety hand tools in Copper-Titanium (QTi) and Aluminium-Bronze (BronAL) alloys — hammers, wrenches, spanners, bung wrenches, drum openers, tool kits, custom tools; 3500+ SKUs, claimed IS 4595 certified, torque tested per IS 6131. (2) Non-magnetic hand tools. (3) Investment castings in copper alloys (brass, bronze, silicon bronze), aluminium alloys and stainless steel — electrical/switchgear parts, mining/energy/oil&gas parts, medical & food-processing parts, automotive/EV castings, robotics/automation components. (4) HVOF nozzle/barrel components. (5) Resistance welding products/electrodes. (6) Plunger tips. (7) Cold forging. Site claims export to 30+ countries (also stated as 15+ shipping countries elsewhere on the same site — inconsistent).",
+ "role_hint": "manufacturer (own foundry + own tool manufacturing; no trader signs found — no 'supplier of', no third-party brand resale on the pages read)",
+ "comment": "HS 820411 = 'spanners and wrenches, hand-operated, non-adjustable' — this is a genuine, core product line of the company (non-sparking wrenches/spanners in Cu-Ti and Al-bronze), so the declared code is CORRECT for that line, but it covers only a fraction of the real range. Match = partial. Missing from the declaration: adjustable wrenches (820412), hammers/sledgehammers (820520), other hand tools incl. drum openers/bung wrenches/tool kits (820559), possibly vices/clamps (820570); the entire investment-casting business (cast articles of copper/brass/bronze ~7419, aluminium ~7616, stainless steel ~7325) which appears to be the larger part of the plant; resistance welding electrodes/products (~8515); HVOF nozzle barrels (code cannot_verify from public pages). Industry classification 'Строительство и DIY' (construction & DIY) is a MISCLASSIFICATION: the site positions the tools for oil & gas, refineries, city gas distribution, chemical/pharma, paints & inks, defence/explosives, aerospace propellants, steel plants — i.e. industrial safety/MRO and foundry engineering, not construction/DIY retail. No customs line was available to me in this task, therefore every product claim above is 'заявлено, не подтверждено' (declared on the company website, not corroborated by a shipment/customs record). Note the site's own inconsistency on export reach (30+ vs 15+ countries) — treat marketing figures as unverified. Per project rule 3, the HS mismatch is not a rejection ground: company stays in the base, code set to the actual range with the 820411 line retained."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/s DNS OVERSEAS; DNS OVERSEAS",
+ "legal_name": "DNS OVERSEAS (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com returned only generic 'Domain Name System' results because the token 'DNS' dominates the query, so no India-specific company page surfaced. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. Nothing is asserted or invented: all fields are null. The input gives no PAN and no state, so no cross-check of registered state vs claimed state was possible. The name 'M/s DNS OVERSEAS' with the 'M/s' prefix suggests a proprietorship/partnership trading style rather than a company limited by shares, which would mean no CIN exists and only a GSTIN/PAN would identify it — but this is an inference, not a verified fact. Role is left 'unknown' (no evidence of manufacturing plant or of trading activity). Per project rules this entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Recommended next step: manual lookup of the GSTIN printed on the supplier's invoice/export documents, then a check on the GST portal and MCA master data; until then treat as 'заявлено, не подтверждено' with no trace of supplies verified."
+}
