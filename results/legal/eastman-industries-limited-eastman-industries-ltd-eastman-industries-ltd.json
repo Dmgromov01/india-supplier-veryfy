@@ -1,0 +1,18 @@
+{
+ "name_input": "EASTMAN INDUSTRIES LIMITED; EASTMAN INDUSTRIES LTD; EASTMAN INDUSTRIES LTD",
+ "legal_name": "EASTMAN INDUSTRIES LIMITED (as claimed in input; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; direct fetches of zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403 Forbidden; instafinancials.com returned only its generic landing page (no company record); tofler.in returned 404 for the guessed CIN; eastmanindustries.com did not resolve (DNS error). Bing HTML results were polluted with unrelated 'Eastman' companies (Eastman Chemical, Eastman Credit Union, Eastman Guitars) and contained no Indian registry record, so they were not used as a source. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null - NOT because they are absent, but because they could not be publicly retrieved in this session. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; equally there is no positive confirmation of its existence. Role left as 'unknown' (declared HS 4011.61/4011.80/4011.90/4011.92 are new pneumatic tyres, consistent with a tyre manufacturer, but this is an inference from the HS code only, not a verified fact). Recommended next step: re-run against MCA master data / GST portal with a working search channel, or obtain the CIN or GSTIN from the supplier directly, before any verdict is issued."
+}

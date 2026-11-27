@@ -1,0 +1,21 @@
+{
+ "name_input": "GALAXY SUFACTANTS LTD",
+ "declared_hs": "290545;290949;291631;291639",
+ "actual_hs_list": [
+  "340231",
+  "340239",
+  "340211",
+  "340213",
+  "340249",
+  "382370",
+  "291570",
+  "291590",
+  "292390",
+  "340290",
+  "330499"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Официальный сайт galaxysurfactants.com (раздел Product Groups, прочитан 23.11.2026) перечисляет 13 продуктовых групп: Emollients; Fatty Alcohol Ethoxylates; Fatty Alcohol Sulfates and Ether Sulfates; Foam and Viscosity Boosters; Functional Actives; LABSA; Mild Surfactant; Pearlizers; Preservatives and Blends; Sun Protection; Surfactant Blends; Syndet and Transparent Bathing Bars. Wikipedia (en.wikipedia.org/wiki/Galaxy_Surfactants) подтверждает: производитель surfactants и specialty chemicals для home care и personal care, >200 продуктов, начинал как контрактный производитель Sodium laureth sulfate (SLES) для Colgate-Palmolive, заводы Tarapur (1984), Taloja (1998, сульфонирование), Zaghadia (Gujarat), Suez (Egypt), TRI-K Industries (US, specialty ingredients). Т.е. фактический ассортимент — анионные/неионные ПАВ (SLES, SLS, LABSA, fatty alcohol ethoxylates), бетаины/амфотерные, эмоленты и эфиры, консерванты, pearlizers, UV-фильтры, syndet-базы.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленные коды 290545 (глицерин), 290949 (прочие простые эфиры спиртов), 291631 (бензойная кислота и её соли/эфиры), 291639 (прочие ароматические монокарбоновые кислоты) описывают лишь узкий сегмент сырья/полупродуктов и НЕ покрывают основной экспортный ассортимент компании. Фактическая товарная номенклатура по сайту: сульфатированные/этоксилированные ПАВ и их смеси — HS 3402.11 (анионные органические поверхностно-активные вещества, напр. SLS/SLES/LABSA-соли), 3402.13 (неионные, fatty alcohol ethoxylates), 3402.19/3402.49 (прочие/амфотерные, бетаины), 3402.90 (смеси и препараты — surfactant blends, pearlizers, syndet-базы); LABSA как кислота — 3402.11 либо 3823.70 (промышленные жирные кислоты/кислотные масла); fatty alcohols — 3823.70; эмоленты-эфиры жирных кислот — 2915.70 (стеариновая/пальмитиновая кислота и эфиры) и 2915.90; четвертичные аммониевые соли/бетаины — 2923.90; UV-фильтры и косметические препараты — 3304.99. Итог: match_status = wrong (несоответствие существенное, не частичное) — заявленные 4 кода не отражают ни одной из 13 продуктовых групп, кроме возможного попутного глицерина (2905.45) как побочного продукта омыления/переэтерификации, что сайтом прямо не подтверждено. Согласно правилу 3 компания НЕ отклоняется: код исправляется на фактический, вердикт accepted_hs_corrected. Оговорка: ни одна позиция не сверена с таможенной линией (таможенные/B-L записи в рамках этой роли не исследовались) — весь ассортимент имеет статус «заявлено, не подтверждено» (источник — сайт и Wikipedia, не отгрузочные документы). Отраслевая классификация «Нефтегаз и химия» неточна: компания относится к specialty chemicals / surfactants для home & personal care, не к нефтегазу. Признаков трейдера нет: собственные производственные площадки (Tarapur, Taloja, Zaghadia, Suez) и 62 патента — роль manufacturer. Пропущенные в декларации товарные линии: LABSA, SLES/SLS, fatty alcohol ethoxylates, бетаины/амфотерные ПАВ, surfactant blends, pearlizers, консерванты, UV-фильтры, syndet-базы, эмоленты."
+}

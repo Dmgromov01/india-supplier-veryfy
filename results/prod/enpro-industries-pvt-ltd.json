@@ -1,0 +1,18 @@
+{
+ "name_input": "ENPRO INDUSTRIES PVT LTD",
+ "declared_hs": "730900;847990",
+ "actual_hs_list": [
+  "841950 (heat exchangers / shell-and-tube, gas coolers, condensers, air coolers)",
+  "841989 (crystallizers, evaporative/process apparatus)",
+  "731100 (pressure vessels / volume bottles for compressors — if gas-filled; otherwise 7309)",
+  "730900 (reservoirs/tanks/vats of iron or steel, capacity >300 l — partially applicable to large pressure vessels)",
+  "847989 (chemical injection skids, seal gas panels, lube oil consoles, process skids — machinery with individual function)",
+  "8413xx / 841381 (pumps integral to chemical injection skids)",
+  "8414xx (compressor packaging / turbomachinery packaging)",
+  "8481xx (valves, seal support systems, filters/regulators in skid assemblies)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Site enproindustries.in (CIN U74210PN1999PTC013421, Pune/Markal, Maharashtra) shows two real product divisions: (1) Process Equipment — shell & tube heat exchangers (TEMA RCB, ASME, API 660), gas coolers, air coolers (API 661), pressure vessels (up to 4 m dia, 50 m length, 100 t, 120 mm wall; Incoloy 825, super duplex, SS316/304, CS/LAS), crystallizers, condensers, volume bottles; (2) Engineered Skid Systems — lube oil consoles (API 614), seal gas panels (API 692), chemical injection skids (0.07–10,000 LPH, up to 300 bar), seal support systems (Plans 52/53B/54/71), liquid fuel handling skids, process skids (glycol dehydration, oil-water separation, produced water treatment), turbomachinery packaging up to 100 t. Plus a Renewables line (hydrogen, bio-fuels, waste conversion, solar, wind). Customers: OEM/EPC/end users in oil & gas, petrochemical, fertilizer, power, hydrogen, defence, food.",
+ "role_hint": "manufacturer",
+ "comment": "HS 730900 is only partially right: it covers large steel reservoirs/vessels >300 l, which matches the pressure-vessel and volume-bottle line, but the core of the business is heat-transfer equipment (841950) and skid-mounted machinery (847989), which are not declared. HS 847990 is a parts code for machinery of heading 8479 — it is defensible only for skid sub-assemblies/spare parts, not for complete skids, which should be 847989. So the declared pair is a partial match: the company is a genuine manufacturer (own plant at Gat no. 215/2, Alandi-Markal Road, Khed, Maharashtra; 30,000 m2, 500+ employees), not a trader, but the declared codes under-represent the actual product mix. Recommended correction: add 841950 (heat exchangers/coolers/condensers), 841989 (crystallizers), 847989 (complete skids/panels/consoles), and consider 731100 for volume bottles. Industry label 'Нефтегаз и химия' is broadly correct but narrow — the site also lists power, hydrogen/renewables, desalination/ZLD, defence and food, so the classification should be widened rather than treated as oil & gas only. No product line in the declaration is fabricated; the issue is omission, not misrepresentation. Per project rule 3, an HS mismatch is not grounds for rejection — company is kept with corrected codes. All product data above is from the company's own website pages (enproindustries.in/process-equipment/ and /engineered-skid-systems/); no customs line was available to me in this task, so the specific HS-6 assignments are my mapping of the described goods and remain 'заявлено, не подтверждено' until corroborated by a customs entry. Export claim on the site ('80% of products exported to 50+ countries, 4000+ systems') is a website statement only — not verified here."
+}
