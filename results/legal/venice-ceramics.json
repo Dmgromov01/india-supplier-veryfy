@@ -1,0 +1,18 @@
+{
+ "name_input": "venice ceramics",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены — источники недоступны. Ход проверки: (1) web_search (DuckDuckGo/searx) вернул ошибку соединения на всех запросах; (2) zaubacorp.com — HTTP 403; (3) instafinancials.com — HTTP 403; (4) thecompanycheck.com — поиск за логином, выдача не отдаётся; (5) Google — редирект/капча; (6) Bing по трём разным запросам ('Venice Ceramics' GSTIN CIN India; 'Venice Ceramics' Morbi / LLP / Pvt Ltd; site:zaubacorp.com OR tofler.in OR indiafilings.com) возвращал один и тот же нерелевантный кэш про город Венеция — то есть поиск фактически не работал; (7) html.duckduckgo.com и альтернативный движок — таймаут. Итог: ни точного юрлица, ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты регистрации, ни штата, ни статуса MCA, ни выручки за FY25/FY26 получить из публичных источников не удалось. ВАЖНО: отсутствие данных НЕ является основанием для отклонения по правилам проекта — компания НЕ отклонена, статус 'unknown', все поля null. 'Venice Ceramics' — распространённое торговое имя (в керамической отрасли Индии, особенно в Морби/Гуджарат, встречается как бренд/торговая марка у разных мелких производителей и трейдеров), поэтому без доступа к MCA/GST-порталу невозможно определить, идёт ли речь о зарегистрированном юрлице, о proprietorship/partnership без CIN, или о торговой марке. Требуется повторная проверка при восстановлении доступа к реестрам: MCA master data по имени, GST-портал по торговому имени, и уточнение у заказчика штата/города и любых реквизитов (GSTIN, PAN, адрес) для однозначной идентификации. Заявленный HS 690721 (керамическая плитка) не проверялся и по правилам проекта основанием для отклонения не является."
+}

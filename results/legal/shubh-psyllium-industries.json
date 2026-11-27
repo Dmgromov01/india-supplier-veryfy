@@ -1,0 +1,18 @@
+{
+ "name_input": "SHUBH PSYLLIUM INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все поисковые запросы в этом сеансе не дали результатов: web_search вернул ошибку бэкенда (connection refused), DuckDuckGo — таймаут, Google — HTTP 429, Bing выдавал нерелевантную выдачу (Krita, MakeMyTrip) без единого упоминания компании. Профильные реестры недоступны: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, mca.gov.in (MCA Master Data) — HTTP 403, tofler.in — 404 на странице поиска. Таким образом, точное юридическое наименование, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — везде null, данные не выдумывались. Роль определена как unknown: по названию «Industries» и заявленному HS 121190 (псиллиум/подорожника шелуха) можно предположить производителя, но это не подтверждено ни одним реестровым источником. Штат ввода не заявлен, поэтому сверять state_registered со state_claimed не с чем. Оснований для отклонения (rejected) нет: отсутствие публичных данных не равно несуществованию, ликвидации или банкротству юрлица — компания сохраняется в базе как непроверенная. Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP/Tofler или при получении от поставщика GSTIN/CIN/выписки об инкорпорации."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "EPSILON TILE LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Risk-only check as of 2026-11-23. No public record of this entity could be located. (1) Sanctions: OFAC Sanctions List Search tool was reachable but is a JS form and returned no queryable results via direct fetch; no SDN/UN/EU/UK/BIS listing for 'EPSILON TILE LLP' was found in any accessible source. Absence of a hit is NOT a confirmed clearance — the name was not verifiable against the lists, so sanctions_hit = null (not 'false'). (2) Indian courts: Indian Kanoon searches for \"Epsilon Tile\" and \"Epsilon Tiles\" returned 0 matching results (https://indiankanoon.org/search/?formInput=%22Epsilon%20Tile%22). No party role or status to report; court_cases = null. (3) Regulator actions / negative news: none found; web_search backend (SearXNG) was down for the whole session (connection refused), Google returned a redirect/consent wall, DuckDuckGo timed out, Bing returned only unrelated 'Epsilon' marketing/maths results — so this is a coverage gap, not a clean bill of health. news_risk = null. (4) Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; LLP entities of this size typically have no public rating — rating = null, not public. (5) Russia/CIS supply evidence: no export, customs, B-L or trade-flow record found linking this entity to Russia or CIS; rf_supply = null. Registry verification also failed: Zauba Corp returned HTTP 403, MCA master-data portal returned HTTP 403, Tofler search returned 404 — so legal existence, CIN/LLPIN and PAN remain unverified by me (out of my scope per role, flagged for the identity researcher). Per project rules this is not a rejection ground and no verdict is proposed here; recommend re-running sanctions and news checks once the search backend is restored and the entity's LLPIN is confirmed."
+}

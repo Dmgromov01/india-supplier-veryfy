@@ -1,0 +1,18 @@
+{
+ "name_input": "SIDWIN FABRIC PVT LTD",
+ "legal_name": "SIDWIN FABRIC PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down) on both attempts; direct fetches of registry/aggregator profiles were blocked or empty - zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, instafinancials.com 404, tofler.in 404 (both search and slug URL), mca.gov.in MDS 403, Google search returned only a redirect stub, Bing returned irrelevant results (no matching company page), DuckDuckGo timed out. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null because they are not public to me in this run - NOT because they were checked and found absent. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' - the declared HS codes 560311/560312 (nonwovens, 25-70 g/m2 and 70-150 g/m2) point to a textiles/nonwoven manufacturer or trader, which contradicts the input's claimed industry 'Food products and FMCG'; this is a classification inconsistency to be corrected at data-entry level, not a ground for rejection. Recommended next step: re-run verification when search backend is restored, or obtain the CIN/GSTIN from the client and confirm on MCA Master Data and the GST taxpayer search portal."
+}

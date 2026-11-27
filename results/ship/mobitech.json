@@ -1,0 +1,8 @@
+{
+ "name_input": "Mobitech",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. ImportKey pages for slugs 'mobitech-industries-llp' and 'mobitech' rendered only the template shell: 'Shipments available for MOBITECH INDUSTRIES LLP, refreshed daily' — a generic placeholder, not a record. Rows actually seen: 0 of an unstated counter (no counter value displayed). No date, destination, HS code or B/L number could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Search backends failed: DuckDuckGo/searx returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)', Google returned HTTP 429, Bing returned only unrelated spam results. Rows actually seen: 0.",
+ "note": "Evidence could not be gathered, so this is 'unknown', NOT 'none_found' — the absence of retrieved records is a tooling failure, not proof of no shipments. ImportKey free view is a JS shell with no data rows; volza, eximpedia and trademo all returned HTTP 403 Forbidden. Declared HS 851713 (smartphones/cellular handsets) is unverified against any customs line. No revenue, export volume, CIN or PAN data is public in what was reachable — all left null rather than estimated. Per project rules this company is not rejected: legal existence was not disproven, and HS mismatch is not a rejection ground. Recommended next step: re-run with a working search backend or a paid ImportKey/Volza view to obtain dated B/L rows before assigning any shipment verdict."
+}
