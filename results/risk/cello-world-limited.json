@@ -1,0 +1,9 @@
+{
+ "name_input": "CELLO WORLD LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а Bing по запросам 'Cello World Limited sanctions / credit rating ICRA / court GST notice' выдавал нерелевантную выдачу про музыкальный инструмент виолончель (поисковые термины игнорировались). Проверены напрямую: (1) OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/) — доступна только интерактивная JS-форма, программный запрос по имени выполнить не удалось, результат не получен; (2) BIS Entity List (https://www.bis.gov/entity-list) — открылась только текстовая часть 15 CFR 744, сама таблица Supplement 4 к Part 744 не извлечена, совпадений не проверено; (3) сайт компании https://www.celloworld.com/ и /investor-relations/ — JS-only, отдаёт только тег-лайн 'Cello®, Companion for Life', раздел раскрытий/рейтингов недоступен. По всем пяти полям данных нет — ставлю null, а не предположения. Никаких сведений о санкциях, судебных делах, рейтинге, негативных новостях или поставках в РФ/СНГ не подтверждено и не опровергнуто. ВАЖНО: null здесь означает 'не проверено', а НЕ 'чисто'. Требуется повторный прогон при работающем поиске (источники для проверки: OFAC SDN/Consolidated list CSV, EU/UK consolidated lists, BIS Supplement 4, eCourts/NCLT/NCLAT по 'Cello World', сайты CRISIL/ICRA/CARE/India Ratings, Google News). Отклонять компанию по правилу 3 оснований нет — нет данных о ликвидации/банкротстве; статус проверки: незавершена."
+}

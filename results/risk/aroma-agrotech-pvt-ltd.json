@@ -1,0 +1,9 @@
+{
+ "name_input": "Aroma Agrotech Pvt. Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: ни один источник не удалось прочитать. Что пробовалось 23.11.2026: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused' на все запросы; (2) Bing по запросам \"Aroma Agrotech\" Private Limited / \"Aroma Agrotech Pvt Ltd\" / site:indiankanoon.org OR tofler.in OR thecompanycheck.com — поисковик проигнорировал кавычки и операторы и вернул нерелевантную выдачу про парфюмерию/рестораны (merriam-webster, aroma360, yelp), ни одного результата по индийской компании; (3) zaubacorp.com и thecompanycheck.com — HTTP 403; (4) mca.gov.in — DNS не резолвится; (5) sanctionssearch.ofac.treas.gov — открылась только форма поиска, без возможности выполнить запрос по имени (SDN-лист от 23.11.2026, Non-SDN от 04.11.2026 — даты фиксации известны, но совпадение по имени не проверено). Итог: по санкциям (OFAC SDN/UN/EU/UK/BIS), индийским судам, действиям регуляторов, негативным новостям, кредитному рейтингу и поставкам в РФ/СНГ данных НЕТ — все поля null, а не 'чисто'. Отсутствие находок здесь означает отсутствие проверки, а не отсутствие риска. Требуется повторный прогон при доступном поиске (рекомендуемые источники: OFAC SDN + consolidated non-SDN, BIS Entity List, UN/UK/EU consolidated lists, indiankanoon.org, e-courts/NJDG, MCA, IBBI, SEBI, CRISIL/ICRA/CARE/India Ratings, GST-порталы, таможенные и B/L базы). Отклонять по правилу 2 нельзя в любом случае; статус — 'не проверено', не 'принято'. Дополнительно: заявленное имя 'AROMA AGROTECH PRIVATE LIMITED' не подтверждено как существующее юрлицо (проверка юрлица вне моей роли, но флагаю для коллег)."
+}

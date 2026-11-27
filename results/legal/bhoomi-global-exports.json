@@ -1,0 +1,18 @@
+{
+ "name_input": "Bhoomi Global Exports",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Входные данные противоречивы: 'legal_claimed' = 'YADAV YASH MAHADEV' — это имя физлица, а не название юрлица, что указывает на возможную регистрацию как sole proprietorship (тогда CIN отсутствует по определению, а PAN — это PAN физлица, 4-й символ 'P'). Проверка не выполнена: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения или нерелевантную выдачу; zaubacorp.com, instafinancials.com, mca.gov.in — HTTP 403; thecompanycheck — 404; gstinsearch.in — DNS failure. CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null — публично не получены в рамках этой проверки, не выдуманы. Роль определена как 'unknown' (не 'trader' по умолчанию): название содержит 'Exports', но фактический характер деятельности (производитель/трейдер) не подтверждён ни одним реестровым документом. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или запрос у поставщика PAN/GSTIN-сертификата и, если это proprietorship, — GST-регистрации на имя YADAV YASH MAHADEV."
+}
