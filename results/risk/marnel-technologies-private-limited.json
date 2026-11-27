@@ -1,0 +1,9 @@
+{
+ "name_input": "MARNEL TECHNOLOGIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Google — HTTP 429, Bing по точному названию «Marnel Technologies Private Limited» и по варианту «Marnel Technologies Pvt Ltd» выдал только нерелевантную выдачу (аренда жилья, Citibank) — то есть ни одного релевантного документа по компании найти не удалось. Прямой запрос к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) через http_get невозможен: инструмент отдаёт только HTML-форму без выполнения поиска, поэтому подтвердить отсутствие/наличие совпадения в SDN и Non-SDN списках (а также UN, EU, UK, BIS Entity List) не удалось. Судебные дела (eCourts, NCLT, High Court), действия регуляторов (RBI, GST, ED, SEBI), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверены — данных нет. Все поля null: это означает «не установлено / не публично найдено», а не «отсутствует». Не является основанием для отклонения по правилам проекта (правило 2 и 3): компания сохраняется в базе, требуется повторный прогон проверки при восстановлении доступа к поиску и с ручным запросом в OFAC/EU/UK/BIS консолидированные списки и в eCourts по названию компании."
+}

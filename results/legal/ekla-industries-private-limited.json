@@ -1,0 +1,18 @@
+{
+ "name_input": "Ekla Industries Private Limited",
+ "legal_name": "EKLA INDUSTRIES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx: connection refused) on both queries, and all direct registry/profile sources attempted were blocked or unavailable: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), falconebiz.com (HTTP 403), instafinancials.com (HTTP 404), indiafilings.com search (HTTP 404), Google search (HTTP 429), DuckDuckGo HTML endpoint (timeout), Bing (returned only irrelevant results, no company match). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrieved, and nothing was inferred or invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the entity is NOT rejected; it is left unverified pending a working registry lookup (MCA master data / GST portal). Role cannot be determined from registry data alone and is set to unknown. Note: the claimed HS codes 854442/854449 (insulated electric conductors/wiring harness) are consistent with the claimed 'power/energy' industry, but HS relevance is not a rejection criterion per project rules and no correction is proposed without verified data."
+}

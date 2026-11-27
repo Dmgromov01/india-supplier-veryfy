@@ -1,0 +1,18 @@
+{
+ "name_input": "NSI ENGINEERING PRIVATE LIMITED",
+ "legal_name": "NSI ENGINEERING PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The search backend (DuckDuckGo/searx) returned connection errors, and all direct registry/profile sources were inaccessible: zaubacorp.com and thecompanycheck.com returned HTTP 403, mca.gov.in returned HTTP 403, tofler.in search returned a 404 page, and Bing/Google queries returned only unrelated non-Indian 'NSI' entities (NSI Industries USA, NSI Penn State, NS&I UK) with no Indian company record. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all reported as null rather than guessed. No rejection is applied: absence of accessible public data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt. Role left as 'unknown' - the claimed HS codes (841480, 841490, 841990, 842199 - air/gas pumps, compressors, filtering machinery parts) are consistent with an engineering manufacturer, but this is an inference from the input, not a verified fact. State claimed in input was empty, so no state mismatch can be assessed. Recommended next step: re-run verification against MCA master data and a GST public profile (e.g. GSTZen/KnowYourGST) once search access is restored, and confirm the exact legal name - 'NSI Engineering' is a common short form and may correspond to a differently worded registered name."
+}

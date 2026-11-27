@@ -1,0 +1,9 @@
+{
+ "name_input": "Valuexim Sources Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Tooling was severely degraded during this run: the web_search backend returned connection errors on every attempt, Google returned HTTP 429, DuckDuckGo timed out, Zauba Corp returned HTTP 403, and Tofler returned a 404 for the guessed URL slug. Only two usable negative checks were completed: (1) Indian Kanoon full-text search for 'Valuexim' returned 'No matching results' (0.18 s) — https://indiankanoon.org/search/?formInput=Valuexim — i.e. no reported Indian judgments found under this name; (2) Bing exact-phrase search for \"Valuexim Sources Private Limited\" returned no exact-match result for the company (only unrelated 'SNF' pages), and a broader 'Valuexim India private limited company' query likewise produced no relevant hit. Sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List): NOT VERIFIED — no sanctions list was successfully queried in this run, so null rather than a clean 'no hit'. Court cases (party role/status): null — only the Indian Kanoon negative above; NCLT/HC/consumer fora and e-courts were not reachable. Regulator actions and negative news: null — no news search succeeded, so absence of negative news is NOT established. Credit rating (CRISIL/ICRA/CARE/India Ratings) with date and status: null — not public/not retrieved. Evidence of supplies to Russia or CIS: null — no trade or customs record found; nothing to confirm or deny. IMPORTANT: this is an absence-of-evidence result caused by tool failure, not a clean bill of health. Per project rules this is not a rejection ground and no verdict is implied; the company should be re-run when search access is restored. No CIN, PAN, rating figure or shipment record is asserted here because none was observed."
+}
