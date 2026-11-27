@@ -1,0 +1,18 @@
+{
+ "name_input": "DORNIER MACHINERY INDIA PVT. LTD",
+ "legal_name": "DORNIER MACHINERY INDIA PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in (MCA Master Data) all returned HTTP 403 Forbidden; tofler.in and quickcompany.in returned 404 for the guessed URL slugs; instafinancials.com returned 404; Google returned only a redirect/consent interstitial; Bing returned entirely irrelevant results (NFL schedules, Microsoft pages, US apartment listings) for every query, i.e. the search layer is unusable. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder type), GSTIN, GST status, date of incorporation, registered-office state and MCA status are all null because they are not public to me through these channels - they are NOT null because the company is absent from the register. No conclusion about existence, strike-off, liquidation or bankruptcy can be drawn, so per the rules the company is NOT rejected; it is left unverified. Role is 'unknown' rather than 'manufacturer'/'trader' because the name alone ('Machinery India Pvt Ltd') is not evidence of manufacturing activity and no MCA business-activity code (e.g. NIC-2004 class) was obtained. Revenue FY25/FY26 are null: no audited accounts or MCA AOC-4 filings were accessible, and no figures were estimated. Note on the input: declared HS 850110 (electric motors <=37.5 W) and 853890 (parts of switchgear/control apparatus) are consistent with an electrical-machinery trading/manufacturing profile, but HS codes are not a registry attribute and were not used to infer anything. Recommended next step: re-run with a working search backend or an MCA/GST API key, or supply the CIN/GSTIN directly, then verify legal name, incorporation date, state and status on the MCA master data page and GST status on the GST portal."
+}

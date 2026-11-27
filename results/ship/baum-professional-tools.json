@@ -1,0 +1,8 @@
+{
+ "name_input": "Baum Professional Tools",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'sahney-tools' returned only the paywalled template: 'Shipments available for SAHNEY TOOLS, refreshed daily' — zero shipment rows rendered; no date, destination, HS code or B/L number visible. Second slug 'baum-professional-tools' returned the identical empty template: 'Join ImportKey to view the import and export data records of companies all over the world.' Source counter: 2 ImportKey pages fetched, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Searches for 'Sahney Tools' returned no usable results (searx backend refused connection; Bing returned unrelated spam pages). Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: все проверенные источники (importkey — 2 слага, volza, eximpedia) отдали либо 403, либо пустой paywall-шаблон без единой строки данных, поэтому статус честно 'unknown', а не 'none_found'. Юрлицо в заявке указано как SAHNEY TOOLS, бренд — Baum Professional Tools; связь между ними публично не подтверждена. Заявленный HS 820411 (гаечные ключи нерегулируемые) не проверен по фактическим записям — исправлять не на что, пока нет ни одной отгрузки. Выручка: null (не публична). Объём экспорта: null (не публичен). Трейдер/производитель — не определено. Рекомендация: запросить у поставщика инвойсы, B/L и GST-декларации напрямую; при отсутствии — оставить в базе с пометкой 'заявлено, не подтверждено'."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "DORNIER MACHINERY INDIA PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML endpoint timed out; Google returned a redirect interstitial; Bing returned only unrelated spam/AI-generated results for every query variant tried (company name alone, name + sanctions/court/insolvency, name + city). Zaubacorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is an interactive form and no name query could be executed through http_get, so no SDN/Non-SDN screening result was actually obtained — sanctions_hit is null because screening was NOT performed, not because the company was cleared. No Indian court records (eCourts/NCLT), no regulator actions, no credit rating (CRISIL/ICRA/CARE/India Ratings) and no Russia/CIS supply evidence could be retrieved from any source. All fields set to null per rule 4 (do not invent data). This company must be re-queued for risk screening when search access is restored; do not treat the nulls as a clean result. Note also that the claimed name 'Dornier Machinery India Pvt. Ltd' could not be corroborated as an existing registered entity in any accessible source — legal identity verification is outside this role's scope and is flagged for the identity/registry researcher."
+}

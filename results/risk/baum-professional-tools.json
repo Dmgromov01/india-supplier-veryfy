@@ -1,0 +1,9 @@
+{
+ "name_input": "Baum Professional Tools",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по технической причине: инструмент web_search (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах, а резервные попытки через http_get (Google, Bing, DuckDuckGo HTML) выдавали нерелевантную выдачу (спам/чужие темы) либо таймаут. Домен sahneytools.com не резолвится (DNS NXDOMAIN). Ни один источник (OFAC SDN, UN, EU, UK, BIS Entity List, eCourts/NJDG, реестры рейтингов, новостные архивы, таможенные записи по РФ/СНГ) фактически не был прочитан. Все поля оставлены null — данные не выдумывались. Заявленное соответствие 'Baum Professional Tools' = 'SAHNEY TOOLS' не подтверждено и не опровергнуто. Требуется повторный прогон при доступном поиске; по правилу 2 санкции/суды/уголовные дела в любом случае не являются основанием для отклонения."
+}

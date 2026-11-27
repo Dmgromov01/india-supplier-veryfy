@@ -1,0 +1,18 @@
+{
+ "name_input": "Baum Professional Tools",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT possible in this run. The web_search tool returned no results (searx connection refused) and Bing/Google fallbacks returned entirely unrelated content (Steam Deck, CW Network pages), i.e. the search layer is malfunctioning. Direct registry sources were blocked: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 403), tofler.in (404 on search path). Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from an official filing. The claimed legal entity 'SAHNEY TOOLS' could not be matched to any MCA record, and the brand 'Baum Professional Tools' could not be linked to it by any public source. IMPORTANT: absence of confirmation is NOT evidence of non-existence - per project rules the company is NOT rejected; it is left unverified with all registry fields null. Role left as 'unknown' (no evidence of manufacturing plant or trading-only activity). Declared HS 820411 (hand-operated spanners/wrenches) is plausible for a hand-tool brand but was not assessed here (out of scope for this role). Revenue FY25/FY26: null - no audited accounts or official filings accessible; not estimated. Recommended action: re-run once search/registry access is restored, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal and MCA master data."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S VIKRAM CARPETS PVT. LTD",
+ "legal_name": "VIKRAM CARPETS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) refused connections, Bing returned only unrelated cached results for 'Vikram', and all registry/profile sources attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, quickcompany.in, mca.gov.in MDS) returned HTTP 403/404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. No rejection applied: there is no evidence the entity does not exist, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy. Revenue FY25/FY26 null — no audited accounts or official filings were accessible. Role left as 'unknown' (carpets/textiles under HS 5701/5702 suggests manufacturer or manufacturer_trader, but this is inference, not verified). Note the input's industry_claimed 'Продукты питания и FMCG' (food/FMCG) is inconsistent with the declared HS codes 570110/570249 (hand-knotted and other carpets) — per rule 3 this is not a rejection ground; the HS codes should be treated as the factual ones and the industry field corrected to textiles/carpets. Requires re-run of registry checks when search access is restored."
+}

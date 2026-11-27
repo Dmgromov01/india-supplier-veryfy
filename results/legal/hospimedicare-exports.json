@@ -1,0 +1,18 @@
+{
+ "name_input": "HOSPIMEDICARE EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be retrieved. The web_search tool was down (searx connection refused) for the whole session; fallback fetches to Bing returned only irrelevant results (medical identity theft, US people-search pages) for the exact-phrase query \"HOSPIMEDICARE EXPORTS\", and Google returned a redirect/consent page only. Registry aggregators were inaccessible: zaubacorp.com returned HTTP 403 on both the company-search and direct search URLs, and thecompanycheck.com served only its marketing homepage with no search results (its entity search requires a free account login). No CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figure could be confirmed from any public source, so all such fields are null rather than guessed. IMPORTANT: the name as given ('HOSPIMEDICARE EXPORTS') has no corporate suffix (no Pvt Ltd / LLP / Ltd), which is typical of a sole proprietorship or partnership trading name rather than a company registered with MCA - such entities have no CIN at all, only a GSTIN and PAN, and neither could be located. The claimed industry 'IT и электроника' is inconsistent with the declared HS code 901890 (medical/surgical instruments) and with the name itself (hospi-medicare), suggesting the industry field in the input is wrong; per project rules this is NOT grounds for rejection and the HS code should be treated as the factual one (medical devices) with the industry corrected. Per the rules, rejection is permitted only for non-existence/struck-off/liquidation/bankruptcy, and non-existence could NOT be established here - the entity may well exist as a proprietorship. Verdict: not rejected, but unverified - status 'заявлено, не подтверждено'; no trace of any supply activity (export or domestic) was found in this registry-only pass, and no revenue data is public. Recommend re-running once the search backend is restored, or obtaining the GSTIN/PAN directly from the supplier for verification on the GST portal and MCA/income-tax records."
+}
