@@ -1,0 +1,9 @@
+{
+ "name_input": "AUTOHOM; BINDRA MOTORS PVT. LTD.; Bindra Motors Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Google — HTTP 429, Bing по запросу \"Bindra Motors\" Private Limited выдал только нерелевантный спам без единого совпадения по компании. Прямые источники заблокированы: zaubacorp.com — 403, indiankanoon.org — 403. OFAC Sanctions List Search доступен только как JS-форма, результат запроса через http_get не возвращается, поэтому санкционный скрининг по имени фактически не проведён — sanctions_hit=null означает 'не проверено', а не 'чисто'. Судебные дела (party role/status), рейтинги (агентство/дата/статус), регуляторные действия и негативные новости, а также признаки поставок в РФ/СНГ — публично не подтверждены и не опровергнуты; все поля null, данные не выдумывались. Отдельно: название в батче содержит три варианта ('AUTOHOM', 'BINDRA MOTORS PVT. LTD.', 'Bindra Motors Pvt Ltd') — принадлежность бренда AUTOHOM к юрлицу Bindra Motors не установлена. Требуется повторный прогон при доступном поиске и доступ к реестру MCA / e-courts / NCLT. Оснований для отклонения по правилу 2 нет; статус — 'есть сложности' не применим, т.к. данных нет вовсе."
+}

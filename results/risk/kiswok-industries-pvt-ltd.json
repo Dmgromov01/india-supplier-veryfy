@@ -1,0 +1,9 @@
+{
+ "name_input": "Kiswok industries pvt ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты были недоступны. web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; DuckDuckGo (html и lite) — таймауты; Google — HTTP 429; Bing отдавал нерелевантную выдачу (результаты про продукты питания и про Anita DeFrantz вместо компании), т.е. поиск фактически не работал. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) загрузился, но это JS-интерфейс без серверного рендеринга результатов — выполнить запрос по имени не удалось, поэтому санкционный скрин не подтверждён ни по одному списку (OFAC SDN, UN, EU, UK, BIS Entity List). Indian Kanoon вернул HTTP 403 — судебные дела не проверены. Сайт компании kiswok.com отдаёт антибот-заглушку ('One moment, please... Please wait while your request is being verified'), содержимое недоступно. Итог: по всем полям null, и это означает 'не проверено / нет публичных данных в доступных источниках', а НЕ 'чисто'. Никаких утверждений об отсутствии санкций, судов, рейтинга или связей с РФ/СНГ не делаю — они не подтверждены источниками. Требуется повторный прогон при работающем поиске: OFAC/UN/EU/UK/BIS по названию и вариантам 'Kiswok', eCourts/NCLT/Indian Kanoon по юрлицу, рейтинги CRISIL/ICRA/CARE/India Ratings, новостной фон, а также проверка экспортных направлений в РФ/СНГ. Отклонение по правилу 2 не применяется; компания сохраняется в базе."
+}

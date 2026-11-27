@@ -1,0 +1,8 @@
+{
+ "name_input": "Kiswok industries pvt ltd",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. importkey.com/countries/india/kiswok-industries-pvt-ltd returned only a paywalled shell: 'Shipments available for KISWOK INDUSTRIES PVT LTD, refreshed daily' — zero rows visible, no date, destination, HS code or B/L number. volza.com, eximpedia.app, trademo.com, importgenius.com and thecompanycheck.com all returned HTTP 403 / JS challenge; web_search backend was down ('searx: Connection refused') for the whole session.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. kiswok.com served a bot-verification interstitial ('One moment, please... Please wait while your request is being verified...'); indiamart.com returned HTTP 429. No domestic supply record seen.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных записей (дата/направление/HS/B-L), ни внутренних поставок получить не удалось — все источники отгрузочных данных закрыты (403/JS-челлендж), поисковая система недоступна. Статус по обоим каналам — unknown, а не declared_only и не confirmed: заявлений сайта я тоже не прочитал, поэтому даже 'заявлено' зафиксировать нечем. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумываю). HS 732599 (прочие литые изделия из чёрных металлов) не проверен по фактическим записям — оснований для accepted_hs_corrected нет, но и для отклонения нет: юрлицо не проверялось на ликвидацию/банкротство, это вне моей роли. Требуется повторный прогон при работающем web_search или платном доступе к ImportKey/Volza."
+}

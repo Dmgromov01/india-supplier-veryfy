@@ -1,0 +1,9 @@
+{
+ "name_input": "NIS Marketing Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no verifiable data obtained. Tooling failed across the board: DuckDuckGo/searx backend refused connections on all attempts; Bing returned an identical stale cached results page for every query (only irrelevant 'NIS' entities: Niš, Barbados NIS, Kuwait school, etc.), so no query actually executed; Zauba Corp, TheCompanyCheck and IndianKanoon all returned HTTP 403 to automated fetches; the OFAC Sanctions List Search is a JS form that returns no results via GET, and the attempted SDN CSV mirror URL returned 404. Consequently sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases with party role and status, regulator actions, negative news, credit rating and any Russia/CIS supply evidence are ALL reported as null - not as 'none found', because no list was actually searched. No claim in this record is sourced, and nothing here should be read as clearance. Recommended next steps for a human analyst: (1) query OFAC Sanctions List Search and the consolidated non-SDN list interactively for 'NIS Marketing'; (2) check EU consolidated, UK OFSI and BIS Entity List; (3) search IndianKanoon and eCourts by exact legal name 'NIS MARKETING PRIVATE LIMITED' and by director names once the CIN/directors are known; (4) pull MCA master data for CIN, status and directors; (5) check CRISIL/ICRA/CARE/Brickwork and India Ratings for any rating action; (6) search Russian/CIS import records and trade-data providers for supply evidence. Note per project rules: sanctions, court cases and criminal matters are never rejection grounds - record neutrally as 'есть сложности' if found. Also note the declared HS codes (270750, 271012, 271019, 381121 - petroleum oils/solvent naphtha/lubricating-additive range) are outside this role's scope and were not assessed."
+}
