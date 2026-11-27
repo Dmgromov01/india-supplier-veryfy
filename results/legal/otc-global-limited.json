@@ -1,0 +1,18 @@
+{
+ "name_input": "OTC GLOBAL LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record retrieved. Search infrastructure failed during this run: the DuckDuckGo/searx backend returned 'Connection refused' and timeouts on every query; Bing returned only generic 'OTC' (over-the-counter drugs / OTC Markets) results and ignored the quoted company name, so no India-specific hit was ever surfaced. Direct registry/aggregator fetches were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, google.com returned HTTP 429, and search.mca.gov.in did not resolve (DNS failure). Consequently NO exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. All such fields are set to null rather than guessed. Per project rules, rejection is NOT applied: absence of a retrieved record is not proof that the entity does not exist, is struck off, liquidated or bankrupt - it is a research gap, not a negative finding. Role is 'unknown' because no MCA business-activity classification or GST/plant evidence was obtained; the claimed HS 220300 (beer) and industry 'food/FMCG' are unverified and are not treated as fact. Revenue FY25/FY26: null - no audited accounts or official filings were accessible. Recommended next step: re-run with working search, or verify manually on the MCA master data portal and the GST taxpayer search using the exact legal name 'OTC Global Limited' (note: 'Ltd' vs 'Limited' and any 'OTC Global Pvt Ltd' variant must be disambiguated, as several unrelated entities may share the 'OTC' prefix)."
+}

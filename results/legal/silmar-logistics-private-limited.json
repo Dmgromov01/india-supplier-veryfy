@@ -1,0 +1,18 @@
+{
+ "name_input": "SILMAR LOGISTICS PRIVATE LIMITED",
+ "legal_name": "SILMAR LOGISTICS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, falconebiz.com) returned HTTP 403, instafinancials and quickcompany returned 404 for this name, and Bing/Google/DuckDuckGo fallbacks returned irrelevant results or 429/timeout. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — NOT because they do not exist, but because they are not publicly retrievable with the tools available in this run. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected; it stays in the database pending a re-check of MCA master data. Role is 'unknown': the name suggests a logistics/freight-forwarding business (service_provider/trader profile) rather than a manufacturer of ceramic tiles (declared HS 690721), but this is an inference from the name only and is unconfirmed. Revenue FY25/FY26: null — no audited accounts or official filings were accessible; no figures were estimated. Per project rules, the HS mismatch is not a ground for rejection; the actual HS code should be corrected once the company's real activity is confirmed. Recommended next step: re-run with working search, or query MCA V3 / GST portal directly by CIN or GSTIN."
+}

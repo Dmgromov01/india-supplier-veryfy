@@ -1,0 +1,18 @@
+{
+ "name_input": "ANDHRA ORGANICS LIMITED",
+ "legal_name": "ANDHRA ORGANICS LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool returned no results (backend connection refused) and every fallback search engine returned irrelevant results; direct fetches of public registry/profile pages (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, quickcompany.in) returned HTTP 403/404 or blocked access. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable here, NOT confirmed absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role left as 'unknown' because manufacturer vs trader status could not be established from registry documents (MOA/main-object clause not read). No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation, not a negative finding. Declared HS codes 293359/293590 (heterocyclic compounds / sulphonamides) were not assessed against the object clause; per project rules an HS mismatch would not be grounds for rejection anyway. Recommended next step: re-run verification with working search access or a paid MCA/GST API (MCA21 master data + GSTN taxpayer search) before any verdict."
+}

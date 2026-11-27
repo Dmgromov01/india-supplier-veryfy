@@ -1,0 +1,9 @@
+{
+ "name_input": "EASTMAN CAST & FORGE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ выполнена по техническим причинам: все каналы исследования недоступны на момент запроса. web_search вернул 'searx: Connection refused' (2 запроса), http_get: eastmancastforge.com — DNS не разрешается (Name or service not known), duckduckgo.com/html — timeout, zaubacorp.com — HTTP 403, google.com/search — HTTP 429. Ни один источник (OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, eCourts/NJDG, SEBI/RBI/MCA-реестры действий регуляторов, CRISIL/ICRA/CARE/India Ratings, таможенные и B-L записи по РФ/СНГ) не был фактически прочитан. Все поля оставлены null как 'не проверено', а не как 'чисто': отсутствие данных здесь не является подтверждением отсутствия риска. Санкционных, судебных, рейтинговых и новостных утверждений не делаю, так как подтвердить их нечем. Требуется повторный запуск проверки при восстановлении доступа к сети; приоритетные источники для повтора: OFAC SDN search + consolidated list (sanctionssearch.ofac.treas.gov), EU consolidated financial sanctions list, UK OFSI consolidated list, BIS Entity List (bis.gov), eCourts services.ecourts.gov.in и NCLT по 'Eastman Cast & Forge Limited', сайты CRISIL/ICRA/CARE/India Ratings, а также открытые таможенные базы (ImportGenius/Panjiva/Volza) на предмет отгрузок в РФ и СНГ. Примечание по правилу 2: любые найденные при повторе санкции, суды или уголовные дела владельцев не будут основанием для отклонения — только нейтральная фиксация 'есть сложности'."
+}
