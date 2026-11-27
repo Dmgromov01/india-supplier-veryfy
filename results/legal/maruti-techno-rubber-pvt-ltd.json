@@ -1,0 +1,18 @@
+{
+ "name_input": "Maruti Techno Rubber Pvt . Ltd",
+ "legal_name": "MARUTI TECHNO RUBBER PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Bing returned only generic unrelated results (Maruti Suzuki, techno music) and ignored exact-phrase operators; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in company/LLP lookup returned HTTP 403; Google search returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT verified, not negative findings. No evidence of non-existence, strike-off, liquidation or bankruptcy was obtained, so per the rules the company is NOT rejected; it stays in the base with role 'unknown' pending a re-run of registry checks. Input state field was empty, so no state mismatch can be assessed. Declared HS codes 382440 / 392190 (construction-chemical admixtures / plastic laminates) are not a rejection ground under the current rules; HS is to be corrected to the factual code at verification, not used to drop the company. Recommended next step: re-query MCA master data by exact name and by state, and pull GSTIN from a public GST profile once search access is restored."
+}

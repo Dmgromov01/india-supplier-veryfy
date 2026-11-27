@@ -1,0 +1,18 @@
+{
+ "name_input": "WIM PLAST LIMITED",
+ "legal_name": "WIM PLAST LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; mca.gov.in returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com returned only irrelevant results (Windows Imaging Format, Women in Manufacturing) for every query variant tried, i.e. no indexed registry page for this entity surfaced. Consequently CIN/LLPIN, PAN (and therefore PAN holder type from the 4th character), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable here, NOT confirmed absent. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible, and no figure is estimated. Role set to 'unknown' because the manufacturer/trader distinction cannot be established from a registry record; the claimed HS 940180 (seating/furniture) and industry 'Строительство и DIY' are unverified input claims only. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of accessible data is not grounds for rejection. Recommended action: re-run verification with working search plus MCA master-data / GST portal access, or obtain the CIN or GSTIN directly from the supplier, before any verdict is recorded."
+}

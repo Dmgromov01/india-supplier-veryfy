@@ -1,0 +1,9 @@
+{
+ "name_input": "SCHREIBER DYNAMIX DAIRIES PVT. LTD; SCHREIBER DYNAMIX DAIRIES PRIVATE LTD.; SCHREIBER DYNAMIX DAIRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо полностью нерелевантные результаты (nysubway.com, chatterabq.org) на все запросы по названию компании; Google отдал HTTP 429, DuckDuckGo HTML — таймаут, zaubacorp.com — HTTP 403. Единственный успешно открытый источник — страница поиска OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/), но это лишь интерфейс без выполнения запроса: фактического совпадения по имени не проверено, поэтому sanctions_hit = null (не подтверждено ни наличие, ни отсутствие). Судебные дела (NCLT/NCLAT/High Court/eCourts), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия (FSSAI, RBI, ROC/MCA), негативные новости и признаки поставок в РФ/СНГ — не проверены, все поля null. Никакие данные не выдумывались. Требуется повторный прогон при работающем поиске. По правилу 2 проекта: даже при обнаружении санкций/судов/уголовных дел в дальнейшем — это не основание для отклонения, только нейтральная пометка «есть сложности»."
+}
