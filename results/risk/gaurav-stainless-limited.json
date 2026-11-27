@@ -1,0 +1,9 @@
+{
+ "name_input": "GAURAV STAINLESS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; Bing HTML fallback returned identical cached generic results about the personal name 'Gaurav' regardless of query (including queries with 'Stainless', 'India', 'Russia', 'sanctions'), i.e. no actual company match was ever retrieved. Google returned HTTP 429, DuckDuckGo timed out, zaubacorp.com returned HTTP 403. The OFAC Sanctions List Search page was reachable but is a JavaScript form with no GET-queryable results, so no SDN/non-SDN screen could be executed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because NOTHING WAS CHECKED, not because checks came back clean. Do not read these nulls as 'no sanctions', 'no court cases' or 'no Russia/CIS supply' - they are unverified. No claim in this record is sourced, and per project rules no numbers, CINs, PANs or shipment records have been invented. Action required: re-run this company when the search backend is restored, and screen at minimum OFAC SDN/non-SDN, UN, EU, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NCLT) and credit rating agencies (CRISIL/ICRA/CARE/India Ratings). Note also that the claimed industry ('Food & FMCG') is inconsistent with the company name and declared HS 732393 (stainless steel kitchen/household articles) - flagged for the HS/identity researcher, not assessed here as it is outside this role's scope."
+}

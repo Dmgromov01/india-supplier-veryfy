@@ -1,0 +1,18 @@
+{
+ "name_input": "LEAF N BEYOND PRIVATE LIMITED",
+ "legal_name": "LEAF N BEYOND PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) and direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Bing/Google/DuckDuckGo fallbacks returned only generic 'leaf' results or HTTP 429/timeout, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified. Nothing is asserted as fact: all registry fields are null because they are not confirmed public data in this session, not because the entity was found to be non-existent. No rejection is applied - absence of retrievable records is not evidence of non-existence, strike-off, liquidation or bankruptcy. Role left as 'unknown' (no verified evidence of manufacturing or trading activity). Note also that the declared HS codes 240110/240120 (unmanufactured tobacco, not stemmed/stemmed) do not match the claimed industry 'Строительство и DIY' (construction/DIY); per project rules this is NOT a rejection ground - the company stays in the database and the HS code should be corrected to the actual one, verdict accepted_hs_corrected, pending confirmation of the real product line. Recommended next step: re-run verification when search access is restored, or supply the CIN/GSTIN so the MCA master data and GST status can be pulled directly."
+}

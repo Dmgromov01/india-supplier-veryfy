@@ -1,0 +1,18 @@
+{
+ "name_input": "GLOBAL VENTURES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным каналам. 'GLOBAL VENTURES' — не уникальное наименование: в Индии под ним и близкими вариантами (Global Ventures, Global Venture, Global Ventures Pvt Ltd и т.п.) может существовать множество юрлиц, а также незарегистрированные торговые наименования/проприеторства. Входные данные не содержат ни PAN, ни штата, ни города, ни CIN, ни адреса — привязать запись к конкретному юрлицу нельзя. Инструменты проверки в этой сессии недоступны: web_search (searx) возвращал 'Connection refused' на всех запросах; zaubacorp.com, instafinancials.com и mca.gov.in отдали HTTP 403; thecompanycheck.com — 404; duckduckgo.com — timeout; google.com — HTTP 429; bing.com отдавал нерелевантную выдачу (игровой сайт Globle, globalindustrial.com и т.п.), поиск по site: не сработал. Следовательно, ни exact legal entity name, ни CIN/LLPIN, ни PAN (и его 4-й символ/тип держателя), ни GSTIN/GST-статус, ни дата инкорпорации, ни MCA-статус, ни выручка FY25/FY26 не подтверждены ни одним публичным источником — все поля null, значения не выдумывались. Роль определить нельзя (нет данных о деятельности; заявленный профиль 'продукты питания и FMCG' не совпадает с заявленными HS 847130 и 851712 — ноутбуки и телефоны — однако по правилам проекта несоответствие HS не является основанием для отклонения). ВЕРДИКТ: НЕ отклонён — отсутствие данных не равно отсутствию юрлица; статус 'требует идентификации'. Для завершения проверки нужны от поставщика: полное юридическое наименование с суффиксом (Pvt Ltd / LLP / Proprietorship), CIN или LLPIN, PAN, GSTIN, адрес регистрации и штат. После этого проверку можно закрыть по MCA/GST-порталам."
+}
