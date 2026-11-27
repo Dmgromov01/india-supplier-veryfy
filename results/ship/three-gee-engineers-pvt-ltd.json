@@ -1,0 +1,8 @@
+{
+ "name_input": "THREE GEE ENGINEERS PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/three-gee-engineers-pvt-ltd returned only a paywalled shell: \"Shipments available for THREE GEE ENGINEERS PVT LTD, refreshed daily\" — zero actual shipment rows, dates, destinations, HS codes or B/L numbers were rendered (0 rows seen vs. a claimed 'shipments available' counter). volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge; no free view obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record was retrieved. Search backends failed: DuckDuckGo tool returned 'no results (searx: urlopen error [Errno 111] Connection refused)'; Bing for \"Three Gee Engineers\" India shipment export returned only generic results about the word 'three' (Wikipedia, Three UK, 3Rivers FCU) — no company-specific hit. 0 relevant rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок (нет ни одной записи с датой, направлением, HS и B/L), ни внутренних поставок (нет GST-оборота, тендеров, контрактов) подтвердить не удалось. Все источники таможенных данных были недоступны (403/JS-challenge) либо отдавали только заглушку без строк. Заявленный HS 731414/731419 (тканые сетки/решётки из нерж. стали) не проверен по фактическим записям — HS не является основанием для отклонения, код подлежит уточнению при появлении данных. Юрлицо не проверялось по MCA в рамках этой роли (реестры вне охвата). Выручка и объём экспорта: null — публичных данных не найдено, цифры не выдумывались. Требуется повторная проверка при восстановлении доступа к volza/eximpedia/importgenius или к платному срезу ImportKey."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "NATCHART SHIPPING PRIVATE LIMITED",
+ "legal_name": "NATCHART SHIPPING PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) returned connection refused on all attempts; Bing returned only irrelevant results for the exact-name queries; MCA master-data portal, Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403/404 to automated fetches. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null — not public via accessible sources in this session, and NOT invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected under the project rules; it is retained with role 'unknown' pending manual MCA lookup by exact name. Note on the input: declared HS codes 382290 (chemical preparations/diagnostic reagents), 901850 (ophthalmic instruments) and 902139 (orthopaedic/prosthetic appliances) do not match the claimed industry 'Нефтегаз и химия' (oil & gas and chemicals) — only 382290 is chemistry-adjacent; per rule 3 this is not a rejection ground, the HS code should be corrected to the actual one at verification. Also note the name suggests a shipping/logistics entity, which would normally be a service_provider rather than a manufacturer or trader — role left 'unknown' rather than guessed. Recommend re-running with a working search backend or a paid registry API (MCA/Tofler/Probe) before any commercial decision."
+}

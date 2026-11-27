@@ -1,0 +1,18 @@
+{
+ "name_input": "GAYATRI AYUPHARMA PRIVATE LIMITED",
+ "declared_hs": "300490",
+ "actual_hs_list": [
+  "30049099",
+  "30039011",
+  "30039021",
+  "33049990",
+  "33059019",
+  "33019090",
+  "33012990",
+  "30049011"
+ ],
+ "match_status": "partial",
+ "product_summary": "Official site gayatriayupharma.com (fetched 2026): 'Gayatri Ayupharma Pvt. Ltd. is a trusted manufacturer of authentic Ayurvedic and herbal health care products'. Product categories shown on the homepage: Syrup, Churna (herbal powder), Cream, Oil, Shampoo. Manufacturing Capabilities page repeats the range: 'oils, creams, syrups, powders, and wellness formulations'. Export Note page describes an export wing (Europe, Middle East, Americas), private-label/white-label services, COA/MSDS/dossiers, and claims GMP, ISO, HALAL and AYUSH certifications. Address: Plot 57-59, Kalptaru Industrial Park, Chandial-Chavlaj Road, Ta. Chandial, Gujarat 382433. No individual SKU pages were reachable (/products/, /product/, /about/ return 404), so the range is documented only at category level.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 300490 (other medicaments, retail) is plausible for the syrup/tonic and churna lines and is PARTIAL, not wrong: Ayurvedic medicaments in measured doses fall under 3004 (3004 90 11 for Ayurvedic medicaments in Indian tariff), while bulk/unmeasured herbal formulations go to 3003 90. The declared single code does not cover the rest of the declared range: creams and shampoos are cosmetic preparations (3304 99 / 3305 90), and the 'oil' line splits between medicinal oils (3004 90) and cosmetic/herbal hair-body oils (3301 90 / 3305 90) - the site does not say which. So the declaration is incomplete rather than incorrect; per project rule 3 the company is kept and the code set is corrected/expanded, verdict accepted_hs_corrected. INDUSTRY MISCLASSIFICATION: the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) is wrong - this is an Ayurvedic pharma/FMCG manufacturer in Gujarat; the industry field must be corrected to pharma/Ayurveda. TRADER SIGNS: the site markets private label / white label services and third-party product development, i.e. it also acts as a contract manufacturer for other brands, so part of any flow may be goods made for third parties under their own labels - role recorded as manufacturer_trader. All product, certification and export claims are website statements only: no customs line, invoice or B-L was reviewed in this task, therefore every product and the export capability are marked 'заявлено, не подтверждено'. No registry, revenue or shipment-volume research was performed (out of scope for this role)."
+}

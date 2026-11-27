@@ -1,0 +1,18 @@
+{
+ "name_input": "ALOK INGOTS MUMBAI PVT LTD",
+ "legal_name": "ALOK INGOTS MUMBAI PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. The web_search tool was unavailable during this run (backend connection refused), and all registry aggregators attempted returned blocks or no data: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; falconebiz.com returned only a generic search shell with no company record; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned unrelated results. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status could not be confirmed from any public source and are left null - none of these values were guessed or constructed. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role is 'unknown': the name contains 'INGOTS' (suggestive of metal ingot manufacturing, consistent with declared HS 722220 - stainless steel bars/rods), but this is an inference from the name only, not evidence of manufacturing vs trading activity. Per project rules, no rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a verification gap, not a negative finding. HS code 722220 is not treated as a rejection ground in any case. ACTION REQUIRED: re-run this company when search access is restored, or verify manually on the MCA portal (mca.gov.in company search) and the GST portal (gst.gov.in search taxpayer) using the exact legal name."
+}

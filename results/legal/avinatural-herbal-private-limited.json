@@ -1,0 +1,18 @@
+{
+ "name_input": "AVINATURAL HERBAL PRIVATE LIMITED",
+ "legal_name": "AVINATURAL HERBAL PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT retrieved - verification incomplete, not a negative finding. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; Bing via http_get returned wholly unrelated results (Walmart, Ancestry, National Beer Day) for every query string, i.e. the search layer is unusable. Direct fetches of registry/profile sources all failed: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404, tofler.in 404, falconebiz.com returned only its generic search shell (JS/login required), mca.gov.in MDS 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - none of these are public to me through the available channels in this session, and none were guessed. Legal name is carried over from the input claim only; it has NOT been independently confirmed against MCA. Role left as 'unknown' - the input classifies the company under 'Нефтегаз и химия' with declared HS 300490 (pharma), which is an HS/industry mismatch to be corrected at the data level per rule 3, but with no registry record I cannot determine whether the entity is a manufacturer, trader or manufacturer_trader. Revenue FY25/FY26 null: no audited accounts or official filings were accessible, and figures are not to be estimated. NOT rejected: rejection is permitted only where non-existence, strike-off, liquidation or bankruptcy is established, and here nothing was established either way. Recommended action: re-run this company in a later batch when search/registry access is restored, or verify manually on the MCA master-data portal by company name."
+}

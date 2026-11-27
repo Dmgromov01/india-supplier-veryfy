@@ -1,0 +1,18 @@
+{
+ "name_input": "ALFA ICA (INDIA) LTD",
+ "legal_name": "Alfa Ica (India) Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1991 (year only; exact date not verified)",
+ "state_registered": "Gujarat",
+ "state_claimed": "",
+ "mca_status": "Active (listed on BSE, scrip code 530973; 35th AGM held for FY2025-26, so the entity is live and filing)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 78.56,
+ "revenue_fy26_cr": 86.64,
+ "revenue_source": "Screener.in company page for BSE:530973 (Alfa Ica (India) Ltd), Profit & Loss table, standalone figures in Rs crore: Mar 2025 Sales 78.56, Mar 2026 Sales 86.64; derived from the company's audited/BSE-filed results. Cross-check: quarterly sums FY25 (Jun24 19.51 + Sep24 18.42 + Dec24 20.26 + Mar25 20.37 = 78.56) and FY26 (19.59 + 18.98 + 22.17 + 25.90 = 86.64).",
+ "note": "Registry identifiers not confirmed: CIN, PAN and GSTIN could not be retrieved — zaubacorp, thecompanycheck and moneycontrol returned HTTP 403, Google 429, DuckDuckGo timed out, and the search backend (searx) was down for the whole session, so no public GST/MCA profile page could be read. CIN/PAN/GSTIN therefore left null rather than guessed. What IS confirmed from primary/company sources: the legal name 'Alfa Ica (India) Limited' (website alfaica.com footer 'ALFAICA (I) Ltd', investor-relations page with 35th AGM FY2025-26 and annual reports 2018-19..2024-25), BSE listing 530973, incorporation year 1991 (Screener 'About'), and registered office at Alfa-Palazzo, Satellite Road, Jodhpur, Ahmedabad 380015, Gujarat — so the registered state is Gujarat (input state was blank, no mismatch to flag). Role: manufacturer — the company operates its own laminate plant (website: 30 acres, 9000+ sheets/day; Screener: 21 lakh sheets/year installed laminate capacity, ISO 9001/14001, Star Export House), so manufacturer rather than trader. Revenue figures are standalone (no consolidated accounts published) and taken from the BSE-filed P&L as aggregated by Screener; the FY26 figure is the March-2026 year-end column and should be re-checked against the signed annual report PDF once accessible. Declared HS 392190 (plastic laminates) is consistent with the actual product line (high-pressure decorative laminates) — no HS correction needed. No rejection grounds: entity exists, is listed and actively filing."
+}
