@@ -1,0 +1,8 @@
+{
+ "name_input": "SAI KRIPA JEWELLERS",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'sai-kripa-jewellers' returned only the generic template shell: \"Shipments available for SAI KRIPA JEWELLERS, refreshed daily\" — zero shipment rows rendered, no date, no destination, no HS code, no bill-of-lading number. Second slug variant 'sai-kripa-jeweller' returned the identical empty template. Source counter: 2 ImportKey URLs fetched, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. web_search backend was down for the whole session (\"searx: <urlopen error [Errno 111] Connection refused]\" on all 3 queries), and volza.com, eximpedia.app and trademo.com free views all returned HTTP 403 Forbidden. Source counter: 3 search attempts, 0 results; 3 trade-data sites, 0 accessible.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: это нехватка доступа, а не отрицательный результат. Ни одной экспортной записи (дата/направление/HS/B-L) и ни одного подтверждения внутренних поставок получить не удалось, поэтому оба статуса = unknown, а не none_found. ВАЖНО: заявленный HS 711319 (ювелирные изделия из драгметаллов) прямо противоречит заявленной отрасли «Продукты питания и FMCG» — по правилу 3 это НЕ основание для отклонения; компания сохраняется в базе, фактический код подлежит уточнению у поставщика. Выручка и объём экспорта: null (не публичны / не получены), не выдумывались. Рекомендация: повторить проверку при доступном поиске и платных источниках (Volza/Eximpedia), а также запросить у поставщика IEC, GSTIN и копии shipping bills."
+}

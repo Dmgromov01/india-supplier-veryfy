@@ -1,0 +1,18 @@
+{
+ "name_input": "KSHIPRA BIOTECH PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403; MCA master-data portal (mca.gov.in) returned HTTP 403; Google/Bing/DDG HTML endpoints returned bot-challenge or irrelevant pages. Therefore the exact legal entity name, CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all UNVERIFIED and left null - none of these values were invented. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role set to 'unknown' (not 'trader'/'manufacturer') because the MCA business-object clause could not be read. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way - absence of retrievable data is not evidence of non-existence. Action required: re-run verification when search/registry access is restored, or obtain the CIN or GSTIN from the supplier directly (a GSTIN alone would confirm the PAN embedded in characters 3-12 and the registered state code). Declared HS codes 170250 and 330119 were not assessed here (out of scope for this role) and are not a basis for rejection per rule 3."
+}

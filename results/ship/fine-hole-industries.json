@@ -1,0 +1,8 @@
+{
+ "name_input": "FINE HOLE INDUSTRIES",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/fine-hole-industries (and slug variant .../fine-hole-industries-hemant-goel) returned only the page template: \"Shipments available for FINE HOLE INDUSTRIES, refreshed daily\" — a boilerplate placeholder, not a record. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was displayed on any accessible page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search backend (DuckDuckGo/searx) was unreachable for every query, and volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что поставок не было: проверить не удалось, потому что все источники закрыты (403/пейволл), а поисковик недоступен. Статус по обоим каналам — unknown, а не none_found, чтобы не утверждать отсутствие факта без проверки. Выручка и объём экспорта: null (не публичны, не выдумываю). HS 842199 (части фильтровального оборудования) заявлен, но фактический код по отгрузкам подтвердить нечем — HS не меняю и не отклоняю по HS (правило 3). Роль поставщика (manufacturer/trader) не установлена — unknown. Юрлицо по названию 'FINE HOLE INDUSTRIES' с владельцем Hemant Goel в реестрах (MCA) не сверено; CIN/PAN отсутствуют в заявке и не найдены — null. Оснований для rejected нет: ликвидация/банкротство/несуществование юрлица не подтверждены. Рекомендация: повторить проверку при доступе к платному срезу таможни (Volza/Eximpedia) или к MCA/GST-порталу."
+}

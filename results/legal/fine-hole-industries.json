@@ -1,0 +1,18 @@
+{
+ "name_input": "FINE HOLE INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного реквизита. Поисковая инфраструктура была недоступна (DuckDuckGo/searx — connection refused), Bing по запросам «Fine Hole Industries» + GST/CIN/proprietor выдавал только нерелевантные результаты (аккаунты X/Twitter), реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, tofler.in) вернули 403/404. В открытых источниках не найдено ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты инкорпорации, ни штата регистрации. Входные данные противоречивы: в поле legal_claimed указано физлицо «HEMANT GOEL», а не юрлицо — вероятно, это проприеторская фирма (sole proprietorship) либо название торговой марки, что означает отсутствие CIN и MCA-записи в принципе; для проприеторства PAN был бы личным PAN физлица (4-й символ 'P'), но подтвердить его публично не удалось. Штат в заявке не указан, поэтому сопоставление state_registered vs state_claimed невозможно. Роль (manufacturer/trader) не определена — нет ни MCA-записи, ни GST-профиля. Выручка FY25/FY26: null — аудиторской отчётности или официальных филингов не найдено; для проприеторства такие данные в публичном доступе обычно отсутствуют. ВАЖНО: отклонять НЕ следует — отсутствие данных не равно несуществованию юрлица; критерии отклонения (ликвидация/банкротство/struck off) не подтверждены. Требуется ручная проверка: запросить у поставщика PAN/GSTIN-сертификат и, если это компания, CIN; проверить GSTIN на gst.gov.in (Search Taxpayer) и MCA-выписку по CIN. Заявленный HS 842199 (части фильтровального оборудования) не проверялся — по правилам проекта несоответствие HS не является основанием для отклонения."
+}
