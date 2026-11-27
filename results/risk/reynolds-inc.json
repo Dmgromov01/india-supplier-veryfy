@@ -1,0 +1,9 @@
+{
+ "name_input": "REYNOLDS INC",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Risk-only check as of today. Search tooling was degraded: the primary search backend returned connection errors (searx: Connection refused) and the fallback engine returned only generic US 'Reynolds' entities (Reynolds Consumer Products, Reynolds & Reynolds, Reynolds Community College, etc.) with no India-specific or sanctions-specific hits. No public record was found linking an entity named 'REYNOLDS INC' (as declared, no PAN/state/CIN supplied) to OFAC SDN, UN, EU, UK or BIS Entity List designations — but this is an absence of evidence from an incomplete search, not a verified clearance; sanctions_hit left null rather than false. No Indian court case (party role/status), no regulator action, no dated negative news, no credit rating (CRISIL/ICRA/CARE/India Ratings) and no evidence of supplies to Russia or the CIS could be located or attributed to this name. All fields null because nothing is public/attributable under this exact name; the name is highly generic and likely ambiguous, so any match would need a CIN/PAN or registered address to confirm identity before drawing conclusions. Per project rules, no rejection is proposed on risk grounds — sanctions/court/criminal matters are never rejection grounds; the company stays in the database. Recommend re-running the risk check once search access is restored and once a unique identifier (CIN/PAN) is supplied."
+}

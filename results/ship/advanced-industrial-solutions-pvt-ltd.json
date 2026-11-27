@@ -1,0 +1,8 @@
+{
+ "name_input": "Advanced Industrial Solutions Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'advanced-industrial-solutions-pvt-ltd' and 'advanced-industrial-solutions-private-limited' returned only the paywalled shell: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows visible (source counter: page states 'Shipments available for ADVANCED INDUSTRIAL SOLUTIONS PVT LTD, refreshed daily', rows actually seen: 0). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Searches returned no India-specific hits for the exact legal name; zaubacorp/thecompanycheck/eximpedia/trademo/importgenius all returned HTTP 403, and the search backend (searx) was unreachable ('Connection refused'), so no domestic supply record was seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок были либо за пейволом (ImportKey: 0 строк), либо недоступны (403/JS-challenge на volza, eximpedia, trademo, importgenius, zaubacorp, thecompanycheck). Поиск (searx) не работал, Bing по точному названию выдал только нерелевантную выдачу про 'advanced' — совпадений с индийской компанией нет. Заявленный HS 848320 (корпусы подшипников) ничем не подтверждён и не опровергнут; HS не является основанием для отклонения. Выручка и объём экспорта: null (не публичны / не получены). CIN/PAN не подтверждены — null. Требуется повторная проверка при доступном поиске или платном доступе к таможенным данным."
+}

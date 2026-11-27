@@ -1,0 +1,18 @@
+{
+ "name_input": "SUPERIOR GROUP",
+ "legal_name": "SUPERIOR GLASS PRIVATE LIMITED (as claimed in input; NOT verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified. All registry sources attempted were inaccessible: web_search backend returned 'Connection refused' (searx down); zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404; mca.gov.in Master Data returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML/lite timed out; Bing returned only irrelevant results (query terms ignored, results about Superior, Colorado). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrievable in this session, NOT invented. No rejection applied: absence of retrievable data is not proof of non-existence, so the entity is not marked rejected. Two red flags to resolve manually: (1) the claimed legal name 'Superior Glass Private Limited' is a glass company name while the declared HS code 220210 is bottled/beverage waters - a name/HS mismatch that under project rules is NOT grounds for rejection, only for HS correction to the factual code; (2) the input name 'SUPERIOR GROUP' is a trade/group name, not a legal entity name, so the exact legal entity must be confirmed from MCA before any onboarding. Role left 'unknown' - no evidence of manufacturing plant or trading activity was retrievable. Recommended next step: manual MCA Master Data lookup by name and GST portal search on the confirmed legal name."
+}
