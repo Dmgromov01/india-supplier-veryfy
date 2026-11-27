@@ -1,0 +1,18 @@
+{
+ "name_input": "Kach motors pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused'; (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — HTTP 403; (4) instafinancials.com — HTTP 404 (страница с таким слагом отсутствует); (5) search.mca.gov.in — DNS не резолвится; (6) google.com — HTTP 429; (7) duckduckgo.com/html и lite.duckduckgo.com — таймаут; (8) bing.com — вернул нерелевантную выдачу (страницы про Windows/PG&E), совпадений по 'Kach Motors' нет. Таким образом, точное юрлицо, CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 остаются null — публично не получены в рамках этой проверки, а не 'отсутствуют в природе'. ВАЖНО: отклонять компанию НЕЛЬЗЯ — нет доказательств, что юрлицо не существует, ликвидировано, struck off или банкрот; отсутствие данных не является основанием для rejected. Роль (manufacturer/trader) не определена — null/unknown, требуется повторная проверка при доступности MCA/ZAUBACORP. Заявленный HS 870899 (части и принадлежности моторных транспортных средств) не проверялся по существу и в любом случае не является основанием для отклонения (правило от 23.11.2026). Штат в исходных данных не заявлен (state_claimed пусто), поэтому сопоставление 'штат регистрации vs заявленный' невозможно. Рекомендация: повторить запрос к MCA Master Data / GST-порталу вручную или через иной прокси-доступ."
+}

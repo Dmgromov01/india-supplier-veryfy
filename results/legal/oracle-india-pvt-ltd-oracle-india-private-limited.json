@@ -1,0 +1,18 @@
+{
+ "name_input": "ORACLE INDIA PVT LTD; ORACLE INDIA PRIVATE LIMITED",
+ "legal_name": "Oracle India Private Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "service_provider",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session: the web_search backend returned 'Connection refused' on every query, and all registry/profile sources attempted (zaubacorp.com, thecompanycheck.com, tofler.in, quickcompany.in, instafinancials.com company pages, mca.gov.in MDS) returned HTTP 403/404 or only boilerplate navigation text with no company master data. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT verified, not absent. Legal name 'Oracle India Private Limited' is the standard form of the Indian subsidiary of Oracle Corporation and matches the claimed name, but I could not confirm it against an MCA record, so treat it as unconfirmed. No rejection grounds were established (no evidence of non-existence, strike-off, liquidation or bankruptcy) - the entity is a well-known operating Indian private limited company, so it is retained, not rejected. Role assessed as service_provider (software licensing/support and IT services) rather than manufacturer or trader; the declared HS 847330 (computer parts/accessories) does not match a software/services business, but per project rules this is NOT a rejection ground - the HS code should be corrected to the actual code for software/IT services (typically 998314/998313 under SAC) and the verdict recorded as accepted_hs_corrected. Revenue FY25/FY26: null - no audited accounts or MCA filings were retrievable; figures must not be estimated. Recommended follow-up: re-run with a working search backend and pull the MCA master data + GST public profile to fill CIN, PAN, GSTIN, incorporation date and state."
+}

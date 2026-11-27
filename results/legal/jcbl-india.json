@@ -1,0 +1,18 @@
+{
+ "name_input": "JCBL INDIA",
+ "legal_name": "JCBL INDIA PRIVATE LIMITED (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed: web_search backend refused connections (searx: Connection refused); Google returned HTTP 429; Bing returned only unrelated results (YouTube/Ford F-150 pages) for queries on the company name, a candidate CIN and GSTIN; DuckDuckGo HTML endpoint timed out. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403, falconebiz.com HTTP 403, quickcompany.in HTTP 404, instafinancials.com returned only site boilerplate with no company record. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrieved, NOT invented. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of retrieved records is a data-access failure, not proof of non-existence. Role left as 'unknown' because manufacturer vs trader status cannot be established from registry data alone. Note also that the declared HS 843390 (parts of harvesting/threshing machinery) is inconsistent with the claimed industry 'metallurgy and mining'; per project rules this is NOT a rejection ground - the code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected once the actual product line is confirmed. Recommended next step: re-run verification against MCA master data / GST portal with working access, or obtain the company's CIN or GSTIN from the supplier directly."
+}

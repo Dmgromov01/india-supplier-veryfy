@@ -1,0 +1,18 @@
+{
+ "name_input": "Sultan Tobacco Machinery",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not verifiable in this run. The claimed legal name 'MOHAMMAD ASIF IQBAL' is a personal name, not a company name, which suggests a proprietorship/firm rather than a company - such entities have no CIN and no MCA record, only a GSTIN and PAN. No public profile (GST/IndiaMART/Zauba/Tofler/MCA) could be retrieved: DuckDuckGo search backend returned connection refused, Bing returned only generic 'Sultan' results and ignored quoted phrases, zaubacorp.com and mca.gov.in returned HTTP 403, Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, not invented. No audited accounts or official filings found, so revenue FY25 and FY26 are null. Role left as 'unknown' (cannot distinguish manufacturer vs trader from registry data). NOT rejected: absence of retrievable records is not evidence of non-existence, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy. Note also that declared HS 847890 (machinery parts) does not match the claimed industry 'Металлургия и горнодобыча' (metallurgy/mining) - per rules this is not a rejection ground; HS should be corrected to the factual code once the actual product line is confirmed. Recommend re-run with working search/registry access or manual GST portal lookup by trade name."
+}

@@ -1,0 +1,23 @@
+{
+ "name_input": "Kach motors pvt ltd",
+ "declared_hs": "870899",
+ "actual_hs_list": [
+  "8708.99",
+  "8708.40",
+  "8708.50",
+  "8708.80",
+  "8708.93",
+  "7318.15",
+  "7318.16",
+  "7318.22",
+  "7326.90",
+  "8483.10",
+  "8483.90",
+  "7616.99",
+  "7228.50"
+ ],
+ "match_status": "partial",
+ "product_summary": "По собственному сайту kachmotors.com (разделы About Us и Products, прочитано 23.11.2026): производитель компонентов из стальных прутков и поковок, работает с 1996 г. (сначала bright bars — обточенные/шлифованные прутки, с 2004 г. — высокоточные детали для автопрома). Заявлено 2500+ SKU в 20 семействах деталей, 3 завода в Питхампуре и Бхопале (Мадхья-Прадеш), Tier-1 поставщик для Automotive, Agriculture и Engineering. Реальные товарные линии по каталогу: (1) Трансмиссия — clutch release shaft, companion flange, cross shaft, idler shaft, involute keyway shaft, joint propeller shaft, reverse shifting shaft, shift finger/adapter, shifter fork, shifter jaw, shifter shaft & transmission rail, shifting lever, spindles, transmission shaft; (2) Подвеска — high tensile U-bolt, hex bolt, MS U-bolts, pin suspension, shackle pin, suspension bolt, threaded bolt, threaded bush; (3) Ось и рулевое — 3 leg spider, axle pin/cotter pin, bracket, collar, differential spider, king pin, lock nut, spacer, spline shaft, stud; (4) Двигатель — pin, pulley, spindle shaft, shifting lever; (5) Алюминий — extruded profile, locking pin, spacer, valve; (6) Safety equipment — air bag support, shaft housing, roller shaft; (7) Нержавеющая сталь — locking nut/stud, pulley, spacer, thread shaft; (8) Прочее — fork, clutch release assy, stabilizer bar, piston, metlon bushes. Плюс bright bars (peeled/drawn/ground) как исходная продукция.",
+ "role_hint": "manufacturer",
+ "comment": "Сопоставление с заявленным 870899: частично подтверждено. Основная масса каталога — действительно части и принадлежности моторных транспортных средств товарной позиции 8708: 8708.40 (коробки передач и их части — shifter fork, shifter jaw, shifting lever, transmission rail, clutch release shaft, idler shaft), 8708.50 (ведущие мосты с дифференциалом — differential spider, 3 leg spider, spline shaft, axle pin), 8708.80 (подвеска и её части — U-bolts, shackle pin, suspension bolt, pin suspension), 8708.99 (прочие части — bracket, collar, spacer, king pin, stud, propeller shaft joint). Однако 870899 как единственный код не покрывает существенную часть ассортимента: (а) крепёж — hex bolt, threaded bolt, stud, lock nut, MS U-bolts при поставке как изделия крепёжного назначения классифицируются в 7318.15/7318.16/7318.22, а не в 8708, если не являются очевидно частями конкретного узла (по каталогу разграничение невозможно — нужна спецификация); (б) шпоночные/шлицевые валы и шарниры передач могут попадать в 8483.10/8483.90; (в) алюминиевые extruded profile — 7616.99 или 7604; (г) bright bars (peeled/drawn/ground steel bars) — это 7228.50 / 7215, то есть полуфабрикат, а не автокомпонент, и в 8708 не относится вовсе. Отраслевая классификация «Авиастроение и транспорт» неточна: авиастроения в каталоге нет ни одной позиции, реально это automotive/agriculture/engineering (HCV, LCV, MCV, тракторный сектор, earthmoving). Признаков трейдера нет — компания заявляет собственное производство (токарная обработка, термообработка, шлифование, сборка, строится кузнечный цех), но это заявление сайта, а не подтверждённая запись. ВАЖНО по правилу 5: ни одна товарная позиция не подтверждена таможенной линией или B/L — весь перечень имеет статус «заявлено, не подтверждено» (источник — только kachmotors.com/products и kachmotors.com, дата обращения 23.11.2026). Следов фактических отгрузок (экспортных или внутренних) в рамках этой продуктовой проверки не проверял — вне моей роли. Вердикт по HS: код не отклонять, компанию сохранить; рекомендуется расширить декларацию до 8708.40 / 8708.50 / 8708.80 / 8708.99 плюс отдельные строки на крепёж (7318.15/7318.16) и на bright bars (7228.50), если они экспортируются. Выручка, объём экспорта, PAN, CIN, таможенные записи — не исследовались (вне роли), null."
+}

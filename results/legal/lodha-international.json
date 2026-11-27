@@ -1,0 +1,18 @@
+{
+ "name_input": "Lodha International",
+ "legal_name": "LODHA INTERNATIONAL LLP (as claimed in input; not verified against MCA/LLP registry)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' on all queries; zaubacorp.com and instafinancials.com returned HTTP 403; tofler.in search returned a 404 page; llp.gov.in did not resolve (DNS); google.com/search returned HTTP 429; bing.com returned only irrelevant/AI-generated filler results with no matching entity. Therefore no LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced from a public official profile. All such fields are set to null rather than guessed. IMPORTANT: the claimed legal form 'LLP' is unconfirmed - no evidence was obtained that an entity named exactly 'LODHA INTERNATIONAL LLP' exists in the MCA/LLP register, nor that a similarly named firm is a partnership rather than a proprietorship or private limited company. Per project rules, rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy; absence of accessible data is NOT such proof, so the company is retained with status unverified, not rejected. Role is 'unknown' - no registry document (MOA/partnership deed/object clause) was read to establish manufacturer vs trader. Revenue FY25/FY26: null - no audited accounts or official filings were accessible; figures must not be invented. Note also the input's declared HS 842230 (machinery for filling/closing/capsuling bottles) is inconsistent with the claimed industry 'food products and FMCG'; per project rules this is not a rejection ground - the HS code should be corrected to the actual activity once the entity's real business is documented. Recommended next step: manual lookup of the exact LLP name on the MCA portal (mca.gov.in 'LLP Master Data') and on the GST portal's public search, plus a request to the supplier for its LLPIN, PAN and GSTIN certificates."
+}
