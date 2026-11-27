@@ -1,0 +1,9 @@
+{
+ "name_input": "STAR TRACE",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — tooling failure, not a clean result. The web_search backend (searx) returned 'Connection refused' on all 4 attempts; DuckDuckGo HTML timed out; Bing returned only irrelevant generic results (query terms ignored), so no usable open-source search was possible. OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) was reachable and its SDN list was last updated 11/23/2026, but the tool is a JS form and cannot be queried via http_get, so no name-level sanctions screening was actually performed — sanctions_hit is null because UNVERIFIED, not because cleared. No Indian court records (eCourts/NCLT/High Court), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or negative news could be retrieved. No evidence of supplies to Russia or CIS was found, but absence of evidence here reflects search failure, not a negative finding. Only verifiable data point obtained: the company's own site (startrace.co.in, IndiaMART-hosted profile) presents it as 'Star Trace India', magnetic separators/mineral beneficiation equipment maker, Padianallur, Chennai, Tamil Nadu, GST No. 33AKMPP6776A1ZZ (self-declared on the profile page, not independently verified). Per project rules this is 'заявлено, не подтверждено' — a website claim is not evidence of actual shipments. RECOMMENDATION: re-run this company once search is restored; do not treat nulls as clearance. No rejection grounds identified (and per rules sanctions/court matters would not be rejection grounds anyway)."
+}

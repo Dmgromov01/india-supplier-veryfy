@@ -1,0 +1,8 @@
+{
+ "name_input": "STAR TRACE",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for STAR TRACE (https://importkey.com/countries/india/star-trace) renders only the template text: \"Shipments available for STAR TRACE, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were returned. Same result for slug variants /star-trace-private-limited and /star-trace-pvt-ltd. Rows actually seen: 0 of 3 pages.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved. web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, so no domestic-supply record was located. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок (нет ни одной таможенной/B-L записи с датой, направлением, HS и номером B/L), ни подтверждённых внутренних поставок (нет GST-оборота, тендеров, контрактов) получить не удалось. Причина техническая: importkey отдаёт только JS-оболочку без строк данных, volza/eximpedia/trademo вернули HTTP 403, importgenius — JS-challenge, zaubacorp — 403, поисковик был недоступен. Заявленные коды HS 847410 и 850511 (оборудование для сортировки/обогащения и постоянные магниты) не подтверждены и не опровергнуты фактическими записями. Выручка: null (не публична в доступных источниках). Объём экспорта: null. Статус компании (действующая/ликвидирована) не проверен — реестры вне области задачи. Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

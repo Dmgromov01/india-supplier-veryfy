@@ -1,0 +1,9 @@
+{
+ "name_input": "ACBEX GLOBAL PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' for both 'ACBEX GLOBAL PRIVATE LIMITED' and 'MEGAN CERA GLOBAL PRIVATE LIMITED'. Fallback attempts also failed: zaubacorp.com and tofler.in returned HTTP 403; indiankanoon.org (case search for both names) returned HTTP 403; duckduckgo.com/html timed out; Google returned a redirect/consent interstitial; Bing returned only irrelevant results (M3GAN film, Microsoft) for the quoted company names, i.e. no matching entity surfaced. Consequently NOTHING could be verified on: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (party role/status), regulator actions, negative news, credit rating, or any evidence of supplies to Russia/CIS. All fields are null because the data is not public/not retrieved - these are NOT negative findings and must not be read as 'clean'. Note also the discrepancy in the input: name_input 'ACBEX GLOBAL PRIVATE LIMITED' vs legal_claimed 'MEGAN CERA GLOBAL PRIVATE LIMITED' - the relationship between the two names (rename, alias, or error) is unresolved and outside my remit (legal identity). Per project rules, no rejection is proposed: absence of retrieved data is not a rejection ground, and sanctions/court matters would not be rejection grounds in any case. Recommend re-running this company once the search backend is restored, or supplying a CIN/PAN so registry and court records can be queried directly."
+}

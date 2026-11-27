@@ -1,0 +1,9 @@
+{
+ "name_input": "Elite Us Global Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NO VERIFIABLE DATA OBTAINED. Tooling failure: the web_search backend returned 'searx: Connection refused' on every query, and Bing/Google HTML endpoints returned only generic cached results (Netflix 'Elite', dictionary entries) with no exact-phrase match for either 'Elite Global Business Services Private Limited' or 'Elite US Global Private Limited'. Registry aggregators (zaubacorp.com, tofler.in) returned HTTP 403 Forbidden, so no CIN, director list or registered-office data could be read. Consequently: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = NOT CHECKED, not 'clear'; Indian court cases (party role/status) = NOT CHECKED; regulator actions and negative news = NOT CHECKED; credit rating (CRISIL/ICRA/CARE/India Ratings) = NOT FOUND, null; evidence of supplies to Russia or CIS = NOT FOUND, null. IMPORTANT NAME DISCREPANCY: the batch name 'Elite Us Global Private Limited' does not match the claimed legal name 'ELITE GLOBAL BUSINESS SERVICES PRIVATE LIMITED' — these may be two different entities or a transcription error; this must be resolved before any risk conclusion is drawn. Per project rules, absence of found data is NOT a rejection ground and no adverse inference is drawn; the company is retained. Recommended next step: re-run with a working search backend and a confirmed CIN, then check OFAC SDN/UN/EU/UK/BIS lists, eCourts/NCLT by CIN, and CRISIL/ICRA/CARE rating pages. All fields left null because nothing is public/retrievable in this session — no numbers, CINs or case references were invented."
+}
