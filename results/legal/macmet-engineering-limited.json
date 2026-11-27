@@ -1,0 +1,18 @@
+{
+ "name_input": "MACMET ENGINEERING LIMITED",
+ "legal_name": "MACMET ENGINEERING LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failure: web_search (DuckDuckGo/searx) returned connection refused / irrelevant results; Google returned HTTP 429; Bing returned unrelated results; zaubacorp.com, thecompanycheck.com and instafinancials.com company pages returned HTTP 403; quickcompany.in returned 404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null — NOT invented. Only verified fact: the company operates the website macmet.com, which describes itself as a manufacturer/supplier of bulk material handling systems (overland troughed and pipe conveyors, shuttle conveyors, belt trippers, idlers/pulleys) and intake water screening equipment (travelling band screens, bar screens, trash racks, stop log gates, penstocks) for steel, power and cement sectors, with named projects for JSW Steel (Bellary), Tata Steel (West Bokaro), Heidelberg Cement, Coastal Gujarat Power and NPCIL Tarapur, plus a coal handling plant for a 3x55 MW project in the Philippines (source: https://www.macmet.com/ and https://www.macmet.com/about-us/). This supports role=manufacturer (own manufacturing claim, not independently confirmed) and is consistent with the claimed industry 'metallurgy and mining' only indirectly — the company is an equipment supplier TO steel/mining, not a metals producer. Declared HS 842833 (continuous-action conveyors/belt conveyors) is plausible for its conveyor business but was not checked against any shipping record per role scope. No rejection grounds found (no evidence of non-existence, strike-off, liquidation or bankruptcy), but equally no positive MCA confirmation — status should be treated as unverified pending a registry lookup (MCA master data / GST portal) once search access is restored. State claimed in input was empty, so no state mismatch can be assessed."
+}

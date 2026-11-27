@@ -1,0 +1,8 @@
+{
+ "name_input": "SUPER STEEL WINDOW COMPANY",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/super-steel-window-company (and slug variant .../super-steel-windows-company) returned only the generic page shell: \"Shipments available for SUPER STEEL WINDOW COMPANY, refreshed daily\" with an empty \"Number of shipments by month\" chart — 0 shipment rows actually rendered, no date, destination, HS code or bill-of-lading number visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved: zaubacorp.com company search and trademo/eximpedia/volza pages all returned HTTP 403 Forbidden; DuckDuckGo search backend returned \"Connection refused\" for every query, so no domestic supply record could be read.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки (нет даты, направления, HS и номера B/L) и ни одного подтверждённого факта поставок внутри Индии получить не удалось. Заявленный HS 730830 (двери/окна/рамы стальные) не подтверждён и не опровергнут — фактический код установить не по чему, поэтому HS оставлен как заявленный, без отклонения (правило 3). Выручка и объём экспорта: null — публичных данных нет, не выдумывались. Юрлицо (CIN/PAN) не проверено: реестры недоступны (403), поэтому оснований для rejected нет. Роль (manufacturer/trader) не определена — unknown. Источники: importkey (2 варианта slug, 0 строк данных), volza/eximpedia/trademo/zaubacorp — 403, web_search — недоступен. Требуется повторная проверка при доступности реестров и таможенных баз."
+}
