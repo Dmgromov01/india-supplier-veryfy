@@ -1,0 +1,18 @@
+{
+ "name_input": "Movil Impex Pvt. Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input itself is internally inconsistent: the name field says 'Movil Impex Pvt. Ltd' (a private limited company, which would carry a 21-character CIN) while legal_claimed says 'MOVIL IMPEX LLP' (a limited liability partnership, which would carry a 7-8 character LLPIN such as AAA-1234). No public record of either entity was retrievable: DuckDuckGo search backend returned connection refused, Bing returned only unrelated results for the exact-phrase queries, and the registry aggregators (Zauba Corp, TheCompanyCheck, InstaFinancials, Tofler) all returned HTTP 403/404 to direct fetches. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, not inferred. PAN holder type cannot be derived because no PAN was found. Revenue FY25/FY26 null: no audited accounts or MCA filings accessible. Role set to 'unknown' rather than manufacturer or trader, since no registry or GST record was available to establish activity. Per project rules this is NOT a rejection: absence of retrievable data is not proof of non-existence, and no evidence of strike-off, liquidation or bankruptcy was found. Recommended next step: manual check on the MCA portal (mca.gov.in) for both 'MOVIL IMPEX PRIVATE LIMITED' and 'MOVIL IMPEX LLP', plus a GSTIN lookup on the GST portal, to resolve which legal form actually exists and to obtain the CIN/LLPIN and PAN."
+}

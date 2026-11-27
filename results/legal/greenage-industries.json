@@ -1,0 +1,18 @@
+{
+ "name_input": "Greenage Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: no public record for an entity named 'Greenage Industries' was retrievable. Tooling failures during this run: DuckDuckGo search backend refused connections (all web_search calls returned 'Connection refused'); Bing HTML results were irrelevant/geo-mangled and returned no Indian company records; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in returned HTTP 403; gstinsearch.in failed DNS resolution. Therefore legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT verified, not confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown' because no MCA business-object classification could be read; the claimed industry 'oil & gas / chemicals' and declared HS 390110 (polyethylene) are unverified input claims only. Per project rules this company is NOT rejected: rejection requires positive evidence of non-existence, strike-off, liquidation or bankruptcy, and no such evidence was found - the absence here is a research-access failure, not a negative finding. Recommended action: re-run verification with working search/registry access, or obtain the GSTIN or CIN directly from the supplier, then confirm on the GST portal and MCA master data."
+}
