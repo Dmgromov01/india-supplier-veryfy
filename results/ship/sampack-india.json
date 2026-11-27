@@ -1,0 +1,8 @@
+{
+ "name_input": "Sampack India",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'sampack-india' returned only a paywalled shell: \"Shipments available for SAMPACK INDIA, refreshed daily\" — no shipment row, no date, no destination, no HS code, no B/L number was visible. Second slug 'sampack-india-private-limited' returned the identical template with the same placeholder text. Rows actually seen: 0 of 0 (counter says 'Shipments available', but no records rendered).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com returned HTTP 403; eximpedia.app returned HTTP 403; volza.com returned HTTP 403; Google search returned HTTP 429; DuckDuckGo backend was unreachable (connection refused) for all queries. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: все источники данных были недоступны (403/429/connection refused), поэтому статус по обоим направлениям — unknown, а не none_found. Заявленный HS 842240 (упаковочное/фасовочное оборудование) не соответствует заявленной отрасли «Продукты питания и FMCG» — по правилу 3 это не основание для отклонения, код подлежит исправлению на фактический после проверки; вердикт по HS не выносится, так как фактический код не подтверждён ни одной записью. Юрлицо 'SAMBATHAN MUTHUADAIKKALAVAN' как заявленное имя не проверено: реестры (MCA) недоступны, CIN/PAN не подтверждены — оставлены null, не выдуманы. Выручка и объём экспорта: null (нет публичных данных). Рекомендация: повторить проверку при восстановлении доступа к volza/eximpedia/importkey с платным просмотром и к реестру MCA."
+}

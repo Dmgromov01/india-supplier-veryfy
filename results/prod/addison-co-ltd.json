@@ -1,0 +1,20 @@
+{
+ "name_input": "ADDISON & CO LTD",
+ "declared_hs": "820750",
+ "actual_hs_list": [
+  "820750",
+  "820740",
+  "820760",
+  "820770",
+  "820780",
+  "820790",
+  "820231",
+  "820239",
+  "820900",
+  "820559"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт addison.co.in (главная страница, раздел Products) перечисляет реальный ассортимент: Hole Making — Twist Drills, Solid Carbide Drills, Carbide-Tipped Drills, Centre Drills, Step Drills, Sub-Land Drills, Shell Core Drills, Core Drills, Gun Drills (HSS), Annular Cutters (HSS), Reamers, Countersinks, Counterbores; Threading — Taps, Chasers, Thread Mills; Milling & Surface Preparation — End Mills, Slot Drills, Milling Cutters, General Cutters, Indexable Milling; Gear Cutting — Gear Hobs (HSS), Broaches (HSS), Shaping Cutters (HSS), Gear Finishing Tools (HSS); Tool Bits; Band Saw Blades (HSS Blades); Special Tools — Solid Carbide Special Tools, Custom Designed Tools (PCD & CBN). Заявлено 55 000+ конфигураций инструмента, собственное производство (Amalgamations Group).",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 820750 (свёрла для обработки металла) подтверждается каталогом — это ядро ассортимента (twist drills, solid carbide drills, gun drills и др.), поэтому совпадение по этой позиции точное. Однако декларация неполная: компания выпускает ещё минимум четыре товарные группы вне 8207.50 — метчики/резьбонарезной инструмент (820740), развёртки/зенкеры/зенковки (820760), фрезы и резцы для фрезерования (820770), зуборезный инструмент, протяжки, долбяки (820780/820790), резцы-пластины и tool bits (820900), полотна пильные (820231/820239), а также специальный инструмент из PCD/CBN. Итог: match_status = partial — код верный, но неполный; рекомендую дополнить декларацию перечисленными HS-6. Отрасль в заявке «Металлургия и горнодобыча» — миссклассификация: фактически это станкоинструментальная промышленность / производство режущего инструмента (metalworking tools), а не металлургия и не добыча. Признаков трейдера нет: сайт описывает полный цикл собственного производства, металлургию/термообработку и нанесение покрытий in-house, дилерскую сеть для сбыта. Все товарные позиции взяты из каталога на сайте — это заявлено, не подтверждено таможенными записями (таможенные линии в рамках данной задачи не проверялись)."
+}
