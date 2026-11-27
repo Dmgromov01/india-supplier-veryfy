@@ -1,0 +1,18 @@
+{
+ "name_input": "MCA International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Bing по запросам «MCA International» + CIN/GSTIN/IndiaMART выдавал только нерелевантные результаты про MCA (Ministry of Corporate Affairs, MCA Records, MCA Group) — совпадений с индийской компанией-экспортёром нет. Публичные реестровые агрегаторы (zaubacorp.com, thecompanycheck.com) вернули HTTP 403, Google — 429. Входные данные не содержали ни PAN, ни штата, ни адреса, ни сайта, поэтому однозначно сопоставить название «MCA International» с конкретным юрлицом (возможны варианты MCA International Pvt Ltd / LLP / проприетарная фирма) невозможно. CIN/LLPIN, PAN, GSTIN, дата регистрации, MCA-статус, выручка FY25/FY26 — null: не подтверждены публичным источником, выдумывать не стал. Роль — unknown (нет данных о производственных мощностях или торговой деятельности). Отклонение НЕ применяется: отсутствие подтверждения существования юрлица по доступным источникам не равно доказанной неликвидности/страйк-офф; статус — требует дополнительной проверки по MCA Master Data (mca.gov.in) и GST-порталу по фактическому PAN/GSTIN от поставщика. Заявленный HS 283090 (сульфиды/полисульфиды) в рамках данной роли не проверялся."
+}

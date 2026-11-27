@@ -1,0 +1,18 @@
+{
+ "name_input": "UTPL TECHNOLOGIES PRIVATE LIMITED",
+ "legal_name": "UTPL TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failed on this batch: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; Bing returned only irrelevant results (Yahoo Finance / Microsoft pages) for the exact-name queries; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in and quickcompany.in returned HTTP 404 for the guessed slugs; instafinancials.com returned 404. No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source, therefore all such fields are null rather than inferred. PAN holder type cannot be derived because no PAN was found (the 4th character of a PAN indicates holder type: P=individual, C=company, F=firm, etc.). Registered-office state is null and cannot be compared with the claimed state (input state field was empty anyway). Role is 'unknown' - the claimed industry ('Нефтегаз и химия' / oil & gas and chemicals) is inconsistent with the declared HS codes (841459, 847150, 847180, 847330 - fans/blowers, computers and computer parts), which suggests a possible trading or IT-hardware profile, but this is unverified and is NOT a basis for rejection per project rules. NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity simply could not be verified with the available tools. Recommended action: re-run with working search access or a paid registry feed (MCA V3 / Tofler / Zauba) to obtain CIN, PAN, GSTIN and FY25/FY26 audited revenue."
+}

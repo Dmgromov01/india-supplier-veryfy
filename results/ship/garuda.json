@@ -1,0 +1,8 @@
+{
+ "name_input": "Garuda",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/garuda and /garuda-aerospace both returned only the generic template shell: 'Shipments available for GARUDA AEROSPACE, refreshed daily' with a 'Loading...' placeholder and zero shipment rows rendered — 0 rows actually seen out of 0 claimed. No bill-of-lading number, date, destination or HS code was visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: eximpedia.app and trademo.com returned HTTP 403, volza.com returned HTTP 403, and the search backend (searx) was down ('Connection refused'). Bing results for '\"Garuda Aerospace\" export shipment bill of lading' returned only unrelated entities (Garuda Indonesia airline, Garuda Linux, Garuda deity, GARUDA scholarly portal) — 0 relevant rows.",
+ "note": "Company identity is unresolved: the input gives only 'Garuda' with legal_claimed 'BALAJI KOPPISETTY' and declared HS 880330 (aircraft parts). The name is highly ambiguous and collides with Garuda Indonesia, Garuda Linux and other entities, so no shipment record can be attributed to this supplier with confidence. No export records and no domestic supply evidence were found — следов поставок не найдено. This is a data-availability result, not a rejection: per project rules traders and companies with unresolved evidence stay in the base. Revenue and export volume: null (not public / not retrieved). HS 880330 is unverified against any actual shipment line; no correction is proposed because no factual HS code was observed."
+}

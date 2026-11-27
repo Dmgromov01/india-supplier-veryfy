@@ -1,0 +1,18 @@
+{
+ "name_input": "UNIQUE IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. The input gives 'UNIQUE IMPEX' with 'ANEESH BABU VELUTHAKKEL' in the legal_claimed field, which is a personal name, not a company name; this strongly suggests a sole proprietorship (proprietor Aneesh Babu Veluthakkel) rather than a company, in which case there would be no CIN/LLPIN and no MCA record - only a GSTIN and PAN (individual, 4th char 'P'). This is an inference from the input, NOT a confirmed fact. Research attempts failed: the DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only unrelated results (US doctors, dictionary entries, MarketWatch) for all three query variants; ZaubaCorp returned HTTP 403; Tofler and InstaFinancials returned 404 on search paths. No public profile, GSTIN, PAN, incorporation date, state or financial filing could be retrieved, so every registry field is left null rather than guessed. Revenue FY25/FY26 null - no audited accounts or official filings found. Role left 'unknown' - the declared HS 854129 (electronic integrated circuits/microassemblies) and 'IT and electronics' industry claim are unverified and, per project rules, HS mismatch is not a rejection ground. NOT rejected: there is no evidence the entity does not exist; the absence of data is a research-access failure, not a finding of non-existence. Recommended next step: re-run with a working search backend, or obtain the GSTIN directly from the supplier and validate it on the GST portal, which would also confirm the legal name and registered state."
+}

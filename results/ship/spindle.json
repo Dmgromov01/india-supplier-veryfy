@@ -1,0 +1,8 @@
+{
+ "name_input": "SPINDLE",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/precise-high-speed-spindle-service-centre-pvt-ltd — page exists for the exact legal name, but the shipment table is paywalled: only the boilerplate line \"Shipments available for PRECISE HIGH SPEED SPINDLE SERVICE CENTRE PVT LTD, refreshed daily\" is rendered; 0 shipment rows actually seen (no date, no destination, no HS code, no B/L number). Second sources unavailable: volza.com and eximpedia.app returned HTTP 403, importgenius.com returned a JavaScript challenge, trademo.com returned HTTP 403.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. web_search (DuckDuckGo/searx) failed on every attempt with \"<urlopen error [Errno 111] Connection refused>\", so no domestic-supply record was located; zaubacorp.com returned HTTP 403. Nothing to quote — no domestic evidence line obtained.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, все источники отгрузочных данных закрыты (paywall/403/JS-challenge), а поисковик в этой сессии недоступен. Статус обоих каналов — unknown, не declared_only и не confirmed. Ничего не выдумано: дат, направлений, HS-кодов, номеров B/L, выручки и GST-оборотов нет — null. Заявленный HS 846693 (части станков) соответствует профилю компании «spindle service centre» (ремонт/сервис шпинделей), но фактичность отгрузок по этому коду не проверена. Юрлицо в реестре MCA не подтверждено и не опровергнуто (zaubacorp 403) — оснований для rejected нет. Требуется повторная проверка при доступном поиске или платном доступе к таможенным записям."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "ACS system solutions",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/acs-system-solutions (also .../acs-system-solutions-pvt-ltd and .../acs-system-solution) returned only the generic page shell: 'Shipments available for ACS SYSTEM SOLUTIONS, refreshed daily' — no shipment row, no date, no destination, no HS code, no B/L number was rendered. Rows actually seen: 0 of 3 slug variants. volza.com, eximpedia.app, trademo.com and importgenius.com all returned HTTP 403 / JS challenge, so no second-source shipment record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. web_search tool was unavailable (searx: connection refused); html.duckduckgo.com timed out; bing.com returned only irrelevant results for 'ACS' (American Chemical Society, Census ACS) — 0 relevant rows.",
+ "note": "Следов поставок не найдено — ни экспортных записей, ни подтверждений внутренних поставок. Это НЕ означает, что отгрузок не было: единственный доступный источник (importkey) отдаёт пустую оболочку без строк, а volza/eximpedia/trademo/importgenius заблокированы (403), поисковые инструменты недоступны. Статус по обоим каналам — unknown, а не none_found, поскольку проверка фактически не состоялась. Заявленный HS (844332;847130;847180;852731 — принтеры/ПК/сетевые блоки/аудио) и заявленное лицо SANTOSH KUMAR ничем не подтверждены; PAN, CIN, выручка и объём экспорта — null (не публичны / не найдены). Требуется повторная проверка при доступности платных таможенных баз или GST-портала."
+}

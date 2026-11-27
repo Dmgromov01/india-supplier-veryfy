@@ -1,0 +1,18 @@
+{
+ "name_input": "Garuda",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна: входные данные неполные и противоречивы. 'Garuda' — не юридическое наименование, а бренд/торговая марка; в поле legal_claimed указано имя физлица 'BALAJI KOPPISETTY' (вероятно, директор/промоутер), а не название компании. Штат не заявлен, PAN не заявлен, CIN отсутствует. Поиск не дал результата: DuckDuckGo/searx вернул 'Connection refused' на всех запросах, Google — HTTP 429, Bing отдавал нерелевантную выдачу (игнорировал кавычки и site:-оператор), Tofler по запросу 'Koppisetty' — 404. Ни одна запись реестра (MCA/CIN, PAN, GSTIN, дата инкорпорации, статус, выручка) не подтверждена публичным источником, поэтому все поля null — цифры не выдумывались. Вердикт по правилам проекта: НЕ отклонять (нет доказательств отсутствия/ликвидации/банкротства юрлица); статус — 'заявлено, не подтверждено', требуется уточнение точного юрлица (напр. 'Garuda Aerospace Pvt Ltd', 'Garuda Aviation', ...) либо CIN/GSTIN от заказчика. Роль определить нельзя: при заявленном HS 880330 (части летательных аппаратов) возможны manufacturer, trader или service_provider — без реестра не различаются. Следов поставок не проверял (вне рамок роли)."
+}
