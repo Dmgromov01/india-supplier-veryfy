@@ -1,0 +1,18 @@
+{
+ "name_input": "SBL PRIVATE LTD.; SBL PVT LTD; SBL PRIVATE LIMITED; M/S SBL PRIVATE LIMITED; SBL PRIVATE LIMITED; SBL PRIVATE LIMITED; SBL PRIVATE LIMITED; SBL PRIVATE LIMITED; SBL PRIVATE LIMITED; SBL PRIVATE LIMITED",
+ "declared_hs": "300490",
+ "actual_hs_list": [
+  "30049099",
+  "30039090",
+  "30049011",
+  "33049990",
+  "33051000",
+  "33059000",
+  "34011190",
+  "30049014"
+ ],
+ "match_status": "partial",
+ "product_summary": "Indian entity identified as SBL (SBL House 2, Commercial Complex, Shreshtha Vihar, New Delhi 110092; phones +91-11-43731000/43731025/35301970; care@sblglobal.in, exportcare@sblglobal.in) — a HOMOEOPATHIC medicine manufacturer, self-described on sblglobal.in as 'India's No. 1 Trusted Homoeopathic Company'. Catalogue lines listed on the site: Homoeopathic Dilutions (incl. LM Potency Dilutions), Mother Tinctures, Bio-Chemics, Bio-Combination products, Tablet Specialities, Liquid Specialities, Ointments, Eye/Ear Drops, Kalmegh Drops, Prostonum Drops, Alfalfa Tonic with Ginseng, plus a personal-care/herbal range (Montano/Montana herbal shampoo and conditioner, hair care, skin care, oral care, baby care, hygiene care, herbals). Source: https://www.sblglobal.com/ (site nav + footer, incl. 'Export Support' contact).",
+ "role_hint": "manufacturer",
+ "comment": "HS 300490 is only PARTIALLY correct. Homoeopathic medicines in dosage form are classified in HS 3004 (subheading 3004.90 in most national tariffs, e.g. 30049099 / 30049011 for homoeopathic preparations in the Indian tariff), so the declared 6-digit code is directionally right for the core medicine lines and is NOT a rejection ground (Rule 3). However the declaration is incomplete and partly wrong at product level: (1) the personal-care/herbal lines (shampoos, conditioners, skin/hair/oral care, ointments for cosmetic use) fall outside 3004 — they map to 3304/3305/3307/3401, so a single 300490 line does not cover the real assortment; (2) mother tinctures and bulk dilutions may be classifiable as 3003 (or 1302 for some botanicals) rather than 3004 if not put up in measured doses/retail form — cannot be verified without the actual customs line; (3) INDUSTRY MISCLASSIFICATION: the claimed industry 'Нефтегаз и химия' (oil & gas and chemicals) is wrong — this is a homoeopathic/OTC pharma and personal-care manufacturer, not an oil & gas or industrial chemicals supplier. (4) TRADER SIGNS: none observed — the site presents own manufacturing (catalogue, own brand SBL, own plant/quality claims), so role = manufacturer; no third-party reseller pattern seen. (5) Product lines missing from the declaration: personal care (shampoo/conditioner/skin/hair/oral/baby/hygiene), herbal range, ointments, eye/ear drops, tonics. (6) All of the above is catalogue/site evidence only — no customs line was available to me in this task, therefore every product-to-HS mapping here is 'заявлено, не подтверждено' at the shipment level; the HS correction is a product-classification correction, not a rejection. Note on identity: the name string is highly ambiguous (10 duplicate variants, no PAN/state given) and at least two unrelated companies use 'SBL' — sblcorp.com (AI/IT services, since 2005) and SBL Pharmaceuticals of Tijuana, Mexico (allopathic, founded 2004). The mapping above is attributed to the Indian homoeopathic SBL (sblglobal.in) as the most probable match for an Indian exporter declaring 300490; if the actual counterparty is a different SBL entity, the HS mapping must be re-run. No revenue, export volume, CIN or PAN data was researched or asserted here (out of scope for this task; null)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Agro Gums",
+ "declared_hs": "130190;130239",
+ "actual_hs_list": [
+  "13023210 (guar gum powder / refined splits — mucilages & thickeners from guar seed, HS-6 130232)",
+  "13023290 (guar gum splits, guar churi, fast-hydration guar gum powder — other guar-seed mucilages)",
+  "13023200 (guar meal / guar meal powder — guar seed by-product, if sold as gum/meal flour)",
+  "23080000 / 230990 (guar meal as animal-feed ingredient — alternative classification depending on end use)",
+  "13023900 (cassia gum powder, cassia tora splits, cassia tora seed — other mucilages & thickeners, HS-6 130239)",
+  "13023900 (sesbania gum powder — other vegetable mucilage, HS-6 130239)",
+  "12079999 / 12099990 (cassia tora seed, raw seed for sowing/processing — oil seeds & oleaginous fruit, other)",
+  "07139000 / 12119099 (cassia tora seed as crude vegetable material — alternative, cannot_verify)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (agrogums.com, sitemap + product index) lists: Guar Gum Powder (incl. Fast Hydration Guar Gum Powder), Guar Gum Splits, Guar Churi, Guar Meal / Guar Meal Powder, Cassia Gum Powder, Cassia Tora Splits, Cassia Tora Seed, Sesbania Gum Powder. Self-described as 'Manufacturer, Processor and Exporter ... since 1979', '100% Export Oriented Unit', plant at 636, G.I.D.C. Estate, Phase-IV, Vatva, Ahmedabad-382445, Gujarat. Applications claimed: food & beverage, pet food, cattle feed, textile, paper, mining, oil & natural gas drilling, construction, explosives, cosmetics, pharma.",
+ "role_hint": "manufacturer (self-declared manufacturer/processor with own GIDC Vatva plant; no trader signs found on site — no third-party brands, no 'supplier of' language, no multi-brand catalogue). Not independently verified.",
+ "comment": "Сопоставление с заявленными кодами: 130239 — подтверждается (cassia gum powder, sesbania gum powder, cassia tora splits — это именно 'прочие растительные слизи и загустители', HS-6 130239). 130190 — частично: это общая товарная позиция 'камеди, смолы и прочие растительные соки', из которой гуаровая камедь выделена в отдельную субпозицию 130232; корректный код для основного продукта (guar gum powder/splits) — 130232, а не 130190. То есть по гуару заявлен родительский уровень, а не фактический HS-6. Пропущено в декларации: guar meal / guar meal powder (кормовой побочный продукт — вероятно 2308/2309, отдельная товарная позиция, не 1301), guar churi, cassia tora seed как сырьё (12-я группа, масличные семена), fast-hydration guar gum powder. Отрасль 'Нефтегаз и химия' — мисс-классификация: компания пищевого/технического назначения (food additives, E412 guar gum, E427 cassia gum), нефтегаз — лишь одно из применений (drilling fluid), а не отрасль. Признаков трейдера нет. ВАЖНО: всё перечисленное — заявлено на сайте, не подтверждено; таможенных/B-L записей в рамках этой проверки не исследовалось (по правилам роли), поэтому статус продуктов — 'заявлено, не подтверждено'. HS-несоответствие не является основанием для отклонения: компания сохраняется, код корректируется на фактический (130232 для гуара, 130239 для кассии/сесбании)."
+}

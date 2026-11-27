@@ -1,0 +1,18 @@
+{
+ "name_input": "SPECIALITY MEDICINES LIMITED; SPECIALITY MEDICINES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', затем таймаут; Google — HTTP 429; Bing отдавал нерелевантную выдачу (толкования слова 'speciality'), т.е. релевантных результатов по компании не найдено; MCA Master Data — HTTP 403; агрегаторы Zauba Corp и TheCompanyCheck — HTTP 403; Tofler по слагу 'speciality-medicines-private-limited' — 404 (страница не существует по этому адресу); InstaFinancials — 404. Ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус не получены из публичного источника, поэтому все поля null — цифры и идентификаторы не выдумывались. Важно: во входных данных указаны ДВА разных наименования ('Speciality Medicines Limited' и 'Speciality Medicines Private Limited') — это разные организационно-правовые формы и, как правило, разные юрлица; какое именно из них является поставщиком, из входа не определить, поэтому legal_name оставлен null. Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25 и FY26 не найдена ни в аудиторской отчётности, ни в официальных филингах — null. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно доказанному отсутствию юрлица или его ликвидации. Требуется повторная проверка при доступности MCA/Zauba/Tofler и уточнение у заказчика точного наименования (Limited или Private Limited). Заявленный HS 300410 (медикаменты) не соответствует указанной отрасли 'Нефтегаз и химия' — по правилам проекта это не основание для отклонения, код подлежит исправлению на фактический после подтверждения номенклатуры."
+}

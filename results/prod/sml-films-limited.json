@@ -1,0 +1,64 @@
+{
+ "name_input": "SML FILMS LIMITED",
+ "declared_hs": "391990;392020;392062;392190",
+ "actual_hs_list": [
+  {
+   "hs": "392062",
+   "product": "BOPET (polyester/PET) film, non-cellular, not reinforced — clear/transparent film, brand METLON",
+   "basis": "smlfilms.com home + about-us: 'develops, manufactures and supplies various PET films under the brand name METLON', 'Clear, Metallised and Lacquer Coated Polyester Film'",
+   "status": "exact"
+  },
+  {
+   "hs": "392062",
+   "product": "Metallised BOPET film (vacuum-metallised, 2450/1650 mm metallizers)",
+   "basis": "smlfilms.com/manufacturing: '2450 mm and 1650 mm Metallizers'; about-us: metallizers capacity 60,000 mt p.a.",
+   "status": "exact"
+  },
+  {
+   "hs": "392062",
+   "product": "Lacquer-coated metallised BOPET film (coating lines from 1650 mm)",
+   "basis": "smlfilms.com/manufacturing + about-us: lacquered coating lines 9,000 mt p.a.",
+   "status": "exact"
+  },
+  {
+   "hs": "392190",
+   "product": "Other plastic film/sheet (lacquered, metallised, slit rolls) — plausible residual heading",
+   "basis": "inferred from product range; no product page accessible (404)",
+   "status": "partial"
+  },
+  {
+   "hs": "392020",
+   "product": "Film of polymers of propylene (BOPP) — NOT found in the catalogue",
+   "basis": "site lists only BOPET/PET film lines, no BOPP line; declared code not corroborated",
+   "status": "wrong"
+  },
+  {
+   "hs": "391990",
+   "product": "Self-adhesive plastic sheet/film — NOT found in the catalogue",
+   "basis": "no adhesive/tape product on site; declared code not corroborated",
+   "status": "wrong"
+  },
+  {
+   "hs": "390760",
+   "product": "PET chips and rPET chips (raw material / upstream polymer)",
+   "basis": "smlfilms.com/about-us: 'we also manufacture PET CHIPS and R PET CHIPS'",
+   "status": "missing_from_declaration"
+  },
+  {
+   "hs": "560500",
+   "product": "Metallic yarn (metal-coated textile yarn)",
+   "basis": "site menu/product list: 'metallic yarn & glitter powder'",
+   "status": "missing_from_declaration"
+  },
+  {
+   "hs": "321290",
+   "product": "Glitter powder (pigment/powder preparation) — alternative classification possible",
+   "basis": "site menu/product list: 'glitter powder'; capacity 1,100 mt p.a.",
+   "status": "missing_from_declaration"
+  }
+ ],
+ "match_status": "partial",
+ "product_summary": "SML Films Limited (ex-Surat Metallics Ltd), GIDC Sachin, Surat, Gujarat. Manufacturer of BOPET/PET film under brand METLON: transparent (clear) film, metallised film, lacquer-coated metallised film; plus metallic yarn, glitter powder, and PET/rPET chips. Capacities stated on site: BOPET 145,000 mt p.a., metallising 60,000 mt p.a., lacquer coating 9,000 mt p.a., glitter powder 1,100 mt p.a. Plant: 10.5 m wide BOPET lines, 2450/1650 mm metallizers, micro-slitting machines; logistics via Hazira port. Site claims global presence in ~30 countries (marketing claim only).",
+ "role_hint": "manufacturer",
+ "comment": "Код 392062 подтверждён точно: вся продуктовая линейка — неармированная полиэфирная (PET) плёнка, включая металлизированную и лакированную. 392190 — частично (остаточная группа для лакированной/резаной плёнки, отдельной страницы товара нет, 404). Коды 392020 (плёнка из полипропилена, BOPP) и 391990 (самоклеящиеся плёнки) продукцией сайта НЕ подтверждены — на сайте нет ни BOPP-линии, ни клеевых/самоклеящихся продуктов; это ошибка декларации, компания сохраняется, коды корректируются. Пропущены в декларации: PET/rPET чипсы (390760), металлизированная нить (560500), глиттер-порошок (321290 — альтернативно 3206/3212). Отрасль «Нефтегаз и химия» — частично некорректна: это переработка полимеров / гибкая упаковочная плёнка (plastics converting), не нефтегаз. Признаков трейдера нет: собственные производственные линии, мощности и адрес завода указаны. Все товарные позиции — «заявлено, не подтверждено» по правилу 5: сайт и каталог фактом отгрузки не считаются, таможенных/B-L записей в рамках этой проверки не исследовалось (по заданию)."
+}
