@@ -1,0 +1,8 @@
+{
+ "name_input": "AB Global",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/ab-global (and slug variant /ab-global-export) returned only the generic template text: \"Shipments available for AB GLOBAL, refreshed daily\" — a boilerplate placeholder, not a shipment record. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Search engine (DuckDuckGo via searx) returned \"Connection refused\" on the only query attempted, so no domestic-supply source could be located. Rows seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: источники были недоступны, а не пусты. ImportKey отдал только JS-шаблон без строк отгрузок (0 записей); volza, eximpedia и trademo вернули HTTP 403; веб-поиск не работал (connection refused). Поэтому статус по экспорту и по внутреннему рынку — unknown, а не none_found. Заявленный HS 091030 (имбирь/куркума/шафран и пр.) и заявленное имя ANNESHA BOSE ROY ничем не подтверждены и ничем не опровергнуты; связь физлица с юрлицом «AB Global» не установлена. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Рекомендация: повторить проверку при доступном поиске и платном доступе к таможенным данным, до этого компанию не отклонять (нет оснований — юрлицо не подтверждено как несуществующее/ликвидированное)."
+}

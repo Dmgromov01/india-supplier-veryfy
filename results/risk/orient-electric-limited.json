@@ -1,0 +1,9 @@
+{
+ "name_input": "ORIENT ELECTRIC LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, data as of 27.11.2026. Tooling limitation: the web_search backend returned 'Connection refused' on all attempts, so no open-web search could be run. Direct reads attempted: OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) - page loaded but it is a JavaScript form and returned no query results, so no SDN/Non-SDN match could be confirmed or excluded; ICRA rating-list search URL returned a 404 page; CRISIL rating-list search URL returned 404; BSE scrip page returned only a shell without content; company site orientelectric.com/investors returned only navigation/menu text with no investor disclosures. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null - NOT because they were checked and found clean, but because no public record could be retrieved in this session. No claim of 'no sanctions' or 'no court cases' is made. Context only (from the company's own website navigation, not a risk source): Orient Electric is presented as part of the C.K. Birla Group and sells fans, lighting, water heaters, small appliances, switchgear and wires - a large listed Indian consumer-electricals manufacturer, which is consistent with a low inherent sanctions profile, but this is an inference, not a verified finding. No evidence of supplies to Russia or the CIS was found, and none could be searched for; treat rf_supply as unknown, not as negative. Recommended follow-up when search is restored: OFAC SDN/consolidated list name check, BIS Entity List, EU and UK consolidated lists, NCLT/NCLAT and SEBI orders, and CRISIL/ICRA rating rationale with date. Per project rules, sanctions, court cases and criminal matters are not rejection grounds in any case."
+}

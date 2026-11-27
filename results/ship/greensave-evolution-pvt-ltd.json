@@ -1,0 +1,8 @@
+{
+ "name_input": "Greensave evolution pvt ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/greensave-evolution-pvt-ltd returned only the generic page shell: \"Shipments available for GREENSAVE EVOLUTION PVT LTD, refreshed daily\" — a template sentence, not a shipment record. Rows actually seen: 0 (no bill-of-lading number, no date, no destination, no HS code). Source counter: page claims data availability; actual shipment rows displayed = 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search engine (DuckDuckGo/searx) returned \"no results (searx: <urlopen error [Errno 111] Connection refused)\"; Google returned only a redirect interstitial; volza.com, eximpedia.app, trademo.com and zaubacorp.com all returned HTTP 403; importgenius.com returned a JavaScript challenge. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: проверить не удалось, потому что все источники таможенных/B-L записей и GST-данных были недоступны (403 / JS-challenge / поисковик не работал). Статус по обоим направлениям — unknown, а не none_found, чтобы не выдавать недоступность источника за отсутствие факта. Заявленный HS 850760 (литий-ионные аккумуляторы) ничем не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения; вердикт по HS не выносится. Выручка и объём экспорта: null (данных нет, не выдумывать). Роль (manufacturer/trader) не установлена. Требуется повторная проверка при доступности volza/eximpedia/importgenius или выписки из таможни/GST."
+}

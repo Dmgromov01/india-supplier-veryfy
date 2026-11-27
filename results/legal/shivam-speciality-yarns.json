@@ -1,0 +1,18 @@
+{
+ "name_input": "SHIVAM SPECIALITY YARNS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure during this run: web_search (DuckDuckGo/searx) returned 'Connection refused' / timed out; Bing and Google HTML endpoints returned only unrelated results (no hits for the company name); direct registry/profile pages (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403 Forbidden; MCA API host did not resolve. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source. All such fields are null because they are unverified, NOT because they were checked and found absent. Revenue FY25/FY26 null - no audited accounts or official filings were accessible. Role set to 'unknown' (cannot be classified without registry data). IMPORTANT: the entity is NOT rejected - per project rules rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and no such evidence was found; absence of accessible data is not evidence of non-existence. Note also that the input is internally inconsistent: declared HS 540419 is a synthetic filament yarn code (HS chapter 54), while industry_claimed is 'Food & FMCG' - the HS code should be treated as the factual one and the industry label corrected, but this is not a rejection ground. Recommended action: re-run verification when search/registry access is restored, or obtain the GSTIN/CIN directly from the supplier's invoice or GST certificate."
+}

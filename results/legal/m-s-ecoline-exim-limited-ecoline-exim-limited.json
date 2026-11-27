@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S ECOLINE EXIM LIMITED; ECOLINE EXIM LIMITED",
+ "legal_name": "ECOLINE EXIM LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403, tofler.in search returned 404, mca.gov.in did not resolve, indiamart.com returned HTTP 429, and the company's presumed domain ecolineexim.com did not resolve. Bing/Google HTML endpoints returned only unrelated cached results, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Per project rules nothing is invented: all such fields are null. No basis for rejection either - the entity's non-existence, strike-off, liquidation or bankruptcy is NOT established, so the company is retained in the database with role 'unknown' pending a re-run of registry checks (MCA master data / GST public search) when search access is restored. Note also that the declared HS code 420292 (leather/plastic articles of a kind normally carried in the pocket or handbag) does not match the claimed industry 'food products and FMCG'; per rule 3 this is not a rejection ground - the code should be corrected to the actual one and the verdict recorded as accepted_hs_corrected once the real product line is confirmed. No shipment, court or catalogue research was performed per role scope."
+}
