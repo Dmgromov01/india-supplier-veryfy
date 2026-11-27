@@ -1,0 +1,8 @@
+{
+ "name_input": "Phaitonic Private Limited",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/phaitonic-private-limited and .../phaitonic-pvt-ltd both returned only the generic page shell: \"Shipments available for PHAITONIC PRIVATE LIMITED, refreshed daily\" with the shipment table, monthly bar chart and supplier/buyer lists rendered empty. Rows actually seen: 0 shipment records, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. No export record with date/destination/HS/B-L could be quoted from any source.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Searches returned nothing usable: web_search backend was down (\"searx: <urlopen error [Errno 111] Connection refused>\") on both queries, and zaubacorp.com, thecompanycheck.com, volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden. Rows actually seen: 0 domestic supply records.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Важно: это результат отсутствия доступа к данным, а не доказательство отсутствия деятельности. Поисковый бэкенд был недоступен (connection refused), а все платные/регистрационные агрегаторы (zaubacorp, thecompanycheck, volza, eximpedia, trademo) отдали 403; importkey отдал пустой шаблон без строк. Существование юрлица, CIN, PAN, выручка и объём экспорта — null, публично не подтверждено в рамках этой проверки. Заявленный HS 190410 (продукты питания) ничем не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения. Требуется повторный прогон при работающем поиске и доступе к реестру MCA, чтобы установить, существует ли юрлицо вообще."
+}

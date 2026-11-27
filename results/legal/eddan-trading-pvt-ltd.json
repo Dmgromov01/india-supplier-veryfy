@@ -1,0 +1,18 @@
+{
+ "name_input": "Eddan trading pvt ltd",
+ "legal_name": "EDDAN TRADING PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error ('searx: Connection refused') on every query, and direct fetches of registry/aggregator pages were blocked or empty: zaubacorp.com (HTTP 403), thecompanycheck.com (403), instafinancials.com (403), falconebiz.com (403), mca.gov.in MDS portal (403), quickcompany.in (404), tofler.in search (404), duckduckgo.com/html (timeout). Bing returned only unrelated spam results, so no page confirming the existence of 'EDDAN TRADING PRIVATE LIMITED' was obtained. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not because they are absent, but because they were not publicly retrievable with the available tools. No revenue figures were found in audited accounts or official filings, so FY25 and FY26 revenue are null (not estimated). Role is recorded as 'unknown' rather than 'trader' despite the word 'trading' in the name, since the name alone is not evidence of business activity. Per the project rules, the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either, and absence of retrievable data is not grounds for rejection. Recommended next step: re-run verification when the search backend is restored, or query the MCA master-data portal directly by company name to obtain CIN, then derive PAN from the CIN-linked records and GSTIN from the GST portal public search."
+}

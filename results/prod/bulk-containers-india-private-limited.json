@@ -1,0 +1,17 @@
+{
+ "name_input": "BULK CONTAINERS INDIA PRIVATE LIMITED",
+ "declared_hs": "630533",
+ "actual_hs_list": [
+  "6305.33",
+  "6305.32",
+  "6307.90",
+  "3923.21",
+  "5407.20",
+  "5603.14",
+  "6305.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "Каталог (IndiaMART-хостинг, bulkcontainersindia.in, прочитан 1 раз): FIBC / big bags, jumbo bags, bulk bags, baffle bags, ventilated bags, container bags, single loop bags, platen bags, circular big bags, Type C conductive FIBC, PP woven fabric, PP woven rice bags, PP woven rolls, woven sacks, container liners, polypropylene webbing, non-woven bags, HDPE jumbo bags. Примеры позиций с ценами: 45 Inch Ventilated Jumbo Bag (₹600/шт), 620cm Bulk Container Bags (₹1000/шт), 320cm HDPE Plain Jumbo Platen Bag (₹1000/шт), 114cm Type C Conductive FIBC Bag (₹1200/шт), 90cm Polypropylene Bulk Bag (₹750/шт), 55 Inch PP Baffle Bags (₹600/шт), 10 Inch Non Woven Bag (₹150/шт).",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 6305.33 (мешки и пакеты упаковочные из полиэтиленовых/полипропиленовых полос) — ЧАСТИЧНО верно: это ядро ассортимента (FIBC, jumbo, bulk, baffle, ventilated, container bags, PP woven sacks/rolls/fabric). Однако декларация неполна и требует расширения: (1) 6305.32 — FIBC из полиэтиленовых/полипропиленовых полос гибкие промежуточные ёмкости (в каталоге прямо FIBC/Type C conductive — фактически 6305.32/6305.33 в зависимости от материала; Type C антистатический — 6305.33 при PP); (2) 6307.90 — прочие готовые изделия (webbing, отдельные элементы, non-woven bags при нетканом материале — 6307.90 либо 6305.39); (3) 3923.21 — мешки/пакеты из полимеров этилена (HDPE jumbo bags, HDPE platen bags — если плёнка, а не тканые полосы); (4) 5407.20 — ткань из синтетических полос (PP woven fabric/roll как полуфабрикат на продажу); (5) 5603.14 — нетканое полотно (non-woven bag сырьё/изделие); (6) 6305.90 — мешки из прочих текстильных материалов (container liners, если не PP). Отраслевая классификация «Продукты питания и FMCG» — ОШИБОЧНА: компания производит промышленную упаковку (FIBC/биг-бэги), а не пищевые продукты; PP woven rice bag — это упаковка для риса, а не пищевой товар. Признаки трейдера: на IndiaMART указано «Nature of Business: Service Provider and Others», одновременно «Manufacturer And Wholesaler», «Exporter» — смешанная роль manufacturer_trader, часть позиций (non-woven bag, container liners, webbing) вероятно перепродажа. Все товарные позиции — заявлено, не подтверждено: ни одна строка не сверена с таможенной декларацией (проверка объёмов/записей вне рамок этой задачи). Код 630533 сохраняется как базовый, отклонения по HS нет — вердикт accepted_hs_corrected с расширением номенклатуры и исправлением отраслевого признака на «упаковка / текстильная тара»."
+}

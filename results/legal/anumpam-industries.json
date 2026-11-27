@@ -1,0 +1,18 @@
+{
+ "name_input": "Anumpam Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing отдавал нерелевантную кэшированную выдачу (Anupam Kher, Anupam Stationery, Anupam Rasayan) без единого попадания по 'Anupam/Anumpam Industries'. Прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com) вернули HTTP 403, домен anupamindustries.com не резолвится. Также обращаю внимание: в названии входных данных опечатка ('Anumpam' vs 'ANUPAM'), что дополнительно затрудняет однозначную идентификацию юрлица — под именем 'Anupam Industries' в Индии может существовать несколько разных компаний (в т.ч. краностроительная в Гуджарате), и без CIN/GSTIN сопоставление невозможно. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, статус MCA, роль и выручка FY25/FY26 — null (не публичны в доступных источниках / не подтверждены). Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (reject только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при восстановлении доступа к реестру MCA / GST-профилям; до этого статус — 'заявлено, не подтверждено', следов поставок не проверялось (вне роли)."
+}

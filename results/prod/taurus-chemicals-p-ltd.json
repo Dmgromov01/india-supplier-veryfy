@@ -1,0 +1,17 @@
+{
+ "name_input": "TAURUS CHEMICALS (P) LTD",
+ "declared_hs": "291570",
+ "actual_hs_list": [
+  "291570 (Stearic acid, SA-50 / SA-70 grades, IP/BP/EP/USP/NF)",
+  "281830 (Dried Aluminium Hydroxide Gel DAH 10/11/20/21/22; Aluminium Hydroxide Gel Paste AHP 1)",
+  "283699 / 283650 (Magnesium Carbonate USP; Light Magnesium Carbonate LMC 11/21; Heavy Magnesium Carbonate HMC 10-23)",
+  "283699 (Magnesium Trisilicate MTS 10/11/20/21)",
+  "281610 (Magnesium Hydroxide MH 10/11/20, Magnesium Hydroxide Paste MHP 1)",
+  "284290 / 284210 (Magaldrate MGL 10/11; Hydrotalcite HTC 10/11)",
+  "2839 / 2842 (Aluminium Magnesium Silicate; Aluminium Hydroxide & Magnesium Carbonate Co-Dried Gel CPG-T2)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт tauruschemicals.com (страницы /products/ и /about-us/, прочитаны 23.11.2026) показывает производителя фармацевтических bulk-API и эксципиентов (завод: Plot 133, S.V. Co-operative Industrial Estate, IDA Bollaram, Sangareddy, Telangana; офис: Secunderabad). Реальная номенклатура — 12 линий: Dried Aluminium Hydroxide Gel (DAH 10/11/20/21/22), Aluminium Hydroxide Gel Paste (AHP 1), Magnesium Trisilicate (MTS 10/11/20/21), Magnesium Hydroxide и его паста (MH 10/11/20, MHP 1), Magaldrate (MGL 10/11), Hydrotalcite (HTC 10/11), Magnesium Carbonate USP, Dried Aluminium Hydroxide BP, Light Magnesium Carbonate (LMC 11/21), Heavy Magnesium Carbonate (HMC 10-23), Aluminium Magnesium Silicate / Co-Dried Gel (CPG-T2) и Stearic Acid (SA-50, SA-70). Стеариновая кислота — только одна из линий, причём эксципиентного качества (40-60% и 60-80% стеариновой кислоты, >90% palmitic+stearic), а не олеохимический товарный продукт.",
+ "role_hint": "manufacturer",
+ "comment": "HS 291570 подтверждён собственным каталогом: раздел 12 «STEARIC ACID – BP/EP/USP/NF/IP», коды SA-50 и SA-70 — это насыщенная ациклическая монокарбоновая кислота, ровно товарная позиция 2915 70. Соответствие частичное (partial): заявленный код верен, но покрывает лишь ~1/12 фактического ассортимента. Основной профиль компании — антацидные API/эксципиенты неорганической химии: гидроксид алюминия (2818.30), гидроксид и карбонат магния (2816.10 / 2836.99), трисиликат магния (2836.99), магалдрат и гидротальцит (2842), алюмомагниевые силикаты (2839/2842) — эти линии в декларации отсутствуют и должны быть добавлены при следующем декларировании. Отраслевая метка «Нефтегаз и химия» неточна: компания не нефтегазовая, а фармацевтических эксципиентов и неорганических солей; корректнее «Химия / фармацевтические API и эксципиенты». Признаков трейдера нет — сайт описывает собственное производство (спрей-драйер, GMP, R&D, собственная упаковка в HDPE-мешки и барабаны), поэтому role_hint = manufacturer. Все перечисленные продукты — заявлено на сайте, не подтверждено: таможенных записей и B/L в рамках этой проверки не смотрел (по регламенту HS-специалист объёмы и записи не исследует), поэтому статус каждой линии — «заявлено, не подтверждено». Отклонения по HS нет и быть не может: компания сохраняется, код 291570 остаётся, ассортимент дополняется фактическими кодами."
+}

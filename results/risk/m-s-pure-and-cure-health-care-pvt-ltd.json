@@ -1,0 +1,52 @@
+{
+ "name_input": "M/S PURE AND CURE HEALTH CARE PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi District Court (CS (Comm.) No.16/20)",
+   "parties": "Pure and Cure Healthcare Pvt Ltd v. Optho Remedies Pvt Ltd & Ors",
+   "role": "plaintiff",
+   "status": "pending/active as of order dated 13.07.2026 (commercial suit, recovery)",
+   "source": "indiankanoon.org/search/?formInput=\"Pure and Cure Healthcare\""
+  },
+  {
+   "court": "Madras High Court",
+   "parties": "Flaring Formulations Private Limited v. Pure and Cure Healthcare Private Limited",
+   "role": "defendant",
+   "status": "order dated 30.04.2026; company described as 'A Subsidiary of Akums Drugs and Pharmaceuticals Limited'",
+   "source": "indiankanoon.org (Madras HC, Senthilkumar Ramamoorthy)"
+  },
+  {
+   "court": "Delhi High Court",
+   "parties": "USV Private Limited v. Pure and Cure Healthcare Pvt. Ltd & Anr",
+   "role": "defendant",
+   "status": "series of orders 12.11.2021, 14.01.2022, 02.02.2022, 08.02.2022 (IP/commercial matter)",
+   "source": "indiankanoon.org (Delhi HC, C. Hari Shankar)"
+  },
+  {
+   "court": "Delhi High Court",
+   "parties": "Premedium Pharmaceuticals Pvt. Ltd v. M/s Pure and Cure Healthcare Pvt. Ltd",
+   "role": "defendant",
+   "status": "order dated 29.05.2026",
+   "source": "indiankanoon.org (Delhi HC)"
+  },
+  {
+   "court": "Rajasthan High Court, Jodhpur",
+   "parties": "M/s Pure and Cure Healthcare (P) Ltd v. State of Rajasthan",
+   "role": "petitioner",
+   "status": "S.B. Criminal Misc. Petition No. 2942/2026, order dated 06.05.2026",
+   "source": "indiankanoon.org (Rajasthan HC Jodhpur)"
+  },
+  {
+   "court": "Jammu & Kashmir High Court, Srinagar Bench",
+   "parties": "M/s Pure and Cure Healthcare Pvt Ltd (through Director Mr. Satya Prakash) & Anr v. Union Territory of J&K through Drug Inspector",
+   "role": "petitioner",
+   "status": "CrlM No. 1336/2024 and CRM(M) 431/2024, orders dated 26.07.2024 and 27.09.2024 (challenge to drug-inspector proceedings)",
+   "source": "indiankanoon.org (J&K HC Srinagar, Sanjay Dhar / Moksha Khajuria Kazmi)"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No negative news, regulator press releases or enforcement actions found in the sources reachable during this check. Note: the primary search backend (DuckDuckGo/searx) was unavailable (connection refused) and Bing returned only generic results, so news coverage could not be exhaustively screened. The J&K High Court matters involve a Drug Inspector, i.e. a state drug-regulatory proceeding, but the company appears there as petitioner challenging it; no adverse regulatory finding is documented in the retrieved text.",
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified negative screen - the OFAC Sanctions List Search tool is a JavaScript application and returned no query results via plain HTTP fetch, and UN/EU/UK/BIS lists could not be queried within the tool budget. Treat sanctions status as 'not checked / unknown', not 'clear'. Court record is substantial (65 hits on Indian Kanoon) and is dominated by IP/commercial litigation where the company is mostly defendant, plus criminal-miscellaneous petitions filed BY the company against drug-authority proceedings in J&K and Rajasthan. Per project rules these are not rejection grounds and are recorded neutrally. Credit rating: not public / not found - null, not estimated. RF/CIS supply evidence: none found; no export or shipment records to Russia or CIS were located, and no claim of such supplies was seen - null rather than a negative finding, since customs/trade data sources were not reachable. Company appears to be a subsidiary of Akums Drugs and Pharmaceuticals Limited per the Madras High Court order caption (30.04.2026) - useful for group-level sanctions screening, which was not performed here. Legal identity, HS code and shipment volumes deliberately not researched per role scope."
+}

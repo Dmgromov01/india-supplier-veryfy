@@ -1,0 +1,9 @@
+{
+ "name_input": "dolphin rubber industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (searx/DuckDuckGo) возвращал 'Connection refused' / timeout, Bing по запросам в кавычках \"Dolphin Rubber Industries\" и \"Dolphin Rubber Industries\" + \"Cherian Joseph\" выдавал только нерелевантные результаты про дельфинов (эмулятор, Wikipedia), IndiaMART отдал HTTP 429. Ни одной страницы с упоминанием компании получить не удалось. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) напрямую не проверялись — null, не означает отсутствие. Судебные дела (eCourts/NCLT/High Court) не проверялись — null. Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) не найден — null. Негативные новости не проверены — null. Данных о поставках в РФ/СНГ не найдено, но это результат отсутствия доступа к источникам, а не подтверждённое отсутствие поставок — null. Дополнительно: заявленное 'legal_claimed' (THALIKAPPARAMPIL CHERIAN JOSEPH) выглядит как имя физлица/проприетора, а не название юрлица; заявленный отраслевой ярлык 'Продукты питания и FMCG' не соответствует кодам HS 401691 (резиновые коврики/мат) и 570500 (текстильные ковры) — это вне моего мандата, передаю профильным проверяющим. Требуется повторный запуск с работающим поиском."
+}
