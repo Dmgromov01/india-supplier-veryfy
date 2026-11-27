@@ -1,0 +1,9 @@
+{
+ "name_input": "AARNEE INTERNATIONAL PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. Sanctions: no match found. OFAC Sanctions List Search (SDN last updated 11/23/2026, Non-SDN 11/4/2026) was reachable but is a JS form that returns no results via plain HTTP GET, so no name query could actually be executed there — this is NOT a verified negative. OpenSanctions API returned HTTP 401 (no key). UN/EU/UK consolidated lists and the BIS Entity List were not queried (search backend down: DuckDuckGo/searx returned 'Connection refused'; Bing returned only unrelated microsoft.com results, i.e. no genuine hits for the exact name). Court cases: Indian Kanoon searched for both '\"Aarnee International\"' and 'AARNEE' — 0 matching judgments each (https://indiankanoon.org/search/?formInput=AARNEE). No party role/status to report because no case exists in that database; district-court, NCLT and consumer-forum records were not checked, so court_cases = null rather than a confirmed clean. Regulator actions / negative news: none found; no news article, enforcement notice or regulator order mentioning this entity surfaced in any query. Credit rating: no CRISIL/ICRA/CARE/India Ratings/Acuite action found; null — not public. Russia/CIS supply evidence: none found; no customs, B/L, contract or media record linking this entity to Russian or CIS counterparties. Note the declared HS codes (290722 hydroquinone, 290950 ethers of diphenols/glycerol) are dual-use-adjacent fine chemicals, but no shipment or end-user evidence was located, so no RF/CIS nexus is asserted. Overall: the entity is essentially invisible in public risk sources — no sanctions, litigation, regulatory or rating footprint. This is a data-absence finding, not a clearance; identity/HS/shipment verification is outside this role and remains unconfirmed."
+}

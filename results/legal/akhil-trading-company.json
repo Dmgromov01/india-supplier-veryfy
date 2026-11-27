@@ -1,0 +1,18 @@
+{
+ "name_input": "AKhil Trading Company",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be retrieved. The web_search tool was non-functional (searx connection refused) and direct fetches of registry aggregators failed: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 403, thecompanycheck.com search returned HTTP 404, and search.mca.gov.in did not resolve (DNS error). Google and Bing HTML endpoints returned only unrelated results, so no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be verified from a public source. The name 'Akhil Trading Company' is a generic trading-style name and is most likely a proprietorship/partnership with no MCA registration, but this is NOT confirmed - it is an inference, not a sourced fact. Per project rules, rejection is only permitted where the entity is proven non-existent, struck off, liquidated or bankrupt; absence of accessible data is not proof of non-existence, so the company is retained with all fields null rather than rejected. Role left as 'unknown' (name suggests trader, but unverified). Revenue FY25/FY26 null - no audited accounts or official filings located. Declared HS 903180 (measuring/checking instruments) is not assessed here as HS mismatch is not a rejection ground. Recommended next step: re-run with a working search backend or manual MCA/GST portal lookup to obtain CIN and GSTIN."
+}

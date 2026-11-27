@@ -1,0 +1,8 @@
+{
+ "name_input": "AKhil Trading Company",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page for slug 'akhil-trading-company' returned only the template shell: 'Shipments available for AKHIL TRADING COMPANY, refreshed daily' — 0 shipment rows rendered, no date, destination, HS code or bill-of-lading number present. Slug variant 'akhil-trading-co' identical: 'Shipments available for AKHIL TRADING CO, refreshed daily' — 0 rows. Source counter: 2 ImportKey pages opened, 0 shipment records actually seen.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. Searches for the company name returned no usable results (DuckDuckGo/searx backend refused connection; Google returned redirect interstitial only). Source counter: 0 domestic-supply records seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Заявленный HS 903180 (КИП/измерительные приборы) ничем не подтверждён: ни одной таможенной записи, ни одного B/L, ни одной тендерной или GST-записи не обнаружено. Название 'AKhil Trading Company' крайне общее и, вероятно, совпадает с множеством мелких трейдеров, что дополнительно мешает идентификации; конкретное юрлицо (CIN/PAN) не установлено — PAN в заявке пуст, поэтому привязка записей к именно этой компании невозможна. Вторые источники (volza, eximpedia, trademo) вернули HTTP 403, ImportKey — пустой шаблон без строк. Статус 'заявлено, не подтверждено' не применим даже к заявлениям: собственного сайта или каталога не найдено. Роль (manufacturer/trader) определить нельзя — по названию вероятен трейдер, но это не подтверждено. Выручка и объём экспорта: null (не публичны, не выдумывались)."
+}

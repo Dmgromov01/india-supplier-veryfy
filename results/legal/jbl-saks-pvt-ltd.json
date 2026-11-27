@@ -1,0 +1,18 @@
+{
+ "name_input": "JBL SAKS PVT LTD",
+ "legal_name": "JBL SAKS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Search backend (DuckDuckGo/searx) was down ('Connection refused'); Bing/Google returned only generic JBL audio-brand results with no Indian entity match; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404; tofler.in returned 404 for the slug. No CIN, PAN, GSTIN, incorporation date, MCA status or financials could be confirmed from a public source, so all such fields are null rather than guessed. Entity existence is therefore UNCONFIRMED, not disproven - per project rules this is not grounds for rejection (rejection only for non-existent/struck-off/liquidated/bankrupt entities, which cannot be established either way here). Role left as 'unknown'. Declared HS 630532 (sacks/bags of polyethylene/polypropylene strip) is inconsistent with the claimed industry 'food & FMCG'; per rule 3 this is not a rejection ground - the code should be corrected to the actual product once verified, and the company retained in the database. Recommended next step: manual MCA master-data lookup by exact name and GST portal search by legal name to obtain CIN/PAN/GSTIN, then re-run revenue check on audited filings."
+}

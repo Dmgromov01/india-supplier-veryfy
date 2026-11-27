@@ -1,0 +1,19 @@
+{
+ "name_input": "kala Genset Pvt Ltd",
+ "declared_hs": "850211;850212;850213;850220",
+ "actual_hs_list": [
+  "8502.11 — generating sets, compression-ignition (diesel) engines, output ≤ 75 kVA (site range: M&S up to 10 kVA, LHP 15/20/25/30/40/58.5 kVA)",
+  "8502.12 — diesel generating sets, output > 75 kVA but ≤ 375 kVA (site range: LHP 82.5/100/125/160/200/250 kVA, MHP 320 kVA)",
+  "8502.13 — diesel generating sets, output > 375 kVA (site range: MHP 400–750 kVA, HHP 1010 kVA+, Optiprime 117–2500 kVA)",
+  "8502.20 — generating sets with spark-ignition engines (site range: Gas Gensets 15–250 kVA, natural gas / bio-gas; M&S petrol sets up to 10 kVA)",
+  "8502.31 — wind generating sets (NOT on site — not applicable)",
+  "8502.39 — other generating sets (possible residual for hybrid/Optiprime twin-hybrid packs; not separately evidenced)",
+  "8537.10 — control/AMF/synchronising panels, LV switchgear, distribution panels (site: 'Control Panels LV/MV control, AMF and auto-synch panels — designed, built and tested in-house')",
+  "9405.42 / 9405.49 — mobile lighting towers, trailer-mounted masts (site: 'Lighting Towers — Mobile site lighting')",
+  "8503.00 / 8501.xx — parts and engines (Kirloskar engines used; possible spare-parts trade, not evidenced as own product line)"
+ ],
+ "match_status": "exact",
+ "product_summary": "Website (kalagenset.com, homepage + /generator page) lists: diesel & petrol generating sets 2 kVA–2500 kVA in series M&S (up to 10 kVA), LHP (15–250 kVA), MHP (320–750 kVA), HHP (1010 kVA+), Optiprime twin-hybrid (117–2500 kVA); gas gensets 15–250 kVA on natural gas/bio-gas; alternative-fuel sets (bio-diesel, bio-gas, SVO); silent canopy sets 7.5–20 kVA; CRDI sets 82.5–160 kVA; HD power plants 1010–1500 kVA; plus LV/MV control, AMF and synchronising panels, distribution panels, and trailer-mounted mobile lighting towers. Company states it is an authorised GOEM of Kirloskar Powergen (KOEL Green) and manufactures gensets/enclosures in-house across six facilities.",
+ "role_hint": "manufacturer_trader — assembles/packages gensets around bought-in Kirloskar (KOEL) engines and alternators, i.e. OEM/assembler rather than engine maker; also resells Kirloskar-branded Powergen sets as authorised GOEM. Trader signs: brand of the engine/alternator belongs to a third party (Kirloskar Oil Engines), product naming follows KOEL model codes (KG4-…), and the site markets itself as 'authorised GOEM'.",
+ "comment": "HS mapping: declared 850211/850212/850213/850220 is fully corroborated by the published power bands — 8502.11 covers ≤75 kVA (M&S, LHP 15–58.5 kVA), 8502.12 covers 82.5–320 kVA, 8502.13 covers 400 kVA and above (MHP/HHP/Optiprime), 8502.20 covers the gas and petrol spark-ignition sets. Match = exact. Industry 'Энергетика' is broadly correct but imprecise: the company is a genset OEM/assembler and power-solutions integrator, not a power utility or an engine manufacturer. Product lines MISSING from the declaration: (1) control/AMF/synchronising and LV/MV distribution panels — HS 8537.10; (2) mobile lighting towers / trailer-mounted masts — HS 9405.42/9405.49; (3) turnkey power projects and AMC services (not goods, no HS); (4) possible spare-parts/engine trade (8503/8501) — not evidenced. Note the legal name has changed: site header reads 'KALA Pvt. Ltd. (Genset), formerly known as Kala Genset Pvt. Ltd.' — the declared legal name may be outdated; this is a name-change observation only, not a rejection ground. All product data above is from the company's own website and is therefore 'заявлено, не подтверждено' — no customs line was checked in this task (per role scope), so no shipment-level corroboration of any HS code is asserted. No revenue, volume, CIN/PAN or registry data researched here; those fields are null/out of scope."
+}
