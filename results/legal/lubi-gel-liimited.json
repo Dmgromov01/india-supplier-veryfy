@@ -1,0 +1,18 @@
+{
+ "name_input": "LUBI GEL LIIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool (DuckDuckGo/searx) returned a connection error on every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Bing/Google HTML endpoints returned 429 or irrelevant results. The only page reachable was lubigel.com, which is a placeholder 'Launching Soon' site with no legal name, CIN, GSTIN or financials. Therefore legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT because they do not exist, but because they were not publicly retrievable with the available tools. No rejection is proposed: there is no evidence the entity is non-existent, struck off, liquidated or bankrupt. Role left as 'unknown' (no evidence of own manufacturing plant vs trading). Revenue FY25/FY26 null - no audited accounts or MCA filings were accessible. Note also that the input name 'LUBI GEL LIIMITED' is misspelled (double I) and the claimed legal name 'LUBI GEL LIMITED' is unconfirmed. Declared HS 130232 (vegetable saps/gums, mucilages and thickeners) is inconsistent with the claimed industry 'Food & FMCG' only in a loose sense; per project rules HS mismatch is not a rejection ground and no HS verdict is issued here. Recommend re-running with working search access or manual MCA/GST portal lookup."
+}

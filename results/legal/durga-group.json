@@ -1,0 +1,18 @@
+{
+ "name_input": "DURGA Group",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The claimed legal name 'DURGA MICRONS' returned no matching record in any accessible source: DuckDuckGo search backend was down (connection refused), Bing returned only generic 'Durga' (Hindu goddess) results with query terms ignored, and Google returned HTTP 429. Registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) all returned HTTP 403 Forbidden, so MCA/CIN, PAN, GSTIN, incorporation date and registered state could not be retrieved. No PAN or state was supplied in the input, so no cross-check of registered state vs claimed state was possible. Revenue FY25/FY26: no audited accounts or official filings accessible - null, not estimated. Role left as 'unknown' because the entity type (manufacturer vs trader) cannot be established without a registry record. IMPORTANT: this is NOT a rejection - per project rules a company may only be rejected if the entity is proven non-existent, struck off, liquidated or bankrupt, and non-existence was NOT proven here; the failure is purely a data-access limitation. Recommend re-running with working search access or a paid MCA/GST lookup, and obtaining the GSTIN or PAN from the supplier directly to disambiguate the very common 'Durga' name cluster. Declared HS 382490 (chemical preparations) was not assessed - outside this role's scope and not a rejection ground."
+}

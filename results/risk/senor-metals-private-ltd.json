@@ -1,0 +1,9 @@
+{
+ "name_input": "SENOR METALS PRIVATE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No verifiable public record could be retrieved for 'Senor Metals Private Limited' as of this check. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on all web_search calls; Bing HTML endpoint ignored quoted operators and returned only generic dictionary results for the word 'senor' (no company hits); zaubacorp.com and opencorporates.com returned HTTP 403; tofler.in search endpoint returned HTTP 404. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List), Indian court cases (party role/status), regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all recorded as null = NOT PUBLICLY VERIFIED, not as 'clean'. Absence of a hit here is a tooling limitation, not a negative finding. Recommended next steps before any decision: (1) re-run name against OFAC SDN/consolidated screening and EU/UK/BIS lists directly; (2) query MCA/e-courts/NCLT by CIN once legal identity is confirmed by the legal-identity researcher (no CIN/PAN was supplied in this batch, so no registry lookup was possible); (3) check credit bureaus (CRISIL/ICRA/CARE/ACUITE) by exact registered name. Per project rules, sanctions/court/criminal matters are never rejection grounds and would be noted neutrally as 'есть сложности' if later found. Note also a data-quality flag outside my scope: declared HS 740821 (copper alloy wire) is inconsistent with the claimed industry 'IT и электроника' — flagged for the HS/identity researcher, not a risk finding."
+}
