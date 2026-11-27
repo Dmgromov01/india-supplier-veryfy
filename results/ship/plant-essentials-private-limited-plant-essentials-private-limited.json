@@ -1,0 +1,8 @@
+{
+ "name_input": "PLANT ESSENTIALS PRIVATE LIMITED; PLANT ESSENTIALS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'plant-essentials-private-limited' returned only the generic template shell: 'Shipments available for PLANT ESSENTIALS PRIVATE LIMITED, refreshed daily' — zero shipment rows rendered, no date, destination, HS code or bill-of-lading number visible. Second slug 'plant-essentials-pvt-ltd' returned the identical empty template. Source counter: 2 ImportKey URLs attempted, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record could be retrieved. thecompanycheck.com and eximpedia.app returned HTTP 403; DuckDuckGo HTML endpoint timed out; the web_search backend returned 'searx: Connection refused' on both queries. Source counter: 4 domestic/registry URLs attempted, 0 records actually seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: проверить не удалось, потому что поисковый бэкенд (searx) был недоступен на протяжении всей проверки, а платные базы (Volza, Eximpedia, ImportKey) отдают только заглушку без строк либо 403. Заявленный HS 220299 (безалкогольные напитки) ничем не подтверждён и ничем не опровергнут — код не менялся, так как фактический код установить не удалось. Выручка: null (не публична/не получена). Объём экспорта: null. Юрлицо не отклоняется: сведений о ликвидации или банкротстве нет, но и подтверждения существования из первоисточника (MCA) получить не удалось. Требуется повторная проверка при работающем поиске и доступе к MCA/GST-порталу."
+}

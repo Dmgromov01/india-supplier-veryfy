@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S VACMET INDIA LIMITED w.e.f. 10/09/2009",
+ "legal_name": "VACMET INDIA LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. web_search backend returned 'Connection refused' for all queries; Bing/Google/DuckDuckGo fallbacks returned irrelevant or blocked results. Direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, quickcompany.in) returned HTTP 403/404, mca.gov.in returned 403, and the company website vacmet.com was behind a bot-verification wall. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not 'absent'. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown': the input name prefix 'M/S' and the 'w.e.f. 10/09/2009' suffix are a trade/registry notation, not evidence of manufacturer vs trader status. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a tooling limitation, not a negative finding. Declared HS codes 3919/3920 (self-adhesive plastic sheet/film, non-cellular and cellular polymer film) are consistent with a flexible-packaging films producer, but HS consistency is not a rejection ground per project rules and was not used as one. Recommended action: re-run verification when search access is restored, checking MCA master data by CIN and the GST portal by GSTIN, plus the company's audited FY25/FY26 filings."
+}
