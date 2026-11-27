@@ -1,0 +1,24 @@
+{
+ "name_input": "RICE INDIA EXPORT (P) LTD.; RICE INDIA EXPORTS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case": "Commissioner of Income Tax v. M/s Rice India Exports Pvt. Ltd., ITA 999/2010 (and connected), decided 03.08.2010",
+   "role": "Respondent (assessee)",
+   "status": "Decided in favour of the assessee on the point of law considered (revenue appeal); tax/revenue matter, not a criminal or fraud finding",
+   "source": "https://indiankanoon.org/search/?formInput=%22Rice%20India%20Exports%20Pvt.%20Ltd.%22%20doctypes%3Ahighcourts"
+  },
+  {
+   "court": "CESTAT (Customs, Excise & Service Tax Appellate Tribunal), New Delhi",
+   "case": "C.S.T. Delhi v. M/s. Rice India Export Pvt. Ltd., order dated 04.04.2011",
+   "role": "Respondent",
+   "status": "Tribunal appeal on service-tax/excise issue; no adverse criminal finding reported",
+   "source": "https://indiankanoon.org/search/?formInput=%22Rice%20India%20Exports%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no OFAC SDN / UN / EU / UK / BIS Entity List listing found for this name; however the sanctions screening could not be executed directly — the web_search backend was unavailable (connection refused) throughout the session and commercial registries (Zauba, TheCompanyCheck) returned HTTP 403, so sanctions_hit is recorded as null (not verified) rather than a confirmed negative. Court cases: only tax/service-tax litigation found on Indian Kanoon — Delhi HC ITA 999/2010 (CIT v. Rice India Exports Pvt. Ltd., 03.08.2010) and CESTAT Delhi (C.S.T. Delhi v. Rice India Export Pvt. Ltd., 04.04.2011); company acted as respondent/assessee in revenue matters, no criminal proceedings, no fraud or sanctions-related litigation surfaced. Per project rules these are not rejection grounds and are noted neutrally. Credit rating: no public rating (CRISIL/ICRA/CARE/India Ratings) found — null, not public. Negative news: none retrievable given search outage — null. RF/CIS supply evidence: no public record of supplies to Russia or CIS found; an Indian Kanoon full-text search for 'Rice India Export' + Russia returned no matching results, and no customs/B-L or contract evidence is public — null, not confirmed. Note that absence of evidence here is partly a tooling limitation, not a positive clearance; recommend re-running sanctions and adverse-media screening when the search backend is restored."
+}

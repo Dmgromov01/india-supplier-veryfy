@@ -1,0 +1,17 @@
+{
+ "name_input": "ROTO PUMPS LTD.; ROTO PUMPS LTD",
+ "declared_hs": "841391;850300",
+ "actual_hs_list": [
+  "841360 (other rotary positive displacement pumps - progressive cavity / twin screw / downhole PC pumps)",
+  "841391 (parts of pumps)",
+  "841370 (other centrifugal pumps - solar water pumping systems, if centrifugal)",
+  "850131 / 850161 (electric motors / generators <=750 kVA - only if motors/generators are shipped separately)",
+  "850300 (parts of electric motors/generators - only if motor parts are actually exported)",
+  "841381 (other pumps for liquids)",
+  "854143 (solar PV modules - only if panels are part of the solar pump kit)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (rotopumps.com, products menu) lists: Progressive Cavity Pumps; Twin Screw Pumps; Artificial Lift - Downhole Progressive Cavity Pumps; Roto Rudra Solar Water Pumps; Roto Original Spare Parts. Industries served: wastewater, oil & gas, biogas, mining & explosive, sugar, paper & pulp, marine/shipbuilding, food & pharma, paint & chemicals, palm oil, winery, battery. Company states 5 manufacturing plants in India, 75% exports, presence in 8 countries (own subsidiaries in USA, UK, Germany, UAE, South Africa, Malaysia, Australia). CIN L28991UP1975PLC004152, Roto House, NSEZ Noida.",
+ "role_hint": "manufacturer",
+ "comment": "Declared codes 841391 (pump parts) and 850300 (parts of electric motors/generators) cover only the accessories/parts side of the range. The core product - complete positive-displacement pumps (progressive cavity, twin screw, downhole PC) - belongs to 8413 60, and the solar water pumping systems to 8413 70/8413 81 plus possibly 8501 (motor) and 8541 43 (PV modules). So the declaration is partial: it matches the spare-parts line but omits the main pump lines. 850300 is plausible only if motor/generator parts are genuinely exported - not corroborated by any customs line, therefore 'заявлено, не подтверждено'. Industry classification 'Металлургия и горнодобыча' is a misclassification: mining is only one of ~12 end-use industries; the company is a mechanical-engineering / pump manufacturer (CIN prefix L28991 = machinery, not metallurgy). No trader signs: own plants, own brand, own subsidiaries abroad -> manufacturer. No customs/B-L lines were checked in this task, so all product-to-HS mapping is based on the public catalogue only and remains 'заявлено, не подтверждено' at shipment level. HS mismatch is not a rejection ground - company kept, code corrected to 841360 as primary."
+}

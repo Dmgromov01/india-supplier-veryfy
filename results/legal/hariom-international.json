@@ -1,0 +1,18 @@
+{
+ "name_input": "HARIOM INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML endpoint timed out; Bing returned completely irrelevant results (US cinema listings, Gerald Ford pages) for the exact-phrase queries '\"HARIOM INTERNATIONAL\" \"POOJA RATHI\"' and '\"HARIOM INTERNATIONAL\" \"Pooja Rathi\" proprietor spices', so no usable hits were obtained. Direct registry/profile fetches were blocked: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, mca.gov.in HTTP 403, tofler.in search returned a 404 page. Consequently the exact legal entity name, CIN/LLPIN, PAN (and therefore the 4th-character holder-type determination), GSTIN, GST status, incorporation date, registered-office state and MCA status are all UNVERIFIED and recorded as null - none of these values were invented. The input gives no PAN and no state, so no cross-check of registered state vs claimed state was possible. The name 'HARIOM INTERNATIONAL' with a claimed proprietor 'POOJA RATHI' is consistent with a proprietorship/partnership trading style rather than a company, in which case there would be no CIN and no MCA record at all - but this is an inference, NOT a verified fact. Role left as 'unknown': the declared HS codes 091020/091099 (saffron; other spices) and the 'food/FMCG' industry claim are self-declared only and were not corroborated by any registry or filing source. Revenue FY25 and FY26 are null: no audited accounts or official filings were located, and for a proprietorship such figures are typically not public. Per project rules this entity is NOT rejected - non-existence, strike-off, liquidation or bankruptcy could not be established either way; the correct status is 'unverified, needs manual registry lookup (MCA master data / GST portal search by trade name and by PAN)'. Recommended next step: manual GST-portal search on the trade name and on proprietor PAN, plus MCA name search, before any verdict."
+}

@@ -1,0 +1,19 @@
+{
+ "name_input": "LEAF CLEANTECH PRIVATE LIMITED; LEAF CLEANTECH PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bangalore District Court (Bengaluru)",
+   "case_no": "Com. O.S. No. 1762/2022",
+   "date": "2023-01-10",
+   "party_role": "plaintiff (M/s. Leaf Cleantech Private Limited, a company incorporated and registered under the Companies Act)",
+   "status": "pending/decided at district level per Indian Kanoon listing; outcome not visible in the search snippet",
+   "subject": "commercial suit for recovery of money due (claim amount referenced as 'due of Rs ...')",
+   "source": "https://indiankanoon.org/search/?formInput=%22Leaf+Cleantech%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a clean confirmation — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/, SDN list last updated 11/23/2026) is JavaScript-driven and returned no queryable results to the fetcher, so no name was actually screened against SDN/Non-SDN. UN, EU, UK OFSI and BIS Entity List were not screened at all. Treat sanctions exposure as UNVERIFIED, not as 'clear'. Court: one Indian civil/commercial suit located on Indian Kanoon — Com. O.S. No. 1762/2022, Bangalore District Court, dated 10.01.2023, where Leaf Cleantech Private Limited is the PLAINTIFF (money recovery), i.e. the company is pursuing a debtor, not being sued. Per project rules this is not a rejection ground and is noted neutrally. Credit rating: no rating found; CRISIL/ICRA/CARE/India Ratings/Brickwork public pages not reachable in this session — null, not public/not found. Negative news: none found, but the web_search backend (DuckDuckGo/searx) was returning 'Connection refused' for the entire session and direct DuckDuckGo HTML endpoints timed out, so news coverage was effectively NOT searched — absence of negative news here is a tooling gap, not a finding. RF/CIS supply evidence: none found; no export, customs or B-L record linking this entity to Russia or CIS located. Note the declared HS codes (300249, 350790, 392310 — pharma/chemical/enzyme and plastic packaging) are outside my scope per role instructions and were not assessed. Recommend re-running sanctions screening (OFAC/UN/EU/UK/BIS) and a news sweep once search tooling is restored before any decision."
+}

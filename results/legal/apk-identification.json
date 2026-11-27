@@ -1,0 +1,18 @@
+{
+ "name_input": "APK IDENTIFICATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. The DuckDuckGo search backend returned connection errors ('searx: Connection refused'), and fallback engines (Bing, Google) returned only irrelevant results about Android .apk files, because the token 'APK' dominates the query; no page mentioning a company named 'APK Identification' was retrieved. Direct registry aggregator lookups failed: zaubacorp.com returned HTTP 403, thecompanycheck.com and instafinancials.com search URLs returned HTTP 404. Therefore the exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - none of these are public in the sources I could reach, and none were invented. No state was claimed in the input, so state_claimed is null and no state mismatch can be assessed. Role is 'unknown': the name suggests a marking/identification-products supplier (declared HS 831000 - sign plates/numbers/letters, and 902790 - parts of instruments), but no registry record confirms whether the entity is a manufacturer, trader or proprietorship. Revenue FY25/FY26 are null: no audited accounts or official filings were located. IMPORTANT: this is NOT a rejection. Per project rules, rejection requires proof that the entity does not exist, is struck off, liquidated or bankrupt - no such proof exists here; the entity simply could not be located with the available tools. Recommended next step: re-run with a working search backend, or supply the PAN/GSTIN/CIN, or the city/state, to resolve the entity (likely a small proprietorship or partnership, which would have no CIN at all)."
+}

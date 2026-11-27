@@ -1,0 +1,18 @@
+{
+ "name_input": "SUN TEKNOVATION PVT LTD",
+ "legal_name": "SUN TEKNOVATION PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search returned 'Connection refused' (searx backend down) on both attempts; direct fetches of registry aggregators were blocked or empty - zaubacorp.com 403 Forbidden (company page and search page), thecompanycheck.com 403 Forbidden, tofler.in 404 (slug not found), instafinancials.com 404, quickcompany.in 404, mca.gov.in MDS 403 Forbidden. Bing/Google HTML endpoints returned only generic 'Sun' star results, i.e. no indexed company record surfaced for the exact string 'SUN TEKNOVATION PRIVATE LIMITED'. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT evidence of absence. No audited accounts or official filings were located, so revenue FY25 and FY26 are null; no figures were estimated. Role left as 'unknown' - the claimed industry (IT/electronics, HS 847160/903180) is a self-declaration only and is not evidence of manufacturer vs trader status. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy - only absence of retrievable records. Recommended action: re-run verification when search backend is restored, or query MCA V3 master data / GST portal directly by exact legal name to obtain CIN and GSTIN before any commercial decision."
+}

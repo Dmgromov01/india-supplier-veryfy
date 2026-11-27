@@ -1,0 +1,18 @@
+{
+ "name_input": "RICE INDIA EXPORT (P) LTD.; RICE INDIA EXPORTS PRIVATE LIMITED",
+ "legal_name": "RICE INDIA EXPORTS PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: web_search backend returned 'Connection refused' (searx unavailable); DuckDuckGo HTML endpoint timed out; Google returned only a redirect/consent interstitial; Bing returned entirely irrelevant results (US 'Brother Rice' school pages) for all three query variants, i.e. no usable SERP. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com 403 Forbidden, thecompanycheck.com 403 Forbidden, falconebiz.com 403 Forbidden, instafinancials.com 404, quickcompany.in 404. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder-type test), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent from the public record, but because no source page could be read in this session. No revenue figures are stated: audited accounts / MCA filings were not accessible, so FY25 and FY26 revenue are null rather than estimated. Role is 'unknown' - the name suggests an exporter of rice (HS 100630 is consistent with the declared line), but the input itself is ambiguous between two name variants ('RICE INDIA EXPORT (P) LTD.' and 'RICE INDIA EXPORTS PRIVATE LIMITED'), which may be two distinct legal entities; this must be resolved against MCA before any role or entity determination. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of readable sources is not evidence of non-existence. Action required: re-run verification when search/registry access is restored, and confirm which of the two name variants is the actual registered entity."
+}
