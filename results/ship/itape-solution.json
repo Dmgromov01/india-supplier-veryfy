@@ -1,0 +1,8 @@
+{
+ "name_input": "ITape solution",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/itape-solution (and variants /itape-solutions, /itape) returned only the generic page template: \"Shipments available for ITAPE SOLUTION, refreshed daily\" — 0 shipment rows actually rendered, no date, no destination, no HS code, no bill-of-lading number. Source counter: 3 importkey slug variants tried, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend (DuckDuckGo/searx) returned \"Connection refused\" on both queries; volza.com and eximpedia.app returned HTTP 403; html.duckduckgo.com timed out. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Проверка неполная по техническим причинам: поисковый бэкенд был недоступен (searx connection refused, DuckDuckGo HTML timeout), а volza/eximpedia отдали 403, поэтому отсутствие записей НЕ доказывает отсутствие отгрузок — статус по обоим направлениям оставлен unknown, а не none_found. Название «ITape solution» не является зарегистрированным юрлицом в том виде, как заявлено; заявленный владелец «MEENAKSHI MILIND INAMDAR» — физлицо, CIN/PAN не подтверждены (null). Заявленные HS 391990 (самоклеящиеся плёнки/ленты) и 732393 (изделия из нерж. стали, кухонные) между собой не связаны и с отраслью «Нефтегаз и химия» не согласуются — вероятно, смешаны два разных товара; фактический код не установлен, поэтому HS не исправлялся. Выручка и объём экспорта: null (не публичны, не выдумывались). Требуется повторный прогон при доступном поиске и запрос у поставщика: CIN/GSTIN, инвойсы, B/L или shipping bill, выписка GST-оборота."
+}

@@ -1,0 +1,20 @@
+{
+ "name_input": "M/S SHAKTI PUMP INDIA LIMITED",
+ "declared_hs": "841370;841410",
+ "actual_hs_list": [
+  "84137010 (centrifugal/submersible water pumps, up to 7.5 kW class)",
+  "84137099 (other centrifugal pumps, incl. solar/industrial pump sets)",
+  "84138190 (other pumps for liquids — solar pumping systems, if not centrifugal-classified)",
+  "84141000 (air/vacuum pumps — NOT corroborated by any product on site)",
+  "85015210 / 85015310 (AC motors, incl. submersible motors)",
+  "85044090 / 85043100 (VFD / universal drives, controllers)",
+  "87038090 or 85013119 (EV traction motors — new line)",
+  "84842000 (mechanical seals)",
+  "73089090 (solar mounting structures)",
+  "85414300 / 85414011 (solar PV modules, if supplied in solar pump packages)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (shaktipumps.com) product tree: Pumps — submersible pumps, solar pumps, openwell/monoblock centrifugal pumps, industrial pumping solutions; Motors — submersible motors, EV motors; Controllers — Simha / Simha 3.0 Universal Drive (VFD) for motor pump sets; Others — mechanical seal, hydro-pneumatic system, PLC parameter setting, solar structure, EV motor. Industries served: agriculture, industrial, residential/commercial, solar solution, water management & waste.",
+ "role_hint": "manufacturer",
+ "comment": "Сверка по сайту производителя (https://www.shaktipumps.com/products/pumps/, /products/motors/, /products/controllers/, /products/others/, /industries/industrial/). HS 8413 70 — подтверждается: центробежные/погружные и моноблочные насосы, солнечные насосные установки — это ядро каталога. HS 8414 10 (вакуумные/воздушные насосы) — НЕ подтверждается: ни одной позиции воздушных или вакуумных насосов в каталоге не найдено; вероятно, заявлено ошибочно (путаница с 8413 70 или с 8414 80 вентиляторы). Итог: частичное совпадение. Пропущены в декларации целые товарные линии: электродвигатели (8501), в т.ч. погружные и тяговые EV-моторы; преобразователи частоты / универсальные приводы Simha (8504); механические торцевые уплотнения (8484); солнечные монтажные конструкции (7308); гидропневматические установки; при поставке солнечных насосных комплектов — фотоэлектрические модули (8541). Отраслевая привязка «Нефтегаз и химия» не соответствует фактическому профилю: компания — производитель водяных/сельскохозяйственных/солнечных насосов и приводов, промышленный сегмент присутствует, но нефтегазового или химического специализированного оборудования (насосы API 610, химические насосы из спецматериалов) в каталоге не заявлено. Признаков трейдера нет: собственное производство, Made in India, патенты, e-Tender, сервисная сеть — роль manufacturer. Все товарные позиции взяты из каталога сайта; конкретных таможенных строк в рамках этой проверки не сверялось, поэтому подтверждение кодов по фактическим отгрузкам — «заявлено, не подтверждено». HS-несоответствие не является основанием для отклонения (правило 3): компания сохраняется, код 841410 рекомендуется исключить/заменить на фактический, вердикт accepted_hs_corrected."
+}

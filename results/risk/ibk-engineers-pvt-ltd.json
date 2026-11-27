@@ -1,0 +1,9 @@
+{
+ "name_input": "IBK Engineers Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Google отдал только редирект-заглушку; Bing по запросам «IBK Engineers Private Limited», «IBK Engineers» + ZaubaCorp/Tofler/IndiaMART и + Russia/export/sanctions выдал исключительно нерелевантные результаты про Industrial Bank of Korea / Interactive Brokers — ни одного упоминания индийской компании с таким названием. Прямые проверки реестров: zaubacorp.com — HTTP 403 (заблокировано), tofler.in — 404 на странице поиска. Итог: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), индийские судебные дела (роль стороны, статус), действия регуляторов, негативные новости с датами, кредитный рейтинг (дата/статус) и признаки поставок в РФ/СНГ — НЕ ПРОВЕРЕНЫ, данные отсутствуют (null), а не подтверждены как отсутствующие. Никаких выводов о наличии или отсутствии рисков делать нельзя. Требуется повторный прогон при доступном поиске/реестрах (MCA, ZaubaCorp, Tofler, eCourts, NCLT, OFAC/UN/EU/UK/BIS консолидированные списки). Отклонение по правилу 2 не рассматривается; оснований для rejected нет."
+}

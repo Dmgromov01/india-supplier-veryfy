@@ -1,0 +1,18 @@
+{
+ "name_input": "IBK Engineers Pvt Ltd",
+ "legal_name": "IBK ENGINEERS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained, not a negative finding. Tooling failed: web_search backend returned connection refused; Bing/Google HTML endpoints returned only unrelated 'IBK' bank/broker results (query terms effectively ignored); zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403/404; mca.gov.in MDS returned HTTP 403. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue (FY25/FY26) are all null because they are not publicly retrievable with the available tools - they are NOT null because the company was found to be non-existent. No basis to reject: entity existence/struck-off/liquidation status unconfirmed either way, so verdict is 'unverified', not 'rejected'. Input had no PAN and no state, so no cross-check of registered office state vs claimed state was possible. Role left 'unknown' - the claimed industry ('IT and electronics') is inconsistent with declared HS 848590 (machinery parts / machinery for working rubber, plastics or for making semiconductor devices), which suggests an engineering/manufacturing or trading profile, but this is inference only, not evidence. Recommended next step: manual MCA master-data lookup by name and GST portal search on the legal name before any decision."
+}
