@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SANDOZ PRIVATE LTD",
+ "legal_name": "Sandoz Private Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ВЕРИФИКАЦИЯ НЕ ЗАВЕРШЕНА — данных из реестра получить не удалось. Все попытки доступа к публичным источникам в этом сеансе провалились: web_search (DuckDuckGo/searx) возвращал 'Connection refused'; zaubacorp.com, thecompanycheck.com, falconebiz.com — HTTP 403 Forbidden; tofler.in — 404; instafinancials.com отдал только шапку сайта без карточки компании; Google — HTTP 429; Bing по всем запросам (CIN, GSTIN, 'zaubacorp OR tofler OR indiafilings') выдавал лишь общие страницы глобального Sandoz Group AG (sandoz.com, Wikipedia, LinkedIn) без индийской регистрационной карточки. Поэтому CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка — null: НЕ выдумываю. Юрлицо 'Sandoz Private Limited' как таковое существует (индийское подразделение группы Sandoz, глобальный производитель дженериков и биоаналогов), но подтвердить это записью MCA в рамках лимита вызовов не удалось — статус 'заявлено, не подтверждено'. Роль 'manufacturer' — предварительная, по отраслевому профилю группы (фармпроизводство), реестром не подтверждена. ВНИМАНИЕ по HS: заявленный код 340290 (моющие/поверхностно-активные средства) не соответствует фармацевтическому профилю компании — вероятно, ошибка в декларации; по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический после проверки номенклатуры. Компания НЕ отклонена: оснований для rejected (несуществование, ликвидация, банкротство) не установлено, но и не опровергнуто. Требуется повторная проверка с доступом к MCA/Tofler/Zauba или к мастер-данным GST."
+}

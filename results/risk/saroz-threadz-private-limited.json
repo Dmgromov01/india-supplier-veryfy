@@ -1,0 +1,9 @@
+{
+ "name_input": "SAROZ THREADZ PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query (3 attempts); DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only irrelevant results (NBA schedules / YouTube help pages) with no occurrence of the company name, i.e. no genuine match; Tofler search endpoint returned a 404 page; ZaubaCorp and InstaFinancials returned HTTP 403. Consequently NOTHING could be verified on any of the five required dimensions: (1) sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) - not checked, null; (2) Indian court cases (party role, status) - not checked, null; (3) regulator actions and negative news with dates - not checked, null; (4) credit rating with date and status - not checked, null; (5) evidence of supplies to Russia or CIS - not checked, null. All fields are null because the data is not public/not retrieved, NOT because the company is clean. No CIN, PAN, director names, ratings or case numbers were invented. Per project rules this company must NOT be rejected on this basis - rejection is only for non-existent/liquidated/insolvent entities, and no such finding exists here. Recommended action: re-run this company in a later batch once search access is restored, and check MCA master data, e-courts/NJDG, OFAC/UN/EU/UK/BIS lists and CRISIL/ICRA/CARE/India Ratings directly. Note also that the declared industry ('food/FMCG') is inconsistent with the declared HS codes 620442/620462 (women's cotton dresses and trousers) - flagged for the HS/identity researcher, not a risk finding."
+}
