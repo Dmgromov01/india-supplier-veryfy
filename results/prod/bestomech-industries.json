@@ -1,0 +1,21 @@
+{
+ "name_input": "Bestomech Industries",
+ "declared_hs": "870899",
+ "actual_hs_list": [
+  "848350",
+  "848390",
+  "848340",
+  "848360",
+  "732510",
+  "732599",
+  "843149",
+  "841490",
+  "841391",
+  "870840",
+  "870893"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Coimbatore (Kalapatti Village, Mylampatti P.O., Coimbatore-641062) manufacturer, established 1991, self-described as 'Manufacturers of Mechanical Power Transmission Products, Elevator, Escalator Parts and Precision Machined Components'. Real catalogue per bestomech.com (home page, /pulleys/, site nav): (1) Pulleys - Taper Bush V-pulleys, Air Cool V-pulleys, Poly V pulleys, Timing pulleys -> HS 8483.50 (flywheels and pulleys, incl. pulley blocks); (2) Sprockets -> 8483.90; (3) Couplings - chain, straight jaw, curved jaw, pin bush, gear, tyre couplings, weld-on hubs -> 8483.60 (shaft couplings and universal joints); (4) Gearboxes -> 8483.40 (gears and gearing, gear boxes); (5) Elevator/escalator parts - diverter/deflector sheaves, traction sheaves, escalator sprockets and assemblies, cast/machined parts for traction machine -> 8483.50 / 8483.90, with castings possibly 7325.10-7325.99; (6) Precision machined components - PTO clutch parts (-> 8708.93 clutches and parts thereof), compressor parts (-> 8414.90), gearbox housings (-> 8483.90), dosing pump components (-> 8413.91).",
+ "role_hint": "manufacturer",
+ "comment": "Declared HS 870899 = 'other parts and accessories of motor vehicles of headings 8701-8705'. This is a wrong classification for the actual product line: the company's core output is mechanical power transmission hardware (pulleys, sprockets, couplings, gearboxes) under HS 8483, plus elevator/escalator sheaves and sprockets, plus general precision-machined components. Only the PTO clutch parts line (8708.93) and possibly some tractor/agri PTO drive components could legitimately fall in chapter 87; 8708.99 as a blanket code is not corroborated by the catalogue. Industry label 'Авиастроение и транспорт' (aviation & transport) is a misclassification: no aviation or aerospace product line appears anywhere on the site; the real industry is mechanical power transmission / elevator-escalator components / contract machining for OEMs. Trader signs: none found - the site presents own plant ('100000 sqft covered production', ISO, 5S, Lean, EEPC export award, in-house measuring/air gauges), so manufacturer role is plausible. Per project rule 3 the HS mismatch is NOT a rejection ground: company is retained, code corrected to the 8483 family as primary with 8708.93 for the PTO clutch line. All product claims above are from the company's own website only - no customs line was available in this task, therefore every HS mapping here is 'заявлено, не подтверждено' at the shipment level; the site does claim '8 countries with our Global Customers' and an EEPC India 56th Export Award, but that is a statement, not a verified shipment record. Product lines missing from the declaration: pulleys, sprockets, couplings, gearboxes, sheaves, castings, compressor and pump components - i.e. essentially the entire catalogue. Note: no PAN/CIN/state was supplied in the input and none was researched per role scope."
+}

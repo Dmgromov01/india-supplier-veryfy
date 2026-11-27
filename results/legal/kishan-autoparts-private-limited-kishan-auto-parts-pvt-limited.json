@@ -1,0 +1,18 @@
+{
+ "name_input": "KISHAN AUTOPARTS PRIVATE LIMITED; KISHAN AUTO PARTS PVT. LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool was unavailable (searx connection refused) and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Bing/Google/DDG HTML endpoints returned irrelevant results or 429/timeout. Therefore no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a citable source, and none is asserted here. The claimed name 'KISHAN AUTOPARTS PRIVATE LIMITED' / 'KISHAN AUTO PARTS PVT. LIMITED' is a plausible Indian private-limited naming pattern but existence is NOT confirmed. Per project rules, rejection is only allowed when non-existence/strike-off/liquidation/bankruptcy is established - that is not established here, so the company is NOT rejected; it is left unverified pending a re-check on MCA master data (mca.gov.in / MCA21 company search) and the GST portal. Role cannot be determined from registry data alone; declared HS 840991 (parts for spark-ignition engines) is consistent with an auto-parts maker, but no evidence of manufacturing vs trading was obtained. Revenue FY25/FY26: null - no audited accounts or official filings were accessible. Recommended next step: manual lookup by exact name on MCA21 and GST search, plus a state hint from the input (state_claimed is empty, so registered-state comparison is not possible)."
+}

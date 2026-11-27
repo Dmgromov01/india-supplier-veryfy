@@ -1,0 +1,18 @@
+{
+ "name_input": "PETE-HAMMOND POWER SOLUTIONS PVT LTD; PETE-HAMMOND POWER SOLUTIONS PVT LTD; HAMMOND POWER SOLUTIONS PRIVATE LIMITED",
+ "declared_hs": "850423",
+ "actual_hs_list": [
+  "8504.31",
+  "8504.32",
+  "8504.33",
+  "8504.34",
+  "8504.21",
+  "8504.23",
+  "8504.90",
+  "8537.10 (панели/шкафы управления, если поставляются в сборе)"
+ ],
+ "match_status": "partial",
+ "product_summary": "По каталогу Hammond Power Solutions (глобальный сайт, раздел Products, https://www.hammondpowersolutions.com/en-in/): сухие трансформаторы (dry-type), реакторы и фильтры. Реальные товарные линии из навигации каталога: Control & Automation — control transformers (open core & coil, encapsulated, molded machine tool), drive isolation transformers, dV/dT filters, motor starting autotransformers, reactors, SineWave motor protection filters; Power Quality & Filters — active harmonic filters, passive harmonic filters, harmonic mitigating transformers, K-factor transformers; Low Voltage Distribution — general purpose transformers, buck-boost, autotransformers, encapsulated transformers 1ph/3ph, EV charging distribution transformers, solar duty transformers, smart transformers, low voltage lighting transformers, mini power centers; Medium Voltage Distribution — cast resin до 35 kV класса, VPI до 5/35/46 kV класса. Т.е. фактически это производитель распределительных и специальных трансформаторов малой/средней мощности (кВА-диапазон), а не силовых масляных трансформаторов большой мощности.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 850423 = «жидкостные (масляные) трансформаторы мощностью более 10 000 кВА». Каталог компании (https://www.hammondpowersolutions.com/en-in/) описывает исключительно СУХИЕ трансформаторы (dry-type: cast resin, VPI, encapsulated), реакторы и фильтры; масляных силовых трансформаторов >10 000 кВА в номенклатуре не найдено. Соответствие: partial — товарная группа 8504 верна (трансформаторы), но подпозиция не соответствует фактическому ассортименту. Корректные коды по факту: 8504.31/8504.32/8504.33/8504.34 (сухие трансформаторы по мощности, включая распределительные и измерительные), 8504.21/8504.23 (только если поставляются жидкостные), 8504.90 (части), 8537.10 для комплектных шкафов управления/мини-центров питания. Отрасль «Энергетика» — корректна, но точнее «электротехническое оборудование / трансформаторостроение». Признаков трейдера в каталоге нет: компания позиционирует себя как производитель («no other transformer manufacturer can match»), есть собственные продуктовые линии и конфигуратор — role_hint manufacturer. ВАЖНО: наименование в батче неоднозначно — «PETE-HAMMOND POWER SOLUTIONS PVT LTD» и «HAMMOND POWER SOLUTIONS PRIVATE LIMITED» могут быть разными юрлицами (индийское подразделение группы HPS vs. возможный СП/дистрибьютор «Pete-Hammond»); публичной страницы именно индийского юрлица получить не удалось (сайт отдаёт только глобальный каталог, страницы /en-in/our-company/ и /en-in/contact/ редиректят на главную, продуктовые подстраницы 404), поэтому привязка каталога к конкретному индийскому юрлицу — заявлено, не подтверждено. Ни одна позиция не подтверждена таможенной строкой — все коды в actual_hs_list имеют статус «заявлено, не подтверждено» (каталог/сайт фактом отгрузки не считается). Отсутствующие в декларации товарные линии: реакторы, dV/dT и SineWave фильтры, active/passive harmonic filters, smart transformers, cast resin и VPI СВН-трансформаторы до 46 кВ, mini power centers. HS-несоответствие не является основанием для отклонения — компания сохраняется, код исправляется на фактический (accepted_hs_corrected)."
+}

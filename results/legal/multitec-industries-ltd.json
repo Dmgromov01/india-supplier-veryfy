@@ -1,0 +1,18 @@
+{
+ "name_input": "Multitec Industries Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on both queries, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404. Bing/Google/DuckDuckGo HTML endpoints returned irrelevant results or 429/timeouts, so no page containing the CIN, PAN, GSTIN, incorporation date or MCA status was actually read. Therefore legal_name, CIN, PAN, GSTIN, incorporation date, registered state and MCA status are all null - not because they are absent, but because nothing was confirmed from a source. No revenue figures were found in audited accounts or official filings, so FY25 and FY26 revenue are null. Role is 'unknown': the claimed name 'MULTITEC INDUSTRIES' with suffix 'Ltd' suggests a company form, but no MCA record was retrieved to confirm existence, entity type, or whether it manufactures or trades. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established either, only that verification failed. Declared HS 820600 (interchangeable tools for hand tools) is not assessed here as HS mismatch is not a rejection ground. Recommended next step: re-run with a working search backend or MCA master-data / GST portal lookup to obtain CIN and GSTIN before any verdict."
+}

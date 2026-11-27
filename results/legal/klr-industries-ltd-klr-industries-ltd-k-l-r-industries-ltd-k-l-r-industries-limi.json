@@ -1,0 +1,18 @@
+{
+ "name_input": "\"KLR INDUSTRIES LTD.\"; KLR INDUSTRIES LTD; K L R INDUSTRIES LTD; K L R INDUSTRIES LIMITED",
+ "legal_name": "K L R INDUSTRIES LIMITED (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this session. Tooling failures: DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Bing returned only irrelevant results (Kawasaki KLR650, US CPA firm KLR, KLR Systems) for queries on 'KLR Industries Limited' + CIN and + GSTIN; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; instafinancials.com returned only its generic homepage (no company record); klrindustries.com failed DNS resolution; Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT because they are absent, but because no public source could be read. No identifiers were guessed or constructed. Per project rules, rejection is not warranted: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the entity simply remains unverified. Role left as 'unknown' (input industry 'Металлургия и горнодобыча' and HS 8207/8430 suggest drilling/rock-drilling tools and machinery, which would point to manufacturer, but this is inference from the declared HS codes only, not a verified fact). Revenue FY25/FY26: null — no audited accounts or MCA filings were accessible. Recommended next step: re-run with working search access and read MCA master data / a GST public profile (e.g. a GSTIN search portal) to fill CIN, PAN, GSTIN, incorporation date and state."
+}

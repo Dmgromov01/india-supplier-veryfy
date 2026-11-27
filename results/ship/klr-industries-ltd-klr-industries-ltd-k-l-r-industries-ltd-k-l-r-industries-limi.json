@@ -1,0 +1,8 @@
+{
+ "name_input": "\"KLR INDUSTRIES LTD.\"; KLR INDUSTRIES LTD; K L R INDUSTRIES LTD; K L R INDUSTRIES LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/klr-industries-ltd and .../klr-industries-limited both returned only the paywalled page shell: \"Shipments available for KLR INDUSTRIES LTD, refreshed daily\" — a generic template sentence, not a shipment record. Rows actually seen: 0 (no bill-of-lading number, no date, no destination, no HS code displayed). volza.com/p/klr-industries/ → HTTP 403; eximpedia.app → HTTP 403; importgenius.com → JavaScript challenge; trademo.com → HTTP 403.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GeM/CPPP tender search and web_search were unavailable during this run (search backend returned 'Connection refused' on every query), so no GST turnover band, tender award or contract record was read. Rows actually seen: 0.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни одной фактической записи об отгрузке (экспортной или внутренней) прочитать не удалось. Все четыре вторичных источника (volza, eximpedia, importgenius, trademo) заблокировали доступ (403 / JS-challenge), а ImportKey по обоим вариантам слага отдал только заглушку без строк — счётчик записей на странице отсутствует, поэтому сопоставить 'заявлено vs увидено' невозможно. Заявления сайта/каталогов по правилу 5 фактом не считаются. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). HS-коды 820719;820750;843041;843049 (буровой инструмент / буровые установки) не проверены по таможенным записям — вердикт по HS не выносится. Требуется повторный прогон при работающем поиске или платном доступе к таможенным данным."
+}
