@@ -1,0 +1,18 @@
+{
+ "name_input": "FIGURE NATURAL PRIVATE LIMITED",
+ "legal_name": "FIGURE NATURAL PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404, and Bing/Google/DuckDuckGo fallbacks returned either HTTP 429/timeouts or completely irrelevant results (no hit for the exact name). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public/not retrieved, nothing invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was obtained either, so the company is NOT rejected; it stays in the base with role 'unknown' pending a re-run of the registry check (recommended sources: MCA master data, GST portal search by legal name, Zauba/Tofler with a working proxy). Declared HS 100630 (rice) is not a rejection ground per project rules; HS not verified against any filing. State claimed in input was empty, so no state mismatch can be assessed."
+}

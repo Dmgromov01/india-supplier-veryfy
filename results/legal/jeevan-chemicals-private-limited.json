@@ -1,0 +1,18 @@
+{
+ "name_input": "JEEVAN CHEMICALS PRIVATE LIMITED",
+ "legal_name": "JEEVAN CHEMICALS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the web_search backend was unavailable (connection refused) for the whole session, and direct reads of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404 or bot-blocked pages; Bing/Google/DDG HTML endpoints returned irrelevant or rate-limited results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — NOT verified, not absent. No audited accounts or official filings were reachable, so revenue FY25/FY26 are null (not estimated). Role left as 'unknown' because no MCA business-activity classification or GST/plant evidence was retrievable; the claimed HS codes 290539/290949 (other diols/polyols; other oxygen-function compounds) are consistent with a chemicals entity but are not evidence of manufacturing vs trading. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the entity's existence is simply unconfirmed in this session. Recommended follow-up: re-run against MCA master data / GST portal once search access is restored, and confirm the exact registered name (possible variants: 'Jeevan Chemicals Pvt Ltd', state-specific suffix) before any verdict."
+}

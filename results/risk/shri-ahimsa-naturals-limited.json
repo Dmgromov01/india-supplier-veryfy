@@ -1,0 +1,9 @@
+{
+ "name_input": "SHRI AHIMSA NATURALS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failures: the DuckDuckGo/searx search backend returned 'Connection refused' on all attempts; Google returned HTTP 429; html.duckduckgo.com timed out. Bing was reachable but ignored the quoted exact-phrase operator and returned only generic dictionary/encyclopedia results for 'Ahimsa' and 'Shri' — zero results referencing any entity named 'Shri Ahimsa Naturals Limited'. A site-restricted query (site:tofler.in) likewise returned no company-specific hits. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) was fetched but is a JavaScript form; it returned only the interface shell with no query results, so no actual SDN/Non-SDN name match was performed. Consequently: sanctions exposure = NOT VERIFIED (null, not 'clear'); Indian court cases (party role/status) = NOT VERIFIED (null); regulator actions and negative news = NOT VERIFIED (null); credit rating = NOT VERIFIED (null); evidence of supplies to Russia/CIS = NOT VERIFIED (null). Per project rules, null is used rather than inventing data, and no negative inference should be drawn from these nulls — they reflect research failure, not absence of risk. IMPORTANT CAVEAT: the claimed legal name could not be corroborated in any public source, and the claimed HS codes (130219; 293930) span two unrelated categories (plant extracts/saps vs. caffeine and its salts), which is a data-quality flag for the identity/HS reviewer, not a risk finding. RECOMMENDATION: re-run this company when the search backend is restored, and manually query the OFAC SDN/consolidated list, the UN and EU consolidated lists, the UK OFSI list, the BIS Entity List, and Indian court records (eCourts/NJDG, NCLT) by exact legal name. Do not treat this record as cleared."
+}

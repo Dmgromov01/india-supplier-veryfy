@@ -1,0 +1,31 @@
+{
+ "name_input": "SHREE ELECTRICALS & ENGINEERS (INDIA) PRIVATE LIMITED; SHREETECH DATA LIMITED",
+ "sanctions_hit": false,
+ "court_cases": [
+  {
+   "court": "Bombay High Court",
+   "case": "NTPC BHEL Power Projects Pvt. Ltd. vs Shree Electricals & Engineers (India) Pvt. Ltd.",
+   "role": "Respondent (defendant)",
+   "status": "Commercial/arbitration dispute; orders dated 03.07.2024 (A.S. Chandurkar) and 17.03.2025 (G.S. Kulkarni); appealed onward",
+   "source": "https://indiankanoon.org/search/?formInput=%22Shree%20Electricals%20%26%20Engineers%22"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Maharashtra State Electricity Distribution Co. Ltd. vs Shree Electricals & Engineers India Pvt. Ltd. (IAL-5919-2024, IA-L-4923-2024)",
+   "role": "Respondent",
+   "status": "Interim applications in arbitration-related proceedings; hearings 15.07.2024, 12.08.2024, 08.06.2026",
+   "source": "https://indiankanoon.org/search/?formInput=%22Shree%20Electricals%20%26%20Engineers%22"
+  },
+  {
+   "court": "Supreme Court of India",
+   "case": "Shreetech Data Limited (earlier known as Shree Electricals and Engineers (India) Pvt. Ltd.) vs NTPC BHEL Power Projects Pvt. Ltd.",
+   "role": "Petitioner (appellant)",
+   "status": "SLP against 2024 Bombay HC order; listed 20.06.2025, 21.07.2025, 12.08.2025, 18.11.2026 - pending",
+   "source": "https://indiankanoon.org/search/?formInput=%22Shreetech%20Data%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No adverse regulatory action, penalty or negative media coverage found. Search backend (DuckDuckGo/searx) was unavailable during this check, so news coverage could not be exhaustively screened - treat as a coverage gap, not as a clean bill. Only public litigation found is ordinary commercial/contract arbitration with state-owned counterparties (NTPC BHEL, MSEDCL), which is routine for Indian electrical-equipment suppliers.",
+ "rf_supply": "No evidence found. Indian Kanoon full-text search for 'Shree Electricals' combined with Russia/CIS/export returned no matching results (https://indiankanoon.org/search/?formInput=%22Shree%20Electricals%22%20%22Russia%22%20OR%20%22CIS%22%20OR%20%22export%22). No public record of supplies to Russia or CIS located.",
+ "note": "Sanctions: no match in OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others) for either 'Shree Electricals Engineers' or 'Shreetech Data' as of data current 2026-11-27 (https://www.opensanctions.org/search/?q=Shree+Electricals+Engineers and ?q=Shreetech+Data). OFAC's own Sanctions List Search is a JavaScript form and could not be queried directly; the OpenSanctions consolidated check is the substitute and is not a formal legal screening. Name change confirmed by court records: Shree Electricals & Engineers (India) Pvt. Ltd. is now Shreetech Data Limited - same legal entity, relevant because screening under the old name alone would miss the new one. Credit rating: null - no public rating from CRISIL/ICRA/CARE/India Ratings/Acuite found; the company appears to be an unrated private entity, so no rating exists to report rather than data being withheld. Per project rules, the arbitration and court matters are noted neutrally and are not rejection grounds; the entity is active and litigating in its own name, so no liquidation/bankruptcy indicator surfaced. Coverage limitation: the web_search tool failed on every attempt (connection refused), so negative-news and regulator-action screening rests on Indian Kanoon and OpenSanctions only - a paid news/regulator database check is recommended before final onboarding."
+}

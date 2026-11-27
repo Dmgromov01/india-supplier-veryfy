@@ -1,0 +1,18 @@
+{
+ "name_input": "AISHWARYA POWER SYSTEMS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены — все поля null, ничего не выдумано. Что сделано: (1) web_search (DuckDuckGo/searx) вернул ошибку соединения на обоих запросах — поисковый бэкенд недоступен; (2) прямые запросы к реестровым агрегаторам заблокированы или не найдены: zaubacorp.com/companysearchresults/... и zaubacorp.com/company/AISHWARYA-POWER-SYSTEMS — HTTP 403 Forbidden; thecompanycheck.com — HTTP 404; instafinancials.com — HTTP 404; falconebiz.com — HTTP 403; (3) Bing по трём разным запросам ('\"AISHWARYA POWER SYSTEMS\" GSTIN CIN', '... private limited OR proprietor GST', '... IndiaMART OR Justdial switchgear', '... \"GSTIN\" -Rai') выдал только нерелевантную выдачу про актрису Айшварью Рай — ни одной страницы по компании; (4) Google — HTTP 429, DuckDuckGo html — timeout. Вывод по существу: публичного реестрового следа компании с названием 'AISHWARYA POWER SYSTEMS' в доступных источниках не найдено. Это НЕ основание для отклонения: отсутствие данных в моих инструментах не равно отсутствию юрлица (правило 3 — отклонять только при подтверждённой несуществующей/ликвидированной/обанкроченной организации; здесь такого подтверждения нет). Вердикт по реестру: не проверено, требуется повторный прогон при работающем поиске. Что нужно уточнить у поставщика/из открытых источников: точное юрлицо (это может быть ООО/Private Limited, partnership или ИП-проприеторщина — 'AISHWARYA POWER SYSTEMS' без суффикса чаще всего ИП/партнёрство, у которых CIN отсутствует по определению), 15-значный GSTIN (по нему проверяются штат регистрации и статус на gst.gov.in), PAN (4-й символ: P — физлицо/ИП, C — компания, F — партнёрство, H — HUF, A — AOP) и штат, заявленный в анкете (в input state_claimed пуст — сверять не с чем). Роль (manufacturer/trader) по реестру не определяется и здесь не устанавливалась: каталоги и IndiaMART по правилу 5 фактом не считаются. Выручка FY25/FY26: null — аудиторской отчётности или официальных филингов в открытом доступе не найдено; для ИП/партнёрства такие данные, как правило, не публикуются вовсе. HS-коды 853620/853630/853649 (автоматические выключатели, аппаратура защиты цепей) не проверялись и на вердикт не влияют (правило 3)."
+}
