@@ -1,0 +1,18 @@
+{
+ "name_input": "POWERMASTER ENGINEERS PRIVATE LIMITED",
+ "legal_name": "POWERMASTER ENGINEERS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: web_search returned 'searx: Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and tofler.in returned HTTP 403; instafinancials.com returned 404 for the guessed slug; indiamart.com returned HTTP 429; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant cached results (US 'Powermaster Performance', powermaster.in = POWERMASTER LTD, a different entity) with no MCA/CIN/GST record for 'Powermaster Engineers Private Limited'. No CIN, PAN, GSTIN, incorporation date, state of registration, MCA status or audited revenue figures were obtained from any official source, so all such fields are null rather than guessed. Note the input's declared HS codes (820412, 820559, 820760, 846789 - hand tools, tube/pipe tools, pneumatic tools) and industry label 'Авиастроение и транспорт' (aviation & transport) are inconsistent with each other, but per project rules HS mismatch is not a rejection ground. No rejection applied: existence of the entity is neither confirmed nor disproved - it is simply unverified. Recommend re-running with working search/registry access (MCA master data, GST portal public search) before any verdict; role left as 'unknown' pending confirmation of manufacturing vs trading activity."
+}

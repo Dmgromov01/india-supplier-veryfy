@@ -1,0 +1,8 @@
+{
+ "name_input": "Jidoka Technologies pvt ltd",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey company pages for both slug variants (jidoka-technologies-pvt-ltd and jidoka-technologies-private-limited) returned only the empty template: \"Shipments available for JIDOKA TECHNOLOGIES PRIVATE LIMITED, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no bill-of-lading numbers rendered. Rows actually seen: 0 of 0. No customs/B-L record found on any accessible source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award, contract or annual-report revenue split could be retrieved. Search backend (DuckDuckGo/searx) returned connection errors on all queries; volza, eximpedia and trademo returned HTTP 403; the guessed company domain jidokatechnologies.com did not resolve. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено: ни экспортных отгрузок, ни подтверждённых внутренних поставок в открытых источниках не обнаружено. Это результат отсутствия доступа к данным, а не доказательство отсутствия деятельности — компания известна как разработчик систем машинного зрения (инспекция на конвейере), что соответствует заявленному HS 903180, но каталог и сайт фактом отгрузки не считаются (правило 5). Выручка: null (не публична в доступных источниках). Объём экспорта: null. PAN/CIN не подтверждены — null. Рекомендуется повторная проверка при восстановлении доступа к volza/eximpedia или через GST-портал."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Jidoka Technologies pvt ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты поиска были недоступны. web_search (DuckDuckGo/searx) возвращал ошибку соединения (Connection refused) на всех запросах; http_get к сайту компании (jidokatechnologies.com) — DNS-ошибка; DuckDuckGo HTML и Google — таймаут/HTTP 429; Bing выдавал нерелевантную выдачу (не по компании); реестровые агрегаторы (zaubacorp, thecompanycheck) — HTTP 403. Санкционный поиск OFAC (sanctionssearch.ofac.treas.gov) открылся, но это JS-интерфейс, результаты запроса через http_get не возвращаются — фактического скрининга по SDN/Non-SDN не проведено. Аналогично не проверены UN/UK/EU/BIS Entity List, индийские судебные реестры (eCourts, NCLT), рейтинговые агентства и признаки поставок в РФ/СНГ. Все поля оставлены null — данных нет, выдумывать недопустимо. Требуется повторный прогон при доступном поиске; по правилу 2 санкции/суды/уголовные дела в любом случае не являются основанием для отклонения."
+}

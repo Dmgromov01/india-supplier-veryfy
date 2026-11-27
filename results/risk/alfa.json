@@ -1,0 +1,9 @@
+{
+ "name_input": "ALFA",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-SCOPE ONLY. Sanctions screening: OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and others; data current as of 2026-11-27) returned 'No matching entities were found' for the query 'Alfa Therm' — https://www.opensanctions.org/search/?q=Alfa+Therm. This is a negative screen on the name string only, NOT a clearance: the legal name 'ALFA THERM LIMITED' could not be independently verified as an existing Indian entity, so the screen may have matched nothing simply because the entity/name is wrong or unregistered. Court cases (Indian courts, party role, status): NOT ESTABLISHED — no public record retrieved; search tooling failed (DuckDuckGo/Searx backend refused connections; Bing returned only unrelated 'Alfa' brand results — Alfa Romeo, Alfa Insurance, etc. — and unrelated NFL content). Regulator actions / negative news: NOT ESTABLISHED, no records retrieved. Credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork): null — no rating found in public sources; not public / not retrieved. Evidence of supplies to Russia or CIS: null — no customs, B/L, or media evidence found; nothing to report either way. NOTE ON METHOD: only 7 tool calls were usable and the search layer was largely non-functional, so the absence of hits above reflects tool failure, not a clean record. Recommend re-running sanctions + Indian court (eCourts/NCLT) + credit-rating checks once search is restored, and confirming the exact registered name before relying on the OpenSanctions negative result. Per project rules, no sanctions/court findings would in any case be a rejection ground."
+}

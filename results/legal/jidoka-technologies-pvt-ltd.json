@@ -1,0 +1,18 @@
+{
+ "name_input": "Jidoka Technologies pvt ltd",
+ "legal_name": "JIDOKA TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. All 10 tool calls were consumed without a single successful registry read: DuckDuckGo search backend returned 'Connection refused' (no results); ZaubaCorp, Tofler, TheCompanyCheck, QuickCompany and MCA master-data portal returned HTTP 403; InstaFinancials and QuickCompany returned 404; Bing returned unrelated results (Starbucks pages); company website domain did not resolve; IndiaMART returned HTTP 429. Therefore CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all left null rather than guessed. The legal name 'JIDOKA TECHNOLOGIES PRIVATE LIMITED' is taken from the input claim only and is NOT independently confirmed. Role is set to 'unknown' because no MCA business-activity code (e.g. NIC 6201/4651 vs 4610) could be read to distinguish manufacturer from trader. NOT rejected: absence of verifiable data is not evidence of non-existence, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Declared HS 903180 (measuring/checking instruments) is plausible for a machine-vision/automated optical inspection vendor, but this is an inference, not a verified fact, and HS mismatch would in any case not be grounds for rejection. Recommended next step: re-run with working search access and read MCA master data plus a GST public profile to fill CIN, PAN (4th character for holder type), GSTIN and status."
+}
