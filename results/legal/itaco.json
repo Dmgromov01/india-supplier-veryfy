@@ -1,0 +1,18 @@
+{
+ "name_input": "ITACO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: входное имя 'ITACO' — не полное наименование (нет организационно-правовой формы, нет CIN/PAN/GSTIN, не указан штат). Попытки проверки не дали результата по техническим причинам: web_search вернул ошибку соединения (searx: Connection refused), затем нерелевантную выдачу; zaubacorp.com, thecompanycheck.com — HTTP 403; instafinancials — 404; google.com — 429; duckduckgo — timeout. Ни один реестровый источник (MCA/ZAUBACORP/GST-портал) прочитать не удалось, поэтому CIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка остаются null — данные не выдумывались. Вердикт по правилам проекта: НЕ отклонять (нет подтверждения, что юрлицо не существует/ликвидировано/банкрот); статус — 'не проверено, требуется полное юрлицо'. Для повторной проверки нужны: точное полное наименование (напр. 'ITACO Private Limited' / 'ITACO LLP'), CIN или GSTIN, либо штат регистрации. Заявленный HS 271019 (нефтепродукты) — не основание для отклонения; роль (manufacturer/trader) не установлена."
+}

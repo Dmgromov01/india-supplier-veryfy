@@ -1,0 +1,18 @@
+{
+ "name_input": "SAJ INDUSTRIES PRIVATE LIMITED",
+ "legal_name": "SAJ INDUSTRIES PRIVATE LIMITED (exact registered form not verified — see note)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this session. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403 (bot-blocked); tofler.in returned 404 for the guessed slug; instafinancials.com returned 404; Google returned HTTP 429; Bing returned only irrelevant results (query terms dropped, results dominated by Brazilian court portal 'e-SAJ' and saj-electric.com), so no Indian registry page was ever reached. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — NOT because they are absent, but because they were not retrievable. No number here is estimated or inferred. Per project rules, rejection is only permitted for non-existent/struck-off/liquidated/bankrupt entities; since existence could not be established either way, this company is NOT rejected and must be re-queued for verification against MCA master data (mca.gov.in / MCA V3 company search) and the GST portal (gst.gov.in search taxpayer) using the exact legal name. Role left as 'unknown' — the declared HS codes 390761/390799 (PET/polyester chips, polyols) and 392010/392020 (polyethylene film, non-cellular) suggest a plastics/polymer producer or trader, but that is an inference from the input, not a verified fact. Revenue FY25/FY26: no audited accounts or official filings were located, so null per rule 4. Note also that the input itself supplies no PAN and no state, so there is no claimed state to compare against a registered office."
+}
