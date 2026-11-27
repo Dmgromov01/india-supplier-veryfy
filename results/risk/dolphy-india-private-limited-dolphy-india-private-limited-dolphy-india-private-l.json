@@ -1,0 +1,9 @@
+{
+ "name_input": "DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "РИСК-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных, а не «чисто». Технические обстоятельства: поисковый бэкенд (DuckDuckGo/searx) возвращал Connection refused / timeout; Bing и Brave выдавали нерелевантную выдачу или 429; zaubacorp.com и thecompanycheck.com — 403 Forbidden; Google — 429. Инструмент OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, GET-запрос не возвращает результатов по имени, поэтому проверка по SDN/Non-SDN фактически не произведена (страница подтверждает лишь дату обновления списков: SDN — 23.11.2026, Non-SDN — 04.11.2026). Санкции: OFAC SDN, UN, EU, UK, BIS Entity List — НЕ проверены, статус null (не «отсутствуют»). Судебные дела в индийских судах (eCourts/NJDG), роль стороны и статус — не проверены, null. Действия регуляторов (SEBI/RBI/CCI/MCA, strike-off, ликвидация) — не проверены, null. Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) с датой и статусом — не найден, null. Негативные новости с датами — не проверены, null. Поставки в Россию/СНГ — следов не найдено в доступных источниках, но это НЕ подтверждение отсутствия: проверить не удалось, null. Примечание по правилу 2: санкции, суды и уголовные дела владельцев не являются основанием для отклонения — при появлении данных фиксировать нейтрально («есть сложности»). Рекомендация: повторить проверку при восстановлении доступа к поиску и к реестрам (MCA, eCourts, OFAC CSV-выгрузка sdn.csv, консолидированные списки EU/UK, BIS). Никакие CIN/PAN/номера дел/записи об отгрузках не выдумывались."
+}

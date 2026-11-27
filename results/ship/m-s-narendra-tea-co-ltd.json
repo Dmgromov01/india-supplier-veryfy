@@ -1,0 +1,8 @@
+{
+ "name_input": "M/s NARENDRA TEA CO. LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company pages for both slug variants ('m-s-narendra-tea-co-ltd' and 'narendra-tea-company-pvt-ltd') returned only the paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were visible. Source counter: 2 ImportKey pages opened, 0 shipment rows actually seen. Volza and Eximpedia free views returned HTTP 403; web_search (DuckDuckGo/searx) was unavailable (connection refused) and Bing returned only irrelevant results for the exact-name query.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split was found or read for this entity. Search engines usable in this session returned no relevant hits for \"Narendra Tea Company\"; no domestic supply record was seen.",
+ "note": "Следов поставок не найдено — ни экспортных записей (нет ни одной строки с датой, направлением, HS и B/L), ни подтверждений поставок внутри Индии. Это результат отсутствия доступа к данным, а не доказательство отсутствия отгрузок: ImportKey показывает только заглушку за пейволом, Volza/Eximpedia — 403, поисковики в этой сессии неработоспособны. Заявленный HS 090230/090240 (чёрный чай, упакованный) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения. Юрлицо не проверялось на ликвидацию/банкротство в рамках этой роли (реестры вне области). Выручка и объём экспорта: null — публичных данных не найдено, цифры не выдумывались. Требуется повторная проверка при доступе к платным таможенным базам или к реестру MCA."
+}

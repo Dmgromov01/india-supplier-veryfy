@@ -1,0 +1,30 @@
+{
+ "name_input": "suraj chemical",
+ "declared_hs": "290532",
+ "actual_hs_list": [
+  "290532",
+  "382499",
+  "381210",
+  "380910",
+  "280610",
+  "282720",
+  "282810",
+  "283620",
+  "283325",
+  "340290",
+  "340211",
+  "381519",
+  "291814",
+  "291521",
+  "283630",
+  "283650",
+  "284700",
+  "292390",
+  "390690",
+  "390110"
+ ],
+ "match_status": "partial",
+ "product_summary": "Two different Indian firms trade under this name and neither is a propylene-glycol producer. (1) Suraj Chemicals, Chennai (92 Govindappa Naicken Street, since 1999, founder 'Mr. Vinod Kumar K' — matches the claimed owner name): a distributor/importer of 450+ industrial and water-treatment chemicals — PAC, polyelectrolytes (own 'Sun Brand': SunFloc, SunMac, SunRedep, SunDec, SunSPC calcium hypochlorite), alum, ferric chloride, bleaching powder, sodium hypochlorite, TCCA/SDIC, antiscalant, activated carbon, HCl, lime, salts, solvents & organic chemicals (69 SKUs), surfactants (58 SKUs), food/industrial additives (46 SKUs), metal salts, minerals/oils/resins. Authorized channel partner for Grasim/Aditya Birla, BASF, Godrej, SNF. (2) Suraj Chemical Company, Edayar IDA, Aluva, Ernakulam, Kerala: small manufacturer (1 t/batch) of rubber-latex dispersions — TMTD + zinc oxide dispersions (50%/40%), VFA preservative for low-ammonia latex, custom dispersions. Propylene glycol (HS 290532) appears nowhere on either site's product listing; it may exist only as one of the 69 'solvents & organic chemicals' SKUs on the Chennai site, which I could not open (category URLs returned 404).",
+ "role_hint": "trader (Chennai entity: importer/distributor/channel partner, no own PG plant evidenced); the Kerala namesake is a manufacturer_trader of latex dispersions. Role for the declared HS 290532 line: trader.",
+ "comment": "HS 290532 (propylene glycol) is NOT corroborated by any product page on either company site — status: заявлено, не подтверждено. The declared code is at best one line inside a 450-SKU distribution catalogue, so the declaration is a single-item snapshot of a multi-category trader; match_status = partial (correct code for the claimed product, but the declared product line is unverified and the declared industry 'Нефтегаз и химия' is a misclassification — this is water-treatment/specialty chemical distribution plus rubber-latex chemicals, not oil & gas). Per Rule 3 the company is kept and the code is not a rejection ground. Recommended actual HS-6 set for the real product lines: 290532 only if PG is confirmed on the solvents page; otherwise 382499 (PAC/polyelectrolyte blends, antiscalant), 381210 (TMTD rubber accelerator preparations), 380910 (textile/paper finishing preparations), 280610 (HCl), 282720 (CaCl2), 282810 (calcium hypochlorite/bleaching powder), 283620 (soda ash), 283325 (copper sulphate), 340290/340211 (surfactants, detergent raw materials), 381519 (supported catalysts/desiccants), 291814 (citric acid), 291521 (acetic acid), 283630 (sodium bicarbonate), 283650 (calcium carbonate), 284700 (hydrogen peroxide), 292390 (quaternary ammonium salts/polyDADMAC), 390690/390110 (SNF/BASF polymers). Trader signs: 'authorized distributor/channel partner', 'importer and exporter', 4 warehouses, own trademarked brand Sun Brand (private label, not own manufacture), 450+ SKUs across 18 industries — classic multi-line chemical trader, not a single-product manufacturer. Product lines missing from the declaration: water-treatment coagulants/flocculants, chlorination chemicals, acids, alkalis, salts, surfactants, food additives, metal salts, latex rubber chemicals (Kerala entity). Note: identity ambiguity — the claimed owner 'Vinod Kumar Kesar Singh' matches only the Chennai firm's founder 'Vinod Kumar K'; the Kerala firm's ownership is not stated on its site. No customs line was available to me, so no shipment-level corroboration is claimed; revenue/volumes not researched per role scope."
+}

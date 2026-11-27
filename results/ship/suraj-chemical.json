@@ -1,0 +1,8 @@
+{
+ "name_input": "suraj chemical",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. ImportKey pages for slugs /suraj-chemical and /suraj-chemicals both rendered only the template shell: \"Shipments available for SURAJ CHEMICAL, refreshed daily\" — a generic boilerplate line, not a record. Rows actually seen: 0 (no date, no destination, no HS code, no B/L number). Volza, Eximpedia and Trademo returned HTTP 403; DuckDuckGo search backend refused connection; Google returned HTTP 429; Bing returned only unrelated results (films, actor Suraj Venjaramoodu, Suraj Cotton Mills).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was located for this name. No evidence line available; nothing seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ подтверждение отсутствия отгрузок: это отсутствие доступа к данным. ImportKey отдал только шаблонную заглушку (0 строк), остальные трейд-агрегаторы заблокировали доступ (403), поисковики не дали релевантных результатов. Заявленный HS 290532 (пропиленгликоль) и заявленное лицо VINOD KUMAR KESAR SINGH ничем не подтверждены и не опровергнуты. Выручка: null (не публична/не найдена). Объём экспорта: null. Имя «Suraj Chemical» крайне неспецифично — в Индии существует несколько одноимённых химических фирм, поэтому привязка любой найденной записи к данному юрлицу была бы выдумкой. Требуется CIN/PAN или точное юрлицо для однозначной идентификации; без него статус остаётся unknown, а не none_found."
+}

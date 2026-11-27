@@ -1,0 +1,18 @@
+{
+ "name_input": "Agrim Overseas",
+ "legal_name": "AGRIM OVERSEAS (as claimed; no MCA/registry record retrieved — exact legal form unconfirmed)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com search returned 404; tofler.in search returned 404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant results (ham recipes, Twitch) for both queries, i.e. no usable hits. Consequently no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited accounts or official filings were located, so revenue FY25/FY26 are null (not estimated). IMPORTANT: this is an absence of evidence due to tool failure, NOT evidence of non-existence — per project rules the company must NOT be rejected on this basis; it stays in the database with role 'unknown' and all registry fields null pending re-check. Note also that 'Agrim Overseas' is a common Indian trade name used by multiple unrelated proprietorships/partnerships/firms, so the legal entity cannot be pinned down without the GSTIN or PAN from the client. Recommended next step: obtain GSTIN or PAN from the supplier, then re-run against MCA master data / GST portal. Declared HS 190430 (prepared cereal foods) is not a rejection ground per rules; no HS correction can be assessed without shipment or product evidence, which is outside this role's scope."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "suraj chemical",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный реестровый источник не удалось прочитать. Инструмент web_search (DuckDuckGo/searx) возвращал ошибку соединения; прямые запросы к zaubacorp.com и thecompanycheck.com — HTTP 403; instafinancials — 404; Google — 429; DuckDuckGo HTML — таймаут; Bing отдавал нерелевантную выдачу (фильмы/актёры) без реестровых страниц. Входные данные противоречивы и не позволяют однозначно определить юрлицо: 'legal_claimed' = 'VINOD KUMAR KESAR SINGH' — это имя физлица (вероятно, проприетор или директор), а не название компании; 'suraj chemical' — неполное/неточное наименование (возможны варианты Suraj Chemical, Suraj Chemicals, Suraj Chemical Industries, Suraj Chemicals Pvt Ltd и т.п.), что делает поиск по CIN/PAN/GSTIN неоднозначным. PAN, CIN/LLPIN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, так как не подтверждены ни одним официальным источником (MCA21, GST-портал, аудированная отчётность); выдумывать эти значения запрещено правилами. Роль определена как 'unknown' — по названию и заявленному HS 290532 (пропиленгликоль/гликоли) нельзя отличить производителя от трейдера без реестровых данных. Отклонение (rejected) НЕ применяется: нет доказательств того, что юрлицо не существует, ликвидировано, снято с учёта (struck off) или признано банкротом — отсутствие данных не является основанием для отклонения. Требуется повторная проверка с доступом к MCA21/GST-порталу и уточнение от заказчика: точное полное наименование юрлица, город/штат, PAN или GSTIN, а также является ли 'VINOD KUMAR KESAR SINGH' проприетором (тогда это sole proprietorship без CIN) или директором компании."
+}

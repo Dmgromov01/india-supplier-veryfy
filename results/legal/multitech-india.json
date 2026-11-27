@@ -1,0 +1,18 @@
+{
+ "name_input": "MULTITECH INDIA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо не удалось. Входные данные противоречивы: в поле legal_claimed указано 'SURBHI MEHTA' — это имя физлица (вероятного директора/проприетора), а не название компании; название 'MULTITECH INDIA' не является полным зарегистрированным наименованием (нет суффикса Private Limited / LLP / OPC). Поиск по реестровым источникам не дал результата: web_search (DuckDuckGo/searx) был недоступен (connection refused), прямые запросы к zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in вернули 403/404, Google — 429, DuckDuckGo HTML — timeout. Bing по запросам '\"MULTITECH INDIA\" Surbhi Mehta CIN', '\"Multitech India\" \"Surbhi Mehta\" director', '\"MULTITECH INDIA\" CIN Private Limited OR LLP MCA registered office' выдал только нерелевантные результаты (MultiTech Systems Inc. — США, MultiTech Industries — США, multitechproducts.com), ни одной индийской реестровой записи. Следовательно: CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, публично не подтверждены в рамках доступных источников. ВАЖНО: отсутствие находки НЕ является основанием для отклонения по правилам проекта (rejected только при доказанном несуществовании/ликвидации/банкротстве) — здесь несуществование не доказано, а лишь не подтверждено. Требуется уточнение от заказчика: полное юрлицо (напр. 'Multitech India Pvt Ltd' / 'Multitech India LLP'), город/штат, PAN или GSTIN, либо ссылка на профиль IndiaMART/сайт. Роль 'unknown' — по названию и заявленному HS 8412 (насосы/гидравлические силовые установки) определить manufacturer vs trader невозможно без реестровых данных. HS-код 841221/841229 не проверялся (вне роли legal/registry specialist) и по правилам проекта не является основанием для отклонения."
+}

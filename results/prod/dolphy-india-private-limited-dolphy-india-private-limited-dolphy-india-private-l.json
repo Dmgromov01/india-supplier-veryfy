@@ -1,0 +1,28 @@
+{
+ "name_input": "DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED; DOLPHY INDIA PRIVATE LIMITED",
+ "declared_hs": "330510;700991",
+ "actual_hs_list": [
+  "848180 (sensor taps, urinal sensors & flushers, health faucets, concealed cistern fittings — taps/cocks/valves for sanitary ware)",
+  "851633 / 851679 (hand dryers, hair dryers — electrothermic appliances)",
+  "392490 (soap/shampoo/sanitizer dispensers, tissue & toilet-paper dispensers, waste receptacles, dustbins, baby changing stations, toilet seat cover dispensers — plastics household/sanitary articles)",
+  "732490 (stainless-steel grab bars, toilet paper holders, towel/soap holders of base metal)",
+  "700991 (unframed glass mirrors — washroom/magnifying mirrors)",
+  "847989 / 842139 (air curtains, shoe-cover/sole-cleaning machines, sanitary napkin disposal machines, queue managers)",
+  "850980 (electro-mechanical domestic appliances — shoe shining machine, aerosol dispensers)",
+  "940320 / 940360 (hotel banquet furniture, luggage racks, trolleys)",
+  "630260 / 570500 (bathroom mats, entrance mats, anti-fatigue mats, carpet tiles under Marzel brand)",
+  "851679 / 851610 (electric kettles, steam irons, coffee machines — hotel in-room amenities)",
+  "850440 / 830300 (RFID door locks, digital safes, dock stations, emergency torches)",
+  "841821 / 841829 (mini bar fridges)",
+  "851714 (landline/room phones)",
+  "842310 / 842382 (digital weighing scales)",
+  "732393 / 761510 (clothes hangers, shoe brushes, hotel in-room metal/alu ware)",
+  "9405 / 8530 (sign boards, bollards)",
+  "871310 (wheelchairs)",
+  "392690 / 391739 (PVC strip curtains, cable protectors, clean-room sticky mats)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website dolphy.in (fetched) shows a hospitality/washroom-automation and hotel-amenities supplier-manufacturer: washroom automation (hand dryers, sensor taps, urinal sensors & flushers, concealed cisterns, soap/sanitizer/tissue dispensers, aerosol dispensers, baby changing stations, sanitary napkin disposal machines, waste receptacles, health faucets, grab bars, washroom mirrors, behind-the-mirror panels); industrial entrance (entrance mats, air curtains, PVC strip curtains, eye-wash stations, queue managers, shoe shining machines, shoe-cover dispensers, sole-cleaning machines, anti-fatigue mats, cable protectors, clean-room sticky mats, fixed bollards); hotel in-room amenities (electric kettles, RFID door locks, digital safes, mini bar fridges, coffee machines, landline phones, dustbins, steam irons, ironing boards, dock stations, emergency torches, luggage racks, clothes hangers, shoe brushes, hair dryers, magnifying mirrors, digital weighing scales, bathroom mats, hotel trolleys, wheelchairs, sign boards, banquet furniture); plus a carpet-tiles brand 'Marzel'. Self-described as 'India's Trusted Manufacturer & Supplier'; lists global presence Australia, New Zealand, Muscat, Nepal, Bhutan and an Australian contact (info@dolphy.com.au).",
+ "role_hint": "manufacturer_trader — site claims own manufacturing and R&D, but the catalogue spans bought-in electricals (fridges, kettles, phones, safes, locks) and third-party branded carpet tiles (Marzel), i.e. clear reseller/trader lines alongside own washroom-automation production.",
+ "comment": "HS mapping: declared 330510 (shampoos; hair lacquers) is WRONG for this company — no shampoo or hair-care product appears anywhere in the catalogue; the only hair-related items are hand dryers and hair dryers, which are electrothermic appliances (8516), not 3305. Declared 700991 (unframed glass mirrors) is CORRECT but covers only a minor line (washroom mirrors, magnifying mirrors) — partial match. The overwhelming majority of the range (dispensers, taps, sensors, dryers, mats, hotel electricals, furniture) is undeclared. Industry misclassification: claimed 'Продукты питания и FMCG' (food & FMCG) is wrong — this is a sanitary-ware / washroom-automation / hotel-amenities and industrial-entrance supplier, not food or FMCG. Trader signs: multi-brand resale (Marzel carpet tiles), broad bought-in electrical appliance range, 'Supplier' in self-description, overseas offices/agents. Per project rule 3 the HS mismatch is NOT a rejection ground: company is kept, code corrected to the actual range above, verdict accepted_hs_corrected. All product lines above are taken from the company's own website catalogue only — no customs line was available in this task, so every code is 'заявлено, не подтверждено' (declared on site, not corroborated by a shipment record). No registry, revenue or shipment data researched per role scope."
+}

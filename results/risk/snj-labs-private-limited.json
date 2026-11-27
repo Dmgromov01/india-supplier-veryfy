@@ -1,0 +1,9 @@
+{
+ "name_input": "SNJ LABS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data obtained, all fields null. Tooling failure: the web_search backend returned 'Connection refused' on every attempt (searx), Google returned HTTP 429, DuckDuckGo timed out, and Bing served an identical cached result set (33,900 results) for every query including a site:tofler.in operator, i.e. it ignored the query entirely. The only results surfaced were unrelated non-Indian entities (SNJ America, SNJ Contracting LLC Utah, SNJ Group breweries, SNJ Pharma Inc.), none of which match 'SNJ Labs Private Limited'. Therefore NO check was actually performed against OFAC SDN, UN, EU, UK or BIS Entity List; no Indian court/NCLT/regulator records were searched successfully; no credit rating was retrieved; and no evidence regarding supplies to Russia or the CIS was found or ruled out. Absence of a hit here must NOT be read as a clean result - it reflects failed retrieval, not verification. Recommend re-running this company once search access is restored, using MCA master data, NCLT/NJDG, OFAC SDN and BIS Entity List directly. Per project rules, no rejection is proposed: nothing adverse was established, and sanctions/court matters would not be rejection grounds in any case."
+}

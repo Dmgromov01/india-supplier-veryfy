@@ -1,0 +1,9 @@
+{
+ "name_input": "SHAKTI TRADING COMP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no data collected. All search channels failed during this run: the web_search tool returned 'searx: Connection refused' on every query; DuckDuckGo HTML endpoints timed out; Google returned HTTP 429; Bing returned identical cached generic results about the Hindu deity 'Shakti' for every query, i.e. no actual retrieval. Consequently nothing could be verified on any of the five required dimensions (sanctions exposure, Indian court cases, regulator actions/negative news, credit rating, supplies to Russia/CIS). All fields are null because they are unknown, NOT because they were checked and found clean — this must not be read as a negative clearance. Additional caveat: the name 'SHAKTI TRADING COMP' is a generic, abbreviated trade name with no PAN, no state and no CIN supplied, so even with working search it would likely be ambiguous across many unrelated Indian proprietorships/firms; disambiguation would require at minimum a PAN, GSTIN or registered address. Recommended action: re-run verification when search is restored, and request the PAN/GSTIN from the supplier before any risk conclusion is drawn. No sanctions, court, rating or RF/CIS supply finding is asserted either way."
+}

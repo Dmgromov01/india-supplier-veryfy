@@ -1,0 +1,18 @@
+{
+ "name_input": "OHVEM SALES CORPORATION",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was unreachable ('Connection refused'), Google returned HTTP 429, and registry aggregators (ZaubaCorp, TheCompanyCheck, InstaFinancials) returned 403/404. Bing queries for the exact string \"OHVEM SALES CORPORATION\" and \"OHVEM SALES\" returned only unrelated results (PlainsCapital Bank, Nelnet), i.e. no indexed public record of this entity was found. MCA portal (search.mca.gov.in) did not resolve. Therefore legal name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not because the entity is proven non-existent, but because no public source could be read. Per project rules, rejection requires proof of non-existence/strike-off/liquidation/bankruptcy; absence of an accessible record is NOT such proof, so the company is retained with role 'unknown' and no verdict of rejection. Note also that the input fields are internally inconsistent: 'legal_claimed' is a personal name (ARYN OHRI), suggesting a proprietorship/partnership rather than a company, and 'industry_claimed' (food/FMCG) contradicts the declared HS codes 901839/901890/902190 (medical/surgical instruments and orthopaedic appliances) — the HS codes should be corrected to the actual activity once verified. Revenue FY25/FY26: null, no audited accounts or official filings located. Recommended next step: manual MCA master-data and GST portal lookup by name/PAN, or request the supplier's GSTIN and PAN directly."
+}
