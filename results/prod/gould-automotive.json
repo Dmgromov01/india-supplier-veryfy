@@ -1,0 +1,14 @@
+{
+ "name_input": "Gould Automotive",
+ "declared_hs": "840991;840999",
+ "actual_hs_list": [
+  "8409.91",
+  "8409.99",
+  "8409.91 (piston rings — same heading, parts for SI/CI engines)",
+  "7320.20 (candidate for piston rings as springs/rings of iron or steel — only if rings are supplied separately as spring-type rings; not corroborated)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website anandpistons.com (Anand Pistons / Anand Exports, C-16,17,18 Road No.3, EPIP Shastripuram, Agra 282007) lists: engine pistons and piston assemblies up to 160 mm diameter (alfin pistons, hard-anodized combustion chamber, crown cooling gallery, invar steel struts, mono-metal, heat plug, gudgeon-pin bushing), forged pistons for defence applications, piston rings, and cylinder liners. Applications named: 2/3-wheelers, cars, LCV/HCV, tractors, stationary engines, compressors, construction machinery; OE references PERKINS, MERCEDES, MAN, FIAT IVECO, DEUTZ, SCANIA, VOLVO, FORD, CUMMINS, CATERPILLAR. Over 1200 piston types claimed. Manufacturing unit named as M/s Suresh Industries (IATF 16949).",
+ "role_hint": "manufacturer (own unit named as M/s Suresh Industries; also presents itself as 'Government recognized export house' — export-house status is a trader-type function layered on manufacturing, so manufacturer_trader is possible but not proven)",
+ "comment": "HS 8409.91/8409.99 (parts suitable for use solely or principally with spark-ignition / other engines) is the correct heading for pistons, piston assemblies and piston rings — declared codes are directionally right, hence 'partial' rather than 'exact': the site does not split its range between 8409.91 (petrol/SI) and 8409.99 (diesel/CI), so the split cannot be verified from the catalogue. Product lines present on the site but absent from the declaration: cylinder liners (would normally be 8409.99 as engine parts, or 7325/7326 if supplied as plain iron/steel sleeves — not determinable from the site) and separately sold piston rings (8409.91/8409.99; 7320.20 only if spring rings). Industry classification 'Металлургия и горнодобыча' is a misclassification: this is automotive engine-component manufacturing (machine-building/auto parts), not metallurgy or mining — the only metallurgical link is in-house foundry/forging of pistons. Trader signs: 'Anand Exports' export-house branding, a US contact address (126 Arlington Street, Mineola, NY) and a generic e-mail domain (hotspotgroup.com) suggest an export/trading arm alongside the plant; the site also carries leftover template text ('Lorem ipsum', placeholder 'belgrado@hotspotgroup.com', 'Buy Theme'), so the catalogue is partly unmaintained and should not be treated as a verified product list. No customs line, invoice or B-L was reviewed in this task, therefore every product claim above is 'заявлено, не подтверждено'. No registry, revenue or shipment-volume research was performed (out of scope)."
+}

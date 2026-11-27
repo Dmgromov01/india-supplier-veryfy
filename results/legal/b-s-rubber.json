@@ -1,0 +1,18 @@
+{
+ "name_input": "B.S.RUBBER",
+ "legal_name": "B S RUBBERS (as claimed; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections ('Connection refused'); Google returned HTTP 429; Bing returned only generic 'letter B' results with query terms stripped (no usable hits); Zauba Corp, InstaFinancials, FalconEbiz and mca.gov.in all returned HTTP 403 Forbidden. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - NOT public-verified, simply unretrieved. No audited accounts or official filings were accessible, so revenue FY25/FY26 are null (not estimated). Role left as 'unknown': the input gives no evidence of manufacturing vs trading, and the declared HS codes (401691 rubber floor coverings/mats; 570339 textile floor coverings) are consistent with a rubber-mat maker or trader but that is inference only. Note the input's industry_claimed 'Продукты питания и FMCG' (food/FMCG) is inconsistent with the declared HS codes (rubber/textile floor coverings) - per project rules this is NOT a rejection ground; the HS code should be treated as the factual one and the industry label corrected. No rejection applied: there is no evidence the entity does not exist, and no evidence of strike-off, liquidation or bankruptcy - the absence of data is a research gap, not a negative finding. Recommend re-run when search/registry access is restored, or obtain the GSTIN/CIN directly from the supplier."
+}

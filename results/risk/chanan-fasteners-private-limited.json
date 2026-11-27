@@ -1,0 +1,9 @@
+{
+ "name_input": "CHANAN FASTENERS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data obtained, all fields null. Tooling failure, not a clean result. The web_search backend returned 'Connection refused' on every attempt (searx down). Fallbacks failed: Google returned HTTP 429, DuckDuckGo HTML/lite timed out, Bing returned completely unrelated pages (Costco, Amazon, Syracuse football) for every query, i.e. it was not honouring the query string. Direct sources blocked: zaubacorp.com returned HTTP 403; mca.gov.in did not resolve (DNS error); the OFAC Sanctions List Search page loaded but is a JavaScript form that cannot be submitted via http_get, so no SDN name lookup was actually performed. CONSEQUENCE: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) is UNVERIFIED, not cleared. Indian court cases (party role/status) UNVERIFIED. Regulator actions and negative news UNVERIFIED. Credit rating UNVERIFIED. Evidence of supplies to Russia/CIS UNVERIFIED. No claim in this record should be read as a negative finding about the company - the absence of hits here reflects zero successful lookups, not an absence of risk. Recommended next step: re-run this company once search access is restored, with manual checks against OFAC SDN/consolidated list, EU and UK consolidated lists, BIS Entity List, eCourts/NJDG and the relevant High Court, and Indian credit-rating agency sites (CRISIL/ICRA/CARE/India Ratings). Per project rules, nothing here is grounds for rejection; the company must not be dropped from the database on the basis of this failed check."
+}

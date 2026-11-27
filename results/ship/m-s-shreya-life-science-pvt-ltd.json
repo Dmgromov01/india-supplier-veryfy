@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S SHREYA LIFE SCIENCE PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was retrievable. ImportKey page for the company exists but is JS-rendered and gated: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows actually seen (counter shows no figures, only a 'Loading...' placeholder). Volza, Eximpedia, Trademo and ImportGenius free views all returned HTTP 403 / JS challenge, so no bill-of-lading number, date, destination or HS code could be quoted.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split was retrievable: ZaubaCorp and TheCompanyCheck returned HTTP 403, and the web_search backend was unavailable (searx connection refused) for the whole session, so no domestic-supply record could be located or quoted.",
+ "note": "Evidence gap, not a negative finding — nothing here should be read as 'no shipments'. Registry/catalogue pages were out of scope and not used as proof. The declared HS codes (220210, 220300, 220410, 220830 — waters with added sugar, beer, sparkling wine, whiskies) do not match the company's known pharmaceutical identity, so the HS list itself looks like a data-entry artefact; per project rules this is not a rejection ground and the code should be corrected to the factual one once a real shipment record is obtained. No revenue or export-volume figure is stated because none is public in the sources reachable: null. Recommended next step: retry ImportKey/Volza/Eximpedia with a working search backend, and check DGFT/IEC-linked export incentive or GeM/CPPP records for domestic supply."
+}

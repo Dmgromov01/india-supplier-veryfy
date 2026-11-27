@@ -1,0 +1,18 @@
+{
+ "name_input": "LOKPAL INDUSTRIES; M/S LOKPAL INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. The name 'Lokpal Industries' / 'M/s Lokpal Industries' is a non-corporate trade style (no 'Pvt Ltd'/'Limited'/'LLP' suffix), which suggests a proprietorship or partnership firm rather than a company; such entities have no CIN/LLPIN and are not on the MCA register, only on GST records. Attempts made: DuckDuckGo search tool returned a backend connection error (searx: Connection refused) on both queries; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com, quickcompany.in and tofler.in search endpoints returned 404; mca.gov.in returned 403; Google returned HTTP 429; Bing returned only irrelevant Microsoft results (no usable SERP). Therefore legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT verified, not confirmed absent. No revenue figures were found in audited accounts or official filings, so FY25/FY26 revenue is null per the no-invention rule. Role is 'unknown' because the manufacturer-vs-trader question cannot be settled from registry data alone for a non-corporate entity. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling failure, not a negative finding. Recommended next step: manual lookup of the GSTIN on the GST portal (services.gst.gov.in 'Search Taxpayer') and, if a corporate entity is claimed, an MCA name search for 'LOKPAL INDUSTRIES' variants, before any verdict is issued. Note also that declared HS 842611 (overhead travelling cranes / bridge cranes) does not match the claimed industry 'Metallurgy and mining' - per project rules this is not grounds for rejection; the code should be corrected to the actual product if a mismatch is confirmed."
+}

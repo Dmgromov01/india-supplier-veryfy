@@ -1,0 +1,8 @@
+{
+ "name_input": "FAIR PACK MACHINERIES P LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/fair-pack-machineries-p-ltd and .../fair-pack-machineries-private-limited both render only the paywall shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible (counter: 0 rows seen of an undisclosed total). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved: web_search returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" (search backend down for the whole session); volza.com, eximpedia.app, thecompanycheck.com and zaubacorp.com all returned HTTP 403 Forbidden. 0 evidence rows seen.",
+ "note": "Следов поставок не найдено в доступных источниках — но это ограничение доступа, а не доказательство отсутствия отгрузок: поисковик был недоступен, а все торговые базы (importkey, volza, eximpedia) отдают только заглушку/403. Поэтому статус unknown, а не none_found. Юрлицо в базе ImportKey присутствует под двумя написаниями (FAIR PACK MACHINERIES P LTD и FAIR PACK MACHINERIES PRIVATE LIMITED), что подтверждает существование записи в таможенных данных, но не подтверждает ни одной фактической отгрузки. Заявленные HS 842230/842240/845951 (фасовочно-упаковочное оборудование) не проверены по фактическим записям. Выручка, объём экспорта, CIN, PAN, штат — null, публично не получены. Требуется повторная проверка при восстановлении доступа к поиску и платным выгрузкам таможни."
+}

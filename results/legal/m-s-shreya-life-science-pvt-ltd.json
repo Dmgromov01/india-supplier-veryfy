@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SHREYA LIFE SCIENCE PVT LTD",
+ "legal_name": "SHREYA LIFE SCIENCES PRIVATE LIMITED (as claimed; not verified against MCA in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved: the search backend returned connection errors and every registry aggregator attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in, quickcompany.in) returned HTTP 403/404, while mca.gov.in returned 403 and Google/Bing/DuckDuckGo HTML endpoints returned 429/timeouts or irrelevant results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt. Note on the input: the claimed name 'SHREYA LIFE SCIENCES PVT LTD' differs from the input string 'M/S SHREYA LIFE SCIENCE PVT LTD' (singular 'SCIENCE', 'M/S' prefix) — the 'M/S' prefix is a trade-style prefix, not part of a legal name, so the legal entity is most likely 'SHREYA LIFE SCIENCES PRIVATE LIMITED'; this must be confirmed against the MCA master data before use. Role left as 'unknown' because no registry/audited source was read. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. HS codes declared (2202/2203/2204/2208 — soft drinks, beer, wine, spirits) are inconsistent with the claimed industry 'food & FMCG' for a company named 'Life Sciences'; per project rules this is NOT a rejection ground — the company stays in the base and the HS code should be corrected to the actual product line once verified. Recommended next step: re-run with working search access and pull MCA master data + GST public profile for the exact legal name."
+}
