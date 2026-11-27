@@ -1,0 +1,18 @@
+{
+ "name_input": "Sharp Engineering",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and every direct registry/profile source returned HTTP 403 or 429: zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in (MCA Master Data), google.com search. Bing returned only generic 'Sharp' brand results (Sharp Corporation, Sharp USA, Sharp HealthCare) with no Indian entity match, so no CIN, PAN, GSTIN, incorporation date, state or MCA status can be asserted. 'Sharp Engineering' is also a highly ambiguous trade name in India (multiple proprietorships/partnerships and at least one private limited company are commonly listed under similar names), so no single legal entity can be pinned down without a CIN or GSTIN from the client. No audited accounts or official filings were accessible, therefore revenue FY25 and FY26 are null - not estimated. Per project rules the company is NOT rejected: non-existence is not established, only unverified. Role is 'unknown' because the declared HS 842240 (packaging/weighing-filling machinery) contradicts the claimed industry 'Food products and FMCG' - the HS code points to machinery manufacturing, not food trading, so the industry claim should be corrected to machinery/equipment and the role re-checked once a CIN or GSTIN is supplied. Recommended next step: request the supplier's CIN or 15-digit GSTIN (or PAN) from the client, then re-run verification against MCA Master Data and the GST taxpayer profile."
+}

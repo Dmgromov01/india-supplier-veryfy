@@ -1,0 +1,18 @@
+{
+ "name_input": "Pal Frozen Foods",
+ "legal_name": "PAL FROZEN FOODS (unverified — exact legal entity name not confirmed; could not determine whether it is a Private Limited company, LLP, partnership or proprietorship)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results (Philippine Airlines / PAL acronym) for all three query variants, so no usable hit was obtained. Direct registry/profile fetches failed: zaubacorp.com HTTP 403, mca.gov.in HTTP 403, tofler.in search HTTP 404, thecompanycheck.com search HTTP 404, indiamart.com/palfrozenfoods HTTP 404. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Per project rules, nothing was invented: all unavailable fields are null. IMPORTANT: this is NOT a rejection — no evidence was found that the entity does not exist, is struck off, liquidated or bankrupt; the entity simply remains unverified. The claimed HS codes (071021, 071040, 071080, 081190 — frozen vegetables/pulses and frozen fruit) are consistent with a frozen-foods business but are not evidence of any legal entity. Role left as 'unknown' rather than guessed as manufacturer or trader. Recommended next step: re-run with working search access, or obtain the GSTIN/PAN directly from the supplier, then verify on the GST portal and MCA master data."
+}

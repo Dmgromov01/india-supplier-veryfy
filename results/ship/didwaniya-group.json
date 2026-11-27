@@ -1,0 +1,8 @@
+{
+ "name_input": "Didwaniya Group",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for ANNISHKA TRADE SOLUTIONS PVT LTD loaded only a paywall shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows actually visible (source counter: page claims \"Shipments available for ANNISHKA TRADE SOLUTIONS PVT LTD, refreshed daily\", rows seen: 0). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" for all queries; zaubacorp.com and eximpedia.app returned HTTP 403. 0 domestic supply rows seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны (ImportKey — платный шов без строк, volza/eximpedia/trademo — HTTP 403, importgenius — JS-челлендж, zaubacorp — 403), а поисковик был недоступен на протяжении всей проверки. Поэтому export_status и domestic_status = unknown, а не none_found: отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Ни одной записи B/L, даты, направления или HS-кода не прочитано; выручка и объём экспорта — null (не публичны/недоступны), не выдумывались. Заявленные HS 080299;090610;091099 (сухофрукты/орехи, пряности) и связь бренда \"Didwaniya Group\" с юрлицом ANNISHKA TRADE SOLUTIONS PVT LTD не подтверждены ни одним источником — это заявление, не факт. Рекомендуется повторная проверка при восстановлении доступа к поиску и к volza/trademo."
+}
