@@ -1,0 +1,18 @@
+{
+ "name_input": "M. B. EXPORTS LTD",
+ "legal_name": "M.B. EXPORTS LIMITED (as claimed; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned only irrelevant generic results for every quoted query ('M.B. Exports Limited' + CIN / GST / HS codes); zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; Google returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null because they are not publicly confirmed in this session - NOT because they were found to be absent. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the entity is NOT rejected; it remains unverified and must be re-checked against MCA master data and the GST public search portal. Additional flag for the next pass: the declared HS codes (591190 textile/industrial gaskets, 730799 pipe fittings, 841350/841370 pumps) are industrial engineering goods, which is inconsistent with the claimed industry 'Food & FMCG' - per project rules this is NOT a rejection ground; the HS code should be corrected to the actual one and the verdict set to accepted_hs_corrected once the entity is confirmed. Role cannot be classified (manufacturer vs trader) without MCA/GST data. Revenue: no audited accounts or official filings located, so null per rule 4."
+}

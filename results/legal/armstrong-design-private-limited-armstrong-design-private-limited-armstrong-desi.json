@@ -1,0 +1,18 @@
+{
+ "name_input": "ARMSTRONG DESIGN PRIVATE LIMITED; ARMSTRONG DESIGN PRIVATE LIMITED; ARMSTRONG DESIGN PRIVATE LIMITED",
+ "legal_name": "ARMSTRONG DESIGN PRIVATE LIMITED (as claimed; not confirmed against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures: web_search backend refused connections (searx Errno 111) on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only unrelated US entities (Armstrong World Industries, Armstrong Fluid Technology, etc.) with no Indian private limited company match; Zauba Corp and TheCompanyCheck returned HTTP 403; Tofler, QuickCompany and InstaFinancials returned HTTP 404 for the guessed slugs. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of absence. No audited accounts or official filings were located, so revenue FY25 and FY26 are null rather than estimated. Role cannot be classified from registry data, so 'unknown' (trader/manufacturer distinction requires MCA NIC/object clause or GST data, neither obtained). Per project rules the company is NOT rejected: non-verification is not a rejection ground, and rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, none of which was found. Input state_claimed was empty, so no state mismatch can be assessed. Declared HS 841391 (parts of pumps) is inconsistent with the claimed industry 'metallurgy and mining' — flagged for HS correction only, not a rejection ground. Recommended next step: re-run against MCA master data / GST portal once search access is restored, and check whether the entity is registered under a variant name (e.g. 'Armstrong Design Studio', 'Armstrong Designs') before treating the legal name as confirmed."
+}

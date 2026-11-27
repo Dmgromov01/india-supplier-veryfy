@@ -1,0 +1,18 @@
+{
+ "name_input": "LPSIS PRIVATE LIMITED; LPSIS PRIVATE LIMITED; LPSIS PRIVATE LIMITED; LPS INDUSTRIAL SUPPLIES PRIVATE LIMI; LPSIS PRIVATE LIMITED",
+ "legal_name": "LPSIS PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search backend returned connection refused (searx unavailable); direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned entirely unrelated results (query not honoured), so no usable registry page was retrieved. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session - NOT because they do not exist. No CIN, PAN or GSTIN was guessed or constructed. The input lists five name variants, including 'LPS INDUSTRIAL SUPPLIES PRIVATE LIMI', which may be an earlier or alternate name of the same entity; this name change/alias link is unverified. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - absence of retrieved records is not such evidence. Role left 'unknown' (no registry object clause or GST/activity evidence retrieved); declared HS 392690 (plastics articles) is not treated as a rejection ground per project rules and is not assessed here. Revenue FY25/FY26 null - no audited accounts or official filings retrieved. ACTION REQUIRED: re-run this company when search/registry access is restored, checking MCA master data for the exact legal name and CIN, then GST portal public profile for GSTIN and status."
+}

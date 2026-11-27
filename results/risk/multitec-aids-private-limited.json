@@ -1,0 +1,9 @@
+{
+ "name_input": "MULTITEC AIDS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка существенно ограничена: поисковый бэкенд (DuckDuckGo/searx) был недоступен на всех попытках (connection refused / timeout), Google вернул HTTP 429, агрегаторы (Zauba, TheCompanyCheck) — HTTP 403. Фактически проверено: (1) Indian Kanoon — поиск по точному названию \"Multitec Aids\" дал 0 результатов; расширенный поиск по \"Multitec\" дал 5 совпадений, но все относятся к другим лицам (M/s Narain & Sons — дилер Multitec Tools; Fortune Multitec Pvt. Ltd.; M/s Multitec Electronics; упоминания инструмента \"multitec cutter\" в уголовных делах Ассама) — ни одно не идентифицировано как MULTITEC AIDS PRIVATE LIMITED, поэтому судебных дел по данной компании не подтверждено (null, не \"нет дел\"). (2) OFAC Sanctions List Search открыт, но форма поиска не исполняется через http_get (JS), поэтому фактического прогона имени по SDN/Non-SDN не выполнено — статус по санкциям НЕ подтверждён ни в одну сторону; UN/EU/UK/BIS Entity List не проверены. (3) Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) не проверен — null. (4) Негативные новости не проверены — null. (5) Свидетельств поставок в Россию/СНГ не найдено, но и не искалось полноценно из-за недоступности поиска — null. ВАЖНО: null здесь означает \"не установлено\", а не \"чисто\". Требуется повторный прогон при восстановлении поиска: OFAC/UN/EU/UK/BIS по точному имени и вариантам (Multitec Aids, Multitec Aids Pvt Ltd), Indian Kanoon и eCourts по CIN, реестр MCA, кредитные рейтинги, а также проверка экспортных направлений. Санкционных, судебных или регуляторных оснований для отклонения не выявлено; по правилу 2 любые такие находки отклонением не являются."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "LPSIS PRIVATE LIMITED; LPSIS PRIVATE LIMITED; LPSIS PRIVATE LIMITED; LPS INDUSTRIAL SUPPLIES PRIVATE LIMI; LPSIS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не дал результата. (1) Веб-поиск (DuckDuckGo/searx) был недоступен — 'Connection refused' на всех запросах. (2) Резервные поисковики (Bing, Google, DuckDuckGo HTML) вернули либо HTTP 429/таймаут, либо полностью нерелевантную выдачу (спам-страницы, nursing homes, TravisMathew) — ни одного упоминания 'LPSIS PRIVATE LIMITED' или 'LPS Industrial Supplies Private Limited' получено не было. (3) Реестровые агрегаторы (zaubacorp) отдают HTTP 403. (4) OFAC Sanctions List Search доступен только как JS-форма, результат запроса через GET не извлекается — факт отсутствия в SDN/Non-SDN НЕ подтверждён. Итог: санкционная экспозиция (OFAC SDN, UN, EU, UK, BIS Entity List), индийские судебные дела (роль стороны, статус), действия регуляторов, негативные новости с датами, кредитный рейтинг с датой и статусом, а также любые свидетельства поставок в РФ/СНГ — все поля null, публично проверяемых данных получить не удалось. Это НЕ означает отсутствие рисков: это означает отсутствие проверки. Требуется повторный прогон при доступном поиске и/или платных базах (Tofler, Zauba, MCA21, sanctions screening API). Отклонять по правилу 2/3 нельзя — нет оснований (ни подтверждённых санкций, ни подтверждённой ликвидации)."
+}
