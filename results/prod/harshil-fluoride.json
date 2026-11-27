@@ -1,0 +1,25 @@
+{
+ "name_input": "Harshil Fluoride",
+ "declared_hs": "282690",
+ "actual_hs_list": [
+  "2826.12",
+  "2826.19",
+  "2826.30",
+  "2826.90",
+  "2827.39",
+  "2835.29",
+  "2835.39",
+  "2836.30",
+  "2836.99",
+  "2811.19",
+  "2833.29",
+  "2834.29",
+  "2839.90",
+  "2827.20",
+  "2825.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "По собственному сайту harshilindustries.com (Plot No 1404 & 1504, GIDC Sarigam, Valsad, Gujarat; осн. 2008) и каталожной странице IndiaMART компания заявляет производство неорганических фторсоединений: фториды (aluminium fluoride, sodium fluoride, potassium fluoride KF, magnesium fluoride, zinc fluoride tetrahydrate), бифториды (ammonium bifluoride, potassium bifluoride), кремнефториды (sodium silicofluoride, magnesium silicofluoride, fluosilicic acid), фторбораты (sodium fluoroborate, ammonium fluoborate, lead fluoborate liquid, fluoboric acid), криолиты (synthetic cryolite Na3AlF6, potassium cryolite, sodium cryolite), а также сульфаты/фосфаты/нитраты (potassium sulphate, monopotassium phosphate, zinc sulphate heptahydrate), precipitated silica, борсодержащие продукты. Заявленные отрасли применения: агрохимия, фармпромежуточные, водоочистка, электроника/металлургия, алюминиевый сектор, стекло, литейное производство.",
+ "role_hint": "manufacturer (заявлено: 'Nature of Business: Manufacturer', proprietorship, IEC 5213009182, GST 24AFAPM8255J1ZB — по данным карточки IndiaMART; фактичность отгрузок не проверялась, вне рамок роли)",
+ "comment": "HS 282690 — 'фториды, кремнефториды, фторбораты и прочие комплексные фториды, прочие' — покрывает лишь часть ассортимента. Точное попадание: прочие фториды (2826.19), кремнефториды натрия/магния (2826.20/2826.90), фторбораты натрия/аммония и фторборная кислота (2826.90/2811.19). Не покрыто заявленным кодом и требует отдельных кодов: aluminium fluoride (2826.12), potassium fluoride (2826.19), ammonium/potassium bifluoride (2826.90 — формально проходит, но это отдельная товарная линия), synthetic cryolite Na3AlF6 и potassium cryolite (2826.30), zinc fluoride (2826.19), lead fluoborate (2826.90), precipitated silica (2811.22), potassium sulphate (2833.29), monopotassium phosphate (2835.29), zinc sulphate (2833.29), нитраты (2834.29). Итог: код 282690 корректен как ядро профиля, но декларация неполна — отсутствуют позиции 2826.12, 2826.30, 2811.22, 2833.29, 2835.29, 2834.29. Отраслевая классификация 'Нефтегаз и химия' — частично неверна: это узкоспециализированная неорганическая/фторхимия для алюминиевой, стекольной, литейной, водоочистной и агрохимической отраслей, не нефтегаз. Признаков трейдера в источниках нет (заявлено собственное производство в GIDC Sarigam), но фактичность отгрузок по таможенным записям не проверялась — все товарные позиции имеют статус 'заявлено, не подтверждено' (источники: https://www.harshilindustries.com, карточка IndiaMART 'Harshil Industries, Sarigam'). Расхождение по HS не является основанием для отклонения — компания сохраняется, код дополняется."
+}

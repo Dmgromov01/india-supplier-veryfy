@@ -1,0 +1,9 @@
+{
+ "name_input": "Harshil Fluoride",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена: поисковая инфраструктура недоступна (DuckDuckGo/searx — connection refused; Google — HTTP 429; Bing возвращал нерелевантную выдачу без совпадений по точному названию 'Harshil Fluoride' и по имени 'Pannalal Ramkaran Maurya'). OFAC Sanctions List Search открыт, но это JS-форма без возможности передать запрос через http_get — результат поиска по SDN/Non-SDN получить не удалось, поэтому sanctions_hit = null (не подтверждено ни наличие, ни отсутствие). Судебные дела (eCourts/NCLT), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия и негативные новости, а также признаки поставок в РФ/СНГ — данных не найдено; все поля null, а не отрицательный результат. Отсутствие находок НЕ является подтверждением отсутствия рисков. Требуется повторный прогон при восстановлении поиска и ручная проверка по eCourts, NCLT, спискам OFAC/UN/EU/UK/BIS. Оснований для отклонения по правилам проекта нет (юрлицо не проверялось — вне роли)."
+}

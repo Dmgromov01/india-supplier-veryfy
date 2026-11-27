@@ -1,0 +1,18 @@
+{
+ "name_input": "SANCHEMY FPN",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни одна публичная запись не подтверждена. Что проверено и чем: (1) web_search по 'SANCHEMY FPN' и 'Sanchemy FPN India chemicals' — бэкенд поиска недоступен (connection refused), результатов нет; (2) http_get google.com/search — HTTP 429; (3) duckduckgo.com/html и lite.duckduckgo.com — таймаут; (4) bing.com/search по точной строке \"SANCHEMY FPN\" — релевантных совпадений нет (выдача нерелевантна, точного вхождения строки не найдено); (5) bing.com/search по '\"Sanchemy\" Variar proprietor GST' и '\"Nandkumar Variar\" Sanchemy' — релевантных совпадений нет; (6) zaubacorp.com, instafinancials.com, tofler.in — HTTP 403 (закрыты для автоматического доступа). ВАЖНО по формату входных данных: 'SANCHEMY FPN' не является названием юридического лица в понимании MCA — 'FPN' в индийском экспортном контексте обычно означает 'Foreign Principal Number'/номер зарубежного принципала, а 'NANDKUMAR VARIAR' — имя физлица (вероятно, proprietor/партнёр или агент), а не название компании. То есть в строке, скорее всего, смешаны имя зарубежного принципала и имя индийского физлица; отдельного зарегистрированного юрлица 'SANCHEMY FPN' в открытых источниках не обнаружено. CIN/LLPIN, PAN, GSTIN, дата инкорпорации, MCA-статус, выручка FY25/FY26 — null, поскольку ни один официальный источник (MCA21, GST-портал, аудированная отчётность) не был доступен для проверки; цифры не выдумывались. Роль — unknown (нет данных, чтобы отнести к manufacturer/trader). Вердикт: НЕ отклонять — правило 3 требует отклонения только при доказанном отсутствии/ликвидации/банкротстве юрлица, а здесь юрлицо не идентифицировано вовсе, что не равно доказанному несуществованию. Требуется уточнение от заказчика: точное зарегистрированное название (Pvt Ltd / LLP / proprietorship), город/штат, GSTIN или PAN — после этого проверку можно завершить. Заявленный HS 291570/293339/293399 (жирные кислоты/пальмитиновая кислота и гетероциклические соединения) по правилу 3 не является основанием для отклонения."
+}

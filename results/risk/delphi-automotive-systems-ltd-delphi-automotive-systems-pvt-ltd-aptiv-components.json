@@ -1,0 +1,9 @@
+{
+ "name_input": "DELPHI AUTOMOTIVE SYSTEMS LTD; DELPHI AUTOMOTIVE SYSTEMS PVT. LTD.; Aptiv Components India Private Limited; DELPHI AUTOMOTIVE SYSTEMS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — tooling failure, no negative findings either way. All research tools failed during this run: web_search (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out; indiankanoon.org returned HTTP 403; Google returned HTTP 429; Bing returned only unrelated results (search results were not for the queried entity), so nothing from Bing was usable as evidence. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded only the empty JS search form — no query could be executed, and the API host search.sanctionslist.ofac.treas.gov did not resolve, so no SDN/Non-SDN screening result was obtained. Consequently: sanctions_hit = null (NOT screened — do not read as 'clear'), court_cases = null (no Indian court/registry source reachable), rating = null (no CRISIL/ICRA/CARE/India Ratings page retrieved), news_risk = null, rf_supply = null (no trade/customs evidence retrieved). No claim in this record is sourced, and none should be treated as verified. Context only, unsourced and unverified: the name set mixes legacy Delphi Automotive Systems entities with Aptiv Components India Private Limited, a subsidiary of the US-listed Aptiv PLC (Dublin-domiciled, US-managed automotive supplier); Aptiv PLC is a large Western Tier-1 supplier, which makes direct supply to Russia/CIS unlikely but this was NOT confirmed by any source in this run. Per project rules, sanctions/court/criminal matters are never rejection grounds regardless of outcome. RECOMMENDATION: re-run this company in a later batch when search and sanctions-screening endpoints are reachable; do not accept or reject on the basis of this record."
+}

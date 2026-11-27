@@ -1,0 +1,22 @@
+{
+ "name_input": "SUNRISE NATURALS PRIVATE LIMITED",
+ "declared_hs": "080450;200799;200899",
+ "actual_hs_list": [
+  "200799",
+  "200799",
+  "200799",
+  "200799",
+  "200799",
+  "200799",
+  "200799",
+  "200799",
+  "200799",
+  "200799",
+  "080450",
+  "200899"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website sunrisenaturals.in (homepage, section 'Our Offerings - Purees & Concentrates') lists, with full technical specs (Brix, acidity, pH, packaging in 210-228 kg aseptic bag-in-drum and A-10 cans): Alphonso mango puree; Totapuri mango puree AND concentrate (28 Brix); Raspuri mango puree; Neelam mango puree AND concentrate; White guava puree AND concentrate (20 Brix); Pink guava puree; Red papaya puree AND concentrate (25 Brix); Yellow papaya puree AND concentrate (25 Brix); Banana (text truncated at 'Banana is a gre...'). Site also states the range includes 'natural fruit pulps, concentrates and agro commodities' and that the company is a 'processor and exporter of tropical fruit pulps & concentrates', brand 'jus!'. No fresh-whole-fruit line is described anywhere on the site - all products are processed puree/concentrate in industrial drums.",
+ "role_hint": "manufacturer_trader (self-described 'processor and exporter'; own-brand processing claimed, but 'agro commodities' line and no plant/unit address or certification detail visible on the fetched pages suggest possible trading/reselling component - cannot be separated from public data)",
+ "comment": "HS mapping vs declaration: (1) 200799 (jams/fruit purees & pastes, otherwise prepared) - CORRECT and dominant: mango, guava and papaya purees/concentrates are the entire documented range. (2) 080450 (guavas, mangoes, fresh or dried) - PARTIAL/QUESTIONABLE: the site sells only processed puree/concentrate, never fresh mango or guava; the code is plausible only if the company also trades fresh fruit, which the site does not show. Keep the code but flag as 'заявлено, не подтверждено' for the fresh-fruit line. (3) 200899 (other prepared/preserved fruit, n.e.s.) - PARTIAL: plausible catch-all for banana puree/concentrate and the vaguely stated 'agro commodities', but no specific product on the site is described as a prepared fruit under 2008 other than purees already covered by 200799. MISSING FROM DECLARATION: no code for fruit juice concentrates as juices (2009xx) - the Totapuri/Neelam/guava/papaya 'concentrates' at 20-28 Brix are arguably juice concentrates (2009) rather than purees (2007); the site itself does not distinguish, so the 2007 vs 2009 split cannot be verified from public data. Also no code for 'agro commodities' (unidentified - could be 08xx, 09xx, 12xx) - line is declared in words only, no product named, therefore 'заявлено, не подтверждено'. INDUSTRY CLASSIFICATION: 'Продукты питания и FMCG' is imprecise - the company is a B2B industrial fruit-pulp/concentrate processor supplying beverage majors (site names Maaza, Coca-Cola, RC Cola as associated brands), not an FMCG/consumer-packaged-goods seller; correct framing is 'fruit processing / beverage ingredients (B2B)'. TRADER SIGNS: no factory address, plant capacity, FSSAI/licence number or certification documents visible on the fetched pages; the 'Certifications' menu item exists but content was not retrievable; the About page is unfilled lorem-ipsum template text ('Massa praesent sit suspendisse...', 'NYUS Toasted Bread' restaurant filler, fake team names) - i.e. the corporate site is a partly unpopulated template, so company-profile claims on it carry low evidentiary weight. Per project rule 3, no rejection: HS is partially correct, company retained, codes corrected/annotated. All product claims above are from the company's own website only and are therefore 'заявлено, не подтверждено' - no customs line was available to this researcher to corroborate any of them. Note: search backend was down (searx connection refused, Bing returned only irrelevant 'sunrise/sunset' results, ZaubaCorp 403), so no independent third-party catalogue (IndiaMART, exporter directories) could be cross-checked; CIN, PAN, GST and revenue were out of scope and are null."
+}

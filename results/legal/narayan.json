@@ -1,0 +1,18 @@
+{
+ "name_input": "Narayan",
+ "legal_name": "NARAYAN INDUSTRIES (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool failed (searx connection refused) and direct fetches of registry aggregators were blocked or empty: zaubacorp.com returned HTTP 403 on both the company-list and company pages; thecompanycheck.com returned HTTP 404; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic 'Narayan' name/etymology results with no company record. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be sourced. 'NARAYAN INDUSTRIES' is also a very common Indian trade name (multiple unrelated proprietorships/partnerships/LLPs across states), so the claimed legal name alone is not sufficient to identify a single entity — the input gives no state, no PAN and no GSTIN to disambiguate. Per project rules, rejection is NOT applied: absence of a retrieved record is not proof of non-existence, and no HS-based rejection is made (declared HS 842139/848110/848120/848180 — valves/filters, oil-gas & chemical use — is plausible for an industrial valve/filter supplier and is not a rejection ground). Role left as 'unknown' rather than guessed as manufacturer or trader. Revenue FY25/FY26 set to null (not invented) because no audited accounts or official filings were accessible. Action needed: re-run with a working search backend, or supply the company's state, GSTIN or PAN to pin down the exact legal entity before any acceptance decision."
+}
