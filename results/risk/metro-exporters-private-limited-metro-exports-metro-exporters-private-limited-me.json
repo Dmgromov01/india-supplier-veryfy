@@ -1,0 +1,9 @@
+{
+ "name_input": "METRO EXPORTERS PRIVATE LIMITED; METRO EXPORTS; METRO EXPORTERS PRIVATE LIMITED; METRO EXPORTERS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend returned 'searx: Connection refused' on every attempt (2 calls), so no page discovery was possible. Direct fetches also failed to yield company-specific data: zaubacorp.com returned HTTP 403; tofler.in search returned a 404 page; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant US transit results ('METRO' Houston) for both exact-name queries, i.e. no indexed Indian entity named 'Metro Exporters Private Limited' surfaced. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and returned only the empty search page via http_get — no name query could be executed, therefore sanctions_hit is null (NOT a negative/clear result). No Indian court records (eCourts/NJDG), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or Russia/CIS supply evidence could be retrieved. IMPORTANT: the name is highly generic and ambiguous — 'Metro Exporters' / 'Metro Exports' is a common Indian trade name used by multiple unrelated proprietorships and companies; without a CIN/PAN or registered address (both blank in the input) no reliable identity match is possible, and any sanctions/court hit found under this name could not be attributed to the correct legal entity. All fields deliberately left null rather than guessed, per no-invention rule. Recommend re-running this company when search access is restored, and requesting CIN/PAN and registered state from the supplier to disambiguate before any risk conclusion is drawn. No rejection grounds identified — and none could be, since nothing was verified."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Hira Tools Corporation",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по технической причине: поисковый бэкенд недоступен (DuckDuckGo/searx — connection refused / timeout), Bing возвращает один и тот же кэшированный набор результатов, не зависящий от запроса (только HIRA = Hazard Identification & Risk Assessment, hira.org и т.п.), поэтому использовать его как источник нельзя. OFAC Sanctions List Search — JS-форма, GET-запрос не возвращает результатов поиска; сторонние реестры (zaubacorp и др.) через доступный инструмент не открылись. По компании 'Hira Tools Corporation' / 'HIRA TOOLS CORPN REGD' не получено ни одной проверяемой публичной записи. Все поля оставлены null — это означает 'не проверено / нет публичных данных', а НЕ 'чисто'. Санкционных, судебных, регуляторных или новостных сведений не подтверждено; данные о поставках в РФ/СНГ не проверены. Требуется повторный прогон при восстановлении поиска (проверить: OFAC SDN/SSI, UN/UK/EU, BIS Entity List, eCourts/NCLT, кредитные рейтинги CRISIL/ICRA/CARE, экспортные записи). Отклонение по данному отчёту не обосновано — оснований для rejected нет."
+}

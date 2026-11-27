@@ -1,0 +1,18 @@
+{
+ "name_input": "MATHA EXPORTS INTERNATIONAL LLP",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "case": "M/s Matha Exports vs The Additional Commissioner of Central Tax (and connected matters)",
+   "court": "Karnataka High Court",
+   "date": "2025-12-17",
+   "role": "Petitioner (writ petitioner)",
+   "status": "Decided/disposed per Indian Kanoon listing; subject matter appears to be a GST/central tax challenge (bench: Justice S.R. Krishna Kumar)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Matha%20Exports%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: no match found, but this is NOT a clean bill of health — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript application that returned no queryable results via direct fetch, and the web_search backend was down (connection refused) for the whole session, so OFAC SDN, UN, EU, UK and BIS Entity List screening could not actually be executed. sanctions_hit is therefore null = NOT VERIFIED, not 'clear'. Court cases: one confirmed record on Indian Kanoon — 'M/s Matha Exports vs The Additional Commissioner of Central Tax', Karnataka High Court, 17.12.2025, company as petitioner, apparently a tax/GST writ matter. Per project rule 2 this is not a rejection ground and is noted neutrally; it is a tax dispute, not a criminal matter. Caveat: the Indian Kanoon hit is for the name 'Matha Exports' and the judgment text could not be opened to confirm the exact legal entity (LLP vs proprietorship/firm) — party-name match is probable but not document-verified. Rating: no credit rating found in public sources; null, not invented. News/regulator risk: no negative news or regulator action located; however search coverage was severely degraded (DuckDuckGo refused connections, Bing returned unrelated results, ZaubaCorp returned HTTP 403), so absence of findings here is weak evidence, not proof of absence. RF/CIS supply: no evidence of supplies to Russia or CIS found; null — unverified, not a negative finding. RECOMMENDATION: company is retained (no rejection grounds under rules 2-3); risk profile is low-visibility rather than low-risk. Re-run sanctions screening (OFAC/EU/UK/BIS) and a fresh news sweep when search infrastructure is restored, and confirm the exact LLP entity against the MCA master data before relying on the court record."
+}

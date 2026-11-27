@@ -1,0 +1,18 @@
+{
+ "name_input": "METRO EXPORTERS PRIVATE LIMITED; METRO EXPORTS; METRO EXPORTERS PRIVATE LIMITED; METRO EXPORTERS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ВЕРИФИКАЦИЯ НЕ ВЫПОЛНЕНА — данных нет, ничего не выдумано. Все попытки доступа к реестрам и поиску провалились: web_search вернул 'searx: Connection refused' (бэкенд недоступен); zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in отдали HTTP 403 Forbidden; duckduckgo.com/html — таймаут; google.com — редирект-заглушка без результатов; bing.com выдавал только нерелевантные результаты про Houston METRO (транзит США), т.е. запрос не обрабатывался по существу. Следовательно: точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 — null. Роль (manufacturer/trader) не определена — 'unknown'. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие подтверждения не равно несуществованию юрлица; по правилам проекта rejected допустим только при доказанной ликвидации/банкротстве/struck off, а таких доказательств нет. Также обращаю внимание: в input четыре варианта названия ('METRO EXPORTERS PRIVATE LIMITED', 'METRO EXPORTS', 'METRO EXPORTERS PVT LTD') — это, вероятно, разные юрлица либо одно юрлицо плюс торговое имя; без доступа к MCA разграничить невозможно. Заявленный HS 401150 (конвейерные ленты из вулканизованной резины) и 848220 (роликовые подшипники) не соответствует отрасли 'Авиастроение и транспорт' в узком смысле — по правилам это НЕ основание для отклонения, код фиксируется как фактический при подтверждении. Требуется повторный прогон при доступных реестрах (MCA master data, GST-портал по GSTIN, Zauba/Tofler)."
+}

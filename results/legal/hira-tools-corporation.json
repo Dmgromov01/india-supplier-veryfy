@@ -1,0 +1,18 @@
+{
+ "name_input": "Hira Tools Corporation",
+ "legal_name": "Hira Tools Corporation (unverified — claimed as \"HIRA TOOLS CORPN REGD\"; no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. The web_search backend returned connection refused on both queries, and every direct registry/aggregator source attempted was blocked or unavailable: zaubacorp.com (HTTP 403), thecompanycheck.com (404), instafinancials.com (403), mca.gov.in MDS portal (403), tofler.in search (404), Google (redirect/consent wall), duckduckgo html and lite endpoints (timeouts). Therefore exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, date of incorporation, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — not public in any source I could reach, and NOT invented. Two observations from the input itself, flagged as unverified: (1) the claimed legal form \"HIRA TOOLS CORPN REGD\" suggests a registered partnership/proprietary concern rather than a company limited by shares, in which case there would be no CIN at all — only a PAN and GSTIN; this must be confirmed against the PAN/GST certificate. (2) No state was claimed in the input, so state_registered vs state_claimed cannot be compared. Role is left as 'unknown': the declared HS codes 8213.00 (scissors/tailors' shears) and 8467.29 (electromechanical hand tools) are consistent with a hand-tool maker or trader, but nothing in the registry data confirms manufacturing plant, GST turnover or any supply activity. Per project rules this is NOT a rejection — the entity is not shown to be non-existent, struck off, liquidated or bankrupt; it is simply unverified. Action required: re-run with a working search backend, or obtain the company's PAN and GSTIN directly from the supplier and validate them on the GST portal / MCA master data."
+}
