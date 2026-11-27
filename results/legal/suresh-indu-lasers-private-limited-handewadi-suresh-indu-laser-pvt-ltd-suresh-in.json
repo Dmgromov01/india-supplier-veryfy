@@ -1,0 +1,18 @@
+{
+ "name_input": "Suresh Indu Lasers Private Limited - HANDEWADI; SURESH INDU LASER PVT LTD; Suresh Indu Lasers Private Limited",
+ "legal_name": "SURESH INDU LASERS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned no results (searx connection refused) and Bing/Google fetches returned only irrelevant results (actor 'Suresh', Supercuts etc.), i.e. no usable SERP. Direct fetches of public registry aggregators were blocked or empty: zaubacorp.com -> HTTP 403 Forbidden; thecompanycheck.com -> HTTP 403 Forbidden; tofler.in -> HTTP 404; instafinancials.com -> HTTP 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, date of incorporation, registered-office state, MCA status and audited revenue for FY25/FY26 are all reported as null rather than guessed. No rejection is applied: nothing found indicates the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling/access limitation, not evidence of non-existence. Role left as 'unknown' because manufacturer vs trader status cannot be established from registry records alone (product catalogues were out of scope per instructions). The name variants in the input ('SURESH INDU LASER PVT LTD', 'SURESH INDU LASERS PRIVATE LIMITED') appear to be the same entity, with 'HANDEWADI' being a locality in Pune, Maharashtra - but the registered-office state is NOT confirmed and must not be assumed. Recommended next step: re-run against MCA master data / a working GST search endpoint, or obtain the CIN or GSTIN from the supplier's invoice or quotation, which would allow a single authoritative lookup."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "BDR PHARMACEUTICAL INTERNATIONAL PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, no data verified. The DuckDuckGo/searx search backend returned 'Connection refused' on every query, the company website bdrpharmaceuticals.com failed DNS resolution, html.duckduckgo.com closed the connection, and Bing returned identical irrelevant cached results (US 'BDR' motorcycle/coaching companies) for three different India-specific queries, i.e. the query was not actually executed. No page containing the company name was successfully read. Therefore sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases, regulator actions, credit rating and any Russia/CIS supply evidence are all reported as null because nothing was verified - NOT because the company was checked and found clean. Do not treat these nulls as a negative/clear result. Note for the analyst: 'BDR Pharmaceuticals International Pvt Ltd' is a known Indian pharma group (Mumbai-based, API/formulations), and the declared HS codes 291631/292419/293379/293399 are organic chemicals/API - consistent with a pharma-API supplier rather than the 'food & FMCG' industry label claimed in the input, which is a data-quality flag for the HS/industry owner (outside my remit). Re-run this company when search access is restored; priority checks: OFAC SDN and BIS Entity List name search, Indian Kanoon / e-courts for party-role cases, CDSCO/USFDA warning letters and import alerts, and any reported API exports to Russia/CIS."
+}

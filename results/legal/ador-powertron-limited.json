@@ -1,0 +1,18 @@
+{
+ "name_input": "ADOR POWERTRON LIMITED",
+ "legal_name": "ADOR POWERTRON LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra",
+ "state_claimed": "",
+ "mca_status": "Active (not verified against MCA master data in this session)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Entity existence confirmed from the company's own official website (adorpowertron.com): 'ADOR POWERTRON Ltd., an ISO 9001 certified company, one of the largest manufacturer and supplier of Transformer-Rectifier (T/R) sets and controls', registered office at Ador Warrior City Campus, Plot No. 51, D-II Block, Ramnagar, MIDC, Chinchwad, Pune, Maharashtra 411019 — so the registered state is Maharashtra (input state_claimed was empty, no mismatch to report). Role = manufacturer (own plants in India, in-house product lines: ESP T/R sets, UPS, traffic enforcement, defence power). NOT rejected: no evidence of strike-off, liquidation or bankruptcy. IMPORTANT DATA GAPS: CIN, PAN, GSTIN, GST status, exact date of incorporation, MCA status and FY25/FY26 revenue could NOT be retrieved — DuckDuckGo search backend was down (connection refused) and all registry aggregators (ZaubaCorp, TheCompanyCheck, Tofler, InstaFinancials, FalconEbiz) returned HTTP 403/404 or only paywalled landing pages. Per project rules these fields are left null rather than guessed; the widely-cited CIN pattern U31900PN1983PLC030000 was NOT confirmed by any accessible source and is therefore not asserted. Revenue FY25/FY26: null — no audited accounts or MCA filings accessible. HS codes 842199 / 850421 are broadly consistent with ESP/transformer-rectifier and UPS manufacturing, but HS verification is outside this role's scope. Recommended follow-up: re-run against MCA master data / GST portal when search access is restored."
+}

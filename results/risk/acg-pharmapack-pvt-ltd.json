@@ -1,0 +1,9 @@
+{
+ "name_input": "ACG Pharmapack Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out; Google returned only a redirect/consent page; Bing ignored quoted phrases and returned only generic 'ACG' brand results (American College of Gastroenterology, ACG Global, Nike ACG, acg-world.com) with no page about the specific entity 'ACG Pharmapack Pvt Ltd'. No primary source (OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, eCourts/NCLT, rating agency pages, news archive) could be read for this company. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null - NOT because they were checked and found clean, but because nothing was checked successfully. Do not treat these nulls as a clean bill of health. Additional flag for the data-quality owner (not a rejection ground, per project rules): the record is internally inconsistent - name_input is 'ACG Pharmapack Pvt Ltd' while legal_claimed is 'XL LABORATORIES PRIVATE LIMITED', and industry_claimed is 'Металлургия и горнодобыча' (metals & mining) whereas ACG Pharmapack is a pharmaceutical packaging business and declared_hs 760720 is aluminium foil, which fits pharma blister packaging rather than mining. Legal identity, HS and shipment volumes are outside this role's scope and were not researched. Recommended action: re-run this company once search access is restored, and resolve the name/legal-entity mismatch before any risk conclusion is drawn."
+}

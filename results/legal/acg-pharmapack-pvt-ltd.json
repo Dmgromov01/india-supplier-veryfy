@@ -1,0 +1,18 @@
+{
+ "name_input": "ACG Pharmapack Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The input is internally inconsistent: the company name given is 'ACG Pharmapack Pvt Ltd' while the claimed legal entity is 'XL LABORATORIES PRIVATE LIMITED' - these are two different names and it is unclear which entity is to be verified. No public registry source could be read: DuckDuckGo/searx search backend was unreachable (connection refused), Bing returned only generic keyword matches with no company records, and Zauba Corp, TheCompanyCheck and InstaFinancials returned HTTP 403/404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and FY25/FY26 revenue are all null - not public/not retrieved, NOT invented. No rejection is applied: non-existence, strike-off, liquidation or bankruptcy is NOT established, only unverified. Role left as 'unknown' because no MCA/NIC activity code or GST registration was obtained. Also note the declared HS 760720 (aluminium foil, backed) and industry 'metallurgy and mining' do not match either name (pharma packaging / pharma), but per project rules HS mismatch is not a rejection ground - the code should be corrected to the actual activity once the entity is confirmed. Recommended next step: re-run with working search access and resolve which of the two names is the real counterparty before any further verification."
+}
