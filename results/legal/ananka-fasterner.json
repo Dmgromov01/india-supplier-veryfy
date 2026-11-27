@@ -1,0 +1,18 @@
+{
+ "name_input": "Ananka Fasterner",
+ "legal_name": "ANANKA FASTENERS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo search backend refused connections (all web_search calls returned 'no results / connection refused'); Zaubacorp and TheCompanyCheck returned HTTP 403; IndiaMART returned HTTP 429; Instafinancials returned 404; Falcon eBiz pages are JavaScript-gated and returned only navigation boilerplate with no company record; MCA portal (search.mca.gov.in) did not resolve; Bing returned unrelated results. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - none of these are public to me at this time and none have been guessed. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left as 'unknown' rather than inferred from the name or the claimed HS 731815 (bolts/screws) - the input gives no evidence of manufacturing vs trading. NOT rejected: per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found either way - the entity's existence is simply unverified. Recommended next step: re-run with working search access or a paid registry API (MCA CIN master data / GST verification) to obtain CIN, PAN, GSTIN and state of registered office."
+}

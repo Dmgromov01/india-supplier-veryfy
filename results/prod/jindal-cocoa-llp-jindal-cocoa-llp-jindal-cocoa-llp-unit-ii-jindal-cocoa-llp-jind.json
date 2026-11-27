@@ -1,0 +1,22 @@
+{
+ "name_input": "JINDAL COCOA LLP; JINDAL COCOA LLP; JINDAL COCOA LLP (UNIT-II); JINDAL COCOA LLP; JINDAL COCOA LLP; JINDAL COCOA LLP EXPORT DIV",
+ "declared_hs": "180500",
+ "actual_hs_list": [
+  "180500",
+  "180100",
+  "180310",
+  "180320",
+  "180400",
+  "180610",
+  "180620",
+  "180631",
+  "180632",
+  "180690",
+  "200819",
+  "200811"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт jindalcocoa.com (главная, /pages/about-us, /collections/cocoa-powder, /collections/*) показывает: (1) какао-порошок — Cocoa Powder, Cocoa Powder for Drinking & Baking, Dutched Cocoa Powder (алкализованный) → 1805 00; (2) какао-масло/какао-тёртое/жмых заявлены косвенно — сайт говорит о собственном перерабатывающем заводе («state-of-the-art manufacturing facility transforms carefully selected cocoa beans into premium cocoa ingredients», технологии German/Dutch/Belgian/Danish) и о «premium cocoa ingredients» для производителей, но конкретных SKU какао-масла (1804 00), какао-тёртого (1803 10) и жмыха (1803 20) в каталоге нет; (3) шоколадные батончики 70% dark, white chocolate с орехами/ягодами → 1806 32/1806 31/1806 90; (4) кувертюры Semi-Sweet 46.5%, Intense Dark 70.7%, Super Dark 55.5% → 1806 20 (в блоках/плитах >2 кг — 1806 20, в потребительской упаковке — 1806 32); (5) compounds (шоколадные компаунды) → 1806 20/1806 90; (6) drinking chocolate и сиропы → 1806 90 (drinking chocolate), сиропы могут уходить в 1806 90 или 2106 90; (7) пасты/спреды: Hazelnut Chocolate Spread, Dark Hazelnut Almond Spread, Almond White Chocolate Spread → 1806 90 (шоколадные спреды) либо 2008 19 (ореховые пасты без какао — Creamy Pistachio Butter Spread, Roasted Almond Butter Spread, Peanut Butter Chocolate Spread → 2008 11/2008 19); (8) подарочные наборы/хэмперы (Little Indulgences, Mini Gift Pack, Classic Chocolate Bliss) → 1806 90 как наборы.",
+ "role_hint": "manufacturer (заявлен собственный перерабатывающий завод и бренд CocoBurst; признаков чистого трейдера в каталоге нет, но и подтверждения мощностей по какао-маслу/тёртому в открытых источниках не найдено)",
+ "comment": "Заявленный код 1805 00 (какао-порошок без добавок сахара) подтверждается каталогом: три позиции какао-порошка, включая Dutched (алкализованный) — источник: https://www.jindalcocoa.com/collections/cocoa-powder. Однако декларация неполная: она покрывает только один товарный вид из широкой линейки. Фактически компания выпускает/продаёт также шоколад и шоколадные изделия (1806 20/31/32/90), кувертюры и компаунды, drinking chocolate, ореховые и шоколадно-ореховые спреды (1806 90 / 2008 11 / 2008 19), подарочные наборы. Отсутствуют в декларации коды 1803 10, 1803 20, 1804 00 — при заявленном собственном перерабатывающем заводе это ключевые полуфабрикаты (какао-тёртое, какао-масло, какао-жмых), но конкретных SKU на сайте нет, поэтому статус по ним — «заявлено, не подтверждено» (формулировка сайта: «premium cocoa ingredients», «transforms cocoa beans into premium cocoa ingredients» — https://www.jindalcocoa.com/pages/about-us). Отраслевая классификация «Продукты питания и FMCG» корректна, но слишком широка: фактически это какао-переработка + шоколадное производство (B2B-ингредиенты) плюс розничный FMCG-бренд CocoBurst — двойная природа (ингредиенты/промышленный поставщик и розница) в декларации не отражена. Признаков трейдера не выявлено: сайт описывает собственное производство и «our own world-class processing plant of international standards in India». Все товарные позиции подтверждены только страницами каталога и текстом сайта; таможенных записей в рамках этой проверки не исследовалось, поэтому фактические отгрузки по любому из кодов остаются «заявлено, не подтверждено». Вердикт по HS: accepted_hs_corrected — код 1805 00 верен, но неполон; требуется расширение списка до 1803 10/1803 20/1804 00/1806 20/1806 31/1806 32/1806 90 (и 2008 11/2008 19 для ореховых паст) с оговоркой о неподтверждённости объёмов."
+}

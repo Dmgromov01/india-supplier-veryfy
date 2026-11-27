@@ -1,0 +1,8 @@
+{
+ "name_input": "AUTOS33 VENTURES PRIVATE LIMITED",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/autos33-ventures-private-limited and .../autos33-ventures-pvt-ltd both returned only the empty page template: \"Shipments available for AUTOS33 VENTURES PVT LTD, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes and no bill-of-lading numbers. Source counter: 2 importkey slug variants tried, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Следов поставок не найдено: ни одной экспортной записи (дата/направление/HS/B-L) не обнаружено. Внутренние поставки не подтверждены: GST-оборот, тендеры GeM/CPPP и контракты не проверены — thecompanycheck.com, zaubacorp.com, volza.com, eximpedia.app all returned HTTP 403 and the search backend (DuckDuckGo/searx) was unreachable (connection refused), so no GST band or tender record could be read. Declared HS 330510 (shampoo/perfumery) does not match the claimed industry 'Продукты питания и FMCG' — per project rules this is NOT a rejection ground; the code should be corrected to the actual one once a real shipment record is found. Existence of the legal entity itself was not verified in this pass (registry pages blocked), so no rejection is proposed either. Revenue and export volume: null — not public in accessible sources, not invented. Status is 'заявлено, не подтверждено' at best; strictly, no supply traces found."
+}

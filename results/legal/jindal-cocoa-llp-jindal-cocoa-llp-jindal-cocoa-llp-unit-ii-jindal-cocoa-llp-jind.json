@@ -1,0 +1,18 @@
+{
+ "name_input": "JINDAL COCOA LLP; JINDAL COCOA LLP; JINDAL COCOA LLP (UNIT-II); JINDAL COCOA LLP; JINDAL COCOA LLP; JINDAL COCOA LLP EXPORT DIV",
+ "legal_name": "JINDAL COCOA LLP (as claimed; not verified against MCA/LLP register)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failed: web_search backend returned connection refused; Bing/Google/DDG HTML endpoints returned irrelevant or blocked results; zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in search endpoint returned 404 and a guessed Tofler URL resolved to an unrelated LLP (XRBIA-MIRTH PROPERTIES LLP, AAJ-1234), so no LLPIN was taken from it. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable here, and deliberately not guessed. No audited accounts or MCA filings were accessible, so revenue FY25 and FY26 are null. Role left 'unknown': the input lists multiple unit/export-division variants of one LLP name, which is consistent with a manufacturing entity, but this is not confirmed by any registry or filing source. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found - the entity simply could not be checked. Recommended follow-up: query MCA LLP master data / GST public search directly for 'JINDAL COCOA LLP' to obtain LLPIN, PAN (4th character 'A' would indicate a firm/LLP-type holder) and GSTIN, and confirm whether 'UNIT-II' and 'EXPORT DIV' are branches of the same LLP or separate registrations."
+}

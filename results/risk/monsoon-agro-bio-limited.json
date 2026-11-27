@@ -1,0 +1,9 @@
+{
+ "name_input": "MONSOON AGRO BIO LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No verifiable risk data could be collected. Tooling failure: the web_search backend returned 'Connection refused' on all attempts; Google returned HTTP 429; DuckDuckGo HTML timed out; zaubacorp.com returned HTTP 403; search.mca.gov.in did not resolve. Bing was reachable but ignored the exact-phrase operator and returned only generic 'monsoon' results (Wikipedia, Monsoon clothing retailer, Britannica) for every query variant tried, including queries targeting sanctions/court/insolvency and registry aggregators (Tofler, IndiaFilings, Zauba). Consequence: no evidence found of (a) OFAC SDN / UN / EU / UK / BIS Entity List exposure, (b) Indian court or NCLT/insolvency proceedings, (c) regulator actions or negative news, (d) credit rating, (e) supplies to Russia or CIS. All fields set to null because absence of a hit in a failed search is NOT evidence of absence - these are unverified, not cleared. Note the name discrepancy in the input: 'MONSOON AGRO BIO LIMITED' vs legal_claimed 'MONSOON AGRO BIO PRIVATE LIMITED' - the public/private suffix conflict was not resolvable without registry access and should be flagged to the legal-identity researcher. Per project rules, no rejection is proposed on this basis; sanctions/court matters would not be rejection grounds in any case. Recommend re-running this company once search connectivity is restored, with direct queries against OFAC SDN, EU consolidated list, UK OFSI, BIS Entity List, NCLT/IBBI and eCourts."
+}

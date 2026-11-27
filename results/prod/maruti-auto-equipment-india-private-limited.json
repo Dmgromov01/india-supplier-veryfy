@@ -1,0 +1,20 @@
+{
+ "name_input": "MARUTI AUTO EQUIPMENT INDIA PRIVATE LIMITED",
+ "declared_hs": "842541;847989",
+ "actual_hs_list": [
+  "8425.41",
+  "8425.49",
+  "8426.41",
+  "8479.89",
+  "8479.82",
+  "8424.89",
+  "8414.80",
+  "8467.89",
+  "8479.79",
+  "9031.80"
+ ],
+ "match_status": "partial",
+ "product_summary": "Coimbatore (Tamil Nadu) manufacturer/trader/exporter of automotive garage & car-wash service equipment. Real catalogue lines (marutiautoequipment.com, IndiaMART storefront): (1) in-ground/surface single-post and scissor hydraulic car-washing lifts 4 t, low-rising pit-type scissor lifts, truck washing lift 8 t — built-in jacking systems of a type used in garages → HS 8425.41 (exact match to declared); (2) two-wheeler lifts and engine tables → 8425.41/8425.49; (3) tyre changer machines 10\"–24\" and truck tyre changer 14\"–26\" (ATS ELGI) → 8479.89 (tyre-mounting/repair appliances) or arguably 8479.89/8426; (4) 3D wheel alignment machines (Manatec MLP 3D, ATS ELGI Spin) — measuring/optical alignment instruments → 9031.80, NOT 8479.89; (5) car washing equipment / automatic car-wash systems, high-pressure washers → 8424.89 (or 8424.30 for steam/water jet cleaners); (6) reciprocating air compressors, bore-well compressors (V-Guard, Texmo pumps resold) → 8414.80; (7) pneumatic grease pumps, Stanley hand tools → 8413.11/8467.89; (8) body-shop and petrol-bunk equipment → mixed 8479.89/8424.89.",
+ "role_hint": "manufacturer_trader — self-described as 'manufacturing, trading and exporting'; own-brand 'Maruti' lifts/tyre changers are made in-house, while Manatec, ATS ELGI, V-Guard, Texmo, Stanley items are clearly resold third-party brands (trader signs).",
+ "comment": "Declared 842541 is CORRECT and corroborated by the core product line (hydraulic car-washing lifts, low-rising scissor lifts, two-wheeler lifts) — exact match. Declared 847989 is only partially right: it fits tyre changers and some body-shop/petrol-bunk equipment, but the catalogue's second-largest line — 3D wheel alignment machines — belongs to 9031.80 (measuring/checking instruments), and the air compressors/pumps line belongs to 8414.80. So the declaration is incomplete rather than wrong: match_status = partial. Industry claim 'Металлургия и горнодобыча' (metallurgy & mining) is a MISCLASSIFICATION — the company is automotive service-garage equipment (SIC/HS chapter 84 garage equipment + chapter 90 alignment instruments), with no mining or metallurgical product in the catalogue. Trader signs: resale of Manatec, ATS ELGI, V-Guard, Texmo, Stanley branded goods alongside own 'Maruti' brand. Product lines missing from the declaration: wheel alignment machines (9031.80), air compressors (8414.80), pumps/grease pumps (8413), hand tools (8467), car-wash systems (8424.89). Per Rule 3 the HS mismatch is NOT a rejection ground — company retained, codes corrected to the factual list above. All product data is from the company's own website/IndiaMART catalogue only; no customs line was available to me in this task, therefore every product line above is 'заявлено, не подтверждено' (declared, not confirmed by a shipment record). No registry, revenue or customs-volume research was performed per role scope."
+}

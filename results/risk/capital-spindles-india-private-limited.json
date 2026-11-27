@@ -1,0 +1,9 @@
+{
+ "name_input": "CAPITAL SPINDLES INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена — данных нет, все поля null. Технические обстоятельства: (1) web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; (2) Bing по всем запросам (в т.ч. в кавычках, с CIN, с 'Coimbatore') отдавал один и тот же нерелевантный кэш про Capital One / столицы США — поиск фактически не работал; (3) zaubacorp.com — HTTP 403; tofler.in — 404 на поиске; Google — HTTP 429; duckduckgo.com/html — таймаут. (4) Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылась, но это JS-форма без параметров запроса — прогнать имя через неё не удалось; SDN List last updated 11/23/2026, Non-SDN 11/4/2026. ВАЖНО: sanctions_hit=null означает 'не проверено', а НЕ 'санкций нет'. Аналогично court_cases/rating/news_risk/rf_supply=null — публичных данных не получено, а не подтверждённое отсутствие. Ничего не выдумано: CIN, PAN, номера дел, даты и суммы не приводятся, т.к. не найдены. Отдельно: заявленное название 'CAPITAL SPINDLES (INDIA) PRIVATE LIMITED' и 'CAPITAL SPINDLES INDIA PRIVATE LIMITED' могут относиться к разным юрлицам — сверить по MCA обязательно (вне моей роли). Рекомендация: перезапустить проверку при доступном поиске; до этого компанию нельзя считать проверенной по санкционному/судебному/кредитному профилю. По правилу 2 любые найденные в будущем санкции/суды/уголовные дела владельцев основанием для отклонения не являются."
+}

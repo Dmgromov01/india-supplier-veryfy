@@ -1,0 +1,18 @@
+{
+ "name_input": "MARUTI AUTO EQUIPMENT INDIA PRIVATE LIMITED",
+ "legal_name": "MARUTI AUTO EQUIPMENT INDIA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT achieved. Tooling failures: DuckDuckGo/searx backend refused connections; zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials returned 404; Google returned 429; Bing returned only Maruti Suzuki India Ltd (the listed carmaker) noise for every query variant, including site-restricted queries against zaubacorp/tofler/thecompanycheck. No public page was found that ties the exact string 'MARUTI AUTO EQUIPMENT INDIA PRIVATE LIMITED' to a CIN, PAN, GSTIN, incorporation date or registered office. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT evidence of absence. state_claimed was empty in the input, so no state mismatch can be assessed. Role left as 'unknown': no registry or filing evidence distinguishes manufacturer from trader; the claimed HS codes (8425 41, 8479 89) and the claimed industry (metallurgy & mining) are unverified and, per project rules, HS mismatch is not a rejection ground anyway. Revenue FY25/FY26 null: no audited accounts or official filings were retrievable, and figures are not to be estimated. Per the rules, rejection is permitted only for non-existent/struck-off/liquidated/bankrupt entities; since no MCA record could be read either way, this company is NOT rejected — it is carried as unverified and should be re-queued for registry lookup (MCA master data / Zauba / Tofler) once access is restored. No shipment, court or catalogue research was performed, per role scope."
+}
