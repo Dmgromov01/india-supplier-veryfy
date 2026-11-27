@@ -1,0 +1,9 @@
+{
+ "name_input": "PIX TRANSMISSIONS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — tooling failure, not a clean result. All research attempts failed: (1) web_search returned 'searx: Connection refused' on both queries; (2) direct fetch of pixtransmissions.com failed with DNS resolution error; (3) DuckDuckGo HTML endpoint timed out; (4) Bing queries returned wholly irrelevant results (Pix payment system, Pixabay, Walmart Black Friday) regardless of quoted search terms, i.e. the engine ignored the query. The OFAC Sanctions List Search page loaded but is a JS form that cannot be queried via http_get, so no SDN screening was actually performed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because NOTHING WAS VERIFIED — these nulls must NOT be read as 'no sanctions', 'no court cases' or 'no Russia supplies'. No claim in this record is sourced. Required follow-up: re-run this company when search/network is restored, checking OFAC SDN/consolidated list, UN/EU/UK consolidated lists, BIS Entity List, Indian court records (eCourts/NCLT), credit rating agencies (CRISIL/ICRA/CARE), and Russian/CIS customs or counterparty records. Per project rules the company is retained in the database; no rejection is proposed and none of the nulls constitute a rejection ground."
+}
