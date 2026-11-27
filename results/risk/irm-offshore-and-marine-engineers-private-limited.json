@@ -1,0 +1,9 @@
+{
+ "name_input": "IRM OFFSHORE AND MARINE ENGINEERS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, Bing отдавал нерелевантные кэшированные результаты (IRS, Iron Mountain, Illinois Railway Museum) независимо от запроса, Google — HTTP 429, ZaubaCorp — 403, Tofler — 404, портал MCA — 403. Санкционный скрининг: интерфейс OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать имя через GET-параметр, поэтому фактический поиск по имени не выполнен — статус по OFAC SDN/Non-SDN, UN, EU, UK, BIS Entity List остаётся НЕПРОВЕРЕННЫМ (null), а не 'чисто'. Судебные дела (NCLT/High Court/eCourts), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — данных не собрано, все поля null. Никаких утверждений о наличии или отсутствии рисков по этой компании делать нельзя; требуется повторный прогон при работающем поиске. Отклонение по правилу 3 неприменимо: сведений о ликвидации/банкротстве нет, но и подтверждения существования юрлица в рамках этой проверки не получено (это вне моей роли)."
+}

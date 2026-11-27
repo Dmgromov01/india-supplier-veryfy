@@ -1,0 +1,11 @@
+{
+ "name_input": "MOMENTUM MINERALS LLP",
+ "declared_hs": "250410",
+ "actual_hs_list": [
+  "250410"
+ ],
+ "match_status": "exact",
+ "product_summary": "Natural flake graphite, screened and beneficiated in-house, 88–97% fixed carbon. Grades listed on the site: +3295 (94.5–95.5% FC), +592 (92–94%), +595 (94–95.5%), +597 (96.5–97.5%), +892 (91–92%), +894 (94–94.5%), -888 (88–90%), -894 (94–94.5%), plus -200/-500/micronized to spec. Applications named: crucibles, refractories, foundries, lubricants, brake linings, industrial carbon. Source: https://momentumminerals.in/products/ and https://momentumminerals.in/ (read 2026).",
+ "role_hint": "trader",
+ "comment": "HS 250410 ('Natural graphite, in powder or in flakes') matches the declared code exactly — the entire published product line is natural flake graphite, so no correction is needed. Industry classification is wrong: the declared industry 'Строительство и DIY' (construction/DIY) does not fit; the real segment is industrial minerals / refractories / metallurgical consumables (HS ch. 25 mineral products). Role: the site describes 'sourcing, screening, processing and supplying' with an in-house screening and beneficiation facility in Bhuj, Gujarat, and a team handling processing and dispatch — i.e. a processor/trader hybrid rather than a mine operator; no mining lease or mine is claimed on the site, so 'trader' with processing capability is the safer hint (manufacturer_trader possible but unverified). Product lines missing from the declaration: none in HS terms — the whole catalogue is one HS-6 heading. Note that micronized/-200/-500 grades are still 250410 (powder/flakes), not 250490. All product and application claims are website-only: no customs line, invoice or B-L was reviewed in this task, therefore the grades, FC percentages, in-house beneficiation and 'export on request' are 'заявлено, не подтверждено'. No PAN, CIN, revenue or shipment data checked per task scope — null."
+}

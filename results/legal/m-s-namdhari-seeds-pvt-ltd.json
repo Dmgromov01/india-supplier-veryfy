@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S NAMDHARI SEEDS PVT.LTD",
+ "legal_name": "NAMDHARI SEEDS PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both attempts; Bing HTML fallback returned only irrelevant results (gun forums, LinkedIn profiles, Dracaena plant care) for every query variant tried; Google returned HTTP 429; DuckDuckGo HTML timed out. Direct fetches of registry aggregators were blocked or non-existent: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned only a generic marketing page with no company record; quickcompany.in and indiafilings.com returned HTTP 404 for the guessed slugs. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are non-public, but because no source could be read in this session. No numbers were invented. Role left as 'unknown': the name and the declared HS codes (120930, 120991 - vegetable seeds / seed for sowing) are consistent with a seed company, but the input's industry label 'Food products and FMCG' does not match seed-for-sowing HS codes; per project rules this is NOT a rejection ground and no HS correction is asserted here since the actual business activity was not verified. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - absence of evidence from failed lookups is not evidence of non-existence. ACTION REQUIRED: re-run this company in a session with working search/registry access (MCA master data, zaubacorp/quickcompany/instafinancials, GST portal public search) before any verdict is issued."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "SICER INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing по точному запросу \"SICER INDIA PRIVATE LIMITED\" выдал нерелевантную выдачу без единого совпадения, zaubacorp.com отдал 403, Google — 429. Интерактивный поиск OFAC Sanctions List Search через http_get недоступен (форма требует POST-запроса), поэтому санкционный скрининг по OFAC SDN/UN/EU/UK/BIS фактически не проведён — null означает \"не проверено\", а не \"чисто\". Судебные дела (eCourts, NCLT, High Court), рейтинги (CRISIL/ICRA/CARE/India Ratings) и негативные новости не проверены по той же причине. Сведений о поставках в РФ/СНГ не найдено, но это также следствие отсутствия доступа к источникам, а не результат проверки. Требуется повторный запуск с рабочим поиском; никаких данных не выдумывалось."
+}

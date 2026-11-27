@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S TANYA ENTERPRISES",
+ "legal_name": "TANYA ENTERPRISES (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — data unavailable, not a rejection. Tooling failed: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); zaubacorp.com and mca.gov.in/mcafoportal returned HTTP 403; indiamart.com returned HTTP 429; tofler.in search returned 404; gstinsearch.in DNS resolution failed; Bing/Google returned HTTP 429 or only irrelevant name-entity results (the name 'Tanya' dominates results, no Indian company profile surfaced). Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be confirmed from a public source, and no audited revenue figures were found — all fields set to null per rules (no invented data). The name form 'M/S TANYA ENTERPRISES' with no PAN and no state is typical of a proprietorship/partnership trade name rather than a company, in which case no CIN would exist and the identifier would be a GSTIN — but this is an inference, NOT a verified fact. No basis for rejection: absence of a retrieved record is not proof of non-existence, so the company is not marked rejected. Action required: re-run verification when search/registry access is restored, or obtain the GSTIN/PAN directly from the supplier's documents (invoice, IEC, GST certificate) and re-check on the GST portal and MCA master data. HS codes 851680/854420 (electric heating resistors / insulated coaxial cable) were not assessed — out of scope for this role."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MOMENTUM MINERALS LLP",
+ "legal_name": "MOMENTUM MINERALS LLP (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool (DuckDuckGo/searx) was unavailable ('Connection refused'), and fallback searches on Bing returned only generic 'Momentum' brand results with no Indian LLP record. Direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) and mca.gov.in all returned HTTP 403 Forbidden, so no LLPIN, PAN, GSTIN, incorporation date, state or MCA status could be read from a public source. No audited accounts or official filings were accessible, therefore revenue FY25/FY26 are null (not estimated). Per project rules, non-verification is NOT grounds for rejection: the entity is retained with role 'unknown' and all registry fields null pending a manual MCA master-data / GST portal lookup. Note also that declared HS 250410 (natural graphite) does not match the claimed industry 'Construction & DIY' - per rule 3 this is not a rejection ground; the HS code should be corrected to the actual product once the company's real activity is confirmed. No shipment or supply evidence was researched (out of scope for this role)."
+}
