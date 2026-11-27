@@ -1,0 +1,18 @@
+{
+ "name_input": "A G Organica/ AG Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be established. The input gives two alternative trading names ('A G Organica' / 'AG Industries') and no state, no PAN and no GSTIN, so the exact legal entity cannot be pinned down. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down) on both queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only generic 'A'/'AG' dictionary results with no Indian company hits. Registry aggregators blocked or missing: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, thecompanycheck.com HTTP 403, tofler.in search returned 404, quickcompany.in returned 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public in any source I could reach, and I will not invent them. No rejection is warranted: nothing found indicates the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling/access limitation, not evidence of non-existence. Role left as 'unknown' (no registry record to classify manufacturer vs trader). Declared HS 330129/330499 (essential oils / cosmetics) is noted but is not a basis for rejection per project rules; if the entity is later identified, the HS code should be corrected to the actual product line and the verdict set to accepted_hs_corrected. Recommended next step: re-run with working search, or obtain the supplier's GSTIN or PAN from the counterparty to resolve the legal entity directly."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "SUPREME BATH FITTINGS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/supreme-bath-fittings and .../supreme-bath-fittings-pvt-ltd both returned only the paywalled template: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows, 0 dates, 0 destinations, 0 HS codes, 0 B/L numbers visible. volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript 'Client Challenge' wall. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: the web_search backend failed on every query ('searx: <urlopen error [Errno 111] Connection refused>'), so no registry, tender or financial page could be located. Nothing to quote.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны (ImportKey — платная заглушка без строк, Volza/Eximpedia/Trademo — 403, ImportGenius — JS-стена, поисковик не работал). Фактических экспортных записей (дата, направление, HS, B/L) не увидено ни одной; внутренних подтверждений (GST-оборот, тендеры GeM/CPPP, контракты) тоже нет. Заявленный HS 848180 (арматура) не подтверждён и не опровергнут — по правилу 3 HS не является основанием для отклонения, код оставлен как заявленный до фактической проверки. Юрлицо не проверено на существование/ликвидацию: CIN, PAN, выручка и объём экспорта — null, не выдумывались. Требуется повторный прогон при доступном поиске и платном доступе к таможенным данным."
+}
