@@ -1,0 +1,9 @@
+{
+ "name_input": "UTS SOUTH ASIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "SCREEN NOT COMPLETED - treat all fields as unverified, not as clean. Tooling failures: primary search backend (DuckDuckGo/searx) returned 'Connection refused' for every query; Bing returned identical generic 'UTS' results (myuts.net, uts.edu.au, utsnet.com etc.) regardless of query string, i.e. it did not execute the query; zaubacorp.com, thecompanycheck.com returned HTTP 403; OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JS form and returned no query results over plain HTTP, so no SDN/Non-SDN name match was actually run. Only usable result: Indian Kanoon search for \"UTS South Asia\" returned 'No matching results' (https://indiankanoon.org/search/?formInput=%22UTS%20South%20Asia%22), which is weak evidence of no reported litigation but is not an exhaustive court check (NCLT, district courts, consumer fora not covered). No UN, EU, UK OFSI or BIS Entity List check was performed. No credit rating agency (CRISIL/ICRA/CARE/India Ratings) lookup was performed. No evidence either way on supplies to Russia or CIS - null means 'not researched', NOT 'no evidence'. No negative news search completed. No CIN, PAN, incorporation data or director names were obtained, so the entity could not even be confirmed to exist as an Indian registered company under this exact name; the name may be a trading style or a mis-transliteration. RECOMMENDATION: re-run this screen when search access is restored, and in the meantime request the CIN and GSTIN from the counterparty to anchor the sanctions and litigation checks. Per project rules, nothing here is a rejection ground; the company stays in the base."
+}

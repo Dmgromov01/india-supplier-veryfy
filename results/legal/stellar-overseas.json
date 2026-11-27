@@ -1,0 +1,18 @@
+{
+ "name_input": "Stellar Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failed during this run: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo HTML timed out; Google returned a redirect/consent page; Bing returned only generic 'stellar' results with query terms ignored (no India company hits). Direct registry sources were blocked: zaubacorp.com (HTTP 403 on both /company-list/ and /company/ paths), instafinancials.com (403), mca.gov.in MDS portal (403); thecompanycheck.com list URL returned 404. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be verified from a public source. Nothing is asserted or invented: all fields null. IMPORTANT: the input name 'Stellar Overseas' is a bare trade name with no legal suffix (no Pvt Ltd / LLP / partnership), no PAN and no state supplied, so it cannot be uniquely matched to a single MCA entity - multiple Indian entities plausibly share this name. Per project rules, rejection is NOT applied: absence of retrievable data is not proof of non-existence, and the entity is not shown to be struck off, liquidated or bankrupt. Role left as 'unknown' - the declared HS codes (280700 sulphuric acid, 290211 cyclohexane, 293361 melamine, 293371 caprolactam) suggest a chemicals trader/distributor rather than a manufacturer, but this is inference from HS codes only, not a verified fact. Revenue FY25/FY26 null - no audited accounts or official filings were accessible. Action required: re-run with working search/registry access, or obtain the supplier's CIN/GSTIN/PAN directly from the counterparty; with a CIN or GSTIN the entity can be resolved unambiguously on MCA/zaubacorp/GST portal."
+}

@@ -1,0 +1,23 @@
+{
+ "name_input": "SYNTHIMED LABS PRIVATE LIMITED",
+ "declared_hs": "293399",
+ "actual_hs_list": [
+  "29419090",
+  "29349990",
+  "29333990",
+  "29334900",
+  "29335990",
+  "29337990",
+  "29339990",
+  "29332990",
+  "29335910",
+  "29349900",
+  "29242990",
+  "29224990",
+  "29420090"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт synthimed.com (раздел /apis/, страница Products) — компания является производителем активных фармацевтических субстанций (API) и CRAMS-подрядчиком; заявляет о приобретении API/CRAMS-бизнеса Ind-Swift Laboratories Ltd. Реальные продукты по каталогу: (1) Макролидные антибиотики — Clarithromycin (база, coated granules, citrate) — это антибиотик-макролид, HS 2941.90 (антибиотики), НЕ 2933/2934; (2) Cardiovascular — Atorvastatin Calcium (crystalline/amorphous), Clopidogrel Hydrogen Sulphate Form-II, Clopidogrel Besylate & HCl, Ezetimibe, Ivabradine HCl/Oxalate — гетероциклические соединения с азотом, HS 2933/2934; (3) Antihistaminic — Fexofenadine HCl (2933.39); (4) Antidiabetic — Pioglitazone HCl, Nateglinide, Saxagliptin Monohydrate (2934/2933); (5) Antipsychotic — Quetiapine Fumarate, Aripiprazole Form-I/Crystal B (2933.59/2934); (6) Bone resorption inhibitor — Risedronate Sodium (2933.79 / 2934); (7) Parkinson's — Ropinirole HCl (2933.39); (8) Hyperparathyroidism — Cinacalcet HCl (2933.39); (9) Aromatase inhibitors — Letrozole, Anastrozole (2933.99/2934); (10) Nootropic — Donepezil HCl Form I/III, Donepezil Base (2933.39); (11) Antidiarrhoeal/antiprotozoal — Nitazoxanide (2934); (12) Alcohol abstinence — Acamprosate Calcium (2922.49); (13) Antineoplastic — Temozolomide, Imatinib Mesylate, Ibrutinib, Pazopanib HCl (2933/2934/2933.99); (14) Mirabegron (2933), Eltrombopag Olamine (2933), Bempedoic Acid (2918/2924). Плюс отдельные вертикали: Custom Chemicals (кастомный синтез) и Impurities (примеси/стандарты) — это уже не API, а fine chemicals/референсные стандарты.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 293399 (гетероциклические соединения с атомами азота, прочие) — частично верен: он покрывает лишь часть портфеля (Letrozole, Anastrozole, Imatinib, Ibrutinib, Pazopanib, Mirabegron, Eltrombopag и др. производные). Однако он НЕ покрывает: (а) ключевой и заявленный самой компанией как «global dominance» сегмент макролидных антибиотиков — Clarithromycin и его формы идут по HS 2941.90 (антибиотики), это отдельная товарная позиция, а не 2933; (б) Acamprosate Calcium — 2922.49 (соединения с карбоксамидной группой), не гетероцикл; (в) Bempedoic Acid — 2918/2924; (г) ряд соединений, которые классифицируются в 2934 (нуклеиновые кислоты/прочие гетероциклы: Nitazoxanide, Saxagliptin, Quetiapine, Risedronate, Temozolomide, Ivabradine) — 2934 отдельная позиция, не 2933. Итог: HS-код требует расширения/исправления на фактический набор (2941.90 + 2933.xx + 2934.xx + 2922.49 + 2918.xx), вердикт accepted_hs_corrected — компания сохраняется в базе, отклонения по HS нет (правило 3). Отраслевая классификация «Нефтегаз и химия» формально не ошибочна (фармацевтические fine chemicals — это химия), но по сути неточна: это фармацевтика/API-производство (фармахимия), а не нефтегаз. Признаков трейдерства на сайте нет: компания позиционирует себя как производитель с собственными площадками, USFDA/EDQM/ANVISA/KFDA-аккредитациями, R&D-центром 40 000 sq.ft. и >40 разработанными API — role_hint = manufacturer. ВАЖНО (правило 5): всё перечисленное — это каталог и заявления сайта, статус «заявлено, не подтверждено». Таможенных/B-L записей, GST-оборотов или контрактов в рамках этой проверки (только product/HS-роль) не исследовалось — фактичность отгрузок не подтверждена и не опровергнута, требует отдельной проверки. Регистрационные данные (CIN U21001CH2023PTC045205, Chandigarh) взяты с сайта компании и не верифицированы по реестру — в рамках этой роли не проверялись. Выручка/объём экспорта: null (не исследовалось)."
+}

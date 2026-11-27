@@ -1,0 +1,19 @@
+{
+ "name_input": "LYKIS LIMITED",
+ "declared_hs": "330610;960321",
+ "actual_hs_list": [
+  "330610 (toothpaste / oral care preparations)",
+  "960321 (toothbrushes, incl. denture brushes)",
+  "3401 (soap; organic surface-active products) — заявлено на сайте как категория Personal Care, код не подтверждён",
+  "3303/3307 (fragrances, deodorants) — заявлено как категория Fragrances, код не подтверждён",
+  "3305 (hair preparations) — заявлено как Personal Care, код не подтверждён",
+  "2106 / 1905 / 2009 / 0902 (food & beverages: готовые пищевые продукты, печенье, соки, чай) — заявлено как Food & Beverages, коды не подтверждены",
+  "3004 (pharma preparations) — заявлено как Pharma, код не подтверждён",
+  "4818/4819/3923 (packaging materials) — заявлено, код не подтверждён",
+  "4820/9608/9609 (stationery) — заявлено, код не подтверждён"
+ ],
+ "match_status": "partial",
+ "product_summary": "Головной сайт lykis.com (сейчас работает как GoldSpan Exports Pvt. Ltd., дочерняя структура KrownIQ, ранее Lykis Limited) заявляет 5 000+ SKU в 10 категориях: Personal Care, Fragrances, Commodities, Raw Materials, Packaging Materials, Food & Beverages, Pharma, Industrial Goods, Stationery, Other Items. Собственные бренды: Lyfresh (зубные пасты — полный ассортимент, включая herbal и cavity protection), LYKIS, ROX, H&H, RIVONA NATURALS. Oral care (Lyfresh) — единственная товарная линия, прямо и подробно раскрытая на сайте. Остальные категории перечислены списком без номенклатуры и без кодов.",
+ "role_hint": "manufacturer_trader — сайт одновременно заявляет собственное производство/private label («Your brand. Your formulation. Our manufacturing», in-house R&D и QC, batch-level traceability) и мульти-категорийную консолидацию закупок («5,000+ SKUs», «Multi-Product Sourcing», «Consolidated Cargo», «Raw & Packaging Materials»). Признаки трейдера: продажа чужих категорий (pharma, industrial goods, stationery, commodities) без указания собственных мощностей по ним.",
+ "comment": "Заявленные коды 330610 и 960321 подтверждаются сайтом частично: 330610 (зубная паста) прямо соответствует бренду Lyfresh — oral care описан как основная линия; 960321 (зубные щётки) на сайте НЕ подтверждён — щётки в описании Lyfresh не упоминаются, только пасты. Статус: partial. Существенное несоответствие декларации фактическому ассортименту: заявлены только 2 кода oral care, тогда как сайт позиционирует компанию как мульти-категорийного поставщика (food & beverages, fragrances, personal care, pharma, packaging, stationery, industrial goods, commodities) — эти линии в декларации отсутствуют. Отраслевая метка «Продукты питания и FMCG» частично корректна (FMCG — да, food — лишь одна из 10 заявленных категорий, не подтверждённая номенклатурой). Признаки трейдера: консолидация 5 000+ SKU по чужим категориям, private label под маркой клиента, «Raw & Packaging Materials». Все товарные линии, кроме oral care, — «заявлено, не подтверждено»: ни одна позиция не подтверждена таможенной строкой, каталог/номенклатура на сайте недоступна (страницы /category-brands, /catalogues, /products возвращают 404), поиск (web_search) в сессии недоступен. Коды 3401, 3303, 3307, 3305, 2106, 3004, 4818, 3923, 4820 приведены как ориентировочное отраслевое соответствие заявленным категориям, а не как подтверждённые коды компании. Юрлицо не проверялось (вне роли)."
+}

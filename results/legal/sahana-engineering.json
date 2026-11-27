@@ -1,0 +1,18 @@
+{
+ "name_input": "SAHANA ENGINEERING",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Входные данные противоречивы: 'legal_claimed' = 'MADHU N J L NANJUNDASWAMY' — это имя физлица (вероятно, проприетор/партнёр), а не название юрлица; 'Sahana Engineering' может быть проприетарным бизнесом (тогда CIN отсутствует по определению, нужен только GSTIN/Udyam), партнёрством или Pvt Ltd — не установлено. Заявленный HS 740821 (медные сплавы) и 902610 (приборы измерения расхода/уровня жидкости) не соответствуют заявленной отрасли 'IT и электроника' — вероятно, фактическая отрасль: металлообработка/приборостроение; это НЕ основание для отклонения, код подлежит исправлению по факту. Инструменты проверки были недоступны: web_search возвращал 'Connection refused', DuckDuckGo/Google/Bing — 403 или пустые результаты, Zaubacorp/Instafinancials/Tofler/Falconebiz — 403/404/JS-only, портал MCA — 403. Поэтому CIN, PAN, GSTIN, дата регистрации, штат, статус MCA и выручка за FY25/FY26 остаются null — публично не получены в рамках этой сессии, а не 'отсутствуют'. Вердикт: НЕ отклонять (нет доказательств несуществования/ликвидации/банкротства); статус — 'заявлено, не подтверждено', требуется повторная проверка через MCA Master Data + GST-портал по имени проприетора/партнёрства."
+}

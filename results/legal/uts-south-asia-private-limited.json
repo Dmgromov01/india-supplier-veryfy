@@ -1,0 +1,18 @@
+{
+ "name_input": "UTS SOUTH ASIA PRIVATE LIMITED",
+ "legal_name": "UTS SOUTH ASIA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both search calls; Bing returned only generic 'UTS' results (Universal Traffic Service, UTS Sydney, etc.) and ignored the quoted phrase, so no Indian company page surfaced; Zauba Corp, TheCompanyCheck, InstaFinancials and Tofler returned HTTP 403/404; MCA master-data portal returned HTTP 403. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrieved, NOT invented. No basis to reject: absence of a retrieved record is not proof of non-existence, so the entity is not marked rejected. Role left 'unknown' - the declared HS codes (252620 talc/steatite, 291570 stearic acid, 340242 non-ionic surfactants, 382499 chemical preparations) point to chemical/mineral distribution rather than construction & DIY as claimed, which suggests trader or manufacturer_trader, but this is inference only and must be confirmed from the MCA NIC code and GST registration. Action required: manual lookup on MCA V3 master data / GST portal by exact legal name, or obtain the CIN or GSTIN from the supplier directly, then re-run verification."
+}
