@@ -1,0 +1,18 @@
+{
+ "name_input": "RAVID ENGINEERS PRIVATE LIMITED",
+ "legal_name": "RAVID ENGINEERS PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', затем Google — HTTP 429, Bing отдавал нерелевантную выдачу; прямые запросы к MCA master data, Zauba Corp, Tofler, Falconebiz — HTTP 403, TheCompanyCheck — 403, Instafinancials — 404, QuickCompany — 404. В результате CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка за FY25/FY26 остаются null — публично не получены в рамках этой проверки, цифры не выдумывались. Роль (manufacturer/trader) не установлена, поэтому 'unknown'. Отклонение НЕ применяется: нет доказательств того, что юрлицо не существует, ликвидировано или обанкрочено — отсутствие данных не является основанием для rejected. Заявленный HS 381600 (флюсы, цементы и аналогичные огнеупорные смеси) не соответствует отрасли 'Металлургия и горнодобыча' в узком смысле, но по правилам проекта HS не является основанием для отклонения — код подлежит уточнению по фактической номенклатуре. Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам."
+}

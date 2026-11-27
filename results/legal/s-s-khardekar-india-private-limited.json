@@ -1,0 +1,18 @@
+{
+ "name_input": "S.S.KHARDEKAR INDIA PRIVATE LIMITED",
+ "legal_name": "S.S.KHARDEKAR INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) on every query, and direct fetches of registry/aggregator sources failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, mca.gov.in returned HTTP 403, Google/Brave returned HTTP 429, DuckDuckGo (html and lite endpoints) timed out, and Bing returned only irrelevant results (it did not honour the quoted company name). Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. All such fields are set to null rather than guessed. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected - it is left unverified pending a working registry lookup (MCA master data / GST public search). Role is recorded as 'unknown' because no filing evidence of manufacturing vs trading activity was obtainable. Declared HS 382499 (chemical preparations) is not assessed here per role scope; note that HS mismatch is not a rejection ground under project rules. Recommended next step: re-run against MCA and GST portals when accessible."
+}

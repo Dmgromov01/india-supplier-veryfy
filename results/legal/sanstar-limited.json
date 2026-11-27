@@ -1,0 +1,18 @@
+{
+ "name_input": "Sanstar Limited",
+ "legal_name": "Sanstar Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat",
+ "state_claimed": null,
+ "mca_status": "Active (listed on NSE: SANSTAR and BSE: 544217; no strike-off/liquidation/insolvency found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 1067.0,
+ "revenue_fy26_cr": 785.0,
+ "revenue_source": "Screener.in consolidated P&L (Mar 2024 = FY25 proxy? see note) — figures taken from screener.in/company/SANSTAR/consolidated: Sales Mar 2024 = 1,067 Cr, Mar 2026 = 785 Cr; FY25 (Mar 2025) column not displayed on the fetched page, so FY25 is reported as the Mar-2024 audited consolidated figure only if that is FY25 — NOT confirmed, treat as approximate/unverified",
+ "note": "Registry identifiers (CIN, PAN, GSTIN, exact incorporation date) could NOT be verified: searx web_search was down (connection refused) and registry aggregators (ZaubaCorp, TheCompanyCheck, Moneycontrol) returned HTTP 403; MCA/NSE/BSE pages returned only shell HTML. What IS confirmed from primary sources: (1) sanstar.in (official site) — legal name 'Sanstar Limited', Regd & Corp Office 'Sanstar House', Opp. Suvidha Shopping Centre, Near Under Bridge, Mahalaxmi Char Rasta, Paldi, Ahmedabad 380 007, Gujarat; established 1982; manufacturer of maize-based speciality products (liquid glucose, dried glucose solids, maltodextrin, dextrose monohydrate, native/modified starches) with plants at Dhule (Maharashtra) and Kutch (Gujarat), capacity 2,350 MT/day. (2) Screener.in — listed entity, BSE 544217 / NSE SANSTAR, market cap ~Rs 1,920 Cr, face value Rs 2, consolidated financials available. Registered-office state = Gujarat (Ahmedabad); input state_claimed was empty, so no mismatch. Role = manufacturer (own plants, own capacity), not a trader. HS 350510 (dextrins/modified starches) is broadly consistent with the declared product range (modified starches, maltodextrin) — no HS correction flagged, but product-level HS mapping was not verified. Revenue: screener.in consolidated series shows Mar 2024 = 1,067 Cr and Mar 2026 = 785 Cr; the Mar 2025 (FY25) column was not rendered in the fetched page, so FY25 is left as the Mar-2024 figure ONLY as a placeholder and must be re-checked against the FY25 annual report on sanstar.in/financial-information (Annual Report 2024-2025 is published there). FY26 = 785 Cr from the same consolidated series. Both are consolidated audited-filing-derived figures via an aggregator, not read directly from the audited PDF — verify before use. No rejection grounds: entity exists and is actively listed."
+}
