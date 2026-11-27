@@ -1,0 +1,8 @@
+{
+ "name_input": "Vserv Infosystems",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'vserv-infosystems' loaded but returned only a paywalled shell: \"Shipments available for VSERV INFOSYSTEMS, refreshed daily\" — zero actual shipment rows, no dates, destinations, HS codes or B/L numbers were visible. Source counter: 1 page fetched, 0 shipment rows seen. Volza (403), Eximpedia (403), ImportGenius (JS challenge), Trademo (403) all blocked.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GST turnover band, GeM/CPPP tender records and annual-report splits could not be read: DuckDuckGo search backend returned 'Connection refused' on all 3 attempts, and registry/aggregator pages (ZaubaCorp, TheCompanyCheck) returned HTTP 403. Source counter: 0 domestic records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались недоступны (403 / JS-challenge / платный доступ), а поисковик не работал в этой сессии. Ни одной фактической записи об экспорте (дата, направление, HS, B/L) или о внутренних поставках (GST-оборот, тендер, контракт) получить не удалось, поэтому статусы выставлены unknown, а не declared_only и не none_found. Заявленные HS 847150 и 852852 (компьютеры/серверы и устройства обработки данных) не проверены по фактическим отгрузкам. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Требуется повторная проверка при доступном поиске и платном срезе таможенных данных."
+}

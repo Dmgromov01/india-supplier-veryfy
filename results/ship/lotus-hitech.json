@@ -1,0 +1,8 @@
+{
+ "name_input": "Lotus Hitech",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for LOTUS HITECH exists but shows no records without login: \"Join ImportKey to view the import and export data records of companies all over the world.\" Source counter: 1 page found (https://importkey.com/countries/india/lotus-hitech- ; the /lotus-hitech and /lotus-hi-tech variants returned HTTP 520/525). Rows actually seen: 0 shipment rows — no date, destination, HS code or bill-of-lading number visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches for \"Lotus Hitech\" India GST/export/shipment returned no usable results (DuckDuckGo/searx backend refused connection; Google returned a redirect interstitial). Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, поэтому статусы unknown, а не none_found. ImportKey подтверждает лишь существование карточки компании в таможенной базе Индии (это не запись об отгрузке). volza, eximpedia, trademo и importgenius вернули 403 / JS-challenge, zaubacorp — 403. Заявленный HS 730840 (строительство и DIY) и владелец PRAVEEN SUTHAR не проверены: PAN, CIN, выручка и объём экспорта — null, публично не получены. Не отклонять по HS (правило 3); требуется повторная проверка при доступном источнике таможенных записей."
+}

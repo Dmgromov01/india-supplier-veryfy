@@ -1,0 +1,18 @@
+{
+ "name_input": "BHAVI INTERNATIONAL PRIVATE LIMITED; BHAVI INTERNATIONAL PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "source": "Indian Kanoon (indiankanoon.org/search/?formInput=\"Bhavi International\")",
+   "court": "Delhi District Court (Commercial Court-05)",
+   "date": "2021-01-05",
+   "party_role": "plaintiff-side entity named in the suit — described in the order as a 'wool, sheep and leather merchant under the name and style of Bhavi International'",
+   "status": "decided/order dated 05.01.2021; single result, no further proceedings surfaced",
+   "caveat": "The judgment text refers to a proprietary/firm style 'Bhavi International', NOT explicitly to 'Bhavi International Private Limited'. Identity match with the private limited company is UNCONFIRMED."
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — tooling failure, not a clean bill of health. The DuckDuckGo/searx search backend returned 'Connection refused' on every attempt (4 queries), so no sanctions screening, negative-news sweep, credit-rating lookup or Russia/CIS supply check could be executed. Zauba Corp and TheCompanyCheck both returned HTTP 403; Google returned a redirect interstitial. Only one substantive source was readable: Indian Kanoon, which shows a single Delhi District Court commercial matter dated 05.01.2021 involving a wool/sheep/leather merchant trading as 'Bhavi International' — the party is named as a firm-style trade name, so linkage to the private limited entity is unverified. Per project rules this court matter is NOT a rejection ground and is recorded neutrally only. sanctions_hit, rating, news_risk and rf_supply are null because nothing was checked — these are NOT findings of absence. No evidence of supplies to Russia or the CIS was found, but no search for such evidence completed successfully, so this must not be read as confirmation of no RF/CIS trade. Recommend re-running this company once the search backend is restored, and screening the exact registered name against OFAC SDN, UN, EU, UK OFSI and BIS Entity List directly."
+}

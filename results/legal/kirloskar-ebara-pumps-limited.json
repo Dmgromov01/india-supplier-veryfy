@@ -1,0 +1,18 @@
+{
+ "name_input": "KIRLOSKAR EBARA PUMPS LIMITED",
+ "legal_name": "KIRLOSKAR EBARA PUMPS LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool was unavailable (searx connection refused) and all registry/profile sources attempted returned errors: zaubacorp.com and thecompanycheck.com returned HTTP 403, kirloskarpumps.com returned HTTP 503, ebara.co.jp returned HTTP 403, kirloskarebara.com failed DNS resolution, and Bing/Google/DDG HTML endpoints returned only generic Kirloskar-group results with no CIN, GSTIN or financial data. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and FY25/FY26 revenue are all left null — none of these are invented. No rejection basis found or claimed: the entity is widely referenced as an operating Kirloskar Group / Ebara Corporation joint venture, but that is not a registry confirmation, so mca_status is null rather than 'Active'. Role left 'unknown' pending registry/website verification (pumps manufacture is plausible given the declared HS codes 841381/841391/841410/848180, but not confirmed from a primary source). Note also that the declared industry 'Металлургия и горнодобыча' (metallurgy/mining) does not match the declared HS codes, which are pump, valve and centrifugal-machinery codes — this is an industry-classification mismatch only, not a rejection ground. Recommend re-running with working search access or direct MCA/GST portal lookup."
+}
