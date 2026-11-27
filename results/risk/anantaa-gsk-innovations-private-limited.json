@@ -1,0 +1,9 @@
+{
+ "name_input": "ANANTAA GSK INNOVATIONS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; DuckDuckGo HTML — HTTP 403; Google — редирект-заглушка без результатов; Bing по точному названию в кавычках и по связке с Zauba/Tofler/IndiaMART выдал только нерелевантную выдачу (мебель, DoorDash) — то есть индексируемых совпадений по названию не найдено, но это НЕ доказательство отсутствия записей. Zauba Corp — HTTP 403. OFAC Sanctions List Search — JS-форма, GET-запрос не возвращает результаты поиска, поэтому скрининг по SDN/Non-SDN фактически не проведён. Итог: sanctions_hit, court_cases, rating, news_risk, rf_supply = null — данных нет, не выдумывать. Никаких выводов об отсутствии санкций, судов, рейтинга или поставок в РФ/СНГ делать нельзя: все пять полей остаются непроверенными (not verified), а не 'чистыми'. Дополнительно: заявленный legal_claimed 'ADVIX MEDICAL' не совпадает с названием юрлица, а industry_claimed 'Продукты питания и FMCG' противоречит declared_hs 901839/901890/902190 (медизделия) — это вне моего мандата (идентичность/HS не проверяю), но передаю как флаг для коллег. Рекомендуется повторный прогон при восстановлении поискового бэкенда и доступ к платным реестрам (Tofler/Probe/CRISIL, eCourts, NCLT) для закрытия пробелов."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "AADITYA DYECHEM PRIVATE LIMITED",
+ "legal_name": "AADITYA DYECHEM PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: поисковый бэкенд (searx/DuckDuckGo) возвращал connection refused / timeout, Google и Bing выдали нерелевантную выдачу, агрегаторы реестров (zaubacorp, thecompanycheck) — HTTP 403, instafinancials — 404, портал MCA search.mca.gov.in недоступен (DNS). Ни один реестровый факт (CIN, PAN, GSTIN, дата регистрации, штат, MCA-статус, выручка) не подтверждён публичным источником, поэтому все поля null — цифры и идентификаторы не выдумывались. Юрлицо НЕ отклонено: отсутствие подтверждения не является основанием для rejected (правило 3). Роль не определена (unknown). Требуется повторный прогон при доступном поиске или ручная проверка на mca.gov.in / GST-портале по точному названию."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "INDENTA CHEMICALS INDIA PVT LTD; INDENTA CHEMICALS INDIA PRIVATE LIMITED",
+ "legal_name": "INDENTA CHEMICALS (INDIA) PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) and all fallback routes failed: DuckDuckGo HTML timed out, Google returned a redirect stub, Bing returned unrelated results (Amazon Prime / office chairs) for every query, and the registry aggregators that carry CIN/PAN/GSTIN data (zaubacorp.com, thecompanycheck.com, tofler.in) returned HTTP 403, while instafinancials.com returned only its generic homepage without company data. mca.gov.in also returned HTTP 403. The company's own domain (indentachem.com) did not resolve. Therefore CIN/LLPIN, PAN, PAN holder type, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue for FY25/FY26 are all null - not public in any source reachable here, and not invented. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the name appears as a plausible operating private limited company in the chemicals trade, but that is unconfirmed. Role left as 'unknown' because manufacturer vs trader status cannot be established from registry data alone. Declared HS 283620 (disodium carbonate / soda ash) is a chemistry-sector code consistent with the claimed industry, but HS is not a rejection criterion per project rules and no correction is proposed without evidence. Recommended next step: re-run with working search access or a paid MCA/GST API to obtain CIN, PAN and GSTIN before any verdict."
+}

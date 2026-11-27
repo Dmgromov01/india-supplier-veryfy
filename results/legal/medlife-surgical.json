@@ -1,0 +1,18 @@
+{
+ "name_input": "Medlife surgical",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо не удалось. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на всех запросах; Bing по запросам \"Medlife Surgical\" + GSTIN/CIN/\"Keshav Kumar\" выдавал только нерелевантные результаты (MetLife, MedLife Румыния, обанкротившийся онлайн-аптечный сервис Medlife). Реестровые агрегаторы (zaubacorp, tofler, instafinancials) и портал MCA вернули HTTP 403, gstincheck — DNS-ошибку. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты инкорпорации, ни MCA-статуса публично подтвердить не удалось — все поля null, ничего не выдумано. Входные данные противоречивы: 'legal_claimed' = 'KESHAV KUMAR' — это имя физлица, а не название юрлица, что указывает на возможную регистрацию как sole proprietorship (тогда CIN отсутствует по определению, а PAN — 4-й символ 'P' у физлица). Заявленный HS 901890 (медицинские/хирургические инструменты) не соответствует заявленной отрасли 'IT и электроника' — по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический. Отклонение не применяется: отсутствие подтверждения существования юрлица не равно доказанному отсутствию юрлица. Требуется повторная проверка при доступном поиске либо запрос у поставщика GSTIN-сертификата и PAN-карты."
+}

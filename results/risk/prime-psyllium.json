@@ -1,0 +1,9 @@
+{
+ "name_input": "PRIME PSYLLIUM",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — tooling failure, not a clean result. The DuckDuckGo search backend returned 'Connection refused' on every call; Google and DuckDuckGo HTML endpoints returned 403/redirect walls; Bing returned identical unrelated cached results (Amazon Prime / Edmunds car forums) for every distinct query, i.e. the query was not actually executed. The OFAC Sanctions List Search page was reachable but is a JavaScript form whose lookup results cannot be retrieved via plain GET, so no name was actually screened. Consequently NO field could be verified: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = not screened, Indian court cases (party role/status) = not searched, regulator actions and negative news = not searched, credit rating = not searched, evidence of supplies to Russia/CIS = not searched. All values are null because nothing is public to me here — they are NOT evidence of absence. Do not treat this record as cleared. Additional caveat: 'PRIME PSYLLIUM' as supplied is a trade/brand-style name with no legal suffix (Pvt Ltd / LLP / Partnership), no CIN, no PAN and no state, so even with working search the entity would be ambiguous — multiple Indian psyllium-husk traders in Gujarat/Rajasthan use similar brand names, and a name-only match would risk attributing another firm's sanctions, litigation or ratings to this supplier. Recommended next step: re-run this company once the search backend is restored, and obtain the legal entity name plus CIN/GSTIN from the requester first. Per project rules, nothing here justifies rejection — no adverse finding exists, only an absence of verification."
+}
