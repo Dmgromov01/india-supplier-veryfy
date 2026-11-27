@@ -1,0 +1,9 @@
+{
+ "name_input": "R P LOCKS COMPANY",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no data obtained, all fields null by necessity, not by absence of risk. Tooling failure: the web_search backend returned 'searx: Connection refused' on all 3 attempts; DuckDuckGo HTML timed out; Google returned HTTP 429; Bing ignored the quoted phrase and returned only generic 'R' results (r-project.org, roblox.com, reddit.com) for all 3 query variants, i.e. no usable hits. The OFAC Sanctions List Search page was reachable but is a JavaScript form and cannot be queried over plain HTTP, so no SDN/Non-SDN name check was actually performed. Consequently NOTHING is verified: sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) = not checked; Indian court cases (party role/status) = not checked; regulator actions and negative news with dates = not checked; credit rating with date/status = not checked; evidence of supplies to Russia/CIS = not checked. The name 'R P LOCKS COMPANY' is a generic trade-style name with no legal suffix (no Pvt Ltd/LLP), no PAN and no state supplied, which makes disambiguation against court and sanctions records unreliable even with working search — a CIN/PAN or registered address is needed before a meaningful check. Per project rules this is NOT a rejection and NOT a clearance: the company must be re-queued for risk review once search is restored. Do not treat the nulls as 'clean'."
+}

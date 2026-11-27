@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SSK EXPORTS LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed on this batch: web_search returned 'Connection refused' (searx backend down) on both attempts; DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned only generic 'SSK' results (baseball/firearms/knitting) with the query terms effectively ignored, so no Indian entity surfaced; zaubacorp.com, thecompanycheck.com and mca.gov.in all returned HTTP 403; instafinancials.com and quickcompany.in returned 404; search.mca.gov.in did not resolve. Consequently the exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all unverified and left null - none of these were invented. The claimed name 'SSK EXPORTS LTD' with the 'LTD' suffix suggests a public limited company, but this is an inference from the input string only, not a registry finding, and no CIN was located to confirm it. No audited accounts or official filings were found, so revenue FY25 and FY26 are null. Role set to 'unknown' because no MCA business-activity classification or GST-based trading/manufacturing evidence was obtained. Per project rules the company is NOT rejected: rejection requires positive proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found - the absence of results here is a tooling failure, not evidence of non-existence. Recommended next step: re-run this company in a batch with working search, checking MCA master data by name and the GST public search for the exact GSTIN, before any verdict is assigned. Note also that the declared HS codes 090230/090240 (black tea, packaged and bulk) are consistent with a tea exporter, but HS alignment is not a rejection ground under the current rules and was not assessed here."
+}

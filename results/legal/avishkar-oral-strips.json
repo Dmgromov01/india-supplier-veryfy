@@ -1,0 +1,18 @@
+{
+ "name_input": "avishkar oral strips",
+ "legal_name": "AAVISHKAR ORAL STRIPS PRIVATE LIMITED (as claimed in input; unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could NOT be completed: no data retrieved. Tooling failures during this run: web_search returned 'searx: Connection refused' on all queries; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; instafinancials.com returned 404 for the guessed slug; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only unrelated results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null because they are not public to me in this session - NOT because they were checked and found absent. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' (no evidence of manufacturing vs trading). Note on input data quality: the claimed industry 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with the declared HS 300490 (medicaments, retail packs) and with the company name (oral strips = pharma dosage form); per rule 3 this is not a rejection ground - if the entity is confirmed, the HS code should be corrected to the actual pharma code and the industry field fixed. Also note the name spelling discrepancy: input name 'avishkar' vs claimed legal name 'AAVISHKAR' - needs confirmation against MCA. Recommended next step: re-run with working search, or verify manually on mca.gov.in MCA Master Data and the GST portal (search by legal name / state) before any decision."
+}

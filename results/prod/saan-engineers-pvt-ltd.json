@@ -1,0 +1,18 @@
+{
+ "name_input": "SAAN ENGINEERS PVT LTD",
+ "declared_hs": "731449",
+ "actual_hs_list": [
+  "847982",
+  "847989",
+  "841939",
+  "842230",
+  "847920",
+  "841990",
+  "842119",
+  "847410"
+ ],
+ "match_status": "wrong",
+ "product_summary": "По сайту saanengineers.com (главная, /products/, /process-equipment-portfolio/, /about-us/): производитель технологического оборудования для фармацевтики, химии и смежных отраслей. Реальные позиции каталога: интегрированная линия грануляции; просеивающие машины (Vibro Sifter, Rotary Sifter); грануляторы высокого сдвига (High Shear Granulator, Interchangeable Bowl Granulator); оборудование на псевдоожиженном слое (Fluid Bed Dryer, Processor, Coater, Unipro); мельницы (Cone Mill, Turbo Sifter Cum Mill, Rotary Mill, De-lumper, Universal Mill, Multi Mill); смесители (Vee, Octagonal, Bin, Double Cone, Polygonal Blender, Ribbon Blender, Conical Screw Mixer, Tumble Blender); системы покрытия таблеток (Tablet Coating); WIP/CIP-мойки (Centralized Cleaning Station, Automated Bin Washing System); вспомогательные ёмкости (Starch Preparation Vessel, Solution Manufacturing Vessel); системы обработки API (Rotocone Vacuum Dryer RCVD, Rotary Vacuum Paddle Dryer RVPD); системы материалов-хендлинга (Lifting & Positioning Devices, Lifting & Tilting Devices, Inverted Lifter, Vacuum/Powder Transfer System); системы производства мазей и кремов; изоляторы (Isolator, PSM Lab). Производственная площадка: Plot No. R-841, TTC Industrial Area, MIDC, Rabale, Navi Mumbai 400701, 35 000 sq.ft., основана в 1984 г. (P. S. Madhavan).",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 7314 49 (ткань, решётки, сетки и ограждения из чёрных металлов; прочие) полностью не соответствует фактическому ассортименту — это несоответствие HS, а не основание для отклонения (правило 3): компания сохраняется в базе, код исправляется на фактический. Отраслевая мис-классификация: заявлено «Строительство и DIY», фактически — фармацевтическое/химическое машиностроение (pharma process equipment). Возможная причина ошибки: путаница с одноимёнными «saan»-структурами (saan.nl — строительная логистика) либо с поставщиками металлосеток. Корректные коды HS-6 по каталогу: 8479 82 (смесители/мешалки — блендеры, грануляторы), 8479 89 (прочие машины с индивидуальными функциями — просеиватели, мельницы, WIP/CIP, изоляторы, системы трансфера порошка), 8419 39 (сушилки — Fluid Bed Dryer, RCVD, RVPD), 8419 90 (части сушильного/теплового оборудования), 8422 30 (оборудование для мойки/сушки/наполнения — Bin Washing, WIP/CIP при отнесении к мойке тары), 8479 20 (оборудование для обработки жиров/масел — системы мазей и кремов, при подтверждении), 8421 19 (центрифуги/фильтровальные устройства — при наличии), 8474 10 (сортировка/просеивание — альтернатива для Vibro/Rotary Sifter). Признаки трейдера не выявлены: сайт описывает собственное производство (35 000 sq.ft. в Rabale MIDC, 10 000+ инсталляций, R&D, ISO/GMP/CE), что указывает на manufacturer. ВАЖНО: фактичность отгрузок по данному блоку не проверялась (вне роли) — все позиции каталога имеют статус «заявлено, не подтверждено» таможенной линией; ни одна товарная позиция не подтверждена записью об экспорте или внутренней поставке. Ссылки на конкретные записи отгрузок отсутствуют в открытом доступе на сайте (только маркетинговые утверждения «10 000+ installations in 20 countries» и отзывы Lupin/Wockhardt — это заявления, не факты отгрузки)."
+}

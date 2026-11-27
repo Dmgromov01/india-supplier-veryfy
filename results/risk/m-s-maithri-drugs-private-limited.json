@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S MAITHRI DRUGS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable findings, all fields null. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on every web_search call; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned an identical generic result set (maithridrugs.com homepage, unrelated 'Maithri' entities) for every query, including targeted queries for sanctions, USFDA warning letter/483/recall, court cases and Russia/CIS exports — i.e. no query-specific results were actually retrieved. Only primary source read: company website maithridrugs.com (Hyderabad/Telangana API manufacturer, address Dwaraka Signature, Jaihind Enclave, Madhapur, Telangana 500081; claims US FDA-audited facility and sales in '35 markets'). That is a self-declaration and is NOT evidence of sanctions status, litigation, regulator action, credit rating or Russia/CIS supply. No OFAC SDN, UN, EU, UK or BIS Entity List screening could be executed, so sanctions_hit is null (unknown), NOT a confirmed negative. No Indian court records (eCourts/NCLT/HC) could be queried; no credit rating (CRISIL/ICRA/CARE/India Ratings) could be checked; no negative-news search could be completed; no customs or B-L evidence of supplies to Russia or the CIS was found or excluded. Per project rules this company must NOT be rejected on this basis — the gap is a data-availability gap, not an adverse finding. Recommend re-running the risk pass when search access is restored, with direct checks of OFAC SDN/EU/UK/BIS lists, eCourts and NCLT by legal name, and rating-agency sites."
+}

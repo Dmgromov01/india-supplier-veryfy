@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S SSK EXPORTS LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; Bing http_get returned the same cached, query-independent result set (SSK Baseball, SSK Firearms, SSK Military Industries, SSK Cargo Inc) for three different queries, i.e. no real search was performed; DuckDuckGo timed out; Tofler search endpoint returned HTTP 404. Consequently nothing could be checked against OFAC SDN, UN, EU, UK or BIS lists, no Indian court records (e-courts/NCLT/HC) were retrieved, no regulator actions or negative news were found, no credit rating was located, and no evidence of supplies to Russia/CIS was examined. All fields are null because they are unverified, NOT because they were checked and found clean - absence of a hit here must not be read as a clean bill of health. Also note the entity name itself is unconfirmed: 'SSK Exports Ltd' could not be matched to any Indian corporate record in the sources reachable, and the only 'SSK' entities surfaced were unrelated US/Chinese firms. Recommend re-running this company once search access is restored, and confirming the exact registered legal name (the 'M/S' prefix suggests a trade/proprietorship-style name rather than a limited company, which would affect where court and rating data can be found). Per project rules, no rejection is proposed: nothing here is a rejection ground, and the company stays in the database pending verification."
+}

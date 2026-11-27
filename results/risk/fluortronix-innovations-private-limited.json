@@ -1,0 +1,9 @@
+{
+ "name_input": "FLUORTRONIX INNOVATIONS PRIVATE LIMITED",
+ "sanctions_hit": false,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: no match in OpenSanctions consolidated dataset (OFAC SDN, UN, EU, UK, BIS and other lists aggregated), searched 2026-11-27 via https://www.opensanctions.org/search/?q=Fluortronix — result page states 'No matching entities were found'. This is a name-level screen only; no PAN/CIN was supplied, so a homonym-safe confirmation against the primary OFAC/UN/EU/UK/BIS lists was not possible. Court cases: Indian Kanoon full-text search for 'Fluortronix' returned 'No matching results' (https://indiankanoon.org/search/?formInput=Fluortronix) — this covers published judgments/orders only, NOT pending matters in district courts, NCLT or consumer fora, so court_cases is recorded as null (not public / not verifiable) rather than 'none'. Rating: no credit rating found; the company does not appear in public CRISIL/ICRA/CARE/India Ratings/Brickwork press releases or rating rationales located in this session — null, not public. News risk: no negative news, regulator action (RBI/SEBI/MCA/ED/DRI) or enforcement item found; however the general web search backend was unavailable (DuckDuckGo/searx connection refused) and Bing returned only irrelevant results, so absence of negative news is NOT a clean bill of health — treat as unverified. RF/CIS supply: no evidence found of supplies to Russia or CIS; no trade, customs or B-L record located — null, not public. IMPORTANT CAVEAT: the company name could not be independently corroborated in any accessible source (MCA/ZaubaCorp blocked with 403, MCA host unresolvable), so all findings above are negative-result screens against a name that itself is unconfirmed. Recommend re-running with CIN/PAN and a working search backend before relying on this. Per project rules, no rejection is proposed on any of these grounds."
+}

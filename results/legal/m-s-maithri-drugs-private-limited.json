@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S MAITHRI DRUGS PRIVATE LIMITED",
+ "legal_name": "Maithri Drugs Private Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Telangana (per company website: corporate office Madhapur, Hyderabad 500081; manufacturing units at Bonthapally and Gummadidala, Sangareddy district, Telangana)",
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT confirmed. CIN, PAN, GSTIN, incorporation date, MCA status and revenue could not be verified: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned 404 for the guessed slug, Google returned 429, DuckDuckGo/searx backend was down, and Bing returned only the company's own site (maithridrugs.com) with no registry snippet. No CIN/PAN/GSTIN is invented here — all left null. What IS confirmed from a primary source: the company's own contact page (https://maithridrugs.com/contact-us/) names the entity 'Maithri Drugs Private Limited' with a corporate office at Dwaraka Signature, Plot 14D/1, Jaihind Enclave, Madhapur, Hyderabad 500081, and two manufacturing units in Sangareddy district, Telangana — so the entity appears to exist and operates API/pharma manufacturing (role=manufacturer, self-declared). Declared HS codes 293339/293359/293399/294190 (heterocyclic compounds, antibiotics) are consistent with an API manufacturer, but HS consistency is not a rejection ground per project rules. No revenue figures found in audited accounts or official filings, so FY25/FY26 revenue = null (not estimated). No rejection applied: no evidence of strike-off, liquidation or bankruptcy; absence of registry access is not grounds for rejection. Recommended follow-up: re-run MCA/GSTIN lookup when zaubacorp/tofler/companycheck are reachable, or query MCA master data directly by name."
+}
