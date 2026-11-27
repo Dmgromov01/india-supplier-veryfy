@@ -1,0 +1,9 @@
+{
+ "name_input": "CAIR EUROMATIC AUTOMATION PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по техническим причинам: все каналы получения данных отказали в ходе сессии. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; http_get к реестрам (zaubacorp.com, thecompanycheck.com) — HTTP 403; indiamart.com — HTTP 429; duckduckgo.com/html — timeout; сайт cairindia.com — соединение закрыто без ответа. Ни один источник не был прочитан, поэтому по всем полям (санкции OFAC SDN/UN/EU/UK/BIS Entity List, индийские судебные дела с ролью и статусом стороны, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой и статусом, признаки поставок в РФ/СНГ) данные отсутствуют — null, а не отрицательный результат. ВАЖНО: null здесь означает 'не проверено', а не 'чисто'. Компания НЕ отклоняется по этим основаниям (правило 2: санкции, суды и уголовные дела владельцев не являются основанием для отклонения). Требуется повторный прогон при доступном поиске; приоритетные источники: OFAC SDN search, BIS Entity List, UN/UK/EU consolidated lists, eCourts/NCLT/High Court по названию компании, CRISIL/ICRA/CARE/India Ratings, GST-портал."
+}

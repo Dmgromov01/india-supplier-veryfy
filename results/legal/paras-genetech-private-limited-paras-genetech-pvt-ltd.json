@@ -1,0 +1,18 @@
+{
+ "name_input": "PARAS GENETECH PRIVATE LIMITED; PARAS GENETECH PVT LTD",
+ "legal_name": "PARAS GENETECH PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: DuckDuckGo search backend returned 'Connection refused' (no results at all); Bing returned only irrelevant results (Pokemon 'Paras', dictionary entries) for every query variant tried, i.e. no usable SERP; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in returned 404 for the guessed slug; google.com returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null - NOT verified, not absent. No entity-existence check was possible, so no rejection is applied: per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy, and that could not be established either way. Role left as 'unknown' - the declared HS codes (100510 maize seed, 120720 - seed of other oilseeds) suggest an agri/seed business rather than the claimed 'food & FMCG' label, but this is inference only, not a verified fact. Note also that the input gives two name variants (Private Limited / Pvt Ltd) which are the same legal form; the exact MCA-registered name must be confirmed. Recommended next step: re-run against MCA master data / a GST public search (e.g. GSTIN lookup by trade name) once search access is restored."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "LEEDS LIFE SCIENCES PRIVATE LIMITED",
+ "legal_name": "LEEDS LIFE SCIENCES PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no source could be read. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both queries; Bing returned only irrelevant results about Leeds (UK) and ignored the quoted company name; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in MDS returned HTTP 403; Google returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT public/not retrieved, not invented. PAN holder type cannot be derived without a PAN. Role cannot be classified without registry/activity data, so 'unknown'. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy is not established - absence of accessible data is not evidence of non-existence. Declared HS 380891 (other insecticides/fungicides-type preparations, ch.38) is not a rejection ground in any case; HS is left as declared pending factual confirmation. Action required: re-run with working search/registry access (MCA master data by name, GST public search by legal name) before any verdict is issued."
+}
