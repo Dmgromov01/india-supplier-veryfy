@@ -1,0 +1,18 @@
+{
+ "name_input": "NATRAJ GRANITES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), and every direct registry/profile source returned errors: zaubacorp.com 403, thecompanycheck.com 404, instafinancials.com 403, falconebiz.com 403, mca.gov.in 403, google.com 429, lite.duckduckgo.com timeout. Bing returned only irrelevant results (query was mangled server-side). Consequently NO legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or MCA status could be confirmed from a public source, and no audited revenue figures were found. All fields are null because they are not public/not retrievable in this session - none of them are invented. Note on the input: 'ANSHU GOYAL' in the legal_claimed field is a person's name, not a legal entity name, and 'NATRAJ GRANITES' is a trade name that may correspond to a proprietorship, partnership, LLP or private limited company - the entity type is unconfirmed. The declared HS code 680293 (worked granite, polished/cut articles) is consistent with the trade name but is not evidence of any entity. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy - the entity status is simply unverified. Role is recorded as 'unknown' rather than manufacturer or trader because no MCA/GST record was obtained. Recommended next step: re-run with a working search backend and query the MCA master data by company name plus the GST public search by trade name and by the proprietor's name (Anshu Goyal) to pin the GSTIN and its state code."
+}

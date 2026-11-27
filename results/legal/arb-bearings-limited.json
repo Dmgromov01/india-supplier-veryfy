@@ -1,0 +1,18 @@
+{
+ "name_input": "ARB BEARINGS LIMITED",
+ "legal_name": "ARB Bearings Limited (name as claimed; could not be confirmed against an MCA record in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: web_search returned 'Connection refused' (searx backend down) on both queries; zaubacorp.com, thecompanycheck.com and arbbearings.com returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com/html timed out; bing.com returned only irrelevant results (ARB 4x4 Accessories, ARB drugs, ARB Architects Registration Board) for both the plain-name and the 'U29130MH1991PLC' queries; instafinancials.com returned only its generic landing page, not a company profile. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited FY25/FY26 revenue are all null - NOT because they are non-public, but because no source was reachable. No CIN, PAN, GSTIN or revenue figure has been guessed or inferred. IMPORTANT: the CIN fragment 'U29130MH1991PLC061234' used in my URL guesses was a constructed probe, NOT a verified identifier - it must not be treated as data. Per project rules, no rejection is recorded: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and absence of retrieved data is not grounds for rejection. Role left as 'unknown' rather than 'manufacturer' because the claimed industry (metallurgy/mining) and HS 848210/848220 (ball and tapered roller bearings) point to a bearing manufacturer, which is a mechanical-engineering/auto-components activity, not metallurgy - the industry_claimed field appears misclassified and should be corrected to bearings/auto components. HS codes themselves are plausible for bearings and are not a rejection ground in any case. ACTION REQUIRED: re-run this company when the search backend is restored, or verify manually on mca.gov.in (company search by name) and the GST taxpayer search portal."
+}

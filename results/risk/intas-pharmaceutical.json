@@ -1,0 +1,9 @@
+{
+ "name_input": "INTAS PHARMACEUTICAL",
+ "sanctions_hit": false,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: checked OpenSanctions consolidated dataset (OFAC SDN/UN/EU/UK/other lists, data current as of 2026-11-27) via https://www.opensanctions.org/search/?q=Intas+Pharmaceuticals — result: 'No matching entities were found'. No sanctions exposure identified. Court cases: NOT VERIFIED — web_search backend returned connection errors (searx: Connection refused) and Bing/DuckDuckGo HTML endpoints returned unrelated results (Microsoft/Prime Video/WorldCat), so no Indian court records (party role/status) could be retrieved. Value null, not a finding of 'no cases'. Regulator actions/negative news: NOT VERIFIED for the same tooling reason; note that Intas is a large Ahmedabad-based generics exporter (own site: 85+ countries, ~70% revenue from EU/US) and historically has had US FDA inspection issues at its Sanand/other plants, but I could not confirm any dated record today, so no claim is made. Credit rating: NOT VERIFIED — no CRISIL/ICRA/CARE page retrieved; null. Russia/CIS supply evidence: NOT VERIFIED — no customs, B-L or trade-press record retrieved; null. Per project rules, absence of verified data is recorded as null rather than inferred; sanctions/court matters would not be rejection grounds in any case."
+}
