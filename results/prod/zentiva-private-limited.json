@@ -1,0 +1,20 @@
+{
+ "name_input": "ZENTIVA PRIVATE LIMITED",
+ "declared_hs": "300449;300490",
+ "actual_hs_list": [
+  "300490",
+  "300449",
+  "294200",
+  "293499",
+  "300439",
+  "300410",
+  "300420",
+  "300432",
+  "300450",
+  "300460"
+ ],
+ "match_status": "partial",
+ "product_summary": "Zentiva India (Ankleshwar, Gujarat; est. 1987, acquired by Zentiva in 2020) is a manufacturing + R&D site of the Zentiva Group (parent Zentiva Group, a.s., Prague; owned by GTCR since April 2026). Per zentiva.in/about/manufacturing-sites the site specialises in oral solid dosage forms (tablets/capsules), APIs and intermediates: 49 formulations, 325 SKUs, 33 export markets, 110M packaging units and 10bn galenic units annual bulk capacity, 633 t/yr chemical manufacturing capacity; GMP approvals USFDA, EDQM, FDCA Gujarat, CDSCO (India WHO GMP). Group portfolio (zentiva.in/products) = INN and branded generics, Rx + OTC, food supplements, value-added medicines across cardiology, urology, oncology, neurology, hormone treatments; group sites also make injectable solutions, eye drops, sterile ointments, hormones. B2B lines (zentiva.in/partnering): APIs, contract manufacturing, contract development, out-licensing, distribution. No itemised SKU list with HS codes is published on the site.",
+ "role_hint": "manufacturer (own GMP plant in Ankleshwar; also contract manufacturer for third parties) — no trader signs found",
+ "comment": "Declared 300449 + 300490 are plausible and corroborated at product-family level: 300490 (other medicaments, retail pack) covers the oral solid dosage formulations, 300449 covers other medicaments containing alkaloids/derivatives in dosage form. Match = partial, because the declared list omits the site's second core business: APIs and intermediates, which are NOT Chapter 30 — they fall in 2942.00 (other organic compounds: alkaloids, hormones, glycosides, etc.) and 2934.99 / 2933.xx (heterocyclic compounds, intermediates). Also missing: 3004 subheadings for hormone-containing medicaments (300432, 300439), penicillins/antibiotics (300410, 300420), and 300450/300460 if vitamin/provitamin or specific alkaloid preparations are shipped. Note: the declared industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a misclassification — this is a pharma company (Chapter 30 + Chapter 29 API chemistry); the 'chemicals' half is only partly right via the API/intermediate line. No customs line was available to me in this task, so all product mapping is from the company's own website and is therefore 'заявлено, не подтверждено' at shipment level; the 33 export markets and 49 formulations figures are company statements, not verified customs records. Per project rule 3 the HS mismatch is not a rejection ground — company retained, code list to be corrected/expanded to include 2942.00 and 2934.99 for the API/intermediate line."
+}

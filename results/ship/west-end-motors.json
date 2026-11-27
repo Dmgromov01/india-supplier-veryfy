@@ -1,0 +1,8 @@
+{
+ "name_input": "WEST END MOTORS",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'west-end-motors' returned only the generic template: \"Shipments available for WEST END MOTORS, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were rendered. Second slug 'west-end-motors-pvt-ltd' returned the identical empty template. Source counter: 2 ImportKey pages opened, 0 shipment records actually seen. volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; DuckDuckGo search backend returned 'Connection refused' / timeout, so no second source could be checked.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search tool was non-functional (searx connection refused) and the direct DuckDuckGo HTML endpoint timed out. No domestic supply record was seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что отгрузок не было: означает, что публичных записей получить не удалось. Все проверенные источники либо отдали пустой шаблон без строк (ImportKey, 2 слага, 0 записей), либо заблокировали доступ (volza/eximpedia/trademo — 403), либо были недоступны (поиск). Заявленный HS 870899 (части и принадлежности моторных транспортных средств) не подтверждён и не опровергнут — фактический код установить не удалось, поэтому HS не корректировался. Юрлицо, CIN, PAN, выручка, объём экспорта — null, публично не установлено. Рекомендуется повторная проверка при восстановлении доступа к таможенным базам; вердикт по правилу 5 — 'заявлено, не подтверждено' с нулевой доказательной базой."
+}

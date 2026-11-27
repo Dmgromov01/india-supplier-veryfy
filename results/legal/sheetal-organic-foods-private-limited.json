@@ -1,0 +1,18 @@
+{
+ "name_input": "SHEETAL ORGANIC FOODS PRIVATE LIMITED",
+ "legal_name": "SHEETAL ORGANIC FOODS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. All search tooling failed during this run: web_search returned 'Connection refused' (searx backend down); DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned unrelated results (query not honoured, results about Zillow/Instagram); zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; tofler.in search returned 404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they do not exist, but because they were not publicly retrievable with the available tools. No revenue figures found in audited accounts or official filings, so FY25 and FY26 revenue are null (not estimated). IMPORTANT DISCREPANCY: the input 'name' is SHEETAL ORGANIC FOODS PRIVATE LIMITED while 'legal_claimed' is SHREE ANKIT ENTERPRISE — these are two different legal names (a private limited company vs. a proprietorship/enterprise-style trade name). This must be resolved by the requester before verification: it is unclear which entity is the actual supplier. No rejection is applied, since non-existence/struck-off/liquidation/bankruptcy could not be established either way. Role left as 'unknown' pending registry confirmation. Declared HS codes (120242 groundnuts, 120740 sesame seeds, 200811 groundnut preparations) are consistent with an agro/food processor-trader profile but this is not evidence of legal status. Recommend re-run when search backend is restored, or manual MCA master-data lookup by CIN."
+}
