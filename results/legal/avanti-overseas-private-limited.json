@@ -1,0 +1,18 @@
+{
+ "name_input": "Avanti Overseas Private Limited",
+ "legal_name": "AVANTI OVERSEAS PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (searx) was unreachable for the whole session ('Connection refused'), and every direct attempt to read public registry aggregators returned HTTP 403/404 or timed out: zaubacorp.com (403), thecompanycheck.com (403), tofler.in (404 for the guessed slug), instafinancials.com (404), falconebiz.com (403), mca.gov.in MDS portal (403). Bing/Google result pages returned only irrelevant 'Avanti' hits (Studebaker Avanti, Avanti West Coast, Avanti Products) and no Indian company record, so no CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be confirmed. Nothing is asserted or invented: all registry fields are null. Per project rules the company is NOT rejected - non-existence, strike-off, liquidation or bankruptcy is not established; the entity simply remains unverified. Note also that the claimed industry ('Нефтегаз и химия' - oil & gas and chemicals) is inconsistent with the declared HS codes (392690 plastics articles, 420292 travel bags/containers, 732392 and 732620 iron/steel articles), which points to a trading profile in plastic/metal houseware rather than oil & gas; role therefore set to 'unknown' pending verification. Recommended next step: re-run with a working search backend or MCA/GST portal access, and confirm the exact legal name (there are multiple 'Avanti' entities in India, e.g. in Mumbai and Delhi NCR) before any further assessment."
+}

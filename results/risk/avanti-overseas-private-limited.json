@@ -1,0 +1,9 @@
+{
+ "name_input": "Avanti Overseas Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена: поисковый бэкенд (DuckDuckGo/searx) был недоступен на момент проверки (connection refused / timeout), Bing по запросу «Avanti Overseas Private Limited» выдал только нерелевантные результаты (Studebaker Avanti, Avanti West Coast и т.п.) — точных совпадений по индийскому юрлицу не найдено. Агрегаторы (zaubacorp.com, thecompanycheck.com) вернули HTTP 403. OFAC Sanctions List Search открылся, но это только интерфейс без выполнения запроса — фактического скрининга по имени не проведено, поэтому sanctions_hit = null (не «чисто», а «не проверено»). Судебные дела (eCourts, NCLT, High Court), действия регуляторов (SEBI/RBI/DGFT), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверены — публичных данных в рамках доступных источников получить не удалось. Все поля оставлены null; выдумывать значения недопустимо. Требуется повторный прогон при работающем поиске и доступ к реестру MCA/eCourts. Отклонение по данному отчёту не обосновано — оснований для rejected нет, статус проверки: незавершена."
+}

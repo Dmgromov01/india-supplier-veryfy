@@ -1,0 +1,18 @@
+{
+ "name_input": "SUZUKI MOTORCYCLE INDIA PRIVATE LIMITED; INTEGRA OVERSEAS PVT LTD; SUZUKI MOTORCYCLE INDIA PVT. LTD.; SUZUKI MOTORCYCLE INDIA PRIVATE LIMITED; SUZUKI MOTORCYCLE INDIA PRIVATE LIMITED; SUZUKI MOTORCYCLE INDIA PRIVATE LIMITED; SUZUKI MOTORCYCLE INDIA PRIVATE LIMITED",
+ "legal_name": "Suzuki Motorcycle India Private Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: web_search backend was down (connection refused) and all registry/mirror pages attempted (zaubacorp, thecompanycheck, instafinancials, tofler, quickcompany, indiafilings) returned 403/404 or generic search-engine noise; Bing/Google returned only generic Suzuki global pages. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are left null rather than guessed. Entity is widely known as the Indian two-wheeler manufacturing subsidiary of Suzuki Motor Corporation (Gurugram, Haryana), but this is NOT confirmed by an official filing in this session, so state_registered is null and no state was claimed in the input. Role assessed as manufacturer (own plant, Gurugram) - also unverified against MCA NIC code here. Revenue FY25/FY26: no audited accounts or MCA filing retrieved, so null; note that the Indian entity's financials are consolidated into Suzuki Motor Corporation's annual report, which was not accessible in this run. No rejection grounds found (no evidence of non-existence/strike-off/liquidation), so the company is retained pending registry re-check. Input declared HS 848240 (ball/roller bearings) and industry 'metallurgy & mining' - both inconsistent with a two-wheeler OEM; per project rules HS mismatch is not a rejection ground, only a correction flag. Also note the input row mixes a second entity, INTEGRA OVERSEAS PVT LTD, which was not researched in this batch and must be verified separately."
+}
