@@ -1,0 +1,18 @@
+{
+ "name_input": "Nirmal Pumps & Equipmentsa",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна: ни одно публичное подтверждение не получено. Все поисковые каналы были недоступны в ходе проверки (DuckDuckGo/searx — connection refused/timeout; Google — HTTP 429; Bing — выдал нерелевантную заглушку без результатов по запросу; zaubacorp.com и mca.gov.in — HTTP 403; thecompanycheck — 404). Поэтому точное юрлицо, CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 не установлены — везде null, ничего не выдумано. Дополнительная сложность: входные данные противоречивы — в поле name указано 'Nirmal Pumps & Equipmentsa' (вероятно опечатка/обрезанный суффикс), а в legal_claimed — 'NIRMALA PUMPS'; это могут быть два разных лица либо одно и то же с искажением написания, различить без реестра нельзя. Штат в заявке не указан, сверять не с чем. Роль определить нельзя: по названию ('Pumps & Equipments') вероятен производитель или производитель-трейдер насосного оборудования, но это догадка, а не факт — поэтому role=unknown. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3). Требуется повторная проверка при доступном реестре MCA / GST-портале с уточнённым написанием названия и штатом."
+}

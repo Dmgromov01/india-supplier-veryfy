@@ -1,0 +1,9 @@
+{
+ "name_input": "PANACEA EXIM",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "РИСК-ПРОВЕРКА НЕ ВЫПОЛНЕНА — нет данных. Технические причины: (1) web_search (DuckDuckGo/searx) недоступен — 'Connection refused' на всех запросах; (2) zaubacorp.com вернул HTTP 403; (3) tofler.in — 404 по предполагаемому слагу (юрлицо с таким названием по этому URL не найдено, но это НЕ доказательство отсутствия компании); (4) Google — HTTP 429; (5) Bing по запросам '\"Panacea Exim\" Private Limited', '\"Panacea Exim\" IndiaMART/exportersindia/grapes' выдал только нерелевантные результаты про слово 'panacea' (словари, Panacea Financial, Panacea Products) — ни одного индийского юрлица с таким названием в выдаче не обнаружено; (6) sanctionssearch.ofac.treas.gov загрузился, но это JS-форма без возможности выполнить запрос через http_get — фактическая сверка по SDN/Non-SDN не проведена. По всем полям ставлю null: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены; судебные дела в индийских реестрах (eCourts, NCLT, High Court) не проверены; кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) не найден и не проверен; негативные новости и действия регуляторов не проверены; признаков поставок в РФ/СНГ не искалось ввиду недоступности поиска. Отсутствие находок НЕ равно отсутствию рисков. Требуется повторный прогон при доступном поиске и доступ к платным реестрам (Tofler/Zauba по CIN, eCourts, OFAC SLS через API). Отклонение по правилу 3 не предлагается: факт несуществования/ликвидации юрлица не установлен."
+}

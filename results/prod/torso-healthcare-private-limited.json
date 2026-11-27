@@ -1,0 +1,20 @@
+{
+ "name_input": "TORSO HEALTHCARE PRIVATE LIMITED",
+ "declared_hs": "210690",
+ "actual_hs_list": [
+  "3004.90",
+  "3002.14",
+  "3003.90",
+  "3004.20",
+  "3004.10",
+  "2106.90",
+  "3004.50",
+  "3004.39",
+  "3004.32",
+  "3004.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт torsohealthcare.com (Baddi, Himachal Pradesh; адрес SCO 251, Motia Plaza, Baddi 173205) — контрактный/third-party фармпроизводитель и PCD-франшиза, каталог 97 SKU. Реальные позиции из каталога: Amoxyclav 375/625 таблетки (амоксициллин+клавуланат), Cefuroxime Axetil + Potassium Clavulanate таблетки, Cefepime, Cefepime+Tazobactam, Cefoperazone, Ceftazidime+Tazobactam, Colistimethate Sodium for Injection 1 MIU, Biapenem 300 mg, Caspofungin Acetate 50 mg, Anidulafungin 100 mg, Azacitidine 100 mg, Bendamustine 100 mg, Bortezomib 2 mg, Brivaracetam 50 mg — всё инъекции/таблетки, т.е. готовые лекарственные средства (ГЛС). Раздел Nutrition содержит только 2 позиции: Nutritive Infusion (аминокислоты + сорбитол, инъекция/инфузия) и Nuts Booster Weight Gainer Powder, Kesar Badam flavour (пищевой порошок-гейнер). Заявлены также сиропы, капсулы, softgel, мази, капли глазные, ливэр-тоники, herbal/nutraceuticals, косметика.",
+ "role_hint": "manufacturer_trader (third-party/contract manufacturer + PCD-франшиза, т.е. продажа готовых продуктов под чужой торговой маркой; признаки трейдера/посредника в PCD-модели)",
+ "comment": "HS 210690 (пищевые продукты прочее) подтверждается только частично: единственная позиция, реально попадающая в 2106.90, — Nuts Booster Weight Gainer Powder (порошок пищевой, 2106.90). Всё остальное — фармацевтика: антибиотики и цефалоспорины 3004.20, противоопухолевые (Azacitidine, Bendamustine, Bortezomib) 3004.90, противогрибковые (Caspofungin, Anidulafungin) 3004.39, Brivaracetam 3004.32, Colistimethate/Biapenem 3004.10, Nutritive Infusion с аминокислотами 3004.90 (или 3002.14, если это плазма/кровезаменитель). Итог: match_status = partial — код 210690 не отклоняет компанию, но он покрывает лишь малую долю ассортимента; фактический профиль — ГЛС, основной код должен быть 3004.90/3004.20, а 2106.90 оставить только для гейнера/нутрицевтиков. Отраслевая мис-классификация: заявлено «Продукты питания и FMCG», фактически — фармпроизводство (Baddi pharma cluster), FMCG-профиль не подтверждён. Признаки трейдера: PCD-франшиза и third-party manufacturing — компания продаёт готовые чужие/контрактные продукты, а не только собственное производство; часть заявленных «своих manufacturing units» по адресам в Baddi не проверялась. Все позиции — заявлено на сайте, не подтверждено: ни одна строка не подтверждена таможенной записью (в рамках этой роли таможенные данные не исследовались). Продуктовые линии, отсутствующие в декларации: антибиотики, онкология, противогрибковые, критические инфузии, сиропы, мази, капли, herbal, косметика. Юрлицо/выручка/экспорт не проверялись — вне роли."
+}

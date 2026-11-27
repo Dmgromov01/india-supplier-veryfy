@@ -1,0 +1,8 @@
+{
+ "name_input": "SADHU ROLLS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/sadhu-rolls and .../sadhu-rolls-1 both returned only the page shell: 'Shipments available for SADHU ROLLS, refreshed daily' — 0 shipment rows rendered, no date, destination, HS code or B/L number visible. volza.com/p/sadhu-rolls, eximpedia.app and trademo.com all returned HTTP 403 Forbidden. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend (DuckDuckGo/searx) returned 'Connection refused' on all queries, so no domestic-supply source could be located or read.",
+ "note": "Evidence could not be gathered: the search tool was down for the whole session (searx connection refused) and every trade-data source was either a JS shell with zero rows (importkey, 2 slug variants tried) or HTTP 403 (volza, eximpedia, trademo). Therefore export_status and domestic_status are 'unknown', NOT 'none_found' — absence of evidence here is a tooling failure, not proof that shipments do not exist. No shipment, date, destination, HS code, B/L number, GST band or revenue figure is asserted; all such fields are null. Declared HS 392020 (polypropylene/plastic film) is plausible for a 'Rolls' film converter but is unverified. Legal name 'MEETGIRI JAYESHGIRI GOSWAMI' and industry 'oil & gas / chemicals' could not be corroborated. Per project rules this company is not rejected — no evidence of non-existence, liquidation or bankruptcy was found; it needs a re-run when search and trade-data access are restored."
+}

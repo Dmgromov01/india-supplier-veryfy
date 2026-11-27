@@ -1,0 +1,9 @@
+{
+ "name_input": "COMPONENT MASTERS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on all attempts; DuckDuckGo HTML/lite endpoints timed out; Google returned HTTP 429; Bing returned identical generic dictionary results for every query variant, i.e. it did not execute the search terms and yielded no company-specific hits. Consequently nothing could be verified on any of the five required risk dimensions: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = null (not checked, not 'clear'); Indian court cases with party role and status = null (not checked); regulator actions and negative news with dates = null (not checked); credit rating with date and status = null (not checked); evidence of supplies to Russia or the CIS = null (not checked). No source URLs can be cited because no relevant page was retrieved. Per project rules, null is used rather than invented data, and no adverse inference is drawn from the absence of results — this is a research gap, not a negative finding. Note also that the input record carries no PAN, no state and no registered legal-form suffix, so even a registry lookup could not be disambiguated from the name 'COMPONENT MASTERS' alone; multiple unrelated Indian entities plausibly share this trading name. ACTION REQUIRED: re-run this company once search connectivity is restored, ideally with a PAN, CIN or registered address to disambiguate. No rejection is proposed and none is warranted on the available (nil) evidence."
+}

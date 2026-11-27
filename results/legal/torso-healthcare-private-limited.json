@@ -1,0 +1,18 @@
+{
+ "name_input": "TORSO HEALTHCARE PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, не отклонять. Реестровые данные получить не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, затем Bing отдавал нерелевантную выдачу (запросы игнорировались, результаты про анатомию 'torso' и NFL), Google — HTTP 429. Прямые запросы к реестрам и агрегаторам заблокированы: mca.gov.in — 403, zaubacorp.com — 403, thecompanycheck.com — 403, tofler.in — 404 на поиске, instafinancials.com — 404. Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка FY25/FY26 остаются null — не выдумывать. ВАЖНО: заявленное в input 'AKASH DEEP' в поле legal_claimed — это имя физлица, а не наименование юрлица; наименование юрлица в заявке 'TORSO HEALTHCARE PRIVATE LIMITED' не подтверждено ни одним реестровым источником. Штат в заявке не указан (state_claimed пусто), сверять не с чем. Роль определить невозможно — null/unknown. Оснований для rejected НЕТ: отсутствие подтверждения существования юрлица из-за недоступности источников не равно доказанному отсутствию юрлица (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/агрегаторам (Zauba/Tofler/IndiaFilings) или при предоставлении поставщиком CIN/GSTIN/PAN."
+}

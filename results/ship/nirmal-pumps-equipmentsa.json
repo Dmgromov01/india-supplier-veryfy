@@ -1,0 +1,8 @@
+{
+ "name_input": "Nirmal Pumps & Equipmentsa",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey pages for three slug variants (nirmal-pumps-equipmentsa, nirmala-pumps, nirmal-pumps-and-equipments) all render the empty template: 'Shipments available for NIRMAL PUMPS EQUIPMENTSA, refreshed daily' with no shipment rows, no dates, no destinations, no HS codes and no bill-of-lading numbers. Source counter: 3 pages fetched, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Volza, Eximpedia and Trademo free views returned HTTP 403 Forbidden; the web search backend was down ('searx: <urlopen error [Errno 111] Connection refused>'), so no domestic-supply record was located.",
+ "note": "Следов поставок не найдено: ни экспортных отгрузок (0 записей на 3 страницах ImportKey), ни подтверждённых внутренних поставок. Внутренний статус оставлен unknown, а не none_found, только потому, что поисковый бэкенд был недоступен и вторичные источники (Volza/Eximpedia/Trademo) отдали 403 — проверить внутренний рынок не удалось, а не потому, что найдены опровержения. Заявленное имя 'NIRMALA PUMPS' и HS 391729 (трубы/фитинги из пластмасс) расходятся с названием 'Pumps & Equipments' — вероятно, HS указан неверно; по правилу 3 это не основание для отклонения, код подлежит исправлению на фактический. Выручка и объём экспорта: null (не публичны, не выдумывались). Юрлицо (CIN/PAN) не подтверждено — реестры вне области проверки."
+}

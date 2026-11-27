@@ -1,0 +1,9 @@
+{
+ "name_input": "Essen Electromech",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: поисковый бэкенд (searx) недоступен (Connection refused), DuckDuckGo — таймаут, Google — HTTP 429. Bing по запросам \"Essen Electromech\" (в т.ч. с India/Ahmedabad/Mumbai/Pune, site:indiamart.com/zaubacorp.com/tofler.in и с привязкой к HS 392049) выдал только нерелевантные результаты (ресторан Essen в Нью-Йорке, город Эссен, медицина, погодные карты) — ни одного упоминания индийской компании с таким названием не найдено. Следовательно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены — null, а не \"чисто\"; судебные дела (eCourts, NCLT, High Court) не проверены — null; рейтинги (CRISIL/ICRA/CARE/India Ratings) не проверены — null; негативные новости не проверены — null; поставки в РФ/СНГ не проверены — null. Никаких данных не выдумываю. Требуется повторный прогон при доступном поиске; при отсутствии подтверждения существования юрлица вопрос о ликвидации/несуществовании (единственное основание для rejected по правилу 3) остаётся открытым и НЕ может быть закрыт на основании этих данных."
+}

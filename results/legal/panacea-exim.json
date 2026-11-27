@@ -1,0 +1,18 @@
+{
+ "name_input": "PANACEA EXIM",
+ "legal_name": "PANACEA EXIM PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; Google returned HTTP 429 and DuckDuckGo timed out. Bing returned only generic dictionary/foreign 'Panacea' results and ignored the quoted company name, so no MCA/CIN, PAN, GSTIN, incorporation date or state of registration could be confirmed from a public source. No audited accounts or official filings were located, therefore revenue FY25/FY26 are null (not estimated). Role cannot be determined without registry data (no NIC/activity code, no GST HSN filing evidence) - set to unknown. Per project rules the company is NOT rejected: absence of verifiable data is not evidence of non-existence, and the claimed HS 080610 (grapes, fresh/dried) is not a rejection ground. Recommended next step: manual lookup on mca.gov.in / GST portal by exact legal name, or obtain the GSTIN/CIN from the supplier directly, then re-run verification."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Neutech",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена — данных недостаточно. Входные данные содержат только бренд-строку 'NEUTECH' без указания организационно-правовой формы, города, штата, PAN или GSTIN; 'Neutech' — распространённое имя бренда, и без доп. реквизитов однозначно сопоставить его с конкретной индийской компанией невозможно. Попытки проверки: web_search вернул ошибку бэкенда (connection refused); DuckDuckGo/Google — таймаут и HTTP 429; Bing отдавал нерелевантную выдачу (запросы искажались, результаты не по теме); zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, thecompanycheck.com — HTTP 404, tofler.in — HTTP 404. Ни одной записи реестра (MCA/CIN, GST-профиль, PAN) получить не удалось. Все поля оставлены null — цифры, CIN, PAN и GSTIN не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица по неполному названию не равно доказательству его несуществования (правило 3). Роль — unknown. Требуется уточнение от заказчика: полное юридическое название, город/штат, PAN или GSTIN, либо ссылка на профиль IndiaMART/сайт — после этого проверку можно завершить. Выручка FY25/FY26 — null: аудиторская отчётность не найдена и не могла быть найдена без идентификации юрлица."
+}
