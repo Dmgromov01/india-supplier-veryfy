@@ -1,0 +1,18 @@
+{
+ "name_input": "Samvardhana Motherson",
+ "legal_name": "SAMVARDHANA MOTHERSON AUTO SYSTEM PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this run. Tooling failure: DuckDuckGo/searx backend refused connections ('Connection refused'), html.duckduckgo.com timed out, Google returned HTTP 429, and Bing returned completely irrelevant results (ESPN, NASA, LinkedIn) for every query, so no usable search results were obtained. Direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 Forbidden. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT confirmed absent. No revenue figures from audited accounts or official filings were obtained, so revenue FY25 and FY26 are null. Role is 'unknown' because the manufacturer/trader distinction could not be established from registry documents. IMPORTANT: no rejection is implied — the entity was not found to be struck off, liquidated or bankrupt; verification is simply incomplete and must be re-run. Note also that the input's declared HS 870899 (motor-vehicle parts) is consistent with the Motherson group's automotive-parts business, but per project rules HS mismatch is not a rejection ground in any case. The claimed industry 'Авиастроение и транспорт' (aviation/transport) is unverified. Recommend re-running with working search access and checking MCA master data plus the GST public taxpayer search for the exact legal name."
+}
