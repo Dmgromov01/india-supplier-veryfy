@@ -1,0 +1,18 @@
+{
+ "name_input": "NuHydro",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентифицировать юрлицо не удалось. Входные данные противоречивы: 'name' = NuHydro (не похоже на зарегистрированное индийское юрлицо — нет формы Pvt Ltd/LLP), 'legal_claimed' = 'ASHA GULATI' (это имя физлица, вероятно директора/проприетора, а не название компании), PAN и штат не указаны, HS 843290 (части машин для пищевой промышленности) не соответствует заявленной отрасли 'Продукты питания и FMCG'. Поиск: DuckDuckGo-бэкенд недоступен (connection refused), Google вернул 429, zaubacorp.com и thecompanycheck.com — 403, mca.gov.in — 403. Через Bing по запросам 'NuHydro', 'Nu Hydro private limited CIN', 'Asha Gulati director company India', 'Gulati Nu Hydro' релевантных индийских юрлиц не найдено (только нерелевантные результаты: Due South, ASHA, PlanHub, Amazon). Следовательно: CIN/LLPIN, PAN, GSTIN, дата инкорпорации, MCA-статус, выручка FY25/FY26 — null, публично не подтверждено. НЕ отклоняю: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется от поставщика: точное название юрлица, CIN/GSTIN, PAN, штат регистрации — для повторной проверки в MCA/GST-портале. Роль: unknown (нет данных ни о производстве, ни о торговле). Следов поставок не проверял — вне рамок роли (registry only)."
+}

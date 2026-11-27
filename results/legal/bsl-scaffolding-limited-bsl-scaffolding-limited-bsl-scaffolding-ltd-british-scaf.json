@@ -1,0 +1,18 @@
+{
+ "name_input": "BSL SCAFFOLDING LIMITED; BSL SCAFFOLDING LIMITED; BSL SCAFFOLDING LTD; BRITISH SCAFFOLDING (INDIA) LTD.; BSL SCAFFOLDING LIMITED; M/S BSL SCAFFOLDING LTD; M/S BSL SCAFFOLDING LIMITED",
+ "legal_name": "BSL SCAFFOLDING LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; bslscaffolding.com returned a bot-verification interstitial; Bing returned only irrelevant results (Minecraft 'BSL Shaders', British Sign Language, AHA BLS) for every query variant tried, i.e. no usable index hits for the Indian entity. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue are all null - NOT because they are non-public, but because they were not retrieved. No number, CIN, PAN or GSTIN has been guessed or reconstructed. Role left as 'unknown': the input lists several mutually inconsistent name variants (BSL SCAFFOLDING LIMITED / LTD / BRITISH SCAFFOLDING (INDIA) LTD. / M/S ...), which may be one entity, a renamed entity, or several distinct legal persons - this must be resolved against the MCA master data before any role (manufacturer vs trader) or HS-code judgement is made. Per project rules, no rejection is proposed: there is no evidence of non-existence, strike-off, liquidation or bankruptcy, and absence of retrieved data is not grounds for rejection. Recommended next step: re-run with working search, or query MCA/company master data and the GST public search directly by exact legal name and by the 'BRITISH SCAFFOLDING (INDIA)' variant."
+}

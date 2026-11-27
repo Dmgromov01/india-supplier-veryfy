@@ -1,0 +1,18 @@
+{
+ "name_input": "MATIGO EXIM",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один публичный источник не подтвердил существование юрлица с названием 'MATIGO EXIM'. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused'; Bing по запросу \"MATIGO EXIM\" выдал нерелевантную выдачу (GEA/GE Appliances), по запросу \"Matigo Exim\" GST/proprietor — тоже мусор (NBA); Google — HTTP 429; zaubacorp.com и instafinancials.com — HTTP 403; tofler.in — 404. Входные данные противоречивы: 'legal_claimed' = 'MATHIVENTHAN K' — это формат имени физлица (вероятно, проприетор / sole proprietor), а не название компании, поэтому CIN/LLPIN и MCA-статус для такой формы в принципе отсутствуют (для proprietorship их не существует). PAN, GSTIN, дата регистрации, штат регистрации, выручка FY25/FY26 — null: публично не подтверждено, выдумывать не стал. Роль: unknown (по названию 'EXIM' можно предположить трейдера, но это не подтверждено). ВЕРДИКТ: НЕ отклонять — правило 3 требует отклонения только при доказанном отсутствии/ликвидации/банкротстве юрлица, а у нас нет доказательств ни существования, ни отсутствия; статус — 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или запрос у поставщика PAN/GSTIN/IE-кода. HS 200110 (огурцы/корнишоны консервированные) не проверялся по существу — по правилу 3 несоответствие HS не является основанием для отклонения."
+}
