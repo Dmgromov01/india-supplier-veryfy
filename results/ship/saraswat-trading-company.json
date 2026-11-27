@@ -1,0 +1,8 @@
+{
+ "name_input": "Saraswat Trading Company",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/saraswat-trading-company and .../saraswat-trading-co both returned only the generic paywalled shell: \"Shipments available for SARASWAT TRADING COMPANY, refreshed daily\" — no bill-of-lading row, no date, no destination, no HS code was rendered. Rows actually seen: 0. Counter: 0 of 0 visible records.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search tooling was unavailable (DuckDuckGo backend refused connection; Bing returned unrelated results) and volza/eximpedia/trademo returned HTTP 403. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, статус по обоим пунктам остаётся unknown, а не none_found, поскольку источники были недоступны, а не пусты. Заявление о роли трейдера и HS 251320 (абразивы/природные камни) ничем не подтверждено — статус 'заявлено, не подтверждено'. Выручка: null (не публична, не выдумывалась). Объём экспорта: null. Юрлицо не проверялось по MCA — вне области задачи; оснований для rejected нет. Требуется повторный прогон при доступных volza/eximpedia/importkey с оплаченным доступом либо по GSTIN."
+}

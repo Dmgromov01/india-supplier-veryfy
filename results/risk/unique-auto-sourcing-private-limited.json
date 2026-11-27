@@ -1,0 +1,9 @@
+{
+ "name_input": "UNIQUE AUTO SOURCING PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (searx) недоступен — все web_search вернули 'Connection refused'; прямые запросы к реестрам и агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403; tofler.in — 404 по сконструированному URL) не дали данных. Bing/Google через http_get отдают нерелевантную выдачу (словарные статьи 'unique'), т.е. точного совпадения по названию не подтверждено. OFAC Sanctions List Search открыт (SDN обновлён 23.11.2026), но форма не позволяет выполнить запрос через http_get — совпадений не проверено, поэтому sanctions_hit=null, а не 'нет'. Судебные дела (eCourts/NJDG), рейтинги (CRISIL/ICRA/CARE), регуляторные действия (SEBI/RBI/DGFT) и любые следы поставок в РФ/СНГ не проверены. Все поля null — данных нет, ничего не выдумано. Требуется повторный прогон при доступном поиске; на основании имеющихся данных компания НЕ отклоняется (нет подтверждения ликвидации/банкротства)."
+}

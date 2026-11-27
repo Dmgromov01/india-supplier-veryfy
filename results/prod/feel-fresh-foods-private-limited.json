@@ -1,0 +1,19 @@
+{
+ "name_input": "FEEL FRESH FOODS PRIVATE LIMITED",
+ "declared_hs": "071040;080610;080620;100630",
+ "actual_hs_list": [
+  "080450 (guava, fresh/dried — raw material only, not the sold product)",
+  "08045020 / 080450 (guava puree/pulp — processed, falls under 2007/2009)",
+  "200799 (jams, fruit purees, fruit pulps obtained by cooking — mango/guava/papaya puree & concentrate)",
+  "20079910 (mango pulp/puree, aseptically packed/canned)",
+  "200989 (fruit juices/concentrates, other — mango concentrate, papaya concentrate)",
+  "200290 (tomato paste/concentrate, 28 Brix)",
+  "200190 / 200599 (chilli paste, tamarind paste — preserved vegetable/fruit preparations)",
+  "080390 (banana — raw material, processed to pulp)",
+  "200799 / 200899 (banana pulp)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Per the company's own website (feelfreshfoods.com, homepage, read 2026): Feel Fresh Foods Pvt Ltd (F3), incorporated 2021, ISO 22000:2018 / ISO-TS 22002-1:2009 / FSSC 22000 certified agro-processing plant near Chittoor / Bangaru Palyam / Madanapalli (AP), commercial production started 20 May 2022. Plant capacity 350 t/day fruit intake = 180 MT puree/pulp, or 100 MT mango concentrate, or 40 MT tomato paste at 28 Brix. Declared product lines: Alphonso mango puree, Totapuri mango puree/concentrate, pink guava puree, white guava puree, red papaya puree/concentrate, banana pulp, tomato paste/concentrate, and (stated as a later foray) chilli paste and tamarind paste. Packaging: aseptic and canned, bulk B2B. This is a fruit/vegetable PROCESSOR of pulps, purees, concentrates and pastes — not a trader of fresh produce.",
+ "role_hint": "manufacturer",
+ "comment": "HS mismatch — company retained, codes corrected (per project rule 3: HS mismatch never rejects). The declared codes 071040 (sweet corn, frozen), 080610 (grapes, fresh), 080620 (grapes, dried/raisins) and 100630 (semi-milled/wholly milled rice) do NOT correspond to anything the company actually makes. The website lists no sweet corn, no grapes and no rice at all — not as product, not as raw material. The declared set looks like a generic fresh-produce/agri-trader basket, i.e. an industry misclassification: the company is a processed fruit/vegetable ingredient manufacturer (bulk purees, concentrates, pastes), which sits in HS Chapter 20, not Chapter 7/8/10. Correct mapping: mango/guava/papaya/banana puree, pulp and concentrate -> 2007 99 (mango pulp specifically 2007 99 10); fruit concentrates/juices -> 2009 89; tomato paste 28 Brix -> 2002 90; chilli paste and tamarind paste -> 2001 90 / 2005 99 (exact subheading depends on preservation method and Brix, not stated on site). Fresh mango/guava/papaya/banana appear only as inbound raw material sourced from farmers and mandis, so 0804 50 etc. would be an input code, not an export code. Trader signs: none found — the site describes own plant, own processing hall (15,000 sq ft), own aseptic/canning lines and own QC hierarchy, which is a manufacturer profile; no indication of third-party sourcing for resale. Product lines missing from the declaration: the entire Chapter 20 range (purees, pulps, concentrates, tomato paste, chilli/tamarind paste) — i.e. 100% of the actual revenue products are absent from the declared HS set. All product claims here are from the company website only and are marked 'заявлено, не подтверждено' — no customs line, B/L or shipping bill was checked in this task (out of scope), so no shipment-level corroboration exists for any code. Note also that the site gives no HS codes, no export destinations and no buyer references, so the exact 8-digit subheadings above are inferred from product description and must be confirmed against the actual shipping documents. Revenue, export volume, PAN, CIN and state were not researched per task scope — null."
+}
