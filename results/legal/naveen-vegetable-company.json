@@ -1,0 +1,18 @@
+{
+ "name_input": "NAVEEN VEGETABLE COMPANY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com returned HTTP 403; google.com returned HTTP 429; duckduckgo.com/html timed out; bing.com returned only generic, irrelevant results (Disney 'Prince Naveen', Wikipedia, Nuveen asset manager) for every exact-phrase query tried, i.e. no indexed page for 'NAVEEN VEGETABLE COMPANY' or 'Sarla Devi Nathrani' was surfaced. Therefore: no CIN/LLPIN, no PAN, no GSTIN, no GST status, no incorporation date, no registered-office state and no MCA status could be confirmed from a public source. The input itself is internally inconsistent: the 'legal_claimed' field contains a person's name (SARLA DEVI NATHRANI), which suggests a sole proprietorship / individual trader rather than a company, so a CIN would not exist even in principle; a proprietorship would only be traceable via GSTIN/Udyam, neither of which is public in the input. State claimed is empty, so no state mismatch can be assessed. Role left as 'unknown' - the name and the individual proprietor suggest a trader of fresh vegetables (declared HS 080610, grapes), but this is inference from the name only, not verified. Revenue FY25/FY26: null - no audited accounts or official filings located; a proprietorship would not file MCA accounts anyway. Per project rules this is NOT a rejection: the entity has not been shown to be non-existent, struck off, liquidated or bankrupt - it is simply unverified. Recommend re-running with a working search backend and, if available, the GSTIN from the supplier's invoice, which is the only reliable key for a proprietorship. HS 080610 (fresh grapes) is plausible for a vegetable/fruit trader and is not treated as a discrepancy."
+}

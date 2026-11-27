@@ -1,0 +1,18 @@
+{
+ "name_input": "RAINBOW PLASTIC INDIA LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Search backend (DuckDuckGo/searx) was unreachable ('Connection refused'), Bing returned only irrelevant generic 'rainbow' results for all quoted queries, Google returned HTTP 429, and registry aggregators blocked access (zaubacorp.com 403, thecompanycheck.com 403, instafinancials 404, tofler search 404, mca.gov.in 403). Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified from a public source; all such fields are null rather than guessed. Note the name discrepancy in the input: 'RAINBOW PLASTIC INDIA LIMITED' (input) vs 'RAINBOW PLASTICS INDIA LIMITED' (legal_claimed) - the exact registered spelling is unconfirmed, so legal_name is left null. No rejection applied: non-existence/strike-off/liquidation/bankruptcy could not be established either way, so the entity is kept in the database pending a re-check when registry access is restored. Role cannot be determined without the MCA/registry record (declared HS 390791/392020/392062 are polymer/plastic-film goods, consistent with a plastics converter, but that is an inference, not a verified role). Revenue FY25/FY26: not public in any source reached - null, not estimated."
+}

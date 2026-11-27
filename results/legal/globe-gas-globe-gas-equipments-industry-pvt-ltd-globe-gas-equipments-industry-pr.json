@@ -1,0 +1,18 @@
+{
+ "name_input": "GLOBE GAS; GLOBE GAS EQUIPMENTS INDUSTRY PVT LTD; GLOBE GAS EQUIPMENTS INDUSTRY PRIVATE LTD; GLOBE GAS EQUIPMENTS INDUSTRY PRIVATE LIMITED",
+ "legal_name": "GLOBE GAS EQUIPMENTS INDUSTRY PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned HTTP 429; Bing ignored the quoted phrase and returned only generic 'globe' results (globle-game.com, Google Earth, Wikipedia) with no company hits; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search endpoint returned 404 and the direct company-slug URL returned 404; falconebiz.com company-slug page returned only a generic search shell with no company record. Consequently CIN/LLPIN, PAN (and therefore the 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they were checked and found absent, but because no public profile was reachable. Revenue FY25/FY26 are null: no audited accounts or official filings were accessible, and no figures are estimated or inferred. Role is 'unknown' - the legal name contains 'PRIVATE LIMITED' and the trade name suggests gas equipment manufacturing, but no MCA business-activity/nic code was retrieved, so manufacturer vs trader cannot be determined. Per project rules, this company is NOT rejected: rejection requires positive evidence of non-existence, strike-off, liquidation or bankruptcy, and no such evidence was found - the entity simply remains unverified. Declared HS 731100 (iron/steel containers for compressed or liquefied gas) is plausible for a gas-equipment firm but was not assessed here (out of scope for this role). Recommended next step: re-run with working search, or query MCA master data / GST portal directly by legal name to obtain CIN and GSTIN before any verdict."
+}
