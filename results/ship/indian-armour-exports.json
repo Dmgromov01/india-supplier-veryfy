@@ -1,0 +1,8 @@
+{
+ "name_input": "Indian Armour Exports",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/indian-armour-exports (and slug variant /indian-armour-export) returned only the generic template: \"Shipments available for INDIAN ARMOUR EXPORTS, refreshed daily\" — 0 actual shipment rows, 0 dates, 0 destinations, 0 HS codes, 0 B/L numbers rendered on the free page. Source counter: 2 importkey pages fetched, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. No accessible source returned any domestic supply record; search backend (DuckDuckGo/searx) was unreachable during this run, so absence of results is NOT evidence of absence.",
+ "note": "Следов поставок не найдено — но и подтверждения отсутствия нет: проверить не удалось. ImportKey отдаёт одинаковую пустую заглушку на любой slug (проверено 2 варианта), т.е. факт регистрации компании по нему не устанавливается; volza, eximpedia, trademo — 403 Forbidden; веб-поиск в этом прогоне не работал (connection refused / timeout). Ни одной таможенной или B/L записи с датой, направлением, HS и номером B/L не получено. Внутренних поставок (GST-оборот, GeM/CPPP, контракты) не найдено ни по одному источнику. Заявленный HS 621710 (одежда/аксессуары, б/у текстиль) не соответствует заявленной отрасли «Продукты питания и FMCG» — по правилу 3 это НЕ основание для отклонения, код подлежит исправлению на фактический после проверки реальных отгрузок; фактический HS не установлен (null). Выручка и объём экспорта: null (не публичны / не найдены). Рекомендация: повторить проверку при доступном поиске и платных срезах таможни; статус — unknown, не accepted."
+}

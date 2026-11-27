@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S AYUKALP UAP PHARMA PRIVATE LIMITED; AYUKALP UAP PHARMA PRIVATE LIMITED; AYUKALP UAP PHARMA PVT. LTD.; AYUKALP UAP PHARMA PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Данные не собраны: инструменты поиска были недоступны в ходе проверки. web_search возвращал ошибку бэкенда (searx: Connection refused) на всех запросах; DuckDuckGo HTML — таймаут; Bing по точной фразе \"AYUKALP UAP PHARMA\" и по варианту \"Ayukalp\" + pharmaceutical India выдал только нерелевантные результаты (IMDb, Legacy.com) — совпадений по названию компании не найдено, что НЕ является доказательством отсутствия записей. ZAUBACorp вернул HTTP 403, Tofler — 404, mca.gov.in — DNS-ошибка, Google — HTTP 429. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-форма, прямой GET-запрос не даёт результатов поиска, поэтому санкционный скрин не выполнен. Итог: ни один из требуемых пунктов (санкции OFAC SDN/UN/EU/UK/BIS, индийские судебные дела с ролью и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой, признаки поставок в РФ/СНГ) не подтверждён и не опровергнут — все поля null, а не отрицательный результат. Требуется повторная проверка при восстановлении доступа к поиску и реестрам (MCA, ZAUBACorp/Tofler, eCourts, NCLT, сайты OFAC/EU/UK/BIS). Отклонение по данному отчёту не обосновано: оснований для rejected нет, статус — не проверено."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Sudaron Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No verifiable registry record found. The input gives 'BALAKRISHNAN RAVI' as the claimed legal name, which is a personal name, not a company name — 'Sudaron Enterprises' is most likely a sole proprietorship / trading name, which would have no CIN and no MCA record (only a GSTIN and PAN). Searches for the exact string 'Sudaron Enterprises' returned no relevant hits (DuckDuckGo backend was down; Bing returned only unrelated results), and registry aggregators (ZaubaCorp, Tofler, InstaFinancials) were blocked (403/404) or unreachable. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null — not public / not retrievable in this session. No PAN was claimed in the input, so no 4th-character holder-type analysis is possible. Role cannot be established from registry data; declared HS 902750 (optical/photographic instruments) is not a basis for rejection per project rules. NOT rejected: absence of a found record is not proof of non-existence — a proprietorship would legitimately have no MCA filing. Recommended next step: obtain the GSTIN or PAN from the supplier directly and re-check on the GST portal / MCA; also confirm whether the entity is a proprietorship (then legal_name should be 'Balakrishnan Ravi, prop. Sudaron Enterprises')."
+}
