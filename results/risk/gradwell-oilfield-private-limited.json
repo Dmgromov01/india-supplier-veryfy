@@ -1,0 +1,9 @@
+{
+ "name_input": "GRADWELL OILFIELD PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of research date. Tooling was degraded: the primary web_search backend returned connection refused on all queries, and fallback engines (Bing/Google/DuckDuckGo via http_get) returned either HTTP 403/429/timeouts or completely irrelevant results (NASA pages, Houston garage sales) — i.e. no genuine match for the company name was ever surfaced. One usable check succeeded: Indian Kanoon full-text search for 'Gradwell Oilfield' returned 'No matching results' (0 hits) — https://indiankanoon.org/search/?formInput=Gradwell%20Oilfield — which is weak negative evidence only (Indian Kanoon does not index all district/NCLT/consumer fora, and a company with no litigation may simply never appear). Zaubacorp company page returned HTTP 403, so no registry-derived data could be read. CONSEQUENTLY: sanctions exposure (OFAC SDN, UN, EU, UK OFSI, BIS Entity List) = NOT VERIFIED, null — no screening list was successfully queried, this is an absence of check, not a clean result. Court cases (party role/status) = null, no case found in the one index queried, but coverage is incomplete. Regulator actions and negative news = null, no search engine returned usable results, so no dated items could be collected. Credit rating (agency, date, status) = null, not public / not found. Evidence of supplies to Russia or CIS = null, nothing found either way; no shipment, customs or B-L record was located and none is asserted. Per project rules, none of the above is a rejection ground; the company is retained. RECOMMENDATION: re-run sanctions screening (OFAC/EU/UK/BIS) and a court-record check (eCourts, NCLT) manually before any decision — the nulls here reflect tool failure, not a clean bill of health. No CIN, PAN, rating figure or case number is invented anywhere in this record."
+}
