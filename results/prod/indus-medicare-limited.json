@@ -1,0 +1,14 @@
+{
+ "name_input": "INDUS MEDICARE LIMITED",
+ "declared_hs": "401410",
+ "actual_hs_list": [
+  "401410",
+  "401490 (possible, not corroborated)",
+  "34039900 / 33049990 (personal lubricants — code not corroborated)",
+  "4819 / 3923 (packaging — code not corroborated)"
+ ],
+ "match_status": "exact",
+ "product_summary": "Website (indusmedicare.com, home + /products.html) states: manufacturer and supplier of condoms for 20+ years, '1 billion condoms across 100+ countries'; product range = condoms (multiple varieties), private-label/custom packaging, personal lubricants (water-based / aloe vera based); contract manufacturing and specialised packaging; manufacturing units described as using 'German technology'. Address given: Suryodaya, 1-10-60/3, Begumpet, Hyderabad 500 016, Telangana. No product catalogue with SKUs, no HS codes and no shipment/customs lines are published on the site.",
+ "role_hint": "manufacturer (site claims own manufacturing units and contract/private-label production; no trader signs found on the site). Claim is self-declared only — not corroborated by any customs line.",
+ "comment": "HS 401410 (sheath contraceptives / condoms) matches the declared code exactly and is the company's core, explicitly stated product — the declared code is correct and needs no correction. Industry field 'Нефтегаз и химия' (oil & gas / chemicals) is a clear misclassification: the company is a rubber/latex consumer-health (contraceptive) manufacturer, i.e. rubber products / medical-consumer goods, not petrochemicals. Secondary lines visible on the site — personal lubricants and printed/laminated packaging for private label — are not covered by the single declared code; their HS codes are not stated anywhere and are therefore 'заявлено, не подтверждено' (lubricants plausibly 3403/3304, packaging plausibly 4819/3923, but I did not verify and do not assert these). Export claim of '100+ countries' and '1 billion condoms' is marketing text on the website only — 'заявлено, не подтверждено'; no customs/B-L record was checked or found in this pass (out of scope for this role). No registry, revenue or volume data researched per role limits; PAN/CIN not public on the site — null."
+}

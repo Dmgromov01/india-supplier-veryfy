@@ -1,0 +1,20 @@
+{
+ "name_input": "TECEZE CONSULTANCY SERVICES PRIVATE LIMITED",
+ "declared_hs": "847170;852351",
+ "actual_hs_list": [
+  "8471.50",
+  "8471.30",
+  "8471.41",
+  "8471.49",
+  "8517.62",
+  "8523.51",
+  "8523.80",
+  "8473.30",
+  "8504.40",
+  "4911.99 / 8523.49 (software licences, if delivered on media)"
+ ],
+ "match_status": "partial",
+ "product_summary": "По сайту teceze.com компания позиционируется как IT-сервисный интегратор (managed IT, service desk, NOC, cybersecurity, cloud/DevOps, staffing), а не производитель. Товарная составляющая появляется только в разделе Global Procurement (https://teceze.com/global-procurement/): 'Hardware Sourcing & Procurement' — multi-OEM закупка Dell, HP, Lenovo, Apple, Cisco; 'Datacentre, network and peripheral sourcing'; 'Software Licensing & Subscriptions' (Microsoft CSP/EA, Adobe, Autodesk, VMware, Oracle, Atlassian); 'Global Logistics, Import & Export' с прямым упоминанием 'Customs clearance, HS classification, duty management', 'Importer of record and exporter of record services', 'Dangerous goods compliance for batteries and UPS'. В Managed IT Services (https://teceze.com/managed-it-services/) фигурирует блок 'Servers, Storage & Datacentre' и 'Managed Network & Connectivity' (Cisco, Meraki, Fortinet, Palo Alto, Aruba, Juniper). В AI-Powered Digital Workplace — endpoint/ноутбуки, M365, AV/smart workplace. То есть реальный товарный профиль: компьютерная техника (ноутбуки/десктопы/серверы), сетевое оборудование, периферия, UPS/батареи, ПО. Собственного производства не заявлено — признаков manufacturer нет.",
+ "role_hint": "trader",
+ "comment": "Сопоставление с заявленными кодами. 8471.70 (устройства хранения данных) — частично подтверждается: на сайте есть 'Storage, SAN & capacity' в рамках сервиса 'Servers, Storage & Datacentre', но это описание управляемого сервиса, а не товарной позиции; конкретных моделей СХД/накопителей не приведено. Статус: заявлено, не подтверждено (нет ни одной товарной строки с моделью). 8523.51 (твердотельные энергонезависимые носители, SSD/флеш) — на сайте не найдено ни одного упоминания SSD, флеш-накопителей или карт памяти; код не подтверждён ничем, кроме общего слова 'storage'. Статус: заявлено, не подтверждено. Пропущенные в декларации, но фактически заявленные на сайте товарные линии: 8471.30/8471.41/8471.49 — ноутбуки, десктопы, серверы (Dell, HP, Lenovo, Apple — 'Standard build catalogues by persona and region'); 8517.62 — сетевое оборудование (Cisco, Meraki, Fortinet, Palo Alto, Aruba, Juniper, SD-WAN/routing/switching); 8473.30 — периферия и комплектующие ('peripheral sourcing'); 8504.40 — UPS и батареи (прямо упомянуты в разделе dangerous goods); 8523.80/4911.99 — ПО и лицензии (Microsoft, Adobe, Autodesk, VMware, Oracle, Atlassian). Отраслевая классификация 'IT и электроника' формально верна, но неточна по сути: основной профиль — IT-услуги и managed services, товарная торговля вторична и ведётся как procurement/resale, а не как производство или специализированная торговля электроникой. Признаки трейдера: 'Vendor-neutral no OEM allegiance', 'Multi-OEM sourcing', 'Importer of record and exporter of record services', '45 warehouses operated', '135+ countries delivered to' — компания выступает посредником/импортёром-экспортёром, а не изготовителем. Важно: сайт сам заявляет наличие практики HS-классификации как услуги для клиентов, что делает расхождение декларации с фактическим ассортиментом тем более значимым. Согласно правилу 3, HS-несоответствие не является основанием для отклонения — компания сохраняется в базе, коды корректируются на фактический ассортимент, вердикт accepted_hs_corrected. Данные о выручке, объёме экспорта, CIN/PAN и таможенных записях в рамках этой роли не проверялись — null."
+}

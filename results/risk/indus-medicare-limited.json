@@ -1,0 +1,9 @@
+{
+ "name_input": "INDUS MEDICARE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: ни один источник не подтвердил существование компании с таким названием. Инструмент web_search (DuckDuckGo/searx) был недоступен на протяжении всей сессии (connection refused), поэтому поиск шёл через прямой fetch Bing; по запросам «Indus Medicare Limited», «Indus Medicare Ltd», «Indus Medicare» + India/company/director/export/Russia Bing возвращал только нерелевантные результаты (Indus Technology, Indus River, IndusInd Bank, Indus Travels и т.п.) — ни одного упоминания «Indus Medicare» не найдено. ZaubaCorp вернул HTTP 403, Google — HTTP 429, DuckDuckGo HTML — timeout. Следовательно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) проверить по имени не удалось — null, не «чисто»; судебные дела (eCourts, NCLT, High Court) — null; рейтинги (CRISIL/ICRA/CARE/India Ratings) — null; негативные новости — null; поставки в РФ/СНГ — null. Отсутствие данных НЕ является подтверждением отсутствия рисков. Требуется повторный запуск проверки при доступном поиске и/или уточнение у заказчика: точное юрлицо (Limited / Pvt Ltd), CIN, штат, PAN — без идентификатора проверка по имени нерелевантна. Заявленный HS 401410 (изделия из вулканизированной резины, презервативы) и отрасль «Нефтегаз и химия» противоречат друг другу — это вопрос к профилировщику, не к риск-проверке. Вердикт по риску: не определён (insufficient data), компания не отклоняется по правилу 2/3."
+}

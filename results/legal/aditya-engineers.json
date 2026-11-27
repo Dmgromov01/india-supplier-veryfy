@@ -1,0 +1,18 @@
+{
+ "name_input": "Aditya Engineers",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. Tooling failure during this run: web_search returned 'Connection refused' on all queries; zaubacorp.com, instafinancials.com and gstverify.co.in returned HTTP 403; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only generic 'Aditya' name results with no company/registry hits. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and no audited FY25/FY26 revenue was found. 'Aditya Engineers' is a very common Indian trade name (multiple proprietorships/partnerships and possibly companies across states), so the input cannot be mapped to a single legal entity without a CIN, PAN or GSTIN from the client. Per project rules, rejection is NOT applied: absence of verification is not evidence of non-existence, and no HS-based rejection is made (declared HS 842121/848180/848190 - pumps, valves, fittings - is plausible for an engineering trading/manufacturing firm but remains unverified). Role left as 'unknown' rather than guessed. ACTION REQUIRED: obtain CIN/PAN/GSTIN or the registered address from the supplier, then re-run registry verification (MCA master data, GST taxpayer profile, audited filings)."
+}

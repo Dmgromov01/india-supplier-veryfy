@@ -1,0 +1,18 @@
+{
+ "name_input": "CIPLA LIMITED",
+ "legal_name": "Cipla Limited",
+ "cin_llpin": "L24239MH1935PLC002380",
+ "pan": "Not publicly disclosed — null (PAN of a listed company is not published on MCA/GST public profiles; not verifiable from public sources)",
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1935 (exact date not confirmed from a primary registry page in this session; Screener.in company profile states 'Incorporated in 1935')",
+ "state_registered": "Maharashtra (CIN state code 'MH'; registered office Mumbai)",
+ "state_claimed": "",
+ "mca_status": "Active — listed on BSE (500087) and NSE (CIPLA); no strike-off/liquidation/winding-up indicated",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 27548,
+ "revenue_fy26_cr": 28163,
+ "revenue_source": "Screener.in consolidated annual P&L (sourced from company filings/BSE): FY25 (Mar 2025) sales ₹27,548 Cr; FY26 (Mar 2026) sales ₹28,163 Cr — https://www.screener.in/company/CIPLA/consolidated/ . Standalone: FY25 ₹19,045 Cr, FY26 ₹18,980 Cr (https://www.screener.in/company/CIPLA/). Figures are revenue from operations per filed results, not independently re-read from the audited PDF (cipla.com PDF link 404 in this session).",
+ "note": "Registry identity is unambiguous: Cipla Limited, CIN L24239MH1935PLC002380 (state code MH = Maharashtra), listed entity, active. GSTIN and PAN could not be retrieved: search backend (DuckDuckGo/searx) was down ('Connection refused') and registry aggregators (ZaubaCorp 403, Moneycontrol 410, Wikipedia 429) blocked automated access, so GSTIN/GST status/PAN are left null rather than guessed. Industry mismatch noted: input classifies the company as 'Нефтегаз и химия' with HS 2933/2937 (heterocyclic compounds, hormones) — Cipla is a pharmaceutical manufacturer (formulations + APIs), so the HS codes are plausible for its API line but the industry label is inaccurate; per project rules this is not a rejection ground, company retained. Role: manufacturer (owns 40+ manufacturing facilities per company disclosures). No rejection criteria met."
+}
