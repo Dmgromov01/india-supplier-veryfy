@@ -1,0 +1,18 @@
+{
+ "name_input": "ALKEM LABORATORIES LTD",
+ "legal_name": "Alkem Laboratories Limited",
+ "cin_llpin": "L00305MH1973PLC174201",
+ "pan": "AABCA3723F",
+ "pan_holder_type": "Company (4th character 'C' = company/firm-type holder; PAN string itself not verified from a primary document — see note)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1973-08-08",
+ "state_registered": "Maharashtra",
+ "state_claimed": "",
+ "mca_status": "Active (listed on BSE 539523 / NSE ALKEM; annual reports filed up to FY2025-26 on company website)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Screener.in consolidated quarterly data (company filings): FY26 (Apr2025-Mar2026) quarterly sales 3,371 + 4,001 + 3,737 + 3,603 = ~14,712 Cr; FY25 (Apr2024-Mar2025) 3,032 + 3,415 + 3,374 + 3,144 = ~12,965 Cr. These are derived sums of quarterly figures, not a directly read audited annual revenue line, so annual figures left null pending the Annual Report 2024-25 / 2025-26 PDFs on alkemlabs.com/investors/annual-reports (links present but PDFs not opened within tool budget).",
+ "note": "Entity exists and is active — no rejection grounds. Legal name confirmed as 'Alkem Laboratories Limited' (matches claimed). CIN format L00305MH1973PLC174201 is consistent with a Maharashtra-incorporated public limited company (1973); it was not re-verified against an MCA/registry page because search backend was down and zaubacorp/thecompanycheck returned 403. PAN AABCA3723F is the widely published PAN for this listed entity but was NOT confirmed from a primary document in this session — treat as unverified. GSTIN and GST status could not be retrieved from any public profile (GST portal/aggregators blocked), so null. Role: manufacturer — company operates 20 manufacturing facilities per its own disclosures and is a formulation manufacturer, not a trader. Industry claimed 'Нефтегаз и химия' (oil&gas/chemicals) is a misclassification: actual business is pharmaceuticals; declared HS 300490 (medicaments, retail) is consistent with the actual business, so no HS correction needed. Revenue: audited annual figures not directly extracted; see revenue_source for derived quarterly sums."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Gokul Agri Intl Ltd (Gokul Overseas)",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH FAILED - NO VERIFIABLE DATA OBTAINED. All research attempts were blocked by tooling failures, not by absence of records. (1) web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries. (2) google.com/search returned HTTP 429 Too Many Requests. (3) duckduckgo.com/html timed out. (4) Bing returned only irrelevant results (Wikipedia 'Gokul' town, Gokul Restaurant St Louis, Gokul Sweets, Gokul POS) and ignored the quoted entity name entirely, even for queries with 'sanctions', 'court case', 'Russia OR CIS export' and the domain gokulagri.com - so Bing results cannot be treated as evidence of absence. (5) zaubacorp.com returned HTTP 403 Forbidden. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = NOT VERIFIED, not 'clear'; Indian court cases (party role/status) = NOT VERIFIED; regulator actions and negative news = NOT VERIFIED; credit rating (agency/date/status) = NOT VERIFIED; evidence of supplies to Russia or CIS = NOT VERIFIED. All fields set to null per rule 4 (do not invent data). No claim is made that the company is clean - the checks simply did not run. RECOMMENDATION: re-run this company in a later batch with working search/registry access (e.g. Zauba Corp, Tofler, MCA, Indian Kanoon, OFAC SDN search, BIS Entity List, CRISIL/ICRA/CARE rating pages) before any risk conclusion is drawn. Note also that the entity name is ambiguous: 'Gokul Agri International Limited' vs the trade name 'Gokul Overseas' could not be reconciled to a single legal entity, and per role scope legal-identity research was not performed."
+}

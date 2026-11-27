@@ -1,0 +1,25 @@
+{
+ "name_input": "DIVIT ENERGY",
+ "declared_hs": "850180",
+ "actual_hs_list": [
+  "853720 - Boards/panels/consoles for electric control, for voltage > 1000 V (HT/EHV switchgear panels, AIS/GIS, RMU control)",
+  "853521 / 853529 - High-voltage circuit breakers (indoor/outdoor breaker, auto recloser)",
+  "853530 - Isolating switches and make-and-break switches (load break switch)",
+  "853590 - Other apparatus for switching/protecting electrical circuits > 1000 V (earthing material, lugs, clamps, connectors, insulators)",
+  "850421 / 850422 / 850423 - Liquid dielectric transformers (power & distribution transformers)",
+  "850431 / 850432 / 850433 / 850434 - Other transformers, incl. instrument/current & voltage transformers",
+  "853210 - Fixed capacitors designed for 50/60 Hz circuits (power factor correction, if offered)",
+  "853649 / 853641 - Relays (protection relays)",
+  "853710 - Boards/panels for electric control, for voltage <= 1000 V (LV panels, LV switchgear)",
+  "850211 / 850212 / 850213 - Generating sets with compression-ignition engines, output <= 75 / 75-375 / > 375 kVA (DG sets)",
+  "850440 - Static converters (UPS, drives/inverters)",
+  "850431 or 8504.90 - EV chargers (static converter based) / parts",
+  "854442 / 854449 - Insulated electric conductors, for voltage <= 1000 V / > 1000 V (cables & accessories)",
+  "850152 / 850153 - AC multi-phase motors, output > 750 W to 75 kW / > 75 kW (low voltage motors)",
+  "853540 - Lightning arresters, voltage limiters and surge suppressors (earthing/overvoltage protection)"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Website divitenergy.com (fetched) lists: Ring Main Unit (RMU), Compact Substations (CSS), Power & Distribution Transformers, Air Insulated Switchgear (AIS), Gas Insulated Switchgear (GIS), Indoor Circuit Breaker, Outdoor Breaker, Auto Recloser, Load Break Switch, Relays, Contactors, Electrical Line/Substation items, Low Voltage Motors, Drives, UPS, EV Charger, Cables & Accessories, Diesel Generator (DG) Sets, Earthing & Earthing Material, Distribution Line items, Lugs/Clamps/Connectors, Insulators, plus commissioning/maintenance/design-engineering services. Self-described as an 'Engineering company' doing procurement, engineering, installation, servicing and consultation of electrical products, 'expertise since 1972'. Offices: Thane West (Mumbai) and Vadodara, Gujarat. No product sub-pages resolve (all tested URLs return HTTP 404), so no model numbers, ratings or datasheets could be verified.",
+ "role_hint": "trader",
+ "comment": "HS 850180 is WRONG and appears to be a mis-keyed code. 8501.80 ('Photovoltaic DC generators' / PV generators) does not exist as a distinct HS-6 line in the standard nomenclature used for these goods and, more importantly, nothing on the company's site indicates photovoltaic generation equipment. The declared code is also inconsistent with the claimed industry 'Энергетика' only in the sense that the company is an electrical-equipment EPC/procurement house, not a generator manufacturer. Correct mapping is the switchgear/transformer cluster: 8537.20 (HT/EHV control panels), 8535.21/8535.29 (HV breakers), 8535.30 (LBS), 8535.90 (earthing/lugs/insulators), 8504.21-8504.23 (power/distribution transformers), 8536.49 (relays), 8537.10 (LV panels), 8502.11-8502.13 (DG sets), 8504.40 (UPS/drives/EV chargers), 8544.42/8544.49 (cables), 8501.52/8501.53 (LV motors). Per project rule 3 the company is NOT rejected on the HS mismatch - it is retained with the code corrected. Industry misclassification note: 'Энергетика' is too coarse; the actual line is electrical switchgear / substation equipment trading and turnkey EPC. Trader signs: the site explicitly frames the business as 'procurement, engineering, installment, servicing and consultation' and shows an 'Our Authorized Partner' block, i.e. it resells third-party brands rather than manufacturing - consistent with role_hint 'trader', though no brand names could be read because the partner block rendered without text. Product lines entirely missing from the declaration: transformers, DG sets, cables, LV motors, drives, UPS, EV chargers, insulators, earthing material, relays, contactors, and the whole services/EPC component. Evidence status: all product lines are 'заявлено, не подтверждено' - they come solely from the company's own homepage; no customs line, invoice, GST turnover or public-procurement record was checked in this HS-only pass, and no shipment or supply record is asserted here. Search tooling was unavailable (DuckDuckGo/Searx returned connection refused; Bing returned an identical cached result set for every query), so no third-party catalogue (IndiaMART, ExportersIndia) could be cross-read; that is a research gap, not a negative finding. Revenue, export volume, CIN/PAN and registration data were deliberately not researched per role scope - all null."
+}

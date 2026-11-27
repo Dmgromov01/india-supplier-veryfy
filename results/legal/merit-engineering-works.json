@@ -1,0 +1,18 @@
+{
+ "name_input": "MERIT ENGINEERING WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) недоступен — соединение отклонено; Bing возвращал нерелевантную выдачу (бренды MERIT, словарные статьи) на все запросы, включая точные запросы в кавычках по названию и по имени 'Lallubhai Bhanjibhai Harsora'. Реестровые источники недоступны: zaubacorp.com — HTTP 403, masterindia.com — HTTP 401, gstinsearch.in — DNS failure, google.com — HTTP 429. Ни одного подтверждённого реестрового документа (CIN, PAN, GSTIN, дата регистрации, MCA-статус) получить не удалось, поэтому все поля оставлены null — данные не выдумывались. ВАЖНО по типу субъекта: заявленное 'LALLUBHAI BHANJIBHAI HARSORA' — это имя физлица, а не название компании; 'MERIT ENGINEERING WORKS' с высокой вероятностью является sole proprietorship / неформальным торговым наименованием, у которого по определению нет CIN и нет MCA-регистрации (только GSTIN и, возможно, Udyam). Отклонять НЕ следует: отсутствие CIN у проприетарного предприятия не означает, что юрлица не существует — оснований для rejected (ликвидация/банкротство/несуществование) нет, статус просто не подтверждён. Роль 'unknown' — вероятнее всего manufacturer (engineering works, HS 731511 — роликовые цепи), но без подтверждения не присваивается. Требуется повторный прогон при восстановлении поиска и доступе к GST-профилю (например, через gst.gov.in 'Search Taxpayer' по имени или через платный реестр)."
+}

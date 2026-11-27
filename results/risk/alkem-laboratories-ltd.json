@@ -1,0 +1,9 @@
+{
+ "name_input": "ALKEM LABORATORIES LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - search backend unavailable during this run (DuckDuckGo/searx refused connection; Bing returned unrelated results; CRISIL rating-list URL 404). No sanctions, court, rating, news or Russia/CIS-supply finding could be verified, so all fields are null rather than guessed. What WAS confirmed from primary source: alkemlabs.com is live and identifies the entity as 'ALKEM LABORATORIES LIMITED', BSE scrip 3213, NSE 3214 (share-price widget on https://www.alkemlabs.com/investors/credit-rating) - i.e. a listed Indian pharma company, not a petrochemical trader as the claimed industry 'Нефтегаз и химия' suggests; industry mismatch noted for the HS/identity team, not a risk verdict. The company site has a dedicated 'Credit Rating' investor page (https://www.alkemlabs.com/investors/credit-rating) but the rating content is JS-rendered and did not load as text, so no rating agency, rating level or date could be captured. Company's own 'International Presence' lists US, Australia, Europe, UK, Germany, Latin America (Chile, Colombia), Emerging Markets incl. Kazakhstan, Philippines, UAE, East/West Africa, South Africa - Kazakhstan is a CIS market per the company's own site, but this is a corporate self-declaration of market presence, NOT evidence of shipments to Russia or CIS; no customs/B-L record found, so rf_supply stays null. Per project rules, absence of verified adverse data is not a clean bill of health: recommend re-running sanctions (OFAC SDN/UN/EU/UK/BIS), Indian court (eCourts/NCLT) and credit-rating checks when search is restored. No rejection grounds identified or implied."
+}

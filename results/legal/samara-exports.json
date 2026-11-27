@@ -1,0 +1,18 @@
+{
+ "name_input": "SAMARA EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input itself is internally inconsistent: trade name 'SAMARA EXPORTS' vs claimed legal entity 'GANPATI EXPORTS' — no evidence found that these are the same entity, and no CIN/LLPIN, PAN or GSTIN was supplied to anchor the lookup. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused'; zaubacorp.com and instafinancials.com returned HTTP 403; Google returned HTTP 429; Bing returned only irrelevant generic results (Samsara, Samara city/fruit, Gatlinburg cabins) for both 'Samara Exports' and 'Ganpati Exports' queries. No public MCA/GST profile page was reachable, therefore legal name, CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. Per project rules the entity is NOT rejected (rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained). Role left as 'unknown' — no registry record to classify manufacturer vs trader. Revenue FY25/FY26 null: no audited accounts or official filings located. Additional flag for the analyst: declared HS codes 610342/610442/610831/610910 are knitted cotton apparel (HS Chapter 61), which does not match the claimed industry 'Продукты питания и FMCG' (food/FMCG) — per rule 3 this is not a rejection ground, but the actual HS/product line needs correction and the industry claim should be treated as unverified. Recommended next step: obtain the GSTIN or PAN from the supplier directly, then re-run against the GST portal and MCA master data."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "R.P. OVERSEAS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. All web_search calls failed (search backend returned 'Connection refused' on every attempt). Fallback attempts also failed: Google returned HTTP 429, DuckDuckGo HTML and lite endpoints timed out, an alternative engine timed out, and Bing returned only generic unrelated results (the quoted name was not honoured, results were about the R programming language), so no page about 'R.P. Overseas' was ever retrieved. The OFAC Sanctions List Search page loaded but is a JavaScript form that returns no results via plain GET, so no name screening was actually performed. Therefore: sanctions exposure = NOT SCREENED (null, not 'clear'); Indian court cases = NOT CHECKED (null); regulator actions / negative news = NOT CHECKED (null); credit rating = NOT CHECKED (null); evidence of supplies to Russia/CIS = NOT CHECKED (null). Nothing here should be read as a negative finding - it is an absence of research, not an absence of risk. Additional caveat: the name 'R.P. Overseas' is a very common Indian trading-name pattern (multiple unrelated entities likely share it), and no CIN/PAN/state was supplied, so even with working search the entity could not be uniquely identified. Recommend re-running this company once search access is restored, ideally with CIN or PAN and registered state to disambiguate. Per project rules, no rejection is proposed: there are no grounds (no evidence of non-existence, liquidation or bankruptcy) and sanctions/court matters would not be rejection grounds in any case."
+}
