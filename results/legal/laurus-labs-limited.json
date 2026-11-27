@@ -1,0 +1,18 @@
+{
+ "name_input": "LAURUS LABS LIMITED",
+ "legal_name": "Laurus Labs Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": 6813,
+ "revenue_source": "Company official website (lauruslabs.com) press note dated 30 Apr 2026: 'Laurus Labs Announces Full Year FY26 Results — Revenues at ₹6,813 Cr; EBITDA at ₹1,826 Cr, 26.8% margins'. FY25 figure not retrievable in this session (investor-relations pages returned 404, search backend unavailable) — left null rather than estimated.",
+ "note": "Entity existence confirmed via the company's own official website (lauruslabs.com), which is live and lists NSE/BSE listings (NSE ~₹400, BSE ~₹399.7) and SEBI LODR filings — so the legal entity exists and is listed/active; no basis for rejection. Role: manufacturer — the site describes integrated API/finished-dosage manufacturing and CDMO services, i.e. a producer, not a trader. IMPORTANT LIMITS OF THIS CHECK: the search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused') and registry aggregators (zaubacorp) returned HTTP 403, so CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status could NOT be verified from a public registry source and are therefore null — they are NOT to be treated as absent in reality, only as unverified in this session. Registered-office state is widely known to be Telangana (Hyderabad), but since I could not read it from an official filing in this session I have not asserted it; state_claimed in the input was empty, so no state mismatch can be assessed. HS codes declared (293090; 293329; 293339; 293359) are organic-chemical/pharma API codes and are consistent with the company's actual API business — no HS correction needed. Industry claimed as 'Нефтегаз и химия' (oil & gas and chemicals) is only partly right: the company is pharmaceuticals/API, i.e. specialty chemicals-adjacent, not oil & gas. Per project rules, no rejection on HS or industry grounds. Recommended follow-up: re-run registry lookup for CIN/PAN/GSTIN and FY25 audited revenue when network access is restored."
+}

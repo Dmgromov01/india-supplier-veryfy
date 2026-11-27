@@ -1,0 +1,18 @@
+{
+ "name_input": "STYRAX PHARMA PVT LIMITED",
+ "legal_name": "STYRAX PHARMA PRIVATE LIMITED (as claimed; not verified in any public registry record)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (searx) was unreachable ('Connection refused') for all queries, and direct fetches of registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the slug; tofler.in search returned a 404 page; mca.gov.in returned HTTP 403; Google returned HTTP 429; DuckDuckGo timed out. Bing returned only irrelevant botanical results for 'Styrax' (the genus Styrax / storax resin) and no Indian company record, which is a weak negative signal but NOT proof of non-existence. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, not invented. No audited accounts or official filings were found, so revenue FY25 and FY26 are null. Role is 'unknown': the declared HS 293499 (heterocyclic compounds - nucleic acids/salts) and the claimed industry 'oil & gas and chemicals' are inconsistent with the 'PHARMA' name, and no MCA principal-business-activity code could be read to classify manufacturer vs trader. Per project rules the company is NOT rejected: absence of a retrievable registry record is a data gap, not evidence of non-existence, strike-off, liquidation or bankruptcy. Recommended next step: manual MCA master-data lookup by name and by state, plus GST portal 'Search Taxpayer' check, before any verdict. No shipment, court or catalogue research was performed per role scope."
+}

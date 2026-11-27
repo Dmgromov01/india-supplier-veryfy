@@ -1,0 +1,18 @@
+{
+ "name_input": "SITARA JEWELLERY PVT. LTD",
+ "legal_name": "SITARA JEWELLERY PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failure: DuckDuckGo/Searx search backend returned 'Connection refused' on both queries; Bing returned only unrelated results (Facebook, healthcare.gov, Disc Replay) for all three query variants; direct fetches of zaubacorp.com and thecompanycheck.com returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials.com returned 404. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT verified, not absent. No rejection applied: non-existence/strike-off/bankruptcy could not be established either way, and per project rules rejection requires positive proof of non-existence. Note the input's own inconsistency: declared HS 711319 (jewellery of precious metal) contradicts industry_claimed 'Продукты питания и FMCG' (food/FMCG) — per rule 3 this is not a rejection ground; the HS code should be corrected to the actual activity once verified. Role left 'unknown' pending registry/activity confirmation. Recommended next step: re-run against MCA master data / GST public search when search tooling is restored."
+}

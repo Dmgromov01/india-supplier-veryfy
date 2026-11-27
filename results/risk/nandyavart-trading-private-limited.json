@@ -1,0 +1,9 @@
+{
+ "name_input": "NANDYAVART TRADING PRIVATE LIMITED",
+ "sanctions_hit": false,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-27. Sanctions: no match. Checked OpenSanctions consolidated dataset (aggregates OFAC SDN/Non-SDN, UN, EU, UK OFSI, BIS and other lists; data current as of 2026-11-27) for 'Nandyavart' and 'NANDYAVART TRADING' — 'No matching entities were found' (https://www.opensanctions.org/search/?q=Nandyavart). OFAC Sanctions List Search page (https://sanctionssearch.ofac.treas.gov/) was reachable but is a JS form that returned no query results to a plain fetch, so the OFAC/UN/EU/UK/BIS screening rests on the OpenSanctions aggregate, not on each primary list individually — residual risk of a very recent listing not yet ingested. Court cases: Indian Kanoon searched for 'Nandyavart Trading', '\"Nandyavart\"' and 'Nandyavart' — 0 matching results each time (https://indiankanoon.org/search/?formInput=Nandyavart). This covers reported judgments only; district-court, NCLT and consumer-forum matters are not fully indexed there, so absence of hits is not proof of no litigation. Regulator actions / negative news: NOT VERIFIED — the web_search backend failed on every attempt ('Connection refused'), so no news sweep was possible; value left null rather than assumed clean. Credit rating: no public rating found; null (not public / not located). Russia/CIS supply evidence: none found; null — no customs, B/L or counterparty records were located, and this was not affirmatively established. Registry pages attempted (Zauba 403, Tofler 404, InstaFinancials 404) yielded nothing, so no ownership or directorship data was obtained. Per project rules, nothing here is a rejection ground; no sanctions, court or criminal finding was identified in any case."
+}

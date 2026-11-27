@@ -1,0 +1,18 @@
+{
+ "name_input": "LOTUS RUBBER INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Причина: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), а публичные реестровые агрегаторы отдали ошибки доступа — zaubacorp.com 403 Forbidden, thecompanycheck.com 404, instafinancials.com 403, tofler.in 404. Bing по запросам с точной фразой в кавычках возвращал только нерелевантную выдачу (Lotus Cars, Lotus Bakeries и т.п.), ни одного профиля индийской компании с таким названием не найдено. Итог: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, публично не установлены в рамках лимита вызовов. Отклонять НЕЛЬЗЯ: отсутствие подтверждения не равно отсутствию юрлица (правило 3 — rejected только при несуществующем/ликвидированном/банкротном юрлице). Роль предварительно unknown: название без суффикса Private Limited/LLP может указывать как на proprietorship/partnership (тогда CIN отсутствует по природе), так и на торговую марку. Заявленный HS 321490;340250;350610;400299 (строительные смеси, ПАВ/моющие, клеи, каучук) не является основанием для отклонения — при подтверждении фактического кода он просто исправляется (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталу или к zaubacorp/tofler."
+}

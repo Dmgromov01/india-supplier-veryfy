@@ -1,0 +1,9 @@
+{
+ "name_input": "Fidicon Devices",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, резервный Bing отдавал только нерелевантную выдачу (GardaWorld, Coursera, похоронные бюро) — ни одной страницы с упоминанием 'Fidicon Devices' получить не удалось. Прямой запрос к fidicon.com вернул пустой ответ. OFAC Sanctions List Search — JS-форма, через GET результаты не отдаются, поэтому санкционный скрининг фактически не проведён. Все поля null означают 'не проверено / нет публичных данных в доступных источниках', а НЕ 'чисто'. Требуется повторный прогон при работающем поиске: 1) OFAC SDN/Non-SDN, UN, EU, UK OFSI, BIS Entity List по 'Fidicon Devices India Private Limited'; 2) eCourts / NCLT / High Court по стороне и статусу дела; 3) рейтинги CRISIL/ICRA/CARE/India Ratings с датой; 4) негативные новости с датами; 5) следы поставок в РФ/СНГ (таможенные записи, B/L, контракты). Отклонять компанию по этим данным нельзя — оснований нет ни за, ни против."
+}

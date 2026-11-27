@@ -1,0 +1,18 @@
+{
+ "name_input": "Jon Bhandari Tools",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Регистрационные данные не подтверждены. Все попытки получить первоисточники не удались: web_search (DuckDuckGo/searx) вернул ошибку соединения; zaubacorp.com — HTTP 403; tofler.in — 404 на поисковом URL; instafinancials.com — 404; mca.gov.in (Master Data) — HTTP 403; indiamart.com — HTTP 429; google.com — HTTP 429; duckduckgo.com/html — таймаут; bing.com вернул нерелевантную выдачу (общие статьи про имя «Jon»), без единого упоминания компании. Заявленное в input юрлицо «RATNA BHANDARI» не подтверждено ни одним публичным источником: не найдено ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты инкорпорации, ни штата регистрации. PAN не указан и в самом input (pan_claimed пусто), поэтому тип держателя PAN (4-й символ) определить невозможно. Штат в input не заявлен (state_claimed пусто), сравнивать state_registered не с чем. Роль (manufacturer/trader) не установлена — данных о деятельности из реестров нет; каталоги и сайты по правилам проекта фактом не считаются. Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не получено (Tofler/Zauba недоступны). ВАЖНО: отклонение (rejected) НЕ применяется — отсутствие данных из-за недоступности источников не является доказательством несуществования, ликвидации или банкротства юрлица. Требуется повторная проверка при доступном доступе к MCA V3 / GST-порталу / Tofler. HS 820411 (гаечные ключи, неразводные, ручные) не проверялся и на вердикт не влияет."
+}
