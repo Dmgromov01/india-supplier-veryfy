@@ -1,0 +1,9 @@
+{
+ "name_input": "Dusala India Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Verification could not be completed: the web_search backend was unavailable throughout (searx connection refused on all attempts), Zauba Corp returned HTTP 403, Tofler returned 404 for the guessed URL, Google/Bing returned no exact-match results for the company name (only unrelated noise), and OpenSanctions API returned HTTP 401 (no API key). Indian Kanoon was queried for 'Dusala India' and returned 0 matching judgments — this is a genuine negative result for reported case law, but it is NOT proof of absence of litigation, since district courts, NCLT, DRT and consumer fora are not indexed there. Therefore: sanctions_hit = null (not checked against OFAC SDN / UN / EU / UK / BIS lists — no accessible screening source; absence of a hit is NOT established), court_cases = null (no case found on Indian Kanoon; other fora unchecked), rating = null (no credit rating found; no CRISIL/ICRA/CARE/India Ratings/Brickwork action located), news_risk = null (no negative news located, but search coverage was effectively zero, so this is not a clean bill of health), rf_supply = null (no evidence of supplies to Russia or CIS found; equally no evidence of absence — nothing public located). No CIN, PAN, director names or financials were retrieved, so no ownership-level sanctions or criminal screening of principals was possible. Per project rules, nothing here is a rejection ground; the company is not rejected. RECOMMENDATION: re-run this check when the search backend is restored and a sanctions-screening source (OpenSanctions with API key, or OFAC/UN/EU/UK list downloads) is reachable; treat all fields as UNVERIFIED rather than negative."
+}

@@ -1,0 +1,17 @@
+{
+ "name_input": "TUBE INVESTMENTS OF INDIA LIMITED",
+ "declared_hs": "870899;871160",
+ "actual_hs_list": [
+  "730630",
+  "730690",
+  "871491",
+  "871499",
+  "870899",
+  "850131",
+  "871160"
+ ],
+ "match_status": "partial",
+ "product_summary": "Murugappa Group company (Chennai). Publicly known business segments: (1) Engineering — precision steel tubes (ERW/CDW), cold-rolled steel strips, tubular components for autos, and metal-formed parts; (2) Mobility — bicycles (BSA, Hercules, Montra, Mach City brands), e-bikes/e-scooters and bicycle components; (3) TI Clean Mobility / TI Medical — electric 3-wheelers and small electric commercial vehicles, e-tractors, plus medical devices (via subsidiaries). Note: the company's own website (tiindia.com) could not be opened during this check (TLS hostname mismatch / connection refused on every attempt), so the product list above is from general public knowledge of the group's segments and NOT corroborated by a page read in this session. No customs line was available to me (registry/customs research out of scope for this role).",
+ "role_hint": "manufacturer",
+ "comment": "Declared codes 870899 (прочие части/принадлежности моторных ТС, 8701–8705) и 871160 (электро-велосипеды/мопеды/мотоциклы с электродвигателем) покрывают лишь часть фактического ассортимента. 870899 — частично верно: компания действительно делает трубные и штампованные компоненты для авто, но её ядро — стальные трубы (HS 7306.30/7306.90) и холоднокатаная полоса (7209/7211), которых в декларации нет. 871160 — верно только для электромобильного направления (TI Clean Mobility, e-3W, e-велосипеды); обычные велосипеды BSA/Hercules/Montra — это 8712.00 (велосипеды), а рамы/вилки/части — 8714.91/8714.99, их в декларации нет. Также отсутствуют: электродвигатели/генераторы малой мощности (8501.31) для e-mobility, медицинские изделия дочерних структур (9018/9019). Итог: код 870899 оставить, 871160 оставить с оговоркой, добавить 730630/730690 (трубы), 871200 (велосипеды), 871491/871499 (части велосипедов), 850131. Отраслевая метка «Авиастроение и транспорт» неточна: авиастроения нет, есть металлургия/трубный прокат, велосипеды и электро-мобильность — корректнее «Металлообработка / автокомпоненты / велосипеды и e-mobility». Признаков трейдера нет — это производитель с собственными заводами. Все позиции ассортимента, не подтверждённые таможенной линией, помечены как «заявлено, не подтверждено»: в рамках этой роли проверка фактических отгрузок и объёмов не проводилась, выручка/экспорт — null. HS-несоответствие НЕ является основанием для отклонения: компания сохраняется в базе, вердикт accepted_hs_corrected."
+}

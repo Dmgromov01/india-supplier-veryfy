@@ -1,0 +1,18 @@
+{
+ "name_input": "Rattan Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The DuckDuckGo search tool returned a connection error (searx: Connection refused) on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, and mca.gov.in MDS returned HTTP 403. Bing/Google fallbacks returned only generic results about the material 'rattan' (cane/wicker), with no company record for 'Rattan Industries (India)'. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or MCA status could be established from a public source, and no audited revenue figures are available. Per project rules, revenue and export volume are left null rather than estimated. NOT rejected: absence of a verifiable record in this session is not proof of non-existence, and rejection is only permitted for non-existent/struck-off/liquidated/bankrupt entities. Role is 'unknown' because no filing evidence distinguishes manufacturer from trader. Note also that the claimed industry ('metallurgy and mining') is inconsistent with declared HS 843390 (parts of machinery of heading 8426/8427/8428/8429/8430 - lifting/handling and earth-moving machinery parts); per rule 3 this is not a rejection ground - the HS code should be corrected to the actual code once the entity is identified. Recommended next step: re-run with a working search backend or a GSTIN/PAN supplied by the client, and check MCA master data by exact name."
+}
