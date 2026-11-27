@@ -1,0 +1,9 @@
+{
+ "name_input": "MARKO STEAMJET PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out; Google returned a redirect/consent page with no results; Bing returned results that did not honor the query at all (generic 'Marko' YouTube/TikTok/consumer-brand pages, then unrelated hair-extension sites), so no page about 'Marko Steamjet' was ever retrieved. Consequently NOTHING can be asserted on any of the five risk dimensions, and per project rules no value is invented: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because they are unverified, NOT because they were checked and found clean. Do not read these nulls as 'no sanctions / no cases'. Specifically unverified: (1) OFAC SDN, UN, EU, UK and BIS Entity List screening - no list was successfully queried; (2) Indian court records (e.g. eCourts/NJDG, High Court, NCLT) - not searched; (3) regulator actions and negative news - not searched; (4) credit rating from CRISIL/ICRA/CARE/India Ratings/Acuite - not searched; (5) any evidence of supplies to Russia or the CIS - not searched. Also note the exact legal name 'MARKO STEAMJET PRIVATE LIMITED' produced zero relevant hits in the one engine that did respond, which is a weak negative signal only and must not be treated as proof of non-existence. Recommended next step: re-run this company once the search backend is restored, or verify manually against the MCA master data, the OFAC SDN search tool, and eCourts. Per Rule 2, any sanctions/court/criminal findings that later surface are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}

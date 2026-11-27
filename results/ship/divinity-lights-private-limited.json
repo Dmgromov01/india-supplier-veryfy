@@ -1,0 +1,8 @@
+{
+ "name_input": "DIVINITY LIGHTS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page (https://importkey.com/countries/india/divinity-lights-private-limited and slug variant /divinity-lights-pvt-ltd) returns only a paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible, no date, destination, HS code or B/L number displayed. Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: web_search backend was down for the whole session (\"searx: <urlopen error [Errno 111] Connection refused>\"), and thecompanycheck.com returned HTTP 403. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что поставок не было: все источники отгрузочных данных (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) закрыты платно или блокируют доступ, а поисковик в этой сессии не работал, поэтому проверку фактичности провести не удалось. Статус по обоим направлениям — unknown, а не none_found. Заявленный HS 853951 (LED-светильники) и 940511 (осветительные приборы) соответствует профилю светотехники, но фактический код по отгрузкам не подтверждён и не исправлялся. Выручка: null (не публична/не найдена). Объём экспорта: null. CIN/PAN: null — не подтверждены, не выдумывались. Трейдер/производитель: unknown. Рекомендация: повторить проверку при доступном поиске и подписке на таможенные данные; отклонять по правилу 3 нет оснований (нет данных о ликвидации/банкротстве)."
+}
