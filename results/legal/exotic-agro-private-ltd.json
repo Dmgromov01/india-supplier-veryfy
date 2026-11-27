@@ -1,0 +1,18 @@
+{
+ "name_input": "EXOTIC AGRO PRIVATE LTD",
+ "legal_name": "EXOTIC AGRO PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. All 10 tool calls failed to return usable sources: web_search backend was down (connection refused); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in search and direct company URL returned 404; instafinancials.com returned 404; Google returned a redirect/consent page; Bing returned only generic dictionary results for 'exotic' and ignored the quoted company name, so no company-specific hits were obtained. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null - NOT invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules the company is NOT rejected; it remains unverified and should be re-checked when registry access (MCA master data / Zauba / Tofler) is available. Role cannot be determined from registry data alone (declared HS 071140/200110/200570 are food-processing codes, which would suggest manufacturer or manufacturer_trader, but this is an inference from the input, not a verified fact). No revenue figures are public in any source I could reach."
+}

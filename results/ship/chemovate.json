@@ -1,0 +1,8 @@
+{
+ "name_input": "Chemovate",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for CHEMOVATE (https://importkey.com/countries/india/chemovate) returned only the generic template: 'Shipments available for CHEMOVATE, refreshed daily' — a boilerplate sentence, not a record. Rows actually seen: 0 shipment records (no date, no destination, no HS code, no B/L number). Same result for slug variants 'chemovate-ayurveda' and 'chemovate-chemicals' (0 rows each). volza.com/p/chemovate and eximpedia.app returned HTTP 403 Forbidden; DuckDuckGo search backend was unreachable ('Connection refused'), so no second source could be checked.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search tooling was unavailable (searx 'Connection refused') and no public page with a domestic supply record was retrieved. GSTIN/PAN not supplied in the input (pan_claimed empty), so no GST portal lookup was possible.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что поставок не было: это означает, что публичных подтверждений нет. ImportKey по трём вариантам слага отдал пустой шаблон (0 строк), Volza/Eximpedia заблокировали доступ (403), поисковик был недоступен. Заявленный HS 390940 (полимеры стирола / hydrocarbon resin) и заявленный промоутер 'VINAY SURESH MAIDARGI' ничем не подтверждены и не опровергнуты. Выручка: null (нет данных). Объём экспорта: null (нет данных). Требуется повторная проверка при доступном поиске и с GSTIN."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "AVIAKUL PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/aviakul-private-limited and .../aviakul-pvt-ltd both returned only the generic page shell: 'Shipments available for AVIAKUL PRIVATE LIMITED, refreshed daily' — a template placeholder, not a shipment record. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was displayed on either page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record retrieved. Searches for the company returned no results (search backend returned 'Connection refused' on both queries); zaubacorp, eximpedia and thecompanycheck all returned HTTP 403. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что отгрузок не было: это означает, что публичных подтверждений я не получил. Причина — недоступность источников: поисковый бэкенд отдавал 'Connection refused' на всех запросах, а volza/eximpedia/zaubacorp/thecompanycheck закрыты 403. ImportKey по двум вариантам слага (aviakul-private-limited, aviakul-pvt-ltd) отдал идентичные пустые шаблоны без единой строки данных — такие страницы генерируются для любого слага и фактом отгрузки не являются. Заявленный HS 880310/880330 (детали турбореактивных/турбовинтовых двигателей) ничем не подтверждён и не опровергнут. Выручка: null (не публична, не выдумываю). CIN/PAN: null — не найдены. Рекомендация: повторить проверку при доступном поиске, целевой запрос — 'Aviakul' в IndiaMART/GeM и в таможенных базах по HS 8803; до этого статус остаётся unknown, а не accepted."
+}

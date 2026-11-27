@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S PATANJALI AYURVED LIMITED",
+ "legal_name": "Patanjali Ayurved Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: search backend was down (searx connection refused) and all registry aggregators returned 403/404 (zaubacorp, thecompanycheck, instafinancials, tofler), MCA master-data portal 403, Wikipedia 429. Only the company's own e-commerce site patanjaliayurved.net was reachable, which is not a registry source and carries no CIN/PAN/GSTIN/incorporation data. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all left null rather than guessed. Widely known public facts (not verified in this session, so not entered as data): the entity is a public limited company registered in Uttarakhand (Haridwar, Bahadrabad area) and is a manufacturer of FMCG/Ayurvedic products, which is consistent with the claimed role. Revenue FY25/FY26: no audited accounts or official filing was retrievable, so null - Patanjali Ayurved is unlisted and its financials are not published on an exchange; do not substitute press-reported turnover figures. No rejection ground found (no evidence of non-existence, strike-off, liquidation or bankruptcy), but the entity's active status is UNCONFIRMED and must be re-checked against MCA master data before acceptance. Declared HS codes 090411/090412/090922/091030 (pepper, turmeric, cumin, etc.) are a narrow spice subset of this company's actual product range; per project rules HS mismatch is not a rejection ground - the company stays in the base and the HS code should be corrected to the actual traded product."
+}

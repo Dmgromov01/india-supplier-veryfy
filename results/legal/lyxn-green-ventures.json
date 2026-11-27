@@ -1,0 +1,18 @@
+{
+ "name_input": "LYXN GREEN VENTURES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input name is spelled 'LYXN GREEN VENTURES' while the claimed legal name is 'LYNX GREEN VENTURES' (likely a typo, but unconfirmed). Tooling failures during this run: DuckDuckGo/searx search backend returned 'Connection refused' on all attempts; zauba.com, instafinancials.com and mca.gov.in returned HTTP 403; thecompanycheck.com search path returned 404; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out. The only search that returned content (Bing) produced exclusively generic 'lynx' animal/software results with no Indian corporate entity, no CIN, no GSTIN and no MCA record. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status can be asserted from a public source, and all such fields are left null rather than guessed. Revenue FY25/FY26 are null: no audited accounts or official filings were located, so no figures are invented. Role is 'unknown' — the declared HS codes (840890, 840999, 842123, 842911: diesel engines, engine parts, filters, bulldozer/angledozer parts) suggest an industrial-machinery trading or manufacturing activity, but this is inference from the input only, not evidence, and the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining) is not corroborated. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way, and absence of verifiable data is not grounds for rejection. Status: unverified — requires re-check against MCA master data and the GST portal (search by GSTIN or by legal name) once registry access is available; also confirm the correct spelling of the entity name before any further lookup."
+}

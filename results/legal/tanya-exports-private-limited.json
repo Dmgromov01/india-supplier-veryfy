@@ -1,0 +1,18 @@
+{
+ "name_input": "Tanya Exports Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the web_search backend was unreachable (connection refused on all queries) and every public profile source attempted returned an error or a JS-only page (Zauba 403, TheCompanyCheck 403, Tofler 404, QuickCompany 404, InstaFinancials 404, Google blocked). Therefore exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, not invented. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role is 'unknown' because no evidence of manufacturing or trading activity was obtained. The entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the failure is purely a data-access limitation. Recommended follow-up: re-run against MCA master data / GST portal once search access is restored. Declared HS 320413 (synthetic organic colouring matter) is not a rejection ground per project rules and is left unverified."
+}
