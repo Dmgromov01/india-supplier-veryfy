@@ -1,0 +1,18 @@
+{
+ "name_input": "MURLI KRISHNA PHARMA PVT LTD",
+ "legal_name": "MURLI KRISHNA PHARMA PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries; direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com, instafinancials.com) returned HTTP 403/404, and mca.gov.in Master Data returned HTTP 403. Google returned HTTP 429 and Bing/DuckDuckGo returned irrelevant or timed-out results, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Per the no-invention rule, all such fields are null rather than guessed. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected - it is left unverified pending a re-run with working registry access. Role cannot be determined from registry data alone (declared HS 293399/293499 are organic-chemical/pharma intermediates, consistent with a manufacturer, but that is an inference, not a registry fact). Revenue FY25/FY26: null - no audited accounts or official filings were accessible. Recommended next step: re-query MCA Master Data by name and check GST portal / a GSTIN-lookup profile once search access is restored."
+}

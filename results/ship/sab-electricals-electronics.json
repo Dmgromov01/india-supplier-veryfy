@@ -1,0 +1,8 @@
+{
+ "name_input": "SAB ELECTRICALS & ELECTRONICS",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey pages for both slug variants (sab-electricals-electronics and sab-electricals-and-electronics) returned only the generic template text: 'Shipments available for SAB ELECTRICALS ELECTRONICS, refreshed daily' — zero actual shipment rows, no dates, no destinations, no HS codes, no B/L numbers. Source counter: 2 ImportKey pages opened, 0 shipment records seen.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Bing queries for '\"SAB ELECTRICALS\" \"ELECTRONICS\" India GST exporter' and '\"SAB Electricals & Electronics\" India' returned only unrelated entities (sab.com bank, sab.org ballet school, SAB Cables, SAB USA RC helicopters) — 0 relevant rows out of 8 results per query.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Проверка ограничена: DuckDuckGo-поиск был недоступен (connection refused), volza/eximpedia/trademo вернули 403, importgenius — JS-challenge, поэтому платные таможенные базы не прочитаны; статус экспорта оставлен 'unknown', а не 'none_found', так как отсутствие доступа не равно отсутствию отгрузок. Заявленный HS 870860 (шасси с двигателем для автомобилей) не соответствует профилю 'Electricals & Electronics' — вероятно, код указан ошибочно; по правилу 3 это не основание для отклонения, компания сохраняется в базе, фактический код требует уточнения у поставщика. Юрлицо (CIN/PAN), выручка и объём экспорта публично не подтверждены — null, не выдумывались. Роль (manufacturer/trader) не установлена."
+}
