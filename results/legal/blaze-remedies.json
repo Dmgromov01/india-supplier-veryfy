@@ -1,0 +1,18 @@
+{
+ "name_input": "BLAZE REMEDIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record retrieved. The input gives no legal entity form: 'GAURAV GULATI' is a person's name, not a company name, so 'BLAZE REMEDIES' is most likely a sole proprietorship / trading name (proprietorships have no CIN/LLPIN and no MCA status). No CIN, PAN, GSTIN, incorporation date, state or financials could be confirmed from any public source. Tooling failure: the web_search backend returned 'Connection refused' on all queries; direct fetches of zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; Google returned HTTP 429; Bing returned only unrelated global 'Blaze' brands (Blaze Media, Blaze Pizza, Blaze Credit Card) with no Indian registry hit. Per project rules no data was invented: all registry fields are null. NOT rejected - absence of a retrieved record is not proof of non-existence, and rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Role left as 'unknown' (no evidence of manufacturing plant or of trader-only activity). HS 330510 (shampoos) is not assessed here as it is outside the legal/registry scope and is not a rejection ground. Recommended next step: re-run with working search, or obtain the GSTIN/PAN directly from the supplier and verify on the GST portal and MCA master data."
+}

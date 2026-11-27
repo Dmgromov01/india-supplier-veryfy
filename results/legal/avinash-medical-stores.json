@@ -1,0 +1,18 @@
+{
+ "name_input": "AVINASH MEDICAL STORES",
+ "legal_name": "AVINASH MEDICAL STORES (unverified; likely a sole-proprietorship trade name, no registered company found)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "not found in MCA company/LLP records (no CIN/LLPIN located)",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry-only check. No public record of this entity could be retrieved: the search backend was down (searx connection refused) and fallback queries on Bing returned only unrelated results for the personal name 'Avinash' — no GSTIN profile, no MCA company/LLP record, no IndiaMART/Justdial GST profile. Zaubacorp returned HTTP 403 and Google 429, so MCA/GST aggregators could not be read directly. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and revenue (FY25/FY26) are all null — NOT invented. The name pattern ('... Medical Stores') is typical of a sole proprietorship / retail pharmacy, which would have no CIN and no audited financials; PAN 4th-character holder-type check is impossible without a PAN. NOT rejected: absence of a public record in this session is not proof of non-existence, and per project rules rejection requires confirmed non-existence/struck-off/liquidation/bankruptcy. Note also the input mismatch: declared HS 330510 (shampoo/hair preparations) vs the entity name indicating a pharmacy/medical store — HS code should be corrected to the actual product line at verification, not used as a rejection ground. Status: unverified — needs re-check of MCA master data and GST portal when search access is restored."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "RUSMED EXPORTS PRIVATE LIMITED",
+ "legal_name": "RUSMED EXPORTS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend returned connection errors for every query, and all registry/profile sources attempted (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com, instafinancials.com, mca.gov.in) returned HTTP 403/404 or unusable results. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - not public/not retrieved, NOT invented. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected; it is left unverified pending a working registry lookup. Role cannot be determined from registry data alone (no MCA main-object or GST-based classification obtained). Note the input's industry_claimed 'Нефтегаз и химия' (oil & gas / chemicals) is inconsistent with declared HS 300490 (pharmaceuticals) - per project rules this is not a rejection ground; the HS code should be treated as the actual one only after documentary confirmation, and the industry label appears mis-assigned. Revenue FY25/FY26: no audited accounts or official filings accessible, so null."
+}
