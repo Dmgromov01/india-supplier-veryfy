@@ -1,0 +1,18 @@
+{
+ "name_input": "Aarya Mobility Solutions",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), а реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули HTTP 403; Bing по запросам «Aarya Mobility Solutions» + CIN/GST/Private Limited выдал только нерелевантные результаты (сериал «Aarya», актёр Arya, aaryah.com, aarya.com) — ни одного профиля компании. Поэтому exact legal entity name, CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 не установлены и оставлены null — не выдумывались. ВАЖНО: в поле legal_claimed входных данных указано «SHAKUNTALA BISWAS» — это имя физлица, а не наименование юрлица; вероятно, это проприетор/партнёр или ошибка маппинга полей. Если это sole proprietorship, CIN отсутствует по определению, а PAN должен быть в формате ABCDE1234F с 4-м символом P (individual) — проверить по GST-профилю не удалось. Роль (manufacturer/trader) не определена. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected по правилам проекта (reject только при несуществовании/ликвидации/банкротстве, что тоже не подтверждено). Требуется повторная проверка при доступном поиске: MCA master data по имени, GST-портал по торговому названию, а также уточнение у заказчика, является ли поставщик ИП (Shakuntala Biswas) или компанией. Заявленный HS 401290 (изделия из вулканизованной резины, прочие) с отраслью «Авиастроение и транспорт» не проверялся — вне роли."
+}

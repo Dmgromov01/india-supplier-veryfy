@@ -1,0 +1,18 @@
+{
+ "name_input": "Jalnidhi Bitumen Specialties Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx: connection refused) on both queries, and every direct registry source was blocked or unusable: Zauba Corp company page and company-search page returned HTTP 403, TheCompanyCheck returned HTTP 403, Tofler search returned a 404 page, Instafinancials returned HTTP 403, MCA master-data page returned HTTP 403, DuckDuckGo HTML endpoint timed out twice, and Bing returned only irrelevant/unrelated results (no hit for the company name). Marginalia returned only a bot-check page. Therefore no exact legal entity name, CIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be verified from a public source. Nothing is asserted or inferred: all fields are null per the no-invention rule. Note on the input: the claimed name uses the spelling 'Specialties' while the more common Indian registry spelling for such firms is 'Specialities' - this could not be checked, so it is not corrected here. No rejection is proposed: non-existence, strike-off, liquidation or bankruptcy could NOT be established either way, and absence of accessible data is not evidence of non-existence. Role left as 'unknown' - bitumen trading/processing cannot be classified as manufacturer vs trader without a registry/audited source. Revenue FY25/FY26: null, no audited accounts or official filings accessible. Recommended next step: re-run once search backend is restored, or query MCA V3 portal / company's GSTIN via a paid registry API."
+}
