@@ -1,0 +1,18 @@
+{
+ "name_input": "Laxmi",
+ "legal_name": "LAXMI TRADERS",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The name 'LAXMI TRADERS' is a generic, extremely common Indian trade name with no distinguishing identifier supplied (no CIN, no PAN, no GSTIN, no city/state, no owner name), so it cannot be tied to a single legal entity. Tooling failed during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned only irrelevant results (Kaskus forum, IMDb pages) for the exact-phrase queries; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com returned HTTP 404; search.mca.gov.in did not resolve (DNS failure); Google returned HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be sourced. Per project rules, revenue and export figures are left null rather than estimated, and no CIN/PAN/GSTIN has been invented. IMPORTANT: this is NOT a rejection. The entity has not been shown to be non-existent, struck off, liquidated or bankrupt - the absence of data is a tooling/identifiability limitation, not evidence of non-existence. Recommended next step: re-run with a disambiguating identifier (GSTIN from the supplier's invoice/profile, PAN, or city/state), or query the MCA master-data portal directly. Role is recorded as 'unknown' because no registry record was retrieved; the claimed HS codes (842121, 848110, 848180 - valves/pumps) and 'oil & gas / chemicals' industry are unverified claims only and are not evidence of manufacturing status. Note also that a 'Traders' suffix in the name suggests a possible trader role, but this is an inference from the name alone and is not confirmed by any filing."
+}

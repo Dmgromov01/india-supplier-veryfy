@@ -1,0 +1,9 @@
+{
+ "name_input": "APPL INDUSTRIES LIMITED; APPL INDUSTRIES LIMITED; APPL INDUSTRIES LIMITED; APPL INDUSTRIES LIMITED; APPL INDUSTRIES LTD.; APPL INDUSTRIES LIMITED; APPL INDUSTRIES LIMITED; APPL INDUSTRIES LIMITED; APPL INDUSTRIES LTD.; APPL INDUSTRIES LIMITED; M/S APPL INDUSTRIES LIMITED; APPL INDUSTRIES LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, NOT COMPLETE. No sanctions/court/rating/negative-news finding could be verified: the search backend (searx) returned 'Connection refused' on every query, DuckDuckGo timed out, Google returned HTTP 429, and Bing tokenised 'APPL' as 'Apple' and returned only irrelevant results (Apple Inc., NFL Broncos-Steelers) for all three query variants. Direct fetches of ZaubaCorp (HTTP 403) and CRISIL rationale page (SSL handshake timeout) also failed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = NOT PUBLICLY VERIFIED BY ME, not evidence of absence. Only verified fact: the company's own website (https://www.applindustries.com/ and /about-us.html) presents APPL Industries Limited as a Pune (Hinjewadi, Maharashtra) polymer compounder, ~200,000 MT/yr capacity, 6 plants, JVs with German and US firms, NABL-accredited R&D arm 'Autodynamics Technologies and Solutions'. This is self-declared marketing content only and is NOT evidence of any supply activity, export record, or absence of risk. No evidence of supplies to Russia or CIS found, but no sanctions/export-control screening was completed, so this must not be read as a clean result. Recommend re-running this company once a working search backend is available, specifically against OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, NCLT/High Court cause lists, and CRISIL/CARE/ICRA/Acuite rating rationales. Per project rules, nothing here is a rejection ground."
+}

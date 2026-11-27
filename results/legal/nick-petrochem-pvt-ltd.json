@@ -1,0 +1,18 @@
+{
+ "name_input": "Nick Petrochem Pvt Ltd",
+ "legal_name": "NICK PETROCHEM PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Search backend (DuckDuckGo/searx) was down (connection refused); Bing returned only irrelevant results for the query; MCA master-data portal, Zauba Corp, TheCompanyCheck returned HTTP 403; Tofler and InstaFinancials returned 404 for the guessed URL slug. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrievable in this session, and nothing was inferred or invented. No basis for rejection: absence of retrievable records is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, so the company is retained in the database pending manual MCA lookup (mca.gov.in MDS / GST portal search by trade name 'Nick Petrochem'). Role cannot be classified without registry data (declared HS 271019 = petroleum oils other than crude, consistent with a petrochemical trader/manufacturer, but that is an inference from the HS code only, not a verified fact). Recommended next step: manual check of MCA master data and GSTIN search by legal name to fill CIN, PAN, GSTIN, incorporation date and state."
+}
