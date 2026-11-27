@@ -1,0 +1,18 @@
+{
+ "name_input": "Poddar Tyres Limited (Bedrock Brand)",
+ "legal_name": "PODDAR TYRES LIMITED (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on both queries; direct fetches of registry aggregators were blocked or empty (zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404, quickcompany.in 404, tofler.in 404, duckduckgo html timeout, Google/Bing returned no relevant organic results). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - NOT verified, not 'not applicable'. No CIN, PAN, GSTIN or revenue figure has been inferred or invented. Per project rules the company is NOT rejected: absence of retrievable registry data is not evidence of non-existence, strike-off, liquidation or bankruptcy. Role left as 'unknown' because manufacturer vs trader status could not be established from filings (product catalogue/brand claims such as 'Bedrock' are not evidence of role). Declared HS 401150/401320 (tyres) is consistent with a tyre business but HS is not a rejection criterion in any case. Action required: re-run verification when search/registry access is restored, or supply the CIN so MCA master data, GSTIN and filed financials can be pulled directly."
+}

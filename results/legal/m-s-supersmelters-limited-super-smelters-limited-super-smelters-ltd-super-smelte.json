@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SUPERSMELTERS LIMITED; SUPER SMELTERS LIMITED; Super Smelters Ltd; SUPER SMELTERS LTD.; SUPER SMELTERS LIMITED",
+ "legal_name": "SUPER SMELTERS LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) was unreachable ('Connection refused') and all registry aggregator pages attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404, while mca.gov.in MDS returned 403. Bing/Google HTML fallbacks returned only irrelevant generic 'super' results, so no CIN, PAN, GSTIN, incorporation date or MCA status could be confirmed from a public source. Per project rules no CIN/PAN/GSTIN/revenue figures are invented - all such fields are null. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, therefore the company is NOT rejected; it remains unverified pending a working registry lookup. Role cannot be determined from registry data alone (HS 720230 = ferro-silico-manganese, consistent with a smelting/metallurgy entity, but this is not proof of manufacturer status). Revenue FY25/FY26: no audited accounts or official filings accessible, so null. State claimed in input was empty, so no state mismatch can be assessed. Recommend re-run when MCA/registry access is available."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "SINHAL HERBS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No public registry record could be retrieved. 'SINHAL HERBS' appears to be a proprietorship/firm trade name rather than a company: the input's legal_claimed field contains a personal name ('PRAKHAR SINHAL'), which is typical of a sole proprietorship, so no CIN/LLPIN is expected and none was found. Verification attempts: DuckDuckGo search tool returned a backend connection error (searx: Connection refused) on both queries; Google search returned only a redirect/consent page; Bing returned entirely irrelevant results for all three query variants (no matching Indian entity surfaced); Zaubacorp and InstaFinancials returned HTTP 403 Forbidden. Consequently no GSTIN, GST status, PAN, incorporation date, registered state or MCA status could be confirmed from a public profile, and no audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Per project rules the entity is NOT rejected: non-existence/struck-off/liquidation/bankruptcy could not be established either way, and absence of retrievable data is not grounds for rejection. Role left as 'unknown' - the declared HS codes (080620 dried grapes/raisins, 090240 black tea, 091099 spices, 100630 semi-milled/wholly milled rice) are consistent with an agricultural-commodity trader or processor, but this is inference from HS codes only, not evidence of manufacturing or trading status. Recommended next step: manual lookup of the GSTIN via the GST portal or a paid registry aggregator using the proprietor name 'Prakhar Sinhal' plus state, since automated access was blocked."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "KNACK PACKAGING LIMITED",
+ "legal_name": "KNACK PACKAGING LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. All registry aggregators consulted returned HTTP 403 (zaubacorp.com, thecompanycheck.com, falconebiz.com) or 404 (tofler.in), and the search backend (DuckDuckGo/searx) was unreachable; Bing returned only irrelevant results for 'Knack' (knack.com, knaack.com, joinknack.com) with no Indian packaging entity surfaced. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. No basis to reject: the entity was neither found to be non-existent, struck off, liquidated nor bankrupt - the data simply could not be retrieved. Role left as 'unknown' (claimed HS 392310 / 630533 are plastics and woven-sack packaging codes, consistent with a packaging manufacturer, but this is inference from the HS codes only, not evidence of manufacturing). Note also that the input's claimed industry 'Строительство и DIY' (construction/DIY) does not match the declared HS codes; per project rules this is not a rejection ground - the HS codes should be treated as the factual basis and the industry label corrected. Recommend re-running verification when registry access is restored, using MCA master data plus a GST public profile search on the exact legal name."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S SUPERSMELTERS LIMITED; SUPER SMELTERS LIMITED; Super Smelters Ltd; SUPER SMELTERS LTD.; SUPER SMELTERS LIMITED",
+ "declared_hs": "720230",
+ "actual_hs_list": [],
+ "match_status": "cannot_verify",
+ "product_summary": "Реальные продукты не установлены. Ни один источник не открылся: поисковый бэкенд DuckDuckGo возвращал 'Connection refused', Bing по запросам «\"Super Smelters Limited\" ferro alloys», «\"Super Smelters\" India sponge iron / pig iron / silico manganese» выдавал нерелевантную выдачу (super.com, El Super, Merriam-Webster). Домены supersmelters.com (timeout), supersmelters.in, supersmelters.co.in (DNS not found) недоступны. Каталог IndiaMART не проверен — инструмента http_request нет в наборе. Следов описания продукции не найдено.",
+ "role_hint": "unknown",
+ "comment": "Проверка продукции не выполнена по технической причине: сайт и каталоги недоступны, поиск не работает. Заявленный код 720230 (ферросиликомарганец, FeSiMn) НЕ подтверждён и НЕ опровергнут — статус cannot_verify, не 'wrong'. Оснований для отклонения нет (правило 3: несоответствие HS не является основанием; здесь даже несоответствие не установлено). Название 'Smelters' и отрасль 'Металлургия и горнодобыча' согласуются с ферросплавами/чугуном/окатышами, но это догадка по названию, а не факт — в product_summary не включаю. Все продукты: заявлено, не подтверждено (фактически даже не заявлено на сайте — сайт не открылся). Требуется повторный прогон при работающем поиске: проверить supersmelters.com, IndiaMART-каталог, годовой отчёт, и только затем фиксировать actual_hs_list (вероятные кандидаты для проверки: 7202 (ферросплавы), 7201 (чугун), 7203 (DRI), 7207 (полуфабрикаты) — но НЕ утверждать без источника). Выручка/объём экспорта/таможенные записи не исследовались согласно роли."
+}
