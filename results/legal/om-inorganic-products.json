@@ -1,0 +1,18 @@
+{
+ "name_input": "OM INORGANIC PRODUCTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) and all direct attempts to reach public registry aggregators failed: zaubacorp.com returned HTTP 403 on both the company-search and name-search URLs, instafinancials.com returned HTTP 403, thecompanycheck.com returned only its marketing landing page with no search results, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned entirely irrelevant results (Olympique de Marseille) for both quoted queries, i.e. no indexed match for the exact name. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be sourced, and no audited revenue figures are available. Nothing has been inferred or fabricated: all identifier and financial fields are null. The name 'OM INORGANIC PRODUCTS' is a trading-style name with no legal suffix (no Pvt Ltd / LLP), which is consistent with either a sole proprietorship (in which case there is no CIN and no MCA record at all, only a GSTIN) or an unregistered trade name - but this is a hypothesis, not a finding, and must not be treated as confirmed. Role is therefore 'unknown'; the claimed industry (oil/gas & chemicals) and HS 282720 (calcium chloride) are unverified against any filing. Per the project rules this is NOT a rejection: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - there is simply no accessible evidence either way. Action required: re-run verification when the search backend is restored, or obtain the GSTIN directly from the supplier and validate it on the GST portal (a GSTIN's 4th character would also settle the PAN holder type: P = individual/proprietorship, C = company, F = firm/LLP, H = HUF, A = AOP). No revenue figures should be entered until an audited filing or GST turnover record is seen."
+}

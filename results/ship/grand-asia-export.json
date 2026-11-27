@@ -1,0 +1,8 @@
+{
+ "name_input": "grand asia export",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'grand-asia-export' returned only the paywalled shell: \"Shipments available for GRAND ASIA EXPORT, refreshed daily\" — no shipment row, date, destination, HS code or B/L number was rendered. Second slug 'grand-asia-exports' returned the identical shell for \"GRAND ASIA EXPORTS\". Rows actually seen: 0 of 0. volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GST turnover band, GeM/CPPP tender participation and contract data were not accessible: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on all three queries attempted, and a direct Google query returned HTTP 429. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но это результат недоступности источников, а не доказательство отсутствия отгрузок. Ни экспортных записей (дата, направление, HS, B/L), ни внутренних поставок (GST-оборот, GeM/CPPP, контракты) получить не удалось: ImportKey отдаёт только заглушку без строк, volza/eximpedia/trademo — 403, importgenius — JS-челлендж, поисковик недоступен. Заявленный HS 091099;100630 (специи; рис басмати) и отрасль «Продукты питания и FMCG» ничем не подтверждены и ничем не опровергнуты — это заявление, не факт. Выручка: null (не публична, не выдумываю). Объём экспорта: null. Юрлицо не проверялось по MCA — вне области моей роли; оснований для rejected нет. Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

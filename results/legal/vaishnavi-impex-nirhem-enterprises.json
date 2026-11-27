@@ -1,0 +1,18 @@
+{
+ "name_input": "VAISHNAVI IMPEX;Nirhem Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. The input gives two names ('VAISHNAVI IMPEX' and 'Nirhem Enterprises') with no PAN, no state and no legal suffix, so the exact legal entity cannot be pinned down. Research attempts failed on infrastructure grounds, not because the entity is absent: web_search returned 'Connection refused' (searx backend down); zaubacorp.com returned HTTP 403 on both the search-results and direct company URLs; thecompanycheck.com and instafinancials.com returned 404 for the guessed slugs; tofler.in search returned its 404 page; google.com returned HTTP 429; duckduckgo.com timed out; bing.com returned only generic 'Vaishnavi' name/celebrity results with no company hits for the quoted strings 'VAISHNAVI IMPEX', 'VAISHNAVI IMPEX PRIVATE LIMITED', 'VAISHNAVI IMPEX LLP' or 'Nirhem Enterprises'; indiamart.com returned HTTP 429. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null - none of these are public in any source I could actually read, and per project rules nothing is invented. Role is 'unknown' rather than manufacturer/trader because no registry record was read. IMPORTANT: this is NOT a rejection. Per the rules, rejection requires positive proof that the entity does not exist, is struck off, liquidated or bankrupt - I have no such proof, only an absence of accessible data. Recommended next step: re-run with a working search backend, or supply the PAN/GSTIN or the exact legal name with suffix (e.g. '... IMPEX PRIVATE LIMITED' / '... LLP' / proprietorship) so the MCA/GST record can be matched directly. Note also that 'Nirhem Enterprises' appears to be a separate trade name and may be a proprietorship or a distinct entity - it must be verified separately, not merged with Vaishnavi Impex. Declared HS codes (080620 raisins, 081320 prunes, 120242 groundnuts, 120740 sesame) are consistent with a dry-fruit/oilseed trader profile, but HS fit is not evidence of existence or of shipments and is not used here."
+}

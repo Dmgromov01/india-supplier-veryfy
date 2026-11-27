@@ -1,0 +1,18 @@
+{
+ "name_input": "grand asia export",
+ "legal_name": "GRAND ASIA EXPORTS",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: DuckDuckGo-бэкенд web_search недоступен (connection refused); zaubacorp.com и instafinancials.com вернули HTTP 403; thecompanycheck.com — 404; tofler.in — 404; Google — 429; Bing выдавал нерелевантную выдачу (Grand Forks, США) по всем вариантам запроса, включая точные фразы \"GRAND ASIA EXPORTS\" + CIN/GSTIN/director. Таким образом, ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации, ни статус MCA публично не подтверждены в рамках этой проверки — все поля null, а не выдуманы. Название \"GRAND ASIA EXPORTS\" — распространённая форма, возможны несколько совпадающих юрлиц/проприеторств в разных штатах (в т.ч. как proprietorship/partnership без CIN), поэтому идентификация конкретного поставщика без PAN/GSTIN из входных данных невозможна. Роль определить нельзя: заявленные HS 091099 (специи) и 100630 (рис басмати полу-/полностью обрушенный) — это товарные позиции, а не доказательство производства; статус — unknown, не manufacturer. Отклонять НЕ следует: оснований для rejected (несуществование, struck off, ликвидация, банкротство) нет — просто нет данных. Требуется от поставщика: GSTIN (для проверки статуса на gst.gov.in), PAN, CIN/LLPIN либо подтверждение формы собственности, и адрес регистрации. Выручка FY25/FY26 — null: аудиторская отчётность или официальные филинги не найдены и не проверены."
+}

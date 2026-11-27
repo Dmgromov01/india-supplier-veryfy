@@ -1,0 +1,9 @@
+{
+ "name_input": "Darshika Techno Trade",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Search tooling was largely unavailable during this run (DuckDuckGo/searx backend refused connections; Google returned HTTP 429; DuckDuckGo HTML timed out). Only Bing was reachable, and exact-phrase queries for \"Darshika Techno Trade\" and for the claimed proprietor \"Ishaan Shailesh Khatavkar\" returned no relevant hits — Bing fell back to unrelated results (passport-photo listings; actor Ishaan Khatter). Consequently NO public record was found for this entity in any of the required risk dimensions: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) — not verifiable, null, not a negative finding; Indian court cases (party role/status) — no record located, null; regulator actions and negative news with dates — none located, null; credit rating with date and status — none located, null; evidence of supplies to Russia or the CIS — none located, null. All fields are null because nothing is public/retrievable, NOT because the company was cleared. Per project rules this is not a rejection ground and no adverse inference should be drawn; the entity is simply unverified on risk grounds. Recommended follow-up when search access is restored: re-run exact-name queries on MCA/Zauba/Tofler, Indian Kanoon, OFAC SDN search, EU/UK consolidated lists and BIS Entity List, plus GST/import-export aggregators, using the claimed PAN/CIN once obtained (PAN and state were not supplied in the input, which limits matching). Note also that the claimed 'legal_claimed' value is a personal name, not a legal entity name, so entity-level sanctions screening could not be anchored to a registered company name."
+}

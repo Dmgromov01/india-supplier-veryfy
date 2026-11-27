@@ -1,0 +1,18 @@
+{
+ "name_input": "Shri tirupati industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по публичным источникам в рамках лимита запросов. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам «Shri Tirupati Industries» + «Vipin Bansal» выдавал нерелевантную выдачу (статьи о слове «Shri», Shri Thanedar) — совпадений с компанией нет. Реестровые агрегаторы недоступны: zaubacorp.com — HTTP 403, mca.gov.in (MCA Master Data) — HTTP 403, thecompanycheck.com и instafinancials.com — HTTP 404 по списку компаний, tofler.in — 404. Google — HTTP 429. Таким образом, ни точное юрлицо, ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации не подтверждены. Важно: в поле legal_claimed указано «VIPIN BANSAL» — это имя физлица, а не название юрлица; вероятно, речь об индивидуальном предпринимателе (proprietorship) или партнёрстве, у которых CIN отсутствует по определению, а PAN имеет 4-й символ «P» (individual) — но это предположение, не подтверждённое документом, поэтому pan_holder_type = null. Название «Shri Tirupati Industries» — крайне распространённое в Индии, возможны десятки совпадений в разных штатах; без GSTIN или PAN однозначная привязка невозможна. Выручка FY25/FY26 не найдена — null (для proprietorship аудиторская отчётность обычно не публикуется). Роль не определена: заявленный HS 392329 (изделия из пластмасс, прочие) не даёт оснований для классификации manufacturer/trader. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется от поставщика GSTIN и/или PAN для повторной проверки."
+}
