@@ -1,0 +1,18 @@
+{
+ "name_input": "Sabin Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All search tooling failed during this run: web_search (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only irrelevant/generic filler results with no organic hits for the query; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com search endpoint returned HTTP 404. Consequently no public profile, CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figure was obtained for 'Sabin Enterprises'. Nothing is asserted here and no identifier has been guessed or reconstructed. Note on the input itself: the 'legal_claimed' value 'BINDU SASIDHARAN EANGACHALIL' is a personal name, not a company name, and 'Sabin Enterprises' is a typical sole-proprietorship trade name - such entities have no CIN/MCA record at all, only a GSTIN and PAN. The PAN 4th-character holder-type rule therefore cannot be applied without the actual PAN, which is not public for this entity. Declared HS 843230 (agricultural seeders/planters) is inconsistent with the claimed industry 'metallurgy and mining'; per project rules this is NOT grounds for rejection - the code should be corrected to the factual one once the actual product line is established. Verdict: NOT rejected (no evidence of non-existence, strike-off, liquidation or bankruptcy), but status must be treated as 'unverified - registry check pending', not as accepted. Recommended next step: re-run with working search access, or obtain the GSTIN directly from the supplier's invoice/GST certificate and validate it on the GST portal."
+}

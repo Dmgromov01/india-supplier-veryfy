@@ -1,0 +1,9 @@
+{
+ "name_input": "M",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; Google returned HTTP 429; indiankanoon.org and sahyadriindustry.com failed DNS resolution; the OFAC Sanctions List Search page is a JavaScript form and returned no query results via http_get; BSE page returned only a page shell. Bing results for the exact quoted name 'Sahyadri Industries Ltd' were dominated by unrelated 'Sahyadri' entities (Western Ghats mountain range, Sahyadri College of Engineering, Sahyadri Tiger Reserve, trekking sites) and the engine did not honour the quoted phrase, so no result could be attributed to the company. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT VERIFIED (null, not 'clear'); Indian court cases with party role/status = NOT VERIFIED (null); regulator actions and negative news with dates = NOT VERIFIED (null); credit rating with date and status = NOT VERIFIED (null); evidence of supplies to Russia/CIS = NOT VERIFIED (null). No claim in this record is sourced, and nothing here should be read as a clean bill of health. Per project rules this is not a rejection ground — the company stays in the database; recommend re-running the risk check when search connectivity is restored, using MCA/NCLT, IBBI, SEBI/BSE-NSE filings, CRISIL/ICRA/Acuite/CARE rating rationales, and OFAC/EU/UK consolidated lists directly. Note: 'SAHYADRI INDUSTRIES LIMITED' is a listed Indian fibre-cement (roofing sheet) manufacturer, but I could not confirm even that from a retrieved source in this session, so it is not asserted as a finding."
+}

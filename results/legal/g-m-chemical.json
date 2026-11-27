@@ -1,0 +1,18 @@
+{
+ "name_input": "G M CHEMICAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения; Bing по запросам «G M CHEMICAL» / «G M Chemical» GSTIN выдавал нерелевантную выдачу (Reddit/Amazon), т.е. точного совпадения по названию не найдено; zaubacorp.com отдаёт HTTP 403, thecompanycheck.com и tofler.in — 404, instafinancials — 404. Название «G M CHEMICAL» похоже на торговое обозначение индивидуального предприятия/товарищества (не «...PRIVATE LIMITED»), поэтому CIN/LLPIN может отсутствовать в принципе, а PAN/GSTIN публично не индексируются. Юрлицо НЕ отклоняется: отсутствие подтверждения существования из-за недоступности источников — не основание для rejected (правило 3). Все поля оставлены null, ничего не выдумано. Требуется повторная проверка при доступе к MCA/GST-порталу или к карточке поставщика с указанием GSTIN/PAN/адреса. HS 391290 (полимеры/смолы) не проверялся — вне роли; несоответствие HS основанием для отклонения не является."
+}
