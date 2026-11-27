@@ -1,0 +1,18 @@
+{
+ "name_input": "Som Distilleries & Breweries Ltd",
+ "legal_name": "Som Distilleries and Breweries Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Madhya Pradesh",
+ "state_claimed": "",
+ "mca_status": "Active (listed company, BSE: 507514 / NSE: SDBL; no strike-off/liquidation/insolvency found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 1443,
+ "revenue_fy26_cr": 1229,
+ "revenue_source": "Screener.in consolidated P&L (Mar 2025: Sales Rs 1,443 Cr; Mar 2026: Sales Rs 1,229 Cr), derived from the company's audited annual results filed with BSE/NSE. Company IR page confirms SDBL is BSE:507514 / NSE:SDBL and publishes audited annual results.",
+ "note": "Legal name confirmed as 'Som Distilleries and Breweries Limited' from the company's own investor relations page (somindia.com/investors), which states 'Som Distilleries and Breweries Limited (SDBL)' with BSE:507514 / NSE:SDBL. Registered/corporate office confirmed from somindia.com/contact-us: SOM HOUSE, 23, Zone-II, M.P. Nagar, Bhopal - 462011, Madhya Pradesh, India — so registered state is Madhya Pradesh (input state_claimed was empty, no mismatch to report). Role: manufacturer — the IR page describes the company as 'primarily engaged in brewing, fermentation, bottling, canning and blending of beer and Indian Made Foreign Liquor (IMFL)' with 23 million cases installed capacity through itself and two subsidiaries; this is own production, not trading. CIN: NOT CONFIRMED — zaubacorp.com and thecompanycheck.com returned HTTP 403 and quickcompany.in returned 404, and moneycontrol returned 403, so no public page could be read to verify the CIN string. It is deliberately left null rather than reconstructed from memory. PAN: not public in any source read; null. PAN holder type therefore null (would be the 4th character of the PAN, e.g. 'C' for company, but no PAN was obtained). GSTIN and GST status: no public GST profile page could be retrieved (search tool was down — DuckDuckGo/searx returned connection refused on both queries), so both null. Incorporation date: not confirmed from a primary source; Screener.in's company blurb says 'Incorporated in 1993' but that is a secondary aggregator statement and not an official filing, so left null. Revenue figures are consolidated net sales from Screener.in's reproduction of the audited annual results; they are rounded to whole crore as displayed. Note FY26 shows a sharp decline (Rs 1,229 Cr vs Rs 1,443 Cr) and a Q4 FY26 operating loss, consistent with the company's own filings on licence renewal litigation (High Court/Supreme Court orders on key licences appear on the IR page). No rejection grounds: entity exists and is actively listed and filing with exchanges."
+}

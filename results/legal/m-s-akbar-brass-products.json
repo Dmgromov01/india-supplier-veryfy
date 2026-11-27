@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S AKBAR BRASS PRODUCTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) был недоступен на всех запросах; Bing по запросам в кавычках '\"AKBAR BRASS PRODUCTS\" GSTIN' и '\"Akbar Brass Products\" proprietor brass Moradabad' выдавал только нерелевантные результаты про императора Акбара и Akbar Travels — ни одного упоминания компании. Прямые обращения к реестрам и агрегаторам не прошли: zaubacorp.com — HTTP 403, mca.gov.in (Master Data) — HTTP 403, knowyourgst.com — форма поиска по имени без GET-эндпоинта (404 на /gst-number-search-by-name/), gstinsearch.in — DNS-ошибка, google.com — HTTP 429. Префикс 'M/S' в заявленном названии указывает на единоличное предприятие (sole proprietorship) или партнёрство, а не на компанию: у таких форм нет CIN/LLPIN, поэтому CIN = null по существу, а не из-за отсутствия данных. PAN, GSTIN, дата регистрации, штат и статус в MCA не подтверждены ни одним публичным источником — все поля null, ничего не выдумано. Роль определить невозможно: заявленные коды ТН ВЭД 940320/940389 (мебель металлическая) не согласуются с названием 'Brass Products' (латунные изделия), но по правилам проекта несоответствие HS не является основанием для отклонения и код подлежит исправлению на фактический. Вердикт: НЕ отклонять — отсутствие подтверждения существования юрлица не равно доказательству его несуществования; требуется повторная проверка при доступности реестров (MCA Master Data, GST-портал по PAN) или запрос у поставщика его GST-свидетельства и PAN. Выручка FY25/FY26: null — аудированной отчётности или официальных подач не найдено."
+}

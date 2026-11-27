@@ -1,0 +1,18 @@
+{
+ "name_input": "CONCORD BIOTECH LIMITED",
+ "legal_name": "CONCORD BIOTECH LIMITED",
+ "cin_llpin": "L24230GJ1984PLC007440",
+ "pan": "null",
+ "pan_holder_type": "null — PAN not found on any public profile accessed (Zauba/TheCompanyCheck returned 403; InstaFinancials page does not display PAN). Cannot infer 4th-character holder type without the actual PAN.",
+ "gstin": "null",
+ "gst_status": "null — GSTIN not published on the public profiles that were reachable (InstaFinancials GST sub-page 404, IndiaMART 429). Not verified.",
+ "incorporation_date": "1984-11-23",
+ "state_registered": "Gujarat (ROC Ahmedabad; registered office 1482-86 Trasad Road, Dholka, Ahmedabad, Gujarat 387810)",
+ "state_claimed": "",
+ "mca_status": "Active (public listed non-government company; last balance sheet filed 31-03-2026, last AGM 31-07-2026; status 'ACTIVE compliant' per InstaFinancials, updated 21-Oct-2026)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 1200,
+ "revenue_fy26_cr": 1055,
+ "revenue_source": "Screener.in consolidated P&L (sourced from BSE/NSE filings, BSE: 543960 / NSE: CONCORDBIO): Sales Mar-2025 = ₹1,200 Cr, Mar-2026 = ₹1,055 Cr. FY26 figure is the audited FY2025-26 annual filing; treat as filing-derived, not independently re-read from the annual report PDF.",
+ "note": "Entity exists and is active — no grounds for rejection. CIN prefix L24230 = public limited, chemicals/pharma manufacture (NIC 24230), consistent with declared HS 291899/293499/294190 (organic chemicals, heterocyclics, antibiotics) — HS codes are plausible for a fermentation-API manufacturer, no correction needed. Role: manufacturer (own fermentation-based API and formulation plants at Dholka/Limbasi, Gujarat; R&D-driven biopharma, not a trader). Declared industry 'Нефтегаз и химия' is a rough bucket — actual business is pharma APIs/formulations, not oil & gas. PAN and GSTIN could not be retrieved from public sources within the tool budget (Zauba/TheCompanyCheck 403, IndiaMART 429, InstaFinancials GST page 404) — left null rather than guessed. Revenue figures are consolidated and come from exchange filings via Screener, not from a directly read audited PDF."
+}
