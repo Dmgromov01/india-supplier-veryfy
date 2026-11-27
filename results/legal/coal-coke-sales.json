@@ -1,0 +1,18 @@
+{
+ "name_input": "Coal & Coke Sales",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be located. 'Coal & Coke Sales' with the claimed proprietor 'DIPAK SHAH' returns no match in MCA/company or GST public profiles; the name pattern (no Pvt Ltd/LLP suffix) suggests a proprietorship or trade name, which has no CIN and no audited accounts, but this is NOT confirmed. Tooling failed: DuckDuckGo search backend refused connections (searx: Connection refused) on all queries; ZaubaCorp and InstaFinancials returned HTTP 403; Tofler search returned 404; Bing returned only generic 'coal' encyclopedia results with no company match. Therefore legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null - not public/not retrievable, not invented. NOT rejected: absence of a found record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left 'unknown' (no evidence of manufacturing or trading activity). Note the declared HS 854149 (electrical/electronic goods) is inconsistent with the trade name (coal/coke, which would fall under HS 27); per rules this is not a rejection ground - the code should be corrected to the actual product code once the entity is identified. Recommended next step: manual MCA/GST portal lookup and a request for the GSTIN or PAN from the supplier."
+}

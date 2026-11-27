@@ -1,0 +1,18 @@
+{
+ "name_input": "INDIPHARMA P.LTD",
+ "legal_name": "Wallace Pharmaceuticals Private Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Goa (HQ: 3rd Floor, Dempo Trade Centre, Patto Plaza, EDC Complex, Panaji 403001, Goa) — per company website contact page; MCA registered-office record not retrievable",
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification INCOMPLETE — all registry aggregators (ZaubaCorp, TheCompanyCheck, FalconEBiz, Tofler, InstaFinancials) returned HTTP 403/404, MCA portal returned 403, and the search backend (searx) was down (connection refused), so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from an official source. Nothing is invented here: all registry fields are null. What IS confirmed from a primary company source: wallacepharma.com/contact-us lists 'Wallace Pharmaceuticals Pvt. Ltd.' with headquarters at Dempo Trade Centre, Patto Plaza, Panaji, Goa 403001 and a Marketing & Sales office at Wallace Towers, Vile Parle (E), Mumbai; the site also lists own manufacturing plants at Dharwad and Nalagarh (Units 1 and 2) and states operations since the 1960s — hence role provisionally 'manufacturer' (own plants claimed on company site, not independently verified). IMPORTANT NAME MISMATCH: the input name 'INDIPHARMA P.LTD' does not match the claimed legal entity 'Wallace Pharmaceuticals Private Limited'; no evidence was found linking 'Indipharma' to Wallace, so the input name appears to be a trading/brand label or an error — this must be resolved before the record is used. Declared HS 300432/300490 is consistent with a pharma manufacturer, but per project rules HS is not a rejection ground. No rejection applied: existence is supported by the live corporate website, but MCA status (active/struck off) could not be verified — flag for re-check when registry access is restored. Revenue FY25/FY26: not public in accessible sources, left null."
+}

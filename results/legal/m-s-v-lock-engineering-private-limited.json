@@ -1,0 +1,18 @@
+{
+ "name_input": "M/s V-LOCK ENGINEERING PRIVATE LIMITED",
+ "legal_name": "V-LOCK ENGINEERING PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failed during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned only a redirect stub; Bing returned irrelevant results (BTS singer 'V', vclock.com, v-lock.com US mounting-system site) for every quoted query, i.e. no indexed Indian registry page surfaced; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; mca.gov.in MCA21 company master data returned HTTP 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT confirmed absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null; no figures were estimated. Role left as 'unknown' because no MCA business-activity or GST HSN-based classification could be read. IMPORTANT data-quality flag: the input record is internally inconsistent — the field 'legal_claimed' contains 'MICRO METALS', which is a different name from the company name 'M/s V-LOCK ENGINEERING PRIVATE LIMITED'; it is unclear whether MICRO METALS is a trade name, a group entity, or a data-entry error. This must be resolved before any verification, since a PAN/CIN lookup on the wrong name will silently return another company's data. Declared HS codes (730449, 730799, 732690, 741220 — stainless steel tubes, pipe fittings, iron/steel articles, copper alloy fittings) are consistent with an engineering/fabrication supplier but are not evidence of anything. Per project rules the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — verification simply failed. Recommended next step: re-run with working search/registry access, or obtain the CIN or GSTIN directly from the supplier, then confirm MCA status and pull FY25/FY26 filings."
+}

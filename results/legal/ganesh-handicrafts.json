@@ -1,0 +1,18 @@
+{
+ "name_input": "GANESH HANDICRAFTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - tooling failure, not a negative finding. The search backend (DuckDuckGo/searx) returned connection refused for every query; Bing returned only irrelevant generic 'Ganesha' results for both the firm name and the claimed proprietor name 'MAHAVEER CHAND ABANI'; Google returned a redirect stub. Direct registry/profile sources were unreachable: zaubacorp.com HTTP 403, mca.gov.in HTTP 403, gstinsearch.in DNS resolution failure. Consequently no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be retrieved from any public source. The claimed 'legal entity' MAHAVEER CHAND ABANI is an individual name, not a company name - this is consistent with a sole proprietorship (proprietorship has no CIN and no MCA record; PAN 4th character would be 'P' for individual, but this is a format expectation only, NOT a verified PAN - no PAN was found). No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules the company is NOT rejected; it is left unverified pending a re-run with working search access. Revenue FY25/FY26: null - no audited accounts or official filings located. Role: unknown - cannot be determined from registry data (handicraft/wooden-article HS codes 4414/4415/4418/4421 suggest possible manufacturer, but that is inference from the declared HS, not a registry fact). Recommended next step: re-run with functional search and query the GST portal (gst.gov.in search taxpayer) and MCA master data for the proprietor name and firm name."
+}
