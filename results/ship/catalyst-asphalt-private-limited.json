@@ -1,0 +1,8 @@
+{
+ "name_input": "CATALYST ASPHALT PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/catalyst-asphalt-private-limited (and slug variant .../catalyst-asphalt-pvt-ltd) returned only the paywalled template: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows actually visible (counter: page claims \"Shipments available for CATALYST ASPHALT PRIVATE LIMITED\", rows seen: 0). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries; volza.com, eximpedia.app and trademo.com returned HTTP 403; importgenius.com returned a JavaScript challenge page. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники оказались недоступны (403/JS-challenge/платный шаблон), поисковик не работал. Ни экспортных B/L записей, ни GST/тендерных подтверждений получить не удалось, поэтому оба статуса = unknown, а не none_found. Заявленный HS 271320 (битум нефтяной) не проверен по фактическим отгрузкам. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным."
+}

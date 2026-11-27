@@ -1,0 +1,8 @@
+{
+ "name_input": "Marutatmaja Vyapar Pvt Ltd",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/marutatmaja-vyapar-pvt-ltd and .../marutatmaja-vyapar-private-limited both returned only the generic page shell: 'Shipments available for MARUTATMAJA VYAPAR PVT LTD, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were rendered. Source counter: 2 importkey slug variants tried, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com, zaubacorp.com, eximpedia.app, volza.com and trademo.com all returned HTTP 403; instafinancials.com returned HTTP 404; DuckDuckGo search backend was down ('Connection refused') and Bing returned only unrelated Microsoft results. Source counter: 6 aggregator/registry URLs attempted, 0 usable records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждений внутренних поставок получить не удалось; это отсутствие данных, а не подтверждённое отсутствие отгрузок, поэтому статусы 'unknown', а не 'none_found'. Название 'Marutatmaja Vyapar' (Vyapar = торговля) и заявленный HS 4009.21/4009.41 (трубы из вулканизированной резины) не согласуются с заявленной отраслью 'Авиастроение и транспорт' — вероятно, трейдер; роль не подтверждена. Юрлицо в реестрах MCA проверить не удалось (все зеркала вернули 403/404), поэтому оснований для rejected нет. Выручка: null (не публична/не получена). Объём экспорта: null. Требуется повторная проверка при доступности importkey/volza/eximpedia или выписки MCA."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MANIPAL NATURAL PRIVATE LIMITED",
+ "legal_name": "MANIPAL NATURAL PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Реестровые данные получить не удалось: поисковый бэкенд (DuckDuckGo/searx) возвращал connection refused, Google — HTTP 429, Bing — нерелевантную выдачу (рекламные результаты, ни одного совпадения по названию). Прямые запросы к публичным агрегаторам MCA-данных заблокированы или не найдены: zaubacorp.com — 403, thecompanycheck.com — 403, instafinancials.com — 404, tofler.in — 404 (страница с таким слагом отсутствует), quickcompany.in — 404, falconebiz.com — 403, search.mca.gov.in — DNS не разрешается. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — все поля null, ничего не выдумано. Роль (manufacturer/trader) не определена — 'unknown'. ВАЖНО: отсутствие данных НЕ является основанием для отклонения по правилам проекта — компания не отклоняется, статус 'требует повторной проверки' после восстановления доступа к реестру (рекомендуемые источники: mca.gov.in MCA Master Data, GST-портал поиска налогоплательщика, Zauba/Tofler/TheCompanyCheck). Заявленный штат в инпуте не указан (пустая строка), поэтому сверка 'штат регистрации vs заявленный' невозможна. Заявленные HS-коды (090620, 091012, 151590, 330129 — специи, эфирные масла, растительные жиры) не проверялись: по правилам проекта несоответствие HS не является основанием для отклонения, код при подтверждении корректируется на фактический."
+}
