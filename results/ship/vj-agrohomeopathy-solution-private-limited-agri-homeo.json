@@ -1,0 +1,8 @@
+{
+ "name_input": "VJ Agrohomeopathy Solution Private Limited(Agri Homeo)",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/vj-agrohomeopathy-solution-private-limited (and slug variant .../vj-agrohomeopathy-solution-pvt-ltd) returned only the generic page shell: 'Shipments available for VJ AGROHOMEOPATHY SOLUTION PRIVATE LIMITED, refreshed daily' — zero actual shipment rows rendered (0 rows seen of an unstated counter; the page shows no counter value at all). No bill-of-lading number, date, destination or HS code was visible on either slug.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or contract record was retrieved. Searches returned no results (search backend error: 'searx: <urlopen error [Errno 111] Connection refused>'), and zaubacorp/eximpedia/trademo/volza all returned HTTP 403 Forbidden. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ означает, что поставок не было: проверить не удалось, потому что поисковый бэкенд был недоступен (connection refused) на всех запросах, а платные агрегаторы (volza, eximpedia, trademo, zaubacorp) отдали 403. ImportKey по обоим вариантам слага показал пустой шаблон без единой строки отгрузки — это отсутствие данных, а не подтверждение нуля. Заявленный HS 300490 (фармпрепараты) не подтверждён и не опровергнут; фактический код не установлен. Выручка и объём экспорта: null (не публичны / не получены). Роль (manufacturer/trader) не установлена. Требуется повторная проверка при работающем поиске и доступе к таможенным данным."
+}

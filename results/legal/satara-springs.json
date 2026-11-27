@@ -1,0 +1,18 @@
+{
+ "name_input": "Satara Springs",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного факта. Входные данные противоречивы: 'Satara Springs' выглядит как торговое/брендовое имя, а в поле legal_claimed указано физлицо 'VIKAS SHANKAR POPLE' — это не юрлицо и не может быть проверено как компания (нет CIN/LLPIN). Поиск недоступен: DuckDuckGo-бэкенд отдавал 'Connection refused', Bing возвращал нерелевантную выдачу (отели/нацпарки), Google — HTTP 429; агрегаторы реестров (Zauba, Tofler, InstaFinancials) — HTTP 403, IndiaMART — HTTP 429. Поэтому CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 остаются null — данных нет в открытом доступе по факту недоступности источников, цифры не выдумывались. Роль не определена (unknown). Отклонение НЕ применяется: отсутствие подтверждения существования юрлица при недоступных источниках — не основание для rejected по правилам проекта; статус — 'заявлено, не подтверждено', требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP. Заявленный HS 732020 (пружины из чёрных металлов) не проверялся по существу и не является основанием для отклонения."
+}

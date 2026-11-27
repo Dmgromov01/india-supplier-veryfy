@@ -1,0 +1,18 @@
+{
+ "name_input": "KASYAP SWEETNERS LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: the web_search backend returned connection errors (searx: Connection refused) and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com, instafinancials.com) returned HTTP 403/404, while Bing/Google/DDG HTML endpoints returned 429/timeouts or irrelevant results. Therefore exact legal entity name, CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable here, nothing invented. Input claims 'KASYAP SWEETNERS PRIVATE LIMITED' while the name field says 'LTD'; the legal form (private limited vs public limited) is unconfirmed and must be resolved from MCA before use. Declared HS 130232 (mucilages/thickeners from locust bean/guar seed) and 290544 (sorbitol) are consistent with a sweetener/polyol manufacturer, but product scope was not researched per role limits. Role left 'unknown' — no registry evidence of manufacturing vs trading. Revenue FY25/FY26 null: no audited accounts or official filings accessible. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — status is simply unverified, so the company stays in the database pending a manual MCA/GST portal check."
+}

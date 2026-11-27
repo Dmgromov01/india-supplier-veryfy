@@ -1,0 +1,9 @@
+{
+ "name_input": "KASYAP SWEETNERS LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА в полном объёме: инструменты поиска были недоступны (DuckDuckGo/searx — connection refused; Google — HTTP 429; Bing возвращал нерелевантную выдачу; indiankanoon.org и zaubacorp.com — HTTP 403). OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать запрос через http_get — фактического прогона имени по SDN/Non-SDN не сделано, поэтому sanctions_hit = null, а НЕ 'нет совпадений'. Аналогично: судебные дела (eCourts/Indian Kanoon/NCLT), рейтинги (CRISIL/ICRA/CARE/India Ratings), регуляторные действия (SEBI/RBI/FSSAI) и негативные новости не проверены — null означает 'не установлено', а не 'отсутствует'. Поставки в РФ/СНГ не проверялись. Никаких утверждений о наличии или отсутствии рисков по данной компании делать нельзя; требуется повторный прогон при восстановлении доступа к поиску и базам судов/рейтингов. Отклонение по основаниям риска не предлагается (правило 2)."
+}

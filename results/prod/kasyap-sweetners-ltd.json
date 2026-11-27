@@ -1,0 +1,21 @@
+{
+ "name_input": "KASYAP SWEETNERS LTD",
+ "declared_hs": "130232;290544",
+ "actual_hs_list": [
+  "2905.44 (Sorbitol / D-glucitol)",
+  "1702.30 (Glucose syrup / liquid glucose, <20% fructose)",
+  "1702.40 (Glucose syrup with 20-50% fructose, incl. HFCS-42)",
+  "1702.60 (Fructose syrup / HFCS-55, >50% fructose)",
+  "1702.90 (Other sugars & syrups, incl. high-maltose corn syrup)",
+  "3505.10 (Dextrins; other modified starches)",
+  "1108.12 (Maize/corn starch)",
+  "2303.10 (Residues of starch manufacture — corn gluten)",
+  "2303.20 (Corn gluten feed / bran residues)",
+  "1515.29 (Corn (maize) germ oil, if germ is sold as oil)",
+  "2302.10 (Bran/sharps of maize — corn fiber, feed grade)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Corn wet-milling / starch-processing complex (units at Vapi, Gujarat and Badnawar, MP). Real product lines per own website (kasyapsweetners.com, homepage, read 2026): (1) Sorbitol — 'D-sorbitol, D-glucitol', made by high-pressure hydrogenation of dextrose over Ni catalyst; (2) Corn syrups — Liquid Dextrose, Liquid Glucose, High Maltose Corn Syrup, High Fructose Corn Syrup (HFCS); (3) Corn derivatives — Corn Germ, Corn Gluten, Corn Fiber; (4) Dextrose, Corn Starch (named in 'Who we are' text). Also states planned expansion of bulk-drug capacity at GIDC Vapi (2,400 -> 13,500 tpm, per ProjectsToday quote on own site) — i.e. pharma-grade sugars/API intermediates, not a separate product line.",
+ "role_hint": "manufacturer",
+ "comment": "HS 2905.44 (sorbitol) — EXACT match, and it is the company's flagship line ('largest exporter of Sorbitol from Asia Pacific', own claim). HS 1302.32 is WRONG for this company: 1302.32 covers mucilages/gums from locust bean, guar, aloe, etc. — Kasyap is a corn refiner, not a gum/mucilage producer; no gum or mucilage product appears anywhere on the site. Correct code for the syrup/starch side is 1702.30/1702.40/1702.60/1702.90 (glucose, HFCS, high-maltose syrups), 1108.12 (corn starch), 3505.10 (dextrins/modified starch), 2303.10/2303.20 (corn gluten feed) and 2302.10 (corn fiber). Per project rule 3 the company is NOT rejected for the HS mismatch — code corrected, verdict accepted_hs_corrected. Industry label 'Продукты питания и FMCG' is only partly right: the real classification is starch/sugar processing (corn wet milling) with pharma, oral-care, cosmetics and paints as end markets — a chemical/ingredient processor rather than an FMCG brand. Product lines MISSING from the declaration: HFCS, high-maltose corn syrup, liquid dextrose, corn starch, dextrins, corn gluten, corn germ, corn fiber (feed-grade co-products). Trader signs: none — own manufacturing units at Vapi and Badnawar, own brand, own technical documentation; role = manufacturer. All product data above is from the company's own website only; no customs line was available to me in this task, therefore every product/volume claim is 'заявлено, не подтверждено' (including the '90 countries' and 'largest sorbitol exporter' statements). Sub-pages (/products, /sorbitol, /corn-syrup, /corn-derivatives) returned 404 and the search backend was unreachable, so the product list is limited to the homepage enumeration; no further corroboration obtained. Revenue/export volumes not researched per role scope — null."
+}
