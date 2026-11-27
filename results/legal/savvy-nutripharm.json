@@ -1,0 +1,18 @@
+{
+ "name_input": "SAVVY NUTRIPHARM",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be verified. Search tooling failed during this run: DuckDuckGo backend returned 'Connection refused', Bing returned only irrelevant generic 'savvy' results for every query variant (including quoted \"SAVVY NUTRIPHARM\" + CIN/GSTIN/zaubacorp), and registry/profile sites (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) returned HTTP 403. Google returned HTTP 429. Therefore exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this run, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' because no MCA/registry evidence of manufacturing vs trading activity was obtained. Per project rules the company is NOT rejected: absence of verifiable data is not proof of non-existence, and the claimed HS 300390 is not a rejection ground. Note also that the input's industry_claimed ('Нефтегаз и химия' - oil & gas and chemicals) is inconsistent with HS 300390 (pharmaceuticals) and with the name 'Nutripharm'; the HS code should be re-checked against actual product documentation, but this does not affect the verdict. Recommended next step: re-run verification when search/registry access is restored, or obtain the GSTIN/PAN directly from the supplier."
+}

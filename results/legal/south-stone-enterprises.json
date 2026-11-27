@@ -1,0 +1,18 @@
+{
+ "name_input": "SOUTH STONE ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx: connection refused) for every query, and direct fetches of public registry/profile sources failed: zaubacorp.com and instafinancials.com returned HTTP 403, tofler.in search returned HTTP 404, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only generic unrelated results (queries not honoured). No public page confirming the existence of an entity named 'SOUTH STONE ENTERPRISES' with proprietor/legal name 'Vishal Bansal' was retrieved. Therefore legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, not invented. The input gives no state, so state_claimed is null and no registered-vs-claimed state comparison is possible. Role left as 'unknown': the name pattern ('Enterprises' + individual name) is consistent with a proprietorship, which would have no CIN and no MCA record, but this is an inference, not a verified fact. Revenue FY25/FY26 null: no audited accounts or official filings were located; a proprietorship would not file with MCA in any case. Per project rules this is NOT a rejection - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified, data not public/not retrievable'. Recommend re-running with a working search backend or a paid registry API (MCA/Protean/GSTIN lookup) before any verdict. Declared HS 680223 (worked monumental/building stone) was not assessed here as it is outside the legal/registry scope."
+}
