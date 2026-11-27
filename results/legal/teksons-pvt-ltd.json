@@ -1,0 +1,18 @@
+{
+ "name_input": "Teksons Pvt. Ltd",
+ "legal_name": "TEKSONS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed. All tool attempts failed: web_search returned 'searx: Connection refused' (search backend down); Bing queries returned unrelated results (no relevant hits for the company); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403 Forbidden; tofler.in and instafinancials.com returned 404 (no such page at guessed URL). Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT confirmed absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role cannot be determined from registry data alone; set to 'unknown'. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy — the entity simply could not be verified with the tools available. Declared HS 870891 (parts/accessories of motor vehicles) is unverified and, per rule 3, is not a rejection ground in any case. Recommended follow-up: re-run with a working search backend and direct MCA master-data lookup by name to obtain CIN, then pull GSTIN from a public GST profile."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S.MANGALA MARINE EXIM INDIA PRIVATE LTD",
+ "legal_name": "MANGALA MARINE EXIM INDIA PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; tofler.in and indiafilings.com returned HTTP 404 for the guessed URL slugs; Google returned HTTP 429; Bing returned only irrelevant results (query mangled, no company hits). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public/not retrieved, NOT invented. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of retrieved data is not a rejection ground under the project rules. Role left as 'unknown' - the name contains 'EXIM' and the declared HS codes (030617 frozen shrimps; 160521/160529 prepared/preserved shrimps) suggest a seafood exporter, but no MCA/GST record was read to confirm manufacturer vs trader status. State claimed in input was empty, so no state mismatch can be assessed. ACTION REQUIRED: re-run with working search/registry access (MCA master data, GST public profile) before this company is used."
+}

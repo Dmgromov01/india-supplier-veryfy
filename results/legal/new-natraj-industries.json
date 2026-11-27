@@ -1,0 +1,18 @@
+{
+ "name_input": "NEW NATRAJ INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - tooling failure, not a negative finding. The web_search tool returned 'searx: Connection refused' on every query, and direct fetches of registry/profile sources failed: zaubacorp.com (HTTP 403), thecompanycheck.com search (HTTP 404), instafinancials.com (HTTP 403), mca.gov.in company master data (HTTP 403), duckduckgo.com/html (timeout), google.com/search (HTTP 429). Bing returned only generic news results with no relevant hits for the exact name. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Nothing is asserted or inferred: all fields are null because they are not publicly confirmed by a source I could actually read, not because they were checked and found absent. IMPORTANT for the reviewer: 'NEW NATRAJ INDUSTRIES' is a generic Indian trade-style name that is commonly used by proprietorships/partnerships (which have no CIN and no MCA record at all) as well as by small private limited companies; without a GSTIN, PAN or city/state in the input the name alone is not uniquely resolvable, so a match to any single entity found later must be confirmed by GSTIN or PAN before being recorded. Per project rules this company is NOT rejected: rejection requires positive proof that the entity does not exist, is struck off, liquidated or bankrupt, and no such proof exists here. Role left as 'unknown' - the declared HS codes (871500 baby carriages/parts thereof; 940180 seats) suggest a furniture/transport-goods manufacturer or trader, but that is an inference from the HS codes supplied in the input, not a verified fact. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible. Recommended next step: re-run with working search/registry access, or obtain the supplier's GSTIN or PAN from the counterparty to resolve the entity deterministically."
+}

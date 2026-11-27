@@ -1,0 +1,8 @@
+{
+ "name_input": "Captain Tractors Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row retrieved. ImportKey page for slug 'captain-tractors-pvt-ltd' and variant 'captain-tractors-private-limited' returned only the paywalled shell: 'Shipments available for CAPTAIN TRACTORS PRIVATE LIMITED, refreshed daily' — zero rows, zero dates, zero B/L numbers, zero destinations visible. Volza, Eximpedia and Trademo returned HTTP 403; DuckDuckGo search backend returned 'Connection refused' on all queries, so no second source could be opened.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. Company website captaintractors.com returned HTTP 429 (rate-limited) and ZaubaCorp returned HTTP 403, so no domestic supply record was read.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных записей (дата/направление/HS/B-L), ни внутренних поставок получить не удалось — все источники либо за пейволом без строк, либо отдали 403/429, а поисковый бэкенд был недоступен. Статус 'unknown' выставлен именно из-за отсутствия доступа к данным, а не из-за отсутствия отгрузок; заявления сайта и каталогов фактом не считались. HS 870191 (тракторы мощностью ≤18 кВт) соответствует профилю компании, но фактический код по таможенным записям не проверен. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Требуется повторная проверка при доступном источнике (ImportKey с триалом, Volza, DGFT/GST-портал)."
+}

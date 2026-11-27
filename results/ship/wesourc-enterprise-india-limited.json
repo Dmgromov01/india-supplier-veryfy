@@ -1,0 +1,8 @@
+{
+ "name_input": "Wesour enterprise India limited",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/wesource-enterprises-india-limited returned only a generic template shell: \"Shipments available for WESOURCE ENTERPRISES INDIA LIMITED, refreshed daily\" — zero actual shipment rows rendered (0 rows seen, 0 dates, 0 destinations, 0 HS codes, 0 B/L numbers). No export record found on any accessible source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for \"Wesource Enterprises (India) Limited\" returned no relevant results (Bing returned unrelated pages; DuckDuckGo timed out; Google 429). No domestic supply record located.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Проверено: importkey (страница-заглушка без строк отгрузок), volza/eximpedia/trademo/thecompanycheck — все вернули HTTP 403, содержимое недоступно; web_search (searx) — соединение отклонено; Bing — нерелевантная выдача; Google — 429. Заявленный HS 940330/940340/940360 (мебель деревянная для офисов/кухонь/столовых) ничем не подтверждён и не опровергнут — HS не проверен по фактическим записям. Юрлицо, CIN, PAN, выручка, объём экспорта — null, публично не подтверждено в рамках доступных источников. Статус 'unknown', а не 'none_found', только потому что ключевые базы данных были недоступны (403/таймаут), а не потому что записи проверены и отсутствуют; при повторной проверке с доступом к volza/eximpedia статус следует уточнить. Роль/тип компании (manufacturer/trader) не установлена."
+}
