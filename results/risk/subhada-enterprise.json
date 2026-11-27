@@ -1,0 +1,9 @@
+{
+ "name_input": "Subhada Enterprise",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты поиска в этой сессии неработоспособны. web_search (DuckDuckGo/searx) возвращал ошибку 'Connection refused' на всех запросах; http_get к html.duckduckgo.com — таймаут; http_get к google.com — HTTP 429; http_get к bing.com по запросам \"Subhada Enterprise\", \"Subhada Enterprises\" India company и \"Subhada\" \"Mehta\" exporter India construction machinery возвращал полностью нерелевантную выдачу (Open Farm pet food, IHSA Illinois High School Association, Nemat perfume oil) — то есть ни одного релевантного результата по компании получено не было. Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылась, но это JS-форма без серверного поиска по GET-запросу, поэтому фактическая сверка по SDN/Non-SDN не произведена (SDN List last updated 11/23/2026, Non-SDN 11/4/2026 — зафиксировано только состояние списков, не результат матчинга). Итог: по всем полям null. Санкционных совпадений НЕ выявлено, но это НЕ означает отсутствия санкций — проверка не завершена. Судебные дела (eCourts, NCLT, High Court), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверены. Отдельно: заявленное 'юрлицо' PRASHANT SHANTARAM MEHTA — это имя физлица, а не название компании, что дополнительно затрудняет идентификацию; это вопрос к верификации юрлица (вне моей роли). Рекомендация: повторить проверку при восстановлении доступа к поиску; до этого считать риск-профиль НЕОЦЕНЁННЫМ, а не чистым. Оснований для отклонения по моей части (санкции/суды/регуляторы) нет и быть не может — согласно правилу 2 такие обстоятельства не являются основанием для отклонения."
+}

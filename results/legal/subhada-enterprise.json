@@ -1,0 +1,18 @@
+{
+ "name_input": "Subhada Enterprise",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry data could be retrieved. The search backend (DuckDuckGo/searx) was down ('Connection refused'), Google returned HTTP 429, MCA master-data portal, Zauba Corp and Tofler returned HTTP 403, and Bing returned only irrelevant results for the exact-phrase queries '\"Subhada Enterprise\" GST CIN India', '\"Subhada Enterprise\" Prashant Shantaram Mehta' and '\"Subhada Enterprise\" IndiaMART OR GST OR proprietor'. Therefore no legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be verified. The input itself is internally inconsistent: 'legal_claimed' contains a person's name (PRASHANT SHANTARAM MEHTA), not a legal entity, and no PAN or state was supplied. 'Subhada Enterprise' is a typical proprietorship/partnership trade style, which would have no CIN and no MCA record - but this is NOT confirmed. Per the rules, rejection is not warranted (no evidence of non-existence, strike-off, liquidation or bankruptcy); status is unverified, not rejected. Role left as 'unknown' - no evidence of manufacturing or trading activity. Revenue FY25/FY26 null: no audited accounts or official filings found. Recommended next step: re-run verification when registry access is restored, using the GSTIN or PAN of the proprietor to confirm the trade name and its registration state."
+}
