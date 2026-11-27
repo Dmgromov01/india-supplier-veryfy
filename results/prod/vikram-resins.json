@@ -1,0 +1,15 @@
+{
+ "name_input": "Vikram resins",
+ "declared_hs": "391190",
+ "actual_hs_list": [
+  "390791",
+  "390799",
+  "320890",
+  "390740",
+  "390799"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт vikramresins.com (главная и /about): производитель в Бангалоре с 1988 г. (основатель Prakash Rupani). Реальные товарные линии по каталогу на сайте: (1) Ненасыщенные полиэфирные смолы (UPR): General Purpose Orthophthalic Polyester, Polyester from Terephthalic Acid (with wax), Polyester from Recycled PET (pre-accelerated), Medium Reactive Polyester from Recycled PET, Medium Reactive Isophthalic Polyester, High/Low Viscosity Isophthalic Polyester for Grouting, Dicyclopentadiene (DCPD) resin, Metal Putty Resin, Button Grade Orthophthalic Polyester, Flexible Orthophthalic Polyester for pigment dispersion (SM-free) → HS 3907.91 (ненасыщенные полиэфиры, прочие). (2) Гелькоуты: Orthophthalic Polyester Gelcoat, Fire Retardant Gelcoat from Recycled PET, Medium Reactive Isophthalic Polyester Gelcoat → те же ненасыщенные полиэфиры 3907.91 (в первичных формах); при поставке в виде готовой краски/покрытия возможен 3208.90 — по сайту разграничение не раскрыто. (3) Полимерные решения: Polydicyclopentadiene (PDCPD) — высокопроизводительный полимер для автокомпонентов → 3907.99 (прочие полиэфиры) либо 3902.90/3911.90 в зависимости от формы; точная классификация по сайту не определяется. (4) Пигментные пасты/дисперсии (Flexible Orthophthalic Polyester for Pigment Dispersion) — носитель-смола 3907.91, сама дисперсия может идти как 3204/3212. Заявленные области применения: automotive, infrastructure, stone & marble, trimmings/buttons, marine, coatings & adhesives, pigments.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 391190 («прочие полимеры прочие») — частичное совпадение: он покрывает лишь побочные/прочие полимерные продукты (например PDCPD-композиции в первичных формах), но НЕ основной ассортимент. Ядро продукции — ненасыщенные полиэфирные смолы и гелькоуты, которые классифицируются в субпозиции 3907.91 (unsaturated polyesters, other), а не в 3911.90. Рекомендуемая корректировка: основной код 390791, дополнительные 390799 (прочие полиэфиры, PDCPD), при поставках гелькоутов как готовых покрытий — 320890. Отраслевая метка «Нефтегаз и химия» неточна: это нефтехимия/композиты (переработка PET, смолы для композитов), не нефтегаз. Признаков трейдерства на сайте нет — указано собственное производство в Бангалоре, 40+ лет, >40% выпуска — кастомные марки, 400+ т переработки ПЭТ-бутылок в год; это самозаявление сайта. Ни одна товарная позиция не подтверждена таможенной линией — все коды имеют статус «заявлено, не подтверждено» (проверка фактичности отгрузок вне рамок данной HS-роли). Юрлицо/адрес/CIN/PAN на сайте не раскрыты — null. Примечание: поисковые движки (searx, DuckDuckGo, Bing по бренду) были недоступны или выдавали нерелевантные результаты; вывод основан на официальном сайте vikramresins.com (главная, /about)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ELECTRICFOR HEATING SYSTEMS INDIA PRIVATE LIMITED",
+ "declared_hs": "841950;851680;853620;902590",
+ "actual_hs_list": [
+  "851680",
+  "841950",
+  "841989",
+  "853710",
+  "853620",
+  "851610",
+  "841990",
+  "902580"
+ ],
+ "match_status": "partial",
+ "product_summary": "По каталогу на indiamart.com/electricfor.in (страница компании, GST 29AADCE2382B1ZW, Bengaluru/Hoskote, Karnataka) реальный ассортимент — промышленное электронагревательное оборудование: Electric Steam Boiler Assembly / Industrial Steam Boiler / Electric Steam Generator; Electric Air Duct Heaters; Electric Immersion Heater Tube; Electric Flange Heater Assembly; Electric Heat Exchanger; Electric Inline Lube Oil Heater; Skid Mounted Industrial Electric Heater; Tank Heater; Oil Immersion Heater; Industrial Air Heater; Thyristor Heater Control Panel; Thyristor Power Regulator; Electrical Control Panel; Skid Mounted Inline Water Heating System; Electric Heat Transfer Skid. Материнская компания Electricfor S.A. (Rubí, Barcelona, Испания, с 1918 г.) на electricfor.com заявляет те же группы: liquid heating/immersion resistances, air and solid resistors, industrial heating, pressure equipment (PED), ATEX heating, flexible resistors, control and regulation.",
+ "role_hint": "manufacturer_trader",
+ "comment": "Сопоставление с заявленными кодами: 851680 (электрические нагревательные сопротивления) — ПОДТВЕРЖДЁН, это ядро ассортимента (immersion, flange, duct, tank, air heaters). 841950 (теплообменники) — ПОДТВЕРЖДЁН частично: в каталоге есть 'Electric Heat Exchanger' и 'Electric Heat Transfer Skid', но это электрические подогреватели/скиды, а не классические кожухотрубные теплообменники; корректнее 8419 89 / 8419 90 в зависимости от исполнения. 853620 (автоматические выключатели на напряжение ≤1000 В) — НЕ ПОДТВЕРЖДЁН как товарная позиция: в каталоге есть 'Electrical Control Panel' и 'Thyristor Power Regulator', которые правильнее классифицировать 8537 10 (пульты/панели управления) и 8536 50/8504 31 (тиристорные регуляторы), а не 8536 20. 902590 — ЧАСТИЧНО/СОМНИТЕЛЬНО: части термометров/пирометров и т.п. (9025 90) в каталоге не выделены как товарная линейка; если поставляются термопары/датчики в составе скидов — это 9025 80, а не 9025 90. ПРОПУЩЕННЫЕ ЛИНИИ: 8419 89 (электрические парогенераторы/электродные парогенераторы, 'Electric Steam Generator' — отдельная позиция, не 8419 50), 8537 10 (панели управления, thyristor heater control panel), 8516 10 (электрические водонагреватели проточные — 'Skid Mounted Inline Water Heating System'), 8419 90 (части теплообменников/аппаратов). ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявленная отрасль «IT и электроника» НЕВЕРНА — компания относится к энергомашиностроению/промышленному электротермическому оборудованию (электронагрев, парогенерация, теплообмен), а не к ИТ/электронике. ПРИЗНАКИ ТРЕЙДЕРА: IndiaMART указывает 'Manufacturer' и одновременно 'Manufacturer and Wholesaler'; на сайте есть импортно-экспортный код (IEC 0713004070), а материнская структура — испанская Electricfor S.A., что типично для дочерней сбытовой/сборочной компании; часть номенклатуры (ATEX, PED-оборудование, гибкие сопротивления) заявляется на уровне группы, а не подтверждена локальным каталогом. Всё, что не подтверждено таможенной строкой, — статус 'заявлено, не подтверждено': наличие реальных отгрузок, объёмы, а также позиции ATEX/PED и гибкие сопротивления в индийском исполнении. HS-несоответствие НЕ является основанием для отклонения: компания сохраняется, коды корректируются на фактические (8516 80, 8419 89, 8537 10, 8419 50/8419 90, 8516 10), вердикт accepted_hs_corrected."
+}

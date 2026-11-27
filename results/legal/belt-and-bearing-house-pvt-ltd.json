@@ -1,0 +1,18 @@
+{
+ "name_input": "Belt and Bearing House Pvt Ltd",
+ "legal_name": "BELT AND BEARING HOUSE PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only irrelevant generic 'belt' retail results with no registry hit. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue (FY25/FY26) are all null because they were not publicly retrievable in this session - NOT because they were checked and found absent. No identifiers were guessed or inferred; an earlier attempt to construct a zaubacorp URL with a plausible-looking CIN was abandoned and that CIN is deliberately not reported. Role left as 'unknown' (name suggests a trading/distribution business for belts and bearings, but this is inference from the name only, not evidence). Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established, and absence of evidence is not grounds for rejection. HS codes 848210/848320 (ball bearings / bearing housings, plain shaft bearings) are consistent with the company name and are not a rejection ground in any case. ACTION REQUIRED: re-run this company when search access is restored, or verify manually on mca.gov.in (company/LLP master data), the GST portal public search, and the company's filed financial statements for FY25/FY26 revenue."
+}

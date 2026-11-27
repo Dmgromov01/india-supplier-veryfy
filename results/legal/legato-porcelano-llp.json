@@ -1,0 +1,18 @@
+{
+ "name_input": "LEGATO PORCELANO LLP",
+ "legal_name": "LEGATO PORCELANO LLP (as claimed; not verified against MCA/LLP registry)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained. Search backend (DuckDuckGo/searx) was down ('Connection refused'); Bing returned only irrelevant generic 'Legato' results and ignored the exact-phrase query; MCA search host (search.mca.gov.in) did not resolve; aggregator pages blocked or 404 (zaubacorp 403, thecompanycheck 403, falconebiz 403, instafinancials 404). Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public via the sources reachable in this session, and NOT invented. No rejection applied: absence of a reachable record is not proof of non-existence, so the entity is kept as 'unknown' pending a manual MCA master-data lookup (LLPIN, Form INC-1/LLP incorporation, GSTIN via GST portal search by legal name). Note on PAN format rule: PAN 4th character encodes holder type (P = individual, C = company, F = firm/LLP, etc.); for an LLP the 4th character should be 'F' — this could not be checked as no PAN was found. Declared HS 690721 (ceramic tiles) + 850410 (ballasts for discharge lamps) is an internally inconsistent pair for a single ceramic-tile entity; per project rules this is NOT a rejection ground — if the entity is confirmed, the HS code should be corrected to the actual product line and the verdict recorded as accepted_hs_corrected. Role cannot be classified (manufacturer vs trader) without registry/GST evidence; default 'unknown'. No revenue figures available from audited accounts or official filings."
+}

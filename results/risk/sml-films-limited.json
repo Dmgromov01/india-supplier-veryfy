@@ -1,0 +1,9 @@
+{
+ "name_input": "SML FILMS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the primary web_search tool returned 'Connection refused' on every query; the OFAC Sanctions List Search page loaded but is a JavaScript-driven form that returned no query results for the name; zaubacorp.com returned HTTP 403; Google returned HTTP 429. Bing returned an identical, query-independent result set for all four different queries (YouTube 'SML' channel, smlmerch.com, SML Wiki, sml.com digital-ID company) - i.e. the results were not responsive to the query and are unusable as evidence. Consequently NO finding can be asserted on any of the five requested dimensions: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) - not verified, null, NOT a clearance; Indian court cases (party role/status) - not verified, null; regulator actions and negative news with dates - none found, but absence is unverified, null; credit rating with date and status - not found in any source, null; evidence of supplies to Russia or CIS - none found, but unverified, null. IMPORTANT: these nulls mean 'not researched', not 'clean'. The name 'SML Films Limited' could not be disambiguated from unrelated entities (e.g. SML, the US digital-ID/labelling group at sml.com, and the 'SML' YouTube channel), so no source could be tied to the Indian company with confidence. Per project rules this is not a rejection ground and no verdict is implied; the company must be re-queued for risk research once search access is restored. Recommended next sources: OFAC SDN CSV download (direct file, not the JS form), EU consolidated list, UK OFSI list, BIS Entity List, NCLT/NCLAT and eCourts party search, and CRISIL/ICRA/CARE/India Ratings rating directories."
+}

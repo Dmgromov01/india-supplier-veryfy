@@ -1,0 +1,18 @@
+{
+ "name_input": "Standard Mac Tech",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного факта. Поисковая инфраструктура в этой сессии недоступна: инструмент web_search возвращал ошибку соединения (searx: Connection refused), Google отдал HTTP 429, DuckDuckGo — таймаут, Bing по запросам \"Standard Mac Tech\" / \"Standard Mac Tech\" + \"Somani\" / \"Mukeshkumar Mangilal Somani\" выдавал только нерелевантные результаты (Standard Insurance, Merriam-Webster и т.п.), т.е. совпадений по названию не найдено. Агрегаторы реестров: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, tofler.in — 404 на странице поиска. Итог: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — везде null, цифры не выдумывались. Входные данные указывают в поле legal_claimed имя физлица (MUKESHKUMAR MANGILAL SOMANI), что типично для sole proprietorship: у такой формы нет CIN и нет обязательной публичной отчётности в MCA, поэтому выручка, скорее всего, не будет публичной в принципе. Роль оставлена unknown: подтвердить, является ли субъект производителем или трейдером, по регистрационным данным невозможно. Отклонение НЕ применяется: отсутствие данных — не основание для rejected, а признаков несуществования/ликвидации/банкротства не найдено (проверить тоже не удалось). Требуется повторная проверка при восстановлении доступа к поиску и реестрам (MCA, GST-портал) — в первую очередь по GSTIN, который обычно указан на визитке/инвойсе поставщика."
+}

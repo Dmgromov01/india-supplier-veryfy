@@ -1,0 +1,9 @@
+{
+ "name_input": "KUMAR ORGANIC PRODCUTS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: web_search returned 'searx: Connection refused' on all queries; direct fetches to Google (HTTP 429), DuckDuckGo (timeout), indiankanoon.org (DNS failure) and CRISIL rating-list URL (404) all failed; Bing returned only generic 'Kumar' name results and ignored the quoted company name, so no company-specific page was ever retrieved. Therefore: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = NOT VERIFIED (null, not a negative finding); Indian court cases (party role, status) = NOT VERIFIED (null); regulator actions and negative news with dates = NOT VERIFIED (null); credit rating with date and status = NOT VERIFIED (null); evidence of supplies to Russia/CIS = NOT VERIFIED (null). No claim in this record is sourced, and nothing here should be read as clearance. Per project rules, absence of a sanctions/court finding is not a rejection ground and no rejection is proposed; the company stays in the base. Recommended action: re-run this risk pass when search access is restored, checking OFAC SDN and BIS Entity List name variants ('Kumar Organic Products Ltd', 'KOPL'), Indian court records (e.g. eCourts/NCLT), rating agency lists (CRISIL/ICRA/CARE/India Ratings) and Russian/CIS import records. Note also the input name contains a typo ('PRODCUTS') vs the claimed legal name 'KUMAR ORGANIC PRODUCTS LIMITED' — flagged for the identity/legal-entity researcher, not assessed here."
+}

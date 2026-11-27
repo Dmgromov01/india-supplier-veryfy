@@ -1,0 +1,8 @@
+{
+ "name_input": "Vikram resins",
+ "export_status": "unknown",
+ "export_evidence": "No export record seen. ImportKey pages for slugs 'vikram-resins' and 'vikram-resins-and-polymers' both returned only the generic paywalled template: \"Join ImportKey to view the import and export data records of companies all over the world.\" — zero shipment rows rendered (0 rows seen vs. no stated counter). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GST turnover band, GeM/CPPP tender participation and annual-report splits not obtained: web_search backend was down (\"searx: <urlopen error [Errno 111] Connection refused]\") and eximpedia/trademo/volza returned HTTP 403. No GSTIN, CIN or turnover figure is public in any page I could read.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок оказались закрыты (ImportKey — платная заглушка без строк, volza/eximpedia/trademo — 403, поисковик недоступен). Фактичность отгрузок НЕ подтверждена ни по экспорту, ни по внутреннему рынку; статус 'unknown', а не 'declared_only', поскольку заявлений сайта я тоже не видел. Заявленный HS 391190 (полимеры/ионообменные смолы) не проверен по таможенным записям — HS не является основанием для отклонения (правило 3). Выручка: null (не публична в доступных источниках). Требуется повторная проверка при доступном поиске или платном доступе к таможенным данным."
+}
