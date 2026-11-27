@@ -1,0 +1,18 @@
+{
+ "name_input": "Saanvika Pharma",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no public registry record could be retrieved. The input itself is internally inconsistent: 'legal_claimed' is given as 'AVINASH CHOWDARY KAMMA', which is a personal name, not a company name, so the entity may be a sole proprietorship / individual GST holder rather than a company with a CIN. Searches for 'Saanvika Pharma' and for 'AVINASH CHOWDARY KAMMA' returned no usable results: the DuckDuckGo search backend was down (connection refused), Bing returned only unrelated results, and ZaubaCorp / InstaFinancials / Tofler / IndiaMART all blocked or 404'd the requests. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null — none of these were observed on any public page, and none are inferred or invented. PAN holder-type (4th character) cannot be determined without a PAN. Role is 'unknown': the declared HS codes (290950, 293430, 390720, 390730 — ethers/phenothiazines/polyethers/epoxide resins) are chemicals, but the input gives no evidence of own manufacturing vs trading, and product/HS claims are not registry facts. Per project rules this is NOT a rejection: absence of retrievable records is not proof of non-existence, and HS mismatch is not a rejection ground. Action required: obtain the actual legal name and GSTIN from the supplier (or a GST portal / MCA lookup with working access) and re-run verification; if it is a proprietorship, record the proprietor name as legal_name with CIN null and note 'proprietorship — no CIN applicable'."
+}

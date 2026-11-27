@@ -1,0 +1,8 @@
+{
+ "name_input": "ISHA TEXMACH INDIA PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/isha-texmach-india-private-limited (and slug variant .../isha-texmach-india-pvt-ltd) returned only the template shell: \"Shipments available for ISHA TEXMACH INDIA PRIVATE LIMITED, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Rows actually seen: 0. No export record found in any accessible source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" for all queries; zaubacorp.com and thecompanycheck.com returned HTTP 403. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок в открытых источниках обнаружить не удалось. Это НЕ означает, что отгрузок не было: источники были недоступны (DuckDuckGo/searx отказал в соединении, volza/eximpedia/trademo/zaubacorp — 403, importgenius — JS-челлендж, importkey — пустой шаблон без строк). Заявленный HS 845190 (оборудование для обработки текстиля / части машин) не подтверждён и не опровергнут; фактический код не установлен. Выручка и объём экспорта: null (не публичны / не получены). Юрлицо не проверено по MCA — статус существования не подтверждён, оснований для rejected нет. Требуется повторная проверка при доступности платных/иных источников таможенных данных."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "LLuvia Tea",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'lluvia-tea' (https://importkey.com/countries/india/lluvia-tea) returned only the generic template text 'Shipments available for LLUVIA TEA, refreshed daily' with 0 actual shipment rows rendered; identical empty template for slug 'lluvia-tea-private-limited'. No bill-of-lading number, date, destination or HS code was visible. Source counter: 2 ImportKey pages opened, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Zaubacorp (https://www.zaubacorp.com/company/LLUVIA-TEA-PRIVATE-LIMITED) returned HTTP 403 Forbidden; no accessible domestic-supply record found. Source counter: 1 registry page attempted, 0 rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок, а отсутствие доступа к данным: поисковик (DuckDuckGo/searx) был недоступен (connection refused), volza, eximpedia, trademo и zaubacorp вернули 403. ImportKey отдаёт автогенерируемую заглушку для любого слага, поэтому его текст 'Shipments available' фактом отгрузки не является и в evidence как подтверждение не засчитан. Declared HS 090230 (чёрный чай в упаковках ≤3 кг) не проверен по фактическим записям. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступном источнике таможенных записей."
+}

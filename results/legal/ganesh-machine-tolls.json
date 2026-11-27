@@ -1,0 +1,18 @@
+{
+ "name_input": "Ganesh Machine Tolls",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не получены: ни один источник не подтвердил существование юрлица с названием 'GANESH MACHINE TOOLS INDIA PRIVATE LIMITED'. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, ошибка соединения на всех запросах; (2) прямые запросы к zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com — HTTP 403 Forbidden (антибот-защита); (3) google.com/search — HTTP 429; (4) duckduckgo.com/html — таймаут; (5) bing.com — поиск проигнорировал точную фразу и вернул нерелевантную выдачу про бога Ганешу, ни одного реестрового профиля. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, так как не подтверждены публичным источником; выдумывать значения запрещено. ВАЖНО: отсутствие подтверждения НЕ является основанием для отклонения — юрлицо не признано несуществующим, ликвидированным или банкротом, поэтому статус rejected не ставится. Также обращаю внимание: в названии во входных данных опечатка ('Tolls' вместо 'Tools'), а заявленное название в legal_claimed не подтверждено ни одним источником — требуется повторная проверка при доступном реестре (MCA master data / GST-портал) для установления точного юрлица, CIN и GSTIN. Роль (manufacturer/trader) не определена — null/unknown. Заявленный HS 845819 (токарные станки) и отрасль 'Металлургия и горнодобыча' не проверялись по правилам роли (реестровая проверка), и по правилу 3 несоответствие HS не является основанием для отклонения."
+}
