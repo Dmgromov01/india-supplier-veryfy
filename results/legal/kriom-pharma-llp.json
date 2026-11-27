@@ -1,0 +1,18 @@
+{
+ "name_input": "KRIOM PHARMA LLP",
+ "legal_name": "KRIOM PHARMA LLP (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo search backend returned connection refused; Bing returned only irrelevant results for the exact-name queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403 Forbidden; llpin.in did not resolve (DNS error); duckduckgo.com/html timed out. Therefore LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are confirmed absent, but because nothing public could be read within the tool budget. No claim in this record is sourced, so none should be treated as verified. Per project rules the company is NOT rejected: non-existence/strike-off/liquidation/bankruptcy was not established, only unverified. Role left as 'unknown' (the name suggests pharma, but no MCA/NIC activity code was read, so manufacturer vs trader cannot be determined). Note on declared HS 401512 (rubber/plastics articles) vs claimed industry 'food & FMCG' and the 'PHARMA' name: this is an internal inconsistency in the input, but per rule 3 an HS mismatch is not a rejection ground - the code should be corrected to the actual activity once the entity is verified. Recommended next step: re-run with working access to MCA master data / a GST public profile (e.g. a GSTIN lookup) to obtain LLPIN, PAN (4th-character holder type), GSTIN and status, and to confirm the entity exists before any commercial use."
+}

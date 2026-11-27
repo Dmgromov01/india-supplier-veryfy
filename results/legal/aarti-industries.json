@@ -1,0 +1,18 @@
+{
+ "name_input": "AARTI INDUSTRIES",
+ "legal_name": "Aarti Industries Limited (listed entity, BSE: 524208 / NSE: AARTIIND). NOTE: the input's 'legal_claimed' value is a natural person's name (Ashaben Rajendrakumar Patel), which is not a legal entity name; no proprietorship/firm of that name could be verified as the supplier, so the record is mapped to the listed company Aarti Industries Limited.",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat (registered office state per company profile; plants at Vapi, Jhagadia, Dahej, Kutch in Gujarat and Tarapur in Maharashtra)",
+ "state_claimed": null,
+ "mca_status": "Active — listed on BSE (524208) and NSE (AARTIIND), market cap ~INR 15,919 Cr as of 27 Nov (Screener.in company page); no strike-off/liquidation/insolvency indication found. MCA master-data page could not be opened (ZaubaCorp/TheCompanyCheck returned HTTP 403), so CIN, PAN, GSTIN, incorporation date and exact MCA status are left null rather than guessed.",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 7269,
+ "revenue_fy26_cr": 8286,
+ "revenue_source": "Screener.in company page (https://www.screener.in/company/AARTIIND/consolidated/), consolidated Profit & Loss, Sales row: FY Mar 2025 = 7,269 Cr; FY Mar 2026 = 8,286 Cr (standalone: 7,302 / 8,422 Cr). Figures are exchange-filed/audited-derived aggregations from a secondary aggregator, not the audited PDF itself — treat as high-confidence but secondary.",
+ "note": "Registry identifiers (CIN, PAN, GSTIN, incorporation date) are NOT confirmed: the search backend was unavailable (DuckDuckGo/searx connection refused) and registry aggregators blocked automated access (403), so these fields are null per the no-invention rule. What is confirmed from a public source: the entity exists and is listed (BSE 524208, NSE AARTIIND), is a manufacturer of specialty chemicals (NCB/DCB/PDA, sulphuric acid) with plants in Gujarat and Maharashtra, and reported consolidated sales of INR 7,269 Cr (FY25) and INR 8,286 Cr (FY26). The declared HS 320411 (synthetic organic colouring matter/disperse dyes) is not the company's core line (its portfolio is nitro-chloro-benzenes and intermediates), but per project rules HS mismatch is not a rejection ground — the code should be corrected to the actual product line at the shipment level. The 'legal_claimed' person name does not match any verified legal entity; if the intended supplier is a small proprietorship trading under the name 'Aarti Industries', it is a DIFFERENT entity from this listed company and must be re-verified separately — do not merge the two records. No rejection: entity exists and is active."
+}
