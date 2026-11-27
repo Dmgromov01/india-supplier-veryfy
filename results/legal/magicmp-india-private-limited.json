@@ -1,0 +1,18 @@
+{
+ "name_input": "MAGICMP INDIA PRIVATE LIMITED",
+ "legal_name": "MAGICMP INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, вердикт не выносится. Все попытки получить первоисточник в этом прогоне провалились по техническим причинам: web_search вернул 'searx: Connection refused' (бэкенд поиска недоступен); zaubacorp.com, thecompanycheck.com, mojeek.com — HTTP 403; instafinancials.com — HTTP 404 (страница с таким слагом отсутствует); google.com — HTTP 429; duckduckgo.com/html и lite.duckduckgo.com — таймаут; bing.com вернул нерелевантную выдачу (запрос не был учтён). Ни один реестровый факт (CIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка) не подтверждён публичным источником, поэтому все поля оставлены null, а не заполнены предположениями. Роль определена как 'unknown' — по названию и заявленному HS (380850 — дезинфицирующие средства/родентициды, 847720 — экструдеры для пластмасс/резины) нельзя отнести компанию ни к производителям, ни к трейдерам; это разные товарные группы, что само по себе требует проверки фактического профиля. Заявленный штат в инпуте отсутствует, поэтому сопоставление 'state_registered vs state_claimed' невозможно. Отклонять компанию НЕ следует: оснований для rejected (несуществование, strike off, ликвидация, банкротство) не установлено — отсутствие данных не равно отсутствию юрлица. Требуется повторный прогон при работающем поиске либо ручная проверка на mca.gov.in (MCA Master Data), а также на портале GST (gst.gov.in — поиск налогоплательщика по GSTIN/ PAN) и в реестре IBBI для проверки на банкротство. Выручка FY25/FY26: аудиторская отчётность не найдена, значения null — не выдуманы."
+}

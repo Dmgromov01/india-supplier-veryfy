@@ -1,0 +1,21 @@
+{
+ "name_input": "JRL Engicon",
+ "sanctions_hit": false,
+ "court_cases": [
+  {
+   "court": "Patna High Court (India)",
+   "case_no": "Civil Writ Jurisdiction Case No. 13516 of 2026",
+   "cnr": "BRHC010850692026",
+   "title": "M/s JRL Engicon Private Limited vs The State Of Bihar & Ors.",
+   "role": "Petitioner (company is the writ petitioner)",
+   "bench": "Justice Partha Sarthy",
+   "status": "Pending / listed; orders recorded on 29 September 2026 and 19 November 2026",
+   "nature": "Writ petition against the State of Bihar and others; subject matter not visible in the public search snippet (full order text not retrievable)",
+   "source": "https://indiankanoon.org/search/?formInput=%22JRL%20Engicon%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "SANCTIONS: No match. OpenSanctions consolidated dataset (sanctions + PEP + regulatory, data current as of 2026-11-27) returned 'No matching entities were found' for 'JRL Engicon' — https://www.opensanctions.org/search/?q=JRL+Engicon. OFAC SDN/Non-SDN list search page loaded (SDN list last updated 11/23/2026) but its lookup is a JavaScript form that returned no queryable results via plain HTTP, so a direct OFAC name-by-name hit could not be executed; no OFAC/UN/EU/UK/BIS listing was found by any other route. Treat sanctions as clean on available evidence, with the OFAC direct-check caveat. COURT: One genuine Indian court matter found — Patna High Court CWJC No. 13516/2026, company as PETITIONER against the State of Bihar, orders dated 29.09.2026 and 19.11.2026, still pending. This is a writ petition (typically a licensing/tender/regulatory grievance), not a criminal case against the company; per project rules it is not a rejection ground and is recorded neutrally. No other litigation found on Indian Kanoon. RATING: null — no credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork) is publicly attributable to this entity; not invented. NEWS/RISK: null — the web_search tool (DuckDuckGo/searx) was unavailable for the entire session ('Connection refused'), so negative-news and regulator-action screening could not be completed; this is a coverage gap, not a clean bill of health. Company registry pages (Zauba Corp, TheCompanyCheck) returned HTTP 403, so no MCA/regulator action data was retrievable. RF/CIS SUPPLY: null — no evidence found of supplies to Russia or CIS; an Indian Kanoon full-text search for 'JRL ENGICON' + Russia returned zero results, and no trade/customs record was located. Absence of evidence only, not confirmed absence. RECOMMENDATION: retain in database; no rejection grounds under project rules. Flag for re-screening of news/regulator actions and credit rating once the search backend is restored."
+}

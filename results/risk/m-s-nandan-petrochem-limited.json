@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S NANDAN PETROCHEM LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка рисков НЕ ВЫПОЛНЕНА в полном объёме: инструменты поиска были недоступны в момент проверки (DuckDuckGo/searx — connection refused, Google — HTTP 429, Bing — нерелевантная выдача, lite.duckduckgo.com и сторонние агрегаторы — timeout). OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-интерфейс, прямой GET-запрос не возвращает результатов поиска по имени, поэтому подтвердить отсутствие/наличие совпадения в SDN/Non-SDN списках не удалось. Проверка по UN Consolidated List, EU/UK sanctions lists, BIS Entity List, реестрам судов Индии (eCourts, NCLT, Supreme Court/HC), действиям регуляторов (SEBI/RBI/GST/EPFO), кредитным рейтингам (CRISIL/ICRA/CARE/India Ratings) и признакам поставок в РФ/СНГ не проводилась. Все поля оставлены null — данные не выдумывались. Единственный подтверждённый факт: сайт nandanpetrochem.com работает и принадлежит Nandan Petrochem Ltd. (бренды VELVEX, AdBlue, смазочные материалы, промышленные масла, toll blending, private labelling) — это маркетинговая информация, а не подтверждение отгрузок или отсутствия рисков. Требуется повторный прогон при восстановлении доступа к поиску и санкционным реестрам. По правилу 2 проекта: любые найденные в будущем санкции/суды/уголовные дела владельцев не являются основанием для отклонения — фиксировать нейтрально как «есть сложности»."
+}

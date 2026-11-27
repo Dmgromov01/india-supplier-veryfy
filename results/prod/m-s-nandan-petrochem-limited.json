@@ -1,0 +1,15 @@
+{
+ "name_input": "M/S NANDAN PETROCHEM LIMITED",
+ "declared_hs": "271019;382499",
+ "actual_hs_list": [
+  "2710.19 — petroleum oils other than crude (diesel engine oils, PCMO, motorcycle/three-wheeler oils, agri oils, gear & transmission oils, UTTO, ATF, hydraulic/cutting/machinery/compressor/refrigeration/gear oils, transformer oil, white oil, rubber process oil, MLCV oils)",
+  "2710.19 (or 3403.19 if lubricant preparations with additives are declared as such) — greases: chassis, MP3, multi-purpose lithium, lithium complex, high-temperature, wheel bearing, EP greases",
+  "3824.99 — chemical preparations n.e.s. (possible fit for additive packages / coolant concentrates, if so formulated)",
+  "3820.00 — anti-freezing preparations and prepared de-icing fluids (engine coolants / anti-freeze) — NOT in declaration",
+  "3102.10 / 3102.80 — nitrogenous fertilisers, aqueous urea solution (AdBlue® / DEF, 32.5% urea) — NOT in declaration; AdBlue is the flagship product line"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website nandanpetrochem.com (VELVEX brand, live, read 2026) lists: AdBlue® (aqueous urea / DEF) and AdBlue dispensing systems; automotive lubricants — diesel engine oils, passenger car motor oil, motorcycle oils, three-wheeler & CNG oils, agri oils, gear & transmission oils, UTTO, ATF, MLCV oils; coolants; industrial greases — red gel grease MP3, chassis grease, multi-purpose lithium grease, lithium complex grease, high-temperature grease, wheel bearing grease, extreme-pressure grease; speciality oils — transformer oil, white oil, rubber process oil; plus hydraulic, cutting, machinery, compressor, refrigeration and gear oils. Services: genuine/OEM oils, private labelling, toll blending.",
+ "role_hint": "manufacturer (own VELVEX brand, toll blending and private labelling services; no trader-only signs found on the site)",
+ "comment": "Declared 2710.19 is CORRECT and covers the bulk of the range (all lubricating oils and, in practice, greases). 3824.99 is only a plausible catch-all for additive packages/coolant concentrates — the site does not name a discrete 3824.99 product, so that line is 'заявлено, не подтверждено'. Two real product lines are MISSING from the declaration: (1) AdBlue® / aqueous urea solution — the company's flagship, which is a fertiliser-type product (HS 3102.10/3102.80), not 3824.99; (2) engine coolants/anti-freeze (HS 3820.00). Industry label 'Нефтегаз и химия' is imprecise: this is a lubricant blender/formulator (petroleum downstream + chemicals), not oil & gas E&P. No customs lines were available to me (registry/customs research out of scope per role), so all product-to-HS mapping above is based on the public catalogue only and is 'заявлено, не подтверждено' at the shipment level. Per Rule 3, the partial mismatch is NOT a rejection ground: company is kept, declared code 2710.19 confirmed, and 3102.10/3102.80 (AdBlue) and 3820.00 (coolants) should be added to the actual code list."
+}

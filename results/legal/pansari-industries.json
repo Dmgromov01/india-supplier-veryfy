@@ -1,0 +1,18 @@
+{
+ "name_input": "PANSARI INDUSTRIES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый факт не подтверждён публичным источником. Инструменты поиска были недоступны (DuckDuckGo/searx — connection refused; Google — HTTP 429; Bing выдавал нерелевантную выдачу), а реестровые агрегаторы и MCA отдали 403/404 (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, mca.gov.in). Входные данные противоречивы: в поле legal_claimed указано физлицо «SHAMMI AGARWAL», а не юрлицо, поэтому точное наименование юрлица, CIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и роль (manufacturer/trader) не установлены — null. Выручка FY25/FY26 не найдена в аудированной отчётности или официальных подачах — null (не выдумывалась). Отклонение НЕ применяется: отсутствие подтверждения не равно несуществованию/ликвидации/банкротству (правило 3). Требуется повторная проверка при доступном реестре (MCA master data по CIN/наименованию, GST-портал по GSTIN, аудированная отчётность)."
+}
