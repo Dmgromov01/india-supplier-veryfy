@@ -1,0 +1,18 @@
+{
+ "name_input": "SURENDRA COMPOSITES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused'; zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403/404; tofler.in — 404 (страница компании не найдена); mca.gov.in (Company/LLP Master Data) — HTTP 403; google.com — HTTP 429; duckduckgo.com/html — timeout; bing.com отдавал нерелевантную выдачу (не по теме запроса), пригодных сниппетов нет. В результате НЕ подтверждено: точное юр. наименование, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN и статус GST, дата инкорпорации, штат регистрации, статус в MCA. Штат в исходных данных не заявлен (state_claimed пусто), поэтому сопоставление 'штат регистрации vs заявленный' невозможно. Роль определена как unknown: отрасль в исходных данных указана как 'IT и электроника', а заявленный HS 854690 (электроизоляционные изделия) с названием 'Composites' не согласуется — но это не основание для отклонения, код подлежит исправлению на фактический после проверки. ВЫРУЧКА FY25/FY26: null — аудиторская отчётность и официальные филинги недоступны, цифры не выдумывались. ВЕРДИКТ: не отклонять и не принимать — статус 'требует повторной проверки' (pending re-check). Оснований для rejected нет: сведений о ликвидации/банкротстве/отсутствии юрлица не получено, но и существование юрлица документально не подтверждено. Рекомендация: повторить запрос при доступном MCA-портале или через платный реестр (Tofler/Probe42/Crediwatch) с указанием CIN."
+}

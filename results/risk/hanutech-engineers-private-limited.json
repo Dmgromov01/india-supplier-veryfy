@@ -1,0 +1,9 @@
+{
+ "name_input": "HANUTECH ENGINEERS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструмент web_search (DuckDuckGo/searx) возвращал ошибку соединения (Connection refused / timeout) на всех запросах; резервные попытки через bing.com и duckduckgo html/lite выдавали нерелевантную выдачу (результаты про садовые растения, NHL и т.п.), т.е. поиск фактически не работал. Прямой доступ к реестрам закрыт: zaubacorp.com — HTTP 403, google.com — HTTP 429. Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылась, но это только интерфейс поиска без параметров запроса — фактический матчинг по имени выполнить не удалось, поэтому sanctions_hit = null (не подтверждено ни наличие, ни отсутствие). По всем остальным полям (судебные дела, рейтинг, негативные новости, поставки в РФ/СНГ) публичных данных получить не удалось — null, а не «чисто». ВАЖНО: null здесь означает «нет данных», а не «рисков не выявлено». Компания НЕ отклоняется по правилу 2 (санкции/суды/уголовные дела не являются основанием для отклонения). Требуется повторный прогон при восстановлении доступа к поиску и к реестрам (MCA/zaubacorp/tofler, eCourts, NCLT, OFAC/UN/EU/UK/BIS consolidated list, CRISIL/ICRA/CARE)."
+}
