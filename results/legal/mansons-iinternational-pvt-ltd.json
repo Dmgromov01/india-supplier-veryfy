@@ -1,0 +1,18 @@
+{
+ "name_input": "MANSONS IINTERNATIONAL PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; direct http_get to registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404; MCA portal (mca.gov.in) returned HTTP 403; Google returned HTTP 429; Bing returned only irrelevant generic 'AV' results, no company pages. Consequently no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source. Per project rules, nothing is inferred or invented: all fields set to null. IMPORTANT DATA-QUALITY FLAG for the batch owner: the input record is internally inconsistent - the 'name' field is 'MANSONS IINTERNATIONAL PVT. LTD' (with a typo, double 'I') while 'legal_claimed' is a completely different entity, 'AV TRADELINK PRIVATE LIMITED'. These are two distinct names and cannot both be the subject; the record must be clarified before verification. No rejection is issued, because non-existence/struck-off/liquidation/bankruptcy was NOT established - the entity status is simply unverified. Role left as 'unknown' (no evidence of manufacturing or trading activity). Revenue FY25/FY26 null - no audited accounts or official filings accessible. Declared HS codes 847490/848220 (parts of mineral-processing machinery / tapered roller bearings) were not assessed, as HS mismatch is not a rejection ground under current rules. Recommend re-running this company once search/registry access is restored, and confirming which of the two names is the actual supplier."
+}

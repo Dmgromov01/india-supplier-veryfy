@@ -1,0 +1,9 @@
+{
+ "name_input": "MANSONS IINTERNATIONAL PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both queries; html.duckduckgo.com timed out; google.com returned HTTP 429; zaubacorp.com returned HTTP 403; bing.com returned only unrelated generic results (Advance Auto Parts, avclub.com) with no exact-phrase match for either 'Mansons International'/'Mansons Iinternational' or 'AV Tradelink Private Limited'. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and returned no query results via plain GET, so no SDN/Non-SDN screening was actually performed — sanctions_hit is null because unverified, NOT because cleared. No UN/EU/UK/BIS Entity List screening performed. No Indian court records (eCourts/NCLT/High Court), regulator actions, credit rating (CRISIL/ICRA/CARE/India Ratings) or Russia/CIS supply evidence could be retrieved. Also note the input itself is internally inconsistent: name_input 'MANSONS IINTERNATIONAL PVT. LTD' vs legal_claimed 'AV TRADELINK PRIVATE LIMITED' — two different entities; risk screening cannot be attributed to a single legal person until this is resolved (out of my scope per role, flagging for the identity/legal researcher). Per project rules this is NOT a rejection ground and no negative inference should be drawn; status is 'not verified — data unavailable'. Recommend re-run when search backend is restored, plus manual OFAC/EU/UK/BIS list screening and eCourts lookup."
+}

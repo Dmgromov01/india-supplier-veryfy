@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S VIVIDH WIRES LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: DuckDuckGo-поиск (searx) вернул 'Connection refused'; Bing выдал нерелевантную выдачу (посторонние сайты, кэш/AI-выдача), Google — HTTP 429; профили реестров ZaubaCorp и TheCompanyCheck — HTTP 403; Instafinancials и QuickCompany — 404 (страница с таким slug отсутствует); Tofler — 404. Таким образом, ни точное юр. наименование, ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации, ни статус MCA из публичного источника не подтверждены — все поля null, ничего не додумано. Заявленное в входных данных наименование 'VIVIDH WIRES LIMITED' и форма 'Ltd' не верифицированы; также не подтверждено, является ли лицо компанией (Limited) или иной формой. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26 не найдена ни в аудированной отчётности, ни в официальных филингах — null. Оснований для отклонения (rejected) НЕТ: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно доказательству несуществования/ликвидации/банкротства. Требуется повторная проверка при доступности MCA-портала (mca.gov.in / MCA master data) или GST-портала (gst.gov.in search taxpayer) — рекомендую запросить у поставщика скан PAN/GST-свидетельства и CIN для прямой сверки."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "SSSA INDUSTRIES PRIVATE LIMITED",
+ "legal_name": "SSSA INDUSTRIES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx: connection refused) on every query, so no search results were obtainable. Direct fetches of registry/aggregator profiles failed: zaubacorp.com company page and company search returned HTTP 403; thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404; tofler.in search returned a 404 page; mca.gov.in Master Data page returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned irrelevant results (no matching company page). Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable here, NOT confirmed absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role is 'unknown' - the claimed industry (IT/electronics) and declared HS 902139 (orthopaedic/appliance-type goods) are unverified and, per project rules, HS mismatch is not a rejection ground. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Recommended next step: re-run with working search access and check MCA Master Data by name, then GST portal/aggregator profile for GSTIN and state."
+}

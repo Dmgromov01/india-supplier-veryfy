@@ -1,0 +1,18 @@
+{
+ "name_input": "VANSHI CHEMICALS PVT LTD",
+ "legal_name": "VANSHI CHEMICALS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: no public record could be retrieved. All search backends failed during this run (DuckDuckGo connection refused / timeout, Google HTTP 429, Bing returned unrelated results), and registry aggregators (zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials.com) plus mca.gov.in all returned HTTP 403/404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable with available tools, NOT confirmed absent. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role left as 'unknown' — the claimed name contains 'CHEMICALS' and declared HS 320413/320416 (synthetic organic colouring matter / dyes) is consistent with a chemicals manufacturer or trader, but this is a name/HS inference only, not a verified activity. State claimed in input was empty, so no state mismatch can be assessed. NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established — the entity simply could not be verified. Recommend re-running with working search/registry access (MCA master data, GST portal search by trade name) before any acceptance decision."
+}

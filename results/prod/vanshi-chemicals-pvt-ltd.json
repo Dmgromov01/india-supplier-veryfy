@@ -1,0 +1,18 @@
+{
+ "name_input": "VANSHI CHEMICALS PVT LTD",
+ "declared_hs": "320413;320416",
+ "actual_hs_list": [
+  "320413",
+  "320416",
+  "320419",
+  "320412",
+  "321290",
+  "382200",
+  "292700",
+  "320490"
+ ],
+ "match_status": "partial",
+ "product_summary": "Catalogue (IndiaMART storefront of Vanshi Chemicals Private Limited, MIDC Tarapur, F-4/10, Boisar, Palghar, Maharashtra; GST 27AABCV2713K1ZB; CIN U24241MH1984PTC033089 as displayed on the page) lists four product families: (1) HC dyes / hair-colour dyes — HC Yellow 2, HC Yellow 11, HC Red 1, HC Red B54, HC Blue 15, HC Violet BS, Basic Red 51, Basic Red 76, Basic Blue 124, Basic Brown 17, Basic Orange 31, Basic Yellow 87 (cationic/basic dyes for hair colouring); (2) synthetic organic (basic/cationic) dyes — Basic Yellow 1, Basic Red 2, Basic Brown 17, Basic Orange 31, Basic Yellow 87, Janus Green B, diethyl safranine; (3) electroplating chemicals — Thioflavin T, Basic Yellow 1, Janus Green B, Basic Red 2 (safranine O); (4) biological stains / pH indicators — Methylene Blue (zinc-free, double salt), Basic Blue 9, Safranin O. Self-description: 'manufacturing & exporting speciality chemicals, electroplating chemicals, hair colors and dyes, biological stain, antihalation dyestuff'.",
+ "role_hint": "manufacturer_trader — page states 'Nature of Business: Service Provider and Others' and 'manufacturing & exporting', but the catalogue is dominated by standard C.I.-named basic/cationic dyes and lab stains that are widely traded; no plant/technical documentation of synthesis was visible on the fetched page. Manufacturer claim is 'заявлено, не подтверждено'.",
+ "comment": "HS mapping vs declared 320413 (basic dyes) and 320416 (reactive dyes): 320413 is CORRECT and is the core of the range — Basic Yellow 1/87, Basic Red 2/51/76, Basic Blue 9/124, Basic Brown 17, Basic Orange 31, Janus Green B, Safranin O, Thioflavin T, Methylene Blue are all cationic/basic dyes. 320416 (reactive dyes) is NOT corroborated: no reactive dye (e.g. CI Reactive) appears anywhere in the catalogue — this line is 'заявлено, не подтверждено' and should be dropped or replaced. Missing from the declaration: 320419 (other synthetic organic colouring matter / preparations, for the HC direct dyes and dye blends such as 'Basic Red 51 and Basic Red 76' mixed product); 321290 (dyes put up as hair-colour preparations, if sold as colouring preparations rather than bulk dye); 382200 (biological stains / pH indicators — Methylene Blue, Safranin O, Thioflavin T as lab reagents); 292700 (diazo/azo compounds, if diethyl safranine-type intermediates are sold as such); 320490 (synthetic organic products used as luminophores, only if applicable — low confidence). Industry label 'Нефтегаз и химия' (oil & gas and chemicals) is a MISCLASSIFICATION: the company is a specialty dye / hair-colour / electroplating-dye / lab-stain maker, with no oil & gas product line visible; correct segment is fine chemicals / dyes & pigments. Trader signs: 'Service Provider and Others' business nature, IndiaMART-only storefront, no own website reachable (vanshichemicals.in does not resolve), product mix of commodity C.I. dyes and lab stains. Per project rules the HS mismatch is NOT a rejection ground — company is retained, code corrected to 320413 (+320419/382200/321290 as applicable) and 320416 flagged as unconfirmed. No customs/B-L line was available to me in this task, so all product lines are 'заявлено, не подтверждено' at shipment level; registry, revenue and customs-volume checks were out of scope."
+}
