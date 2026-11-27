@@ -1,0 +1,8 @@
+{
+ "name_input": "ALFANZYME LIFESCIENCE",
+ "export_status": "confirmed",
+ "export_evidence": "ImportKey India customs records (https://importkey.com/countries/india/alfanzyme-lifescience), counter: 'Total Shipments 4 Records detected', rows actually seen: 4. Exact line: '2025-04-26 | ALFANZYME LIFESCIENCE -> ALMA - TEK LTD. - RUSSIA ... NHAVA SHEVA SEA INNSA1, India -> St Petersburg Ex Le, RUSSIA | HS 35079069 | BOL 1302394'. Other rows: 2025-04-25, HS 35079069, BOL 1277253, same buyer/destination; 2024-08-07, HS 35079069, BOL 3024916, JNPT Nhava Sheva -> St Petersburg, goods 'Dextralyze'; 2024-07-06, HS 35079069, BOL 2223948, same lane. Trading partners: 2 (ALMA-TEK LTD, Moscow). Ports: 4 lanes.",
+ "domestic_status": "unknown",
+ "domestic_evidence": null,
+ "note": "Export side is factually confirmed: 4 dated customs/B-L records, all exports to Russia (ALMA-TEK LTD, Moscow), HS 35079069 (matches declared 350790, enzyme preparations), last shipment 2025-04-26. Domestic supply evidence not established: web_search tool was unavailable (searx connection refused) for the whole session, so GST turnover band, GeM/CPPP tenders and annual-report splits could not be retrieved; zaubacorp returned HTTP 403. No domestic shipment/contract record was seen, therefore domestic_status = unknown (not 'none_found' — absence was not verified, only unsearched). Revenue and export volume: null, not public in the free view. Legal entity name 'LEENA BAISHNAB PADIHARI' not verified against any registry (registries out of scope)."
+}

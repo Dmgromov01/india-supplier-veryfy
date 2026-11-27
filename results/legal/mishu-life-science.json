@@ -1,0 +1,18 @@
+{
+ "name_input": "MISHU LIFE SCIENCE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. The input itself is internally inconsistent: 'legal_claimed' is given as 'SUMAN KANWAR', which is a person's name, not a legal entity name, and no state, PAN or GSTIN was supplied. 'MISHU LIFE SCIENCE' does not appear as a company/LLP name in any accessible MCA-derived source. It is most likely a sole proprietorship or unregistered trade name (proprietorships have no CIN/LLPIN and no MCA status), but this is an inference, not a finding. Tooling failure: DuckDuckGo search backend refused connections; Google returned HTTP 429; Zaubacorp and InstaFinancials returned HTTP 403; TheCompanyCheck search requires authentication; Bing returned only unrelated results for every query variant tried ('MISHU LIFE SCIENCE' + Suman Kanwar, + GST, + site: filters). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null - not public/not retrieved, NOT confirmed absent. Per project rules the entity is NOT rejected: non-existence was not established, only non-verification. Role left as 'unknown' - the claimed industry 'IT and electronics' with declared HS 902790 (measuring/checking instruments) is inconsistent with a 'life science' trade name, but HS mismatch is not a rejection ground and the actual code must be corrected on verification. Revenue: no audited accounts or official filings located, so null per rule 4. Recommended next step: obtain the proprietor's PAN and GSTIN directly from the supplier, then re-check on the GST portal and MCA; if a GSTIN is produced, the PAN 4th-character rule will settle the holder type (P = individual/proprietorship, C = company, F = firm, etc.)."
+}

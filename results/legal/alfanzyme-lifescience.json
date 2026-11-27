@@ -1,0 +1,18 @@
+{
+ "name_input": "ALFANZYME LIFESCIENCE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data could be retrieved. Tooling failure during this run: the web_search backend refused connections (searx: Connection refused) on both queries; Bing and Google returned unrelated/blocked results (Bing ignored the query and served unrelated pages, Google returned HTTP 429); Zauba Corp and Instafinancials returned HTTP 403; Tofler search returned 404; the MCA portal host (search.mca.gov.in) did not resolve. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source, so all such fields are null and role is 'unknown'. The input itself is internally inconsistent: 'legal_claimed' contains a personal name (LEENA BAISHNAB PADIHARI), which is a likely proprietor/partner/director name rather than a company legal name - this suggests the entity may be a proprietorship or a small private limited company, but this is an unverified inference and must not be treated as fact. Declared HS 350790 (enzymes) is consistent with the 'Lifescience' name but is not evidence of anything. Per project rules, no rejection is applied: absence of retrievable data is not proof of non-existence, strike-off, liquidation or bankruptcy. ACTION REQUIRED: re-run this company when the search backend is restored, or supply the CIN/GSTIN directly; the record should remain unverified until then. No revenue figures were estimated or invented."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "P.G. FOILS LIMITED",
+ "legal_name": "P.G. Foils Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - all data sources unreachable in this session. web_search returned 'Connection refused' (searx backend down); zaubacorp.com and thecompanycheck.com returned HTTP 403; moneycontrol 403; screener.in 404; wikipedia 429; google 429; duckduckgo timed out; company website pgfoils.com connection refused; BSE page returned only a generic shell with no company data. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all reported as null - NOT verified, not invented. Working hypothesis only (unconfirmed, must be re-checked against MCA/Zauba/BSE): the entity is believed to be a listed company on BSE (scrip id 530167, ticker PGFOILS) with a Rajasthan-registered office, which would make state_registered = Rajasthan; the input's state_claimed field was empty, so no state mismatch can be assessed. Role is provisionally 'manufacturer' because the declared HS codes (7607 aluminium foil, 3921 plastic laminates) match a foil/packaging converting operation, but this is an inference from HS codes, not a verified fact. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling failure, not a negative finding. ACTION REQUIRED: re-run this company when search/registry access is restored, and pull revenue from the audited annual report / BSE filings before any commercial use."
+}
