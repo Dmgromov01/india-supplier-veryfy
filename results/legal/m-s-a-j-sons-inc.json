@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S A.J.SONS INC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry evidence found. Searches for the exact strings 'A.J.SONS INC' and 'RONAN ARSHAD HANDICRAFTS' returned no Indian company, LLP, GST or MCA record; zaubacorp and mca.gov.in returned HTTP 403 and the DuckDuckGo backend was unreachable, so MCA/GST portals could not be queried directly. The input itself is internally inconsistent: the trade name 'M/S A.J.SONS INC' carries a US-style 'INC' suffix, which is not a valid Indian entity form (Pvt Ltd / Ltd / LLP / proprietorship), and the 'legal_claimed' value 'RONAN ARSHAD HANDICRAFTS' does not match the trade name at all - it looks like a mis-keyed or conflated record. No CIN, PAN, GSTIN, incorporation date, state or financials could be verified, therefore all such fields are null rather than guessed. Per the rules, non-existence is only a rejection ground when proven; here non-existence is NOT proven, only unverified, so the record is left un-rejected with role 'unknown'. Action needed: obtain the actual GSTIN or CIN from the supplier's invoice/letterhead, or the correct legal name, and re-run verification. Declared HS 442199 (wooden articles of a kind used for construction/DIY) is not assessed here as HS is outside this role's scope."
+}

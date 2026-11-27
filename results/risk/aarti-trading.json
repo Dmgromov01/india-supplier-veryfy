@@ -1,0 +1,9 @@
+{
+ "name_input": "AARTI TRADING",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. All search tooling failed during this run: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo lite and Brave returned timeouts / HTTP 429; Google returned HTTP 429; Bing returned an identical cached result set of Hindu devotional-song pages for every query variant, i.e. no relevant hits. Consequently nothing could be checked against OFAC SDN, UN, EU, UK or BIS Entity List, no Indian court records (e.g. eCourts/NJDG) were retrieved, no regulator actions or negative news were found, no credit rating was located, and no evidence of supplies to Russia/CIS was found. IMPORTANT: these nulls mean 'not verified', NOT 'clean' - do not read them as a negative finding. Also note the name 'AARTI TRADING' is a generic trade name with no PAN/CIN/state supplied in the input, so even with working search it would likely be ambiguous and require the legal entity identifier to disambiguate (there are multiple unrelated Indian firms using 'Aarti' trade names). Per project rules this is not a rejection ground and no rejection is proposed; the company should be re-queued for risk verification once search access is restored and a PAN/CIN is supplied. No sanctions, court, rating or RF-supply facts are asserted here because none were sourced."
+}

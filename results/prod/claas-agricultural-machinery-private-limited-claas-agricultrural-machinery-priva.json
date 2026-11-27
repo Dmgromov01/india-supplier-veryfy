@@ -1,0 +1,20 @@
+{
+ "name_input": "CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTRURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PVT LTD; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICUTURAL MACHINERY PVT. LTD.; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED; CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED",
+ "declared_hs": "848291",
+ "actual_hs_list": [
+  "8433.51",
+  "8433.52",
+  "8433.59",
+  "8433.20",
+  "8433.30",
+  "8433.40",
+  "8432.80",
+  "8701.90",
+  "8429.51",
+  "8436.80"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Реальный продуктовый ряд (по официальному сайту CLAAS, раздел India / Agricultural machinery, https://www.claas.com/en-in/agricultural-machinery и подстраницам /tractors, /balers, /forage-harvesters): тракторы серий ARION 400 / ARION 4 CMATIC, AXION, NEXOS 2 (8701.90 — тракторы прочие, колёсные); самоходные кормоуборочные комбайны JAGUAR 800/900/1000 с приставками ORBIS, PICK UP, DIRECT DISC (8433.59 — машины уборочные прочие; приставки/жатки — 8433.20/8433.30); зерноуборочные комбайны (8433.51); пресс-подборщики рулонные VARIANT, ROLLANT, ROLLANT 520 RF и тюковые QUADRANT 5300 EVOLUTION, CEREX (8433.40); кормоуборочная техника — косилки, ворошители, валкообразователи (8433.20/8433.30); фронтальные погрузчики и колёсные погрузчики TORION 644/738 SINUS (8429.51); цифровые решения Smart Farming, запчасти и комплектующие (напр. ножи барабана, обвязочные сети/шпагат для тюков — 5607/3926, отдельно не декларированы).",
+ "role_hint": "manufacturer_trader",
+ "comment": "Заявленный код 8482.91 — «шарикоподшипники прочие» (подшипники, включая комбинированные шарико-роликовые). Это узкая позиция комплектующих, а не продукция компании: CLAAS Agricultural Machinery Pvt Ltd — индийское подразделение немецкой CLAAS KGaA mbH, чей заявленный и подтверждённый сайтом профиль — сельскохозяйственная техника (комбайны, тракторы, пресс-подборщики, кормоуборочная техника, погрузчики). Соответствие HS: WRONG — код не соответствует ни одной товарной линии из каталога; возможен вариант, что 8482.91 отражает лишь импортную/сервисную позицию подшипников для сборочного/сервисного центра, но это ничем не подтверждено. Отрасль в декларации («Металлургия и горнодобыча») — ошибочная классификация: фактическая отрасль — сельскохозяйственное машиностроение (HS 8432/8433/8701), с элементами торговли техникой и запчастями (признаки трейдера: дилерская сеть, разделы «Service & Parts», «Spare parts & accessories», «used machines»). Согласно правилу 3 компания НЕ отклоняется: код исправляется на фактический, вердикт accepted_hs_corrected. Рекомендуемые коды для декларирования: 8433.51/8433.59 (комбайны), 8433.40 (пресс-подборщики), 8433.20/8433.30 (косилки/грабли), 8701.90 (тракторы), 8429.51 (погрузчики); 8482.91 оставить только как сопутствующую позицию запчастей. Все товарные линии взяты с сайта производителя — по правилу 5 это статус «заявлено, не подтверждено» таможенной линией; фактических экспортных/таможенных записей по данной компании в рамках этой проверки не исследовалось (вне роли). Примечание: домен claas.in не принадлежит компании (выставлен на продажу), официальный индийский раздел — claas.com/en-in; revenue/объёмы не проверялись по условиям роли."
+}
