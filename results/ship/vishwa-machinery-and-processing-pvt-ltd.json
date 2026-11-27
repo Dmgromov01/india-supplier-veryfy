@@ -1,0 +1,8 @@
+{
+ "name_input": "VISHWA MACHINERY AND PROCESSING PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/vishwa-machinery-and-processing-pvt-ltd loaded only a paywalled shell: \"Shipments available for VISHWA MACHINERY AND PROCESSING PVT LTD, refreshed daily\" — 0 actual shipment rows rendered (source counter: page claims available records; rows actually seen: 0). No bill-of-lading number, date, destination or HS code was visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. ZaubaCorp, TheCompanyCheck, Volza, Eximpedia, Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge; DuckDuckGo search backend was unreachable (connection refused / timeout). 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники оказались недоступны (403 / JS-challenge / поисковик не работал), поэтому статус по экспорту и внутреннему рынку — unknown, а не none_found. Ни одной записи об отгрузке (B/L, дата, направление, HS) получить не удалось; заявления сайта/каталога фактом не считались. Заявленный HS 843490 (части бурового/проходческого оборудования) не подтверждён и не опровергнут — фактический код не установлен, поэтому HS не исправлялся. Юрлицо не проверено по реестру (ZaubaCorp 403), сведений о ликвидации/банкротстве нет — оснований для rejected нет. Выручка и объём экспорта: null (не публичны / не получены). Требуется повторная проверка при доступных источниках (MCA master data, DGFT, GeM)."
+}
