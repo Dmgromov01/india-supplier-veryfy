@@ -1,0 +1,9 @@
+{
+ "name_input": "ALLIED SOLUTIONS (INDIA) PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. No public record could be retrieved for this exact entity name, so every field is null rather than a negative finding. (1) Sanctions: OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) is a JavaScript form and returns no queryable results via direct fetch; the SDN CSV export (sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) was retrieved but truncated at the first ~6,000 characters (Cuba program, alphabetical A–F entries only), so an 'Allied Solutions' entry could neither be confirmed nor excluded. UN, EU, UK OFSI and BIS Entity List were not checked — no access. (2) Indian courts (NCLT/HC/SCI), regulator actions and negative news: not checked — the DuckDuckGo search backend returned 'Connection refused' on all attempts, Google returned HTTP 429, and Bing ignored the quoted query and returned only generic US 'Allied' companies (Allied Universal, Allied Benefit, Allied Electronics), which are unrelated. (3) Credit rating (CRISIL/ICRA/CARE/India Ratings): no public rating located; null. (4) Russia/CIS supply evidence: none found, but this is an absence of search results, not a verified negative. Caveat on name ambiguity: 'Allied Solutions' is a high-collision name (multiple unrelated Indian and foreign firms), so any future hit must be matched on CIN/PAN before attribution. Per project rules, no rejection is proposed on this basis — the company stays in the database pending a re-run with working search access. Recommend re-verification when the search backend is restored."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Makiko Engineering & Projects Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Ни один реестровый источник не удалось прочитать: web_search (DuckDuckGo/searx) возвращал 'Connection refused' / таймаут; zaubacorp.com, thecompanycheck.com, falconebiz.com — HTTP 403; instafinancials.com и tofler.in — 404 (страница с таким слагом отсутствует); Google — 429; Bing вернул нерелевантную выдачу (кэш-мусор, ни одного упоминания компании); домен makiko.in не резолвится. Следовательно exact legal entity name, CIN, PAN, GSTIN, GST status, дата инкорпорации, штат регистрации, MCA status и выручка FY25/FY26 — null: публично не получено в рамках этой проверки, а не 'отсутствует'. Юрлицо НЕ отклонено: оснований для rejected (не существует / struck off / ликвидировано / банкрот) не установлено — статус просто не проверен. Роль оставлена 'unknown' (заявленные HS 850211-850220 — генераторные установки с ДВС, что намекает на manufacturer_trader, но это домысел без подтверждения). Требуется повторный прогон с доступом к MCA-выписке / GST-порталу (например, через платный API или ручную выгрузку MCA master data), после чего заполнить CIN, PAN (4-й символ = тип держателя: P — Private Ltd, C — Company, F — Firm, H — HUF, A — AOP, T — Trust, I — Individual), GSTIN и штат по коду первых двух цифр GSTIN."
+}

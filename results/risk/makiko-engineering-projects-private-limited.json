@@ -1,0 +1,9 @@
+{
+ "name_input": "Makiko Engineering & Projects Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', затем таймаут; Bing по запросам 'Makiko Engineering and Projects Private Limited' и 'Makiko Engineering and Projects' выдавал полностью нерелевантные результаты (китайские словари, прокат автомобилей, школы Торонто) — признак того, что релевантных индексированных страниц по этому юрлицу не найдено либо выдача искажена. Прямые обращения к реестрам и агрегаторам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, search.mca.gov.in — DNS не разрешается, Google — HTTP 429. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) проверить не удалось — ни одного подтверждения присутствия или отсутствия не получено, поэтому null, а не false. Судебные дела (NCLT/NCLAT, eCourts, High Court), действия регуляторов (CEA, CERC, MNRE, GST-ведомство), негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings/Acuite) и признаки поставок в РФ/СНГ — данных нет, все поля null. Никакие сведения не выдумывались: CIN, PAN, номера дел и записи об отгрузках отсутствуют в открытом доступе по результатам этой сессии. Требуется повторный прогон при работающем поиске и доступе к MCA/eCourts; по правилу 2 отсутствие данных не является основанием для отклонения — компания сохраняется в базе со статусом 'не проверено'."
+}

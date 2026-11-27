@@ -1,0 +1,8 @@
+{
+ "name_input": "VIRENDER KUMAR AGGARWAL",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/virender-kumar-aggarwal (and slug variants -1, -2) returned only the page shell: 'Shipments available for VIRENDER KUMAR AGGARWAL, refreshed daily' with 'Loading...' and no shipment table; rows actually seen = 0 (source counter claims data exists, but 0 records were rendered). No bill-of-lading number, date, destination or HS code was visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved: web_search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on both queries, and volza.com / eximpedia.app returned 'HTTP Error 403: Forbidden'. Rows actually seen = 0.",
+ "note": "Individual proprietor name (sole-proprietor style), not a company name — no CIN/PAN is public and none was claimed, so no registry match is possible. Declared HS 851680 (electric water heaters / heating resistors) is unverified against any shipment record; per project rules HS mismatch is not a rejection ground and no correction can be made without an actual customs line. No evidence of shipments found in either direction, but this is a tooling limitation, not proof of absence: the search backend was down and the two trade-data portals were blocked (403) or JS-only. export_status and domestic_status are therefore 'unknown', not 'none_found' — do not read this as 'следов поставок не найдено' confirmed, and do not read it as confirmed either. Revenue and export volume: null (not public, not invented). Recommend re-run when web_search is restored and a logged-in importkey/volza view is available."
+}
