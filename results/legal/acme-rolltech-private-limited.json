@@ -1,0 +1,18 @@
+{
+ "name_input": "Acme Rolltech Private Limited",
+ "legal_name": "Acme Rolltech Private Limited (name as used on company website acmerolltech.com; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session: the web_search backend was down (searx connection refused) and all registry aggregators returned HTTP 403/404 (zaubacorp, thecompanycheck, instafinancials company page) or were rate-limited (Google 429, DuckDuckGo timeout); Bing returned only irrelevant US 'Acme' results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — NOT public/not retrieved, not invented. What IS confirmed from the company's own website (acmerolltech.com, homepage): the firm presents itself as 'India's first indigenous anilox roll manufacturing company', states it was 'pioneers since 2018', manufactures ceramic anilox rolls and sleeves and offers roll refurbishing/cleaning — i.e. a manufacturing role, not a trader. Contact phone +91 99250 08300, email info@acmerolltech.com. The site claims exports ('Exporting To More Than Countries' — the number is blank in the template) but this is a marketing claim only, not a shipment record, so per project rules it is 'заявлено, не подтверждено'. Note on HS: declared code 844399 (parts of printing machinery) is broadly consistent with anilox rolls/sleeves for printing presses, but the claimed industry 'IT и электроника' does not match the actual activity (printing-machinery consumables / industrial manufacturing) — industry should be corrected to printing/packaging machinery components; HS itself is not a rejection ground. No rejection: no evidence of non-existence, strike-off, liquidation or bankruptcy was found, but MCA status remains unverified and must be re-checked against MCA master data before onboarding. Recommended follow-up: pull MCA master data + GSTIN from a working registry source."
+}

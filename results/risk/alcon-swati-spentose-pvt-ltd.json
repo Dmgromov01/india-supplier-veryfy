@@ -1,0 +1,9 @@
+{
+ "name_input": "Alcon (Swati Spentose Pvt. Ltd)",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT VERIFIED. Tooling failure: the DuckDuckGo/searx backend returned 'Connection refused' on every query; Google returned HTTP 429; Bing silently dropped the distinctive query terms ('Swati Spentose', 'Alcon Laboratories India') and returned only generic alcon.com / swati.com cosmetics pages, so no usable third-party source was obtained. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) is a JavaScript form and could not be queried via http_get, so no SDN/UN/EU/UK/BIS screening result is asserted — sanctions_hit is null, NOT a clean bill of health. No Indian court records (eCourts/NCLT/NCLAT), regulator actions (CDSCO/USFDA/state FDA), credit rating (CRISIL/ICRA/CARE/India Ratings) or negative news could be retrieved; all set to null rather than guessed. No evidence of supplies to Russia or CIS found, but this reflects absence of retrievable sources, not a verified negative. Identity caveat for the researcher: the batch name conflates two distinct entities — 'Alcon Laboratories (India) Private Limited' is the Indian arm of the Alcon/Novartis eye-care multinational, while 'Swati Spentose Pvt. Ltd.' is an unrelated Mumbai-headquartered API/formulation manufacturer with plants in Vapi, Gujarat (per its own site swatispentose.com, which lists USFDA, COFEPRIS, Korean MFDS and WHO-GMP inspections and claims clients in 70+ countries — self-declared, not independently confirmed). Which legal entity is actually the counterparty must be resolved before any risk conclusion; the two have entirely different ownership, sanctions and litigation profiles. Per project rules, nothing here is a rejection ground; recommend re-running the sanctions/court/rating checks once search access is restored."
+}

@@ -1,0 +1,23 @@
+{
+ "name_input": "Alcon (Swati Spentose Pvt. Ltd)",
+ "declared_hs": "292419;293399;294200;300439",
+ "actual_hs_list": [
+  "293499 (Pentosan Polysulfate Sodium - sulphated xylan polysaccharide, API)",
+  "292429 (Lidocaine base/HCl, Prilocaine base/HCl, Articaine HCl, Tetracaine base/HCl - amide-type local anaesthetics)",
+  "293339 (Granisetron HCl - piperidine/indazole derivative)",
+  "293349 (Silodosin, Tamsulosin - quinazoline/indoline derivatives)",
+  "293499 (Meloxicam - thiazine; Melatonin - indole)",
+  "293729 (Dutasteride, Finasteride - steroid derivatives)",
+  "293722 (Triamcinolone, Triamcinolone acetonide, Halobetasol propionate, Fluocinolone acetonide - halogenated corticosteroids)",
+  "293723 (Estradiol hemihydrate, Ethinyl estradiol - oestrogens)",
+  "293723/293729 (Drospirenone, Desogestrel, Dienogest, Levonorgestrel, Norgestrel, Gestodene, Tibolone, Ulipristal acetate, Cyproterone acetate - progestins/steroids)",
+  "293499 (Mirabegron, Glycopyrronium bromide)",
+  "300490 (finished dosage: Pentosan Polysulfate capsules/instillation, Silodosin, Mirabegron, Alfuzosin+Tadalafil, Melatonin PR tablets)",
+  "300490 (OTC/nutraceutical: Coenzyme Q10+Resveratrol, L-Arginine/L-Carnitine sachets, melatonin 5mg)",
+  "300490/300439 (veterinary Pentosan Polysulfate injection)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Two distinct entities are conflated in the record. (1) 'Alcon Laboratories (India) Private Limited' is the Indian arm of Alcon Inc. (Switzerland/US) - an eye-care company: surgical equipment (phaco, vitreoretinal), intraocular lenses, contact lenses and lens-care solutions, ophthalmic pharmaceuticals (dry eye, glaucoma, anti-infective/anti-inflammatory eye drops). Source: alcon.com 'Range of Products' page (Contact Lenses & Solutions, Eye Care Products, Cataracts, Glaucoma, LASIK & Refractive Technology, Vitreoretinal). (2) 'Swati Spentose Pvt. Ltd.' (Mumbai HQ, API plants in Vapi, Gujarat) is an unrelated API + finished-dosage pharma manufacturer: APIs - Pentosan Polysulfate Sodium, Lidocaine base/HCl, Prilocaine base/HCl, Meloxicam, Melatonin, Granisetron HCl, Tamsulosin, Silodosin, plus steroids/hormones (Dutasteride, Finasteride, Triamcinolone & acetonide, Halobetasol propionate, Fluocinolone acetonide, Deflazacort, Drospirenone, Desogestrel, Dienogest, Ulipristal acetate, Levonorgestrel, Norgestrel, Gestodene, Estradiol hemihydrate, Ethinyl estradiol, Cyproterone acetate, Tibolone); finished dosage - Comfora (PPS 100 mg tabs), Comfora Instill (PPS 10 mg/mL), Qmaxsil (silodosin 8 mg), Miralent (mirabegron ER 50 mg), Talzor (alfuzosin ER + tadalafil), SpenQR, Nano-Deca, melatonin PR; veterinary PPS injections. Sources: swatispentose.com/products/ and /products/finished-dosage/.",
+ "role_hint": "manufacturer (Swati Spentose - own API and formulation plants in Vapi, Gujarat, USFDA/EDQM/WHO-GMP filings). Alcon India is the local affiliate/distribution arm of a foreign innovator - role for that legal entity would be manufacturer_trader (import + local marketing), but the two companies are NOT the same legal entity and must not be merged in the database.",
+ "comment": "ВНИМАНИЕ: в записи склеены две разные компании — Alcon Laboratories (India) Pvt Ltd (офтальмология, Alcon Inc.) и Swati Spentose Pvt Ltd (API/готовая форма, Мумбаи/Вапи). Продуктовый ряд, заявленный в декларации (292419 амиды, 293399 гетероциклы, 294200 прочие орг. соединения, 300439 лекарственные средства), соответствует Swati Spentose, а не Alcon. Сопоставление по Swati Spentose: 292419 — частично верно (лидокаин/прилокаин/артикаин/тетракаин — амиды, но по ТН ВЭД они идут в 2924 29 как производные карбоксамидов; фактический код 2924 29), 293399 — частично (силодосин/тамсулозин/мелатоксин/мирабегрон/гранусетрон фактически 2933/2934, а не 2933 99 единым кодом), 294200 — не подтверждён ни одним продуктом из каталога (гепарин в каталоге отсутствует; пентазан полисульфат натрия — полисахарид, ближе к 2934 99/3913), 300439 — частично (готовая форма есть, но 3004 39 — только препараты без антибиотиков/гормонов; гормональные и стероидные формы Swati — 3004 39 не покрывает, нужен 3004 32/3004 39 раздельно). Итог: match_status = partial, вердикт accepted_hs_corrected (по правилу 3 HS-несоответствие не является основанием для отклонения). Пропущены в декларации целые линии: стероиды/гормоны (2937), местные анестетики (2924), ветеринарные препараты (3004), OTC/нутрицевтики (2106/3004). Отрасль 'Нефтегаз и химия' указана неверно — фактически фармацевтика (API + formulations). Все перечисленные продукты — заявлено на сайте, не подтверждено таможенными записями (таможенные линии в рамках этой роли не проверялись)."
+}
