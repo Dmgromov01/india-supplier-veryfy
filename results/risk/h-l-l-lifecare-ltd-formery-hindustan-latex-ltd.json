@@ -1,0 +1,9 @@
+{
+ "name_input": "H L L LIFECARE LTD (FORMERY-HINDUSTAN LATEX LTD)",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, not a clean result. All 6 tool calls failed: web_search returned 'searx: Connection refused' on every query (backend down), and http_get failed on lifecarehll.com (SSL handshake timeout) and en.wikipedia.org (HTTP 429 robot block). Therefore no sanctions screening (OFAC SDN/UN/EU/UK/BIS), no Indian court-record check, no regulator-action or negative-news check, no credit-rating lookup and no Russia/CIS supply evidence could be verified. All fields set to null per rule 4 (do not invent data). No adverse finding is implied by the nulls - this company must be re-queued for risk research when search/fetch tools are restored. Context only, unverified and NOT a substitute for screening: the entity is a Government of India public-sector undertaking under the Ministry of Health and Family Welfare (formerly Hindustan Latex Ltd), which is a structural reason to expect low sanctions exposure, but this was not confirmed against any sanctions list in this session. Per rule 2, any sanctions/court/criminal items found on re-check would be recorded neutrally as 'есть сложности' and would not be grounds for rejection."
+}

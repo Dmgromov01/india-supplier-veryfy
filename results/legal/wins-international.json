@@ -1,0 +1,18 @@
+{
+ "name_input": "WINS INTERNATIONAL",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные реестра не подтверждены — все поля null, ничего не выдумано. (1) Заявленное юрлицо 'INTEX SOURCING INDIA PRIVATE LIMITED' не удалось верифицировать: DuckDuckGo-бэкенд web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; Bing по запросам с точным названием в кавычках выдавал только нерелевантные результаты про Intex (бассейны/надувные матрасы, intexcorp.com, intex.com) — ни одной страницы реестра (Zauba/Tofler/CompanyCheck/MCA) по искомому названию. (2) Прямые запросы к реестрам заблокированы: zaubacorp.com и thecompanycheck.com — HTTP 403; instafinancials.com — HTTP 404; mca.gov.in/mcafoportal — HTTP 403; google.com/search — HTTP 429; duckduckgo.com/html — timeout. (3) CIN, PAN, GSTIN, дата инкорпорации, MCA-статус и выручка FY25/FY26 не установлены — публично не получены в рамках этой сессии, поэтому null. (4) Существенное несоответствие во входных данных: заявленный HS 610342/610442/610510/610831 — это трикотажная одежда (брюки, футболки, рубашки), а заявленная отрасль — 'Продукты питания и FMCG'; кроме того, 'WINS INTERNATIONAL' как торговое имя не совпадает с заявленным юрлицом Intex Sourcing India Pvt Ltd. Согласно правилам проекта несоответствие HS не является основанием для отклонения — компания НЕ отклонена, вердикт по HS требует коррекции кода на фактический после подтверждения ассортимента. (5) Роль не определена (unknown): нет подтверждения ни производства, ни торговли. (6) Отклонение не применялось: отсутствие подтверждения существования юрлица из-за недоступности реестров — это пробел в данных, а не доказательство несуществования/ликвидации/банкротства. Требуется повторная проверка при доступном MCA/Zauba/Tofler и GST-портале."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "V U Collection",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/v-u-collection and .../v-u-collection-madanlal-vastimal-parekh both returned only the generic template text: \"Shipments available for V U COLLECTION, refreshed daily\" — zero shipment rows rendered, no date, destination, HS code or bill-of-lading number visible. Source counter: 2 importkey pages opened, 0 shipment records seen. volza, eximpedia and trademo free views returned HTTP 403.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. zaubacorp.com returned HTTP 403; web_search backend was unavailable (connection refused) for all queries, so no domestic supply record could be retrieved. 0 domestic evidence rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Это НЕ вывод об отсутствии деятельности: все проверенные источники либо отдали пустой шаблон без строк (importkey), либо заблокировали доступ (volza/eximpedia/trademo/zaubacorp 403), а поисковик был недоступен, поэтому статус по обоим каналам — unknown, а не none_found. Заявленный HS 961590 (застёжки/пряжки для волос и аналогичные изделия) не подтверждён ни одной таможенной записью; фактический код не установлен. Юрлицо в базе не найдено, CIN/PAN/выручка — null (не публичны / не получены). Трейдер не отклоняется по правилу 1; отклонение не применяется. Требуется повторная проверка при доступности платных/незаблокированных источников таможенных данных."
+}
