@@ -1,0 +1,9 @@
+{
+ "name_input": "Royal Fasteners",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every query; DuckDuckGo HTML/lite endpoints timed out; Bing returned geo-mismatched, query-independent results (US 'Royal Oak' pages) for all three queries, i.e. no usable hits. The OFAC Sanctions List Search page was reachable but is a JavaScript form whose results cannot be retrieved via plain HTTP GET, so no name match could be executed. Consequently NOTHING is asserted about this company: sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases (party role/status), regulator actions, negative news, credit rating, and any Russia/CIS supply evidence are all null because they are unverified, NOT because they were checked and found clean. The name 'Royal Fasteners' is also highly generic and, with no PAN, state, CIN or address supplied, cannot be disambiguated to a single Indian legal entity - any 'hit' found by name alone would be unreliable. Per project rules, no rejection is proposed and no facts are invented. Recommended next step: re-run with a working search backend and with the company's CIN/PAN, registered state and full address, then check OFAC SDN, EU consolidated list, UK OFSI, BIS Entity List, eCourts/NJDG and CRISIL/ICRA/CARE/India Ratings."
+}

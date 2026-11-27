@@ -1,0 +1,9 @@
+{
+ "name_input": "GLOBE MOBILITY PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCREEN, LIMITED COVERAGE — treat as unverified, not as clean. (1) Sanctions: OpenSanctions consolidated screening (OFAC SDN, UN, EU, UK, BIS and others; dataset current as of 2026-11-27) returned 'No matching entities were found' for 'Globe Mobility' — https://www.opensanctions.org/search/?q=Globe+Mobility. This is a name-level negative only; no PAN/CIN/address was supplied (pan_claimed and state_claimed both empty), so the match cannot be tied to a specific legal entity and a namesake or transliteration variant cannot be excluded. No independent OFAC/UN/EU/UK/BIS list check was possible. (2) Court cases: NOT RESEARCHED — no public source could be reached. Zauba Corp returned HTTP 403, e-courts/NCLT/IBBI were not accessible, and the search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), so no party-role or case-status data exists. Recorded as null, not as 'no cases'. (3) Regulator actions / negative news: NOT RESEARCHED — same tooling failure; Bing returned only generic 'globe' results and ignored all quoted queries, so no dated news items could be retrieved. null, not 'none found'. (4) Credit rating: null — no CRISIL/ICRA/CARE/India Ratings/Acuite action located; absence of a rating is itself unconfirmed. (5) Russia/CIS supply evidence: null — no export, customs, B-L or counterparty record found or checked; nothing indicates supply to Russia or the CIS, and nothing rules it out. Per project rules this is not a rejection ground and no adverse inference is drawn. RECOMMENDATION: re-run this screen once the search backend is restored and with a CIN/PAN and registered address, which are required to make any sanctions or litigation hit meaningful. Do not treat the OpenSanctions null as clearance."
+}

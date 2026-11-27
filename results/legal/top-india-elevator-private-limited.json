@@ -1,0 +1,18 @@
+{
+ "name_input": "TOP INDIA ELEVATOR PRIVATE LIMITED",
+ "legal_name": "TOP INDIA ELEVATOR PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on every query, and direct fetches of registry/aggregator sources were blocked: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 403), mca.gov.in MDS portal (HTTP 403), duckduckgo html endpoint (403/timeout). Bing and Google returned only generic, irrelevant results for the quoted company name, i.e. no indexed registry page was surfaced. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT because the entity is absent from the register, but because no public source could be read in this session. No identifier has been guessed or constructed. Per project rules, rejection is not warranted: non-existence/strike-off/liquidation is NOT established, so the company must not be marked rejected on the basis of missing data. Role is 'unknown' - the name suggests elevator (HS 8428.10) activity, but no filing evidence of manufacturing vs trading was obtained. Note also that the input industry label 'Металлургия и горнодобыча' (metallurgy/mining) is inconsistent with HS 842810 (lifts/elevators, Chapter 84 machinery), which is a classification remark only, not a rejection ground. Action required: re-run verification when search access is restored, or supply the CIN/GSTIN so MCA master data and GST portal can be queried directly."
+}

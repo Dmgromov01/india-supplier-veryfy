@@ -1,0 +1,18 @@
+{
+ "name_input": "Royal Fasteners",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: 'Royal Fasteners' — не уникальное наименование, в инпуте нет ни PAN, ни штата, ни города, ни CIN. Инструменты проверки были недоступны в этой сессии: web_search возвращал 'Connection refused' (бэкенд поиска не работал), zaubacorp.com и instafinancials.com отдали HTTP 403, tofler.in — 404, DuckDuckGo HTML — таймаут, Bing/Google вернули нерелевантную гео-выдачу (США) без индийских профилей. Никаких данных MCA/GST получить не удалось, поэтому все поля null — цифры, CIN, PAN и GSTIN не выдумывались. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица при недоступных источниках не равно доказанному отсутствию юрлица (правило 3). Роль оставлена 'unknown' — по названию и заявленному HS 731815 (болты/винты) нельзя отличить производителя от трейдера. Требуется повторный прогон при работающем поиске либо уточнение от заказчика: точное юрлицо (Pvt Ltd / LLP / проприетарная фирма), город/штат, GSTIN или PAN — без этого проверка реестра невозможна."
+}

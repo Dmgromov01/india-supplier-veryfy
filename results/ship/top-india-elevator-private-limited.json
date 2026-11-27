@@ -1,0 +1,8 @@
+{
+ "name_input": "TOP INDIA ELEVATOR PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/top-india-elevator-private-limited and .../top-india-elevator-pvt-ltd both returned only the generic page shell: \"Shipments available for TOP INDIA ELEVATOR PRIVATE LIMITED, refreshed daily\" — a boilerplate template string, not a shipment record. Rows actually seen: 0 shipment rows, 0 bill-of-lading numbers, 0 dates, 0 destinations, 0 HS codes. Source counter: 2 importkey slug variants tried, both empty.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. thecompanycheck.com and trademo.com returned HTTP 403 Forbidden; volza.com and eximpedia.app returned HTTP 403 Forbidden. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что отгрузок не было: публичные источники оказались недоступны (403) либо отдали пустой шаблон без записей, поэтому статус по обоим каналам — unknown, а не none_found. Ни одной записи с датой, направлением, HS-кодом или номером B/L получить не удалось; выручка и объём экспорта — null, не выдумывались. Заявленный HS 842810 (лифты/подъёмники) соответствует профилю названия компании, но фактичность отгрузок не подтверждена. Трейдерская/производственная роль не определена. Требуется платный доступ к таможенным данным (ImportKey/Volza/Eximpedia) или проверка по GSTIN/MCA для закрытия пробела."
+}

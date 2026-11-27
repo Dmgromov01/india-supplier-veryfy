@@ -1,0 +1,32 @@
+{
+ "name_input": "CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; NEW HOLLAND FIAT INDIA PVT. LTD.; CNH INDUSTRIAL INDIA PVT. LTD.; CNH INDUSTRIAL INDIA PRIVATE LIMITED; NEW HOLLAND FIAT (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL INDIA PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL INDIA PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL INDIA PRIVATE LIMITED; CNH INDUSTRIAL INDIA PRIVATE LIMITED; CNH INDUSTRIAL INDIA PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED; CNH INDUSTRIAL (INDIA) PRIVATE LIMITED",
+ "declared_hs": "848299",
+ "actual_hs_list": [
+  "8701.92",
+  "8701.94",
+  "8701.95",
+  "8433.51",
+  "8433.59",
+  "8432.29",
+  "8432.31",
+  "8433.20",
+  "8433.30",
+  "8433.40",
+  "8708.99",
+  "8483.40",
+  "8482.10",
+  "8482.20",
+  "8482.30",
+  "8482.90",
+  "4011.70",
+  "4011.80",
+  "4011.90",
+  "8431.49",
+  "8429.52",
+  "8429.59"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Реальные продукты (по сайтам брендов CNH в Индии): тракторы New Holland Agriculture (напр. New Holland 3230 TX, 42 л.с. — https://www.newholland.com/apac/en-in), комбайны и кормоуборочная техника, оборудование для заготовки сена (косилки, пресс-подборщики, грабли) — разделы TRACTORS / HARVESTERS / HAY EQUIPMENT на том же сайте; техника Case IH, в т.ч. тростниковый комбайн Austoft 4010 MAXX (https://www.caseih.com/apac/en-in); строительная техника брендов Case Construction / New Holland Construction (по корпоративному описанию CNH Industrial — https://en.wikipedia.org/wiki/CNH_Industrial: tractors, combines, forage equipment, hay tools, seeding, tillage, harvesters, construction equipment). Запасные части и компоненты (подшипники, шестерни, трансмиссионные узлы) — как сервисная номенклатура, отдельным каталогом не подтверждено.",
+ "role_hint": "manufacturer",
+ "comment": "Заявленный код 8482.99 (шарико- и роликоподшипники прочие) не соответствует фактическому профилю: CNH Industrial (India) Pvt Ltd — производитель/сборщик сельхозтехники и тракторов (ранее New Holland Fiat India Pvt Ltd), а не производитель подшипников. По правилу 3 компания НЕ отклоняется, код исправляется на фактический. Корректные коды: 8701.92/8701.94/8701.95 (тракторы колёсные по мощности), 8433.51/8433.59 (комбайны), 8433.20/8433.30/8433.40 (косилки, пресс-подборщики, машины для уборки сена), 8432.29/8432.31 (почвообрабатывающая и посевная техника), 8429.52/8429.59 (экскаваторы/погрузчики New Holland Construction), 8708.99 и 8483.40 (части и трансмиссионные узлы — только как запчасти). Подшипники (8482.xx) возможны лишь как импортируемый/перепродаваемый сервисный компонент — это заявлено, не подтверждено: ни одна товарная линия с кодом 8482 не подтверждена каталогом. Отрасль в декларации указана как «Металлургия и горнодобыча» — это отраслевая мис-классификация: фактически сельскохозяйственное и строительное машиностроение (металлургии и добычи в продуктовой линейке нет; горная тематика отсутствует). Признаков трейдера нет — компания с собственными заводами в Индии (сборка тракторов New Holland), т.е. manufacturer. Все продуктовые утверждения взяты с сайтов брендов и корпоративного описания; конкретные таможенные записи по отгрузкам в рамках этой проверки не исследовались (по условию задачи), поэтому привязка кода к конкретной экспортной/импортной линии — заявлено, не подтверждено. Выручка, объём экспорта, CIN/PAN — не проверялись (вне роли)."
+}

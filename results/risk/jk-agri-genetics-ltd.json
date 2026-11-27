@@ -1,0 +1,9 @@
+{
+ "name_input": "JK Agri Genetics Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, not a clean result. The DuckDuckGo/searx search backend returned 'Connection refused' on every attempt (4 queries). Bing was reachable but served identical cached, irrelevant results for all three distinct queries (returning 'JK' pop-culture pages: Jung Kook, J.K. Rowling, jkarmament.com) - no usable hits for the company. Direct fetches of the company site (jkagrigenetics.com, /investors) failed with DNS resolution errors. OFAC Sanctions List Search page loaded but is an interactive JS form that cannot be queried via http_get, so no actual SDN screening was performed. BSE page loaded only a shell with no content. Therefore: sanctions exposure NOT screened (null, not 'none found'); Indian court cases NOT checked (null); credit rating NOT retrieved (null); negative news NOT checked (null); Russia/CIS supply evidence NOT checked (null). No claim in this record is sourced, and none should be read as a negative finding. This company must be re-queued for a full risk pass once search and DNS access are restored. Do not treat nulls here as clearance."
+}
