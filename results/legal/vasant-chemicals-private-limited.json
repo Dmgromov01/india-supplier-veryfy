@@ -1,0 +1,18 @@
+{
+ "name_input": "VASANT CHEMICALS PRIVATE LIMITED",
+ "legal_name": "VASANT CHEMICALS PRIVATE LIMITED (as claimed; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: web_search returned 'Connection refused' (searx backend down) for both queries; direct fetches of registry aggregators were blocked or missing (zaubacorp.com 403, thecompanycheck.com 403, tofler.in 403, falconebiz.com 403, instafinancials.com 404, quickcompany.in 404); google.com/search returned 429; bing.com returned irrelevant/unrelated results (weather pages), i.e. no usable SERP. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state, MCA status and FY25/FY26 revenue are all null - NOT public-verified, simply not retrieved. No revenue figure is asserted because audited accounts/official filings were not accessed. Role left as 'unknown': the declared HS codes (293190 organo-inorganic compounds, 293379 lactams/heterocyclics, 381590 reaction initiators/accelerators - chemical manufacturing-range codes) are consistent with a chemical producer, but HS codes are not evidence of manufacturing status and the input contains no PAN, no state and no GSTIN to cross-check. Per project rules the company is NOT rejected: there is no evidence of non-existence, strike-off, liquidation or bankruptcy - absence of retrieved data is not a rejection ground. Action required: re-run verification when search/registry access is restored, using MCA master data (CIN, incorporation date, status, registered office state) plus a GST public profile for GSTIN/status, and audited FY25/FY26 accounts for revenue. Also note the input's state_claimed field is empty, so the registered-state-vs-claimed-state comparison cannot be performed."
+}

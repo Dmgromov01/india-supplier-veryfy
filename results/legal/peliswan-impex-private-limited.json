@@ -1,0 +1,18 @@
+{
+ "name_input": "Peliswan Impex Private Limited",
+ "legal_name": "PELISWAN IMPEX PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed during this run: web_search returned 'Connection refused' (searx backend down) on both queries; direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, quickcompany.in) returned HTTP 403/404; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only irrelevant results (Domino's, Kia dealership, radio stations) for the exact-name queries, i.e. no usable hit. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, NOT evidence of absence. Per project rules, rejection is permitted only for non-existent/struck-off/liquidated/bankrupt entities; since existence could not be checked either way, the company is NOT rejected and is left as unverified pending a re-run with working search/registry access. Role cannot be determined from registry data alone (no MCA main-object clause or NIC code retrieved), so 'unknown'. Revenue FY25/FY26 null: no audited accounts or official filings were accessible; no figures invented. HS 382600 (biodiesel/fatty-acid ester type) is recorded as declared only and was not assessed here (out of scope for this role; HS mismatch is not a rejection ground per rules). Recommended next step: re-verify on MCA master data / GST portal once search access is restored."
+}
