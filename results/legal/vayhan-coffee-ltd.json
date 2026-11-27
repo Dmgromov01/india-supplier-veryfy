@@ -1,0 +1,18 @@
+{
+ "name_input": "Vayhan Coffee Ltd",
+ "legal_name": "VAYHAN COFFEE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) on both attempts, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, falconebiz.com, instafinancials.com) returned HTTP 403/404 or timed out; Google/Bing/DuckDuckGo HTML endpoints returned no usable result listings. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable here, and NOT invented. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null. Role left as 'unknown' because the manufacturer/trader distinction requires the MCA NIC code and GST/audited disclosures, which were not obtained. Per project rules the company is NOT rejected: there is no evidence that the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research-access limitation, not a negative finding. Declared HS codes 090111/090121/210111 (green coffee, roasted coffee, coffee extracts) are plausible for a coffee processor and are not a basis for rejection in any case. Recommended next step: re-run verification against MCA master data and the GST taxpayer search portal when the search backend is restored."
+}
