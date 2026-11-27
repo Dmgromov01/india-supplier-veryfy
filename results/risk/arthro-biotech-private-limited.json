@@ -1,0 +1,9 @@
+{
+ "name_input": "ARTHRO BIOTECH PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend was down (connection refused) for the whole session, and fallback fetches returned no relevant results. Bing exact-phrase queries for \"Arthro Biotech Private Limited\" and \"Arthro Biotech\" India returned only unrelated pages (no matching company page), and ZaubaCorp returned HTTP 403. The OFAC Sanctions List Search page loaded but is a JavaScript form, so no name query could be executed via http_get; therefore no sanctions screening result is asserted. No court records (e.g. eCourts/NCLT), regulator actions, credit rating or Russia/CIS supply evidence could be retrieved. All fields set to null because nothing is publicly confirmed in this session - this is an absence of retrieved data, NOT a clean bill of health. Recommend re-running sanctions screening (OFAC SDN/consolidated, UN, EU, UK OFSI, BIS Entity List) and Indian litigation checks (eCourts, NCLT, High Court) once search access is restored. Per project rules, no rejection is proposed on this basis."
+}

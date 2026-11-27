@@ -1,0 +1,18 @@
+{
+ "name_input": "Sam Robotics and Automation",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not retrievable. The input itself is inconsistent: 'legal_claimed' contains a personal name (MUTHURAMALINGAM SENTHILMANI), not a legal entity name, which suggests a sole proprietorship / individual GST registration rather than an MCA-registered company - so no CIN/LLPIN is expected to exist. Searches for the exact string 'Sam Robotics and Automation' returned no exact-match results (DuckDuckGo backend was down: 'Connection refused'; Bing returned only generic 'sam.gov'/'Sam's Club' noise; Google returned a redirect page). Registry aggregators (zaubacorp.com, instafinancials.com) returned HTTP 403 and tofler.in search returned 404, so no public GSTIN profile, GST status, incorporation date, registered state or MCA status could be verified. PAN, GSTIN, incorporation date, state and revenue are therefore null - not public/not found, not invented. No rejection: absence of a verifiable MCA record is not proof of non-existence, and a proprietorship has no MCA record by design. Role cannot be determined from registry data alone (name suggests automation/robotics equipment, which is consistent with declared HS 842240 - packing/wrapping machinery - but that is not a registry fact). Revenue FY25/FY26: null - no audited accounts or official filings found; a proprietorship would not file MCA financials. Recommended next step: obtain the GSTIN directly from the supplier and verify on the GST portal, and confirm whether the entity is a proprietorship (then PAN 4th character 'P') or a registered company."
+}

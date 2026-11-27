@@ -1,0 +1,9 @@
+{
+ "name_input": "TINGE BLENDS COLOURS LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "No public risk data could be retrieved for this entity. Tooling failures: DuckDuckGo/searx backend refused connections on both queries; Bing returned only generic dictionary results for the word 'tinge' and ignored the quoted company name (no entity match); ZaubaCorp returned HTTP 403; the MCA/LLP name-search portal (llp.gov.in) did not resolve; Tofler search URL returned a 404 page. Consequently nothing could be verified on: OFAC SDN / UN / EU / UK / BIS Entity List exposure, Indian court cases (no party role or status found), regulator actions or negative news, credit rating (no rating agency coverage found), or any evidence of supplies to Russia/CIS. All fields set to null because none of this is public in the sources reachable today - these are NOT negative findings, simply unverified. Per project rules, absence of sanctions/court data is not a rejection ground and no adverse inference should be drawn. Recommend re-running the sanctions/court/news checks when the search backend is restored, and querying MCA/LLP registry and Indian Kanoon directly by exact LLP name (and by partner names once the LLPIN is obtained) before any risk conclusion is recorded."
+}

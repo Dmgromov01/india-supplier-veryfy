@@ -1,0 +1,9 @@
+{
+ "name_input": "LORDS FREIGHT (INDIA) PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — tooling failure, not a clean result. All web_search calls returned 'searx: Connection refused'; DuckDuckGo HTML/lite endpoints timed out; Bing returned identical generic 'Lord's Cricket Ground' results for every query variant, i.e. it did not honour the query string. The OFAC Sanctions List Search page was reachable but is a JavaScript form that returns no results via plain GET, so no name lookup could actually be executed. Consequently NO verification was performed for any of the five required dimensions: sanctions exposure (OFAC SDN/UN/EU/UK/BIS), Indian court cases (party role/status), regulator actions and dated negative news, credit rating (agency/date/status), and evidence of supplies to Russia or the CIS. All fields are set to null because nothing is public to me in this session — these are NOT findings of 'no sanctions', 'no court cases' or 'no Russia supply'. Do not treat nulls here as clearance. Per project rules this company must not be rejected on the basis of missing data; it should be re-queued for a re-run once search access is restored. Note also that the declared HS 848190 (parts of taps/valves) is inconsistent with the claimed industry 'oil & gas and chemicals' and with a freight-forwarding name — but HS/legal-identity checks are outside my remit and are flagged only for the responsible researcher."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "DP Pulveriser Industries",
+ "legal_name": "DP Process Engineering Private Limited (as claimed in input; NOT verified — no registry record could be retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Maharashtra (per company website head office: 501 KL Accolade, Santacruz (E), Mumbai 400055; factory Bhayandar, Thane, Maharashtra; second unit and R&D centre in Gandhinagar, Gujarat) — registry record not verified",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "No audited accounts or MCA/ROC filings retrievable — null. Not invented.",
+ "note": "Registry verification NOT completed: the search backend (DuckDuckGo/searx) returned connection refused for all queries, and registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; Bing returned only irrelevant generic results, so no CIN/PAN/GSTIN/MCA record could be read. What IS confirmed from a primary source: the operating brand 'DP Pulveriser Industries' is a real, active business — own website dppulveriser.com (contact page and about page fetched) states it was founded in 1962 by the late Mr. Eusebius Pinto, designs and builds size-reduction/powder-processing equipment in India, claims 7000+ installations in 32+ countries, and lists a Mumbai head office, a Bhayandar (Thane) factory, a second factory at Radhe Krishna Industrial Park, Dehgam, Gandhinagar, Gujarat, and an R&D centre at IIT Gandhinagar Research Park. This supports role = manufacturer (own factories, own engineering), not a trader. However, the legal entity name 'DP PROCESS ENGINEERING PRIVATE LIMITED' is UNCONFIRMED: the website never states a registered company name, CIN, PAN or GSTIN, and no registry page could be opened, so the link between the brand and that specific private limited company is unverified. Per project rules the company is NOT rejected — there is no evidence of non-existence, strike-off, liquidation or bankruptcy; the entity simply could not be verified with the tools available. Action needed: re-run registry lookup (MCA master data / Zauba / Tofler) when the search backend is restored to obtain CIN, PAN (4th-character holder type), GSTIN and GST status, incorporation date, MCA status, and FY25/FY26 revenue from audited filings. HS 847420 (crushing/grinding machinery) is consistent with the stated product line (pulverisers, air classifiers, size reduction), so no HS correction is indicated. No revenue figures are public on the website; both years left null."
+}

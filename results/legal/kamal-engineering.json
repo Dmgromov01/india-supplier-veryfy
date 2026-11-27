@@ -1,0 +1,18 @@
+{
+ "name_input": "KAMAL ENGINEERING",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search вернул ошибку бэкенда (searx: connection refused) на запросах «Kamal Engineering Pankaj Kumar Luhar GST» и «Kamal Engineering IndiaMART 847989»; (2) zaubacorp.com/companysearchresults/KAMAL ENGINEERING — HTTP 403; (3) mca.gov.in Master Data — HTTP 403; (4) Bing по точным фразам «Kamal Engineering» + «Pankaj Kumar Luhar» и «Pankaj Kumar Luhar» выдал только нерелевантную общую выдачу (Kamal Haasan, kamal-deploy.org и т.п.) — точных совпадений нет; (5) DuckDuckGo HTML — таймаут. ВАЖНО: в поле legal_claimed указано «PANKAJ KUMAR LUHAR» — это имя физлица, а не наименование юрлица, что типично для ИП/единоличного proprietorship (в Индии — sole proprietorship, Udyam/GST на имя владельца, без CIN). Для такой формы CIN/LLPIN не существует в принципе, PAN должен быть в формате ABCDE1234F с 4-м символом P (individual) — но фактический PAN не подтверждён ни одним публичным профилем, поэтому null, а не сгенерированное значение. GSTIN, дата регистрации, штат и MCA-статус не подтверждены. Роль оставлена unknown: заявленный HS 847989 (машины и механическое оборудование с индивидуальными функциями) и отрасль «нефтегаз и химия» — это заявление из входных данных, не подтверждённое ни одним источником; сайта, каталога или госзакупок найти не удалось. Выручка FY25/FY26 — null: для proprietorship аудиторская отчётность в публичном доступе отсутствует, официальных филингов нет. Вердикт: НЕ отклонять — правило 3 требует доказательств несуществования/ликвидации/банкротства, а таких доказательств нет; отсутствие данных о компании не равно её отсутствию. Компания сохраняется в базе со статусом «заявлено, не подтверждено» и требует ручной проверки: GST-портал (gst.gov.in search taxpayer по имени), Udyam-регистрация, геолокация по адресу, а также проверка фактичности отгрузок по правилу 5 — следов поставок (экспортных или внутрииндийских) в рамках доступных источников не найдено, но это следствие недоступности источников, а не установленный факт."
+}

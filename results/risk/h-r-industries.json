@@ -1,0 +1,9 @@
+{
+ "name_input": "H.R. Industries",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the search backend (DuckDuckGo/searx) returned connection errors on all queries, and fallback engines (Bing, Google, DDG lite) returned no relevant results for the name 'H.R. Industries' — only generic hits for the letter 'H'. The OFAC Sanctions List Search page was reachable but is a form-driven tool that cannot be queried via GET, so no SDN/UN/EU/UK/BIS screening result was obtained. No Indian court records (eCourts/NCLT), regulator actions, credit rating or Russia/CIS supply evidence could be retrieved. All fields set to null because nothing is public/verifiable in this session — NOT because the company was cleared. 'H.R. Industries' is also a very common Indian trade name (multiple unrelated entities), so any future hit must be matched on legal identity/CIN before attribution. Recommend re-running this company when search access is restored."
+}

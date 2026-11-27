@@ -1,0 +1,9 @@
+{
+ "name_input": "SEPC LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Tooling limitation: the web_search backend returned 'Connection refused' on every attempt (4 tries), and the company's investor sub-pages (ratings, tribunal orders, investors corner) returned HTTP 404. Only the corporate homepage https://www.sepc.in/ was readable; it confirms the entity is live and operating as SEPC Ltd (formerly Shriram EPC), CIN L74210TN2000PLC045167, with sections for 'Ratings / Reports on SEPC' and 'Tribunal Orders' — i.e. the company itself publishes rating and tribunal material, but the content could not be retrieved in this session. Therefore: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = null, NOT verified — absence of a hit is not asserted. Indian court cases (party role, status) = null, not verified; the existence of a 'Tribunal Orders' disclosure page suggests litigation/NCLT history that must be read before any conclusion. Regulator actions and negative news = null, not verified. Credit rating (agency, date, status) = null, not verified. Evidence of supplies to Russia or CIS = null; the site lists an 'Overseas Projects' business line, which is not evidence of RF/CIS supply and is recorded as unverified. Per project rules, nothing here is a rejection ground; sanctions/court/criminal matters are noted neutrally as 'есть сложности' only if later confirmed. Recommended follow-up: re-run search when backend is restored, read sepc.in ratings and tribunal-orders pages, and check NCLT/NCLAT and credit-rating agency sites directly."
+}
