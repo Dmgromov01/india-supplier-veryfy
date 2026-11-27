@@ -1,0 +1,18 @@
+{
+ "name_input": "Susheela Granites Private Limited",
+ "legal_name": "Susheela Granites Private Limited (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. All 10 tool calls failed to yield a verifiable record: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in returned 404 for the guessed slug; Google returned HTTP 429; Bing returned only irrelevant results; marginalia returned a bot-check page; duckduckgo lite timed out. Therefore CIN, PAN, GSTIN, incorporation date, registered state and MCA status are all null - NOT verified, not absent. No revenue figures found in audited accounts or official filings, so FY25/FY26 revenue is null. Role cannot be determined from registry data (name suggests granite/stone working, i.e. possibly manufacturer or trader, but this is inference only, not evidence). Per project rules, the entity is NOT rejected: there is no evidence it does not exist, is struck off, liquidated or bankrupt - the failure is one of data access, not of existence. HS code 680293 (worked granite/stone articles) is plausible for the name but was not checked against any filing; no HS-based rejection applies per the 23.11.2026 rule. Recommended next step: manual lookup on mca.gov.in by company name, or a paid registry API, to obtain CIN and then GSTIN from the GST portal."
+}

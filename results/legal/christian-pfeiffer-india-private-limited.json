@@ -1,0 +1,18 @@
+{
+ "name_input": "CHRISTIAN PFEIFFER INDIA PRIVATE LIMITED",
+ "legal_name": "CHRISTIAN PFEIFFER INDIA PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первичные регистрационные данные не удались: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Bing отдавал нерелевантную выдачу (поисковые операторы игнорировались), а реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) ответили 403/404. Официальный сайт christianpfeiffer.com по запрошенному пути /en/company/locations отдал 404. В результате НЕ подтверждены: точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA. Штат в исходных данных не заявлен (state_claimed пусто), поэтому сопоставление 'штат регистрации vs заявленный' невозможно. Роль (manufacturer/trader) не определена — по названию и профилю группы Christian Pfeiffer (оборудование для помола/цементной промышленности) вероятен производитель или производитель-трейдер, но это НЕ подтверждено источником, поэтому role=unknown. Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги не получены, цифры не выдумывались. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (нет подтверждения ликвидации/банкротства/отсутствия юрлица). Требуется повторная проверка при доступном MCA-портале (mca.gov.in / MCA master data), GST-портале (gst.gov.in search taxpayer) или при доступе к Zauba/Tofler с обходом блокировки. Заявленные HS-коды (731815;841370;842139;847490) и отрасль 'Строительство и DIY' в рамках данной роли не проверялись."
+}

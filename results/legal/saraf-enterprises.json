@@ -1,0 +1,18 @@
+{
+ "name_input": "SARAF ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. В этом прогоне поисковая инфраструктура не работала: DuckDuckGo вернул 'connection refused', Bing отдавал неизменный нерелевантный набор результатов (sarraf.com, Wikipedia, saraf.app и т.п.) независимо от запроса, а реестровые источники (zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in) вернули HTTP 403. Ни одной страницы с CIN/GSTIN/PAN по 'SARAF ENTERPRISES' получить не удалось. 'SARAF ENTERPRISES' — типовое имя, под которым в Индии существует множество несвязанных фирм (в т.ч. проприетарные и partnership, у которых CIN отсутствует по определению), поэтому отождествить конкретное юрлицо без GSTIN/PAN/адреса из входных данных невозможно. Все поля оставлены null — цифры, CIN, PAN и GSTIN не выдумывались. Отклонение НЕ применяется: отсутствие подтверждения существования не равно доказательству несуществования (правило 3). Роль 'unknown' — по имени нельзя отличить производителя от трейдера. HS 090210-090240 (чай) — заявленный код, фактичность не проверялась (вне роли). Требуется повторный прогон с рабочим поиском либо с GSTIN/PAN/полным адресом от поставщика."
+}

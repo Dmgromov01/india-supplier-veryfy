@@ -1,0 +1,31 @@
+{
+ "name_input": "PALADIN PAINTS & CHEMICALS PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Bombay High Court",
+   "case": "PIL (L) No. 68 of 2018 — Paladin Paints and Chemicals Private Limited vs Union of India & Ors.",
+   "role": "Petitioner",
+   "status": "Listed/heard 27.11.2018, 17.09.2019 and 06.01.2020 (related PIL No. 87 of 2019); no final outcome visible in the public index",
+   "source": "https://indiankanoon.org/search/?formInput=%22Paladin%20Paints%22"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Chamber Summons No. 28205 of 2023 in Suit No. 117 of 2022 — Paladin Paints and Chemicals Pvt. Ltd. vs Prasad Nadkarni & Ors.",
+   "role": "Applicant/Plaintiff",
+   "status": "Order dated 05.12.2023 (Bench: Bharati Dangre); commercial suit, ongoing/outcome not public in index",
+   "source": "https://indiankanoon.org/search/?formInput=%22Paladin%20Paints%22"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Writ Petition (L) No. 24007 of 2024 and connected writs — Paladin Paints and Chemicals Pvt. Ltd. vs Office of the Controller General of Patents",
+   "role": "Petitioner",
+   "status": "Series of orders 27.08.2024, 20.01.2026, 13.03.2026, 21.04.2026, 07.07.2026, 17.08.2026 (Bench: B.P. Colabawalla, Ravindra V. Ghuge); IP/patent-office matter, appears to be a continuing/recurring writ",
+   "source": "https://indiankanoon.org/search/?formInput=%22Paladin%20Paints%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript form that returned only its blank search page, so no name query could actually be executed; UN/EU/UK/BIS lists were not reachable at all. Treat sanctions_hit as 'not checked', not 'clear'. Court cases ARE verified: the company is a frequent Bombay High Court litigant, but in every visible matter it appears as PETITIONER/PLAINTIFF, not as defendant — a 2018-2020 PIL against Union of India (likely a regulatory/environmental challenge in Mumbai), a 2022 commercial suit against a private individual, and a long-running 2024-2026 writ series against the Controller General of Patents (IP dispute). No adverse judgment, no criminal case, no insolvency proceeding found. Per project rule 2 these are not rejection grounds and are noted neutrally. Rating: null — no CRISIL/ICRA/CARE/India Ratings/Brickwork action found; the company appears too small/private to be publicly rated. News risk: null — could not be assessed; the web_search tool (DuckDuckGo/searx) was down for the entire session ('Connection refused') and Bing returned an identical cached generic 'Paladin' result set for every query, so no news or sanctions-name search was actually performed. RF/CIS supply: null — no evidence found either way, and absence here reflects tool failure, not a clean result. Recommend re-running sanctions screening and news search when search infrastructure is restored."
+}
