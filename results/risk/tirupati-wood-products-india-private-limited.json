@@ -1,0 +1,9 @@
+{
+ "name_input": "TIRUPATI WOOD PRODUCTS (INDIA) PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure, not a clean result. (1) DuckDuckGo/searx backend returned 'Connection refused' on both queries. (2) Bing returned the identical cached generic 'Tirupati tourism' result set for three different queries, including exact-phrase and CIN-targeted searches - the engine did not actually process the queries, so the absence of a company match is NOT evidence of absence. (3) Zaubacorp returned HTTP 403; Google returned HTTP 429. (4) OFAC Sanctions List Search is a JavaScript form and returned no queryable results over plain HTTP, so no SDN/consolidated-list screening was actually performed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because nothing was checked - NOT because nothing was found. Do not read these nulls as 'clean'. No sanctions, litigation, regulatory, credit-rating or Russia/CIS supply evidence was located, and equally no clearance was established. Additional flag for the desk: the declared HS code 640610 (footwear uppers of leather) is inconsistent with the company name (wood products) and with the claimed industry 'food and FMCG' - three mutually contradictory signals. Per project rules this is not a rejection ground and is outside my remit, but it should be routed to the identity/HS researcher. Recommend re-running this company once search access is restored, with direct checks against MCA master data, NCLT/NJDG, IBBI, OFAC/UN/EU/UK/BIS lists, and CRISIL/ICRA/CARE/India Ratings."
+}

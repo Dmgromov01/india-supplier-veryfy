@@ -1,0 +1,9 @@
+{
+ "name_input": "FLAGSHIP BIOTECH INTERNATIONAL PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOT CONFIRMED EITHER WAY. Research could not be completed: the DuckDuckGo/searx search backend returned 'Connection refused' on all attempts, and Bing (used as fallback) ignored the quoted company name and returned only generic 'Flagship' results (Flagship Financial, Flagship Cinemas, etc.) — i.e. no indexed page mentioning 'Flagship Biotech International Private Limited' was surfaced. Direct registry access was blocked: zaubacorp.com returned HTTP 403; Google returned HTTP 429. The OFAC Sanctions List Search page loaded but is a JavaScript form and cannot be queried via plain HTTP GET, so no SDN/Non-SDN/UN/EU/UK/BIS screening result was obtained. Therefore: sanctions exposure = NOT VERIFIED (null, not 'clear'); Indian court cases (party role/status) = NOT VERIFIED (null); regulator actions and negative news with dates = NOT VERIFIED (null); credit rating with date/status = NOT VERIFIED (null); evidence of supplies to Russia or CIS = NOT VERIFIED (null). No claim in this record is based on any source, and no numbers, CINs, PANs or shipment records are asserted. Per project rules this is NOT a rejection ground and no adverse inference should be drawn — the company must be re-queued for screening once the search backend is restored, with manual checks against OFAC SDN/consolidated non-SDN, UN, EU, UK OFSI and BIS Entity List, plus Indian court records (eCourts/NJDG) and credit bureaus. Note also that the declared industry ('Нефтегаз и химия' / oil-gas & chemicals) is inconsistent with declared HS 300439 (pharmaceuticals) — flagged for the HS/identity team, not a risk finding and not a rejection ground."
+}
