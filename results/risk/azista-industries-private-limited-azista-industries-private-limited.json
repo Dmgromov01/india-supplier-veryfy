@@ -1,0 +1,9 @@
+{
+ "name_input": "AZISTA INDUSTRIES PRIVATE LIMITED; AZISTA INDUSTRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no findings can be asserted. Tooling failure: the web_search backend returned 'Connection refused' on all attempts; DuckDuckGo HTML endpoint timed out; Bing returned unrelated/geo-distorted results (apartments listings) for every query, so no usable search results were obtained. Direct fetches: zaubacorp.com returned HTTP 403; OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded only as an interactive JS form, so no name query could be executed via GET and no SDN/non-SDN match could be confirmed or excluded. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null - NOT because they were checked and found clean, but because they could not be checked. No claim in this record is verified; nothing here should be read as a negative clearance. Recommended follow-up: re-run with a working search backend and query (a) OFAC SDN/non-SDN and BIS Entity List name search, (b) UN and EU/UK consolidated lists, (c) Indian court records (eCourts / NCLT / High Court) for party role and status, (d) CDR/CRISIL/ICRA rating actions with date, (e) Indian regulator actions (CDSCO, GST, ROC/MCA) and dated negative news, (f) any customs/import records indicating supplies to Russia or CIS. Note per project rules: sanctions exposure, court cases and criminal matters are never rejection grounds and must be recorded neutrally; this company is not rejected on any ground in this record."
+}

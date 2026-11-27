@@ -1,0 +1,9 @@
+{
+ "name_input": "AYM SYNTEX LIMITED; AYM SYNTEX LIMITED - JAMMU UNIT; AYM SYNTEX LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, 23.11.2026. Tooling limitation: the web_search backend (DuckDuckGo/searx) returned 'Connection refused' on every query, so OFAC SDN/UN/EU/UK/BIS lists, Indian court dockets (NCLT/NCLAT/HC/eCourts), IBBI and rating-agency pages could not be queried. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null = NOT PUBLICLY VERIFIED IN THIS RUN, not 'clean'. Do not read null as absence of risk. What WAS verified from the company's own site (aymsyntex.com, homepage + /investors, fetched 23.11.2026): AYM Syntex Limited (formerly Welspun Syntex Limited), listed Indian speciality polyester/nylon yarn manufacturer, MD & CEO Abhishek Mandawewala, plants incl. a Jammu unit; site states presence in '55+ countries' and exports 17%-45% of revenue, but no named export destinations, no Russia/CIS mention, no customs or B-L record found - so any Russia/CIS supply is 'заявлено, не подтверждено' at best and in fact not even claimed. No sanctions, court, regulator or rating content appeared on the pages read. Rating/announcement subpages returned HTTP 404 (site paths differ), so credit rating (CRISIL/ICRA/CARE/India Ratings) remains unconfirmed - needs a re-run against the agency sites and BSE/NSE disclosure feeds. No negative news could be retrieved. Recommendation: re-verify sanctions screening and litigation before onboarding; nothing found so far is a rejection ground under Rule 2."
+}

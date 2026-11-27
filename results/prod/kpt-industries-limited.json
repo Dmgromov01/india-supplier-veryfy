@@ -1,0 +1,19 @@
+{
+ "name_input": "KPT INDUSTRIES LIMITED",
+ "declared_hs": "820210;846721;846722;846729",
+ "actual_hs_list": [
+  "846721 - Drills with self-contained electric motor (13mm impact drill, 22mm/26mm rotary hammers)",
+  "846722 - Saws with self-contained electric motor (355mm cut-off saw)",
+  "846729 - Other hand tools with self-contained electric motor (angle grinders 100/180/230mm, 5kg demolition hammer, 21V impact wrench kit, 35mm broach cutter, electric blower, electric spray gun, dry/wet vacuum cleaner)",
+  "846781 - Chain saws (not evidenced on site; no listing found)",
+  "841480 - Air compressors (100 L, 160 L air compressors) - separate line, not in declaration",
+  "841459 - Fans/blowers (electric blower; industrial centrifugal fans, roots blowers)",
+  "841490 - Parts of blowers/fans (accessories, acoustic enclosures)",
+  "870380 / 870390 - Electrically operated vehicles (e-rickshaw, e-cart, e-cargo: KPTECHD4, KPTECRG1, KPTECP1, KPTER1) - separate line, not in declaration",
+  "8432 / 8201 - Agricultural tools (line announced on site, catalogue not yet published)"
+ ],
+ "match_status": "partial",
+ "product_summary": "KPT Industries Ltd (Shirol, Kolhapur, Maharashtra; site kpt.co.in) is a manufacturer of electric power tools and industrial blowers, founded 1978. Confirmed catalogue lines: (1) Power tools - 100/180/230mm angle grinders, 13mm impact drill, 22mm and 26mm rotary hammers, 5kg demolition hammer, 355mm cut-off saw, 21V impact wrench kit (380 N.m), 35mm broach cutter, electric blower, electric spray gun (180 ml/min), 15L dry/wet vacuum cleaner, 100L and 160L air compressors; (2) Industrial blowers - roots blowers, centrifugal fans, acoustic enclosures, accessories; (3) E-vehicles - e-rickshaw/e-cart/e-cargo models KPTECHD4, KPTECRG1, KPTECP1, KPTER1; (4) Agricultural tools and hand tools and welding machines listed as lines on the homepage (hand tools and welding machines marked 'Coming soon'). Site states global presence in Middle East and Africa for power tools and 20 years of blower sales to European buyers.",
+ "role_hint": "manufacturer",
+ "comment": "Declared codes 846721/846722/846729 are correct and fully corroborated by the published power-tool catalogue (drills/rotary hammers; cut-off saw; grinders, demolition hammer, impact wrench, broach cutter, blower, spray gun, vacuum cleaner). Declared 820210 (hand saws, incl. with self-contained motor) is NOT corroborated: the site shows no hand saws - the only saw is the 355mm cut-off saw, which is an electrically operated tool of 8467, not 8202. So 820210 is 'заявлено, не подтверждено' and should be dropped or replaced. Industry classification 'Авиастроение и транспорт' (aircraft/transport) is a misclassification: the company is a power-tool and industrial-blower manufacturer; the only transport-adjacent line is e-rickshaws/e-carts, which is a minor part of the range. Product lines missing from the declaration: air compressors (8414), industrial blowers/fans and roots blowers (8414), e-vehicles (8703/8704), agricultural tools, welding machines and hand tools (announced, catalogue not published). Trader signs: none - own 11-acre plant, ISO 9001:2015, own brand KPT, dealer network; role is manufacturer. Note: no customs line was available to me in this task, so all product mapping is based on the company website catalogue only and every code above is 'заявлено, не подтверждено' at the shipment level. Per rule 3 the HS mismatch is not a rejection ground - company retained, code corrected to the actual power-tool/compressor/blower range."
+}

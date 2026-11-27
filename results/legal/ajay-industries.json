@@ -1,0 +1,18 @@
+{
+ "name_input": "Ajay Industries",
+ "legal_name": "AJAY INDUSTRIES (as claimed; exact registered legal form not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) was down (connection refused) and Bing returned only irrelevant generic results for the name; MCA aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403 and Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, not invented. No basis to reject: absence of retrievable records is not proof of non-existence, so the entity is kept in the database with role 'unknown'. 'Ajay Industries' is a very common Indian trade name (multiple proprietorships/partnerships/firms across states), so the input cannot be matched to a single legal entity without a CIN, GSTIN or city. Recommended next step: obtain GSTIN or city/state from the supplier, then re-verify on MCA/GST portal. Revenue FY25/FY26: null — no audited accounts or official filings found. HS codes 820411/820600 (hand tools, interchangeable spanner/screwdriver-type tools) are plausible for a tools trader/manufacturer but unverified; per project rules HS mismatch is not a rejection ground and no correction is proposed without evidence."
+}

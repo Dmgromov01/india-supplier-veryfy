@@ -1,0 +1,18 @@
+{
+ "name_input": "ISCON SURGICALS LIMITED",
+ "legal_name": "ISCON SURGICALS LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error (searx connection refused) on both queries; direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, mca.gov.in returned HTTP 403, and Google/Bing/DuckDuckGo fallbacks returned HTTP 429, timeouts or completely irrelevant results (cricket/flight pages), so no page containing the CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be read. Therefore CIN/LLPIN, PAN, PAN holder type, GSTIN, GST status, incorporation date, registered state, MCA status and FY25/FY26 revenue are all null - not public in any source I was able to open, and not invented. No rejection basis established: existence, strike-off, liquidation or bankruptcy status is unverified, so the entity is NOT rejected. Role left as 'unknown' (no registry evidence of manufacturing vs trading activity). Note also that the input's claimed industry ('Продукты питания и FMCG' - food/FMCG) is inconsistent with the declared HS codes 901839/901850 (medical/surgical instruments) and with the company name 'Surgicals'; per project rules this is not a rejection ground - the company stays in the base and the HS/industry classification should be corrected to surgical/medical devices (HS 9018) pending verification. Recommend re-running with working search/registry access (MCA master data, GST portal public search, audited filings) before any verdict."
+}

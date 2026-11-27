@@ -1,0 +1,9 @@
+{
+ "name_input": "Jindal India Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — INCOMPLETE DUE TO TOOL FAILURE. As of today the search backend (DuckDuckGo/searx) returned 'Connection refused' / timeouts for every query, and Bing returned only unrelated spam results; IndianKanoon DNS failed; CRISIL ratings-list URL 404. Therefore NO sanctions screening (OFAC SDN, UN, EU, UK, BIS Entity List), NO court-case lookup (NCLT/NCLAT/HC/SC, party role, status), NO regulator-action or negative-news check, NO credit-rating lookup and NO evidence check on supplies to Russia/CIS could be completed. All fields set to null — this means 'not verified', NOT 'clean'. Do not treat nulls as absence of risk. Only verified fact: the corporate website jindalindia.com (fetched) presents the company as part of the B.C. Jindal Group, established 1952, coated-steel/pipes/aluminium-foil producer with two units near Kolkata, and lists a 'Scheme of Amalgamation' with newspaper clippings dated 22.6.25 and notices to secured/unsecured creditors — i.e. an amalgamation process is publicly referenced on its own site; nature and outcome (and whether any NCLT proceedings are involved) NOT verified. Note the name is easily confused with other Jindal entities (Jindal Steel & Power, Jindal Stainless, Jindal Poly, Jindal Drilling, etc.) — any adverse record found later must be matched to the exact legal entity 'JINDAL (INDIA) LIMITED' before attribution. Per project rules, sanctions/court/criminal matters are never rejection grounds; this company is retained. Recommend re-running the risk check when search access is restored."
+}
