@@ -1,0 +1,18 @@
+{
+ "name_input": "NILKANTH AGRI IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused'; (2) google.com/search — HTTP 429; (3) bing.com/search по запросу \"NILKANTH AGRI IMPEX\" GSTIN — выдача полностью нерелевантна (спам-домены, ни одного упоминания компании); (4) duckduckgo.com/html и lite.duckduckgo.com — таймаут; (5) tofler.in, zaubacorp.com, instafinancials.com — HTTP 403 (закрыты для бота); (6) mca.gov.in Master Data — HTTP 403. Итог: точное юридическое наименование, CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, публично не подтверждены в рамках доступных инструментов. ВАЖНО: null здесь означает 'не проверено из-за недоступности источников', а НЕ 'юрлица не существует'. Оснований для rejected нет — правило 3 требует доказанного отсутствия/ликвидации/банкротства, а таких данных получить не удалось. Роль (manufacturer/trader) не определена: заявленные HS 071220/071290/071320/071332 (сушёные овощи, семена, чечевица) — это товарная номенклатура, а не доказательство характера деятельности; по правилу 5 слова каталога/IndiaMART фактом не считаются. Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам и агрегаторам (Tofler, Zauba, Instafinancials) либо ручная выгрузка из MCA Master Data по названию."
+}

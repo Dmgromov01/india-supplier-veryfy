@@ -1,0 +1,18 @@
+{
+ "name_input": "ASP Corporation",
+ "legal_name": "ASP CORPORATION (exact legal form unverified — could be a private limited company, LLP, partnership or proprietorship; no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: the web_search (DuckDuckGo) backend returned 'Connection refused' on every query; Bing HTML fallback ignored the query and returned only generic 'ASP' software results (ASP.NET, ASP Inc., Advanced Sterilization Products); zaubacorp.com returned HTTP 403, thecompanycheck/instafinancials returned 404, and mca.gov.in master-data returned HTTP 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT verified, not absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role cannot be classified (manufacturer/trader/service_provider) without a registry or GST record. state_claimed was empty in the input, so no state mismatch can be assessed. HS 847431 (concrete/mortar mixers) is noted as declared only; per project rules HS mismatch is not a rejection ground and no HS verdict is issued here. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the entity simply remains unverified. Recommended action: re-run with a working search backend or a paid registry API (MCA/Tofler/Probe42) before any commercial decision; treat as 'заявлено, не подтверждено'."
+}

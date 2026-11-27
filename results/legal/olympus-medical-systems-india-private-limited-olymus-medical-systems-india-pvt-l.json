@@ -1,0 +1,18 @@
+{
+ "name_input": "Olympus Medical Systems India Private Limited; OLYMUS MEDICAL SYSTEMS INDIA PVT.LTD; OLYMPUS MEDICAL SYSTEMS INDIA PVT. LTD.; OLYMPUS MEDICAL SYSTEMS INDIA PRIVATE LIMITED; OLYMPUS MEDICAL SYSTEMS INDIA PRIVATE LIMITED; OLYMPUS MEDICAL SYSTEMS INDIA PRIVATE LTD; OLYMPUS MEDICAL SYSTEMS INDIA PVT LTD; OLYMPUS MEDICAL SYSTEMS INDIA PRIVATE LIMITED; OLYMPUS MEDICAL SYSTEMS INDIA PRIVATE LIMITED; OLYMPUS MEDICAL SYSTEMS INDIA PRIVATE LIMITED; M/S OLYMPUS MEDICAL SYSTEMS INDIA PVT LTD; OLYMPUS MEDICAL SYSTEMS INDIA PVT. LTD",
+ "legal_name": "OLYMPUS MEDICAL SYSTEMS INDIA PRIVATE LIMITED (as claimed in input; not independently confirmed against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error (searx connection refused) on every query, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404. Bing HTML results returned only generic Olympus Corporation global/Japan/US pages with no Indian registry record, and olympus.co.in failed with an expired TLS certificate. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all reported as null rather than guessed. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the company is NOT rejected under the project rules; it remains unverified pending a working registry lookup (MCA master data / GST portal / audited filings). Note on input: the input lists 12 spelling variants, including the misspelling 'OLYMUS MEDICAL SYSTEMS INDIA PVT.LTD' — these appear to be the same entity, but the exact legal name must be confirmed from MCA. Note on declared HS 847130 (portable computers/laptops): Olympus Medical Systems India is a medical-device/endoscopy business, so the declared HS code is very likely incorrect; per project rules this is NOT grounds for rejection — the code should be corrected to the actual product HS (e.g. Chapter 9018 for endoscopes/medical instruments) and the verdict recorded as accepted_hs_corrected once the entity is confirmed. Role is left 'unknown' because the manufacturer/trader distinction requires registry or filing evidence (import-and-sell vs local manufacture) that was not obtainable here."
+}

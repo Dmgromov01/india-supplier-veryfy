@@ -1,0 +1,18 @@
+{
+ "name_input": "Suyojan Hydromechanical Systems Pvt. Ltd",
+ "legal_name": "SUYOJAN HYDROMECHANICAL SYSTEMS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Ни один реестровый факт получить не удалось: поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Google вернул 429, Bing выдал нерелевантную мусорную выдачу, Marginalia — 0 результатов. Профильные агрегаторы (zaubacorp, thecompanycheck, tofler, instafinancials, quickcompany) вернули 403/404, портал MCA — 403. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации и MCA-статус — null, а не «отсутствуют». Название юрлица в поле legal_name приведено ровно в том виде, как заявлено во входных данных, и независимо не сверено. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25 и FY26 не найдена ни в аудированной отчётности, ни в официальных филингах — null. Отклонять НЕЛЬЗЯ: нет доказательств, что юрлицо не существует, ликвидировано, struck off или банкрот — отсутствие данных не является основанием для rejected. Требуется повторная проверка при доступном реестре (MCA Master Data / GST-портал) — рекомендую поставить в очередь на перепроверку, а не принимать решение по этой карточке. HS 870899 не проверялся (вне роли)."
+}

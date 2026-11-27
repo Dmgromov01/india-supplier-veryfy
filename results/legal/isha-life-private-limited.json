@@ -1,0 +1,18 @@
+{
+ "name_input": "ISHA LIFE PRIVATE LIMITED",
+ "legal_name": "ISHA LIFE PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: web_search вернул 'Connection refused' (бэкенд поиска недоступен); прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули HTTP 403 Forbidden; Google — HTTP 429; DuckDuckGo — timeout; Bing по запросам с точным названием и CIN/GST выдал только нерелевантные общие результаты (Isha Foundation, ishalife.sadhguru.org) без реестровых страниц. Следовательно CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — оставлены null, не выдуманы. Юрлицо с названием 'ISHA LIFE PRIVATE LIMITED' в открытых источниках не опровергнуто, но и не подтверждено документально; оснований для rejected (несуществование/ликвидация/банкротство) нет — статус не определён, требуется повторная проверка при доступности MCA-портала и GST-профиля. Роль (manufacturer/trader) не установлена. Заявленный HS 741980 (изделия из меди) и отрасль 'Металлургия и горнодобыча' реестром не подтверждены; по правилам HS-несоответствие не является основанием для отклонения. Требуется доисследование: MCA master data по названию, GST-профиль (вероятный штат — Тамилнад, регион Коимбатур/Иша-йога-центр, но это гипотеза, не факт), аудиторская отчётность."
+}

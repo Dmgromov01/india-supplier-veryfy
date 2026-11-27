@@ -1,0 +1,18 @@
+{
+ "name_input": "Mukti Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. The claimed name 'SAGAR BASAVRAJ HUNALLI' is a personal name, not a company name, which suggests a sole proprietorship (proprietor: Sagar Basavraj Hunalli); a proprietorship has no CIN/LLPIN and no MCA status, only a GSTIN. However, this could not be confirmed: the web_search backend returned connection errors, DuckDuckGo timed out, Google returned HTTP 429, and Bing returned only unrelated results for the exact-name queries. Registry aggregators (zaubacorp.com, instafinancials.com) returned HTTP 403 and thecompanycheck.com returned 404. Therefore legal entity name, GSTIN, GST status, incorporation date, registered state and PAN are all null - not public/not retrievable in this session, not invented. No rejection applied: absence of a found record is not proof of non-existence, and per project rules rejection requires confirmed non-existence/struck-off/liquidation/bankruptcy. Role left as 'unknown' (no evidence of manufacturing vs trading). Revenue FY25/FY26 null - no audited accounts or official filings found. HS 848180 (valves) is unverified and, per rules, is not a rejection ground. Recommended follow-up: manual GSTIN lookup on the GST portal by trade name + proprietor, and MCA name search for any 'Mukti Enterprises Private Limited' variant."
+}
