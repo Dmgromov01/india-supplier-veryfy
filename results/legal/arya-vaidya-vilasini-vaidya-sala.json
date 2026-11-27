@@ -1,0 +1,18 @@
+{
+ "name_input": "Arya Vaidya Vilasini Vaidya Sala",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Поисковый бэкенд (DuckDuckGo/searx) в этой сессии возвращал 'Connection refused', поэтому web_search не дал результатов; прямые запросы к публичным реестровым агрегаторам (zaubacorp.com, instafinancials.com, falconebiz.com) вернули HTTP 403, thecompanycheck.com — только заглушку поиска без результатов, gstsearch.in — 404. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус не найдены в публичных источниках — все поля null, ничего не выдумано. Важно: 'Arya Vaidya Vilasini Vaidya Sala' по названию выглядит как традиционное аюрведическое предприятие/фирма (возможно, проприеторское или партнёрство, не обязательно компания по Companies Act), а 'MANOJ KALOOR' в поле legal_claimed — это, судя по формату, имя физлица-проприетора, а не юрлицо; это требует отдельной проверки. Оснований для отклонения (rejected) НЕТ: несуществование, ликвидация, struck off или банкротство не установлены — отсутствие данных не равно отсутствию юрлица. Рекомендуется повторная проверка при доступном поиске: MCA master data по названию, GST-профиль по имени проприетора/торговому наименованию, а также уточнение у поставщика точного юридического наименования и GSTIN. Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено (для проприеторских фирм такие данные обычно не публикуются)."
+}

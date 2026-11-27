@@ -1,0 +1,18 @@
+{
+ "name_input": "BEAUTIFUL ADVERTISING AGENCY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no data obtained. The input name 'BEAUTIFUL ADVERTISING AGENCY' with the person name 'FAREED ZAFAR QURESHI' in the legal_claimed field looks like a sole proprietorship / unregistered trade name, not a company: no CIN/LLPIN is expected for such an entity, and no MCA record would exist. Verification was not possible in this run: the DuckDuckGo search backend returned 'Connection refused' / timeouts on every attempt, Bing ignored the quoted phrase and returned only dictionary results for 'beautiful', and direct fetches of ZaubaCorp (403), mca.gov.in (403) and DuckDuckGo HTML/lite endpoints (timeout) all failed. Therefore legal_name, CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and both revenue figures are null - not public/not retrieved, NOT zero and NOT estimated. No PAN could be derived, so pan_holder_type (4th character: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust) cannot be stated. Role left as 'unknown' because no registry or GST record was read; the declared HS codes 321511/321519/321590 (printing inks) do not match the claimed industry 'Строительство и DIY' (construction/DIY), but per project rules an HS mismatch is NOT grounds for rejection - the code would be corrected to the factual one once the entity is identified. Per rule 3 this company is NOT rejected: rejection requires proof that the legal entity does not exist, is struck off, liquidated or bankrupt, and no such proof was obtained - the entity simply could not be located with the tools available. ACTION NEEDED: re-run with working search, or obtain from the supplier its GSTIN / PAN / Udyam registration number, which is the only reliable way to identify a proprietorship trade name."
+}

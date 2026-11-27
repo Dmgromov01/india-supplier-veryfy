@@ -1,0 +1,9 @@
+{
+ "name_input": "ZIRCAR CRUCIBLES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on both queries; DuckDuckGo HTML and direct site fetches timed out; Google returned only a redirect stub; Bing returned entirely unrelated results (Federal Reserve Act, Windows help pages) for both the company name and the claimed legal name 'Zircar Refractories Limited', i.e. no usable hits. Registry lookups failed: zaubacorp.com returned HTTP 403, tofler.in returned 404 for the constructed slug, zircar.com failed DNS resolution. Consequently NOTHING is asserted about this entity: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = null (not checked, not cleared); Indian court cases = null (not checked); regulator actions and negative news = null (not checked); credit rating = null (not checked); evidence of supplies to Russia/CIS = null (not checked). Per project rules, null means 'no public data obtained', NOT 'clean' - this company must not be treated as risk-cleared on the basis of this record. Also note the input itself is internally inconsistent: the name field says 'ZIRCAR CRUCIBLES PRIVATE LIMITED' while legal_claimed says 'ZIRCAR REFRACTORIES LIMITED'; I could not confirm whether either entity exists, so the mismatch is unresolved and should be flagged to the requester. Recommend re-running this company once search connectivity is restored, and manually checking MCA master data, the OFAC SDN list, UN/EU/UK consolidated lists and the BIS Entity List by exact legal name."
+}

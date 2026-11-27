@@ -1,0 +1,18 @@
+{
+ "name_input": "ZIRCAR CRUCIBLES PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search backend returned connection errors ('searx: Connection refused') for all queries, and every direct attempt to read public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403 Forbidden or a 404 page; Bing/Google HTML endpoints returned irrelevant or redirect-only content. Therefore no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be sourced, and all such fields are left null rather than guessed. IMPORTANT NAME DISCREPANCY: the input name is 'ZIRCAR CRUCIBLES PRIVATE LIMITED' while legal_claimed is 'ZIRCAR REFRACTORIES LIMITED' - these are two different legal names (and different entity types: private limited vs limited), so the claimed legal entity cannot be assumed to be the same company; this must be resolved before any verdict. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a finding. Declared HS codes 381600/690320 (refractory cements/mortars and ceramic refractory goods) are consistent with a refractory/crucible business, but HS mismatch is in any case not a rejection ground per project rules. Role left as 'unknown' pending registry confirmation of manufacturing vs trading activity. Recommended next step: re-run with working search access or query the MCA master data / GST portal directly for both candidate names."
+}
