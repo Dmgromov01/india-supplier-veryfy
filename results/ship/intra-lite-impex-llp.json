@@ -1,0 +1,8 @@
+{
+ "name_input": "Intra Lite impex llp",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/intra-lite-impex-llp and .../intra-lite-impex both return only the generic template text: 'Shipments available for INTRA LITE IMPEX LLP, refreshed daily' with no dated row, no destination, no HS code and no bill-of-lading number rendered; 0 shipment rows actually seen out of 0 claimed. Volza (volza.com/p/intra-lite-impex/) and eximpedia returned HTTP 403, so no second-source rows could be read. Bing exact-phrase searches for \"INTRA LITE IMPEX\" and \"Intra Lite Impex LLP\" returned 0 relevant results (only generic 'intra-' dictionary/company pages).",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract award or annual-report split found. Bing exact-phrase search for \"Intra Lite Impex LLP\" returned 0 matching Indian company pages; no public procurement or GST-derived turnover figure located. GST turnover: null (not public in accessible sources).",
+ "note": "Следов поставок не найдено: ни экспортных отгрузок (нет ни одной записи с датой, направлением, HS и B/L), ни подтверждённых поставок внутри Индии. Заявленный HS 851712 (телефоны/смартфоны) ничем не подтверждён — факт отгрузок не установлен, поэтому код не корректируется, а фиксируется как заявленный. Роль (manufacturer/trader) не определена — по названию 'impex' вероятен трейдер, но это не подтверждено. Выручка: null. Ограничение: DuckDuckGo-поиск был недоступен (connection refused), Google вернул 429, поэтому охват источников неполный — статус 'none_found' отражает отсутствие найденных записей, а не доказанное отсутствие деятельности. Компания не отклоняется (правило 1 и 3): нет данных о ликвидации/банкротстве."
+}

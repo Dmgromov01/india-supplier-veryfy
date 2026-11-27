@@ -1,0 +1,9 @@
+{
+ "name_input": "Intra Lite impex llp",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения на всех запросах; Bing по точным фразам \"INTRA LITE IMPEX LLP\" и \"Intra Lite Impex\" выдал только нерелевантные результаты (словарные статьи intra-, Intra Lighting, INTTRA и т.п.) — ни одного упоминания компании. Zauba Corp вернул 403, Tofler — 404, Google — 429. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) напрямую не проверялись, поэтому sanctions_hit = null (не подтверждено отсутствие, а не подтверждено наличие). Судебные дела (eCourts, NCLT, High Court), рейтинги (CRISIL/ICRA/CARE/India Ratings) и негативные новости не проверены — null. Свидетельств поставок в РФ/СНГ не найдено, но это результат отсутствия доступа к источникам, а не проверенный отрицательный факт: rf_supply = null. Требуется повторный прогон при доступном поиске; никакие данные не выдумывались."
+}
