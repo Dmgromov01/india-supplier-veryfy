@@ -1,0 +1,21 @@
+{
+ "name_input": "KUNVARJI COMTRADE RETAIL PRIVATE LIMITED",
+ "declared_hs": "100630;100850;120242;200811",
+ "actual_hs_list": [
+  "100630 (rice, semi-milled/wholly milled)",
+  "100850 (other cereals - quinoa; NOT a match for any Kunvarji product line)",
+  "120242 (ground-nut kernels, shelled, not roasted, other)",
+  "200811 (ground-nuts, otherwise prepared/preserved)",
+  "0904 (pepper, genus Piper; dried capsicum/chilli)",
+  "0902 (tea, flavoured or not)",
+  "0713 (dried leguminous vegetables, shelled - pulses)",
+  "1206 (sunflower seed) / 1207 (other oil seeds)",
+  "1701 (cane/beet sugar)",
+  "1214 (forage/feed materials - animal feed)",
+  "1006 other subheadings (100610 paddy, 100620 husked/brown) if rice trade covers paddy"
+ ],
+ "match_status": "partial",
+ "product_summary": "Group agro site (kunvarjiagro.com) lists the actual product lines as: Spices, Rice, Peanuts, Pulses, Sugar, Animal Feed. Infrastructure named: peanut processing plant at Dholka (Gujarat), cleaning/sorting + Sortex plant at Gandhidham, chilli processing plant at Guntur (Andhra Pradesh). Group history page states entry into agri export business in 2011-12 and an integrated peanut-processing facility commissioned 2022-23. Declared codes cover only rice (100630), groundnut kernels (120242) and prepared groundnut (200811) - i.e. 3 of the 6 advertised lines. Spices (chilli/pepper), pulses, sugar and animal feed are entirely absent from the declaration. 100850 (quinoa/other cereals) has no counterpart in any published product line and looks like a mis-keyed or speculative code. 200811 (prepared/preserved groundnuts) is plausible only if the Dholka plant does roasted/salted/processed peanuts - the site mentions processing but no specific processed-peanut SKU, so this is 'заявлено, не подтверждено'. No customs line, B/L or shipping bill was reviewed in this task (out of scope), so every product-to-HS mapping here is 'заявлено, не подтверждено' at the shipment level.",
+ "role_hint": "trader / manufacturer_trader - the group describes itself as a commodity trader with 'international business, institutional supply and retail agribusiness', but also operates own processing plants (peanut Dholka, chilli Guntur, Gandhidham cleaning/Sortex), so manufacturer_trader is the better fit for the agro entity; the 'Retail' suffix in the legal name points to the domestic retail/distribution arm (150+ distributors claimed in India).",
+ "comment": "HS-код скорректирован, компания сохраняется (правило 3: несоответствие HS не является основанием для отклонения). Фактический ассортимент по сайту группы: специи, рис, арахис, зернобобовые (пульс), сахар, корма для животных. Заявленные коды покрывают только рис (100630), ядро арахиса (120242) и, возможно, переработанный арахис (200811) - совпадение частичное. Код 100850 (прочая крупа/киноа) не подтверждается ни одной товарной линейкой - вероятна ошибка декларирования, подлежит замене. Отсутствуют в декларации целые линейки: специи (перец 0904, сушёный чили 0904), чай (0902), зернобобовые (0713), сахар (1701), корма (1214), масличные семена (1206/1207). Отраслевая классификация 'Продукты питания и FMCG' в целом верна для розничного плеча, но для экспортного плеча это агро-сырьевой трейдер, а не FMCG-производитель - уточнить. Признаки трейдера: самоописание 'commodity trading', 'institutional supply', 'retail agribusiness', 150+ дистрибьюторов. Все товарные соответствия помечены 'заявлено, не подтверждено': источники - только сайты группы (kunvarji.com, kunvarjiagro.com), таможенных записей в рамках этой задачи не проверялось. Внутренние страницы продуктов (kunvarjiagro.com/products/, /rice/, /peanuts/, /retail-business/) вернули 404, поэтому детализация по сортам и фасовке недоступна - null. Поиск (DuckDuckGo/Bing) в этой сессии отдавал нерелевантную выдачу, поэтому независимых каталогов (IndiaMART и пр.) подтвердить не удалось."
+}

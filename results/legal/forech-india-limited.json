@@ -1,0 +1,18 @@
+{
+ "name_input": "FORECH INDIA LIMITED",
+ "legal_name": "Forech India Private Limited",
+ "cin_llpin": "U51109HR1983PTC132390",
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Haryana",
+ "state_claimed": null,
+ "mca_status": "Active (CIN published on company's own offices page; MCA master data not directly verified — registry aggregators returned HTTP 403)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Legal entity confirmed as Forech India Private Limited (input said 'FORECH INDIA LIMITED' — the site's own history page says 'Re-organised as Forech India Ltd' in 1994, but the current registered entity per the company's offices page is a private limited company). CIN U51109HR1983PTC132390 taken verbatim from https://www.forech.com/offices/ — the '1983' incorporation year and 'HR' (Haryana) registrar are embedded in the CIN; exact date of incorporation not published on accessible pages, so null. Registered office: Malikpur Road, Village Dhaturi, Asadpur Nandnaur, Distt. Sonipat 131027, Haryana; head office Hilton House S-23, Green Park Extension, New Delhi 110016. State claimed in input was empty, so state_claimed null; registered state is Haryana. Role: manufacturer — four own plants (two at Dhaturi, Sonipat, Haryana; two at Cheyyar, Thiruvannamalai, Tamil Nadu) per https://www.forech.com/about/. PAN and GSTIN not found on any public page reachable in this session (zaubacorp/thecompanycheck returned 403, search backend refused connections, Bing returned irrelevant results) — left null rather than guessed; PAN 4th-character holder type therefore also null. Revenue FY25/FY26: no audited accounts or MCA filings accessible, so null. No rejection grounds: entity exists and is operating (site live, 2025 scheme-of-arrangement disclosures referenced). Note on declared HS 400821/401012/591000: rubber sheets/belts and textile fabric for conveyor belts are consistent with the stated product line, but HS verification is outside this role's scope."
+}

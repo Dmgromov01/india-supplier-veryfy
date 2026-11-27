@@ -1,0 +1,18 @@
+{
+ "name_input": "CLARIANT CHEMICALS (INDIA) LIMITED",
+ "legal_name": "Clariant Chemicals (India) Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run: DuckDuckGo search returned connection refused, and all registry aggregators attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, moneycontrol.com) returned HTTP 403/429 or only boilerplate; BSE page returned no company data and NSE timed out. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited FY25/FY26 revenue are all left null rather than guessed. What is confirmed: Clariant AG (Switzerland) is a real, listed speciality-chemicals group (Wikipedia, clariant.com) with major manufacturing sites in India, and 'Clariant Chemicals (India) Limited' is the group's Indian entity name used in public references; the entity is a manufacturer, not a trader. IMPORTANT DISCREPANCY: the input's legal_claimed field says 'SUDARSHAN COLORANTS INDIA LIMITED', which is a different company from the name_input 'CLARIANT CHEMICALS (INDIA) LIMITED' - the legal entity must be resolved by the client before any onboarding; no evidence was found linking the two names. Declared HS 390720 (polyacetals/polyethers - a plastics polymer heading) does not match a colorants/dyes or speciality-chemicals profile; per project rules this is NOT a rejection ground - the company stays in the base and the HS code should be corrected to the actual product code (verdict would be accepted_hs_corrected). No rejection applied: no evidence of non-existence, strike-off, liquidation or bankruptcy. Registry verification must be re-run with working access (MCA21 / GST portal) before this record is used."
+}

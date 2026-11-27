@@ -1,0 +1,18 @@
+{
+ "name_input": "V. T. EXPORTS (P) LIMITED",
+ "legal_name": "V. T. Exports (P) Limited — as claimed; exact MCA-registered spelling NOT verified",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failure: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; Bing HTML results were polluted by generic 'V'/'VT' matches (BTS singer, Virginia Tech, Vanguard ETF) and returned zero India-registry hits for the exact strings 'V. T. Exports Private Limited', 'VT Exports Private Limited', 'V T Exports Pvt Ltd'; zaubacorp.com, thecompanycheck.com and instafinancials.com all returned HTTP 403/404 to direct fetch; Google returned HTTP 429. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null because they are NOT PUBLICLY RETRIEVED, not because they were checked and found absent. No rejection is applied: per project rules rejection requires positive proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was obtained — absence of search results is not proof. Role left as 'unknown' (cannot distinguish manufacturer vs trader without registry/NIC activity codes). Revenue FY25/FY26 null — no audited accounts or MCA filings accessed. Note on input quality: declared HS 610910 (knitted cotton T-shirts) is inconsistent with the claimed industry 'Food products & FMCG'; per rules this is NOT a rejection ground — the company stays in the database and the HS code should be corrected to the factual one once the actual product line is established. Also note the input gives no claimed state and no claimed PAN, so state_registered vs state_claimed comparison is not possible. RECOMMENDATION: re-run this company in a later batch when the search backend is restored, or verify manually on mca.gov.in (company search by name) and the GST portal's public 'Search Taxpayer' for the GSTIN."
+}

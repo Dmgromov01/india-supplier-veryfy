@@ -1,0 +1,19 @@
+{
+ "name_input": "Thermopac process engineering LLP",
+ "declared_hs": "841940",
+ "actual_hs_list": [
+  "841940",
+  "841950",
+  "841989",
+  "841940 (distillation/rectification columns, wiped film evaporator)",
+  "847920",
+  "841350/841360 (pumps, ancillary)",
+  "841620/841780 (thermal fluid heaters, boilers)",
+  "847439/847982 (blending/mixing plants)",
+  "271019 (base oil output grades SN150-SN500 - if traded)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Turnkey used/waste lube-oil re-refining plants (EPC). Site product list (thermopac.in/products): Used Oil Recycling/Re-Refining Plant; Regenerative Media Based Polishing Systems; Transformer Oil Recycling Plant; Automatic Lube Oil Blending Plants (5-100 TPD); Grease Manufacturing Plant (5-100 TPD); Water Naphtha Separator; Slop Oil Treatment; Wiped Film Evaporator (TWFE, proprietary); Group II Base Oil (output grades SN 150/300/400/500). About page adds in-house manufacture of steam boilers, thermal fluid heaters, reactors, distillation columns, evaporators. Own manufacturing facility in Mumbai (Vile Parle East), 40 km from JNPT. Standards cited: ASTM, ASME, API, TEMA, BIS, CE/U-stamp.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 841940 (distillation/rectification plant) is the correct core code and is corroborated by the site's own product line (distillation columns, wiped film evaporator, re-refining plants) - so the declared code is right for the main product, hence 'partial' rather than 'wrong': the declaration covers only one of several distinct machine families actually offered. Missing from the declaration: 841950 (heat exchangers/thermal fluid heaters), 841989 (evaporators/other temperature-treatment plant - TWFE), 847920 (fat/grease manufacturing plant), 847439/847982 (lube-oil and grease blending/mixing plants), 841620/841780 (steam boilers, thermal fluid heaters manufactured in-house), plus 271019 if the SN 150-500 base-oil grades are actually sold as goods rather than described as plant output. Industry claim 'IT и электроника' is a clear misclassification: this is capital process/mechanical engineering (oil re-refining EPC), not IT or electronics - the only IT-adjacent element is SCADA/DCS automation, which is a feature of the plants, not a product. Role: manufacturer of own equipment plus EPC/turnkey contractor and technology licensor (trader signs: imports/third-party equipment supply within turnkey packages, South America sales agent listed). All product claims are from the company's own website only - no customs line was checked in this task, so the entire product range is 'заявлено, не подтверждено'. No registry, revenue or shipment data researched per scope."
+}

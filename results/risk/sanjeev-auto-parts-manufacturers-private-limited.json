@@ -1,0 +1,9 @@
+{
+ "name_input": "SANJEEV AUTO PARTS MANUFACTURERS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ПРОВЕРКА НЕ ВЫПОЛНЕНА — данных нет, все поля null. Техническая причина: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Bing отдавал нерелевантную мусорную выдачу (Amazon, menchats.com) вместо результатов по компании; Google — HTTP 429; zaubacorp.com и thecompanycheck.com — HTTP 403. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен, но это JS-форма без GET-параметров, поэтому прямой запрос по имени через http_get не дал результата — скрининг по SDN/Non-SDN фактически НЕ проведён. Аналогично НЕ проверены: UN Consolidated List, EU consolidated list, UK OFSI, BIS Entity List. Судебные дела (eCourts, NCLT, High Court) НЕ проверены. Регуляторные действия и негативные новости НЕ проверены. Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) НЕ проверен. Свидетельства поставок в РФ/СНГ НЕ искались. ВАЖНО: отсутствие данных здесь означает 'не проверено', а НЕ 'чисто'. По правилам проекта (п.2) любые найденные санкции/суды/уголовные дела не являются основанием для отклонения — только нейтральная пометка «есть сложности». Компания должна остаться в базе; отклонение возможно только при несуществовании/ликвидации/банкротстве юрлица, что в рамках данной роли (risk specialist) не проверялось. Требуется повторный запуск с рабочим поиском или ручная проверка по eCourts, OFAC/EU/UK/BIS-спискам и рейтинговым агентствам."
+}
