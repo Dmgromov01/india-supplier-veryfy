@@ -1,0 +1,18 @@
+{
+ "name_input": "NISHCHEM INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все 10 доступных инструментальных вызовов израсходованы безрезультатно: web_search (DuckDuckGo/searx) возвращал 'Connection refused' либо полностью нерелевантную выдачу (USPS, DSW, мексиканские новости); прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, quickcompany.in) — HTTP 403/404; mca.gov.in — HTTP 403; Google — HTTP 429; duckduckgo.com/html — timeout. Ни одного подтверждённого реестрового факта (CIN, PAN, GSTIN, дата регистрации, штат, MCA-статус) получить не удалось, поэтому все поля null, а не заполнены предположениями. Юрлицо НЕ отклонено: отсутствие подтверждения существования не равно подтверждению несуществования (правило 3 — отклонение только при доказанной ликвидации/банкротстве/отсутствии юрлица). Роль оставлена 'unknown' — заявленный профиль (HS 340242, нефтегаз и химия) не является доказательством ни производства, ни трейдерства. Выручка FY25/FY26 — null: аудиторская отчётность не найдена и не могла быть найдена при недоступности реестровых источников; цифры не выдумывались (правило 4). Требуется повторная проверка при восстановлении доступа к поиску и реестровым базам (MCA21 master data, GST-портал по GSTIN, Zauba/Tofler)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "V T CORP PRIVATE LIMITED",
+ "legal_name": "V T CORP PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: DuckDuckGo-поиск возвращал ошибку соединения (searx: Connection refused); Bing по запросам \"V T CORP PRIVATE LIMITED\" CIN / GSTIN выдавал нерелевантную выдачу (BTS V, Visa, Wiktionary) — точного совпадения по юрлицу не найдено; прямые запросы к zaubacorp.com и thecompanycheck.com вернули HTTP 403, mca.gov.in Master Data — HTTP 403, Google — HTTP 429. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 остаются null — публично не получены в рамках этой проверки, цифры не выдумывались. Роль (manufacturer/trader) не определена: без GST-профиля и данных MCA отнести к категории нельзя, поэтому unknown. Отклонение НЕ применяется: отсутствие подтверждения не равно доказательству несуществования юрлица (правило 3 — rejected только при ликвидации/банкротстве/struck off). Требуется повторная проверка с доступом к MCA Master Data / GST-порталу по CIN или PAN. Заявленный HS 842139 (фильтры/очистители газов) и отрасль «нефтегаз и химия» не проверялись — по правилам проекта HS не является основанием для отклонения."
+}
