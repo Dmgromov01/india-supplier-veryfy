@@ -1,0 +1,18 @@
+{
+ "name_input": "RANGA FAB",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be verified. Search tooling was degraded during this run: the DuckDuckGo search backend returned connection errors ('searx: Connection refused') on both queries, and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403. Bing fallback queries for '\"RANGA FAB\" GSTIN OR CIN India', '\"RANGA FAB\" proprietor GST Surat OR Tirupur OR Jaipur', '\"RANGA FAB\" indiamart OR exportersindia' and '\"Rangafab\" OR \"Ranga Fabrics\" company India registration' returned only irrelevant results (Tamil film 'Ranga', Hotel Ranga Iceland, USPS tracking pages) — no Indian company, LLP or proprietorship page surfaced. Therefore exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null: NOT public/not found in this run, not 'absent'. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role set to 'unknown' — the name pattern ('FAB') suggests a textile/fabric trade or manufacturing concern, but nothing verifiable supports manufacturer vs trader. IMPORTANT: per project rules, rejection requires proof the entity does not exist / is struck off / liquidated / bankrupt — no such proof exists here, so this is NOT a rejection; it is an unverified record pending a registry lookup (MCA master data by name, or GST portal search on the trade name). Note also that the declared HS 630291 (textile made-ups: bed linen/table linen of cotton) is inconsistent with the claimed industry 'Food products and FMCG'; per rule 3 this is not a rejection ground — the HS code should be corrected to the actual product line once the entity and its goods are confirmed. Recommend re-queuing this company for a run with working search access."
+}

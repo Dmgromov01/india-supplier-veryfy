@@ -1,0 +1,9 @@
+{
+ "name_input": "SHARVIK IMPEX INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Coverage was severely limited: the DuckDuckGo search backend returned connection errors on every attempt, so no open-web negative-news, sanctions-list or rating search could be completed. What was actually checked: (1) Indian Kanoon full-text search for \"SHARVIK IMPEX\" and \"SHARVIK IMEX\" returned 0 matching judgments (https://indiankanoon.org/search/?formInput=%22SHARVIK%20IMPEX%22%20OR%20%22SHARVIK%20IMEX%22) - so no Indian court case naming this exact entity is indexed there; a broader \"SHARVIK\" search returned 14 hits, all unrelated parties (Sharvik Properties Pvt Ltd, Sharvik Construction, individuals named Sharvik Dhadda/Daddha in Rajasthan/Gujarat criminal bail matters) - none of these are linked to the company and must NOT be attributed to it. (2) Zaubacorp and InstaFinancials returned HTTP 403 and Tofler returned 404, so no MCA/registry-derived litigation, charge or rating data could be read. (3) OFAC SDN, UN, EU, UK and BIS Entity List screens were NOT completed - sanctions_hit is null, which means 'not verified', not 'clear'. (4) No credit rating found or verifiable; null. (5) No evidence of supplies to Russia or the CIS was found, but absence here reflects failed search coverage, not a confirmed negative - null. (6) No regulator action or negative news could be retrieved; null. Per project rules, sanctions/court/criminal matters are not rejection grounds in any case; this company is not rejected. Recommendation: re-run the sanctions screen and open-web negative-news check when the search backend is restored, and pull MCA/litigation data from a paid source, before relying on this record."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "NATUROMA AGRI COMMODITIES PVT.LTD",
+ "legal_name": "NATUROMA AGRI COMMODITIES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The DuckDuckGo search backend returned connection refused on both queries, and every public registry aggregator attempted returned HTTP 403/404 or unrelated results: zaubacorp.com company page (403), zaubacorp.com search (403), thecompanycheck.com (403), instafinancials.com (403), tofler.in search (404), quickcompany.in (404), MCA portal viewCompanyMasterData (403), Google (redirect/consent wall), Bing (returned irrelevant results, no company match), duckduckgo.com/html (timeout). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null - NOT because they do not exist, but because no public source was reachable within the tool budget. No negative inference should be drawn: the entity is NOT rejected, since non-existence, strike-off, liquidation or bankruptcy was not established. Role left as 'unknown' - the name suggests agri-commodity trading rather than manufacturing, but this is inference from the name only, not evidence. Declared HS 330190 (essential oils/oleoresins) is a chemistry heading while the name indicates agri commodities; per project rules this is NOT a rejection ground - if the HS code is later found inconsistent it should be corrected to the actual code and the verdict set to accepted_hs_corrected. state_claimed was empty in the input, so no state mismatch can be assessed. Recommended next step: re-run verification when search access is restored, checking MCA master data and the GST public taxpayer search for the exact legal name."
+}

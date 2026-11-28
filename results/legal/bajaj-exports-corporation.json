@@ -1,0 +1,18 @@
+{
+ "name_input": "BAJAJ EXPORTS CORPORATION",
+ "legal_name": "BAJAJ EXPORTS CORPORATION (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com returned HTTP 403; thecompanycheck.com returned HTTP 404; duckduckgo.com/html timed out; Google returned a redirect/consent page; Bing returned only generic Bajaj Group/Bajaj Auto results with no match for the exact string 'BAJAJ EXPORTS CORPORATION'. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any public source, so all such fields are null rather than guessed. The name pattern ('... Corporation' without 'Private Limited'/'Limited') is consistent with a proprietorship or partnership trading/export house rather than a company registered with MCA, which would mean no CIN exists at all — but this is an inference, NOT a verified fact. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so per the rules the company is NOT rejected; it is retained with role 'unknown' pending a working registry lookup (MCA master data / GST public search by trade name). Declared HS 380290 (activated carbon / mineral chemical products) is not assessed here — HS mismatch is not a rejection ground and the code is to be corrected to the actual one if it differs. Revenue FY25/FY26: null — no audited accounts or official filings located; not estimated."
+}
