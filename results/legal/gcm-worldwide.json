@@ -1,0 +1,18 @@
+{
+ "name_input": "GCM Worldwide",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни одна публичная запись не подтверждает существование индийской компании/LLP под названием 'GCM Worldwide'. Входные данные противоречивы: в поле legal_claimed указано имя физлица 'ANJAY KUMAR AGARWAL' (вероятно, проприетор или директор), а не наименование юрлица; PAN, штат и CIN не заявлены. Инструменты: web_search недоступен (ошибка соединения с поисковым бэкендом); Bing по запросам '\"GCM Worldwide\" India CIN GST', '\"GCM Worldwide\" \"Anjay Kumar Agarwal\"', '\"GCM Worldwide\" Private Limited OR LLP India food', '\"GCM Worldwide\" IndiaMART OR exportersindia OR GSTIN' выдал только нерелевантные результаты про аббревиатуру GCM (Greek Capital Management, GCM Precision Manufacturing, GCM Grosvenor и т.п.) — ни одного индийского юрлица. Прямые запросы к реестрам заблокированы: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, mca.gov.in (Company/LLP Master Data) — HTTP 403, instafinancials — HTTP 404, Google — HTTP 429, DuckDuckGo — таймаут. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA, выручка FY25/FY26 — null: данных нет в открытом доступе по итогам проверки, цифры не выдумывались. Роль — unknown (нет подтверждения ни производства, ни трейдерства). ВАЖНО: отклонение (rejected) НЕ применяется — отсутствие подтверждения в реестре из-за недоступности источников не равно доказательству несуществования юрлица (правило 3). Требуется уточнение от заказчика: точное наименование юрлица (например 'GCM Worldwide Pvt Ltd' / 'GCM Worldwide LLP' / ИП-проприетор Anjay Kumar Agarwal), PAN или GSTIN, штат — после этого проверку можно завершить. HS-коды 190230/210690 (готовые пищевые продукты) не влияют на вердикт (правило 3)."
+}

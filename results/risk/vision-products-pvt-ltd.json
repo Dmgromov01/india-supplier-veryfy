@@ -1,0 +1,9 @@
+{
+ "name_input": "VISION PRODUCTS PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no data collected, all fields null. Reason: every search channel failed during this run. DuckDuckGo/searx backend returned 'Connection refused' on all queries; Google returned HTTP 429; Bing returned the identical generic 'vision' dictionary/eyecare result set for all four distinct queries (including site:indiankanoon.org and zauba/tofler/indiafilings variants), i.e. the engine was serving a degraded cached page and no query-specific results could be obtained; the OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) is a JavaScript application and returned only the empty search form via plain HTTP GET, so no name lookup could be executed. Consequently nothing is asserted about OFAC SDN/UN/EU/UK/BIS exposure, Indian court cases, regulator actions, credit rating or supplies to Russia/CIS - these are UNKNOWN, not 'clean'. Additional caveat: the name 'Vision Products Pvt Ltd' is a very common Indian corporate name (multiple unrelated entities across states), and the record supplied no CIN, PAN or state, so even with working search a name-only match could not be reliably attributed to this specific supplier. Recommended next step: re-run with a working search backend plus the company's CIN/PAN and registered state, then check OFAC SDN/consolidated list, indiankanoon.org, NCLT/IBBI, and Indian credit-rating agency sites (CRISIL/ICRA/CARE/India Ratings) by exact legal name. Per project rules this company is NOT rejected on the basis of missing risk data - it remains in the database with risk status unverified."
+}
