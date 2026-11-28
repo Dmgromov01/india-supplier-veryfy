@@ -1,0 +1,18 @@
+{
+ "name_input": "KNOWELL INTERNATIONAL PVT LTD",
+ "legal_name": "KNOWELL INTERNATIONAL PRIVATE LIMITED (unverified — name as claimed in input; could not be confirmed against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The DuckDuckGo search tool returned a connection error (searx: Connection refused) on both queries, and direct reads of registry aggregators failed: zaubacorp.com 403, thecompanycheck.com 403, falconebiz.com 403, quickcompany.in 404, instafinancials.com 404, mca.gov.in 403. Bing HTML fallback returned only irrelevant results, so no page containing the CIN, PAN, GSTIN, incorporation date or MCA status was actually read. Per project rules nothing is invented: CIN/LLPIN, PAN (and therefore the 4th-character holder-type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null, and revenue FY25/FY26 are null because no audited accounts or official filings were located. No rejection is proposed — non-existence, strike-off, liquidation or bankruptcy was NOT established; the entity is simply unverified. Role left as 'unknown' (no evidence of manufacturing vs trading). Declared HS 848210 (ball bearings) is inconsistent with the claimed industry 'Металлургия и горнодобыча', but per rule 3 this is not a rejection ground — the HS code should be corrected to the factual one once the product line is confirmed. Recommended next step: re-run with a working search backend and read the MCA master-data page plus a GST public profile (e.g. knowyourgst / GSTZen) to fill CIN, PAN, GSTIN, incorporation date and state."
+}

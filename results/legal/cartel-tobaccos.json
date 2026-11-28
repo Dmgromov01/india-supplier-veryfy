@@ -1,0 +1,18 @@
+{
+ "name_input": "CARTEL TOBACCOS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Поиск не дал результатов: DuckDuckGo-бэкенд возвращал 'Connection refused', Bing по запросам в кавычках \"CARTEL TOBACCOS\" / \"CARTEL TOBACCOS\" GSTIN / \"MANDALANENI VENKATA SAINADH\" выдавал только общие статьи о картелях и нерелевантные страницы (Krillion Ventures, UK Athletics), т.е. точного совпадения фразы в индексе нет. Реестровые агрегаторы недоступны: zaubacorp.com — HTTP 403, instafinancials.com — HTTP 403, duckduckgo.com/html — timeout. MCA/GST-порталы в этой сессии не открывались. ВАЖНО: 'CARTEL TOBACCOS' по форме названия не является юрлицом (нет суффикса Pvt Ltd/LLP/Partnership Firm), а 'MANDALANENI VENKATA SAINADH' — это имя физлица (вероятно, sole proprietor / индивидуальный предприниматель), поэтому CIN/LLPIN может отсутствовать в принципе; PAN физлица (4-й символ 'P') публично не раскрывается. GSTIN, дата регистрации, штат и статус не найдены — null, не выдуманы. Роль: unknown (по заявленному HS 240110/240120 — необработанный табак — вероятнее trader/manufacturer_trader, но подтверждения нет). Выручка FY25/FY26: для sole proprietor аудиторская отчётность в открытом доступе обычно отсутствует — null. Отклонять НЕЛЬЗЯ: нет доказательств, что юрлицо не существует/ликвидировано/банкрот — просто нет данных. Требуется ручная проверка по GST-порталу (gst.gov.in search taxpayer) и по имени собственника в реестре самозанятых/Shop & Establishment штата Андхра-Прадеш. Замечание по входу: заявленная отрасль 'Строительство и DIY' не соответствует HS 240110/240120 (табачное сырьё) — вероятно ошибка классификации во входных данных, но по правилам это не основание для отклонения."
+}

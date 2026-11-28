@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S V.K.& SONS; KRISHU LOCKS AND HARDWARE",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) недоступен — 'Connection refused'/'timed out'; Bing игнорирует кавычки и возвращает нерелевантные результаты (Kroger, BTS V, баскетбол), т.е. поиск по точному названию фактически не выполнялся. Реестровые и GST-агрегаторы отдали 403 Forbidden: zaubacorp.com, instafinancials.com, mca.gov.in (MCA Master Data). gstinsearch.in — DNS failure. Итог: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и статус MCA НЕ подтверждены — все поля null, ничего не выдумано. ВАЖНО по структуре входа: 'M/S V.K. & SONS' — это торговое обозначение (M/s = messrs), а 'KRISHU LOCKS AND HARDWARE' выглядит как брэнд/торговая точка, тогда как 'DHAWAL ARORA' — имя физлица-собственника, а не название компании. Это типичный профиль единоличного проприеторства (sole proprietorship) без CIN и без MCA-регистрации; в таком случае PAN был бы персональным (4-й символ 'P') и GSTIN существовал бы как 15-значный номер проприетора. Проверить это не удалось. HS 830140/830241/830242 (замки и скобяные изделия) с профилем 'торговая точка/проприетор' указывает скорее на trader, чем на manufacturer, но роль оставлена unknown без подтверждения. Отклонение НЕ применяется: отсутствие данных — не основание для rejected (правило 3), юрлицо не признано несуществующим. Требуется повторный прогон при доступном поиске, либо ручная проверка GSTIN по чеку/инвойсу поставщика."
+}

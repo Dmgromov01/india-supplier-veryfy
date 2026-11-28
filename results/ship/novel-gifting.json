@@ -1,0 +1,8 @@
+{
+ "name_input": "Novel Gifting",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/novel-gifting — page renders only the boilerplate template: \"Shipments available for NOVEL GIFTING, refreshed daily\" with no shipment rows, no dates, no destinations, no HS codes, no B/L numbers. Second slug /novel-gifting-pvt-ltd identical: \"Shipments available for NOVEL GIFTING PVT LTD, refreshed daily\" — 0 rows actually seen on both pages. volza.com/p/novel-gifting/, eximpedia.app and trademo.com returned HTTP 403 (no free view accessible).",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search tooling failed: web_search returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" for queries \"Novel Gifting\" India exporter and \"Novel Gifting\" GST India company; direct Google fetch returned only a redirect notice. No domestic supply record located.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Заявленный HS 960850 (изделия для личной носки/части зонтов, ручек и т.п.) не подтверждён ни одной таможенной записью; фактический код установить не удалось, так как записей отгрузок нет вообще. Юрлицо с названием «NOVEL GIFTING» в публичных таможенных базах ImportKey не отображается как активный участник ВЭД (0 строк на двух вариантах слага); CIN/PAN не публичны и не подтверждены — null. Отклонение не применяется: отсутствие данных об отгрузках не равно отсутствию юрлица, но и статус «условно принят» не ставится — прямо фиксирую отсутствие следов поставок. Требуется дополнительная проверка через платный доступ (Volza/Eximpedia) или запрос GST-выписки у поставщика."
+}

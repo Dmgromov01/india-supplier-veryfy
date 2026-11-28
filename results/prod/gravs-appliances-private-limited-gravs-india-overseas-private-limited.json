@@ -1,0 +1,24 @@
+{
+ "name_input": "GRAVS APPLIANCES PRIVATE LIMITED; GRAVS INDIA OVERSEAS PRIVATE LIMITED",
+ "declared_hs": "420221;420222;420292",
+ "actual_hs_list": [
+  "420221",
+  "420222",
+  "420231",
+  "420291",
+  "420292",
+  "420299",
+  "8509 (electrical appliances - small household, per site category 'Electrical Appliances', code not corroborated)",
+  "8516 (electrothermic appliances, code not corroborated)",
+  "8211 / 8215 (cutlery, code not corroborated)",
+  "6911 / 7013 (hotelware - ceramic/glass tableware, code not corroborated)",
+  "0906-0910 (organic spices, code not corroborated)",
+  "2106 / 1904 / 2005 (food products, code not corroborated)",
+  "3402 (detergent, code not corroborated)",
+  "7314 / 7326 (security fencing, code not corroborated)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Единственный публичный источник — сайт gravs.in (https://www.gravs.in/), где компания называет себя 'Gravs India Overseas', 'India's Leading Manufacturer cum Merchant Export house'. Заявленные категории продукции на главной странице: Electrical Appliances; Leather Products; Leather Bags; Organic Spices; Food Products; Cutlery; Hotelware; Security Fencing; Detergent. Отдельные страницы каталога (/products, /leather-products, /leather-bags) отдают 404 — детального перечня SKU, артикулов, материалов и спецификаций нет. Директора: Vimal Gupta (30+ лет в manufacturing/merchant exports, работал с BOSCH, Morphy Richards, Amazon), Rishab Gupta (инжиниринг, 5 лет manufacturing), Amit Rawat (Finance Head, 25 лет в finance & exports). Никаких таможенных деклараций, B/L или инвойсов на сайте не опубликовано.",
+ "role_hint": "trader (самоописание 'Manufacturer cum Merchant Export house' + 'Partnered with 1,000+ Quality Manufacturers' — признак merchant-экспортёра/трейдера, а не собственного производства; собственных производственных мощностей на сайте не показано)",
+ "comment": "СООТВЕТСТВИЕ HS: частичное. Заявленные коды 420221 (сумки кожаные с ручкой, поверхность из натуральной кожи), 420222 (сумки с поверхностью из листов пластмасс/текстиля) и 420292 (прочие контейнеры/футляры с поверхностью из текстиля или пластмасс) покрывают только две из девяти заявленных товарных линий — 'Leather Products' и 'Leather Bags'. Это подтверждается самим сайтом (https://www.gravs.in/, блок 'Our Product Categories'), но НЕ подтверждается ни одной таможенной строкой — статус: заявлено, не подтверждено. ОСТАЛЬНЫЕ ЛИНИИ НЕ ОТРАЖЕНЫ В ДЕКЛАРАЦИИ (пробелы): Electrical Appliances (гл. 85, ориентировочно 8509/8516), Organic Spices (гл. 09), Food Products (гл. 19-21), Cutlery (8211/8215), Hotelware (6911/7013), Security Fencing (7314/7326), Detergent (3402). Это существенный пробел: по сайту кожаные изделия — лишь 2 из 9 категорий, а основной профиль (электротехника, специи, FMCG) в декларации отсутствует. Коды по этим линиям — оценочные, требуют подтверждения инвойсом/таможенной строкой; в actual_hs_list они помечены 'code not corroborated'. ОТРАСЛЕВАЯ МИСКЛАССИФИКАЦИЯ: заявленная отрасль 'Продукты питания и FMCG' не соответствует заявленным HS-кодам группы 42 (кожгалантерея) — либо декларация неполная, либо отрасль указана по одной из линий. Фактически компания мультикатегорийная (кожгалантерея + электротехника + специи/фуд + HoReCa-посуда + хозхимия + ограждения). ПРИЗНАКИ ТРЕЙДЕРА: 'Merchant Export house', 'Partnered with 1,000+ Quality Manufacturers', 'Offering a Diverse Range of 100+ Products' — типичный мультитоварный merchant-экспортёр; роль trader. ВАЖНО: сайт заявляет 'Exporting to 20+ Countries Worldwide', но ни одного номера B/L, даты отгрузки, направления или таможенной записи не опубликовано — фактичность отгрузок по открытым источникам НЕ подтверждена (заявлено, не подтверждено). Согласно правилу 3 несоответствие HS не является основанием для отклонения: компания сохраняется в базе, вердикт accepted_hs_corrected — декларацию следует расширить фактическими кодами по всем девяти линиям после получения инвойсов. Оговорка: страницы каталога недоступны (404), поэтому детальная HS-разбивка внутри групп 42 и 85 невозможна — cannot_verify на уровне 6 знаков для неосновных линий. Реестры, выручка и объёмы экспорта в рамках этой роли не проверялись."
+}

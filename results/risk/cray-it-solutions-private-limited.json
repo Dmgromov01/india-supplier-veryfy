@@ -1,0 +1,9 @@
+{
+ "name_input": "CRAY IT SOLUTIONS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ выполнена по существу: инструменты были недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; http_get получил 403 Forbidden от zaubacorp.com, thecompanycheck.com, indiankanoon.org и duckduckgo.com/html, таймаут по duckduckgo. Страница sanctionssearch.ofac.treas.gov открылась, но выдаёт только форму поиска — результаты подгружаются через JS/API, поэтому проверка имени по SDN/Non-SDN фактически не произведена. Следовательно: sanctions_hit, court_cases, rating, news_risk, rf_supply — null, НЕ потому что чисто, а потому что данных не получено. Никаких утверждений об отсутствии санкций, судов или поставок в РФ/СНГ делать нельзя. Требуется повторный прогон при доступном поиске: проверить (1) OFAC SDN/SSI, UN, EU, UK OFSI, BIS Entity List по точному имени и вариантам 'Cray IT Solutions'; (2) eCourts/NJDG/IndianKanoon по компании и директорам (роль истца/ответчика, статус); (3) реестр MCA (статус, ликвидация/банкротство — единственное основание для rejected по правилам проекта); (4) рейтинги CRISIL/ICRA/CARE/India Ratings; (5) негативные новости с датами; (6) следы поставок в РФ/СНГ (таможенные записи, B/L, контракты). Примечание: 'Cray' — также бренд HPC-технологий (Cray Inc./HPE), возможны ложные совпадения при поиске; требуется сверка по юрлицу, а не по бренду. По правилу 2 любые найденные санкции/суды/уголовные дела владельцев не являются основанием для отклонения — только нейтральная пометка «есть сложности»."
+}
