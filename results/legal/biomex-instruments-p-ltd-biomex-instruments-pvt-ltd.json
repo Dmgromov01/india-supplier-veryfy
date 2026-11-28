@@ -1,0 +1,18 @@
+{
+ "name_input": "BIOMEX INSTRUMENTS (P) LTD; BIOMEX INSTRUMENTS PVT LTD",
+ "legal_name": "BIOMEX INSTRUMENTS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search backend was unavailable for the whole session (connection refused on every query), and all registry aggregators attempted returned blocking errors: zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404, falconebiz.com 403, indiamart.com 429. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figure was obtained from any source, so all such fields are null rather than inferred. IMPORTANT: no CIN was guessed or reconstructed - any CIN appearing in a draft of this record would have been fabricated and must not be used. The legal name is reproduced only as supplied in the input and is NOT confirmed against MCA; the input itself is ambiguous between 'P Ltd' and 'Pvt Ltd', which must be resolved from the MCA master data. State of registered office is unknown, so the claimed state (empty in input) cannot be compared. Role is 'unknown' - the input industry label 'oil & gas and chemicals' is inconsistent with declared HS 901813 (medical/surgical imaging apparatus), but per project rules an HS mismatch is not a rejection ground and no role inference is made from it. Verdict: NOT rejected - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / data unavailable', and the record should be re-queued once search access is restored. Recommended next step: query the MCA master data directly by company name, then obtain the GSTIN from the GST taxpayer search portal and revenue from the FY25/FY26 audited filings on MCA."
+}

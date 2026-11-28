@@ -1,0 +1,18 @@
+{
+ "name_input": "Dee Neers Tools Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. В этом прогоне поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), а Google/Bing вернули нерелевантную выдачу по запросам '\"DE NEERS TOOLS LIMITED\" CIN' и '\"Dee Neers Tools\" GST CIN India'. Публичные реестровые профили (zaubacorp.com, thecompanycheck.com) отдали HTTP 403, instafinancials — 404, tofler — 404 по предполагаемому слагу. Таким образом, ни точное юр. наименование, ни CIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации, ни статус MCA не получены из первоисточника. ВАЖНО: заявленное в инпуте наименование 'DE NEERS TOOLS LIMITED' и форма 'Ltd' не подтверждены — не исключено, что фактическое юрлицо оформлено как Private Limited или как проприетаршип/партнёрство (у таких нет CIN). Выручка FY25/FY26 не найдена, поэтому null — цифры не выдумывались. Роль (manufacturer/trader) не определена: без GST-профиля и реестровой выписки отнести к категории нельзя, поэтому 'unknown'. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3 — отклонять только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется повторная проверка при доступном поиске: MCA master data по CIN, GST-профиль (например, через gst.gov.in search taxpayer или KnowYourGST), и аудиторская отчётность для выручки. HS-коды 820291/820411/820600 (ручной инструмент, гаечные ключи, наборы инструментов) с заявленной отраслью 'Авиастроение и транспорт' не бьются — по правилу 3 это не основание для отклонения, но фактический код нужно уточнить при следующей проверке."
+}

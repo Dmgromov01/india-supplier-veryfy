@@ -1,0 +1,18 @@
+{
+ "name_input": "NARAYANASWAMY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по имеющимся данным. Входное имя 'NARAYANASWAMY' — это фамилия/личное имя, а не полное наименование юрлица; в Индии существуют сотни компаний и LLPs с таким элементом в названии (Narayanaswamy Enterprises, Narayanaswamy Traders, Narayanaswamy Bearings и т.п.), поэтому привязка к конкретному CIN была бы произвольной. PAN/GSTIN/штат в запросе не указаны — единственный идентификатор отсутствует. Попытки проверки: web_search вернул ошибку бэкенда (connection refused) на всех запросах; zaubacorp.com — HTTP 403; instafinancials.com — HTTP 403; mca.gov.in (Master Data) — HTTP 403; tofler.in — 404; thecompanycheck.com — только лендинг без результатов поиска; duckduckgo.com/html — timeout; bing.com — нерелевантная выдача (Staples). Ни один реестровый факт (юрлицо, CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус) не подтверждён публичным источником, поэтому все поля null. Выручка FY25/FY26 не найдена и не оценивалась — null. Роль не определена (unknown): заявленный HS 848220 (подшипники качения, конические) и отрасль 'Металлургия и горнодобыча' не подтверждены и, кроме того, не являются основанием для отклонения по правилам проекта. Вердикт: НЕ отклонено — нет оснований считать, что юрлицо не существует; требуется уточнение от заказчика: полное юридическое наименование (например, '... Pvt Ltd' / '... LLP'), CIN или GSTIN, либо штат/город. После получения идентификатора проверку реестра можно завершить."
+}

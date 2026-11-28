@@ -1,0 +1,18 @@
+{
+ "name_input": "RASHMI SEAMLESS LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: в ходе проверки поисковый бэкенд возвращал ошибку соединения (searx: Connection refused), а публичные реестровые источники недоступны — zaubacorp.com и mca.gov.in отдали HTTP 403, tofler.in и quickcompany.in — HTTP 404 по предполагаемому CIN, thecompanycheck.com — HTTP 403, IndiaMART — HTTP 429. Ни одна запись (точное юр. наименование, CIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка FY25/FY26) не подтверждена публичным источником, поэтому все поля оставлены null — цифры и идентификаторы не выдумывались. Роль (manufacturer/trader) не определена: заявленный профиль (бесшовные трубы, HS 730441/730449) указывает на металлургию, но фактический характер деятельности по реестру не проверен. Оснований для отклонения нет: сведений о ликвидации, банкротстве или отсутствии юрлица не получено — отсутствие данных не является основанием для rejected. Требуется повторная проверка при доступности MCA/реестровых агрегаторов."
+}

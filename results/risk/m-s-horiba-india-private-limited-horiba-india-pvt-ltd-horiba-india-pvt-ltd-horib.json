@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S HORIBA INDIA PRIVATE LIMITED; HORIBA INDIA PVT. LTD.; HORIBA INDIA PVT LTD; HORIBA INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, INCOMPLETE — no verifiable risk data obtained. Tooling failed during this run: the DuckDuckGo/searx search backend returned 'Connection refused' on every query; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned identical generic cached results for every query (including sanctions- and rating-specific queries), so no query-specific evidence could be read. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is JavaScript-driven and returned no lookup results via plain HTTP fetch, so an SDN/Non-SDN name screen could NOT be completed. No Indian court docket (e.g. eCourts/NCLT), no regulator action, no credit rating (CRISIL/ICRA/CARE/India Ratings) and no Russia/CIS shipment evidence could be retrieved. All fields therefore set to null per instruction not to invent data — this is an absence of research, NOT a clean result. Context only (not a risk finding): the subject appears to be the Indian arm of Japan's HORIBA, Ltd., a precision analytical/measurement instrument maker (horiba.com/ind, in.horiba.com); the group operates a separate Russian website (horiba.com Russia) per the group's own country selector, which is a corporate presence indicator only and is not evidence of supplies to Russia by the Indian entity. Recommended follow-up: re-run OFAC/EU/UK/BIS screens interactively, check eCourts and NCLT Mumbai/Delhi for 'HORIBA India', and query CRISIL/ICRA/CARE rating directories directly. No rejection grounds identified, but none excluded either."
+}
