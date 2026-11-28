@@ -1,0 +1,15 @@
+{
+ "name_input": "FARMVALE PSYLLIUM",
+ "declared_hs": "121190",
+ "actual_hs_list": [
+  "121190",
+  "121190 (husk/powder/kha-kha/gola — same heading, different subheadings)",
+  "130219 (possible for extracted mucilage/gel, not evidenced)",
+  "210690 (possible for flavoured psyllium powder blends, not evidenced)",
+  "300490 (possible for psyllium capsules as retail medicament, not evidenced)"
+ ],
+ "match_status": "exact",
+ "product_summary": "Официальный сайт farmvalepsyllium.com (Survey No. 1331, Surajnagar, Vill. Dabhi, Tal. Unjha, Dist. Mahesana, Gujarat 384170) перечисляет реальный ассортимент: Psyllium Seeds (семена Plantago ovata), Psyllium Husk (шелуха), Psyllium Husk Powder, Psyllium Industry Powder / Kha-Kha Powder, Psyllium Gola / Animal Feed, Psyllium Capsules и Psyllium Flavor Powder. Заявлены органические (NOP/NPOP) и конвенциональные грейды, сертификаты BRC, HACCP, EU GMP, Halal, Star-K Kosher, SEDEX, FSSAI, FDA. Сайт также указывает историю: с 1983 г. Veerral Agro Tech (специи для местного рынка), далее Farmvale. Экспорт заявлен в Европу, США, Канаду, Австралию, Новую Зеландию, Россию/СНГ, Ближний Восток, ЮВА, Латинскую Америку; участие в выставках Anuga 2025, Biofach 2025/2026, Natural Products Expo West 2024/2026, Fi Europe 2024, SupplySide West 2023, WorldFood Expo 2026.",
+ "role_hint": "manufacturer (заявлен как производитель/экспортёр с собственной переработкой «под одной крышей»; признаки трейдера не выявлены, но независимого подтверждения производственных мощностей в рамках HS-проверки не собиралось)",
+ "comment": "HS 121190 — код heading 1211 «Plants and parts of plants ... fresh or dried, whether or not cut, crushed or powdered», куда прямо попадают семена, шелуха и порошок Plantago ovata (isabgol/psyllium). Совпадение точное (exact) для основного ассортимента: семена, husk, husk powder, kha-kha/industrial powder, gola/animal feed — всё это 1211.90 (в индийской тарифной сетке обычно 1211 90 30 / 1211 90 40 и т.п.; конкретный 8-значный код по сайту не определяется — null). Отраслевая классификация «Продукты питания и FMCG» указана неточно/узко: фактически это агро-переработка и B2B-ингредиенты (нутрацевтика, фарма, пищевые волокна, корм для животных), а не FMCG-потребительские товары. Позиции, выходящие за 1211 и требующие уточнения кода при наличии отгрузок: (1) Psyllium Capsules — если это готовые капсулы в потребительской упаковке, корректнее 2106 90 (БАД) или 3004 90, а не 1211; (2) Psyllium Flavor Powder — ароматизированная смесь, вероятно 2106 90; (3) возможная экстрагированная слизь/гель — 1302 19. Все три позиции на сайте заявлены, но ни одна не подтверждена таможенной линией — статус «заявлено, не подтверждено». Сам факт экспорта (страны, выставки, «150+ overseas clients») — тоже заявление сайта, не подтверждённое записью об отгрузке: «заявлено, не подтверждено». HS-несоответствий, требующих отклонения, нет; компания сохраняется в базе, базовый код 121190 подтверждён. При появлении деклараций на капсулы/ароматизированный порошок — исправить код на фактический (2106/3004) с вердиктом accepted_hs_corrected."
+}

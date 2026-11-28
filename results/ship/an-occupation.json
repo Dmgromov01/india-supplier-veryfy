@@ -1,0 +1,8 @@
+{
+ "name_input": "AN Occupation",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/an-occupation (and variant /an-occupation-): page renders only the generic template — 'Shipments available for AN OCCUPATION, refreshed daily' — with zero shipment rows, zero dates, zero destinations, zero B/L numbers, zero HS codes displayed. Source counter: 2 importkey slug variants tried, 0 shipment records seen.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for the entity returned no results (web_search backend refused connection: 'searx: <urlopen error [Errno 111] Connection refused>'); volza, eximpedia and trademo free views all returned HTTP 403 Forbidden, so no domestic supply record could be read. 0 rows seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Заявленный HS 620443 (женская одежда, трикотаж) не соответствует заявленной отрасли «Продукты питания и FMCG»; по правилу 3 это НЕ основание для отклонения — компания сохраняется в базе, фактический код подлежит уточнению у поставщика. Юрлицо (CIN/PAN) не подтверждено: PAN не заявлен, реестровые проверки вне области задачи. Выручка и объём экспорта: null (публичных данных нет, не выдумывались). Роль (manufacturer/trader) не определена — unknown. Все источники фактичности отгрузок были недоступны или пусты, поэтому статус именно none_found, а не 'условно принят'."
+}
