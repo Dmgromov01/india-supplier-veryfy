@@ -1,0 +1,18 @@
+{
+ "name_input": "SRIDURGA EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend returned connection refused / irrelevant spam results; MCA master-data portal, Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403; DuckDuckGo HTML timed out. Therefore exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - NOT because they were found to be absent, but because they could not be checked. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' (cannot distinguish manufacturer vs trader without registry/GST data). Input contained no PAN and no state, so no cross-check of registered state vs claimed state was possible. Note also that declared HS 530500/530810 (coconut/coir fibre and coir yarn) is inconsistent with the claimed industry 'food & FMCG' - per rules this is NOT a rejection ground; the HS code should be corrected to the factual one once the actual product line is confirmed. Requires re-run with working registry access (MCA master data by name, GST public search) before any verdict."
+}

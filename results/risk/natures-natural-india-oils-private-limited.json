@@ -1,0 +1,9 @@
+{
+ "name_input": "NATURES NATURAL INDIA OILS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ завершена — данных нет, и это не означает отсутствие рисков. Технические обстоятельства: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; DuckDuckGo HTML-версия выдала капчу; Google — редирект без результатов; Bing по точной фразе в кавычках 'Natures Natural India Oils Private Limited' не дал ни одного релевантного совпадения (только посторонние сайты: naturesproduce.com, pokemondb, nature.com) — то есть подтвердить существование компании в открытых индексах не удалось. Zauba Corp и TheCompanyCheck вернули HTTP 403. Инструмент OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен, но требует интерактивного ввода имени и не отдаёт результаты через GET — скрининг по SDN/Non-SDN фактически не выполнен. По этой причине: sanctions_hit=null (не проверено, НЕ 'чисто'), court_cases=null (eCourts/SC/HC по названию не проверялись), rating=null (CRISIL/ICRA/CARE/India Ratings/Brickwork не проверялись), news_risk=null (негативных новостей не найдено, но и сама компания в новостях не найдена — отсутствие результата не равно отсутствию негатива), rf_supply=null (свидетельств поставок в РФ/СНГ не обнаружено, но поиск по этому направлению не выполнен). Рекомендация: повторить скрининг вручную — OFAC/OpenSanctions по точному имени, eCourts по названию компании, реестр MCA по CIN (CIN не предоставлен и не выдумывался), затем повторить веб-поиск при работающем бэкенде. Согласно правилам проекта, отсутствие данных не является основанием для отклонения — компания сохраняется в базе."
+}

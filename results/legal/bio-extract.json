@@ -1,0 +1,18 @@
+{
+ "name_input": "BIO EXTRACT",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровая проверка НЕ ВЫПОЛНЕНА: поисковый бэкенд (DuckDuckGo/searx) недоступен, Bing возвращал нерелевантную выдачу, а профильные реестровые источники (zaubacorp.com, instafinancials.com, thecompanycheck.com) отдают HTTP 403. Точное юрлицо по названию 'BIO EXTRACT'/'BIOEXTRACT' не установлено: возможны варианты Bio Extract, Bioextract Pvt Ltd, Bio Extract LLP и т.п. — ни один не подтверждён. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, статус MCA — null (не публично доступны в рамках доступных инструментов, не выдумывались). Заявленный штат в исходных данных отсутствует, поэтому state_claimed = null. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25/FY26 — null: аудиторская отчётность не найдена. Отклонение НЕ применяется: нет доказательств несуществования/ликвидации/банкротства (правило 3), компания сохраняется в базе как непроверенная. Требуется повторная проверка при восстановлении доступа к MCA/ZAUBACORP или при предоставлении поставщиком CIN/GSTIN. Заявленный HS 320300 (красители растительного/животного происхождения) не проверялся — по правилу 3 несоответствие HS не является основанием для отклонения."
+}
