@@ -1,0 +1,18 @@
+{
+ "name_input": "AMN Life Science Pvt. Ltd",
+ "legal_name": "AMN LIFE SCIENCE PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search backend was unavailable (searx connection refused) and every registry source attempted returned errors: zaubacorp.com and thecompanycheck.com -> HTTP 403; instafinancials.com -> HTTP 403; mca.gov.in master-data -> HTTP 403; DuckDuckGo HTML/lite -> timeouts; Bing returned only irrelevant cached results (AMN Healthcare, YouTube) with no Indian registry hits. Company website amnlife.com/contact-us returned 404, so no GSTIN or registered-office state could be read from a public profile. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrieved, nothing invented. No rejection basis established: absence of retrieved records is not proof of non-existence, so the entity is NOT rejected; it stays in the database with role 'unknown' pending a re-run when registry access is restored. Note on the input: declared HS 300490 (pharmaceuticals) is consistent with the name 'Life Science', but the claimed industry 'Нефтегаз и химия' (oil & gas and chemicals) does not match the HS code; per project rules this is not a rejection ground - the HS code should be treated as the factual one and the industry label corrected. Revenue FY25/FY26: null - no audited accounts or official filings were accessible."
+}

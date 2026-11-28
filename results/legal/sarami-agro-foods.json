@@ -1,0 +1,18 @@
+{
+ "name_input": "SARAMI AGRO FOODS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. Инструмент web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; прямые обращения к реестровым агрегаторам заблокированы или недоступны — zaubacorp.com 403, instafinancials.com 403, thecompanycheck.com 404, search.mca.gov.in DNS не разрешается, duckduckgo.com/lite таймаут, google.com 429. Bing отдавал нерелевантную выдачу (запрос не учитывался), поэтому использовать его результаты как источник нельзя. Входные данные противоречивы: в поле legal_claimed указано имя физлица ('ILAYAPERUMAL ARUNASALARAJ'), а не юрлицо, поэтому точное юридическое наименование (например, 'Sarami Agro Foods Private Limited' / LLP / проприетарное предприятие) не установлено. CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, дата инкорпорации, штат регистрации и статус MCA — null, публично не подтверждены в рамках доступных источников. Роль (manufacturer / trader / manufacturer_trader) не определена — null/unknown. Выручка FY25 и FY26 — null: аудиторская отчётность и официальные филинги не найдены и не прочитаны; цифры не выдумывались. Отклонение (rejected) НЕ применяется: отсутствие подтверждения существования юрлица из-за недоступности реестров не равно доказанному отсутствию/ликвидации/банкротству. Требуется повторная проверка при восстановлении доступа к MCA21 / GST-порталу или при предоставлении поставщиком CIN/GSTIN. Заявленный HS (071140; 200110) не проверялся и основанием для отклонения не является."
+}

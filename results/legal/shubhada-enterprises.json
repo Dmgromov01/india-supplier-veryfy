@@ -1,0 +1,18 @@
+{
+ "name_input": "SHUBHADA ENTERPRISES",
+ "legal_name": "SHUBHADA ENTERPRISES (proprietorship name as claimed; proprietor claimed: VISHAL SHRIHARI GARAD) — unverified",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failed during this run: DuckDuckGo search backend returned connection refused; Google returned HTTP 429; Bing returned only irrelevant/AI-generated results for every query variant tried ('SHUBHADA ENTERPRISES' + 'VISHAL SHRIHARI GARAD', + 'GARAD', + GSTIN Maharashtra); Zaubacorp returned HTTP 403; Tofler search returned 404; MCA master-data page returned HTTP 403; IndiaMART returned HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue could be confirmed from a public source. Nothing is asserted or invented: all fields are null. Note on entity type: the input's 'legal_claimed' field contains a personal name (VISHAL SHRIHARI GARAD), which is consistent with a sole proprietorship rather than a company — a proprietorship has no CIN and no MCA status, and its PAN would be an individual PAN (4th character 'P'), but this is an inference from the input, NOT a verified fact. No rejection is applied: non-existence/struck-off/liquidation/bankruptcy could not be established either way, and per project rules rejection requires positive evidence of non-existence or strike-off. Role left as 'unknown' — no registry or filing evidence distinguishes manufacturer from trader. Revenue FY25/FY26 null: proprietorships do not file audited accounts with MCA, so audited figures are typically not public; no official filing was located. Recommended next step: re-run with working search, or obtain the GSTIN directly from the supplier and verify on the GST portal / a public GST profile, plus a proprietorship-level PAN check."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Syngene Interantional Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable data collected. Tooling failure: web_search backend returned 'Connection refused' on all queries; DuckDuckGo HTML endpoint timed out; Bing returned irrelevant results; syngeneintl.com returned HTTP 403; BSE page returned only a JS shell; CRISIL company page URL returned 404; OFAC Sanctions List Search is a JavaScript application and cannot be queried via plain HTTP GET, so no SDN/Non-SDN screening result was obtained. Marginalia returned only its own help page. Per project rules, no values are invented: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because nothing was confirmed, NOT because the company is clean. Context only (unverified, not a finding): the entity appears to be Syngene International Limited, a listed Indian contract research/CDMO company (Bengaluru, Biocon group) — a pharma CRAMS business, which is inconsistent with the claimed industry 'Нефтегаз и химия' and with the declared HS codes 293359/294200/300290 being treated as petroleum/gas; that classification question is outside this role's scope and is flagged for the HS/legal-identity researcher. No evidence of supplies to Russia or the CIS was found, but no search could be completed, so this is an absence of research, not an absence of risk. Recommended: re-run this company when search access is restored, specifically checking (a) OFAC SDN/Non-SDN and BIS Entity List name screening, (b) Indian court records (eCourts/NCLT/High Court) with party role, (c) SEBI and US FDA/EMA regulatory actions, (d) CRISIL/ICRA rating with date, (e) any Russia/CIS-linked shipments or clients. No rejection grounds identified and none asserted; company should be retained in the database pending verification."
+}
