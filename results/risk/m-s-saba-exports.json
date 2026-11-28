@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S SABA EXPORTS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. No public trace of an Indian entity named 'SABA EXPORTS' could be established. Research limitation: the primary web_search tool returned a backend error ('Connection refused') on all attempts; fallback Bing queries (3 attempts) returned only generic results for 'Saba' (Caribbean island, saba sweetener, tourism) with no Indian exporter, no IndiaMART/Zauba/MCA profile, no news item. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but the tool is a JS form and cannot be queried via plain HTTP GET, so no name-level screening result was obtained — sanctions_hit is null, NOT a negative clearance. UN/EU/UK consolidated lists and the BIS Entity List were not screened for the same reason. No Indian court records (e.courts.gov.in / NCLT / High Court) could be located because no legal identity, CIN, PAN or state was supplied and none was found publicly. No credit rating (CRISIL/ICRA/CARE/India Ratings) found. No regulator action or negative news found. No evidence of supplies to Russia or the CIS found — but absence of evidence here reflects failed search, not verified absence. All fields null per rule 4 (do not invent data). Recommend re-running this company once the search backend is restored and with at least a CIN/PAN or registered state, since the name is highly generic and ambiguous. Per rule 2, nothing here constitutes a rejection ground; per rule 3 no rejection is proposed."
+}
