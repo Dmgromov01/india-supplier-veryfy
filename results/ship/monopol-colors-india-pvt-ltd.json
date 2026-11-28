@@ -1,0 +1,8 @@
+{
+ "name_input": "MONOPOL COLORS INDIA PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page https://importkey.com/countries/india/monopol-colors-india-pvt-ltd loaded only a JavaScript shell: 'Shipments available for MONOPOL COLORS INDIA PVT LTD, refreshed daily' — 0 actual shipment rows rendered, no date, destination, HS code or B/L number visible. Volza (403), Eximpedia (403), Trademo (403), ImportGenius (JS challenge) all blocked. No export record obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Zaubacorp, TheCompanyCheck and Tofler lookups returned 403/404, so even the legal entity's registration data could not be read. Nothing confirmed either way.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось. Причина техническая: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, а все четыре разрешённых вторичных источника (volza, eximpedia, importgenius, trademo) отдали 403/JS-challenge. ImportKey — единственный открывшийся источник — не отрендерил ни одной строки грузов (счётчик источников: 1 страница открыта, 0 строк данных). Выручка: null (не публична/не получена). Объём экспорта: null. Заявленный HS 320810 (краски/лаки на основе полиэстеров) не проверен по фактическим записям — код не подтверждён и не опровергнут. Рекомендация: повторить проверку при доступном поиске; статус 'unknown' не является основанием для отклонения (правило 3)."
+}

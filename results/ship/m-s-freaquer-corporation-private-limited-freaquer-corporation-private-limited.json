@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S FREAQUER CORPORATION PRIVATE LIMITED; Freaquer Corporation Private limited",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/freaquer-corporation-private-limited and .../freaquer-corporation-pvt-ltd both render only the boilerplate line \"Shipments available for FREAQUER CORPORATION PRIVATE LIMITED, refreshed daily\" with an empty \"Number of shipments by month\" chart — zero rows actually seen, no date, no destination, no HS code, no bill-of-lading number. Source counter: 2 importkey slug variants tried, 0 shipment records displayed. volza.com/p/freaquer-corporation/ and eximpedia.app company page both returned HTTP 403 (not readable).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award, contract or annual-report split could be retrieved: zaubacorp.com and thecompanycheck.com returned HTTP 403, and the web_search backend was unavailable (\"searx: Connection refused\") for every query, so no domestic supply record was located. Not public / not retrievable in this session — recorded as null, not inferred.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки с датой, направлением, HS-кодом или номером B/L не обнаружено; заявленный HS 847150 (машины обработки данных) ничем не подтверждён — статус «заявлено, не подтверждено». Внутренние поставки также не подтверждены: GST-оборот, тендеры GeM/CPPP и контракты не найдены (реестры отдали 403, поисковый бэкенд недоступен). Выручка и объём экспорта — null, данных нет. Юрлицо не отклоняется: сведений о ликвидации/банкротстве нет, но и подтверждения существования в этой сессии получить не удалось — требуется повторная проверка MCA/GST при доступном поиске."
+}

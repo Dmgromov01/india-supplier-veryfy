@@ -1,0 +1,18 @@
+{
+ "name_input": "PROACTIVE TOOLS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить существование юрлица по открытым реестровым источникам. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; агрегаторы реестров (zaubacorp.com, instafinancials.com — 403 Forbidden; thecompanycheck.com, tofler.in — 404) не отдали данных; Bing по запросам '\"Proactive Tools\" Kalra GST India', '\"Proactive Tools\" \"Chetandeep\"', '\"Proactive Tools\" India proprietorship steel pipes manufacturer' вернул только нерелевантные результаты (instagram.com), т.е. совпадений по названию не найдено. Входные данные противоречивы: в поле legal_claimed указано физлицо 'CHETANDEEP KALRA', а не юридическое название, что типично для проприеторшипа/партнёрства (у таких форм нет CIN и нет обязательной публичной отчётности в MCA). CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка FY25/FY26 — null: не публичны либо не найдены, выдумывать не стал. Роль (manufacturer/trader) не установлена — null/unknown. ВАЖНО: отклонять НЕ следует — отсутствие подтверждения в реестре при недоступных источниках не равно 'юрлицо не существует'; по правилу 3 оснований для rejected нет. Требуется повторная проверка при восстановлении доступа к поиску, желательно с GSTIN или адресом от поставщика. Заявленный HS 722230/730411/730441/730729 (плоский прокат из нерж. стали, трубы/полые профили, фитинги) — не проверялся, т.к. вне роли."
+}

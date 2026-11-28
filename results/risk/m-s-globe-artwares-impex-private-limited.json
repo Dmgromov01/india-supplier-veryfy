@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S GLOBE ARTWARES IMPEX PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the search backend (DuckDuckGo/searx) returned connection errors for every query, and the primary Indian registry aggregators (ZaubaCorp, TheCompanyCheck) returned HTTP 403, IndiaMART returned HTTP 429, and Bing/Google returned only generic 'globe' results with no match for the company name. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no name lookup against the SDN/Non-SDN lists could actually be executed — sanctions_hit is therefore null (NOT verified clean), not a negative result. No public record of Indian court cases (eCourts/NCLT), regulator actions, negative news, credit rating, or supplies to Russia/CIS was retrieved for this entity. All fields are null because nothing is public/accessible in this session, not because the company is confirmed clear. Per project rules, absence of accessible data is not a rejection ground; company should be retained and re-checked when search access is restored. Note also that the claimed industry ('food/FMCG') is inconsistent with the declared HS 7323 (stainless steel household articles) — outside this role's scope, flagged for the HS/identity reviewer only."
+}
