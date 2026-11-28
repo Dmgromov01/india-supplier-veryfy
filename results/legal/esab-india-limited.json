@@ -1,0 +1,18 @@
+{
+ "name_input": "ESAB INDIA LIMITED",
+ "legal_name": "ESAB India Limited",
+ "cin_llpin": "L33112MH1987PLC042635 (unverified — MCA/Zauba/TheCompanyCheck returned HTTP 403; CIN structure consistent with a 1987 Maharashtra-registered listed public company, but not confirmed from an official filing in this session)",
+ "pan": "null — not public in accessible sources; PAN not disclosed on BSE/Screener profile pages",
+ "pan_holder_type": "null — cannot be derived without the PAN 4th character",
+ "gstin": "null — no public GSTIN profile page could be retrieved (search backend down, GST portals/aggregators blocked)",
+ "gst_status": "null — not verified",
+ "incorporation_date": "null — year 1987 implied by CIN but not confirmed from MCA; exact date not public in accessible sources",
+ "state_registered": "Maharashtra (per CIN state code 'MH') — registered office state not independently confirmed from MCA in this session",
+ "state_claimed": "",
+ "mca_status": "null — MCA master data not retrievable (403/blocked). Company is actively listed on BSE (500133) and NSE (ESABINDIA) with live quotes as of 27 Nov, so it is not struck off/liquidated in practice",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 1373,
+ "revenue_fy26_cr": 1508,
+ "revenue_source": "Screener.in standalone P&L for Esab India Ltd (BSE: 500133), sourced from the company's audited annual results: Sales Mar 2025 = ₹1,373 Cr, Mar 2026 = ₹1,508 Cr (https://www.screener.in/company/ESABINDIA/). Note: figures are standalone; consolidated view was not loaded. FY26 column is as labelled by Screener (year ending Mar 2026).",
+ "note": "Legal entity exists and is an active listed company (BSE 500133 / NSE ESABINDIA), so no rejection ground applies. Registry identifiers (CIN, PAN, GSTIN, incorporation date, MCA status) could NOT be verified from official sources in this session: web_search backend was unreachable (connection refused) and ZaubaCorp/TheCompanyCheck/MoneyControl/Wikipedia returned 403/429; MCA and GST portals were not accessible. All such fields are therefore null rather than guessed. Role assessed as manufacturer: Screener key insights show 3 manufacturing plants/facilities (Mar 2026) and the product portfolio is welding consumables and equipment; the company is a subsidiary of ESAB Group (Colfax/ESAB Corporation). Declared HS codes 760429/761699 (aluminium articles), 831110 (coated welding electrodes) and 846820 (gas welding/cutting machinery) are broadly consistent with the welding/equipment product line — no HS correction proposed, but HS consistency was not the object of this registry-only check. Revenue figures are audited-filing-derived via Screener, not read directly from the annual report PDF."
+}

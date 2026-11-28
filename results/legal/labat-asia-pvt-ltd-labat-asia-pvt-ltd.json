@@ -1,0 +1,18 @@
+{
+ "name_input": "LABAT ASIA PVT. LTD.; LABAT ASIA PVT. LTD",
+ "legal_name": "LABAT ASIA PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification could not be completed: the web_search tool returned a connection error (searx backend refused connections) for all queries, and direct reads of registry aggregators failed — zaubacorp.com 403, thecompanycheck.com 403, tofler.in 403, falconebiz.com 403, instafinancials.com 404, quickcompany.in 404. Bing/Google HTML endpoints returned unrelated or empty results, so no CIN, PAN, GSTIN, incorporation date, registered-office state or MCA status could be sourced. Per project rules no values are invented: all registry fields are null and role is 'unknown'. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the company is NOT rejected — it remains unverified pending a re-run with working search/registry access. Note also that the input's claimed industry ('IT и электроника') is inconsistent with the declared HS code 901890 (medical/surgical instruments); this is not a rejection ground per the rules, but the actual HS code should be corrected once the company's real activity is confirmed. Revenue FY25/FY26: no audited accounts or official filings were retrievable, therefore null."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "SAIJEE IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. All registry sources were inaccessible during this run: DuckDuckGo search backend returned 'Connection refused' (searx urlopen error) on both queries; Bing returned only irrelevant results (word-puzzle and Amtrak pages) for queries '\"SAIJEE IMPEX\" GST CIN' and '\"Saijee Impex\" proprietor Narendra Joshi'; zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in and mca.gov.in all returned HTTP 403 Forbidden; duckduckgo.com/html timed out; google.com/search returned only a redirect interstitial. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from any public source. IMPORTANT: the input field 'legal_claimed' contains a personal name ('NARENDRA VASANT JOSHI'), not a company name - this suggests the entity is likely a sole proprietorship (proprietor Narendra Vasant Joshi), in which case there would be no CIN and no MCA record at all, and the PAN 4th character would be 'P' (individual). This is an inference from the input only, NOT verified - pan_holder_type is therefore left null rather than asserted. No GSTIN was found on any public profile, so GST status is unknown. Role cannot be determined from registry data; 'unknown' is used, not 'trader', since nothing was confirmed. Revenue FY25 and FY26 are null because no audited accounts or official filings were accessible - no figures were estimated or invented. Per project rules this company is NOT rejected: absence of retrievable registry data is not evidence of non-existence, strike-off, liquidation or bankruptcy, and no such finding was made. Recommended follow-up: re-run with working search access, or obtain the GSTIN directly from the supplier and verify on the GST portal (gst.gov.in search by GSTIN), and if a CIN exists verify on MCA master data. Declared HS codes 842121/848190 (pumps/valves, liquid filtering and pressure-reducing valves) are consistent with the claimed oil-gas/chemical sector but are not a registry matter and were not assessed here."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ROYAL ARC ELECTRODES LIMITED; Royal Arc Electrodes Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no substantive risk data could be retrieved. Tooling failure: the DuckDuckGo/searx web_search backend returned 'Connection refused' on every attempt (3 tries); html.duckduckgo.com timed out; Google returned only a redirect/consent stub; Bing returned generic 'Royal Family' results and ignored all quoted/qualified query terms, so no company-specific page was ever surfaced. Registry sources blocked: zaubacorp.com returned HTTP 403, instafinancials.com returned HTTP 404 for the guessed slug, and search.mca.gov.in did not resolve (DNS failure). OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded, but it is a JavaScript form - the name query could not be submitted, so NO actual SDN/Non-SDN name match was performed. Therefore sanctions_hit is null and must NOT be read as 'clear'; it means 'not checked'. Likewise court_cases, rating, news_risk and rf_supply are null because no source was read - not because searches came back negative. No CIN, PAN, court party role, rating agency/date, or shipment record was found or invented. Note also that the claimed industry ('Авиастроение и транспорт' / aerospace and transport) is inconsistent with the declared HS 831110 (coated welding electrodes of base metal) and with the company name 'Electrodes'; this is a classification observation only, not a risk finding, and per project rules HS mismatch is not a rejection ground. RECOMMENDATION: re-run this company once the search backend is restored, and specifically check (a) OFAC SDN/Non-SDN, UN, EU, UK OFSI and BIS Entity List by exact name, (b) Indian court records (eCourts, NCLT) for party role and status, (c) credit rating via CRISIL/ICRA/CARE/India Ratings, (d) any export records to Russia/CIS. Do not treat this record as verified."
+}

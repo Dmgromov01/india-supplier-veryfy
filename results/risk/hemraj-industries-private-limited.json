@@ -1,0 +1,9 @@
+{
+ "name_input": "HEMRAJ INDUSTRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-28. Sanctions: OpenSanctions consolidated dataset (sanctions + PEP + regulatory, data current as of 2026-11-28) returned 'No matching entities were found' for 'Hemraj Industries' — no OFAC SDN/UN/EU/UK/BIS listing surfaced. Caveat: the OFAC Sanctions List Search tool is a JavaScript form and could not be queried programmatically, and the DuckDuckGo search backend was unreachable (connection refused) for the whole session, so this is a negative result from one aggregator only, not a full multi-list screen. Court cases: NOT VERIFIED — Indian Kanoon returned HTTP 403 and no alternative court-record source was reachable; no party role or status could be established, so null rather than 'no cases'. Regulator actions / negative news: NOT VERIFIED — no news source reachable; null, not a clean bill of health. Credit rating: NOT VERIFIED — no CRISIL/ICRA/CARE/India Ratings/Brickwork page retrieved; null. Supplies to Russia/CIS: no evidence found in the one source that responded; null — absence of evidence here is not evidence of absence. Identity note (outside my scope, flagged for the identity/HS researcher): I could not confirm the legal entity exists at all — Zauba Corp and TheCompanyCheck both returned HTTP 403, so no CIN, incorporation status or GST record was obtained. Per project rules this is NOT a rejection ground on my side, but the batch should not be treated as verified until the legal-identity check is completed. No sanctions, court or criminal findings are treated as rejection grounds per Rule 2."
+}
