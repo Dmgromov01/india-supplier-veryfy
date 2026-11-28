@@ -1,0 +1,18 @@
+{
+ "name_input": "CREATIVE PORTICO INDIA PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: no public record retrieved. Search backend (DuckDuckGo/searx) returned connection refused on all queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; Google returned HTTP 429; Bing ignored exact-phrase quoting and returned only generic 'creative'/'golden' brand results with no Indian company match; tofler.in search endpoint returned 404. Therefore CIN, PAN, GSTIN, incorporation date, registered state and MCA status are all null — not public/not retrieved, NOT invented. IMPORTANT DATA-QUALITY FLAG for the reviewer: the input row is internally inconsistent — name_input is 'CREATIVE PORTICO INDIA PRIVATE LIMITED' while legal_claimed is a different entity, 'GOLDEN TERRY TOWEL PRIVATE LIMITED'. These are two distinct names and cannot both be the legal entity; the record must be resolved by the analyst before any verification is meaningful. Also note the declared HS codes 630260/630492 are terry towelling/toilet & kitchen linen of cotton, which contradicts industry_claimed 'Продукты питания и FMCG' (food/FMCG) — per project rules this is NOT a rejection ground; the company stays in the base and the HS code should be corrected to the factual one with verdict accepted_hs_corrected once the entity is identified. No rejection applied: non-existence/struck-off/liquidation/bankruptcy could not be established either way, so status is 'unverified', not 'rejected'. Revenue FY25/FY26 null — no audited accounts or official filings accessible. Role left 'unknown' — no evidence of manufacturing plant or trading activity obtained. Recommend re-run when search backend is restored, using MCA master data by exact CIN lookup."
+}

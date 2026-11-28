@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S HAMILTON WRITING INSTRUMENTS PVT. LTD.; M/S HAMILTON WRITING INSTRUMENTS PVT LIMITED; M/S. HAMILTON WRITING INSTRUMENTS PVT LTD .; HAMILTON WRITING INSTRUMENTS PVT LTD; M/S HAMILATAN WRITING INSTRUMENT PVT.LTD.; HAMILTON WRITING INSTRUMENTS PVT.LTD.; M/S HAMILTON WRITING INSTREMANTS PVT LTD; HAMILTON WRITING INSTRUMENTS PVT. LTD; HAMILTON WRITING INSTRUMENT PVT LTD; HAMILTON WRITING INSTRUMENTS P. LTD.,; HAMILTON WRITING INSTRUMENTS PRIVATE LIMITED; HAMILTON WRITING INSTURMENTS PVT. LTD",
+ "legal_name": "HAMILTON WRITING INSTRUMENTS PRIVATE LIMITED (as claimed; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data obtained. All registry sources attempted were inaccessible: DuckDuckGo search backend returned connection refused (searx: [Errno 111] Connection refused); zaubacorp.com and thecompanycheck.com returned HTTP 403 Forbidden; instafinancials.com returned 404; tofler.in returned 404; Google returned HTTP 429; Bing returned only irrelevant results for the 'Hamilton' musical/watch brand and did not surface any Indian registry page for this entity. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent, but because they could not be read from a public source within the tool budget. No identifier has been guessed or constructed. Per project rules, rejection is NOT applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the entity simply remains unverified. Do not treat this record as cleared for onboarding until MCA/GST portal lookup is re-run. Two substantive observations from the input itself, both requiring correction at data-entry level: (1) The declared HS codes 960810 and 960860 are ballpoint pens and refills/parts thereof - this is writing instruments, NOT 'Продукты питания и FMCG' as the input claims. The industry classification in the input is wrong and should be corrected to writing instruments / stationery / light manufacturing. Per rule 3, HS/industry mismatch is not a ground for rejection; the company stays in the base with the code corrected. (2) The input contains 12 spelling variants of the same name (HAMILATAN, INSTREMANTS, INSTURMENTS, singular/plural INSTRUMENT(S), with/without M/S, with/without periods). These are almost certainly one legal entity with OCR/transliteration noise from customs documents, and should be de-duplicated to a single record once the CIN is confirmed. Role is set to 'unknown' rather than 'manufacturer' - the name 'Writing Instruments Pvt Ltd' suggests manufacturing but nothing in the accessible record confirms a factory versus trading/import-and-resale of pens, and per rule 5 a name is not evidence. Revenue FY25/FY26: null, no audited accounts or official filings were retrievable."
+}
