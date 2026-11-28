@@ -1,0 +1,18 @@
+{
+ "name_input": "HALDIRAM SNACKS PRIVATE LIMITED",
+ "legal_name": "HALDIRAM SNACKS PRIVATE LIMITED (name as claimed; exact MCA-registered spelling NOT verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified. All public registry aggregators (zaubacorp, thecompanycheck, tofler, instafinancials) returned HTTP 403/404 to automated fetches; DuckDuckGo search backend was down (connection refused) and Google returned HTTP 429. Bing returned only brand/marketing pages (haldiram.com, haldirams.com, Wikipedia) with no CIN/PAN/GSTIN record, so CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all left null rather than guessed. What IS documented: Wikipedia (en.wikipedia.org/wiki/Haldiram%27s) confirms the Haldiram's group operates as 'Haldiram's India Pvt Ltd' with HQ in Nagpur, Maharashtra, and that in 2022 the Delhi-based packaged-snacks business 'Haldiram Snacks' and the Nagpur-based 'Haldiram Foods International' were to be demerged and merged into an entity named 'Haldiram Snacks Food' (Delhi brothers Manohar and Madhusudan Agarwal 56%, Shiv Kishan Agarwal 44%). This means the exact legal entity behind the input name is ambiguous between 'Haldiram Snacks Private Limited' and the post-merger 'Haldiram Snacks Food Private Limited' and must be resolved against MCA before any registry fields are filled. Group-level revenue of ~INR 12,800 crore (FY24) is reported by Wikipedia citing Economic Times, but that is a GROUP figure, not audited accounts of this specific legal entity, and it is FY24 not FY25/FY26 - therefore revenue_fy25_cr and revenue_fy26_cr are null. Role assessed as manufacturer on the basis of documented owned plants (Kolkata, Jaipur, New Delhi) per Wikipedia; no trader-only evidence found. No rejection grounds: no evidence of non-existence, strike-off, liquidation or bankruptcy was found, and absence of verification is not a rejection ground. Action required: re-run with working registry access (MCA21 / GST portal) to capture CIN, PAN 4th-character holder type, GSTIN and audited FY25/FY26 revenue."
+}

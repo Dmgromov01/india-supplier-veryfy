@@ -1,0 +1,18 @@
+{
+ "name_input": "Kristone Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного факта. Входные данные противоречивы: в поле legal_claimed указано физлицо 'KRUSHNSINH SHAKTISINH JADEJA', а не юридическое лицо, при этом CIN/PAN/GSTIN/штат не заявлены. Поиск (web_search) вернул ошибку соединения (searx: Connection refused); повторные запросы через Bing выдавали нерелевантную выдачу (NHL, Sam's Club, Motorola) — поисковый слой неработоспособен. Прямые обращения к реестрам и профилям: zaubacorp.com — HTTP 403, tofler.in — 404, mca.gov.in (Master Data) — HTTP 403, indiamart.com — HTTP 429. Таким образом, точное наименование юрлица, CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN и статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 не установлены — везде null, цифры не выдумывались. Роль определить невозможно: если это проприеторское дело (что вероятно при указании физлица), CIN отсутствует по природе, а GSTIN проприетора публично не найден. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или запрос GSTIN/CIN у поставщика."
+}

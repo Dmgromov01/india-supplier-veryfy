@@ -1,0 +1,18 @@
+{
+ "name_input": "JABS INTERNATIONAL PVT LTD",
+ "legal_name": "JABS INTERNATIONAL PRIVATE LIMITED (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified: the web_search backend was down (connection refused) and all registry aggregator pages attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404, while Google returned 429 and DuckDuckGo timed out. Bing returned only irrelevant results for the exact-name queries. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null — not public/not retrievable in this session, and no values are invented. No rejection basis established: nothing indicates the entity does not exist, is struck off, liquidated or bankrupt, so the company is NOT rejected; it remains unverified pending a working registry lookup (MCA master data / GST portal search by trade name). Role cannot be determined from registry data alone; the claimed HS codes (071220 dried onions, 071290 dried vegetables, 071320 chickpeas, 080620 raisins) are consistent with a spices/pulses/dried-vegetable trade or processing business, but that is an inference from the input, not a verified fact. Note per project rules: HS mismatch is not a rejection ground; if the actual code differs it should be corrected with verdict accepted_hs_corrected. Also note the input state field was empty, so no state comparison was possible."
+}
