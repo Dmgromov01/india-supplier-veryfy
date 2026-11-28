@@ -1,0 +1,9 @@
+{
+ "name_input": "BESTEK ENGINEERING PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing по точным фразам \"Bestek Engineering Private Limited\" и \"Bestek Engineering\" India private limited director выдал только нерелевантные результаты (форумы RealGM, справка Google Drive) — то есть ни одного релевантного документа по компании найти не удалось. Zauba Corp и TheCompanyCheck отдали HTTP 403. Форма поиска OFAC Sanctions List Search — JS-приложение, прямой GET не выполняет запрос, поэтому скрининг по SDN/Non-SDN фактически не проведён. Итог: санкционная экспозиция (OFAC SDN, UN, EU, UK, BIS Entity List), судебные дела в индийских судах (роль стороны, статус), действия регуляторов, негативные новости с датами, кредитный рейтинг (дата/статус) и признаки поставок в РФ/СНГ — НЕ ПРОВЕРЕНЫ, данных нет (null), а не 'чисто'. Отсутствие находок здесь не является подтверждением отсутствия рисков. Требуется повторный прогон при доступном поиске и доступ к реестрам (MCA, eCourts/NJDG, Zauba/Tofler, OFAC/EU/UK/BIS консолидированные списки). Правило 2 соблюдено: негативных оснований для отклонения не зафиксировано и не выдумано."
+}
