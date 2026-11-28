@@ -1,0 +1,9 @@
+{
+ "name_input": "3d felts private limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable data obtained. Tooling failure: DuckDuckGo/SearX backend refused connections ('Connection refused'), Google returned HTTP 429, Zauba Corp returned HTTP 403, and Bing returned only irrelevant generic results (query terms ignored, e.g. 3D-modeling sites and Windows 'Action Center' pages) — so no sanctions, court, regulator, rating or Russia/CIS-supply source could be read. Only one concrete check succeeded: Indian Kanoon full-text search for \"3D Felts\" (https://indiankanoon.org/search/?formInput=%223D%20Felts%22) returned 'No matching results' as of today — this is a weak negative signal only (Indian Kanoon does not index all courts/forums, and the exact legal name was not confirmed), so court_cases is left null rather than reported as 'none'. No OFAC SDN / UN / EU / UK / BIS Entity List screening was completed; sanctions_hit null means NOT SCREENED, not 'clear'. No credit rating found or checked (CRISIL/ICRA/CARE/India Ratings not queried). No evidence of supplies to Russia or CIS found, but equally no export-destination data was retrievable, so rf_supply null. Per project rules this company is NOT rejected on the basis of missing data — it should be re-queued for a repeat run when search access is restored. Note also that the declared HS codes (560122, 560210, 560221 — felt/nonwovens) are inconsistent with the claimed industry 'Food & FMCG'; per Rule 3 this is not a rejection ground and is outside this role's scope (HS verification belongs to another role), flagged only for the record."
+}

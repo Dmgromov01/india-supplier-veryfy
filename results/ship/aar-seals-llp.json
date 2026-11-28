@@ -1,0 +1,8 @@
+{
+ "name_input": "AAR Seals LLP",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page for AAR SEALS LLP (A3/36 Agrasen Society, 8 Koregaon Park) shows \"Total Shipments 717 Records detected\" but every visible row is an IMPORT into India, e.g. \"2026-01-22 | ALPANA SEALING SOLUTIONS LLC | AAR SEALS LLP | ...POLYURETHANE TUBE- | LJUBLJANA BRNIK, SLOVENIA REP | SAHAR AIR CARGO ACC, India | 39172990 | 7057324\". No row with India as origin/destination abroad was seen; no export B/L, no foreign buyer of AAR Seals LLP. Source counter: page claims 717 records / 2 trading partners / 4 ports, but only 5 shipment rows were rendered in the free view, all inbound.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No public GST turnover band, GeM/CPPP tender award or contract record for AAR Seals LLP could be retrieved: web_search returned no results (search backend error, searx connection refused) and eximpedia/volza free views returned HTTP 403. Nothing to quote.",
+ "note": "Declared HS 401693 (gaskets/seals) does not match the only observed customs line, HS 39172990 (tubes/pipes of other plastics) — per project rules this is not a rejection ground; actual code should be corrected to 39172990 for the observed trade. Critical finding per Rule 5: the company demonstrably trades, but as an IMPORTER of polyurethane sealing tubes from Alpana (Slovenia) and Suzhou Pulim (China); no trace of any export shipment by AAR Seals LLP was found, and no domestic supply evidence (GST turnover, GeM/CPPP contracts) is public. Status: import activity confirmed, export and domestic supply — следов поставок не найдено / not confirmed. Revenue and export volume: null (not public)."
+}

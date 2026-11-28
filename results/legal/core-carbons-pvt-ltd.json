@@ -1,0 +1,18 @@
+{
+ "name_input": "CORE CARBONS PVT LTD",
+ "legal_name": "CORE CARBONS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no registry data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connection (2 attempts), Google returned HTTP 429, DuckDuckGo HTML timed out, Bing returned only irrelevant generic 'CORE' results for all three query variants, Zauba Corp and TheCompanyCheck returned HTTP 403, Tofler and Instafinancials returned 404 for the guessed URL slugs. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrieved, NOT confirmed absent. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role left as 'unknown' - no evidence obtained to classify as manufacturer, trader or manufacturer_trader. Per project rules the company is NOT rejected: absence of retrievable data is not proof of non-existence, strike-off, liquidation or bankruptcy. Action needed: re-run with a working search backend or MCA21 master-data lookup to obtain CIN, then derive PAN holder type (4th char: P=company, F=firm, etc.) and GSTIN from a public GST profile. Declared HS 380210 (activated carbon) was not assessed here as HS mismatch is not a rejection ground."
+}

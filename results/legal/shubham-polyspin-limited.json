@@ -1,0 +1,18 @@
+{
+ "name_input": "SHUBHAM POLYSPIN LIMITED",
+ "legal_name": "SHUBHAM POLYSPIN LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: поисковый бэкенд (searx) недоступен (Connection refused), а все реестровые источники (zaubacorp.com, thecompanycheck.com, moneycontrol.com) отдают HTTP 403 Forbidden; screener.in по тикеру 539783 и по имени — 404; страница BSE по бумаге 539783 открывается, но без извлекаемого текста (только шапка сайта), поэтому CIN/PAN/GSTIN/дата регистрации из неё не получены. Ничего не выдумываю: CIN, PAN, GSTIN, дата инкорпорации, MCA-статус и выручка FY25/FY26 — null. Косвенно: код BSE 539783 и наименование 'Shubham Polyspin Ltd' указывают на листинговую публичную компанию (предположительно из Гуджарата, текст. промышленность — полипропиленовые нити/мешки), т.е. вероятнее всего manufacturer, но это НЕ подтверждено официальным источником. Заявленный в входных данных HS 540211/540251 (синтетические нити) и 580632 (узкие ткани) с отраслью 'Продукты питания и FMCG' не согласуются — по правилам HS-несоответствие не является основанием для отклонения; вердикт: accepted_hs_corrected (фактический профиль — текстиль, не FMCG). Отклонение НЕ применяется: сведений о ликвидации/банкротстве/страйк-офф нет, но и существование юридически не подтверждено из-за недоступности реестров — требуется повторная проверка при восстановлении доступа к MCA/zaubacorp."
+}

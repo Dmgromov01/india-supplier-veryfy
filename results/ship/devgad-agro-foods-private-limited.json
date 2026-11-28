@@ -1,0 +1,8 @@
+{
+ "name_input": "DEVGAD AGRO FOODS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment row was ever rendered. ImportKey pages for both slug variants (https://importkey.com/countries/india/devgad-agro-foods-private-limited and .../devgad-agro-foods-pvt-ltd) returned only the paywall shell: 'Shipments available for DEVGAD AGRO FOODS PRIVATE LIMITED, refreshed daily' — a template sentence, not a record. Rows actually seen: 0. No bill-of-lading number, date, destination or HS code was visible on any page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record was retrieved. Search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); Bing returned only unrelated results (Amazon, GitHub, Reddit) for the exact-name query. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: это не 'нет отгрузок', а 'данных не получено'. Все четыре источника (importkey x2 slug, volza, eximpedia, trademo, importgenius) отдали 403 / JS-challenge / paywall, поисковики не работали. Выручка: null (не публична в открытом доступе, не выдумывалась). Объём экспорта: null. HS 200580 (джемы/фруктовые пюре, консервированные) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения. Компания сохраняется в базе, статус отгрузок требует повторной проверки при доступности таможенных данных; заявления сайта/каталога фактом не считались."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "DEVGAD AGRO FOODS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Research materially limited: the web_search backend was unavailable throughout this session (connection refused on every query), and direct fetches of company-data aggregators were blocked (zaubacorp.com returned HTTP 403; tofler.in search returned 404; instafinancials returned 404). Bing returned only irrelevant results, so no usable open-web coverage was obtained. The one source that did respond, Indian Kanoon (indiankanoon.org/search/?formInput=Devgad Agro Foods), returned 0 matching judgments as of today — this is a single-source negative and is NOT sufficient to assert 'no litigation'; court_cases is therefore left null rather than false. Sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) could not be screened: no sanctions list page was successfully retrieved, so sanctions_hit is null, not 'clear'. No credit rating (CRISIL/ICRA/CARE/India Ratings/Brickwork) was located; rating null. No negative news, regulator action (FSSAI/RBI/SEBI/DGFT) or enforcement item was found or verified; news_risk null. No evidence of supplies to Russia or the CIS was found, but absence of evidence here reflects failed retrieval, not a verified negative; rf_supply null. No CIN, PAN, GSTIN, revenue or shipment figures are asserted — none were publicly retrievable in this session and none are invented. RECOMMENDATION: re-run this company once the search backend is restored and a sanctions-screening source (OFAC SDN XML / EU consolidated list / UK OFSI) is reachable; treat all fields as UNVERIFIED pending that re-run. Per project rules, nothing here constitutes a rejection ground."
+}
