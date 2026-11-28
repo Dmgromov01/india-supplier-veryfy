@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S MANKIND PHARMA . LTD",
+ "legal_name": "Mankind Pharma Limited",
+ "cin_llpin": "L74899DL1991PLC044843",
+ "pan": "Not publicly disclosed on official sources (PAN of a listed company is not published on its website or MCA public pages); holder type cannot be derived — null",
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1991 (per CIN incorporation year 1991; exact day/month not verified from a primary registry page — null for day/month)",
+ "state_registered": "Delhi",
+ "state_claimed": "",
+ "mca_status": "Active (listed on NSE: MANKIND and BSE: 543904; CIN quoted on company's own registered-office disclosure — no strike-off/liquidation/insolvency indication found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Screener.in consolidated quarterly data (Q1 FY25 2,868 + Q2 FY25 3,061 + Q3 FY25 3,199 + Q4 FY25 3,079 = 12,207 Cr for FY25; Q1 FY26 3,570 + Q2 FY26 3,697 + Q3 FY26 3,567 + Q4 FY26 3,443 = 14,277 Cr for FY26) — these are aggregations of reported quarterly results, NOT a figure read directly from the audited annual accounts, therefore revenue fields are left null per instruction. Audited annual reports exist on mankindpharma.com/financials but the PDFs were not opened within the tool budget.",
+ "note": "Legal entity confirmed from the company's own website footer (mankindpharma.com/contact-us and /financials): 'Mankind Pharma Limited, CIN: L74899DL1991PLC044843, 208, Okhla Industrial Estate Phase-III, New Delhi 110 020, Delhi'. Note the input name 'M/S MANKIND PHARMA . LTD' is a trade-document style rendering; the exact legal name is Mankind Pharma Limited. Registered office is in Delhi; no state was claimed in the input, so no mismatch to report. Role: manufacturer — the company states it develops and manufactures pharmaceutical formulations and APIs (own R&D and manufacturing sections on its site); it is not a pure trader. GSTIN and GST status could not be retrieved: gstsearch.in returned 404 and zaubacorp/thecompanycheck returned HTTP 403, so GSTIN is null rather than guessed. PAN is not published on any official page reached; per the 4th-character rule it would indicate holder type (P = individual, C = company) but no PAN string was found, so it is left null. MCA status inferred from the live listing and the CIN being actively quoted by the company; the MCA master-data portal returned 403, so this is not a direct MCA extract. Industry: the input label 'Нефтегаз и химия' (oil & gas / chemicals) is a category mismatch — the company is a pharmaceutical formulator; declared HS codes 2932/2933/2935 are organic-chemical (heterocyclic) headings, which is consistent with pharma API/formulation exports, so no HS correction is needed. No rejection grounds: entity exists, is listed and operating."
+}

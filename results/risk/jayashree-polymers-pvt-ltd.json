@@ -1,0 +1,49 @@
+{
+ "name_input": "Jayashree Polymers Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madras High Court",
+   "case": "Tvl. Jayashree Polymers Private Limited vs The Joint Commissioner (ST)",
+   "party_role": "Petitioner",
+   "status": "pending / multiple hearings",
+   "dates": [
+    "2026-05-29",
+    "2026-07-31",
+    "2026-08-28",
+    "2026-09-22"
+   ],
+   "type": "GST / commercial tax writ (W.P.No.20641 of 2026, CNR HCMA011157252026 / HCMA011157322026)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Jayashree%20Polymers%22"
+  },
+  {
+   "court": "Bombay High Court",
+   "case": "Jayashree Polymers Pvt Ltd vs The Commissioner Of Central Excise And Service Tax",
+   "party_role": "Appellant",
+   "status": "Central Excise Appeal No. 39 of 2019, hearings Apr-Jun 2019",
+   "dates": [
+    "2019-04-01",
+    "2019-04-11",
+    "2019-04-22",
+    "2019-06-04"
+   ],
+   "type": "Central excise / service tax appeal",
+   "source": "https://indiankanoon.org/search/?formInput=%22Jayashree%20Polymers%22"
+  },
+  {
+   "court": "ITAT Pune",
+   "case": "Assistant Commissioner Of Income-Tax vs M/s. Jayashree Polymers Pvt. Ltd., Pune",
+   "party_role": "Respondent",
+   "status": "order dated 2019-09-19",
+   "dates": [
+    "2019-09-19"
+   ],
+   "type": "Income tax appeal (PAN AAACJ4677K as stated in the order)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Jayashree%20Polymers%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified negative — the OFAC Sanctions List Search tool is JavaScript-driven and returned no queryable results via HTTP GET (https://sanctionssearch.ofac.treas.gov/), and the web_search backend was down (connection refused) for the whole session, so UN/EU/UK/BIS lists could not be queried. Treat sanctions_hit as 'not checked / unknown', not as 'clear'. Court cases ARE verified: 12 documents on Indian Kanoon, all tax-related (GST writ in Madras HC 2026, central excise appeal Bombay HC 2019, ITAT Pune 2019) — per project rule 2 these are not rejection grounds and are noted neutrally as 'есть сложности'. No criminal cases, no insolvency/NCLT records seen in the retrieved set. Credit rating: null — no rating found; CRISIL/ICRA/CARE pages not reachable in the call budget, so not public/not confirmed. Negative news: null — Bing/DuckDuckGo returned only irrelevant or spam results for every query, so no news assessment is possible; absence of found news is not evidence of absence. RF/CIS supply: null — Indian Kanoon full-text search for 'Jayashree Polymers' combined with Russia/sanctions/export returned 0 matching results, and no other source could be read; no evidence of supplies to Russia or the CIS found, but this is unconfirmed rather than cleared. Note the entity appears in two locations (Hosur-635126, Tamil Nadu plant per Madras HC; MIDC Chinchwad, Pune per ITAT) — legal-identity/entity-matching was out of scope for this role and should be resolved by the identity researcher before any risk conclusion is attached to a single legal entity."
+}

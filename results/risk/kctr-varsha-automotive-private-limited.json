@@ -1,0 +1,9 @@
+{
+ "name_input": "KCTR VARSHA AUTOMOTIVE PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не удалось прочитать. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; прямые попытки чтения дали 403/429/timeout (zaubacorp.com — 403, thecompanycheck.com — 403, mojeek — 403, brave — 429, duckduckgo html/lite — timeout, bing — выдал нерелевантную выдачу без совпадений по названию). Инструмент OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступен только как JS-форма, программный запрос по имени невозможен — совпадений не проверено, поэтому sanctions_hit = null, а не 'нет'. Аналогично не проверены списки UN/EU/UK/BIS, индийские судебные реестры (eCourts, NCLT), рейтинговые агентства (CRISIL/ICRA/CARE/India Ratings) и любые упоминания поставок в РФ/СНГ. Все поля оставлены null как 'не установлено публично доступным способом', а не как отрицательный результат. Требуется повторный прогон при восстановлении доступа к поиску; до этого компанию нельзя считать проверенной по риск-профилю. Санкционных, судебных или иных негативных оснований не выявлено, но и обратное не подтверждено."
+}
