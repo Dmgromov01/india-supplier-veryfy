@@ -1,0 +1,18 @@
+{
+ "name_input": "HIMADRI CHEMICALS AND INDUSTRIES LTD",
+ "declared_hs": "280300;282090",
+ "actual_hs_list": [
+  "27060000 (coal tar / coal tar distillates - raw material & saleable distillates)",
+  "27081000 (pitch, incl. coal tar pitch, in blocks/paste)",
+  "28030000 (carbon: carbon black, acetylene black, other forms of carbon)",
+  "29029010 (naphthalene)",
+  "38244010 / 38244090 (sulphonated naphthalene formaldehyde - SNF, concrete admixtures)",
+  "28070000 (sulphuric acid - process/derived, unconfirmed)",
+  "38019000 / 6815 (advanced/speciality carbon materials, graphite-type - unconfirmed)",
+  "28369100 / 283699 (lithium salts / battery materials - announced, not yet in production)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Public company profile (Screener.in, citing company disclosures): 'integrated maker of carbon-based products starting from coal tar: Coal tar pitch (CTP), carbon black (CB), SNF, and advanced carbon materials'; described as No.1 coal pitch manufacturer in India, largest player in naphthalene and SNF; largest coal tar distillation capacity in India. Tickertape profile: 'engaged in the business of manufacturing various grades of coal tar pitch and other byproducts derived during the distillation process'. Screener key-insight table shows total carbon black capacity 2,50,000 MTPA and speciality carbon black capacity 1,30,000 MTPA (Sep 2026). Management commentary (Q1 FY27 call summary via Tickertape): move from coal tar derivatives to advanced materials / energy transition - 200 MTPA CNT facility targeted Q4 FY27, entry into super speciality carbon black, 2,000 MTPA LFP cathode step Q3 FY27; also Birla Tyres (tyres) and a mining segment. Company website (himadri.com) could not be read - all requests returned a bot-verification interstitial, so the official product catalogue was not verified directly.",
+ "role_hint": "manufacturer",
+ "comment": "Declared codes 280300 (carbon/carbon black) and 282090 (other manganese oxides) - the second code is clearly wrong for this company: no manganese product line appears anywhere in the public product profile. 280300 is correct and is the core of the carbon black business (2.5 lakh MTPA capacity, incl. 1.3 lakh MTPA speciality CB), so that line is exact. The dominant revenue line, coal tar pitch, is missing from the declaration and should be 2708 (pitch) with coal tar distillates under 2706; naphthalene (2902) and SNF (3824) are also missing. Industry label 'Нефтегаз и химия' is imprecise - this is coal-tar/carbon materials chemistry, not oil & gas. Per project rule 3 the HS mismatch is not a rejection ground: company is kept, code corrected to the actual range, verdict accepted_hs_corrected. Role: manufacturer (own distillation and carbon black plants), no trader signs found. All product lines above are 'заявлено, не подтверждено' - no customs line or shipment record was checked in this task (out of scope), and the official site was inaccessible, so the product list rests on secondary aggregators (Screener.in, Tickertape) quoting company disclosures. CNT, LFP cathode and super speciality carbon black are announced projects, not current products."
+}

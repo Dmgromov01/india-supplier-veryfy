@@ -1,0 +1,18 @@
+{
+ "name_input": "JAYPEE INDIA LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool returned a connection error (searx: Connection refused) on both queries, and subsequent fallback attempts via Bing/Google/DuckDuckGo returned irrelevant or empty result sets (no usable SERP for the query). Direct fetches of registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404, and mca.gov.in Master Data returned HTTP 403. Therefore no exact legal entity name, CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Nothing is asserted or inferred: all fields are null per the no-invention rule. IMPORTANT: the claimed name 'JAYPEE (INDIA) LTD' is ambiguous - it may correspond to a Jaypee Group entity (construction/cement/engineering, historically Uttar Pradesh/Delhi registered) or to an unrelated similarly named private company; without a CIN or PAN the entity cannot be pinned down, so no match is claimed. Role left as 'unknown' (no evidence of manufacturing vs trading). NOT rejected: absence of verifiable data is not a ground for rejection under the project rules - rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found either way. Recommended next step: re-run with working search access, or supply the CIN/PAN/GSTIN from the supplier's documents to resolve the entity directly. Note also that declared HS 846229 (grinding/mixing machinery) does not match the claimed industry 'metallurgy and mining' as a product category; per the rules this is not a rejection ground and no HS verdict is issued here since this role covers registry data only."
+}

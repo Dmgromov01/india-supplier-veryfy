@@ -1,0 +1,8 @@
+{
+ "name_input": "M/S WAJID SONS EXPORTS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/wajid-sons-exports (also /wajid-sons-export, /wajid-sons): page returned only the generic paywall shell — \"Join ImportKey to view the import and export data records of companies all over the world.\" No shipment rows, no dates, no destinations, no HS codes, no B/L numbers were rendered. Source counter: 3 slug variants requested, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. web_search backend was unreachable for every query (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no domestic-supply source could be located or read. 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — но и обратное не доказано: проверить фактичность отгрузок не удалось. Все три варианта слага на importkey отдают одинаковую заглушку без единой записи; volza и eximpedia вернули HTTP 403 Forbidden; поисковик был недоступен на всех запросах. Поэтому статус по экспорту и по внутреннему рынку — unknown, а не none_found: отсутствие данных здесь означает отсутствие доступа, а не отсутствие отгрузок. Заявленный HS (442199;761510;761699;830629 — изделия из дерева, металлическая посуда/кухонная утварь, прочее) ни подтвердить, ни опровергнуть не удалось; по правилу 3 несоответствие HS всё равно не является основанием для отклонения. Выручка и объём экспорта — null (не публичны / не получены), не выдумывались. Рекомендация: повторить проверку при доступном поиске и платном срезе таможенных данных, либо запросить у поставщика экспортные декларации/Shipping Bill и GST-справку."
+}

@@ -1,0 +1,8 @@
+{
+ "name_input": "EMSYS TECH",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey pages for slugs 'emsys-tech' and 'emsys-tech-pvt-ltd' both returned only the generic template shell with zero shipment rows: 'Shipments available for EMSYS TECH, refreshed daily' — no date, destination, HS code or bill-of-lading number was displayed. Source counter: 2 ImportKey pages opened, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Searches for the company and for the claimed proprietor 'Konduru Thirumal Raju' returned no relevant hits (Bing returned unrelated results; DuckDuckGo/Google/Volza/Eximpedia/Trademo returned HTTP 403 or empty). Source counter: 4 search/registry attempts, 0 relevant rows seen.",
+ "note": "Следов поставок не найдено — ни экспортных записей, ни внутренних поставок подтвердить не удалось; это отсутствие данных, а не доказательство отсутствия отгрузок. Ни одна запись с датой, направлением, HS-кодом или номером B/L не найдена, поэтому export_status и domestic_status оставлены как unknown, а не none_found. Заявленный HS 850690 (первичные элементы и батареи) не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения; вердикт по HS не выносится. Юрлицо, CIN, PAN, выручка и объём экспорта — null, публично не найдено; ничего не выдумано. Роль (manufacturer/trader) не установлена. Требуется повторная проверка при доступности таможенных баз (ImportKey/Volza/Eximpedia) и GST/GeM-порталов."
+}
