@@ -1,0 +1,8 @@
+{
+ "name_input": "Nandan Denim Ltd",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for NANDAN DENIM LTD loaded but returned only a paywall shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible (source counter: page claims records exist back to 2008; rows actually seen: 0). Volza (403), Eximpedia (403), Trademo (403), ImportGenius (JS challenge) all blocked. No bill-of-lading number, date, destination or HS code could be read from any public source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split could be retrieved: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on all 4 attempts; nandandenim.com returned a bot-verification loader; BSE page returned no content; ZaubaCorp 403. Rows actually seen: 0.",
+ "note": "Следов поставок не подтверждено и не опровергнуто — данных нет, все источники отгрузок недоступны (paywall/403/JS-challenge), поисковый бэкенд не работал. Статус по экспорту и внутреннему рынку: unknown, не 'accepted'. ВАЖНО: заявленный HS 520942 (хлопчатобумажная деним-ткань) не соответствует заявленной отрасли «Продукты питания и FMCG» — по правилу 3 это НЕ основание для отклонения; фактический код следует привести к 520942 (текстиль), вердикт accepted_hs_corrected. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). Требуется повторная проверка при восстановлении доступа к Volza/ImportKey/Eximpedia или к годовому отчёту Nandan Denim (BSE scrip 521054 / NSE NDL)."
+}

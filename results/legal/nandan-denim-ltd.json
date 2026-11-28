@@ -1,0 +1,18 @@
+{
+ "name_input": "Nandan Denim Ltd",
+ "legal_name": "Nandan Denim Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Gujarat",
+ "state_claimed": "",
+ "mca_status": "active (listed, BSE 532641 / NSE NDL; no strike-off or liquidation found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 3547,
+ "revenue_fy26_cr": 2872,
+ "revenue_source": "Screener.in consolidated annual P&L (BSE/NSE filings): FY25 (Mar 2025) sales Rs 3,547 cr; FY26 (Mar 2026) sales Rs 2,872 cr — https://www.screener.in/company/NDL/",
+ "note": "Legal entity confirmed as Nandan Denim Limited, part of Ahmedabad-based Chiripal Group; listed on BSE (532641) and NSE (NDL); described as manufacturer of denim, shirting, yarn and fabrics, 80 MMPA denim capacity. Registered office state Gujarat taken from group/company profile (Ahmedabad); state_claimed was empty in input, so no mismatch. CIN, PAN and GSTIN could NOT be verified: searx web_search backend was down (connection refused) and all registry/profile pages (ZaubaCorp, TheCompanyCheck, IndiaMART, Moneycontrol, company site, BSE) returned 403/429/bot-challenge within the tool budget, so these fields are null rather than guessed. Incorporation date not confirmed from a primary filing (Screener states 'incorporated in 1994' — unverified secondary source, hence null). Revenue figures are Screener's consolidated annual sales from exchange filings, not independently audited-account text; treat as filing-derived. Input industry_claimed 'Продукты питания и FMCG' is wrong — actual industry is textiles/denim; declared HS 520942 (denim fabric, >85% cotton, weight >200 g/m2) matches the actual product line. No rejection grounds: entity exists and is listed/trading."
+}

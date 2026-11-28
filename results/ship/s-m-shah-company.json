@@ -1,0 +1,8 @@
+{
+ "name_input": "S. M. Shah & Company",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company pages for slugs 's-m-shah-company' and 's-m-shah-and-company' returned only the page shell: 'Shipments available for S M SHAH COMPANY, refreshed daily' — the shipment table itself rendered zero rows (0 rows seen of an unstated counter), so no bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report split could be retrieved: web_search backend returned 'no results (searx: <urlopen error [Errno 111] Connection refused>)' on all three queries, and volza/eximpedia/trademo free views returned HTTP 403 Forbidden. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что поставок не было: проверить не удалось, потому что (1) поисковик был недоступен на всех запросах, (2) ImportKey отдаёт только JS-оболочку без строк отгрузок, (3) volza/eximpedia/trademo закрыты 403. Выручка и объём экспорта: null (не публичны / не получены), не выдумывались. Юрлицо 'S M SHAH & CO' с заявленным HS 848180 (арматура) — существование, CIN/PAN и роль (manufacturer/trader) не подтверждены и не опровергнуты; отклонять не за что, но и принимать на основании заявлений нельзя. Требуется повторный прогон при работающем поиске или платный доступ к таможенным данным."
+}

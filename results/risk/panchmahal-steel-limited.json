@@ -1,0 +1,9 @@
+{
+ "name_input": "PANCHMAHAL STEEL LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-CHECK NOT COMPLETED — data unavailable, not a clean result. Tooling failure during this run: DuckDuckGo/searx backend refused connections (Errno 111) on both queries; company website panchmahalsteel.com failed DNS resolution (Errno -3); Google returned HTTP 429; DuckDuckGo HTML timed out. Bing was reachable but returned only generic 'Panchmahal district (Gujarat)' tourism/administration pages for both queries ('Panchmahal Steel Limited' + rating/litigation/Russia and + CRISIL/ICRA/CARE) — zero company-specific hits, so no usable evidence either way. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded but is a JS form; no query could be executed, therefore sanctions_hit is null and NOT a confirmed negative. No Indian court records (eCourts/NCLT), no regulator actions, no credit rating (CRISIL/ICRA/CARE/India Ratings) and no Russia/CIS supply evidence could be retrieved or verified. All fields set to null per rule 4 (do not invent data). Note for context only, unverified: Panchmahal Steel Ltd is a listed Indian stainless-steel long-products maker (BSE-listed, Gujarat) — this is background, not a sourced finding. Per rule 2, even if sanctions/court items surface later they are not rejection grounds. RECOMMENDATION: re-run this risk check when search access is restored; do not treat this record as 'no sanctions / no cases'."
+}

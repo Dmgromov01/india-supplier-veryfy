@@ -1,0 +1,8 @@
+{
+ "name_input": "KUDU KNIT PROCESS PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/kudu-knit-process-pvt-ltd returned only a paywalled shell: 'Shipments available for KUDU KNIT PROCESS PVT LTD, refreshed daily' — zero shipment rows rendered (0 rows seen, 0 B/L numbers, 0 dates, 0 destinations, 0 HS codes). No export record obtained.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Attempted sources returned HTTP 403: eximpedia.app, zaubacorp.com, trademo.com, thecompanycheck.com; volza.com returned 403. DuckDuckGo search backend was unreachable ('Connection refused') for both queries, so no domestic-supply page could be located.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных отгрузок (нет ни одной таможенной/B-L записи с датой, направлением, HS и номером B/L), ни данных по внутреннему рынку (GST-оборот, тендеры GeM/CPPP, контракты) получить не удалось — все источники отдали 403 либо поиск был недоступен. Статус по обоим каналам — unknown, а не 'заявлено, не подтверждено', поскольку заявлений сайта/каталога также не прочитано. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). Заявленный HS-набор (600192;600410;600622;610462 — трикотажные полотна и трикотажные изделия) не соответствует заявленной отрасли 'Продукты питания и FMCG'; по правилу 3 это НЕ основание для отклонения — компания сохраняется в базе, фактический код подлежит уточнению при появлении данных. Рекомендуется повторная проверка при восстановлении доступа к volza/eximpedia/importkey с платным доступом."
+}
