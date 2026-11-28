@@ -1,0 +1,9 @@
+{
+ "name_input": "Pollex",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Google — HTTP 429, Bing по всем запросам ('Pollex' + 'Sahib Singh', 'Pollex Industries', 'Pollex Engineering', site:indiamart.com, 'Pollex' + Russia/sanctions/court case) выдавал один и тот же нерелевантный кэш (американские XLS-списки, таксономия Tipula pollex, Ampithoe pollex) — ни одного индийского юрлица с названием Pollex не найдено. Проверен только интерфейс OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov, SDN обновлён 23.11.2026) — поиск по имени через форму недоступен без POST, поэтому санкционный скрин не подтверждён; совпадений в выдаче нет, но это не является проверкой. Все поля null: данные не публичны/не найдены, выдумывать нельзя. Требуется повторный прогон при доступном поиске и уточнение от заказчика полного юрлица (напр. 'Pollex Industries', 'Pollex Pvt Ltd'), города/штата и PAN — по названию 'Pollex' + имени 'Sahib Singh' идентификация невозможна. Правило 2 соблюдено: санкции/суды/уголовные дела не являются основанием для отклонения; компания сохраняется в базе."
+}

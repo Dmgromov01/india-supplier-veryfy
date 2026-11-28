@@ -1,0 +1,9 @@
+{
+ "name_input": "M R Dental (India) Private Limited; M R Dental (India) Private Limited; MEADWAY DENTALS PRIVATE LIMITED; MEADWAY DENTALS PRIVATE LIMITED; M R DENTAL (INDIA) PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: DuckDuckGo/searx backend refused connections on all attempts ('Connection refused'); indiankanoon.org DNS resolution failed; zaubacorp.com and thecompanycheck.com returned HTTP 403; Google returned HTTP 429; Bing returned only irrelevant results for both the 'M R Dental India' and 'Meadway Dentals Private Limited' queries. The OFAC Sanctions List Search page loaded but is a JavaScript application that returns no query results via plain HTTP GET, so no name screening could actually be executed. Therefore: sanctions exposure (OFAC SDN/UN/EU/UK/BIS) = NOT SCREENED, not 'clear'; Indian court cases (party role/status) = not retrieved; regulator actions and negative news = not retrieved; credit rating = not retrieved (Indian private limited dental-equipment firms typically have no public rating, but this is unverified here); evidence of supplies to Russia/CIS = not retrieved. All fields set to null deliberately - no numbers, CINs, PANs, case numbers or shipment records were invented. Per project rules this is NOT a rejection ground and no adverse inference should be drawn; the company must be re-queued for risk screening once search access is restored. Note also that the claimed industry 'oil & gas and chemicals' is inconsistent with the declared HS 901849 (dental instruments) and the company names, which suggests a data-entry mismatch in the source record - flagged for the identity/HS team, not a risk finding."
+}
