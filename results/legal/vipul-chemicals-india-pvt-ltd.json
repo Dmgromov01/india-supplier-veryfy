@@ -1,0 +1,18 @@
+{
+ "name_input": "VIPUL CHEMICALS INDIA PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первичные регистрационные данные не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused' и таймауты; html/lite.duckduckgo.com — таймаут; google.com — HTTP 429; bing.com отдал нерелевантную выдачу (кэш/AI-мусор, ничего по компании); mca.gov.in Master Data — HTTP 403; агрегаторы zaubacorp.com, thecompanycheck.com, instafinancials.com — HTTP 403. Ни один источник не открылся, поэтому exact legal name, CIN, PAN, GSTIN, дата инкорпорации, MCA-статус и выручка остаются null: выдумывать их запрещено правилами. Отдельно фиксирую собственную ошибку: в первом запросе к zaubacorp я подставил в URL CIN 'U24100GJ1995PTC025678' — это была ГИПОТЕЗА по формату, а не найденный идентификатор; она НЕ подтверждена и в результат не включена, использовать её нельзя. Заявленное название 'VIPUL CHEMICALS (INDIA) PRIVATE LIMITED' и штат в инпуте не указаны (state_claimed пусто), поэтому сверить штат регистрации не с чем. Роль определить невозможно: заявленные HS 481141/481320 (бумага/картон с покрытием, фильтр-блоки) не соответствуют профилю 'химикаты' в названии, но по правилам проекта несоответствие HS не является основанием для отклонения — вердикт по HS не выносится, требуется повторная проверка. Отклонение (rejected) НЕ применяется: нет подтверждения, что юрлицо не существует/ликвидировано/банкрот — отсутствие данных не равно отсутствию компании. Рекомендация: повторить проверку при доступном реестре (MCA Master Data / GST-портал) и уточнить у поставщика точное юрлицо и штат."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "NECTAR LIFESCIENCE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "ОГРАНИЧЕНИЕ ПРОВЕРКИ: поисковый бэкенд (DuckDuckGo/searx) на момент проверки недоступен — все запросы вернули 'Connection refused'; OFAC Sanctions List Search и ICRA rating list — JS-формы, результат запроса через http_get не извлекается; NCLT (nclt.gov.in) — ошибка SSL-сертификата; BSE-страница эмитента рендерится JS. Попытки открыть домены компании по догадке (nectarlife.com, nectar-lifesciences.com, nectarlifesciences.com) привели к посторонним организациям (US cosmetics brand, US allergy clinic) — это НЕ проверяемая компания, использовать эти данные нельзя. Итог: ни один из запрошенных пунктов (санкционные списки OFAC SDN/UN/EU/UK/BIS Entity List, судебные дела в индийских судах с ролью стороны и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой и статусом, признаки поставок в РФ/СНГ) документально не подтверждён и не опровергнут — везде null, а не отрицательный результат. Это означает 'не проверено', а не 'чисто'. Требуется повторный прогон при работающем поиске и доступ к реестрам (NCLT/NCLAT, SEBI, eCourts, сайты CRISIL/ICRA/CARE/India Ratings, OFAC/BIS/EU/UK consolidated lists). Санкции, суды и уголовные дела по правилу 2 не являются основанием для отклонения — при обнаружении фиксировать нейтрально ('есть сложности')."
+}

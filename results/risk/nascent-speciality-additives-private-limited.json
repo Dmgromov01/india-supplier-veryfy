@@ -1,0 +1,9 @@
+{
+ "name_input": "NASCENT SPECIALITY ADDITIVES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; Bing returned only dictionary definitions of the word 'nascent' and ignored the quoted company name, i.e. no company-specific results at all; Google returned HTTP 429. Direct registry/aggregator pages were blocked: zaubacorp.com HTTP 403, tofler.in HTTP 403, instafinancials.com HTTP 403. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded, but it is a JavaScript form that cannot be queried via http_get, so no SDN/Non-SDN name check was actually executed - sanctions_hit is therefore null (NOT a confirmed negative). No UN, EU, UK or BIS Entity List check was performed. No Indian court records (e.g. eCourts, NCLT, High Court) were searched. No credit rating (CRISIL/ICRA/CARE/India Ratings) was located. No negative news was located. No evidence of supplies to Russia or the CIS was located. IMPORTANT: the absence of findings here reflects failed/unavailable sources, not a clean due-diligence result. All fields are null because nothing is public to me at this time - no numbers, CINs, PANs, case numbers or shipment records have been invented. Per project rules this company must NOT be rejected on this basis; it should be re-queued for manual verification once search access is restored. Recommended manual checks: OFAC SDN + consolidated non-SDN list, UN Consolidated List, EU consolidated list, UK OFSI list, BIS Entity List, MCA master data, eCourts/NCLT, and credit-rating agency databases."
+}
