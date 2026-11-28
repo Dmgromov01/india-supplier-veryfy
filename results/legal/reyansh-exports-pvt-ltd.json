@@ -1,0 +1,18 @@
+{
+ "name_input": "Reyansh Exports Pvt. Ltd",
+ "legal_name": "REYANSH EXPORTS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data obtained. All 10 tool calls failed to yield a usable source: DuckDuckGo search backend returned 'Connection refused' on both queries; Bing returned only irrelevant/spam results for the exact-name and CIN queries; Google returned HTTP 429; zaubacorp.com, thecompanycheck.com, falconebiz.com and mca.gov.in returned HTTP 403; tofler.in and quickcompany.in returned 404; instafinancials.com returned 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — they are NOT public-verifiable through the channels available in this session, and I will not guess or construct them. Consequence for the verdict: per project rules a company may only be rejected if the entity does not exist, is struck off, liquidated or bankrupt. Since existence could not be confirmed OR disproved, this record must NOT be rejected — it stays in the database as unverified/pending and needs a manual MCA master-data lookup (or a paid registry API) before any decision. Role is 'unknown': the name contains 'Exports' but that is a naming convention, not evidence of manufacturer vs trader status, and no MCA business-activity code (NIC) was retrievable. Revenue FY25 and FY26 are null — no audited accounts or official filings were accessible; nothing was estimated. Note on the input itself: declared_hs 842121 (check valves / taps, valves and similar appliances for pipes) is inconsistent with the claimed industry 'Нефтегаз и химия' only in the sense that it is a plausible oil-and-gas equipment code, so no HS correction is proposed here; per rules HS mismatch is not a rejection ground in any case. Also note the input supplied no PAN and no state, so there was nothing to cross-check against. Recommended next step: re-run this company in a session with working search, or query MCA master data directly by company name to obtain CIN, then derive PAN/GSTIN from the GST portal public search."
+}

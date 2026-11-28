@@ -1,0 +1,9 @@
+{
+ "name_input": "Beereheba Gourmet Foods",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no findings either way. All research channels failed during this run: the web_search tool returned 'searx: Connection refused' on every query; Google returned HTTP 429 (rate limit); DuckDuckGo HTML endpoint timed out; Bing returned only unrelated/spam results with no exact match for the name; ZaubaCorp and the MCA company-name-search portal both returned HTTP 403; OpenSanctions API returned HTTP 401 (no key). Consequently sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List), Indian court cases (party role and status), regulator actions, negative news with dates, credit rating with date and status, and any evidence of supplies to Russia or the CIS are all null - NOT because they were checked and found clean, but because nothing could be retrieved. No claim in this record is verified. Note also that the input name is internally inconsistent: 'Beereheba Gourmet Foods' vs legal_claimed 'BEERSHEBA GOURMET FOODS' - the spelling difference should be resolved before any further screening, since a misspelled entity name will silently defeat sanctions and litigation searches. Recommended next step: re-run this company once search connectivity is restored, and screen the exact MCA-registered name against OpenSanctions, the OFAC SDN list, and Indian court records (eCourts / NCLT) before any risk conclusion is drawn. Per project rules, nothing here constitutes a rejection ground."
+}
