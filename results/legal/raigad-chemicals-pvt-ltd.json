@@ -1,0 +1,18 @@
+{
+ "name_input": "RAIGAD CHEMICALS PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The DuckDuckGo search backend was unreachable (connection refused), Bing returned only unrelated results for both the CIN query and the GSTIN query, and the public registry aggregators attempted (zaubacorp.com, thecompanycheck.com, falconebiz.com) all returned HTTP 403 Forbidden; instafinancials.com returned 404. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source, and all such fields are left null rather than guessed. Note the input itself is internally inconsistent: legal_claimed 'RAIGAD CHEMICALS PVTO LTD' appears to be a typo, and the declared HS 350790 (enzymes) does not match the claimed industry 'food & FMCG' - per project rules this is NOT a rejection ground; the HS code should be corrected to the actual product code and the company kept in the database. No evidence of non-existence, strike-off, liquidation or bankruptcy was found, so the entity is NOT rejected; verdict should be treated as unverified pending a manual MCA master-data lookup (mca.gov.in) and GST portal check. Role cannot be determined from registry data alone and is set to unknown."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "PURVEE ENTERPRISES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реквизита. Входные данные противоречивы: в поле legal_claimed указано имя физлица 'AMRUTA RAJESHKUMAR MESHRAM', а не название юрлица, поэтому форма собственности неясна (возможно, ИП/proprietorship — у таких нет CIN, только GSTIN/PAN). Поиск недоступен (DuckDuckGo/searx вернул 'Connection refused'), Google — HTTP 429, Zaubacorp — 403, Tofler/Instafinancials — 404, IndiaMART отдал нечитаемый бинарный ответ. Ни одна публичная запись (MCA, GST-профиль, агрегатор) не прочитана, поэтому CIN/PAN/GSTIN/дата регистрации/статус/выручка = null, не выдуманы. Роль определить нельзя: заявленный HS 902780 (приборы измерения/анализа) и отрасль 'IT и электроника' ничем не подтверждены. НЕ отклонено: нет доказательств, что юрлицо не существует или ликвидировано — отсутствие данных не является основанием для rejected. Требуется повторная проверка при доступном поиске и уточнение у поставщика полного юрлица/GSTIN."
+}

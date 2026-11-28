@@ -1,0 +1,8 @@
+{
+ "name_input": "Optimus X tech",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'optimus-x-tech' returned only the generic template shell: 'Shipments available for OPTIMUS X TECH, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Second slug 'optimus-x-tech-private-limited' identical (0 rows). Source counter: 2 ImportKey pages opened, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for domestic supply evidence returned no accessible results (DuckDuckGo backend unreachable: 'Connection refused'; Google 429; eximpedia/trademo/zaubacorp 403). 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: все вторичные источники (volza, eximpedia, trademo, zaubacorp) отдали 403, поисковики недоступны, а ImportKey показал пустой шаблон без единой записи. Заявленный HS 843880 (оборудование для пищевой промышленности) не подтверждён и не опровергнут — фактический код не установлен. Заявленная отрасль 'Продукты питания и FMCG' с HS 843880 не бьётся (это машины, а не FMCG-товар), но по правилу 3 это не основание для отклонения. Выручка: null (не публична/не найдена). Объём экспорта: null. Юрлицо не подтверждено и не опровергнуто — реестры недоступны, поэтому rejected не ставится. Требуется повторная проверка при доступности платных/незаблокированных источников."
+}
