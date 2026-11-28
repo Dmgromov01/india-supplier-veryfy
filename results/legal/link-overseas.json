@@ -1,0 +1,18 @@
+{
+ "name_input": "Link Overseas",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) for the whole session, and direct fetches of registry aggregators failed: zaubacorp.com returned HTTP 403, tofler.in returned HTTP 403, thecompanycheck.com and instafinancials.com search endpoints returned HTTP 404, Google returned HTTP 429, DuckDuckGo timed out, and Bing returned only generic 'link' results with the query terms ignored (no company-specific hits). Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be sourced. Nothing is asserted or invented here. Note that 'Link Overseas' is a very common Indian trade name and multiple distinct entities (proprietorships, partnerships and private limited companies) may share it; without a CIN or GSTIN from the input it is not possible to pin down which entity is meant. The claimed HS code 851713 (smartphones/mobile phones) and industry 'IT and electronics' are unverified and, per project rules, HS mismatch is not a ground for rejection. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the record is simply unverified. Recommended next step: obtain the supplier's CIN or GSTIN (or PAN) from the buyer, then re-run verification against MCA/GST portals."
+}

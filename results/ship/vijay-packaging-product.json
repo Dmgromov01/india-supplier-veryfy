@@ -1,0 +1,8 @@
+{
+ "name_input": "Vijay packaging product",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/vijay-packaging-product and .../vijay-packaging-products both returned only the generic template text \"Shipments available for VIJAY PACKAGING PRODUCT, refreshed daily\" with zero shipment rows rendered (0 rows seen on both slugs); no bill-of-lading number, date, destination or HS code was displayed. volza, eximpedia, trademo returned HTTP 403 and importgenius returned a JavaScript challenge, so no free-view records could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend was unavailable (\"searx: Connection refused\") for queries \"Vijay packaging product India import export\" and \"Vijay Packaging Product VANDANA GUPTA GST India\", returning no results. No domestic supply record seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это не подтверждение отсутствия отгрузок, а отсутствие доступа к данным: importkey отдал пустой шаблон без строк (0 записей на обоих вариантах слага), остальные источники (volza/eximpedia/trademo/importgenius) заблокированы, поисковик недоступен. Заявленный HS 392329;480890;842230 (полимерная упаковка, прочие бумажные изделия, фасовочно-упаковочные машины) не проверен по фактическим записям — код не подтверждён и не опровергнут, оставлен как заявленный. Юрлицо, CIN, PAN, выручка и объём экспорта — null, публично не получены; ничего не выдумывалось. Трейдер/производитель — unknown. Требуется повторная проверка при доступном источнике таможенных данных."
+}

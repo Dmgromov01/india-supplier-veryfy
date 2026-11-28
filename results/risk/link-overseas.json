@@ -1,0 +1,9 @@
+{
+ "name_input": "Link Overseas",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: все поисковые каналы были недоступны в момент проверки (DuckDuckGo/searx — connection refused; lite.duckduckgo.com и альтернативный движок — timeout; Google — HTTP 429; Bing отдавал только кэшированную нерелевантную выдачу, игнорируя кавычки и операторы). Прямой доступ к OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать запрос через GET — результат по имени получить не удалось. Следовательно: sanctions_hit, court_cases, rating, news_risk, rf_supply = null — это НЕ подтверждение отсутствия рисков, а отсутствие данных. Дополнительно: заявленное имя «LINK OVERSEAS» крайне неспецифично (типовая трейдерская форма, множество одноимённых лиц в Индии), без CIN/PAN/адреса однозначная идентификация невозможна — риск ложного отождествления высок. Рекомендация: повторить проверку при восстановлении доступа к поиску, запросить у поставщика CIN/GSTIN/PAN и адрес, затем проверить по OFAC SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List, eCourts/NJDG, IBBI, CIBIL/CRISIL/ICRA, а также по таможенным записям на предмет поставок в РФ/СНГ. Отклонение по данному отчёту не обосновано (правило 2 и 3): нет данных ни за, ни против."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "DHARA INDUSTRIES",
+ "legal_name": "DHARA INDUSTRIES (unverified — likely a proprietorship/firm trading name; exact legal entity not confirmed)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. The input gives no CIN/LLPIN, no PAN and no state, and the name 'DHARA INDUSTRIES' with the person 'VITTHALBHAI GOVINDBHAI PATEL' is consistent with an unregistered proprietorship or partnership trading name, which would have no CIN/LLPIN and no MCA record at all; PAN/GSTIN for such entities are not published on any free public profile I could reach. Tooling failures: DuckDuckGo search backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Zaubacorp returned HTTP 403; MCA master-data page returned HTTP 403; Bing returned only generic non-query-specific results (no relevant hit for the company or the proprietor). The Company Check search page is a JS app and returned only marketing copy, no result rows. Therefore: legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered state, MCA status and revenue FY25/FY26 are all null — NOT because they are absent, but because they were not publicly retrievable in this session. Revenue is null: no audited accounts or official filings were located, and per project rules numbers must not be invented. Role is 'unknown' — no registry evidence of manufacturing plant, licences or trade activity was obtained; the declared HS 848350 (flywheels and pulleys, incl. pulley blocks) is a mechanical-engineering heading and does NOT match the claimed industry 'Металлургия и горнодобыча' (metallurgy & mining), so the industry claim is internally inconsistent with the declared HS code — flagged for correction, but per rules HS mismatch is not a rejection ground. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the absence of data is a research gap, not a negative finding. Recommended next step: obtain the GSTIN or PAN directly from the supplier (or a shipping document), then re-run verification against the GST portal and MCA; if it is a proprietorship, confirm the proprietor's name matches 'Vitthalbhai Govindbhai Patel' and the principal place of business state."
+}
