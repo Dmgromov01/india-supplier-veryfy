@@ -1,0 +1,18 @@
+{
+ "name_input": "Agri gold foods and farms products private ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не открылся. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing отдавал нерелевантную общую выдачу (запросы в кавычках игнорировались, результаты про agrisupply.com и т.п.); zaubacorp.com, thecompanycheck.com, instafinancials.com и mca.gov.in вернули HTTP 403; Google — HTTP 429. Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и статус MCA остаются null — это НЕ означает, что юрлица не существует. Отклонять по правилу №3 нельзя: нет доказательств ликвидации/банкротства/отсутствия юрлица. Обратить внимание: в claimed-названии указано 'LIMITED', а в name_input — 'private ltd'; это разные организационно-правовые формы (публичная/частная), требуется уточнение у поставщика точного названия. Заявленные HS 091099 (специи) и 200190 (консервированные овощи/фрукты) с ролью не сверялись — по правилу №3 несоответствие HS не является основанием для отклонения. Роль оставлена 'unknown' до получения реестровых данных. Выручка FY25/FY26 не найдена в аудированной отчётности — null, не выдумывалась. Требуется повторная проверка при доступных реестрах (MCA master data, GST-портал)."
+}

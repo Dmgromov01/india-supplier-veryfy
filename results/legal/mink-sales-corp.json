@@ -1,0 +1,18 @@
+{
+ "name_input": "MINK SALES CORP",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused' на всех запросах; (2) zaubacorp.com — HTTP 403 Forbidden; (3) thecompanycheck.com — отдана только маркетинговая заглушка, поиск за платным логином; (4) instafinancials.com — HTTP 404; (5) google.com — HTTP 429; (6) duckduckgo.com/html — таймаут; (7) bing.com по трём разным запросам ('\"Mink Sales Corp\" CIN GST India', '\"MINK SALES\" \"Mukesh Mehra\" director company', '\"Mink Sales Corporation\" GSTIN India') — во всех случаях выдана одинаковая нерелевантная выдача про животное 'mink' (Wikipedia/Britannica), т.е. поисковый слой фактически не работает. Следствие: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата инкорпорации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, так как публично не подтверждены. ВАЖНО: 'MUKESH MEHRA' в поле legal_claimed — это имя физлица (вероятного директора/проприетора), а не название юрлица; 'MINK SALES CORP' может быть как Pvt Ltd, так и LLP, либо товарным знаком/вывеской без отдельного юрлица — без реестра установить нельзя. Роль оставлена 'unknown' (не manufacturer/trader), т.к. нет ни MCA-данных, ни GST-профиля. Отклонение (rejected) НЕ применяется: нет доказательств, что юрлицо не существует, ликвидировано или обанкрочено — отсутствие данных не равно отсутствию компании. Требуется повторный прогон при доступном реестре (MCA master data / GST-портал) либо уточнение от заказчика: полное название с организационно-правовой формой, город/штат, GSTIN или PAN."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "Agri gold foods and farms products private ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. Tooling failed: DuckDuckGo/searx backend refused connections (2 attempts); Google returned HTTP 429; DuckDuckGo HTML timed out; Bing returned only generic 'agri'-keyword results with the quoted company name ignored (3 attempts, no relevant hits); Zaubacorp returned HTTP 403; MCA master-data portal returned HTTP 403 and search.mca.gov.in did not resolve (DNS). OFAC Sanctions List Search page was reachable but is a JS form and cannot be queried via plain HTTP GET, so no name match was actually executed - sanctions_hit is therefore null (NOT a negative/clear result). No Indian court records (eCourts/NCLT/SCI), regulator actions, credit rating or Russia/CIS supply evidence could be checked. All fields null because nothing is public to me in this session, not because the company is clean. Recommend re-run with working search backend plus direct queries to OFAC SDN CSV, eCourts, NCLT and IBBI. Per project rules this is not a rejection ground; company stays in base pending verification."
+}
