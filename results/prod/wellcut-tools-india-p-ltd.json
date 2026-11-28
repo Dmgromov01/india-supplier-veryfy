@@ -1,0 +1,16 @@
+{
+ "name_input": "WELLCUT TOOLS INDIA P LTD",
+ "declared_hs": "820740;846610",
+ "actual_hs_list": [
+  "820740 - Taps, dies and threading tools (HSS thread taps, Linco chasers, thread rolls, die heads) - corroborated by own website product list",
+  "820750 - Tools for drilling/boring (reamers, end mills are arguably 820770/820750; reamers -> 820750) - заявлено, не подтверждено",
+  "820770 - Milling cutters and end mills (milling cutters, end mills) - заявлено, не подтверждено",
+  "846610 - Tool holders / self-opening die heads (die heads for pipe threading machines) - partially consistent with declared code",
+  "845970 / 845929 - Pipe threading machines, hydraulic thread rolling machines (metal-cutting/threading machine tools) - заявлено, не подтверждено",
+  "7318 - Rebar couplers, swivel couplers, nuts & bolts (traded/ancillary hardware line) - заявлено, не подтверждено"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт wellcuttools.com (Ludhiana, Focal Point Phase-V, осн. 1972) заявляет производство HSS cutting & threading tools: thread taps, Linco chasers, thread rolls & tool bits, end mills, reamers, milling cutters; плюс оборудование: hydraulic thread rolling machines, pipe threading machines & die heads; плюс метизную линейку: rebar coupler, swivel coupler, nuts & bolts. Заявлены марки стали M2, M35, M42. Экспорт заявлен в Японию, Египет, Австралию, ЮАР — без указания записей отгрузок.",
+ "role_hint": "manufacturer (заявлено на сайте: 'trusted manufacturer of HSS Taps / Linco Chaser / Linco Bolt Threading in Ludhiana'); признаки трейдера по линейке couplers/nuts & bolts — вероятно перепродажа, не подтверждено",
+ "comment": "Код 820740 (taps/dies/threading tools) подтверждается ассортиментом сайта — совпадение точное по основной линейке. Код 846610 (tool holders) частично соответствует die heads, но die heads для трубных резьбонарезных машин чаще классифицируются как части станков (8466) либо как инструмент 8207 — требует уточнения по фактической номенклатуре отгрузки. Не заявлены, но присутствуют в каталоге: milling cutters/end mills (820770), reamers (820750), thread rolling machines и pipe threading machines (8459), couplers/nuts & bolts (7318) — линейка в декларации неполная. Отрасль 'Металлургия и горнодобыча' указана неверно: фактически это металлообработка / станкоинструментальная продукция (machine tools & cutting tools), не металлургия и не горнодобыча. Все позиции, кроме 820740, помечены 'заявлено, не подтверждено' — таможенных записей в рамках этой проверки не исследовалось (по правилам роли). Внутренние подстраницы сайта (products.html, thread-rolls-tool-bit.html, pipe-threading-machines-die-heads.html) вернули 404, поэтому перечень взят с главной страницы; IndiaMART недоступен (HTTP 429). Отклонение по HS не применяется — компания сохраняется, код корректируется на фактический."
+}
