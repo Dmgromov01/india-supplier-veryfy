@@ -1,0 +1,17 @@
+{
+ "name_input": "PTC DRIVELINES",
+ "declared_hs": "848390;870840",
+ "actual_hs_list": [
+  "8483.60 (shafts, couplings — propeller/drive shafts, cardan shafts, output shafts, driveline couplings)",
+  "8483.90 (parts of transmission shafts/couplings — spider assembly, cross bearing, universal joint, yoke assembly)",
+  "8708.40 (gear boxes and parts thereof — only if supplied as gearbox assemblies for Komatsu/CAT/BEML/Volvo machines)",
+  "7318.15 (cap screw / 12-point bolt, wheel stud)",
+  "7318.16 (wheel nut)",
+  "7318.22 (wheel washer)",
+  "8607.99 / 8607.91 (parts of locomotives — 'Locomotive' product line, exact subheading cannot be verified)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website (ptcdrivelines.com, ISO 9001:2015, Chennai, 'since 2007') lists a concrete driveline component range: Spider Assembly, Propeller Shaft / Drive Shaft, Cross Bearing, Universal Joint, Cardan Shaft, Yoke Assembly, Output Shaft, Driveline Coupling, Wheel Bolt, Wheel Nut, Cap Screw / 12-Point Bolt, Wheel Washer & Wheel Stud, plus a 'Locomotive' line and 'Custom Manufacturing'. Positioning: maintenance-free / self-lubricating replacement driveline parts for Komatsu, CAT, BEML and Volvo mining, earthmoving and construction machinery (dump/haul trucks, articulated dump trucks, wheel loaders, dozers, motor graders, diesel locomotives).",
+ "role_hint": "manufacturer (self-declared 'we manufacture'; ISO 9001:2015 claimed). No independent confirmation of own plant vs. trading of OEM-referenced spares — the site markets 'Komatsu/CAT/BEML/Volvo spare parts' by brand and model, which is also a trader pattern. Treat as manufacturer_trader until verified.",
+ "comment": "HS mapping: declared 848390 is a good fit for the driveline parts core (spider assembly, cross bearing, universal joint, yoke assembly = parts of transmission shafts/couplings, 8483.90), and 870840 is plausible only for gearbox-related items for the off-highway machines named. However the declared pair is incomplete and partly mis-aimed: (1) the flagship items — propeller/drive shafts, cardan shafts, output shafts, driveline couplings — are finished shafts/couplings under 8483.60, not parts under 8483.90; (2) a whole fastener line (wheel bolt, wheel nut, cap screw/12-point bolt, wheel washer, wheel stud) is missing from the declaration and belongs to 7318.15/7318.16/7318.22; (3) the 'Locomotive' line (parts of railway locomotives, ch. 86) is not covered by either declared code. Industry claimed as 'Металлургия и горнодобыча' is a misclassification: the company is an automotive/off-highway driveline component maker serving mining end-users, not a metals/mining producer — the mining reference is only the end-use sector of its customers. All product data is from the company's own website catalogue; no customs line was available to this researcher, so every product/HS line above is 'заявлено, не подтверждено'. Per project rule 3 this is not a rejection ground: company is retained, declared codes corrected/extended to 8483.60, 8483.90, 7318.15, 7318.16, 7318.22, with 8708.40 kept conditionally and ch. 86 flagged for the locomotive line. Legal entity name 'VELLAICHAMY CHANDRAMOHAN' and PAN/state not verified here (out of scope)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MVD INDIA",
+ "legal_name": "M.V.D. AUTO COMPONENTS PRIVATE LIMITED (as claimed in input; existence NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. The DuckDuckGo search tool returned a connection error ('searx: Connection refused') on both queries; Bing and Google returned only irrelevant generic results for the quoted legal name 'M.V.D. AUTO COMPONENTS PRIVATE LIMITED' and for 'MVD AUTO COMPONENTS PRIVATE LIMITED CIN GST' (results were about US motor-vehicle departments and the letter 'M'), i.e. no Indian registry hit surfaced. Direct fetches of registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403 Forbidden; instafinancials.com search returned HTTP 404; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are not publicly retrievable with the available tools - they are NOT null because the company was found to be non-existent. Per project rules the entity is NOT rejected: rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, and no such evidence was found either way. Role is recorded as 'unknown' (no registry record read; the claimed HS 870899 auto-components line is unverified and, per rules, HS mismatch is not a rejection ground). Revenue FY25/FY26 null - no audited accounts or official filings were accessible. State claimed in input was empty, so state_claimed is null. Recommended action: re-run with working search/registry access (MCA master data, GST public search) to confirm the exact legal name and CIN before any commercial use."
+}

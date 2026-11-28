@@ -1,0 +1,9 @@
+{
+ "name_input": "PTC DRIVELINES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing по запросам «PTC Drivelines» (в кавычках, с уточнениями Chandramohan / Coimbatore / Private Limited / site:linkedin.com / site:indiamart.com / site:zaubacorp.com) выдавал только нерелевантные результаты про американскую PTC Inc., PTC Therapeutics, Piedmont Technical College и т.п. — ни одной страницы, относящейся к индийской компании «PTC Drivelines», получить не удалось. Проверка по санкционным спискам: страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открыта, списки актуальны на 23.11.2026 (SDN) и 04.11.2026 (Non-SDN), но сам поиск по имени выполнить не удалось (интерфейс требует интерактивного запроса) — поэтому sanctions_hit = null, а НЕ «чисто». Аналогично не проверены UN/UK/EU/BIS Entity List. Судебные дела (eCourts, NCLT, High Court Madras/Coimbatore), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — данных нет, все поля null, ничего не выдумываю. Отклонять по этим основаниям нельзя (правило 2); статус — «данных нет, требуется повторный прогон при доступном поиске». Дополнительно: заявленное «legal_claimed: VELLAICHAMY CHANDRAMOHAN» — это, судя по формату, имя физлица (вероятно, директор/проприетор), а не название юрлица; это вне моего мандата (legal identity не проверяю), но стоит учесть при следующей проверке. Заявленный отраслевой ярлык «Металлургия и горнодобыча» при HS 848390/870840 (детали трансмиссии, КПП) выглядит сомнительным — тоже вне моего мандата."
+}

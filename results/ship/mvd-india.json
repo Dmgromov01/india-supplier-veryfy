@@ -1,0 +1,8 @@
+{
+ "name_input": "MVD INDIA",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'mvd-india' loaded but returned only a paywalled shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows actually visible, no date, destination, HS code or B/L number could be read. Volza (volza.com/p/mvd-india), Eximpedia (eximpedia.app/companies/mvd-india) and Trademo returned HTTP 403; ImportGenius returned a JavaScript challenge page. No export record was retrieved from any source.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. The web_search tool was unavailable for the whole session (searx connection refused), Bing returned only irrelevant results for the query \"M.V.D. Auto Components\" private limited India, and Google returned HTTP 429. No domestic supply record was seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных, ни внутренних записей получить не удалось, поэтому оба статуса 'unknown', а не 'none_found'. Выручка: null (не публична / не найдена). Объём экспорта: null. Юрлицо M.V.D. AUTO COMPONENTS PRIVATE LIMITED и HS 870899 не подтверждены и не опровергнуты — реестры (MCA) и каталоги по правилам проекта вне области проверки. Заявления сайта/каталога фактом не считаются. Требуется повторный прогон при доступном поиске или платном доступе к таможенным данным (ImportKey/Volza) для получения конкретной B/L записи с датой и направлением."
+}

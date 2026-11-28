@@ -1,0 +1,18 @@
+{
+ "name_input": "PTC DRIVELINES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Ни один реестровый источник не подтвердил существование юрлица с названием 'PTC Drivelines'. Проверка 23.11.2026: поисковый бэкенд (searx/DuckDuckGo) был недоступен (connection refused / timeout); Bing по запросам \"PTC Drivelines\", \"PTC Drivelines\" + Chandramohan, \"PTC Drivelines\" + Coimbatore/Chennai/Tamilnadu, \"PTC Drivelines\" + driveline shaft manufacturer выдал только нерелевантные результаты про PTC Inc. (США), PTC Therapeutics, PTC'26 и т.п. — ни одного совпадения по индийской компании. Агрегаторы реестров заблокировали доступ: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 404, tofler.in — HTTP 404, indiamart.com — HTTP 429, Google — HTTP 429. Итог: CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — все поля null, данные не выдумывались. ВАЖНО: 'VELLAICHAMY CHANDRAMOHAN' в поле legal_claimed — это имя физлица (вероятного проприетаря/партнёра), а не название юрлица; для proprietorship CIN не существует, а PAN/GSTIN такого проприетаря публично не подтверждён. Отклонять НЕЛЬЗЯ: отсутствие публичной записи в доступных источниках не равно доказательству несуществования (правило 3 — rejected только при подтверждённой ликвидации/банкротстве/отсутствии юрлица по официальному реестру MCA). Роль оставлена 'unknown' — заявленный профиль (848390/870840, детали приводных валов) указывает на возможного производителя автокомпонентов, но это не подтверждено. Требуется повторная проверка с доступом к MCA21 (портал company master data) и GST-порталу по имени проприетаря; также уточнить у заказчика точное юридическое название и штат."
+}
