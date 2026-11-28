@@ -1,0 +1,18 @@
+{
+ "name_input": "GLYPTIC",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The input gives only the bare trade name 'GLYPTIC' with no legal suffix (Pvt Ltd / LLP / Ltd), no CIN, no PAN, no GSTIN and no state, so there is no unique legal entity to look up. Tooling failed during this run: DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com returned HTTP 403; thecompanycheck.com and instafinancials.com search paths returned 404; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only unrelated commercial results (Philadelphia Eagles, Tommy Bahama, Charles Bridge) for all three query variants, i.e. no Indian corporate-registry hit for 'Glyptic'. Therefore legal_name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are not public/retrievable in this session - they are NOT null because the entity was shown to be absent. Per project rules, rejection requires positive proof that the entity does not exist, is struck off, liquidated or bankrupt; no such proof was obtained, so the company is NOT rejected. Role is recorded as 'unknown' (no evidence of manufacturing or trading activity was reviewed; product catalogues and customs records were out of scope for this role). Revenue FY25/FY26 null - no audited accounts or official filings located. HS 853110 (burglar/fire alarm apparatus) was not assessed and is not a rejection ground in any case. ACTION REQUIRED: re-run with the full legal name as on MCA (e.g. 'Glyptic Technologies Private Limited'), or supply CIN/GSTIN, and with working search access."
+}

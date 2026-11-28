@@ -1,0 +1,18 @@
+{
+ "name_input": "Adhiraj Sons",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не подтверждена. Входные данные противоречивы: в поле legal_claimed указано «RITU JAIN» (имя физлица), а не юридическое название, поэтому неясно, идёт ли речь о proprietorship/partnership «Adhiraj Sons» или об ином лице. Штат в заявке не указан. Все попытки получить первоисточники не удались: поисковый бэкенд (DuckDuckGo/searx) вернул Connection refused; zaubacorp.com, tofler.in, instafinancials.com, mca.gov.in — HTTP 403 Forbidden; gstinsearch.in — DNS failure; google.com — HTTP 429; bing.com отдал нерелевантную выдачу без единого релевантного сниппета по «Adhiraj Sons». Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус, ни выручка FY25/FY26 публично не подтверждены — все поля null, ничего не додумано. Роль определить невозможно (нет данных о производственных мощностях или торговой деятельности) — unknown. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица в рамках доступных инструментов не равно доказательству несуществования (правило 3). Требуется повторная проверка при восстановлении доступа к реестрам (MCA master data по CIN, GST-портал по GSTIN) либо уточнение от заказчика: полное юридическое название, штат, GSTIN или PAN."
+}

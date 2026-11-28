@@ -1,0 +1,18 @@
+{
+ "name_input": "Nikita Specialities Private limited",
+ "legal_name": "NIKITA SPECIALITIES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool was unavailable (searx connection refused) and all direct fetches of public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in returned HTTP 403, instafinancials.com returned HTTP 404, quickcompany.in search returned HTTP 404. Bing/Google/DuckDuckGo HTML endpoints returned either irrelevant results (TV-series 'Nikita') or HTTP 429/timeout, so no CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source. Per project rules nothing is invented: all registry fields are null and revenue is null (no audited accounts or official filings located). No basis for rejection exists either - the entity was neither found to be non-existent, struck off, liquidated nor bankrupt; the correct status is 'unverified / data not public in this session', not 'rejected'. Role left as 'unknown' because no MCA business-activity classification (manufacturer vs trader) could be read. Recommended follow-up: re-run with working search, then check MCA master data by CIN and the GST portal for the GSTIN and filing status."
+}

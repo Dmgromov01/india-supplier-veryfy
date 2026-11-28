@@ -1,0 +1,18 @@
+{
+ "name_input": "Saatvik Group",
+ "legal_name": "SAATVIK GREEN ENERGY LIMITED (per company website; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Company press release on saatvikgreen.com (May 2026) states 'crosses Rs 4,548 Cr FY26 revenue' - this is a company self-declaration, NOT an audited filing or MCA/BSE filing that could be opened; therefore recorded as null per rules. FY25 not found.",
+ "note": "Entity existence confirmed only via its own website (saatvikgreen.com), which describes Saatvik Green Energy Limited as a solar PV module manufacturer with 4.8 GW capacity in Ambala, Haryana, and states it is BSE/NSE listed. No rejection grounds found (no evidence of strike-off/liquidation/bankruptcy), but MCA status could not be verified. CIN, PAN, GSTIN, GST status, incorporation date and registered-office state could NOT be verified: zaubacorp.com, tofler.in, thecompanycheck.com, falconebiz.com and instafinancials.com all returned HTTP 403 or only generic pages, and the search backend (DuckDuckGo/searx) was down or returned irrelevant results. PAN holder type therefore null (4th character rule cannot be applied without the PAN). Role assessed as manufacturer from the company's own description of its own plant - not independently verified against MCA NIC/activity codes. IMPORTANT MISMATCH: declared HS 841391 (parts of pumps) and claimed industry 'metallurgy and mining' do not match the actual business (solar PV modules, inverters, EPC - would be HS 8541/8504/8502 range). Per project rules this is NOT a rejection ground: company stays in the database, HS code should be corrected to the factual one, verdict accepted_hs_corrected. Registry data must be re-checked when MCA/GST portals are reachable."
+}

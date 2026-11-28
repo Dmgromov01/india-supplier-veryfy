@@ -1,0 +1,18 @@
+{
+ "name_input": "SHIELD LUBRICANTS & SPECIALITIES PVT. LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первоисточник не удались: web_search вернул ошибку бэкенда (searx: connection refused), затем DuckDuckGo timeout; Bing по запросам в кавычках \"SHIELD LUBRICANTS & SPECIALITIES PRIVATE LIMITED\" и site:-ограничениям выдавал только нерелевантные результаты про американские компании Shield (shield.ai, shieldbloodtest.com и т.п.) — ни одного индийского реестрового профиля; zaubacorp.com, thecompanycheck.com и mca.gov.in (MCA Master Data) отдали HTTP 403, instafinancials — 404. Таким образом НИ ОДИН из требуемых атрибутов (точное юр. наименование, CIN, PAN и тип держателя по 4-му знаку, GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA, выручка FY25/FY26) не подтверждён публичным источником, поэтому все поля null, а не предположения. Заявленное наименование 'SHIELD LUBRICANTS & SPECIALITIES PRIVATE LIMITED' и связка с HS 271019 (нефтепродукты/смазочные масла) — только со слов заявителя, статус: заявлено, не подтверждено. Роль классифицирована как unknown, а не manufacturer/trader, поскольку род деятельности не подтверждён ни одним реестровым документом. ВАЖНО: отклонять НЕЛЬЗЯ — по правилам проекта rejected допустим только при доказанном отсутствии юрлица, ликвидации или банкротстве, а отсутствие данных из-за недоступности реестров доказательством не является. Требуется повторная проверка при доступном источнике: MCA Master Data по CIN/наименованию, GST-портал (поиск по GSTIN/наименованию налогоплательщика), профили zaubacorp/tofler/thecompanycheck, а также аудиторская отчётность для выручки FY25/FY26. HS-код 271019 при подтверждении деятельности подлежит сверке с фактическим, но основанием для отклонения не является."
+}

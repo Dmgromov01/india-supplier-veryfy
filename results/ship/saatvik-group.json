@@ -1,0 +1,8 @@
+{
+ "name_input": "Saatvik Group",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey pages for slugs 'saatvik-group' and 'saatvik-green-energy-ltd' both returned only the generic template text: \"Shipments available for SAATVIK GREEN ENERGY LTD, refreshed daily\" — no shipment row, no date, no destination, no HS code, no B/L number was rendered. Rows actually seen: 0. Slug 'saatvik-green-energy-limited' returned HTTP 525. volza/eximpedia/trademo returned HTTP 403; DuckDuckGo search backend was down (connection refused) and Bing returned irrelevant results.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender record or annual-report revenue split could be retrieved. Search tooling failed (searx connection refused; Bing results unrelated to the company; DuckDuckGo HTML endpoint timed out). Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни экспортных записей с датой/направлением/HS/B-L, ни подтверждённых внутренних поставок получить не удалось; это отсутствие данных, а не подтверждённое отсутствие отгрузок. Заявленный HS 841391 (части насосов) не соответствует профилю Saatvik Green Energy (производитель солнечных модулей, PV) — по правилу 3 HS не является основанием для отклонения, фактический код следует исправить после проверки. Выручка и объём экспорта: null (не публичны в доступных источниках, не выдумывались). Требуется повторная проверка при восстановлении поискового бэкенда и платного доступа к таможенным данным."
+}

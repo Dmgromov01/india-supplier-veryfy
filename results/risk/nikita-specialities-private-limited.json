@@ -1,0 +1,9 @@
+{
+ "name_input": "Nikita Specialities Private limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable source obtained. Tooling failed on every attempt: the web_search backend returned 'Connection refused' on all 3 queries; Google returned HTTP 429 (rate limit); DuckDuckGo HTML timed out twice; Bing returned only irrelevant results for the TV series 'Nikita' and did not honour the exact-phrase or added keywords, so no company page was ever surfaced; Zauba Corp, Tofler and InstaFinancials all returned HTTP 403. Consequently NOTHING can be asserted about this entity: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) is UNVERIFIED, not 'clear'; Indian court cases (party role/status) UNVERIFIED; regulator actions and negative news UNVERIFIED; credit rating UNVERIFIED; evidence of supplies to Russia/CIS UNVERIFIED. All fields set to null deliberately - no numbers, dates, case numbers or ratings were invented. Note also that the exact legal name 'NIKITA SPECIALITIES PRIVATE LIMITED' could not be confirmed to exist in any public registry, and no CIN/PAN was supplied in the input, so even the entity's existence is unconfirmed. Per project rules this is NOT a rejection ground and no negative inference should be drawn - the company must simply be re-queued for verification once search access is restored. Recommended next steps: query MCA master data by name, check OFAC/UN/EU/UK/BIS consolidated lists directly, and search eCourts/NCLT by CIN once the CIN is obtained."
+}
