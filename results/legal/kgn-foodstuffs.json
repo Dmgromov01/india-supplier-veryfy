@@ -1,0 +1,18 @@
+{
+ "name_input": "KGN FOODSTUFFS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The search backend (DuckDuckGo/searx) was unreachable ('Connection refused'), Google returned HTTP 429, and Bing returned only irrelevant Instagram results that ignored the query terms. Direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403 Forbidden. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from any official or public source, so all such fields are null rather than guessed. The input itself is only a trade name ('KGN FOODSTUFFS') with no legal suffix, no PAN and no state, so the exact legal entity (e.g. 'KGN Foodstuffs Private Limited' vs. a proprietorship/partnership) is unconfirmed. Note on HS: declared HS 284700 (hydrogen peroxide) is inconsistent with the name 'Foodstuffs'; per project rules this is NOT a rejection ground - the code should be corrected to the actual product line once the entity and its product range are confirmed. Role left as 'unknown' because no MCA/GST record was retrievable to distinguish manufacturer from trader. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research limitation, not a negative finding. Recommend re-running verification when search access is restored, or obtaining the GSTIN/CIN directly from the supplier."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KGN FOODSTUFFS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing по точным запросам \"KGN Foodstuffs\" / \"KGN Food Stuff\" + India / private limited / zauba / tofler / indiamart / sanctions / court / Russia выдавал только нерелевантные результаты (Instagram-аккаунты KGN Korea Global News, KGN Tools, KGN Architects и т.п.) — ни одного документа или записи именно об этой компании не найдено. Google вернул HTTP 429, DuckDuckGo HTML — таймаут. Форма OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступна, но это JS-интерфейс без GET-параметров, поэтому машинный запрос по имени выполнить не удалось; SDN-лист на странице датирован 23.11.2026, Non-SDN — 04.11.2026. По всем полям (sanctions_hit, court_cases, rating, news_risk, rf_supply) ставлю null: публичных данных не получено, выдумывать записи, номера дел или рейтинги нельзя. Отдельно отмечаю: заявленный профиль (HS 284700 — пероксид водорода, «нефтегаз и химия») не соответствует названию «Foodstuffs», что повышает риск того, что под именем скрывается иное юрлицо или трейдер без собственного раскрытия; это не основание для отклонения (правило 3), но требует ручной проверки по MCA-реестру и полному имени юрлица. Рекомендуется повторный прогон при восстановлении поиска и проверка по OFAC/UK/EU/BIS спискам вручную по точному юридическому имени."
+}
