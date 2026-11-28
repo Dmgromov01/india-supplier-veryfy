@@ -1,0 +1,18 @@
+{
+ "name_input": "Wiscon Pharmaceuticals pvt ltd",
+ "legal_name": "WISCON PHARMACEUTICALS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification NOT completed - no data could be retrieved. Tooling failure: web_search returned 'searx: Connection refused' on both queries; direct fetches of zaubacorp.com, thecompanycheck.com, falconebiz.com returned HTTP 403; quickcompany.in and instafinancials.com returned HTTP 404; Bing HTML search returned only unrelated cached results (Wisconsin/WisCon/Wiscon Products) for every query variant, so no registry page was reachable. Consequently CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue (FY25/FY26) are all null because they are not publicly confirmed by any source I could open - they are NOT null because the company is absent. No rejection is applied: absence of evidence in this session is not proof of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left 'unknown' (name suggests pharma manufacturing, but that is an inference from the name only, not a verified fact). Declared HS 294190/300490 is consistent with a pharma entity but is not a basis for any verdict here. ACTION REQUIRED: re-run this company when search/registry access is restored, checking MCA master data (CIN, status, incorporation date, registered office state) and a GST public profile (GSTIN + status), plus audited FY25/FY26 filings for revenue."
+}

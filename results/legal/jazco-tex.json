@@ -1,0 +1,18 @@
+{
+ "name_input": "Jazco tex",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public record found. Input is internally inconsistent: name 'Jazco tex' with legal_claimed 'IJAZ K B', which is a personal name (individual/proprietorship style), not a company name; declared HS 500720 (silk fabrics) contradicts industry_claimed 'food & FMCG'; no PAN, no state, no GSTIN supplied. Research attempts: DuckDuckGo search tool returned connection refused (searx backend down); Bing queries for \"Jazco Tex\", \"JAZCO TEX\" and \"Jazco tex proprietor Ijaz GSTIN\" returned only irrelevant results (no matching Indian entity); zaubacorp.com and instafinancials.com returned HTTP 403; tofler.in search returned 404. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or registered state could be confirmed, and no audited revenue figures are available. Per rules, absence of public data is NOT grounds for rejection - the entity is not shown to be non-existent, struck off, liquidated or bankrupt, so it is not rejected; it is recorded as unverified with all fields null. Recommended next step: obtain the GSTIN or PAN from the supplier directly (or a GST certificate / Udyam registration) and re-run verification; if it is a proprietorship of IJAZ K B, the PAN 4th-character holder type will be 'P' and there will be no CIN. Also flag the HS/industry mismatch for correction to the actual traded product."
+}

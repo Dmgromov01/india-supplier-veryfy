@@ -1,0 +1,18 @@
+{
+ "name_input": "KOTHARI METALLOYS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не подтверждена. Входные данные противоречивы: в поле legal_claimed указано физлицо «NIEL PRAVIN KOTHARI» (вероятно, проприетор/директор), а не название компании; заявленный HS 741110 (медные трубы) не соответствует заявленной отрасли «IT и электроника» — по правилам проекта это несоответствие HS не является основанием для отклонения, код подлежит исправлению на фактический. Поиск (DuckDuckGo) был недоступен (connection refused), Google вернул только редирект, Bing по запросам «Kothari Metalloys» + CIN/GST и по «NIEL PRAVIN KOTHARI» выдал лишь нерелевантные результаты (kotharijewelry.com, Kothari Jewellers, Kothari Group, Instagram-аккаунты) — ни одной записи реестра. Реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) вернули HTTP 403, портал MCA (mca.gov.in) — HTTP 403. Следовательно CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 не установлены — везде null, данные не выдумывались. Компания НЕ отклоняется: отсутствие подтверждения существования при недоступности реестров не равно доказанному отсутствию юрлица (правило 3). Требуется повторная проверка при доступе к MCA/ZAUBACORP и уточнение у заказчика точного юридического названия и GSTIN; до этого роль — unknown, следов поставок не проверялось (вне рамок данной роли)."
+}

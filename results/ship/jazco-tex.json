@@ -1,0 +1,8 @@
+{
+ "name_input": "Jazco tex",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'jazco-tex' and variant 'jazco-tex-ijaz-k-b' both returned only the empty template shell: \"Shipments available for JAZCO TEX IJAZ K B, refreshed daily\" — zero shipment rows, zero dates, zero destinations, zero B/L numbers rendered. Source counter: 2 ImportKey URLs attempted, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend (DuckDuckGo/searx) returned 'Connection refused' on both queries, so no domestic-supply page could be located or read. 0 domestic records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: данных нет. Фактичность отгрузок НЕ подтверждена ни по экспорту, ни по внутреннему рынку. ImportKey отдал только пустой шаблон без строк (2 варианта slug, 0 записей); volza, eximpedia, trademo — HTTP 403; importgenius — JS-челлендж; web_search недоступен (connection refused). Заявленный HS 500720 (шёлк) не проверен по таможенным записям, поэтому не исправлялся. Выручка и объём экспорта: null (не публичны / не найдены, не выдумывались). Юрлицо 'IJAZ K B' выглядит как имя физлица/проприетарщика, а не как компания с CIN — CIN/PAN не найдены, null. Трейдер не отклоняется по правилу 1; отклонение не применяется (нет данных о ликвидации/банкротстве). Требуется платный доступ к таможенным данным или GST-портал для окончательного вердикта."
+}

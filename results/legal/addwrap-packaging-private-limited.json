@@ -1,0 +1,18 @@
+{
+ "name_input": "ADDWRAP PACKAGING PRIVATE LIMITED",
+ "legal_name": "ADDWRAP PACKAGING PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все попытки получить первичные регистрационные данные не удались: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' или таймаут; Google отдал только редирект-заглушку; Bing по обоим запросам выдал полностью нерелевантную выдачу (мебель, стетоскопы) — то есть релевантных страниц по компании не найдено; реестровые агрегаторы Zauba Corp, TheCompanyCheck, Falconebiz вернули HTTP 403, Instafinancials и QuickCompany — HTTP 404 (страница компании не найдена), IndiaMART — HTTP 429. Ни CIN, ни PAN, ни GSTIN, ни дата инкорпорации, ни MCA-статус, ни выручка не подтверждены ни одним источником, поэтому все поля null, а не предположения. Юрлицо НЕ отклоняется: отсутствие подтверждения существования при недоступности реестров не равно доказательству несуществования (правило 3). Роль оставлена 'unknown' — заявленный характер деятельности (упаковка, HS 392190 — плиты/листы/плёнка из полимеров) не подтверждён ни одним документом; сайт/каталог фактом не считается (правило 5). Требуется повторный прогон при доступных реестрах: MCA-портал (mca.gov.in / MCA master data), GST-портал (gst.gov.in search taxpayer) и, при наличии, аудиторская отчётность в MCA-архиве за FY25/FY26. Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов получить не удалось, цифры не выдумывались (правило 4)."
+}
