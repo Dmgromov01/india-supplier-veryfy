@@ -1,0 +1,18 @@
+{
+ "name_input": "v r essentials",
+ "legal_name": "V R ESSENTIALS (as claimed; no registry record located)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public record found. Tooling failure: the web_search (DuckDuckGo/searx) backend returned 'Connection refused' on both attempts; Google returned HTTP 429; DuckDuckGo HTML timed out; Bing ignored the quoted phrase and returned only irrelevant results about the letter 'V'/BTS/VR headsets. Direct aggregator lookups failed: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, thecompanycheck.com returned only its JS landing page (search is client-side, no results rendered). Consequently NO CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state or MCA status could be confirmed from a public source, and all such fields are null rather than guessed. The name 'V R ESSENTIALS' is a generic trade-style name typical of a proprietorship/partnership; if it is a proprietorship it would have no CIN at all, only a GSTIN - but this is unverified. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Per project rules the company is NOT rejected: non-existence is not established, only non-verification. Role left as 'unknown' - the claimed industry 'IT and electronics' with declared HS 901580 (surveying/hydrographic/geophysical instruments - optical instruments, not IT/electronics) is internally inconsistent, but HS mismatch is not a rejection ground and the code should be corrected to the factual one once the actual product line is confirmed. Recommended next step: re-run with a working search backend, or obtain the GSTIN/PAN from the supplier directly and verify on the GST portal (gst.gov.in search by GSTIN) and MCA master data; also check Udyam registration for a proprietorship. Status: unverified, pending registry confirmation."
+}

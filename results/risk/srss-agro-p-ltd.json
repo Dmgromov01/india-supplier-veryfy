@@ -1,0 +1,9 @@
+{
+ "name_input": "SRSS AGRO P.LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Bing по запросам «SRSS AGRO», «SRSS AGRO P.LTD», «SRSS Agro Private Limited» + zaubacorp/tofler/thecompanycheck выдавал только нерелевантные результаты (аббревиатура SRSS: школы, SSRS, Santa Rosa Stainless Steel) — ни одной страницы, относящейся к индийской компании, не найдено. Zaubacorp вернул HTTP 403, Google — HTTP 429. Следовательно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены — null, а не «чисто»; судебные дела (eCourts/NCLT/HC) не проверены — null; рейтинги (CRISIL/ICRA/CARE/India Ratings) не найдены — null; негативных новостей не найдено, но это следствие отсутствия доступа к поиску, а не подтверждённое отсутствие; свидетельств поставок в РФ/СНГ не найдено — null. Никаких данных не выдумывал. Требуется повторный прогон при работающем поиске и доступе к реестрам (MCA, eCourts, OFAC/UN/EU/UK/BIS консолидированные списки). Отклонение по правилу 2/3 не предлагается: оснований (ликвидация/банкротство) не установлено, статус — не проверено."
+}

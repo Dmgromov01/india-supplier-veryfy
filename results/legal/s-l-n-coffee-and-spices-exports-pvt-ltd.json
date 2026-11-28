@@ -1,0 +1,18 @@
+{
+ "name_input": "S L N COFFEE AND SPICES EXPORTS PVT LTD",
+ "legal_name": "SLN COFFEE AND SPICES EXPORTS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT obtained. Tooling failure during this run: web_search (DuckDuckGo/searx) returned 'Connection refused' on all queries; DuckDuckGo HTML endpoint timed out; Google returned HTTP 429; Bing returned only irrelevant results (query tokens 'SLN' matched Visual Studio .sln files, SLN Bullion, Salina Airport) with no Indian company-registry hit; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug. Therefore CIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrieved, NOT confirmed absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role cannot be classified from registry data, so 'unknown' rather than a guess. Per project rules the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way — absence of a retrievable record in this failed search session is not evidence of non-existence. Recommended next step: re-run against MCA master data / a working registry mirror (e.g. MCA 'Check Company Name', Tofler, IndiaFilings) and a GST public search on the legal name to obtain CIN, PAN, GSTIN and state; also note the input gave no state and no PAN, so state_registered vs state_claimed cannot be compared. Separately (outside this role's scope): no evidence of actual shipments was assessed here; the declared HS 090111 (coffee, not roasted/decaffeinated) is consistent with the trade name but was not verified against any filing."
+}
