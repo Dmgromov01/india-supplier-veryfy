@@ -1,0 +1,18 @@
+{
+ "name_input": "New India Detergents Pvt Ltd",
+ "legal_name": "NEW INDIA DETERGENTS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — нет доступа к источникам. Все попытки получить данные не удались: web_search (DuckDuckGo/searx) вернул 'Connection refused' на обоих запросах; zaubacorp.com, thecompanycheck.com и mca.gov.in отдали HTTP 403 Forbidden; tofler.in — 404 (страница с таким слагом отсутствует); instafinancials.com — 404; google.com/search — 429 Too Many Requests; duckduckgo.com/html — timeout; bing.com вернул нерелевантную выдачу (новостные сайты вместо реестра). Ни один реестровый источник не был прочитан, поэтому CIN, PAN, GSTIN, дата регистрации, штат, статус MCA и выручка остаются null — цифры и идентификаторы не выдумывались. Роль (manufacturer/trader) не установлена: заявленный HS 340231/340239 (сульфатированные/сульфонированные органические ПАВ, анионные) относится к сырьевой химии для моющих средств, а не к готовой FMCG-продукции, что ставит под вопрос и заявленную отрасль 'Продукты питания и FMCG' — но это гипотеза, не подтверждённый факт. ВАЖНО: отклонять компанию НЕЛЬЗЯ — отсутствие данных не является основанием для rejected (правило 3: отклонение только при несуществующем/ликвидированном/банкротном юрлице, что здесь не установлено). Требуется повторная проверка при восстановлении доступа к MCA21 / Zauba / Tofler; до этого статус — 'заявлено, не подтверждено', следов поставок не проверялось (вне рамок роли)."
+}

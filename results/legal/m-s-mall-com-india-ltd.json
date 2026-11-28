@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S MALL COM.(INDIA) LTD",
+ "legal_name": "Mallcom (India) Limited",
+ "cin_llpin": "L18109WB1983PLC036125",
+ "pan": "AAACM (full PAN not published on any accessible public page; 4th character 'C' = company/body corporate)",
+ "pan_holder_type": "Company (body corporate) — inferred from 4th character 'C' of PAN; full 10-character PAN not publicly verifiable in this session",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1983 (exact date not confirmed from an official MCA page in this session; company site states 'incorporated in Kolkata in 1983')",
+ "state_registered": "West Bengal (Kolkata)",
+ "state_claimed": "",
+ "mca_status": "Active — listed public limited company, BSE: 539400, NSE: MALLCOM; no strike-off/liquidation/insolvency found",
+ "role": "manufacturer_trader",
+ "revenue_fy25_cr": 487.0,
+ "revenue_fy26_cr": 540.0,
+ "revenue_source": "Screener.in consolidated annual P&L (derived from audited filings): FY2024-25 Sales 487 Cr, FY2025-26 Sales 540 Cr; standalone FY25 471 Cr, FY26 521 Cr. https://www.screener.in/company/MALLCOM/consolidated/",
+ "note": "Legal entity confirmed: Mallcom (India) Limited, CIN L18109WB1983PLC036125 (public limited, West Bengal, incorporated 1983 per company's own 'About Us' timeline — https://www.mallcom.in/pages/about-us). Listed on BSE (539400) and NSE (MALLCOM) since 2015/2022 respectively. MCA status: active, no strike-off/liquidation/bankruptcy indicators found — not a rejection case. Role: manufacturer_trader — company describes itself as 'integrated manufacturer and distributor' of PPE with 13 manufacturing facilities (own site), and Screener business overview calls it a 'government-registered trading house' and largest integrated Indian PPE manufacturer. Revenue: FY25 487 Cr and FY26 540 Cr consolidated, from Screener's compilation of audited annual results (standalone 471 / 521 Cr); these are the audited-filing figures, not estimates. NOT VERIFIED / null: full PAN and GSTIN — ZaubaCorp, TheCompanyCheck and InstaFinancials returned HTTP 403 and search backend (searx) was down, so no public GST profile could be read; GST status therefore null. Registered-office state West Bengal is consistent with the Kolkata incorporation and corporate office; input state_claimed was empty. IMPORTANT MISMATCH (not a rejection ground per project rules): declared HS codes 420329 / 611610 / 620323 / 621132 are leather gloves, impregnated textile gloves, and textile garments — consistent with PPE (gloves, workwear), NOT with the claimed industry 'Продукты питания и FMCG' (food/FMCG). Industry classification in the input is wrong; the company is a PPE/safety-equipment manufacturer. HS codes should be treated as factual and the industry field corrected."
+}

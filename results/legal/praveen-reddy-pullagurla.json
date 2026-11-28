@@ -1,0 +1,18 @@
+{
+ "name_input": "PRAVEEN REDDY PULLAGURLA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Входное имя 'PRAVEEN REDDY PULLAGURLA' — это имя физического лица (личное имя + фамилия Pullagurla), а не название юридического лица. CIN/LLPIN у физического лица быть не может; возможен только статус sole proprietor / individual, у которого есть PAN и, при регистрации, GSTIN. Проверка не удалась по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Bing по точным запросам в кавычках ('\"PRAVEEN REDDY PULLAGURLA\"', '\"PULLAGURLA PRAVEEN REDDY\"') выдавал полностью нерелевантные результаты (Microsoft, NFL, famousbirthdays) — то есть совпадений не найдено; MCA Master Data (mca.gov.in) — HTTP 403, Zauba Corp — HTTP 403, Tofler — 404. Ни один публичный профиль (GST-портал, IndiaMART, Zauba, Tofler) не открылся, поэтому PAN, GSTIN, GST-статус, дата регистрации, штат и выручка остаются null — данных нет, не выдумывались. Роль определить невозможно: заявленные HS 870490/870590 (шасси с двигателем для тракторов/спецтехники) относятся к товарной номенклатуре, а не к виду деятельности, и по правилам проекта несоответствие HS не является основанием для отклонения. Вердикт: НЕ отклонён — отсутствие публичных данных не равно несуществованию юрлица; статус 'не подтверждено, требуется ручная проверка' (нужен PAN/GSTIN от поставщика или выписка MCA по связанной компании)."
+}

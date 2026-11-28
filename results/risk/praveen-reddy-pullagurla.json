@@ -1,0 +1,9 @@
+{
+ "name_input": "PRAVEEN REDDY PULLAGURLA",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. The subject is a personal name (appears to be a sole proprietor / individual), not a registered company name, so no corporate risk profile could be built. RESEARCH LIMITATION: the primary search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'); fallback Bing queries for the exact name and for the surname 'Pullagurla' returned only unrelated commercial results (no exact-name matches). The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no name lookup was actually executed against the SDN/Non-SDN lists. Therefore: sanctions_hit = null (NOT verified, not a clean result), court_cases = null (no eCourts/NJDG/SCI lookup performed), rating = null (individuals/proprietorships are not rated by CRISIL/ICRA/CARE/India Ratings), news_risk = null (no negative-news search completed), rf_supply = null (no evidence found either way; absence of evidence here is a tooling gap, not a finding). No sanctions, court, regulatory or news adverse findings were located, but this must NOT be read as a clearance. Recommended follow-up: (1) obtain the legal entity name / CIN / GSTIN / IEC for the proprietor, since a bare personal name is not resolvable in sanctions or court databases; (2) re-run OFAC SDN, UN, EU, UK OFSI and BIS Entity List name screens once connectivity is restored; (3) search eCourts and NJDG by party name and by the associated firm. Per project rule 2, any sanctions/court/criminal findings would in any case be recorded neutrally as 'есть сложности' and would not be grounds for rejection."
+}

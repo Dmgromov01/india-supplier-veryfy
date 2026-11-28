@@ -1,0 +1,18 @@
+{
+ "name_input": "UNITED MARINE SERVICES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The input gives no legal-entity form: 'UNITED MARINE SERVICES' with the person name 'MOHSINALI MUKHTARALI PANJWANI' looks like a proprietorship/firm trade name rather than a company, so a CIN/LLPIN may legitimately not exist; this could not be confirmed. Tooling failed: DuckDuckGo search backend returned 'Connection refused' on all queries; Bing returned only unrelated generic results (no hit for the exact proprietor name or the firm name); zaubacorp.com, instafinancials.com returned HTTP 403; tofler.in search URL returned 404; Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrieved, NOT verified as absent. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role left 'unknown' - the name suggests marine/shipping services rather than the claimed IT/electronics (HS 853400), but this is unverified. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way. Recommended action: re-run with working search/registry access (MCA master data, GST public search) before any verdict; declared HS 853400 is not a rejection ground in any case."
+}

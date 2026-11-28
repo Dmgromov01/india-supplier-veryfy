@@ -1,0 +1,18 @@
+{
+ "name_input": "JOFLO INDUSTRIES PRIVATE LIMITED; JOFLO INDUSTRIES PVT LTD; JOFLO INDUSTRIES PVT LTD; JOFLO INDUSTRIES PVT LTD",
+ "legal_name": "JOFLO INDUSTRIES PRIVATE LIMITED (as spelled in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Google returned HTTP 429; DuckDuckGo HTML endpoint timed out; Bing returned only irrelevant results (no Joflo pages). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — NOT because they are absent, but because no public source could be read in this session. No revenue figures found in audited accounts or official filings, so FY25/FY26 revenue = null (not estimated). Role left as 'unknown': the input gives no evidence of manufacturing vs trading, and product catalogues/IndiaMART were out of scope per instructions. Per project rules the company is NOT rejected — non-existence, strike-off, liquidation or bankruptcy was not established; the entity is retained pending re-verification. Declared HS 842119 (centrifuges/centrifugal machinery) is unverified and, per rule 3, is not a rejection ground in any case. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored."
+}

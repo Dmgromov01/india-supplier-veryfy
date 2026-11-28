@@ -1,0 +1,8 @@
+{
+ "name_input": "INDI RUGS PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey company page for slug 'indi-rugs-pvt-ltd' exists but contains no shipment rows in the free view: \"Shipments available for INDI RUGS PVT LTD, refreshed daily\" — a paywall placeholder, not a record. No bill-of-lading number, date, destination or HS code was visible. Source counter: 1 company page found (importkey.com/countries/india/indi-rugs-pvt-ltd); rows actually seen: 0. Slug variant 'indi-rugs-private-limited' returned HTTP 525.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. GST turnover band, GeM/CPPP tender records and annual-report splits could not be checked: web_search backend returned 'Connection refused' on both attempts, and zaubacorp.com, eximpedia.app, trademo.com and volza.com all returned HTTP 403. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, статус по обоим пунктам 'unknown', а не 'confirmed'. Причина — техническая: поисковый бэкенд недоступен (Connection refused), платные трейд-данные (ImportKey, Volza, Eximpedia, Trademo) и реестры (ZaubaCorp) закрыты 403/525. Заявленный HS 570299/570500 (ковры и текстильные напольные покрытия) не соответствует указанной отрасли «Продукты питания и FMCG» — по правилу 3 это НЕ основание для отклонения; компания сохраняется, фактический код следует зафиксировать как ковровый (5702/5705) после проверки. Выручка и объём экспорта: null (не публичны / не получены), не выдумывались. Рекомендуется повторный прогон при восстановлении поиска."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "KREATIVE ORGANICS (P) LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH INCOMPLETE — no verifiable data obtained. Tooling failure: the DuckDuckGo/searx search backend returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML and lite endpoints timed out; Bing returned only generic 'Kreative'-brand noise (kreative.com, IKEA Kreativ, etc.) and ignored quoted-phrase and site: operators, so no India-specific page for 'Kreative Organics Private Limited' was ever surfaced. The OFAC Sanctions List Search page was reachable but is a JS form that cannot be queried via plain HTTP GET, so no actual SDN/consolidated-list screen was performed — sanctions_hit is therefore null (NOT screened), not a clean result. No Indian court records (e.courts.gov.in, NCLT, Indian Kanoon), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator actions and no Russia/CIS shipment evidence could be retrieved. Per project rules I have not invented any figures, case numbers, ratings or shipment records. All fields are null because the data is not public/not retrieved, not because the company is clean. RECOMMENDATION: re-run this company when the search backend is restored, and screen the exact legal name plus variants ('Kreative Organics Pvt Ltd', 'Kreative Organic') against OFAC SDN, UN, EU, UK OFSI and BIS Entity List, then Indian Kanoon / e-courts / NCLT by CIN, and CRISIL/ICRA/CARE for a rating. Note the declared HS codes 293339/293359/294200 are heterocyclic/other organic compounds — a category with known dual-use and Russia/CIS re-export sensitivity, so the Russia/CIS supply check should be treated as a priority once search works. No rejection grounds identified, but equally no clearance can be asserted on this evidence."
+}

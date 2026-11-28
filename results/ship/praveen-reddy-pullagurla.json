@@ -1,0 +1,8 @@
+{
+ "name_input": "PRAVEEN REDDY PULLAGURLA",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/praveen-reddy-pullagurla (and slug variant /pullagurla-praveen-reddy) returned only the generic template text: \"Shipments available for PRAVEEN REDDY PULLAGURLA, refreshed daily\" — zero shipment rows rendered, no date, no destination, no HS code, no bill-of-lading number. Source counter: 2 importkey pages opened, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search backend (DuckDuckGo/searx) returned \"urlopen error [Errno 111] Connection refused\" on both queries, so no domestic-supply page was reachable; eximpedia, trademo, volza and importgenius returned HTTP 403 / JavaScript challenge. 0 domestic evidence rows seen.",
+ "note": "The name is an individual person's name, not a registered company name, so no CIN/PAN/legal entity could be matched and no registry lookup was in scope. Declared HS 870490/870590 (special-purpose motor vehicles / chassis with engine) is unverified — no customs line was visible to confirm or correct it. No export or domestic shipment record was found, but this is an access limitation, not proof of absence: all four trade-data platforms blocked free views and the search engine was down, so the honest verdict is 'unknown', not 'none_found'. No revenue or export-volume figure is public here — both left null rather than estimated. Recommend re-running once search access is restored and, if this is a proprietorship, obtaining the GSTIN to query GST turnover directly."
+}

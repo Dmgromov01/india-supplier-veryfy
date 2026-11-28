@@ -1,0 +1,9 @@
+{
+ "name_input": "TAALIN MACHINERY & ROBOTICS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING CONFIRMED, ALL FIELDS null. Research was effectively blocked: the DuckDuckGo/searx search tool returned 'Connection refused' on both queries; Google returned HTTP 429; DuckDuckGo HTML timed out; Zaubacorp returned HTTP 403; Tofler returned 404 for the guessed slug. Bing queries for the exact quoted name \"TAALIN MACHINERY & ROBOTICS\" and for \"Taalin\" + machinery/robotics/India/CIN returned only irrelevant results (FlyerTalk, Sunlight Financial) — i.e. no indexed page matched the name, which is itself a weak negative signal but NOT proof of non-existence. OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but is a JS form that cannot be queried via plain HTTP GET, so no name-level screening was actually performed — sanctions_hit is null, not 'clear'. No Indian court records (eCourts/NJDG), no regulator actions, no credit rating (CRISIL/ICRA/CARE/India Ratings) and no Russia/CIS shipment or customs evidence could be retrieved or verified. Per project rules, no numbers, CINs, PANs or shipment records are invented; absence of public data is recorded as null. RECOMMENDATION: do not treat this as a clean or a rejected profile — it is UNVERIFIED. Re-run screening when the search backend is restored, and specifically check: MCA master data (existence/status), OFAC/UN/EU/UK/BIS lists by exact name, eCourts by party name, and customs/import-export records for RF/CIS direction. Note also that the claimed name could not be matched to any public web presence at all, which warrants a separate legal-identity check by the team responsible for that field (outside this role's scope)."
+}
