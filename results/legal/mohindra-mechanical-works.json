@@ -1,0 +1,18 @@
+{
+ "name_input": "MOHINDRA MECHANICAL WORKS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), Google/Bing returned no relevant hits, and direct registry/profile sources were blocked or unavailable: zaubacorp.com returned HTTP 403, thecompanycheck.com search returned 404, quickcompany.in returned 404, gstinsearch.in failed DNS resolution, mca.gov.in returned HTTP 403. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be verified from a public source, and all such fields are left null rather than guessed. Two structural observations from the input itself, flagged as unverified: (1) the input gives 'MOHINDER SINGH BAL' as the claimed legal entity, but that is a personal name, not a company name - 'MOHINDRA MECHANICAL WORKS' is most likely a proprietorship or partnership trading style, which would mean no CIN exists at all (only GSTIN/PAN would apply); this cannot be confirmed without a GST or Udyam lookup. (2) The declared HS code '844316' is a 6-digit code for machinery for working rubber or plastics (HS 8443.16), which does not match the claimed industry 'IT и электроника' - per project rules this is NOT a rejection ground; the code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected once the actual product line is confirmed. Role is set to 'unknown' because no evidence of manufacturing vs trading was obtainable. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research gap, not a negative finding. Recommended next step: manual GSTIN lookup on the GST portal or a paid registry aggregator using the proprietor name 'Mohinder Singh Bal' plus likely state (Punjab/Ludhiana is the common locus for 'Mechanical Works' firms of this name), and an Udyam registration check."
+}

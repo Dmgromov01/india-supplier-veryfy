@@ -1,0 +1,38 @@
+{
+ "name_input": "M/s UNIQUE FRAGRANCES; Unique Fragrances",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Calcutta High Court",
+   "case": "CC/112/2001 — Kuber Tobacco Products Pvt. Ltd. vs M/s. Unique Fragrance (contempt jurisdiction)",
+   "role": "respondent/contemnor (as named in cause title)",
+   "status": "order dated 04.07.2023 by Justice Rajarshi Bharadwaj; outcome not readable in snippet",
+   "source": "https://indiankanoon.org/search/?formInput=%22Unique%20Fragrance%22%20Kuber%20Tobacco"
+  },
+  {
+   "court": "Delhi State Consumer Disputes Redressal Commission",
+   "case": "CC-176/2005 — M/s Unique Fragrances (KD-197, Pitampura, Delhi-110088) vs Oriental Insurance Co. Ltd",
+   "role": "complainant",
+   "status": "decided 15.02.2006",
+   "source": "https://indiankanoon.org/search/?formInput=%22Unique%20Fragrances%22"
+  },
+  {
+   "court": "Delhi State Consumer Disputes Redressal Commission",
+   "case": "CC 07/80 — M/s Unique Fragrances vs Oriental Insurance Company Limited",
+   "role": "complainant",
+   "status": "decided 09.05.2007",
+   "source": "https://indiankanoon.org/search/?formInput=%22Unique%20Fragrances%22"
+  },
+  {
+   "court": "Delhi State Consumer Disputes Redressal Commission",
+   "case": "Oriental Insurance Company Ltd. vs Unique Fragrances (appeal against order)",
+   "role": "respondent",
+   "status": "decided 07.05.2010",
+   "source": "https://indiankanoon.org/search/?formInput=%22Unique%20Fragrances%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Sanctions: no hit found, but this is NOT a verified negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JS form that returned no query results via plain fetch, and the DuckDuckGo search backend was down (connection refused) for the whole session, so UN/EU/UK/BIS lists could not be screened. Treat sanctions_hit as unverified, not clean. Court cases: four Indian Kanoon records found under the name 'Unique Fragrance(s)'; identity between the Calcutta HC contempt respondent and the Delhi Pitampura consumer-forum complainant is NOT established — the name is generic and no CIN/PAN/address match was possible, so these may be different entities. Per project rules these court matters are not rejection grounds and are noted neutrally only. Credit rating: no public rating found (null). Negative news: none found, but search coverage was effectively zero (null, not 'clean'). RF/CIS supply: no evidence found either way (null) — no customs, B/L or trade-data source was reachable. No legal identity, HS code or shipment-volume research performed per role scope."
+}

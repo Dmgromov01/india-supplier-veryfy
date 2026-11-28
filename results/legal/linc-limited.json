@@ -1,0 +1,18 @@
+{
+ "name_input": "LINC LIMITED",
+ "legal_name": "Linc Limited (formerly Linc Pen & Plastics Limited)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "West Bengal (Kolkata) — per BSE/NSE listing profile; not confirmed from MCA extract",
+ "state_claimed": null,
+ "mca_status": "Active (listed on BSE: 531241 and NSE: LINC; no strike-off/liquidation/bankruptcy indication found)",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 543.0,
+ "revenue_fy26_cr": 543.0,
+ "revenue_source": "Screener.in consolidated P&L (compiled from audited annual results filed with exchanges): Mar 2025 sales Rs 543 cr; Mar 2026 sales Rs 543 cr. Not read from the audited PDF itself — treat as filing-derived, verify against annual report.",
+ "note": "Registry identifiers NOT verified: CIN, PAN, GSTIN, incorporation date and GST status could not be retrieved — searx web_search was down (connection refused) and all registry aggregators (ZaubaCorp, TheCompanyCheck, Moneycontrol) returned HTTP 403; BSE page returned only a shell. Do NOT use any CIN/PAN/GSTIN for this company until confirmed from MCA/GST portal. What is confirmed: the entity exists and is publicly listed (BSE 531241, NSE LINC), website lincpen.com, described as India's oldest/largest writing-instrument manufacturer with 3 plants and ~40 export countries (Screener company profile, sourced to company filings). Role = manufacturer (own plants), not a trader. IMPORTANT HS MISMATCH: declared HS 960810 (ball-point pens) matches the actual product line (pens/writing instruments), but the input industry_claimed 'Продукты питания и FMCG' is wrong — the company is stationery/writing instruments (FMCG-adjacent household products segment only). Per project rules this is not a rejection ground: company retained, industry/HS description corrected to writing instruments & stationery. Revenue figures are consolidated and include subsidiary Linc Pen & Plastics' export business; FY26 figure equals FY25 to the reported precision (flat year, +1% TTM)."
+}

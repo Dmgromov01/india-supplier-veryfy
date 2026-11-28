@@ -1,0 +1,18 @@
+{
+ "name_input": "CDEK India Private Limited",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, вердикт не выносится (не rejected). Входные данные внутренне противоречивы: name_input = 'CDEK India Private Limited' (формат Pvt Ltd), а legal_claimed = 'LATTE CERAMICHE LLP' (формат LLP) — это два разных типа юрлица, совпадение невозможно; вероятна ошибка маппинга строки в базе. Ни одно из двух названий подтвердить не удалось: web_search (DuckDuckGo/searx) вернул 'Connection refused', затем Bing/Google отдали нерелевантную выдачу (игнорируют кавычки, по 'CDEK India' — мусорные результаты), а реестровые агрегаторы (zaubacorp.com, thecompanycheck.com, instafinancials.com) и mca.gov.in отдают HTTP 403 Forbidden при прямом запросе. Следовательно CIN/LLPIN, PAN (и 4-й символ — тип держателя), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус, роль и выручка FY25/FY26 — все null, публично не получены в рамках этой сессии. Требуется повторный прогон при работающем поиске либо ручная сверка в MCA Master Data / GST-портале по точному названию; до этого компанию нельзя ни принять, ни отклонить. Оснований для rejected нет: несуществование/страйк-офф/банкротство не установлены."
+}

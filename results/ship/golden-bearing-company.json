@@ -1,0 +1,8 @@
+{
+ "name_input": "Golden Bearing Company",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page for slug 'golden-bearing-company' renders only the generic template: \"Shipments available for GOLDEN BEARING COMPANY, refreshed daily\" — no dated record, no destination, no HS code, no bill-of-lading number. Rows actually seen: 0. Second slug 'golden-bearing-co' identical (0 rows). volza/eximpedia/trademo returned HTTP 403, importgenius returned a JS challenge, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record could be retrieved. DuckDuckGo search backend was down for the whole session (\"searx: <urlopen error [Errno 111] Connection refused>\"), so no domestic-supply source could be located. Value recorded as null, not estimated.",
+ "note": "Следов поставок не найдено: ни одной экспортной отгрузки с датой, направлением, HS-кодом или номером B/L не видно; внутренние поставки не подтверждены ничем. Заявление о HS 848320 (подшипники скольжения) и отрасли «Металлургия и горнодобыча» остаётся статусом 'заявлено, не подтверждено' — каталоги и сайты фактом не считаются. Ограничение метода: поисковый бэкенд был недоступен, а платные трейд-базы (volza, eximpedia, trademo, importgenius) отдали 403/JS-challenge, поэтому отсутствие записей здесь означает 'не найдено в доступных источниках', а не доказанное отсутствие отгрузок. Выручка и объём экспорта: null (не публичны / не найдены). Юрлицо не проверялось по MCA — вне рамок роли; оснований для rejected нет."
+}

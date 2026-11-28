@@ -1,0 +1,18 @@
+{
+ "name_input": "Rudra Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного реквизита. Входные данные противоречивы: 'Rudra Enterprises' — типовое торговое имя, а в поле legal_claimed указано имя физлица (ABHISHEK KUMAR PASWAN), что указывает скорее на ИП/проприеторшип, а не на компанию (у ИП нет CIN, только GSTIN и PAN физлица). Проверка не удалась по техническим причинам: DuckDuckGo-поиск недоступен (connection refused), Bing по запросам с названием и именем владельца выдаёт нерелевантную выдачу (сериал 'Rudra'), zaubacorp/instafinancials/mca.gov.in отдают 403, tofler — 404, IndiaMART — 429. Ни CIN, ни GSTIN, ни PAN, ни даты регистрации, ни штата, ни выручки публично подтвердить не удалось — все поля null, ничего не выдумано. Отклонять НЕЛЬЗЯ: отсутствие данных не равно несуществованию юрлица (правило 3). Требуется от поставщика: GSTIN (15 знаков) либо PAN + свидетельство о регистрации, чтобы однозначно идентифицировать субъект и проверить статус GST и штат регистрации. HS 731814 (винты/саморезы) с профилем 'Строительство и DIY' не противоречит, но роль (manufacturer/trader) не установлена."
+}
