@@ -1,0 +1,18 @@
+{
+ "name_input": "AFK Global Enterprises",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один публичный реестровый источник не удалось прочитать. DuckDuckGo-бэкенд web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; Bing по запросам «\"AFK Global Enterprises\" GSTIN / India company registration / proprietorship OR partnership OR private limited» выдавал только нерелевантные результаты про сленг «AFK» — ни одного реестрового попадания. Прямые запросы к реестрам: zaubacorp.com — HTTP 403 Forbidden; tofler.in — 404 на странице поиска; mca.gov.in (Master Data) — HTTP 403 Forbidden. Следовательно CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, MCA-статус и выручка за FY25/FY26 не подтверждены и оставлены null — цифры не выдумывались. Название «AFK Global Enterprises» по форме не содержит суффикса Private Limited/LLP, что типично для единоличного предприятия (proprietorship) или партнёрства — у таких форм нет CIN и нет MCA-записи, только GSTIN; но это лишь предположение по названию, а не установленный факт. Роль (manufacturer/trader) не определена — null/unknown. Заявленный в инпуте HS 300490 (фармпрепараты) не соответствует заявленной отрасли «Нефтегаз и химия» — это внутреннее противоречие входных данных, требует уточнения у заказчика; по правилам проекта несоответствие HS не является основанием для отклонения. ВАЖНО: компания НЕ отклонена — оснований для rejected (несуществование, ликвидация, банкротство) не установлено, а отсутствие данных о регистрации не равно отсутствию юрлица. Требуется повторная проверка при восстановлении доступа к реестрам (MCA Master Data, GST-портал по названию, KnowYourGST/Tofler) либо запрос GSTIN/адреса у поставщика напрямую."
+}

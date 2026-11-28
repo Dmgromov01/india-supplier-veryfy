@@ -1,0 +1,18 @@
+{
+ "name_input": "Alfa Impex Tanning Industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input gives 'SARFARAZ AKHTAR' as the legal entity, which is a personal name, not a company name — this strongly suggests a sole proprietorship / individual trading name rather than a company, in which case there would be no CIN/LLPIN and no MCA record at all (only a GSTIN and PAN would exist). However, this could NOT be confirmed: the web_search tool was down (connection refused) for the whole session, DuckDuckGo HTML and Zaubacorp/Instafinancials/Tofler returned HTTP 403 or 404, and Bing returned only unrelated generic 'Alfa' results (Alfa Insurance, Alfa Romeo) with no match for the exact string 'Alfa Impex Tanning Industries' or 'Alfa Impex Tanning'. Therefore no CIN, PAN, GSTIN, incorporation date, state or revenue figure is asserted here — all are null because nothing was found in a public source, not because the entity was checked and found absent. Per project rules, rejection is NOT applied: non-existence was not established, only non-verifiability. Note also that the declared HS 340510 (polishes/creams for footwear or leather) is inconsistent with the claimed industry 'food and FMCG'; per the 23.11.2026 rule this is not a rejection ground — the company stays in the base and the HS code should be corrected to the factual one once the actual product line is confirmed. Recommended next step: manual lookup of the GSTIN/PAN on the GST portal and, if a company exists, on MCA, using the proprietor's name and the tanning-industry location (likely West Bengal, Uttar Pradesh/Kanpur or Tamil Nadu leather clusters) — none of which could be established from public sources in this session."
+}

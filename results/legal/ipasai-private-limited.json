@@ -1,0 +1,18 @@
+{
+ "name_input": "IPASAI PRIVATE LIMITED",
+ "legal_name": "IPASAI PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один источник не удалось прочитать. web_search (DuckDuckGo/searx) вернул ошибку соединения, затем нерелевантные результаты; Bing по запросам \"IPASAI PRIVATE LIMITED\" CIN/GST выдал посторонние результаты (NHL, character.ai). Прямые обращения к реестровым агрегаторам заблокированы или пусты: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, instafinancials.com — HTTP 404, tofler.in — HTTP 404 (страница компании не найдена), mca.gov.in Master Data — HTTP 403. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 не установлены — везде null, значения не выдумывались. Юрлицо НЕ отклоняется: отсутствие подтверждения существования из-за недоступности источников не равно доказанному отсутствию/ликвидации/банкротству (правило 3). Роль — unknown (нет данных о деятельности). Заявленный штат в инпуте не указан, поэтому сопоставление state_registered vs state_claimed невозможно. Требуется повторная проверка при доступном MCA/GST-портале или платном реестре (Tofler/Zauba) — по названию возможны варианты написания (Ipasai / IPASAI / Ipasai Foods и т.п.), что нужно уточнить у поставщика вместе с PAN и GSTIN."
+}

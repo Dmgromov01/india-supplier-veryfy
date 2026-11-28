@@ -1,0 +1,18 @@
+{
+ "name_input": "VN AQUATECH",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Инструменты поиска в этой сессии нерабочие: web_search (searx) вернул 'Connection refused'; DuckDuckGo — timeout; Bing по запросам '\"VN AQUATECH\" company CIN GST' и '\"VN AQUATECH\" site:zaubacorp.com OR thecompanycheck OR tofler' выдал нерелевантную выдачу (VN video editor, Vietnam), т.е. совпадений по названию не найдено. Агрегаторы реестров отдали 403 Forbidden: zaubacorp.com, thecompanycheck.com, instafinancials.com; IndiaMART — 429 Too Many Requests. MCA-портал (mca.gov.in) и GST-портал недоступны через доступный инструментарий. Итог: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, дата регистрации, штат регистрации, статус MCA и выручка FY25/FY26 — null, публично не подтверждено в рамках этой проверки. Роль определена как unknown: заявленный HS 842121 (оборудование для фильтрации/очистки воды) и отрасль 'нефтегаз и химия' — это заявление из входных данных, не подтверждённое ни реестром, ни профилем. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3 — отклонять только при несуществовании/ликвидации/банкротстве, что не установлено). Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или к zaubacorp/thecompanycheck."
+}
