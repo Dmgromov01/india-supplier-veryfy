@@ -1,0 +1,8 @@
+{
+ "name_input": "Konark Infracore",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/konark-infracore and .../konark-infra-core both returned only the generic page shell: 'Shipments available for KONARK INFRACORE, refreshed daily' — a template string, not a record. Rows actually seen: 0 shipment records (no date, no destination, no HS code, no B/L number). volza.com/p/konark-infracore/ and eximpedia.app/companies/konark-infracore both returned HTTP 403 Forbidden, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Search engines were unusable for this query: web_search returned 'no results (searx: connection refused)'; bing.com/search?q=\"Konark Infracore\" returned only unrelated Yahoo Mail results; google.com/search returned a redirect interstitial; duckduckgo.com/html timed out. Rows actually seen: 0.",
+ "note": "No shipment evidence found in either direction, but this is a tooling failure, not a negative finding — the free trade-data views were blocked (403) or empty templates, and search was down. Per Rule 5 this must NOT be softened into 'условно принят': следов поставок не найдено ни по экспорту, ни по внутреннему рынку — на доступных источниках. Declared HS 842911 (track-type bulldozers/angledozers) is unverified; no HS correction is proposed because no actual shipment record was seen. Revenue and export volume: null (not public in any source reached). No CIN/PAN claimed and none found. Recommend re-run when volza/eximpedia/importgenius are reachable or a paid importkey view is available."
+}

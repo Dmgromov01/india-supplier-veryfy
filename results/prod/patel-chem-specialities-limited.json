@@ -1,0 +1,20 @@
+{
+ "name_input": "PATEL CHEM SPECIALITIES LIMITED",
+ "declared_hs": "350510",
+ "actual_hs_list": [
+  "39123100 (Sodium CMC / Carboxymethyl Cellulose Sodium — Rheollose®)",
+  "39123100 (Croscarmellose Sodium — Disolwell®; cross-linked CMC sodium)",
+  "39123100 (Calcium CMC / Carmellose Calcium — Swellcal®)",
+  "35051000 (Sodium Starch Glycolate — BlowTab®; carboxymethyl ether of starch)",
+  "39129090 (Microcrystalline Cellulose — Hindcel®)",
+  "29157090 (Magnesium Stearate — PharLub™)",
+  "35051000 (Pregelatinized Starch — AmyloTab™ C)",
+  "29154010 / 29154000 (Sodium Monochloroacetate — 'Sodium chloro Acetate')",
+  "39129090 (Cellulose Powder)",
+  "35051000 (Carboxy Methyl Starch)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт patelchem.com (раздел 'Our Products') перечисляет 8 товарных линеек: Rheollose® (Carboxymethyl Cellulose Sodium, CMC), Disolwell® (Croscarmellose Sodium), BlowTab® (Sodium Starch Glycolate), Swellcal® (Calcium CMC / Carmellose Calcium), Hindcel® (Microcrystalline Cellulose), PharLub™ (Magnesium Stearate), AmyloTab™ C (Pregelatinized Starch), Sodium chloro Acetate (Sodium Monochloroacetate). В тексте 'About' дополнительно указаны Cellulose Powder и Carboxy Methyl Starch. Все — фармацевтические эксципиенты (GMP/ISO, IP/BP/EP/USP-NF грейды) плюс одна базовая спецхимия (Sodium Monochloroacetate, UN 2659, класс 6.1).",
+ "role_hint": "manufacturer (сайт заявляет собственное производство: 'In House Production', GMP & ISO Certified, FDA Approved Manufacturer-Exporter). Признаков трейдера в товарной линейке не выявлено; брендированные торговые марки (Rheollose®, Disolwell®, BlowTab®, Swellcal®, Hindcel®, PharLub™, AmyloTab™) указывают на собственные рецептуры.",
+ "comment": "Заявленный код 350510 (декстрины и прочие модифицированные крахмалы) покрывает только часть ассортимента: Sodium Starch Glycolate (BlowTab®), Pregelatinized Starch (AmyloTab™ C) и Carboxy Methyl Starch — это корректное попадание в 3505. Однако основной и, судя по порядку изложения на сайте, профильный блок — целлюлозные эфиры (CMC Sodium, Croscarmellose Sodium, Calcium CMC, MCC, Cellulose Powder), которые классифицируются в 3912 (391231 — CMC и её соли; 391290 — прочие целлюлозы и её химические производные), а не в 3505. Magnesium Stearate — 2915.70 (соли и эфиры стеариновой кислоты). Sodium Monochloroacetate — 2915.40. Итог: частичное совпадение (partial) — декларация отражает лишь крахмальную часть линейки и полностью упускает целлюлозные эфиры, которые составляют ядро продуктового портфеля. Отраслевая метка заявителя 'Продукты питания и FMCG' не соответствует действительности: компания позиционируется как производитель фармацевтических эксципиентов и спецхимии (fine chemicals / pharma excipients), пищевое применение упомянуто лишь как вторичное для MCC (антислеживающий агент). Рекомендация по правилу 3: компанию сохранить, HS-код исправить на фактический набор (391231 как основной + 350510, 391290, 291570, 291540), вердикт accepted_hs_corrected. Все перечисленные позиции — заявлено на сайте, не подтверждено таможенными записями (в рамках данной роли объёмы и отгрузки не проверялись)."
+}

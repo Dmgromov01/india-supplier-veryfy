@@ -1,0 +1,18 @@
+{
+ "name_input": "SAHARA INDUSTRY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on both queries, and every direct registry source attempted was blocked or empty: zaubacorp.com company search -> HTTP 403; thecompanycheck.com search -> HTTP 404; instafinancials.com -> HTTP 403; mca.gov.in -> HTTP 403; gstsearch.in -> HTTP 404; duckduckgo html/lite endpoints -> timeout; google.com/search -> redirect/consent page only. Therefore no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source. 'SAHARA INDUSTRY' is a generic trade name; multiple unrelated Indian entities and proprietorships use similar names, so no specific legal entity can be matched to this input without a CIN/GSTIN/PAN or address. Revenue FY25 and FY26 are null: no audited accounts or official filings were accessible. Role recorded as 'unknown' - the declared HS 842199 (parts of filtering/purifying machinery) and the claimed industry 'oil & gas and chemicals' are unverified and are not evidence of manufacturing. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy could not be established either way - the record is simply unverified. Recommended next step: re-run with a working search backend, or supply the GSTIN/CIN or registered address so the entity can be pinned down."
+}

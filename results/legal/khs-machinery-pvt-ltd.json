@@ -1,0 +1,18 @@
+{
+ "name_input": "KHS MACHINERY PVT LTD",
+ "legal_name": "KHS Machinery Private Limited (as claimed; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'Connection refused'); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; instafinancials.com returned only its generic landing page; Bing returned only generic KHS Group (German filling/packaging group, khs.com) results with no Indian registry hit for 'KHS Machinery Private Limited'. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and audited revenue FY25/FY26 are all null - NOT verified, not invented. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the absence of data is a tooling limitation, not a negative finding. Role left 'unknown' (no registry evidence of manufacturing vs trading activity). Declared HS 842290 (parts of machinery for filling/closing bottles etc.) is consistent with the KHS Group's filling-and-packaging line of business, but HS consistency is not a rejection ground per project rules. Recommended next step: re-run against MCA master data / GST portal / a paid registry API when the search backend is restored, and confirm whether the Indian entity is a subsidiary of KHS GmbH (Dortmund) or an unrelated namesake."
+}

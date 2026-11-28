@@ -1,0 +1,8 @@
+{
+ "name_input": "RASHMI SEAMLESS LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'rashmi-seamless-limited' (https://importkey.com/countries/india/rashmi-seamless-limited) and variant 'rashmi-seamless-ltd' both render only the generic template: 'Shipments available for RASHMI SEAMLESS LTD, refreshed daily' — the shipment table itself is behind a paywall and returned 0 visible rows. No bill-of-lading number, date, destination or HS code was visible on any accessible page.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award or annual-report revenue split could be retrieved: volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; DuckDuckGo HTML endpoint timed out and the web_search backend was unreachable ('searx: Connection refused'); Bing/Google returned unrelated results. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено в доступных источниках — но это ограничение доступа, а не доказательство отсутствия отгрузок: все четыре торговых агрегатора (ImportKey, Volza, Eximpedia, Trademo) закрыты платно или блокируют запросы, поисковые бэкенды в этой сессии не работали. Поэтому статус 'unknown', а не 'none_found'. Выручка и объём экспорта: null (не публичны в открытом доступе, не выдумывались). Заявленный HS 730441/730449 (бесшовные трубы из коррозионностойкой стали) соответствует профилю металлургии — несоответствия HS не выявлено, но и подтверждения фактических отгрузок по этому коду нет. Требуется повторная проверка с платным доступом к таможенным данным или через GST-портал/MCA при следующем проходе."
+}

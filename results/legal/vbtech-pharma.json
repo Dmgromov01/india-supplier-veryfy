@@ -1,0 +1,18 @@
+{
+ "name_input": "VBTECH PHARMA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no public registry record could be retrieved. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML timed out; Bing returned only irrelevant results (no exact-phrase match for 'VBTECH PHARMA'); Google served a redirect/consent page. Registry aggregators were blocked or empty: ZaubaCorp 403, Tofler search 404, InstaFinancials 403, FalconEbiz 403. Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a primary source, and nothing is asserted here. Note on the input itself: the 'legal_claimed' field contains a personal name ('SMIT HIMANSHU BHAVSAR'), not a company name, which suggests this may be a proprietorship or an individual trading as 'VBTECH PHARMA' rather than a registered company - this is an inference only, not a finding. The declared HS codes 847989/847990 (machinery parts) are inconsistent with the claimed industry 'oil & gas and chemicals' and with the 'PHARMA' trade name; per project rules this is NOT a ground for rejection and no HS verdict is issued here (outside this role's scope). Role left as 'unknown' because no MCA/GST record was available to establish manufacturer vs trader. Revenue FY25/FY26 set to null - no audited accounts or official filings were located; figures were not estimated. No rejection applied: absence of retrievable records is not evidence that the entity does not exist. Recommended next step: re-run once the search backend is restored, or verify manually on the MCA master data portal and the GST taxpayer search using the PAN/GSTIN supplied by the counterparty."
+}

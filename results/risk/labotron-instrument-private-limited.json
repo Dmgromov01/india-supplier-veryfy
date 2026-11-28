@@ -1,0 +1,9 @@
+{
+ "name_input": "LABOTRON INSTRUMENT PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK — NOTHING VERIFIED. Research could not be completed: the web_search backend was down for the whole session (searx 'Connection refused' on every query), and fallback engines returned irrelevant results (Bing/Google served unrelated pages, DuckDuckGo timed out). What was actually checked: (1) Indian Kanoon full-text case search for 'Labotron' and for '\"Labotron Instrument\"' — both returned 'No matching results' (https://indiankanoon.org/search/?formInput=Labotron and .../formInput=%22Labotron%20Instrument%22), so no reported Indian judgments found under this name; this is a name-level search only and does not cover district courts, NCLT, DRT or arbitration. (2) OFAC Sanctions List Search page loaded (SDN list last updated 11/23/2026) but the tool is a JS form and could not be queried programmatically, so no name screening was actually performed — sanctions_hit is null, NOT a negative result. UN, EU, UK OFSI and BIS Entity List were not screened at all. No credit rating (CRISIL/ICRA/CARE/India Ratings/Acuite) could be located; no negative news could be searched; no evidence of supplies to Russia or the CIS could be searched. All fields are null because nothing is public/retrievable in this session, not because the company is clean. Per project rules this is not a rejection ground and no adverse inference should be drawn; recommend re-running the risk screen when search access is restored, and note that the claimed legal name ('LABOTRON INSTRUMENTS PRIVATE LIMITED') differs from the input name ('LABOTRON INSTRUMENT PRIVATE LIMITED') — the exact registered spelling must be confirmed before any sanctions/court screening is meaningful. Legal identity, HS code and shipment volumes deliberately not researched (out of scope for this role)."
+}
