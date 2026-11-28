@@ -1,0 +1,9 @@
+{
+ "name_input": "EUROAQUA PLUMTEK PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend (searx) returned 'Connection refused' on all attempts; direct fetches of Google, DuckDuckGo HTML and Bing returned unrelated/irrelevant result pages (Bing served generic YouTube and leather-belt results for the exact-phrase query, i.e. the query was not honoured), and zaubacorp.com returned HTTP 403 while tofler.in search returned a 404 page. Consequently NO source could be read for this entity, so per project rules every field is left null rather than guessed. Specifically unverified: (a) sanctions exposure — no check completed against OFAC SDN, UN, EU, UK or BIS Entity List; (b) Indian court cases (party role/status) — not checked, no eCourts/NCLT/High Court record retrieved; (c) regulator actions and negative news — none found, but search was non-functional, so this is 'not found', NOT 'none exists'; (d) credit rating — no CRISIL/ICRA/CARE/India Ratings/Acuite record retrieved, status unknown; (e) evidence of supplies to Russia or CIS — no trade/customs/B-L or open-source record retrieved. No sanctions hit, court case, rating action or Russia/CIS link is asserted or implied by these nulls. Recommend re-running this company once the search backend is restored, using exact-name queries on zaubacorp/tofler/instafinancials, eCourts, NCLT, OFAC SDN search, BIS Entity List, and CRISIL/ICRA/CARE rating directories. Note the claimed name 'EUROAQUA PLUMTEK PRIVATE LIMITED' could not even be confirmed to exist as a registered Indian entity from public sources in this session — that is a verification gap, not a finding of non-existence."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Vama Lifecare Pvt Ltd",
+ "legal_name": "VAMA LIFECARE PRIVATE LIMITED (as claimed in input; not independently confirmed against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: the web_search backend returned 'Connection refused' on every attempt; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403 Forbidden; Google returned a redirect/consent wall; Bing returned identical cached, irrelevant results (US/Chinese/Romanian 'VAMA' entities) for every query, including exact-phrase and site:-restricted queries, so no Indian registry page for 'VAMA LIFECARE PRIVATE LIMITED' was ever surfaced. Consequently CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - they are not public to me in this session, not absent from the registry. Revenue FY25/FY26 null: no audited accounts or MCA filings were accessible. Role left 'unknown' - the declared HS codes (294190, 300190, 300490) are pharma/API-related and the input industry label 'Нефтегаз и химия' (oil & gas and chemicals) does not match them, but per project rules an HS mismatch is not a rejection ground and no role can be asserted without evidence of own manufacturing vs. trading. NOT rejected: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a research gap, not a negative finding. Recommended next step: re-run against MCA master data / GST public search when the search backend is restored, and confirm whether the correct legal name is 'Vama Lifecare Private Limited' or a variant (e.g. Vama Life Care / Vamalifecare) before any further work."
+}

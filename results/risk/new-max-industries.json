@@ -1,0 +1,9 @@
+{
+ "name_input": "NEW MAX INDUSTRIES",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of today. Research was effectively blocked: the DuckDuckGo/searx backend returned 'Connection refused' on all attempts, html.duckduckgo.com timed out, and Google/Bing HTML endpoints returned only generic, non-matching results (no exact-phrase hit for 'New Max Industries' or 'New Max Industries' + 'Ashok Sharma'). Therefore NO verification was possible for any of the five risk dimensions, and all fields are set to null rather than guessed. Specifically: (1) Sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) — not checked against the lists directly; no public record found, but absence of a hit is NOT evidence of absence given the tooling failure. (2) Indian court cases (party role/status) — not retrievable; no eCourts/NJDG/High Court page was reached. (3) Regulator actions and negative news with dates — none found, but search was non-functional, so this is 'not established', not 'clean'. (4) Credit rating (agency, date, status) — no CRISIL/ICRA/CARE/India Ratings/Acuite record located; null. (5) Evidence of supplies to Russia or CIS — no customs, B-L, or trade-data evidence located; null. Additional caveat: the claimed proprietor name 'Ashok Sharma' is an extremely common Indian name, so any future name-based matching must be tied to a verified legal entity (CIN/PAN/GSTIN) before drawing conclusions — that identity work is outside this role's scope. Per project rules, nothing here constitutes a rejection ground: no evidence of non-existence, liquidation or bankruptcy was found either way. Recommended next step: re-run the risk check once search access is restored, and obtain the company's CIN/GSTIN so sanctions and litigation screening can be done on an unambiguous identifier."
+}

@@ -1,0 +1,19 @@
+{
+ "name_input": "HARSHIT PNEUMATIC LLP",
+ "declared_hs": "841480",
+ "actual_hs_list": [
+  "841440 (air compressors mounted on a wheeled chassis / portable diesel screw compressors)",
+  "841480 (other air/gas compressors and pumps — e.g. screw/reciprocating compressor units, compressor spares)",
+  "820719 (rock-drilling / earth-boring tools with working part of cermets — DTH button bits, taper button bits, drill bits)",
+  "820750 (drill bits for rock drilling, non-cermet working part)",
+  "843143 (parts of boring/sinking machinery — DTH hammers, shank adaptors)",
+  "846711 / 846719 (pneumatic hand tools, rotary / other — pneumatic rock drills, pneumatic tools)",
+  "846789 (other hand tools, pneumatic/hydraulic — concrete paving breakers, pneumatic breakers)",
+  "841381 / 841370 (pumps — pneumatic sump pump, sludge pump)",
+  "400931 / 391723 (industrial hoses: rubber rock-drill hose, PVC rock-drill hose, sand-blasting hose)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Catalogue on IndiaMART (harshitpneumatic.com, GST 27AAJFH7124F1ZF, Navi Mumbai/Thane, Maharashtra) lists: air compressors (40 HP portable diesel air compressor, trolley-mounted air compressor, 20 HP portable diesel screw compressor, diesel air compressor rental service), compressor spare parts (VT & ST compressor spares, screw compressor spares, rock drill air compressor spares), drill bits (30mm taper button bit LT, RH550 Sandvik DTH hammer bit, DTH button bits, DTH drill bit), DTH hammers and shank adaptors, pneumatic rock drills, concrete/pneumatic paving breakers (CP 117), pneumatic sump/sludge pumps (CP0010, CP77), pneumatic tools, industrial hoses (DUHILL rock drill hose, DUROLON rock-drill PVC hose, 20mm sand-blasting hose). Self-described as Authorized Dealer for Sandvik Asia and Chicago Pneumatic in Maharashtra.",
+ "role_hint": "trader",
+ "comment": "HS 841480 covers only the compressor part of the range and is therefore PARTIAL, not wrong: the declared code is valid for the screw/reciprocating compressor units and compressor spares, but the catalogue's largest visible product blocks — DTH button bits and drill bits (8207), DTH hammers/shank adaptors (8431), pneumatic rock drills and paving breakers (8467), sump/sludge pumps (8413) and industrial hoses (4009/3917) — are not covered by 841480. Portable/trolley-mounted diesel compressors should more precisely be 841440 rather than 841480. Industry label 'Нефтегаз и химия' (oil & gas / chemicals) is a MISCLASSIFICATION: the actual line is mining/construction/quarrying compressed-air and rock-drilling equipment plus pneumatic tools — oil & gas is at most an end-use, not the product category. Trader signs are explicit and strong: 'Nature of Business: Trader - Retailer', 'Exporter & Trader', employees up to 10, and the range is resold branded goods (Sandvik Asia, Chicago Pneumatic) rather than own manufacture — so role = trader, not manufacturer. Per project rule 3 the HS mismatch is NOT a rejection ground: company is kept, declared code corrected/expanded to the actual product codes above. All product data here comes from the company's own IndiaMART catalogue page only; no customs line, shipping bill or B-L record was available in this session, so every product and the export claim ('Exporter') is 'заявлено, не подтверждено'. Note: search backend was largely unavailable during this check (DuckDuckGo/Searx returned connection errors, Bing returned irrelevant results), so only the IndiaMART-hosted site could be read; no independent catalogue or customs evidence was obtained. Revenue/volumes deliberately not researched per role scope."
+}

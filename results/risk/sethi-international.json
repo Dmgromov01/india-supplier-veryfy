@@ -1,0 +1,19 @@
+{
+ "name_input": "SETHI INTERNATIONAL",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case_no": "W.P.(C) 14812/2021",
+   "parties": "M/s Sethi International (Petitioner) vs Ishrar Hussain (Respondent)",
+   "role": "Petitioner",
+   "status": "Pending / repeatedly listed; hearings on record 22.12.2021, 09.05.2022, 20.09.2022, 13.03.2023, 20.09.2023, 19.02.2024, 02.09.2024, 11.02.2025, 11.08.2025, 29.10.2025; interim applications CM APPL 46685/2021, 41576/2022, 67051/2025",
+   "subject_matter": "Writ petition; Indian Kanoon AI tags indicate minimum-wages / back-wages context (employer-employee type dispute). Company is the petitioner, i.e. it is the party bringing the action, not a defendant.",
+   "source": "https://indiankanoon.org/search/?formInput=%22Sethi%20International%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY SCOPE. Sanctions: no match found for 'Sethi International' on OFAC SDN/Non-SDN consolidated lists as checked via the OFAC Sanctions List Search interface (https://sanctionssearch.ofac.treas.gov/, SDN list last updated 23.11.2026) — however the tool is JS-driven and returned no queryable results via plain HTTP, so this is an UNVERIFIED negative, not a confirmed clearance. UN, EU, UK OFSI and BIS Entity List were NOT checked (search backend 'searx' was down for the whole session; DuckDuckGo HTML timed out; Bing returned only irrelevant results). Treat sanctions_hit as null = not established either way. Court cases: one confirmed matter, Delhi HC W.P.(C) 14812/2021, company is PETITIONER (not defendant), ongoing since 2021 with hearings through 29.10.2025 — per project rules this is not a rejection ground and is noted neutrally as 'есть сложности'. Regulator actions: none found, but no dedicated regulator search (RBI/SEBI/DGFT/FSSAI) was possible. Credit rating: null — no rating found; company appears to be a non-rated small/medium private entity, ratings not public. RF/CIS supply evidence: null — no evidence of supplies to Russia or CIS found; the single Bing query on this returned only irrelevant results, so this is an absence of search coverage rather than a confirmed negative. IMPORTANT CAVEAT: 'Sethi International' is a common Indian trade name and multiple unrelated entities may share it; the Delhi HC petitioner could not be tied to a specific CIN/PAN because legal-identity research is outside this role's scope. All findings should be re-verified once the search backend is restored."
+}

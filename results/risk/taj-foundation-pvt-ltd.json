@@ -1,0 +1,37 @@
+{
+ "name_input": "TAJ FOUNDATION PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madras High Court",
+   "case": "M/s. Taj Foundations Pvt. Ltd vs The Deputy Commissioner (R&F)",
+   "date": "2022-03-01",
+   "role": "Petitioner",
+   "status": "Writ petition decided (judgment available on Indian Kanoon)",
+   "subject": "Property tax / Chennai Corporation demand notice (Art. 226)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Taj%20Foundations%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "Tvl. Taj Foundation Pvt Ltd vs The Assistant Commissioner (ST), W.P.No.4655 of 2025",
+   "date": "2025-02-12",
+   "role": "Petitioner",
+   "status": "Writ petition, judgment delivered 12.02.2025",
+   "subject": "GST / State Tax assessment (commercial tax)",
+   "source": "https://indiankanoon.org/search/?formInput=%22Taj%20Foundations%22"
+  },
+  {
+   "court": "Madras High Court",
+   "case": "Ejaz Tanning Company vs The Commissioner (W.P.No.1842 of 2019) — Taj Foundation Pvt Ltd (formerly Taj Roller Flour Mills Pvt Ltd) named as petitioner no. 4",
+   "date": "2019-01-24",
+   "role": "Petitioner (co-petitioner)",
+   "status": "Judgment delivered 24.01.2019",
+   "subject": "Writ petition against Commissioner; company appears as co-petitioner",
+   "source": "https://indiankanoon.org/search/?formInput=%22Taj%20Foundations%22"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY REVIEW. Sanctions: no confirmed hit found, but this is NOT a verified negative — the OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) is a JavaScript form and returned no queryable results via HTTP fetch, and the web_search backend was down (connection refused) throughout this session, so UN/EU/UK Consolidated and BIS Entity List could not be queried. sanctions_hit set to null = not verified, not cleared. Court cases: three Madras High Court writ proceedings identified on Indian Kanoon, all as PETITIONER (i.e. the company is the complainant against tax/assessment authorities, not a defendant) — property tax (2022) and GST/State Tax (W.P. 4655/2025, judgment 12.02.2025). Per project rule 2 these are not rejection grounds; noted neutrally as 'есть сложности'. Identity note: Indian Kanoon shows the entity as 'Taj Foundation Pvt Ltd, formerly Taj Roller Flour Mills Pvt Ltd', directors A.R. Imtiyaz Ahmed and authorised signatory K.I. Saleem, addresses at Ennore Express Road, Thiruvottiyur, Chennai and Kamarajar Salai, Chennai — consistent with a Chennai-based flour/food business, which does not match the declared HS 630411/630491 (knitted bedding/soft furnishings); HS is outside my remit and flagged for the HS reviewer only. Credit rating: no public rating found (CRISIL/ICRA/CARE/India Ratings not checked successfully due to search outage) — null, not public/not found. Negative news: none retrieved; search backend unavailable, so null rather than a clean bill. RF/CIS supply evidence: none found — no customs, B/L or trade record linking this entity to Russia or CIS; null, not confirmed either way. Recommend re-running sanctions and news checks when search access is restored."
+}
