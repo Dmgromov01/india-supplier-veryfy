@@ -1,0 +1,18 @@
+{
+ "name_input": "DEVI FISHERIES LIMITED",
+ "legal_name": "DEVI FISHERIES LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool failed on every call (searx: connection refused), Bing returned only irrelevant generic 'Devi' results, and registry aggregators were inaccessible: zaubacorp.com and thecompanycheck.com returned HTTP 403, tofler.in company/search URLs returned HTTP 404, instafinancials.com returned HTTP 404, and mca.gov.in Master Data returned HTTP 403. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public/not retrievable in this session, not invented. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role is 'unknown': the name suffix 'LIMITED' suggests a company, but no evidence of manufacturing vs trading activity was obtained. No rejection applied - there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified, needs manual MCA lookup'. Declared HS 030617 (frozen shrimps/prawns) is not a rejection ground per project rules and was not assessed. Recommended next step: manual MCA master-data check by name and, if found, GST portal lookup for the GSTIN and state."
+}
