@@ -1,0 +1,26 @@
+{
+ "name_input": "SYMBIOTEC PHARMALAB LIMITED",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Madhya Pradesh High Court (Indore)",
+   "case": "WP No. 22170 of 2026 — Balaji Steroids and Hormones Private Limited (through Director Smt. Jasmina P. Aldasni) vs Chairperson, SEBI",
+   "date": "07.09.2026",
+   "party_role": "не сторона; компания упомянута в ходе заседания — заявитель просил время, чтобы привлечь Symbiotec Pharmalab Limited в качестве соответчика (ходатайство об impleadment). Суд дал две недели.",
+   "status": "pending / impleadment requested",
+   "source": "https://indiankanoon.org/search/?formInput=Symbiotec%20Pharmalab%20Limited&type=judgments"
+  },
+  {
+   "court": "Madhya Pradesh High Court",
+   "case": "Devdatt Pandiya vs The State of Madhya Pradesh",
+   "date": "08.01.2018",
+   "party_role": "не сторона; в тексте упомянуто, что заявительница Rashmi Nigam работала Executive в Symbiotec Pharmalab Pvt. Ltd. Co., Pithampur (дело об обеспечительных мерах/залоге, к компании претензий не заявлено)",
+   "status": "closed (2018), к компании требований нет",
+   "source": "https://indiankanoon.org/search/?formInput=Symbiotec%20Pharmalab"
+  }
+ ],
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Ограничение исследования: поисковый бэкенд (DuckDuckGo/searx) был недоступен в течение всей сессии, сайт компании не резолвился, Google/Bing отдавали заглушки или нерелевантную выдачу. Проверено фактически только: (1) Indian Kanoon — 2 судебных упоминания, оба не о взысканиях/банкротстве, компания ни в одном деле не является ответчиком по существу; (2) страница OFAC Sanctions List Search доступна, но это JS-форма — прямой запрос по имени через GET результатов не возвращает, поэтому санкционный скрининг по SDN/Non-SDN, UN, EU, UK, BIS Entity List НЕ выполнен и не может быть подтверждён. Санкционных попаданий не найдено, но это не результат проверки — ставлю null, а не false. Кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) не найден: рейтинговые списки не открылись (crisilratings.com отдал 404 на листинг), поэтому rating = null — публично не подтверждено, не выдумывать. Негативных новостей с датами не зафиксировано из-за недоступности поиска — null, а не «чисто». Поставки в РФ/СНГ: следов не найдено, но и целевой поиск не выполнен — null. Примечание по правилу 2: ни санкции, ни суды, ни уголовные дела не являются основанием для отклонения; при наличии — формулировка «есть сложности». Рекомендация: повторить санкционный скрининг (OFAC SDN CSV / EU / UK / BIS) и проверку рейтингов при восстановлении доступа к сети — текущий результат неполный, а не отрицательный."
+}

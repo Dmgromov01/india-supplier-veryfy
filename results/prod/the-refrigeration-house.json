@@ -1,0 +1,32 @@
+{
+ "name_input": "The Refrigeration House",
+ "declared_hs": "848180;853650",
+ "actual_hs_list": [
+  "848180",
+  "848190",
+  "848130",
+  "848140",
+  "848110",
+  "841490",
+  "841459",
+  "841430",
+  "841590",
+  "850110",
+  "850431",
+  "902620",
+  "902580",
+  "902610",
+  "853650",
+  "853649",
+  "853690",
+  "848190",
+  "841590",
+  "903289",
+  "902519",
+  "848180"
+ ],
+ "match_status": "partial",
+ "product_summary": "Live website therefrigerationhouse.com (title: 'The Refrigeration House | HVAC & Industrial Automation Spare Parts Distributor') shows a multi-brand HVAC/BMS spare-parts catalogue, not a manufacturer line. Real product families listed on the site: (1) Valves — ball valves (Zoloto forged brass screwed 1008B, Honeywell BA-HIPL manual ball valve), butterfly valves (Honeywell BS-HWC4 PN16/PN25 manual and stainless motorized), dual-plate check valves (Honeywell BSV4-CWD), balancing valves, static balancing valves, PICV, pressure reducing valves, three-way and two-way AHU/FCU valves, characterised control valves, flanged linear control valves, expansion valves, rotary valves, Y-strainers (Sant 250 mm CI Y-type strainer) -> HS 8481.80 (taps/cocks/valves), 8481.30 (check valves), 8481.10 (pressure-reducing), 8481.90 (parts). (2) Actuators — Siemens electrohydraulic SKC32.60/61, SKB60/62, rotary air-damper GQD121.1A/GQD126.1A/GDB146.1E/GDB341.1E/GSD341.1A/GLB341.1E, Honeywell modulating rotary actuator -> HS 8501.10 (electric motors/actuators) or 8481.90 when supplied as valve actuators; damper actuators are electric actuators, not switches. (3) Sensors/instruments — Greystone RH110B02C1A2 humidity, TE200C12C2E temperature sensor, Honeywell GD250W4E CO transmitter, CO2 sensors, differential pressure switches/transmitters, air flow switches, water flow switches, immersion temperature sensors, duct temp/humidity sensors, pressure and temperature gauges, thermostats, Kamstrup BTU meters 40 mm/125 mm + M-bus card -> HS 9025.80 (hygrometers/thermometers), 9026.20 (pressure), 9026.10 (flow), 9026.80, 9032.89 (automatic regulating/control instruments), 8536.50 (switches — only the pressure/flow switches fit here). (4) Refrigeration components — filter driers (liquid line, suction line), Copeland compressors, Aspen Pumps Silent+ Mini Aqua condensate pumps, Anergy flexvent/flexair supervent air vents, AC fans, inline fans -> HS 8414.30 (compressors), 8414.59 (fans), 8414.90, 8413.70 (pumps), 8421.39/8421.21 (filter driers as filters). (5) Brass fittings — adapters, nuts, unions -> HS 7412.20. (6) Compressor electricals / contactors, hand-wheel and lever handles for valves.",
+ "role_hint": "trader",
+ "comment": "Declared 848180 and 853650 are only partially correct. 8481.80 is confirmed as the core line (ball, butterfly, check, balancing, PICV, control, three-way valves, strainers) — exact match on that code. 8536.50 (switches) is only marginally supported: the site sells differential-pressure switches, air-flow switches and water-flow switches, which are switch-type devices, but the bulk of the 'electrical' catalogue is actuators (Siemens/Honeywell electric and electrohydraulic actuators) which belong in 8501.10 or 8481.90, not 8536.50. So 853650 is a partial/loose fit rather than a clean match. Industry classification 'Нефтегаз и химия' (oil & gas / chemicals) is a misclassification: the actual business is HVAC, refrigeration and building-automation (BMS) spare parts distribution — no oil & gas or chemical process equipment appears in the catalogue. Trader signs are explicit: the site self-describes as a 'Distributor', sells third-party brands (Siemens, Honeywell, Belimo, Kamstrup, Greystone, Zoloto, Sant Valves, Copeland, Emerson, Aspen Pumps, Anergy, Wika, Bosch, Castle Italy, Imperial, Johnsons Control, Value, Advance, Rapid Control, Asian First Brand, Impact) and offers 'Connect for HVAC Projects — For Multiple Brand Products'; no own-manufacture or plant claim found. Product lines entirely missing from the declaration: instrumentation/sensors (9025.80, 9026.20/10/80, 9032.89), BTU meters, compressors (8414.30), fans (8414.59), condensate pumps (8413.70), filter driers (8421.39), brass fittings (7412.20), electric actuators (8501.10). Per project rule 3, the HS mismatch is not a rejection ground — company is kept and the code set corrected to the actual range above. All product data is from the company's own website catalogue only; no customs line was available to me in this task, therefore every product line above is 'заявлено, не подтверждено' (declared on site, not corroborated by a shipment record). No registry, revenue or customs-volume research was performed per role scope."
+}

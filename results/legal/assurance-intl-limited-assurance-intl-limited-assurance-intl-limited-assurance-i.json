@@ -1,0 +1,18 @@
+{
+ "name_input": "ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED; ASSURANCE INTL LIMITED",
+ "legal_name": "ASSURANCE INTL LIMITED (as claimed; exact MCA-registered name not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool returned a backend error ('searx: Connection refused') on both queries, and all direct fetches of public registry sources failed: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), mca.gov.in/mcafoportal (403), duckduckgo.com/html (403). Google and Bing HTML endpoints returned only generic 'assurance' insurance/dictionary results with no Indian corporate registry hits, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figure could be sourced. Per project rules nothing is invented: all registry fields are null and revenue FY25/FY26 are null because no audited accounts or official filings were accessible. No rejection is applied - the entity is neither confirmed non-existent nor confirmed struck off/liquidated/bankrupt; status is simply unverified. Role cannot be determined from registry data alone (HS 850760 lithium-ion batteries claimed, industry 'Энергетика' claimed, but no MCA business-object clause or GST turnover was retrievable). Recommended next step: re-run against MCA master data / GST public search once the search backend is restored, or verify manually via the MCA portal company search for 'ASSURANCE INTL LIMITED'."
+}

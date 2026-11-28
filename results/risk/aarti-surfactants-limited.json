@@ -1,0 +1,9 @@
+{
+ "name_input": "AARTI SURFACTANTS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK NOT COMPLETED — tooling failure, not a clean result. All fields null because nothing could be verified, not because nothing was found. (1) Sanctions: OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form; a plain HTTP fetch returns only the empty search page with no queryable results, so no name match against SDN/Non-SDN could be executed. UN, EU, UK OFSI and BIS Entity List screens were not run at all. (2) Court cases: no source consulted — DuckDuckGo search backend returned 'Connection refused' on every attempt (3 separate queries), so NCLT/NCLAT/High Court/eCourts dockets could not be located. (3) Credit rating: CRISIL ratings-list page failed with SSL handshake timeout; no rating agency page (CRISIL/ICRA/CARE/India Ratings) could be read, so rating and its date/status are unknown. (4) Negative news / regulator actions: not researched — search unavailable. (5) Russia/CIS supply evidence: not researched — search unavailable; no customs, B-L or trade-data source was reachable. Company website aartisurfactants.com was fetched and is a 'Launching Soon' placeholder with no content, so it yields no risk information either way. BSE page returned only a JS shell. Context only (not verified in this session): the entity is a listed Indian speciality-surfactants manufacturer, part of the Aarti group, which would normally imply public disclosure obligations — but I did not confirm this from a source and it must not be treated as verified. ACTION REQUIRED: re-run this company once web_search is restored and a headless/API-based sanctions screen is available; do not treat this record as 'no sanctions, no cases'. Per project rules, nothing here is a rejection ground."
+}

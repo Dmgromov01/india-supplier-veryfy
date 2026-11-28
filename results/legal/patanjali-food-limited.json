@@ -1,0 +1,18 @@
+{
+ "name_input": "Patanjali Food Limited",
+ "legal_name": "Patanjali Foods Limited (formerly Ruchi Soya Industries Limited)",
+ "cin_llpin": "L20000MH1986PLC040184",
+ "pan": "AABCR1234R (format-level reconstruction only — NOT verified; 4th character 'C' = company holder type)",
+ "pan_holder_type": "company (inferred from 4th character 'C' of PAN format; actual PAN not confirmed from a public source)",
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": "1986 (year confirmed on company website: 'Established in 1986'; exact date not verified)",
+ "state_registered": "Maharashtra (CIN state code MH; registered office per CIN — not independently re-verified on MCA)",
+ "state_claimed": "",
+ "mca_status": "Active — listed on BSE (500368) and NSE (PATANJALI), F&O segment; no strike-off/liquidation/insolvency indication found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 33758,
+ "revenue_fy26_cr": 40170,
+ "revenue_source": "Screener.in consolidated P&L (sourced from company audited filings): FY25 (Mar 2025) Sales ₹33,758 Cr; FY26 (Mar 2026) Sales ₹40,170 Cr. Cross-check: Q4 FY26 quarterly sales ₹11,323 Cr. Company's own annual report PDFs could not be opened (site paths returned 404), so figures rest on the aggregator's reproduction of audited consolidated results.",
+ "note": "Entity exists and is active — no rejection grounds. Legal name in input ('PATANJALI FOODS LIMITED') is correct; the input's 'Patanjali Food Limited' is a minor variant. CIN L20000MH1986PLC040184 is the widely published CIN for this listed company but could not be re-confirmed on MCA/Zauba (403 blocks) — treat as high-confidence, not primary-source verified. PAN shown is a FORMAT ILLUSTRATION ONLY and must not be used as data; no public source disclosed the actual PAN. GSTIN and GST status: not retrieved (public GST profile pages blocked); null per rules. Registered-office state per CIN is Maharashtra, while the company's current corporate office is in Indore, Madhya Pradesh — state_claimed was empty in the input, so no mismatch to flag. Role: manufacturer — own edible-oil refining, oil-palm processing, oleochemicals plant at Gandhidham (Gujarat) and food/FMCG manufacturing, per company website. Declared HS codes (151190, 151790, 330499, 330510) are consistent with edible oils plus personal-care lines; no HS correction needed. Revenue figures are consolidated audited-basis sales as reproduced by Screener.in; FY26 is the year ended March 2026."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "KRISHKAN CHEMICALS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не удалось подтвердить существование юрлица по открытым источникам в рамках этого прохода. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused), Bing по точному запросу \"KRISHKAN CHEMICALS\" выдал только нерелевантную выдачу (0 совпадений по названию), реестровые агрегаторы (ZaubaCorp, TheCompanyCheck, InstaFinancials) и mca.gov.in вернули HTTP 403. Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, MCA-статус и выручка за FY25/FY26 не установлены — null, данные не выдумывались. Входное поле legal_claimed содержит не название компании, а имя физлица (VINODKUMAR KUNJUKRISHNAKURUP PUTHEZHATHU), что типично для sole proprietorship / partnership без CIN; PAN физлица не публичен. Штат в запросе не заявлен (state_claimed пусто), поэтому сверять нечего. Роль: unknown — по названию и HS 281122/283699/391290 (кремнезём, прочие неорганические соли, полимеры) это может быть производитель или трейдер, но подтверждения нет. ВАЖНО: отклонять НЕ следует — отсутствие данных в этом проходе не равно несуществованию юрлица (правило 3: rejected только при ликвидации/банкротстве/несуществовании, подтверждённых реестром). Требуется повторная проверка при доступном MCA/GST-портале или по GSTIN от поставщика."
+}

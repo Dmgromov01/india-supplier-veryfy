@@ -1,0 +1,18 @@
+{
+ "name_input": "SOLUTION POINT AUTOMATION PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены — все поля null, ничего не выдумано. Что пробовал: (1) web_search по 'SOLUTION POINT AUTOMATION PRIVATE LIMITED CIN' и по GST — бэкенд поиска недоступен (connection refused); (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — HTTP 403; (4) instafinancials.com — HTTP 404 (страница с таким слагом отсутствует); (5) tofler.in — HTTP 404 по слагу 'solution-point-automation-private-limited'; (6) mca.gov.in MDS и search.mca.gov.in — 403 / DNS-ошибка; (7) Google и Bing через http_get — выдача нерелевантна (словарные статьи 'solution'), точного совпадения по названию нет. Вывод: публичного подтверждения существования юрлица с точным названием 'SOLUTION POINT AUTOMATION PRIVATE LIMITED' получить не удалось. Это НЕ основание для отклонения (rejected) — по правилам проекта отклонение возможно только при доказанной неликвидности/страйк-офф, а отсутствие доступа к реестру доказательством не является. Статус: требует повторной проверки вручную по MCA Master Data (поиск по имени компании) и по GST-порталу (search GSTIN by trade name). CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус, роль и выручка FY25/FY26 — не установлены, null. Заявленный HS (382290; 841690; 844332; 844339) и отрасль 'Нефтегаз и химия' — из входных данных, реестром не подтверждены; HS-несоответствие по правилам проекта не является основанием для отклонения. Заявленный штат в инпуте отсутствует (пустая строка), поэтому сопоставление state_registered vs state_claimed невозможно."
+}

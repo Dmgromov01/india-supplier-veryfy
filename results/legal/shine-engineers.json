@@ -1,0 +1,18 @@
+{
+ "name_input": "Shine Engineers",
+ "legal_name": "Shine Engineers (proprietorship name as claimed; no registered legal entity could be verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the search backend (DuckDuckGo/searx) returned 'Connection refused' for all queries, and every direct registry/aggregator source attempted was blocked — zaubacorp.com (HTTP 403), instafinancials.com (HTTP 403), mca.gov.in MDS (HTTP 403), tofler.in search (404), duckduckgo.com/html (timeout). Bing returned only generic 'shine' results with no match for 'Shine Engineers' + 'Lokhande'/'Shitalkumar', so no public profile was located. The input itself gives no CIN, PAN or GSTIN, and the 'legal_claimed' field contains a person's name (SHITALKUMAR ASHOKRAO LOKHANDE), which is consistent with a sole proprietorship rather than a company/LLP — proprietorships have no CIN/LLPIN and no MCA status, and their PAN is the individual's PAN (4th character 'P' for individual), but this is NOT confirmed by any source and is therefore left null. No GSTIN, GST status, incorporation date, registered state or audited revenue figures are public/verified, so all are null per the no-invention rule. State claimed in input is empty, so state_registered vs state_claimed cannot be compared. Role left 'unknown' — no registry evidence of manufacturing vs trading. NOT rejected: absence of verifiable data is not grounds for rejection under the project rules (rejection only for non-existent/struck-off/liquidated/bankrupt entities), and no evidence of dissolution exists. Recommend re-run when search access is restored, or request the supplier's GSTIN/PAN directly to resolve the entity."
+}
