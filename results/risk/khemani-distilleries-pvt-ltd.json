@@ -1,0 +1,9 @@
+{
+ "name_input": "Khemani Distilleries Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: инструмент web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; http_get к Google — HTTP 429, к Indian Kanoon и ZaubaCorp — HTTP 403, DuckDuckGo HTML — timeout; Bing отдавал нерелевантную выдачу (bot-detection/подмена результатов), пригодных источников получить не удалось. Ни по одному из направлений (OFAC SDN/UN/EU/UK/BIS, индийские суды, действия регуляторов и негативные новости, кредитный рейтинг, поставки в РФ/СНГ) подтверждающих или опровергающих данных не получено. Все поля оставлены null — данные не выдумывались. Отсутствие данных НЕ означает отсутствие рисков: это не «чистая» компания, а непроверенная. Требуется повторный прогон при доступном поиске (рекомендуемые источники: sanctionssearch.ofac.treas.gov, OFAC SDN list, EU/UK consolidated lists, BIS Entity List, indiankanoon.org, e-courts/NJDG, сайты регуляторов FSSAI/Excise, CRISIL/ICRA/CARE, таможенные и B-L базы). Дополнительно: заявленное юрлицо в задании указано как 'K H KHEMANI & SONS' при названии 'Khemani Distilleries Pvt Ltd' — расхождение в наименовании не проверено (вне моей роли), но оно повышает риск того, что проверялся бы не тот субъект; учесть при повторной проверке."
+}

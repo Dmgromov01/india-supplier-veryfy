@@ -1,0 +1,18 @@
+{
+ "name_input": "NAVNEET IMPEX",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного регистрационного реквизита. Все попытки получить данные из реестров не удались: DuckDuckGo-поиск (searx) вернул 'Connection refused' на обоих запросах; Bing по запросам '\"NAVNEET IMPEX\" GSTIN CIN' и '\"NAVNEET IMPEX\" IndiaMART OR Zauba OR GSTIN' выдал полностью нерелевантную выдачу (рестораны в США, Puget Sound Energy) — то есть релевантных страниц по этому названию не найдено; Zauba Corp, Tofler, InstaFinancials, TheCompanyCheck и портал MCA (mca.gov.in) вернули HTTP 403/404 (блокировка ботов). Итог: точное юридическое наименование, CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null, публично не подтверждены в рамках доступных инструментов. Роль определить нельзя (unknown): 'Impex' в названии намекает на трейдера/импортёра-экспортёра, но это лишь догадка по названию, не факт. Отклонять НЕ следует: отсутствие данных — не основание для rejected (нет подтверждения, что юрлицо не существует, ликвидировано или банкрот). Требуется повторная проверка при восстановлении доступа к реестрам (MCA master data / GST-портал) или уточнение от поставщика: полное юрлицо, CIN, GSTIN, штат. HS 071290 (сушёные овощи/грибы) не проверялся — по правилам несоответствие HS не является основанием для отклонения."
+}
