@@ -1,0 +1,18 @@
+{
+ "name_input": "PROPEL INDUSTRIES PVT LTD; PROPEL INDUSTRIES PRIVATE LIMITED",
+ "legal_name": "PROPEL INDUSTRIES PRIVATE LIMITED (as claimed; not independently verified against MCA master data in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: web_search (searx) returned 'Connection refused' for all queries; zaubacorp.com, thecompanycheck.com, tofler.in, quickcompany.in and mca.gov.in returned HTTP 403/404; Bing/Google returned only irrelevant 'Propel' results (US EBT app, Propel Water, Propel swim lessons) with no Indian registry page. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited FY25/FY26 revenue are all null — not public/not retrievable in this session, and no values are invented. No basis for rejection: absence of retrievable records is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, so the company is retained. Role left as 'unknown' (no registry evidence of manufacturing vs trading activity was obtained; the claimed HS 8474 crushing/screening machinery is consistent with a crusher manufacturer, but that is not a registry fact). State claimed in input was empty, so no state mismatch can be assessed. Recommended follow-up: re-run with working search access and check MCA master data by name plus GSTIN lookup on the GST portal / a public GST profile."
+}

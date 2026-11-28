@@ -1,0 +1,18 @@
+{
+ "name_input": "UDAY SHOES PRIVATE LIMITED; M/S UDAY SHOES PVT LTD",
+ "legal_name": "UDAY SHOES PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error ('Connection refused') on both queries; direct fetches of registry aggregators were blocked or empty: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, instafinancials.com HTTP 404 (no such slug), Google HTTP 429, DuckDuckGo timed out, Bing returned only irrelevant Microsoft results, Marginalia returned a bot-check page. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — NOT because they do not exist, but because no public source was reachable in this session. No entity-existence conclusion is drawn and the company is NOT rejected: per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy, none of which was established. Role left as 'unknown' — the name suggests footwear (HS 640299 is footwear, consistent with 'UDAY SHOES'), but the input industry_claimed 'Продукты питания и FMCG' (food/FMCG) is inconsistent with both the company name and the declared HS code; this is a data-quality flag for the input record, not a rejection ground. Revenue FY25/FY26: null — no audited accounts or official filings were accessible; no figures invented. Recommended follow-up: re-run with working search access, or query MCA master data / GST portal directly by legal name 'UDAY SHOES PRIVATE LIMITED' to obtain CIN and GSTIN."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "G.P.R.CLOTHING COMPANY",
+ "legal_name": "G P R CLOTHING COMPANY (as claimed; exact MCA-registered spelling not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Google returned 429 and Bing/DDG ignored the quoted company name and returned only generic 'G'/'GPR' results. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source, so all such fields are null rather than guessed. Nothing indicates the entity does not exist - it is simply unverified; per project rules this is NOT grounds for rejection. Note also that the input's industry_claimed ('Продукты питания и FMCG' - food/FMCG) contradicts the declared HS codes 6103/6104/6109 (knitted apparel), so the industry label is likely wrong; HS mismatch is not a rejection ground and the code should be corrected to the actual apparel classification. Role cannot be determined without registry/GST data. Recommend re-check with a working search backend or MCA/GST portal access."
+}

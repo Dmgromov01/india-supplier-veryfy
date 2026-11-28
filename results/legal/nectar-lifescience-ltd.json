@@ -1,0 +1,18 @@
+{
+ "name_input": "NECTAR LIFESCIENCE LTD",
+ "legal_name": "Nectar Lifesciences Limited",
+ "cin_llpin": "L24232PB1995PLC016664",
+ "pan": "Not verified from a public source (registry sites Zauba/CompanyCheck/QuickCompany returned HTTP 403/404; PAN not confirmed, left null rather than guessed)",
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": "Not verified — no public GST profile page could be retrieved (IndiaMART 429, gstsearch 404). Status unknown, not asserted.",
+ "incorporation_date": "1995 (year confirmed by Screener.in company profile: 'Incorporated in 1995'); exact date not verified",
+ "state_registered": "Punjab (per CIN state code 'PB' — the CIN prefix L24232PB1995PLC016664 indicates Punjab registration; registered office not independently read from MCA)",
+ "state_claimed": "",
+ "mca_status": "Active listed company — shares traded on BSE (532649) and NSE (NECLIFE) as of 27 Nov close (Screener.in). No strike-off/liquidation/insolvency indication found. MCA master-data page itself not retrievable (403).",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": "Screener.in (BSE/NSE-sourced) shows FY2025 and FY2026 annual sales as 0 / 0 in the consolidated and standalone P&L tables, while quarterly data shows normal sales up to Dec 2024 (e.g. 454.98 Cr in Dec 2024 quarter) and then near-zero from Mar 2025 onward. This pattern indicates a data/restatement artefact or a corporate restructuring in the source, not a genuine zero-revenue year, so no audited FY25/FY26 revenue figure is reported here — both left null. FY24 sales were 1,682 Cr (Screener.in, consolidated). Audited annual report PDFs were not opened within the tool budget.",
+ "note": "Legal entity exists and is listed: Nectar Lifesciences Limited, BSE 532649 / NSE NECLIFE, incorporated 1995, Punjab-registered per CIN state code. Business per Screener.in: manufacturer of APIs, intermediates and finished dosage forms (cephalosporin anti-infectives) plus CMO work — so role = manufacturer, not trader. Input industry 'Нефтегаз и химия' (oil & gas / chemicals) is a misclassification: the company is a pharma/API manufacturer; declared HS 294190 (antibiotics) and 300490 (medicaments, retail) are consistent with its actual activity, so no HS correction is needed. Input state was blank, so no state mismatch to report. NOT rejected: entity exists, is trading, no strike-off/liquidation/bankruptcy evidence. Gaps: PAN, GSTIN, GST status, exact incorporation date and audited FY25/FY26 revenue could not be confirmed from public sources within the tool budget (registry aggregators blocked with 403/429, search engine unavailable) — all left null rather than invented. Per project rules, revenue and export volume are mandatory fields; here they are null pending a paid registry/MCA pull and the FY25/FY26 annual reports."
+}

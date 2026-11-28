@@ -1,0 +1,8 @@
+{
+ "name_input": "PROPEL INDUSTRIES PVT LTD; PROPEL INDUSTRIES PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/propel-industries-pvt-ltd returned only a page shell: \"Shipments available for PROPEL INDUSTRIES PVT LTD, refreshed daily\" — a generic template sentence, with 0 shipment rows rendered (\"Loading...\", \"Number of shipments by month:\" empty). No date, destination, HS code or B/L number was visible. Source counter: 1 page fetched, 0 shipment rows seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender or annual-report split was obtained: web_search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" on both queries, and volza.com, eximpedia.app, trademo.com returned HTTP 403 while importgenius.com returned a JavaScript challenge page. Source counter: 0 usable domestic sources, 0 rows seen.",
+ "note": "No shipment evidence could be verified either way — this is a tooling failure, not a finding of absence. importkey rendered no rows; volza/eximpedia/trademo blocked with 403; importgenius blocked by JS challenge; DuckDuckGo search was unreachable for the whole session. Per Rule 5, the company's own website/catalogue claims were not consulted and would not count as fact anyway. HS codes 847410/847420 (screening/sorting/grinding machinery) are plausible for a crusher manufacturer but were not checked against any customs record. No revenue or export-volume figures are public in what was retrieved, so both are null — not estimated. Recommend re-running this company once search and the trade-data sources are reachable; do not treat 'unknown' as 'none_found'."
+}

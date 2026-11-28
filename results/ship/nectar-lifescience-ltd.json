@@ -1,0 +1,8 @@
+{
+ "name_input": "NECTAR LIFESCIENCE LTD",
+ "export_status": "unknown",
+ "export_evidence": "No shipment line retrieved. ImportKey company pages exist for both slug variants but render only a gated template with zero visible rows: 'Join ImportKey to view the import and export data records of companies all over the world.' Source counter: 2 ImportKey pages fetched (nectar-lifescience-ltd, nectar-life-sciences-ltd), rows actually seen = 0 (no date, no destination, no HS code, no B/L number). Volza, Eximpedia, Trademo and ImportGenius all returned HTTP 403 / JS challenge; seair.co.in exporter page returned 404.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. No accessible source returned a domestic supply record within the tool budget; nothing to quote.",
+ "note": "Rule 5 applied strictly: no export or domestic shipment record was actually observed, so both statuses are 'unknown' rather than 'confirmed' or 'declared_only' — this is a data-access limitation, not evidence of absence, and must not be read as 'следов поставок не найдено'. The company is a well-known listed Indian API/formulation maker (declared HS 294190/300490 is plausible for its cephalosporin API business), but per project rules the company's own site/catalogue claims are not shipment facts and were not used. No revenue, export volume, CIN, PAN or shipment numbers are asserted — all null. Industry label 'Нефтегаз и химия' is a category artefact; actual activity is pharmaceuticals/API. Recommended next step: paid or logged-in Volza/ImportKey/Eximpedia export view, or the company's annual report export-split disclosure, to convert export_status from unknown to confirmed."
+}

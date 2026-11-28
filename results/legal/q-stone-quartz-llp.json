@@ -1,0 +1,18 @@
+{
+ "name_input": "Q-STONE QUARTZ LLP",
+ "legal_name": "Q-STONE QUARTZ LLP (as claimed; not verified against MCA/LLP registry)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data not obtained. All 10 tool calls failed to yield a verifiable record: web_search backend returned 'Connection refused' (searx unavailable); zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; Google returned HTTP 429; DuckDuckGo timed out; Bing returned only generic/irrelevant results for the exact-name queries (no matching entity page surfaced). Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - not public/not retrieved, and nothing is inferred or invented. No rejection applied: absence of a retrieved record is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, so per the rules the company is retained with role 'unknown'. PAN holder type cannot be determined without the PAN. Revenue FY25/FY26: LLPs are not required to file audited financials publicly, so even with registry access these would likely remain null. Recommended next step: manual lookup on the MCA master-data portal (LLPIN search) and GST taxpayer search using the exact name, plus a request to the supplier for its GSTIN and LLPIN. HS 681099 (agglomerated/synthetic quartz articles) is consistent with the claimed 'construction & DIY' industry and is not a rejection ground in any case."
+}
