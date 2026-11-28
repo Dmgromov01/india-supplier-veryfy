@@ -1,0 +1,9 @@
+{
+ "name_input": "BIZCOVERY PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 2026-11-23. No public record of this entity could be retrieved, so every risk field is null — this is an absence of data, NOT a clean bill of health. Tooling: DuckDuckGo/searx backend returned 'Connection refused' on both attempts; zaubacorp.com and instafinancials.com returned HTTP 403; tofler.in returned 404 for the guessed URL slug; Bing queries for the exact name returned only unrelated results (NBA pages, Bill Gates, Windows Explorer), i.e. no indexed page matching 'Bizcovery Private Limited'; Google returned a redirect/consent interstitial. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded but is a JS form that cannot be queried via plain GET, so no actual SDN/Non-SDN name match was performed — sanctions_hit is null, not 'no hit'. Same limitation applies to UN Consolidated, EU FSF, UK OFSI and BIS Entity List: none were queried successfully. No Indian court records (eCourts/NJDG), regulator actions, credit ratings (CRISIL/ICRA/CARE/India Ratings) or Russia/CIS shipment evidence were checked or found. The claimed name may be misspelled, defunct, unregistered, or simply not web-indexed; the claimed HS codes (071290 dried vegetables; 200899 preserved fruit/nuts) were not assessed per role scope. RECOMMENDATION: do not treat as verified. Re-run against MCA master data (CIN lookup) and the OFAC/EU/UK/BIS list search tools directly, plus eCourts by party name, before any decision. Per project rules, absence of sanctions/court findings is not a rejection ground and no rejection is proposed here."
+}

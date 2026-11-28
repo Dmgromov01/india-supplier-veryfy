@@ -1,0 +1,17 @@
+{
+ "name_input": "VISHNU FORGE INDUSTRIES LIMITED",
+ "declared_hs": "731815;731816;732619;732690",
+ "actual_hs_list": [
+  "732619",
+  "732690",
+  "731815",
+  "731816",
+  "848390 (couplings / gear & coupling parts - заявлено на сайте, код требует уточнения по конкретной номенклатуре)",
+  "860799 / 860791 (детали ж/д подвижного состава - заявлено через раздел Indian Railways, код не подтверждён)",
+  "73269099 / 73261990 (прочие кованые и механически обработанные изделия из чёрных металлов)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Сайт vishnuforge.com (проверен 23.11.2026): «VISHNU FORGE INDUSTRIES LIMITED — Supplier of Forged and Finished Ready to Assemble components». Заявленные производственные направления: Open Forging, Close Die Forging, Ring Rolling, Press Forging, Machined Components, State of Art Machining Centers. Заявленные отрасли применения: Oil Exploration Sector, Indian Railways, Automotive Sector, Coupling Manufacturer, Wind Mill Manufacturing, Sugar and Cement & Ship Industries, Gear Manufacturing, Material Handling, Bearing Manufacturers. Т.е. фактически это кузнечно-механическое производство (forging + machining) поковок, колец, RTA-компонентов, муфт/соединений, деталей для ж/д и ветроэнергетики, а не крепёж как основной профиль. Юниты: Unit-1 HMT Industrial Estate, Bangalore-560013, Karnataka (с 1963); Unit-2 Tumkur Machine Tool Park, Tumkur, Karnataka (с 2025).",
+ "role_hint": "manufacturer (собственное кузнечное и механообрабатывающее производство, два завода в Карнатаке; признаков трейдера не выявлено)",
+ "comment": "Сверка HS: 732619 (прочие кованые изделия из чёрных металлов) и 732690 (прочие изделия из чёрных металлов) — ПОДТВЕРЖДАЮТСЯ профилем сайта (open/close-die forging, press forging, ring rolling, machined components): exact/partial. 731815 (болты/винты) и 731816 (гайки) — НЕ подтверждены: на сайте крепёж как товарная линия не заявлен, раздел «Products» отдаёт только общую формулировку «Forged and Finished Ready to Assemble components»; статус — заявлено, не подтверждено (возможно, крепёж поставляется как RTA-компоненты для авто/ж-д, но конкретной позиции нет). Пропущенные в декларации линии: муфты/соединения (Coupling Manufacturer) — вероятно 848360/848390; детали для Indian Railways — вероятно 8607; кольца подшипников/ветроэнергетики — 848299/732690; поковки для gear manufacturing — 848390. Оговорка по методу: сайт — одностраничное JS-приложение, все URL (/, /products/, /about-us/, /product-portfolio/, /close-die-forging/, sitemap.xml) возвращают идентичный лендинг, поэтому детальный каталог позиций получить не удалось; IndiaMART отдал HTTP 429. Ни одна позиция не сверена с таможенной линией — все товарные утверждения имеют статус «заявлено, не подтверждено». Отраслевая классификация «Строительство и DIY» НЕ соответствует: фактически это промышленное кузнечно-механическое производство (OEM-поставки для ж/д, нефтегаза, ветроэнергетики, авто), а не строительный/DIY-ритейл. HS-несоответствие основанием для отклонения не является — компания сохраняется, коды корректируются на фактическую номенклатуру (732619/732690 как база, 731815/731816 оставить только при подтверждении крепёжной линии)."
+}
