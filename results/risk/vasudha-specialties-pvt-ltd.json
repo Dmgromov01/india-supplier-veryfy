@@ -1,0 +1,9 @@
+{
+ "name_input": "VASUDHA Specialties Pvt Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search (DuckDuckGo/searx) backend returned 'Connection refused' on every attempt; direct fetches of html.duckduckgo.com timed out; Google returned a redirect/consent page only. Bing returned only irrelevant cached results (a Zee TV serial titled 'Vasudha'), including for exact-phrase queries '\"VASUDHA SPECIALTIES PRIVATE LIMITED\"', '\"VASUDHA Specialties\"', and site-restricted queries against zaubacorp.com / tofler.in / indiamart.com — i.e. no corporate, court, regulator or news page for this entity was surfaced. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form that returns no results via plain GET, so no SDN/Non-SDN query could actually be executed; UN, EU, UK OFSI and BIS Entity List were not queried. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because NOTHING WAS CHECKED, not because checks came back clean — this must not be read as a negative/clear finding. No CIN, PAN, address or state was supplied in the input, which further prevents disambiguation of the name (the claimed short name 'VASUDHA CHEM' could not be matched to any registered entity). Per project rules, no rejection is proposed and no facts are inferred. RECOMMENDATION: re-run this company in a later batch once search connectivity is restored, and supply CIN/PAN/state to allow registry (MCA/Zauba/Tofler), eCourts/NJDG, IBBI and sanctions-list lookups; also check Indian trade/export records for any Russia or CIS counterparties at that time."
+}

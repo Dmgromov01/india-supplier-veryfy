@@ -1,0 +1,18 @@
+{
+ "name_input": "VETOGEN ANIMAL HEALTH LLP",
+ "legal_name": "VETOGEN ANIMAL HEALTH LLP (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED — no registry data retrieved. All 10 permitted tool calls were consumed without a single successful registry lookup: the DuckDuckGo search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com and mca.gov.in all returned HTTP 403; Google returned only a redirect/consent interstitial; Bing returned irrelevant results (Chase bank pages) with no match for the entity name; lite.duckduckgo.com timed out. Therefore LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session — they are NOT null because the entity is absent. Per project rules, rejection is permitted only on proof of non-existence/strike-off/liquidation/bankruptcy; no such proof exists here, so the company is NOT rejected and must be re-queued for verification. Role left as 'unknown': the name and declared HS codes (071290 dried vegetables; 230990 animal feed preparations; 300490 medicaments) suggest an animal-health/feed business, but a name is not evidence of manufacturing vs trading status. Revenue FY25/FY26 null — no audited accounts or official filings were accessible; no figures were estimated. Note also that the declared HS set is internally inconsistent with the claimed industry 'Продукты питания и FMCG' (071290 is food-adjacent, but 230990 and 300490 are feed/medicaments), which should be resolved at the next verification pass; per rule 3 this is not grounds for rejection. Action required: re-run with a working search backend or direct MCA V3 / GST portal access."
+}

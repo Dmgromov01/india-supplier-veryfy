@@ -1,0 +1,18 @@
+{
+ "name_input": "VASUDHA Specialties Pvt Ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record obtained. Tooling failure, not a negative finding: the DuckDuckGo/searx search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in/mcafoportal all returned HTTP 403 Forbidden; quickcompany.in returned 404; duckduckgo.com/html timed out. Bing returned a cached, query-independent result set consisting only of the Zee TV serial 'Vasudha' and a 1992 Malayalam film, so it yielded no company data. Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state or MCA status could be confirmed from a public source, and all such fields are set to null rather than guessed. Note the input itself is internally inconsistent: the name field says 'VASUDHA Specialties Pvt Ltd' while legal_claimed says 'VASUDHA CHEM' - these may be two different entities (a private limited company vs. a proprietary/partnership trading name), and this ambiguity cannot be resolved without a registry lookup. state_claimed was empty in the input, so there is no claimed state to compare against. Role is recorded as 'unknown' - the 'Pvt Ltd' suffix suggests a company, but no MCA record was seen to confirm it, and no evidence was gathered on whether it manufactures or trades. Revenue FY25 and FY26 are null: no audited accounts or official filings were located. Per project rules this company is NOT rejected - rejection requires positive evidence that the entity does not exist, is struck off, liquidated or bankrupt, and no such evidence was found; the correct status is 'unverified, needs re-run'. Recommended next step: re-run this company when the search backend is restored, or verify manually on the MCA portal by company name, and separately check the GST public search for 'VASUDHA CHEM' to establish whether it is the same business."
+}

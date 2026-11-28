@@ -1,0 +1,18 @@
+{
+ "name_input": "Swara Baby Products Limited; SWARA BABY PRODUCTS PRIVATE LIMITED; SWARA BABY PRODUCTS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed: no public source could be read. MCA master-data portal (mca.gov.in), Zauba Corp, TheCompanyCheck and InstaFinancials all returned HTTP 403; DuckDuckGo search backend was down (connection refused) and Bing/Google returned only irrelevant results for the token 'Swara' (music app, actress Swara Bhasker) with no hit for 'Swara Baby Products'. Consequently exact legal entity name, CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. Input itself is inconsistent: three name variants given, two of them 'PRIVATE LIMITED' and the claimed legal name 'SWARA BABY PRODUCTS LIMITED' (a 'Limited' form) — the entity form must be confirmed against MCA before use. State claimed in input is empty, so no state mismatch can be assessed. Role left 'unknown' because no registry/audited document was read; declared HS 961900 (sanitary napkins/diapers) and claimed industry 'food & FMCG' are inconsistent with each other but HS mismatch is not a rejection ground per project rules. Revenue FY25/FY26 null — no audited accounts or official filings accessible. No rejection applied: entity existence/struck-off/liquidation status could not be established either way. Recommended next step: manual MCA master-data lookup by name and GST portal search to obtain CIN, PAN and GSTIN."
+}
