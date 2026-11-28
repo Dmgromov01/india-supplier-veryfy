@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S UNITY POLYFAB INDUSTRIES",
+ "legal_name": "UNITY POLYFAB INDUSTRIES (unverified — no registry record retrieved; the 'M/S' prefix suggests a proprietorship/partnership trade name rather than a company)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be confirmed, so nothing is asserted. Tooling failures: the web_search backend returned 'Connection refused' on both queries; zaubacorp.com returned HTTP 403 on both the company-search and company-list URLs; thecompanycheck.com search returned only its marketing landing page with no result rows; Google returned a redirect/consent interstitial; DuckDuckGo HTML endpoint timed out; Bing returned only generic 'unity.com' (game engine) results with no exact-phrase match for 'UNITY POLYFAB INDUSTRIES' or 'Unity Polyfab'. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered state, MCA status or audited revenue could be sourced, and all such fields are null per the no-invention rule. No rejection is applied: absence of a retrieved record is not evidence of non-existence, and per project rules rejection requires confirmed non-existence/strike-off/liquidation/bankruptcy. Role left as 'unknown' — the name and declared HS 540233 (woven fabric of synthetic filament yarn, non-textured polyester) point to a textile/polyfab manufacturer, but this is inference from the name only, not a verified fact. Note the input's industry_claimed 'Продукты питания и FMCG' (food/FMCG) is inconsistent with the declared HS 540233 (synthetic filament woven fabric); per rule 3 this is not a rejection ground — the HS code should be treated as the factual one and the industry label corrected. Recommended next step: re-run once search is restored, or verify manually on the GST portal (search by trade name) and MCA/GeM/IndiaMART-Udyam records to establish whether this is a registered proprietorship (Udyam/GST only, no CIN) or a company."
+}

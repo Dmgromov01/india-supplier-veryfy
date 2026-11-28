@@ -1,0 +1,18 @@
+{
+ "name_input": "S K INTECH METCHEMS PRIVATE LIMITED",
+ "legal_name": "S K INTECH METCHEMS PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) returned connection errors for all queries, and direct fetches of registry/profile pages were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com returned HTTP 404 for the guessed slug; tofler.in search returned a 404 page; Google returned HTTP 429; Bing ignored the quoted phrase and returned only generic 'S'/'Intech' results with no Indian company record. No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figures were found in any accessible public source, so all such fields are null and were NOT inferred or constructed. PAN holder type therefore cannot be derived (the 4th character of a PAN indicates holder type: P=individual, C=company, F=firm, etc., but no PAN was located). Registered-office state is unknown, so it cannot be compared with the (empty) claimed state. Role is recorded as 'unknown' - the name and declared HS codes 854420/854449 (insulated cable/wiring) suggest a possible manufacturer or trader in electrical/chemical products, but this is an inference from the input only and is not evidence. Per project rules, the company is NOT rejected: absence of accessible registry data is not proof of non-existence, strike-off, liquidation or bankruptcy. Action required: re-run verification when the search backend is restored, or query the MCA portal directly by company name to obtain CIN, status and incorporation date, then pull GSTIN from a public GST profile and revenue from filed financials."
+}

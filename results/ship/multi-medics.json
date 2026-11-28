@@ -1,0 +1,8 @@
+{
+ "name_input": "MULTI MEDICS",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/multi-medics and /multimedics both returned only the generic paywalled template: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible on either page (source counter: 2 pages fetched, 0 rows seen). No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search engine (DuckDuckGo/searx) returned \"Connection refused\" on both queries; eximpedia.app and trademo.com returned HTTP 403; google.com returned HTTP 429. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ означает, что отгрузок не было: проверить не удалось, потому что все источники оказались недоступны (importkey — платный шаблон без строк, volza/eximpedia/trademo — 403, поисковик — отказ соединения). Статус по обоим направлениям — unknown, а не none_found, чтобы не утверждать отсутствие факта без проверки. Заявленный HS 902190 (части и принадлежности ортопедических/протезных изделий) не подтверждён и не опровергнут; юрлицо MULTIMEDICS LLP, CIN, PAN, выручка и объём экспорта — null, публично не получены. Требуется повторный прогон при доступном источнике таможенных данных."
+}

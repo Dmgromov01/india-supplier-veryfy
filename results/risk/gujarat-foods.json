@@ -1,0 +1,9 @@
+{
+ "name_input": "GUJARAT FOODS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструмент web_search (DuckDuckGo/searx) возвращал ошибку соединения (Connection refused / timeout) на всех запросах; резервные попытки через Google, DuckDuckGo HTML и Bing по запросам «\"Gujarat Foods\" India company director», «\"Gujarat Foods\" zauba OR tofler OR indiafilings OR court», «\"Gujarat Foods\" Russia OR CIS OR sanctions OR OFAC», «\"Gujarat Foods\" onion OR dehydrated exporter IndiaMART» вернули только общие результаты про штат Гуджарат — ни одной релевантной страницы о компании. Санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List), индийские судебные реестры (eCourts, NCLT), реестры регуляторов (SEBI/RBI/FSSAI), кредитные рейтинги (CRISIL/ICRA/CARE/India Ratings) и данные о поставках в РФ/СНГ по компании с названием «GUJARAT FOODS» не проверены. Все поля оставлены null — это означает «не установлено», а НЕ «отсутствует». Название крайне неспецифично (в Индии множество фирм с таким именем), поэтому без CIN/PAN/адреса однозначная идентификация невозможна; при этом PAN и штат в заявке не указаны. Требуется повторный запуск проверки при работающем поиске и с CIN/PAN или адресом. Оснований для отклонения по правилам проекта нет (нет данных о ликвидации/банкротстве), но и подтверждений благополучности нет."
+}

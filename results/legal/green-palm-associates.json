@@ -1,0 +1,18 @@
+{
+ "name_input": "GREEN PALM ASSOCIATES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один реестровый факт не подтверждён. Причина техническая — поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', затем Google отдал HTTP 429, Bing по запросам в кавычках выдавал нерелевантную выдачу (страницы про цвет 'green', спам), zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 404, портал MCA (mca.gov.in) — HTTP 403. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни статус MCA не найдены в публичных источниках в рамках этой сессии. ВАЖНО: 'GREEN PALM ASSOCIATES' по форме названия — не компания (нет суффикса Private Limited/Limited/LLP), а вероятнее всего проприеторское дело / partnership firm; в таком случае CIN отсутствует по определению, а PAN должен быть в формате ABCDE1234F с 4-м символом 'P' (individual/proprietor) или 'F' (firm) — но фактический PAN не подтверждён, поэтому null. Заявленное в input 'PRATEEK PARETA' — это имя лица, а не юрлицо; связь лица с фирмой документально не подтверждена. Выручка FY25/FY26: аудиторской отчётности или официальных филингов не найдено — null (не выдумывалось). Роль: unknown — данных о характере деятельности (производитель/трейдер) нет. HS 392520 (изделия из пластмасс для строительства, двери/окна/рамы) — не проверялся по правилам роли, и по правилам проекта несоответствие HS не является основанием для отклонения. ВЕРДИКТ: НЕ отклонять — оснований для rejected (несуществование, struck off, ликвидация, банкротство) не установлено, но и подтверждения существования нет. Требуется повторная проверка при доступных реестрах: MCA master data, GST-портал (gst.gov.in search taxpayer), Udyam/Udyog Aadhaar, GeM/CPPP для подтверждения внутренних поставок."
+}

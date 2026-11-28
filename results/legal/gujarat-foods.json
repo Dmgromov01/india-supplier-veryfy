@@ -1,0 +1,18 @@
+{
+ "name_input": "GUJARAT FOODS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. 'GUJARAT FOODS' is a generic trade name that may correspond to a proprietorship/partnership (no CIN, no MCA record) or to one of several similarly named entities; the input gives no PAN, GSTIN, city or state to disambiguate. Tooling failed: DuckDuckGo search backend returned connection refused; zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck search returned 404; Google returned a redirect interstitial; Bing returned only generic 'Gujarat' tourism/state results with the company-specific terms dropped, so no registry page could be opened. Therefore legal entity name, CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, not 'absent'. Role left as unknown: no evidence of manufacturing plant or of trading activity was obtainable from registry sources. Revenue FY25/FY26 null - no audited accounts or official filings located. Per project rules this is NOT a rejection: the entity is not shown to be non-existent, struck off, liquidated or bankrupt - it is simply unverified. HS 071220 (dried onions) is not treated as a rejection ground; if the actual code differs it should be corrected to the factual code with verdict accepted_hs_corrected. Recommended next step: obtain the supplier's GSTIN or PAN directly from the counterparty, then re-run verification against the GST portal and MCA master data."
+}
