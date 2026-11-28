@@ -1,0 +1,9 @@
+{
+ "name_input": "INDONEVA EXIM PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no verifiable public record found for this entity. Tooling: DuckDuckGo/searx backend returned 'Connection refused' on all 3 search attempts, so no open-web search was possible. Direct fetches: OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded but is a JS form that returns no query results via plain GET — no name screening against SDN/Non-SDN could be executed, therefore sanctions_hit is null (NOT a negative/clear result). ZaubaCorp 403 Forbidden; MCA master-data portal 403 Forbidden; Tofler and InstaFinancials returned 404 for the slug (suggesting the name may not be registered as spelled, or is behind a paywall/not indexed — inconclusive, not proof of non-existence). Indian Kanoon searched for both 'Indoneva Exim' and 'Indoneva': 0 matching results — this is the only substantive negative finding, and it covers reported judgments only, not district courts, NCLT, DRT, consumer fora or pending matters. No credit rating found (no CRISIL/ICRA/CARE/India Ratings/Acuite record located). No negative news located (search unavailable). No evidence of supplies to Russia or CIS found — but absence of evidence here is an artefact of failed search, not a verified negative. All fields null per rule 4 (do not invent data). RECOMMENDATION: do not treat this as a cleared company; re-run screening when search access is restored, and screen the exact MCA-registered name plus any CIN against OFAC SDN, UN, EU, UK OFSI and BIS Entity List, and check NCLT/IBBI for insolvency. Per rule 2, any sanctions/court findings that do emerge are not rejection grounds — record neutrally as 'есть сложности'. Per rule 3, rejection only if the legal entity is shown not to exist, is struck off, or is in bankruptcy/liquidation — none of which is established either way here."
+}

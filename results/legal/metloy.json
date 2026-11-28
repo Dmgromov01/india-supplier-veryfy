@@ -1,0 +1,18 @@
+{
+ "name_input": "METLOY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool was non-functional (searx connection refused), and direct fetches of registry aggregators failed: zaubacorp.com returned HTTP 403, thecompanycheck.com 404, instafinancials.com 403, quickcompany.in 404, tofler.in 404, google.com 429, duckduckgo timed out, and bing.com returned only unrelated results (search proxy appears to be mangling queries). Consequently no exact legal entity name, CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from a public source. 'METLOY' as given is a brand/trade name, not a verified legal entity name; it may correspond to e.g. 'Metloy ... Private Limited' but this is unconfirmed and must not be assumed. No rejection is applied because non-existence is NOT established - the entity simply could not be checked. Action required: re-run with working search/registry access (MCA master data, GST portal public search) before any verdict. Revenue FY25/FY26 left null per rule 4 (no audited accounts or official filings located)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "AKASH STEEL CRAFTS PVT LD",
+ "legal_name": "AKASH STEEL CRAFTS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: web_search backend refused connections (searx: Connection refused) on both queries; Bing/Google returned unrelated or rate-limited results; Zauba Corp, TheCompanyCheck and FalconEBiz returned HTTP 403; Tofler returned 404 for the guessed slug; IndiaMART returned binary/garbled content. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they are absent, but because they were not publicly retrievable within the tool budget. No entity-existence conclusion can be drawn: per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was found, so the company is NOT rejected. Two input inconsistencies to flag for manual follow-up: (1) declared HS 730630 is a welded circular carbon-steel tube/pipe code (Chapter 73 - iron and steel articles), which is wholly inconsistent with the claimed industry 'IT и электроника' (IT and electronics); the name 'Steel Crafts' is consistent with the HS code, so the industry_claimed field is likely the error, not the HS code. Per rule 3, HS mismatch is not a rejection ground - the code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected once the entity is confirmed. (2) The input name 'AKASH STEEL CRAFTS PVT LD' contains a typo ('LD' for 'LTD'); the legal name must be confirmed from MCA before any record is created. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by legal name."
+}

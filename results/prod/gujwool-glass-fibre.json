@@ -1,0 +1,15 @@
+{
+ "name_input": "Gujwool glass fibre",
+ "declared_hs": "701940",
+ "actual_hs_list": [
+  "701980",
+  "701990",
+  "701919",
+  "392190",
+  "560210"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Сайт gujwool.com (разделы Home и Products, прочитаны 23.11.2026) заявляет производство с 2008 г. и перечисляет 8 серий: E-SERIES — E-glass needle mat; CR-SERIES — ECR glass needle mat; S-SERIES — S-glass/silica fibre needle mat; HT-SERIES — high-purity silica needle mat; TP-SERIES — PP + glass fibre needle mat; LW-SERIES — lightweight reinforced thermoplastic sheet; CF-SERIES — compressed felt (fire barrier); GF-SERIES — glassfibre felt tapes. Заявленные рынки: automotive, aerospace, railways, solar/EV, акустика, строительство, defence, marine, power generation, industrial OEM. Ключевой факт: вся продукция — нетканые иглопробивные маты/войлок/ленты и термопластичные листы, тканых стеклотканей (woven fabrics) в каталоге нет.",
+ "role_hint": "manufacturer (заявлено на сайте: 'Global Manufacturers of High-Performance Glass Fibre Needle Mats', 'Indian manufacturing sector since 2008'); признаков трейдера в каталоге не видно, но производственная площадка на сайте не указана — только офисный адрес A/112, Sagar Tech Plaza, Sakinaka, Mumbai",
+ "comment": "HS 701940 = 'Tissus de fibres de verre (woven fabrics of glass fibres)' — тканые стеклоткани. Фактический ассортимент — нетканые иглопробивные маты, войлок, ленты и армированные термопластичные листы, т.е. товарная группа 7019, но НЕ ткань. Корректные коды: 7019.80 (стекловолокно прочее, вкл. нетканые маты/войлок — основной код для E/CR/S/HT/CF/GF серий), 7019.90 (прочие изделия из стекловолокна), 7019.19 (ровинг/рубленое волокно, если поставляется как сырьё), 3921.90 (LW-SERIES — армированный термопластичный лист, если стекловолокно не является основным компонентом), 5602.10 (иглопробивной войлок, если основа не стеклянная). Вердикт по правилу 3: компания СОХРАНЯЕТСЯ в базе, HS-код исправляется на фактический (701980 как основной), статус accepted_hs_corrected — несоответствие HS не является основанием для отклонения. Отраслевая классификация 'Строительство и DIY' неточна: основной профиль — промышленная термо- и акустическая изоляция для automotive/aerospace/railways/defence/power generation, строительство лишь одна из 10 заявленных отраслей. Продуктовые линии, отсутствующие в декларации: TP-SERIES (PP+стекловолокно), LW-SERIES (термопластичные листы, вероятно гл. 39), CF-SERIES (fire barrier felt), GF-SERIES (ленты). Все позиции — заявлено, не подтверждено: ни одной таможенной строки, B/L или GST-записи по конкретным отгрузкам в рамках этой проверки не найдено; сайт и каталог фактом отгрузки не считаются. Данные о выручке, объёме экспорта, PAN/CIN и производственных мощностях не проверялись (вне роли) — null."
+}

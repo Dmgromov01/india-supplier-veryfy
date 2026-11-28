@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S D K V ENTERPRISES PVT LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО. Ни один реестровый идентификатор не найден. Ход проверки: (1) web_search (DuckDuckGo/searx) недоступен — 'Connection refused' на всех запросах; (2) zaubacorp.com — HTTP 403 (и карточка компании, и поиск по названию); (3) thecompanycheck.com — HTTP 403; (4) instafinancials.com — HTTP 404; (5) tofler.in — HTTP 404; (6) mca.gov.in (Master Data) — HTTP 403; (7) Google — HTTP 429; (8) DuckDuckGo HTML — timeout; (9) Bing по трём разным запросам ('\"DKV ENTERPRISES PRIVATE LIMITED\" CIN', '\"DKV ENTERPRISES PVT LTD\" GST OR CIN', '\"DKV ENTERPRISES\" PRIVATE LIMITED incorporation GSTIN') выдал только нерелевантную выдачу про DKV Mobility / DKV Seguros / DKW — ни одного индийского реестрового результата. Следовательно: существование юрлица 'DKV ENTERPRISES PRIVATE LIMITED' НЕ подтверждено и НЕ опровергнуто. По правилу 3 отклонение (rejected) НЕ применяется — нет доказательств ликвидации/банкротства/struck off; статус остаётся непроверенным, компания сохраняется в базе для повторной проверки. CIN, PAN, GSTIN, дата инкорпорации, штат регистрации, MCA-статус — null (не публичны в доступных источниках / источники недоступны). PAN-тип (4-й символ) определить невозможно, т.к. PAN не найден. Роль: unknown — заявленные HS 720839/730711/730729/730799 (плоский прокат, фитинги, трубные соединения из чёрных металлов) указывают на металлотрейдинг/производство, но по реестру вид деятельности не подтверждён; 'Pvt Ltd' в названии не является доказательством роли. Выручка FY25/FY26 — null: аудиторская отчётность и официальные филинги недоступны (MCA 403, агрегаторы 403/404), цифры не выдумывались. Штат ввода не заявлен (state_claimed пусто), сверять не с чем. РЕКОМЕНДАЦИЯ: повторить проверку при восстановлении доступа к MCA21/zaubacorp; до этого — 'заявлено, не подтверждено', следов поставок по реестровым данным не установлено."
+}

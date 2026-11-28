@@ -1,0 +1,18 @@
+{
+ "name_input": "Gujwool glass fibre",
+ "legal_name": "GUJWOOL GLASSFIBRE COMPOSITES (as claimed in input; exact registered name NOT verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) returned 'Connection refused' for all queries, and every public registry aggregator attempted returned HTTP 403/429 or a bot-block page: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), tofler.in (404 on search endpoint), falconebiz.com (403), mca.gov.in master-data (403), plus Google (429) and Bing (irrelevant results, no company match). No CIN/LLPIN, PAN, GSTIN, incorporation date, MCA status or audited revenue could be confirmed from an official filing, so all such fields are null rather than guessed. PAN holder type therefore cannot be derived (the 4th character of a PAN indicates holder type: P=individual, C=company, F=firm, etc., but no PAN is public for this entity). Registered-office state is unknown, so it cannot be compared with the (empty) state claimed in the input. Role is left 'unknown' - the name suggests a glassfibre/composites manufacturer, but that is a name inference, not a verified registry fact. IMPORTANT per project rules: this is NOT a rejection. Rejection is only permitted when the entity is proven non-existent, struck off, liquidated or bankrupt, and no such proof exists here - the entity may well be registered but simply not resolvable through the blocked sources. Action required: re-run verification when search access is restored, or supply the CIN/GSTIN directly so the MCA master data and GST portal can be queried. Declared HS 701940 (woven glass-fibre fabrics) is not a basis for rejection under the 23.11.2026 rule; if the actual product code differs it should be corrected to the factual code with verdict accepted_hs_corrected. No shipment, court or catalogue research was performed, per role scope."
+}
