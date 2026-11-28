@@ -1,0 +1,18 @@
+{
+ "name_input": "Uniflex Auto Industries (Vulcan rubber)",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry data obtained. All tool calls failed: web_search backend returned 'Connection refused' (searx down); Bing/Google/DuckDuckGo returned either HTTP 429/timeout or completely irrelevant results (aircraft companies, plant species, programming pages) - i.e. no usable search index. Direct fetches of registry aggregators were blocked: zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), mca.gov.in master-data page (403). Therefore exact legal entity name, CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not retrievable in this session, not because they do not exist. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role set to 'unknown' (cannot confirm manufacturer vs trader). IMPORTANT: no rejection is implied - the entity was NOT found to be non-existent, struck off, liquidated or bankrupt; verification is simply incomplete and must be re-run when search/registry access is restored. Input name is ambiguous: 'Uniflex Auto Industries' with a parenthetical '(Vulcan rubber)' suggests either a trade name of a rubber-parts maker or a reference to Vulcan-brand rubber products; the legal entity behind it could not be disambiguated. Declared HS 401699 (other articles of vulcanised rubber) is plausible for an auto-rubber-parts maker but is unverified; per project rules HS mismatch is not a rejection ground and no HS verdict is issued here. Industry claim 'oil & gas / chemicals' is inconsistent with the rubber-auto-parts reading and also unverified."
+}

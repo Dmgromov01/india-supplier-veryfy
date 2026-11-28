@@ -1,0 +1,18 @@
+{
+ "name_input": "AMI PIGMENTS PVT LTD",
+ "legal_name": "AMI PIGMENTS PVT LTD (exact MCA-registered name not verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - data unavailable, not negative evidence. Tooling failed during this run: web_search backend returned connection refused (searx), DuckDuckGo HTML timed out, Google returned HTTP 429, Bing returned only irrelevant generic 'AMI' results (ami.com, Ami Paris, AMI Attachments) with no Indian pigment entity, and registry aggregators blocked or 404'd: zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, tofler.in 404 for the guessed slug, instafinancials.com 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status could not be read from any public source and are left null rather than guessed. No audited accounts or official filings were located, so revenue FY25 and FY26 are null. Role is 'unknown' - the name suffix 'Pvt Ltd' is consistent with a private limited company but no MCA record was read to confirm manufacturer vs trader status. Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity simply could not be verified with the tools available. Declared HS 320417 (synthetic organic colouring matter / pigments) is plausible for a 'Pigments' entity but was not checked against any filing and is not a rejection ground in any case. Recommended next step: re-run against MCA master data / GST portal with working search access, or obtain the CIN or GSTIN from the supplier directly, then confirm legal name, incorporation date, state of registered office and GST status."
+}

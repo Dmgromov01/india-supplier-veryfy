@@ -1,0 +1,18 @@
+{
+ "name_input": "SURIN INTERNATIONAL PVT. LTD",
+ "legal_name": "SURIN INTERNATIONAL PRIVATE LIMITED (as claimed in input; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (all web_search calls returned 'no results / Connection refused'); Bing and Google returned irrelevant results (Thai province/restaurant pages) or HTTP 429; registry aggregators Zauba Corp, TheCompanyCheck, Falconebiz returned HTTP 403; Tofler returned HTTP 404 for the guessed slug; InstaFinancials returned HTTP 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT public-verified, simply not retrieved. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role set to 'unknown' because no MCA business-activity record was obtained; the input's declared HS 401130 (rubber products) and industry claim 'metallurgy & mining' are inconsistent with each other, but per project rules HS mismatch is not a rejection ground and no HS correction is asserted here since the actual code could not be verified. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found - the entity's existence is simply unconfirmed. Recommended follow-up: manual lookup on mca.gov.in (company name search) and GST portal search by trade name, plus a paid registry aggregator, before any verdict is issued."
+}

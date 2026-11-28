@@ -1,0 +1,18 @@
+{
+ "name_input": "HARIKRUSHNA MARKETING",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Данные не подтверждены: ни один публичный реестровый источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, Google — HTTP 429, Bing — нерелевантную/повреждённую выдачу, Zauba Corp — HTTP 403, MasterIndia — HTTP 401. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус не найдены и НЕ выдуманы. 'HARIKRUSHNA MARKETING' по формату названия — вероятнее всего проприетарное дело (sole proprietorship) или partnership, а не компания: у таких образований нет CIN и нет данных в MCA, поэтому CIN/LLPIN и mca_status, скорее всего, останутся null и при полной проверке — это не основание для отклонения. 'SACHIN VINUBHAI SORATHIYA' в поле legal_claimed — это имя физлица-владельца, а не юрлица; фамилия Sorathiya характерна для штата Гуджарат (регион Саураштра), но state_claimed в входных данных пуст, поэтому сопоставление штата не проводилось. Роль (manufacturer/trader) не определена — нет данных о виде деятельности из реестра. Выручка FY25/FY26: null — аудиторская отчётность и официальные филинги для проприетарного дела публично не раскрываются. Отклонение НЕ применяется: отсутствие данных не равно несуществованию юрлица. Требуется повторная проверка при восстановлении доступа к GST-порталу (services.gst.gov.in) и MCA; для проприетарного дела ключевой идентификатор — GSTIN, который нужно запросить у поставщика напрямую."
+}

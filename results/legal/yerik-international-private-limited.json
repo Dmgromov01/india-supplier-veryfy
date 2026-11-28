@@ -1,0 +1,18 @@
+{
+ "name_input": "YERIK INTERNATIONAL PRIVATE LIMITED",
+ "legal_name": "YERIK INTERNATIONAL PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "NOT VERIFIED - no registry record could be retrieved. Tooling failed during this run: DuckDuckGo/searx backend refused connections ('Connection refused'), Bing returned only unrelated results for every query variant, and all registry mirrors attempted returned errors - zaubacorp.com HTTP 403, thecompanycheck.com HTTP 403, falconebiz.com HTTP 403, quickcompany.in HTTP 404, instafinancials.com HTTP 404, tofler.in search HTTP 404. Google returned HTTP 429. Consequently CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not public to me in this session - they are NOT null because they were checked and found absent. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. Role set to 'unknown' - the claimed industry ('food products / FMCG') is inconsistent with declared HS 843290 (agricultural/horticultural machinery parts), but per project rules an HS mismatch is not a rejection ground and no role can be inferred from a catalogue anyway. Per the rules, rejection requires proof that the entity does not exist, is struck off, liquidated or bankrupt; no such proof was obtained, so this company is NOT rejected - it is carried forward as unverified pending a re-run of registry checks (recommended sources: MCA master data via mca.gov.in, GST portal search by legal name, and a GSTIN-linked public profile). No shipment, court or catalogue research was performed, per role scope."
+}

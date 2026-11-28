@@ -1,0 +1,26 @@
+{
+ "name_input": "BODY AND YOU (A DIVISION OF S.A.PHARMACHEM PVT LTD)",
+ "declared_hs": "350510",
+ "actual_hs_list": [
+  "3505.10",
+  "1702.90",
+  "3824.99",
+  "2106.90",
+  "0404.10",
+  "3502.20",
+  "3504.00",
+  "2936.29",
+  "2918.15",
+  "3824.60",
+  "1302.19",
+  "2102.10",
+  "3913.90",
+  "2835.25",
+  "3823.19",
+  "3203.00"
+ ],
+ "match_status": "partial",
+ "product_summary": "Parent entity S. A. Pharmachem Pvt. Ltd (Mumbai, Goregaon East) is a specialty-ingredient importer/distributor and blender, not a food FMCG brand manufacturer. Its own website (sapharmachem.com/products) lists four segments: Pharmaceutical (Isomalt, Lactitol, Lactose, Maltitol, Mannitol, MCT, Pregelatinized Starch Innogel 9000/9500, Sorbitol, Soya Lecithin liquid/powder, Xylitol); Nutraceutical (whey protein concentrate/isolate/hydrolysate, erythritol, D-mannose, CLA Clarinol, betaine, fucoidans, probiotics HOWARU/FloraFIT, hyaluronic acid, CoQ-type antioxidants, vitamin C/D3/E, resveratrol, cranberry extract, green-lipped mussel powder); Food Ingredients (erythritol, maltitol, mannitol, micro-nutrient premix Vcart, pregelatinized starch, soya lecithin, whey proteins); Animal Nutrition (rumen bypass fat/protein, mineral mixture, trace mineral premix, AD3E vitamins); Textile (modified starch, enzymes, digital printing inks). The specific 'Body and You' division brand page could not be opened (bodyandyou.in did not resolve; no dedicated division page found on the parent site), so the division's own SKU list is not publicly verifiable.",
+ "role_hint": "trader",
+ "comment": "HS 3505.10 (dextrins and other modified starches) is only ONE line of a much wider portfolio. It is corroborated by the parent's own catalogue entry 'Pregelatinized Starch - Innogel 9000/9500' (pharma/nutra/food segments), so the code is not wrong - it is partial. The declared single code cannot cover the actual product mix, which spans at least: modified starches 3505.10; polyols/sugar alcohols (sorbitol 2905.44, mannitol 2905.43, maltitol 2905.44/3824.60, xylitol 2905.44, erythritol 2905.44, isomalt 2905.44/3824.60); lactose 1702.11/1702.19; whey protein concentrate/isolate/hydrolysate 0404.10; soya lecithin 2923.20; MCT 1516.20/2915.90; micro-nutrient premix 2309.90 (feed) or 2106.90 (food); animal mineral mixture and rumen bypass fat 2309.90; textile enzymes 3507.90; textile modified starch 3505.10. Industry classification 'Продукты питания и FMCG' is a misclassification: the parent is a B2B specialty-ingredient distributor/blender serving pharma, nutraceutical, food, animal-nutrition and textile industries - not an FMCG food producer. Trader signs are strong: the site self-describes as 'a leading business entity representing global manufacturers' and the product list is almost entirely third-party branded ingredients (C*Pharm, Zerose, Clarinol, HOWARU, Provon, Avonlac, Xivia, Epikuron, Maritech, Veri-te, FruiteX-B, BLIS, EpiCor), i.e. imported and resold, with only pregelatinized starch Innogel and Vcart premix presented as own blending/manufacturing. Product lines entirely missing from the declaration: polyols, lactose, whey proteins, lecithin, probiotics, animal nutrition, textile chemicals. All product identifications above are from the company's own catalogue and are therefore 'заявлено, не подтверждено' - no customs line was available to me in this task to corroborate any specific code. Per project rule 3, the HS mismatch is not a rejection ground: company is retained and the code set is corrected/expanded to the actual portfolio, verdict accepted_hs_corrected. Note: the parent website carries injected casino-spam text in its header/footer (SEO compromise) - a data-quality flag on the source, not a product issue."
+}
