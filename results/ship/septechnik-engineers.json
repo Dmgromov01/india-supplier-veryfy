@@ -1,0 +1,8 @@
+{
+ "name_input": "SEPTECHNIK ENGINEERS",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey pages for slugs 'septechik-engineers', 'septechik-engineer' and 'septechik-engineers-' render only the boilerplate template: 'Shipments available for SEPTECHIK ENGINEERS, refreshed daily' — zero shipment rows, zero dates, zero destinations, zero B/L numbers displayed. Source counter: 3 ImportKey URL variants tried, 0 shipment records actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Searches for the exact name returned no relevant hits (Bing exact-phrase query returned unrelated US people-search pages; DuckDuckGo/searx backend was unreachable). Source counter: 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных отгрузок, ни подтверждённых внутренних поставок. Важно: ImportKey генерирует страницу-шаблон для любого слага, поэтому наличие URL НЕ является подтверждением существования компании или её отгрузок; ни одной фактической записи (дата, направление, HS, B/L) не получено. Вторые источники (volza, eximpedia, trademo) отдали HTTP 403, поисковый бэкенд searx недоступен — проверить не удалось. Статусы выставлены 'unknown', а не 'none_found', только потому, что инструменты проверки были недоступны, а не потому что отгрузки опровергнуты; при повторной проверке с рабочим доступом к таможенным данным статус нужно уточнить. Выручка и объём экспорта: null (не публичны / не найдены). HS-коды 732690;780600;842119 не подтверждены и не опровергнуты — по правилу 3 несоответствие HS не является основанием для отклонения. Компания не отклоняется."
+}

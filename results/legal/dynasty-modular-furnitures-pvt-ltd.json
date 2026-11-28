@@ -1,0 +1,18 @@
+{
+ "name_input": "DYNASTY MODULAR FURNITURES PVT. LTD",
+ "legal_name": "DYNASTY MODULAR FURNITURES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend returned 'Connection refused' on both searches; zaubacorp.com, thecompanycheck.com and instafinancials.com returned HTTP 403; tofler.in search returned 404; Google returned HTTP 429; Bing returned only irrelevant generic results (currency converters, dictionary entries for 'dynasty') with no Indian company record. Consequently no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from any public source. Per project rules, nothing is invented: all registry fields are null and revenue FY25/FY26 are null (no audited accounts or official filings located). This is a data-availability gap, NOT evidence of non-existence - the entity is therefore NOT rejected (rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained either way). Role left as 'unknown': the name suggests a furniture manufacturer, but no MCA business-object or GST activity record was read, so manufacturer vs trader cannot be established. Declared HS codes 940179/940180/940320/940340 (metal/wood/plastic furniture, seats) are plausible for a modular-furniture firm but were not checked against any actual filing - HS mismatch is not a rejection ground per rules anyway. Recommended next step: re-run with a working search backend and query MCA master data (mca.gov.in / company master data) plus a GST public profile for the exact legal name, and confirm the registered state, since the input left state_claimed empty."
+}

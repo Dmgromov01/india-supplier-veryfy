@@ -1,0 +1,75 @@
+{
+ "name_input": "C.R.I. PUMPS (P) LTD.; C. R. I. PUMPS PVT LTD; C.R.I. PUMPS PVT. LTD.; C.R.I.PUMPS (PVT.) LTD.; C.R.I. PUMPS PVT LTD; CRI PUMPS PVT LTD; C.R.I. PUMPS PVT. LTD .; CRI PUMPS PRIVATE LIMITED; C R I PUMPS PRIVATE LTD; C.R.I. PUMPS PVT.LIMITED; C.R.I. PUMPS PRIVATE LIMITED; C.R.I. PUMPS PVT LTD.; C.R.I PUMPS PRIVATE LIMITED; C R I PUMPS PRIVATE LIMITED; M/S CRI PUMPS PRIVATE LIMITED; C R I PUMPS PVT. LTD.; C R I PUMPS PVT LTD",
+ "sanctions_hit": false,
+ "court_cases": [
+  {
+   "case": "G. Rajendran vs CRI Pumps Pvt Ltd",
+   "forum": "NCLAT, Chennai Bench (appeal from NCLT)",
+   "date": "2023-09-20",
+   "party_role": "respondent",
+   "subject": "oppression and mismanagement / company law board relief; related family-group dispute over hiving off units from CRI Pumps Pvt Ltd to Nargo Industries Pvt Ltd",
+   "status": "decided by NCLAT (appeal disposed); no insolvency or liquidation finding located",
+   "source": "https://indiankanoon.org/search/?formInput=%22CRI%20Pumps%22%20NCLAT%20Rajendran"
+  },
+  {
+   "case": "Mr. G. Rajendran vs G. Soundararajan (and connected matters)",
+   "forum": "Madras High Court",
+   "date": "2023-09-20",
+   "party_role": "subject company referenced (CRI Pumps entities involved in merger scheme)",
+   "subject": "challenge to scheme of merger/hiving off of units of CRI Pumps Pvt Ltd",
+   "status": "orders passed; scheme aspects left undisturbed per reported text",
+   "source": "https://indiankanoon.org/search/?formInput=CRI%20Pumps"
+  },
+  {
+   "case": "Tsi Engineering Industries Private Limited vs C.R.I Amalgamations Private Limited",
+   "forum": "Madras High Court",
+   "date": "2019-10-31",
+   "party_role": "related group entity (C.R.I Amalgamations), not the named legal entity",
+   "subject": "trademark dispute over pump marks",
+   "status": "decided",
+   "source": "https://indiankanoon.org/search/?formInput=CRI%20Pumps"
+  },
+  {
+   "case": "Cri Pumps (P) Limited vs Assistant Commissioner (CT)(FAC) / (ST)(FAC); M/s CRI Pumps P Ltd vs Addl. CIT",
+   "forum": "Madras High Court",
+   "date": "2015-07-06; 2021-11-01; 2021-11-12",
+   "party_role": "petitioner/appellant (taxpayer)",
+   "subject": "sales tax and income tax (additional depreciation) matters",
+   "status": "decided; tax litigation only, no adverse regulatory finding located",
+   "source": "https://indiankanoon.org/search/?formInput=CRI%20Pumps"
+  }
+ ],
+ "rating": {
+  "agency": null,
+  "rating": null,
+  "date": null,
+  "status": "not verified",
+  "note": "CRISIL ratings-list page could not be retrieved (TLS handshake timeout) and the search backend was unavailable for the whole session; no rating was confirmed from a primary source. Do not treat as unrated."
+ },
+ "news_risk": [
+  {
+   "item": "Environmental Clearance from SEIAA, Chennai, for expansion of industrial shed at Vellamadai Village, Annur Taluk (Hypres Foundries unit)",
+   "type": "regulatory approval (positive/neutral), not an enforcement action",
+   "date": null,
+   "source": "https://www.cripumps.com/ (news section)"
+  },
+  {
+   "item": "20th EEPC export award; National Energy Conservation Award 8th consecutive year",
+   "type": "positive recognition",
+   "date": null,
+   "source": "https://www.cripumps.com/ (news section)"
+  },
+  {
+   "item": "No adverse regulatory action, penalty or negative press located",
+   "type": "null result",
+   "date": null,
+   "source": "search backend (DuckDuckGo/searx) returned connection refused for all queries; negative-news coverage is therefore incomplete, not confirmed clean"
+  }
+ ],
+ "rf_supply": {
+  "evidence_found": false,
+  "detail": "No evidence of supplies to Russia or CIS located. Company states presence in 120 countries with 15 wholly owned subsidiaries, but no Russia/CIS-specific shipment, contract or counterparty record was found. Absence of evidence only — search tooling was down, so this is not a confirmed negative.",
+  "source": "https://www.cripumps.com/"
+ },
+ "note": "Sanctions: no match in OpenSanctions consolidated dataset (sanctions + PEP + regulatory), data current as of 2026-11-28, queried for both 'CRI Pumps' and 'CRI Pumps Private Limited' — https://www.opensanctions.org/search/?q=CRI+Pumps . OFAC SDN CSV was retrieved but truncated at 6,000 chars by the fetch tool, so a full-string SDN grep could not be completed; UN/EU/UK/BIS lists were not individually queried. Treat sanctions as 'no hit found, coverage partial'. Litigation is real but is intra-group/family shareholder litigation (NCLAT 2023), trademark and tax matters — per project rules this is not a rejection ground; neutral framing: 'есть сложности'. No insolvency, liquidation or bankruptcy proceeding located. Credit rating: null — could not be verified, not an absence of rating. Negative news: none found, but search was unavailable, so coverage is incomplete. RF/CIS supply: no evidence found, not a confirmed negative. Research constrained: web_search backend refused all connections; findings rest on direct fetches of OpenSanctions, Indian Kanoon and the company site."
+}

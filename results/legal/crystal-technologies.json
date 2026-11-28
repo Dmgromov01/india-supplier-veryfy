@@ -1,0 +1,18 @@
+{
+ "name_input": "Crystal Technologies",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по открытым источникам в рамках этого прохода. Входные данные противоречивы: в поле legal_claimed указано физлицо «SUSHIL BHIMRAO KHADE», а не юрлицо; название «Crystal Technologies» — крайне распространённое, без CIN/GSTIN/города однозначно сопоставить нельзя. Проверенные каналы недоступны: DuckDuckGo/searx вернул connection refused, Google — HTTP 429, Bing выдал нерелевантную выдачу (кристаллы, утилиты), zaubacorp.com и instafinancials.com — HTTP 403, thecompanycheck — 404, mca.gov.in MDS — 403, gstinsearch.in — DNS failure. Ни один реестровый факт (CIN, PAN, GSTIN, дата регистрации, статус MCA, выручка) не подтверждён, поэтому все поля null — цифры не выдумывались. Отклонение НЕ применяется: отсутствие данных не равно отсутствию юрлица (правило 3). Роль оставлена unknown: если это проприеторство физлица, CIN отсутствует по определению, а PAN физлица имеет 4-й символ 'P'. Требуется от поставщика: точное юрлицо (Pvt Ltd/LLP/проприетор), GSTIN или PAN, город/штат — для повторной проверки. HS 848340 (зубчатые передачи/редукторы) с заявленной отраслью «металлургия и горнодобыча» не противоречит, но по правилу 3 HS-несоответствие не является основанием для отклонения."
+}

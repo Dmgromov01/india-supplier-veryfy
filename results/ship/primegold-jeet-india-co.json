@@ -1,0 +1,8 @@
+{
+ "name_input": "PRIMEGOLD JEET INDIA CO",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/primegold-jeet-india-co (and slug variant /primegold-jeet-india) returned only the page template: 'Shipments available for PRIMEGOLD JEET INDIA CO, refreshed daily' — 0 actual shipment rows rendered, no date, no destination, no HS code, no B/L number. Source counter: 2 importkey pages fetched, 0 shipment records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend (DuckDuckGo/searx) returned 'Connection refused' on all 3 attempts, so no domestic-supply source could be located; volza, eximpedia, trademo returned HTTP 403 and importgenius returned a JavaScript challenge. Source counter: 0 domestic records seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что отгрузок не было: проверить их не удалось, потому что поисковик был недоступен (searx: Connection refused), а все платные/бесплатные витрины таможенных данных (volza, eximpedia, trademo — 403; importgenius — JS challenge) закрыты. ImportKey отдал только шаблон без единой записи. Заявленный HS 730830 (двери/окна/рамы и их части из чёрных металлов) ничем не подтверждён и не опровергнут — HS не является основанием для отклонения, код оставлен как заявленный до фактической проверки. Выручка: null (не публична, не выдумывалась). Объём экспорта: null. Юрлицо не проверено по MCA — нет доступа к реестрам в рамках этой роли. Рекомендация: повторить проверку при доступном поиске и/или запросить у поставщика IEC, номера B/L и GST-декларации напрямую."
+}
