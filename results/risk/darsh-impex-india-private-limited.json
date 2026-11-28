@@ -1,0 +1,9 @@
+{
+ "name_input": "DARSH IMPEX INDIA PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковая инфраструктура недоступна (DuckDuckGo/searx — connection refused; html.duckduckgo — обрыв соединения; Bing вернул нерелевантную/мусорную выдачу, не связанную с запросом). Реестры и агрегаторы закрыты: zaubacorp.com — HTTP 403, thecompanycheck.com — HTTP 403, mca.gov.in — HTTP 403, indiankanoon.org — DNS не разрешается. OFAC Sanctions List Search открылся только как JS-форма без выполнения запроса, поэтому фактического прогона по SDN/Non-SDN не было — sanctions_hit=null означает 'не проверено', а не 'чисто'. Аналогично court_cases, rating, news_risk и rf_supply = null: публичных данных получить не удалось, выдумывать источники и записи нельзя. Никаких негативных сведений (санкции, суды, регуляторные акции, дефолты, поставки в РФ/СНГ) не найдено и не опровергнуто. Требуется повторный прогон при восстановлении доступа к поиску и реестрам (MCA master data, Zauba/Tofler, Indian Kanoon, OFAC/UN/EU/UK/BIS списки). Отклонение по данному отчёту не обосновано — оснований для rejected нет."
+}

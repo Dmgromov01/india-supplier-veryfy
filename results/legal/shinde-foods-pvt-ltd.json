@@ -1,0 +1,18 @@
+{
+ "name_input": "Shinde foods Pvt ltd",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The DuckDuckGo search backend was unreachable (connection refused) for the whole session; zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in all returned HTTP 403; tofler.in search returned a 404 page; Bing returned only irrelevant results for the exact-string queries \"SHINDE FOODS AND AGRO SERVICES\" and \"SHINDE FOODS AND AGRO SERVICES PRIVATE LIMITED\". Therefore no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source, and all such fields are null rather than guessed. Note the input itself is internally inconsistent: the name field says 'Shinde foods Pvt ltd' (a private limited company) while legal_claimed says 'SHINDE FOODS AND AGRO SERVICES' (no 'Private Limited' suffix), so the exact legal entity is not established. No state was claimed in the input, so state_registered vs state_claimed cannot be compared. Role is left as 'unknown' because no registry record (main-object clause / NIC activity) was retrievable. Per project rules this is NOT a rejection: absence of a retrievable public record is not proof of non-existence, and only a confirmed struck-off/liquidated/bankrupt entity may be rejected. Recommended next step: re-run with a working search backend or a paid MCA/GST portal lookup using the exact legal name, and obtain the GSTIN from a public GST profile before any verdict."
+}

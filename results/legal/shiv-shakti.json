@@ -1,0 +1,18 @@
+{
+ "name_input": "Shiv Shakti",
+ "legal_name": "SHIV SHAKTI MACHTECH (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. The web_search tool was down (searx connection refused) for the whole session; direct fetches of registry/aggregator profiles (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403, and Bing/Google/DDG fallbacks returned only generic 'shiv' results with the query terms ignored, so no page containing 'SHIV SHAKTI MACHTECH' was ever read. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT because they were checked and found absent, but because nothing could be retrieved. No rejection is applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt, and per project rules rejection requires such evidence. Role left as 'unknown' (name suggests machinery/engineering, but that is inference, not a registry fact). Declared HS 842330 (weighing/bag-filling machinery) is inconsistent with the claimed industry 'metallurgy and mining' — flagged for HS correction only, not a rejection ground. Action required: re-run this company when search access is restored, or supply the CIN/GSTIN directly so the MCA master data and GST public profile can be pulled."
+}
