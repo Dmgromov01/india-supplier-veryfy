@@ -1,0 +1,8 @@
+{
+ "name_input": "MJ MICROVET PHARMA GROUP",
+ "export_status": "unknown",
+ "export_evidence": "No export record found. importkey.com/countries/india/mj-microvet-pharma-group (and slug variants 'mj-microvet-pharma', 'mj-microvet-pharma-group-1') returned only the generic template shell — the only text present is 'Shipments available for MJ MICROVET PHARMA GROUP, refreshed daily' with no date, destination, HS code or bill-of-lading number. Rows actually seen: 0. Source counter: 3 importkey pages opened, 0 shipment rows.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No domestic supply evidence retrieved. No GST turnover band, GeM/CPPP tender, contract or annual-report split could be located. web_search was unavailable during this run (searx: 'Connection refused'), so no GST/tender lookup could be performed; volza, eximpedia and trademo returned HTTP 403 and importgenius returned a JavaScript challenge page. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что поставок не было: проверить не удалось, потому что поиск (web_search) в этом прогоне не работал, а платные трейд-базы (volza/eximpedia/trademo/importgenius) закрыты 403/JS-заглушкой. Статус по обоим каналам — unknown, не none_found. Заявленный HS 230990 (кормовые добавки/премиксы) согласуется с названием 'Microvet Pharma' (ветеринария), но фактический код не подтверждён ни одной таможенной записью — HS оставлен как заявленный. Юрлицо, CIN, PAN, выручка и объём экспорта: null — публично не найдено, не выдумывать. Роль (manufacturer/trader) не установлена. Рекомендация: повторить проверку при доступном поиске — MCA-карточка по 'MANJU DEVI' / 'MJ Microvet', GST-портал и GeM."
+}

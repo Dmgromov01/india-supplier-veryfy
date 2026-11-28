@@ -1,0 +1,18 @@
+{
+ "name_input": "Pureland honey pvt ltd",
+ "legal_name": "PURELAND HONEY PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend error ('Connection refused') on both queries, and all direct registry/profile sources were inaccessible: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), instafinancials.com (HTTP 404), tofler.in (HTTP 404), mca.gov.in MDS portal (HTTP 403), plus Bing/Google/DDG HTML endpoints returned irrelevant or empty results. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT verified, not absent. No PAN was claimed in the input, so pan_holder_type cannot be derived (the 4th-character rule requires an actual PAN). Role cannot be classified without MCA/GST records; left as 'unknown'. Per project rules, rejection is NOT applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt — the entity simply could not be checked. Declared HS 040900 (honey) is plausible for a honey business but is not a basis for any verdict here. Recommended action: re-run with working search/registry access (MCA master data, GST public search, or a paid aggregator) before any acceptance decision; status should be treated as 'unverified, pending registry check'."
+}

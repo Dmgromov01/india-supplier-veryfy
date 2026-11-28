@@ -1,0 +1,9 @@
+{
+ "name_input": "PYRAMID TIMBER INDUSTRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research as of today was effectively blocked: the DuckDuckGo/searx search backend returned connection errors on all attempts, Zauba Corp and TheCompanyCheck returned HTTP 403, and Bing ignored the quoted company name and returned only generic 'pyramid' results (Egyptian pyramids, solitaire) — no page mentioning this company was retrieved. The only source that returned a real negative result was Indian Kanoon (indiankanoon.org search for \"Pyramid Timber Industries\"), which showed 0 matching judgments; that is a single-database nil result and is NOT sufficient to assert 'no litigation', so court_cases is left null. No OFAC SDN / UN / EU / UK / BIS entity-list screening could be executed (no list endpoint was reachable), so sanctions_hit is null, not 'clear'. No credit rating, regulator action, negative news, or any evidence of supplies to Russia/CIS could be located or ruled out. All fields are null because nothing is public in the sources reachable — no numbers, CIN, PAN, case numbers or shipment records were invented. Recommend re-running this company once search access is restored and screening the exact registered name against OFAC SDN, EU consolidated, UK OFSI and BIS Entity List directly."
+}
