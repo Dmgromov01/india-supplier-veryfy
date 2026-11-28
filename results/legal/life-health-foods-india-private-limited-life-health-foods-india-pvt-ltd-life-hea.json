@@ -1,0 +1,18 @@
+{
+ "name_input": "LIFE HEALTH FOODS INDIA PRIVATE LIMITED; LIFE HEALTH FOODS INDIA PVT LTD; LIFE HEALTH FOODS INDIA PRIVATE LIMITED; LIFE HEALTH FOODS INDIA PRIVATE LIMITED; M/s LIFE HEALTH FOODS INDIA PRIVATE LIMITED; LIFE HEALTH FOODS INDIA PRIVATE LIMITED; LIFE HEALTH FOODS INDIA PRIVATE LIMITED",
+ "legal_name": "LIFE HEALTH FOODS INDIA PRIVATE LIMITED (as claimed; not verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures: DuckDuckGo/searx backend refused connections (2 attempts); zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and quickcompany.in returned HTTP 404 for the guessed slug; tofler.in returned its 404 page for the guessed slug; falconebiz.com returned only a JS shell with no company record; google.com/search returned HTTP 429; bing.com returned generic 'life' dictionary results, i.e. the quoted company name was not honoured. Because no MCA/GST public profile was actually read, CIN, PAN, GSTIN, incorporation date, registered state, MCA status and revenue are all left null rather than guessed - the CIN/PAN/GSTIN must not be inferred from the name. Per project rules the entity is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established either, so the correct status is 'unverified / pending registry lookup', not 'rejected'. Role left as 'unknown' - the name and the declared HS 220299 (non-alcoholic beverages incl. waters with added sugar/sweetener) suggest a beverages/FMCG business, but no filing confirms whether the entity manufactures or trades, so no role is asserted. Revenue FY25/FY26: null - no audited accounts or official filings were accessible; nothing invented. Recommended next step: re-run with a working search backend and read the MCA master data page plus a GST public profile (e.g. a GSTIN search by legal name) to obtain CIN, PAN 4th-character holder type, GSTIN and status, and registered office state; then check the state against the input, which currently claims no state at all."
+}
