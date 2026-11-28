@@ -1,0 +1,18 @@
+{
+ "name_input": "BAFIT SANITARYWARE LLP",
+ "legal_name": "BAFIT SANITARYWARE LLP (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool was unavailable (searx connection refused) and all attempts to reach public registry aggregators failed: zaubacorp.com and thecompanycheck.com returned HTTP 403, instafinancials.com returned HTTP 404 for the guessed slug, falconebiz.com returned HTTP 403, and Google returned HTTP 429. Bing/DDG fallbacks returned irrelevant results (query tokenisation failure), so no MCA/LLPIN, PAN, GSTIN, incorporation date, registered state or audited revenue could be sourced. Nothing is asserted or invented: all registry fields are null. Per project rules the entity is NOT rejected - non-existence, strike-off, liquidation or bankruptcy is not established, only unverified. Role left as 'unknown' because manufacturer vs trader status cannot be determined from registry data alone. Note also that the declared HS 848180 (valves/taps) is consistent with a sanitaryware line of business, but HS is not a rejection criterion in any case. Recommended action: re-run verification when MCA/GST portals or search backend are reachable, or obtain the LLPIN/GSTIN directly from the supplier."
+}

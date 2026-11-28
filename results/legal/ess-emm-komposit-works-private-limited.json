@@ -1,0 +1,18 @@
+{
+ "name_input": "ESS EMM KOMPOSIT WORKS PRIVATE LIMITED",
+ "legal_name": "ESS EMM KOMPOSIT WORKS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Все попытки получить первоисточник не удались: web_search вернул 'Connection refused' (бэкенд searx недоступен); DuckDuckGo HTML — таймаут; Bing по запросам с точным названием в кавычках выдаёт нерелевантную выдачу (токенизация по 'ESS', результаты про Employee Self Service / ESS France), т.е. точного совпадения по названию поиск не нашёл; агрегаторы реестров (zaubacorp.com, thecompanycheck.com, instafinancials.com) — HTTP 403/404; портал MCA (mca.gov.in) — HTTP 403. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 остаются null — не выдумывались. Роль определена как 'unknown': отрасль в инпуте заявлена как 'Металлургия и горнодобыча', а заявленный HS 843390 относится к частям машин/механизмов с индивидуальными функциями (не металлургия), т.е. внутреннее противоречие в инпуте, которое без реестровых данных не разрешить. ВАЖНО: отклонение НЕ применяется — отсутствие данных в этой сессии не является доказательством несуществования юрлица (правило 3: rejected только при ликвидации/банкротстве/отсутствии юрлица, подтверждённых источником). Требуется повторная проверка при восстановлении доступа к MCA/реестровым агрегаторам или при предоставлении CIN/GSTIN заказчиком."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "ESS EMM KOMPOSIT WORKS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: ни один источник не дал результатов. Инструмент web_search возвращал ошибку соединения (searx: Connection refused) на всех запросах; резервные попытки через Bing/Google/DuckDuckGo по точным строкам \"Ess Emm Komposit Works\", \"ESS EMM KOMPOSIT\", \"Komposit Works\" + India private limited выдали только нерелевантную выдачу (ESS Inc., OnlyFans и т.п.) — совпадений по названию нет. Реестровые агрегаторы недоступны: zaubacorp.com и thecompanycheck.com вернули HTTP 403, Google — HTTP 429. Следовательно: санкционные списки (OFAC SDN, UN, EU, UK, BIS Entity List) не проверены — статус null, НЕ \"чисто\"; судебные дела (eCourts/NCLT) не проверены — null; рейтинги (CRISIL/ICRA/CARE/India Ratings) не найдены — null; негативные новости и действия регуляторов не проверены — null; признаков поставок в РФ/СНГ не обнаружено, но это отсутствие данных, а не подтверждённое отсутствие связей — null. Отсутствие результатов поиска НЕ является основанием для отклонения (правило 2) и не является подтверждением отсутствия рисков. Требуется повторный прогон при доступном поиске и/или проверка по CIN/PAN из реестра MCA; PAN и CIN в исходных данных не предоставлены, самостоятельно не выдумывались."
+}
