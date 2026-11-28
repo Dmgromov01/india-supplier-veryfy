@@ -1,0 +1,9 @@
+{
+ "name_input": "mold-Tek Packaging Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure. The web_search tool returned 'Connection refused' (searx backend down) for every query. Fallback attempts via http_get also failed: moldtek.com returned TLS error (SSL: TLSV1_ALERT_INTERNAL_ERROR); CRISIL ratings site timed out on TLS handshake; Wikipedia returned HTTP 429 (automated-request block); Google returned a redirect/consent interstitial with no results; DuckDuckGo HTML endpoint timed out; Bing returned only generic 'mold' (fungus) results and ignored the quoted company name, so no usable hits. BSE page loaded only a JS shell with no content. India Ratings homepage loaded but is JS-only with no searchable content. Consequently NO verifiable public record was obtained for any of the five required fields: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) - not verified, null, not evidence of absence; Indian court cases (party role/status) - not verified, null; regulator actions and negative news with dates - not verified, null; credit rating with date and status - not verified, null (note: Mold-Tek Packaging is an Indian listed rigid-plastic-packaging manufacturer and would normally carry a public CRISIL/ICRA rating, but I could not retrieve any rationale page, so no rating, agency or date is asserted); evidence of supplies to Russia or CIS - not verified, null. Per project rules no figures, CINs, PANs, case numbers or shipment records are invented; all fields left null rather than guessed. This company must be re-queued for a fresh risk pass once the search backend is restored. Nothing here constitutes a sanctions hit or a rejection ground."
+}

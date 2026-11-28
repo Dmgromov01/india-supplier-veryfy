@@ -1,0 +1,14 @@
+{
+ "name_input": "mold-Tek Packaging Limited",
+ "declared_hs": "392390",
+ "actual_hs_list": [
+  "3923.10",
+  "3923.30",
+  "3923.50",
+  "3923.90"
+ ],
+ "match_status": "partial",
+ "product_summary": "Mold-Tek Packaging Limited (NSE: MOLDPACK / BSE: 526263) is an Indian rigid-plastic-packaging manufacturer: thin-wall injection-moulded containers, pails/buckets, lids and closures, and in-mould-labelled (IML) tubs/containers for paints & coatings, lubricants, food (dairy, edible oil, sweets), FMCG and agro-chemicals. Products are plastic articles for conveyance/packing of goods, i.e. HS heading 3923 (plastic containers, lids, caps, closures). Note: the company's own website (moldtek.com) could not be opened during this check (TLS handshake error on every attempt), and IndiaMART returned HTTP 429, so the product list above is taken from the company's public profile/description rather than a live catalogue page read in this session. No customs line was available to me, so the specific HS-6 split is inferred from the product type, not confirmed by a shipment record.",
+ "role_hint": "manufacturer",
+ "comment": "Declared code 392390 (other articles for conveyance/packing of goods, of plastics) is in the correct heading and is a plausible catch-all for this producer, so the match is PARTIAL rather than wrong: the declared 6-digit code covers only the residual subheading, while the actual product mix (containers/pails, lids & closures, IML tubs) more properly sits in 3923.10 (boxes/cases), 3923.30 (carboys, bottles, flasks), 3923.50 (stoppers, lids, caps and other closures) and 3923.90 (other). Recommendation per project rule 3: keep the company, do not reject; correct/expand the code to the actual subheadings (3923.10 / 3923.30 / 3923.50 / 3923.90) and record the verdict as accepted_hs_corrected. INDUSTRY MISCLASSIFICATION: the claimed industry 'Строительство и DIY' (Construction & DIY) is wrong — this is a plastics packaging manufacturer (packaging/FMCG-supply sector), not construction materials. Do not confuse it with the similarly named Mold-Tek Technologies Ltd (NSE: MOLDTECH), which is an engineering-design/IT services firm in Construction & Engineering — a different legal entity and a different business. Trader signs: none found; the company describes its own moulding plants, which points to manufacturer, but this is 'заявлено, не подтверждено' — no plant-level or customs evidence was verified in this session. All product claims here are 'заявлено, не подтверждено' by a customs line; no shipment record was checked (out of scope for this role)."
+}

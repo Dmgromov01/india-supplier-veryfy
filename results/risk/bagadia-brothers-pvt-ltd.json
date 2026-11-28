@@ -1,0 +1,9 @@
+{
+ "name_input": "bagadia brothers pvt ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK CHECK NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on all attempts; Google/Bing/DuckDuckGo HTML endpoints returned empty, irrelevant or blocked results (Bing ignored the query and returned unrelated pages); zaubacorp.com returned HTTP 403; ecourts.gov.in failed TLS certificate verification; the OFAC Sanctions List Search is a JavaScript form and returned no query results via plain HTTP GET. Consequently NOTHING could be verified for this entity: (a) sanctions exposure (OFAC SDN, UN, EU, UK, BIS Entity List) - unknown, not cleared; (b) Indian court cases (party role/status) - unknown; (c) regulator actions and negative news - unknown; (d) credit rating - unknown; (e) any evidence of supplies to Russia or CIS - unknown. All fields set to null deliberately: no data is public to me in this session and no figure, case number or rating is invented. Name ambiguity also unresolved: the input name 'bagadia brothers pvt ltd' vs claimed legal name 'BAGADIYA BROTHERS PRIVATE LIMITED' (spelling differs) - could not confirm which legal entity is meant, so any sanctions/court hit could not be attributed with confidence. Per project rules this is NOT a rejection ground and no negative inference should be drawn; the company must be re-queued for risk screening when search access is restored. Recommended manual checks: OFAC SDN/consolidated list name search, EU/UK consolidated lists, BIS Entity List, eCourts/NJDG party search, and rating agency (CRISIL/ICRA/CARE) lookup."
+}

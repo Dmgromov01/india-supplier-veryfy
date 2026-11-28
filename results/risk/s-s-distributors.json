@@ -1,0 +1,9 @@
+{
+ "name_input": "S & S Distributors",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА в полном объёме: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах, DuckDuckGo HTML — 403, Google — редирект-заглушка, Bing отдавал нерелевантную выдачу (символ '&' в названии ломает запрос; по запросам 'Smita Penkar director India company' и 'S & S Distributors Penkar' релевантных результатов не получено). OFAC Sanctions List Search — JS-приложение, GET-запросы к /api/Search дают 404; консолидированный SDN CSV (treasury.gov/ofac/downloads/sdn.csv) доступен, но обрезается на 6000 символов и не поддаётся grep через доступный инструментарий, поэтому совпадение по имени 'Smita Sudhir Penkar' / 'S & S Distributors' проверить не удалось. Итог: по всем полям null — данных нет, НЕ означает отсутствие рисков. Никаких утверждений об отсутствии санкций/судов/новостей не делаю, так как источники не были прочитаны. Требуется повторный прогон при работающем поиске: (1) OFAC SDN + consolidated non-SDN, UN Consolidated, EU FSF, UK OFSI, BIS Entity List по 'Penkar' и 'S & S Distributors'; (2) eCourts / NCLT / High Court (Maharashtra — вероятно, имя маратхи) по физлицу SMITA SUDHIR PENKAR как proprietor/party; (3) реестр proprietorship/UDYAM и GST-статус; (4) кредитный рейтинг (CRISIL/ICRA/CARE/Brickwork) — для мелкого дистрибьютора, вероятно, отсутствует; (5) следы поставок в РФ/СНГ. Правило 2 соблюдено: санкции/суды/уголовные дела в любом случае не являются основанием для отклонения. Юрлицо по заявлению — proprietorship (физлицо), что ограничивает доступность публичных реестровых данных."
+}
