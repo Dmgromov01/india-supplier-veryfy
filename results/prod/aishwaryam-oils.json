@@ -1,0 +1,30 @@
+{
+ "name_input": "AISHWARYAM OILS",
+ "declared_hs": "151319;151550",
+ "actual_hs_list": [
+  "151319",
+  "151550",
+  "151211",
+  "151219",
+  "151491",
+  "151550",
+  "040590",
+  "120740",
+  "120210",
+  "200819",
+  "100829",
+  "110290",
+  "210690",
+  "151590",
+  "151790",
+  "330590",
+  "200600",
+  "081340",
+  "080132",
+  "170490"
+ ],
+ "match_status": "partial",
+ "product_summary": "D2C-магазин aishwaryamoils.com (Shopify, валюта INR, доставка только по Индии, раздел 'Country/region India (INR)'). Реальный каталог (страница /collections/all, 182 позиции в наличии + 5 out of stock): (1) масла холодного/деревянного отжима (Marachekku) — кокосовое (в т.ч. '100% Pure Virgin Coconut Oil 250ml', 'Wood Pressed Coconut Oil 1L/500ml'), кунжутное, арахисовое (groundnut), подсолнечное, касторовое, миндальное; (2) гхи — Cow Ghee 100ml/250ml/500ml/1L/16L, Buffalo Ghee 250ml/500ml; (3) снеки и сладости — Peanut Laddu, Sesame Laddu, Peanut Candy, Sesame Candy, Almond Cake; (4) специи, бобовые (Bengal Gram / Kadalai Paruppu, roasted Pottukadalai), крупы и миллеты (Barnyard/Kuthiraivaali Millet, Black Kavuni Rice), сухофрукты и орехи (Almonds, Black Dates, Black Raisins, Black Sesame), мёд (Wild Forest Honey), маринованные овощи (Raw Mango Pickle), мальт-порошки (ABC Malt Powder, Beetroot Malt), миллет-лапша/паста, средства для волос; (5) комбо-наборы. Собственное производство заявлено косвенно: FAQ — 'Our edible oils are extracted using the traditional wood-pressed (Marachekku) method', 'we specialize in traditionally extracted wood-pressed oils', 'our products undergo quality checks in NABL Labs'; на сайте есть блоки 'Certifications / View License' и 'Lab Tested'. Однако по специям, орехам, сухофруктам, бобовым, миллетам, мёду и снекам признаков собственного производства нет — это типичный ассортимент перепродажи/фасовки.",
+ "role_hint": "manufacturer_trader (вероятно: производитель деревянно-отжимных масел и гхи + трейдер/фасовщик по специям, орехам, сухофруктам, бобовым, миллетам, мёду и снекам). Юрлицо, CIN, PAN, GST, адрес производства на сайте не опубликованы (страницы About Us и Contact Us отдают 404) — не проверялось по условиям задачи.",
+ "comment": "Сверка с заявленными кодами. 151319 (кокосовое масло, прочее) — ПОДТВЕРЖДЕНО ассортиментом: 'Wood Pressed Coconut Oil 1L/500ml', '100% Pure Virgin Coconut Oil 250ml'. 151550 (кунжутное масло) — ПОДТВЕРЖДЕНО: 'Wood Pressed Sesame Oil 500ml/1L', 'Family Favourite Wood Pressed Sesame Oil 1L'. Итог: partial — оба заявленных кода верны, но декларация покрывает лишь малую часть фактического ассортимента. ПРОПУЩЕНО В ДЕКЛАРАЦИИ (продукция реально в каталоге, коды не заявлены): 151211/151219 — подсолнечное масло ('Wood Pressed Sunflower Oil 1L'); 151491 — горчичное/прочие сырые растительные масла (в каталоге не найдено, код не присваиваю); арахисовое масло ('Wood Pressed Groundnut Oil 1L/5L') — 1508.10 (арахисовое масло, сырое) / 1508.90; касторовое масло ('Castor Oil 250/500ml') — 1515.30; миндальное масло ('Wood Pressed Almond Oil 100ml') — 1515.90; 040590 — гхи (Cow Ghee, Buffalo Ghee, все объёмы до 16L) — крупная товарная линия, полностью отсутствует в декларации; 040900 — мёд (Wild Forest Honey); 120740 — кунжут семена (Black Sesame 1kg); 120210/080132 — арахис и орехи (Almonds 150g); 081340 — сухофрукты (Black Dates, Black Raisins); 200819 — снеки/сладости (Peanut Laddu, Sesame Laddu, Peanut Candy, Sesame Candy, Almond Cake); 200600 — овощные консервы (Raw Mango Pickle); 110290/210690 — мальт-порошки (ABC Malt, Beetroot Malt); 100829 — миллеты (Barnyard Millet); 1006 — рис (Black Kavuni Rice); 071331/071320 — бобовые (Bengal Gram, roasted Pottukadalai); 1902 — миллет-лапша/паста; 330590 — средства для волос. Отраслевая классификация 'Продукты питания и FMCG' корректна, но слишком широка: фактическое ядро — edible oils + ghee (агро/масложировая продукция), а не FMCG-дистрибуция. Признаки трейдера: широкий непрофильный ассортимент (орехи, сухофрукты, специи, бобовые, рис, лапша, средства для волос) при заявленной специализации только на wood-pressed маслах; продажи только через собственный Shopify-магазин, без B2B-каталога. ВАЖНО: ни одна позиция не подтверждена таможенной линией — по правилу проекта весь ассортимент имеет статус 'заявлено, не подтверждено' (источник — только сайт aishwaryamoils.com, страницы /collections/all и /pages/faqs). HS-несоответствие НЕ является основанием для отклонения: компания сохраняется в базе, декларацию следует расширить фактическими кодами (в первую очередь 040590 гхи, 1508.90 арахисовое масло, 151211/151219 подсолнечное, 151530 касторовое, 151590 миндальное)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Sai baba industries",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена. Причина: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а затем нерелевантные результаты; реестровые источники недоступны — zaubacorp.com и instafinancials.com отдали HTTP 403, mca.gov.in — HTTP 403, tofler.in — 404 на поисковом URL, indiamart.com — HTTP 429. Ни один публичный профиль (GSTIN, CIN, PAN, дата регистрации, MCA-статус) не был прочитан, поэтому все поля оставлены null — данные не выдумывались. Входные данные противоречивы: в поле legal_claimed указано имя физлица «MANOJ CHAUDHARY», а не название юрлица; state_claimed пуст. Название «Sai baba industries» — типовое, в Индии существует множество одноимённых проприетарных фирм и партнёрств, поэтому без GSTIN/CIN однозначная привязка невозможна. Роль (manufacturer/trader) не определена — null/unknown. Выручка FY25/FY26 не подтверждена аудированной отчётностью — null. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3). Требуется повторная проверка при восстановлении доступа к реестрам либо запрос у поставщика GSTIN и названия юрлица."
+}

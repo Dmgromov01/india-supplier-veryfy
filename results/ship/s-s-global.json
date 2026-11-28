@@ -1,0 +1,8 @@
+{
+ "name_input": "S.S.GLOBAL",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey India customs page for S.S.GLOBAL (3047/2, CHUNA MANDI PAHARGANJ) shows 40 records, all inbound: e.g. \"2026-02-16 UB ACRYLIC (M) SDN.BHD S.S.GLOBAL ACRYLIC PLASTIC SHEETS A GRADE (2100 SHEETS) ... Port Kelang, MALAYSIA -> CHENNAI SEA INMAA1, India 39205111 7565255\" — every row seen is an import into India; no outbound export row with Indian origin was observed. Source counter: page states \"Total Shipments 40 Records detected\"; rows actually visible in free view: 5 (all imports).",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found in accessible sources. Web search backend returned connection errors (searx: Connection refused) for queries on \"S.S.GLOBAL\" Paharganj GST turnover, so domestic supply could not be checked. Value: null.",
+ "note": "Declared HS 690721 (ceramic tiles) does not match any observed shipment: the only customs records for this name/address are imports of acrylic plastic sheets (HS 39205111) from Malaysia and steel cord (HS 73129000) from Thailand. No export shipments and no domestic supply evidence found — следов поставок (экспорт или внутренний рынок) не найдено. Note: a separate entity 'SS GLOBAL' (H-6 Ratlam Kothi, Indore, IEC 5613002886) importing red lentils from Canada is a different company and was not counted. Slug variants tried: /s-s-global (40 records, imports only), /ss-global (different Indore entity), /s-s-global-paharganj (empty). Volza returned HTTP 403. Revenue and export volume: null (not public)."
+}

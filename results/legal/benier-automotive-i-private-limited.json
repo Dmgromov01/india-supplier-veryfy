@@ -1,0 +1,18 @@
+{
+ "name_input": "Benier Automotive (I) Private Limited",
+ "legal_name": "BENIER AUTOMOTIVE (I) PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search backend returned connection errors (searx: Connection refused) and Bing/Google fallbacks returned unrelated results; direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) returned HTTP 403/404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null — not public/not retrievable in this session, and not invented. No basis for rejection: absence of retrievable records is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, so the company is retained in the database. Role recorded as 'unknown' pending verification (HS codes 870810/870830/870880/870893 are motor-vehicle parts — bumpers, brakes, suspension, clutches — which is consistent with an automotive-components supplier, but this is an inference from the declared HS codes only, not a verified activity finding). State claimed in input was empty, so no state mismatch can be assessed. Recommended next step: re-run verification against MCA master data / GST portal when registry access is available."
+}

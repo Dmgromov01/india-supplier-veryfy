@@ -1,0 +1,18 @@
+{
+ "name_input": "MAHI CERAMICA LLP",
+ "legal_name": "MAHI CERAMICA LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification could not be completed: the web_search backend was unavailable (connection refused) for all queries, and every registry source attempted returned HTTP 403 or unusable results — zaubacorp.com (403), thecompanycheck.com (403), instafinancials.com (403), mca.gov.in Master Data (403), duckduckgo html (403); Bing returned only unrelated 'mahi-mahi' fish results, i.e. no indexed registry page surfaced. Falconebiz search page loaded but is JavaScript-driven and returned no company record. Therefore LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — not public/not retrievable in this session, and no value has been guessed. No evidence of non-existence, strike-off, liquidation or bankruptcy was found either, so the entity is NOT rejected under the project rules; it is left unverified pending a retry with working registry access (MCA Master Data / GST portal lookup by legal name). Role cannot be classified from registry data alone; the claimed HS 690721 (ceramic tiles, glazed) is consistent with a Morbi/Gujarat ceramic cluster entity but that is an inference, not a verified fact, and per the rules HS mismatch would not be grounds for rejection in any case. Revenue FY25/FY26: no audited accounts or official filings accessible — null."
+}
