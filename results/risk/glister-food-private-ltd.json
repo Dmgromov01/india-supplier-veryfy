@@ -1,0 +1,9 @@
+{
+ "name_input": "Glister Food Private Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED — no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML/lite endpoints timed out; Google returned HTTP 429; Bing (HTML and RSS) returned results wholly unrelated to the query (query not honoured), so no usable hits. Zaubacorp returned HTTP 403 and mca.gov.in returned HTTP 403, so no Indian registry or court-record page could be read. The OFAC Sanctions List Search page loaded but is a JavaScript-driven form whose lookup results cannot be retrieved via plain HTTP GET, so no SDN/Non-SDN screening result was actually obtained. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — this is an absence of retrieved evidence, NOT a negative/clean finding, and must not be read as 'no sanctions, no cases, no Russia supplies'. No claim about this company is made or implied. Recommended next step: re-run screening when search access is restored, using (a) OFAC SDN/Non-SDN and consolidated list search, (b) UN Security Council consolidated list, (c) EU consolidated financial sanctions list, (d) UK OFSI consolidated list, (e) BIS Entity List, (f) eCourts / NCLT / High Court case search by party name, (g) FSSAI and consumer-protection regulator actions, (h) CRISIL/ICRA/CARE/India Ratings/Brickwork rating rationales, and (i) customs/import-export mirror data for Russia/CIS destinations. Per project rules, any sanctions, court or criminal findings would be recorded neutrally as 'есть сложности' and would not be grounds for rejection."
+}

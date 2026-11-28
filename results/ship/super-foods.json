@@ -1,0 +1,8 @@
+{
+ "name_input": "Super Foods",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/super-foods-rajpurohit — page renders with no shipment rows: 'Shipments available for SUPER FOODS RAJPUROHIT, refreshed daily' followed by an empty record table (0 rows seen). Same result for slug 'super-foods-rajpurohit-jodhpur' (0 rows). The generic slug 'super-foods' does return 2221 records, but they belong to a different entity: '2026-02-25 SUPER FOODS -> EUROTRADING COLLECTION, S.L. CHEESE DOG CHEW LARGE (115 GRAMS) ... HS 23091000, BOL 1021135, Delhi Air Cargo -> Madrid' — pet chews, not sesame (HS 120740), so it is a name collision and cannot be attributed to this supplier.",
+ "domestic_status": "none_found",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found for a sesame (HS 120740) supplier under this name; web_search returned no results (search backend unavailable: 'searx: Connection refused'), so no domestic supply record was located.",
+ "note": "Следов поставок не найдено: ни экспортных отгрузок, ни подтверждённых поставок внутри Индии по данной компании не обнаружено. Заявленный HS 120740 (кунжут) не подтверждён ни одной таможенной записью; единственные записи с именем 'Super Foods' в индийской таможне относятся к другому лицу (корм для животных, HS 23091000) и не могут быть зачтены. Выручка и объём экспорта: null (не публичны / не найдены). Оговорка по методу: поисковик был недоступен (Connection refused), volza отдал 403, поэтому охват проверки ограничен importkey; статус 'none_found' отражает отсутствие найденных записей, а не доказанное отсутствие отгрузок. Юрлицо (CIN/PAN) не проверялось — вне рамок задачи; оснований для отклонения по правилу 3 нет."
+}

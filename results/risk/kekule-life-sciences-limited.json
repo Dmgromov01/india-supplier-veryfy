@@ -1,0 +1,9 @@
+{
+ "name_input": "KEKULE LIFE SCIENCES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - tooling failure, not a clean result. All 10 tool calls were consumed without obtaining a single usable source on this company. web_search (DuckDuckGo/searx) returned 'Connection refused' on both attempts; direct fetches of google.com/search returned HTTP 429, duckduckgo.com/html and html.duckduckgo.com timed out, and bing.com/search returned completely unrelated spam results (the query was mangled server-side). zaubacorp.com returned HTTP 403. The OFAC Sanctions List Search page (sanctionssearch.ofac.treas.gov) loaded but is a JavaScript form that cannot be queried via plain GET, so no actual SDN/Non-SDN name match was performed - sanctions_hit is therefore null because the check was NOT executed, not because the company was cleared. No Indian court records (eCourts/NCLT), no regulator actions (CDSCO, state FDA, SEBI, RBI), no credit rating (CRISIL/ICRA/CARE/India Ratings) and no Russia/CIS supply evidence could be retrieved. Nothing in this record should be read as a negative or positive finding. Recommended: re-run this company in a batch once search connectivity is restored, and query OFAC/EU/UK/BIS consolidated lists plus eCourts by exact legal name before any decision. Per project rules, absence of findings here is not grounds for rejection."
+}

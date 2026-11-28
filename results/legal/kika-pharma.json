@@ -1,0 +1,18 @@
+{
+ "name_input": "KIKA PHARMA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failed: web_search backend refused connections (searx: Connection refused) on both queries; Google returned HTTP 429; Bing returned only irrelevant results (earthquaketrack.com); zaubacorp.com and instafinancials.com returned HTTP 403; thecompanycheck.com and falconebiz.com returned only marketing/JS-gated pages with no company record. Therefore exact legal entity name, CIN/LLPIN, PAN (and 4th-character holder type), GSTIN, GST status, date of incorporation, registered-office state, MCA status and FY25/FY26 revenue are all null - none of these are public to me via the available tools in this session, and none were invented. No rejection applied: absence of retrievable records is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, so per the rules the company is retained with role 'unknown'. Note also that the input gives no claimed state and no claimed PAN, so state_registered vs state_claimed cannot be compared. Declared HS 293359 (heterocyclic compounds - pyrimidine/purine derivatives) is a chemicals/pharma-intermediate code, consistent with the claimed industry 'oil & gas and chemicals'; per project rules HS mismatch is not a rejection ground in any case. Recommended next step: re-run verification when search is restored, or check MCA master data / GST portal directly for the exact registered name 'KIKA PHARMA' (possible variants: Kika Pharma Private Limited, Kika Pharma LLP, Kikapharma) before any commercial decision."
+}
