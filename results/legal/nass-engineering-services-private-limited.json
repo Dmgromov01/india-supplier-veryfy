@@ -1,0 +1,18 @@
+{
+ "name_input": "NASS ENGINEERING SERVICES PRIVATE LIMITED",
+ "legal_name": "NASS ENGINEERING SERVICES PRIVATE LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Verification not completed: the search backend was unavailable (connection refused) and all registry aggregator pages attempted (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com, mca.gov.in) returned HTTP 403 or 404; Bing queries for the exact name returned only unrelated 'NASS' organisations (USDA NASS, spine.org, etc.), i.e. no Indian registry record surfaced. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and revenue are all null — not public/not retrieved, and nothing is inferred or invented. No rejection is applied: absence of a retrieved record is not proof of non-existence, so the entity is left as unverified rather than rejected. Role cannot be determined from registry data alone and is set to 'unknown'. Note also that the input contains no claimed PAN and no claimed state, so no state mismatch can be assessed. Recommended next step: re-run against MCA master data / GST portal when the search backend is restored."
+}

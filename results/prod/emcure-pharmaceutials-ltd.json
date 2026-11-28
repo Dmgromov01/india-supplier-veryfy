@@ -1,0 +1,14 @@
+{
+ "name_input": "EMCURE PHARMACEUTIALS LTD",
+ "declared_hs": "170211;252620;281129;283522",
+ "actual_hs_list": [
+  "3004 (medicaments, retail packs) — primary",
+  "3002 (blood fractions/immunological, incl. biosimilars Herceptin/Mabthera)",
+  "3003 (medicaments, bulk)",
+  "3004/3002 for oncology, gynae, cardio, HIV antivirals, anti-infectives, vitamins/minerals"
+ ],
+ "match_status": "wrong",
+ "product_summary": "Emcure Pharmaceuticals Limited (Pune, Hinjawadi; NSE: EMCURE, BSE: 544210) is a pharmaceutical formulator/manufacturer. Per Wikipedia (https://en.wikipedia.org/wiki/Emcure_Pharmaceuticals): portfolio = tablets, capsules (softgel and hard-gel) and injectables; therapeutic areas = gynaecology, cardiovascular, oncology, blood therapeutics, HIV antivirals and other anti-infectives, vitamins and minerals. Plants: solid dosage (Hinjawadi, US FDA-approved, under warning letter), small-volume parenteral (lyophilizaton, PFS), plus other Indian sites and a US plant (Heritage business demerged into Avet Lifesciences in 2021). Licensed manufacturing of Roche's Herceptin and Mabthera (biosimilars) and Gilead/BMS HIV ARVs (tenofovir, atazanavir). Own website emcure.com returned HTTP 403 to our fetcher, so the product list is corroborated only via the Wikipedia summary, not via the company catalogue itself — brand-level SKU list: заявлено, не подтверждено.",
+ "role_hint": "manufacturer",
+ "comment": "HS mismatch, company kept (Rule 3). Declared codes 170211 (lactose syrup/powder >99%), 252620 (natural steatite/talc crushed), 281129 (other inorganic oxygen compounds of non-metals), 283522 (sodium phosphates) are excipient/raw-material codes — none of them is a pharmaceutical finished-product code. Actual output is medicaments: HS 3004 (retail-pack formulations), 3003 (bulk), 3002 (blood fractions/immunological, relevant for the Roche biosimilar line). Corrected code set: 3004 primary, 3002/3003 secondary. Industry claim 'Продукты питания и FMCG' is a misclassification — the company is pharma (NSE/BSE-listed, pharma plants under US FDA/MHRA inspection). Trader signs: none found; this is a manufacturer with own formulation plants. Product lines missing from the declaration: all finished dosage forms (tablets, capsules, injectables, lyophilized vials, PFS), oncology biosimilars, HIV ARVs, gynae/cardio products, vitamins/minerals. Note: no customs line was available to this researcher, so no shipment-level corroboration of any HS code — all product mapping is from public company description only. Verdict: accepted_hs_corrected."
+}

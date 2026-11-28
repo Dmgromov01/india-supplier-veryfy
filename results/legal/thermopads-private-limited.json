@@ -1,0 +1,18 @@
+{
+ "name_input": "THERMOPADS PRIVATE LIMITED",
+ "legal_name": "THERMOPADS PRIVATE LIMITED (as given in input; not independently confirmed against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no source could be read. Tooling failures during this run: web_search backend returned 'Connection refused' on all queries; zaubacorp.com, thecompanycheck.com and mca.gov.in/mcafoportal returned HTTP 403; tofler.in returned 404 for the guessed slug; instafinancials.com returned 404; duckduckgo html/lite endpoints timed out; Google and Bing returned no relevant results (Bing served unrelated spam results). Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT verified, not 'not existing'. Per project rules the company is NOT rejected: absence of readable registry data is not proof of non-existence, strike-off, liquidation or bankruptcy. No revenue figures were found in audited accounts or official filings, so FY25/FY26 are null rather than estimated. Role left as 'unknown' - the input gives no evidence of own manufacturing vs trading, and product catalogues/HS codes were out of scope for this role. Note also that the input's 'legal_claimed' field ('ALLIED ELECTRONICS CORPORATION') does not match the input name 'THERMOPADS PRIVATE LIMITED'; this discrepancy is unresolved and should be clarified with the requester - it may be a brand/trade name, a group entity, or a data-entry error. Recommended next step: re-run with working search access, or verify manually on MCA V3 portal (company master data by name) and on the GST taxpayer search by legal name to obtain CIN, PAN, GSTIN and status."
+}
