@@ -1,0 +1,9 @@
+{
+ "name_input": "CASTECH FOUNDRIES PVT LTD; CASTECH FOUNDRIES PRIVATELIMITED; CASTECH FOUNDRIES PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена в полном объёме: инструменты поиска были недоступны. web_search возвращал 'Connection refused' (searx) на всех запросах; DuckDuckGo (html и lite) и Mojeek — таймауты; Google — HTTP 429; Bing отдавал нерелевантный кэш (результаты не менялись при смене запроса, включая site:zaubacorp.com — вернулись французские форумы), поэтому его выдача не может считаться доказательством. Прямые запросы к реестрам: zaubacorp.com — HTTP 403; tofler.in — инструмент недоступен; opensanctions.org — DNS не разрешается. Единственный успешно открытый источник — страница поиска OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov), но это только интерфейс без выполнения запроса: фактический поиск по SDN/Non-SDN по имени 'Castech Foundries' НЕ проводился, поэтому sanctions_hit = null, а НЕ 'нет совпадений'. Аналогично court_cases, rating, news_risk и rf_supply = null: ни одного подтверждённого источника (NCLT/NCLAT, eCourts, ICRA/CRISIL/CARE, таможенные записи, публикации о поставках в РФ/СНГ) получить не удалось. Отдельно отмечу риск идентификации: по открытой выдаче имя 'Castech' соответствует нескольким неродственным организациям (Castech Inc. — китайский производитель фотоники; Castech — австралийская литейная компания; Castech UK — CNC-обработка; Castech Middle East — стройхимия), поэтому любые найденные сведения требуют привязки к конкретному индийскому юрлицу по CIN, которого в заявке нет. Санкций, судебных дел, регуляторных действий или негативных новостей в отношении индийской CASTECH FOUNDRIES PRIVATE LIMITED не подтверждено и не опровергнуто — данных нет. Требуется повторный прогон при восстановлении поиска; отклонение по данному блоку не предлагается (правило 2)."
+}
