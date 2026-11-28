@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SWADESHI AGENCIES",
+ "legal_name": "M/S SWADESHI AGENCIES (unverified; likely a proprietorship/partnership trade name, not a company — no MCA record found)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": "not found in MCA / no LLPIN or CIN located",
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry-only check. Search tooling was unavailable/degraded during this run (DuckDuckGo backend refused connections; Google returned HTTP 429; Bing returned only generic 'Swadeshi' brand results with no match for 'Swadeshi Agencies' + 'Furqan Ahmad'; MCA portal returned HTTP 403; gstin search host unresolvable). Therefore no public record could be retrieved for this exact trade name. The input itself is internally inconsistent: 'legal_claimed' = FURQAN AHMAD is a person's name, i.e. the entity is presented as a proprietorship ('M/S' prefix is typical of a sole proprietorship), so there is no CIN/LLPIN, no MCA status and no audited accounts — revenue FY25/FY26 are null (not public, not invented). PAN and GSTIN are null: no public GST profile was reachable, so the PAN 4th-character holder type cannot be determined. Registered state is null and cannot be compared with the claimed state (state_claimed was empty in the input). Role is 'unknown' — the declared HS 640610 (footwear uppers/parts of leather) contradicts the claimed industry 'food & FMCG', but per project rules an HS mismatch is NOT a rejection ground; the code should be corrected to the actual product once verified. NOT rejected: no evidence of non-existence, strike-off, liquidation or bankruptcy was found — the entity simply could not be verified with the tools available. Recommended action: re-run verification with working search/GST-portal access, or request the GSTIN/PAN directly from the supplier."
+}

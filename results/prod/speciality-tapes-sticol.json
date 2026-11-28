@@ -1,0 +1,19 @@
+{
+ "name_input": "Speciality tapes sticol",
+ "declared_hs": "391990",
+ "actual_hs_list": [
+  "391990",
+  "391910",
+  "391990 (self-adhesive film/sheet, plastics)",
+  "482390 / 481141 (paper masking tape, if paper-based)",
+  "760719 / 760720 (aluminium foil tape, if foil-backed)",
+  "741021 (copper foil tape, if applicable)",
+  "590610 / 590699 (adhesive-coated textile/cloth tape)",
+  "392190 / 392112 (PVC film / surface protection film)",
+  "391990 (foam tape, double-sided tissue/foam/film tape)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website specialitytapes.com (Speciality Tapes Industry Pvt. Ltd., founded 1992, brand STICOL, Gala No. 9, Manish Industrial Estate No. 5, Navghar, Vasai East, Dist. Thane, Mumbai-401210, Maharashtra) states the company is a manufacturer and exporter of pressure-sensitive adhesive tapes. Declared product lines on the homepage: Cloth Tapes, Paper Masking Tapes, Surface Protection Films, PVC Tapes, Foil Tapes, Foam Tapes, and Double-Sided Tapes made from tissue paper, foam, cloth and film. Capabilities stated: adhesive coating on paper, foam, film, cloth and foils with acrylic, rubber and silicone formulations, coating width up to 2100 mm; printing; slitting/rewinding/die-cutting/punching/perforation. Target industries listed: automotive & locomotive, white goods & appliances, electrical & electronics, paper & printing, packing & security, HVAC/roofing/insulation, aerospace, glazing/cladding & aluminium fabrication, steel, pharma/medical, advertising & print media, textile/garment/leather, renewable energies. No individual product pages, catalogue PDF or price list could be opened (products/, about-company/, about/, sitemap.xml all returned 404), so per-SKU base material and adhesive type are not verifiable.",
+ "role_hint": "manufacturer (self-described manufacturer with in-house coating/converting; no trader signs found on the site). Note: the site footer still contains unedited template filler (\"Sed ut perspiciatis...\", \"6391 Elgin St. Celina, Delaware\", \"info@example.com\"), which is a website-quality red flag but not evidence of trading activity.",
+ "comment": "HS 391990 (self-adhesive plates/sheets/film/strip of plastics, other) is plausible and covers the core line — PVC tapes, surface protection films, double-sided film/foam tapes — so the declared code is not wrong, but it is incomplete: it is only one of several headings the stated range falls under. Cloth tapes would normally fall under 5906 (adhesive-coated textile fabrics), paper masking tapes under 4811/4823, foil tapes under chapter 76 (aluminium) or 74 (copper), and foam tapes depending on backing. Verdict: partial match — keep the company, keep 391990 as the primary code, and add the secondary headings above once the actual SKU mix is confirmed. Industry classification \"Нефтегаз и химия\" (oil & gas and chemicals) is a misclassification: the company is an adhesive-tape converter (plastics/paper/foil/film products, chapter 39/48/59/76), not an oil-and-gas or bulk-chemical supplier; the closest legitimate link is only that it formulates its own adhesives. All product claims are from the company's own website only — no customs line, invoice or B-L was reviewed in this task, therefore every product line is marked \"заявлено, не подтверждено\". No registry, revenue or shipment-volume research was performed per role scope; those fields are null here."
+}

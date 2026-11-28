@@ -1,0 +1,18 @@
+{
+ "name_input": "Corporate Telesystems Pvt Ltd",
+ "legal_name": "CORPORATE TELESYSTEMS PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this run. The web_search tool was down (searx connection refused) and direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403; Google returned HTTP 429 and DuckDuckGo timed out. Bing returned only generic dictionary results for 'corporate', i.e. the quoted company name was not honoured, so no page about this entity was retrieved. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null — NOT because they do not exist, but because nothing public could be read. No rejection is proposed: non-existence/strike-off/liquidation is NOT established. Role left as 'unknown' (name suggests telecom-systems trading/services rather than a metal producer, but this is unverified). Declared HS 811020 (antimony waste and scrap) is not supported by any evidence found; per project rules HS mismatch is not a rejection ground — flag for HS correction review only after the entity is identified. Recommended next step: re-run with working search, or query MCA master data / GST portal directly by legal name."
+}

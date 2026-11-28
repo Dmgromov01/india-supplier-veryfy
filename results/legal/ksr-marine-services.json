@@ -1,0 +1,18 @@
+{
+ "name_input": "KSR Marine Services",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет. Все 10 попыток доступа провалились: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на обоих запросах, поэтому найти страницы профиля не удалось. Прямые запросы к публичным реестровым агрегаторам заблокированы: zaubacorp.com — 403, thecompanycheck.com — 403, falconebiz.com — 403, mca.gov.in (View Company Master Data) — 403; instafinancials.com — 404, tofler.in — 404 (страница с таким слагом отсутствует), indiafilings.com — 404, gstsearch.in — 404. Итог: точное юрлицо, CIN/LLPIN, PAN (и тип держателя по 4-му знаку), GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA и выручка FY25/FY26 не подтверждены ни одним источником — все поля null, цифры не выдумывались. Заявленное в инпуте название 'KSR MARINE SERVICES PRIVATE LIMITED' и HS 848420 (подшипники/уплотнения) не подтверждены; отрасль в инпуте указана как 'Металлургия и горнодобыча', что с HS 848420 и с профилем marine services расходится — вероятно, ошибка в инпуте, но проверить нечем. Роль оставлена 'unknown': отнесение к manufacturer/trader без реестровых данных было бы домыслом. НЕ ОТКЛОНЕНО: отсутствие подтверждения не является основанием для rejected (нет данных о ликвидации/банкротстве/отсутствии юрлица). Требуется повторный прогон при работающем поиске или ручная проверка на mca.gov.in и gst.gov.in."
+}

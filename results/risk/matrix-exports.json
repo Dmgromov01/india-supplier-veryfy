@@ -1,0 +1,9 @@
+{
+ "name_input": "MATRIX EXPORTS",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: инструменты недоступны. web_search вернул 'Connection refused' (бэкенд searx лежит); Bing по любым запросам ('\"Matrix Exports\" India sanctions court case', '\"Matrix Exports\" IndiaMART spices pickles', '\"Matrix Exports\" Russia CIS supply') выдавал только нерелевантную выдачу про фильм 'The Matrix'/матрицы — то есть фильтрация по кавычкам не сработала и релевантных страниц не найдено; Google и Brave — HTTP 429; Startpage — JS-заглушка; DuckDuckGo lite — timeout. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) — JS-приложение, GET-запрос не возвращает результатов поиска, поэтому факт отсутствия/наличия в SDN не подтверждён. Ни по одному из пунктов (санкции OFAC/UN/EU/UK/BIS, индийские суды с ролью стороны и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой, поставки в РФ/СНГ) публичных подтверждений получить не удалось — все поля null, это НЕ означает отсутствие рисков, а означает отсутствие проверки. Название 'MATRIX EXPORTS' крайне неспецифично (совпадает с множеством индийских трейдеров и с брендом Matrix), без CIN/PAN/адреса однозначная идентификация невозможна — вероятен риск перепутать компании. Требуется повторный прогон при работающем поиске и с идентификаторами (CIN/PAN/GSTIN) либо ручная проверка по OFAC SDN CSV, EU/UK consolidated lists, BIS Entity List, eCourts/NCLT и CRISIL/ICRA/CARE. Санкционных, судебных или криминальных оснований для отклонения не зафиксировано (по правилу 2 они и не являются основанием), но и подтверждений обратного нет."
+}

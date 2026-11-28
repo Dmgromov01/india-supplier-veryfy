@@ -1,0 +1,18 @@
+{
+ "name_input": "PRINTER HOUSE LTD",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The claimed legal name 'THE PRINTERS HOUSE PRIVATE LIMITED' could not be matched to any MCA record: DuckDuckGo search backend was down (connection refused), Bing returned only generic 'printer' e-commerce results for all quoted-name queries, and direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, while Google returned HTTP 429. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. No audited accounts or official filings were located, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown': the input name ('PRINTER HOUSE LTD') and the claimed legal name ('THE PRINTERS HOUSE PRIVATE LIMITED') differ in form (Ltd vs Private Limited), and no MCA record was seen to confirm which entity exists or whether it is a manufacturer or trader. Per project rules the company is NOT rejected: rejection requires confirmed non-existence, strike-off, liquidation or bankruptcy, none of which is established here. Declared HS 844311/844399 (offset printing machinery / parts) is inconsistent with the claimed industry 'IT и электроника' — flagged for HS correction only, not a rejection ground. Recommended next step: manual MCA master-data lookup by exact name and by state, plus GST portal search on the trade name, before any verdict."
+}
