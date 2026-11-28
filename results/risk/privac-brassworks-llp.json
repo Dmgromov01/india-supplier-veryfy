@@ -1,0 +1,9 @@
+{
+ "name_input": "PRIVAC BRASSWORKS LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend returned connection errors ('searx: Connection refused') on all attempts, and fallback fetches were blocked or degraded — DuckDuckGo returned a bot challenge, Bing returned unrelated results (Walmart/newsletter pages) for both quoted queries, ZaubaCorp returned HTTP 403, IndiaMART returned HTTP 429, MCA search host did not resolve, and the OFAC Sanctions List Search page requires an interactive query submission so no match/no-match result could be obtained via plain HTTP GET. No public record of this entity (sanctions exposure, Indian court cases, regulator actions, credit rating, or supplies to Russia/CIS) was retrieved, therefore all fields are null rather than inferred. Absence of a hit here is NOT evidence of absence — this is an unverified record, not a clean one. Recommended follow-up: re-run with a working search backend, query OFAC SDN/consolidated list and BIS Entity List by exact name, check UN/UK/EU consolidated lists, search eCourts/NCLT by party name, and check CRISIL/ICRA/CARE/Brickwork and India Ratings for a rating with date. Note per project rules: any sanctions, court or criminal findings are not rejection grounds and must be reported neutrally; only non-existence/liquidation/insolvency of the legal entity would justify rejection, and legal identity was outside this task's scope."
+}

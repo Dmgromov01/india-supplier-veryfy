@@ -3,18 +3,13 @@
  "shards": 20,
  "picked": 1,
  "roles_submitted": 4,
- "failures": 4,
+ "failures": 0,
  "api_key_present": true,
  "api_key_len": 35,
  "model": "deepseek-chat",
  "search": "duckduckgo",
  "preflight": "ok",
- "elapsed_s": 1,
- "errors": [
-  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
-  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
-  "urllib.error.HTTPError: HTTP Error 402: Payment Required",
-  "urllib.error.HTTPError: HTTP Error 402: Payment Required"
- ],
+ "elapsed_s": 41,
+ "errors": [],
  "worker": "github"
 }
