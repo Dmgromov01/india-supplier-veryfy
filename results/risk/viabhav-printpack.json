@@ -1,0 +1,9 @@
+{
+ "name_input": "Viabhav Printpack",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, data as of 23.11.2026. Research was severely limited: the web_search tool (DuckDuckGo/searx backend) returned 'Connection refused' on every attempt, and direct fetches of Google (HTTP 429), DuckDuckGo HTML/lite (timeouts) and a mirror engine (timeout) failed. Only Bing responded, and it returned no exact-match results for the quoted name 'Vaibhav Printpack' (results were generic FedEx/Microsoft pages, i.e. no indexed page matched the phrase). OFAC Sanctions List Search page was reachable (SDN list last updated 11/23/2026) but its search is a JS form that cannot be queried via plain HTTP GET, so no name query could actually be executed. CONSEQUENTLY: sanctions_hit, court_cases, rating, news_risk and rf_supply are all null NOT because they were verified as clean, but because nothing could be verified. No negative finding should be inferred. Name ambiguity note: the batch lists 'Viabhav Printpack' with legal_claimed 'VAIBHAV PRINTPACK' (spelling differs: Viabhav vs Vaibhav) - the correct legal spelling must be confirmed before any registry/court/sanctions screening, since a misspelled name will silently produce false negatives. No sanctions, court, regulatory, credit-rating or Russia/CIS supply evidence was found or confirmed for this entity; equally, no clearance is asserted. Recommend re-running this check when the search backend is restored, using the exact registered legal name and CIN/PAN, against OFAC SDN/consolidated list, UN, EU, UK OFSI, BIS Entity List, Indian court records (eCourts/NCLT) and credit-rating agency databases. Per project rules, absence of sanctions/court findings would in any case not be a rejection ground."
+}

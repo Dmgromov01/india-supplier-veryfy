@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S PRATYAKSHA EXPORTS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось: поисковые бэкенды были недоступны или блокировали запросы (DuckDuckGo/searx — connection refused/timeout, Google — HTTP 429, Bing — нерелевантная выдача), профильные источники (Zauba Corp, InstaFinancials, MCA master data, IndiaMART) вернули 403/429. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус не подтверждены публично доступной записью — все поля null, ничего не выдумано. Префикс 'M/S' в названии типичен для proprietorship/partnership (не для Pvt Ltd), т.е. CIN может отсутствовать в принципе, но это предположение, а не факт. Роль не определена (unknown). Выручка FY25/FY26 не найдена — null. Отклонение НЕ применяется: отсутствие подтверждения существования юрлица при недоступности реестров не равно доказанному отсутствию/ликвидации; требуется повторная проверка при доступности MCA/GST-порталов. Заявленный HS 100630 (рис) и 251611 (гранит-сырец) — несовместимые товарные группы для одного трейдера, что стоит уточнить у поставщика, но по правилам проекта HS не является основанием для отклонения."
+}

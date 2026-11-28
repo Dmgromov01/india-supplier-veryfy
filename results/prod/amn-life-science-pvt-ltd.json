@@ -1,0 +1,16 @@
+{
+ "name_input": "AMN Life Science Pvt. Ltd",
+ "declared_hs": "300490",
+ "actual_hs_list": [
+  "300490",
+  "300410",
+  "300420",
+  "300450",
+  "300460",
+  "210690"
+ ],
+ "match_status": "partial",
+ "product_summary": "По данным сайта amnlife.com (главная страница, раздел Products): Esomeprazole capsules 20/40mg; Metronidazole 125mg/5ml susp.; Omeprazole 20/40mg caps; Rabeprazole 20mg caps и Rabeprazole sodium enteric-coated 10/20mg tabs; Amoxicillin+Clavulanic acid 250/125 и 500/125 FC tabs и 125+31.5mg/5ml susp.; Cefuroxime axetil 250/500mg FC tabs и 125/250mg/5ml susp.; Paracetamol 125mg/5ml susp.; Aceclofenac 100mg+Paracetamol 500mg tabs; Nabumetone 500mg; Metformin 500/850mg FC и 500 SR tabs; Ketoanalogues + essential amino acids; Calcium carbonate+Vit D3+Zinc+Magnesium softgel caps; Calcitriol 0.25mcg softgel; Carbonyl iron with vitamins/minerals softgel; Natural Vitamin E 200mg + Omega-3 softgel. Заявленные категории: Orals (solids/liquids), Injectable/Sterile, Eye drops, Speciality range, Nutraceuticals & OTC. Компания позиционирует себя как 2-Star Pharmaceutical Export House, EU GMP/WHO-cGMP, экспорт в Юго-Восточную Азию и Африку, >300 зарегистрированных продуктов.",
+ "role_hint": "manufacturer_trader",
+ "comment": "HS 300490 (прочие медикаменты в дозированной форме) — в целом корректный, но неполный: match_status = partial. Фактические коды по номенклатуре: пенициллины с ингибитором бета-лактамазы (Amoxicillin+Clavulanic acid) — 300410; прочие антибиотики (Cefuroxime axetil) — 300420; гормоны/витамины в дозировке (Calcitriol, Vit E, Carbonyl iron) — 300450; гетерозиды/алкалоиды не применимы; прочие медикаменты (PPI, метформин, НПВС, парацетамол, кетоаналоги) — 300490. Нутрицевтики/OTC softgel-капсулы (Calcium+Vit D3+Zinc+Mg, Vit E+Omega-3) при поставке как БАД/пищевые продукты могут классифицироваться 210690 — требует уточнения по составу и регистрационному статусу. Отдельно: заявлены категории Injectable/Sterile и Eye drops, но конкретные позиции на главной странице не раскрыты (подстраницы /products/, /about/ отдают 404) — эти линии в декларации не отражены и не подтверждены; для стерильных инъекций возможны 3004 (дозированные) либо 3002 (если биологические/иммунологические) — заявлено, не подтверждено. Признаки трейдера: сайт описывает компанию как маркетинг/экспорт формуляций («marketing a wide range of Pharmaceutical formulations», «basket of over 300 products registered in these countries»), head office в Мумбаи (BKC), производственные площадки не указаны — вероятнее manufacturer_trader (собственные площадки не подтверждены публично). Отрасль в заявке «Нефтегаз и химия» — ошибочная классификация: фактически фармацевтика (формуляции). HS-код не является основанием для отклонения; компания сохраняется, код расширяется до фактической номенклатуры. Все позиции — заявлено по сайту, не подтверждено таможенными записями (таможенные линии в рамках этой роли не проверялись)."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "HATSUN AGRO PRODUCT LIMITED",
+ "declared_hs": "040410",
+ "actual_hs_list": [
+  "0402 (milk and cream, concentrated or containing added sugar — incl. 040210 skimmed milk powder, 040221/040229 whole milk powder)",
+  "0401 (fresh liquid milk and cream)",
+  "0403 (curd/yoghurt, buttermilk, lassi)",
+  "0405 (butter, ghee, dairy spreads)",
+  "0406 (cheese, paneer)",
+  "2105 (ice cream and other edible ice)",
+  "1806 (chocolate and cocoa preparations — Ibaco chocolate collection)",
+  "0404 (whey/ lactose-based products — possible, unverified)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Hatsun Agro Product Ltd is an Indian dairy/FMCG group operating consumer dairy brands (Arun ice cream, Ibaco ice cream parlours, Arun milk/curd/paneer, Ibaco chocolates). Verified in this session: only the Ibaco site (ibaco.in) was reachable and confirms retail ice cream and a chocolate collection — i.e. HS 2105 and 1806 lines. The corporate site hatsun.com and arunicecream.com were unreachable/blocked (connection refused / HTTP 403), so the full product catalogue (liquid milk, curd, milk powder, ghee, butter, cheese/paneer) could NOT be read and is therefore 'заявлено, не подтверждено' from a primary source in this session.",
+ "role_hint": "manufacturer",
+ "comment": "HS 040410 (whey/lactose-derived products, i.e. modified whey/milk constituents) is a narrow subheading that does NOT match the company's core business. Hatsun is a primary dairy processor: its dominant lines are liquid milk (0401), curd (0403), milk powder (0402), ghee/butter (0405), cheese/paneer (0406) and ice cream (2105). 040410 is at best a marginal/incidental line (whey-based ingredients), so the declared code is assessed as PARTIAL-to-WRONG for the company's actual trade profile. Per project rule 3, an HS mismatch is NOT a rejection ground: the company is retained and the code should be corrected to the factual export lines — most plausibly 0402 (milk powder, the typical exportable dairy SKU) and/or 2105 (ice cream), with 0401/0403/0405/0406 as domestic-market lines. Industry classification 'Продукты питания и FMCG' is correct and not a misclassification. No trader signs found: the group is a manufacturer with own plants and own retail (Ibaco parlours), so role = manufacturer. IMPORTANT LIMITATION: web_search was unavailable (connection refused) and hatsun.com / arunicecream.com were unreachable in this session, so the product list above is partly based on general knowledge of the group's brands and only the Ibaco ice cream/chocolate lines were directly corroborated by a fetched page. No customs line was available to me (out of scope per role), therefore every HS mapping here is 'заявлено, не подтверждено' pending a customs/B-L line check. Revenue and export volumes: null — not researched (out of role scope)."
+}
