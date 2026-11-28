@@ -1,0 +1,18 @@
+{
+ "name_input": "RCHEM EXPORT LLP",
+ "legal_name": "RCHEM EXPORT LLP (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The search backend (DuckDuckGo/searx) was down for the whole session ('Connection refused'), Google returned HTTP 429, and Bing returned only irrelevant results for the quoted name. Registry/profile sites (zaubacorp.com, thecompanycheck.com, instafinancials.com) all returned HTTP 403 Forbidden, so no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from a public source. No PAN or GSTIN was supplied in the input either. Per project rules the entity is NOT rejected: non-existence/strike-off/liquidation/bankruptcy could not be established, and absence of retrievable data is not evidence of non-existence. Role left as 'unknown' - the 'EXPORT LLP' suffix and the declared HS codes (320417, 320419, 320649 - synthetic organic pigments/colour lakes and preparations) suggest a chemicals trading entity, but this is inference from the name and HS codes only, not a verified fact. Revenue FY25/FY26 set to null (no audited accounts or official filings accessible). Recommended next step: re-run verification against MCA master data / GST portal when the search backend is restored, or obtain the LLPIN or GSTIN directly from the supplier."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "VENDING UPDATES INDIA PRIVATE LIMITED; VENDING UPDATES INDIA PVT. LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE — no negative findings, but also no verification. Tooling failure: the web_search backend (DuckDuckGo/searx) returned 'Connection refused' on every attempt; DuckDuckGo HTML endpoint timed out; ZaubaCorp and TheCompanyCheck returned HTTP 403. Bing was reachable but ignored the quoted entity name and returned only generic US vending-machine sites (vending.com, canteen.com, Wikipedia 'Vending machine'), i.e. no indexed page for this specific Indian entity was surfaced. OFAC Sanctions List Search page loaded successfully (SDN list last updated 11/23/2026) but it is a JS form with no queryable GET endpoint, so no name query could actually be executed — therefore sanctions_hit is null (NOT verified clean, simply not checked). No court records (NCLT/NCLAT/High Court/eCourts), no regulator actions (MCA/ROC, GST, SEBI, RBI), no credit rating (CRISIL/ICRA/CARE/India Ratings/Acuite) and no Russia/CIS supply evidence could be retrieved. Per project rules I am not inferring anything from the absence of results: null means 'not public / not retrieved', not 'none'. Recommend re-running this company once the search backend is restored, and querying MCA master data, eCourts/NCLT by CIN, and the four rating agencies directly. Note also that the claimed industry ('IT и электроника') is inconsistent with declared HS 841869 (refrigeration equipment) — flagged for the HS/identity researcher, not a risk verdict here."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Austro Carbon Private Limited",
+ "legal_name": "AUSTRO CARBON PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search backend refused connections (searx 'Connection refused') on both queries; direct fetches of zaubacorp.com, thecompanycheck.com, instafinancials.com and mca.gov.in returned HTTP 403; tofler.in returned 404 for both slug variants; Google/Bing/DDG HTML endpoints returned unusable or timed-out responses. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null because they are not publicly confirmed by any source I could read - NOT because they were checked and found absent. No audited accounts or official filings were reachable, so revenue FY25 and FY26 are null. Role left as 'unknown' (no evidence of manufacturing vs trading activity obtained; the claimed industry 'oil & gas / chemicals' with declared HS 380210 activated carbon is unverified). Per project rules the company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established - the entity's status is simply unverified. Recommend re-running this company once search/registry access is restored, or supplying the CIN so MCA master data can be queried directly."
+}

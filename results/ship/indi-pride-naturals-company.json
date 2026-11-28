@@ -1,0 +1,8 @@
+{
+ "name_input": "INDI PRIDE NATURALS COMPANY",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/indi-pride-naturals-company (and slug variant /indi-pride-naturals) returned only the paywalled template: \"Shipments available for INDI PRIDE NATURALS COMPANY, refreshed daily\" — 0 shipment rows actually rendered, no date, destination, HS code or B/L number visible. Source counter: 2 importkey pages fetched, 0 records seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. zaubacorp.com company-search returned HTTP 403; web_search backend returned \"Connection refused\" for all queries, so no registry or tender page could be located. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники оказались недоступны. importkey отдал только заглушку без строк данных (0 записей), volza/eximpedia/trademo/zaubacorp — HTTP 403, поисковик не работал (connection refused). Ни экспортных записей с датой/направлением/HS/B-L, ни GST-оборотов, ни тендеров не получено. Заявленный HS 731815/731816/731824 (болты, гайки, шайбы) и заявленное имя DEEPAK KADTUJI TATHE ничем не подтверждены; PAN, CIN и выручка — null, публично не найдены. Статус по обоим каналам — unknown, не declared_only: заявлений сайта/каталога в этом проходе тоже не встречено. Требуется повторная проверка при доступном поиске и платном срезе таможни."
+}

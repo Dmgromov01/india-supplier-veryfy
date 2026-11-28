@@ -1,0 +1,18 @@
+{
+ "name_input": "ALTO COMPONENTS(A UNIT OF NIMARTA CONSULTING GROUP PVT. LTD; NIMARTA CONSULTING GROUP PVT. LTD; NCG CORPORATE ENGINEERS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input itself is internally inconsistent: it names three different entities ('ALTO COMPONENTS' as a unit of NIMARTA CONSULTING GROUP PVT. LTD, plus NCG CORPORATE ENGINEERS PRIVATE LIMITED as legal_claimed), so no single legal entity can be confirmed. Search tooling failed during this session: the DuckDuckGo search backend returned connection refused on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and tofler.in returned 404 for the guessed slugs; Google returned HTTP 429; DuckDuckGo HTML timed out. Bing queries for the exact strings 'NCG CORPORATE ENGINEERS PRIVATE LIMITED', 'NIMARTA CONSULTING GROUP PRIVATE LIMITED' and 'ALTO COMPONENTS NIMARTA' returned only unrelated results (US cinema chain, coin grading, US real estate), i.e. no indexed Indian registry record surfaced. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null - not public/not found, NOT invented. Revenue FY25/FY26 null: no audited accounts or official filings located. Role left 'unknown' (no evidence of manufacturing vs trading). Per project rules this is NOT a rejection: absence of verifiable registry data in this session is not proof the entity does not exist, is struck off, liquidated or bankrupt. Recommended next step: re-run verification against MCA master data / GST portal with a working search backend, and first resolve which of the three names is the actual contracting entity. HS 730840 (scaffolding/shoring equipment) is not assessed here and is not a rejection ground."
+}

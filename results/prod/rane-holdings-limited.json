@@ -1,0 +1,23 @@
+{
+ "name_input": "RANE HOLDINGS LIMITED",
+ "declared_hs": "840999",
+ "actual_hs_list": [
+  "870894",
+  "870899",
+  "848330",
+  "840999",
+  "848120",
+  "841360",
+  "870830",
+  "870821",
+  "870829",
+  "732020",
+  "870840",
+  "870870",
+  "761699"
+ ],
+ "match_status": "partial",
+ "product_summary": "Rane Holdings Limited (NSE: RANEHOLDIN, BSE 505800) is the listed flagship/holding company of the Rane Group; per its own site it 'manages investments across leading businesses in automotive and industrial components' (https://www.ranegroup.com/rane-holdings-limited/). The manufacturing product lines are held by subsidiaries and are presented on the group site (https://www.ranegroup.com/products/ and https://www.ranegroup.com/group-overview/): (1) Steering & suspension — tie rod assemblies, drag links, ball joints, lower/upper control arms, stabilizer links, hydraulic power steering gear assemblies, power steering pumps, hydrostatic steering units (orbitrol), hydraulic steering cylinders, rack & pinion gears, recirculating ball steering gears, EPS columns, intermediate shafts, universal joints, tilt/telescopic and collapsible columns; (2) Engine components — engine valves, valve guides, mechanical tappets; (3) Brake components — brake linings, disc pads, clutch facings, railway brake blocks; (4) Occupant safety (ZF Lifetec Rane JV) — seat belts, retractors, pretensioners, buckles, height adjusters, driver/passenger/side/curtain/knee airbags, steering wheels; (5) Light metal castings (Al/Zn high-pressure die castings); (6) Aftermarket products.",
+ "role_hint": "manufacturer_trader — group-level holding company (investment/management entity) whose subsidiaries manufacture; the holding entity itself is not the producing unit for most declared goods, so any direct export line under this name should be checked against the actual shipping entity (Rane (Madras) Ltd, Rane Steering Systems Pvt Ltd, ZF Rane Automotive India, ZF Lifetec Rane).",
+ "comment": "HS 840999 ('parts for compression-ignition engines, other') is only a partial fit: it correctly covers the engine-components line (engine valves, valve guides, mechanical tappets — though valves/guides are more precisely 8409 91/8409 99 depending on engine type, and tappets could fall under 8483 30), but it misses the dominant part of the portfolio. Correct/expected codes: 8708 94 (steering wheels, steering columns, steering boxes — the largest single line), 8708 99 (other parts/accessories of motor vehicles: tie rods, ball joints, control arms, suspension links), 8708 30 (brake parts: linings, disc pads), 8708 21 (seat belts), 8708 29 (airbags, steering wheel covers/other body parts), 8481 20 / 8413 60 (hydraulic power steering pumps, hydrostatic steering units), 8483 30 (tappets/bearing housings), 7320 20 (leaf-spring/other springs if stabilizer bars are classified as springs), 7616 99 / 7325 (light metal castings). Industry label 'Авиастроение и транспорт' (aviation & transport) is a misclassification: the company is purely automotive/railway/off-highway components — no aerospace products are listed anywhere on the group site. Trader signs: the entity is a holding/investment company, not an operating manufacturer, so the declared HS line under this name is likely a group-level declaration rather than the producing entity's code. All product lines above are taken from the company's own website catalogue and are therefore 'заявлено, не подтверждено' — no customs line was available in this task to corroborate any specific HS code or shipment. No registry, revenue or shipment data was researched per scope."
+}

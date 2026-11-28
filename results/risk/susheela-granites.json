@@ -1,0 +1,9 @@
+{
+ "name_input": "susheela granites",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend was down (searx connection refused) for the whole session, and fallback engines returned no usable results. Exact-phrase queries for \"Susheela Granites\" on Bing returned zero relevant hits (only unrelated pages), and DuckDuckGo HTML endpoints timed out. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no name screening was actually performed. Therefore sanctions_hit, court_cases, rating, news_risk and rf_supply are all null — this means NOT VERIFIED, not 'clean'. No negative or positive findings are asserted. No court records (e.g. eCourts/NCLT), regulator actions, credit ratings or Russia/CIS shipment evidence could be retrieved. Recommend re-running this company once search access is restored; do not treat the nulls as a clearance. Note also that the claimed name 'susheela granites' appears to be a trade/proprietary name rather than a verified legal entity, and no PAN/state was supplied, which further limits screening."
+}

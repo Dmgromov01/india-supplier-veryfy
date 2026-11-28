@@ -1,0 +1,16 @@
+{
+ "name_input": "SIGACHI INDUSTRIES LIMITED",
+ "declared_hs": "350510;391231;391290",
+ "actual_hs_list": [
+  "391290 — Microcrystalline cellulose (MCC), incl. colloidal grades E460(i), Cellulose Powder, CosmoCel cosmetic grades",
+  "391231 — Cellulose ethers, carboxymethylcellulose (CMC) and its salts — thickeners/stabilisers line",
+  "391290 — other cellulose derivatives (binders, carriers, superdisintegrants, film coatings/polymer blends)",
+  "300490 / 294200 — API (anti-ulcer / gastrointestinal) and intermediates from contract-manufacturing facilities",
+  "210690 / 382499 — JoyMix food premixes, ready-to-use additives, stabilisers, dietary fibre blends",
+  "350510 — modified starches (sodium starch glycolate-type superdisintegrant / starch-based excipients) — plausible but not itemised on site"
+ ],
+ "match_status": "partial",
+ "product_summary": "Sigachi Industries is a cellulose-excipient manufacturer, not a food/FMCG company. Core products per its own site (sigachi.com): microcrystalline cellulose (MCC) in colloidal and standard grades, E460(i), Cellulose Powder, CosmoCel cosmetic cellulose grades (ECOCERT/COSMOS certified); pharmaceutical excipient families — pre-formulated excipients, high-functionality excipients, thickeners/stabilisers, film coatings & polymer blends, binders, lubricants, carriers, superdisintegrants; nutraceutical formulations; food & nutrition additives branded JoyMix, stabilisers and dietary fibre; cosmetic ingredients for skin/hair/toiletry; and an API portfolio of anti-ulcer (gastrointestinal) products and intermediates made at contract-manufacturing facilities (USFDA/EDQM/WHO-GMP).",
+ "role_hint": "manufacturer",
+ "comment": "Sources: https://www.sigachi.com/ (home), /industries/pharmaceutical/, /industries/food-nutrition/, /industries/cosmetic/, /product-guide/. Declared codes 391231 and 391290 are correct and central: 391231 covers the CMC/cellulose-ether thickener-stabiliser line, 391290 covers MCC and other cellulose derivatives, which is the company's main business. 350510 (modified starches) is only partially corroborated — the site lists superdisintegrants and starch-based excipients as a category but does not itemise a modified-starch product by name, so it is 'заявлено, не подтверждено' at product level. Missing from the declaration: the API line (anti-ulcer actives and intermediates, HS 2942/3004) and the food premix/additive line (JoyMix, dietary fibre, stabilisers — HS 2106/3824), both explicitly presented as business segments on the site. Industry misclassification: the claimed industry 'Продукты питания и FMCG' is wrong — this is a pharmaceutical excipients / specialty cellulose chemicals manufacturer with a secondary food-additive and cosmetic-ingredient line; food is a downstream application, not the core. No trader signs: own manufacturing plants, own brands (CosmoCel, JoyMix, Sigachi Intellect), own R&D and quality certifications. Per project rules the HS mismatch is not a rejection ground — company retained, codes corrected to the actual product mix. No customs lines were available to me in this task, so all product-to-HS mapping above is based on the company's own published catalogue and is therefore 'заявлено, не подтверждено' pending customs corroboration."
+}

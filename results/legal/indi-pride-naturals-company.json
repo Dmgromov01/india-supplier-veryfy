@@ -1,0 +1,18 @@
+{
+ "name_input": "INDI PRIDE NATURALS COMPANY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, но и оснований для отклонения нет. Входные данные противоречивы: в поле legal_claimed указано физлицо «DEEPAK KADTUJI TATHE», а не юрлицо; название «INDI PRIDE NATURALS COMPANY» не содержит организационно-правовой формы (Pvt Ltd / LLP / Partnership / Proprietorship), что типично для проприетарного или партнёрского бизнеса без CIN. CIN/LLPIN у таких структур не существует по определению — это не признак несуществования. Попытки проверки: web_search вернул ошибку бэкенда (connection refused); Bing по запросам в кавычках «INDI PRIDE NATURALS», «INDI PRIDE NATURALS COMPANY», «Deepak Kadtuji Tathe» выдал только нерелевантную выдачу (indie Semiconductor, Deepak Chopra) — точных совпадений нет; zaubacorp.com, instafinancials.com, mca.gov.in — HTTP 403; tofler.in — 404 на странице поиска. Ни один реестровый источник не подтвердил и не опроверг существование юрлица. PAN, GSTIN, дата регистрации, штат, MCA-статус, выручка FY25/FY26 — null, публично не получены. Роль: unknown (по заявленным HS 731815/731816/731824 — крепёж/болты-гайки-шайбы — вероятнее trader или manufacturer_trader, но это домысел, не подтверждено). Вердикт: не отклонять; требуется ручная проверка через GST-портал (поиск по имени проприетарного владельца Deepak Kadtuji Tathe) и MCA Master Data, а также уточнение у поставщика его GSTIN и организационно-правовой формы. Отдельно: заявленный HS (крепёж) не соответствует названию «Naturals» — вероятно, компания торгует разнородным ассортиментом; по правилам HS-несоответствие не является основанием для отклонения."
+}
