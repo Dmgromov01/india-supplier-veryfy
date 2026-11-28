@@ -1,0 +1,8 @@
+{
+ "name_input": "SANTANAND INDUSTRIES PVT LTD",
+ "export_status": "unknown",
+ "export_evidence": "importkey.com/countries/india/santanand-industries-pvt-ltd and .../sant-anand-industries-private-limited both returned only the paywalled template: \"Shipments available for SANTANAND INDUSTRIES PVT LTD, refreshed daily\" — 0 shipment rows actually visible (no date, no destination, no HS code, no B/L number). volza.com, eximpedia.app, trademo.com returned HTTP 403; importgenius.com returned a JavaScript bot challenge. No export record could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved: web_search backend was down for the whole session (\"searx: <urlopen error [Errno 111] Connection refused>\"), and thecompanycheck.com returned HTTP 403. 0 domestic supply records seen.",
+ "note": "Следов поставок не найдено — ни экспортных, ни внутренних. Это НЕ подтверждение отсутствия отгрузок: все источники таможенных данных (ImportKey, Volza, Eximpedia, Trademo, ImportGenius) закрыты пейволом/403/JS-челленджем, а поисковик был недоступен, поэтому проверить фактичность отгрузок не удалось. Статус по обоим каналам — unknown, не none_found. Заявленный HS 100630 (рис) ни подтверждён, ни опровергнут: ни одной таможенной записи с кодом не видно. Выручка и объём экспорта — null (не публичны / не получены). Юрлицо не проверялось по MCA (реестры вне рамок задачи), поэтому оснований для rejected нет. Требуется повторная проверка при доступном поиске или платном доступе к таможенным данным."
+}
