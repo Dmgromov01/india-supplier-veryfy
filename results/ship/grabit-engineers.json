@@ -1,0 +1,8 @@
+{
+ "name_input": "GrabIt Engineers",
+ "export_status": "none_found",
+ "export_evidence": "importkey.com/countries/india/grabit-engineers (also /grabit-engineer, /grabit-engineering): page renders only the boilerplate template — 'Shipments available for GRABIT ENGINEERS, refreshed daily' — with no shipment table, no B/L number, no date, no destination and no HS code. Rows actually seen: 0 of 0. Source counter: 3 slug variants tried, 0 records returned.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split located. web_search backend returned 'searx: <urlopen error [Errno 111] Connection refused>' on all 3 queries, so no domestic source could be retrieved; volza.com and eximpedia.app returned HTTP 403.",
+ "note": "Следов поставок не найдено: ни экспортных отгрузок (нет ни одной таможенной/B-L записи с датой, направлением и HS-кодом), ни подтверждённых внутренних поставок. Заявленный HS 842139 (части фильтровальных установок / нефтегаз-химия) ничем не подтверждён — это заявление, не факт. Юрлицо в реестрах MCA не проверялось (реестры вне рамок задачи), CIN/PAN/выручка — null, публично не подтверждены. Причина слабого покрытия: поисковый бэкенд недоступен, платные базы (Volza, Eximpedia) отдают 403 — статус domestic 'unknown' отражает недоступность источников, а не отрицательный результат. Рекомендуется повторный прогон при восстановлении поиска."
+}

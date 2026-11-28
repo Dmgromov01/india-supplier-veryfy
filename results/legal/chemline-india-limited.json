@@ -1,0 +1,18 @@
+{
+ "name_input": "Chemline India Limited",
+ "legal_name": "CHEMLINE INDIA LIMITED (as claimed; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed. Tooling failed: DuckDuckGo/searx backend refused connections ('Connection refused') on both web_search calls; Google returned only a redirect interstitial; Bing returned irrelevant results (IMEA, serfdom) for the exact-phrase queries '\"CHEMLINE INDIA LIMITED\" CIN GSTIN' and '\"Chemline India\" limited company registration India'. Direct registry aggregators blocked or missing: zaubacorp.com company page and companysearchresults -> HTTP 403 Forbidden; thecompanycheck.com -> HTTP 403; instafinancials.com -> HTTP 404; tofler.in search -> 404 page. MCA21 portal was not reachable via the available tool (no working endpoint). Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be sourced, and all such fields are set to null rather than guessed. PAN holder type cannot be derived because no PAN was obtained (the 4th-character rule requires the actual PAN). Role is 'unknown' - the name suffix 'Limited' suggests a public limited company but no MCA record was read to confirm manufacturer vs trader status. No state was claimed in the input, so no state mismatch can be assessed. IMPORTANT: this is NOT a rejection - per project rules an entity may only be rejected if it does not exist, is struck off, liquidated or bankrupt, and none of that has been established here; the entity's existence is simply unverified. The declared HS code 350691 (adhesives) is not a basis for rejection in any case. Recommended next step: re-run with working search/registry access (MCA21 master data, GST portal search by trade name, or a paid aggregator) to confirm whether the exact legal name is 'Chemline India Limited' or a variant (e.g. Chemline India Pvt Ltd), and to capture CIN, GSTIN and FY25/FY26 audited revenue."
+}
