@@ -1,0 +1,9 @@
+{
+ "name_input": "Vibhav Tradeco Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена: ни один источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо таймаут; Bing отдавал нерелевантную выдачу (Gmail, iccafe, wheelofnames) — ни одного упоминания 'Vibhav Tradeco' в результатах не найдено, что не позволяет сделать вывод об отсутствии сведений. Агрегаторы реестров недоступны: zaubacorp.com — HTTP 403, tofler.in — 404 по предполагаемому слагу, instafinancials.com — 404, mca.gov.in — HTTP 403. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) открылся, но это JS-форма без возможности передать запрос через http_get — фактического скрининга по SDN/Non-SDN не проводилось, поэтому sanctions_hit = null (не 'нет попадания'). Судебные дела (eCourts, NCLT, High Court), действия регуляторов (RBI/SEBI/DGFT/ED), кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings/Acuite) и признаки поставок в РФ/СНГ не проверялись — все поля null. Дополнительно: заявленная отрасль 'Нефтегаз и химия' не подтверждена ни одним источником. Требуется повторный запуск с работающим поиском и/или доступом к платным реестрам (Tofler/Zauba/MCA V3, eCourts, sanctions screening API). Никаких данных не выдумывал."
+}

@@ -1,0 +1,26 @@
+{
+ "name_input": "TRIVENI INTERCHEM PVT.LTD",
+ "declared_hs": "291539;300490;391290",
+ "actual_hs_list": [
+  "2915.39 (esters of acetic acid — possible for some aroma esters, e.g. hexyl isovalerate is actually 2915.60)",
+  "2915.60 (isovaleric acid esters — hexyl isovalerate)",
+  "2917.19 / 2917.20 (phthalic esters — dicyclohexyl phthalate)",
+  "2921.xx (amines — dibenzylamine, N-benzylmethylamine, 3-ethoxypropylamine)",
+  "2926.90 (nitrile — pivaloyl acetonitrile)",
+  "2934.99 (heterocyclic aroma chemicals — 2-acetylthiazole, indoline)",
+  "2933.99 / 2934.99 (triazabicyclodecene)",
+  "2918.99 (Meldrum's acid, hydroxy-carboxylic acids)",
+  "2915.90 / 2915.21 (formic acid 2915.11, methyl acetate 2915.40, sodium acetate 2915.29)",
+  "2930.90 (methylisothiazolinone)",
+  "2903.99 / 2811.19 (chlorosilanes, fluorides — triethylchlorosilane 2931.90/2931.90 silane)",
+  "2818.20 (activated alumina)",
+  "2841.50 (sodium dichromate) / 2819.10 (chromic acid)",
+  "2811.19 (silicotungstic acid)",
+  "2922.xx (hydroxylamine 2815.30 / hydroxylamine salts)",
+  "2942.00 / 3004.90 (pharma-grade chemicals — only if formulated drugs, not corroborated)"
+ ],
+ "match_status": "partial",
+ "product_summary": "Website triveniinterchem.com (Vapi, Gujarat; claims established 2010) presents itself as manufacturer and supplier of aromatic, perfumery and allied industrial chemicals, organised in 8 categories: Aroma Chemicals, Personal Care, Home Care, Agrochemicals, Metallurgy, Plastic & Rubber, Industrial Chemicals, Pharmaceutical. No individual product pages are reachable (all sub-URLs return 404), so no CAS-level product list could be verified on this domain. A separate, legally distinct firm 'Triveni Chemicals' (trivenichemical.com, proprietorship, GST 24AEQPS7860G2ZW, IndiaMART 'Trader - Wholesaler/Distributor') lists a large catalogue of aroma chemicals, acids, amines, chlorides, silanes, chromates and fluorides — this is NOT the same legal entity as Triveni Interchem Pvt Ltd and must not be merged with it.",
+ "role_hint": "manufacturer_trader — site claims 'manufacturing and supplying' but the only verifiable catalogue (on the similarly named but separate Triveni Chemicals domain) is explicitly a trader/wholesaler/distributor; own-site product pages are not accessible, so manufacturing capability is unverified.",
+ "comment": "Сверка HS: заявленные 291539 / 300490 / 391290 лишь частично соответствуют реальному ассортименту. 2915.39 (эфиры уксусной кислоты) — правдоподобно для ароматических эфиров, но конкретные позиции не подтверждены, т.к. страницы товаров на сайте отдают 404. 300490 (готовые лекарственные средства) — не подтверждено: сайт заявляет лишь категорию 'Pharmaceutical' (фармацевтические химикаты), а не готовые препараты; это скорее химическое сырьё (29-й раздел), чем 3004. 391290 (прочие целлюлозные эфиры/полимеры) — не подтверждено ничем на сайте, следов такой продукции не найдено. Фактический ассортимент (по доступному описанию и по каталогу одноимённой, но юридически иной фирмы Triveni Chemicals) — аромахимикаты, амины, кислоты, силаны, хроматы, фториды, фталаты, гетероциклы: это коды 2915.60, 2917.19, 2921, 2926.90, 2934.99, 2918.99, 2930.90, 2818.20, 2841.50, 2811.19. Отрасль 'Нефтегаз и химия' — частично неверна: нефтегаза нет, это тонкая/специальная химия и аромахимикаты (fragrance & perfumery), т.е. скорее 'Химия / спецхимия'. Признаки трейдера: сайт не содержит ни одного товара с CAS, ценами или спецификацией, все подстраницы 404; на связанном домене прямо указано 'Trader - Wholesaler/Distributor'. Все позиции ассортимента — статус 'заявлено, не подтверждено' (нет ни таможенной строки, ни доступной товарной карточки). Компания сохраняется в базе, HS-код подлежит исправлению на фактический; вердикт accepted_hs_corrected. Реестры, выручка и таможенные объёмы в рамках этой роли не проверялись — null."
+}

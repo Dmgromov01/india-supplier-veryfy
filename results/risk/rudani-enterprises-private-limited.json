@@ -1,0 +1,9 @@
+{
+ "name_input": "Rudani Enterprises Private Limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RISK-ONLY CHECK, as of 23.11.2026. Coverage was severely limited: the web_search tool (DuckDuckGo/searx) returned 'Connection refused' on every attempt, so no keyword search was possible. Fallbacks used: OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded successfully but is a JavaScript form that returns no results via plain HTTP GET, so no name query could actually be executed - therefore sanctions_hit is null (NOT verified), not a confirmed negative. Bing was reachable but returned only irrelevant results (query mangling), so it yielded nothing usable. Indian Kanoon (indiankanoon.org) was queried for 'Rudani Enterprises': the 100 hits contain no case with 'Rudani Enterprises Private Limited' as a party - matches are a private individual named 'Rudani Rameshbhai Ramjibhai' in a Delhi HC trademark matter (L'Oreal S.A. vs Angel Enterprises, 04.06.2026) and the unrelated Supreme Court precedent 'Anandi Mukta Sadguru ... vs V.R. Rudani' (1989). So court_cases = null: no litigation found for this entity, but absence of results is not proof of absence. Zauba Corp, Tofler, InstaFinancials and the MCA master-data portal all returned 403/404, so no credit rating, no regulator-action record and no negative-news sweep could be completed - rating, news_risk and rf_supply are all null because nothing public was retrievable, not because a negative was established. No evidence of supplies to Russia or the CIS was found, but this is likewise unverified. Per project rules, none of the above is a rejection ground; the company stays in the database. Recommend re-running this check when the search backend is restored, and querying OFAC/UN/EU/UK/BIS lists and MCA/DIN data manually."
+}

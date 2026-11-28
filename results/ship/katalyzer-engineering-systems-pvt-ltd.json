@@ -1,0 +1,8 @@
+{
+ "name_input": "Katalyzer Engineering Systems Pvt. Ltd",
+ "export_status": "unknown",
+ "export_evidence": "No export shipment row retrieved. importkey.com/countries/india/katalyzer-engineering-systems-pvt-ltd and .../katalyzer-engineering-systems-private-limited both returned only the generic page shell: \"Shipments available for KATALYZER ENGINEERING SYSTEMS PRIVATE LIMITED, refreshed daily\" — a template placeholder, not a record. Rows actually seen: 0 (no date, destination, HS code or B/L number). volza, eximpedia and trademo returned HTTP 403; DuckDuckGo search backend was unreachable (\"Connection refused\").",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or contract record retrieved. Search backend returned \"no results (searx: <urlopen error [Errno 111] Connection refused>)\" for the query \"Katalyzer Engineering Systems\" GST turnover, so no domestic supply evidence could be located or ruled out. Rows actually seen: 0.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: ни экспортных отгрузок, ни внутренних поставок подтвердить не удалось, поскольку все источники отгрузочных данных были недоступны (importkey — пустая оболочка без строк, volza/eximpedia/trademo — 403, поиск — сбой бэкенда). Статус по обоим направлениям: unknown, не declared_only и не confirmed. Заявленный HS 847420 (дробильное/измельчительное оборудование) не проверен по фактическим записям; несоответствие HS основанием для отклонения не является. Выручка и объём экспорта: null — публичных данных не получено, цифры не выдумывались. Требуется повторный прогон при доступных источниках (importkey с оплаченным доступом, eximpedia, GST-портал)."
+}

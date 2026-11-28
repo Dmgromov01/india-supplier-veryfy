@@ -1,0 +1,31 @@
+{
+ "name_input": "TRIVENI INTERCHEM PVT.LTD",
+ "sanctions_hit": null,
+ "court_cases": [
+  {
+   "court": "Delhi High Court",
+   "case": "Pfizer Inc & Ors vs Triveni Interchem Private Limited & Ors",
+   "role": "Defendant",
+   "status": "Multiple interim orders/mentions on record: 15.09.2021, 21.10.2021, 17.11.2022, 14.12.2022, 24.01.2023, 30.01.2024 (per Indian Kanoon listings)",
+   "type": "IP/trademark infringement suit"
+  },
+  {
+   "court": "Delhi High Court",
+   "case": "Bristol Myers Squibb Holdings Ireland vs Triveni Interchem Private Limited & Ors",
+   "role": "Defendant",
+   "status": "Orders dated 06.10.2021 and 03.10.2023 on record",
+   "type": "IP/trademark infringement suit"
+  },
+  {
+   "court": "Delhi High Court",
+   "case": "Merck Sharp & Dohme Corp. & Anr vs Triveni Interchem Private Limited & Anr",
+   "role": "Defendant",
+   "status": "Orders dated 16.03.2020 and 08.07.2024 on record",
+   "type": "IP/trademark infringement suit"
+  }
+ ],
+ "rating": null,
+ "news_risk": "No negative news, regulator action or enforcement notice found in the sources reachable during this check. Litigation profile is exclusively civil IP disputes brought by large pharma originators (Pfizer, Bristol Myers Squibb, Merck Sharp & Dohme) in the Delhi High Court — a commercial/regulatory-compliance matter, not a criminal or sanctions matter. Per project rules this is not a rejection ground; noted neutrally as 'есть сложности'.",
+ "rf_supply": null,
+ "note": "Sources: indiankanoon.org search for \"Triveni Interchem\" (52 documents, 51 judgments/orders; Delhi High Court, Bombay High Court, Delhi District Court, ITAT-Surat listed as courts) — https://indiankanoon.org/search/?formInput=%22Triveni%20Interchem%22 . Sanctions: OFAC Sanctions List Search tool (https://sanctionssearch.ofac.treas.gov/) was reachable but is JavaScript-driven and returned no queryable results; UN/EU/UK/BIS lists could not be queried because the web_search backend was down (searx connection refused) and Bing/DuckDuckGo returned irrelevant or blocked results. Therefore sanctions_hit is null = NOT CHECKED, not a clean result; recommend re-running OFAC/UN/EU/UK/BIS screening manually before onboarding. Credit rating: no public rating found; null (not public / not verified). RF/CIS supply evidence: none found; null — no customs, B-L or open-source record of supplies to Russia or CIS was located, and absence of evidence here is not evidence of absence given the tool limitations. No CIN, PAN, revenue or shipment figures are asserted — none were verified. Court case statuses are as listed on Indian Kanoon (order dates); final disposal status of each suit was not confirmed from the full texts."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "MAYURESH ENGINEERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один источник не открылся. Поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' либо нерелевантную выдачу; агрегаторы реестров (zaubacorp.com, thecompanycheck.com) — HTTP 403; портал MCA (mca.gov.in) — HTTP 403; IndiaMART — HTTP 429. Никаких данных о юрлице, CIN, PAN, GSTIN, дате регистрации, статусе MCA и выручке получить не удалось, поэтому все поля null — цифры и идентификаторы не выдумывались. ВАЖНО: 'DATTATRAYA DINKAR JAGTAP' в поле legal_claimed — это имя физлица (вероятного собственника/проприетора), а не название юрлица; 'MAYURESH ENGINEERS' по такой форме имени, скорее всего, является проприетарным предприятием (sole proprietorship) без CIN и без обязательной публикации аудиторской отчётности — тогда CIN/LLPIN и выручка по FY25/FY26 будут недоступны публично в принципе, а PAN (4-й символ 'P' = individual) и GSTIN можно подтвердить только через GST-портал или выписку контрагента. Отклонять НЕ следует: оснований для rejected (несуществование, ликвидация, банкротство) не установлено — статус 'не проверено'. Требуется повторный прогон при доступных источниках либо запрос GSTIN/выписки у поставщика."
+}

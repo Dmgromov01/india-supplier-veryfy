@@ -1,0 +1,8 @@
+{
+ "name_input": "BHAGWATI STEEL CAST PRIVATE LIMITED",
+ "export_status": "unknown",
+ "export_evidence": "No shipment record obtained. importkey.com/countries/india/bhagwati-steel-cast-private-limited and .../bhagwati-steel-cast-pvt-ltd both returned only the generic template shell — exact line: \"Shipments available for BHAGWATI STEEL CAST PRIVATE LIMITED, refreshed daily\" — with 0 actual rows rendered (counter says data exists, rows seen = 0). volza.com/p/bhagwati-steel-cast/, eximpedia.app, trademo.com all returned HTTP 403 Forbidden; no bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split retrieved. zaubacorp.com and thecompanycheck.com returned HTTP 403 Forbidden; DuckDuckGo search backend was down (connection refused) and Bing/Google returned only unrelated results, so no domestic supply record was located.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: все источники отгрузок были недоступны (403/шаблон-заглушка), поэтому статус unknown, а не none_found. Ни одной записи с датой, направлением и номером B/L получить не удалось; выручка и объём экспорта — null, не выдумывались. Юрлицо не проверено по реестру (zaubacorp/thecompanycheck заблокированы), CIN/PAN не подтверждены — в claimed-данных их и не было. Заявленные HS 721070/721420/721650 (плоский прокат с покрытием, арматура, уголки/фасонный прокат) с названием 'Steel Cast' согласуются лишь частично — фактический код не установлен, коррекция не производилась. Требуется повторная проверка при доступных volza/eximpedia/registry-источниках; отклонять не за что (нет данных о ликвидации/банкротстве)."
+}

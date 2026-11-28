@@ -1,0 +1,9 @@
+{
+ "name_input": "CYBER TEXTILES INDIA PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure, not a clean result. (1) web_search returned 'searx: Connection refused' on both queries. (2) Fallback engines: DuckDuckGo HTML endpoint timed out twice; Google returned only a redirect/consent interstitial; Bing returned identical generic 'cyber' dictionary/cybersecurity results for three different quoted queries, i.e. the quoted phrase was not honoured and no company-specific hits were surfaced. (3) Zauba Corp company search returned HTTP 403 Forbidden. (4) OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) loaded, but it is a JavaScript form - the name query cannot be submitted via http_get, so no SDN/Non-SDN screen was actually performed. Consequently sanctions_hit, court_cases, rating, news_risk and rf_supply are all null because nothing was verified, NOT because nothing exists. Do not read these nulls as 'no sanctions / no litigation / no Russia exposure'. No court records (eCourts, NCLT, High Court), no credit rating (CRISIL/ICRA/CARE/India Ratings), no regulator actions (RBI/SEBI/DGFT/ED) and no customs or B-L evidence of Russia/CIS supply were checked. Additional flag for the desk: the declared industry 'Пищевые продукты и FMCG' is inconsistent with the company name and with the declared HS codes 5208.12/5208.33/5208.59/5209.29, which are woven cotton fabrics - a textiles trader/manufacturer profile, not FMCG. Per project rules this is not a rejection ground and is outside my remit (HS/legal identity), but it should be routed to the identity/HS researcher. Recommend re-running this company once the search backend is restored, or supplying the CIN/PAN so registry and court lookups can be done directly."
+}

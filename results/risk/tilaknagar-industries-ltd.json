@@ -1,0 +1,9 @@
+{
+ "name_input": "Tilaknagar Industries Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ выполнена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на все запросы, http_get к tilaknagar.com и en.wikipedia.org завершился ошибкой (DNS failure / HTTP 429), страница BSE отдала только JS-оболочку без содержимого. Ни один источник не был прочитан, поэтому все поля оставлены null — данные не выдумывались. По имеющимся общим сведениям (не подтверждено в рамках этой сессии, требует перепроверки): Tilaknagar Industries Ltd — индийский производитель алкоголя (IMFL, бренд Mansion House), листинг на BSE/NSE; сведений о санкционных включениях, судебных делах, рейтинговых действиях и поставках в РФ/СНГ в этой сессии получить не удалось. Требуется повторный запуск проверки при доступных инструментах: OFAC SDN/UN/EU/UK/BIS lists, NCLT/NCLAT/SEBI/HC records, CRISIL/ICRA/CARE/India Ratings, Google News по 'Tilaknagar Industries'. Согласно правилу 2, любые найденные санкции/суды/уголовные дела не являются основанием для отклонения — только нейтральная пометка «есть сложности»."
+}

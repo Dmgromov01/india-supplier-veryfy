@@ -1,0 +1,18 @@
+{
+ "name_input": "Rudani Enterprises Private Limited",
+ "legal_name": "RUDANI ENTERPRISES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The web_search tool failed on every call (searx backend: 'Connection refused'), and direct fetches of public registry aggregators were blocked: zaubacorp.com and thecompanycheck.com returned HTTP 403, falconebiz.com returned HTTP 403, instafinancials.com returned HTTP 404 for the guessed slug. Bing/Google HTML endpoints returned only irrelevant or redirect pages, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be confirmed from any source. Per project rules, nothing is invented: all registry fields and both revenue fields are null. IMPORTANT: this is an absence of evidence, not evidence of non-existence - the entity was NOT rejected, since rejection requires proof that the legal entity does not exist, is struck off, liquidated or bankrupt, and no such proof was found. Role left as 'unknown' (trader/manufacturer distinction cannot be established without MCA/GST records). Recommended next step: re-run against MCA21 master data or a GSTIN search portal (e.g. the GST taxpayer search on gst.gov.in) once a working search backend is available, and confirm the exact registered name - 'Rudani Enterprises' is a common Gujarati trading name and may correspond to more than one legal entity, so the CIN must be pinned before any further assessment."
+}
