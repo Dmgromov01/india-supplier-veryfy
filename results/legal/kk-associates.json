@@ -1,0 +1,18 @@
+{
+ "name_input": "KK Associates",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация невозможна по доступным источникам. 'K K Associates' / 'KK Associates' — крайне распространённое неспецифичное имя: под него подпадают десятки разных юрлиц, LLPs и проприетарных фирм в разных штатах, поэтому без PAN/CIN/GSTIN из входных данных привязка к конкретному юрлицу была бы выдумкой. Во входных данных PAN и штат не указаны (пустые), что исключает однозначную идентификацию. Технические ограничения проверки: web_search (DuckDuckGo/searx) возвращал 'Connection refused'; прямые запросы к html.duckduckgo.com и lite.duckduckgo.com — таймаут; zaubacorp.com, instafinancials.com, falconebiz.com — HTTP 403; thecompanycheck.com — только лендинг с требованием логина; quickcompany.in и gstsearch.in — HTTP 404. Ни одна запись MCA/GST не была прочитана, поэтому CIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка остаются null — не выдуманы. Вердикт по правилам проекта: НЕ отклонять (нет доказательств несуществования/ликвидации/банкротства — статус просто не проверен). Роль оставлена 'unknown'. Требуется от заказчика один из идентификаторов (GSTIN, PAN или CIN) либо штат регистрации для повторной проверки. Заявленный HS 071080;200899 (замороженные овощи / консервированные фрукты-орехи) и отрасль 'Продукты питания и FMCG' — это заявление поставщика, реестром не подтверждено; по правилу 3 несоответствие HS не является основанием для отклонения."
+}

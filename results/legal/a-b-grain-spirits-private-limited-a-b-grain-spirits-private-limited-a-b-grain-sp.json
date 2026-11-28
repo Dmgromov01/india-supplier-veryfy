@@ -1,0 +1,18 @@
+{
+ "name_input": "A B GRAIN SPIRITS PRIVATE LIMITED; A B GRAIN SPIRITS PRIVATE LIMITED; A B GRAIN SPIRITS PRIVATE LIMITED; A .B. GRAIN SPIRITS PVT LTD; A B GRAIN SPIRITS PRIVATE LIMITED; AB GRAIN SPIRITS PVT LIMITED; AB GRAIN SPIRITS PVT LIMITED; A B GRAIN SPIRITS PRIVATE LIMITED; ADIE BROSWON BREWERIES (A UNIT OF AB GRAINS SPIRITS PVT LTD); AB GRAIN SPIRITS PRIVATE LIMITED; M/S A. B. GRAIN SPIRITS PRIVATE LIMITED",
+ "legal_name": "A B GRAIN SPIRITS PRIVATE LIMITED (as claimed; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: the web_search backend refused connections (searx: Connection refused) on both queries; Bing and Google returned irrelevant or rate-limited (HTTP 429) results; DuckDuckGo HTML endpoints timed out; direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) all returned HTTP 403 Forbidden. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null - none of these are public to me in this session and none were invented. No rejection is applied: absence of retrievable records is NOT evidence that the entity does not exist, is struck off, liquidated or bankrupt, so per the rules the company stays in the base with role 'unknown'. Input itself is internally inconsistent and needs cleanup: the name list mixes 'A B GRAIN SPIRITS', 'A .B. GRAIN SPIRITS', 'AB GRAIN SPIRITS' and 'AB GRAINS SPIRITS', and one alias presents 'ADIE BROSWON BREWERIES' as a unit of the same entity - the exact legal name must be confirmed from the MCA master data before any further work. Declared HS codes 2203/2208 (beer and spirits) are consistent with a distillery/brewery profile, but HS is not a rejection ground and the code is to be corrected to the actual one if it differs. state_claimed was empty in the input, so no state mismatch can be assessed. Recommended next step: re-run with a working search backend or MCA/GST portal access to obtain CIN, GSTIN and FY25/FY26 filings."
+}

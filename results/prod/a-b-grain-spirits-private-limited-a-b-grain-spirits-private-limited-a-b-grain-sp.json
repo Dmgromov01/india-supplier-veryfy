@@ -1,0 +1,16 @@
+{
+ "name_input": "A B GRAIN SPIRITS PRIVATE LIMITED; A B GRAIN SPIRITS PRIVATE LIMITED; A B GRAIN SPIRITS PRIVATE LIMITED; A .B. GRAIN SPIRITS PVT LTD; A B GRAIN SPIRITS PRIVATE LIMITED; AB GRAIN SPIRITS PVT LIMITED; AB GRAIN SPIRITS PVT LIMITED; A B GRAIN SPIRITS PRIVATE LIMITED; ADIE BROSWON BREWERIES (A UNIT OF AB GRAINS SPIRITS PVT LTD); AB GRAIN SPIRITS PRIVATE LIMITED; M/S A. B. GRAIN SPIRITS PRIVATE LIMITED",
+ "declared_hs": "220300;220820;220830;220840",
+ "actual_hs_list": [
+  "220300",
+  "220820",
+  "220830",
+  "220840",
+  "220710",
+  "170199"
+ ],
+ "match_status": "partial",
+ "product_summary": "Официальный сайт группы Adie Broswon (adiebroswon.com, прочитан 23.11.2026) описывает группу как «India's largest producer of grain-based ethyl alcohol» и перечисляет вертикали: Distillery, Sugar, Brewery, Defence. AB Grain Spirits — дистиллерийная вертикаль группы; Adie Broswon Breweries — пивоваренная вертикаль (в названии входной записи указана как «a unit of AB Grains Spirits Pvt Ltd»). Реальные продукты, перечисленные на сайте: пиво — Rockberg Draught (Punjab), Rockberg Gold (Himachal), Donna Bold (Chandigarh), Donna (Delhi); спирты — Battalion Dark Rum (Punjab); отдельная категория «Country Liquor». Также заявлены сахарное производство (Chadha Sugar Industries) и этиловый спирт из зерна и мелассы наливом.",
+ "role_hint": "manufacturer (группа с дистиллерией, пивоварней и сахарным заводом); признаков чистого трейдера на сайте не выявлено",
+ "comment": "Сопоставление с заявленным набором 2203/2208.20/2208.30/2208.40: 2203 (пиво) — подтверждается линейкой Rockberg/Donna, exact; 2208.40 (ром) — подтверждается Battalion Dark Rum, exact; 2208.20 (спирт виноградный/бренди) — на сайте не найден ни один бренди/коньяк, только зерновой спирт и ром, поэтому код не подтверждён продуктом — заявлено, не подтверждено; 2208.30 (виски) — на сайте бренд виски не указан, заявлено, не подтверждено. Итог: partial. Пропущенные в декларации линии: (1) этиловый спирт неденатурированный из зерна/мелассы наливом — 2207.10 (основной заявленный бизнес группы, «India's largest producer of grain-based ethyl alcohol»), в декларации отсутствует; (2) сахар — 1701.99 (Chadha Sugar Industries), в декларации отсутствует; (3) «Country Liquor» — вероятнее 2208.90 либо 2208.20 в зависимости от сырья, точный код по сайту не определяется. Оговорка по правилу 3: расхождение по HS не является основанием для отклонения — компания сохраняется, коды корректируются на фактические. Отраслевая метка «Продукты питания и FMCG» неточна: фактически это алкогольная промышленность (дистиллерия/пивоварня) плюс сахарное производство, т.е. beverage alcohol / agri-processing, а не FMCG-питание. Все перечисленные продукты взяты только со слов сайта группы; ни одна товарная линия не сверена с таможенной записью (таможенные данные в рамках этой роли не исследовались), поэтому статус подтверждения по каждой позиции — «заявлено, не подтверждено». Часть внутренних страниц сайта (brand-portfolio, business-verticals, beer, spirits, country-liquor) вернула 404, поэтому детальный состав SKU и сырьё для country liquor не верифицированы — null."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Daya Charan & Sons Pvt. Ltd",
+ "legal_name": "DAYA CHARAN AND SONS PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. The web_search tool returned a backend connection error (searx: Connection refused) on both queries; direct fetches of public registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com) returned HTTP 403/404, and Bing/Google/DuckDuckGo fallbacks returned either irrelevant results (US singer 'Daya') or HTTP 429/timeout. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. No audited accounts or official filings were accessible, so revenue FY25 and FY26 are null (not estimated). Role is 'unknown': no registry record was read to establish manufacturer vs trader status; the claimed HS 843149 (parts of machinery of headings 8425-8430, i.e. construction/mining machinery parts) and the claimed industry 'metallurgy and mining' are unverified and are not a basis for any verdict. Per project rules, the entity is NOT rejected: rejection requires positive proof of non-existence, strike-off, liquidation or bankruptcy, and no such proof was found — the absence of data here is a tooling limitation, not a finding. Recommended action: re-run verification against MCA master data / GST portal when search access is restored, and treat all fields as 'заявлено, не подтверждено' until then."
+}

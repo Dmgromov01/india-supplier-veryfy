@@ -1,0 +1,8 @@
+{
+ "name_input": "GIMPEX OVERSEAS PVT. LTD",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'gimpex-overseas-pvt-ltd' rendered only a paywall shell: \"Join ImportKey to view the import and export data records of companies all over the world.\" — 0 shipment rows visible (0 of an undisclosed total). Second slug variant 'gimpex-overseas' returned the identical shell, also 0 rows. No bill-of-lading number, date, destination or HS code could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender or annual-report split was retrieved for this entity; no source page with a verifiable domestic supply line was reachable in this session.",
+ "note": "Следов поставок не подтверждено и не опровергнуто: ни экспортных записей (B/L с датой и направлением), ни внутренних поставок получить не удалось. ImportKey отдаёт только заглушку с приглашением в триал — 0 строк из нераскрытого объёма; volza, eximpedia и trademo вернули HTTP 403, DuckDuckGo — таймаут, Google — 429, Bing выдал нерелевантную выдачу (Etsy/Reddit), т.е. поиск по названию компании фактически не сработал. Заявленный HS 848210 (подшипники качения) не подтверждён ни одной таможенной записью; заявленная отрасль «Металлургия и горнодобыча» с этим кодом не согласуется, но по правилу 3 несоответствие HS не является основанием для отклонения — код в базе следует выправить на фактический, когда появятся данные. Выручка и объём экспорта: null (не публичны / не получены), цифры не выдумывались. Рекомендация: повторить проверку с платным доступом к ImportKey/Volza либо через индийский GST-портал и GeM по точному юридическому имени, прежде чем присваивать статус confirmed."
+}

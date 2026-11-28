@@ -1,0 +1,18 @@
+{
+ "name_input": "ADINATH TEX CHEM LTD",
+ "legal_name": "ADINATH TEX CHEM LIMITED (as claimed; not independently verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. The DuckDuckGo search tool returned a connection error ('searx: Connection refused') on both queries, and every direct fetch of a registry source failed: zaubacorp.com (HTTP 403), thecompanycheck.com (HTTP 403), falconebiz.com (HTTP 403), tofler.in (HTTP 404 - no such company page), instafinancials.com (HTTP 404), search.mca.gov.in (DNS resolution failure). Bing fallback returned only unrelated results (hardforum, capitalone, cricbuzz), i.e. no genuine hits for the company name. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status and revenue are all null - NOT because they were checked and found absent, but because they could not be checked. No identifiers were invented. Per project rules, rejection is not warranted: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - existence is simply unconfirmed. Role left as 'unknown' (no evidence of manufacturing vs trading). Note on the input: declared HS codes 520833 / 520912 / 520929 are woven cotton fabrics (HS chapter 52), which does not match the claimed industry 'Food products and FMCG'; per rule 3 this is not a rejection ground - the HS code should be corrected to the factual one and the verdict recorded as accepted_hs_corrected once the entity is confirmed. Recommended next step: re-run verification when the search backend is restored, or query MCA V3 / GST portal directly by legal name to obtain CIN and GSTIN."
+}
