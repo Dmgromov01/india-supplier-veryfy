@@ -1,0 +1,9 @@
+{
+ "name_input": "Tesla Transformers (India) Ltd; Tesla Transformers India Ltd",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH INCOMPLETE - no risk findings could be verified, all fields null. Tooling failure: the web_search backend (searx) returned 'Connection refused' on every attempt (3 tries), so no search index was available. Fallbacks also failed: indiankanoon.org DNS resolution failed; zaubacorp.com returned HTTP 403; duckduckgo.com/html timed out; google.com returned HTTP 429. The only search engine that responded (bing.com) returned exclusively results for Tesla, Inc. (the US EV manufacturer) and nothing for an Indian transformer maker, i.e. no relevant hits. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable but is a JavaScript form that returns no server-side query results, so no name screening could actually be executed - this is NOT a negative/clear result, it is an unperformed check. teslatransformers.com resolves but serves an empty placeholder page ('No results'), giving no company information. Consequently: sanctions exposure (OFAC SDN/UN/EU/UK/BIS Entity List) = not screened; Indian court cases (party role/status) = not retrieved; regulator actions and negative news = not retrieved; credit rating = not retrieved; evidence of supplies to Russia/CIS = not retrieved. Per project rules, no data was invented and no rejection is implied - absence of findings here reflects tool unavailability, not a clean record. Recommend re-running this company once search access is restored, with direct checks of OFAC SDN/EU/UK consolidated lists, BIS Entity List, indiankanoon/eCourts/NCLT, and CRISIL/ICRA/CARE/Brickwork rating pages."
+}
