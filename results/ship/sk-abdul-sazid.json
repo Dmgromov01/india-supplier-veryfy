@@ -1,0 +1,8 @@
+{
+ "name_input": "SK ABDUL SAZID",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'sk-abdul-sazid' (and variant 'sk-abdul-sazid-') returned only the generic paywalled template: 'Join ImportKey to view the import and export data records of companies all over the world.' — 0 shipment rows actually rendered on the page (counter shown: none; rows seen: 0). No bill-of-lading number, date, destination or HS code visible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. No public page located for this entity; web_search returned no results (search backend error: 'searx: <urlopen error [Errno 111] Connection refused>') on all three attempts.",
+ "note": "Следов поставок не найдено — и не подтверждено обратного. Это не вывод об отсутствии отгрузок, а отсутствие доступа к данным: ImportKey отдаёт только заглушку за пейволом (0 строк), volza/eximpedia/trademo вернули HTTP 403, веб-поиск в этой сессии не работал (searx connection refused). Имя 'SK ABDUL SAZID' выглядит как имя физлица/ИП (префикс 'SK' — вероятно Sheikh/Shaikh), а не название компании, поэтому привязка к юрлицу и к заявленному HS 611595 (трикотажные чулочно-носочные изделия) не установлена. Заявленный HS 611595 не подтверждён и не опровергнут — по правилу 3 несоответствие HS не является основанием для отклонения, вердикт по HS не выносится. Выручка: null (не публична). Объём экспорта: null (не публичен). PAN/CIN: null — не заявлены и не найдены. Требуется повторная проверка при доступном веб-поиске и/или платном доступе к таможенным данным Индии."
+}

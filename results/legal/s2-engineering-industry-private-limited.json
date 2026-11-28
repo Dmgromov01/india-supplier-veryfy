@@ -1,0 +1,18 @@
+{
+ "name_input": "S2 ENGINEERING INDUSTRY PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The input is internally inconsistent: the name field says 'S2 ENGINEERING INDUSTRY PRIVATE LIMITED' while legal_claimed says 'SBRG CLEAN TECH PRIVATE LIMITED' - these are two different legal entities and it is unclear which one is the actual supplier. No CIN, PAN, GSTIN, incorporation date, MCA status or financials could be retrieved: the web_search backend was unavailable (connection refused), and all registry sources attempted (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in, mca.gov.in) returned HTTP 403 Forbidden or 404. No public record was found confirming the existence of either entity. Per project rules, rejection requires proof of non-existence/strike-off/liquidation, and absence of accessible data is NOT such proof - so the company is NOT rejected, it is left unverified with all fields null. Do not treat any field here as confirmed. Recommended next step: manual MCA master-data lookup by CIN or by exact name on mca.gov.in, plus GST portal GSTIN search, to resolve which of the two names is the real counterparty. Declared HS codes 841583/842139 (air/gas filters, purification machinery) do not match the claimed industry 'IT и электроника' - flag for HS correction only, not for rejection."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "ROBIN CHEMICALS P.LTD; ROBIN CHEMICALS PRIVATE LIMITED; M/S ROBIN CHEMICALS PRIVATE LIMITED",
+ "legal_name": "ROBIN CHEMICALS PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could NOT be verified in this session. Tooling failures: web_search backend returned 'Connection refused' on both queries; zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in all returned HTTP 403/404; Google and Bing HTML endpoints returned no usable organic results (only generic 'Robin' brand/bird results); DuckDuckGo HTML timed out. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — NOT because they are absent, but because no public source could be read. No entity-existence conclusion is drawn: per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, and no such proof was obtained, so the company is NOT rejected. Role left as 'unknown' (name suggests chemicals, declared HS 210690 suggests food/FMCG — a mismatch to be resolved once the actual entity and its GST/HS records are retrieved). Note also that the input name is ambiguous: 'Robin Chemicals' may correspond to more than one registered entity, and the 'P.LTD' / 'M/S' variants must be matched to a single CIN before any further verification. Recommended next step: re-run with working search access and query MCA master data / GST public search directly for the exact CIN."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Sudev International",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: ни один источник не удалось прочитать. Поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения либо нерелевантную выдачу, не учитывающую кавычки; zaubacorp.com, instafinancials.com и mca.gov.in отдали HTTP 403. Поэтому CIN/LLPIN, PAN, GSTIN, дата регистрации, штат и выручка остаются null — данные не выдумывались. Важное уточнение по входным данным: 'MIT HEMANTKUMAR JOSHI' — это, судя по формату, имя индивидуального предпринимателя/проприетора, а не название юрлица; у проприеторского бизнеса нет CIN, есть только PAN (4-й символ 'P' = individual/proprietor) и GSTIN. Проверить это не удалось. Отклонение НЕ применяется: оснований для rejected (несуществование, struck off, ликвидация, банкротство) не установлено — статус 'не проверено', требуется повторный прогон при доступных источниках. Заявленный HS 110813 (крахмал/глютен пшеничный, гл. 11) не проверялся — по правилам проекта несоответствие HS не является основанием для отклонения."
+}
