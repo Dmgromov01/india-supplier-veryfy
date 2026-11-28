@@ -1,0 +1,18 @@
+{
+ "name_input": "BBM Bommidala Group (Bommidala Enterprises Pvt. Ltd)",
+ "legal_name": "BOMMIDALA ENTERPRISES PRIVATE LIMITED (as claimed in input; not independently verified in this session)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search (DuckDuckGo/searx) returned 'Connection refused' on both queries; direct fetches of zaubacorp.com, thecompanycheck.com, tofler.in and falconebiz.com all returned HTTP 403 Forbidden; instafinancials.com returned 404; Google/Bing/DDG HTML endpoints returned irrelevant or empty results. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - NOT verified, not 'absent'. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; absence of retrievable data is not grounds for rejection under the project rules. Role left as 'unknown' (not 'trader' or 'manufacturer') because the manufacturer/trader classification could not be evidenced from filings. Note on input quality: declared HS 240110/240120 is unmanufactured/stemmed tobacco, which is inconsistent with the claimed industry 'Строительство и DIY' (construction/DIY) - per rule 3 this is NOT a rejection ground; the HS code should be treated as the factual one (tobacco) and the industry label corrected, but the actual HS must be confirmed against the GST registration record once accessible. Also note the input name conflates a group brand ('BBM Bommidala Group') with a specific legal entity ('Bommidala Enterprises Pvt. Ltd'); the exact legal entity must be confirmed from MCA before any further work. RECOMMENDATION: re-run this company in a later batch when MCA/GST portal access or a working search backend is available; do not treat this record as verified."
+}

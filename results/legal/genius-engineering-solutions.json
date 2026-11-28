@@ -1,0 +1,18 @@
+{
+ "name_input": "GENIUS ENGINEERING & SOLUTIONS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Не подтверждено ни одного реестрового факта. Поисковая инфраструктура в этой сессии нерабочая: DuckDuckGo/searx вернул 'Connection refused', lite.duckduckgo.com и search.marcia.cc — таймаут, Google отдал только редирект-заглушку, Bing по запросам '\"GENIUS ENGINEERING & SOLUTIONS\" Bijola', '\"Kishan Dutt Bijola\"', '\"Genius Engineering and Solutions\" GST India' выдал нерелевантную выдачу (genius.com, xvideos и т.п.) — то есть поиск фактически не выполнялся. Агрегаторы реестров закрыты: zaubacorp.com, tofler.in, instafinancials.com — HTTP 403 Forbidden. В результате: точное юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null, публично не получены в рамках этой проверки. Заявленное в input 'KISHAN DUTT BIJOLA' — это имя физлица, а не название юрлица; вероятно, речь о proprietorship/ИП, у которого CIN отсутствует по определению, но подтвердить это не удалось. Штат в input не заявлен (state_claimed пусто), поэтому сверять state_registered не с чем. Роль определить нельзя: нет данных, ведёт ли лицо производство или торговлю. ВАЖНО: отклонять НЕ следует — правило 3 требует доказательств несуществования/ликвидации/банкротства, а таких доказательств нет; отсутствие данных о компании не равно её отсутствию. Требуется повторная проверка при работающем поиске и доступе к MCA/GST-порталам (например, через официальный GST-поиск по GSTIN или MCA-выписку), а также уточнение у заказчика фактического названия юрлица/ИП и GSTIN."
+}

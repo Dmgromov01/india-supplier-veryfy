@@ -1,0 +1,18 @@
+{
+ "name_input": "Heavy Engineering Corporation Ltd",
+ "legal_name": "Heavy Engineering Corporation Limited (HEC) — a Government of India CPSE (Schedule 'A'), Ranchi, Jharkhand. NOTE: the input's claimed legal form 'HEAVY ENGINEERING CORPORATION PRIVATE LIMITED' is NOT the registered name of the operating CPSE; however, HEC's own website (hecltd.com, homepage notices dated 21.11.2026) publishes an NCLT admission order and public announcement for CIRP of 'M/s. Heavy Engineering Corporation Private Limited', i.e. a separate/renamed entity in insolvency proceedings. Exact CIN of that CIRP entity could not be verified from a public registry page in this session (zaubacorp returned HTTP 403; search engine unavailable).",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Jharkhand (Ranchi — Plant Plaza Road, Dhurwa, Ranchi 834004, per company website)",
+ "state_claimed": "",
+ "mca_status": "Under CIRP / insolvency — NCLT admission order and public announcement for initiation of Corporate Insolvency Resolution Process published on the company's own website (notices dated 21.11.2026), with claim forms B–F invited from creditors. MCA master-data status (Active/Under CIRP) not directly readable: registry aggregator blocked (HTTP 403) and search engine was down.",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry-only check. Verified from primary source (hecltd.com homepage, fetched successfully): company operates as Heavy Engineering Corporation Limited, Ranchi, Jharkhand — heavy engineering manufacturer (steel plant equipment, mining equipment, crushers, machine tools, castings/forgings, cranes), which matches the declared HS 820110 (shovels/spades — actually HEC makes electric rope shovels/draglines, so the code is plausible for shovels but the bulk of output is 8474/8455/8457 class machinery) and 847420 (crushing/grinding machinery — consistent with HEC's crushers and rod mills). Role: manufacturer (own plants: Foundry Forge Plant, Heavy Machine Building Plant, Heavy Machine Tools Plant). CRITICAL: the entity is in corporate insolvency resolution (CIRP) per NCLT order published on its own site on 21.11.2026 — under project rules this is a bankruptcy/insolvency situation, which is the one ground for rejection; however the operating CPSE itself is a Government of India company and the CIRP notice names 'Heavy Engineering Corporation Private Limited', so the exact legal-entity identity and CIN must be confirmed against the MCA master data before any final rejection. No PAN, GSTIN, incorporation date or audited FY25/FY26 revenue could be retrieved: search engine (searx) returned connection refused for all queries, zaubacorp returned HTTP 403, Wikipedia returned HTTP 429, and the company site's about/contact sub-pages returned 404. All such fields left null rather than guessed. No customs, court or catalogue research performed per role scope."
+}
