@@ -1,0 +1,18 @@
+{
+ "name_input": "KIRAN ABRASIVES",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Проверка не выполнена по техническим причинам: поисковый бэкенд (searx/DuckDuckGo) возвращал 'Connection refused'/'timed out', Bing отдавал только нерелевантную кэшированную выдачу без учёта запроса, а профильные реестровые источники (zaubacorp.com, thecompanycheck.com) вернули 403/только лендинг без результатов поиска. Ни один реестровый факт (юрлицо, CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, статус MCA, выручка) публично не подтверждён в рамках доступных инструментов, поэтому все поля null — данные не выдумывались. ВАЖНО: 'KRISHNA REDDY YELGIREDDY' в поле legal_claimed — это имя физлица (вероятно, проприетар/владелец), а не название юрлица; 'KIRAN ABRASIVES' с высокой вероятностью является проприетарным предприятием (sole proprietorship), у которого нет CIN/LLPIN и нет обязательной отчётности в MCA — тогда выручка FY25/FY26 в аудиторской отчётности отсутствует в принципе (null правомерен). Отклонять НЕЛЬЗЯ: отсутствие подтверждения не равно несуществованию юрлица (правило 3). Требуется повторный прогон при доступном поиске/реестре (MCA, GST-портал по названию торговой марки, IndiaMART-профиль для GSTIN)."
+}

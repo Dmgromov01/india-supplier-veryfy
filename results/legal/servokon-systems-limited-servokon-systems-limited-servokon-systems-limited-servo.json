@@ -1,0 +1,18 @@
+{
+ "name_input": "SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED; SERVOKON SYSTEMS LIMITED",
+ "legal_name": "SERVOKON SYSTEMS LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. All registry sources were unreachable: web_search backend refused connections (searx: Connection refused) on both queries; zaubacorp.com and thecompanycheck.com returned HTTP 403; mca.gov.in returned HTTP 403; google.com/search returned HTTP 429; duckduckgo.com timed out; nseindia.com timed out; screener.in returned HTTP 404 for both /company/SERVOKON/ and /company/SERVOKON/consolidated/; bseindia.com returned only a JS shell with no content. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null — not public/not retrieved, NOT invented. What IS confirmed from the company's own website (servokon.com, fetched successfully): the entity presents itself as 'Servokon Systems Limited' and operates an Investor Relations section with Annual Report, Annual Return, Financial Results, Share Holding Pattern, Corporate Governance Report and SEBI (LODR) disclosures — this indicates a listed public limited company, but the site pages are JS-rendered and returned only navigation, so no CIN or figures could be extracted. The site describes itself as 'one of the largest manufacturers and suppliers of power conditioning equipment and transformers', established 1990 (founder Haji Kamruddin), with offices in Noida, Delhi, Ghaziabad, Patna, Kanpur, Srinagar, Punjab — so the registered/operating state is most likely Uttar Pradesh (Noida/Ghaziabad) or Delhi, but this is a website claim, not a registry record, hence state_registered = null. Role set to 'manufacturer' on the basis of the company's own manufacturing-unit and product-range pages (transformers, servo stabilizers, panels) — this is a self-declaration, not registry-verified. Declared HS 850433/850440 (static converters/transformers) is consistent with the stated product range, but HS conformity is not a rejection ground per project rules. Revenue FY25 and FY26: null — audited accounts/filings could not be retrieved; no figures invented. No rejection ground established: the entity appears to exist and operate (active website, investor-relations disclosures), and there is no evidence of strike-off, liquidation or bankruptcy. Verdict: accepted pending registry confirmation; recommend re-run of CIN/PAN/GSTIN and FY25/FY26 revenue once MCA/aggregator access is restored."
+}

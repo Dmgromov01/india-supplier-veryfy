@@ -1,0 +1,18 @@
+{
+ "name_input": "SHIV DIAL SUD & SONS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровых данных получить не удалось. Поисковый бэкенд (DuckDuckGo/searx) был недоступен (connection refused / timeout), Bing по запросам с точным названием выдавал нерелевантную выдачу (только статьи про 'shiv'/'Shiva'), т.е. название фактически не индексировалось в доступной выдаче. Публичные агрегаторы реестра (zaubacorp.com, thecompanycheck.com) вернули HTTP 403, instafinancials — 404. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни MCA-статус не подтверждены ни одним источником — все поля null, ничего не выдумано. Название 'Shiv Dial Sud & Sons' по форме похоже на товарищество/фирму (partnership/HUF-подобное имя, без признаков Pvt Ltd), у таких юрлиц CIN отсутствует в принципе, а LLPIN был бы только при регистрации как LLP — подтвердить нечем. Роль (manufacturer/trader) не определена: без GST-профиля и реестровой записи классифицировать нельзя, поэтому unknown. Выручка FY25/FY26 недоступна: для фирм/товариществ аудиторская отчётность в открытом доступе обычно не публикуется, MCA-филинга нет. Отклонение НЕ применяется: нет доказательств несуществования, ликвидации, strike-off или банкротства — отсутствие данных не является основанием для rejected. Требуется повторная проверка при восстановлении доступа к реестру (MCA master data / GST-портал) или уточнение от поставщика: точное юридическое имя, PAN, GSTIN, штат регистрации."
+}

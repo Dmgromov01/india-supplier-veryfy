@@ -1,0 +1,18 @@
+{
+ "name_input": "Spider Pack",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один источник не подтвердил существование компании с названием 'Spider Pack'. Причина техническая, а не содержательная: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' или таймаут; Bing по запросам в кавычках ('Spider Pack' + CIN/GST/zaubacorp, 'Spiderpack') выдавал нерелевантную выдачу (пасьянс 'Spider', статьи о пауках, советы о дружбе) — то есть ни одного релевантного индексированного профиля не найдено; zaubacorp.com и instafinancials.com отдали HTTP 403, thecompanycheck.com — только заглушку без результатов поиска, Google — редирект-заглушку. CIN/LLPIN, PAN, GSTIN, дата регистрации, штат, MCA-статус и выручка за FY25/FY26 не установлены и не выдумываются — null. Роль (manufacturer/trader) не определена, т.к. нет подтверждённого юрлица. ВАЖНО: отклонять НЕЛЬЗЯ — по правилам проекта rejected допустим только при доказанном отсутствии/ликвидации/банкротстве юрлица, а отсутствие данных из-за недоступности реестров таким доказательством не является. Требуется повторная проверка при восстановлении доступа к MCA/zaubacorp/Tofler или при получении от поставщика CIN/GSTIN/PAN — тогда проверка займёт один запрос. Также в исходных данных пусты state_claimed и pan_claimed, а заявленный HS 482369 (прочие изделия из бумаги/картона) не проверялся по правилам роли."
+}

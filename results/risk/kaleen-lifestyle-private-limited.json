@@ -1,0 +1,9 @@
+{
+ "name_input": "Kaleen Lifestyle Private limited",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: инструменты недоступны. web_search (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; html.duckduckgo.com — таймаут; Bing отдавал нерелевантную выдачу (кэш-мусор, не по компании); Google — блокировка скрейпинга; zaubacorp.com — HTTP 403; sanctionssearch.ofac.treas.gov — JS-приложение, через http_get результаты поиска не отдаются (получена только страница формы, SDN List last updated 11/23/2026). Ни один из обязательных пунктов (санкционные списки OFAC SDN/UN/EU/UK/BIS Entity List, индийские судебные дела с ролью стороны и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой и статусом, признаки поставок в РФ/СНГ) не подтверждён и не опровергнут. Все поля оставлены null — данные не выдумывались. Требуется повторный запуск при работающем поиске; приоритетные источники: OFAC Sanctions List Search (по имени и по адресу), UN Consolidated List, EU FSF, UK OFSI, BIS Entity List, eCourts/NJDG и судебные порталы (Delhi/UP/NCR), MCA-реестр, CRISIL/ICRA/CARE/India Ratings, Google News по 'Kaleen Lifestyle' и 'Kaleen Carpet'. Отдельно отметить: бренд 'Kaleen' ассоциируется с коврами/напольными покрытиями (HS 5703 в заявленном коде согласуется с профилем), но это НЕ проверенный факт о данном юрлице. Вердикт по рискам: insufficient_data, не accepted и не rejected."
+}
