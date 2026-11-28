@@ -1,0 +1,18 @@
+{
+ "name_input": "AMIR JAFFER KAMDAR",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификатор в инпуте — персональное имя (AMIR JAFFER KAMDAR), а не название юрлица; вероятно ИП/проприетор или физлицо-экспортёр. CIN/LLPIN по определению отсутствует у единоличного владельца, поэтому MCA-записи не будет. Проверка не выполнена по техническим причинам: web_search (DuckDuckGo/searx) возвращал 'Connection refused', DuckDuckGo HTML — timeout, zaubacorp.com — HTTP 403, tofler.in — 404, search.mca.gov.in — DNS-ошибка; Bing по запросам в кавычках выдавал нерелевантную выдачу (только словарные статьи про имя 'Amir'), т.е. ни одного релевантного публичного профиля найдено не было. PAN, GSTIN, GST-статус, дата регистрации, штат и выручка FY25/FY26 — null, так как публичных подтверждений нет; цифры не выдумывались. Роль — unknown (нет данных, подтверждающих производство или трейдинг). НЕ отклонять: отсутствие данных не равно отсутствию юрлица; для решения нужен либо GSTIN/PAN от поставщика, либо полное юр. наименование фирмы (например 'M/s ... Kamdar' / '... & Co'). Заявленный HS 291550 (пропионовая кислота, соль/эфир) — не проверялся, так как вне роли (registry-only)."
+}

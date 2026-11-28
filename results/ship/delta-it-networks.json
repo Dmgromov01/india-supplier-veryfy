@@ -1,0 +1,8 @@
+{
+ "name_input": "Delta IT Networks",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'delta-it-network' and 'delta-it-network-private-limited' returned only the page template: \"Shipments available for DELTA IT NETWORK PRIVATE LIMITED, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers were rendered. Source counter: 2 ImportKey pages opened, 0 shipment rows actually seen.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No public GeM/CPPP tender, contract award or GST turnover figure could be retrieved: web_search returned no results (search backend error: 'searx: <urlopen error [Errno 111] Connection refused>'), and thecompanycheck.com returned HTTP 403. Source counter: 2 search/registry attempts, 0 evidence rows seen.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Это НЕ означает, что поставок не было: это означает, что публичных подтверждающих записей получить не удалось. ImportKey отдал пустой шаблон без строк отгрузок (0 записей), volza.com, eximpedia.app и trademo.com вернули HTTP 403, поисковик был недоступен (connection refused), thecompanycheck.com — HTTP 403. Заявленный HS (847130; 847141; 847150; 852859 — компьютеры/блоки обработки данных/мониторы) не подтверждён ни одной таможенной записью; фактический код не установлен, поэтому не исправлялся. Выручка и объём экспорта: null (не публичны, не выдумывались). Роль (manufacturer/trader) не определена — данных нет. Требуется повторная проверка при доступности платных/незаблокированных источников таможенных данных."
+}

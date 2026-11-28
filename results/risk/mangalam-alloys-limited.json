@@ -1,0 +1,9 @@
+{
+ "name_input": "MANGALAM ALLOYS LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the primary search backend (DuckDuckGo/searx) returned 'Connection refused' for every query, and the fallback (Bing via http_get) returned an identical, irrelevant result set for all four distinct queries - every hit was about the Malayalam newspaper 'Mangalam' / Mangalam Publications, with zero results relating to Mangalam Alloys Limited. Direct fetches of Google and DuckDuckGo HTML endpoints returned a redirect stub and a timeout respectively. Consequently NO source could be read for this company, and per project rules no sanctions status, court case, rating, news item or RF/CIS supply evidence is asserted or invented - all fields are null because they are unverified, NOT because they were checked and found clean. Do not read these nulls as a clean risk profile. Recommended follow-up when search is restored: (1) OFAC SDN / UN / EU / UK consolidated / BIS Entity List name screens including spelling variants (Mangalam Alloy, Mangalam Steels, Mangalam Metal); (2) eCourts / NCLT / NCLAT / High Court party-role search; (3) IBBI/CIRP and MCA filing status; (4) CRISIL/ICRA/CARE/Brickwork rating actions with dates; (5) Indian trade and customs press plus customs/B-L records for any Russia or CIS destination. Note for the analyst: the claimed HS codes 722211/722220/722240 are stainless-steel long products, which is a plausible Russia/CIS export exposure area, so the rf_supply check is material and should be prioritised on re-run. Per Rule 2, any sanctions, court or criminal findings that do emerge are to be recorded neutrally as 'есть сложности' and are not rejection grounds."
+}

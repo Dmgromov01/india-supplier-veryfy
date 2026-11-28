@@ -1,0 +1,9 @@
+{
+ "name_input": "Delta IT Networks",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend returned 'Connection refused' on every query; DuckDuckGo HTML endpoints timed out; Bing returned only generic 'Delta Air Lines' results for all quoted queries (the quoted phrase 'Delta IT Network' was not honoured), so no company-specific page was ever retrieved. Direct attempts also failed: OpenSanctions search API returned HTTP 401 (key required), ZaubaCorp returned HTTP 403 (bot block). Consequently NOTHING is asserted about this company: sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List) = unknown, not 'clear'; Indian court cases (party role, status) = unknown; regulator actions and negative news = unknown; credit rating = unknown; evidence of supplies to Russia/CIS = unknown. All fields set to null deliberately - no numbers, CINs, PANs, case numbers or shipment records were invented. IMPORTANT: null here means 'not checked', NOT 'no risk found'. Do not treat this record as a clean sanctions/court screen. Recommended next step: re-run with a working search backend, or check manually on OpenSanctions (opensanctions.org), the OFAC SDN list, the BIS Entity List, eCourts/NJDG and the IBBI insolvency database. Note also that the claimed legal name 'DELTA IT NETWORK PRIVATE LIMITED' was not independently confirmed to exist - legal-identity verification is outside this role's scope and was not performed."
+}
