@@ -1,0 +1,18 @@
+{
+ "name_input": "VINOD DENIM LIMITED",
+ "legal_name": "VINOD DENIM LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. The web_search tool returned a backend error ('searx: Connection refused') on every query, and all registry aggregator pages attempted were blocked or non-existent: zaubacorp.com and thecompanycheck.com returned HTTP 403, quickcompany.in and instafinancials.com returned HTTP 404, falconebiz.com returned HTTP 403, tofler.in returned a 404 page. Google and Bing HTML endpoints returned only generic/unrelated results with no company-specific data, so no CIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be sourced. Per project rules, nothing is inferred or invented: all identifier and financial fields are null. No rejection is warranted - absence of accessible public data is not evidence that the entity does not exist, is struck off, liquidated or bankrupt, so the company is NOT rejected; it is left with role 'unknown' and unverified status pending a re-run with working search access or a direct MCA master-data lookup. Note also that the declared HS code 520942 (woven cotton denim fabric, >=85% cotton, weight >200 g/m2) is inconsistent with the claimed industry 'Food products and FMCG'; per rule 3 this is not a rejection ground - the HS code should be corrected to the actual product code and the verdict recorded as accepted_hs_corrected once the entity is confirmed. No claims about shipments, courts or catalogues were researched, per role scope."
+}

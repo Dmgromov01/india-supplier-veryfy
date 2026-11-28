@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S SPEEDWAYS RUBBER COMPANY",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки получить первоисточник не удались: web_search (DuckDuckGo/searx) вернул ошибку соединения; Bing через http_get отдал нерелевантную выдачу (кэш-мусор, не по запросу); прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com) вернули HTTP 403/404 — часть URL была построена по предполагаемому CIN, который НЕ подтверждён и в отчёт не включён. Домен speedwaysrubber.com не резолвится (DNS NXDOMAIN), т.е. корпоративный сайт как источник также недоступен. ВНИМАНИЕ: в открытых источниках встречается название 'Speedways Rubber Company Private Limited' (Джаландхар, Пенджаб), однако я НЕ смог верифицировать ни точное юр.наименование, ни CIN, ни дату регистрации, ни статус в MCA, поэтому все поля оставлены null. PAN, GSTIN, выручка FY25/FY26 — null: не найдены в публичных официальных источниках, выдумывать недопустимо. Роль (manufacturer/trader) не определена — нет подтверждённого реестрового профиля (заявленные HS 4011 — шины, что лишь косвенно намекает на производство, но фактом не является). НЕ отклонена: оснований для rejected (несуществование/ликвидация/банкротство) не установлено — отсутствие данных не равно отсутствию юрлица. Требуется повторная проверка при доступном MCA/GST-портале или выписке от поставщика (CIN + GSTIN + PAN)."
+}

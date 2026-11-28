@@ -1,0 +1,18 @@
+{
+ "name_input": "PROMOBI TECHNOLOGIES PRIVATE LIMITED; PROMOBI TECHNOLOGIES PRIVATE LIMITED; PROMOBI TECHNOLOGIES PRIVATE LIMITED; PROMOBI TECHNOLOGIES PRIVATE LIMITED; PROMOBI TECHNOLOGIES PVT LTD",
+ "legal_name": "PROMOBI TECHNOLOGIES PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data NOT verified in this run. Tooling failed: the web_search backend was unreachable (searx connection refused on both queries), DuckDuckGo HTML endpoint timed out, Google returned only a redirect/consent page, and Bing returned completely unrelated results (YouTube, Creative Fabrica) for every query, i.e. the query was not actually executed. Direct fetches of registry aggregators were blocked or empty: zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com, indiafilings.com search and quickcompany.in returned HTTP 404 (no such page at the guessed slug); tofler.in returned its own 404 page. No CIN, PAN, GSTIN, incorporation date, MCA status or revenue figure could be read from any authoritative or public-profile source, so all such fields are null rather than guessed. Note: an earlier attempt used a CIN I had constructed myself (U72900PN2015PTC157456) - that value was NOT sourced and is deliberately excluded from this record; it must not be treated as real. The claimed state is empty in the input, so state_registered vs state_claimed cannot be compared. Role left as 'unknown' - the declared HS 997331 is a services classification (business support/other professional services), which is consistent with a software/SaaS-type provider rather than a goods manufacturer, but this is an inference from the HS code only, not from any registry document. No rejection applied: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt - the absence of data is a tooling limitation, not a negative finding. Recommended next step: re-run with a working search backend, or verify manually on the MCA portal (mca.gov.in company master data) and the GST portal search by trade name, then populate CIN, PAN (4th character gives holder type: P=individual, C=company, F=firm, H=HUF, A=AOP, T=trust), GSTIN and status, and pull FY25/FY26 revenue from audited filings only."
+}

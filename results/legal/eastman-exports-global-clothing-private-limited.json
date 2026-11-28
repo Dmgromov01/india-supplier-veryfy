@@ -1,0 +1,18 @@
+{
+ "name_input": "EASTMAN EXPORTS GLOBAL CLOTHING PRIVATE LIMITED",
+ "legal_name": "EASTMAN EXPORTS GLOBAL CLOTHING PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified in this session. Tooling failed: DuckDuckGo/searx backend returned 'Connection refused' on both web_search calls; zaubacorp.com and thecompanycheck.com returned HTTP 403; instafinancials.com and quickcompany.in returned only site boilerplate / HTTP 404; Google returned HTTP 429; Bing returned only generic 'Eastman' (US chemical/guitar/plumbing) results with no Indian registry hit for the exact legal name. Therefore CIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue FY25/FY26 are all null — NOT verified, not absent. No rejection is proposed: there is no evidence the entity does not exist, is struck off, liquidated or bankrupt; the correct status is 'unverified / data unavailable', not 'rejected'. Two observations from the input itself, flagged for the analyst, not asserted as fact: (1) declared HS codes 610442/610510/610910 are knitted apparel (cotton dresses, men's cotton shirts, cotton t-shirts), which is inconsistent with the claimed industry 'Продукты питания и FMCG' (food/FMCG) — per project rules this is NOT a rejection ground; the company stays in the base and the HS code should be recorded as the factual one (apparel) with verdict accepted_hs_corrected. (2) The name pattern 'Exports Global Clothing' is consistent with a garment exporter, typically Tirupur, Tamil Nadu (GST state code 33), but this is an inference from the name only and must be confirmed against MCA/GST records before use. Role left as 'unknown' rather than guessed as manufacturer or trader. Recommended next step: re-run against MCA master data / GST public search (GSTIN lookup by legal name) or a paid registry API when the search backend is restored."
+}
