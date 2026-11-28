@@ -1,0 +1,18 @@
+{
+ "name_input": "KHANNA HYDRAULICS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены. Все попытки доступа к источникам не удались: web_search вернул ошибку бэкенда (connection refused), затем Bing выдавал только нерелевантные результаты про американского политика Ro Khanna; zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com — HTTP 403 Forbidden; Google — HTTP 429; DuckDuckGo — timeout. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты инкорпорации, ни MCA-статуса публично получить не удалось, поэтому все поля null — цифры и идентификаторы не выдумывались. Важно: 'RAJESH KHANNA' в поле legal_claimed — это имя физлица, а не юрлицо; 'KHANNA HYDRAULICS' по форме названия похоже на proprietorship/partnership (не Pvt Ltd/LLP), у таких образований CIN отсутствует по определению, а PAN/GSTIN принадлежат физлицу-собственнику и в открытых реестрах компаний не индексируются. Роль (manufacturer/trader) не установлена — null/unknown. Выручка FY25/FY26 недоступна: для proprietorship аудиторская отчётность в MCA не подаётся, источник отсутствует. Отклонение НЕ применяется: нет доказательств несуществования, ликвидации, strike-off или банкротства — отсутствие данных не равно отсутствию юрлица. Требуется доработка: запросить у поставщика GSTIN и PAN напрямую (или GST-сертификат), после чего проверить статус на gst.gov.in и в MCA, если окажется, что это компания/LLP."
+}

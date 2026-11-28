@@ -1,0 +1,18 @@
+{
+ "name_input": "SM POLYMERS & FILM SOLUTIONS PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "ВЕРИФИКАЦИЯ НЕ ВЫПОЛНЕНА — данных нет, ничего не подтверждено. Причина: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; прямые обращения к реестровым источникам заблокированы — zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in отдали HTTP 403/404, mca.gov.in — HTTP 403, Google — HTTP 429, DuckDuckGo HTML — timeout. Bing по точной фразе в кавычках выдал нерелевантную выдачу (SM Entertainment, общие статьи о полимерах), т.е. ни одного реестрового документа по компании получить не удалось. Следствие: точное юр. наименование, CIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, статус MCA, а также выручка FY25/FY26 — null, так как не публичны/не получены; цифры не выдумывались. Роль (manufacturer/trader) не установлена — 'unknown'. Штат ввода не заявлен (state_claimed пусто), поэтому сверка 'штат регистрации vs заявленный' невозможна. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не является основанием для rejected по правилам (rejected только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Компания остаётся в базе со статусом 'не проверено, требуется повторный прогон при доступном реестре'. HS 392062 (плёнка из полимеров этилена, толщина ≤0.125 мм) не проверялся по существу — по правилам несоответствие HS не является основанием для отклонения. Рекомендация: повторить проверку через MCA Master Data / GST-портал вручную."
+}
