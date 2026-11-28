@@ -1,0 +1,18 @@
+{
+ "name_input": "Funzoo group",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, ничего не выдумано. Входные данные некорректны: 'Funzoo group' — не юридическое лицо, а 'SANTOSH GUPTA' — имя физлица, а не название компании; PAN и штат в заявке не указаны. Тождество 'Funzoo group' = 'SANTOSH GUPTA' не подтверждено ни одним источником. Технические причины: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' и таймауты; Bing отдавал нерелевантную выдачу (кэш-бэк кредитные карты); zaubacorp.com и instafinancials.com — HTTP 403; tofler.in — 404 на поиске; thecompanycheck.com — только лендинг, профили за платным доступом. Ни CIN/LLPIN, ни PAN, ни GSTIN, ни даты инкорпорации, ни MCA-статуса, ни выручки FY25/FY26 получить из публичных источников не удалось — все поля null. Роль (manufacturer/trader) не определена: заявленный HS 950300 (игрушки) противоречит заявленной отрасли 'Продукты питания и FMCG', что само по себе требует уточнения у заказчика. Отклонение НЕ применяется: отсутствие данных не является основанием для rejected (правило 3 — отклонять только при несуществовании/ликвидации/банкротстве, что здесь не установлено). Требуется: точное юр. название (напр. 'Funzoo ... Private Limited' / ИП), город/штат регистрации, либо GSTIN/PAN для однозначной идентификации; после этого проверку можно повторить."
+}

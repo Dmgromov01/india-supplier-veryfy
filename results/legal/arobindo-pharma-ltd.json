@@ -1,0 +1,18 @@
+{
+ "name_input": "AROBINDO PHARMA LTD",
+ "legal_name": "Aurobindo Pharma Limited",
+ "cin_llpin": "L74999TG1986PLC006864",
+ "pan": "Not publicly disclosed — not found in any accessible public source (MCA/company profiles blocked with HTTP 403). PAN format for a company would be AAACA####A (4th character 'C' = company), but no verified PAN string is available, so left null rather than invented.",
+ "pan_holder_type": "company (inferred from legal form 'Limited'; PAN string itself unverified)",
+ "gstin": "Not retrieved — public GST profile pages (Zauba/CompanyCheck/Tofler) returned HTTP 403; no verified GSTIN available, left null",
+ "gst_status": "unknown (not publicly retrievable in this session)",
+ "incorporation_date": "1986 (year confirmed; exact day/month not verified — CIN year code 1986)",
+ "state_registered": "Telangana (registered office: Plot No. 2, Maitrivihar, Ameerpet, Hyderabad-500038, Telangana — per company's own website footer)",
+ "state_claimed": "(not stated in input)",
+ "mca_status": "Active — listed on NSE (AUROPHARMA) and BSE (524804), filing audited results; no strike-off/liquidation/insolvency found",
+ "role": "manufacturer",
+ "revenue_fy25_cr": 31724,
+ "revenue_fy26_cr": null,
+ "revenue_source": "FY25 (year ended 31 Mar 2025): ₹31,724 crore consolidated revenue, per company's audited consolidated results announcement to stock exchanges (aurobindo.com PDF 'LtrToSEsOutcomeofBM26052025.pdf') as cited in Wikipedia infobox; corroborated by Screener.in consolidated quarterly data (Q4FY25 sales ₹8,382 cr). FY26: full-year audited figure not obtained (only quarterly data visible: Q1FY26 7,868 + Q2FY26 8,286 + Q3FY26 8,646 + Q4FY26 8,853 = ~33,653 cr, but this is a sum of quarterly figures, not a verified audited annual filing, so left null).",
+ "note": "Input name 'AROBINDO PHARMA LTD' is a misspelling of AUROBINDO PHARMA LTD — the legal entity exists and is confirmed. Declared HS codes (293399; 294110; 294200; 300410) are consistent with the company's actual business (API/bulk drugs and formulations), so no HS correction needed. Industry claimed as 'oil & gas and chemicals' is inaccurate — the company is a pharmaceutical manufacturer (APIs + generics); industry field should be corrected to pharma/chemicals-API. CIN L74999TG1986PLC006864 is the widely published CIN for this listed company but could not be re-verified against the MCA portal in this session (registry aggregator pages blocked, HTTP 403) — treat as high-confidence but not MCA-verified. PAN and GSTIN are not public in accessible sources and are left null per rules; no numbers invented. No grounds for rejection: entity exists, is active and listed."
+}

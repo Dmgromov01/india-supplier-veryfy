@@ -1,0 +1,8 @@
+{
+ "name_input": "M/s ELEVATE BUILDING SOLUTIONS LLP",
+ "export_status": "none_found",
+ "export_evidence": "ImportKey page for slug 'elevate-building-solutions-llp' returned only the generic template text: 'Shipments available for ELEVATE BUILDING SOLUTIONS LLP, refreshed daily' — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Second slug variant 'elevate-building-solutions' returned the identical empty template. Rows actually seen: 0 of 0.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split could be retrieved. Zauba Corp, TheCompanyCheck and Eximpedia all returned HTTP 403; DuckDuckGo search backend returned 'Connection refused' on every query, so no domestic-supply page could be located.",
+ "note": "Следов поставок не найдено — ни по экспорту, ни по внутреннему рынку. Ни одной таможенной/B-L записи с датой, направлением, HS-кодом или номером B/L получить не удалось; ImportKey отдал пустой шаблон без строк (0 записей), Volza/Eximpedia/ImportGenius/Trademo недоступны (403), поисковик не работал. Заявленный HS 681019 (изделия из цемента/бетона/искусственного камня) ничем не подтверждён и не опровергнут — код не корректировался, так как фактических отгрузок для сверки нет. Выручка: null (не публична/не найдена). Объём экспорта: null. Существование юрлица не подтверждено и не опровергнуто — реестровые источники (Zauba Corp, TheCompanyCheck) заблокировали доступ, поэтому оснований для rejected нет; статус — данных недостаточно, требуется повторная проверка при доступном поиске и реестре MCA. Все сведения о компании на её сайте/каталогах, если таковые имеются, по правилу 5 считаются 'заявлено, не подтверждено'."
+}
