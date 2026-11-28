@@ -1,0 +1,18 @@
+{
+ "name_input": "LAMTUF LIMITED",
+ "legal_name": "Lamtuf Limited",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Telangana (registered/head office per company website: Plot 8-11, Silicon Valley, IV Floor, Fortune Chambers, Madhapur, Hyderabad, Telangana 500081)",
+ "state_claimed": "",
+ "mca_status": "Active — entity confirmed existing via its own official website (lamtuf.com), which hosts statutory investor-relations disclosures (board composition, annual returns, policies, DRHP, MOA/AOA); exact MCA status string not retrieved",
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Entity existence confirmed: Lamtuf Limited operates an official corporate site (lamtuf.com) with full statutory investor-relations section (Nature of Business, Composition of Board, Annual Returns of last 3 years, Annual Reports, MOA/AOA, DRHP, RPT/whistle-blower/CSR policies) — consistent with a listed/public limited company. Self-described as a fully integrated manufacturer of industrial phenolic/epoxy laminates, densified wood laminates and polyester composites, plant in Hyderabad, operating since 1976. Role = manufacturer (own plant, in-house resin making, impregnation, pressing, machining). NOT rejected: no evidence of strike-off, liquidation or bankruptcy. LIMITATIONS: all registry aggregators (ZaubaCorp, Tofler, TheCompanyCheck, InstaFinancials) returned HTTP 403/404 and MCA master-data portal returned 403; the web_search backend was down (connection refused) and Bing/Google returned unusable results, so CIN, PAN, GSTIN, GST status and exact date of incorporation could NOT be verified from a public registry profile and are left null rather than guessed. Revenue FY25/FY26: annual reports are linked from the site but the direct annual-report page returned 404 and no audited figures could be read, so both are null — no numbers invented. state_claimed was empty in the input, so no state mismatch can be assessed; registered/head office is Telangana. HS 392190 (phenolic/amino-resin laminates, sheets) is consistent with the declared product range, but per project rules HS is not a rejection criterion and no correction is needed on the available evidence."
+}
