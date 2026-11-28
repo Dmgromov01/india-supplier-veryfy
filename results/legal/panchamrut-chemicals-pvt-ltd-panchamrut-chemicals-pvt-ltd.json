@@ -1,0 +1,18 @@
+{
+ "name_input": "PANCHAMRUT CHEMICALS PVT LTD; PANCHAMRUT CHEMICALS PVT.LTD",
+ "legal_name": "PANCHAMRUT CHEMICALS PRIVATE LIMITED (as claimed in input; not independently verified against MCA master data)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no public source could be read. Tooling failed: DuckDuckGo search backend returned 'Connection refused' on all queries; Bing returned only irrelevant results (no matching company pages); zaubacorp.com, thecompanycheck.com and mca.gov.in returned HTTP 403; tofler.in and quickcompany.in returned HTTP 404 for the guessed URL slugs; instafinancials.com returned 404. Therefore CIN/LLPIN, PAN (and its 4th-character holder type), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - NOT because they are absent, but because they are unverified. No revenue figure is stated: no audited accounts or official filing was located, so FY25/FY26 revenue is null per rule 4 (do not invent). Role left as 'unknown' - the name suggests a chemicals entity while the declared HS 170250 points to refined sugar, so manufacturer vs trader cannot be determined from registry data alone. Per project rules this company is NOT rejected: non-existence, strike-off, liquidation or bankruptcy was not established, and HS mismatch is not a rejection ground (would be 'accepted_hs_corrected' once the actual code is confirmed). Recommended next step: re-run against MCA master data / GST public search when the search backend is restored, using the exact legal name 'PANCHAMRUT CHEMICALS PRIVATE LIMITED'."
+}

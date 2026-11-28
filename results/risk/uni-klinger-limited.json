@@ -1,0 +1,9 @@
+{
+ "name_input": "UNI KLINGER LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research limited: the web_search backend was unavailable for the entire session (all queries returned 'searx: Connection refused'), so no open-web verification of sanctions, litigation, ratings or news could be completed. OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) was reachable and shows the SDN list last updated 11/23/2026, but the tool is an interactive form and returned no query results via static fetch, so no name match could be confirmed or excluded - sanctions_hit left null rather than asserted as 'no hit'. Company website uniklinger.com is live and describes itself as 'Manufacturers of Precision-Engineered Valves, Steam Traps, and Gaskets' (consistent with the claimed oil/gas-chemical valve profile); no sanctions, litigation, rating or Russia/CIS content was retrievable from it. BSE page for the scrip (517569) loaded only a generic shell with no content. ZaubaCorp returned HTTP 403. No public evidence of supplies to Russia or the CIS was found, but absence of evidence here is due to tool failure, not a verified negative - rf_supply null. No credit rating (CRISIL/ICRA/CARE) could be retrieved - null. No court case records (NCLT/HC/SC) could be retrieved - null. No negative news with dates could be retrieved - null. Recommend re-running this company once search access is restored; per project rules, nothing here constitutes a rejection ground and no adverse finding is asserted."
+}

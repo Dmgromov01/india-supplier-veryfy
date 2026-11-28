@@ -1,0 +1,18 @@
+{
+ "name_input": "KARMAN TRADERS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица не выполнена: ни один реестровый источник не дал подтверждения. Что проверено и что не сработало: (1) DuckDuckGo/searx — бэкенд недоступен (connection refused); (2) Google — HTTP 429; (3) zaubacorp.com — HTTP 403; (4) Bing по запросам \"KARMAN TRADERS\" + GSTIN / IndiaMART / proprietor и по site:zaubacorp.com|tofler.in|thecompanycheck.com — поисковик игнорирует кавычки и выдаёт только нерелевантные зарубежные бренды Karman (Karman Space & Defense, Karman Rubber, Karman Healthcare и т.п.), ни одного индийского профиля; (5) thecompanycheck.com/search — отдал только лендинг, без результатов поиска (поиск за авторизацией); (6) search.mca.gov.in — DNS не резолвится. Вывод по существу: 'KARMAN TRADERS' — это, судя по названию, не компания/LLP, а торговое обозначение индивидуального предприятия (sole proprietorship) либо партнёрства; у таких форм нет CIN/LLPIN, а PAN принадлежит физлицу/фирме и в открытых источниках не публикуется. Поэтому CIN, PAN, GSTIN, дата регистрации, MCA-статус и выручка — null: не выдумываю. Роль: 'unknown' — по названию 'Traders' вероятнее trader, но это не подтверждено ни одним реестровым документом, поэтому не ставлю. Штат в заявке не указан, сверять не с чем. HS 870899 (части и принадлежности моторных ТС) — по правилам проекта несоответствие HS не является основанием для отклонения; вердикт по HS не выносится, так как нет подтверждённого юрлица. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не равно несуществованию юрлица (правило 3: rejected только при ликвидации/банкротстве/struck off, что здесь не установлено). Требуется от поставщика: полное юридическое название, PAN, GSTIN, штат регистрации — после этого проверку можно закрыть по реестру. Статус: заявлено, не подтверждено."
+}
