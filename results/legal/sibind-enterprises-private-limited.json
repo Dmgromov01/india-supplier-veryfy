@@ -1,0 +1,18 @@
+{
+ "name_input": "SIBIND ENTERPRISES PRIVATE LIMITED",
+ "legal_name": "SIBIND ENTERPRISES PRIVATE LIMITED (as claimed in input; not independently verified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. Tooling failures during this run: DuckDuckGo/searx backend refused connections (web_search returned 'no results' for both 'SIBIND ENTERPRISES PRIVATE LIMITED CIN' and '\"Sibind Enterprises\" GSTIN'); zaubacorp.com, thecompanycheck.com and falconebiz.com returned HTTP 403; instafinancials.com and quickcompany.in returned HTTP 404 for the guessed slug; tofler.in returned a 404 page for the guessed slug; Google returned HTTP 429; Bing returned unrelated results (query mangling). No CIN, PAN, GSTIN, incorporation date, MCA status or audited revenue figure was obtained from any authoritative source, so all such fields are null rather than inferred. The name 'SIBIND ENTERPRISES PRIVATE LIMITED' is plausible as an Indian private limited company but existence, active MCA status and registered-office state are UNCONFIRMED. Per project rules, rejection is not warranted on absence of data alone (rejection only for non-existent/struck-off/liquidated/bankrupt entities), so this record is left as unverified rather than rejected. Role cannot be classified (manufacturer vs trader) without MCA NIC/object clause or GST records - set to 'unknown'. Declared HS codes 820220/820740/820750/820760 (bandsaw blades, drilling/threading tools, milling tools, broaching tools) are hand-tool/cutting-tool lines, which is inconsistent with the claimed industry 'Авиастроение и транспорт' (aviation & transport); per rules this is NOT a rejection ground - if the entity is confirmed, the HS code should be corrected to the actual traded line and the verdict recorded as accepted_hs_corrected. Recommended next step: manual lookup on mca.gov.in MCA Master Data or a GSTIN search portal using the exact legal name, or obtain the GSTIN/PAN directly from the supplier, then re-run verification."
+}

@@ -1,0 +1,9 @@
+{
+ "name_input": "JUGAL TUBE PVT. LTD.; JUGAL TUBE PVT LIMITED; JUGAL TUBES PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Данные не собраны: инструменты поиска в этой сессии неработоспособны. web_search (DuckDuckGo/searx) вернул 'Connection refused' на всех запросах; http_get к Google — HTTP 429; DuckDuckGo HTML — timeout; Bing по запросам '\"Jugal Tube\" Pvt Ltd India' и '\"Jugal Tube\" OR \"Jugal Tubes\" company India copper' вернул полностью нерелевантную выдачу (отели, музейное ПО) — то есть поиск не дал ни одной страницы по компании. Страница OFAC Sanctions List Search (sanctionssearch.ofac.treas.gov) доступна, но это интерактивная форма без параметров в URL: список отображается только после отправки запроса, поэтому фактической проверки по SDN/Non-SDN не выполнено — отсутствие результата НЕ подтверждает отсутствие санкций. По этой же причине не проверены UN/UK/EU consolidated lists и BIS Entity List. Судебные дела (NCLT/NCLAT/eCourts India), действия регуляторов, негативные новости, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ — не проверялись, все поля null. Никаких данных не выдумываю. Требуется повторный запуск с рабочим поиском (или ручная проверка по MCA-карточке, eCourts, OFAC/UK/EU/BIS-консолидированным спискам) до принятия любого риск-решения по этому поставщику."
+}

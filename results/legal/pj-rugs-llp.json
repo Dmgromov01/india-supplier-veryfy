@@ -1,0 +1,18 @@
+{
+ "name_input": "PJ RUGS LLP",
+ "legal_name": "PJ RUGS LLP (as claimed; not verified against MCA/LLP registry)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Search backend (DuckDuckGo/searx) was down ('Connection refused'), Bing returned only irrelevant results for the quoted name, and public registry aggregators (zaubacorp.com, thecompanycheck.com) returned HTTP 403; instafinancials returned 404. Therefore no LLPIN/CIN, PAN, GSTIN, GST status, incorporation date, registered state, MCA status or audited revenue figures could be sourced, and all such fields are set to null rather than guessed. NOT rejected: absence of public data is not evidence of non-existence, and per project rules rejection requires proof of non-existence/strike-off/liquidation/bankruptcy, which was not obtained. Two internal inconsistencies in the input should be flagged for re-check: (1) the 'legal_claimed' field contains a personal name ('BODHRAJ MALHOTRA'), which is likely a partner/designated-partner name rather than the legal entity name; (2) the declared HS code 570110 is hand-knotted carpets/rugs, which contradicts the claimed industry 'Food products and FMCG' - the HS code is consistent with the name 'Rugs' and the industry label is probably wrong. Role cannot be determined without registry/activity data; 'unknown' is used, not 'trader' or 'manufacturer'. Recommend re-running with working search access or direct MCA/LLP master-data and GST portal lookup."
+}
