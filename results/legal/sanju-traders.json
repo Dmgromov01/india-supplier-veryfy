@@ -1,0 +1,18 @@
+{
+ "name_input": "Sanju Traders",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. Ход проверки: (1) web_search (DuckDuckGo/searx) — бэкенд недоступен, 'Connection refused' на обоих запросах; (2) zaubacorp.com — HTTP 403 Forbidden на странице поиска по 'SANJU TRADERS'; (3) thecompanycheck.com — поиск отдаёт только лендинг, результаты поиска за платным логином; (4) Google — HTTP 429; (5) Bing — игнорирует кавычки и выдаёт результаты про фильм 'Sanju', релевантных записей нет; (6) findgst.in — HTTP 500; (7) quickcompany.in — HTTP 404; (8) gstinsearch.in — DNS не резолвится; (9) duckduckgo.com/html — таймаут. ВАЖНО по сути запроса: 'Sanju Traders' — это торговое наименование, а не подтверждённое юрлицо; 'SHWETA GOEL' в поле legal_claimed — это имя физлица (вероятного проприетора/sole proprietor), а не название компании, поэтому CIN/LLPIN у такой формы в принципе отсутствует, а PAN должен быть в формате ABCDE1234F с 4-м символом 'P' (individual) — но подтвердить конкретный PAN и GSTIN нечем. Никаких CIN, PAN, GSTIN, дат и выручки не выдумываю: все поля null. Отклонение НЕ применяется — отсутствие данных не является доказательством несуществования юрлица (правило 3: rejected только при ликвидации/банкротстве/struck off, что здесь не установлено). Роль оставлена 'unknown' — по правилу 1 трейдеры не отклоняются, но и приписать 'trader' без документального подтверждения нельзя. Требуется повторный прогон при доступных источниках: MCA master data по точному названию, GST-портал по GSTIN или по имени проприетора, и уточнение у поставщика фактического юридического имени и GSTIN."
+}
