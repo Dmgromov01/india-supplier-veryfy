@@ -1,0 +1,16 @@
+{
+ "name_input": "PADGET ELECTRONICS PRIVATE LIMITED; M/S PADGET ELECTRONICS PRIVATE LIMITED",
+ "declared_hs": "851771",
+ "actual_hs_list": [
+  "851713",
+  "851762",
+  "847130",
+  "847141",
+  "851779",
+  "851822"
+ ],
+ "match_status": "partial",
+ "product_summary": "Padget Electronics Pvt Ltd — wholly owned subsidiary of Dixon Technologies (Noida, UP), an EMS/contract-manufacturing entity, not a product-owning brand. Publicly documented product lines: (1) smartphones — Motorola (Dec 2020), Nokia/HMD Global (Jan 2021), Google Pixel base model for US/EU markets (full-scale from Sept 2024) — Wikipedia 'Dixon Technologies', section 'Padget Electronics'; (2) notebooks, desktops and All-in-One PCs under PLI 2.0 with HP India — Dixon press release March 2025 quoted on dixoninfo.com homepage; Dixon 'Computing Devices' page lists Notebooks and All-in-One PCs, complete-assembly-kit / SKD / CKD builds and laptop LCM assembly; (3) wireless speakers for boAt Lifestyle (Jan 2021) — Wikipedia. Parent-level (not confirmed as Padget-specific) lines: telecom/feature phones, set-top boxes, hearables, displays, CCTV/security surveillance, LED lighting, washing machines, refrigerators — dixoninfo.com homepage and Wikipedia. No Padget-specific product catalogue or own website found (padgetelectronics.com does not resolve; dixoninfo.com/padget-electronics/ returns 404).",
+ "role_hint": "manufacturer (EMS/contract manufacturer, wholly owned subsidiary of Dixon Technologies; no trader signs found — no own brand, no catalogue resale)",
+ "comment": "Declared HS 851771 = 'parts of telephone sets / smartphones and other telecommunication apparatus' (post-2022 heading 8517, subheading 8517.71). This is a parts code, while Padget's documented output is finished goods: smartphones (8517.13), notebooks/AIO PCs (8471.30 / 8471.41), wireless speakers (8518.22), plus possible telecom apparatus 8517.62 and display/parts 8517.79. Verdict: partial — the 8517 family is plausible for the smartphone assembly line, but 8517.71 covers only components, not the finished handsets and computers that dominate the documented product mix; the computing line (8471) is entirely missing from the declaration. Per project rule 3 the company is NOT rejected on HS grounds: keep it in the base and correct the code to the actual product mix (8517.13 for smartphones, 8471.30/8471.41 for notebooks and AIO PCs, 8518.22 for speakers, 8517.79 for telecom parts if component trade is confirmed). Industry label 'IT и электроника' is broadly correct but understates the consumer-electronics/EMS scope (appliances, lighting, displays at parent level). All product lines above are 'заявлено, не подтверждено' — corroborated only by corporate/press/Wikipedia statements, not by any customs line; no shipment record was checked in this task (out of scope). No CIN/PAN/revenue data researched here; not public in the sources read."
+}

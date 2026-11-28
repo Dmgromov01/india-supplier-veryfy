@@ -1,0 +1,9 @@
+{
+ "name_input": "TORQUE MASTER TOOLS PRIVATE LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не завершена по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; Bing по запросам 'Torque Master Tools Pvt Ltd' / 'Torque Master Tools Private Limited' / 'torquemaster indiamart' выдавал только нерелевантные результаты (определение термина 'torque', Torque Parts LLC, фильм Torque) — ни одного упоминания компании. Реестры заблокированы: zaubacorp.com — HTTP 403, tofler.in — 404 на странице поиска. OFAC Sanctions List Search открылся (SDN обновлён 23.11.2026, Non-SDN 04.11.2026), но это JS-форма без возможности передать параметры через http_get — матчинг по имени фактически не выполнен, поэтому sanctions_hit = null, а НЕ 'чисто'. Аналогично не проверены UN/UK/EU/BIS Entity List, e-courts/NCLT, рейтинги CRISIL/ICRA/CARE и любые следы поставок в РФ/СНГ. Никаких утверждений о наличии или отсутствии санкций, судов, рейтинга, негативных новостей и поставок в Россию по данной компании сделать нельзя — все поля null. Требуется повторный прогон при доступном поиске и/или платных реестрах (Zauba/Tofler/OpenCorporates, e-courts, sanctions screening API). Отклонение по правилам проекта не предлагается: оснований (ликвидация/банкротство) не установлено, отсутствие данных таковым не является."
+}

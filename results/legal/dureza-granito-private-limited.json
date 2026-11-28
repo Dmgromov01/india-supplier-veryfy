@@ -1,0 +1,18 @@
+{
+ "name_input": "DUREZA GRANITO PRIVATE LIMITED",
+ "legal_name": "DUREZA GRANITO PRIVATE LIMITED",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные НЕ подтверждены. Все попытки получить первоисточник не удались: web_search вернул ошибку бэкенда (searx: connection refused) на обоих запросах; zaubacorp.com, thecompanycheck.com, falconebiz.com, instafinancials.com и mca.gov.in отдали HTTP 403/404; tofler.in — 404 (страница с таким slug отсутствует); DuckDuckGo (html и lite) — таймаут; Google — редирект-заглушка; Bing по запросу с точным названием выдал нерелевантную выдачу (eBay, погода), т.е. релевантных индексированных страниц по этой компании не найдено. Следовательно CIN/LLPIN, PAN (и тип держателя по 4-му символу), GSTIN, дата регистрации, штат регистрации, статус MCA и выручка за FY25/FY26 — null: не публичны в доступных мне источниках, выдумывать не стал. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие подтверждения не равно несуществованию юрлица; правило допускает rejected только при доказанном отсутствии/ликвидации/банкротстве, чего здесь нет. Роль (manufacturer/trader) не определена — null/unknown. Замечание по входным данным: поле legal_claimed = 'MILLENNIUM OVERSEAS' не совпадает с названием проверяемого юрлица 'DUREZA GRANITO PRIVATE LIMITED' — вероятно, это торговое имя/экспортёр-посредник, требует уточнения у заказчика. Заявленный HS 690721 (керамогранит/плитка) согласуется с названием 'Granito', но HS 851762 (оборудование связи) с профилем не согласуется — по правилам проекта это НЕ основание для отклонения, код подлежит исправлению на фактический (вердикт accepted_hs_corrected) после подтверждения номенклатуры. Требуется повторная проверка при восстановлении доступа к MCA/GST-порталам или выписка из реестра от поставщика."
+}

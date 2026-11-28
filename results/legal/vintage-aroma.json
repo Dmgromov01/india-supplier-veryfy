@@ -1,0 +1,18 @@
+{
+ "name_input": "VINTAGE AROMA",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация не выполнена: ни один реестровый источник не удалось прочитать. web_search (DuckDuckGo/searx) вернул ошибку соединения; Bing отдавал нерелевантную кэшированную выдачу по запросу (результаты про рынки винтажа в Айдахо, США) и игнорировал операторы site: и кавычки; zaubacorp.com, instafinancials.com и mca.gov.in вернули HTTP 403; tofler.in — 404 на поисковый URL. Входные данные неполные: 'legal_claimed' = 'PREETI JAIN' — это имя физлица, а не название юрлица; PAN, штат и адрес не заявлены. По названию 'VINTAGE AROMA' нельзя определить, идёт ли речь о sole proprietorship (тогда CIN отсутствует по определению, а PAN/GSTIN привязаны к физлицу-собственнику), о partnership firm или о зарегистрированной компании — без подтверждения это не устанавливается. CIN/LLPIN, PAN, GSTIN, дата инкорпорации, MCA-статус и выручка за FY25/FY26 остаются null: не публичны в доступных источниках либо не найдены; цифры не выдумывались. Роль классифицирована как unknown, а не manufacturer/trader, поскольку деятельность не подтверждена ни одним реестровым документом. Отклонение (rejected) НЕ применяется: отсутствие данных не равно отсутствию юрлица — нет доказательств ликвидации, банкротства или strike-off. Требуется повторная проверка при восстановлении доступа к реестру (MCA Master Data / GST-портал) либо уточнение от поставщика: полное юрлицо, PAN, GSTIN, штат регистрации."
+}

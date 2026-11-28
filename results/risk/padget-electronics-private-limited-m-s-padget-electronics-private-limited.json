@@ -1,0 +1,9 @@
+{
+ "name_input": "PADGET ELECTRONICS PRIVATE LIMITED; M/S PADGET ELECTRONICS PRIVATE LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ выполнена по существу: поисковый бэкенд (DuckDuckGo/searx) возвращал ошибку соединения, а Bing/Google на все запросы по 'Padget Electronics' выдавали нерелевантную выдачу (Roll20, craigslist, American Legion Bridge) — достоверных страниц по компании получить не удалось. Единственный успешно открытый ресурс — стартовая страница OFAC Sanctions List Search (https://sanctionssearch.ofac.treas.gov/, SDN-лист обновлён 23.11.2026), но интерактивный запрос по имени через http_get выполнить нельзя, поэтому факт отсутствия/наличия совпадения в SDN, UN, EU, UK, BIS Entity List НЕ подтверждён. Судебные дела (NCLT/High Court/eCourts), регуляторные действия, кредитный рейтинг (CRISIL/ICRA/CARE/India Ratings) и признаки поставок в РФ/СНГ не проверены. Все поля оставлены null — данные не выдумывались. Требуется повторный прогон при работающем поиске; по правилу 2 санкции/суды в любом случае не являются основанием для отклонения. Отклонение не предлагается."
+}

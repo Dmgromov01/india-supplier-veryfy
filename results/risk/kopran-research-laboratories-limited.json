@@ -1,0 +1,9 @@
+{
+ "name_input": "KOPRAN RESEARCH LABORATORIES LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по техническим причинам: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused', Bing выдавал нерелевантную выдачу, html.duckduckgo.com — таймаут, lite.duckduckgo.com — DNS-ошибка, en.wikipedia.org — HTTP 429 (robot policy), сайт kopran.com и BSE — JS-защита/пустая отдача. OFAC Sanctions List Search открылся, но это JS-форма без возможности отправить запрос через http_get, поэтому фактического прогона по SDN/Non-SDN не было. Итог: ни один из обязательных пунктов (санкции OFAC/UN/EU/UK/BIS, индийские суды с ролью и статусом, действия регуляторов и негативные новости с датами, кредитный рейтинг с датой, признаки поставок в РФ/СНГ) не подтверждён и не опровергнут. Все поля null — это означает 'не установлено', а НЕ 'чисто'. Компания сохраняется в базе (правило 2: санкции/суды/уголовные дела не являются основанием для отклонения). Требуется повторный прогон при доступном поиске; приоритетные источники: OFAC SDN/Consolidated list, BIS Entity List, EU/UK consolidated lists, eCourts/NCLT, SEBI/BSE/NSE disclosures, CRISIL/ICRA/CARE/India Ratings, финотчётность и таможенные записи по экспорту в РФ/СНГ."
+}

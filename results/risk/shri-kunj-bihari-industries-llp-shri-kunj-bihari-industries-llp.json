@@ -1,0 +1,9 @@
+{
+ "name_input": "SHRI KUNJ BIHARI INDUSTRIES LLP; SHRI KUNJ BIHARI INDUSTRIES LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка не выполнена по существу: поисковая инфраструктура в этой сессии нерабочая. DuckDuckGo/searx вернул 'Connection refused', Google отдал только редирект-заглушку, Bing по точной фразе \"SHRI KUNJ BIHARI INDUSTRIES LLP\" не выдал ни одного релевантного результата (только мусор и общие статьи о слове 'Shri'), повторный запрос по 'Kunj Bihari Industries LLP company director India' также дал нерелевантную выдачу. Прямой доступ к реестру MCA (mca.gov.in) — HTTP 403 Forbidden. OFAC Sanctions List Search открылся, но это JS-форма без возможности передать запрос через http_get, поэтому фактического матчинга по SDN/Non-SDN не проводилось — sanctions_hit=null означает 'не проверено', а НЕ 'чисто'. Аналогично не проверены UN/UK/EU/BIS Entity List, индийские суды (eCourts, NCLT), рейтинги (CRISIL/ICRA/CARE/India Ratings) и любые следы поставок в РФ/СНГ. Никаких данных не выдумывал: CIN, PAN, номера дел, даты и суммы отсутствуют, так как не подтверждены источником. Рекомендация: повторить проверку при восстановлении доступа к поиску и к реестру MCA; до этого компанию нельзя ни подтверждать, ни отклонять по риск-основаниям — статус 'данных нет'. Отклонение в любом случае недопустимо по правилу 2 (санкции/суды/уголовные дела не являются основанием для отклонения)."
+}

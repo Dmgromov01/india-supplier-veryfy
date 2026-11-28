@@ -1,0 +1,18 @@
+{
+ "name_input": "RAJ FILTERS AND WIRE MESH PRIVATE LIMITED",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПОДТВЕРЖДЕНО НИ ОДНОГО РЕКВИЗИТА. Все попытки получить данные из реестров не удались по техническим причинам, а не из-за отсутствия компании: (1) web_search (DuckDuckGo/searx) вернул 'Connection refused' на обоих запросах; (2) zaubacorp.com — HTTP 403 (в т.ч. на страницу поиска по компании); (3) thecompanycheck.com — HTTP 403; (4) tofler.in — 404 по предполагаемому слагу; (5) instafinancials.com — 404; (6) quickcompany.in — 404; (7) mca.gov.in Master Data — 403; (8) Google Search — редирект-заглушка без результатов; (9) Bing по запросам с точным названием и с префиксом CIN-класса U28999 выдал только нерелевантную выдачу про British Raj (поиск проигнорировал кавычки/операторы), т.е. релевантных сниппетов не получено. Следствие: точное юрлицо, CIN, PAN (и тип держателя по 4-му символу), GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус и выручка FY25/FY26 — null. Выручка null, т.к. аудированной отчётности или официальных филингов не видел; цифры не выдумываю. Роль оставлена 'unknown' — по названию ('Filters and Wire Mesh') можно лишь предположить производственный профиль (фильтры/сетка, возможно HS 8421/8481), но это домысел, а не факт. ВАЖНО: компания НЕ отклоняется — оснований для rejected (несуществование, struck off, ликвидация, банкротство) не установлено, а отсутствие данных из-за сбоя инструментов таким основанием не является. Требуется повторная проверка при доступном реестре (MCA Master Data / Zauba / Tofler) либо ручная сверка по CIN. Штат в исходных данных не заявлен (state_claimed пусто), поэтому сверять state_registered не с чем."
+}

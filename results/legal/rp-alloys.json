@@ -1,0 +1,18 @@
+{
+ "name_input": "RP Alloys",
+ "legal_name": "R.P. ALLOYS AND STEEL FORGINGS PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be retrieved. web_search backend was down (searx connection refused) for the whole session; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in, quickcompany.in) returned HTTP 403/404 or no matching record, and Bing/Google result pages returned only irrelevant generic results (no snippet containing the company name). Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state and MCA status are all null — not public/not retrievable in this session, NOT evidence of non-existence. Per project rules the company is NOT rejected: absence of verifiable registry data is not a ground for rejection (rejection only for non-existent/struck-off/liquidated/bankrupt entities, which could not be established either way). Role left as 'unknown' — no registry document (MOA objects / NIC activity) was readable to distinguish manufacturer from trader. Revenue FY25/FY26 null: no audited accounts or MCA filings accessible. Declared HS 732619 (forged/cast iron or steel articles, n.e.s.) is consistent with a forgings entity by name, but this is a name-level inference only, not a verified fact. Recommended next step: re-run verification when search backend is restored, using MCA master data by name search and GSTIN lookup on the GST portal."
+}
