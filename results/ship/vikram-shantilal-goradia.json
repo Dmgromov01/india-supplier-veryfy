@@ -1,0 +1,8 @@
+{
+ "name_input": "VIKRAM SHANTILAL GORADIA",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'vikram-shantilal-goradia' returned only template boilerplate: \"Shipments available for VIKRAM SHANTILAL GORADIA, refreshed daily\" — no shipment rows, no dates, no destinations, no HS codes, no B/L numbers rendered. Source counter: 2 ImportKey slug variants tried ('vikram-shantilal-goradia', 'vikram-goradia'), 0 shipment rows actually seen on either. volza.com, eximpedia.app and trademo.com all returned HTTP 403 Forbidden; DuckDuckGo search backend returned 'Connection refused' on all 3 attempts, so no independent corroboration was possible.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender, contract or annual-report split found. Search backend was down (searx: Connection refused) and no registry/catalogue source was in scope, so no domestic supply record could be retrieved. 0 rows seen.",
+ "note": "Name is an individual proprietor-style name (personal name, no Pvt Ltd/LLP suffix), which is typical of a small Indian proprietorship or of a consignee field in customs data; the declared HS 391722 (self-adhesive plastic film/sheet, construction & DIY) is plausible for such a trader but is unverified. No export shipment record and no domestic supply record could be retrieved: следов поставок не найдено в доступных источниках — but this is a data-access failure, not proof of absence, hence 'unknown' rather than 'none_found'. Revenue and export volume: null (not public, not invented). No CIN/PAN/IEC found; PAN claimed field was empty. Recommend re-checking ImportKey/Volza with a paid view or an IEC-based lookup before any verdict."
+}

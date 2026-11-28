@@ -1,0 +1,18 @@
+{
+ "name_input": "WHOLESOME FOODS",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Идентификация юрлица НЕ выполнена. Причина техническая, а не содержательная: поисковый бэкенд (DuckDuckGo/searx) возвращал 'Connection refused' на всех запросах; прямые обращения к реестровым агрегаторам (thecompanycheck.com, zaubacorp.com, instafinancials.com, mca.gov.in) отдали HTTP 403; Google — 429; DuckDuckGo HTML — timeout. Bing по всем вариантам запросов ('Wholesome Foods' + CIN/GSTIN/'Pvt Ltd'/site:thecompanycheck.com|tofler.in|zaubacorp.com) выдал только нерелевантную выдачу (словарные статьи, wholesome.co, wholesomefoodsinc.com — США), ни одного индийского реестрового профиля. Входные данные не содержали ни PAN, ни штата, ни города, ни CIN — сузить поиск было нечем; 'WHOLESOME FOODS' — крайне распространённое имя, в Индии под ним и его вариациями (Wholesome Foods Pvt Ltd, Wholesome Foods India, Wholesome Foods LLP и т.п.) может существовать несколько юрлиц, и без PAN/CIN/штата привязка была бы догадкой. Поэтому все реестровые поля оставлены null, а не заполнены предположениями. Роль 'unknown' — не подтверждено, является ли поставщик производителем или трейдером. Выручка FY25/FY26 null: аудиторская отчётность не найдена и не проверялась. ВАЖНО: компания НЕ отклонена — оснований для rejected нет, поскольку несуществование/ликвидация/банкротство не установлены; отсутствие данных о юрлице не равно отсутствию юрлица. HS 190590 (хлебобулочные/мучные кондитерские изделия) не проверялся по существу и по правилам проекта не является основанием для отклонения. Требуется повторная проверка с доступом к MCA/GST-порталам или с дополнительными идентификаторами (PAN, CIN, штат, город, сайт, IndiaMART-профиль) — тогда привязка юрлица будет однозначной."
+}

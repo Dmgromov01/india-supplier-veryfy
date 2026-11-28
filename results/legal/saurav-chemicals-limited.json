@@ -1,0 +1,18 @@
+{
+ "name_input": "SAURAV CHEMICALS LIMITED",
+ "legal_name": "SCL Lifesciences Limited (per company's own website; the input name 'Saurav Chemicals Limited' appears to be the former/legacy name — renaming NOT confirmed from an MCA record)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": "Haryana (corporate HQ: Plot No. 370, Industrial Area Phase-II, Panchkula, Haryana 134113 — per company website contact page; MCA registered-office record not verified)",
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "manufacturer",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "LEGAL/REGISTRY RESEARCH INCOMPLETE — identifiers not verified, not invented. What was confirmed: the company's own website (scllifesciences.com, fetched) presents 'SCL Lifesciences' as an API/intermediate manufacturer and CDMO with corporate HQ at Plot 370, Industrial Area Phase-II, Panchkula, Haryana 134113, and two manufacturing sites at Saidpura and Bhagwanpura villages, Derabassi-Barwala Road, SAS Nagar district, Punjab 140507; it states ~80% of revenue comes from international markets and that it serves Europe/USA/Japan. This supports role=manufacturer and the declared HS codes (292419 acyclic amides, 293399 heterocyclic compounds, 300490 medicaments) as plausible for an API maker. NOT confirmed: CIN, PAN, GSTIN, GST status, incorporation date, MCA status, audited FY25/FY26 revenue — all left null. Reason: web_search backend was down (connection refused) and every registry source attempted returned HTTP 403 or unusable results (zaubacorp.com, thecompanycheck.com, tofler.in, instafinancials.com all 403; Google 429; Bing/DuckDuckGo returned irrelevant results). The name change from 'Saurav Chemicals Limited' to 'SCL Lifesciences Limited' is therefore NOT documented from an MCA filing and must be verified against the MCA master data / name-change history before the record is used. No rejection grounds found (no evidence of non-existence, strike-off, liquidation or bankruptcy), but equally no positive MCA confirmation of active status — status must be treated as unverified, not as accepted. Per project rules, revenue and export volume are mandatory fields and are null here because no audited accounts or official filings were accessible; do not substitute website claims. Next step: re-run against MCA master data (or a paid registry API) to obtain CIN, PAN, GSTIN, incorporation date, active status and FY25/FY26 audited turnover."
+}

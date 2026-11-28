@@ -1,0 +1,18 @@
+{
+ "name_input": "Varisa Pharmaceuticals",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Верификация не выполнена: все доступные инструменты отказали. web_search вернул 'Connection refused' (бэкенд searx недоступен); прямые запросы к реестровым агрегаторам (zaubacorp.com, thecompanycheck.com, instafinancials.com, falconebiz.com) вернули HTTP 403; Google — HTTP 429; DuckDuckGo (html/lite) — таймаут; Bing вернул нерелевантную выдачу (землетрясения), т.е. поиск фактически не работал. Ни один реестровый факт (точное юр. наименование, CIN/LLPIN, PAN и тип держателя по 4-му символу, GSTIN, статус GST, дата инкорпорации, штат регистрации, статус MCA) публично не подтверждён в рамках этой сессии. Все поля оставлены null — данные не выдумывались. Заявленное в инпуте 'SAAKSHI SARAF' похоже на имя физлица/проприетора, а не на наименование юрлица, и не подтверждено. Штат в инпуте не заявлен (state_claimed пусто). Роль не определена (unknown). Выручка FY25/FY26 не найдена — null. ВАЖНО: отклонение (rejected) НЕ применяется — отсутствие данных не является основанием для отклонения по правилам проекта; компания остаётся в базе со статусом 'не проверено, требуется повторный прогон при восстановлении доступа к реестрам (MCA/zaubacorp/GST-портал)'. HS 210690 не проверялся и не является основанием для отклонения."
+}

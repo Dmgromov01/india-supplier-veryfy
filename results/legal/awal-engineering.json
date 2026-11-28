@@ -1,0 +1,18 @@
+{
+ "name_input": "Awal Engineering",
+ "legal_name": "AWAL ENGINEERING COMPANY (as claimed in input; unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failure: web_search returned 'searx: Connection refused' on both queries; DuckDuckGo HTML timed out; Google returned HTTP 429; Bing returned completely irrelevant results (Christmas tree skirts, Microsoft pages) for both targeted queries, i.e. the search backend is not functioning. Direct registry lookups blocked: zaubacorp.com HTTP 403, instafinancials.com HTTP 403, thecompanycheck.com search endpoint HTTP 404, indiamart.com HTTP 429. Therefore no CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status or audited revenue could be confirmed from any public source. Per project rules, all such fields are set to null rather than guessed; the claimed legal name 'AWAL ENGINEERING COMPANY' is recorded as unverified. No rejection is applied: absence of retrievable records is a research gap, not evidence of non-existence, strike-off, liquidation or bankruptcy. Role left as 'unknown' - the input gives no basis to classify manufacturer vs trader, and no registry/incorporation record was readable. Revenue FY25/FY26 null: no audited accounts or official filings were accessible. HS 721590 (flat-rolled iron/non-alloy steel, width <600mm, otherwise plated/coated) is noted as declared only; per rules HS mismatch is not a rejection ground and no correction can be asserted without evidence. RECOMMENDATION: re-run this company once search/registry access is restored, and confirm whether the entity is a private limited company (CIN) or a partnership/proprietorship (which would have no CIN and would need GSTIN/Udyam-based verification instead)."
+}

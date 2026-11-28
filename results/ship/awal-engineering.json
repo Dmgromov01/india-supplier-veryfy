@@ -1,0 +1,8 @@
+{
+ "name_input": "Awal Engineering",
+ "export_status": "unknown",
+ "export_evidence": "ImportKey page for slug 'awal-engineering' and 'awal-engineering-company' both returned only the empty JS template: \"Shipments available for AWAL ENGINEERING COMPANY, refreshed daily\" — zero shipment rows rendered, no date, no destination, no HS code, no B/L number. Source counter: 2 ImportKey pages fetched, 0 shipment records actually seen. volza.com/p/awal-engineering, eximpedia.app and trademo.com all returned HTTP 403 Forbidden, so no second source could be read.",
+ "domestic_status": "unknown",
+ "domestic_evidence": "No GST turnover band, GeM/CPPP tender award, contract or annual-report split could be retrieved. DuckDuckGo search backend returned 'Connection refused' on all three queries, so no domestic-supply page was reachable. Nothing to quote.",
+ "note": "Следов поставок не найдено — но и не опровергнуто: проверить не удалось. Ни одной фактической записи об отгрузке (экспортной или внутренней) получить не удалось: ImportKey отдаёт пустой шаблон без строк, volza/eximpedia/trademo закрыты 403, поисковик недоступен (Connection refused). Заявленный HS 721590 (плоский прокат) ничем не подтверждён и не опровергнут — HS не проверялся, так как нет ни одной товарной строки. Выручка: null (не публична/не получена). Объём экспорта: null. Юрлицо, CIN, PAN, штат — не установлены, в открытых источниках не подтверждены. Рекомендация: повторить проверку при доступном поиске и платном трейд-дате; статус 'unknown', а не 'accepted' — фактичность отгрузок не установлена."
+}

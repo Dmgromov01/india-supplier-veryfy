@@ -1,0 +1,9 @@
+{
+ "name_input": "Vijay packaging product",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. All search tooling failed during this run: web_search returned 'searx: Connection refused' on every attempt; DuckDuckGo HTML endpoint and a secondary engine timed out; Google returned HTTP 429; Bing returned only irrelevant cached results about the actor 'Vijay' for every query variant tried (including exact-phrase queries for 'Vijay Packaging Product' and 'Vandana Gupta'), so no page about the entity could be read. Consequently nothing can be asserted on sanctions exposure (OFAC SDN / UN / EU / UK / BIS Entity List), Indian court cases (party role and status), regulator actions, negative news, credit rating, or any evidence of supplies to Russia/CIS. All fields set to null because the data is not public/not retrieved - these are NOT negative findings and must not be read as 'clean'. The name as supplied ('Vijay packaging product', director/contact 'VANDANA GUPTA') is a trading-style name that does not resolve to a confirmed legal entity in any source I could reach, so even the sanctions/court screening target is ambiguous. Per project rules this is not a rejection ground and no verdict is implied; the company should be re-queued for risk screening once search access is restored, ideally with the confirmed legal name and CIN so that MCA/NCLT, OFAC/UN/EU/UK/BIS lists and Indian court records can be checked directly."
+}
