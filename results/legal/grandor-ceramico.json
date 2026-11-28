@@ -1,0 +1,18 @@
+{
+ "name_input": "GRANDOR CERAMICO",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Реестровые данные не подтверждены: ни один публичный источник не удалось прочитать. Ход проверки: (1) web_search — бэкенд поиска недоступен (Connection refused) на обоих запросах; (2) zaubacorp.com — HTTP 403; (3) thecompanycheck.com — отдал только лендинг, поиск по компании закрыт регистрацией; (4) instafinancials.com — HTTP 403; (5) google.com — HTTP 429; (6) duckduckgo.com/html — таймаут; (7) bing.com по запросу \"GRANDOR CERAMICO\" GST CIN и \"Grandor Ceramico\" Morbi ceramic — релевантных результатов нет (выдача нерелевантная, точного совпадения названия не найдено); (8) search.mca.gov.in — DNS не резолвится. Следовательно: точное юрлицо, CIN/LLPIN, PAN, GSTIN, GST-статус, дата инкорпорации, штат регистрации, MCA-статус — null, публично не подтверждено в рамках этой проверки. Роль — unknown (по названию «Ceramico» и HS 690721 предположительно керамическая плитка, но это домысел, не факт). Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. ВАЖНО: отклонять НЕЛЬЗЯ — отсутствие данных не равно отсутствию юрлица; вердикт по правилу 3 не применяется, компания остаётся в базе как непроверенная (registry unverified). Требуется повторный прогон при доступном поиске либо запрос GSTIN/CIN у поставщика напрямую."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Disha Gearworks",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "НЕ ПРОВЕРЕНО — данных нет, вердикт не выносится (не rejected). Причина: поисковый бэкенд (DuckDuckGo/searx) был недоступен всю сессию (connection refused / timeout); Bing по запросу в кавычках \"Disha Gearworks\" выдал только нерелевантные результаты про госпрограмму DISHA, актрису Дишу Патани и т.п. — ни одного упоминания компании; агрегаторы реестров Zauba Corp и InstaFinancials вернули HTTP 403, Google — HTTP 429. Ни точное юрлицо, ни CIN/LLPIN, ни PAN, ни GSTIN, ни дата регистрации, ни штат регистрации, ни статус MCA публично не подтверждены. Роль (manufacturer/trader) не установлена. Выручка FY25/FY26 — null: аудированной отчётности или официальных филингов не найдено. ВАЖНО по входным данным: в поле legal_claimed указано \"SANDEEP SINGH\" — это имя физлица, а не название юрлица; вероятно, это проприеторская фирма (sole proprietorship) либо имя директора/владельца, что требует уточнения у заказчика. Штат в заявке не указан (state_claimed пусто), поэтому сверка «штат регистрации vs заявленный» невозможна. HS 843390 (части машин/механизмов) не проверялся — по правилам проекта HS не является основанием для отклонения. Требуется повторный прогон при доступном поиске либо запрос у поставщика: полное название юрлица, CIN/GSTIN, адрес регистрации."
+}
