@@ -1,0 +1,18 @@
+{
+ "name_input": "M/S V CELL INDIA IMPEX PVT LTD",
+ "legal_name": "VCELL INDIA IMPEX PRIVATE LIMITED (as claimed in input; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed - no data could be retrieved. Tooling failures during this run: DuckDuckGo/searx search backend refused connections (Errno 111) on both queries; zaubacorp.com, thecompanycheck.com, tofler.in and mca.gov.in returned HTTP 403; instafinancials.com returned 404; Google returned HTTP 429; Bing returned only irrelevant results for the exact-name queries. Consequently no CIN/LLPIN, PAN, GSTIN, incorporation date, registered-office state, MCA status or audited revenue figures could be confirmed from a public source, and per project rules nothing is invented - all such fields are null. The legal name is carried over from the input claim only and is unverified; the entity's existence, active/struck-off status and manufacturer-vs-trader role therefore remain undetermined (role set to 'unknown'). No rejection is proposed, since rejection requires positive evidence of non-existence/strike-off/liquidation/bankruptcy, which was not obtained either way. Declared HS codes 844331/847130/847149/847150 (printers, laptops, servers/ADP machines) are noted but not assessed here, and per the 23.11.2026 rule HS mismatch is not a rejection ground in any case. Recommended next step: re-run against MCA master data / GST portal when the search backend is available."
+}

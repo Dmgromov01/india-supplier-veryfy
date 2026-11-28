@@ -1,0 +1,9 @@
+{
+ "name_input": "RUBBER HOSE INDIA LLP",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Проверка НЕ ВЫПОЛНЕНА по существу: ни один источник не удалось прочитать. DuckDuckGo/searx вернул 'Connection refused' на всех запросах; Google — HTTP 429; DuckDuckGo HTML — timeout; IndianKanoon — HTTP 403; Tofler — HTTP 403; Marginalia — антибот-заглушка; Bing игнорировал кавычки и выдавал только общие статьи про 'rubber' (Wikipedia/Britannica/словари), т.е. релевантных попаданий по 'Rubber Hose India LLP' не найдено. OFAC Sanctions List Search — JS-форма, через GET результаты не отдаёт, поэтому скрининга по SDN/Non-SDN фактически не было. Итог: sanctions_hit, court_cases, rating, news_risk, rf_supply — все null, это означает 'не проверено / нет публичных данных в доступных источниках', а НЕ 'чисто'. Отсутствие результатов поиска по точному названию LLP само по себе не является доказательством ни отсутствия санкций, ни отсутствия судов, ни отсутствия поставок в РФ/СНГ. Требуется повторный прогон при работающем поиске: OFAC SDN/Consolidated (по имени и по вариантам 'Rubber Hose India', 'Rubberhose India'), UN Consolidated, EU FSF, UK OFSI, BIS Entity List; eCourts/NJDG и IndianKanoon по сторонам дела; рейтинги CRISIL/ICRA/CARE/India Ratings; новостной поиск по датам. Никаких выводов о санкциях, судебных делах, рейтинге или связях с РФ по данной компании не делаю — данных нет."
+}

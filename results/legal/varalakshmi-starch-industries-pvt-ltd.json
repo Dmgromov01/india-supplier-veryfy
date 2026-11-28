@@ -1,0 +1,18 @@
+{
+ "name_input": "VARALAKSHMI STARCH INDUSTRIES PVT. LTD",
+ "legal_name": "VARALAKSHMI STARCH INDUSTRIES PRIVATE LIMITED (as claimed; not verified against MCA)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. The web_search tool returned a backend error (searx connection refused) on both queries; direct fetches of registry aggregators (zaubacorp.com, thecompanycheck.com, instafinancials.com, tofler.in) returned HTTP 403/404, and Bing/Google/DuckDuckGo HTML endpoints returned either HTTP 429, timeouts, or completely irrelevant results (US radio stations, crossword pages) with no usable company record. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered-office state, MCA status and audited revenue for FY25/FY26 are all null - not public via the channels available in this session, and NOT invented. No basis to reject: the entity's non-existence, strike-off, liquidation or bankruptcy was not established either way; status is simply unverified. Role left as 'unknown' - the 'Pvt. Ltd' suffix and the declared HS codes (110814 - maize/corn starch; 350510 - dextrins and other modified starches) are consistent with a starch manufacturer, but this is an inference from the input, not a registry finding. Recommended follow-up: re-run against MCA master data / GST public search when the search backend is restored."
+}

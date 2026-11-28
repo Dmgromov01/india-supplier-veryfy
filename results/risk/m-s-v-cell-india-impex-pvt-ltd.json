@@ -1,0 +1,9 @@
+{
+ "name_input": "M/S V CELL INDIA IMPEX PVT LTD",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "Research could not be completed: the web_search backend returned connection errors on every attempt (searx: connection refused), and direct fetches of the primary sources were blocked or unavailable — zaubacorp.com and tofler.in returned HTTP 403, indiankanoon.org failed DNS resolution, Google returned HTTP 429, DuckDuckGo timed out. The OFAC Sanctions List Search page loaded only as an empty JavaScript form, so no name query could be executed against the SDN/Non-SDN lists. Consequently NO sanctions screening, court-case search, regulator-action search, credit-rating lookup or Russia/CIS supply check was actually performed for this entity. All fields are set to null because nothing is confirmed — this is an absence of verification, NOT a negative finding, and must not be read as 'no sanctions' or 'no court cases'. No CIN, PAN, rating figure, case number or shipment record is asserted, as none could be sourced. Recommended next step: re-run screening when search access is restored, using (a) OFAC SDN/consolidated list name search, (b) UN Consolidated and EU/UK OFSI lists, (c) BIS Entity List, (d) Indian court records (eCourts/NJDG, Indian Kanoon) for the exact registered name 'VCELL INDIA IMPEX PRIVATE LIMITED', (e) MCA master data for the correct legal name and status, and (f) Indian trade-press and customs/B-L aggregators for Russia/CIS-destined shipments. Per project rules, any sanctions, court or criminal findings that emerge are to be recorded neutrally as 'есть сложности' and are not grounds for rejection."
+}

@@ -1,0 +1,18 @@
+{
+ "name_input": "Sky Export House",
+ "legal_name": null,
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": null,
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "No registry record could be located. 'Sky Export House' with the claimed proprietor name 'SATYAVEER YADAV' returns no match in any accessible source: DuckDuckGo search backend was down (connection refused), Google returned HTTP 429, ZaubaCorp and mca.gov.in returned HTTP 403, and Bing returned only irrelevant generic 'Sky' results for both the firm name and the proprietor name. No CIN/LLPIN, PAN, GSTIN, incorporation date, registered state or MCA status could be verified, so all are null rather than guessed. The input itself is internally inconsistent with a registered legal entity: the 'legal_claimed' field holds a personal name (a sole-proprietor trade name would not have a CIN), and no state was claimed, so state_registered vs state_claimed cannot be compared. Role left as 'unknown' - a sole proprietorship export house cannot be classified as manufacturer or trader without evidence. Revenue FY25/FY26 null: no audited accounts or official filings are public for an unregistered proprietorship. Per project rules this is NOT a rejection: absence of a findable record is not proof of non-existence, and only confirmed non-existence/strike-off/liquidation/bankruptcy justifies rejection. Recommended next step: obtain the GSTIN or PAN from the supplier directly, then re-verify on the GST portal and MCA; also note the declared HS 090121 (roasted coffee) is unverified and, per rules, HS mismatch alone would not be grounds for rejection."
+}
