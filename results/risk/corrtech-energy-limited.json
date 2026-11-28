@@ -1,0 +1,9 @@
+{
+ "name_input": "CORRTECH ENERGY LIMITED",
+ "sanctions_hit": null,
+ "court_cases": null,
+ "rating": null,
+ "news_risk": null,
+ "rf_supply": null,
+ "note": "RESEARCH NOT COMPLETED - no verifiable data obtained. Tooling failure: the web_search backend (DuckDuckGo/searx) returned 'Connection refused' on every query; direct http_get to duckduckgo.com returned HTTP 403; Bing returned only unrelated cached results (US college basketball, Microsoft pages) for all three query variants tried; zaubacorp.com returned HTTP 403. The OFAC Sanctions List Search page was reachable but is a JavaScript form that cannot be queried via plain HTTP GET, so no name lookup could actually be executed - sanctions_hit is therefore null (NOT a negative/clear result). No source was found or read for this entity, so sanctions exposure, Indian court cases, regulator actions, negative news, credit rating and any Russia/CIS supply evidence are all null and must be treated as UNVERIFIED, not as clean. No claims are made about this company in either direction. Recommend re-running this company once search access is restored, with manual checks against: OFAC SDN/consolidated list search, EU consolidated list, UK OFSI list, BIS Entity List, UN Security Council list, eCourts/NJDG and the relevant High Court/District Court portals, SEBI/ROC/MCA filings, and CRISIL/ICRA/CARE/India Ratings/Brickwork rating rationales. Note per project rules: sanctions, court cases and criminal matters are never rejection grounds regardless of outcome."
+}

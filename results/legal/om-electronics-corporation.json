@@ -1,0 +1,18 @@
+{
+ "name_input": "Om Electronics Corporation",
+ "legal_name": "Om Electronics Corporation (unverified — no registry record retrieved)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry verification NOT completed — no data could be retrieved. The search backend (DuckDuckGo/searx) returned connection errors, Bing returned only irrelevant generic results for every query variant ('Om Electronics Corporation' + Katira / GSTIN / Mahesh), and all registry/aggregator sources tried (zaubacorp.com, thecompanycheck.com, instafinancials.com, mca.gov.in MDS, indiafilings) returned HTTP 403/404. Therefore CIN/LLPIN, PAN, GSTIN, GST status, incorporation date, registered state and MCA status are all null because they are not publicly retrievable through the available tools in this session — NOT because they were checked and found absent. Important: the input 'legal_claimed' field contains a personal name (MAHESH KANJIBHAI KATIRA), not a company name, which suggests this is likely a sole proprietorship / individual trading name rather than a company; a proprietorship would have no CIN and no MCA record, only a GSTIN (PAN-based). This is an inference, not a verified fact. Role is recorded as 'unknown' — the claimed HS 854239 (electronic integrated circuits) and 'IT and electronics' industry are unverified claims, not evidence of manufacturing. Revenue FY25/FY26: null — no audited accounts or official filings located. Per project rules, no rejection is applied: the entity's non-existence is NOT established, only that it could not be verified with the tools available. Recommended next step: manual lookup of the GSTIN on the GST portal (services.gst.gov.in taxpayer search) using the proprietor's name and state, and an MCA name search, before any verdict is issued."
+}

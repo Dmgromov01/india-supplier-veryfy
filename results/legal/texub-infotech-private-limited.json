@@ -1,0 +1,18 @@
+{
+ "name_input": "TEXUB INFOTECH PRIVATE LIMITED",
+ "legal_name": "TEXUB INFOTECH PRIVATE LIMITED (as claimed; unverified)",
+ "cin_llpin": null,
+ "pan": null,
+ "pan_holder_type": null,
+ "gstin": null,
+ "gst_status": null,
+ "incorporation_date": null,
+ "state_registered": null,
+ "state_claimed": "",
+ "mca_status": null,
+ "role": "unknown",
+ "revenue_fy25_cr": null,
+ "revenue_fy26_cr": null,
+ "revenue_source": null,
+ "note": "Registry data could not be verified. Tooling failed during this run: the web_search backend returned 'Connection refused' on every query, and all registry aggregators attempted returned HTTP 403/404 or unusable results (zaubacorp.com 403, thecompanycheck.com 403, instafinancials.com 404, tofler.in 404, mca.gov.in 403). Bing/Google HTML endpoints returned only unrelated results (truck listings, time zones), i.e. no hit for the exact string 'TEXUB INFOTECH PRIVATE LIMITED'. The only page reachable was texub.com, which is a JavaScript-only app shell with no legal-entity, CIN, GSTIN or financial disclosure in the served HTML, so it cannot be used as a source. Consequently CIN/LLPIN, PAN (and therefore PAN holder type from the 4th character), GSTIN, GST status, incorporation date, registered-office state and MCA status are all null - not public in anything I could retrieve, and I will not invent them. Revenue FY25/FY26 are null: no audited accounts or official filings were accessible. Role is 'unknown' - the claimed industry (IT/electronics, HS 844331/844399/847130/852852 - printers/MFPs, parts, laptops, monitors) is consistent with either a trader or an assembler, but nothing in the retrieved material establishes manufacturing vs trading, so no role is asserted. NOT rejected: per the rules, rejection requires proof of non-existence, strike-off, liquidation or bankruptcy, and I found no such evidence either way - absence of accessible records is not evidence of non-existence. Action needed: re-run with a working search backend or a paid registry source (MCA V3 master data, Tofler/Zauba subscription, GST portal search by trade name) to obtain CIN, PAN, GSTIN and FY25/FY26 filings before this company is entered into the base."
+}
